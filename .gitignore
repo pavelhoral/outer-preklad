@@ -1,0 +1,17 @@
+# Eclipse files
+/.project
+/.settings
+
+# VSCode files
+/.vscode
+
+# Node files
+/node_modules
+
+# Shadow (original data files)
+/shadow
+
+# Build (output) folder
+/build
+/.tmp
+

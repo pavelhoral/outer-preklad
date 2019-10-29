@@ -1,0 +1,7 @@
+* text eol=lf
+*.swf binary
+*.ttf binary
+*.png binary
+*.ico binary
+*.ini text eol=crlf
+*.srt text eol=crlf
