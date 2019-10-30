@@ -9,9 +9,45 @@ var fs = require('fs');
 class DataSource {
 
     /**
-     * Read the defined number of bytes as a buffer.
+     * Read the defined number of bytes as Buffer.
      */
     read(length) {
+    }
+
+    /**
+     * Read hex string.
+     */
+    readHex(length) {
+        return this.read(length).toString('hex').toUpperCase();
+    }
+
+    /**
+     * Read UInt64LE as BigInt.
+     */
+    readUInt64LE() {
+        let value = this.read(8).readBigUInt64LE();
+        return value < Number.MAX_SAFE_INTEGER ? Number(value) : value;
+    }
+
+    /**
+     * Read UInt32LE as Number.
+     */
+    readUInt32LE() {
+        return this.read(4).readUInt32LE();
+    }
+
+    /**
+     * Read UInt16LE as Number.
+     */
+    readUInt16LE() {
+        return this.read(2).readUInt16LE();
+    }
+
+    /**
+     * Read UInt8 as Number.
+     */
+    readUInt8() {
+        return this.read(1)[0];
     }
 
     /**
@@ -26,7 +62,14 @@ class DataSource {
     close() {
     }
 
+    /**
+     * Get reader's cursor position.
+     */
+    cursor() {
+    }
+
 }
+module.exports.DataSource = DataSource;
 
 /**
  * File based data source.
@@ -91,6 +134,10 @@ class FileSource extends DataSource {
             this.bufferOffset = 0;
             this.bufferLength = 0;
         }
+    }
+
+    cursor() {
+        return this.filePosition - this.bufferLength + this.bufferOffset;
     }
 
 }

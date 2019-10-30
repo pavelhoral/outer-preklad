@@ -1,134 +1,112 @@
 'use strict';
-var fs = require('fs'),
-    path = require('path');
+const fs = require('fs');
+const { FileSource } = require('./parse-source');
 
-class BufferReader {
-
-    constructor(buffer) {
-        this.buffer = buffer;
-        this.offset = 0;
-    }
-
-    readUInt32LE() {
-        let value = this.buffer.readUInt32LE(this.offset);
-        this.offset += 4;
-        return value;
-    }
-
-    readUInt64LE() {
-        let value = this.buffer.readUInt32LE(this.offset)
-                + (this.buffer.readUInt32LE(this.offset + 4) << 8);
-        this.offset += 8;
-        return value;
-    }
-
-    readBuffer(length) {
-        let value = this.buffer.slice(this.offset, this.offset + length);
-        this.offset += length;
-        return value;
-    }
-
-    skip(length) {
-        this.offset += length;
-    }
-
-    isEof() {
-        return this.buffer.length <= this.offset;
-    }
-
-}
-
-const OBJECT_CLOSE = Buffer.from('0E00000000000000', 'hex');
+const OBJECT_CLOSE = 0x0E;
 
 /**
  * Strings file parser.
  */
 class StringsParser {
 
-    constructor(buffer) {
-        this.reader = new BufferReader(buffer);
+    constructor(source) {
+        this.source = source;
     }
 
-    parse(handler) {
+    fail(message) {
+        throw new Error(`${message || 'Unexpected value'} at ${this.source.cursor()}`);
+    }
+
+    parse() {
         let result = {};
         // UEXP header
-        this.parseConstant(Buffer.from('1400000000000000', 'hex'));
-        this.parseConstant(Buffer.from('0C00000000000000', 'hex'));
-        result.size = this.reader.readUInt64LE();
-        this.parseConstant(Buffer.from('1500000000000000', 'hex'));
-        // Strings header
-        this.parseConstant(Buffer.from('16000000000000000000000000', 'hex'));
-        let count = this.reader.readUInt32LE();
+        0x14 === this.source.readUInt64LE() || this.fail();
+        0x0C === this.source.readUInt64LE() || this.fail();
+        result.size = this.source.readUInt64LE();
+        0x15 === this.source.readUInt64LE() || this.fail();
+        // Table header
+        0x16 === this.source.readUInt64LE() ||  this.fail();
+        '0000000000' === this.source.readHex(5) || this.fail();
+        // Table entries
+        let count = this.source.readUInt32LE();
         result.groups = [];
         while (result.groups.length < count) {
             result.groups.push(this.parseGroup());
         }
         // Footer
-        this.parseConstant(Buffer.from('08000000000000000B00000000000000', 'hex'));
-        this.parseConstant(Buffer.from('040000000000000000', 'hex'));
-        result.magic = this.reader.readUInt32LE();
-        this.parseConstant(Buffer.from('0E0000000000000000000000C1832A9E', 'hex'));
+        0x08 === this.source.readUInt64LE() || this.fail();
+        0x0B === this.source.readUInt64LE() || this.fail();
+        0x04 === this.source.readUInt64LE() || this.fail();
+        0x00 === this.source.readUInt8() || this.fail();
+        result.magic = this.source.readUInt32LE();
+        this.source.readUInt64LE() === OBJECT_CLOSE || this.fail();
+        // UEXP footer
+        0x00 === this.source.readUInt32LE() || this.fail();
+        'C1832A9E' === this.source.readHex(4) || this.fail();
         return result;
     }
 
     parseString() {
-        let length = this.reader.readUInt32LE();
+        let length = this.source.readUInt32LE();
         let wide = length > 0xFF000000;
-        let buffer = this.reader.readBuffer(wide ? (0xFFFFFFFF - length + 1) * 2 : length);
+        let buffer = this.source.read(wide ? (0xFFFFFFFF - length + 1) * 2 : length);
         return buffer.slice(0, wide ? -2 : -1).toString(wide ? 'UTF-16LE' : 'UTF-8');
-    }
-
-    parseConstant(check) {
-        let value = this.reader.readBuffer(check.length);
-        if (check.compare(value) !== 0) {
-            throw new Error(`Illegal sequence ${value.toString('hex')} at offset ${this.reader.offset}`);
-        }
     }
 
     parseGroup() {
         let group = {
-            _: this.reader.offset,
+            _: this.source.cursor(),
             id: this.parseString()
         };
-        this.parseConstant(Buffer.from('0D000000000000001500000000000000', 'hex'));
-        group.size = this.reader.readUInt64LE();
-        this.parseConstant(Buffer.from('00', 'hex'))
+        0x0D === this.source.readUInt64LE() || this.fail();
+        0x15 === this.source.readUInt64LE() || this.fail();
+        group.size = this.source.readUInt64LE();
+        0x00 === this.source.readUInt8() || this.fail();
         group.name = this.parseString();
-        this.parseConstant(Buffer.from('12000000000000001000000000000000', 'hex'));
-        group.unk1 = this.reader.readUInt64LE();
-        this.parseConstant(Buffer.from('0B000000000000000000000000', 'hex'));
+        0x12 === this.source.readUInt64LE() || this.fail();
+        0x10 === this.source.readUInt64LE() || this.fail();
+        group.unk1 = this.source.readUInt64LE();
+        0x0B === this.source.readUInt64LE() || this.fail();
+        '0000000000' === this.source.readHex(5) || this.fail();
         group.unk2 = this.parseUInt32Array();
-        this.parseConstant(Buffer.from('11000000000000000C00000000000000', 'hex'));
-        group.unk3 = this.reader.readUInt64LE();
-        this.parseConstant(Buffer.from('1500000000000000', 'hex'));
-        this.parseConstant(Buffer.from('16000000000000000000000000', 'hex'));
-        let unk4 = this.reader.readUInt32LE();
+        0x11 === this.source.readUInt64LE() || this.fail();
+        0x0C === this.source.readUInt64LE() || this.fail();
+        group.unk3 = this.source.readUInt64LE();
+        0x15 === this.source.readUInt64LE() || this.fail();
+        0x16 === this.source.readUInt64LE() || this.fail();
+        '0000000000' === this.source.readHex(5) || this.fail();
+        let unk4 = this.source.readUInt32LE();
         if (unk4 === 1) {
             group.unk4 = {
                 lang: this.parseString()
             };
-            this.parseConstant(Buffer.from('0A000000000000001000000000000000', 'hex'));
-            group.unk4.flags = this.reader.readUInt64LE();
-            this.parseConstant(Buffer.from('0B000000000000000000000000', 'hex'));
+            0x0A === this.source.readUInt64LE() || this.fail();
+            0x10 === this.source.readUInt64LE() || this.fail();
+            group.unk4.flags = this.source.readUInt64LE();
+            0x0B === this.source.readUInt64LE() || this.fail();
+            '0000000000' === this.source.readHex(5) || this.fail();
             group.unk4.values = this.parseUInt32Array();
-            this.parseConstant(OBJECT_CLOSE);
+            this.source.readUInt64LE() === OBJECT_CLOSE || this.fail();
         } else if (unk4 > 1) {
-            throw new Error(`Illegal flag value ${unk4} at offset ${this.reader.offset}`);
+            false, `Illegal flag value ${unk4}` || this.fail();
         }
-        this.parseConstant(Buffer.from('06000000000000000C00000000000000', 'hex'));
-        group.unk5 = this.reader.readUInt64LE();
-        this.parseConstant(Buffer.from('0B0000000000000016000000000000000000000000', 'hex'));
-        group.count = this.reader.readUInt32LE();
+        0x06 === this.source.readUInt64LE() || this.fail();
+        0x0C === this.source.readUInt64LE() || this.fail();
+        group.unk5 = this.source.readUInt64LE();
+        0x0B === this.source.readUInt64LE() || this.fail();
+        0x16 === this.source.readUInt64LE() || this.fail();
+        '0000000000' === this.source.readHex(5) || this.fail();
+        group.count = this.source.readUInt32LE();
         group.entries = this.parseEntries(group);
-        this.parseConstant(OBJECT_CLOSE);
+        this.source.readUInt64LE() === OBJECT_CLOSE || this.fail();
         return group;
     }
 
     parseUInt32Array() {
-        let count = this.reader.readUInt32LE();
+        let count = this.source.readUInt32LE();
         let values = []
         for (let i = 0; i < count; i++) {
-            values.push(this.reader.readUInt32LE());
+            values.push(this.source.readUInt32LE());
         }
         return values;
     }
@@ -143,30 +121,30 @@ class StringsParser {
 
     parseEntry() {
         let entry = {
-            id: this.reader.readUInt32LE()
+            id: this.source.readUInt32LE()
         };
-        this.parseConstant(Buffer.from('09000000000000000B00000000000000040000000000000000', 'hex'));
-        if (entry.id !== this.reader.readUInt32LE()) {
-            throw new Error(`String ID mismatch ${string.id}`);
-        }
-        this.parseConstant(Buffer.from('05000000000000001500000000000000', 'hex'));
-        this.reader.readUInt64LE(); // size
-        this.parseConstant(Buffer.from('00', 'hex'));
+        0x09 === this.source.readUInt64LE() || this.fail();
+        0x0B === this.source.readUInt64LE() || this.fail();
+        0x04 === this.source.readUInt64LE() || this.fail();
+        0x00 === this.source.readUInt8() || this.fail();
+        entry.id === this.source.readUInt32LE() || this.fail();
+        0x05 === this.source.readUInt64LE() || this.fail();
+        0x15 === this.source.readUInt64LE() || this.fail();
+        // default text
+        let size = this.source.readUInt64LE();
+        this.source.readUInt8() == 0x00 || this.fail();
         entry.string = this.parseString();
-        this.parseConstant(Buffer.from('07000000000000001500000000000000', 'hex'));
-        this.reader.readUInt64LE(); // size2
-        this.parseConstant(Buffer.from('00', 'hex'));
+        0x07 === this.source.readUInt64LE() || this.fail();
+        0x15 === this.source.readUInt64LE() || this.fail();
+        // female text
+        let size2 = this.source.readUInt64LE();
+        0x00 === this.source.readUInt8() || this.fail();;
         let string2 = this.parseString();
         if (string2) {
             entry.string2 = string2;
         }
-        this.parseConstant(OBJECT_CLOSE);
+        this.source.readUInt64LE() === OBJECT_CLOSE || this.fail();
         return entry;
-    }
-
-    // Parse something that seems like array or object end
-    parseClose() {
-        this.parseConstant(Buffer.from('0E00000000000000', 'hex'));
     }
 
 }
@@ -180,13 +158,8 @@ class StringsReader {
     constructor() {
     }
 
-    readBuffer(buffer) {
-        return new StringsParser(buffer).parse();
-    }
-
     readFile(filename) {
-        var buffer = fs.readFileSync(filename);
-        return this.readBuffer(buffer);
+        return new StringsParser(new FileSource(filename)).parse();
     }
 
 }
