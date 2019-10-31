@@ -17,7 +17,7 @@ ProgramOutput.prototype.init = function() {
     if (this.program.output) {
         this.stream = fs.createWriteStream(this.program.output, { flags: this.lenient ? 'w' : 'wx' });
     } else {
-        this.stream = process.stdout;
+        this.stream = process.stdout.on('error', () => null /* ignore */);
     }
 }
 

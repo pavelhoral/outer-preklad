@@ -24,16 +24,9 @@ class StringsParser {
         0x0C === this.source.readUInt64LE() || this.fail();
         result.size = this.source.readUInt64LE();
         0x15 === this.source.readUInt64LE() || this.fail();
-        // Table header
         0x16 === this.source.readUInt64LE() ||  this.fail();
         '0000000000' === this.source.readHex(5) || this.fail();
-        // Table entries
-        let count = this.source.readUInt32LE();
-        result.groups = [];
-        while (result.groups.length < count) {
-            result.groups.push(this.parseGroup());
-        }
-        // Footer
+        result.groups = this.parseArray(this.parseGroup);
         0x08 === this.source.readUInt64LE() || this.fail();
         0x0B === this.source.readUInt64LE() || this.fail();
         0x04 === this.source.readUInt64LE() || this.fail();
@@ -60,18 +53,19 @@ class StringsParser {
         };
         0x0D === this.source.readUInt64LE() || this.fail();
         0x15 === this.source.readUInt64LE() || this.fail();
-        group.size = this.source.readUInt64LE();
+        // size of name/id (UInt32:length ZString:value)
+        let size = this.source.readUInt64LE();
         0x00 === this.source.readUInt8() || this.fail();
         group.name = this.parseString();
         0x12 === this.source.readUInt64LE() || this.fail();
         0x10 === this.source.readUInt64LE() || this.fail();
-        group.unk1 = this.source.readUInt64LE();
+        group.unk1 = this.source.readUInt64LE(); // XXX sizeof(vars)
         0x0B === this.source.readUInt64LE() || this.fail();
         '0000000000' === this.source.readHex(5) || this.fail();
-        group.unk2 = this.parseUInt32Array();
+        group.vars = this.parseArray(() => this.source.readUInt32LE()); // String IDs for interpolation
         0x11 === this.source.readUInt64LE() || this.fail();
         0x0C === this.source.readUInt64LE() || this.fail();
-        group.unk3 = this.source.readUInt64LE();
+        group.unk3 = this.source.readUInt64LE(); // XXX sizeof(unk4)
         0x15 === this.source.readUInt64LE() || this.fail();
         0x16 === this.source.readUInt64LE() || this.fail();
         '0000000000' === this.source.readHex(5) || this.fail();
@@ -82,41 +76,32 @@ class StringsParser {
             };
             0x0A === this.source.readUInt64LE() || this.fail();
             0x10 === this.source.readUInt64LE() || this.fail();
-            group.unk4.flags = this.source.readUInt64LE();
+            group.unk4.size = this.source.readUInt64LE(); // XXX sizeof(values)
             0x0B === this.source.readUInt64LE() || this.fail();
             '0000000000' === this.source.readHex(5) || this.fail();
-            group.unk4.values = this.parseUInt32Array();
+            group.unk4.values = this.parseArray(() => this.source.readUInt32LE());
             this.source.readUInt64LE() === OBJECT_CLOSE || this.fail();
         } else if (unk4 > 1) {
             false, `Illegal flag value ${unk4}` || this.fail();
         }
         0x06 === this.source.readUInt64LE() || this.fail();
         0x0C === this.source.readUInt64LE() || this.fail();
-        group.unk5 = this.source.readUInt64LE();
+        group.unk5 = this.source.readUInt64LE(); // XXX sizeof(entries)
         0x0B === this.source.readUInt64LE() || this.fail();
         0x16 === this.source.readUInt64LE() || this.fail();
         '0000000000' === this.source.readHex(5) || this.fail();
-        group.count = this.source.readUInt32LE();
-        group.entries = this.parseEntries(group);
+        group.entries = this.parseArray(this.parseEntry);
         this.source.readUInt64LE() === OBJECT_CLOSE || this.fail();
         return group;
     }
 
-    parseUInt32Array() {
+    parseArray(parseElement) {
         let count = this.source.readUInt32LE();
         let values = []
         for (let i = 0; i < count; i++) {
-            values.push(this.source.readUInt32LE());
+            values.push(parseElement.call(this, i));
         }
         return values;
-    }
-
-    parseEntries(group) {
-        let entries = [];
-        for (let i = 0; i < group.count; i++) {
-            entries.push(this.parseEntry());
-        }
-        return entries;
     }
 
     parseEntry() {
@@ -130,13 +115,13 @@ class StringsParser {
         entry.id === this.source.readUInt32LE() || this.fail();
         0x05 === this.source.readUInt64LE() || this.fail();
         0x15 === this.source.readUInt64LE() || this.fail();
-        // default text
+        // size of default text (UInt32:length ZString:value)
         let size = this.source.readUInt64LE();
         this.source.readUInt8() == 0x00 || this.fail();
         entry.string = this.parseString();
         0x07 === this.source.readUInt64LE() || this.fail();
         0x15 === this.source.readUInt64LE() || this.fail();
-        // female text
+        // size of female text (UInt32:length ZString:value)
         let size2 = this.source.readUInt64LE();
         0x00 === this.source.readUInt8() || this.fail();;
         let string2 = this.parseString();
