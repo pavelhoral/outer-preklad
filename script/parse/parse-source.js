@@ -22,7 +22,7 @@ class DataSource {
     }
 
     /**
-     * Read UInt64LE as BigInt.
+     * Read UInt64LE as Number or BigInt if needed.
      */
     readUInt64LE() {
         let value = this.read(8).readBigUInt64LE();
@@ -34,6 +34,13 @@ class DataSource {
      */
     readUInt32LE() {
         return this.read(4).readUInt32LE();
+    }
+
+    /**
+     * Read Int32LE as Number.
+     */
+    readInt32LE() {
+        return this.read(4).readInt32LE();
     }
 
     /**

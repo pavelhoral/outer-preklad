@@ -32,7 +32,7 @@ class StringsParser {
         0x04 === this.source.readUInt64LE() || this.fail();
         0x00 === this.source.readUInt8() || this.fail();
         result.magic = this.source.readUInt32LE();
-        this.source.readUInt64LE() === OBJECT_CLOSE || this.fail();
+        OBJECT_CLOSE === this.source.readUInt64LE() || this.fail();
         // UEXP footer
         0x00 === this.source.readUInt32LE() || this.fail();
         'C1832A9E' === this.source.readHex(4) || this.fail();
@@ -40,17 +40,14 @@ class StringsParser {
     }
 
     parseString() {
-        let length = this.source.readUInt32LE();
-        let wide = length > 0xFF000000;
-        let buffer = this.source.read(wide ? (0xFFFFFFFF - length + 1) * 2 : length);
-        return buffer.slice(0, wide ? -2 : -1).toString(wide ? 'UTF-16LE' : 'UTF-8');
+        let length = this.source.readInt32LE();
+        let buffer = this.source.read(length < 0 ? Math.abs(length) * 2 : length);
+        return buffer.toString(length < 0 ? 'UTF-16LE' : 'UTF-8').slice(0, -1);
     }
 
     parseGroup() {
-        let group = {
-            _: this.source.cursor(),
-            id: this.parseString()
-        };
+        let group = { _: this.source.cursor() };
+        group.id = this.parseString();
         0x0D === this.source.readUInt64LE() || this.fail();
         0x15 === this.source.readUInt64LE() || this.fail();
         // size of name/id (UInt32:length ZString:value)
@@ -80,7 +77,7 @@ class StringsParser {
             0x0B === this.source.readUInt64LE() || this.fail();
             '0000000000' === this.source.readHex(5) || this.fail();
             group.unk4.values = this.parseArray(() => this.source.readUInt32LE());
-            this.source.readUInt64LE() === OBJECT_CLOSE || this.fail();
+            OBJECT_CLOSE === this.source.readUInt64LE() || this.fail();
         } else if (unk4 > 1) {
             false, `Illegal flag value ${unk4}` || this.fail();
         }
@@ -91,7 +88,7 @@ class StringsParser {
         0x16 === this.source.readUInt64LE() || this.fail();
         '0000000000' === this.source.readHex(5) || this.fail();
         group.entries = this.parseArray(this.parseEntry);
-        this.source.readUInt64LE() === OBJECT_CLOSE || this.fail();
+        OBJECT_CLOSE === this.source.readUInt64LE() || this.fail();
         return group;
     }
 
@@ -105,9 +102,8 @@ class StringsParser {
     }
 
     parseEntry() {
-        let entry = {
-            id: this.source.readUInt32LE()
-        };
+        let entry = {};
+        entry.id = this.source.readUInt32LE();
         0x09 === this.source.readUInt64LE() || this.fail();
         0x0B === this.source.readUInt64LE() || this.fail();
         0x04 === this.source.readUInt64LE() || this.fail();
@@ -117,7 +113,7 @@ class StringsParser {
         0x15 === this.source.readUInt64LE() || this.fail();
         // size of default text (UInt32:length ZString:value)
         let size = this.source.readUInt64LE();
-        this.source.readUInt8() == 0x00 || this.fail();
+        0x00 === this.source.readUInt8() || this.fail();
         entry.string = this.parseString();
         0x07 === this.source.readUInt64LE() || this.fail();
         0x15 === this.source.readUInt64LE() || this.fail();
@@ -128,7 +124,7 @@ class StringsParser {
         if (string2) {
             entry.string2 = string2;
         }
-        this.source.readUInt64LE() === OBJECT_CLOSE || this.fail();
+        OBJECT_CLOSE === this.source.readUInt64LE() || this.fail();
         return entry;
     }
 
