@@ -1,6 +1,4 @@
-'use strict';
-
-var fs = require('fs');
+const fs = require('fs');
 
 /**
  * Generic data source.
@@ -12,49 +10,6 @@ class DataSource {
      * Read the defined number of bytes as Buffer.
      */
     read(length) {
-    }
-
-    /**
-     * Read hex string.
-     */
-    readHex(length) {
-        return this.read(length).toString('hex').toUpperCase();
-    }
-
-    /**
-     * Read UInt64LE as Number or BigInt if needed.
-     */
-    readUInt64LE() {
-        let value = this.read(8).readBigUInt64LE();
-        return value < Number.MAX_SAFE_INTEGER ? Number(value) : value;
-    }
-
-    /**
-     * Read UInt32LE as Number.
-     */
-    readUInt32LE() {
-        return this.read(4).readUInt32LE();
-    }
-
-    /**
-     * Read Int32LE as Number.
-     */
-    readInt32LE() {
-        return this.read(4).readInt32LE();
-    }
-
-    /**
-     * Read UInt16LE as Number.
-     */
-    readUInt16LE() {
-        return this.read(2).readUInt16LE();
-    }
-
-    /**
-     * Read UInt8 as Number.
-     */
-    readUInt8() {
-        return this.read(1)[0];
     }
 
     /**
@@ -77,6 +32,36 @@ class DataSource {
 
 }
 module.exports.DataSource = DataSource;
+
+/**
+ * Windowed DataSource wrapper.
+ */
+class WindowSource extends DataSource {
+
+    constructor(source, size) {
+        super();
+        this.source = source;
+        this.size = size;
+    }
+
+    read(length) {
+        this.size -= length
+        if (this.size < 0) {
+            throw new Error('EOF');
+        }
+        return this.source.read(length);
+    }
+
+    skip(length) {
+        this.source.skip(length);
+    }
+
+    cursor() {
+        return this.source.cursor();
+    }
+
+}
+module.exports.WindowSource = WindowSource;
 
 /**
  * File based data source.
