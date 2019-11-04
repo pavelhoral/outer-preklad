@@ -8,6 +8,7 @@ class DataSource {
 
     /**
      * Read the defined number of bytes as Buffer.
+     * Can return data buffer shorter than the requested length due to EOF.
      */
     read(length) {
     }
@@ -53,7 +54,8 @@ class WindowSource extends DataSource {
     }
 
     skip(length) {
-        this.source.skip(length);
+        this.size -= length;
+        return this.source.skip(length);
     }
 
     cursor() {
@@ -70,6 +72,7 @@ class FileSource extends DataSource {
 
     constructor(path, bufferSize) {
         super();
+        this.fileSize = fs.statSync(path).size;
         this.fileDesc = fs.openSync(path, 'r');
         this.filePosition = 0;
         this.sourceBuffer = Buffer.alloc(bufferSize || 0x3fff);
@@ -112,6 +115,7 @@ class FileSource extends DataSource {
     }
 
     read(length) {
+        length = Math.min(length, this.fileSize - this.cursor());
         if (length > this.sourceBuffer.length) {
             return this.readFile(Buffer.alloc(length));
         } else {
@@ -120,12 +124,14 @@ class FileSource extends DataSource {
     }
 
     skip(length) {
+        length = Math.min(length, this.fileSize - this.cursor());
         this.bufferOffset += length;
         if (this.bufferOffset > this.bufferLength) {
             this.filePosition += this.bufferOffset - this.bufferLength;
             this.bufferOffset = 0;
             this.bufferLength = 0;
         }
+        return length;
     }
 
     cursor() {

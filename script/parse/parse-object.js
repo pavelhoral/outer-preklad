@@ -1,11 +1,7 @@
 const { WindowSource } = require('./parse-source');
 
-/**
- * Asset file signature.
- * https://github.com/EpicGames/UnrealEngine/blob/release/Engine/Source/Runtime/Core/Public/UObject/ObjectVersion.h
- */
+// https://github.com/EpicGames/UnrealEngine/blob/release/Engine/Source/Runtime/Core/Public/UObject/ObjectVersion.h
 const PACKAGE_FILE_TAG_SWAPPED = 'C1832A9E';
-module.exports.PACKAGE_MAGIC = PACKAGE_FILE_TAG_SWAPPED;
 
 class ObjectDecoder {
 
@@ -26,14 +22,18 @@ class ObjectDecoder {
         return new Type(tag);
     }
 
-    decodeBool(source) {
-        return source.read(1).readUInt8() !== 0;
+    decodeBool(source, legacy) {
+        return (legacy ? source.read(4).readUInt32LE() : source.read(1).readUInt8()) !== 0;
     }
 
     decodeString(source) {
         const length = source.read(4).readInt32LE();
         const buffer = source.read(length < 0 ? Math.abs(length) * 2 : length);
         return buffer.toString(length < 0 ? 'UTF-16LE' : 'ASCII').slice(0, -1);
+    }
+
+    decodeGuid(source) {
+        return source.read(16).toString('hex').toUpperCase();
     }
 
     decodeArray(source, next) {
@@ -53,7 +53,8 @@ class ObjectDecoder {
             return decoded;
         }
         decoded.Type = this.decodeName(source);
-        decoded.Size = source.read(8).readBigUInt64LE();
+        decoded.Size = source.read(4).readInt32LE();
+        decoded.ArrayIndex = source.read(4).readInt32LE();
         if (decoded.Type === 'SetProperty') {
             decoded.InnerType = this.decodeName(source);
         } else if (decoded.Type === 'MapProperty') {
@@ -61,7 +62,7 @@ class ObjectDecoder {
             decoded.ValueType = this.decodeName(source);
         }
         if (this.decodeBool(source)) {
-            decoded.PropertyGuid = source.read(16).toString('hex');
+            decoded.PropertyGuid = decodeGuid(source);
         }
         return decoded;
     }
