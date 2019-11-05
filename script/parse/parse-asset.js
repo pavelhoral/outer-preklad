@@ -1,5 +1,11 @@
-const { FileSource } = require('./parse-source');
-const { ObjectDecoder } = require('./parse-object');
+const { 
+    FileSource,
+    FileSink
+} = require('./parse-source');
+const { 
+    ObjectDecoder,
+    ObjectEncoder
+} = require('./parse-object');
 const {
     PackageFileSummary,
     FNameEntrySerialized,
@@ -8,16 +14,22 @@ const {
     StructProperty
 } = require('./parse-defs');
 
+// https://github.com/EpicGames/UnrealEngine/blob/release/Engine/Source/Runtime/Core/Public/UObject/ObjectVersion.h
+const PACKAGE_FILE_TAG_SWAPPED = 'C1832A9E';
+
 class AssetReader {
 
     constructor(types) {
         this.types = types;
     }
 
-    open(filename, seek) {
+    withFile(filename, task) {
         const source = new FileSource(filename);
-        source.skip(seek || 0);
-        return source;
+        try {
+            return task(source);
+        } finally {
+            source.close();
+        }
     }
 
     readAsset(filename) {
@@ -30,11 +42,20 @@ class AssetReader {
     }
 
     readHeader(filename) {
-        const summary = this.readSummary(this.open(filename, 0));
-        const names = this.readNames(this.open(filename, summary.NameOffset), summary);
+        const summary = this.withFile(filename, source => this.readSummary(source));
+        const names = this.withFile(filename, source => {
+            source.skip(summary.NameOffset);
+            return this.readNames(source, summary)
+        });
         const decoder = new ObjectDecoder(names, this.types);
-        const imports = this.readImports(this.open(filename, summary.ImportOffset), summary, decoder);
-        const exports = this.readExports(this.open(filename, summary.ExportOffset), summary, decoder);
+        const imports = this.withFile(filename, source => {
+            source.skip(summary.ImportOffset);
+            this.readImports(source, summary, decoder);
+        });
+        const exports = this.withFile(filename, source => {
+            source.skip(summary.ExportOffset);
+            return this.readExports(source, summary, decoder)
+        });
         return {
             PackageFileSummary: summary,
             NameMap: names,
@@ -49,8 +70,10 @@ class AssetReader {
         const decoder = new ObjectDecoder(header.NameMap, this.types);
         return header.ExportMap.map(object => {
             const offset = object.SerialOffset - BigInt(header.PackageFileSummary.TotalHeaderSize);
-            const source = this.open(filename.replace(/\.uasset$/, '.uexp'), offset);
-            return decoder.decodeValue(source, new StructProperty());
+            return this.withFile(filename.replace(/\.uasset$/, '.uexp'), source => {
+                source.skip(Number(offset));
+                return decoder.decodeValue(source, new StructProperty());
+            });
         });
     }
 
@@ -84,3 +107,40 @@ class AssetReader {
 
 }
 module.exports.AssetReader = AssetReader;
+
+
+class AssetWriter {
+
+    constructor(types) {
+        this.types = types;
+    }
+
+    withFile(filename, task) {
+        const sink = new FileSink(filename);
+        try {
+            return task(sink);
+        } finally {
+            sink.close();
+        }
+    }
+
+    writeObjects(filename, objects) {
+        return this.withFile(filename.replace(/\.uasset$/, '.uexp'), sink => {
+            const ExportMap = objects.map(object => {
+                const encoder = new ObjectEncoder(object.names, this.types);
+                const encoded = encoder.encodeValue(object.value, encoder.resolveType(object.schema));
+                return {
+                    SerialOffset: sink.cursor(),
+                    SerialSize: sink.write(encoded) + sink.write(Buffer.alloc(4))
+                }
+            });
+            sink.write(Buffer.from(PACKAGE_FILE_TAG_SWAPPED, 'hex'));
+            return {
+                ExportMap,
+                TotalSize: sink.cursor()
+            };
+        });
+    }
+
+}
+module.exports.AssetWriter = AssetWriter;

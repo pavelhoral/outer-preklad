@@ -1,10 +1,15 @@
 class Type {
 
-    constructor(tag) {
+    constructor(tag, schema) {
         this.tag = tag;
+        this.schema = schema; 
     }
 
     read(source, decoder) {
+        throw new Exception("Missing implementation.");
+    };
+
+    write(value, encoder) {
         throw new Exception("Missing implementation.");
     };
 
@@ -21,6 +26,10 @@ class StrProperty extends Type {
         return decoder.decodeString(source);
     }
 
+    write(value, encoder) {
+        return encoder.encodeString(value);
+    }
+
 }
 module.exports.StrProperty = StrProperty;
 
@@ -28,6 +37,12 @@ class IntProperty extends Type {
 
     read(source) {
         return source.read(4).readUInt32LE();
+    }
+
+    write(value) {
+        const buffer = Buffer.alloc(4);
+        buffer.writeUInt32LE(value);
+        return buffer;
     }
 
 }
@@ -42,6 +57,14 @@ class SetProperty extends Type {
             ElementsToRemove: decoder.decodeArray(source, () => decoder.decodeValue(source, innerType)),
             Elements: decoder.decodeArray(source, () => decoder.decodeValue(source, innerType))
         };
+    }
+
+    write(value, encoder) {
+        const innerType = encoder.resolveType(this.schema.InnerType);
+        return Buffer.concat([
+            encoder.encodeArray(value.ElementsToRemove || [], item => encoder.encodeValue(item, innerType)),
+            encoder.encodeArray(value.Elements || [], item => encoder.encodeValue(item, innerType)),
+        ]);
     }
 
 }
@@ -62,7 +85,20 @@ class MapProperty extends Type {
                 };
             })
         };
+    }
 
+    write(value, encoder) {
+        const innerType = encoder.resolveType(this.schema.InnerType);
+        const valueType = encoder.resolveType(this.schema.ValueType);
+        return Buffer.concat([
+            encoder.encodeArray(value.KeysToRemove || [], item => encoder.encodeValue(item, innerType)),
+            encoder.encodeArray(value.Entries || [], item => {
+                return Buffer.concat([
+                    encoder.encodeValue(item.Key, innerType),
+                    encoder.encodeValue(item.Value, valueType)
+                ]);
+            })
+        ]);
     }
 
 }
@@ -82,6 +118,15 @@ class StructProperty extends Type {
             result[tag.Name] = decoder.decodeValue(source, type);
         }
         return result;
+    }
+
+    write(value, encoder) {
+        const result = Object.keys(value).map(name => {
+            const propertyType = encoder.resolveType(this.schema.PropertyTypes[name]);
+            const propertyData = encoder.encodeValue(value[name], propertyType);
+            return Buffer.concat([encoder.encodeTag(name, propertyType.schema, propertyData.length), propertyData]);
+        });
+        return Buffer.concat([...result, encoder.encodeTag('None')]);
     }
 
 }
@@ -127,13 +172,13 @@ class PackageFileSummary extends Type {
         result.SavedByEngineVersion = this.readVersion(source, decoder);
         result.CompatibleWithEngineVersion = this.readVersion(source, decoder);
         result.CompressionFlags = source.read(4).readUInt32LE();
-        result.CompressedChunks = decoder.decodeArray(source, () => { 
-            throw new Error("Unsupported CompressedChunk value") 
+        result.CompressedChunks = decoder.decodeArray(source, () => {
+            throw new Error("Unsupported CompressedChunk value")
         });
         // XXX Value that is used to determine if the package was saved by Epic (or licensee) or by a modder, etc
         result.PackageSource = source.read(4).readUInt32LE();
-        result.AdditionalPackagesToCook = decoder.decodeArray(source, () => { 
-            throw new Error("Unsupported AdditionalPackagesToCook value") 
+        result.AdditionalPackagesToCook = decoder.decodeArray(source, () => {
+            throw new Error("Unsupported AdditionalPackagesToCook value")
         });
         result.AssetRegistryDataOffset = source.read(4).readInt32LE();
         result.BulkDataStartOffset = Number(source.read(8).readBigInt64LE());

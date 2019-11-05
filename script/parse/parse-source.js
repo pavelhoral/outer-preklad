@@ -140,3 +140,27 @@ class FileSource extends DataSource {
 
 }
 module.exports.FileSource = FileSource;
+
+
+class FileSink {
+
+    constructor(path) {
+        this.fileDesc = fs.openSync(path, 'w');
+        this.fileSize = 0;
+    }
+
+    close() {
+        fs.closeSync(this.fileDesc);
+    }
+
+    write(buffer) {
+        this.fileSize += buffer.length;
+        return fs.writeSync(this.fileDesc, buffer);
+    }
+
+    cursor() {
+        return this.fileSize;
+    }
+
+}
+module.exports.FileSink = FileSink;
