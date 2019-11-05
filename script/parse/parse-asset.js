@@ -1,6 +1,12 @@
 const { FileSource } = require('./parse-source');
 const { ObjectDecoder } = require('./parse-object');
-const { PackageFileSummary, FNameEntrySerialized, FObjectImport, FObjectExport } = require('./parse-defs');
+const {
+    PackageFileSummary,
+    FNameEntrySerialized,
+    FObjectImport,
+    FObjectExport,
+    StructProperty
+} = require('./parse-defs');
 
 class AssetReader {
 
@@ -12,6 +18,15 @@ class AssetReader {
         const source = new FileSource(filename);
         source.skip(seek || 0);
         return source;
+    }
+
+    readAsset(filename) {
+        const header = this.readHeader(filename);
+        const objects = this.readObjects(filename, header);
+        return {
+            Header: header,
+            Objects: objects
+        };
     }
 
     readHeader(filename) {
@@ -28,6 +43,15 @@ class AssetReader {
             // DependsOffset
             // PreloadDependencyOffset
         };
+    }
+
+    readObjects(filename, header) {
+        const decoder = new ObjectDecoder(header.NameMap, this.types);
+        return header.ExportMap.map(object => {
+            const offset = object.SerialOffset - BigInt(header.PackageFileSummary.TotalHeaderSize);
+            const source = this.open(filename.replace(/\.uasset$/, '.uexp'), offset);
+            return decoder.decodeValue(source, new StructProperty());
+        });
     }
 
     readSummary(source) {

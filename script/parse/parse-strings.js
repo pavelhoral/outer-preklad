@@ -13,8 +13,8 @@ BigInt.prototype.toJSON = function() {
  */
 class StringsReader {
 
-    readFile(filename) { 
-        return new AssetReader(TYPES).readHeader(filename);
+    readFile(filename) {
+        return new AssetReader(TYPES).readAsset(filename);
     }
 
 }
