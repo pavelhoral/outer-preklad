@@ -1,0 +1,189 @@
+#: conversations/04_monarch/0401/0401_cv_vendor_msi:1
+msgctxt "conversations/04_monarch/0401/0401_cv_vendor_msi:1:DefaultText"
+msgid "What are you doing?! Kill them!"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_vendor_msi:2
+msgctxt "conversations/04_monarch/0401/0401_cv_vendor_msi:2:DefaultText"
+msgid "Whew. They were coming real close to eating me. I'm Lenora."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_vendor_msi:3
+msgctxt "conversations/04_monarch/0401/0401_cv_vendor_msi:3:DefaultText"
+msgid "I'll see you on the road sometime!"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_vendor_msi:4
+msgctxt "conversations/04_monarch/0401/0401_cv_vendor_msi:4:DefaultText"
+msgid "Aw, hey there! Thanks again for getting me away from those marauders!"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_vendor_msi:5
+msgctxt "conversations/04_monarch/0401/0401_cv_vendor_msi:5:DefaultText"
+msgid "Hello again!"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_vendor_msi:6
+msgctxt "conversations/04_monarch/0401/0401_cv_vendor_msi:6:DefaultText"
+msgid "I'm hunting."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_vendor_msi:7
+msgctxt "conversations/04_monarch/0401/0401_cv_vendor_msi:7:DefaultText"
+msgid "I'm looking for people to save, of course!"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_vendor_msi:8
+msgctxt "conversations/04_monarch/0401/0401_cv_vendor_msi:8:DefaultText"
+msgid "Just exploring."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_vendor_msi:9
+msgctxt "conversations/04_monarch/0401/0401_cv_vendor_msi:9:DefaultText"
+msgid "Oh. That's... ominous. Well, at least you didn't accidentally shoot me! Whew."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_vendor_msi:12
+msgctxt "conversations/04_monarch/0401/0401_cv_vendor_msi:12:DefaultText"
+msgid "Oh! Last time I was in the city, Sanjar was singing your praises about a bolt something or other. Suppose that warrants a discount!"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_vendor_msi:16
+msgctxt "conversations/04_monarch/0401/0401_cv_vendor_msi:16:DefaultText"
+msgid "Sure, let's see what you've got."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_vendor_msi:17
+msgctxt "conversations/04_monarch/0401/0401_cv_vendor_msi:17:DefaultText"
+msgid "I'm surprised you're so chipper about working out here."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_vendor_msi:18
+msgctxt "conversations/04_monarch/0401/0401_cv_vendor_msi:18:DefaultText"
+msgid "So... are you an independent merchant? Or..."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_vendor_msi:19
+msgctxt "conversations/04_monarch/0401/0401_cv_vendor_msi:19:DefaultText"
+msgid "Not right now. See you."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_vendor_msi:20
+msgctxt "conversations/04_monarch/0401/0401_cv_vendor_msi:20:DefaultText"
+msgid "Oh. Uh. Well, okay! I can appreciate an adventurous spirit!"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_vendor_msi:25
+msgctxt "conversations/04_monarch/0401/0401_cv_vendor_msi:25:DefaultText"
+msgid "You never did tell me how you got captured."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_vendor_msi:26
+msgctxt "conversations/04_monarch/0401/0401_cv_vendor_msi:26:DefaultText"
+msgid "Oh, it's nothing out of the ordinary, really. I was on my way to Fallbrook and got jumped by insane, bloodthirsty cannibals. It happens."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_vendor_msi:27
+msgctxt "conversations/04_monarch/0401/0401_cv_vendor_msi:27:DefaultText"
+msgid "Thank the Architect. They were going to eat me!"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_vendor_msi:28
+msgctxt "conversations/04_monarch/0401/0401_cv_vendor_msi:28:DefaultText"
+msgid "I- I've gotta go."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_vendor_msi:29
+msgctxt "conversations/04_monarch/0401/0401_cv_vendor_msi:29:DefaultText"
+msgid "Oh, no. Not here, not now! You've caused enough trouble. Go away!"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_vendor_msi:30
+msgctxt "conversations/04_monarch/0401/0401_cv_vendor_msi:30:DefaultText"
+msgid "Go away!"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_vendor_msi:31
+msgctxt "conversations/04_monarch/0401/0401_cv_vendor_msi:31:DefaultText"
+msgid "Wait, I know you. We're always talking about how nervous we are in Stellar Bay every time you're in town. Great. Out of the frying pan and into a sulfur pool."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_vendor_msi:32
+msgctxt "conversations/04_monarch/0401/0401_cv_vendor_msi:32:DefaultText"
+msgid "I'm not going to do anything to you."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_vendor_msi:33
+msgctxt "conversations/04_monarch/0401/0401_cv_vendor_msi:33:DefaultText"
+msgid "Uh, wow. You're welcome."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_vendor_msi:34
+msgctxt "conversations/04_monarch/0401/0401_cv_vendor_msi:34:DefaultText"
+msgid "Yeah, don't you dare! Else I'd have to report you to Sanjar. Unless you killed me. That'd keep me quiet. Oh, shit! Don't kill me!"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_vendor_msi:35
+msgctxt "conversations/04_monarch/0401/0401_cv_vendor_msi:35:DefaultText"
+msgid "Yeah, yeah. I don't have anything on me, all right? Don't go getting any funny ideas."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_vendor_msi:36
+msgctxt "conversations/04_monarch/0401/0401_cv_vendor_msi:36:DefaultText"
+msgid "Hey, now, there's no need for that. I just want to buy something."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_vendor_msi:38
+msgctxt "conversations/04_monarch/0401/0401_cv_vendor_msi:38:DefaultText"
+msgid "Too bad! You're an enemy of my employer and that means I'm not selling!"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_vendor_msi:39
+msgctxt "conversations/04_monarch/0401/0401_cv_vendor_msi:39:DefaultText"
+msgid "I should've just left you tied up."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_vendor_msi:41
+msgctxt "conversations/04_monarch/0401/0401_cv_vendor_msi:41:DefaultText"
+msgid "Hey, life's too short to be worried about danger this and careful that. I'd rather just do my job and try and enjoy it."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_vendor_msi:42
+msgctxt "conversations/04_monarch/0401/0401_cv_vendor_msi:42:DefaultText"
+msgid "No, no. Don't be absurd. I'm based out of Stellar Bay, but I cater to our more, umm... trail-blazing clientele!"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_vendor_msi:43
+msgctxt "conversations/04_monarch/0401/0401_cv_vendor_msi:43:DefaultText"
+msgid "Help! Help me, please!"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_vendor_msi:44
+msgctxt "conversations/04_monarch/0401/0401_cv_vendor_msi:44:DefaultText"
+msgid "Look, I'll just be on my way. No need for anything to happen to little old me."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_vendor_msi:46
+msgctxt "conversations/04_monarch/0401/0401_cv_vendor_msi:46:DefaultText"
+msgid "Fine."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_vendor_msi:47
+msgctxt "conversations/04_monarch/0401/0401_cv_vendor_msi:47:DefaultText"
+msgid "You, uh... what are you doing out here? Not that I'm complaining, but I figure only marauders and animals roam around."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_vendor_msi:48
+msgctxt "conversations/04_monarch/0401/0401_cv_vendor_msi:48:DefaultText"
+msgid "Well, shit! Today's your lucky day, I guess."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_vendor_msi:49
+msgctxt "conversations/04_monarch/0401/0401_cv_vendor_msi:49:DefaultText"
+msgid "Thanks for the help! I've got to pick up some things from the Bay, but I run a little stand near Fallbrook. Next time you need supplies, stop by, you hear?"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_vendor_msi:50
+msgctxt "conversations/04_monarch/0401/0401_cv_vendor_msi:50:DefaultText"
+msgid "You want to buy something?"
+msgstr ""

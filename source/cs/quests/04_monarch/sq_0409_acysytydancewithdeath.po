@@ -1,0 +1,39 @@
+#: quests/04_monarch/sq_0409_acysytydancewithdeath:0
+msgctxt "quests/04_monarch/sq_0409_acysytydancewithdeath:0:DefaultText"
+msgid "A Cysty-Dance with Death "
+msgstr ""
+
+#: quests/04_monarch/sq_0409_acysytydancewithdeath:1
+msgctxt "quests/04_monarch/sq_0409_acysytydancewithdeath:1:DefaultText"
+msgid "Kill Catherine"
+msgstr ""
+
+#: quests/04_monarch/sq_0409_acysytydancewithdeath:4
+msgctxt "quests/04_monarch/sq_0409_acysytydancewithdeath:4:DefaultText"
+msgid "Return to Clive"
+msgstr ""
+
+#: quests/04_monarch/sq_0409_acysytydancewithdeath:10000
+msgctxt "quests/04_monarch/sq_0409_acysytydancewithdeath:10000:DefaultText"
+msgid "Clive Lumbergh, owner of the C&P Factory, has made a counter offer to the price SubLight's Catherine Malin put on his life. If you betray her, he'll reward you."
+msgstr ""
+
+#: quests/04_monarch/sq_0409_acysytydancewithdeath:10001
+msgctxt "quests/04_monarch/sq_0409_acysytydancewithdeath:10001:DefaultText"
+msgid "Return to Fallbrook and kill Catherine Malin for Clive."
+msgstr ""
+
+#: quests/04_monarch/sq_0409_acysytydancewithdeath:10004
+msgctxt "quests/04_monarch/sq_0409_acysytydancewithdeath:10004:DefaultText"
+msgid "Deliver proof of Catherine's death to Clive Lumbergh in his office in the C&P Factory."
+msgstr ""
+
+#: quests/04_monarch/sq_0409_acysytydancewithdeath:30000
+msgctxt "quests/04_monarch/sq_0409_acysytydancewithdeath:30000:DefaultText"
+msgid "You killed Catherine, and were rewarded by Clive for your treachery."
+msgstr ""
+
+#: quests/04_monarch/sq_0409_acysytydancewithdeath:30001
+msgctxt "quests/04_monarch/sq_0409_acysytydancewithdeath:30001:DefaultText"
+msgid "The conflict between Clive and Catherine has been resolved by other means."
+msgstr ""

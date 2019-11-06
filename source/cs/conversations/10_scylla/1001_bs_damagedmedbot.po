@@ -1,0 +1,29 @@
+#: conversations/10_scylla/1001_bs_damagedmedbot:2
+msgctxt "conversations/10_scylla/1001_bs_damagedmedbot:2:DefaultText"
+msgid "Life signs abnormal. Administering stimulant."
+msgstr ""
+
+#: conversations/10_scylla/1001_bs_damagedmedbot:3
+msgctxt "conversations/10_scylla/1001_bs_damagedmedbot:3:DefaultText"
+msgid "Point to where it hurts."
+msgstr ""
+
+#: conversations/10_scylla/1001_bs_damagedmedbot:4
+msgctxt "conversations/10_scylla/1001_bs_damagedmedbot:4:DefaultText"
+msgid "Your latest physical exam is overdue. "
+msgstr ""
+
+#: conversations/10_scylla/1001_bs_damagedmedbot:5
+msgctxt "conversations/10_scylla/1001_bs_damagedmedbot:5:DefaultText"
+msgid "Someone has been keeping up with the exercise."
+msgstr ""
+
+#: conversations/10_scylla/1001_bs_damagedmedbot:6
+msgctxt "conversations/10_scylla/1001_bs_damagedmedbot:6:DefaultText"
+msgid "Detecting above average calcium levels."
+msgstr ""
+
+#: conversations/10_scylla/1001_bs_damagedmedbot:7
+msgctxt "conversations/10_scylla/1001_bs_damagedmedbot:7:DefaultText"
+msgid "You will be feeling better soon."
+msgstr ""

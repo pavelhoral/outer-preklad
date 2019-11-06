@@ -1,0 +1,203 @@
+#: quests/03_playership/msq_0301_weaponsfromthevoid:0
+msgctxt "quests/03_playership/msq_0301_weaponsfromthevoid:0:DefaultText"
+msgid "Weapons From the Void"
+msgstr ""
+
+#: quests/03_playership/msq_0301_weaponsfromthevoid:1
+msgctxt "quests/03_playership/msq_0301_weaponsfromthevoid:1:DefaultText"
+msgid "Acquire Phineas' Science Weapon"
+msgstr ""
+
+#: quests/03_playership/msq_0301_weaponsfromthevoid:3
+msgctxt "quests/03_playership/msq_0301_weaponsfromthevoid:3:DefaultText"
+msgid "Search Hawthorne's Terminal for Clues"
+msgstr ""
+
+#: quests/03_playership/msq_0301_weaponsfromthevoid:5
+msgctxt "quests/03_playership/msq_0301_weaponsfromthevoid:5:DefaultText"
+msgid "Acquire the Science Weapon on Groundbreaker"
+msgstr ""
+
+#: quests/03_playership/msq_0301_weaponsfromthevoid:7
+msgctxt "quests/03_playership/msq_0301_weaponsfromthevoid:7:DefaultText"
+msgid "Acquire the Science Weapon on Scylla"
+msgstr ""
+
+#: quests/03_playership/msq_0301_weaponsfromthevoid:9
+msgctxt "quests/03_playership/msq_0301_weaponsfromthevoid:9:DefaultText"
+msgid "Acquire the Science Weapon on Monarch"
+msgstr ""
+
+#: quests/03_playership/msq_0301_weaponsfromthevoid:11
+msgctxt "quests/03_playership/msq_0301_weaponsfromthevoid:11:DefaultText"
+msgid "Acquire the Science Weapon in the Abandoned Lab"
+msgstr ""
+
+#: quests/03_playership/msq_0301_weaponsfromthevoid:13
+msgctxt "quests/03_playership/msq_0301_weaponsfromthevoid:13:DefaultText"
+msgid "Search for Clues"
+msgstr ""
+
+#: quests/03_playership/msq_0301_weaponsfromthevoid:16
+msgctxt "quests/03_playership/msq_0301_weaponsfromthevoid:16:DefaultText"
+msgid "Review the Hephaestus Mining Archive on Hawthorne's Terminal"
+msgstr ""
+
+#: quests/03_playership/msq_0301_weaponsfromthevoid:20
+msgctxt "quests/03_playership/msq_0301_weaponsfromthevoid:20:DefaultText"
+msgid "Search Halcyon Colony for Science Weapons"
+msgstr ""
+
+#: quests/03_playership/msq_0301_weaponsfromthevoid:10000
+msgctxt "quests/03_playership/msq_0301_weaponsfromthevoid:10000:DefaultText"
+msgid "Logs found in the captain's terminal on the Unreliable mention finding a powerful weapon. Perhaps the Halcyon colony contains other weapons which, like this one, push the boundaries of what science can achieve. It would be worthwhile to seek out these devices - these science weapons."
+msgstr ""
+
+#: quests/03_playership/msq_0301_weaponsfromthevoid:10001
+msgctxt "quests/03_playership/msq_0301_weaponsfromthevoid:10001:DefaultText"
+msgid "The logs on Hawthorne's terminal indicated that Phineas has a powerful weapon at his orbital lab."
+msgstr ""
+
+#: quests/03_playership/msq_0301_weaponsfromthevoid:10003
+msgctxt "quests/03_playership/msq_0301_weaponsfromthevoid:10003:DefaultText"
+msgid "If Hawthorne left behind any clues about where more science weapons could be found, they'd be in the logs on the captain's terminal of the Unreliable."
+msgstr ""
+
+#: quests/03_playership/msq_0301_weaponsfromthevoid:10005
+msgctxt "quests/03_playership/msq_0301_weaponsfromthevoid:10005:DefaultText"
+msgid "The logs on Hawthorne's terminal mentioned rumors from the Groundbreaker of a scientist who bragged about a powerful weapon he was researching. Perhaps more details can be found on the station."
+msgstr ""
+
+#: quests/03_playership/msq_0301_weaponsfromthevoid:10007
+msgctxt "quests/03_playership/msq_0301_weaponsfromthevoid:10007:DefaultText"
+msgid "After reviewing the data archive from the Hephaestus Mining outpost on Scylla, you learned that a powerful weapon was used to kill one of the miners. Search the outpost for the weapon."
+msgstr ""
+
+#: quests/03_playership/msq_0301_weaponsfromthevoid:10009
+msgctxt "quests/03_playership/msq_0301_weaponsfromthevoid:10009:DefaultText"
+msgid "A UDL datapad \"liberated\" from a corporate patrol mentions a research facility in the wilderness. Search the facility to see if it contains a science weapon."
+msgstr ""
+
+#: quests/03_playership/msq_0301_weaponsfromthevoid:10011
+msgctxt "quests/03_playership/msq_0301_weaponsfromthevoid:10011:DefaultText"
+msgid "Duncan in Fallbrook sold you a datapad used by one of the team that scouted the abandoned lab in Cascadia. The unfortunate contractor didn't survive, but one of his entries mentioned \"going back for the weapon.\""
+msgstr ""
+
+#: quests/03_playership/msq_0301_weaponsfromthevoid:10013
+msgctxt "quests/03_playership/msq_0301_weaponsfromthevoid:10013:DefaultText"
+msgid "Hawthorne's terminal mentioned searching black market vendors on Groundbreaker and Fallbrook. Apparently he had success in the past finding rare items using such sources. Purchasing old logs or data archives from these vendors might lead to clues about where to find more of the powerful science weapons."
+msgstr ""
+
+#: quests/03_playership/msq_0301_weaponsfromthevoid:10016
+msgctxt "quests/03_playership/msq_0301_weaponsfromthevoid:10016:DefaultText"
+msgid "A data cartridge acquired from Gladys on Groundbreaker may have clues to another science weapon's location. Use the captain's terminal on the Unreliable to review the data archive."
+msgstr ""
+
+#: quests/03_playership/msq_0301_weaponsfromthevoid:10020
+msgctxt "quests/03_playership/msq_0301_weaponsfromthevoid:10020:DefaultText"
+msgid "You are unable to acquire any further clues to a science weapon's location. You'll need to look for the remaining science weapons on your own.\r\n"
+"\r\n"
+"(<oeiglobal>03_n_SciWeapons_Current</oeiglobal>/<oeiglobal>03_n_SciWeapons_Max</oeiglobal>) Science Weapons Found"
+msgstr ""
+
+#: quests/03_playership/msq_0301_weaponsfromthevoid:20000
+msgctxt "quests/03_playership/msq_0301_weaponsfromthevoid:20000:DefaultText"
+msgid "An old Mardet datapad acquired from Gladys mentions a scientist who went mad and locked himself into an old repair bay on Groundbreaker. Reports state he raved about \"the weapon's chaotic beauty.\""
+msgstr ""
+
+#: quests/03_playership/msq_0301_weaponsfromthevoid:20001
+msgctxt "quests/03_playership/msq_0301_weaponsfromthevoid:20001:DefaultText"
+msgid "Lilya Hagen hired you to retrieve a supply of Alta-Vitae gas from an abandoned lab on Monarch. Search for the weapon while you're there."
+msgstr ""
+
+#: quests/03_playership/msq_0301_weaponsfromthevoid:20002
+msgctxt "quests/03_playership/msq_0301_weaponsfromthevoid:20002:DefaultText"
+msgid "Hawthorne's terminal mentioned searching black market vendors on Groundbreaker and Fallbrook. Apparently he had success in the past finding rare items using such sources. Purchasing old logs or data archives from these vendors might lead to clues about where to find more of the powerful science weapons."
+msgstr ""
+
+#: quests/03_playership/msq_0301_weaponsfromthevoid:20003
+msgctxt "quests/03_playership/msq_0301_weaponsfromthevoid:20003:DefaultText"
+msgid "Another of Hawthorne's logs mentioned looking in Gladys's shop for old records. Apparently the smuggler acquired several leads that way."
+msgstr ""
+
+#: quests/03_playership/msq_0301_weaponsfromthevoid:20004
+msgctxt "quests/03_playership/msq_0301_weaponsfromthevoid:20004:DefaultText"
+msgid "Gladys on Groundbreaker is dead and unable to sell you anything that might lead to a science weapon's location."
+msgstr ""
+
+#: quests/03_playership/msq_0301_weaponsfromthevoid:20005
+msgctxt "quests/03_playership/msq_0301_weaponsfromthevoid:20005:DefaultText"
+msgid "Duncan in Fallbrook is dead and unable to sell you anything that might lead to a science weapon's location."
+msgstr ""
+
+#: quests/03_playership/msq_0301_weaponsfromthevoid:30000
+msgctxt "quests/03_playership/msq_0301_weaponsfromthevoid:30000:DefaultText"
+msgid "You have found all of the Science Weapons in the Halcyon Colony."
+msgstr ""
+
+#: quests/03_playership/msq_0301_weaponsfromthevoid:30001
+msgctxt "quests/03_playership/msq_0301_weaponsfromthevoid:30001:DefaultText"
+msgid "After traveling to Tartarus, you are unable to collect the remaining Science Weapons in Halcyon."
+msgstr ""
+
+#: quests/03_playership/msq_0301_weaponsfromthevoid:40001
+msgctxt "quests/03_playership/msq_0301_weaponsfromthevoid:40001:DefaultText"
+msgid "While exploring Phineas' orbital lab you acquired a powerful gun created by the scientist himself - the Shrink Ray. Perhaps the Halcyon colony contains other weapons which, like this one, push the boundaries of what science can achieve. It would be worthwhile to seek out these devices - these science weapons.\n"
+"\n"
+"Alex Hawthorne was an accomplished smuggler and scavenger. It's possible that he encountered rumors of weapons like this on his travels through the colony."
+msgstr ""
+
+#: quests/03_playership/msq_0301_weaponsfromthevoid:40002
+msgctxt "quests/03_playership/msq_0301_weaponsfromthevoid:40002:DefaultText"
+msgid "While exploring the hidden compartments of Groundbreaker, you acquired the Prismatic Hammer - a lost Hammersmith prototype. Perhaps the Halcyon colony contains other weapons which, like this one, push the boundaries of what science can achieve. It would be worthwhile to seek out these devices - these science weapons.\n"
+"\n"
+"Alex Hawthorne was an accomplished smuggler and scavenger. It's possible that he encountered rumors of weapons like this on his travels through the colony."
+msgstr ""
+
+#: quests/03_playership/msq_0301_weaponsfromthevoid:40003
+msgctxt "quests/03_playership/msq_0301_weaponsfromthevoid:40003:DefaultText"
+msgid "While exploring an abandoned mining outpost on the asteroid Scylla, you found a powerful new weapon - the Mandibular Rearranger. Perhaps the Halcyon colony contains other weapons which, like this one, push the boundaries of what science can achieve. It would be worthwhile to seek out these devices - these science weapons.\n"
+"\n"
+"Alex Hawthorne was an accomplished smuggler and scavenger. It's possible that he encountered rumors of weapons like this on his travels through the colony."
+msgstr ""
+
+#: quests/03_playership/msq_0301_weaponsfromthevoid:40004
+msgctxt "quests/03_playership/msq_0301_weaponsfromthevoid:40004:DefaultText"
+msgid "While exploring a UDL research facility in the wilds of Monarch, you discovered a powerful weapon - the Gloop Gun.\n"
+"Perhaps the Halcyon colony contains other weapons which, like this one, push the boundaries of what science can achieve. It would be worthwhile to seek out these devices - these science weapons.\n"
+"\n"
+"Alex Hawthorne was an accomplished smuggler and scavenger. It's possible that he encountered rumors of weapons like this on his travels through the colony."
+msgstr ""
+
+#: quests/03_playership/msq_0301_weaponsfromthevoid:40005
+msgctxt "quests/03_playership/msq_0301_weaponsfromthevoid:40005:DefaultText"
+msgid "While exploring an abandoned Rizzo laboratory beneath Cascadia, you found a powerful weapon - the Mind Control Ray.\n"
+"Perhaps the Halcyon colony contains other weapons which, like this one, push the boundaries of what science can achieve. It would be worthwhile to seek out these devices - these science weapons.\n"
+"\n"
+"Alex Hawthorne was an accomplished smuggler and scavenger. It's possible that he encountered rumors of weapons like this on his travels through the colony."
+msgstr ""
+
+#: quests/03_playership/msq_0301_weaponsfromthevoid:40007
+msgctxt "quests/03_playership/msq_0301_weaponsfromthevoid:40007:DefaultText"
+msgid "Perhaps the Halcyon colony contains other weapons which, like this one, push the boundaries of what science can achieve. It would be worthwhile to seek out these devices - these science weapons."
+msgstr ""
+
+#: quests/03_playership/msq_0301_weaponsfromthevoid:40008
+msgctxt "quests/03_playership/msq_0301_weaponsfromthevoid:40008:DefaultText"
+msgid "An old Mardet datapad acquired from Gladys mentions a scientist who went mad and locked himself into an old repair bay on Groundbreaker. Reports state he raved about \"the weapon's chaotic beauty.\""
+msgstr ""
+
+#: quests/03_playership/msq_0301_weaponsfromthevoid:40009
+msgctxt "quests/03_playership/msq_0301_weaponsfromthevoid:40009:DefaultText"
+msgid "You acquired the datapad of an unfortunate SubLight contractor. He was hired to scout an abandoned laboratory and mentions seeing a powerful weapon inside that he wanted to return for. While the datapad doesn't reveal the location of the lab, it mentions that Lilya Hagen will \"send a team.\" SubLight's boss may be able to point you in the right direction."
+msgstr ""
+
+#: quests/03_playership/msq_0301_weaponsfromthevoid:40010
+msgctxt "quests/03_playership/msq_0301_weaponsfromthevoid:40010:DefaultText"
+msgid "If Hawthorne left behind any clues about where more science weapons could be found, they'd be in the logs on the captain's terminal of the Unreliable."
+msgstr ""
+
+#: quests/03_playership/msq_0301_weaponsfromthevoid:40012
+msgctxt "quests/03_playership/msq_0301_weaponsfromthevoid:40012:DefaultText"
+msgid "Alex Hawthorne was an accomplished smuggler and scavenger. It's possible that he encountered rumors of weapons like this on his travels through the colony."
+msgstr ""

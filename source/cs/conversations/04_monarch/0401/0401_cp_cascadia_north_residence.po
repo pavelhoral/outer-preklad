@@ -1,0 +1,106 @@
+#: conversations/04_monarch/0401/0401_cp_cascadia_north_residence:1
+msgctxt "conversations/04_monarch/0401/0401_cp_cascadia_north_residence:1:DefaultText"
+msgid "Rizzo, Inc. Personal Equipment\r\n"
+"======================\r\n"
+"This terminal is the sole property of [BLACKWOOD, Z]. Access by any person other than [BLACKWOOD, Z] is unauthorized. Consult your Rizzo employee handbook for the fines corresponding to the unauthorized access of personal-use terminals."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_cascadia_north_residence:3
+msgctxt "conversations/04_monarch/0401/0401_cp_cascadia_north_residence:3:DefaultText"
+msgid "[Access Journal Entries]"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_cascadia_north_residence:4
+msgctxt "conversations/04_monarch/0401/0401_cp_cascadia_north_residence:4:DefaultText"
+msgid "[Exit]"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_cascadia_north_residence:6
+msgctxt "conversations/04_monarch/0401/0401_cp_cascadia_north_residence:6:DefaultText"
+msgid "Error: Centralized storage offline. The latest four entries are available below."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_cascadia_north_residence:7
+msgctxt "conversations/04_monarch/0401/0401_cp_cascadia_north_residence:7:DefaultText"
+msgid "[April 27th, 2343]"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_cascadia_north_residence:8
+msgctxt "conversations/04_monarch/0401/0401_cp_cascadia_north_residence:8:DefaultText"
+msgid "[April 28th, 2343]"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_cascadia_north_residence:9
+msgctxt "conversations/04_monarch/0401/0401_cp_cascadia_north_residence:9:DefaultText"
+msgid "[May 4th, 2343]"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_cascadia_north_residence:11
+msgctxt "conversations/04_monarch/0401/0401_cp_cascadia_north_residence:11:DefaultText"
+msgid "Something stinks about these evac prep procedures. I know the pteros were expensive, but shipping them out of here isn't going to be easy. Even the hunters are recommending we let 'em loose outside the gates.\r\n"
+"\r\n"
+"I don't get why we're taking them with us, anyway. Someone up the chain must really believe in the project."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_cascadia_north_residence:12
+msgctxt "conversations/04_monarch/0401/0401_cp_cascadia_north_residence:12:DefaultText"
+msgid "[Return to Root]"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_cascadia_north_residence:14
+msgctxt "conversations/04_monarch/0401/0401_cp_cascadia_north_residence:14:DefaultText"
+msgid "I'm copying my meeting notes for posterity. Still can't shake this feeling that they're hiding something.\n"
+"\n"
+"TOWN MEETING: 4/28/2343\n"
+"- Sumner: called the meeting to discuss preparations for our imminent departure\n"
+"- Pauline: platitudes, assurance that nobody is being fired\n"
+"- Pauline: explains that jobs await us all on terra 2\n"
+"- Pauline: more platitudes, top management is very pleased with project ptero and wants to ensure its assets are preserved\n"
+"- C. McClure: so the project isn't being scuttled?\n"
+"- Sumner: no, just moved off terra 1\n"
+"- Violette: but how will we transport the pteros\n"
+"- Ted: hunters will assist us in safely moving them onto the shuttle\n"
+"- Violette: it was hard enough getting them into the cages in the first place\n"
+"- Me: what about the raptidons? we've seen more and more around town\n"
+"- Sumner: assurances that the raptidons are not interested in the pteros\n"
+"- Me: but the hunters are saying-\n"
+"- Sumner: no more about the pteros, floor is now open to general questions\n"
+"- M. Cicero: how many shuttles are incoming?\n"
+"- Pauline: we don't know. at least one\n"
+"- Me: one isn't enough for all of us plus the damn pteros\n"
+"- Sumner: let's worry about that when the evac arrives\n"
+"- Sumner: looks like we're out of time. thanks for coming, everyone, and keep up the great work"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_cascadia_north_residence:15
+msgctxt "conversations/04_monarch/0401/0401_cp_cascadia_north_residence:15:DefaultText"
+msgid "We're fucked.\n"
+"\n"
+"Shuttle landed on the pad. We started moving ptero cages. Some of them broke. Birds everywhere. Talons everywhere. Even the clipped ones--turns out they can run. Who knew?\n"
+"\n"
+"Then the rapts got in. I don't know how. Must be a hole in the wall somewhere. Maybe they can dig. Fuck. They were all over the pteros at first, and then us.\n"
+"\n"
+"Sumner and the other upper management were already on the shuttle. Rapts got near the pad. Someone panicked.\n"
+"\n"
+"They left us.\n"
+"\n"
+"Void take their black hearts, they left us."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_cascadia_north_residence:17
+msgctxt "conversations/04_monarch/0401/0401_cp_cascadia_north_residence:17:DefaultText"
+msgid "[May 7th, 2343]"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_cascadia_north_residence:18
+msgctxt "conversations/04_monarch/0401/0401_cp_cascadia_north_residence:18:DefaultText"
+msgid "Got a few homes stabilized, but it isn't going to last. Rapts everywhere. They caught scent of what's in the bottling plant and now they're nesting.\r\n"
+"\r\n"
+"We need to move. Going to have to book it south across the bridge. Cordon off half the town.\r\n"
+"\r\n"
+"I've been trying to hail corporate, but none of my messages are getting through. I don't think help's coming.\r\n"
+"\r\n"
+"Cecil insists corporate wouldn't abandon us, but... I saw that shuttle. There wasn't enough room for us and the birds. Someone up there made a decision and it wasn't for our well-being.\r\n"
+"\r\n"
+"Rotten bastards. I make it out of this mess, I'm coming for them."
+msgstr ""

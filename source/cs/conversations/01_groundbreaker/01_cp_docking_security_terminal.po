@@ -1,0 +1,67 @@
+#: conversations/01_groundbreaker/01_cp_docking_security_terminal:1
+msgctxt "conversations/01_groundbreaker/01_cp_docking_security_terminal:1:DefaultText"
+msgid "Mardet Docking Security Terminal\r\n"
+"=========================\r\n"
+"\r\n"
+"Main menu"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_docking_security_terminal:2
+msgctxt "conversations/01_groundbreaker/01_cp_docking_security_terminal:2:DefaultText"
+msgid "[Confiscated Goods]"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_docking_security_terminal:3
+msgctxt "conversations/01_groundbreaker/01_cp_docking_security_terminal:3:DefaultText"
+msgid "[Security Logs]"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_docking_security_terminal:4
+msgctxt "conversations/01_groundbreaker/01_cp_docking_security_terminal:4:DefaultText"
+msgid "[Exit]"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_docking_security_terminal:5
+msgctxt "conversations/01_groundbreaker/01_cp_docking_security_terminal:5:DefaultText"
+msgid "Mardet Docking Security Terminal\r\n"
+"=========================\n"
+"\n"
+"Detained a freelancer who was cagey about his business. Confiscated his personal belongings while he waited for questioning:\n"
+"\n"
+"-Modified pistol, Joch\n"
+"-Hatchet\n"
+"-Metal Hoop (lg)\n"
+"-Prayer beads (OSI)\n"
+"-Locked container (owner refused inspection)\n"
+"\n"
+"He fled before we could get down to it. Left his things behind, so they're stored in the back of the security station until the idiot shows his face again, which is likely to be never."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_docking_security_terminal:6
+msgctxt "conversations/01_groundbreaker/01_cp_docking_security_terminal:6:DefaultText"
+msgid "Mardet Docking Security Terminal\r\n"
+"=========================\r\n"
+"\r\n"
+"-SubLight put a bid on one of our impounds. Generous one, too. Negotiate for the usual finder's fee and then give Lilya her salvage. \r\n"
+"\r\n"
+"-Brawl at the Lost Hope. Freelancers vs. Board. Freelancers won. Arrested a freighter captain with more bits than brains.\r\n"
+"\r\n"
+"-Hawthorne's ship impounded by order of Udom Bedford. Still no clue why Hawthorne associates with that Board snake. \r\n"
+"\r\n"
+"-A guy from the Back Bays roughed up the moon kid. Raving mad, warned me that the moon was gonna bring about the end times. He was flying high on whatever MacRedd grows down there.\r\n"
+"\r\n"
+"-Got a sworn testimony that MacRedd was spotted at the Rest-n-Go. Not that anyone will corroborate it. Reminder to keep an eye on Gladys. "
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_docking_security_terminal:8
+msgctxt "conversations/01_groundbreaker/01_cp_docking_security_terminal:8:DefaultText"
+msgid "[Eject Docking Records Data Cartridge]"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_docking_security_terminal:9
+msgctxt "conversations/01_groundbreaker/01_cp_docking_security_terminal:9:DefaultText"
+msgid "Mardet Docking Security Terminal\r\n"
+"=========================\r\n"
+"\r\n"
+"Data cartridge ejected."
+msgstr ""

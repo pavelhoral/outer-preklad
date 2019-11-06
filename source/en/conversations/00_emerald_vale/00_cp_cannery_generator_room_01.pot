@@ -1,0 +1,90 @@
+#: conversations/00_emerald_vale/00_cp_cannery_generator_room_01:1
+msgctxt "conversations/00_emerald_vale/00_cp_cannery_generator_room_01:1:DefaultText"
+msgid "Edgewater Saltuna Cannery\r\n"
+"\r\n"
+"A Spacer's Choice Property\r\n"
+"========================\r\n"
+"\r\n"
+"Running Self Examination...\r\n"
+"\r\n"
+"\"Help yourself to a refreshing tin of Spacer's Chaw while you wait!\"\r\n"
+"\r\n"
+"POWER SOURCE: Spacer's Choice Electrical Transformer\r\n"
+"TRANSFORMER STATUS: Responsive\r\n"
+"POWER REGULATOR: Responsive"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cp_cannery_generator_room_01:2
+msgctxt "conversations/00_emerald_vale/00_cp_cannery_generator_room_01:2:DefaultText"
+msgid "[Disengage Power Regulator]"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cp_cannery_generator_room_01:3
+msgctxt "conversations/00_emerald_vale/00_cp_cannery_generator_room_01:3:DefaultText"
+msgid "Edgewater Saltuna Cannery\r\n"
+"\r\n"
+"A Spacer's Choice Property\r\n"
+"========================\r\n"
+"\r\n"
+"Unable to comply. The power regulator unit may not be disengaged while the transformer is active."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cp_cannery_generator_room_01:5
+msgctxt "conversations/00_emerald_vale/00_cp_cannery_generator_room_01:5:DefaultText"
+msgid "[Exit]"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cp_cannery_generator_room_01:9
+msgctxt "conversations/00_emerald_vale/00_cp_cannery_generator_room_01:9:DefaultText"
+msgid "[Query: Transformer Shutdown]"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cp_cannery_generator_room_01:12
+msgctxt "conversations/00_emerald_vale/00_cp_cannery_generator_room_01:12:DefaultText"
+msgid "Edgewater Saltuna Cannery\r\n"
+"\r\n"
+"A Spacer's Choice Property\r\n"
+"========================\r\n"
+"...\r\n"
+"...\r\n"
+"[FAILURE]: Transformer Shutdown Protocols Non-Operational"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cp_cannery_generator_room_01:13
+msgctxt "conversations/00_emerald_vale/00_cp_cannery_generator_room_01:13:DefaultText"
+msgid "[Query: Shutdown Protocols]"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cp_cannery_generator_room_01:14
+msgctxt "conversations/00_emerald_vale/00_cp_cannery_generator_room_01:14:DefaultText"
+msgid "[Return to Root]"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cp_cannery_generator_room_01:15
+msgctxt "conversations/00_emerald_vale/00_cp_cannery_generator_room_01:15:DefaultText"
+msgid "Edgewater Saltuna Cannery\r\n"
+"\r\n"
+"A Spacer's Choice Property\r\n"
+"========================\n"
+"\n"
+"In compliance with Spacer's Choice engineering and development policies, shutdown protocols have been disabled on all transformers. This is to prevent illegal tampering, upgrading, or theft of proprietary technology.\r\n"
+"\r\n"
+"[WARNING]: Please avoid attempting to modify or tamper with Spacer's Choice Electrical Transformer while power is active. Doing so may lead to death, catastrophic injury, and irreparable damage to the transformer. "
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cp_cannery_generator_room_01:16
+msgctxt "conversations/00_emerald_vale/00_cp_cannery_generator_room_01:16:DefaultText"
+msgid "[Query: Geothermal Facility]"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cp_cannery_generator_room_01:17
+msgctxt "conversations/00_emerald_vale/00_cp_cannery_generator_room_01:17:DefaultText"
+msgid "Edgewater Saltuna Cannery\r\n"
+"\r\n"
+"A Spacer's Choice Property\r\n"
+"========================\r\n"
+"\r\n"
+"The Emerald Vale region is powered by the Spacer's Choice Geothermal Facility. Spacer's Choice is proud to bring the colonists of Halcyon moderately innovative technology at a reasonable price.\r\n"
+"\r\n"
+"Spacer's Choice - The best you can afford."
+msgstr ""

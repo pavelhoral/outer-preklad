@@ -1,0 +1,99 @@
+#: quests/01_groundbreaker/ta_0101_balancedue:0
+msgctxt "quests/01_groundbreaker/ta_0101_balancedue:0:DefaultText"
+msgid "Balance Due"
+msgstr ""
+
+#: quests/01_groundbreaker/ta_0101_balancedue:2
+msgctxt "quests/01_groundbreaker/ta_0101_balancedue:2:DefaultText"
+msgid "Retrieve Udom's Board Seal"
+msgstr ""
+
+#: quests/01_groundbreaker/ta_0101_balancedue:10
+msgctxt "quests/01_groundbreaker/ta_0101_balancedue:10:DefaultText"
+msgid "Talk to Udom Bedford"
+msgstr ""
+
+#: quests/01_groundbreaker/ta_0101_balancedue:11
+msgctxt "quests/01_groundbreaker/ta_0101_balancedue:11:DefaultText"
+msgid "Clear the Impound Order"
+msgstr ""
+
+#: quests/01_groundbreaker/ta_0101_balancedue:15
+msgctxt "quests/01_groundbreaker/ta_0101_balancedue:15:DefaultText"
+msgid "Turn In Phineas to Udom"
+msgstr ""
+
+#: quests/01_groundbreaker/ta_0101_balancedue:10000
+msgctxt "quests/01_groundbreaker/ta_0101_balancedue:10000:DefaultText"
+msgid "Udom Bedford is interested in your information on where to find Phineas Welles - the target of a bounty reward from the Halcyon Holdings Board. However, he sold his official Board seal to Gladys, and he needs you to recover it before you can travel to Byzantium and report to his superiors."
+msgstr ""
+
+#: quests/01_groundbreaker/ta_0101_balancedue:10002
+msgctxt "quests/01_groundbreaker/ta_0101_balancedue:10002:DefaultText"
+msgid "Udom Bedford sold his official Board seal to Gladys in return for a large sum of money. Buy it back from her so that you can fly to Byzantium with official Board papers and turn in Phineas."
+msgstr ""
+
+#: quests/01_groundbreaker/ta_0101_balancedue:10010
+msgctxt "quests/01_groundbreaker/ta_0101_balancedue:10010:DefaultText"
+msgid "Groundbreaker security informed you that your ship has been impounded by order of the Board. You need to clear this up with Udom Bedford, the Halcyon Holdings Board representative on the station."
+msgstr ""
+
+#: quests/01_groundbreaker/ta_0101_balancedue:10011
+msgctxt "quests/01_groundbreaker/ta_0101_balancedue:10011:DefaultText"
+msgid "Udom Bedford is dead and your ship is still impounded. Look for a way to clear the impound order so the Unreliable can fly again."
+msgstr ""
+
+#: quests/01_groundbreaker/ta_0101_balancedue:10015
+msgctxt "quests/01_groundbreaker/ta_0101_balancedue:10015:DefaultText"
+msgid "Phineas Welles is wanted by the Board for crimes against the colony. Udom Bedford had an arrangement with Alex Hawthorne, the Unreliable's previous captain, to turn him. Telling Udom where to find Phineas will allow you to begin working for Halcyon's Board."
+msgstr ""
+
+#: quests/01_groundbreaker/ta_0101_balancedue:20000
+msgctxt "quests/01_groundbreaker/ta_0101_balancedue:20000:DefaultText"
+msgid "Gladys wants <oeiglobal>G_0102_Price_UdomSeal</oeiglobal> bits for the seal. Collect more bits and return to her later to buy the official Board seal."
+msgstr ""
+
+#: quests/01_groundbreaker/ta_0101_balancedue:20001
+msgctxt "quests/01_groundbreaker/ta_0101_balancedue:20001:DefaultText"
+msgid "You got Udom's official Board seal back. Return to him and have him validate your papers for you so that you can meet with the Adjutant."
+msgstr ""
+
+#: quests/01_groundbreaker/ta_0101_balancedue:20002
+msgctxt "quests/01_groundbreaker/ta_0101_balancedue:20002:DefaultText"
+msgid "Gladys is dead. If you want that stamp, you'll need to crack open her safe to get it."
+msgstr ""
+
+#: quests/01_groundbreaker/ta_0101_balancedue:30000
+msgctxt "quests/01_groundbreaker/ta_0101_balancedue:30000:DefaultText"
+msgid "You assisted Udom Bedford with his seal problem, receiving a fresh set of official Board paperwork and an introduction to the Chairman's Adjutant - Sophia Akande - as a reward."
+msgstr ""
+
+#: quests/01_groundbreaker/ta_0101_balancedue:30001
+msgctxt "quests/01_groundbreaker/ta_0101_balancedue:30001:DefaultText"
+msgid "You killed Udom Bedford, eliminating any chance of him granting you access to Byzantium to turn in Phineas Welles."
+msgstr ""
+
+#: quests/01_groundbreaker/ta_0101_balancedue:30002
+msgctxt "quests/01_groundbreaker/ta_0101_balancedue:30002:DefaultText"
+msgid "You skipped the hope to Terra-2, eliminating any chance to work with the Board."
+msgstr ""
+
+#: quests/01_groundbreaker/ta_0101_balancedue:30003
+msgctxt "quests/01_groundbreaker/ta_0101_balancedue:30003:DefaultText"
+msgid "You reached Byzantium without Udom's Navkey. There's no point in working with him further."
+msgstr ""
+
+#: quests/01_groundbreaker/ta_0101_balancedue:30004
+msgctxt "quests/01_groundbreaker/ta_0101_balancedue:30004:DefaultText"
+msgid "The Board has become hostile towards you, making it impossible to complete this quest."
+msgstr ""
+
+#: quests/01_groundbreaker/ta_0101_balancedue:40003
+msgctxt "quests/01_groundbreaker/ta_0101_balancedue:40003:DefaultText"
+msgid "Groundbreaker security impounded the Unreliable on orders from the Board."
+msgstr ""
+
+#: quests/01_groundbreaker/ta_0101_balancedue:40004
+msgctxt "quests/01_groundbreaker/ta_0101_balancedue:40004:DefaultText"
+msgid "You learned from Udom Bedford that he has impounded the Unreliable - a \"game\" he played with its previous captain, Alex Hawthorne. Speak with Udom to clear up this issue."
+msgstr ""

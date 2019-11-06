@@ -1,0 +1,188 @@
+#: conversations/09_interstitial/0903_thehope/0903_cp_bridge_terminal:8
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_bridge_terminal:8:DefaultText"
+msgid "UDL-002 THE HOPE NAVIGATION INTERFACE\r\n"
+"===========================\r\n"
+"Power status: Standby\r\n"
+"Communications status: Offline"
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_bridge_terminal:10
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_bridge_terminal:10:DefaultText"
+msgid "UDL-002 THE HOPE NAVIGATION INTERFACE\r\n"
+"===========================\r\n"
+"Power status: Auxiliary\r\n"
+"Communications status: Offline"
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_bridge_terminal:11
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_bridge_terminal:11:DefaultText"
+msgid "UDL-002 THE HOPE NAVIGATION INTERFACE\r\n"
+"===========================\r\n"
+"Power status: Standby\r\n"
+"Communications status: Auxiliary"
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_bridge_terminal:16
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_bridge_terminal:16:DefaultText"
+msgid "UDL-002 THE HOPE NAVIGATION INTERFACE\r\n"
+"===========================\r\n"
+"ERROR: Reactor is unable to support routing power to the engines. Navigation systems are inoperable until the reactor is repaired."
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_bridge_terminal:21
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_bridge_terminal:21:DefaultText"
+msgid "UDL-002 THE HOPE NAVIGATION INTERFACE\r\n"
+"===========================\r\n"
+"Power status: Auxiliary\r\n"
+"Communications status: Auxiliary"
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_bridge_terminal:22
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_bridge_terminal:22:DefaultText"
+msgid "[Patch ADA Through]"
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_bridge_terminal:24
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_bridge_terminal:24:DefaultText"
+msgid "[Exit]"
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_bridge_terminal:26
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_bridge_terminal:26:DefaultText"
+msgid "[Exit]"
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_bridge_terminal:28
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_bridge_terminal:28:DefaultText"
+msgid "UDL-002 THE HOPE NAVIGATION INTERFACE\r\n"
+"===========================\r\n"
+"Auxiliary comms are available through the docking bay."
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_bridge_terminal:30
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_bridge_terminal:30:DefaultText"
+msgid "UDL-002 THE HOPE NAVIGATION INTERFACE\r\n"
+"============================\r\n"
+"Available functions:\r\n"
+"- STATUS: View bridge status\r\n"
+"- TELEX LOGS: View archived logs\r\n"
+"- COMMS: View communications options"
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_bridge_terminal:31
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_bridge_terminal:31:DefaultText"
+msgid "[Logs]"
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_bridge_terminal:32
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_bridge_terminal:32:DefaultText"
+msgid "[Status]"
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_bridge_terminal:33
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_bridge_terminal:33:DefaultText"
+msgid "[Comms]"
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_bridge_terminal:35
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_bridge_terminal:35:DefaultText"
+msgid "[Automated Audio Transcript #R-2580]"
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_bridge_terminal:36
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_bridge_terminal:36:DefaultText"
+msgid "NOLDA, F: Open the fucking door, Will!\n"
+"HUNTE, W: No.\n"
+"NOLDA, F: You're killing us!\n"
+"HUNTE, W: Better you than the colonists.\n"
+"NOLDA, F: This is idiotic! If we don't keep this ship afloat, they'll die anyway!\n"
+"HUNTE, W: A necessary risk. Rezi is plotting our course. The ship will fly true.\n"
+"NOLDA, F: You're gambling. With hundreds of thousands of peoples' lives.\n"
+"HUNTE, W: And you're hand picking which few you'll consume in your madness.\n"
+"NOLDA, F: Dammit. Alexei. Find me a fucking drill."
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_bridge_terminal:37
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_bridge_terminal:37:DefaultText"
+msgid "[Automated Audio Transcript #R-2582]"
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_bridge_terminal:38
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_bridge_terminal:38:DefaultText"
+msgid "TORREGA, R: Captain. You hear that?\r\n"
+"HUNTE, W: Hear what?\r\n"
+"TORREGA, R: The drill stopped.\r\n"
+"HUNTE, W: Maybe they're taking a break. Maybe it broke.\r\n"
+"TORREGA, R: Maybe they're trying to get into cold storage. If they get through before they starve...\r\n"
+"HUNTE, W: They'll outlast us.\r\n"
+"HUNTE, W: Keep working, Rezi. I'll take care of it."
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_bridge_terminal:39
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_bridge_terminal:39:DefaultText"
+msgid "[Manual Log #L-5190 - TORREGA, R.]"
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_bridge_terminal:40
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_bridge_terminal:40:DefaultText"
+msgid "I think... I'm the only one left.\r\n"
+"\r\n"
+"I don't know what Captain Hunte did down there, but he hasn't come back. And they haven't used the drill, and...\r\n"
+"\r\n"
+"I'm... done. The course is set. I'm down to my last day of food, and... I don't want to die like Donna did.\r\n"
+"\r\n"
+"Fly true, Hope."
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_bridge_terminal:41
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_bridge_terminal:41:DefaultText"
+msgid "UDL-002 THE HOPE NAVIGATION INTERFACE\r\n"
+"===========================\r\n"
+"Error accessing archives. Available entries:"
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_bridge_terminal:42
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_bridge_terminal:42:DefaultText"
+msgid "[Back]"
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_bridge_terminal:43
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_bridge_terminal:43:DefaultText"
+msgid "UDL-002 THE HOPE NAVIGATION INTERFACE\r\n"
+"===========================\r\n"
+"Error: Auxiliary comms unavailable. Use STATUS to verify power and communication substation statuses."
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_bridge_terminal:44
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_bridge_terminal:44:DefaultText"
+msgid "[Back]"
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_bridge_terminal:47
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_bridge_terminal:47:DefaultText"
+msgid "UDL-002 THE HOPE NAVIGATION INTERFACE\r\n"
+"===========================\r\n"
+"Available functions:\r\n"
+"- STATUS: View bridge status\r\n"
+"- LOGS: View archived logs"
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_bridge_terminal:48
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_bridge_terminal:48:DefaultText"
+msgid "[Continue]"
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_bridge_terminal:49
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_bridge_terminal:49:DefaultText"
+msgid "[Exit]"
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_bridge_terminal:50
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_bridge_terminal:50:DefaultText"
+msgid "[Continue]"
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_bridge_terminal:53
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_bridge_terminal:53:DefaultText"
+msgid "[Continue]"
+msgstr ""

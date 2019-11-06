@@ -1,0 +1,304 @@
+#: conversations/07_tartarus/0701/0701_cv_pit_comm_officer:3
+msgctxt "conversations/07_tartarus/0701/0701_cv_pit_comm_officer:3:DefaultText"
+msgid "I'm working as fast as I can, all right? If y'all would quit bothering me I'd get this done sooner."
+msgstr ""
+
+#: conversations/07_tartarus/0701/0701_cv_pit_comm_officer:4
+msgctxt "conversations/07_tartarus/0701/0701_cv_pit_comm_officer:4:DefaultText"
+msgid "Hey, this terminal's asking me for a passcode. Do you know it?"
+msgstr ""
+
+#: conversations/07_tartarus/0701/0701_cv_pit_comm_officer:21
+msgctxt "conversations/07_tartarus/0701/0701_cv_pit_comm_officer:21:DefaultText"
+msgid "Did anyone see you come in here? Law help me, I'm going to die. They're going to kill me."
+msgstr ""
+
+#: conversations/07_tartarus/0701/0701_cv_pit_comm_officer:22
+msgctxt "conversations/07_tartarus/0701/0701_cv_pit_comm_officer:22:DefaultText"
+msgid "What are you doing?"
+msgstr ""
+
+#: conversations/07_tartarus/0701/0701_cv_pit_comm_officer:23
+msgctxt "conversations/07_tartarus/0701/0701_cv_pit_comm_officer:23:DefaultText"
+msgid "Sorry. I'll get out of your hair."
+msgstr ""
+
+#: conversations/07_tartarus/0701/0701_cv_pit_comm_officer:24
+msgctxt "conversations/07_tartarus/0701/0701_cv_pit_comm_officer:24:DefaultText"
+msgid "Fixing the FPS system. FPS... system... that's redundant, Melody. Can you just let me work? I'm almost done."
+msgstr ""
+
+#: conversations/07_tartarus/0701/0701_cv_pit_comm_officer:25
+msgctxt "conversations/07_tartarus/0701/0701_cv_pit_comm_officer:25:DefaultText"
+msgid "I don't know what an FPS is."
+msgstr ""
+
+#: conversations/07_tartarus/0701/0701_cv_pit_comm_officer:26
+msgctxt "conversations/07_tartarus/0701/0701_cv_pit_comm_officer:26:DefaultText"
+msgid "Forced Pacification System. If the prisoners riot, we gas them. It went a little haywire after the last deployment, so here I am."
+msgstr ""
+
+#: conversations/07_tartarus/0701/0701_cv_pit_comm_officer:27
+msgctxt "conversations/07_tartarus/0701/0701_cv_pit_comm_officer:27:DefaultText"
+msgid "Who are you?"
+msgstr ""
+
+#: conversations/07_tartarus/0701/0701_cv_pit_comm_officer:28
+msgctxt "conversations/07_tartarus/0701/0701_cv_pit_comm_officer:28:DefaultText"
+msgid "Is that a joke? Y'all call me out to fix the FPS, and now you're asking me who I am?"
+msgstr ""
+
+#: conversations/07_tartarus/0701/0701_cv_pit_comm_officer:29
+msgctxt "conversations/07_tartarus/0701/0701_cv_pit_comm_officer:29:DefaultText"
+msgid "Don't jump down my throat. I just got here."
+msgstr ""
+
+#: conversations/07_tartarus/0701/0701_cv_pit_comm_officer:30
+msgctxt "conversations/07_tartarus/0701/0701_cv_pit_comm_officer:30:DefaultText"
+msgid "Of course. Why?"
+msgstr ""
+
+#: conversations/07_tartarus/0701/0701_cv_pit_comm_officer:31
+msgctxt "conversations/07_tartarus/0701/0701_cv_pit_comm_officer:31:DefaultText"
+msgid "I'm supposed to be inspecting all of our terminals for safety standards."
+msgstr ""
+
+#: conversations/07_tartarus/0701/0701_cv_pit_comm_officer:32
+msgctxt "conversations/07_tartarus/0701/0701_cv_pit_comm_officer:32:DefaultText"
+msgid "Because I want it, and I've got no qualms about hurting you until you comply."
+msgstr ""
+
+#: conversations/07_tartarus/0701/0701_cv_pit_comm_officer:33
+msgctxt "conversations/07_tartarus/0701/0701_cv_pit_comm_officer:33:DefaultText"
+msgid "I need to use it, and I'm going to stand here and annoy you until you give it to me."
+msgstr ""
+
+#: conversations/07_tartarus/0701/0701_cv_pit_comm_officer:34
+msgctxt "conversations/07_tartarus/0701/0701_cv_pit_comm_officer:34:DefaultText"
+msgid "I... want it?"
+msgstr ""
+
+#: conversations/07_tartarus/0701/0701_cv_pit_comm_officer:35
+msgctxt "conversations/07_tartarus/0701/0701_cv_pit_comm_officer:35:DefaultText"
+msgid "Well, we don't always get what we want. Go on, let me do my job."
+msgstr ""
+
+#: conversations/07_tartarus/0701/0701_cv_pit_comm_officer:36
+msgctxt "conversations/07_tartarus/0701/0701_cv_pit_comm_officer:36:DefaultText"
+msgid "Whatever. I need to fix this before I get in trouble, so stop bothering me."
+msgstr ""
+
+#: conversations/07_tartarus/0701/0701_cv_pit_comm_officer:37
+msgctxt "conversations/07_tartarus/0701/0701_cv_pit_comm_officer:37:DefaultText"
+msgid "Oh. Figures. It ain't like the place is on lockdown or anything. Hope they didn't rough you up on the way in here."
+msgstr ""
+
+#: conversations/07_tartarus/0701/0701_cv_pit_comm_officer:38
+msgctxt "conversations/07_tartarus/0701/0701_cv_pit_comm_officer:38:DefaultText"
+msgid "The passcode is tartarsauce. One word. All lowercase. Have at it."
+msgstr ""
+
+#: conversations/07_tartarus/0701/0701_cv_pit_comm_officer:39
+msgctxt "conversations/07_tartarus/0701/0701_cv_pit_comm_officer:39:DefaultText"
+msgid "Whoa, take a step back, man."
+msgstr ""
+
+#: conversations/07_tartarus/0701/0701_cv_pit_comm_officer:39
+msgctxt "conversations/07_tartarus/0701/0701_cv_pit_comm_officer:39:FemaleText"
+msgid "Whoa, take a step back, lady."
+msgstr ""
+
+#: conversations/07_tartarus/0701/0701_cv_pit_comm_officer:40
+msgctxt "conversations/07_tartarus/0701/0701_cv_pit_comm_officer:40:DefaultText"
+msgid "Oh, for Law's sake. Fine. Just don't go shooting up the place with gas, all right?"
+msgstr ""
+
+#: conversations/07_tartarus/0701/0701_cv_pit_comm_officer:41
+msgctxt "conversations/07_tartarus/0701/0701_cv_pit_comm_officer:41:DefaultText"
+msgid "Anyway, I need to finish this. Get outta here, will you?"
+msgstr ""
+
+#: conversations/07_tartarus/0701/0701_cv_pit_comm_officer:42
+msgctxt "conversations/07_tartarus/0701/0701_cv_pit_comm_officer:42:DefaultText"
+msgid "Ugh. What?!"
+msgstr ""
+
+#: conversations/07_tartarus/0701/0701_cv_pit_comm_officer:44
+msgctxt "conversations/07_tartarus/0701/0701_cv_pit_comm_officer:44:DefaultText"
+msgid "Nothing."
+msgstr ""
+
+#: conversations/07_tartarus/0701/0701_cv_pit_comm_officer:45
+msgctxt "conversations/07_tartarus/0701/0701_cv_pit_comm_officer:45:DefaultText"
+msgid "I need that passcode."
+msgstr ""
+
+#: conversations/07_tartarus/0701/0701_cv_pit_comm_officer:46
+msgctxt "conversations/07_tartarus/0701/0701_cv_pit_comm_officer:46:DefaultText"
+msgid "Why?"
+msgstr ""
+
+#: conversations/07_tartarus/0701/0701_cv_pit_comm_officer:48
+msgctxt "conversations/07_tartarus/0701/0701_cv_pit_comm_officer:48:DefaultText"
+msgid "Calm down. What are you doing in here?"
+msgstr ""
+
+#: conversations/07_tartarus/0701/0701_cv_pit_comm_officer:49
+msgctxt "conversations/07_tartarus/0701/0701_cv_pit_comm_officer:49:DefaultText"
+msgid "I was supposed to fix the gas system. Now I'm hiding for my damn life."
+msgstr ""
+
+#: conversations/07_tartarus/0701/0701_cv_pit_comm_officer:50
+msgctxt "conversations/07_tartarus/0701/0701_cv_pit_comm_officer:50:DefaultText"
+msgid "Who are you?"
+msgstr ""
+
+#: conversations/07_tartarus/0701/0701_cv_pit_comm_officer:51
+msgctxt "conversations/07_tartarus/0701/0701_cv_pit_comm_officer:51:DefaultText"
+msgid "Melody. I'm just a mechanical engineer. I'm not even armed."
+msgstr ""
+
+#: conversations/07_tartarus/0701/0701_cv_pit_comm_officer:52
+msgctxt "conversations/07_tartarus/0701/0701_cv_pit_comm_officer:52:DefaultText"
+msgid "Just stay in here. You'll be safe."
+msgstr ""
+
+#: conversations/07_tartarus/0701/0701_cv_pit_comm_officer:54
+msgctxt "conversations/07_tartarus/0701/0701_cv_pit_comm_officer:54:DefaultText"
+msgid "Gas system?"
+msgstr ""
+
+#: conversations/07_tartarus/0701/0701_cv_pit_comm_officer:55
+msgctxt "conversations/07_tartarus/0701/0701_cv_pit_comm_officer:55:DefaultText"
+msgid "Well, did you fix it?"
+msgstr ""
+
+#: conversations/07_tartarus/0701/0701_cv_pit_comm_officer:56
+msgctxt "conversations/07_tartarus/0701/0701_cv_pit_comm_officer:56:DefaultText"
+msgid "Smart. Keep your head down. I'll handle this."
+msgstr ""
+
+#: conversations/07_tartarus/0701/0701_cv_pit_comm_officer:57
+msgctxt "conversations/07_tartarus/0701/0701_cv_pit_comm_officer:57:DefaultText"
+msgid "The FPS. I fixed it, mind you. Not gonna die not having done my job."
+msgstr ""
+
+#: conversations/07_tartarus/0701/0701_cv_pit_comm_officer:58
+msgctxt "conversations/07_tartarus/0701/0701_cv_pit_comm_officer:58:DefaultText"
+msgid "I'll do it. I have all of the authorizations."
+msgstr ""
+
+#: conversations/07_tartarus/0701/0701_cv_pit_comm_officer:59
+msgctxt "conversations/07_tartarus/0701/0701_cv_pit_comm_officer:59:DefaultText"
+msgid "Would you rather die? Just gas the place!"
+msgstr ""
+
+#: conversations/07_tartarus/0701/0701_cv_pit_comm_officer:60
+msgctxt "conversations/07_tartarus/0701/0701_cv_pit_comm_officer:60:DefaultText"
+msgid "Which is worse: Being beaten to death by rioting prisoners or maybe getting fired?"
+msgstr ""
+
+#: conversations/07_tartarus/0701/0701_cv_pit_comm_officer:61
+msgctxt "conversations/07_tartarus/0701/0701_cv_pit_comm_officer:61:DefaultText"
+msgid "Let me do it, then."
+msgstr ""
+
+#: conversations/07_tartarus/0701/0701_cv_pit_comm_officer:62
+msgctxt "conversations/07_tartarus/0701/0701_cv_pit_comm_officer:62:DefaultText"
+msgid "Perish the thought. Just stay here while I handle the prisoners."
+msgstr ""
+
+#: conversations/07_tartarus/0701/0701_cv_pit_comm_officer:63
+msgctxt "conversations/07_tartarus/0701/0701_cv_pit_comm_officer:63:DefaultText"
+msgid "No. I'd get fired for that, too. Just... I'm going to hide until this blows over."
+msgstr ""
+
+#: conversations/07_tartarus/0701/0701_cv_pit_comm_officer:64
+msgctxt "conversations/07_tartarus/0701/0701_cv_pit_comm_officer:64:DefaultText"
+msgid "You do? Oh, thank the Law. Ok."
+msgstr ""
+
+#: conversations/07_tartarus/0701/0701_cv_pit_comm_officer:65
+msgctxt "conversations/07_tartarus/0701/0701_cv_pit_comm_officer:65:DefaultText"
+msgid "The terminal there controls the FPS. The password is tartarsauce. All lowercase. One word."
+msgstr ""
+
+#: conversations/07_tartarus/0701/0701_cv_pit_comm_officer:66
+msgctxt "conversations/07_tartarus/0701/0701_cv_pit_comm_officer:66:DefaultText"
+msgid "Of course not! I... ugh! Fine. Fine!"
+msgstr ""
+
+#: conversations/07_tartarus/0701/0701_cv_pit_comm_officer:69
+msgctxt "conversations/07_tartarus/0701/0701_cv_pit_comm_officer:69:DefaultText"
+msgid "Um, being fired is worse. But... maybe they won't find out. All right. Fine."
+msgstr ""
+
+#: conversations/07_tartarus/0701/0701_cv_pit_comm_officer:70
+msgctxt "conversations/07_tartarus/0701/0701_cv_pit_comm_officer:70:DefaultText"
+msgid "I hope this all blows over soon..."
+msgstr ""
+
+#: conversations/07_tartarus/0701/0701_cv_pit_comm_officer:71
+msgctxt "conversations/07_tartarus/0701/0701_cv_pit_comm_officer:71:DefaultText"
+msgid "Do you know the password to this terminal?"
+msgstr ""
+
+#: conversations/07_tartarus/0701/0701_cv_pit_comm_officer:72
+msgctxt "conversations/07_tartarus/0701/0701_cv_pit_comm_officer:72:DefaultText"
+msgid "Yeah, but if I give it out to anyone, I'll be fired."
+msgstr ""
+
+#: conversations/07_tartarus/0701/0701_cv_pit_comm_officer:73
+msgctxt "conversations/07_tartarus/0701/0701_cv_pit_comm_officer:73:DefaultText"
+msgid "You'll be fine. I have all of the authorizations."
+msgstr ""
+
+#: conversations/07_tartarus/0701/0701_cv_pit_comm_officer:74
+msgctxt "conversations/07_tartarus/0701/0701_cv_pit_comm_officer:74:DefaultText"
+msgid "Do you want to die? Give me the damn password!"
+msgstr ""
+
+#: conversations/07_tartarus/0701/0701_cv_pit_comm_officer:77
+msgctxt "conversations/07_tartarus/0701/0701_cv_pit_comm_officer:77:DefaultText"
+msgid "Perish the thought. Just stay here while I handle the prisoners."
+msgstr ""
+
+#: conversations/07_tartarus/0701/0701_cv_pit_comm_officer:78
+msgctxt "conversations/07_tartarus/0701/0701_cv_pit_comm_officer:78:DefaultText"
+msgid "I need that passcode."
+msgstr ""
+
+#: conversations/07_tartarus/0701/0701_cv_pit_comm_officer:80
+msgctxt "conversations/07_tartarus/0701/0701_cv_pit_comm_officer:80:DefaultText"
+msgid "And I need to not get fired!"
+msgstr ""
+
+#: conversations/07_tartarus/0701/0701_cv_pit_comm_officer:82
+msgctxt "conversations/07_tartarus/0701/0701_cv_pit_comm_officer:82:DefaultText"
+msgid "Nobody has to know."
+msgstr ""
+
+#: conversations/07_tartarus/0701/0701_cv_pit_comm_officer:83
+msgctxt "conversations/07_tartarus/0701/0701_cv_pit_comm_officer:83:DefaultText"
+msgid "I'm not risking it. Go on, get out of here before they hear us!"
+msgstr ""
+
+#: conversations/07_tartarus/0701/0701_cv_pit_comm_officer:84
+msgctxt "conversations/07_tartarus/0701/0701_cv_pit_comm_officer:84:DefaultText"
+msgid "I need to use the terminal."
+msgstr ""
+
+#: conversations/07_tartarus/0701/0701_cv_pit_comm_officer:85
+msgctxt "conversations/07_tartarus/0701/0701_cv_pit_comm_officer:85:DefaultText"
+msgid "Well, you ain't authorized, else you'd know the password, wouldn't you?"
+msgstr ""
+
+#: conversations/07_tartarus/0701/0701_cv_pit_comm_officer:86
+msgctxt "conversations/07_tartarus/0701/0701_cv_pit_comm_officer:86:DefaultText"
+msgid "Of course I did. It's my damn job."
+msgstr ""
+
+#: conversations/07_tartarus/0701/0701_cv_pit_comm_officer:87
+msgctxt "conversations/07_tartarus/0701/0701_cv_pit_comm_officer:87:DefaultText"
+msgid "But I can't go release the gas without authorization. I'd be fired."
+msgstr ""

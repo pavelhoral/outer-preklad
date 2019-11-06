@@ -1,0 +1,66 @@
+#: conversations/04_monarch/0411/0411_cp_canning_machine:1
+msgctxt "conversations/04_monarch/0411/0411_cp_canning_machine:1:DefaultText"
+msgid "C&P Factory Systems\r\n"
+"========================\r\n"
+"AUTHORIZED MANAGER LOG IN SEQUENCE INTIATING...\r\n"
+"========================\r\n"
+"\r\n"
+"Greetings, user_CANNING MACHINE.\r\n"
+"\r\n"
+"Performing routine diagnostics check now...\r\n"
+"Analysis complete.\r\n"
+"It appears your status is: UNWELL\r\n"
+"\r\n"
+"[ 5 ] Broken Parts and [ 2 ] Fires detected in the machinery.\r\n"
+"Productive output is currently rated to be: NON-OPERATIONAL\r\n"
+"\r\n"
+"The King has been notified. Please request an emergency maintenance appointment, immediately."
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cp_canning_machine:2
+msgctxt "conversations/04_monarch/0411/0411_cp_canning_machine:2:DefaultText"
+msgid "C&P Factory Systems\r\n"
+"========================\r\n"
+"AUTHORIZED MANAGER LOG IN SEQUENCE INTIATING...\r\n"
+"========================\r\n"
+"\r\n"
+"Greetings, user_CANNING MACHINE.\r\n"
+"\r\n"
+"Performing routine diagnostics check now...\r\n"
+"Analysis complete.\r\n"
+"It appears your status is: PLEASANT\r\n"
+"\r\n"
+"No clogs detected in the machinery.\r\n"
+"Productive output is currently rated to be: OPTIMAL\r\n"
+"\r\n"
+"Adjustments are not recommended at this time."
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cp_canning_machine:3
+msgctxt "conversations/04_monarch/0411/0411_cp_canning_machine:3:DefaultText"
+msgid "[Increase Production Rate by 200%]"
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cp_canning_machine:4
+msgctxt "conversations/04_monarch/0411/0411_cp_canning_machine:4:DefaultText"
+msgid "[Exit]"
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cp_canning_machine:6
+msgctxt "conversations/04_monarch/0411/0411_cp_canning_machine:6:DefaultText"
+msgid "[Increasing...]"
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cp_canning_machine:7
+msgctxt "conversations/04_monarch/0411/0411_cp_canning_machine:7:DefaultText"
+msgid "ADVISORY MESSAGE: The machinery cannot keep pace with the set rate. Risk of meltdown leading to a confined explosion is 99.3% likely to occur at this production rate.\r\n"
+"\r\n"
+"Suggested actions: Lower the production rate by >50%\r\n"
+"\r\n"
+""
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cp_canning_machine:8
+msgctxt "conversations/04_monarch/0411/0411_cp_canning_machine:8:DefaultText"
+msgid "[Continue]"
+msgstr ""

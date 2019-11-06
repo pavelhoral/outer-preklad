@@ -1,0 +1,134 @@
+#: quests/08_roseway/sq_0801_thechickenortheegghead:0
+msgctxt "quests/08_roseway/sq_0801_thechickenortheegghead:0:DefaultText"
+msgid "The Amateur Alchemist"
+msgstr ""
+
+#: quests/08_roseway/sq_0801_thechickenortheegghead:3
+msgctxt "quests/08_roseway/sq_0801_thechickenortheegghead:3:DefaultText"
+msgid "Deal With the Abandoned Experiment"
+msgstr ""
+
+#: quests/08_roseway/sq_0801_thechickenortheegghead:5
+msgctxt "quests/08_roseway/sq_0801_thechickenortheegghead:5:DefaultText"
+msgid "Speak with Vaughn"
+msgstr ""
+
+#: quests/08_roseway/sq_0801_thechickenortheegghead:21
+msgctxt "quests/08_roseway/sq_0801_thechickenortheegghead:21:DefaultText"
+msgid "Inquire at Roseway"
+msgstr ""
+
+#: quests/08_roseway/sq_0801_thechickenortheegghead:10000
+msgctxt "quests/08_roseway/sq_0801_thechickenortheegghead:10000:DefaultText"
+msgid "Vaughn Cortes, one of the labcoats in Roseway, asked you to look into the status of an experiment he left running in Auntie Cleo's Secret Lab, which lies south along the road out of town."
+msgstr ""
+
+#: quests/08_roseway/sq_0801_thechickenortheegghead:10003
+msgctxt "quests/08_roseway/sq_0801_thechickenortheegghead:10003:DefaultText"
+msgid "Deal with the experiment as you see fit."
+msgstr ""
+
+#: quests/08_roseway/sq_0801_thechickenortheegghead:10005
+msgctxt "quests/08_roseway/sq_0801_thechickenortheegghead:10005:DefaultText"
+msgid "That's taken care of. Head on back to Vaughn and let him know his experiment's been dealt with."
+msgstr ""
+
+#: quests/08_roseway/sq_0801_thechickenortheegghead:10021
+msgctxt "quests/08_roseway/sq_0801_thechickenortheegghead:10021:DefaultText"
+msgid "You might be able to find who was running this experiment by asking around in the nearby town of Roseway. The terminal was accessed by user 'Cortes, V.'"
+msgstr ""
+
+#: quests/08_roseway/sq_0801_thechickenortheegghead:20001
+msgctxt "quests/08_roseway/sq_0801_thechickenortheegghead:20001:DefaultText"
+msgid "The equipment wasn't calibrated properly. You adjusted it before completing the experiment, resulting in twice as much raptidon musk."
+msgstr ""
+
+#: quests/08_roseway/sq_0801_thechickenortheegghead:20003
+msgctxt "quests/08_roseway/sq_0801_thechickenortheegghead:20003:DefaultText"
+msgid "Vaughn is collecting raptidon musk, which he plans to sell to the makers of an aphrodisiac."
+msgstr ""
+
+#: quests/08_roseway/sq_0801_thechickenortheegghead:20004
+msgctxt "quests/08_roseway/sq_0801_thechickenortheegghead:20004:DefaultText"
+msgid "You destroyed the experiment, but in the process released some raptidons. That was almost certainly not the intended result."
+msgstr ""
+
+#: quests/08_roseway/sq_0801_thechickenortheegghead:20005
+msgctxt "quests/08_roseway/sq_0801_thechickenortheegghead:20005:DefaultText"
+msgid "The experiment can be found \"in the lower levels, way in the back.\" Vaughn also mentioned dissection tables, so you've got that to look forward to."
+msgstr ""
+
+#: quests/08_roseway/sq_0801_thechickenortheegghead:20006
+msgctxt "quests/08_roseway/sq_0801_thechickenortheegghead:20006:DefaultText"
+msgid "Vaughn seemed particularly anxious to avoid Anton finding out about his little side project."
+msgstr ""
+
+#: quests/08_roseway/sq_0801_thechickenortheegghead:20009
+msgctxt "quests/08_roseway/sq_0801_thechickenortheegghead:20009:DefaultText"
+msgid "You told Anton about Vaughn's little side project. That boy's about to have a real bad time."
+msgstr ""
+
+#: quests/08_roseway/sq_0801_thechickenortheegghead:20011
+msgctxt "quests/08_roseway/sq_0801_thechickenortheegghead:20011:DefaultText"
+msgid "You have learned this experiment belonged to a scientist named Vaughn."
+msgstr ""
+
+#: quests/08_roseway/sq_0801_thechickenortheegghead:30000
+msgctxt "quests/08_roseway/sq_0801_thechickenortheegghead:30000:DefaultText"
+msgid "You gave Vaughn his freshly squeezed rapt juice, and he paid for your trouble. No doubt he'll be impressing somebody with his new pungency."
+msgstr ""
+
+#: quests/08_roseway/sq_0801_thechickenortheegghead:30001
+msgctxt "quests/08_roseway/sq_0801_thechickenortheegghead:30001:DefaultText"
+msgid "You adjusted Vaughn's experiment to yield more raptidon musk. He was appropriately grateful."
+msgstr ""
+
+#: quests/08_roseway/sq_0801_thechickenortheegghead:30002
+msgctxt "quests/08_roseway/sq_0801_thechickenortheegghead:30002:DefaultText"
+msgid "You turned the experiment over the Anton. He provided a reward, and a rant about his employees. "
+msgstr ""
+
+#: quests/08_roseway/sq_0801_thechickenortheegghead:30003
+msgctxt "quests/08_roseway/sq_0801_thechickenortheegghead:30003:DefaultText"
+msgid "You sure killed the hell out of Vaughn. Reckon you can keep the raptidon musk. Just make sure not to spill it in the ship. There aren't enough air fresheners in the whole system to clear that up."
+msgstr ""
+
+#: quests/08_roseway/sq_0801_thechickenortheegghead:30004
+msgctxt "quests/08_roseway/sq_0801_thechickenortheegghead:30004:DefaultText"
+msgid "You told Vaughn you blew up his experiment real good."
+msgstr ""
+
+#: quests/08_roseway/sq_0801_thechickenortheegghead:30005
+msgctxt "quests/08_roseway/sq_0801_thechickenortheegghead:30005:DefaultText"
+msgid "You sabotaged Vaughn's experiment, but told him that it was busted by raptidons before you got there. He bought it."
+msgstr ""
+
+#: quests/08_roseway/sq_0801_thechickenortheegghead:30006
+msgctxt "quests/08_roseway/sq_0801_thechickenortheegghead:30006:DefaultText"
+msgid "While you adjusted Vaughn's experiment to yield more raptidon musk, you conveniently neglected to mention it to him, and pocketed the excess your own self."
+msgstr ""
+
+#: quests/08_roseway/sq_0801_thechickenortheegghead:30007
+msgctxt "quests/08_roseway/sq_0801_thechickenortheegghead:30007:DefaultText"
+msgid "You completed Vaughn's experiment, but told him that it was busted by raptidons before you got there. He bought it."
+msgstr ""
+
+#: quests/08_roseway/sq_0801_thechickenortheegghead:30008
+msgctxt "quests/08_roseway/sq_0801_thechickenortheegghead:30008:DefaultText"
+msgid "You completed Vaughn's experiment, but threatened to turn him in to Anton if he didn't sweeten the reward he offered. He caved."
+msgstr ""
+
+#: quests/08_roseway/sq_0801_thechickenortheegghead:30009
+msgctxt "quests/08_roseway/sq_0801_thechickenortheegghead:30009:DefaultText"
+msgid "The Auntie Cleo Faction has become hostile towards you, making it impossible to complete this quest."
+msgstr ""
+
+#: quests/08_roseway/sq_0801_thechickenortheegghead:30010
+msgctxt "quests/08_roseway/sq_0801_thechickenortheegghead:30010:DefaultText"
+msgid "You sold all of Vaughn's research, so you can no longer return it to him."
+msgstr ""
+
+#: quests/08_roseway/sq_0801_thechickenortheegghead:40002
+msgctxt "quests/08_roseway/sq_0801_thechickenortheegghead:40002:DefaultText"
+msgid "You found an experiment left running in the lower levels of Auntie Cleo's Secret Lab."
+msgstr ""

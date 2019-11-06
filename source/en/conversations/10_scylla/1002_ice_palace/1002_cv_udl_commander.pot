@@ -1,0 +1,314 @@
+#: conversations/10_scylla/1002_ice_palace/1002_cv_udl_commander:1
+msgctxt "conversations/10_scylla/1002_ice_palace/1002_cv_udl_commander:1:DefaultText"
+msgid "Alright people, stay sharp. That little SubLight sprat could pop out of anywhere."
+msgstr ""
+
+#: conversations/10_scylla/1002_ice_palace/1002_cv_udl_commander:2
+msgctxt "conversations/10_scylla/1002_ice_palace/1002_cv_udl_commander:2:DefaultText"
+msgid "Who shut down these automechs? Someone get them back online."
+msgstr ""
+
+#: conversations/10_scylla/1002_ice_palace/1002_cv_udl_commander:3
+msgctxt "conversations/10_scylla/1002_ice_palace/1002_cv_udl_commander:3:DefaultText"
+msgid "I'm on it."
+msgstr ""
+
+#: conversations/10_scylla/1002_ice_palace/1002_cv_udl_commander:4
+msgctxt "conversations/10_scylla/1002_ice_palace/1002_cv_udl_commander:4:DefaultText"
+msgid "Captain, I've been attempting to contact you with urgent news. However, communicational functionality was impaired due to the power outage."
+msgstr ""
+
+#: conversations/10_scylla/1002_ice_palace/1002_cv_udl_commander:5
+msgctxt "conversations/10_scylla/1002_ice_palace/1002_cv_udl_commander:5:DefaultText"
+msgid "A UDL vessel has been tracking our position and just recently docked with the station. They are patching into the station's transmission lines now. I cannot stop-"
+msgstr ""
+
+#: conversations/10_scylla/1002_ice_palace/1002_cv_udl_commander:6
+msgctxt "conversations/10_scylla/1002_ice_palace/1002_cv_udl_commander:6:DefaultText"
+msgid "I've been waiting for this day since we tagged your ship in Cascadia, Captain. So glad we finally have this opportunity. My ship is docked with Ten Eighty-Four. There's no escape."
+msgstr ""
+
+#: conversations/10_scylla/1002_ice_palace/1002_cv_udl_commander:7
+msgctxt "conversations/10_scylla/1002_ice_palace/1002_cv_udl_commander:7:DefaultText"
+msgid "I have been waiting for this day since we tagged your ship in Cascadia, Captain. I... Wait, who are you? No one told me we had security forces deployed on this station already."
+msgstr ""
+
+#: conversations/10_scylla/1002_ice_palace/1002_cv_udl_commander:8
+msgctxt "conversations/10_scylla/1002_ice_palace/1002_cv_udl_commander:8:DefaultText"
+msgid "You've been poking your nose into restricted locations. This makes my superiors unhappy. I could peel your ship open like a can of boarst, but I'm in a sporting mood."
+msgstr ""
+
+#: conversations/10_scylla/1002_ice_palace/1002_cv_udl_commander:9
+msgctxt "conversations/10_scylla/1002_ice_palace/1002_cv_udl_commander:9:DefaultText"
+msgid "My team has already handled the issue, soldier. Your squad can depart."
+msgstr ""
+
+#: conversations/10_scylla/1002_ice_palace/1002_cv_udl_commander:10
+msgctxt "conversations/10_scylla/1002_ice_palace/1002_cv_udl_commander:10:DefaultText"
+msgid "The smuggler's been handled. Your team isn't cleared to dock at this station."
+msgstr ""
+
+#: conversations/10_scylla/1002_ice_palace/1002_cv_udl_commander:11
+msgctxt "conversations/10_scylla/1002_ice_palace/1002_cv_udl_commander:11:DefaultText"
+msgid "Adjutant Akande would appreciate your discretion in this matter, Commander."
+msgstr ""
+
+#: conversations/10_scylla/1002_ice_palace/1002_cv_udl_commander:12
+msgctxt "conversations/10_scylla/1002_ice_palace/1002_cv_udl_commander:12:DefaultText"
+msgid "Would a cut of the profits change your mind? Say... <oeiglobal>Bribe_Amount</oeiglobal> bits?"
+msgstr ""
+
+#: conversations/10_scylla/1002_ice_palace/1002_cv_udl_commander:13
+msgctxt "conversations/10_scylla/1002_ice_palace/1002_cv_udl_commander:13:DefaultText"
+msgid "You're about to make an enemy of SubLight. Trust me, you don't want that."
+msgstr ""
+
+#: conversations/10_scylla/1002_ice_palace/1002_cv_udl_commander:14
+msgctxt "conversations/10_scylla/1002_ice_palace/1002_cv_udl_commander:14:DefaultText"
+msgid "You won't take me alive."
+msgstr ""
+
+#: conversations/10_scylla/1002_ice_palace/1002_cv_udl_commander:15
+msgctxt "conversations/10_scylla/1002_ice_palace/1002_cv_udl_commander:15:DefaultText"
+msgid "I assure you that was never my intention. See you soon, Captain."
+msgstr ""
+
+#: conversations/10_scylla/1002_ice_palace/1002_cv_udl_commander:16
+msgctxt "conversations/10_scylla/1002_ice_palace/1002_cv_udl_commander:16:DefaultText"
+msgid "Adjutant Akande? Oh. OH. Apologies for wasting your time, Captain. I'll order my squad to stand down at once."
+msgstr ""
+
+#: conversations/10_scylla/1002_ice_palace/1002_cv_udl_commander:17
+msgctxt "conversations/10_scylla/1002_ice_palace/1002_cv_udl_commander:17:DefaultText"
+msgid "Whatever business Ms. Akande has at the station, I hope to see it in your report one day. Safe travels."
+msgstr ""
+
+#: conversations/10_scylla/1002_ice_palace/1002_cv_udl_commander:18
+msgctxt "conversations/10_scylla/1002_ice_palace/1002_cv_udl_commander:18:DefaultText"
+msgid "Roger that. Just as a precaution, I'm sure you won't mind if we turn on the station security systems? Can't be too careful."
+msgstr ""
+
+#: conversations/10_scylla/1002_ice_palace/1002_cv_udl_commander:19
+msgctxt "conversations/10_scylla/1002_ice_palace/1002_cv_udl_commander:19:DefaultText"
+msgid "We'd hate to leave this location undefended after a close call with outlaws."
+msgstr ""
+
+#: conversations/10_scylla/1002_ice_palace/1002_cv_udl_commander:20
+msgctxt "conversations/10_scylla/1002_ice_palace/1002_cv_udl_commander:20:DefaultText"
+msgid "I already reactivated the automechs. Your readout must be on a delay."
+msgstr ""
+
+#: conversations/10_scylla/1002_ice_palace/1002_cv_udl_commander:21
+msgctxt "conversations/10_scylla/1002_ice_palace/1002_cv_udl_commander:21:DefaultText"
+msgid "You shouldn't even know about this station, soldier, let alone interface with it."
+msgstr ""
+
+#: conversations/10_scylla/1002_ice_palace/1002_cv_udl_commander:22
+msgctxt "conversations/10_scylla/1002_ice_palace/1002_cv_udl_commander:22:DefaultText"
+msgid "Do I look like I need some old rustbucket as backup?"
+msgstr ""
+
+#: conversations/10_scylla/1002_ice_palace/1002_cv_udl_commander:23
+msgctxt "conversations/10_scylla/1002_ice_palace/1002_cv_udl_commander:23:DefaultText"
+msgid "As you say. Have a safe trip back."
+msgstr ""
+
+#: conversations/10_scylla/1002_ice_palace/1002_cv_udl_commander:24
+msgctxt "conversations/10_scylla/1002_ice_palace/1002_cv_udl_commander:24:DefaultText"
+msgid "Same to you. Signing off."
+msgstr ""
+
+#: conversations/10_scylla/1002_ice_palace/1002_cv_udl_commander:25
+msgctxt "conversations/10_scylla/1002_ice_palace/1002_cv_udl_commander:25:DefaultText"
+msgid "What was that? You want me to hit this big \"self-destruct\" button?"
+msgstr ""
+
+#: conversations/10_scylla/1002_ice_palace/1002_cv_udl_commander:26
+msgctxt "conversations/10_scylla/1002_ice_palace/1002_cv_udl_commander:26:DefaultText"
+msgid "Hmph, that should have been fixed by now. As you say. We'll just head out, then. Safe travels, soldier."
+msgstr ""
+
+#: conversations/10_scylla/1002_ice_palace/1002_cv_udl_commander:27
+msgctxt "conversations/10_scylla/1002_ice_palace/1002_cv_udl_commander:27:DefaultText"
+msgid "Shit. Thanks for the warning. Last thing I need is to get fined for overriding security on a restricted station. My team and I will just head out, then."
+msgstr ""
+
+#: conversations/10_scylla/1002_ice_palace/1002_cv_udl_commander:28
+msgctxt "conversations/10_scylla/1002_ice_palace/1002_cv_udl_commander:28:DefaultText"
+msgid "Whoa, okay, calm down! I didn't mean anything by it. Jeez. You try and help some people."
+msgstr ""
+
+#: conversations/10_scylla/1002_ice_palace/1002_cv_udl_commander:29
+msgctxt "conversations/10_scylla/1002_ice_palace/1002_cv_udl_commander:29:DefaultText"
+msgid "Let's act as if we never saw each other. Try and keep it that way, Captain."
+msgstr ""
+
+#: conversations/10_scylla/1002_ice_palace/1002_cv_udl_commander:30
+msgctxt "conversations/10_scylla/1002_ice_palace/1002_cv_udl_commander:30:DefaultText"
+msgid "I don't know who you are, but I have nothing to gain by risking my hide against a lunatic. Commander out."
+msgstr ""
+
+#: conversations/10_scylla/1002_ice_palace/1002_cv_udl_commander:31
+msgctxt "conversations/10_scylla/1002_ice_palace/1002_cv_udl_commander:31:DefaultText"
+msgid "Squad, I'm ordering a recall. There's a... misspelling on our orders that ought to be corrected. On the double."
+msgstr ""
+
+#: conversations/10_scylla/1002_ice_palace/1002_cv_udl_commander:32
+msgctxt "conversations/10_scylla/1002_ice_palace/1002_cv_udl_commander:32:DefaultText"
+msgid "[Static] "
+msgstr ""
+
+#: conversations/10_scylla/1002_ice_palace/1002_cv_udl_commander:33
+msgctxt "conversations/10_scylla/1002_ice_palace/1002_cv_udl_commander:33:DefaultText"
+msgid "[Static] "
+msgstr ""
+
+#: conversations/10_scylla/1002_ice_palace/1002_cv_udl_commander:34
+msgctxt "conversations/10_scylla/1002_ice_palace/1002_cv_udl_commander:34:DefaultText"
+msgid "The UDL gunship is undocking from the station. They appear to be departing into space."
+msgstr ""
+
+#: conversations/10_scylla/1002_ice_palace/1002_cv_udl_commander:35
+msgctxt "conversations/10_scylla/1002_ice_palace/1002_cv_udl_commander:35:DefaultText"
+msgid "The UDL gunship remains docked at the station. They must intend to board with a full squad of troops."
+msgstr ""
+
+#: conversations/10_scylla/1002_ice_palace/1002_cv_udl_commander:36
+msgctxt "conversations/10_scylla/1002_ice_palace/1002_cv_udl_commander:36:DefaultText"
+msgid "What's going on, ADA?"
+msgstr ""
+
+#: conversations/10_scylla/1002_ice_palace/1002_cv_udl_commander:37
+msgctxt "conversations/10_scylla/1002_ice_palace/1002_cv_udl_commander:37:DefaultText"
+msgid "I'm a little busy. Can this wait?"
+msgstr ""
+
+#: conversations/10_scylla/1002_ice_palace/1002_cv_udl_commander:38
+msgctxt "conversations/10_scylla/1002_ice_palace/1002_cv_udl_commander:38:DefaultText"
+msgid "Unfortunately, it cannot."
+msgstr ""
+
+#: conversations/10_scylla/1002_ice_palace/1002_cv_udl_commander:39
+msgctxt "conversations/10_scylla/1002_ice_palace/1002_cv_udl_commander:39:DefaultText"
+msgid "What do you want?"
+msgstr ""
+
+#: conversations/10_scylla/1002_ice_palace/1002_cv_udl_commander:42
+msgctxt "conversations/10_scylla/1002_ice_palace/1002_cv_udl_commander:42:DefaultText"
+msgid "I think you've got the wrong guy."
+msgstr ""
+
+#: conversations/10_scylla/1002_ice_palace/1002_cv_udl_commander:42
+msgctxt "conversations/10_scylla/1002_ice_palace/1002_cv_udl_commander:42:FemaleText"
+msgid "I think you've got the wrong gal."
+msgstr ""
+
+#: conversations/10_scylla/1002_ice_palace/1002_cv_udl_commander:43
+msgctxt "conversations/10_scylla/1002_ice_palace/1002_cv_udl_commander:43:DefaultText"
+msgid "<Cut the transmission.>"
+msgstr ""
+
+#: conversations/10_scylla/1002_ice_palace/1002_cv_udl_commander:44
+msgctxt "conversations/10_scylla/1002_ice_palace/1002_cv_udl_commander:44:DefaultText"
+msgid "I think not. The refueling system at Cascadia's landing pad logged your ship ID."
+msgstr ""
+
+#: conversations/10_scylla/1002_ice_palace/1002_cv_udl_commander:45
+msgctxt "conversations/10_scylla/1002_ice_palace/1002_cv_udl_commander:45:DefaultText"
+msgid "An adequate sum. They must pay you smugglers better than I thought. "
+msgstr ""
+
+#: conversations/10_scylla/1002_ice_palace/1002_cv_udl_commander:59
+msgctxt "conversations/10_scylla/1002_ice_palace/1002_cv_udl_commander:59:DefaultText"
+msgid "I didn't say that. How did you gain access to that system? Stop it at once!"
+msgstr ""
+
+#: conversations/10_scylla/1002_ice_palace/1002_cv_udl_commander:60
+msgctxt "conversations/10_scylla/1002_ice_palace/1002_cv_udl_commander:60:DefaultText"
+msgid "SubLight? Ugh. I hate it when you outlaws organize. The paperwork for killing you would be the death of me."
+msgstr ""
+
+#: conversations/10_scylla/1002_ice_palace/1002_cv_udl_commander:61
+msgctxt "conversations/10_scylla/1002_ice_palace/1002_cv_udl_commander:61:DefaultText"
+msgid "Sorry. Better luck next time."
+msgstr ""
+
+#: conversations/10_scylla/1002_ice_palace/1002_cv_udl_commander:62
+msgctxt "conversations/10_scylla/1002_ice_palace/1002_cv_udl_commander:62:DefaultText"
+msgid "Now I feel bad. Want to fight me anyway, off the record?"
+msgstr ""
+
+#: conversations/10_scylla/1002_ice_palace/1002_cv_udl_commander:63
+msgctxt "conversations/10_scylla/1002_ice_palace/1002_cv_udl_commander:63:DefaultText"
+msgid "Don't apologize. This is my problem, not yours."
+msgstr ""
+
+#: conversations/10_scylla/1002_ice_palace/1002_cv_udl_commander:64
+msgctxt "conversations/10_scylla/1002_ice_palace/1002_cv_udl_commander:64:DefaultText"
+msgid "That's kind of you to ask, but we have a tight schedule. It's open season on trespassers."
+msgstr ""
+
+#: conversations/10_scylla/1002_ice_palace/1002_cv_udl_commander:65
+msgctxt "conversations/10_scylla/1002_ice_palace/1002_cv_udl_commander:65:DefaultText"
+msgid "<Hit a random key.> Welcome to Hell, Commander. "
+msgstr ""
+
+#: conversations/10_scylla/1002_ice_palace/1002_cv_udl_commander:66
+msgctxt "conversations/10_scylla/1002_ice_palace/1002_cv_udl_commander:66:DefaultText"
+msgid "Just kidding. Or am I? Want to find out the hard way?"
+msgstr ""
+
+#: conversations/10_scylla/1002_ice_palace/1002_cv_udl_commander:68
+msgctxt "conversations/10_scylla/1002_ice_palace/1002_cv_udl_commander:68:DefaultText"
+msgid "Nooo!"
+msgstr ""
+
+#: conversations/10_scylla/1002_ice_palace/1002_cv_udl_commander:69
+msgctxt "conversations/10_scylla/1002_ice_palace/1002_cv_udl_commander:69:DefaultText"
+msgid "Did you... did you hit it yet? What's happening in there?"
+msgstr ""
+
+#: conversations/10_scylla/1002_ice_palace/1002_cv_udl_commander:70
+msgctxt "conversations/10_scylla/1002_ice_palace/1002_cv_udl_commander:70:DefaultText"
+msgid "It's all commission, but the benefits are pretty good."
+msgstr ""
+
+#: conversations/10_scylla/1002_ice_palace/1002_cv_udl_commander:71
+msgctxt "conversations/10_scylla/1002_ice_palace/1002_cv_udl_commander:71:DefaultText"
+msgid "You should consider a new line of work."
+msgstr ""
+
+#: conversations/10_scylla/1002_ice_palace/1002_cv_udl_commander:72
+msgctxt "conversations/10_scylla/1002_ice_palace/1002_cv_udl_commander:72:DefaultText"
+msgid "Can I do that? Why, I wouldn't even know where to begin..."
+msgstr ""
+
+#: conversations/10_scylla/1002_ice_palace/1002_cv_udl_commander:74
+msgctxt "conversations/10_scylla/1002_ice_palace/1002_cv_udl_commander:74:DefaultText"
+msgid "Really? Hm. Call me intrigued."
+msgstr ""
+
+#: conversations/10_scylla/1002_ice_palace/1002_cv_udl_commander:75
+msgctxt "conversations/10_scylla/1002_ice_palace/1002_cv_udl_commander:75:DefaultText"
+msgid "Oh, I see you have activated your Holographic Shroud, Captain. Excellent. Becoming indistinguishable from an authentic UDL trooper will prove advantageous to your current situation."
+msgstr ""
+
+#: conversations/10_scylla/1002_ice_palace/1002_cv_udl_commander:76
+msgctxt "conversations/10_scylla/1002_ice_palace/1002_cv_udl_commander:76:DefaultText"
+msgid "That's need-to-know, soldier! Now depart before you're reassigned to sewage detail."
+msgstr ""
+
+#: conversations/10_scylla/1002_ice_palace/1002_cv_udl_commander:77
+msgctxt "conversations/10_scylla/1002_ice_palace/1002_cv_udl_commander:77:DefaultText"
+msgid "Everything's perfectly all right now. We're fine. How are you?"
+msgstr ""
+
+#: conversations/10_scylla/1002_ice_palace/1002_cv_udl_commander:78
+msgctxt "conversations/10_scylla/1002_ice_palace/1002_cv_udl_commander:78:DefaultText"
+msgid "You're... fine? Who is this? What's your operating number?"
+msgstr ""
+
+#: conversations/10_scylla/1002_ice_palace/1002_cv_udl_commander:79
+msgctxt "conversations/10_scylla/1002_ice_palace/1002_cv_udl_commander:79:DefaultText"
+msgid "Belay that. I don't know how you've managed to look like a UDL trooper, but there's no way you're one of us."
+msgstr ""

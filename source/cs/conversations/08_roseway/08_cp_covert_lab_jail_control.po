@@ -1,0 +1,25 @@
+#: conversations/08_roseway/08_cp_covert_lab_jail_control:1
+msgctxt "conversations/08_roseway/08_cp_covert_lab_jail_control:1:DefaultText"
+msgid "Containment Cell Control Terminal\r\n"
+"\r\n"
+"Please enter a command:"
+msgstr ""
+
+#: conversations/08_roseway/08_cp_covert_lab_jail_control:2
+msgctxt "conversations/08_roseway/08_cp_covert_lab_jail_control:2:DefaultText"
+msgid "[Unlock and Open Containment Cells]"
+msgstr ""
+
+#: conversations/08_roseway/08_cp_covert_lab_jail_control:6
+msgctxt "conversations/08_roseway/08_cp_covert_lab_jail_control:6:DefaultText"
+msgid "[Exit]"
+msgstr ""
+
+#: conversations/08_roseway/08_cp_covert_lab_jail_control:7
+msgctxt "conversations/08_roseway/08_cp_covert_lab_jail_control:7:DefaultText"
+msgid "Command received.\r\n"
+"\r\n"
+"Unlocking cell doors.\r\n"
+"\r\n"
+"Please enter a command:"
+msgstr ""

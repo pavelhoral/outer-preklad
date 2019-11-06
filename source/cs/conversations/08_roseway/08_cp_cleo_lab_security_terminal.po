@@ -1,0 +1,163 @@
+#: conversations/08_roseway/08_cp_cleo_lab_security_terminal:2
+msgctxt "conversations/08_roseway/08_cp_cleo_lab_security_terminal:2:DefaultText"
+msgid "[Messages]"
+msgstr ""
+
+#: conversations/08_roseway/08_cp_cleo_lab_security_terminal:3
+msgctxt "conversations/08_roseway/08_cp_cleo_lab_security_terminal:3:DefaultText"
+msgid "[Exit]"
+msgstr ""
+
+#: conversations/08_roseway/08_cp_cleo_lab_security_terminal:4
+msgctxt "conversations/08_roseway/08_cp_cleo_lab_security_terminal:4:DefaultText"
+msgid "MESSAGES\n"
+"------------------------------\n"
+"Employee ID: 791611\n"
+"Employee Name: Porter, Reuben\n"
+"Project: Chief Site Safety Engineer\n"
+"\n"
+"[1. From: Porter, R.]\n"
+"[2. From: Martinez, J.]\n"
+"[3. From: Porter, R.]"
+msgstr ""
+
+#: conversations/08_roseway/08_cp_cleo_lab_security_terminal:5
+msgctxt "conversations/08_roseway/08_cp_cleo_lab_security_terminal:5:DefaultText"
+msgid "[FROM: R. Porter]"
+msgstr ""
+
+#: conversations/08_roseway/08_cp_cleo_lab_security_terminal:6
+msgctxt "conversations/08_roseway/08_cp_cleo_lab_security_terminal:6:DefaultText"
+msgid "[FROM: J. Martinez]"
+msgstr ""
+
+#: conversations/08_roseway/08_cp_cleo_lab_security_terminal:7
+msgctxt "conversations/08_roseway/08_cp_cleo_lab_security_terminal:7:DefaultText"
+msgid "[Exit]"
+msgstr ""
+
+#: conversations/08_roseway/08_cp_cleo_lab_security_terminal:8
+msgctxt "conversations/08_roseway/08_cp_cleo_lab_security_terminal:8:DefaultText"
+msgid "We need a new code for the armory lock over in the storage facility. Make it complicated so Orson can't sneak in there again, and do NOT write it down this time. Use your brains.\r\n"
+"\r\n"
+"-- Porter"
+msgstr ""
+
+#: conversations/08_roseway/08_cp_cleo_lab_security_terminal:10
+msgctxt "conversations/08_roseway/08_cp_cleo_lab_security_terminal:10:DefaultText"
+msgid "[FROM: R. Porter]"
+msgstr ""
+
+#: conversations/08_roseway/08_cp_cleo_lab_security_terminal:12
+msgctxt "conversations/08_roseway/08_cp_cleo_lab_security_terminal:12:DefaultText"
+msgid "How about, in this order:\r\n"
+"- The month of your birthday, 1\r\n"
+"- How many security rotations we have per hour, 2\r\n"
+"- The number of accidents we've had this month involving that damn culture processor, 3\r\n"
+"- The maximum volume, in milliliters of raptidon stomach acid a human being can ingest before we consider it lethal, 4"
+msgstr ""
+
+#: conversations/08_roseway/08_cp_cleo_lab_security_terminal:13
+msgctxt "conversations/08_roseway/08_cp_cleo_lab_security_terminal:13:DefaultText"
+msgid "Sounds fine. Thanks.\r\n"
+"\r\n"
+"-- Porter"
+msgstr ""
+
+#: conversations/08_roseway/08_cp_cleo_lab_security_terminal:14
+msgctxt "conversations/08_roseway/08_cp_cleo_lab_security_terminal:14:DefaultText"
+msgid "[Lift Lockdown: Hallway Door]"
+msgstr ""
+
+#: conversations/08_roseway/08_cp_cleo_lab_security_terminal:15
+msgctxt "conversations/08_roseway/08_cp_cleo_lab_security_terminal:15:DefaultText"
+msgid "Hallway door unlocked. As is protocol, unauthorized entry will be marked in site supervisor CRANE, A.'s records."
+msgstr ""
+
+#: conversations/08_roseway/08_cp_cleo_lab_security_terminal:19
+msgctxt "conversations/08_roseway/08_cp_cleo_lab_security_terminal:19:DefaultText"
+msgid "Argos Security Systems\n"
+"---------------------------------\n"
+"SECURITY LOCKDOWN\n"
+"\n"
+"All personnel please report to assigned workstations. Report suspicious activity to the nearest Site Safety Engineer.\n"
+"---------------------------------\n"
+"Auntie Cleo Auntie-Biotics™: served fresh from our petri dishes to YOUR personal crevices."
+msgstr ""
+
+#: conversations/08_roseway/08_cp_cleo_lab_security_terminal:20
+msgctxt "conversations/08_roseway/08_cp_cleo_lab_security_terminal:20:DefaultText"
+msgid "Argos Security Systems\r\n"
+"---------------------------------\r\n"
+"SECURITY LOCKDOWN\r\n"
+"\r\n"
+"All personnel please report to assigned workstations. Report suspicious activity to the nearest Site Safety Engineer.\r\n"
+"---------------------------------\r\n"
+"\"Auntie Cleo's - Better than Nature!\"™"
+msgstr ""
+
+#: conversations/08_roseway/08_cp_cleo_lab_security_terminal:21
+msgctxt "conversations/08_roseway/08_cp_cleo_lab_security_terminal:21:DefaultText"
+msgid "Argos Security Systems\r\n"
+"---------------------------------\r\n"
+"SECURITY LOCKDOWN\r\n"
+"\r\n"
+"All personnel please report to assigned workstations. Report suspicious activity to the nearest Site Safety Engineer.\r\n"
+"---------------------------------\r\n"
+"Feeling irate? Try Auntie Cleo's Nar-Choc-Lectic™ bars. Now with 3% real CCN76."
+msgstr ""
+
+#: conversations/08_roseway/08_cp_cleo_lab_security_terminal:22
+msgctxt "conversations/08_roseway/08_cp_cleo_lab_security_terminal:22:DefaultText"
+msgid "Argos Security Systems\r\n"
+"---------------------------------\r\n"
+"SECURITY LOCKDOWN\r\n"
+"\r\n"
+"All personnel please report to assigned workstations. Report suspicious activity to the nearest Site Safety Engineer.\r\n"
+"---------------------------------\r\n"
+"Have you brushed your teeth with Auntie's Blinding White Paste™ today?"
+msgstr ""
+
+#: conversations/08_roseway/08_cp_cleo_lab_security_terminal:23
+msgctxt "conversations/08_roseway/08_cp_cleo_lab_security_terminal:23:DefaultText"
+msgid "Argos Security Systems\r\n"
+"---------------------------------\r\n"
+"SECURITY LOCKDOWN\r\n"
+"\r\n"
+"All personnel please report to assigned workstations. Report suspicious activity to the nearest Site Safety Engineer.\r\n"
+"---------------------------------\r\n"
+"Parents who buy Auntie Cleo should have children who buy Auntie Cleo."
+msgstr ""
+
+#: conversations/08_roseway/08_cp_cleo_lab_security_terminal:24
+msgctxt "conversations/08_roseway/08_cp_cleo_lab_security_terminal:24:DefaultText"
+msgid "Argos Security Systems\r\n"
+"---------------------------------\r\n"
+"SECURITY LOCKDOWN\r\n"
+"\r\n"
+"All personnel please report to assigned workstations. Report suspicious activity to the nearest Site Safety Engineer.\r\n"
+"---------------------------------\r\n"
+"Tired of itchy acid burns? Try Auntie Cleo's artisanal boarst-scented moisturizing cream."
+msgstr ""
+
+#: conversations/08_roseway/08_cp_cleo_lab_security_terminal:25
+msgctxt "conversations/08_roseway/08_cp_cleo_lab_security_terminal:25:DefaultText"
+msgid "Argos Security Systems\r\n"
+"---------------------------------\r\n"
+"SECURITY LOCKDOWN\r\n"
+"\r\n"
+"All personnel please report to assigned workstations. Report suspicious activity to the nearest Site Safety Engineer.\r\n"
+"---------------------------------\r\n"
+"Try Auntie Cleo's Handi-Off™, the surgical stain remover of choice."
+msgstr ""
+
+#: conversations/08_roseway/08_cp_cleo_lab_security_terminal:26
+msgctxt "conversations/08_roseway/08_cp_cleo_lab_security_terminal:26:DefaultText"
+msgid "Argos Security Systems\r\n"
+"---------------------------------\r\n"
+"SECURITY LOCKDOWN\r\n"
+"\r\n"
+"All personnel please report to assigned workstations. Report suspicious activity to the nearest Site Safety Engineer.\r\n"
+"---------------------------------\r\n"
+"Unsightly bloodstains? Consider Auntie Cleo's laundry soap. Now with a refreshing lemon zing scent."
+msgstr ""

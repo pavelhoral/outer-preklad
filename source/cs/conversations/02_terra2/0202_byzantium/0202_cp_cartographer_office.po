@@ -1,0 +1,110 @@
+#: conversations/02_terra2/0202_byzantium/0202_cp_cartographer_office:1
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cp_cartographer_office:1:DefaultText"
+msgid "Halcyon Holdings Corporation\r\n"
+"\r\n"
+"Bureau of Exploration\r\n"
+"========================\r\n"
+"\r\n"
+"Terminal Access\r\n"
+""
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cp_cartographer_office:2
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cp_cartographer_office:2:DefaultText"
+msgid "[Messages]"
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cp_cartographer_office:3
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cp_cartographer_office:3:DefaultText"
+msgid "[Exit]"
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cp_cartographer_office:4
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cp_cartographer_office:4:DefaultText"
+msgid "Halcyon Holdings Corporation\r\n"
+"\r\n"
+"Bureau of Exploration\r\n"
+"========================\r\n"
+"\r\n"
+"Messages\r\n"
+"\r\n"
+"Welcome, Rachel Lockwood"
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cp_cartographer_office:5
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cp_cartographer_office:5:DefaultText"
+msgid "[TO: S. Jiao]"
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cp_cartographer_office:6
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cp_cartographer_office:6:DefaultText"
+msgid "[FROM: J. Lockwood]"
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cp_cartographer_office:7
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cp_cartographer_office:7:DefaultText"
+msgid "[TO: W. Billingsly]"
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cp_cartographer_office:8
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cp_cartographer_office:8:DefaultText"
+msgid "[Return to Root]"
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cp_cartographer_office:10
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cp_cartographer_office:10:DefaultText"
+msgid "Halcyon Holdings Corporation\r\n"
+"\r\n"
+"Bureau of Exploration\r\n"
+"========================\r\n"
+"\r\n"
+"Messages\r\n"
+"FROM: R. Lockwood\r\n"
+"TO: S. Jiao\r\n"
+"SUBJECT: Medical Treatment\r\n"
+"\r\n"
+"Sandra,\r\n"
+"\r\n"
+"Just got back from Billingsly's. Had not one, not two, but three NearMaple liqueurs. Almost done with this project I've been working on for the past six months. Decided to celebrate. Hey, don't worry. I'll save some celebrating for the two of us. I'm thinking maybe Celeste's Haberdashery. Stop over at Lovegrove's. Couple hours at Chancery's. End the night with a bang at Bijou's. What do you think?"
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cp_cartographer_office:11
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cp_cartographer_office:11:DefaultText"
+msgid "Halcyon Holdings Corporation\r\n"
+"\r\n"
+"Bureau of Exploration\r\n"
+"========================\r\n"
+"\r\n"
+"Messages\r\n"
+"FROM: J. Lockwood\r\n"
+"TO: R. Lockwood\r\n"
+"SUBJECT: Your Receptionist\r\n"
+"\r\n"
+"Rachel,\r\n"
+"\r\n"
+"I don't like hearing rumors about my daughter having a drink with her own receptionist. We've talked about this. Victor's family has fallen out of favor. If he was worthy of your attention, he would've made a senior position by now. Don't drag the Lockwood name down with him.\r\n"
+""
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cp_cartographer_office:12
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cp_cartographer_office:12:DefaultText"
+msgid "Halcyon Holdings Corporation\r\n"
+"\r\n"
+"Bureau of Exploration\r\n"
+"========================\r\n"
+"\r\n"
+"Messages\r\n"
+"FROM: R. Lockwood\r\n"
+"TO: W. Billingsly\r\n"
+"SUBJECT: Help\r\n"
+"\r\n"
+"William,\r\n"
+"\r\n"
+"Two of my colleagues went missing last night. No one's heard from them, and I'm afraid I might be next.\r\n"
+"\r\n"
+"I need to go away for a little while. A few days, maybe a week. Just until everything sorts itself out. I wish I could tell you more, but I can't. I'm sorry.\r\n"
+"\r\n"
+"I'm going down into the tunnels. I was wondering if you could send one of your mechanicals with some food or something, please? Maybe some cocktail olives and p-free nuts. I'll pay you back.\r\n"
+"\r\n"
+"Rachel"
+msgstr ""

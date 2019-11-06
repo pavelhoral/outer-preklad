@@ -1,0 +1,25 @@
+#: conversations/02_terra2/0231_bureau/0231_cp_cryo_lab_01:1
+msgctxt "conversations/02_terra2/0231_bureau/0231_cp_cryo_lab_01:1:DefaultText"
+msgid "Ministry of Accuracy and Morale\n"
+"========================\n"
+"When at first you don't succeed, log your results and notify your supervisor!"
+msgstr ""
+
+#: conversations/02_terra2/0231_bureau/0231_cp_cryo_lab_01:2
+msgctxt "conversations/02_terra2/0231_bureau/0231_cp_cryo_lab_01:2:DefaultText"
+msgid "[View Lab Notes]"
+msgstr ""
+
+#: conversations/02_terra2/0231_bureau/0231_cp_cryo_lab_01:3
+msgctxt "conversations/02_terra2/0231_bureau/0231_cp_cryo_lab_01:3:DefaultText"
+msgid "Long-Term Hibernation Experiments\r\n"
+"========================\r\n"
+"Tests are ongoing, but so far, we've had little success in adjusting the hibernation process to safely allow long-term subject storage and revival.\r\n"
+"\r\n"
+"Short of a major breakthrough, we'll have to hope they have more success next door with the revivifying formula."
+msgstr ""
+
+#: conversations/02_terra2/0231_bureau/0231_cp_cryo_lab_01:4
+msgctxt "conversations/02_terra2/0231_bureau/0231_cp_cryo_lab_01:4:DefaultText"
+msgid "[Exit]"
+msgstr ""

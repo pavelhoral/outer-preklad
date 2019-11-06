@@ -1,0 +1,44 @@
+#: conversations/00_emerald_vale/00_cp_cannery_terminal_01:1
+msgctxt "conversations/00_emerald_vale/00_cp_cannery_terminal_01:1:DefaultText"
+msgid "Edgewater Saltuna Cannery\r\n"
+"\r\n"
+"A Spacer's Choice Property\r\n"
+"========================\r\n"
+"\r\n"
+"Terminal Access\r\n"
+"\r\n"
+"Company Notifications"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cp_cannery_terminal_01:2
+msgctxt "conversations/00_emerald_vale/00_cp_cannery_terminal_01:2:DefaultText"
+msgid "[Continue]"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cp_cannery_terminal_01:3
+msgctxt "conversations/00_emerald_vale/00_cp_cannery_terminal_01:3:DefaultText"
+msgid "Edgewater Saltuna Cannery\r\n"
+"\r\n"
+"A Spacer's Choice Property\r\n"
+"========================\n"
+"\n"
+"From the office of Reed Tobson, Outpost Administrator:\n"
+"\n"
+"Symptoms of infection have now reached a critical mass. I have instructed our staff to transform the old domicile into a sick house.\n"
+"\n"
+"Plague is a reality of life on the frontier. And as Spacers, we are expected to face up to reality. And the reality is that we do not carry enough medicine to treat all of you.\n"
+"\n"
+"Medical treatment is a privilege, not a right. We must strive every day to demonstrate our worthiness of that privilege. \n"
+"\n"
+"If you find yourself suffering the symptoms of incipient plague, the best thing you can do for yourself and for your family is to don your jumpers and come to work. Work fortifies the spirit. Physical illness recapitulates spiritual weakness."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cp_cannery_terminal_01:4
+msgctxt "conversations/00_emerald_vale/00_cp_cannery_terminal_01:4:DefaultText"
+msgid "[Exit]"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cp_cannery_terminal_01:5
+msgctxt "conversations/00_emerald_vale/00_cp_cannery_terminal_01:5:DefaultText"
+msgid "[Return to Root]"
+msgstr ""

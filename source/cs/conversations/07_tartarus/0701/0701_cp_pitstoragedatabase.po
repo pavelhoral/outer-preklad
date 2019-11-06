@@ -1,0 +1,59 @@
+#: conversations/07_tartarus/0701/0701_cp_pitstoragedatabase:1
+msgctxt "conversations/07_tartarus/0701/0701_cp_pitstoragedatabase:1:DefaultText"
+msgid "LBR-NTH Storage Terminal\r\n"
+"============================\r\n"
+"Note from your favorite Warden: PLEASE do not leave perishables in here. We marked this as \"cold storage\" because we're starting to move pods in here. This is not an actual freezer.\r\n"
+"\r\n"
+"The next time I find a decomposing woolycow box in here, I'm leaving it on the air conditioning intake for a week."
+msgstr ""
+
+#: conversations/07_tartarus/0701/0701_cp_pitstoragedatabase:2
+msgctxt "conversations/07_tartarus/0701/0701_cp_pitstoragedatabase:2:DefaultText"
+msgid "[Access Architectural Records]"
+msgstr ""
+
+#: conversations/07_tartarus/0701/0701_cp_pitstoragedatabase:4
+msgctxt "conversations/07_tartarus/0701/0701_cp_pitstoragedatabase:4:DefaultText"
+msgid "[Access Storage Manifest]"
+msgstr ""
+
+#: conversations/07_tartarus/0701/0701_cp_pitstoragedatabase:5
+msgctxt "conversations/07_tartarus/0701/0701_cp_pitstoragedatabase:5:DefaultText"
+msgid "LBR-NTH Storage Terminal\r\n"
+"============================\r\n"
+"IN: Dimethyl Sulfoxide Canisters\r\n"
+"OUT: Straitjackets; Riot Batons\r\n"
+"OUT: Ballistics Vests\r\n"
+"IN: Hibernation Chamber\r\n"
+"OUT: Indoctrination Pamphlets\r\n"
+"IN: Forced Pacification System Refills\r\n"
+"IN: Hibernation Chamber \r\n"
+"IN: Material Storage and Shipping Containers"
+msgstr ""
+
+#: conversations/07_tartarus/0701/0701_cp_pitstoragedatabase:6
+msgctxt "conversations/07_tartarus/0701/0701_cp_pitstoragedatabase:6:DefaultText"
+msgid "LBR-NTH Storage Terminal\r\n"
+"============================\r\n"
+"Structural Changes Needed to Accomodate Hibernation Chambers in the LBR-NTH Facility\r\n"
+"\r\n"
+"An analysis from engineers Rodfield, Crane, and Geist.\r\n"
+"\r\n"
+"Beginning with the requirement that every chamber receive a constant supply of--at minimum--thirty-four kilowatts, and that occupants of these chambers be injected with a steady supply of UDL's patented Vit-o Hibernation Fluid, and...\r\n"
+"\r\n"
+"(This run-on sentence carries on for twelve pages before finally concluding.)\r\n"
+"\r\n"
+"...and thus, in order to maintain structural integrity throughout the area designated \"the Pit,\" we recommend that chambers are installed in cylindrical fashion around a supporting structure dug into the crust of Tartarus, to a maximum depth of...\r\n"
+"\r\n"
+"(This conclusion extends for another two pages.)"
+msgstr ""
+
+#: conversations/07_tartarus/0701/0701_cp_pitstoragedatabase:37
+msgctxt "conversations/07_tartarus/0701/0701_cp_pitstoragedatabase:37:DefaultText"
+msgid "[Continue]"
+msgstr ""
+
+#: conversations/07_tartarus/0701/0701_cp_pitstoragedatabase:38
+msgctxt "conversations/07_tartarus/0701/0701_cp_pitstoragedatabase:38:DefaultText"
+msgid "[Exit]"
+msgstr ""

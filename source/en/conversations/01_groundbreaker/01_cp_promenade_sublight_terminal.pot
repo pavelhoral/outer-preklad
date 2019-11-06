@@ -1,0 +1,108 @@
+#: conversations/01_groundbreaker/01_cp_promenade_sublight_terminal:1
+msgctxt "conversations/01_groundbreaker/01_cp_promenade_sublight_terminal:1:DefaultText"
+msgid "SubLight Salvage & Shipping\n"
+"=======================\r\n"
+"\r\n"
+"Warehouse Terminal\r\n"
+"\r\n"
+"Main menu"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_promenade_sublight_terminal:2
+msgctxt "conversations/01_groundbreaker/01_cp_promenade_sublight_terminal:2:DefaultText"
+msgid "[Messages]"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_promenade_sublight_terminal:3
+msgctxt "conversations/01_groundbreaker/01_cp_promenade_sublight_terminal:3:DefaultText"
+msgid "[Exit]"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_promenade_sublight_terminal:4
+msgctxt "conversations/01_groundbreaker/01_cp_promenade_sublight_terminal:4:DefaultText"
+msgid "SubLight Salvage & Shipping\n"
+"=======================\r\n"
+"\r\n"
+"Messages"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_promenade_sublight_terminal:5
+msgctxt "conversations/01_groundbreaker/01_cp_promenade_sublight_terminal:5:DefaultText"
+msgid "[FROM: L. Hagen, SUBJECT: DON'T RUN]"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_promenade_sublight_terminal:6
+msgctxt "conversations/01_groundbreaker/01_cp_promenade_sublight_terminal:6:DefaultText"
+msgid "[FROM: L. Hagen, SUBJECT: Fallbrook shipments]"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_promenade_sublight_terminal:7
+msgctxt "conversations/01_groundbreaker/01_cp_promenade_sublight_terminal:7:DefaultText"
+msgid "[FROM: L. Hagen, SUBJECT: This week in salvage]"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_promenade_sublight_terminal:8
+msgctxt "conversations/01_groundbreaker/01_cp_promenade_sublight_terminal:8:DefaultText"
+msgid "[Return to Root]"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_promenade_sublight_terminal:9
+msgctxt "conversations/01_groundbreaker/01_cp_promenade_sublight_terminal:9:DefaultText"
+msgid "SubLight Salvage & Shipping\n"
+"=======================\r\n"
+"\r\n"
+"FROM: HAGEN, L.\r\n"
+"TO: SL_COMPANY_ALL\r\n"
+"SUBJECT: DON'T RUN\r\n"
+"\r\n"
+"We lost another contractor to a UDL gunship. This is your daily reminder that legitimate businesses don't run from the authorities. And that. Is what. We are. Stay calm. Present your papers. If you get tangled up in the courts, I will personally bail you out. \r\n"
+"\r\n"
+"Anyone seen Hawthorne lately? I could use some reliable help.\r\n"
+"\r\n"
+"L.H. "
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_promenade_sublight_terminal:10
+msgctxt "conversations/01_groundbreaker/01_cp_promenade_sublight_terminal:10:DefaultText"
+msgid "SubLight Salvage & Shipping\n"
+"=======================\r\n"
+"\r\n"
+"FROM: HAGEN, L.\r\n"
+"TO: SL_COMPANY_ALL\r\n"
+"SUBJECT: Fallbrook shipments\r\n"
+"\r\n"
+"Unlike most of you sprats, Catherine is bringing SubLight a consistent income. From today until I say so, you're to treat her as an extension of my desk. Speaking of which, Tobias - order an extension for my desk.\r\n"
+"\r\n"
+"L.H. \r\n"
+"\r\n"
+"Fallbrook Shipment\r\n"
+"\r\n"
+"-Purpleberry Liqueur - lots.\r\n"
+"-Spectrum Vodka - even more than that.\r\n"
+"-Erotica, generic - the locals aren't picky.\r\n"
+"-Erotica, exotic - ...except for the ones who are.\r\n"
+"-Space Cake Surprise - I don't know what this is, but it was on last month's order list, so either track some down or do your best in the kitchen. \r\n"
+"-\"Black Hole\" Holcomb signed Tossball poster. \r\n"
+"\r\n"
+"PS. Tobias - where are we with that desk extension? "
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_promenade_sublight_terminal:11
+msgctxt "conversations/01_groundbreaker/01_cp_promenade_sublight_terminal:11:DefaultText"
+msgid "SubLight Salvage & Shipping\n"
+"=======================\r\n"
+"\r\n"
+"FROM: HAGEN, L.\r\n"
+"TO: SL_COMPANY_ALL\r\n"
+"SUBJECT: This week in salvage\r\n"
+"\r\n"
+"-My scanner says the Mardets impounded a freelancer ship after the captain misbehaved. The crew dropped so many bits at Vera's place that they can't afford to lift the impound. Whoever gets me salvage rights gets to sit quietly in my office and watch a professional work. \r\n"
+"\r\n"
+"-One of Ours had an altercation with one of Theirs. Lost another contractor. Scrapped the ship, dedicated a tenth of the salvage to funeral expenses. I take care of my people.\r\n"
+"\r\n"
+"-A little sprat told me that a crate of spoiled cystipork ended up at the bottom of a Monarch canyon. Let's see how much we can sell. Speaking of which, no one eat at Auntie Cleo's stall until I say so. Something in the kitchen's gone bad.\r\n"
+"\r\n"
+"-The next time one of us \"finds\" an \"abandoned\" ship and \"decommissions\" it, they had better dispatch a ground team to the debris field before the marauders have their turn. Just because we're salvagers doesn't mean we have to be scavengers. \r\n"
+"\r\n"
+"L.H. "
+msgstr ""

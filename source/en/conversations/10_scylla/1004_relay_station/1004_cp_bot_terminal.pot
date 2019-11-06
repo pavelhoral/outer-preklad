@@ -1,0 +1,107 @@
+#: conversations/10_scylla/1004_relay_station/1004_cp_bot_terminal:1
+msgctxt "conversations/10_scylla/1004_relay_station/1004_cp_bot_terminal:1:DefaultText"
+msgid "Relay Station GB-23\r\n"
+"----------------------------\r\n"
+"\r\n"
+"Automechanical Home Security Control System: \r\n"
+"Please select from the following options:"
+msgstr ""
+
+#: conversations/10_scylla/1004_relay_station/1004_cp_bot_terminal:2
+msgctxt "conversations/10_scylla/1004_relay_station/1004_cp_bot_terminal:2:DefaultText"
+msgid "[Update Security Routines]"
+msgstr ""
+
+#: conversations/10_scylla/1004_relay_station/1004_cp_bot_terminal:3
+msgctxt "conversations/10_scylla/1004_relay_station/1004_cp_bot_terminal:3:DefaultText"
+msgid "[Exit]"
+msgstr ""
+
+#: conversations/10_scylla/1004_relay_station/1004_cp_bot_terminal:8
+msgctxt "conversations/10_scylla/1004_relay_station/1004_cp_bot_terminal:8:DefaultText"
+msgid "Relay Station GB-23\r\n"
+"----------------------------\r\n"
+"\r\n"
+"Security Routines\r\n"
+"---------------------------------\n"
+"\r\n"
+"\r\n"
+"Please select from the following options:"
+msgstr ""
+
+#: conversations/10_scylla/1004_relay_station/1004_cp_bot_terminal:10
+msgctxt "conversations/10_scylla/1004_relay_station/1004_cp_bot_terminal:10:DefaultText"
+msgid "[Display Unit Status]"
+msgstr ""
+
+#: conversations/10_scylla/1004_relay_station/1004_cp_bot_terminal:12
+msgctxt "conversations/10_scylla/1004_relay_station/1004_cp_bot_terminal:12:DefaultText"
+msgid "[Begin Charging Cycle]"
+msgstr ""
+
+#: conversations/10_scylla/1004_relay_station/1004_cp_bot_terminal:13
+msgctxt "conversations/10_scylla/1004_relay_station/1004_cp_bot_terminal:13:DefaultText"
+msgid "Relay Station GB-23\r\n"
+"----------------------------\r\n"
+"\r\n"
+"Security Routines\r\n"
+"---------------------------------\n"
+"\r\n"
+"Beginning charging cycles for all units...\r\n"
+"\r\n"
+"ACTION COMPLETE"
+msgstr ""
+
+#: conversations/10_scylla/1004_relay_station/1004_cp_bot_terminal:14
+msgctxt "conversations/10_scylla/1004_relay_station/1004_cp_bot_terminal:14:DefaultText"
+msgid "Relay Station GB-23\r\n"
+"----------------------------\r\n"
+"\r\n"
+"Security Review\r\n"
+"---------------------------------\n"
+"\r\n"
+"<<< UNIT STATUS >>>\r\n"
+"-------------\r\n"
+"_0_ mechanicals set to charging routine\r\n"
+"_6_ mechanicals set to patrol designated areas\r\n"
+"\r\n"
+"<<< UNIT SETTINGS >>>\r\n"
+"-------------\r\n"
+"Hostility Level: Kill On Sight\r\n"
+"Hostility Override for Owner(s): Active\r\n"
+"List of Valid Owners:\r\n"
+"-- Alexander J. Frey\r\n"
+""
+msgstr ""
+
+#: conversations/10_scylla/1004_relay_station/1004_cp_bot_terminal:16
+msgctxt "conversations/10_scylla/1004_relay_station/1004_cp_bot_terminal:16:DefaultText"
+msgid "[Begin Charging Cycle]"
+msgstr ""
+
+#: conversations/10_scylla/1004_relay_station/1004_cp_bot_terminal:19
+msgctxt "conversations/10_scylla/1004_relay_station/1004_cp_bot_terminal:19:DefaultText"
+msgid "[Return to Root]"
+msgstr ""
+
+#: conversations/10_scylla/1004_relay_station/1004_cp_bot_terminal:21
+msgctxt "conversations/10_scylla/1004_relay_station/1004_cp_bot_terminal:21:DefaultText"
+msgid "Relay Station GB-23\r\n"
+"----------------------------\r\n"
+"\r\n"
+"Security Review\r\n"
+"---------------------------------\n"
+"\r\n"
+"<<< UNIT STATUS >>>\r\n"
+"-------------\r\n"
+"_6_ mechanicals set to charging routine\r\n"
+"_0_ mechanicals set to patrol designated areas\r\n"
+"\r\n"
+"<<< UNIT SETTINGS >>>\r\n"
+"-------------\r\n"
+"Hostility Level: Kill On Sight\r\n"
+"Hostility Override for Owner(s): Active\r\n"
+"List of Valid Owners:\r\n"
+"-- Alexander J. Frey\r\n"
+""
+msgstr ""

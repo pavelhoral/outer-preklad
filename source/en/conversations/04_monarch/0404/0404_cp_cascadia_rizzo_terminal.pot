@@ -1,0 +1,252 @@
+#: conversations/04_monarch/0404/0404_cp_cascadia_rizzo_terminal:1
+msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_rizzo_terminal:1:DefaultText"
+msgid "Welcome to Rizzo's Point-of-Purchase operating system!\r\n"
+"==========================================\r\n"
+"\r\n"
+"Employee [McClure, Cecil]\r\n"
+"You have been on shift for [88,536] hours.\r\n"
+"\r\n"
+"You [have] earned a five-minute break.\r\n"
+"Why not enjoy a Knock You Out bar?\r\n"
+"\r\n"
+"Main menu"
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cp_cascadia_rizzo_terminal:2
+msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_rizzo_terminal:2:DefaultText"
+msgid "[Begin Transaction]"
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cp_cascadia_rizzo_terminal:3
+msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_rizzo_terminal:3:DefaultText"
+msgid "[View Current Inventory]"
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cp_cascadia_rizzo_terminal:4
+msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_rizzo_terminal:4:DefaultText"
+msgid "[Supervisor Override]"
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cp_cascadia_rizzo_terminal:5
+msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_rizzo_terminal:5:DefaultText"
+msgid "[Exit]"
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cp_cascadia_rizzo_terminal:6
+msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_rizzo_terminal:6:DefaultText"
+msgid "Welcome to Rizzo's Point-of-Purchase operating system!\r\n"
+"==========================================\r\n"
+"\r\n"
+"Password is required for this action:"
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cp_cascadia_rizzo_terminal:7
+msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_rizzo_terminal:7:DefaultText"
+msgid "[Enter Password: ANTEDILUVIAN]"
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cp_cascadia_rizzo_terminal:9
+msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_rizzo_terminal:9:DefaultText"
+msgid "[Mash Keys]"
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cp_cascadia_rizzo_terminal:10
+msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_rizzo_terminal:10:DefaultText"
+msgid "[Return to Root]"
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cp_cascadia_rizzo_terminal:11
+msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_rizzo_terminal:11:DefaultText"
+msgid "Override accepted. Welcome, doctor.\r\n"
+"\r\n"
+"Activating Backup Generators...\r\n"
+"...\r\n"
+"...\r\n"
+"Enabling Elevator...\r\n"
+"...\r\n"
+"Opening Secure Door..."
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cp_cascadia_rizzo_terminal:14
+msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_rizzo_terminal:14:DefaultText"
+msgid "Welcome to Rizzo's Point-of-Purchase operating system!\r\n"
+"==========================================\r\n"
+"\r\n"
+"Password \"g[dh09gfiobslz\" not recognized.\r\n"
+"\r\n"
+"Please try again."
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cp_cascadia_rizzo_terminal:15
+msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_rizzo_terminal:15:DefaultText"
+msgid "[Yes]"
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cp_cascadia_rizzo_terminal:16
+msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_rizzo_terminal:16:DefaultText"
+msgid "[No]"
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cp_cascadia_rizzo_terminal:17
+msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_rizzo_terminal:17:DefaultText"
+msgid "Welcome to Rizzo's Point-of-Purchase operating system!\r\n"
+"==========================================\r\n"
+"\r\n"
+"Password \"2cqrc[ ga8f9g{A\" not recognized.\r\n"
+"\r\n"
+"Do you have the UPPERCASE LOCK key on?"
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cp_cascadia_rizzo_terminal:18
+msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_rizzo_terminal:18:DefaultText"
+msgid "Welcome to Rizzo's Point-of-Purchase operating system!\r\n"
+"==========================================\r\n"
+"\r\n"
+"Password \"w3fbc[#g'AGH\" not recognized.\r\n"
+"\r\n"
+"Would you like a hint?"
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cp_cascadia_rizzo_terminal:20
+msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_rizzo_terminal:20:DefaultText"
+msgid "Welcome to Rizzo's Point-of-Purchase operating system!\r\n"
+"==========================================\r\n"
+"\r\n"
+"HINT: your password is NOT \"w3fbc[#g'AGH.\""
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cp_cascadia_rizzo_terminal:21
+msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_rizzo_terminal:21:DefaultText"
+msgid "Welcome to Rizzo's Point-of-Purchase operating system!\r\n"
+"==========================================\r\n"
+"\r\n"
+"Password \"80g4AQF8qgcFG-AVP\"not recognized.\r\n"
+"\r\n"
+"Would you like to reset your password?"
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cp_cascadia_rizzo_terminal:22
+msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_rizzo_terminal:22:DefaultText"
+msgid "[Yes]"
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cp_cascadia_rizzo_terminal:23
+msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_rizzo_terminal:23:DefaultText"
+msgid "[No]"
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cp_cascadia_rizzo_terminal:24
+msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_rizzo_terminal:24:DefaultText"
+msgid "Welcome to Rizzo's Point-of-Purchase operating system!\r\n"
+"==========================================\r\n"
+"\r\n"
+"In order to reset your password, you must enter your password.\r\n"
+"\r\n"
+"Please enter password."
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cp_cascadia_rizzo_terminal:25
+msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_rizzo_terminal:25:DefaultText"
+msgid "Welcome to Rizzo's Point-of-Purchase operating system!\r\n"
+"==========================================\r\n"
+"\r\n"
+"Dark Matter Bar: 0 in stock\r\n"
+"Purpleberry Bunch: 0 in stock\r\n"
+"Purpleberry Crunch: 0 in stock\r\n"
+"Purpleberry Jelly: 0 in stock\r\n"
+"Purpleberry Lunch: 0 in stock\r\n"
+"Purpleberry Munch: 0 in stock\r\n"
+"R&B Tubes: 0 in stock\r\n"
+"Retro Rockets: 0 in stock\r\n"
+"--------------------------------\r\n"
+"Lemon Slapp: 0 in stock\r\n"
+"Nanner Spank: 0 in stock\r\n"
+"Purpleberry Punch: 0 in stock\r\n"
+"-------------------------------\r\n"
+"Mock Apple Cider: 0 in stock\r\n"
+"Rum and Somethin': 0 in stock\r\n"
+"Spectrum Vodka: 0 in stock"
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cp_cascadia_rizzo_terminal:26
+msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_rizzo_terminal:26:DefaultText"
+msgid "Welcome to Rizzo's Point-of-Purchase operating system!\r\n"
+"==========================================\r\n"
+"\r\n"
+"Did you greet the customer by saying:\r\n"
+"\r\n"
+"\"Welcome to Rizzo's Sweet Shoppe. We've got your candy handy! How can I sweeten your day?\""
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cp_cascadia_rizzo_terminal:27
+msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_rizzo_terminal:27:DefaultText"
+msgid "[Yes]"
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cp_cascadia_rizzo_terminal:28
+msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_rizzo_terminal:28:DefaultText"
+msgid "[No]"
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cp_cascadia_rizzo_terminal:29
+msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_rizzo_terminal:29:DefaultText"
+msgid "[Cancel Transaction]"
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cp_cascadia_rizzo_terminal:30
+msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_rizzo_terminal:30:DefaultText"
+msgid "Welcome to Rizzo's Point-of-Purchase operating system!\r\n"
+"==========================================\r\n"
+"\r\n"
+"Have you offered the customer a Slapp?\r\n"
+"\r\n"
+"Sales of Lemon Slapp are down. Remind our customers how refreshing a good Slapp is.\r\n"
+"\r\n"
+"Try saying:\r\n"
+"\r\n"
+"\"Thirsty, friend? Nothing beats a zesty Slapp!\""
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cp_cascadia_rizzo_terminal:31
+msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_rizzo_terminal:31:DefaultText"
+msgid "Welcome to Rizzo's Point-of-Purchase operating system!\r\n"
+"==========================================\r\n"
+"\r\n"
+"Please greet the customer using the approved Rizzo Sweet Shoppe greeting.\r\n"
+"\r\n"
+"Have you done so?"
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cp_cascadia_rizzo_terminal:32
+msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_rizzo_terminal:32:DefaultText"
+msgid "[Yes]"
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cp_cascadia_rizzo_terminal:33
+msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_rizzo_terminal:33:DefaultText"
+msgid "[No]"
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cp_cascadia_rizzo_terminal:34
+msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_rizzo_terminal:34:DefaultText"
+msgid "Welcome to Rizzo's Point-of-Purchase operating system!\r\n"
+"==========================================\r\n"
+"\r\n"
+"Retrieving inventory data...\r\n"
+"\r\n"
+"Error retrieving current inventory.\r\n"
+"\r\n"
+"Transaction cancelled."
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cp_cascadia_rizzo_terminal:35
+msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_rizzo_terminal:35:DefaultText"
+msgid "Welcome to Rizzo's Point-of-Purchase operating system!\r\n"
+"==========================================\r\n"
+"\r\n"
+"Reminder: all employees must meet their weekly product recommendation quota.\r\n"
+"\r\n"
+"Records indicate that you have not recommended a product in [3689 days].\r\n"
+"\r\n"
+"Your file has been flagged for performance review."
+msgstr ""

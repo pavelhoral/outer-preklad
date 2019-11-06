@@ -1,0 +1,474 @@
+#: conversations/01_groundbreaker/01_cv_ingmire_edna:1
+msgctxt "conversations/01_groundbreaker/01_cv_ingmire_edna:1:DefaultText"
+msgid "You aiming to send a message? If so, we'd best do it now while we still got time."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_ingmire_edna:2
+msgctxt "conversations/01_groundbreaker/01_cv_ingmire_edna:2:DefaultText"
+msgid "Why would we run out of time? You headed somewhere?"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_ingmire_edna:3
+msgctxt "conversations/01_groundbreaker/01_cv_ingmire_edna:3:DefaultText"
+msgid "Is that what you do for Groundbreaker? Relay messages?"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_ingmire_edna:4
+msgctxt "conversations/01_groundbreaker/01_cv_ingmire_edna:4:DefaultText"
+msgid "Another time, maybe."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_ingmire_edna:5
+msgctxt "conversations/01_groundbreaker/01_cv_ingmire_edna:5:DefaultText"
+msgid "We're going offline in three... two... one and a half - no, wait, I've lost track of my weeks. Maybe it was thirty-six or...? Uh, sometime dire soon."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_ingmire_edna:6
+msgctxt "conversations/01_groundbreaker/01_cv_ingmire_edna:6:DefaultText"
+msgid "Well, yeah. The comm center routes all messages within, to, and from the Groundbreaker. We also switchboard most of the message traffic throughout the Halcyon system."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_ingmire_edna:7
+msgctxt "conversations/01_groundbreaker/01_cv_ingmire_edna:7:DefaultText"
+msgid "Why are you about to lose comm capabilities?"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_ingmire_edna:8
+msgctxt "conversations/01_groundbreaker/01_cv_ingmire_edna:8:DefaultText"
+msgid "So, this is the Groundbreaker's message center?"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_ingmire_edna:9
+msgctxt "conversations/01_groundbreaker/01_cv_ingmire_edna:9:DefaultText"
+msgid "Our primary relay station's soon to be occluded by a gas giant. Happens every forty years or therebouts."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_ingmire_edna:10
+msgctxt "conversations/01_groundbreaker/01_cv_ingmire_edna:10:DefaultText"
+msgid "The event's forecasted to last for months - during which we'll lose signal to the station. "
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_ingmire_edna:11
+msgctxt "conversations/01_groundbreaker/01_cv_ingmire_edna:11:DefaultText"
+msgid "We've got backup auxiliary relays. But the one currently in orbital range went offline some months ago. We can't spare people for routine maintenance."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_ingmire_edna:12
+msgctxt "conversations/01_groundbreaker/01_cv_ingmire_edna:12:DefaultText"
+msgid "Sounds like it's time to get the auxiliary station back online."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_ingmire_edna:13
+msgctxt "conversations/01_groundbreaker/01_cv_ingmire_edna:13:DefaultText"
+msgid "How are you cut off by losing one relay station?"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_ingmire_edna:14
+msgctxt "conversations/01_groundbreaker/01_cv_ingmire_edna:14:DefaultText"
+msgid "Can't the Board handle the messages?"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_ingmire_edna:15
+msgctxt "conversations/01_groundbreaker/01_cv_ingmire_edna:15:DefaultText"
+msgid "But allocating the personnel loss for sending a technical team to the relay station keeps getting denied by Junlei. Er, the Chief."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_ingmire_edna:16
+msgctxt "conversations/01_groundbreaker/01_cv_ingmire_edna:16:DefaultText"
+msgid "Well, we wouldn't be utterly and completely blacked out, but we'd lose the majority of our comm traffic for sure. "
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_ingmire_edna:17
+msgctxt "conversations/01_groundbreaker/01_cv_ingmire_edna:17:DefaultText"
+msgid "...and then they charge folks to send messages back, often more'n they can afford."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_ingmire_edna:18
+msgctxt "conversations/01_groundbreaker/01_cv_ingmire_edna:18:DefaultText"
+msgid "I could check out the relay, no need for official sign-off in that case."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_ingmire_edna:19
+msgctxt "conversations/01_groundbreaker/01_cv_ingmire_edna:19:DefaultText"
+msgid "Seems irresponsible not to have fixed your backup relay before now."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_ingmire_edna:23
+msgctxt "conversations/01_groundbreaker/01_cv_ingmire_edna:23:DefaultText"
+msgid "What's in it for me if I investigate your relay problem?"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_ingmire_edna:24
+msgctxt "conversations/01_groundbreaker/01_cv_ingmire_edna:24:DefaultText"
+msgid "I should say no, but... why not? Maybe you can figure out why it's offline. I'll send you with an equipment manual. Hopefully, we'll get lucky or I'll get my approval in time."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_ingmire_edna:25
+msgctxt "conversations/01_groundbreaker/01_cv_ingmire_edna:25:DefaultText"
+msgid "You save my comm center from chaos - I guarantee I'll get the Chief to authorize some payment forms with your name on 'em while you're out fixing the station."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_ingmire_edna:26
+msgctxt "conversations/01_groundbreaker/01_cv_ingmire_edna:26:DefaultText"
+msgid "We don't know why it went down or if it's even a hardware-related issue. Getting a team out there takes time and money - neither of which we have readily on hand."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_ingmire_edna:28
+msgctxt "conversations/01_groundbreaker/01_cv_ingmire_edna:28:DefaultText"
+msgid "Oh, and I'll need you to retrieve a copy of the relay's backup data. I got to forward any messages from Earth stored in the memory. Better late than never, eh?"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_ingmire_edna:29
+msgctxt "conversations/01_groundbreaker/01_cv_ingmire_edna:29:DefaultText"
+msgid "What do you mean?"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_ingmire_edna:30
+msgctxt "conversations/01_groundbreaker/01_cv_ingmire_edna:30:DefaultText"
+msgid "You just let messages from Earth sit in memory on an orbital relay?"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_ingmire_edna:31
+msgctxt "conversations/01_groundbreaker/01_cv_ingmire_edna:31:DefaultText"
+msgid "The relay stations orbit the edge of the Halcyon system, so they tend to receive the majority of any transmissions from Earth."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_ingmire_edna:32
+msgctxt "conversations/01_groundbreaker/01_cv_ingmire_edna:32:DefaultText"
+msgid "It's not like they're in high demand. Most tend to be adverts on new products, meaning only folks in Byzantium can afford 'em."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_ingmire_edna:33
+msgctxt "conversations/01_groundbreaker/01_cv_ingmire_edna:33:DefaultText"
+msgid "I'm sure the station's got a stack of junk messages just waiting for me to sort through."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_ingmire_edna:34
+msgctxt "conversations/01_groundbreaker/01_cv_ingmire_edna:34:DefaultText"
+msgid "I'm off."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_ingmire_edna:35
+msgctxt "conversations/01_groundbreaker/01_cv_ingmire_edna:35:DefaultText"
+msgid "If it weren't for the occlusion event coming our way, we'd be doing fine as always."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_ingmire_edna:38
+msgctxt "conversations/01_groundbreaker/01_cv_ingmire_edna:38:DefaultText"
+msgid "If it's not clear, they transmit to the closest relay station which stores the message, then passes it along when our orbits align."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_ingmire_edna:39
+msgctxt "conversations/01_groundbreaker/01_cv_ingmire_edna:39:DefaultText"
+msgid "What about the other auxiliary relay stations?"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_ingmire_edna:40
+msgctxt "conversations/01_groundbreaker/01_cv_ingmire_edna:40:DefaultText"
+msgid "Can't ships relay messages to each other?"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_ingmire_edna:41
+msgctxt "conversations/01_groundbreaker/01_cv_ingmire_edna:41:DefaultText"
+msgid "The others won't be in orbital range during the occlusion event. Isn't it some law of the universe? The relay I got to rely on is, of course, the one on the fritz."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_ingmire_edna:42
+msgctxt "conversations/01_groundbreaker/01_cv_ingmire_edna:42:DefaultText"
+msgid "That they can, and they do. But only between ships owned by the same corporation. No corp'll authorize sending messages through a ship owned by a rival."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_ingmire_edna:43
+msgctxt "conversations/01_groundbreaker/01_cv_ingmire_edna:43:DefaultText"
+msgid "That's why we're the message hub. The Groundbreaker's neither corporate owned, nor Board controlled. Our comms are neutral."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_ingmire_edna:44
+msgctxt "conversations/01_groundbreaker/01_cv_ingmire_edna:44:DefaultText"
+msgid "And none of that money goes to the Groundbreaker - just tightens the Board's grip on our throat."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_ingmire_edna:45
+msgctxt "conversations/01_groundbreaker/01_cv_ingmire_edna:45:DefaultText"
+msgid "Don't you charge people for messages, too?"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_ingmire_edna:47
+msgctxt "conversations/01_groundbreaker/01_cv_ingmire_edna:47:DefaultText"
+msgid "Not nearly as much, and that money goes to keeping the station operational, helps keep us independent. If we lose the message fees, the entire ship'll feel the pinch."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_ingmire_edna:49
+msgctxt "conversations/01_groundbreaker/01_cv_ingmire_edna:49:DefaultText"
+msgid "Before long, the only place for people to trade words and goods will be on Terra 2, right under the Board's control."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_ingmire_edna:50
+msgctxt "conversations/01_groundbreaker/01_cv_ingmire_edna:50:DefaultText"
+msgid "Sorry, hon. I'm presently dealing with heavy comm traffic. Maybe we can talk later."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_ingmire_edna:51
+msgctxt "conversations/01_groundbreaker/01_cv_ingmire_edna:51:DefaultText"
+msgid "'Course, we're about to go dead, so... I may be reappropriated to Architect knows where doing Law knows what soon enough."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_ingmire_edna:52
+msgctxt "conversations/01_groundbreaker/01_cv_ingmire_edna:52:DefaultText"
+msgid "Never mind."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_ingmire_edna:77
+msgctxt "conversations/01_groundbreaker/01_cv_ingmire_edna:77:DefaultText"
+msgid "Oh, I'm just dandy. How're you? Junlei still hasn't approved my request to send a technician to our backup relay station. But that's fine. It's not like we need a working comm center."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_ingmire_edna:78
+msgctxt "conversations/01_groundbreaker/01_cv_ingmire_edna:78:DefaultText"
+msgid "Oh, it's you. What'd you need? There's still time to send a message if we make it quick."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_ingmire_edna:80
+msgctxt "conversations/01_groundbreaker/01_cv_ingmire_edna:80:DefaultText"
+msgid "Routing through the backup relay has saved us a mess of trouble. Thanks to you, the auxiliary will handle the signal load when the primary's caught in the occlusion."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_ingmire_edna:81
+msgctxt "conversations/01_groundbreaker/01_cv_ingmire_edna:81:DefaultText"
+msgid "I'm a bit busy right now. Maybe check back in a few when communications are down. 'Course, I likely won't be stationed here then."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_ingmire_edna:82
+msgctxt "conversations/01_groundbreaker/01_cv_ingmire_edna:82:DefaultText"
+msgid "My comm center already got an update ping from the backup relay. I trust everything went smoothly?"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_ingmire_edna:83
+msgctxt "conversations/01_groundbreaker/01_cv_ingmire_edna:83:DefaultText"
+msgid "I have some questions about your relay problem."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_ingmire_edna:84
+msgctxt "conversations/01_groundbreaker/01_cv_ingmire_edna:84:DefaultText"
+msgid "Go on and shoot. I'll answer what I can."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_ingmire_edna:85
+msgctxt "conversations/01_groundbreaker/01_cv_ingmire_edna:85:DefaultText"
+msgid "You save my comm center from chaos - I guarantee I'll get the Chief to authorize some payment forms with your name on 'em while you're out fixing the station."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_ingmire_edna:86
+msgctxt "conversations/01_groundbreaker/01_cv_ingmire_edna:86:DefaultText"
+msgid "Here's your data backup."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_ingmire_edna:89
+msgctxt "conversations/01_groundbreaker/01_cv_ingmire_edna:89:DefaultText"
+msgid "Thanks. Hm. That's odd. The only messages in the queue are encrypted ones."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_ingmire_edna:92
+msgctxt "conversations/01_groundbreaker/01_cv_ingmire_edna:92:DefaultText"
+msgid "Looking at the transmission logs, the relay hasn't received a single unencrypted message in the past 36 months. Must be on account of some new security red tape. "
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_ingmire_edna:94
+msgctxt "conversations/01_groundbreaker/01_cv_ingmire_edna:94:DefaultText"
+msgid "Thanks again for saving my derrière. I secured quite the payment authorization for you from Chief Junlei. Try not to spend it all in one place."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_ingmire_edna:96
+msgctxt "conversations/01_groundbreaker/01_cv_ingmire_edna:96:DefaultText"
+msgid "All these numbers are confusing me..."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_ingmire_edna:97
+msgctxt "conversations/01_groundbreaker/01_cv_ingmire_edna:97:DefaultText"
+msgid "They're beside the point. I just mean, you got limited time before the equipment goes non-functional. You see?"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_ingmire_edna:98
+msgctxt "conversations/01_groundbreaker/01_cv_ingmire_edna:98:DefaultText"
+msgid "Yeah, I'm working on it. I finally got the Chief to approve the budget for a diagnostic expedition."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_ingmire_edna:100
+msgctxt "conversations/01_groundbreaker/01_cv_ingmire_edna:100:DefaultText"
+msgid "Ships and colonies on Terra 2 need a clear line from their communications towers to the Groundbreaker for the transmissions to make it through. "
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_ingmire_edna:102
+msgctxt "conversations/01_groundbreaker/01_cv_ingmire_edna:102:DefaultText"
+msgid "And we do have multiple auxiliaries. Just... they won't be in orbital range during the next few months. Our backup station will be."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_ingmire_edna:103
+msgctxt "conversations/01_groundbreaker/01_cv_ingmire_edna:103:DefaultText"
+msgid "Me? No. But our relaying capabilities? That's on the final countdown."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_ingmire_edna:149
+msgctxt "conversations/01_groundbreaker/01_cv_ingmire_edna:149:DefaultText"
+msgid "You really want to know how I'm doing?"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_ingmire_edna:150
+msgctxt "conversations/01_groundbreaker/01_cv_ingmire_edna:150:DefaultText"
+msgid "Never mind."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_ingmire_edna:151
+msgctxt "conversations/01_groundbreaker/01_cv_ingmire_edna:151:DefaultText"
+msgid "No, I was just making small talk. Y'know... to be polite? But I'd rather we didn't get too chummy. "
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_ingmire_edna:152
+msgctxt "conversations/01_groundbreaker/01_cv_ingmire_edna:152:DefaultText"
+msgid "I got my hands full enough as it is without some freelancer asserting false claims based on a misunderstanding."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_ingmire_edna:153
+msgctxt "conversations/01_groundbreaker/01_cv_ingmire_edna:153:DefaultText"
+msgid "Got it."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_ingmire_edna:154
+msgctxt "conversations/01_groundbreaker/01_cv_ingmire_edna:154:DefaultText"
+msgid "This has happened to you before?"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_ingmire_edna:155
+msgctxt "conversations/01_groundbreaker/01_cv_ingmire_edna:155:DefaultText"
+msgid "No. But if it did, I sure wouldn't be itching to talk about it."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_ingmire_edna:156
+msgctxt "conversations/01_groundbreaker/01_cv_ingmire_edna:156:DefaultText"
+msgid "Glad we see eye to eye. Now, then."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_ingmire_edna:157
+msgctxt "conversations/01_groundbreaker/01_cv_ingmire_edna:157:DefaultText"
+msgid "I'll just excuse myself."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_ingmire_edna:174
+msgctxt "conversations/01_groundbreaker/01_cv_ingmire_edna:174:DefaultText"
+msgid "Well, whatever's the cause, the Board and the Earth Minister will see it sorted."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_ingmire_edna:195
+msgctxt "conversations/01_groundbreaker/01_cv_ingmire_edna:195:DefaultText"
+msgid "Good Law, the heat in here is so unbearable, I can hardly even concentrate... Junlei better hurry up with those damn repairs already."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_ingmire_edna:196
+msgctxt "conversations/01_groundbreaker/01_cv_ingmire_edna:196:DefaultText"
+msgid "I think I heard Chief Junlei looking for you. You better go find her real quick-like. She's not the most patient person."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_ingmire_edna:197
+msgctxt "conversations/01_groundbreaker/01_cv_ingmire_edna:197:DefaultText"
+msgid "Hey, you the one who fixed those radiators? Nice work, you really saved our buns! Whenever you're free, let's have a chat."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_ingmire_edna:199
+msgctxt "conversations/01_groundbreaker/01_cv_ingmire_edna:199:DefaultText"
+msgid "Sure, I mean they got their own relays 'n all, but they'll only send along messages the corporations pay for..."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_ingmire_edna:200
+msgctxt "conversations/01_groundbreaker/01_cv_ingmire_edna:200:DefaultText"
+msgid "That's their right as the service provider. Stop looking for handouts."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_ingmire_edna:201
+msgctxt "conversations/01_groundbreaker/01_cv_ingmire_edna:201:DefaultText"
+msgid "Fuck the Board."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_ingmire_edna:202
+msgctxt "conversations/01_groundbreaker/01_cv_ingmire_edna:202:DefaultText"
+msgid "Ain't a handout to want to be treated fair and humane."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_ingmire_edna:203
+msgctxt "conversations/01_groundbreaker/01_cv_ingmire_edna:203:DefaultText"
+msgid "Ain't a handout to want to be treated fair and humane, no matter how your friends in Byzantium spin it 'round."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_ingmire_edna:205
+msgctxt "conversations/01_groundbreaker/01_cv_ingmire_edna:205:DefaultText"
+msgid "You tell 'em, boss."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_ingmire_edna:206
+msgctxt "conversations/01_groundbreaker/01_cv_ingmire_edna:206:DefaultText"
+msgid "Simmer down, Felix."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_ingmire_edna:207
+msgctxt "conversations/01_groundbreaker/01_cv_ingmire_edna:207:DefaultText"
+msgid "See, now you got the boy all riled."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_ingmire_edna:208
+msgctxt "conversations/01_groundbreaker/01_cv_ingmire_edna:208:DefaultText"
+msgid "That'd spell the end of Groundbreaker."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_ingmire_edna:209
+msgctxt "conversations/01_groundbreaker/01_cv_ingmire_edna:209:DefaultText"
+msgid "Maybe they're good to their people, I can't rightly say. But they're no good for us, not for Groundbreaker."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_ingmire_edna:211
+msgctxt "conversations/01_groundbreaker/01_cv_ingmire_edna:211:DefaultText"
+msgid "That signal's part of how Groundbreaker stays autonomous and independent. Much as I'd love to hear fewer corporate jingles, this'd be bad."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_ingmire_edna:212
+msgctxt "conversations/01_groundbreaker/01_cv_ingmire_edna:212:DefaultText"
+msgid "For months? Groundbreaker's gotta have some type of fallback, right?"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_ingmire_edna:213
+msgctxt "conversations/01_groundbreaker/01_cv_ingmire_edna:213:DefaultText"
+msgid "That'll put the whole system in a right dire situation."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_ingmire_edna:214
+msgctxt "conversations/01_groundbreaker/01_cv_ingmire_edna:214:DefaultText"
+msgid "And that's our problem, how?"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_ingmire_edna:216
+msgctxt "conversations/01_groundbreaker/01_cv_ingmire_edna:216:DefaultText"
+msgid "And no, Ellie, that offer does not extend to you broadcasting another of your crude jokes."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_ingmire_edna:217
+msgctxt "conversations/01_groundbreaker/01_cv_ingmire_edna:217:DefaultText"
+msgid "Hey, that's a real planet. And no one's seen it in a long time."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_ingmire_edna:218
+msgctxt "conversations/01_groundbreaker/01_cv_ingmire_edna:218:DefaultText"
+msgid "Damn it, Ellie, I don't have time for your shenanigans!"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_ingmire_edna:219
+msgctxt "conversations/01_groundbreaker/01_cv_ingmire_edna:219:DefaultText"
+msgid "Hope you don't mind if I borrow that manual when you're done with it, Captain. I could do with some leisure reading."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_ingmire_edna:220
+msgctxt "conversations/01_groundbreaker/01_cv_ingmire_edna:220:DefaultText"
+msgid "And no corp'll relay messages for the wildcat freighters. Not without charging them more than they'll make in a single haul, anyway."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_ingmire_edna:223
+msgctxt "conversations/01_groundbreaker/01_cv_ingmire_edna:223:DefaultText"
+msgid "Anyway, like I was saying - you aiming to send a message, you better be quick."
+msgstr ""

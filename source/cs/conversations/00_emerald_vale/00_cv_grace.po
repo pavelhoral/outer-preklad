@@ -1,0 +1,749 @@
+#: conversations/00_emerald_vale/00_cv_grace:1
+msgctxt "conversations/00_emerald_vale/00_cv_grace:1:DefaultText"
+msgid "I don't know you."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:2
+msgctxt "conversations/00_emerald_vale/00_cv_grace:2:DefaultText"
+msgid "What is it?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:5
+msgctxt "conversations/00_emerald_vale/00_cv_grace:5:DefaultText"
+msgid "I'll leave you be."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:30
+msgctxt "conversations/00_emerald_vale/00_cv_grace:30:DefaultText"
+msgid "Whatever you're looking for, it ain't here. Move along."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:31
+msgctxt "conversations/00_emerald_vale/00_cv_grace:31:DefaultText"
+msgid "What's your problem?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:32
+msgctxt "conversations/00_emerald_vale/00_cv_grace:32:DefaultText"
+msgid "I'm leaving."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:33
+msgctxt "conversations/00_emerald_vale/00_cv_grace:33:DefaultText"
+msgid "Armed strangers wandering into my camp, for one. Some of my camp wandering out, for another."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:86
+msgctxt "conversations/00_emerald_vale/00_cv_grace:86:DefaultText"
+msgid "I told Thomas to holler if he saw anyone sneaking in around the back."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:93
+msgctxt "conversations/00_emerald_vale/00_cv_grace:93:DefaultText"
+msgid "Marauders can't see us in the dark. Wild canids, on the other hand..."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:94
+msgctxt "conversations/00_emerald_vale/00_cv_grace:94:DefaultText"
+msgid "I'm not in the lightest of humours right now."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:95
+msgctxt "conversations/00_emerald_vale/00_cv_grace:95:DefaultText"
+msgid "You said something about one of your people going missing."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:96
+msgctxt "conversations/00_emerald_vale/00_cv_grace:96:DefaultText"
+msgid "No, I'm sorry. That was unworthy of me. Lady named Zoe went missing some nights ago. Just up and vanished without a trace. Now I'm pacing around wondering if marauders got to her."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:97
+msgctxt "conversations/00_emerald_vale/00_cv_grace:97:DefaultText"
+msgid "Any idea where she might be hiding?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:98
+msgctxt "conversations/00_emerald_vale/00_cv_grace:98:DefaultText"
+msgid "Vex me. If she told anybody, they ain't telling me. I'd check her room, but I got yelled at for snooping once already."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:99
+msgctxt "conversations/00_emerald_vale/00_cv_grace:99:DefaultText"
+msgid "It's not like Zoe to go wandering. Figured she might be out scavenging, but that ain't exactly her talent."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:100
+msgctxt "conversations/00_emerald_vale/00_cv_grace:100:DefaultText"
+msgid "Don't worry about it. I'll find her."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:101
+msgctxt "conversations/00_emerald_vale/00_cv_grace:101:DefaultText"
+msgid "I've got questions about Zoe."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:102
+msgctxt "conversations/00_emerald_vale/00_cv_grace:102:DefaultText"
+msgid "I'll tell you what I can."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:103
+msgctxt "conversations/00_emerald_vale/00_cv_grace:103:DefaultText"
+msgid "I talked Zoe into coming back."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:104
+msgctxt "conversations/00_emerald_vale/00_cv_grace:104:DefaultText"
+msgid "We didn't always get along, but I'm glad to know she's safe. What happened, anyway?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:105
+msgctxt "conversations/00_emerald_vale/00_cv_grace:105:DefaultText"
+msgid "Zoe's not coming back."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:106
+msgctxt "conversations/00_emerald_vale/00_cv_grace:106:DefaultText"
+msgid "You wanna expand on that?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:107
+msgctxt "conversations/00_emerald_vale/00_cv_grace:107:DefaultText"
+msgid "She joined up with a band of marauders. They hadn't hurt her."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:109
+msgctxt "conversations/00_emerald_vale/00_cv_grace:109:DefaultText"
+msgid "Zoe joined up with a band of marauders. Zoe. The same Zoe who doesn't know a barrel from a trigger. Well, I've heard stranger things."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:111
+msgctxt "conversations/00_emerald_vale/00_cv_grace:111:DefaultText"
+msgid "She went feral. I had to put her down."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:117
+msgctxt "conversations/00_emerald_vale/00_cv_grace:117:DefaultText"
+msgid "Could be. Dangers aplenty out there. No telling why marauders would steal somebody like Zoe. Got no useful skills far as I can tell."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:118
+msgctxt "conversations/00_emerald_vale/00_cv_grace:118:DefaultText"
+msgid "Maybe the marauders took her away."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:119
+msgctxt "conversations/00_emerald_vale/00_cv_grace:119:DefaultText"
+msgid "How well do you know her?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:120
+msgctxt "conversations/00_emerald_vale/00_cv_grace:120:DefaultText"
+msgid "Well enough to know we never got on. Zoe and Stefan were close. If anybody knows the workings of her mind, he does."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:121
+msgctxt "conversations/00_emerald_vale/00_cv_grace:121:DefaultText"
+msgid "Something about wanting to be an outlaw. I'd rather not get into it."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:123
+msgctxt "conversations/00_emerald_vale/00_cv_grace:123:DefaultText"
+msgid "I was hoping you wouldn't say that. I was really hoping."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:125
+msgctxt "conversations/00_emerald_vale/00_cv_grace:125:DefaultText"
+msgid "Let me know if I can do something for you."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:126
+msgctxt "conversations/00_emerald_vale/00_cv_grace:126:DefaultText"
+msgid "I'll keep an eye out."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:127
+msgctxt "conversations/00_emerald_vale/00_cv_grace:127:DefaultText"
+msgid "Can't imagine where she's gone. Vale's a wide place. She could be anywhere."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:129
+msgctxt "conversations/00_emerald_vale/00_cv_grace:129:DefaultText"
+msgid "Let's change the subject."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:130
+msgctxt "conversations/00_emerald_vale/00_cv_grace:130:DefaultText"
+msgid "Upbeat? A little strange? Loves Rizzo's? Yeah, I met Zoe. She was in a marauder camp."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:131
+msgctxt "conversations/00_emerald_vale/00_cv_grace:131:DefaultText"
+msgid "Thank the Eternal - wait. Marauder camp? Is she all right?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:132
+msgctxt "conversations/00_emerald_vale/00_cv_grace:132:DefaultText"
+msgid "She's fine. They were getting along."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:133
+msgctxt "conversations/00_emerald_vale/00_cv_grace:133:DefaultText"
+msgid "If you could bring her home, I'd be obliged. And if you could cross off some marauders on the way, I'd be much obliged."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:139
+msgctxt "conversations/00_emerald_vale/00_cv_grace:139:DefaultText"
+msgid "You pretty much did my job for me. Least I could do is pay you for your trouble."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:141
+msgctxt "conversations/00_emerald_vale/00_cv_grace:141:DefaultText"
+msgid "You'd better not be spinning me a story."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:142
+msgctxt "conversations/00_emerald_vale/00_cv_grace:142:DefaultText"
+msgid "Recognize this? <Show her Zoe's token.>"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:143
+msgctxt "conversations/00_emerald_vale/00_cv_grace:143:DefaultText"
+msgid "Yeah. That belonged to her well enough. Guess there's no arguing with you."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:147
+msgctxt "conversations/00_emerald_vale/00_cv_grace:147:DefaultText"
+msgid "I'm looking for some answers."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:148
+msgctxt "conversations/00_emerald_vale/00_cv_grace:148:DefaultText"
+msgid "Answers, huh? You must be one of those Philosophicals. Already got ourselves one of those."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:149
+msgctxt "conversations/00_emerald_vale/00_cv_grace:149:DefaultText"
+msgid "I don't suppose you're talking about Adelaide McDevitt. Where can I find her?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:150
+msgctxt "conversations/00_emerald_vale/00_cv_grace:150:DefaultText"
+msgid "I'm looking for the geothermal plant. Know anything about it?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:151
+msgctxt "conversations/00_emerald_vale/00_cv_grace:151:DefaultText"
+msgid "Reed said something about former workers living out in the wilderness. "
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:152
+msgctxt "conversations/00_emerald_vale/00_cv_grace:152:DefaultText"
+msgid "What is this place?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:153
+msgctxt "conversations/00_emerald_vale/00_cv_grace:153:DefaultText"
+msgid "I'll get out of your hair."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:154
+msgctxt "conversations/00_emerald_vale/00_cv_grace:154:DefaultText"
+msgid "Who do you mean?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:155
+msgctxt "conversations/00_emerald_vale/00_cv_grace:155:DefaultText"
+msgid "Much obliged."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:157
+msgctxt "conversations/00_emerald_vale/00_cv_grace:157:DefaultText"
+msgid "Over in the hothouse, tending crop. "
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:158
+msgctxt "conversations/00_emerald_vale/00_cv_grace:158:DefaultText"
+msgid "If you're gonna start wandering around my camp, know that I got my sights on you."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:159
+msgctxt "conversations/00_emerald_vale/00_cv_grace:159:DefaultText"
+msgid "That'd be our local Greenthumb. Answers to Adelaide."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:160
+msgctxt "conversations/00_emerald_vale/00_cv_grace:160:DefaultText"
+msgid "A geo-what? Look, plants ain't my purview. You're better off asking after Adelaide."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:161
+msgctxt "conversations/00_emerald_vale/00_cv_grace:161:DefaultText"
+msgid "Yeah, that's us. And you can tell Tobson we're doing just fine by ourselves."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:162
+msgctxt "conversations/00_emerald_vale/00_cv_grace:162:DefaultText"
+msgid "Just a gathering of simple folk, minding our own troubles. Got plenty. Don't need you adding to 'em."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:167
+msgctxt "conversations/00_emerald_vale/00_cv_grace:167:DefaultText"
+msgid "Where can I find Adelaide?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:168
+msgctxt "conversations/00_emerald_vale/00_cv_grace:168:DefaultText"
+msgid "You wouldn't happen to know anything about a geothermal plant nearby."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:170
+msgctxt "conversations/00_emerald_vale/00_cv_grace:170:DefaultText"
+msgid "Reed said something about former workers living out in the wilderness. "
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:171
+msgctxt "conversations/00_emerald_vale/00_cv_grace:171:DefaultText"
+msgid "You said something about having a Philosophist type in your camp."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:172
+msgctxt "conversations/00_emerald_vale/00_cv_grace:172:DefaultText"
+msgid "What is this place?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:173
+msgctxt "conversations/00_emerald_vale/00_cv_grace:173:DefaultText"
+msgid "That'd be our local Greenthumb. Answers to Adelaide."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:174
+msgctxt "conversations/00_emerald_vale/00_cv_grace:174:DefaultText"
+msgid "Over in the hothouse, tending crop. "
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:175
+msgctxt "conversations/00_emerald_vale/00_cv_grace:175:DefaultText"
+msgid "A geo-what? Look, plants ain't my purview. You're better off asking after Adelaide."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:176
+msgctxt "conversations/00_emerald_vale/00_cv_grace:176:DefaultText"
+msgid "Just a gathering of simple folk, minding our own troubles. Got plenty. Don't need you adding to 'em."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:177
+msgctxt "conversations/00_emerald_vale/00_cv_grace:177:DefaultText"
+msgid "Yeah, that's us. And you can tell Tobson we're doing just fine by ourselves."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:178
+msgctxt "conversations/00_emerald_vale/00_cv_grace:178:DefaultText"
+msgid "Enough with the questions. No offense, but I've got a lot on my mind."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:179
+msgctxt "conversations/00_emerald_vale/00_cv_grace:179:DefaultText"
+msgid "Trouble with marauders?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:180
+msgctxt "conversations/00_emerald_vale/00_cv_grace:180:DefaultText"
+msgid "We've all got problems. I just got shot into space."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:181
+msgctxt "conversations/00_emerald_vale/00_cv_grace:181:DefaultText"
+msgid "You and me both. I'm trying to figure out how I'm going to repair my ship."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:182
+msgctxt "conversations/00_emerald_vale/00_cv_grace:182:DefaultText"
+msgid "You don't know what \"enough with the questions\" means?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:183
+msgctxt "conversations/00_emerald_vale/00_cv_grace:183:DefaultText"
+msgid "Well look at you. Buzzing around the aether with your very own ship. Rest of us gotta make do with the ground at our feet."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:184
+msgctxt "conversations/00_emerald_vale/00_cv_grace:184:DefaultText"
+msgid "Explains why you're still yammering on at me."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:186
+msgctxt "conversations/00_emerald_vale/00_cv_grace:186:DefaultText"
+msgid "I go looking for Zoe, I leave the camp undefended, seeing as I'm the only one of us who knows her way 'round a gun. Hence my dilemma."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:188
+msgctxt "conversations/00_emerald_vale/00_cv_grace:188:DefaultText"
+msgid "Don't tell me you're scared of a few marauders."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:189
+msgctxt "conversations/00_emerald_vale/00_cv_grace:189:DefaultText"
+msgid "Good luck with that."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:190
+msgctxt "conversations/00_emerald_vale/00_cv_grace:190:DefaultText"
+msgid "I've crossed off my share of marauders. This ain't about them. "
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:191
+msgctxt "conversations/00_emerald_vale/00_cv_grace:191:DefaultText"
+msgid "You could always go looking for her."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:193
+msgctxt "conversations/00_emerald_vale/00_cv_grace:193:DefaultText"
+msgid "Marauder gang just moved into the districts a little ways east. Their numbers are growing. Gotta come from somewhere."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:194
+msgctxt "conversations/00_emerald_vale/00_cv_grace:194:DefaultText"
+msgid "Unless marauders got to her. Then parts of her could be in a lot of places."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:195
+msgctxt "conversations/00_emerald_vale/00_cv_grace:195:DefaultText"
+msgid "Could do without the gallows humor."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:196
+msgctxt "conversations/00_emerald_vale/00_cv_grace:196:DefaultText"
+msgid "Appreciate it. Honest."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:197
+msgctxt "conversations/00_emerald_vale/00_cv_grace:197:DefaultText"
+msgid "See you around."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:198
+msgctxt "conversations/00_emerald_vale/00_cv_grace:198:DefaultText"
+msgid "Getting along? What? Sitting around a campfire telling stories?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:199
+msgctxt "conversations/00_emerald_vale/00_cv_grace:199:DefaultText"
+msgid "You mean in the head, or..."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:200
+msgctxt "conversations/00_emerald_vale/00_cv_grace:200:DefaultText"
+msgid "Zoe's family. Chiding her is our purview, not yours."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:201
+msgctxt "conversations/00_emerald_vale/00_cv_grace:201:DefaultText"
+msgid "She's become one of them. Calls herself the Queen of the Marauders."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:202
+msgctxt "conversations/00_emerald_vale/00_cv_grace:202:DefaultText"
+msgid "Queen of the Marauders, huh. That's what comes of watching serials. Rots your grey."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:203
+msgctxt "conversations/00_emerald_vale/00_cv_grace:203:DefaultText"
+msgid "You obviously run a tight ship."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:204
+msgctxt "conversations/00_emerald_vale/00_cv_grace:204:DefaultText"
+msgid "Who's been wandering out of your camp?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:205
+msgctxt "conversations/00_emerald_vale/00_cv_grace:205:DefaultText"
+msgid "Got anything in you besides questions?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:206
+msgctxt "conversations/00_emerald_vale/00_cv_grace:206:DefaultText"
+msgid "You wanna try standing outside in the heat, keeping your sights open for the next marauder raid?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:207
+msgctxt "conversations/00_emerald_vale/00_cv_grace:207:DefaultText"
+msgid "Thought I told you to move along."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:209
+msgctxt "conversations/00_emerald_vale/00_cv_grace:209:DefaultText"
+msgid "Yeah, Zoe. She's been gone a while now."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:211
+msgctxt "conversations/00_emerald_vale/00_cv_grace:211:DefaultText"
+msgid "There's nothing left for you here. It's time to go back to Edgewater."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:213
+msgctxt "conversations/00_emerald_vale/00_cv_grace:213:DefaultText"
+msgid "The matter's been weighing on me."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:214
+msgctxt "conversations/00_emerald_vale/00_cv_grace:214:DefaultText"
+msgid "Fact is, I can't go anywhere long as Zoe's missing. Disappeared without a trace. Marauders took her, I suspect."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:215
+msgctxt "conversations/00_emerald_vale/00_cv_grace:215:DefaultText"
+msgid "I'm staying put until I know what's become of Zoe. Don't want that question haunting me all the way back to the cannery."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:216
+msgctxt "conversations/00_emerald_vale/00_cv_grace:216:DefaultText"
+msgid "Zoe came back, but I couldn't keep her from slipping out in the first place. Who's to say I could keep marauders from slipping in?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:217
+msgctxt "conversations/00_emerald_vale/00_cv_grace:217:DefaultText"
+msgid "Zoe'd rather throw in with marauders than live with us. That ain't exactly a flattering compliment."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:218
+msgctxt "conversations/00_emerald_vale/00_cv_grace:218:DefaultText"
+msgid "I don't see us lasting more than a couple weeks out here. I'm loathe to admit it, but we're gonna have to make our peace with Tobson and hope he takes us back."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:219
+msgctxt "conversations/00_emerald_vale/00_cv_grace:219:DefaultText"
+msgid "I could give you the details, but they're pretty grisly."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:220
+msgctxt "conversations/00_emerald_vale/00_cv_grace:220:DefaultText"
+msgid "Marauders got to her before I did."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:221
+msgctxt "conversations/00_emerald_vale/00_cv_grace:221:DefaultText"
+msgid "I could do without the mental portrait."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:223
+msgctxt "conversations/00_emerald_vale/00_cv_grace:223:DefaultText"
+msgid "I don't care enough to bother lying to you."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:224
+msgctxt "conversations/00_emerald_vale/00_cv_grace:224:DefaultText"
+msgid "I could bring back her body if you want. Might have to make a few trips."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:226
+msgctxt "conversations/00_emerald_vale/00_cv_grace:226:DefaultText"
+msgid "Zoe died on my watch. I haven't done enough to protect our camp. Fact is, I can't do much more."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:228
+msgctxt "conversations/00_emerald_vale/00_cv_grace:228:DefaultText"
+msgid "All right. You made your point."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:229
+msgctxt "conversations/00_emerald_vale/00_cv_grace:229:DefaultText"
+msgid "On second thought, I'll take your word for it."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:234
+msgctxt "conversations/00_emerald_vale/00_cv_grace:234:DefaultText"
+msgid "I don't know what you did to talk some sense into Zoe, but I appreciate it."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:235
+msgctxt "conversations/00_emerald_vale/00_cv_grace:235:DefaultText"
+msgid "You snooped around in her room?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:236
+msgctxt "conversations/00_emerald_vale/00_cv_grace:236:DefaultText"
+msgid "Little ways ago. She was always obsessing over her serial dramas. Wanted to see what the fuss was about."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:237
+msgctxt "conversations/00_emerald_vale/00_cv_grace:237:DefaultText"
+msgid "Any chance you could point me somewhere specific, and not just \"out there\"?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:238
+msgctxt "conversations/00_emerald_vale/00_cv_grace:238:DefaultText"
+msgid "You seem so personable. Can't imagine how you didn't get on with her."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:239
+msgctxt "conversations/00_emerald_vale/00_cv_grace:239:DefaultText"
+msgid "She was lazy and thoughtless. But she's still one of our own."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:246
+msgctxt "conversations/00_emerald_vale/00_cv_grace:246:DefaultText"
+msgid "Never liked Reed much. Can't say I'm sorry he's gone."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:248
+msgctxt "conversations/00_emerald_vale/00_cv_grace:248:DefaultText"
+msgid "Back to the old cannery, huh? Don't know what else I expected."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:252
+msgctxt "conversations/00_emerald_vale/00_cv_grace:252:DefaultText"
+msgid "I think I know who you're talking about. Yeah, she's not coming back."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:253
+msgctxt "conversations/00_emerald_vale/00_cv_grace:253:DefaultText"
+msgid "Adelaide's agreed to go back to Edgewater."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:254
+msgctxt "conversations/00_emerald_vale/00_cv_grace:254:DefaultText"
+msgid "Didn't think she'd go back so long as Reed was still running the place. Something must've changed."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:261
+msgctxt "conversations/00_emerald_vale/00_cv_grace:261:DefaultText"
+msgid "If Adelaide's going back to Edgewater, we'll follow her."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:262
+msgctxt "conversations/00_emerald_vale/00_cv_grace:262:DefaultText"
+msgid "Listen - we go back to Reed, hat in hand, begging for our old jobs back - well, Adelaide's not gonna forgive us. She'd never talk to us again."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:263
+msgctxt "conversations/00_emerald_vale/00_cv_grace:263:DefaultText"
+msgid "Leave Adelaide behind, then. Edgewater needs you back."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:264
+msgctxt "conversations/00_emerald_vale/00_cv_grace:264:DefaultText"
+msgid "Don't do anything hasty. I'm going to try to talk Reed into stepping down."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:265
+msgctxt "conversations/00_emerald_vale/00_cv_grace:265:DefaultText"
+msgid "Why not?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:266
+msgctxt "conversations/00_emerald_vale/00_cv_grace:266:DefaultText"
+msgid "Adelaide's dead. It's time for you to move on."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:267
+msgctxt "conversations/00_emerald_vale/00_cv_grace:267:DefaultText"
+msgid "What did you just say? She's - she's dead? I don't understand. How? "
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:268
+msgctxt "conversations/00_emerald_vale/00_cv_grace:268:DefaultText"
+msgid "This is a lot to take in. I'm going to have to talk to the others. Adelaide held this camp together. Without her, we've got no reason to stay."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:269
+msgctxt "conversations/00_emerald_vale/00_cv_grace:269:DefaultText"
+msgid "Edgewater's not just a town to Adelaide. It's a symbol of everything that's wrong with this colony. A big, heartless machine of metal and gears, grinding workers down to dust."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:270
+msgctxt "conversations/00_emerald_vale/00_cv_grace:270:DefaultText"
+msgid "We're the closest thing Adelaide's got to a family. We go back to Edgewater, she's gonna feel betrayed."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:271
+msgctxt "conversations/00_emerald_vale/00_cv_grace:271:DefaultText"
+msgid "Sure, suit yourself. I'll be here."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:272
+msgctxt "conversations/00_emerald_vale/00_cv_grace:272:DefaultText"
+msgid "Yeah. Yeah - you're right. And I suspect Reed's learned his lesson by now. Might even be willing to talk terms with us."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:273
+msgctxt "conversations/00_emerald_vale/00_cv_grace:273:DefaultText"
+msgid "Hey, Thomas. Gather up your personals, and we'll go talk to Reed together."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:274
+msgctxt "conversations/00_emerald_vale/00_cv_grace:274:DefaultText"
+msgid "This is all happening so fast. Give me a little time to give this place a proper goodbye, yeah?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:277
+msgctxt "conversations/00_emerald_vale/00_cv_grace:277:DefaultText"
+msgid "Edgewater could use another mechanic. I'm not sure if I'm ready to step into that role, but I'm willing to try my best."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:278
+msgctxt "conversations/00_emerald_vale/00_cv_grace:278:DefaultText"
+msgid "If you find any more of those manuals, I'll be in Edgewater."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:279
+msgctxt "conversations/00_emerald_vale/00_cv_grace:279:DefaultText"
+msgid "Listen, after this is all over, I'd like to talk to you. Come find me in Edgewater,  if you're ever about town."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:280
+msgctxt "conversations/00_emerald_vale/00_cv_grace:280:DefaultText"
+msgid "If you see Reed, let him know we're coming back."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:281
+msgctxt "conversations/00_emerald_vale/00_cv_grace:281:DefaultText"
+msgid "Take care."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:282
+msgctxt "conversations/00_emerald_vale/00_cv_grace:282:DefaultText"
+msgid "Leave Adelaide here. Edgewater needs you back."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:283
+msgctxt "conversations/00_emerald_vale/00_cv_grace:283:DefaultText"
+msgid "Thomas told me the same thing."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:284
+msgctxt "conversations/00_emerald_vale/00_cv_grace:284:DefaultText"
+msgid "I'll have a word with Adelaide. Don't do anything yet."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:285
+msgctxt "conversations/00_emerald_vale/00_cv_grace:285:DefaultText"
+msgid "I'm looking for Adelaide. I need some answers."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:286
+msgctxt "conversations/00_emerald_vale/00_cv_grace:286:DefaultText"
+msgid "You better be sure about this. We go back to Edgewater without Adelaide, she's never coming back."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:287
+msgctxt "conversations/00_emerald_vale/00_cv_grace:287:DefaultText"
+msgid "I'm sure. It's time you went back to Edgewater. Let Adelaide stay here."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:289
+msgctxt "conversations/00_emerald_vale/00_cv_grace:289:DefaultText"
+msgid "Trouble with marauders?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:291
+msgctxt "conversations/00_emerald_vale/00_cv_grace:291:DefaultText"
+msgid "Where can I find Adelaide?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_grace:292
+msgctxt "conversations/00_emerald_vale/00_cv_grace:292:DefaultText"
+msgid "Over in the hothouse, tending crop. "
+msgstr ""

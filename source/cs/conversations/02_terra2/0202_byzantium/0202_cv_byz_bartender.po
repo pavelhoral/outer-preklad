@@ -1,0 +1,284 @@
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_bartender:1
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_bartender:1:DefaultText"
+msgid "Have you tried our new cocktail, sponsored by Rizzo's? One part purple spectrum vodka. One part artificial tomato-like substitute juice. We call it a Blue-Bloody Mary."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_bartender:2
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_bartender:2:DefaultText"
+msgid "What can I do for you?"
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_bartender:3
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_bartender:3:DefaultText"
+msgid "Take care."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_bartender:4
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_bartender:4:DefaultText"
+msgid "I wanted to ask you something."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_bartender:5
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_bartender:5:DefaultText"
+msgid "Oh, by all means. Ask away."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_bartender:6
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_bartender:6:DefaultText"
+msgid "I'm looking for Rachel Lockwood. She's a cartographer."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_bartender:7
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_bartender:7:DefaultText"
+msgid "How curious. I was just wondering after Rachel myself."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_bartender:8
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_bartender:8:DefaultText"
+msgid "Do you know where she is?"
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_bartender:9
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_bartender:9:DefaultText"
+msgid "Hey, about Rachel Lockwood."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_bartender:10
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_bartender:10:DefaultText"
+msgid "Or, no. Not honor-bound. The other thing. Paid. Yes. I'm paid to keep her location a secret. Can you make me a better offer?"
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_bartender:13
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_bartender:13:DefaultText"
+msgid "I'm sure we can come to an agreement. Say, <oeiglobal>Bribe_Amount</oeiglobal> bits?"
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_bartender:14
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_bartender:14:DefaultText"
+msgid "Much appreciated. Thank you for your patronage. Ms. Lockwood can be found hiding in the service tunnels."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_bartender:15
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_bartender:15:DefaultText"
+msgid "Still looking for Ms. Lockwood, are we? How can I help you?"
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_bartender:16
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_bartender:16:DefaultText"
+msgid "I have to meet with her. It's important."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_bartender:17
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_bartender:17:DefaultText"
+msgid "I'm quite sure you'll be able to convince me. Bit by bit."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_bartender:18
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_bartender:18:DefaultText"
+msgid "Actually, let me ask you something else."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_bartender:20
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_bartender:20:DefaultText"
+msgid "She's a regular?"
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_bartender:21
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_bartender:21:DefaultText"
+msgid "Quite so. She's especially fond of NearMaple liqueurs, but I suppose there's no accounting for taste."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_bartender:22
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_bartender:22:DefaultText"
+msgid "I could use a drink."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_bartender:24
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_bartender:24:DefaultText"
+msgid "Then you'll want to speak with our Automechanical Inebriation Assistant, located just over there."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_bartender:25
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_bartender:25:DefaultText"
+msgid "Thanks. I'll do that."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_bartender:26
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_bartender:26:DefaultText"
+msgid "Aren't you the bartender?"
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_bartender:27
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_bartender:27:DefaultText"
+msgid "Quite so, but I would never lower myself to something as gauche as tending bar. My automechanical assistant does all the work for me."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_bartender:30
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_bartender:30:DefaultText"
+msgid "She's a common enough sight during the evening hours. Occasionally she'll stop by for a cordial in the afternoon."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_bartender:31
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_bartender:31:DefaultText"
+msgid "I do. Unfortunately, Rachel doesn't want to be found. I'm honor-bound to keep her location a secret."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_bartender:32
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_bartender:32:DefaultText"
+msgid "What's it like working in Byzantium?"
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_bartender:33
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_bartender:33:DefaultText"
+msgid "Picked up any interesting rumors?"
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_bartender:34
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_bartender:34:DefaultText"
+msgid "How do I get inside the service tunnels?"
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_bartender:35
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_bartender:35:DefaultText"
+msgid "You'll have to take a service elevator. I'd recommend a change of shoes when you're done."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_bartender:36
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_bartender:36:DefaultText"
+msgid "I'm leaving."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_bartender:37
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_bartender:37:DefaultText"
+msgid "Lockwood trusted you. Why did you sell her out?"
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_bartender:38
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_bartender:38:DefaultText"
+msgid "I beg your pardon. I have no emotional or personal obligation to Ms. Lockwood. She paid me for my silence, and you made a more convincing offer."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_bartender:39
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_bartender:39:DefaultText"
+msgid "Besides, Ms. Lockwood is obviously involved in something scandalous. If I protect her, I risk sullying my own name by association."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_bartender:40
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_bartender:40:DefaultText"
+msgid "I should go."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_bartender:41
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_bartender:41:DefaultText"
+msgid "I don't believe in work. Work is for automechanicals and lower classes. "
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_bartender:42
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_bartender:42:DefaultText"
+msgid "Are you serious?"
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_bartender:43
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_bartender:43:DefaultText"
+msgid "So how does anything get done around here?"
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_bartender:44
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_bartender:44:DefaultText"
+msgid "You're missing out. There's something satisfying about a hard day's work."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_bartender:45
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_bartender:45:DefaultText"
+msgid "I don't mean to sound cruel. There's nothing wrong with working. It's just so unnecessary. Why bother?"
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_bartender:46
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_bartender:46:DefaultText"
+msgid "We all have our roles in society. I like to think of myself as an entrepreneur. This drinking establishment is my investment."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_bartender:47
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_bartender:47:DefaultText"
+msgid "By automechanicals, of course. Byzantium's fleet of mechanical servitors are programmed to simulate a labor force, but without all the unsightly workers milling about."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_bartender:48
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_bartender:48:DefaultText"
+msgid "I suppose there is something charming about work, in a parochial sort of way. Personally, I can't imagine ruining my sleeves by rolling them up."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_bartender:50
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_bartender:50:DefaultText"
+msgid "Do you know Celeste Jolicoeur? I've heard she's working on some spectacular new design."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_bartender:51
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_bartender:51:DefaultText"
+msgid "Celeste Jolicoeur's disappeared without a word. I've heard she's taking an extended and indefinite sabbatical."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_bartender:52
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_bartender:52:DefaultText"
+msgid "Maverick Johnston's about to release his new picture. From what I hear, they've already started shooting."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_bartender:53
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_bartender:53:DefaultText"
+msgid "Rizzo's Spectrum Vodka is about to release its newest color. Ultraviolet. Completely invisible to the naked eye."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_bartender:56
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_bartender:56:DefaultText"
+msgid "My goodness. A Jolicoeur original."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_bartender:57
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_bartender:57:DefaultText"
+msgid "Hey, that automechanical's pretty expensive looking."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_bartender:58
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_bartender:58:DefaultText"
+msgid "You mean my automated bartender? Oh, yes. Priceless. I don't know what I'd do without it."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_bartender:60
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_bartender:60:DefaultText"
+msgid "Talk, or I'll program your automated bartender to murder you in your sleep."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_bartender:61
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_bartender:61:DefaultText"
+msgid "Tell me where Lockwood is, and you won't have to find out."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_bartender:62
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_bartender:62:DefaultText"
+msgid "Tell me where Lockwood's hiding, or I'll take it apart with my bare hands."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_bartender:63
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_bartender:63:DefaultText"
+msgid "What, you? Don't make me laugh - actually, no, you probably could take it apart."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_bartender:64
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_bartender:64:DefaultText"
+msgid "Ah. Threatening me with the destruction of a priceless heirloom. A classic negotiation strategy."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_bartender:65
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_bartender:65:DefaultText"
+msgid "What? Murder me in my sleep? Have you taken leave of your senses?"
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_bartender:67
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_bartender:67:DefaultText"
+msgid "All right, you lunatic. Take it easy. You win. Lockwood's hiding in the service tunnels."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_bartender:68
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_bartender:68:DefaultText"
+msgid "That's all I needed."
+msgstr ""

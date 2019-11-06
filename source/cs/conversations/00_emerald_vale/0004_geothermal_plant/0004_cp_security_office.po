@@ -1,0 +1,156 @@
+#: conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_security_office:1
+msgctxt "conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_security_office:1:DefaultText"
+msgid "Emerald Vale Geothermal Plant\r\n"
+"\r\n"
+"A Spacer's Choice Property\r\n"
+"========================\r\n"
+"\r\n"
+"Geothermal Security Office\r\n"
+"\r\n"
+"Personal Logs - S. Tanaka, Chief of Security"
+msgstr ""
+
+#: conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_security_office:2
+msgctxt "conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_security_office:2:DefaultText"
+msgid "[Access: Personal Log 079]"
+msgstr ""
+
+#: conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_security_office:3
+msgctxt "conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_security_office:3:DefaultText"
+msgid "Emerald Vale Geothermal Plant\r\n"
+"\r\n"
+"A Spacer's Choice Property\r\n"
+"========================\r\n"
+"\r\n"
+"Geothermal Security Office\r\n"
+"\r\n"
+"Personal Logs - S. Tanaka, Chief of Security\r\n"
+"\r\n"
+"Chester Higgins again. That hullhead. Found him fiddling around with one of the mechanicals, so I had to write him up for tampering with company property. Just in case I'm reading this a couple days from now and feeling bad for what I've done, let me just remind myself that I've warned him before. He's always been a little crooked in the skull.\r\n"
+"\r\n"
+"He was working on some logic module. I confiscated it. Should be in my lockaway room for the foreseeable future."
+msgstr ""
+
+#: conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_security_office:4
+msgctxt "conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_security_office:4:DefaultText"
+msgid "[Access: Personal Log 087]"
+msgstr ""
+
+#: conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_security_office:5
+msgctxt "conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_security_office:5:DefaultText"
+msgid "Emerald Vale Geothermal Plant\r\n"
+"\r\n"
+"A Spacer's Choice Property\r\n"
+"========================\r\n"
+"\r\n"
+"Geothermal Security Office\r\n"
+"\r\n"
+"Personal Logs - S. Tanaka, Chief of Security\r\n"
+"\r\n"
+"Doesn't sit right with me. Company's been replacing our guards with automechanicals. At this rate, I'm gonna end up a chief of security with no staff. Just a small army of mechanicals knocking about, guns pointed every which way. Company tells us they're safe. Programmed to treat us humans like their own. People are liable to break down, but an automechanical never will.\r\n"
+"\r\n"
+"I don't know. Doesn't sit right with me. But the company's never been wrong before, I suppose.\r\n"
+""
+msgstr ""
+
+#: conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_security_office:6
+msgctxt "conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_security_office:6:DefaultText"
+msgid "[Access: Personal Log 098]"
+msgstr ""
+
+#: conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_security_office:7
+msgctxt "conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_security_office:7:DefaultText"
+msgid "Emerald Vale Geothermal Plant\r\n"
+"\r\n"
+"A Spacer's Choice Property\r\n"
+"========================\r\n"
+"\r\n"
+"Geothermal Security Office\r\n"
+"\r\n"
+"Personal Logs - S. Tanaka, Chief of Security\r\n"
+"\r\n"
+"Worst has happened. Mechanicals gone crazy. Locked myself down here. Just trying to gather my courage. Gonna make a mad dash for the control room. Might be able to shut things down.\r\n"
+"\r\n"
+"Will delete this entry if I ever return."
+msgstr ""
+
+#: conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_security_office:8
+msgctxt "conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_security_office:8:DefaultText"
+msgid "[Exit]"
+msgstr ""
+
+#: conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_security_office:9
+msgctxt "conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_security_office:9:DefaultText"
+msgid "Emerald Vale Geothermal Plant\r\n"
+"\r\n"
+"A Spacer's Choice Property\r\n"
+"========================\r\n"
+"\r\n"
+"Geothermal Security Office\r\n"
+"\r\n"
+"Terminal Access"
+msgstr ""
+
+#: conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_security_office:10
+msgctxt "conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_security_office:10:DefaultText"
+msgid "[Personal Files]"
+msgstr ""
+
+#: conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_security_office:11
+msgctxt "conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_security_office:11:DefaultText"
+msgid "[Unlock Door]"
+msgstr ""
+
+#: conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_security_office:12
+msgctxt "conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_security_office:12:DefaultText"
+msgid "Emerald Vale Geothermal Plant\r\n"
+"\r\n"
+"A Spacer's Choice Property\r\n"
+"========================\r\n"
+"\r\n"
+"WARNING! This facility is in a state of lockdown. Authorization passcode required."
+msgstr ""
+
+#: conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_security_office:13
+msgctxt "conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_security_office:13:DefaultText"
+msgid "[Enter Passcode]"
+msgstr ""
+
+#: conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_security_office:14
+msgctxt "conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_security_office:14:DefaultText"
+msgid "Emerald Vale Geothermal Plant\r\n"
+"\r\n"
+"A Spacer's Choice Property\r\n"
+"========================\r\n"
+"\r\n"
+"\r\n"
+"[PASSCODE]: SpacerTobson\r\n"
+"...\r\n"
+"[ACCEPTED]\r\n"
+"...\r\n"
+"WELCOME, R. Tobson"
+msgstr ""
+
+#: conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_security_office:15
+msgctxt "conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_security_office:15:DefaultText"
+msgid "[Return to Root]"
+msgstr ""
+
+#: conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_security_office:16
+msgctxt "conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_security_office:16:DefaultText"
+msgid "[Access: Automated Message 006]"
+msgstr ""
+
+#: conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_security_office:17
+msgctxt "conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_security_office:17:DefaultText"
+msgid "Emerald Vale Geothermal Plant\r\n"
+"\r\n"
+"A Spacer's Choice Property\r\n"
+"========================\r\n"
+"\r\n"
+"Geothermal Security Office\r\n"
+"\r\n"
+"Greetings, Security Chief S. TANAKA. This is an AUTOMATED MESSAGE initiated by SPACER'S CHOICE WORKER SAFETY CONTINGENCY PROTOCOLS. A security lockdown has been initiated. This is not a test. Your behavior during this lockdown will be reviewed during your quarterly audit.\r\n"
+"\r\n"
+"Anxiety is a common side-effect of life-threatening situations engendered by security lockdowns. Fight back against anxiety with an ice-cold bottle of Zero Gee Brew. Zero Gee Brew: An Ale That's Good For What Ails You. "
+msgstr ""

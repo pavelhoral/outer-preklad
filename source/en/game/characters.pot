@@ -1,0 +1,3329 @@
+#: game/characters:1
+msgctxt "game/characters:1:DefaultText"
+msgid "Nigel"
+msgstr ""
+
+#: game/characters:2
+msgctxt "game/characters:2:DefaultText"
+msgid "Guard"
+msgstr ""
+
+#: game/characters:3
+msgctxt "game/characters:3:DefaultText"
+msgid "Player"
+msgstr ""
+
+#: game/characters:4
+msgctxt "game/characters:4:DefaultText"
+msgid "Companion"
+msgstr ""
+
+#: game/characters:6
+msgctxt "game/characters:6:DefaultText"
+msgid "Donnie"
+msgstr ""
+
+#: game/characters:7
+msgctxt "game/characters:7:DefaultText"
+msgid "Al"
+msgstr ""
+
+#: game/characters:8
+msgctxt "game/characters:8:DefaultText"
+msgid "Officer"
+msgstr ""
+
+#: game/characters:11
+msgctxt "game/characters:11:DefaultText"
+msgid "Gerald"
+msgstr ""
+
+#: game/characters:12
+msgctxt "game/characters:12:DefaultText"
+msgid "Rotface"
+msgstr ""
+
+#: game/characters:13
+msgctxt "game/characters:13:DefaultText"
+msgid "Colonel Moore"
+msgstr ""
+
+#: game/characters:14
+msgctxt "game/characters:14:DefaultText"
+msgid "The King"
+msgstr ""
+
+#: game/characters:15
+msgctxt "game/characters:15:DefaultText"
+msgid "Ambassador Crocker"
+msgstr ""
+
+#: game/characters:16
+msgctxt "game/characters:16:DefaultText"
+msgid "Colonel Hsu"
+msgstr ""
+
+#: game/characters:17
+msgctxt "game/characters:17:DefaultText"
+msgid "Quest Mechanical"
+msgstr ""
+
+#: game/characters:18
+msgctxt "game/characters:18:DefaultText"
+msgid "Vault"
+msgstr ""
+
+#: game/characters:19
+msgctxt "game/characters:19:DefaultText"
+msgid "Ranger Grant"
+msgstr ""
+
+#: game/characters:20
+msgctxt "game/characters:20:DefaultText"
+msgid "Engineer"
+msgstr ""
+
+#: game/characters:21
+msgctxt "game/characters:21:DefaultText"
+msgid "Sniper"
+msgstr ""
+
+#: game/characters:22
+msgctxt "game/characters:22:DefaultText"
+msgid "Colonel Moore"
+msgstr ""
+
+#: game/characters:23
+msgctxt "game/characters:23:DefaultText"
+msgid "Computer_Test"
+msgstr ""
+
+#: game/characters:24
+msgctxt "game/characters:24:DefaultText"
+msgid "Argos"
+msgstr ""
+
+#: game/characters:25
+msgctxt "game/characters:25:DefaultText"
+msgid "Ellie"
+msgstr ""
+
+#: game/characters:26
+msgctxt "game/characters:26:DefaultText"
+msgid "Lillian"
+msgstr ""
+
+#: game/characters:27
+msgctxt "game/characters:27:DefaultText"
+msgid "Jameson"
+msgstr ""
+
+#: game/characters:28
+msgctxt "game/characters:28:DefaultText"
+msgid "Vaughn Cortes"
+msgstr ""
+
+#: game/characters:29
+msgctxt "game/characters:29:DefaultText"
+msgid "Orson Shaw"
+msgstr ""
+
+#: game/characters:30
+msgctxt "game/characters:30:DefaultText"
+msgid "Instrument Console"
+msgstr ""
+
+#: game/characters:31
+msgctxt "game/characters:31:DefaultText"
+msgid "Cassandra O'Malley"
+msgstr ""
+
+#: game/characters:32
+msgctxt "game/characters:32:DefaultText"
+msgid "Cassandra O'Malley"
+msgstr ""
+
+#: game/characters:33
+msgctxt "game/characters:33:DefaultText"
+msgid "Felix"
+msgstr ""
+
+#: game/characters:34
+msgctxt "game/characters:34:DefaultText"
+msgid "Anton Crane"
+msgstr ""
+
+#: game/characters:35
+msgctxt "game/characters:35:DefaultText"
+msgid "Cassandra"
+msgstr ""
+
+#: game/characters:36
+msgctxt "game/characters:36:DefaultText"
+msgid "Porter"
+msgstr ""
+
+#: game/characters:37
+msgctxt "game/characters:37:DefaultText"
+msgid "Mechanical Sentry"
+msgstr ""
+
+#: game/characters:38
+msgctxt "game/characters:38:DefaultText"
+msgid "Scientist"
+msgstr ""
+
+#: game/characters:39
+msgctxt "game/characters:39:DefaultText"
+msgid "Guard"
+msgstr ""
+
+#: game/characters:40
+msgctxt "game/characters:40:DefaultText"
+msgid "test_vs_covertlab_eventcontroller"
+msgstr ""
+
+#: game/characters:41
+msgctxt "game/characters:41:DefaultText"
+msgid "Anton's Computer"
+msgstr ""
+
+#: game/characters:42
+msgctxt "game/characters:42:DefaultText"
+msgid "Guard"
+msgstr ""
+
+#: game/characters:43
+msgctxt "game/characters:43:DefaultText"
+msgid "Raptidon Mauler"
+msgstr ""
+
+#: game/characters:44
+msgctxt "game/characters:44:DefaultText"
+msgid "Cleo Unit Commander"
+msgstr ""
+
+#: game/characters:45
+msgctxt "game/characters:45:DefaultText"
+msgid "Marauder Thug"
+msgstr ""
+
+#: game/characters:46
+msgctxt "game/characters:46:DefaultText"
+msgid "Weldon"
+msgstr ""
+
+#: game/characters:47
+msgctxt "game/characters:47:DefaultText"
+msgid "Talmadge"
+msgstr ""
+
+#: game/characters:48
+msgctxt "game/characters:48:DefaultText"
+msgid "Automechanical Loader"
+msgstr ""
+
+#: game/characters:49
+msgctxt "game/characters:49:DefaultText"
+msgid "Marauder"
+msgstr ""
+
+#: game/characters:50
+msgctxt "game/characters:50:DefaultText"
+msgid "Klemper"
+msgstr ""
+
+#: game/characters:51
+msgctxt "game/characters:51:DefaultText"
+msgid "Martinez"
+msgstr ""
+
+#: game/characters:52
+msgctxt "game/characters:52:DefaultText"
+msgid "Guard"
+msgstr ""
+
+#: game/characters:53
+msgctxt "game/characters:53:DefaultText"
+msgid "Guard"
+msgstr ""
+
+#: game/characters:54
+msgctxt "game/characters:54:DefaultText"
+msgid "Berke"
+msgstr ""
+
+#: game/characters:55
+msgctxt "game/characters:55:DefaultText"
+msgid "Larry"
+msgstr ""
+
+#: game/characters:56
+msgctxt "game/characters:56:DefaultText"
+msgid "Moe"
+msgstr ""
+
+#: game/characters:57
+msgctxt "game/characters:57:DefaultText"
+msgid "Curly"
+msgstr ""
+
+#: game/characters:58
+msgctxt "game/characters:58:DefaultText"
+msgid "Shemp"
+msgstr ""
+
+#: game/characters:59
+msgctxt "game/characters:59:DefaultText"
+msgid "Increases the fighter's tenacity in Defender mode. While Staunch Defender is active each time the Fighter takes damage he or she gains Armor Rating of the damage type their received for a short time. Subsequent attacks will stack this effect."
+msgstr ""
+
+#: game/characters:60
+msgctxt "game/characters:60:DefaultText"
+msgid "Raptidon Spitter"
+msgstr ""
+
+#: game/characters:61
+msgctxt "game/characters:61:DefaultText"
+msgid "Raptidon Matriarch"
+msgstr ""
+
+#: game/characters:62
+msgctxt "game/characters:62:DefaultText"
+msgid "Marauder"
+msgstr ""
+
+#: game/characters:63
+msgctxt "game/characters:63:DefaultText"
+msgid "Marauder"
+msgstr ""
+
+#: game/characters:64
+msgctxt "game/characters:64:DefaultText"
+msgid "Marauder Vandal"
+msgstr ""
+
+#: game/characters:65
+msgctxt "game/characters:65:DefaultText"
+msgid "Goreman"
+msgstr ""
+
+#: game/characters:66
+msgctxt "game/characters:66:DefaultText"
+msgid "Crew"
+msgstr ""
+
+#: game/characters:67
+msgctxt "game/characters:67:DefaultText"
+msgid "Lionel"
+msgstr ""
+
+#: game/characters:68
+msgctxt "game/characters:68:DefaultText"
+msgid "Pugliese"
+msgstr ""
+
+#: game/characters:70
+msgctxt "game/characters:70:DefaultText"
+msgid "Caleb"
+msgstr ""
+
+#: game/characters:77
+msgctxt "game/characters:77:DefaultText"
+msgid "Gideon"
+msgstr ""
+
+#: game/characters:78
+msgctxt "game/characters:78:DefaultText"
+msgid "Conrad Sadik"
+msgstr ""
+
+#: game/characters:79
+msgctxt "game/characters:79:DefaultText"
+msgid "Julius Moreau"
+msgstr ""
+
+#: game/characters:80
+msgctxt "game/characters:80:DefaultText"
+msgid "Reed Tobson"
+msgstr ""
+
+#: game/characters:81
+msgctxt "game/characters:81:DefaultText"
+msgid "Amelia Kim"
+msgstr ""
+
+#: game/characters:82
+msgctxt "game/characters:82:DefaultText"
+msgid "Parvati"
+msgstr ""
+
+#: game/characters:83
+msgctxt "game/characters:83:DefaultText"
+msgid "Vicar"
+msgstr ""
+
+#: game/characters:84
+msgctxt "game/characters:84:DefaultText"
+msgid "Silas"
+msgstr ""
+
+#: game/characters:85
+msgctxt "game/characters:85:DefaultText"
+msgid "Rahim Morel"
+msgstr ""
+
+#: game/characters:86
+msgctxt "game/characters:86:DefaultText"
+msgid "ADA"
+msgstr ""
+
+#: game/characters:87
+msgctxt "game/characters:87:DefaultText"
+msgid "Adelaide McDevitt"
+msgstr ""
+
+#: game/characters:88
+msgctxt "game/characters:88:DefaultText"
+msgid "Grimm"
+msgstr ""
+
+#: game/characters:89
+msgctxt "game/characters:89:DefaultText"
+msgid "Reed's Computer"
+msgstr ""
+
+#: game/characters:90
+msgctxt "game/characters:90:DefaultText"
+msgid "Sanjar Nandi"
+msgstr ""
+
+#: game/characters:91
+msgctxt "game/characters:91:DefaultText"
+msgid "Nyoka"
+msgstr ""
+
+#: game/characters:92
+msgctxt "game/characters:92:DefaultText"
+msgid "Junlei Tennyson"
+msgstr ""
+
+#: game/characters:94
+msgctxt "game/characters:94:DefaultText"
+msgid "Song Jiang"
+msgstr ""
+
+#: game/characters:95
+msgctxt "game/characters:95:DefaultText"
+msgid "Gladys"
+msgstr ""
+
+#: game/characters:96
+msgctxt "game/characters:96:DefaultText"
+msgid "Udom Bedford"
+msgstr ""
+
+#: game/characters:97
+msgctxt "game/characters:97:DefaultText"
+msgid "Comdt. Sanita"
+msgstr ""
+
+#: game/characters:99
+msgctxt "game/characters:99:DefaultText"
+msgid "Hiram Blythe"
+msgstr ""
+
+#: game/characters:100
+msgctxt "game/characters:100:DefaultText"
+msgid "Phineas Welles"
+msgstr ""
+
+#: game/characters:101
+msgctxt "game/characters:101:DefaultText"
+msgid "Scientist"
+msgstr ""
+
+#: game/characters:102
+msgctxt "game/characters:102:DefaultText"
+msgid "Scientist"
+msgstr ""
+
+#: game/characters:103
+msgctxt "game/characters:103:DefaultText"
+msgid "Scientist"
+msgstr ""
+
+#: game/characters:104
+msgctxt "game/characters:104:DefaultText"
+msgid "Scientist"
+msgstr ""
+
+#: game/characters:105
+msgctxt "game/characters:105:DefaultText"
+msgid "Graham Bryant"
+msgstr ""
+
+#: game/characters:106
+msgctxt "game/characters:106:DefaultText"
+msgid "Mardet"
+msgstr ""
+
+#: game/characters:107
+msgctxt "game/characters:107:DefaultText"
+msgid "Gideon"
+msgstr ""
+
+#: game/characters:108
+msgctxt "game/characters:108:DefaultText"
+msgid "Gideon"
+msgstr ""
+
+#: game/characters:109
+msgctxt "game/characters:109:DefaultText"
+msgid "Braxton Hecht"
+msgstr ""
+
+#: game/characters:110
+msgctxt "game/characters:110:DefaultText"
+msgid "Zeng Shuren"
+msgstr ""
+
+#: game/characters:111
+msgctxt "game/characters:111:DefaultText"
+msgid "Milburn Fink"
+msgstr ""
+
+#: game/characters:112
+msgctxt "game/characters:112:DefaultText"
+msgid "Bunda Oesman"
+msgstr ""
+
+#: game/characters:114
+msgctxt "game/characters:114:DefaultText"
+msgid "Wheeler"
+msgstr ""
+
+#: game/characters:116
+msgctxt "game/characters:116:DefaultText"
+msgid "Phyllis Granger"
+msgstr ""
+
+#: game/characters:117
+msgctxt "game/characters:117:DefaultText"
+msgid "Vicar Max"
+msgstr ""
+
+#: game/characters:118
+msgctxt "game/characters:118:DefaultText"
+msgid "Ludwig Miller"
+msgstr ""
+
+#: game/characters:119
+msgctxt "game/characters:119:DefaultText"
+msgid "Thomas Kemp"
+msgstr ""
+
+#: game/characters:120
+msgctxt "game/characters:120:DefaultText"
+msgid "Zoe Chandler"
+msgstr ""
+
+#: game/characters:121
+msgctxt "game/characters:121:DefaultText"
+msgid "Grace Romero"
+msgstr ""
+
+#: game/characters:122
+msgctxt "game/characters:122:DefaultText"
+msgid "Spacer's Choice Guard"
+msgstr ""
+
+#: game/characters:123
+msgctxt "game/characters:123:DefaultText"
+msgid "Cannery Worker"
+msgstr ""
+
+#: game/characters:124
+msgctxt "game/characters:124:DefaultText"
+msgid "Resident"
+msgstr ""
+
+#: game/characters:128
+msgctxt "game/characters:128:DefaultText"
+msgid "Lilya Hagen"
+msgstr ""
+
+#: game/characters:129
+msgctxt "game/characters:129:DefaultText"
+msgid "Tobias Oyama"
+msgstr ""
+
+#: game/characters:130
+msgctxt "game/characters:130:DefaultText"
+msgid "Dr. Mfuru"
+msgstr ""
+
+#: game/characters:132
+msgctxt "game/characters:132:DefaultText"
+msgid "Martin Callahan"
+msgstr ""
+
+#: game/characters:133
+msgctxt "game/characters:133:DefaultText"
+msgid "Ike Kristiansen"
+msgstr ""
+
+#: game/characters:134
+msgctxt "game/characters:134:DefaultText"
+msgid "Belle Everson"
+msgstr ""
+
+#: game/characters:135
+msgctxt "game/characters:135:DefaultText"
+msgid "Vera Krivanek"
+msgstr ""
+
+#: game/characters:138
+msgctxt "game/characters:138:DefaultText"
+msgid "Karl Thornton"
+msgstr ""
+
+#: game/characters:140
+msgctxt "game/characters:140:DefaultText"
+msgid "Isabella Gilliam"
+msgstr ""
+
+#: game/characters:141
+msgctxt "game/characters:141:DefaultText"
+msgid "Chester Dempsy"
+msgstr ""
+
+#: game/characters:142
+msgctxt "game/characters:142:DefaultText"
+msgid "Constable Reyes"
+msgstr ""
+
+#: game/characters:143
+msgctxt "game/characters:143:DefaultText"
+msgid "Martin Abernathy"
+msgstr ""
+
+#: game/characters:145
+msgctxt "game/characters:145:DefaultText"
+msgid "Esther Blaine"
+msgstr ""
+
+#: game/characters:146
+msgctxt "game/characters:146:DefaultText"
+msgid "Sebastian Adams"
+msgstr ""
+
+#: game/characters:147
+msgctxt "game/characters:147:DefaultText"
+msgid "Velma Ballard"
+msgstr ""
+
+#: game/characters:148
+msgctxt "game/characters:148:DefaultText"
+msgid "Stefan Garcia"
+msgstr ""
+
+#: game/characters:149
+msgctxt "game/characters:149:DefaultText"
+msgid "Deserter"
+msgstr ""
+
+#: game/characters:150
+msgctxt "game/characters:150:DefaultText"
+msgid "Generic Speaker"
+msgstr ""
+
+#: game/characters:151
+msgctxt "game/characters:151:DefaultText"
+msgid "Iconoclast Operator"
+msgstr ""
+
+#: game/characters:153
+msgctxt "game/characters:153:DefaultText"
+msgid "Iconoclast Agitator"
+msgstr ""
+
+#: game/characters:154
+msgctxt "game/characters:154:DefaultText"
+msgid "Iconoclast"
+msgstr ""
+
+#: game/characters:158
+msgctxt "game/characters:158:DefaultText"
+msgid "Executive"
+msgstr ""
+
+#: game/characters:164
+msgctxt "game/characters:164:DefaultText"
+msgid "Tamed Canid"
+msgstr ""
+
+#: game/characters:165
+msgctxt "game/characters:165:DefaultText"
+msgid "Canid Feral "
+msgstr ""
+
+#: game/characters:166
+msgctxt "game/characters:166:DefaultText"
+msgid "Teacup Canid"
+msgstr ""
+
+#: game/characters:168
+msgctxt "game/characters:168:DefaultText"
+msgid "Emotion Test Male"
+msgstr ""
+
+#: game/characters:169
+msgctxt "game/characters:169:DefaultText"
+msgid "Emotion Test Female"
+msgstr ""
+
+#: game/characters:170
+msgctxt "game/characters:170:DefaultText"
+msgid "Primal"
+msgstr ""
+
+#: game/characters:171
+msgctxt "game/characters:171:DefaultText"
+msgid "Primal Behemoth"
+msgstr ""
+
+#: game/characters:172
+msgctxt "game/characters:172:DefaultText"
+msgid "Ash Primal "
+msgstr ""
+
+#: game/characters:173
+msgctxt "game/characters:173:DefaultText"
+msgid "Ash Primal Silverback"
+msgstr ""
+
+#: game/characters:174
+msgctxt "game/characters:174:DefaultText"
+msgid "Marauder Ringleader"
+msgstr ""
+
+#: game/characters:175
+msgctxt "game/characters:175:DefaultText"
+msgid "Marauder Lookout"
+msgstr ""
+
+#: game/characters:176
+msgctxt "game/characters:176:DefaultText"
+msgid "Cleo Security Recruit"
+msgstr ""
+
+#: game/characters:177
+msgctxt "game/characters:177:DefaultText"
+msgid "Bayside Terrace Security Terminal"
+msgstr ""
+
+#: game/characters:179
+msgctxt "game/characters:179:DefaultText"
+msgid "Devil's Peak Intercom"
+msgstr ""
+
+#: game/characters:180
+msgctxt "game/characters:180:DefaultText"
+msgid "Mantisaur Drone"
+msgstr ""
+
+#: game/characters:181
+msgctxt "game/characters:181:DefaultText"
+msgid "Mantiqueen"
+msgstr ""
+
+#: game/characters:182
+msgctxt "game/characters:182:DefaultText"
+msgid "Mantipillar"
+msgstr ""
+
+#: game/characters:183
+msgctxt "game/characters:183:DefaultText"
+msgid "Parasite"
+msgstr ""
+
+#: game/characters:184
+msgctxt "game/characters:184:DefaultText"
+msgid "Chef Raymond"
+msgstr ""
+
+#: game/characters:185
+msgctxt "game/characters:185:DefaultText"
+msgid "Cystypig"
+msgstr ""
+
+#: game/characters:186
+msgctxt "game/characters:186:DefaultText"
+msgid "Maguire"
+msgstr ""
+
+#: game/characters:187
+msgctxt "game/characters:187:DefaultText"
+msgid "Milo Ottinger"
+msgstr ""
+
+#: game/characters:188
+msgctxt "game/characters:188:DefaultText"
+msgid "Cpl. Leonard Wheeler"
+msgstr ""
+
+#: game/characters:190
+msgctxt "game/characters:190:DefaultText"
+msgid "Huxley"
+msgstr ""
+
+#: game/characters:191
+msgctxt "game/characters:191:DefaultText"
+msgid "Hester"
+msgstr ""
+
+#: game/characters:192
+msgctxt "game/characters:192:DefaultText"
+msgid "Forrest"
+msgstr ""
+
+#: game/characters:193
+msgctxt "game/characters:193:DefaultText"
+msgid "Marauder"
+msgstr ""
+
+#: game/characters:194
+msgctxt "game/characters:194:DefaultText"
+msgid "Marauder"
+msgstr ""
+
+#: game/characters:195
+msgctxt "game/characters:195:DefaultText"
+msgid "Abigail Edwards"
+msgstr ""
+
+#: game/characters:196
+msgctxt "game/characters:196:DefaultText"
+msgid "Celia Robbins"
+msgstr ""
+
+#: game/characters:197
+msgctxt "game/characters:197:DefaultText"
+msgid "Customization Test"
+msgstr ""
+
+#: game/characters:198
+msgctxt "game/characters:198:DefaultText"
+msgid "Spacer's Choice Orchestrion"
+msgstr ""
+
+#: game/characters:199
+msgctxt "game/characters:199:DefaultText"
+msgid "Jonas"
+msgstr ""
+
+#: game/characters:200
+msgctxt "game/characters:200:DefaultText"
+msgid "Operator"
+msgstr ""
+
+#: game/characters:208
+msgctxt "game/characters:208:DefaultText"
+msgid "Minister Clarke"
+msgstr ""
+
+#: game/characters:209
+msgctxt "game/characters:209:DefaultText"
+msgid "Janitor"
+msgstr ""
+
+#: game/characters:210
+msgctxt "game/characters:210:DefaultText"
+msgid "Wanda Chen"
+msgstr ""
+
+#: game/characters:211
+msgctxt "game/characters:211:DefaultText"
+msgid "Sophia Akande"
+msgstr ""
+
+#: game/characters:212
+msgctxt "game/characters:212:DefaultText"
+msgid "Assistant"
+msgstr ""
+
+#: game/characters:213
+msgctxt "game/characters:213:DefaultText"
+msgid "Receptionist"
+msgstr ""
+
+#: game/characters:214
+msgctxt "game/characters:214:DefaultText"
+msgid "Sherman Bradshaw"
+msgstr ""
+
+#: game/characters:215
+msgctxt "game/characters:215:DefaultText"
+msgid "Rachel Lockwood"
+msgstr ""
+
+#: game/characters:216
+msgctxt "game/characters:216:DefaultText"
+msgid "Phineas Welles"
+msgstr ""
+
+#: game/characters:217
+msgctxt "game/characters:217:DefaultText"
+msgid "Chairman Rockwell"
+msgstr ""
+
+#: game/characters:218
+msgctxt "game/characters:218:DefaultText"
+msgid "Warden Violette"
+msgstr ""
+
+#: game/characters:219
+msgctxt "game/characters:219:DefaultText"
+msgid "Eldon"
+msgstr ""
+
+#: game/characters:220
+msgctxt "game/characters:220:DefaultText"
+msgid "Officer Iverson"
+msgstr ""
+
+#: game/characters:221
+msgctxt "game/characters:221:DefaultText"
+msgid "Morton"
+msgstr ""
+
+#: game/characters:222
+msgctxt "game/characters:222:DefaultText"
+msgid "Tillie"
+msgstr ""
+
+#: game/characters:223
+msgctxt "game/characters:223:DefaultText"
+msgid "General Kahler"
+msgstr ""
+
+#: game/characters:224
+msgctxt "game/characters:224:DefaultText"
+msgid "Officer Fielding"
+msgstr ""
+
+#: game/characters:225
+msgctxt "game/characters:225:DefaultText"
+msgid "Wealthy Citizen"
+msgstr ""
+
+#: game/characters:226
+msgctxt "game/characters:226:DefaultText"
+msgid "Pvt. Lee Flores"
+msgstr ""
+
+#: game/characters:229
+msgctxt "game/characters:229:DefaultText"
+msgid "Tatiana Hughes"
+msgstr ""
+
+#: game/characters:230
+msgctxt "game/characters:230:DefaultText"
+msgid "Lawton Bray"
+msgstr ""
+
+#: game/characters:231
+msgctxt "game/characters:231:DefaultText"
+msgid "Lenny"
+msgstr ""
+
+#: game/characters:232
+msgctxt "game/characters:232:DefaultText"
+msgid "Timothy"
+msgstr ""
+
+#: game/characters:233
+msgctxt "game/characters:233:DefaultText"
+msgid "Charlie"
+msgstr ""
+
+#: game/characters:234
+msgctxt "game/characters:234:DefaultText"
+msgid "Ty"
+msgstr ""
+
+#: game/characters:235
+msgctxt "game/characters:235:DefaultText"
+msgid "Ethel Gaibler"
+msgstr ""
+
+#: game/characters:237
+msgctxt "game/characters:237:DefaultText"
+msgid "Gertie Sauber"
+msgstr ""
+
+#: game/characters:238
+msgctxt "game/characters:238:DefaultText"
+msgid "Vicar Barnes"
+msgstr ""
+
+#: game/characters:239
+msgctxt "game/characters:239:DefaultText"
+msgid "Maxfield Gupta"
+msgstr ""
+
+#: game/characters:240
+msgctxt "game/characters:240:DefaultText"
+msgid "Mercer Cole"
+msgstr ""
+
+#: game/characters:241
+msgctxt "game/characters:241:DefaultText"
+msgid "Inspector Kohn"
+msgstr ""
+
+#: game/characters:243
+msgctxt "game/characters:243:DefaultText"
+msgid "Agent"
+msgstr ""
+
+#: game/characters:246
+msgctxt "game/characters:246:DefaultText"
+msgid "SubLight Contractor"
+msgstr ""
+
+#: game/characters:247
+msgctxt "game/characters:247:DefaultText"
+msgid "Scrap Mechanical"
+msgstr ""
+
+#: game/characters:248
+msgctxt "game/characters:248:DefaultText"
+msgid "TestSpeaker2"
+msgstr ""
+
+#: game/characters:249
+msgctxt "game/characters:249:DefaultText"
+msgid "Auntie Cleo Worker"
+msgstr ""
+
+#: game/characters:250
+msgctxt "game/characters:250:DefaultText"
+msgid "Auntie Cleo Security"
+msgstr ""
+
+#: game/characters:251
+msgctxt "game/characters:251:DefaultText"
+msgid "Privateer"
+msgstr ""
+
+#: game/characters:252
+msgctxt "game/characters:252:DefaultText"
+msgid "Chef"
+msgstr ""
+
+#: game/characters:253
+msgctxt "game/characters:253:DefaultText"
+msgid "Bounty Drone"
+msgstr ""
+
+#: game/characters:254
+msgctxt "game/characters:254:DefaultText"
+msgid "Evelyn Lee"
+msgstr ""
+
+#: game/characters:255
+msgctxt "game/characters:255:DefaultText"
+msgid "Quincy Duncan"
+msgstr ""
+
+#: game/characters:256
+msgctxt "game/characters:256:DefaultText"
+msgid "Sentry Drone"
+msgstr ""
+
+#: game/characters:257
+msgctxt "game/characters:257:DefaultText"
+msgid "Marauder Goon"
+msgstr ""
+
+#: game/characters:265
+msgctxt "game/characters:265:DefaultText"
+msgid "Soldier"
+msgstr ""
+
+#: game/characters:270
+msgctxt "game/characters:270:DefaultText"
+msgid "Cora"
+msgstr ""
+
+#: game/characters:273
+msgctxt "game/characters:273:DefaultText"
+msgid "Murray"
+msgstr ""
+
+#: game/characters:274
+msgctxt "game/characters:274:DefaultText"
+msgid "Melody"
+msgstr ""
+
+#: game/characters:275
+msgctxt "game/characters:275:DefaultText"
+msgid "Warehouse Guard"
+msgstr ""
+
+#: game/characters:276
+msgctxt "game/characters:276:DefaultText"
+msgid "Prisoner"
+msgstr ""
+
+#: game/characters:277
+msgctxt "game/characters:277:DefaultText"
+msgid "Prisoner"
+msgstr ""
+
+#: game/characters:278
+msgctxt "game/characters:278:DefaultText"
+msgid "Quincy Duncan"
+msgstr ""
+
+#: game/characters:279
+msgctxt "game/characters:279:DefaultText"
+msgid "Prisoner"
+msgstr ""
+
+#: game/characters:288
+msgctxt "game/characters:288:DefaultText"
+msgid "Cleo Assault Trooper"
+msgstr ""
+
+#: game/characters:289
+msgctxt "game/characters:289:DefaultText"
+msgid "Construction Mechanical"
+msgstr ""
+
+#: game/characters:290
+msgctxt "game/characters:290:DefaultText"
+msgid "Tillie"
+msgstr ""
+
+#: game/characters:291
+msgctxt "game/characters:291:DefaultText"
+msgid "Brothel Worker"
+msgstr ""
+
+#: game/characters:292
+msgctxt "game/characters:292:DefaultText"
+msgid "Eliza Rynning"
+msgstr ""
+
+#: game/characters:300
+msgctxt "game/characters:300:DefaultText"
+msgid "Guard Stallworth"
+msgstr ""
+
+#: game/characters:301
+msgctxt "game/characters:301:DefaultText"
+msgid "Guard Frobisher"
+msgstr ""
+
+#: game/characters:302
+msgctxt "game/characters:302:DefaultText"
+msgid "Bar Patron"
+msgstr ""
+
+#: game/characters:303
+msgctxt "game/characters:303:DefaultText"
+msgid "Scientician"
+msgstr ""
+
+#: game/characters:304
+msgctxt "game/characters:304:DefaultText"
+msgid "Hope Security"
+msgstr ""
+
+#: game/characters:305
+msgctxt "game/characters:305:DefaultText"
+msgid "Mr. Billingsly"
+msgstr ""
+
+#: game/characters:306
+msgctxt "game/characters:306:DefaultText"
+msgid "Abram Linderman"
+msgstr ""
+
+#: game/characters:307
+msgctxt "game/characters:307:DefaultText"
+msgid "Kent Ellis"
+msgstr ""
+
+#: game/characters:308
+msgctxt "game/characters:308:DefaultText"
+msgid "Malini Gupta"
+msgstr ""
+
+#: game/characters:309
+msgctxt "game/characters:309:DefaultText"
+msgid "Penelope Fitzpatrick"
+msgstr ""
+
+#: game/characters:310
+msgctxt "game/characters:310:DefaultText"
+msgid "Otis Larson"
+msgstr ""
+
+#: game/characters:311
+msgctxt "game/characters:311:DefaultText"
+msgid "Winston Forsythe"
+msgstr ""
+
+#: game/characters:312
+msgctxt "game/characters:312:DefaultText"
+msgid "Percival Platt"
+msgstr ""
+
+#: game/characters:313
+msgctxt "game/characters:313:DefaultText"
+msgid "Beatrice Reichert"
+msgstr ""
+
+#: game/characters:314
+msgctxt "game/characters:314:DefaultText"
+msgid "Olive Yates"
+msgstr ""
+
+#: game/characters:315
+msgctxt "game/characters:315:DefaultText"
+msgid "Alice Park"
+msgstr ""
+
+#: game/characters:317
+msgctxt "game/characters:317:DefaultText"
+msgid "Guard"
+msgstr ""
+
+#: game/characters:318
+msgctxt "game/characters:318:DefaultText"
+msgid "Guard"
+msgstr ""
+
+#: game/characters:319
+msgctxt "game/characters:319:DefaultText"
+msgid "Guard"
+msgstr ""
+
+#: game/characters:320
+msgctxt "game/characters:320:DefaultText"
+msgid "Guard"
+msgstr ""
+
+#: game/characters:322
+msgctxt "game/characters:322:DefaultText"
+msgid "Guard"
+msgstr ""
+
+#: game/characters:323
+msgctxt "game/characters:323:DefaultText"
+msgid "Guard"
+msgstr ""
+
+#: game/characters:324
+msgctxt "game/characters:324:DefaultText"
+msgid "Guard"
+msgstr ""
+
+#: game/characters:325
+msgctxt "game/characters:325:DefaultText"
+msgid "Station Worker"
+msgstr ""
+
+#: game/characters:326
+msgctxt "game/characters:326:DefaultText"
+msgid "Station Worker"
+msgstr ""
+
+#: game/characters:327
+msgctxt "game/characters:327:DefaultText"
+msgid "Syndicate Operative"
+msgstr ""
+
+#: game/characters:328
+msgctxt "game/characters:328:DefaultText"
+msgid "Syndicate Operative"
+msgstr ""
+
+#: game/characters:330
+msgctxt "game/characters:330:DefaultText"
+msgid "MSI Soldier"
+msgstr ""
+
+#: game/characters:331
+msgctxt "game/characters:331:DefaultText"
+msgid "Iconoclast Revolutionary"
+msgstr ""
+
+#: game/characters:333
+msgctxt "game/characters:333:DefaultText"
+msgid "Ruby Li"
+msgstr ""
+
+#: game/characters:334
+msgctxt "game/characters:334:DefaultText"
+msgid "Cleo Tactical Ordnance Tech"
+msgstr ""
+
+#: game/characters:335
+msgctxt "game/characters:335:DefaultText"
+msgid "Peyton"
+msgstr ""
+
+#: game/characters:336
+msgctxt "game/characters:336:DefaultText"
+msgid "Mantiswarm"
+msgstr ""
+
+#: game/characters:337
+msgctxt "game/characters:337:DefaultText"
+msgid "Combat Drone"
+msgstr ""
+
+#: game/characters:338
+msgctxt "game/characters:338:DefaultText"
+msgid "Boarst Factory Guard"
+msgstr ""
+
+#: game/characters:339
+msgctxt "game/characters:339:DefaultText"
+msgid "Clive Lumbergh"
+msgstr ""
+
+#: game/characters:341
+msgctxt "game/characters:341:DefaultText"
+msgid "Factory Radio System"
+msgstr ""
+
+#: game/characters:342
+msgctxt "game/characters:342:DefaultText"
+msgid "Pteroray"
+msgstr ""
+
+#: game/characters:343
+msgctxt "game/characters:343:DefaultText"
+msgid "Quinton Mori"
+msgstr ""
+
+#: game/characters:344
+msgctxt "game/characters:344:DefaultText"
+msgid "Erwin Delgado"
+msgstr ""
+
+#: game/characters:345
+msgctxt "game/characters:345:DefaultText"
+msgid "Josiah Swinton"
+msgstr ""
+
+#: game/characters:346
+msgctxt "game/characters:346:DefaultText"
+msgid "Della Jennings"
+msgstr ""
+
+#: game/characters:347
+msgctxt "game/characters:347:DefaultText"
+msgid "Minnie Grenlee"
+msgstr ""
+
+#: game/characters:348
+msgctxt "game/characters:348:DefaultText"
+msgid "Judith Renberg"
+msgstr ""
+
+#: game/characters:349
+msgctxt "game/characters:349:DefaultText"
+msgid "Peggy Kemp"
+msgstr ""
+
+#: game/characters:350
+msgctxt "game/characters:350:DefaultText"
+msgid "Cecil McClure"
+msgstr ""
+
+#: game/characters:351
+msgctxt "game/characters:351:DefaultText"
+msgid "Hamilton Anaya"
+msgstr ""
+
+#: game/characters:352
+msgctxt "game/characters:352:DefaultText"
+msgid "Freighter Crew"
+msgstr ""
+
+#: game/characters:353
+msgctxt "game/characters:353:DefaultText"
+msgid "Stevedore"
+msgstr ""
+
+#: game/characters:354
+msgctxt "game/characters:354:DefaultText"
+msgid "Interstellar Crew"
+msgstr ""
+
+#: game/characters:355
+msgctxt "game/characters:355:DefaultText"
+msgid "Efficiency Expert"
+msgstr ""
+
+#: game/characters:357
+msgctxt "game/characters:357:DefaultText"
+msgid "Salvager"
+msgstr ""
+
+#: game/characters:358
+msgctxt "game/characters:358:DefaultText"
+msgid "Server"
+msgstr ""
+
+#: game/characters:368
+msgctxt "game/characters:368:DefaultText"
+msgid "Everett Gill"
+msgstr ""
+
+#: game/characters:369
+msgctxt "game/characters:369:DefaultText"
+msgid "Catherine Malin"
+msgstr ""
+
+#: game/characters:370
+msgctxt "game/characters:370:DefaultText"
+msgid "Zora Blackwood"
+msgstr ""
+
+#: game/characters:371
+msgctxt "game/characters:371:DefaultText"
+msgid "SubLight Thug"
+msgstr ""
+
+#: game/characters:372
+msgctxt "game/characters:372:DefaultText"
+msgid "Alford Gerhardt"
+msgstr ""
+
+#: game/characters:373
+msgctxt "game/characters:373:DefaultText"
+msgid "Ernest Gerhardt"
+msgstr ""
+
+#: game/characters:374
+msgctxt "game/characters:374:DefaultText"
+msgid "Betty Gerhardt"
+msgstr ""
+
+#: game/characters:375
+msgctxt "game/characters:375:DefaultText"
+msgid "Miles Taylor"
+msgstr ""
+
+#: game/characters:376
+msgctxt "game/characters:376:DefaultText"
+msgid "Carlotta"
+msgstr ""
+
+#: game/characters:377
+msgctxt "game/characters:377:DefaultText"
+msgid "Arthur"
+msgstr ""
+
+#: game/characters:378
+msgctxt "game/characters:378:DefaultText"
+msgid "Nell"
+msgstr ""
+
+#: game/characters:379
+msgctxt "game/characters:379:DefaultText"
+msgid "Bennett"
+msgstr ""
+
+#: game/characters:380
+msgctxt "game/characters:380:DefaultText"
+msgid "Elijah"
+msgstr ""
+
+#: game/characters:381
+msgctxt "game/characters:381:DefaultText"
+msgid "Berta"
+msgstr ""
+
+#: game/characters:382
+msgctxt "game/characters:382:DefaultText"
+msgid "Dr. Eva Chartrand"
+msgstr ""
+
+#: game/characters:383
+msgctxt "game/characters:383:DefaultText"
+msgid "Lorelei Fahl"
+msgstr ""
+
+#: game/characters:384
+msgctxt "game/characters:384:DefaultText"
+msgid "Sick Resident"
+msgstr ""
+
+#: game/characters:388
+msgctxt "game/characters:388:DefaultText"
+msgid "August Van Noy"
+msgstr ""
+
+#: game/characters:389
+msgctxt "game/characters:389:DefaultText"
+msgid "May Van Noy"
+msgstr ""
+
+#: game/characters:390
+msgctxt "game/characters:390:DefaultText"
+msgid "Berthold Fox"
+msgstr ""
+
+#: game/characters:391
+msgctxt "game/characters:391:DefaultText"
+msgid "Donald Anderson"
+msgstr ""
+
+#: game/characters:392
+msgctxt "game/characters:392:DefaultText"
+msgid "Joy Voivode"
+msgstr ""
+
+#: game/characters:393
+msgctxt "game/characters:393:DefaultText"
+msgid "Laura"
+msgstr ""
+
+#: game/characters:394
+msgctxt "game/characters:394:DefaultText"
+msgid "Levi Mather"
+msgstr ""
+
+#: game/characters:395
+msgctxt "game/characters:395:DefaultText"
+msgid "Edgar Mather"
+msgstr ""
+
+#: game/characters:396
+msgctxt "game/characters:396:DefaultText"
+msgid "Lizzie Mather"
+msgstr ""
+
+#: game/characters:397
+msgctxt "game/characters:397:DefaultText"
+msgid "Martha Mather"
+msgstr ""
+
+#: game/characters:398
+msgctxt "game/characters:398:DefaultText"
+msgid "Lance"
+msgstr ""
+
+#: game/characters:399
+msgctxt "game/characters:399:DefaultText"
+msgid "Addie"
+msgstr ""
+
+#: game/characters:400
+msgctxt "game/characters:400:DefaultText"
+msgid "Intercom"
+msgstr ""
+
+#: game/characters:401
+msgctxt "game/characters:401:DefaultText"
+msgid "Iconoclast Insurgent"
+msgstr ""
+
+#: game/characters:402
+msgctxt "game/characters:402:DefaultText"
+msgid "Iconoclast Rioter"
+msgstr ""
+
+#: game/characters:403
+msgctxt "game/characters:403:DefaultText"
+msgid "Otto Bryne"
+msgstr ""
+
+#: game/characters:404
+msgctxt "game/characters:404:DefaultText"
+msgid "Worker"
+msgstr ""
+
+#: game/characters:406
+msgctxt "game/characters:406:DefaultText"
+msgid "Resident"
+msgstr ""
+
+#: game/characters:409
+msgctxt "game/characters:409:DefaultText"
+msgid "Resident"
+msgstr ""
+
+#: game/characters:410
+msgctxt "game/characters:410:DefaultText"
+msgid "MSI Security"
+msgstr ""
+
+#: game/characters:411
+msgctxt "game/characters:411:DefaultText"
+msgid "Hudson"
+msgstr ""
+
+#: game/characters:412
+msgctxt "game/characters:412:DefaultText"
+msgid "Iconoclast Leader"
+msgstr ""
+
+#: game/characters:413
+msgctxt "game/characters:413:DefaultText"
+msgid "MSI Leader"
+msgstr ""
+
+#: game/characters:414
+msgctxt "game/characters:414:DefaultText"
+msgid "Damaged Mechanical Sentry"
+msgstr ""
+
+#: game/characters:415
+msgctxt "game/characters:415:DefaultText"
+msgid "Smuggler Captain"
+msgstr ""
+
+#: game/characters:416
+msgctxt "game/characters:416:DefaultText"
+msgid "Captain Hawthorne"
+msgstr ""
+
+#: game/characters:417
+msgctxt "game/characters:417:DefaultText"
+msgid "Guillaume Antrim"
+msgstr ""
+
+#: game/characters:418
+msgctxt "game/characters:418:DefaultText"
+msgid "Doc Maybell"
+msgstr ""
+
+#: game/characters:419
+msgctxt "game/characters:419:DefaultText"
+msgid "Bertie Cotton"
+msgstr ""
+
+#: game/characters:420
+msgctxt "game/characters:420:DefaultText"
+msgid "Ephraim Maywood"
+msgstr ""
+
+#: game/characters:421
+msgctxt "game/characters:421:DefaultText"
+msgid "Yvonne Brennan"
+msgstr ""
+
+#: game/characters:422
+msgctxt "game/characters:422:DefaultText"
+msgid "Lemuel Heryford"
+msgstr ""
+
+#: game/characters:423
+msgctxt "game/characters:423:DefaultText"
+msgid "Westley Alexander"
+msgstr ""
+
+#: game/characters:424
+msgctxt "game/characters:424:DefaultText"
+msgid "Duncan Elley"
+msgstr ""
+
+#: game/characters:425
+msgctxt "game/characters:425:DefaultText"
+msgid "Lyanna Reed"
+msgstr ""
+
+#: game/characters:426
+msgctxt "game/characters:426:DefaultText"
+msgid "Bronson"
+msgstr ""
+
+#: game/characters:427
+msgctxt "game/characters:427:DefaultText"
+msgid "Niles"
+msgstr ""
+
+#: game/characters:428
+msgctxt "game/characters:428:DefaultText"
+msgid "Cornelius Fetterman"
+msgstr ""
+
+#: game/characters:443
+msgctxt "game/characters:443:DefaultText"
+msgid "Harlow"
+msgstr ""
+
+#: game/characters:444
+msgctxt "game/characters:444:DefaultText"
+msgid "Rufus Trask"
+msgstr ""
+
+#: game/characters:445
+msgctxt "game/characters:445:DefaultText"
+msgid "Corp. Records Employee"
+msgstr ""
+
+#: game/characters:446
+msgctxt "game/characters:446:DefaultText"
+msgid "HHC Guard"
+msgstr ""
+
+#: game/characters:447
+msgctxt "game/characters:447:DefaultText"
+msgid "Rosana"
+msgstr ""
+
+#: game/characters:448
+msgctxt "game/characters:448:DefaultText"
+msgid "Alice Baker"
+msgstr ""
+
+#: game/characters:450
+msgctxt "game/characters:450:DefaultText"
+msgid "Nelson Mayson"
+msgstr ""
+
+#: game/characters:456
+msgctxt "game/characters:456:DefaultText"
+msgid "Emmett Dunsley"
+msgstr ""
+
+#: game/characters:457
+msgctxt "game/characters:457:DefaultText"
+msgid "Jocelyn Julius"
+msgstr ""
+
+#: game/characters:458
+msgctxt "game/characters:458:DefaultText"
+msgid "The Chet"
+msgstr ""
+
+#: game/characters:459
+msgctxt "game/characters:459:DefaultText"
+msgid "Mechanical Sentry MK1"
+msgstr ""
+
+#: game/characters:460
+msgctxt "game/characters:460:DefaultText"
+msgid "Mechanical Sentry MK2"
+msgstr ""
+
+#: game/characters:461
+msgctxt "game/characters:461:DefaultText"
+msgid "Mechanical Guardian MK1"
+msgstr ""
+
+#: game/characters:462
+msgctxt "game/characters:462:DefaultText"
+msgid "Mechanical Guardian MK2"
+msgstr ""
+
+#: game/characters:464
+msgctxt "game/characters:464:DefaultText"
+msgid "Private Taylor"
+msgstr ""
+
+#: game/characters:465
+msgctxt "game/characters:465:DefaultText"
+msgid "Victim"
+msgstr ""
+
+#: game/characters:466
+msgctxt "game/characters:466:DefaultText"
+msgid "SAM"
+msgstr ""
+
+#: game/characters:467
+msgctxt "game/characters:467:DefaultText"
+msgid "Dr. Williams"
+msgstr ""
+
+#: game/characters:468
+msgctxt "game/characters:468:DefaultText"
+msgid "Quinn Schroeder"
+msgstr ""
+
+#: game/characters:469
+msgctxt "game/characters:469:DefaultText"
+msgid "Frederick Halstead"
+msgstr ""
+
+#: game/characters:470
+msgctxt "game/characters:470:DefaultText"
+msgid "Talmadge Kerr"
+msgstr ""
+
+#: game/characters:471
+msgctxt "game/characters:471:DefaultText"
+msgid "Rose"
+msgstr ""
+
+#: game/characters:472
+msgctxt "game/characters:472:DefaultText"
+msgid "Giles"
+msgstr ""
+
+#: game/characters:473
+msgctxt "game/characters:473:DefaultText"
+msgid "Higgins"
+msgstr ""
+
+#: game/characters:474
+msgctxt "game/characters:474:DefaultText"
+msgid "Marauder"
+msgstr ""
+
+#: game/characters:475
+msgctxt "game/characters:475:DefaultText"
+msgid "Marauder"
+msgstr ""
+
+#: game/characters:477
+msgctxt "game/characters:477:DefaultText"
+msgid "Marauder"
+msgstr ""
+
+#: game/characters:478
+msgctxt "game/characters:478:DefaultText"
+msgid "Marauder"
+msgstr ""
+
+#: game/characters:479
+msgctxt "game/characters:479:DefaultText"
+msgid "Marauder"
+msgstr ""
+
+#: game/characters:481
+msgctxt "game/characters:481:DefaultText"
+msgid "Marauder"
+msgstr ""
+
+#: game/characters:482
+msgctxt "game/characters:482:DefaultText"
+msgid "Scientist"
+msgstr ""
+
+#: game/characters:483
+msgctxt "game/characters:483:DefaultText"
+msgid "Marauder"
+msgstr ""
+
+#: game/characters:484
+msgctxt "game/characters:484:DefaultText"
+msgid "Marauder"
+msgstr ""
+
+#: game/characters:485
+msgctxt "game/characters:485:DefaultText"
+msgid "SubLight Employee"
+msgstr ""
+
+#: game/characters:487
+msgctxt "game/characters:487:DefaultText"
+msgid "Fallbrook Patron"
+msgstr ""
+
+#: game/characters:489
+msgctxt "game/characters:489:DefaultText"
+msgid "Canid Alpha"
+msgstr ""
+
+#: game/characters:490
+msgctxt "game/characters:490:DefaultText"
+msgid "Canid Howler"
+msgstr ""
+
+#: game/characters:491
+msgctxt "game/characters:491:DefaultText"
+msgid "Canid Mongrel"
+msgstr ""
+
+#: game/characters:492
+msgctxt "game/characters:492:DefaultText"
+msgid "Swarm Wasp"
+msgstr ""
+
+#: game/characters:493
+msgctxt "game/characters:493:DefaultText"
+msgid "Ergs"
+msgstr ""
+
+#: game/characters:494
+msgctxt "game/characters:494:DefaultText"
+msgid "Sick Mantiqueen"
+msgstr ""
+
+#: game/characters:495
+msgctxt "game/characters:495:DefaultText"
+msgid "Outlaw"
+msgstr ""
+
+#: game/characters:496
+msgctxt "game/characters:496:DefaultText"
+msgid "Agnes Needham"
+msgstr ""
+
+#: game/characters:497
+msgctxt "game/characters:497:DefaultText"
+msgid "Tucker Needham"
+msgstr ""
+
+#: game/characters:498
+msgctxt "game/characters:498:DefaultText"
+msgid "Caleb Herrick"
+msgstr ""
+
+#: game/characters:502
+msgctxt "game/characters:502:DefaultText"
+msgid "Auto Loader Operator"
+msgstr ""
+
+#: game/characters:503
+msgctxt "game/characters:503:DefaultText"
+msgid "Repaired Automechanical Scout"
+msgstr ""
+
+#: game/characters:504
+msgctxt "game/characters:504:DefaultText"
+msgid "Plant Worker"
+msgstr ""
+
+#: game/characters:505
+msgctxt "game/characters:505:DefaultText"
+msgid "Security Chief"
+msgstr ""
+
+#: game/characters:506
+msgctxt "game/characters:506:DefaultText"
+msgid "Sprat"
+msgstr ""
+
+#: game/characters:508
+msgctxt "game/characters:508:DefaultText"
+msgid "Marauder Hound"
+msgstr ""
+
+#: game/characters:509
+msgctxt "game/characters:509:DefaultText"
+msgid "Ash"
+msgstr ""
+
+#: game/characters:510
+msgctxt "game/characters:510:DefaultText"
+msgid "Jessie Doyle"
+msgstr ""
+
+#: game/characters:511
+msgctxt "game/characters:511:DefaultText"
+msgid "Bodyguard"
+msgstr ""
+
+#: game/characters:512
+msgctxt "game/characters:512:DefaultText"
+msgid "Theodora Fenhill"
+msgstr ""
+
+#: game/characters:513
+msgctxt "game/characters:513:DefaultText"
+msgid "Lionel Witherspoon"
+msgstr ""
+
+#: game/characters:514
+msgctxt "game/characters:514:DefaultText"
+msgid "Bradford"
+msgstr ""
+
+#: game/characters:515
+msgctxt "game/characters:515:DefaultText"
+msgid "Factory Employee"
+msgstr ""
+
+#: game/characters:516
+msgctxt "game/characters:516:DefaultText"
+msgid "Winslow"
+msgstr ""
+
+#: game/characters:517
+msgctxt "game/characters:517:DefaultText"
+msgid "Felicity Griger"
+msgstr ""
+
+#: game/characters:518
+msgctxt "game/characters:518:DefaultText"
+msgid "Casswell Jepsen"
+msgstr ""
+
+#: game/characters:519
+msgctxt "game/characters:519:DefaultText"
+msgid "Brigham Whight"
+msgstr ""
+
+#: game/characters:520
+msgctxt "game/characters:520:DefaultText"
+msgid "Elias Atman"
+msgstr ""
+
+#: game/characters:521
+msgctxt "game/characters:521:DefaultText"
+msgid "Mortimer Bell"
+msgstr ""
+
+#: game/characters:522
+msgctxt "game/characters:522:DefaultText"
+msgid "Rosemary Kwan"
+msgstr ""
+
+#: game/characters:523
+msgctxt "game/characters:523:DefaultText"
+msgid "Business News"
+msgstr ""
+
+#: game/characters:524
+msgctxt "game/characters:524:DefaultText"
+msgid "Edmund Laughinghouse"
+msgstr ""
+
+#: game/characters:525
+msgctxt "game/characters:525:DefaultText"
+msgid "Delia Baysinger"
+msgstr ""
+
+#: game/characters:526
+msgctxt "game/characters:526:DefaultText"
+msgid "Gunship Engineer"
+msgstr ""
+
+#: game/characters:527
+msgctxt "game/characters:527:DefaultText"
+msgid "Thornton"
+msgstr ""
+
+#: game/characters:528
+msgctxt "game/characters:528:DefaultText"
+msgid "Raptidon Colossus"
+msgstr ""
+
+#: game/characters:529
+msgctxt "game/characters:529:DefaultText"
+msgid "CUT"
+msgstr ""
+
+#: game/characters:530
+msgctxt "game/characters:530:DefaultText"
+msgid "Raptidon Stalker"
+msgstr ""
+
+#: game/characters:533
+msgctxt "game/characters:533:DefaultText"
+msgid "Refugee"
+msgstr ""
+
+#: game/characters:534
+msgctxt "game/characters:534:DefaultText"
+msgid "Refugee"
+msgstr ""
+
+#: game/characters:535
+msgctxt "game/characters:535:DefaultText"
+msgid "Refugee"
+msgstr ""
+
+#: game/characters:536
+msgctxt "game/characters:536:DefaultText"
+msgid "Guard"
+msgstr ""
+
+#: game/characters:537
+msgctxt "game/characters:537:DefaultText"
+msgid "Guard"
+msgstr ""
+
+#: game/characters:538
+msgctxt "game/characters:538:DefaultText"
+msgid "Milton"
+msgstr ""
+
+#: game/characters:539
+msgctxt "game/characters:539:DefaultText"
+msgid "Primal Hunter"
+msgstr ""
+
+#: game/characters:540
+msgctxt "game/characters:540:DefaultText"
+msgid "Primal Brute"
+msgstr ""
+
+#: game/characters:541
+msgctxt "game/characters:541:DefaultText"
+msgid "Primal Ravager"
+msgstr ""
+
+#: game/characters:543
+msgctxt "game/characters:543:DefaultText"
+msgid "Thug"
+msgstr ""
+
+#: game/characters:544
+msgctxt "game/characters:544:DefaultText"
+msgid "Carmen Imagawa"
+msgstr ""
+
+#: game/characters:545
+msgctxt "game/characters:545:DefaultText"
+msgid "Guard Mayfield"
+msgstr ""
+
+#: game/characters:546
+msgctxt "game/characters:546:DefaultText"
+msgid "Reginald Chaney"
+msgstr ""
+
+#: game/characters:547
+msgctxt "game/characters:547:DefaultText"
+msgid "Hermit"
+msgstr ""
+
+#: game/characters:548
+msgctxt "game/characters:548:DefaultText"
+msgid "Edna Ingmire"
+msgstr ""
+
+#: game/characters:549
+msgctxt "game/characters:549:DefaultText"
+msgid "Frey"
+msgstr ""
+
+#: game/characters:553
+msgctxt "game/characters:553:DefaultText"
+msgid "Camera Mechanical"
+msgstr ""
+
+#: game/characters:554
+msgctxt "game/characters:554:DefaultText"
+msgid "Port Authority Announcement"
+msgstr ""
+
+#: game/characters:555
+msgctxt "game/characters:555:DefaultText"
+msgid "Actor"
+msgstr ""
+
+#: game/characters:556
+msgctxt "game/characters:556:DefaultText"
+msgid "Actor"
+msgstr ""
+
+#: game/characters:557
+msgctxt "game/characters:557:DefaultText"
+msgid "Ship Captain"
+msgstr ""
+
+#: game/characters:558
+msgctxt "game/characters:558:DefaultText"
+msgid "Maverick Johnston"
+msgstr ""
+
+#: game/characters:559
+msgctxt "game/characters:559:DefaultText"
+msgid "Maverick Johnston"
+msgstr ""
+
+#: game/characters:560
+msgctxt "game/characters:560:DefaultText"
+msgid "Butler Mechanical"
+msgstr ""
+
+#: game/characters:562
+msgctxt "game/characters:562:DefaultText"
+msgid "Jeremiah Sotuyo"
+msgstr ""
+
+#: game/characters:563
+msgctxt "game/characters:563:DefaultText"
+msgid "Celeste Jolicoeur"
+msgstr ""
+
+#: game/characters:565
+msgctxt "game/characters:565:DefaultText"
+msgid "Isadora DeSoto"
+msgstr ""
+
+#: game/characters:566
+msgctxt "game/characters:566:DefaultText"
+msgid "Vivid Hallucination"
+msgstr ""
+
+#: game/characters:567
+msgctxt "game/characters:567:DefaultText"
+msgid "Guard Commander"
+msgstr ""
+
+#: game/characters:568
+msgctxt "game/characters:568:DefaultText"
+msgid "Mechanical Sentry"
+msgstr ""
+
+#: game/characters:569
+msgctxt "game/characters:569:DefaultText"
+msgid "Hover Mechanical"
+msgstr ""
+
+#: game/characters:570
+msgctxt "game/characters:570:DefaultText"
+msgid "Biped Mechanical"
+msgstr ""
+
+#: game/characters:571
+msgctxt "game/characters:571:DefaultText"
+msgid "Greasy"
+msgstr ""
+
+#: game/characters:572
+msgctxt "game/characters:572:DefaultText"
+msgid "Hortense Ingalsbee"
+msgstr ""
+
+#: game/characters:573
+msgctxt "game/characters:573:DefaultText"
+msgid "Intercom"
+msgstr ""
+
+#: game/characters:577
+msgctxt "game/characters:577:DefaultText"
+msgid "Frenzied Test Subject"
+msgstr ""
+
+#: game/characters:578
+msgctxt "game/characters:578:DefaultText"
+msgid "Sick Bay Nurse"
+msgstr ""
+
+#: game/characters:583
+msgctxt "game/characters:583:DefaultText"
+msgid "Auntie Cleo Worker"
+msgstr ""
+
+#: game/characters:584
+msgctxt "game/characters:584:DefaultText"
+msgid "Spacer's Choice Worker"
+msgstr ""
+
+#: game/characters:585
+msgctxt "game/characters:585:DefaultText"
+msgid "Spacer's Choice Worker"
+msgstr ""
+
+#: game/characters:586
+msgctxt "game/characters:586:DefaultText"
+msgid "Auntie Cleo Worker"
+msgstr ""
+
+#: game/characters:587
+msgctxt "game/characters:587:DefaultText"
+msgid "Caroline Endecott"
+msgstr ""
+
+#: game/characters:588
+msgctxt "game/characters:588:DefaultText"
+msgid "Guard Holte"
+msgstr ""
+
+#: game/characters:589
+msgctxt "game/characters:589:DefaultText"
+msgid "Office Clerk"
+msgstr ""
+
+#: game/characters:590
+msgctxt "game/characters:590:DefaultText"
+msgid "Medical Drone"
+msgstr ""
+
+#: game/characters:591
+msgctxt "game/characters:591:DefaultText"
+msgid "Alonzo Vallejos"
+msgstr ""
+
+#: game/characters:592
+msgctxt "game/characters:592:DefaultText"
+msgid "Newton Quigley"
+msgstr ""
+
+#: game/characters:593
+msgctxt "game/characters:593:DefaultText"
+msgid "Lyndia Selman"
+msgstr ""
+
+#: game/characters:595
+msgctxt "game/characters:595:DefaultText"
+msgid "Traffic Controller"
+msgstr ""
+
+#: game/characters:596
+msgctxt "game/characters:596:DefaultText"
+msgid "Traffic Controller"
+msgstr ""
+
+#: game/characters:597
+msgctxt "game/characters:597:DefaultText"
+msgid "Portmaster Kirkwood"
+msgstr ""
+
+#: game/characters:598
+msgctxt "game/characters:598:DefaultText"
+msgid "ChatterTestSpeaker"
+msgstr ""
+
+#: game/characters:599
+msgctxt "game/characters:599:DefaultText"
+msgid "Albert Shaw"
+msgstr ""
+
+#: game/characters:600
+msgctxt "game/characters:600:DefaultText"
+msgid "HPS Worker"
+msgstr ""
+
+#: game/characters:603
+msgctxt "game/characters:603:DefaultText"
+msgid "Spacer"
+msgstr ""
+
+#: game/characters:604
+msgctxt "game/characters:604:DefaultText"
+msgid "Spacer"
+msgstr ""
+
+#: game/characters:605
+msgctxt "game/characters:605:DefaultText"
+msgid "Canid Keeper"
+msgstr ""
+
+#: game/characters:609
+msgctxt "game/characters:609:DefaultText"
+msgid "Bodyguard"
+msgstr ""
+
+#: game/characters:610
+msgctxt "game/characters:610:DefaultText"
+msgid "Mechanical Liberator"
+msgstr ""
+
+#: game/characters:613
+msgctxt "game/characters:613:DefaultText"
+msgid "HHC Employee"
+msgstr ""
+
+#: game/characters:614
+msgctxt "game/characters:614:DefaultText"
+msgid "Mr. Billingsly"
+msgstr ""
+
+#: game/characters:615
+msgctxt "game/characters:615:DefaultText"
+msgid "Bartender Mechanical"
+msgstr ""
+
+#: game/characters:617
+msgctxt "game/characters:617:DefaultText"
+msgid "Lloyd Burgess"
+msgstr ""
+
+#: game/characters:618
+msgctxt "game/characters:618:DefaultText"
+msgid "Victor Osterhoudt"
+msgstr ""
+
+#: game/characters:622
+msgctxt "game/characters:622:DefaultText"
+msgid "Mega Mechanical Sentry"
+msgstr ""
+
+#: game/characters:629
+msgctxt "game/characters:629:DefaultText"
+msgid "Morton"
+msgstr ""
+
+#: game/characters:630
+msgctxt "game/characters:630:DefaultText"
+msgid "Security Officer"
+msgstr ""
+
+#: game/characters:631
+msgctxt "game/characters:631:DefaultText"
+msgid "Andrew"
+msgstr ""
+
+#: game/characters:632
+msgctxt "game/characters:632:DefaultText"
+msgid "Guard Bachmeyer"
+msgstr ""
+
+#: game/characters:633
+msgctxt "game/characters:633:DefaultText"
+msgid "Rizzo Security"
+msgstr ""
+
+#: game/characters:634
+msgctxt "game/characters:634:DefaultText"
+msgid "Rizzo Security"
+msgstr ""
+
+#: game/characters:635
+msgctxt "game/characters:635:DefaultText"
+msgid "Raptidon"
+msgstr ""
+
+#: game/characters:641
+msgctxt "game/characters:641:DefaultText"
+msgid "Stella Grant"
+msgstr ""
+
+#: game/characters:643
+msgctxt "game/characters:643:DefaultText"
+msgid "Confectioner"
+msgstr ""
+
+#: game/characters:644
+msgctxt "game/characters:644:DefaultText"
+msgid "Confectioner"
+msgstr ""
+
+#: game/characters:645
+msgctxt "game/characters:645:DefaultText"
+msgid "Guard Esparza"
+msgstr ""
+
+#: game/characters:646
+msgctxt "game/characters:646:DefaultText"
+msgid "Retirement Facilitation Drone"
+msgstr ""
+
+#: game/characters:647
+msgctxt "game/characters:647:DefaultText"
+msgid "Dr. Wanda Dorsett"
+msgstr ""
+
+#: game/characters:648
+msgctxt "game/characters:648:DefaultText"
+msgid "Captain Irion"
+msgstr ""
+
+#: game/characters:649
+msgctxt "game/characters:649:DefaultText"
+msgid "Janitor"
+msgstr ""
+
+#: game/characters:650
+msgctxt "game/characters:650:DefaultText"
+msgid "Gardener"
+msgstr ""
+
+#: game/characters:651
+msgctxt "game/characters:651:DefaultText"
+msgid "Ad Drone"
+msgstr ""
+
+#: game/characters:652
+msgctxt "game/characters:652:DefaultText"
+msgid "Bounty Drone"
+msgstr ""
+
+#: game/characters:653
+msgctxt "game/characters:653:DefaultText"
+msgid "Cargo Loader"
+msgstr ""
+
+#: game/characters:654
+msgctxt "game/characters:654:DefaultText"
+msgid "Captain MacRedd"
+msgstr ""
+
+#: game/characters:655
+msgctxt "game/characters:655:DefaultText"
+msgid "Sophia Akande"
+msgstr ""
+
+#: game/characters:657
+msgctxt "game/characters:657:DefaultText"
+msgid "Sprat Exterminator"
+msgstr ""
+
+#: game/characters:658
+msgctxt "game/characters:658:DefaultText"
+msgid "Bred Worm"
+msgstr ""
+
+#: game/characters:659
+msgctxt "game/characters:659:DefaultText"
+msgid "Leather Boa"
+msgstr ""
+
+#: game/characters:660
+msgctxt "game/characters:660:DefaultText"
+msgid "Wealthy Citizen"
+msgstr ""
+
+#: game/characters:664
+msgctxt "game/characters:664:DefaultText"
+msgid "Guard"
+msgstr ""
+
+#: game/characters:665
+msgctxt "game/characters:665:DefaultText"
+msgid "Guard"
+msgstr ""
+
+#: game/characters:666
+msgctxt "game/characters:666:DefaultText"
+msgid "Dear Fellow"
+msgstr ""
+
+#: game/characters:667
+msgctxt "game/characters:667:DefaultText"
+msgid "Good Man"
+msgstr ""
+
+#: game/characters:675
+msgctxt "game/characters:675:DefaultText"
+msgid "Unidentified Contact"
+msgstr ""
+
+#: game/characters:678
+msgctxt "game/characters:678:DefaultText"
+msgid "Halcyon News Announcer"
+msgstr ""
+
+#: game/characters:679
+msgctxt "game/characters:679:DefaultText"
+msgid "Assassin"
+msgstr ""
+
+#: game/characters:681
+msgctxt "game/characters:681:DefaultText"
+msgid "Soldier"
+msgstr ""
+
+#: game/characters:682
+msgctxt "game/characters:682:DefaultText"
+msgid "Soldier"
+msgstr ""
+
+#: game/characters:683
+msgctxt "game/characters:683:DefaultText"
+msgid "Prisoner"
+msgstr ""
+
+#: game/characters:684
+msgctxt "game/characters:684:DefaultText"
+msgid "Prisoner"
+msgstr ""
+
+#: game/characters:686
+msgctxt "game/characters:686:DefaultText"
+msgid "Medical Auto-Mechanical"
+msgstr ""
+
+#: game/characters:688
+msgctxt "game/characters:688:DefaultText"
+msgid "Narrator"
+msgstr ""
+
+#: game/characters:689
+msgctxt "game/characters:689:DefaultText"
+msgid "Damaged Hover Mechanical"
+msgstr ""
+
+#: game/characters:690
+msgctxt "game/characters:690:DefaultText"
+msgid "Chatter Box"
+msgstr ""
+
+#: game/characters:691
+msgctxt "game/characters:691:DefaultText"
+msgid "Holistic Automechanical Life Preservation Unit"
+msgstr ""
+
+#: game/characters:692
+msgctxt "game/characters:692:DefaultText"
+msgid "Damaged Hover Mechanical"
+msgstr ""
+
+#: game/characters:693
+msgctxt "game/characters:693:DefaultText"
+msgid "Damaged Hover Mechanical"
+msgstr ""
+
+#: game/characters:694
+msgctxt "game/characters:694:DefaultText"
+msgid "Damaged Hover Mechanical"
+msgstr ""
+
+#: game/characters:695
+msgctxt "game/characters:695:DefaultText"
+msgid "Bullseye"
+msgstr ""
+
+#: game/characters:696
+msgctxt "game/characters:696:DefaultText"
+msgid "Prisoner"
+msgstr ""
+
+#: game/characters:697
+msgctxt "game/characters:697:DefaultText"
+msgid "Beckett Van Acker"
+msgstr ""
+
+#: game/characters:698
+msgctxt "game/characters:698:DefaultText"
+msgid "Phineas Welles"
+msgstr ""
+
+#: game/characters:699
+msgctxt "game/characters:699:DefaultText"
+msgid "Lab PA System"
+msgstr ""
+
+#: game/characters:700
+msgctxt "game/characters:700:DefaultText"
+msgid "Clever Cora"
+msgstr ""
+
+#: game/characters:701
+msgctxt "game/characters:701:DefaultText"
+msgid "Insurance Agent"
+msgstr ""
+
+#: game/characters:702
+msgctxt "game/characters:702:DefaultText"
+msgid "Outlaw"
+msgstr ""
+
+#: game/characters:703
+msgctxt "game/characters:703:DefaultText"
+msgid "Outlaw"
+msgstr ""
+
+#: game/characters:704
+msgctxt "game/characters:704:DefaultText"
+msgid "Outlaw"
+msgstr ""
+
+#: game/characters:705
+msgctxt "game/characters:705:DefaultText"
+msgid "Outlaw Striker"
+msgstr ""
+
+#: game/characters:706
+msgctxt "game/characters:706:DefaultText"
+msgid "Outlaw Squad Leader"
+msgstr ""
+
+#: game/characters:707
+msgctxt "game/characters:707:DefaultText"
+msgid "Outlaw Sniper"
+msgstr ""
+
+#: game/characters:708
+msgctxt "game/characters:708:DefaultText"
+msgid "Opal"
+msgstr ""
+
+#: game/characters:709
+msgctxt "game/characters:709:DefaultText"
+msgid "Anderson"
+msgstr ""
+
+#: game/characters:710
+msgctxt "game/characters:710:DefaultText"
+msgid "Clara"
+msgstr ""
+
+#: game/characters:711
+msgctxt "game/characters:711:DefaultText"
+msgid "Rebekah"
+msgstr ""
+
+#: game/characters:712
+msgctxt "game/characters:712:DefaultText"
+msgid "Cacow"
+msgstr ""
+
+#: game/characters:713
+msgctxt "game/characters:713:DefaultText"
+msgid "Cleo Recruit"
+msgstr ""
+
+#: game/characters:714
+msgctxt "game/characters:714:DefaultText"
+msgid "HOPE"
+msgstr ""
+
+#: game/characters:715
+msgctxt "game/characters:715:DefaultText"
+msgid "Spacer's Choice Lieutenant"
+msgstr ""
+
+#: game/characters:717
+msgctxt "game/characters:717:DefaultText"
+msgid "Hope Security Sentry"
+msgstr ""
+
+#: game/characters:718
+msgctxt "game/characters:718:DefaultText"
+msgid "Heatseeker"
+msgstr ""
+
+#: game/characters:719
+msgctxt "game/characters:719:DefaultText"
+msgid "Big Gun"
+msgstr ""
+
+#: game/characters:720
+msgctxt "game/characters:720:DefaultText"
+msgid "Orthrus"
+msgstr ""
+
+#: game/characters:721
+msgctxt "game/characters:721:DefaultText"
+msgid "Kobalos"
+msgstr ""
+
+#: game/characters:722
+msgctxt "game/characters:722:DefaultText"
+msgid "Gigantes"
+msgstr ""
+
+#: game/characters:723
+msgctxt "game/characters:723:DefaultText"
+msgid "Col. Butterscotch"
+msgstr ""
+
+#: game/characters:724
+msgctxt "game/characters:724:DefaultText"
+msgid "Sinis"
+msgstr ""
+
+#: game/characters:725
+msgctxt "game/characters:725:DefaultText"
+msgid "Bonny"
+msgstr ""
+
+#: game/characters:726
+msgctxt "game/characters:726:DefaultText"
+msgid "Squealer"
+msgstr ""
+
+#: game/characters:727
+msgctxt "game/characters:727:DefaultText"
+msgid "Mantiqueen"
+msgstr ""
+
+#: game/characters:728
+msgctxt "game/characters:728:DefaultText"
+msgid "Karkinos"
+msgstr ""
+
+#: game/characters:729
+msgctxt "game/characters:729:DefaultText"
+msgid "Brain Shake"
+msgstr ""
+
+#: game/characters:730
+msgctxt "game/characters:730:DefaultText"
+msgid "Chimera"
+msgstr ""
+
+#: game/characters:731
+msgctxt "game/characters:731:DefaultText"
+msgid "Euryale"
+msgstr ""
+
+#: game/characters:732
+msgctxt "game/characters:732:DefaultText"
+msgid "Stheno"
+msgstr ""
+
+#: game/characters:733
+msgctxt "game/characters:733:DefaultText"
+msgid "Guard Pelham"
+msgstr ""
+
+#: game/characters:734
+msgctxt "game/characters:734:DefaultText"
+msgid "Lieutenant Mercer"
+msgstr ""
+
+#: game/characters:735
+msgctxt "game/characters:735:DefaultText"
+msgid "Private Kimball"
+msgstr ""
+
+#: game/characters:737
+msgctxt "game/characters:737:DefaultText"
+msgid "Chicken"
+msgstr ""
+
+#: game/characters:738
+msgctxt "game/characters:738:DefaultText"
+msgid "Cathy"
+msgstr ""
+
+#: game/characters:739
+msgctxt "game/characters:739:DefaultText"
+msgid "Nicole"
+msgstr ""
+
+#: game/characters:740
+msgctxt "game/characters:740:DefaultText"
+msgid "Spacer's Choice Unit Commander"
+msgstr ""
+
+#: game/characters:741
+msgctxt "game/characters:741:DefaultText"
+msgid "Ernest"
+msgstr ""
+
+#: game/characters:742
+msgctxt "game/characters:742:DefaultText"
+msgid "Soldier"
+msgstr ""
+
+#: game/characters:743
+msgctxt "game/characters:743:DefaultText"
+msgid "UDL Worker"
+msgstr ""
+
+#: game/characters:744
+msgctxt "game/characters:744:DefaultText"
+msgid "Jeremy"
+msgstr ""
+
+#: game/characters:745
+msgctxt "game/characters:745:DefaultText"
+msgid "Tartarus Docking Authority"
+msgstr ""
+
+#: game/characters:746
+msgctxt "game/characters:746:DefaultText"
+msgid "Mega Canid"
+msgstr ""
+
+#: game/characters:747
+msgctxt "game/characters:747:DefaultText"
+msgid "Malfunctioning Sentry MK2"
+msgstr ""
+
+#: game/characters:748
+msgctxt "game/characters:748:DefaultText"
+msgid "Malfunctioning Guardian MK1"
+msgstr ""
+
+#: game/characters:749
+msgctxt "game/characters:749:DefaultText"
+msgid "Mega Primal"
+msgstr ""
+
+#: game/characters:750
+msgctxt "game/characters:750:DefaultText"
+msgid "Mega Mantipillar"
+msgstr ""
+
+#: game/characters:751
+msgctxt "game/characters:751:DefaultText"
+msgid "Mega Mantiqueen"
+msgstr ""
+
+#: game/characters:752
+msgctxt "game/characters:752:DefaultText"
+msgid "Mega Mantisaur"
+msgstr ""
+
+#: game/characters:753
+msgctxt "game/characters:753:DefaultText"
+msgid "Mega Mantiswarm"
+msgstr ""
+
+#: game/characters:754
+msgctxt "game/characters:754:DefaultText"
+msgid "Mega Raptidon"
+msgstr ""
+
+#: game/characters:755
+msgctxt "game/characters:755:DefaultText"
+msgid "Mega Dart Drone"
+msgstr ""
+
+#: game/characters:756
+msgctxt "game/characters:756:DefaultText"
+msgid "Mega Sentry Mechanical"
+msgstr ""
+
+#: game/characters:757
+msgctxt "game/characters:757:DefaultText"
+msgid "Mega Sprat"
+msgstr ""
+
+#: game/characters:758
+msgctxt "game/characters:758:DefaultText"
+msgid "Board Agent"
+msgstr ""
+
+#: game/characters:759
+msgctxt "game/characters:759:DefaultText"
+msgid "ADA"
+msgstr ""
+
+#: game/characters:760
+msgctxt "game/characters:760:DefaultText"
+msgid "Jane Elson"
+msgstr ""
+
+#: game/characters:763
+msgctxt "game/characters:763:DefaultText"
+msgid "Herbert"
+msgstr ""
+
+#: game/characters:764
+msgctxt "game/characters:764:DefaultText"
+msgid "Board Trooper"
+msgstr ""
+
+#: game/characters:765
+msgctxt "game/characters:765:DefaultText"
+msgid "UDL Assault Trooper"
+msgstr ""
+
+#: game/characters:772
+msgctxt "game/characters:772:DefaultText"
+msgid "R.A.M."
+msgstr ""
+
+#: game/characters:773
+msgctxt "game/characters:773:DefaultText"
+msgid "Bertrand"
+msgstr ""
+
+#: game/characters:774
+msgctxt "game/characters:774:DefaultText"
+msgid "Captain Hogarth"
+msgstr ""
+
+#: game/characters:775
+msgctxt "game/characters:775:DefaultText"
+msgid "Spacer's Choice Security"
+msgstr ""
+
+#: game/characters:776
+msgctxt "game/characters:776:DefaultText"
+msgid "Mini Malin"
+msgstr ""
+
+#: game/characters:777
+msgctxt "game/characters:777:DefaultText"
+msgid "Sick Mardet"
+msgstr ""
+
+#: game/characters:781
+msgctxt "game/characters:781:DefaultText"
+msgid "Mantisaur Soldier"
+msgstr ""
+
+#: game/characters:786
+msgctxt "game/characters:786:DefaultText"
+msgid "Retiree"
+msgstr ""
+
+#: game/characters:787
+msgctxt "game/characters:787:DefaultText"
+msgid "Retiree"
+msgstr ""
+
+#: game/characters:788
+msgctxt "game/characters:788:DefaultText"
+msgid "Assistant Director"
+msgstr ""
+
+#: game/characters:789
+msgctxt "game/characters:789:DefaultText"
+msgid "Kendrick Silva"
+msgstr ""
+
+#: game/characters:790
+msgctxt "game/characters:790:DefaultText"
+msgid "Big Damn Hero"
+msgstr ""
+
+#: game/characters:791
+msgctxt "game/characters:791:DefaultText"
+msgid "Maynard Milburn"
+msgstr ""
+
+#: game/characters:792
+msgctxt "game/characters:792:DefaultText"
+msgid "Voelker"
+msgstr ""
+
+#: game/characters:793
+msgctxt "game/characters:793:DefaultText"
+msgid "Customer"
+msgstr ""
+
+#: game/characters:794
+msgctxt "game/characters:794:DefaultText"
+msgid "Customer"
+msgstr ""
+
+#: game/characters:795
+msgctxt "game/characters:795:DefaultText"
+msgid "Weston Sloan"
+msgstr ""
+
+#: game/characters:796
+msgctxt "game/characters:796:DefaultText"
+msgid "Lenora Talley"
+msgstr ""
+
+#: game/characters:797
+msgctxt "game/characters:797:DefaultText"
+msgid "Elroy Booth"
+msgstr ""
+
+#: game/characters:798
+msgctxt "game/characters:798:DefaultText"
+msgid "Linna Kincannon"
+msgstr ""
+
+#: game/characters:799
+msgctxt "game/characters:799:DefaultText"
+msgid "Kendrick Raines"
+msgstr ""
+
+#: game/characters:800
+msgctxt "game/characters:800:DefaultText"
+msgid "Mads Gundersen"
+msgstr ""
+
+#: game/characters:801
+msgctxt "game/characters:801:DefaultText"
+msgid "Scruffles"
+msgstr ""
+
+#: game/characters:802
+msgctxt "game/characters:802:DefaultText"
+msgid "Marlow"
+msgstr ""
+
+#: game/characters:803
+msgctxt "game/characters:803:DefaultText"
+msgid "Outlaw Sniper"
+msgstr ""
+
+#: game/characters:804
+msgctxt "game/characters:804:DefaultText"
+msgid "Outlaw Ringleader"
+msgstr ""
+
+#: game/characters:805
+msgctxt "game/characters:805:DefaultText"
+msgid "Outlaw Striker"
+msgstr ""
+
+#: game/characters:806
+msgctxt "game/characters:806:DefaultText"
+msgid "Outlaw Striker"
+msgstr ""
+
+#: game/characters:807
+msgctxt "game/characters:807:DefaultText"
+msgid "Outlaw"
+msgstr ""
+
+#: game/characters:808
+msgctxt "game/characters:808:DefaultText"
+msgid "Outlaw"
+msgstr ""
+
+#: game/characters:809
+msgctxt "game/characters:809:DefaultText"
+msgid "Julia Swanson"
+msgstr ""
+
+#: game/characters:810
+msgctxt "game/characters:810:DefaultText"
+msgid "Julia Shiomi"
+msgstr ""
+
+#: game/characters:811
+msgctxt "game/characters:811:DefaultText"
+msgid "Private Lettie Dixon"
+msgstr ""
+
+#: game/characters:816
+msgctxt "game/characters:816:DefaultText"
+msgid "Odeon Pictures Fan"
+msgstr ""
+
+#: game/characters:817
+msgctxt "game/characters:817:DefaultText"
+msgid "Bubbles"
+msgstr ""
+
+#: game/characters:818
+msgctxt "game/characters:818:DefaultText"
+msgid "Beacon Recording"
+msgstr ""
+
+#: game/characters:819
+msgctxt "game/characters:819:DefaultText"
+msgid "Corporate Recruit"
+msgstr ""
+
+#: game/characters:820
+msgctxt "game/characters:820:DefaultText"
+msgid "Corporate Guard"
+msgstr ""
+
+#: game/characters:821
+msgctxt "game/characters:821:DefaultText"
+msgid "Corporate Trooper"
+msgstr ""
+
+#: game/characters:822
+msgctxt "game/characters:822:DefaultText"
+msgid "Corporate Technician"
+msgstr ""
+
+#: game/characters:823
+msgctxt "game/characters:823:DefaultText"
+msgid "Corporate Commander"
+msgstr ""
+
+#: game/characters:824
+msgctxt "game/characters:824:DefaultText"
+msgid "Corporate Sentinel"
+msgstr ""
+
+#: game/characters:825
+msgctxt "game/characters:825:DefaultText"
+msgid "Lab Sprat"
+msgstr ""
+
+#: game/characters:826
+msgctxt "game/characters:826:DefaultText"
+msgid "Abandoned Prospecting Drone"
+msgstr ""
+
+#: game/characters:827
+msgctxt "game/characters:827:DefaultText"
+msgid "Marauder Hooligan"
+msgstr ""
+
+#: game/characters:828
+msgctxt "game/characters:828:DefaultText"
+msgid "Wealthy Citizen"
+msgstr ""
+
+#: game/characters:829
+msgctxt "game/characters:829:DefaultText"
+msgid "Wooly Cow"
+msgstr ""
+
+#: game/characters:830
+msgctxt "game/characters:830:DefaultText"
+msgid "Rabid Sprat"
+msgstr ""
+
+#: game/characters:831
+msgctxt "game/characters:831:DefaultText"
+msgid "Elite Mardet"
+msgstr ""
+
+#: game/characters:833
+msgctxt "game/characters:833:DefaultText"
+msgid "Petey"
+msgstr ""
+
+#: game/characters:834
+msgctxt "game/characters:834:DefaultText"
+msgid "UDL Assault Commander"
+msgstr ""
+
+#: game/characters:835
+msgctxt "game/characters:835:DefaultText"
+msgid "Corporate Elite Guard"
+msgstr ""
+
+#: game/characters:836
+msgctxt "game/characters:836:DefaultText"
+msgid "Prisoner Captain"
+msgstr ""
+
+#: game/characters:837
+msgctxt "game/characters:837:DefaultText"
+msgid "Prisoner Regent"
+msgstr ""
+
+#: game/characters:838
+msgctxt "game/characters:838:DefaultText"
+msgid "Prisoner Enforcer"
+msgstr ""
+
+#: game/characters:839
+msgctxt "game/characters:839:DefaultText"
+msgid "Prisoner Soldier"
+msgstr ""
+
+#: game/characters:840
+msgctxt "game/characters:840:DefaultText"
+msgid "Prisoner Reprobate"
+msgstr ""
+
+#: game/characters:841
+msgctxt "game/characters:841:DefaultText"
+msgid "Prisoner Miscreant"
+msgstr ""
+
+#: game/characters:842
+msgctxt "game/characters:842:DefaultText"
+msgid "Giles Molina"
+msgstr ""
+
+#: game/characters:849
+msgctxt "game/characters:849:DefaultText"
+msgid "Lord Reginald Kim III"
+msgstr ""
+
+#: game/characters:850
+msgctxt "game/characters:850:DefaultText"
+msgid "Lady Philippa Farnsworth"
+msgstr ""
+
+#: game/characters:851
+msgctxt "game/characters:851:DefaultText"
+msgid "Vonda von Vermington"
+msgstr ""
+
+#: game/characters:852
+msgctxt "game/characters:852:DefaultText"
+msgid "Harun Greenlee"
+msgstr ""
+
+#: game/characters:853
+msgctxt "game/characters:853:DefaultText"
+msgid "Iskander Immanuel Sanchez"
+msgstr ""
+
+#: game/characters:854
+msgctxt "game/characters:854:DefaultText"
+msgid "Eveighlynn Ensley Okoye"
+msgstr ""
+
+#: game/characters:855
+msgctxt "game/characters:855:DefaultText"
+msgid "MSI"
+msgstr ""
+
+#: game/characters:856
+msgctxt "game/characters:856:DefaultText"
+msgid "MSI"
+msgstr ""
+
+#: game/characters:859
+msgctxt "game/characters:859:DefaultText"
+msgid "Food Service Mechanical"
+msgstr ""
+
+#: game/characters:860
+msgctxt "game/characters:860:DefaultText"
+msgid "Digger Mechanical"
+msgstr ""
+
+#: game/characters:861
+msgctxt "game/characters:861:DefaultText"
+msgid "Automechanical Loader"
+msgstr ""
+
+#: game/characters:862
+msgctxt "game/characters:862:DefaultText"
+msgid "Burbage-2000"
+msgstr ""
+
+#: game/characters:863
+msgctxt "game/characters:863:DefaultText"
+msgid "Burbage-3000"
+msgstr ""
+
+#: game/characters:875
+msgctxt "game/characters:875:DefaultText"
+msgid "Phineas' Ship Computer"
+msgstr ""
+
+#: game/characters:876
+msgctxt "game/characters:876:DefaultText"
+msgid "Ad Man"
+msgstr ""
+
+#: game/characters:877
+msgctxt "game/characters:877:DefaultText"
+msgid "Unidentified Broadcaster"
+msgstr ""
+
+#: game/characters:896
+msgctxt "game/characters:896:DefaultText"
+msgid "Timid Canid"
+msgstr ""
+
+#: game/characters:913
+msgctxt "game/characters:913:DefaultText"
+msgid "MSI Recruit"
+msgstr ""
+
+#: game/characters:914
+msgctxt "game/characters:914:DefaultText"
+msgid "MSI Guard"
+msgstr ""
+
+#: game/characters:915
+msgctxt "game/characters:915:DefaultText"
+msgid "MSI Trooper"
+msgstr ""
+
+#: game/characters:916
+msgctxt "game/characters:916:DefaultText"
+msgid "MSI Technician"
+msgstr ""
+
+#: game/characters:917
+msgctxt "game/characters:917:DefaultText"
+msgid "MSI Commander"
+msgstr ""
+
+#: game/characters:918
+msgctxt "game/characters:918:DefaultText"
+msgid "MSI Sentinel"
+msgstr ""
+
+#: game/characters:945
+msgctxt "game/characters:945:DefaultText"
+msgid "Pungent Primal Behemoth"
+msgstr ""
+
+#: game/characters:946
+msgctxt "game/characters:946:DefaultText"
+msgid "Strangely Dressed Marauder"
+msgstr ""
+
+#: game/characters:947
+msgctxt "game/characters:947:DefaultText"
+msgid "Vending Machine"
+msgstr ""

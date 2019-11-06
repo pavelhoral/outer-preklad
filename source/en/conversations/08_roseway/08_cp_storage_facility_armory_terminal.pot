@@ -1,0 +1,134 @@
+#: conversations/08_roseway/08_cp_storage_facility_armory_terminal:2
+msgctxt "conversations/08_roseway/08_cp_storage_facility_armory_terminal:2:DefaultText"
+msgid "[Armory Logs]"
+msgstr ""
+
+#: conversations/08_roseway/08_cp_storage_facility_armory_terminal:4
+msgctxt "conversations/08_roseway/08_cp_storage_facility_armory_terminal:4:DefaultText"
+msgid "[Exit]"
+msgstr ""
+
+#: conversations/08_roseway/08_cp_storage_facility_armory_terminal:5
+msgctxt "conversations/08_roseway/08_cp_storage_facility_armory_terminal:5:DefaultText"
+msgid "ARMORY LOGS\r\n"
+"------------------------------\r\n"
+"[1. FORCE Phlogisynchotron Pistol]\r\n"
+"[2. Ammunition, Misc.]"
+msgstr ""
+
+#: conversations/08_roseway/08_cp_storage_facility_armory_terminal:8
+msgctxt "conversations/08_roseway/08_cp_storage_facility_armory_terminal:8:DefaultText"
+msgid "[FORCE Phlogisynchotron Pistol]"
+msgstr ""
+
+#: conversations/08_roseway/08_cp_storage_facility_armory_terminal:9
+msgctxt "conversations/08_roseway/08_cp_storage_facility_armory_terminal:9:DefaultText"
+msgid "[Ammunition, Misc.]"
+msgstr ""
+
+#: conversations/08_roseway/08_cp_storage_facility_armory_terminal:10
+msgctxt "conversations/08_roseway/08_cp_storage_facility_armory_terminal:10:DefaultText"
+msgid "[Exit]"
+msgstr ""
+
+#: conversations/08_roseway/08_cp_storage_facility_armory_terminal:12
+msgctxt "conversations/08_roseway/08_cp_storage_facility_armory_terminal:12:DefaultText"
+msgid "FORCE Phlogisynchotron Pistol status:  Functional. Untrained personnel must attend site safety seminar S-023 before using. As a seminar officer is not currently available, recommend permanent secure storage."
+msgstr ""
+
+#: conversations/08_roseway/08_cp_storage_facility_armory_terminal:13
+msgctxt "conversations/08_roseway/08_cp_storage_facility_armory_terminal:13:DefaultText"
+msgid "Current ammunition counts:\r\n"
+"\r\n"
+"ERROR: Ammunition entries not found.\r\n"
+"\r\n"
+"Please contact Volkova, M. and request that ammunition entries be updated as soon as possible in order to maintain our stock for security personnel."
+msgstr ""
+
+#: conversations/08_roseway/08_cp_storage_facility_armory_terminal:16
+msgctxt "conversations/08_roseway/08_cp_storage_facility_armory_terminal:16:DefaultText"
+msgid "Argos Security Systems\n"
+"---------------------------------\n"
+"SECURITY LOCKDOWN\n"
+"\n"
+"All personnel please report to assigned workstations. Report suspicious activity to the nearest Site Safety Engineer.\n"
+"---------------------------------\n"
+"Auntie Cleo Auntie-Biotics™: served fresh from our petri dishes to YOUR personal crevices."
+msgstr ""
+
+#: conversations/08_roseway/08_cp_storage_facility_armory_terminal:17
+msgctxt "conversations/08_roseway/08_cp_storage_facility_armory_terminal:17:DefaultText"
+msgid "Argos Security Systems\r\n"
+"---------------------------------\r\n"
+"SECURITY LOCKDOWN\r\n"
+"\r\n"
+"All personnel please report to assigned workstations. Report suspicious activity to the nearest Site Safety Engineer.\r\n"
+"---------------------------------\r\n"
+"\"Auntie Cleo's - Better than Nature!\"™"
+msgstr ""
+
+#: conversations/08_roseway/08_cp_storage_facility_armory_terminal:18
+msgctxt "conversations/08_roseway/08_cp_storage_facility_armory_terminal:18:DefaultText"
+msgid "Argos Security Systems\r\n"
+"---------------------------------\r\n"
+"SECURITY LOCKDOWN\r\n"
+"\r\n"
+"All personnel please report to assigned workstations. Report suspicious activity to the nearest Site Safety Engineer.\r\n"
+"---------------------------------\r\n"
+"Feeling irate? Try Auntie Cleo's Nar-Choc-Lectic™ bars. Now with 3% real CCN76."
+msgstr ""
+
+#: conversations/08_roseway/08_cp_storage_facility_armory_terminal:19
+msgctxt "conversations/08_roseway/08_cp_storage_facility_armory_terminal:19:DefaultText"
+msgid "Argos Security Systems\r\n"
+"---------------------------------\r\n"
+"SECURITY LOCKDOWN\r\n"
+"\r\n"
+"All personnel please report to assigned workstations. Report suspicious activity to the nearest Site Safety Engineer.\r\n"
+"---------------------------------\r\n"
+"Have you brushed your teeth with Auntie's Blinding White Paste™ today?"
+msgstr ""
+
+#: conversations/08_roseway/08_cp_storage_facility_armory_terminal:20
+msgctxt "conversations/08_roseway/08_cp_storage_facility_armory_terminal:20:DefaultText"
+msgid "Argos Security Systems\r\n"
+"---------------------------------\r\n"
+"SECURITY LOCKDOWN\r\n"
+"\r\n"
+"All personnel please report to assigned workstations. Report suspicious activity to the nearest Site Safety Engineer.\r\n"
+"---------------------------------\r\n"
+"Parents who buy Auntie Cleo should have children who buy Auntie Cleo."
+msgstr ""
+
+#: conversations/08_roseway/08_cp_storage_facility_armory_terminal:21
+msgctxt "conversations/08_roseway/08_cp_storage_facility_armory_terminal:21:DefaultText"
+msgid "Argos Security Systems\r\n"
+"---------------------------------\r\n"
+"SECURITY LOCKDOWN\r\n"
+"\r\n"
+"All personnel please report to assigned workstations. Report suspicious activity to the nearest Site Safety Engineer.\r\n"
+"---------------------------------\r\n"
+"Tired of itchy acid burns? Try Auntie Cleo's artisanal boarst-scented moisturizing cream."
+msgstr ""
+
+#: conversations/08_roseway/08_cp_storage_facility_armory_terminal:22
+msgctxt "conversations/08_roseway/08_cp_storage_facility_armory_terminal:22:DefaultText"
+msgid "Argos Security Systems\r\n"
+"---------------------------------\r\n"
+"SECURITY LOCKDOWN\r\n"
+"\r\n"
+"All personnel please report to assigned workstations. Report suspicious activity to the nearest Site Safety Engineer.\r\n"
+"---------------------------------\r\n"
+"Try Auntie Cleo's Handi-Off™, the surgical stain remover of choice."
+msgstr ""
+
+#: conversations/08_roseway/08_cp_storage_facility_armory_terminal:23
+msgctxt "conversations/08_roseway/08_cp_storage_facility_armory_terminal:23:DefaultText"
+msgid "Argos Security Systems\r\n"
+"---------------------------------\r\n"
+"SECURITY LOCKDOWN\r\n"
+"\r\n"
+"All personnel please report to assigned workstations. Report suspicious activity to the nearest Site Safety Engineer.\r\n"
+"---------------------------------\r\n"
+"Unsightly bloodstains? Consider Auntie Cleo's laundry soap. Now with a refreshing lemon zing scent."
+msgstr ""

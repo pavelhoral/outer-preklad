@@ -1,0 +1,271 @@
+#: conversations/01_groundbreaker/01_cp_promenade_public_terminal_02:1
+msgctxt "conversations/01_groundbreaker/01_cp_promenade_public_terminal_02:1:DefaultText"
+msgid "Groundbreaker Public Access Terminal\r\n"
+"============================\r\n"
+"\r\n"
+"Main menu"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_promenade_public_terminal_02:2
+msgctxt "conversations/01_groundbreaker/01_cp_promenade_public_terminal_02:2:DefaultText"
+msgid "[Messages - Admin Access]"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_promenade_public_terminal_02:3
+msgctxt "conversations/01_groundbreaker/01_cp_promenade_public_terminal_02:3:DefaultText"
+msgid "[Public Notices]"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_promenade_public_terminal_02:4
+msgctxt "conversations/01_groundbreaker/01_cp_promenade_public_terminal_02:4:DefaultText"
+msgid "[Exit]"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_promenade_public_terminal_02:5
+msgctxt "conversations/01_groundbreaker/01_cp_promenade_public_terminal_02:5:DefaultText"
+msgid "Groundbreaker Public Access Terminal\r\n"
+"============================\r\n"
+"\r\n"
+"Recent messages. Welcome, administrator."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_promenade_public_terminal_02:6
+msgctxt "conversations/01_groundbreaker/01_cp_promenade_public_terminal_02:6:DefaultText"
+msgid "[FROM: J. Tennyson, SUBJECT: Anyone seen Private Taylor?]"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_promenade_public_terminal_02:7
+msgctxt "conversations/01_groundbreaker/01_cp_promenade_public_terminal_02:7:DefaultText"
+msgid "[TO: Wildcat_Group, SUBJECT: Groundbreaker Meetup]"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_promenade_public_terminal_02:8
+msgctxt "conversations/01_groundbreaker/01_cp_promenade_public_terminal_02:8:DefaultText"
+msgid "[Return to Root]"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_promenade_public_terminal_02:9
+msgctxt "conversations/01_groundbreaker/01_cp_promenade_public_terminal_02:9:DefaultText"
+msgid "Groundbreaker Public Access Terminal\r\n"
+"============================\r\n"
+"\r\n"
+"FROM: Tennyson, J.\r\n"
+"TO: Engineers_All\r\n"
+"SUBJECT: Anyone seen Private Taylor?\r\n"
+"\r\n"
+"Haven't seen him in days. And where are we on that toilet clog? \r\n"
+"\r\n"
+"If Chief Guiying taught me anything, it's that a crew's morale is proportional to the quality of their outhouse. You take away a crew's plumbing, you take away their privacy and dignity. So let's get that toilet fixed. \r\n"
+"\r\n"
+"J.T."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_promenade_public_terminal_02:10
+msgctxt "conversations/01_groundbreaker/01_cp_promenade_public_terminal_02:10:DefaultText"
+msgid "Groundbreaker Public Access Terminal\r\n"
+"============================\n"
+"\n"
+"FROM: Buckhanon, Kitty\n"
+"TO: Wildcat_Group\n"
+"SUBJECT: Groundbreaker Meetup\n"
+"\n"
+"Even though it's been nigh on twenty years since our last meetup on Groundbreaker, I was hoping we could get the old gang back together. \n"
+"\n"
+"I understand that things have changed. Some of us are long-range haulers, some of us have gone corporate, some of us are likely dead, and some of us are on Tartarus and not reading this message - but I haven't lost hope. \n"
+"\n"
+"No one responded to my last invite. I hope that means your schedules are full up with family gatherings and job opportunities. \n"
+"\n"
+"Stay free, freelancers."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_promenade_public_terminal_02:11
+msgctxt "conversations/01_groundbreaker/01_cp_promenade_public_terminal_02:11:DefaultText"
+msgid "Groundbreaker Public Access Terminal\r\n"
+"============================\r\n"
+"\r\n"
+"Displaying public notices"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_promenade_public_terminal_02:12
+msgctxt "conversations/01_groundbreaker/01_cp_promenade_public_terminal_02:12:DefaultText"
+msgid "[Regarding the Food Situation]"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_promenade_public_terminal_02:13
+msgctxt "conversations/01_groundbreaker/01_cp_promenade_public_terminal_02:13:DefaultText"
+msgid "[Ship Impounded?]"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_promenade_public_terminal_02:14
+msgctxt "conversations/01_groundbreaker/01_cp_promenade_public_terminal_02:14:DefaultText"
+msgid "Groundbreaker Public Access Terminal\r\n"
+"============================\r\n"
+"\r\n"
+"To those of you who have raised concerns about the quality of Groundbreaker's vittles (yes I'm aware the promenade stinks), allow me to put the matter to rest. \r\n"
+"\r\n"
+"Our ancestors didn't rise from humble beginnings on a diet of spratwurst and boarst. But that's the reality of life up here. If you can salt it, can it, or zip it up in a pouch, then we're not picky about calling it \"food.\" \r\n"
+"\r\n"
+"Spacers make do with what they have. And what we have is smelly meat, lots of salt, and eleven kinds of mustard (last time I counted). Try and enjoy it. \r\n"
+"\r\n"
+"J.T. "
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_promenade_public_terminal_02:15
+msgctxt "conversations/01_groundbreaker/01_cp_promenade_public_terminal_02:15:DefaultText"
+msgid "Groundbreaker Public Access Terminal\r\n"
+"============================\r\n"
+"\r\n"
+"This is a general notice about our impound policies. If the Board impounded your ship, take it up with the Board. Their embassy is the gaudy building opposite SubLight's warehouse. Send them your questions, outstanding fees, and hate mail. Especially hate mail. \r\n"
+"\r\n"
+"If Groundbreaker impounded you, pay your damn fees and don't bother my people. \r\n"
+"\r\n"
+"J.T. "
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_promenade_public_terminal_02:17
+msgctxt "conversations/01_groundbreaker/01_cp_promenade_public_terminal_02:17:DefaultText"
+msgid "[FROM: J. Tennyson, SUBJECT: Re: Anyone seen Private Taylor?]"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_promenade_public_terminal_02:18
+msgctxt "conversations/01_groundbreaker/01_cp_promenade_public_terminal_02:18:DefaultText"
+msgid "Groundbreaker Public Access Terminal\r\n"
+"============================\r\n"
+"\r\n"
+"FROM: Tennyson, J.\r\n"
+"TO: Engineers_All\r\n"
+"SUBJECT: Re: Anyone seen Private Taylor?\r\n"
+"\r\n"
+"Call off the search, we got him. Welcome back, Taylor. Clean yourself up.\r\n"
+"\r\n"
+"Let Private Taylor serve as an example to the rest of you. He made the ultimate sacrifice for Groundbreaker's plumbing. Any of us should be prepared to do the same. \r\n"
+"\r\n"
+"J.T."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_promenade_public_terminal_02:19
+msgctxt "conversations/01_groundbreaker/01_cp_promenade_public_terminal_02:19:DefaultText"
+msgid "[TO: IS_Conveyors_Collective, SUBJECT: Conveyors' Rights]"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_promenade_public_terminal_02:20
+msgctxt "conversations/01_groundbreaker/01_cp_promenade_public_terminal_02:20:DefaultText"
+msgid "Groundbreaker Public Access Terminal\r\n"
+"============================\n"
+"\n"
+"FROM: IceMan\n"
+"TO: IS_Conveyors_Collective\n"
+"SUBJECT: Conveyors' rights\n"
+"\n"
+"Hi all,\n"
+"\n"
+"So I just got off ice from a roundtrip to Dashkova. Two years out, two years back. Imagine my surprise when we dethawed and Groundbreaker comms told us our docking was gonna be \"delayed\".\n"
+"\n"
+"One hour turned into five. Then days went by! In the end, we spent an entire goddamn week waiting for a berth on this Law-fucked bolt bucket. And because we were kicking our heels all that time, not a one of us got paid.\n"
+"\n"
+"I don't know about you, but I got expenses - a family I don't see often enough, debt you wouldn't fucking believe. And even if I'm not working, I still gotta make my payments.\n"
+"\n"
+"Does that seem proper to you?\n"
+"\n"
+"Don't we conveyors have rights?\n"
+"\n"
+"We should do something about this. If you agree, leave a message here, and I'll respond when I get back from GenSan in three years.\n"
+"\n"
+"IceMan out."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_promenade_public_terminal_02:21
+msgctxt "conversations/01_groundbreaker/01_cp_promenade_public_terminal_02:21:DefaultText"
+msgid "[TO: IS_Conveyors_Collective, SUBJECT: Conveyors' Rights]"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_promenade_public_terminal_02:22
+msgctxt "conversations/01_groundbreaker/01_cp_promenade_public_terminal_02:22:DefaultText"
+msgid "[TO: IS_Conveyors_Collective, SUBJECT: Conveyors' Rights]"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_promenade_public_terminal_02:23
+msgctxt "conversations/01_groundbreaker/01_cp_promenade_public_terminal_02:23:DefaultText"
+msgid "Groundbreaker Public Access Terminal\r\n"
+"============================\r\n"
+"\r\n"
+"This message is no longer accessible at your clearance level."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_promenade_public_terminal_02:24
+msgctxt "conversations/01_groundbreaker/01_cp_promenade_public_terminal_02:24:DefaultText"
+msgid "Groundbreaker Public Access Terminal\r\n"
+"============================\r\n"
+"\r\n"
+"This message is no longer accessible at your clearance level.\r\n"
+"\r\n"
+"Your attempt to access this message has been logged."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_promenade_public_terminal_02:25
+msgctxt "conversations/01_groundbreaker/01_cp_promenade_public_terminal_02:25:DefaultText"
+msgid "[TO: IS_Conveyors_Collective, SUBJECT: Conveyors' Rights]"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_promenade_public_terminal_02:26
+msgctxt "conversations/01_groundbreaker/01_cp_promenade_public_terminal_02:26:DefaultText"
+msgid "Groundbreaker Public Access Terminal\r\n"
+"============================\r\n"
+"\r\n"
+"Searching....\r\n"
+"\r\n"
+"Searching...\r\n"
+"\r\n"
+"Searching...\r\n"
+"\r\n"
+"This message does not exist."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_promenade_public_terminal_02:43
+msgctxt "conversations/01_groundbreaker/01_cp_promenade_public_terminal_02:43:DefaultText"
+msgid "[Down on My Luck]"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_promenade_public_terminal_02:44
+msgctxt "conversations/01_groundbreaker/01_cp_promenade_public_terminal_02:44:DefaultText"
+msgid "Groundbreaker Public Access Terminal\r\n"
+"============================\r\n"
+"\r\n"
+"Hey, so here's my story. My ship limped into Groundbreaker in a rough state. We couldn't make the repair fees, the docking fees, refueling, or the fees for not being able to pay our fees, so I'm kind of stuck here now. Then they took my ship and sold it off as scrap. \r\n"
+"\r\n"
+"Now my credit is shot to hell and corporate freighters won't hire me on. I'm hoping someone with a bunk to spare and places to go is feeling charitable. Thanks for listening.\r\n"
+"\r\n"
+"[This notice has been posted 56 times in 632 days]"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_promenade_public_terminal_02:46
+msgctxt "conversations/01_groundbreaker/01_cp_promenade_public_terminal_02:46:DefaultText"
+msgid "[STOP LOOKING OR ELSE]"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_promenade_public_terminal_02:47
+msgctxt "conversations/01_groundbreaker/01_cp_promenade_public_terminal_02:47:DefaultText"
+msgid "Groundbreaker Public Access Terminal\r\n"
+"============================\r\n"
+"\r\n"
+"Message contents empty."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_promenade_public_terminal_02:49
+msgctxt "conversations/01_groundbreaker/01_cp_promenade_public_terminal_02:49:DefaultText"
+msgid "[Looking for Work]"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_promenade_public_terminal_02:50
+msgctxt "conversations/01_groundbreaker/01_cp_promenade_public_terminal_02:50:DefaultText"
+msgid "Groundbreaker Public Access Terminal\r\n"
+"============================\n"
+"\n"
+"Urgently looking for a new crew to sign on with. I've been stuck in Halcyon for almost a year now, don't know what's holding up my next posting. \n"
+"\n"
+"Never had to wait this long to get on another freighter. \n"
+"\n"
+"I'd planned to take one of the rare long hauls back to Earth, but I haven't been able to find any, and even the shorter skips to the inner worlds seem rarer than the outer world routes these days.\n"
+"\n"
+"If anyone has any information about upcoming work please post it here. "
+msgstr ""

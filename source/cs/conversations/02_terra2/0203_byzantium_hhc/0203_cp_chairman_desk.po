@@ -1,0 +1,172 @@
+#: conversations/02_terra2/0203_byzantium_hhc/0203_cp_chairman_desk:1
+msgctxt "conversations/02_terra2/0203_byzantium_hhc/0203_cp_chairman_desk:1:DefaultText"
+msgid "Halcyon Holdings Corporation\r\n"
+"========================\r\n"
+"\r\n"
+"Welcome, Chairman Rockwell!"
+msgstr ""
+
+#: conversations/02_terra2/0203_byzantium_hhc/0203_cp_chairman_desk:2
+msgctxt "conversations/02_terra2/0203_byzantium_hhc/0203_cp_chairman_desk:2:DefaultText"
+msgid "[Personal Files]"
+msgstr ""
+
+#: conversations/02_terra2/0203_byzantium_hhc/0203_cp_chairman_desk:3
+msgctxt "conversations/02_terra2/0203_byzantium_hhc/0203_cp_chairman_desk:3:DefaultText"
+msgid "Status Report\n"
+"======================\n"
+"\n"
+"Dimethyl Sulfoxide, 46 gal. ... Full quantity unavailable. Partial quantity received by Ministry of Accuracy and Morale\n"
+"\n"
+"Benzine, 75 gal. ... Full quantity received by Ministry of Accuracy and Morale\n"
+"\n"
+"Sodium Hypochlorite, 348 gal. ... RECEIVED AT DOCKING BAY 2, AWAITING SHIPMENT TO MINISTRY OF ACCURACY AND MORALE"
+msgstr ""
+
+#: conversations/02_terra2/0203_byzantium_hhc/0203_cp_chairman_desk:6
+msgctxt "conversations/02_terra2/0203_byzantium_hhc/0203_cp_chairman_desk:6:DefaultText"
+msgid "[Exit]"
+msgstr ""
+
+#: conversations/02_terra2/0203_byzantium_hhc/0203_cp_chairman_desk:7
+msgctxt "conversations/02_terra2/0203_byzantium_hhc/0203_cp_chairman_desk:7:DefaultText"
+msgid "[Accessing...]"
+msgstr ""
+
+#: conversations/02_terra2/0203_byzantium_hhc/0203_cp_chairman_desk:10
+msgctxt "conversations/02_terra2/0203_byzantium_hhc/0203_cp_chairman_desk:10:DefaultText"
+msgid "[Subject: What's Taking So Long]"
+msgstr ""
+
+#: conversations/02_terra2/0203_byzantium_hhc/0203_cp_chairman_desk:11
+msgctxt "conversations/02_terra2/0203_byzantium_hhc/0203_cp_chairman_desk:11:DefaultText"
+msgid "[Subject: Masseuse]"
+msgstr ""
+
+#: conversations/02_terra2/0203_byzantium_hhc/0203_cp_chairman_desk:12
+msgctxt "conversations/02_terra2/0203_byzantium_hhc/0203_cp_chairman_desk:12:DefaultText"
+msgid "Percival,\r\n"
+"\r\n"
+"How long does it take to clear out an abandoned office?! Toss Clarke's belongings into the streets of Byzantium for all I care - he's not using them. Just get my office expansion done before I return. I'm tired of staring at that hole in the wall.\r\n"
+"\r\n"
+"And for Law's sake, do something about that doom-and-gloom presentation. We have the brightest minds in Halcyon working in our public relations department, and they make this announcement sound like a damned funeral elegy. We need something bright and cheerful! We need something we can sell.\r\n"
+"\r\n"
+"- CR"
+msgstr ""
+
+#: conversations/02_terra2/0203_byzantium_hhc/0203_cp_chairman_desk:13
+msgctxt "conversations/02_terra2/0203_byzantium_hhc/0203_cp_chairman_desk:13:DefaultText"
+msgid "Percival,\r\n"
+"\r\n"
+"Reschedule my regular Wednesday massage. I have urgent matters to attend to offsite.\r\n"
+"\r\n"
+"- CR"
+msgstr ""
+
+#: conversations/02_terra2/0203_byzantium_hhc/0203_cp_chairman_desk:14
+msgctxt "conversations/02_terra2/0203_byzantium_hhc/0203_cp_chairman_desk:14:DefaultText"
+msgid "[Shipment Status Report]"
+msgstr ""
+
+#: conversations/02_terra2/0203_byzantium_hhc/0203_cp_chairman_desk:15
+msgctxt "conversations/02_terra2/0203_byzantium_hhc/0203_cp_chairman_desk:15:DefaultText"
+msgid "[Return to Root]"
+msgstr ""
+
+#: conversations/02_terra2/0203_byzantium_hhc/0203_cp_chairman_desk:16
+msgctxt "conversations/02_terra2/0203_byzantium_hhc/0203_cp_chairman_desk:16:DefaultText"
+msgid "[Send Minister Clarke's Message to Earth]"
+msgstr ""
+
+#: conversations/02_terra2/0203_byzantium_hhc/0203_cp_chairman_desk:17
+msgctxt "conversations/02_terra2/0203_byzantium_hhc/0203_cp_chairman_desk:17:DefaultText"
+msgid "Reading cartridge...\r\n"
+"\r\n"
+"Packaging data...\r\n"
+"\r\n"
+"Transmitting to drone...\r\n"
+"\r\n"
+"Message en route. Please allow between 3 and 9 months for your message to complete transit."
+msgstr ""
+
+#: conversations/02_terra2/0203_byzantium_hhc/0203_cp_chairman_desk:18
+msgctxt "conversations/02_terra2/0203_byzantium_hhc/0203_cp_chairman_desk:18:DefaultText"
+msgid "[Subject: Food Reserves]"
+msgstr ""
+
+#: conversations/02_terra2/0203_byzantium_hhc/0203_cp_chairman_desk:19
+msgctxt "conversations/02_terra2/0203_byzantium_hhc/0203_cp_chairman_desk:19:DefaultText"
+msgid "Chairman,\n"
+"\n"
+"I've made inquiries and can confirm that we have plenty of food (real food) stored away from our inter-colony trade. The nutritional profile of food produced within Halcyon has continued to decline. Soon, people are going to start feeling hungry no matter how much they eat. \n"
+"\n"
+"Unfortunately, it's gotten too expensive to continue buying from even the closest colonies, but what we have will sustain Byzantium and a minimal workforce for the foreseeable future.\n"
+"\n"
+"- Sophia"
+msgstr ""
+
+#: conversations/02_terra2/0203_byzantium_hhc/0203_cp_chairman_desk:20
+msgctxt "conversations/02_terra2/0203_byzantium_hhc/0203_cp_chairman_desk:20:DefaultText"
+msgid "[Print Ministry Keycard]"
+msgstr ""
+
+#: conversations/02_terra2/0203_byzantium_hhc/0203_cp_chairman_desk:21
+msgctxt "conversations/02_terra2/0203_byzantium_hhc/0203_cp_chairman_desk:21:DefaultText"
+msgid "Printing...\r\n"
+"\r\n"
+"Encoding...\r\n"
+"\r\n"
+"Operation complete. Please retrieve your keycard."
+msgstr ""
+
+#: conversations/02_terra2/0203_byzantium_hhc/0203_cp_chairman_desk:26
+msgctxt "conversations/02_terra2/0203_byzantium_hhc/0203_cp_chairman_desk:26:DefaultText"
+msgid "[View Priority Message]"
+msgstr ""
+
+#: conversations/02_terra2/0203_byzantium_hhc/0203_cp_chairman_desk:27
+msgctxt "conversations/02_terra2/0203_byzantium_hhc/0203_cp_chairman_desk:27:DefaultText"
+msgid "Chairman,\n"
+"\n"
+"The rough cut of the presentation is prepped to play. The PR department has a lot of work to do, but we've covered the basics:\n"
+"\n"
+" - Halcyon is on the brink of starvation\n"
+" - the Board's scientists are working on a solution\n"
+" - workers can look forward to the Lifetime Employment Program for their chance to contribute\n"
+"\n"
+"You'll see the current version when you print your keycard for the Ministry of Accuracy and Morale (and yes, before you ask, the Dimethyl Sulfoxide has been delivered there). It's waiting for your sign-off on the broad strokes, so I wanted to make sure you saw it. \n"
+"\n"
+"Don't worry - I'll make sure it gets properly edited.\n"
+"\n"
+" - Sophia"
+msgstr ""
+
+#: conversations/02_terra2/0203_byzantium_hhc/0203_cp_chairman_desk:28
+msgctxt "conversations/02_terra2/0203_byzantium_hhc/0203_cp_chairman_desk:28:DefaultText"
+msgid "[Replay Presentation Video]"
+msgstr ""
+
+#: conversations/02_terra2/0203_byzantium_hhc/0203_cp_chairman_desk:30
+msgctxt "conversations/02_terra2/0203_byzantium_hhc/0203_cp_chairman_desk:30:DefaultText"
+msgid "[Subject: The Other Corporations]"
+msgstr ""
+
+#: conversations/02_terra2/0203_byzantium_hhc/0203_cp_chairman_desk:31
+msgctxt "conversations/02_terra2/0203_byzantium_hhc/0203_cp_chairman_desk:31:DefaultText"
+msgid "Chairman,\r\n"
+"\r\n"
+"The heads of the other nine corporations are up in arms about their shares again. \r\n"
+"\r\n"
+"As head of UDL, you can overrule them easily, but I thought you should know they're at it again.\r\n"
+"\r\n"
+"- Percival"
+msgstr ""
+
+#: conversations/02_terra2/0203_byzantium_hhc/0203_cp_chairman_desk:32
+msgctxt "conversations/02_terra2/0203_byzantium_hhc/0203_cp_chairman_desk:32:DefaultText"
+msgid "Printing...\r\n"
+"\r\n"
+"Encoding...\r\n"
+"\r\n"
+"Operation complete. Please retrieve your keycard."
+msgstr ""

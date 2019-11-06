@@ -1,0 +1,99 @@
+#: conversations/10_scylla/1001_cp_outlaw_base_terminal:1
+msgctxt "conversations/10_scylla/1001_cp_outlaw_base_terminal:1:DefaultText"
+msgid "Harlow's Crew Terminal - Welcome to the High Ground, Soldier\r\n"
+"===============================================\r\n"
+"\r\n"
+"Main menu"
+msgstr ""
+
+#: conversations/10_scylla/1001_cp_outlaw_base_terminal:2
+msgctxt "conversations/10_scylla/1001_cp_outlaw_base_terminal:2:DefaultText"
+msgid "[Logs]"
+msgstr ""
+
+#: conversations/10_scylla/1001_cp_outlaw_base_terminal:3
+msgctxt "conversations/10_scylla/1001_cp_outlaw_base_terminal:3:DefaultText"
+msgid "[Exit]"
+msgstr ""
+
+#: conversations/10_scylla/1001_cp_outlaw_base_terminal:4
+msgctxt "conversations/10_scylla/1001_cp_outlaw_base_terminal:4:DefaultText"
+msgid "Harlow's Crew Terminal - Welcome to the High Ground, Soldier\r\n"
+"===============================================\r\n"
+"\r\n"
+"Logs"
+msgstr ""
+
+#: conversations/10_scylla/1001_cp_outlaw_base_terminal:5
+msgctxt "conversations/10_scylla/1001_cp_outlaw_base_terminal:5:DefaultText"
+msgid "[Return to Root]"
+msgstr ""
+
+#: conversations/10_scylla/1001_cp_outlaw_base_terminal:6
+msgctxt "conversations/10_scylla/1001_cp_outlaw_base_terminal:6:DefaultText"
+msgid "[Acquisitions Log]"
+msgstr ""
+
+#: conversations/10_scylla/1001_cp_outlaw_base_terminal:7
+msgctxt "conversations/10_scylla/1001_cp_outlaw_base_terminal:7:DefaultText"
+msgid "[Memo]"
+msgstr ""
+
+#: conversations/10_scylla/1001_cp_outlaw_base_terminal:8
+msgctxt "conversations/10_scylla/1001_cp_outlaw_base_terminal:8:DefaultText"
+msgid "Harlow's Crew Terminal - Welcome to the High Ground, Soldier\r\n"
+"===============================================\r\n"
+"\r\n"
+"Independent Freighter: Cat's Meow\r\n"
+"Haul: Contraband Pharmaceuticals\r\n"
+"Summary: Brought down, salvaged cargo, ransomed crew. \r\n"
+"\r\n"
+"Independent Freighter: Getaway Sticks\r\n"
+"Haul: Subversive literature\r\n"
+"Summary: Brought down, salvaged cargo, crew joined up.\r\n"
+"\r\n"
+"Freighter: Werewolf\r\n"
+"Haul: Engine parts\r\n"
+"Summary: Brought down, salvaged cargo, crew jettisoned in escape pod.\r\n"
+"\r\n"
+"As usual, we were able to intercept these ships despite how cleverly they masked their heat signatures. Our patron pulled through again with that tracking data. Don't know how they get their hands on it, but we're in no position to refuse charity."
+msgstr ""
+
+#: conversations/10_scylla/1001_cp_outlaw_base_terminal:9
+msgctxt "conversations/10_scylla/1001_cp_outlaw_base_terminal:9:DefaultText"
+msgid "Harlow's Crew Terminal - Welcome to the High Ground, Soldier\r\n"
+"===============================================\r\n"
+"\r\n"
+"Crew, \r\n"
+"\r\n"
+"I'm beginning to wonder about our... \"patron.\" When we opened up our scanners and sniffed the system for our latest wildcat, we picked up a signal from a corporate freighter nearby. It was hauling ten times more cargo than our target. \r\n"
+"\r\n"
+"No sooner did we scan it than a message came through, ordering us to go after the wildcat instead. \r\n"
+"\r\n"
+"Something doesn't add up. Until I get answers, stay skeptical. \r\n"
+"\r\n"
+"-Harlow"
+msgstr ""
+
+#: conversations/10_scylla/1001_cp_outlaw_base_terminal:10
+msgctxt "conversations/10_scylla/1001_cp_outlaw_base_terminal:10:DefaultText"
+msgid "[Open Last Entry]"
+msgstr ""
+
+#: conversations/10_scylla/1001_cp_outlaw_base_terminal:11
+msgctxt "conversations/10_scylla/1001_cp_outlaw_base_terminal:11:DefaultText"
+msgid "Harlow's Crew Terminal - Welcome to the High Ground, Soldier\r\n"
+"===============================================\r\n"
+"\r\n"
+"Pirate Code\r\n"
+"\r\n"
+"Rule #1: Harlow's the boss. \r\n"
+"\r\n"
+"Rule #2: FUCK the Board. \r\n"
+"\r\n"
+"Rule #3: Why are you still reading, pig? WAKE UP. If you're seeing this, the Board already owns you. You went LOOKING for the rules. Why, because life's a game to you? Maybe you like being played. You guzzle down that sense of security like it's purpleberry-flavored opium. \r\n"
+"\r\n"
+"Fuck rules. And fuck terminals. It's not a revolution if we're using the weapons THEY raised against us time and time again, from the front lines of the riots to the corporate sit-ins and-\r\n"
+"\r\n"
+"[ERROR: Document \"Pirate's Code\" has exceeded character limit]"
+msgstr ""

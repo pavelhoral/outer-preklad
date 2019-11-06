@@ -1,0 +1,119 @@
+#: conversations/00_emerald_vale/00_cp_parvati_dad_room:1
+msgctxt "conversations/00_emerald_vale/00_cp_parvati_dad_room:1:DefaultText"
+msgid "Edgewater Saltuna Cannery\r\n"
+"\r\n"
+"A Spacer's Choice Property\r\n"
+"========================\r\n"
+"\r\n"
+"Maintenance Division Personal Terminal\r\n"
+"\r\n"
+"Welcome, Holcomb, Robert\r\n"
+"\r\n"
+"Enter a Keyword for Record Search, or hold down CTRL-ALT-F7-ENTER to compose a new entry."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cp_parvati_dad_room:2
+msgctxt "conversations/00_emerald_vale/00_cp_parvati_dad_room:2:DefaultText"
+msgid "[Young Spacer's Guide to Mechanical Engineering]"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cp_parvati_dad_room:3
+msgctxt "conversations/00_emerald_vale/00_cp_parvati_dad_room:3:DefaultText"
+msgid "Edgewater Saltuna Cannery\r\n"
+"\r\n"
+"A Spacer's Choice Property\r\n"
+"========================\r\n"
+"\r\n"
+"\r\n"
+"Searching...\r\n"
+"\r\n"
+"One Record Found."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cp_parvati_dad_room:4
+msgctxt "conversations/00_emerald_vale/00_cp_parvati_dad_room:4:DefaultText"
+msgid "[Exit]"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cp_parvati_dad_room:8
+msgctxt "conversations/00_emerald_vale/00_cp_parvati_dad_room:8:DefaultText"
+msgid "[Open Last Entry]"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cp_parvati_dad_room:9
+msgctxt "conversations/00_emerald_vale/00_cp_parvati_dad_room:9:DefaultText"
+msgid "[Return to Root]"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cp_parvati_dad_room:12
+msgctxt "conversations/00_emerald_vale/00_cp_parvati_dad_room:12:DefaultText"
+msgid "Edgewater Saltuna Cannery\r\n"
+"\r\n"
+"A Spacer's Choice Property\r\n"
+"========================\r\n"
+"\r\n"
+"\r\n"
+"I sat up last night reading through the Young Spacer's Guide. Almost started reading it out loud, from habit. It's been ten years, but I still have parts of it memorized. \r\n"
+"\r\n"
+"Reckon I'll take the next volume into work at the cannery. There's an unused office where I've been taking my lunches. May as well read the whole thing again."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cp_parvati_dad_room:13
+msgctxt "conversations/00_emerald_vale/00_cp_parvati_dad_room:13:DefaultText"
+msgid "[Open Last Search]"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cp_parvati_dad_room:14
+msgctxt "conversations/00_emerald_vale/00_cp_parvati_dad_room:14:DefaultText"
+msgid "Edgewater Saltuna Cannery\r\n"
+"\r\n"
+"A Spacer's Choice Property\r\n"
+"========================\r\n"
+"\r\n"
+"\r\n"
+"Last Search: \"Indumati\"\r\n"
+"\r\n"
+"Searching...\r\n"
+"\r\n"
+"Two Records Found."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cp_parvati_dad_room:15
+msgctxt "conversations/00_emerald_vale/00_cp_parvati_dad_room:15:DefaultText"
+msgid "[First Entry]"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cp_parvati_dad_room:16
+msgctxt "conversations/00_emerald_vale/00_cp_parvati_dad_room:16:DefaultText"
+msgid "[Transcript: Note from Indumati]"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cp_parvati_dad_room:17
+msgctxt "conversations/00_emerald_vale/00_cp_parvati_dad_room:17:DefaultText"
+msgid "Edgewater Saltuna Cannery\r\n"
+"\r\n"
+"A Spacer's Choice Property\r\n"
+"========================\r\n"
+"\r\n"
+"\r\n"
+"Indumati left Edgewater today. She's been reassigned to Terra 1. I kissed her goodbye at the platform, and asked if I'd ever see her again. We both knew the answer was no. \"Look up and think of me, as I'll look up and think of you.\""
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cp_parvati_dad_room:18
+msgctxt "conversations/00_emerald_vale/00_cp_parvati_dad_room:18:DefaultText"
+msgid "Edgewater Saltuna Cannery\r\n"
+"\r\n"
+"A Spacer's Choice Property\r\n"
+"========================\r\n"
+"\r\n"
+"\r\n"
+"Robert,\r\n"
+"\r\n"
+"They wouldn't let me keep her, but I know you will raise her with love. Perhaps more than I would make time for. You are patient and present in a way that I am not. The company says she has no name until you give her one. \r\n"
+"\r\n"
+"Her name is Parvati. They tell me her birthday will be set on the date she's legally delivered to you. She was actually born on July 7. Make her feel special when I can't. \r\n"
+"\r\n"
+"She liked it when I sang to her. It was the only time she stopped crying.\r\n"
+"\r\n"
+"Indumati"
+msgstr ""

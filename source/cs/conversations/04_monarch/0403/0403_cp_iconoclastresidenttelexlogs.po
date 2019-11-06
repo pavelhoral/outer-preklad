@@ -1,0 +1,100 @@
+#: conversations/04_monarch/0403/0403_cp_iconoclastresidenttelexlogs:1
+msgctxt "conversations/04_monarch/0403/0403_cp_iconoclastresidenttelexlogs:1:DefaultText"
+msgid "THIS IS HUXLEYS TERMINAL STAY OUT\r\n"
+"============================\r\n"
+"THAT MEANS YOU!"
+msgstr ""
+
+#: conversations/04_monarch/0403/0403_cp_iconoclastresidenttelexlogs:2
+msgctxt "conversations/04_monarch/0403/0403_cp_iconoclastresidenttelexlogs:2:DefaultText"
+msgid "ERROR: Due to external damage, this device can no longer store more than four logs. Please contact your assigned terminal engineer to replace the storage device.\n"
+"\n"
+"Currently available entries:"
+msgstr ""
+
+#: conversations/04_monarch/0403/0403_cp_iconoclastresidenttelexlogs:3
+msgctxt "conversations/04_monarch/0403/0403_cp_iconoclastresidenttelexlogs:3:DefaultText"
+msgid "[Dear Diary]"
+msgstr ""
+
+#: conversations/04_monarch/0403/0403_cp_iconoclastresidenttelexlogs:5
+msgctxt "conversations/04_monarch/0403/0403_cp_iconoclastresidenttelexlogs:5:DefaultText"
+msgid "[Dear Diary]"
+msgstr ""
+
+#: conversations/04_monarch/0403/0403_cp_iconoclastresidenttelexlogs:6
+msgctxt "conversations/04_monarch/0403/0403_cp_iconoclastresidenttelexlogs:6:DefaultText"
+msgid "[Dear Diary]"
+msgstr ""
+
+#: conversations/04_monarch/0403/0403_cp_iconoclastresidenttelexlogs:8
+msgctxt "conversations/04_monarch/0403/0403_cp_iconoclastresidenttelexlogs:8:DefaultText"
+msgid "[Exit]"
+msgstr ""
+
+#: conversations/04_monarch/0403/0403_cp_iconoclastresidenttelexlogs:9
+msgctxt "conversations/04_monarch/0403/0403_cp_iconoclastresidenttelexlogs:9:DefaultText"
+msgid "This will be my last entry. Sorry diary. You've been a very good listener but our time has come to an end.\n"
+"\n"
+"This terminal was making a horrible beeping noise yesterday and someone smashed it while I was out and now I can't save more diaries. Milton can't fix it and plus he says I should stop coming into his house to write when he's not around.\n"
+"\n"
+"Whoever smashed poor terminal, if you're reading this, SUCK SULFUR!"
+msgstr ""
+
+#: conversations/04_monarch/0403/0403_cp_iconoclastresidenttelexlogs:11
+msgctxt "conversations/04_monarch/0403/0403_cp_iconoclastresidenttelexlogs:11:DefaultText"
+msgid "Zora's really smart but you know what sometimes she can be such a bitch.\r\n"
+"\r\n"
+"I was supposed to get some info for her from Cascadia but I couldn't find a way over without going through marauders. So I gave up and stopped in at Fallbrook to pick up some supplies instead.\r\n"
+"\r\n"
+"While I was there, Chastity dropped in for a few games of Whist. She's so cool. She's always playing games there. When I lose bits, I get really upset. I don't have much, so losing what I have, it hurts, you know? But Chastity can drop thousands on a single game and she's fine.\r\n"
+"\r\n"
+"Well... sometimes she drinks a bit and slams the table and storms out, but still. Mostly she's cool about it and I admire that.\r\n"
+"\r\n"
+"Anyway, when I got back, Zora yelled at me because I was a little late. Something about medicine not getting here fast enough. Sigh. Graham just said to try not to lose track of time on my next run and I promised I would. See, that's how you teach someone. Don't gotta yell and make them feel bad."
+msgstr ""
+
+#: conversations/04_monarch/0403/0403_cp_iconoclastresidenttelexlogs:14
+msgctxt "conversations/04_monarch/0403/0403_cp_iconoclastresidenttelexlogs:14:DefaultText"
+msgid "Graham taught me how to meditate today. You close your eyes and you breathe in real deep and try not to cough. Then you just listen to yourself.\r\n"
+"\r\n"
+"You know how sometimes you'll be hiding from a mantiqueen and you're trying to be quiet so you focus real hard on your breathing and you can hear your heartbeat and you think how can this mantiqueen not even hear me? And all of a sudden you have to sneeze and it reminds you of that time when you were coming back with a delivery and as you were putting it on Zora's table you sneezed and it slipped and a bunch of things broke?\r\n"
+"\r\n"
+"Meditating is like that only you're supposed to think of these things on purpose. Graham calls it... I don't remember what he calls it. Wreck-oh-something. He says it's your own Eternal Truth bubbling up to the surface and the things you remember are what you're supposed to focus on and try and improve.\r\n"
+"\r\n"
+"When we meditated, I mostly remembered that sitting on rocks hurts. Maybe I'm supposed to toughen up my tailbone."
+msgstr ""
+
+#: conversations/04_monarch/0403/0403_cp_iconoclastresidenttelexlogs:16
+msgctxt "conversations/04_monarch/0403/0403_cp_iconoclastresidenttelexlogs:16:DefaultText"
+msgid "[Return to Root]"
+msgstr ""
+
+#: conversations/04_monarch/0403/0403_cp_iconoclastresidenttelexlogs:17
+msgctxt "conversations/04_monarch/0403/0403_cp_iconoclastresidenttelexlogs:17:DefaultText"
+msgid "[Dear Diary]"
+msgstr ""
+
+#: conversations/04_monarch/0403/0403_cp_iconoclastresidenttelexlogs:18
+msgctxt "conversations/04_monarch/0403/0403_cp_iconoclastresidenttelexlogs:18:DefaultText"
+msgid "Today Zora gave me permission to buy ammunition from Bronson. I don't think I want to but she said I should just in case. But guns are really loud. I'd rather just run away than shoot one.\n"
+"\n"
+"Still I'm kinda proud. Zora said it was like a promotion for something I found in the wilderness. I think it's a code for a door but I'm not sure why it's important. I can't even get near the place without getting attacked.\n"
+"\n"
+"I asked her what a promotion is and she smiled in a really sad way and told me I shouldn't worry about it."
+msgstr ""
+
+#: conversations/04_monarch/0403/0403_cp_iconoclastresidenttelexlogs:20
+msgctxt "conversations/04_monarch/0403/0403_cp_iconoclastresidenttelexlogs:20:DefaultText"
+msgid "[Repair the Terminal's Storage Device]"
+msgstr ""
+
+#: conversations/04_monarch/0403/0403_cp_iconoclastresidenttelexlogs:21
+msgctxt "conversations/04_monarch/0403/0403_cp_iconoclastresidenttelexlogs:21:DefaultText"
+msgid "Storage capacity increased. Logs prior to the most recent four entries are unretrievable, but new entries may now be saved."
+msgstr ""
+
+#: conversations/04_monarch/0403/0403_cp_iconoclastresidenttelexlogs:22
+msgctxt "conversations/04_monarch/0403/0403_cp_iconoclastresidenttelexlogs:22:DefaultText"
+msgid "Currently available entries:"
+msgstr ""

@@ -1,0 +1,99 @@
+#: quests/02_terra2/pq_0202_thedemolishedman:0
+msgctxt "quests/02_terra2/pq_0202_thedemolishedman:0:DefaultText"
+msgid "The Demolished Woman"
+msgstr ""
+
+#: quests/02_terra2/pq_0202_thedemolishedman:1
+msgctxt "quests/02_terra2/pq_0202_thedemolishedman:1:DefaultText"
+msgid "Find Rachel Lockwood"
+msgstr ""
+
+#: quests/02_terra2/pq_0202_thedemolishedman:2
+msgctxt "quests/02_terra2/pq_0202_thedemolishedman:2:DefaultText"
+msgid "Retrieve the Documents"
+msgstr ""
+
+#: quests/02_terra2/pq_0202_thedemolishedman:4
+msgctxt "quests/02_terra2/pq_0202_thedemolishedman:4:DefaultText"
+msgid "Report Back to the Adjutant"
+msgstr ""
+
+#: quests/02_terra2/pq_0202_thedemolishedman:15
+msgctxt "quests/02_terra2/pq_0202_thedemolishedman:15:DefaultText"
+msgid "Kill Rachel Lockwood"
+msgstr ""
+
+#: quests/02_terra2/pq_0202_thedemolishedman:10000
+msgctxt "quests/02_terra2/pq_0202_thedemolishedman:10000:DefaultText"
+msgid "Adjutant Sophia Akande has asked you to dispose of a cartographer named Rachel Lockwood and retrieve some sensitive documents in her possession."
+msgstr ""
+
+#: quests/02_terra2/pq_0202_thedemolishedman:10001
+msgctxt "quests/02_terra2/pq_0202_thedemolishedman:10001:DefaultText"
+msgid "You learned that Rachel Lockwood works for the Bureau of Exploration."
+msgstr ""
+
+#: quests/02_terra2/pq_0202_thedemolishedman:10002
+msgctxt "quests/02_terra2/pq_0202_thedemolishedman:10002:DefaultText"
+msgid "Lockwood was working on some sensitive documents. Adjutant Akande wants you to retrieve them for her."
+msgstr ""
+
+#: quests/02_terra2/pq_0202_thedemolishedman:10004
+msgctxt "quests/02_terra2/pq_0202_thedemolishedman:10004:DefaultText"
+msgid "You've dealt with Rachel Lockwood and found her documents. Report back to Adjutant Akande."
+msgstr ""
+
+#: quests/02_terra2/pq_0202_thedemolishedman:10015
+msgctxt "quests/02_terra2/pq_0202_thedemolishedman:10015:DefaultText"
+msgid "Now that you know Ms. Lockwood is hiding out in the tunnels, all that remains is to go there and finish the job."
+msgstr ""
+
+#: quests/02_terra2/pq_0202_thedemolishedman:20000
+msgctxt "quests/02_terra2/pq_0202_thedemolishedman:20000:DefaultText"
+msgid "You've learned that Lockwood is hiding out in the maintenance tunnels beneath Byzantium."
+msgstr ""
+
+#: quests/02_terra2/pq_0202_thedemolishedman:20001
+msgctxt "quests/02_terra2/pq_0202_thedemolishedman:20001:DefaultText"
+msgid "You've learned that Rachel Lockwood frequents Billingsly's House of Inebriation, a bar located in Prosperity Plaza."
+msgstr ""
+
+#: quests/02_terra2/pq_0202_thedemolishedman:20003
+msgctxt "quests/02_terra2/pq_0202_thedemolishedman:20003:DefaultText"
+msgid "You killed Rachel Lockwood."
+msgstr ""
+
+#: quests/02_terra2/pq_0202_thedemolishedman:20004
+msgctxt "quests/02_terra2/pq_0202_thedemolishedman:20004:DefaultText"
+msgid "You let Sherman Bradshaw kill Rachel Lockwood."
+msgstr ""
+
+#: quests/02_terra2/pq_0202_thedemolishedman:20005
+msgctxt "quests/02_terra2/pq_0202_thedemolishedman:20005:DefaultText"
+msgid "You decided to let Rachel Lockwood go."
+msgstr ""
+
+#: quests/02_terra2/pq_0202_thedemolishedman:20006
+msgctxt "quests/02_terra2/pq_0202_thedemolishedman:20006:DefaultText"
+msgid "You accepted a deal from Rachel Lockwood to let her go."
+msgstr ""
+
+#: quests/02_terra2/pq_0202_thedemolishedman:30000
+msgctxt "quests/02_terra2/pq_0202_thedemolishedman:30000:DefaultText"
+msgid "You dealt with Lockwood and retrieved the documents for the Adjutant."
+msgstr ""
+
+#: quests/02_terra2/pq_0202_thedemolishedman:30001
+msgctxt "quests/02_terra2/pq_0202_thedemolishedman:30001:DefaultText"
+msgid "You murdered Percival Platt. The Adjutant wants nothing to do with you."
+msgstr ""
+
+#: quests/02_terra2/pq_0202_thedemolishedman:30002
+msgctxt "quests/02_terra2/pq_0202_thedemolishedman:30002:DefaultText"
+msgid "You've ruined your reputation with the Board. Adjutant Akande will no longer work with you."
+msgstr ""
+
+#: quests/02_terra2/pq_0202_thedemolishedman:30003
+msgctxt "quests/02_terra2/pq_0202_thedemolishedman:30003:DefaultText"
+msgid "You skipped the Hope to Terra 2 for Phineas, spoiling the Adjutant's plans."
+msgstr ""

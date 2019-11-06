@@ -1,0 +1,79 @@
+#: quests/01_groundbreaker/ta_0101_salvagerinthesky:0
+msgctxt "quests/01_groundbreaker/ta_0101_salvagerinthesky:0:DefaultText"
+msgid "Salvager In the Sky"
+msgstr ""
+
+#: quests/01_groundbreaker/ta_0101_salvagerinthesky:1
+msgctxt "quests/01_groundbreaker/ta_0101_salvagerinthesky:1:DefaultText"
+msgid "Speak with Lilya Hagen"
+msgstr ""
+
+#: quests/01_groundbreaker/ta_0101_salvagerinthesky:7
+msgctxt "quests/01_groundbreaker/ta_0101_salvagerinthesky:7:DefaultText"
+msgid "Gain Access to Stellar Bay"
+msgstr ""
+
+#: quests/01_groundbreaker/ta_0101_salvagerinthesky:10
+msgctxt "quests/01_groundbreaker/ta_0101_salvagerinthesky:10:DefaultText"
+msgid "Find an Alternate Route to Stellar Bay"
+msgstr ""
+
+#: quests/01_groundbreaker/ta_0101_salvagerinthesky:10000
+msgctxt "quests/01_groundbreaker/ta_0101_salvagerinthesky:10000:DefaultText"
+msgid "Now that you have access to Stellar Bay, Gladys suggested you speak with Lilya Hagen in the SubLight offices."
+msgstr ""
+
+#: quests/01_groundbreaker/ta_0101_salvagerinthesky:10001
+msgctxt "quests/01_groundbreaker/ta_0101_salvagerinthesky:10001:DefaultText"
+msgid "Lilya Hagen runs SubLight Salvage & Shipping. Her office is located on Groundbreaker's promenade, next to the spratwurst vendor."
+msgstr ""
+
+#: quests/01_groundbreaker/ta_0101_salvagerinthesky:10007
+msgctxt "quests/01_groundbreaker/ta_0101_salvagerinthesky:10007:DefaultText"
+msgid "Lilya Hagen has a lucrative contract for a captain with access to Stellar Bay on Monarch. You'll need to purchase a Navkey from Gladys on Groundbreaker's Promenade before you can work for SubLight."
+msgstr ""
+
+#: quests/01_groundbreaker/ta_0101_salvagerinthesky:10010
+msgctxt "quests/01_groundbreaker/ta_0101_salvagerinthesky:10010:DefaultText"
+msgid "With Gladys dead you are no longer able to purchase a Navkey for Stellar Bay. You'll need to find a different way to gain access to the city before you can work for SubLight."
+msgstr ""
+
+#: quests/01_groundbreaker/ta_0101_salvagerinthesky:20000
+msgctxt "quests/01_groundbreaker/ta_0101_salvagerinthesky:20000:DefaultText"
+msgid "Lilya Hagen needs someone who can navigate to Stellar Bay on Monarch. Return to speak with her once you can access Stellar Bay."
+msgstr ""
+
+#: quests/01_groundbreaker/ta_0101_salvagerinthesky:20001
+msgctxt "quests/01_groundbreaker/ta_0101_salvagerinthesky:20001:DefaultText"
+msgid "Lilya Hagen needs someone who can navigate to Stellar Bay on Monarch. Return to speak with her once you can access Stellar Bay. Gladys at the Rest-n-Go can potentially sell you a NavKey."
+msgstr ""
+
+#: quests/01_groundbreaker/ta_0101_salvagerinthesky:30000
+msgctxt "quests/01_groundbreaker/ta_0101_salvagerinthesky:30000:DefaultText"
+msgid "You've taken a contract with SubLight Salvage & Shipping and are now a part of the Space-Crime Continuum."
+msgstr ""
+
+#: quests/01_groundbreaker/ta_0101_salvagerinthesky:30001
+msgctxt "quests/01_groundbreaker/ta_0101_salvagerinthesky:30001:DefaultText"
+msgid "Lilya Hagen is dead and it is no longer possible to work with SubLight."
+msgstr ""
+
+#: quests/01_groundbreaker/ta_0101_salvagerinthesky:30002
+msgctxt "quests/01_groundbreaker/ta_0101_salvagerinthesky:30002:DefaultText"
+msgid "The Groundbreaker has become hostile towards you, making it impossible to complete this quest."
+msgstr ""
+
+#: quests/01_groundbreaker/ta_0101_salvagerinthesky:40001
+msgctxt "quests/01_groundbreaker/ta_0101_salvagerinthesky:40001:DefaultText"
+msgid "You found a job posting on one of Groundbreaker's public terminals for an \"ethically-flexible spacer.\" Interested parties were instructed to inquire at the offices of SubLight Salvage & Shipping."
+msgstr ""
+
+#: quests/01_groundbreaker/ta_0101_salvagerinthesky:40002
+msgctxt "quests/01_groundbreaker/ta_0101_salvagerinthesky:40002:DefaultText"
+msgid "Pvt. Lee Flores suggested you might find paying work at the offices of SubLight Salvage & Shipping. Flores shared several rumors about SubLight's liberal interpretation of salvage law to give you an idea of the type of work you'd be in for."
+msgstr ""
+
+#: quests/01_groundbreaker/ta_0101_salvagerinthesky:40003
+msgctxt "quests/01_groundbreaker/ta_0101_salvagerinthesky:40003:DefaultText"
+msgid "Lilya Hagen is looking to hire a contractor who has access to Stellar Bay on Monarch."
+msgstr ""

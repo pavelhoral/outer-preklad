@@ -1,0 +1,107 @@
+#: conversations/09_interstitial/0903_thehope/0903_cp_power_reroute:2
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_power_reroute:2:DefaultText"
+msgid "COMMUNICATIONS SUBSTATION\r\n"
+"===========================\r\n"
+"Power status: Auxiliary\r\n"
+"Communications status: Offline"
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_power_reroute:3
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_power_reroute:3:DefaultText"
+msgid "COMMUNICATIONS SUBSTATION\r\n"
+"===========================\r\n"
+"Power status: Auxiliary\r\n"
+"Communications status: Auxiliary"
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_power_reroute:9
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_power_reroute:9:DefaultText"
+msgid "[Route Communications Through the Unreliable]"
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_power_reroute:13
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_power_reroute:13:DefaultText"
+msgid "[Exit]"
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_power_reroute:14
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_power_reroute:14:DefaultText"
+msgid "COMMUNICATIONS SUBSTATION\r\n"
+"===========================\r\n"
+"Power status: Power-save mode\r\n"
+"Communications status: Offline\r\n"
+"\r\n"
+"Communications cannot be powered until the reactor is repaired or an auxiliary power source is provided."
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_power_reroute:15
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_power_reroute:15:DefaultText"
+msgid "[Logs]"
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_power_reroute:16
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_power_reroute:16:DefaultText"
+msgid "COMMUNICATIONS SUBSTATION\r\n"
+"===========================\r\n"
+"Error accessing archives. Available entries:"
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_power_reroute:17
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_power_reroute:17:DefaultText"
+msgid "[Automated Audio Transcript #R-2643]"
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_power_reroute:18
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_power_reroute:18:DefaultText"
+msgid "Begin Audio Log. Is this thing working? I said begin audio -- damn it.\r\n"
+"\r\n"
+"This is, uh. This is P. Welles. Yes, let's go with that. Work continues on Test Subject One-Twelve, retrieved from Hibernation Bay Eight. Time of extraction - oh, let's say two and a half hours ago. Time of death, six minutes prior.\r\n"
+"\r\n"
+"Explosive cell death. My arch-nemesis. Haunting my every attempt at reviving our frozen colonists. Making a mockery of my procedures. I've tried every combination of every chemical available to me. Attempted every variation of every possible thawing procedure. A gradual melt. A flash thaw. Extremities-first. Brain-first. \r\n"
+"\r\n"
+"Don't know how much more of this I can take. Four hours of sleep in the last seventy-two. Can still hear their screaming in my nightmares.\r\n"
+"\r\n"
+"Test Subject One-Twelve. Real name Harley Stanton. Age thirty-nine. Enjoyed singing. I'm sorry, Harley. I couldn't save you."
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_power_reroute:19
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_power_reroute:19:DefaultText"
+msgid "[Automated Audio Transcript #R-2643]"
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_power_reroute:20
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_power_reroute:20:DefaultText"
+msgid "[Back]"
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_power_reroute:21
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_power_reroute:21:DefaultText"
+msgid "--begin audio log as soon as I say the words begin audio log. What a ridiculously inconvenient program. What happens if I just accidentally say the phrase audio log? \r\n"
+"\r\n"
+"Don't know why I'm talking to a frozen colonist. You're losing it, Phineas. Focus. Focus. Come on, make the incision. There we go. Excellent. Well well, my frigid friend. You disobeyed the moratorium on ingesting food thirty six hours prior to hibernation, didn't you? \r\n"
+"\r\n"
+"Thank the Law for disposable gloves.\r\n"
+"\r\n"
+"Steady now. Steady. Oh. That's not good.\r\n"
+"\r\n"
+"That's definitely not good.\r\n"
+"\r\n"
+"Damned slippery scalpel. Who makes these anyway? Spacer's Choice? \r\n"
+"\r\n"
+"All right. I've got no choice. I'm going in."
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_power_reroute:23
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_power_reroute:23:DefaultText"
+msgid "[Exit]"
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_power_reroute:24
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_power_reroute:24:DefaultText"
+msgid "[Continue]"
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_power_reroute:25
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_power_reroute:25:DefaultText"
+msgid "[Exit]"
+msgstr ""

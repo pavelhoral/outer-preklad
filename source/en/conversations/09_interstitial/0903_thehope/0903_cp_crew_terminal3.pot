@@ -1,0 +1,99 @@
+#: conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal3:3
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal3:3:DefaultText"
+msgid "UDL-002 THE HOPE\r\n"
+"===========================\r\n"
+"Warning: Unauthorized access will result in immediate termination upon your arrival in Halcyon."
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal3:4
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal3:4:DefaultText"
+msgid "[Automated Audio Transcript #R-1268]"
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal3:6
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal3:6:DefaultText"
+msgid "[Automated Audio Transcript #R-1271]"
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal3:8
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal3:8:DefaultText"
+msgid "[Manual Log #L-2164 - HUNTE, W.]"
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal3:17
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal3:17:DefaultText"
+msgid "[Exit]"
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal3:23
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal3:23:DefaultText"
+msgid "TORREGA, R: Look, Captain. This is what I was talking about. We're slowing down.\r\n"
+"HUNTE, W: Rezi, pretend for a second that when I look at your screen all I see is unintelligible math.\r\n"
+"TORREGA, R: Ok. Ok. See this line? That's us. This one? That's where we should be. This one? That's where we're going. We're off-course, and I think it's because we're...\r\n"
+"HUNTE, W: What the hell was that?\r\n"
+"TORREGA, R: I don't...\r\n"
+"NOLDA, F: Will. Will!\r\n"
+"HUNTE, W: What's going on down there, Frank?\r\n"
+"NOLDA, F: I was going to ask you the same damn thing. The engines just braced. Who hit the brakes?"
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal3:27
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal3:27:DefaultText"
+msgid "[Manual Log #L-2190 - NOLDA, F.]"
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal3:28
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal3:28:DefaultText"
+msgid "HUNTE, W: Go ahead, Frank.\n"
+"NOLDA, F: Right. As some of you know, the ship dropped out of faster-than-light travel. We gotta spin up the skip drive again.\n"
+"VOLKOV, A: Why are we talking instead of doing?\n"
+"NOLDA, F: It ain't that simple, you hull-headed...\n"
+"HUNTE, W: Frank.\n"
+"NOLDA, F: Sorry. If I could just hit a button and skip us back to speed, I would. But nav's gotta plot a new course.\n"
+"TORREGA, R: Yes. Dropping to sublight speeds mean we're quite a ways off course. The navigational computer will be helpful, but it'll take... well, I don't know how long it'll take. I have to get this right. Any errors and we could fly through a planet. Or a star.\n"
+"NOLDA, F: Plus, we'll need to count up the fuel reserves. If we try to skip without the energy we need, we'll... shit, I'm not sure. I think we just explode.\n"
+"HUNTE, W: I'd rather not explode.\n"
+"HUNTE, D: What if we don't have enough fuel?\n"
+"NOLDA, F: Then... we fly slow.\n"
+"VOLKOV, A: And how long will this take?\n"
+"TORREGA, R: I don't know yet. I need to run the numbers. But... umm...\n"
+"HUNTE, W: We'll deal with that problem when it comes. For now, Frank, see to the fuel. Rezi, assume he can get us back to skip space and plot a course. Let's go."
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal3:29
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal3:29:DefaultText"
+msgid "The UDL mantra has always been prevention. If you don't have problems, you don't need a plan for dealing with them.\n"
+"\n"
+"Before I was assigned to this ridiculous journey, I ran budgets for our galas. How much does it cost to staff an ocean liner? How much food do we need?\n"
+"\n"
+"I always put safety precautions - life boats, sick kits, flares, whatever I could think of - in a separate category from the rest of the budget. In my gut, I knew I should plan for them. I think I got that from Donna. But my boss always redacted them. Why spend money on emergency supplies when we can spend money on not having an emergency in the first place? Hire better crew. Build the ship out of better materials.\n"
+"\n"
+"Find a better accountant.\n"
+"\n"
+"From pleasure cruisers to colony ships, I guess nothing changes. They gave us ten years of rations and we've used nine of it.\n"
+"\n"
+"Rezi is saying it's going to take us twenty-six years to get to Halcyon if we can't spin up the skip drive. Any way I carve this up, somebody's gonna starve."
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal3:30
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal3:30:DefaultText"
+msgid "i want this on record: we're fucked and it ain't because of the equipment.\r\n"
+"\r\n"
+"the skip drive is toast. i don't know what the hell happened, but it ain't even getting to prelim cyclo boosters.\r\n"
+"\r\n"
+"captain says we got food for a year. rez says it's gonna take 26 to get there on stl.\r\n"
+"\r\n"
+"back home, i saw folks lose their minds going hungry for a week. a week. we ain't gonna last a bloody month if we don't figure something out."
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal3:32
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal3:32:DefaultText"
+msgid "CREW TERMINAL\r\n"
+"===========================\r\n"
+"Error accessing archives. Available entries:"
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal3:33
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal3:33:DefaultText"
+msgid "[Continue]"
+msgstr ""

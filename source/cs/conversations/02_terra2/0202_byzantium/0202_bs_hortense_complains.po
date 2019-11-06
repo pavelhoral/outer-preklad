@@ -1,0 +1,54 @@
+#: conversations/02_terra2/0202_byzantium/0202_bs_hortense_complains:1
+msgctxt "conversations/02_terra2/0202_byzantium/0202_bs_hortense_complains:1:DefaultText"
+msgid "You must be joking. Our fair city is being overrun by a pox of vagrants and undesirables and your plan is to sit idly by?"
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_bs_hortense_complains:2
+msgctxt "conversations/02_terra2/0202_byzantium/0202_bs_hortense_complains:2:DefaultText"
+msgid "And what would you have me do exactly?"
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_bs_hortense_complains:3
+msgctxt "conversations/02_terra2/0202_byzantium/0202_bs_hortense_complains:3:DefaultText"
+msgid "I don't know... something! Anything! You're the security expert. Secure the situation!"
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_bs_hortense_complains:4
+msgctxt "conversations/02_terra2/0202_byzantium/0202_bs_hortense_complains:4:DefaultText"
+msgid "Ma'am, again, Byzantium is perfectly secure. You're under the watchful eye of UDL security."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_bs_hortense_complains:5
+msgctxt "conversations/02_terra2/0202_byzantium/0202_bs_hortense_complains:5:DefaultText"
+msgid "Yes, you've said the slogan. I don't need to hear the slogan. I need to hear, \"Yes, Ms. Ingalsbee, I will personally hunt down these hooligans with my excessively large firearm.\""
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_bs_hortense_complains:6
+msgctxt "conversations/02_terra2/0202_byzantium/0202_bs_hortense_complains:6:DefaultText"
+msgid "Ma'am, you know I can't."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_bs_hortense_complains:7
+msgctxt "conversations/02_terra2/0202_byzantium/0202_bs_hortense_complains:7:DefaultText"
+msgid "Ugh, you're useless! All of you! Utterly and completely useless!"
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_bs_hortense_complains:8
+msgctxt "conversations/02_terra2/0202_byzantium/0202_bs_hortense_complains:8:DefaultText"
+msgid "Oh, there! That's one right there! Can't you just see the stench of impropriety radiating off of him?"
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_bs_hortense_complains:8
+msgctxt "conversations/02_terra2/0202_byzantium/0202_bs_hortense_complains:8:FemaleText"
+msgid "Oh, there! That's one right there! Can't you just see the stench of impropriety radiating off of her?"
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_bs_hortense_complains:9
+msgctxt "conversations/02_terra2/0202_byzantium/0202_bs_hortense_complains:9:DefaultText"
+msgid "For the last time, access to Byzantium is impossible without a proper Navkey."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_bs_hortense_complains:10
+msgctxt "conversations/02_terra2/0202_byzantium/0202_bs_hortense_complains:10:DefaultText"
+msgid "Now if you'll excuse me, I need to be... somewhere else. Anywhere else."
+msgstr ""

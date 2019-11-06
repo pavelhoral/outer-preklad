@@ -1,0 +1,64 @@
+#: conversations/04_monarch/0420/cp_0403_printerpressinterface:1
+msgctxt "conversations/04_monarch/0420/cp_0403_printerpressinterface:1:DefaultText"
+msgid "Terra One Publications\n"
+"A subsidiary of Universal Defense Logistics\n"
+"============================\n"
+"Printing Press #6\n"
+"============================\n"
+"Diagnostics result: Faulty rollers. Consult your nearest Printing Engineer."
+msgstr ""
+
+#: conversations/04_monarch/0420/cp_0403_printerpressinterface:3
+msgctxt "conversations/04_monarch/0420/cp_0403_printerpressinterface:3:DefaultText"
+msgid "[Run Diagnostics]"
+msgstr ""
+
+#: conversations/04_monarch/0420/cp_0403_printerpressinterface:13
+msgctxt "conversations/04_monarch/0420/cp_0403_printerpressinterface:13:DefaultText"
+msgid "[Install Rollers]"
+msgstr ""
+
+#: conversations/04_monarch/0420/cp_0403_printerpressinterface:19
+msgctxt "conversations/04_monarch/0420/cp_0403_printerpressinterface:19:DefaultText"
+msgid "Terra One Publications\n"
+"A subsidiary of Universal Defense Logistics\n"
+"============================\n"
+"Printing Press #6\n"
+"============================\n"
+""
+msgstr ""
+
+#: conversations/04_monarch/0420/cp_0403_printerpressinterface:20
+msgctxt "conversations/04_monarch/0420/cp_0403_printerpressinterface:20:DefaultText"
+msgid "Terra One Publications\n"
+"A subsidiary of Universal Defense Logistics\n"
+"============================\n"
+"Printing Press #6\n"
+"============================\n"
+"Error: Printer is currently inoperable."
+msgstr ""
+
+#: conversations/04_monarch/0420/cp_0403_printerpressinterface:21
+msgctxt "conversations/04_monarch/0420/cp_0403_printerpressinterface:21:DefaultText"
+msgid "Terra One Publications\n"
+"A subsidiary of Universal Defense Logistics\n"
+"============================\n"
+"Printing Press #6\n"
+"============================\n"
+"New equipment detected. System must restart for alignment. Please wait...\n"
+"\n"
+"...\n"
+"...\n"
+"\n"
+"System restarted. Equipment alignment successful. Press #6 is now operational."
+msgstr ""
+
+#: conversations/04_monarch/0420/cp_0403_printerpressinterface:24
+msgctxt "conversations/04_monarch/0420/cp_0403_printerpressinterface:24:DefaultText"
+msgid "[Exit]"
+msgstr ""
+
+#: conversations/04_monarch/0420/cp_0403_printerpressinterface:25
+msgctxt "conversations/04_monarch/0420/cp_0403_printerpressinterface:25:DefaultText"
+msgid "[Exit]"
+msgstr ""

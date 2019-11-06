@@ -1,0 +1,141 @@
+#: conversations/00_emerald_vale/00_cp_town_ext_silas_terminal:1
+msgctxt "conversations/00_emerald_vale/00_cp_town_ext_silas_terminal:1:DefaultText"
+msgid "Edgewater Saltuna Cannery\r\n"
+"\r\n"
+"A Spacer's Choice Property\r\n"
+"========================\r\n"
+"\r\n"
+"Terminal Access\r\n"
+"\r\n"
+"Welcome, Junior Inhumer!"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cp_town_ext_silas_terminal:2
+msgctxt "conversations/00_emerald_vale/00_cp_town_ext_silas_terminal:2:DefaultText"
+msgid "[Messages]"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cp_town_ext_silas_terminal:3
+msgctxt "conversations/00_emerald_vale/00_cp_town_ext_silas_terminal:3:DefaultText"
+msgid "[Inventory Logs]"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cp_town_ext_silas_terminal:4
+msgctxt "conversations/00_emerald_vale/00_cp_town_ext_silas_terminal:4:DefaultText"
+msgid "[Exit]"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cp_town_ext_silas_terminal:5
+msgctxt "conversations/00_emerald_vale/00_cp_town_ext_silas_terminal:5:DefaultText"
+msgid "Edgewater Saltuna Cannery\r\n"
+"\r\n"
+"A Spacer's Choice Property\r\n"
+"========================\r\n"
+"\r\n"
+"Inventory Logs"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cp_town_ext_silas_terminal:6
+msgctxt "conversations/00_emerald_vale/00_cp_town_ext_silas_terminal:6:DefaultText"
+msgid "Edgewater Saltuna Cannery\r\n"
+"\r\n"
+"A Spacer's Choice Property\r\n"
+"========================\r\n"
+"\r\n"
+"Messages"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cp_town_ext_silas_terminal:7
+msgctxt "conversations/00_emerald_vale/00_cp_town_ext_silas_terminal:7:DefaultText"
+msgid "[FROM: Inhumer's Association]"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cp_town_ext_silas_terminal:8
+msgctxt "conversations/00_emerald_vale/00_cp_town_ext_silas_terminal:8:DefaultText"
+msgid "[Return to Root]"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cp_town_ext_silas_terminal:9
+msgctxt "conversations/00_emerald_vale/00_cp_town_ext_silas_terminal:9:DefaultText"
+msgid "[Exit]"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cp_town_ext_silas_terminal:10
+msgctxt "conversations/00_emerald_vale/00_cp_town_ext_silas_terminal:10:DefaultText"
+msgid "Edgewater Saltuna Cannery\r\n"
+"\r\n"
+"A Spacer's Choice Property\r\n"
+"========================\r\n"
+"\r\n"
+"FROM: Inhumer's Association\r\n"
+"TO: Spacer's Choice Junior Inhumer - Emerald Vale Division\r\n"
+"SUBJECT: A Special Offer!\r\n"
+"\r\n"
+"Dear Reader,\r\n"
+"\r\n"
+"Your subscription to the Inhumer's Association Newsletter has expired. We'd like to invite you to renew your subscription. Act now, and we'll throw in a copy of our newest publication: Shovels Gazette and Quarterly!"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cp_town_ext_silas_terminal:11
+msgctxt "conversations/00_emerald_vale/00_cp_town_ext_silas_terminal:11:DefaultText"
+msgid "[Burial Invoice]"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cp_town_ext_silas_terminal:12
+msgctxt "conversations/00_emerald_vale/00_cp_town_ext_silas_terminal:12:DefaultText"
+msgid "Edgewater Saltuna Cannery\r\n"
+"\r\n"
+"A Spacer's Choice Property\r\n"
+"========================\r\n"
+"\r\n"
+"BURIAL INVOICE\r\n"
+"\r\n"
+"NAME: Theodore Granger\r\n"
+"CAUSE OF EXPIRATION: Industrial Accident\r\n"
+"BURIAL STATUS: Successfully interred in gravesite 13-F\r\n"
+"GRAVESITE FEES: Paid and accounted\r\n"
+"INHUMER'S ADDENDUM: Teddy's corpse was missing a hand. Deducted five bits from gravesite fee, because I'm a kindly fellow."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cp_town_ext_silas_terminal:18
+msgctxt "conversations/00_emerald_vale/00_cp_town_ext_silas_terminal:18:DefaultText"
+msgid "[FROM: Spacer's Choice Human Resources]"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cp_town_ext_silas_terminal:19
+msgctxt "conversations/00_emerald_vale/00_cp_town_ext_silas_terminal:19:DefaultText"
+msgid "Edgewater Saltuna Cannery\r\n"
+"\r\n"
+"A Spacer's Choice Property\r\n"
+"========================\r\n"
+"\r\n"
+"FROM: Spacer's Choice Human Resources\r\n"
+"TO: Spacer's Choice Junior Inhumer - Emerald Vale Division\r\n"
+"SUBJECT: Official Advertisement Text\r\n"
+"\r\n"
+"Edgewater Cemetery is a property of the Spacer's Choice company. The Spacer's Choice family takes care of its own, from the cradle to the grave.\r\n"
+"\r\n"
+"Gravesite plots and headstones are provided by Spacer's Choice at an affordable rate. \r\n"
+"\r\n"
+"- Comfortable, spacious plots\r\n"
+"- Custom engraved headstones and monograms\r\n"
+"- Complimentary eulogy courtesy of the Order of Scientific Inquiry\r\n"
+"- Let your spirit rest in the privacy of a Spacer's Choice brand gravesite"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cp_town_ext_silas_terminal:20
+msgctxt "conversations/00_emerald_vale/00_cp_town_ext_silas_terminal:20:DefaultText"
+msgid "Edgewater Saltuna Cannery\r\n"
+"\r\n"
+"A Spacer's Choice Property\r\n"
+"========================\r\n"
+"\r\n"
+"Burial Invoice\r\n"
+"\r\n"
+"PASSWORD REQUIRED"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cp_town_ext_silas_terminal:21
+msgctxt "conversations/00_emerald_vale/00_cp_town_ext_silas_terminal:21:DefaultText"
+msgid "[Bypass]"
+msgstr ""

@@ -1,0 +1,133 @@
+#: conversations/01_groundbreaker/01_cp_docking_customs_arrival_terminal:1
+msgctxt "conversations/01_groundbreaker/01_cp_docking_customs_arrival_terminal:1:DefaultText"
+msgid "Docking Bay Arrivals Terminal\r\n"
+"========================\r\n"
+"\r\n"
+"Main menu"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_docking_customs_arrival_terminal:2
+msgctxt "conversations/01_groundbreaker/01_cp_docking_customs_arrival_terminal:2:DefaultText"
+msgid "[Records]"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_docking_customs_arrival_terminal:3
+msgctxt "conversations/01_groundbreaker/01_cp_docking_customs_arrival_terminal:3:DefaultText"
+msgid "[Messages]"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_docking_customs_arrival_terminal:4
+msgctxt "conversations/01_groundbreaker/01_cp_docking_customs_arrival_terminal:4:DefaultText"
+msgid "[Exit]"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_docking_customs_arrival_terminal:5
+msgctxt "conversations/01_groundbreaker/01_cp_docking_customs_arrival_terminal:5:DefaultText"
+msgid "Docking Bay Arrivals Terminal\r\n"
+"========================\r\n"
+"\r\n"
+"Records menu"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_docking_customs_arrival_terminal:6
+msgctxt "conversations/01_groundbreaker/01_cp_docking_customs_arrival_terminal:6:DefaultText"
+msgid "[Arrivals]"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_docking_customs_arrival_terminal:7
+msgctxt "conversations/01_groundbreaker/01_cp_docking_customs_arrival_terminal:7:DefaultText"
+msgid "[Departures]"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_docking_customs_arrival_terminal:8
+msgctxt "conversations/01_groundbreaker/01_cp_docking_customs_arrival_terminal:8:DefaultText"
+msgid "[Return to Root]"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_docking_customs_arrival_terminal:9
+msgctxt "conversations/01_groundbreaker/01_cp_docking_customs_arrival_terminal:9:DefaultText"
+msgid "Docking Bay Arrivals Terminal\r\n"
+"========================\r\n"
+"\r\n"
+"-Cleo freighter, hauling Tobaccorn (dues paid).\r\n"
+"\r\n"
+"-Rizzo freighter, hauling Purpleberry everything (dues paid).\r\n"
+"\r\n"
+"-Freelancer, possibly SubLight (dues paid).\r\n"
+"\r\n"
+"-Freelancer, definitely SubLight (dues waived).\r\n"
+"\r\n"
+"-Unreliable, business unknown (Impounded. Hawthorne's ship, but no Hawthorne. Wonder what happened there)."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_docking_customs_arrival_terminal:10
+msgctxt "conversations/01_groundbreaker/01_cp_docking_customs_arrival_terminal:10:DefaultText"
+msgid "Docking Bay Arrivals Terminal\r\n"
+"========================\r\n"
+"\r\n"
+"-Freelancer, SubLight. \r\n"
+"\r\n"
+"-Freelancer, none (deadbeat at the Rest–N–Go insisted once again that he's part of the crew, but they acted like they didn't know him).\r\n"
+"\r\n"
+"-Spacer's Choice freighter, delivered Callahan's new mask."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_docking_customs_arrival_terminal:11
+msgctxt "conversations/01_groundbreaker/01_cp_docking_customs_arrival_terminal:11:DefaultText"
+msgid "Docking Bay Arrivals Terminal\r\n"
+"========================\r\n"
+"\r\n"
+"Messages menu"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_docking_customs_arrival_terminal:12
+msgctxt "conversations/01_groundbreaker/01_cp_docking_customs_arrival_terminal:12:DefaultText"
+msgid "[FROM: GB_Security, SUBJECT: These conditions...]"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_docking_customs_arrival_terminal:13
+msgctxt "conversations/01_groundbreaker/01_cp_docking_customs_arrival_terminal:13:DefaultText"
+msgid "[FROM: GB_Security, SUBJECT: Harassment]"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_docking_customs_arrival_terminal:14
+msgctxt "conversations/01_groundbreaker/01_cp_docking_customs_arrival_terminal:14:DefaultText"
+msgid "Docking Bay Arrivals Terminal\r\n"
+"========================\r\n"
+"\r\n"
+"TO: Dissatisfied_User70\r\n"
+"FROM: GB_Security\r\n"
+"SUBJECT: Re: These conditions...\r\n"
+"\r\n"
+"This is a joke, right? I'm forwarding this around the station, and no one thinks you're real. \r\n"
+"\r\n"
+"And if you are, welcome to Groundbreaker, asshole.\r\n"
+"\r\n"
+"TO: GB_Security\r\n"
+"FROM: Dissatisfied_User70\r\n"
+"SUBJECT: These conditions...\r\n"
+"\r\n"
+"...Aren't fit for cystypigs. You honestly expect me to share a berth with some junker flown by a freelancer? I am a company man, and I demand COMPANY ACCOMMODATIONS!!! Auntie Cleo would give you such a withering glare if she saw how you treated her two-time Employee of the Month (Yes, that is me).\r\n"
+"\r\n"
+"You signed a Social Contract when you gave me clearance to land. I ask for what is mine by right - room to breathe, a heated berth so I can walk around barefoot, and service with a smile. You've given me one out of three.\r\n"
+"\r\n"
+"I'll give you until I hit \"Send\" to rectify this error. "
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_docking_customs_arrival_terminal:15
+msgctxt "conversations/01_groundbreaker/01_cp_docking_customs_arrival_terminal:15:DefaultText"
+msgid "Docking Bay Arrivals Terminal\r\n"
+"========================\r\n"
+"\r\n"
+"FROM: GB_Security\r\n"
+"TO: Wild_Cat\r\n"
+"SUBJECT: Re: Harassment\r\n"
+"\r\n"
+"Don't bother. We're on our way. \r\n"
+"\r\n"
+"FROM: Wild_Cat\r\n"
+"TO: GB_Security\r\n"
+"SUBJECT: Harassment\r\n"
+"\r\n"
+"Hey, I landed like fifteen minutes ago and this crazy guy with no shoes on has been throwing shit at my rig. Like actual shit. Can I open fire or what?"
+msgstr ""

@@ -1,0 +1,125 @@
+#: conversations/02_terra2/0231_bureau/0231_cp_chemicals:45
+msgctxt "conversations/02_terra2/0231_bureau/0231_cp_chemicals:45:DefaultText"
+msgid "Ministry of Accuracy and Morale\n"
+"========================\n"
+"Welcome to the Human Experimentation Station of the Ministry of Accuracy and Morale. \r\n"
+"\r\n"
+"Human testing is a required step of any new product or process in order to ensure accuracy. Please be sure to document the results of all tests thoroughly to save the expense of additional trials."
+msgstr ""
+
+#: conversations/02_terra2/0231_bureau/0231_cp_chemicals:46
+msgctxt "conversations/02_terra2/0231_bureau/0231_cp_chemicals:46:DefaultText"
+msgid "[Transfer Dimethyl Sulfoxide to Canister]"
+msgstr ""
+
+#: conversations/02_terra2/0231_bureau/0231_cp_chemicals:49
+msgctxt "conversations/02_terra2/0231_bureau/0231_cp_chemicals:49:DefaultText"
+msgid "Warning!\r\n"
+"\r\n"
+"This procedure may result in the invalidation of experiment results and the death of human test subjects."
+msgstr ""
+
+#: conversations/02_terra2/0231_bureau/0231_cp_chemicals:50
+msgctxt "conversations/02_terra2/0231_bureau/0231_cp_chemicals:50:DefaultText"
+msgid "[Continue]"
+msgstr ""
+
+#: conversations/02_terra2/0231_bureau/0231_cp_chemicals:51
+msgctxt "conversations/02_terra2/0231_bureau/0231_cp_chemicals:51:DefaultText"
+msgid "Reducing the dimethyl sulfoxide concentration to 0% will result in the cancellation of the experiment and the loss of associated data. \r\n"
+"\r\n"
+"Experimental integrity and test subject vitality can be maintained by leaving a 73.629% dimethyl sulfoxide concentration in circulation."
+msgstr ""
+
+#: conversations/02_terra2/0231_bureau/0231_cp_chemicals:52
+msgctxt "conversations/02_terra2/0231_bureau/0231_cp_chemicals:52:DefaultText"
+msgid "[Transfer 100% Dimethyl Sulfoxide]"
+msgstr ""
+
+#: conversations/02_terra2/0231_bureau/0231_cp_chemicals:53
+msgctxt "conversations/02_terra2/0231_bureau/0231_cp_chemicals:53:DefaultText"
+msgid "Calibrating sensors...\r\n"
+"\r\n"
+"Checking dimethyl sulfoxide levels...\r\n"
+"\r\n"
+"Transferring to canister...\r\n"
+"\r\n"
+"Transfer complete."
+msgstr ""
+
+#: conversations/02_terra2/0231_bureau/0231_cp_chemicals:54
+msgctxt "conversations/02_terra2/0231_bureau/0231_cp_chemicals:54:DefaultText"
+msgid "[Return to Root]"
+msgstr ""
+
+#: conversations/02_terra2/0231_bureau/0231_cp_chemicals:57
+msgctxt "conversations/02_terra2/0231_bureau/0231_cp_chemicals:57:DefaultText"
+msgid "[Transfer 26.371% Dimethyl Sulfoxide]"
+msgstr ""
+
+#: conversations/02_terra2/0231_bureau/0231_cp_chemicals:58
+msgctxt "conversations/02_terra2/0231_bureau/0231_cp_chemicals:58:DefaultText"
+msgid "Proceeding to withdraw the maximum non-lethal quantity of chemicals from the experiment.\r\n"
+"\r\n"
+"Calibrating sensors...\r\n"
+"\r\n"
+"Checking dimethyl sulfoxide levels...\r\n"
+"\r\n"
+"Transferring to canister..."
+msgstr ""
+
+#: conversations/02_terra2/0231_bureau/0231_cp_chemicals:59
+msgctxt "conversations/02_terra2/0231_bureau/0231_cp_chemicals:59:DefaultText"
+msgid "[Experiment Details]"
+msgstr ""
+
+#: conversations/02_terra2/0231_bureau/0231_cp_chemicals:60
+msgctxt "conversations/02_terra2/0231_bureau/0231_cp_chemicals:60:DefaultText"
+msgid "Experiment authorization: ROCKWELL, CHARLES \r\n"
+"\r\n"
+"Project: Lifetime Employment Program.\r\n"
+"\r\n"
+"Objective: To repeatedly revive human subjects from extended hibernation without causing the death of the human subject and the loss of associated productivity\r\n"
+"\r\n"
+"Results: Inconclusive\r\n"
+"\r\n"
+"Prognosis: Cautiously optimistic"
+msgstr ""
+
+#: conversations/02_terra2/0231_bureau/0231_cp_chemicals:61
+msgctxt "conversations/02_terra2/0231_bureau/0231_cp_chemicals:61:DefaultText"
+msgid "[Further Information]"
+msgstr ""
+
+#: conversations/02_terra2/0231_bureau/0231_cp_chemicals:62
+msgctxt "conversations/02_terra2/0231_bureau/0231_cp_chemicals:62:DefaultText"
+msgid "Sudden withdrawal from dimethyl sulfoxide is highly lethal and will result in the cancellation of any in-progress experiments.\r\n"
+"\r\n"
+"Experimental integrity and test subject vitality can be maintained by leaving a 73.629%  dimethyl sulfoxide concentration in circulation."
+msgstr ""
+
+#: conversations/02_terra2/0231_bureau/0231_cp_chemicals:63
+msgctxt "conversations/02_terra2/0231_bureau/0231_cp_chemicals:63:DefaultText"
+msgid "[View Lab Notes]"
+msgstr ""
+
+#: conversations/02_terra2/0231_bureau/0231_cp_chemicals:64
+msgctxt "conversations/02_terra2/0231_bureau/0231_cp_chemicals:64:DefaultText"
+msgid "Live Human Trials\r\n"
+"========================\r\n"
+"The addition of dimethyl sulfoxide to the current round of tests has resulted in some improvements - subjects are showing improved circulation and increased neural activity.\r\n"
+"\r\n"
+"However, our formula is still missing something - we are still unable to fully revive subjects from long-term hibernation, and removing their supply of dimethyl sulfoxide results in their rather excruciating death. The problem is compounded when we consider reviving and freezing subjects multiple times over their lives.\r\n"
+"\r\n"
+"To make matters worse, we've had a hard time securing additional dimethyl sulfoxide. We may have to make do with this batch."
+msgstr ""
+
+#: conversations/02_terra2/0231_bureau/0231_cp_chemicals:65
+msgctxt "conversations/02_terra2/0231_bureau/0231_cp_chemicals:65:DefaultText"
+msgid "[Return to Root]"
+msgstr ""
+
+#: conversations/02_terra2/0231_bureau/0231_cp_chemicals:70
+msgctxt "conversations/02_terra2/0231_bureau/0231_cp_chemicals:70:DefaultText"
+msgid "[Exit]"
+msgstr ""

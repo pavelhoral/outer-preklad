@@ -1,0 +1,261 @@
+#: conversations/08_roseway/08_cp_storage_facility_foremans_office_terminal:2
+msgctxt "conversations/08_roseway/08_cp_storage_facility_foremans_office_terminal:2:DefaultText"
+msgid "[Messages]"
+msgstr ""
+
+#: conversations/08_roseway/08_cp_storage_facility_foremans_office_terminal:3
+msgctxt "conversations/08_roseway/08_cp_storage_facility_foremans_office_terminal:3:DefaultText"
+msgid "[Inventory Logs]"
+msgstr ""
+
+#: conversations/08_roseway/08_cp_storage_facility_foremans_office_terminal:4
+msgctxt "conversations/08_roseway/08_cp_storage_facility_foremans_office_terminal:4:DefaultText"
+msgid "[Exit]"
+msgstr ""
+
+#: conversations/08_roseway/08_cp_storage_facility_foremans_office_terminal:5
+msgctxt "conversations/08_roseway/08_cp_storage_facility_foremans_office_terminal:5:DefaultText"
+msgid "MESSAGES\n"
+"------------------------------\n"
+"Employee ID: 832420\n"
+"Employee Name: Volkova, Maria\n"
+"Project: Administrative Support Staff\n"
+"\n"
+"[1. From: Volkova, M.]\n"
+"[2. From: Volkova, M.]\n"
+"[3. From: Volkova, M.]\n"
+"[4. From: Porter, R.] [NEW]"
+msgstr ""
+
+#: conversations/08_roseway/08_cp_storage_facility_foremans_office_terminal:6
+msgctxt "conversations/08_roseway/08_cp_storage_facility_foremans_office_terminal:6:DefaultText"
+msgid "[FROM: M. Volkova]"
+msgstr ""
+
+#: conversations/08_roseway/08_cp_storage_facility_foremans_office_terminal:7
+msgctxt "conversations/08_roseway/08_cp_storage_facility_foremans_office_terminal:7:DefaultText"
+msgid "[FROM: M. Volkova]"
+msgstr ""
+
+#: conversations/08_roseway/08_cp_storage_facility_foremans_office_terminal:8
+msgctxt "conversations/08_roseway/08_cp_storage_facility_foremans_office_terminal:8:DefaultText"
+msgid "[FROM: M. Volkova]"
+msgstr ""
+
+#: conversations/08_roseway/08_cp_storage_facility_foremans_office_terminal:9
+msgctxt "conversations/08_roseway/08_cp_storage_facility_foremans_office_terminal:9:DefaultText"
+msgid "[Exit]"
+msgstr ""
+
+#: conversations/08_roseway/08_cp_storage_facility_foremans_office_terminal:10
+msgctxt "conversations/08_roseway/08_cp_storage_facility_foremans_office_terminal:10:DefaultText"
+msgid "INVENTORY LOGS\r\n"
+"------------------------------\r\n"
+"Employee ID: 832420\r\n"
+"Employee Name: Volkova, Maria\r\n"
+"Project: Administrative Support Staff\r\n"
+"\r\n"
+"[1. Intake: 00473]\r\n"
+"[2. Intake: 00474]\r\n"
+"[3. Intake: 00475]"
+msgstr ""
+
+#: conversations/08_roseway/08_cp_storage_facility_foremans_office_terminal:11
+msgctxt "conversations/08_roseway/08_cp_storage_facility_foremans_office_terminal:11:DefaultText"
+msgid "[Intake: 00473]"
+msgstr ""
+
+#: conversations/08_roseway/08_cp_storage_facility_foremans_office_terminal:12
+msgctxt "conversations/08_roseway/08_cp_storage_facility_foremans_office_terminal:12:DefaultText"
+msgid "[Intake: 00475]"
+msgstr ""
+
+#: conversations/08_roseway/08_cp_storage_facility_foremans_office_terminal:13
+msgctxt "conversations/08_roseway/08_cp_storage_facility_foremans_office_terminal:13:DefaultText"
+msgid "[Intake: 00474]"
+msgstr ""
+
+#: conversations/08_roseway/08_cp_storage_facility_foremans_office_terminal:14
+msgctxt "conversations/08_roseway/08_cp_storage_facility_foremans_office_terminal:14:DefaultText"
+msgid "[Exit]"
+msgstr ""
+
+#: conversations/08_roseway/08_cp_storage_facility_foremans_office_terminal:15
+msgctxt "conversations/08_roseway/08_cp_storage_facility_foremans_office_terminal:15:DefaultText"
+msgid "Dr. Crane,\r\n"
+"\r\n"
+"Pursuant to our conversations of the previous week, re: \"Why is the ammunition storage locker larger than my bathroom?\" I have dispatched Sullivan with the triplicate paperwork you requested.\r\n"
+"\r\n"
+"As a reminder, I am currently the sole Property Manager for all three facilities, and I remain the only person required to sleep on-site rather than in Roseway. According to Human Resources standards, my position entitles me to refreshment facilities of not less than four (4) square meters.\r\n"
+"\r\n"
+"I spent all yesterday cleaning a man's arm out of a meat grinder, and I don't even have a damn shower out here. Fix it, or I'm going to start breaking into your room and showering there. Then YOU can experience the joy of cleaning gristle out of your drain.\r\n"
+"\r\n"
+"Remember, I have entire crates of mag-picks here. You KNOW I can do it.\r\n"
+"\r\n"
+"RESPECTFULLY,\r\n"
+"- Maria Volkova"
+msgstr ""
+
+#: conversations/08_roseway/08_cp_storage_facility_foremans_office_terminal:16
+msgctxt "conversations/08_roseway/08_cp_storage_facility_foremans_office_terminal:16:DefaultText"
+msgid "Reuben,\n"
+"\n"
+"I'm starting to run low on caffeine supplements. Any chance you could bring some by? I've had an urge to rearrange my storeroom all day. Maybe you could help with that again?\n"
+"\n"
+"Or not?\n"
+"\n"
+"We could hike to the terraformer. It's been a while since last time. Wind in my hair. Just quiet. I wouldn't mind that. Feels like all I do anymore is mop up viscera or sit here twiddling my thumbs. \n"
+"\n"
+"I don't know. You tell me.\n"
+"\n"
+"- Masha"
+msgstr ""
+
+#: conversations/08_roseway/08_cp_storage_facility_foremans_office_terminal:17
+msgctxt "conversations/08_roseway/08_cp_storage_facility_foremans_office_terminal:17:DefaultText"
+msgid "Anton,\n"
+"\n"
+"Haven't heard back from you re: the paperwork. There was a Receipt of Acknowledgment right on top. I expect you to sign and return it forthwith.\n"
+"\n"
+"While I have your eye, have you heard from Porter? Doesn't seem like anyone's responding to my messages today.\n"
+"\n"
+"- M"
+msgstr ""
+
+#: conversations/08_roseway/08_cp_storage_facility_foremans_office_terminal:18
+msgctxt "conversations/08_roseway/08_cp_storage_facility_foremans_office_terminal:18:DefaultText"
+msgid "00473: Project Winterblue Mount, Iteration 37\r\n"
+"Logged by Crane, A.\r\n"
+"\r\n"
+"Notes: The usual issue. 5% incidence of side effect, rising to 15% in 60+ age bracket."
+msgstr ""
+
+#: conversations/08_roseway/08_cp_storage_facility_foremans_office_terminal:19
+msgctxt "conversations/08_roseway/08_cp_storage_facility_foremans_office_terminal:19:DefaultText"
+msgid "00475: Cigarette Ignition Device, Palm-Sized\r\n"
+"Logged by Shaw, O.\r\n"
+"\r\n"
+"Inventory logged for personal use only. Requested a secured workroom to use in my off hours. Assigned a bench in the mechanical maintenance room of the armory. A splendid bonus."
+msgstr ""
+
+#: conversations/08_roseway/08_cp_storage_facility_foremans_office_terminal:20
+msgctxt "conversations/08_roseway/08_cp_storage_facility_foremans_office_terminal:20:DefaultText"
+msgid "00474: Mechanical Sentry Parts, Misc.\r\n"
+"Logged by Porter, R.\r\n"
+"\r\n"
+"Notes: Recovered from Doc Orson. Dumped them back in the parts locker."
+msgstr ""
+
+#: conversations/08_roseway/08_cp_storage_facility_foremans_office_terminal:24
+msgctxt "conversations/08_roseway/08_cp_storage_facility_foremans_office_terminal:24:DefaultText"
+msgid "[FROM: R. Porter] [NEW]"
+msgstr ""
+
+#: conversations/08_roseway/08_cp_storage_facility_foremans_office_terminal:25
+msgctxt "conversations/08_roseway/08_cp_storage_facility_foremans_office_terminal:25:DefaultText"
+msgid "Things are hairy out here. Lock the doors, keep your head down.\r\n"
+"\r\n"
+"Stay safe, Mashenka. I'll come for you."
+msgstr ""
+
+#: conversations/08_roseway/08_cp_storage_facility_foremans_office_terminal:28
+msgctxt "conversations/08_roseway/08_cp_storage_facility_foremans_office_terminal:28:DefaultText"
+msgid "Argos Security Systems\n"
+"---------------------------------\n"
+"SECURITY LOCKDOWN\n"
+"\n"
+"All personnel please report to assigned workstations. Report suspicious activity to the nearest Site Safety Engineer.\n"
+"---------------------------------\n"
+"Auntie Cleo Auntie-Biotics™: served fresh from our petri dishes to YOUR personal crevices."
+msgstr ""
+
+#: conversations/08_roseway/08_cp_storage_facility_foremans_office_terminal:29
+msgctxt "conversations/08_roseway/08_cp_storage_facility_foremans_office_terminal:29:DefaultText"
+msgid "Argos Security Systems\r\n"
+"---------------------------------\r\n"
+"SECURITY LOCKDOWN\r\n"
+"\r\n"
+"All personnel please report to assigned workstations. Report suspicious activity to the nearest Site Safety Engineer.\r\n"
+"---------------------------------\r\n"
+"\"Auntie Cleo's - Better than Nature!\"™"
+msgstr ""
+
+#: conversations/08_roseway/08_cp_storage_facility_foremans_office_terminal:30
+msgctxt "conversations/08_roseway/08_cp_storage_facility_foremans_office_terminal:30:DefaultText"
+msgid "Argos Security Systems\r\n"
+"---------------------------------\r\n"
+"SECURITY LOCKDOWN\r\n"
+"\r\n"
+"All personnel please report to assigned workstations. Report suspicious activity to the nearest Site Safety Engineer.\r\n"
+"---------------------------------\r\n"
+"Feeling irate? Try Auntie Cleo's Nar-Choc-Lectic™ bars. Now with 3% real CCN76."
+msgstr ""
+
+#: conversations/08_roseway/08_cp_storage_facility_foremans_office_terminal:31
+msgctxt "conversations/08_roseway/08_cp_storage_facility_foremans_office_terminal:31:DefaultText"
+msgid "Argos Security Systems\r\n"
+"---------------------------------\r\n"
+"SECURITY LOCKDOWN\r\n"
+"\r\n"
+"All personnel please report to assigned workstations. Report suspicious activity to the nearest Site Safety Engineer.\r\n"
+"---------------------------------\r\n"
+"Have you brushed your teeth with Auntie's Blinding White Paste™ today?"
+msgstr ""
+
+#: conversations/08_roseway/08_cp_storage_facility_foremans_office_terminal:32
+msgctxt "conversations/08_roseway/08_cp_storage_facility_foremans_office_terminal:32:DefaultText"
+msgid "Argos Security Systems\r\n"
+"---------------------------------\r\n"
+"SECURITY LOCKDOWN\r\n"
+"\r\n"
+"All personnel please report to assigned workstations. Report suspicious activity to the nearest Site Safety Engineer.\r\n"
+"---------------------------------\r\n"
+"Parents who buy Auntie Cleo should have children who buy Auntie Cleo."
+msgstr ""
+
+#: conversations/08_roseway/08_cp_storage_facility_foremans_office_terminal:33
+msgctxt "conversations/08_roseway/08_cp_storage_facility_foremans_office_terminal:33:DefaultText"
+msgid "Argos Security Systems\r\n"
+"---------------------------------\r\n"
+"SECURITY LOCKDOWN\r\n"
+"\r\n"
+"All personnel please report to assigned workstations. Report suspicious activity to the nearest Site Safety Engineer.\r\n"
+"---------------------------------\r\n"
+"Tired of itchy acid burns? Try Auntie Cleo's artisanal boarst-scented moisturizing cream."
+msgstr ""
+
+#: conversations/08_roseway/08_cp_storage_facility_foremans_office_terminal:34
+msgctxt "conversations/08_roseway/08_cp_storage_facility_foremans_office_terminal:34:DefaultText"
+msgid "Argos Security Systems\r\n"
+"---------------------------------\r\n"
+"SECURITY LOCKDOWN\r\n"
+"\r\n"
+"All personnel please report to assigned workstations. Report suspicious activity to the nearest Site Safety Engineer.\r\n"
+"---------------------------------\r\n"
+"Try Auntie Cleo's Handi-Off™, the surgical stain remover of choice."
+msgstr ""
+
+#: conversations/08_roseway/08_cp_storage_facility_foremans_office_terminal:35
+msgctxt "conversations/08_roseway/08_cp_storage_facility_foremans_office_terminal:35:DefaultText"
+msgid "Argos Security Systems\r\n"
+"---------------------------------\r\n"
+"SECURITY LOCKDOWN\r\n"
+"\r\n"
+"All personnel please report to assigned workstations. Report suspicious activity to the nearest Site Safety Engineer.\r\n"
+"---------------------------------\r\n"
+"Unsightly bloodstains? Consider Auntie Cleo's laundry soap. Now with a refreshing lemon zing scent."
+msgstr ""
+
+#: conversations/08_roseway/08_cp_storage_facility_foremans_office_terminal:36
+msgctxt "conversations/08_roseway/08_cp_storage_facility_foremans_office_terminal:36:DefaultText"
+msgid "MESSAGES\n"
+"------------------------------\n"
+"Employee ID: 832420\n"
+"Employee Name: Volkova, Maria\n"
+"Project: Administrative Support Staff\n"
+"\n"
+"[1. From: Volkova, M.]\n"
+"[2. From: Volkova, M.]\n"
+"[3. From: Volkova, M.]\n"
+"[4. From: Porter, R.]"
+msgstr ""

@@ -1,0 +1,155 @@
+#: conversations/10_scylla/1002_ice_palace/1002_cp_security_botcontrol:3
+msgctxt "conversations/10_scylla/1002_ice_palace/1002_cp_security_botcontrol:3:DefaultText"
+msgid "Lab 1084: Station Security\r\n"
+"===================\r\n"
+"\r\n"
+"Automechanical Charging protocol initiated. \r\n"
+"\r\n"
+"Recall in process...\r\n"
+"\r\n"
+"Recall successful. "
+msgstr ""
+
+#: conversations/10_scylla/1002_ice_palace/1002_cp_security_botcontrol:5
+msgctxt "conversations/10_scylla/1002_ice_palace/1002_cp_security_botcontrol:5:DefaultText"
+msgid "Lab 1084: Station Security\r\n"
+"===================\r\n"
+"\r\n"
+"Priority user: Kimball, I. \r\n"
+"\r\n"
+"Main menu"
+msgstr ""
+
+#: conversations/10_scylla/1002_ice_palace/1002_cp_security_botcontrol:6
+msgctxt "conversations/10_scylla/1002_ice_palace/1002_cp_security_botcontrol:6:DefaultText"
+msgid "[Messages]"
+msgstr ""
+
+#: conversations/10_scylla/1002_ice_palace/1002_cp_security_botcontrol:7
+msgctxt "conversations/10_scylla/1002_ice_palace/1002_cp_security_botcontrol:7:DefaultText"
+msgid "[Security Routines]"
+msgstr ""
+
+#: conversations/10_scylla/1002_ice_palace/1002_cp_security_botcontrol:9
+msgctxt "conversations/10_scylla/1002_ice_palace/1002_cp_security_botcontrol:9:DefaultText"
+msgid "[Exit]"
+msgstr ""
+
+#: conversations/10_scylla/1002_ice_palace/1002_cp_security_botcontrol:10
+msgctxt "conversations/10_scylla/1002_ice_palace/1002_cp_security_botcontrol:10:DefaultText"
+msgid "Lab 1084: Station Security\r\n"
+"===================\r\n"
+"\r\n"
+"Messages"
+msgstr ""
+
+#: conversations/10_scylla/1002_ice_palace/1002_cp_security_botcontrol:11
+msgctxt "conversations/10_scylla/1002_ice_palace/1002_cp_security_botcontrol:11:DefaultText"
+msgid "Lab 1084: Station Security\r\n"
+"===================\r\n"
+"\r\n"
+"Security routines"
+msgstr ""
+
+#: conversations/10_scylla/1002_ice_palace/1002_cp_security_botcontrol:12
+msgctxt "conversations/10_scylla/1002_ice_palace/1002_cp_security_botcontrol:12:DefaultText"
+msgid "Lab 1084: Station Security\r\n"
+"===================\r\n"
+"\r\n"
+"FROM: Kimball, I\r\n"
+"TO: Kimball, A\r\n"
+"SUBJECT: Bedtime story\r\n"
+"\r\n"
+"Once upon a time there was a princess who trained to be a soldier. While the other princesses got jobs at canneries and counting houses, the soldier squinted down her sights at the firing range and made sure she hit the target every time. \r\n"
+"\r\n"
+"Then one day a Not Very Nice Man offered her a job at an ivory tower, far far away from the kingdom. The princess could provide for her ailing father, her lovely child, and her goofball husband - but she would have to stay locked in the tower until the doctors could find a way out. \r\n"
+"\r\n"
+"Once she thought better of her choices, the princess applied for early dismissal, but no one listened. The End.\r\n"
+"\r\n"
+"I love you, Anjelica. Maybe you can write me a better ending? Give your father a hug and tell him I'm sorry for missing another birthday. \r\n"
+"\r\n"
+"Mom"
+msgstr ""
+
+#: conversations/10_scylla/1002_ice_palace/1002_cp_security_botcontrol:13
+msgctxt "conversations/10_scylla/1002_ice_palace/1002_cp_security_botcontrol:13:DefaultText"
+msgid "[Engage Automechanical Recharge Protocols]"
+msgstr ""
+
+#: conversations/10_scylla/1002_ice_palace/1002_cp_security_botcontrol:14
+msgctxt "conversations/10_scylla/1002_ice_palace/1002_cp_security_botcontrol:14:DefaultText"
+msgid "[Return to Root]"
+msgstr ""
+
+#: conversations/10_scylla/1002_ice_palace/1002_cp_security_botcontrol:25
+msgctxt "conversations/10_scylla/1002_ice_palace/1002_cp_security_botcontrol:25:DefaultText"
+msgid "[TO: REDACTED, SUBJECT: Re: Your concerns]"
+msgstr ""
+
+#: conversations/10_scylla/1002_ice_palace/1002_cp_security_botcontrol:26
+msgctxt "conversations/10_scylla/1002_ice_palace/1002_cp_security_botcontrol:26:DefaultText"
+msgid "[TO: A. Kimball, SUBJECT: Bedtime story] [Draft]"
+msgstr ""
+
+#: conversations/10_scylla/1002_ice_palace/1002_cp_security_botcontrol:27
+msgctxt "conversations/10_scylla/1002_ice_palace/1002_cp_security_botcontrol:27:DefaultText"
+msgid "Lab 1084: Station Security\r\n"
+"===================\n"
+"\n"
+"FROM: Kimball, I\n"
+"TO: REDACTED\n"
+"SUBJECT: Re: Your concerns\n"
+"\n"
+"Of course morale is low. You gave those PhDs tanks of nuclein scrambling gas and no warm bodies to test it on. What did you think would happen?\n"
+"\n"
+"They can test on each other all they want, but no one lays a hand on my squad. I'm installing safeguards in case anyone challenges that decree. \n"
+"\n"
+"Kimball\n"
+"\n"
+"\n"
+"FROM: REDACTED\n"
+"TO: Kimball, I\n"
+"SUBJECT: Your concerns\n"
+"\n"
+"You asked that I reach out. I'm doing so. Is something amiss with the team? How's their morale? Their commitment to the project?"
+msgstr ""
+
+#: conversations/10_scylla/1002_ice_palace/1002_cp_security_botcontrol:28
+msgctxt "conversations/10_scylla/1002_ice_palace/1002_cp_security_botcontrol:28:DefaultText"
+msgid "Lab 1084: Station Security\r\n"
+"===================\r\n"
+"\r\n"
+"ERROR: Unable to access memory cartridge.\r\n"
+"ERROR: Terminal power below 5%. Terminal in maintenance mode.\r\n"
+"\r\n"
+"Restore power supply to station to resume normal terminal operations."
+msgstr ""
+
+#: conversations/10_scylla/1002_ice_palace/1002_cp_security_botcontrol:29
+msgctxt "conversations/10_scylla/1002_ice_palace/1002_cp_security_botcontrol:29:DefaultText"
+msgid "[Engage Automechanical Defense Protocols - Admin Override]"
+msgstr ""
+
+#: conversations/10_scylla/1002_ice_palace/1002_cp_security_botcontrol:30
+msgctxt "conversations/10_scylla/1002_ice_palace/1002_cp_security_botcontrol:30:DefaultText"
+msgid "Lab 1084: Station Security\r\n"
+"===================\r\n"
+"\r\n"
+"Automechanical Defense protocol initiated. \r\n"
+"\r\n"
+"Excluding User <oeitoken>PlayerName</oeitoken> from the target list.\r\n"
+"\r\n"
+"Adding UDL Personnel to the target list.\r\n"
+"\r\n"
+"Attack protocol successfully set. "
+msgstr ""
+
+#: conversations/10_scylla/1002_ice_palace/1002_cp_security_botcontrol:31
+msgctxt "conversations/10_scylla/1002_ice_palace/1002_cp_security_botcontrol:31:DefaultText"
+msgid "[Engage Automechanical Recharge Protocols]"
+msgstr ""
+
+#: conversations/10_scylla/1002_ice_palace/1002_cp_security_botcontrol:32
+msgctxt "conversations/10_scylla/1002_ice_palace/1002_cp_security_botcontrol:32:DefaultText"
+msgid "[Engage Automechanical Defense Protocols - Admin Override]"
+msgstr ""

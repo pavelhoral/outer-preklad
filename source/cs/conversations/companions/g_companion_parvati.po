@@ -1,0 +1,19 @@
+#: conversations/companions/g_companion_parvati:62
+msgctxt "conversations/companions/g_companion_parvati:62:DefaultText"
+msgid "What do you want?"
+msgstr ""
+
+#: conversations/companions/g_companion_parvati:64
+msgctxt "conversations/companions/g_companion_parvati:64:DefaultText"
+msgid "I don't got words for you, sir."
+msgstr ""
+
+#: conversations/companions/g_companion_parvati:64
+msgctxt "conversations/companions/g_companion_parvati:64:FemaleText"
+msgid "I don't got words for you, ma'am."
+msgstr ""
+
+#: conversations/companions/g_companion_parvati:65
+msgctxt "conversations/companions/g_companion_parvati:65:DefaultText"
+msgid "Leave me be."
+msgstr ""

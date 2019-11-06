@@ -1,0 +1,96 @@
+#: quests/00_emeraldvale/sq_0005_bringthomasbooks:0
+msgctxt "quests/00_emeraldvale/sq_0005_bringthomasbooks:0:DefaultText"
+msgid "The Frightened Engineer"
+msgstr ""
+
+#: quests/00_emeraldvale/sq_0005_bringthomasbooks:1
+msgctxt "quests/00_emeraldvale/sq_0005_bringthomasbooks:1:DefaultText"
+msgid "Find the Three Volumes"
+msgstr ""
+
+#: quests/00_emeraldvale/sq_0005_bringthomasbooks:2
+msgctxt "quests/00_emeraldvale/sq_0005_bringthomasbooks:2:DefaultText"
+msgid "Return to Thomas"
+msgstr ""
+
+#: quests/00_emeraldvale/sq_0005_bringthomasbooks:10000
+msgctxt "quests/00_emeraldvale/sq_0005_bringthomasbooks:10000:DefaultText"
+msgid "Thomas Kemp, one of the deserters living with Adelaide in the Botanical Lab, is trying to teach himself engineering. He has asked you to bring him any volumes of \"A Young Spacer's Guide to Mechanical Engineering\" that you find in Emerald Vale."
+msgstr ""
+
+#: quests/00_emeraldvale/sq_0005_bringthomasbooks:10001
+msgctxt "quests/00_emeraldvale/sq_0005_bringthomasbooks:10001:DefaultText"
+msgid "Thomas said he knows that at least one volume of the set is in the local community center, and that another used to be in the town of Edgewater.\r\n"
+"\r\n"
+"He also promised to reward you for any volumes you find, so feel free to return to him with the books as you find them - there's no need to wait until you've found all three."
+msgstr ""
+
+#: quests/00_emeraldvale/sq_0005_bringthomasbooks:10002
+msgctxt "quests/00_emeraldvale/sq_0005_bringthomasbooks:10002:DefaultText"
+msgid "Now that you've found all of the engineering manuals, you should return to Thomas."
+msgstr ""
+
+#: quests/00_emeraldvale/sq_0005_bringthomasbooks:20000
+msgctxt "quests/00_emeraldvale/sq_0005_bringthomasbooks:20000:DefaultText"
+msgid "Parvati mentioned her father reading a volume of \"A Young Spacer's Guide to Mechanical Engineering\" when he was working shifts at the cannery."
+msgstr ""
+
+#: quests/00_emeraldvale/sq_0005_bringthomasbooks:20001
+msgctxt "quests/00_emeraldvale/sq_0005_bringthomasbooks:20001:DefaultText"
+msgid "You found the first volume in the Emerald Vale Community Center."
+msgstr ""
+
+#: quests/00_emeraldvale/sq_0005_bringthomasbooks:20002
+msgctxt "quests/00_emeraldvale/sq_0005_bringthomasbooks:20002:DefaultText"
+msgid "You found the second volume in the Edgewater Cannery."
+msgstr ""
+
+#: quests/00_emeraldvale/sq_0005_bringthomasbooks:20003
+msgctxt "quests/00_emeraldvale/sq_0005_bringthomasbooks:20003:DefaultText"
+msgid "You found the third volume in the Emerald Vale Geothermal Plant."
+msgstr ""
+
+#: quests/00_emeraldvale/sq_0005_bringthomasbooks:20004
+msgctxt "quests/00_emeraldvale/sq_0005_bringthomasbooks:20004:DefaultText"
+msgid "You found a mention on Parvati's father's old terminal that he took a volume of \"A Young Spacer's Guide to Mechanical Engineering\" into the cannery and left it in an unused office."
+msgstr ""
+
+#: quests/00_emeraldvale/sq_0005_bringthomasbooks:20005
+msgctxt "quests/00_emeraldvale/sq_0005_bringthomasbooks:20005:DefaultText"
+msgid "A log on the receptionist's desk of the geothermal plant mentioned that there might be a volume of \"A Young Spacer's Guide to Mechanical Engineering\" in the plant's repair bay."
+msgstr ""
+
+#: quests/00_emeraldvale/sq_0005_bringthomasbooks:20006
+msgctxt "quests/00_emeraldvale/sq_0005_bringthomasbooks:20006:DefaultText"
+msgid "According to a note you found in the repair bay, there's a copy of the manual down in a place called \"the pit.\""
+msgstr ""
+
+#: quests/00_emeraldvale/sq_0005_bringthomasbooks:20007
+msgctxt "quests/00_emeraldvale/sq_0005_bringthomasbooks:20007:DefaultText"
+msgid "Thomas mentioned one of the volumes belonged to Parvati's father. He used to work at the Edgewater cannery."
+msgstr ""
+
+#: quests/00_emeraldvale/sq_0005_bringthomasbooks:30000
+msgctxt "quests/00_emeraldvale/sq_0005_bringthomasbooks:30000:DefaultText"
+msgid "Thomas was overjoyed that you found all three manuals for him, and rewarded you."
+msgstr ""
+
+#: quests/00_emeraldvale/sq_0005_bringthomasbooks:30001
+msgctxt "quests/00_emeraldvale/sq_0005_bringthomasbooks:30001:DefaultText"
+msgid "You killed Thomas, cutting short any chance he had of ever mastering engineering. What a shame."
+msgstr ""
+
+#: quests/00_emeraldvale/sq_0005_bringthomasbooks:30002
+msgctxt "quests/00_emeraldvale/sq_0005_bringthomasbooks:30002:DefaultText"
+msgid "The residents of the Botanical Lab hate you, so there's no point returning those books to Thomas now."
+msgstr ""
+
+#: quests/00_emeraldvale/sq_0005_bringthomasbooks:30003
+msgctxt "quests/00_emeraldvale/sq_0005_bringthomasbooks:30003:DefaultText"
+msgid "The residents of Edgewater all hate you, so Thomas is unlikely to deal with you further."
+msgstr ""
+
+#: quests/00_emeraldvale/sq_0005_bringthomasbooks:40001
+msgctxt "quests/00_emeraldvale/sq_0005_bringthomasbooks:40001:DefaultText"
+msgid "Thomas Kemp, one of the deserters who moved back to Edgewater from the Botanical Lab, is trying to teach himself engineering. He has asked you to bring him any volumes of \"A Young Spacer's Guide to Mechanical Engineering\" that you find in Emerald Vale."
+msgstr ""

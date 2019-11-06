@@ -1,0 +1,74 @@
+#: quests/04_monarch/fq_0403_iconoclastfactionquest_2:0
+msgctxt "quests/04_monarch/fq_0403_iconoclastfactionquest_2:0:DefaultText"
+msgid "Pay for the Printer"
+msgstr ""
+
+#: quests/04_monarch/fq_0403_iconoclastfactionquest_2:4
+msgctxt "quests/04_monarch/fq_0403_iconoclastfactionquest_2:4:DefaultText"
+msgid "Return to Graham"
+msgstr ""
+
+#: quests/04_monarch/fq_0403_iconoclastfactionquest_2:5
+msgctxt "quests/04_monarch/fq_0403_iconoclastfactionquest_2:5:DefaultText"
+msgid "Repair the Printing Press"
+msgstr ""
+
+#: quests/04_monarch/fq_0403_iconoclastfactionquest_2:8
+msgctxt "quests/04_monarch/fq_0403_iconoclastfactionquest_2:8:DefaultText"
+msgid "(Optional) Retrieve Zora's Team"
+msgstr ""
+
+#: quests/04_monarch/fq_0403_iconoclastfactionquest_2:10000
+msgctxt "quests/04_monarch/fq_0403_iconoclastfactionquest_2:10000:DefaultText"
+msgid "Before Graham can spread his message to the rest of the colony, he needs control of an old printing press in the ruins of Stellar Bay. Travel there with the replacement parts you recently obtained and get it back in working order."
+msgstr ""
+
+#: quests/04_monarch/fq_0403_iconoclastfactionquest_2:10004
+msgctxt "quests/04_monarch/fq_0403_iconoclastfactionquest_2:10004:DefaultText"
+msgid "The printing press is operational. Return to Graham with an update."
+msgstr ""
+
+#: quests/04_monarch/fq_0403_iconoclastfactionquest_2:10005
+msgctxt "quests/04_monarch/fq_0403_iconoclastfactionquest_2:10005:DefaultText"
+msgid "Enter Terra One Publications and repair the printing press there."
+msgstr ""
+
+#: quests/04_monarch/fq_0403_iconoclastfactionquest_2:10008
+msgctxt "quests/04_monarch/fq_0403_iconoclastfactionquest_2:10008:DefaultText"
+msgid "(Optional) Retrieve Zora's Team"
+msgstr ""
+
+#: quests/04_monarch/fq_0403_iconoclastfactionquest_2:20000
+msgctxt "quests/04_monarch/fq_0403_iconoclastfactionquest_2:20000:DefaultText"
+msgid "The survivors from Zora's team refuse to leave unless they can get their wounded comrades back on their feet. To do that, they need to retrieve a trauma kit from their fallen medic."
+msgstr ""
+
+#: quests/04_monarch/fq_0403_iconoclastfactionquest_2:20001
+msgctxt "quests/04_monarch/fq_0403_iconoclastfactionquest_2:20001:DefaultText"
+msgid "Return to May and August Van Noy with the trauma kit."
+msgstr ""
+
+#: quests/04_monarch/fq_0403_iconoclastfactionquest_2:20002
+msgctxt "quests/04_monarch/fq_0403_iconoclastfactionquest_2:20002:DefaultText"
+msgid "May and August Van Noy have been killed. Zora's team won't be coming back."
+msgstr ""
+
+#: quests/04_monarch/fq_0403_iconoclastfactionquest_2:20003
+msgctxt "quests/04_monarch/fq_0403_iconoclastfactionquest_2:20003:DefaultText"
+msgid "After how poorly the mission went, the surviving scouts have deserted. They won't be coming back."
+msgstr ""
+
+#: quests/04_monarch/fq_0403_iconoclastfactionquest_2:30000
+msgctxt "quests/04_monarch/fq_0403_iconoclastfactionquest_2:30000:DefaultText"
+msgid "You killed Graham, ending the Iconoclast broadcasts."
+msgstr ""
+
+#: quests/04_monarch/fq_0403_iconoclastfactionquest_2:30001
+msgctxt "quests/04_monarch/fq_0403_iconoclastfactionquest_2:30001:DefaultText"
+msgid "You cooperated with Graham to end the Iconoclast broadcasts."
+msgstr ""
+
+#: quests/04_monarch/fq_0403_iconoclastfactionquest_2:30005
+msgctxt "quests/04_monarch/fq_0403_iconoclastfactionquest_2:30005:DefaultText"
+msgid "Zora has been killed. This task can never be completed."
+msgstr ""

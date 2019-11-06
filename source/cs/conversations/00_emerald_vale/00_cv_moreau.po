@@ -1,0 +1,339 @@
+#: conversations/00_emerald_vale/00_cv_moreau:1
+msgctxt "conversations/00_emerald_vale/00_cv_moreau:1:DefaultText"
+msgid "Power's out, but I can't just leave my goods unattended. Don't suppose you'd care to do business?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_moreau:2
+msgctxt "conversations/00_emerald_vale/00_cv_moreau:2:DefaultText"
+msgid "It's not the best choice - it's Spacer's Choice. And before you ask, I'm all out of Deluxe Saltuna. All I've got is Gourmet."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_moreau:7
+msgctxt "conversations/00_emerald_vale/00_cv_moreau:7:DefaultText"
+msgid "Let me see what you're selling."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_moreau:8
+msgctxt "conversations/00_emerald_vale/00_cv_moreau:8:DefaultText"
+msgid "Music to my ears."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_moreau:34
+msgctxt "conversations/00_emerald_vale/00_cv_moreau:34:DefaultText"
+msgid "I have some questions."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_moreau:35
+msgctxt "conversations/00_emerald_vale/00_cv_moreau:35:DefaultText"
+msgid "Take care."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_moreau:43
+msgctxt "conversations/00_emerald_vale/00_cv_moreau:43:DefaultText"
+msgid "Ms. Holcomb ain't allowed in this establishment. Not since that little incident."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_moreau:44
+msgctxt "conversations/00_emerald_vale/00_cv_moreau:44:DefaultText"
+msgid "What incident?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_moreau:45
+msgctxt "conversations/00_emerald_vale/00_cv_moreau:45:DefaultText"
+msgid "Ask her if you care. I'm running a business here."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_moreau:46
+msgctxt "conversations/00_emerald_vale/00_cv_moreau:46:DefaultText"
+msgid "I won't touch anything while we're in here, Mr. Moreau. I promise."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_moreau:47
+msgctxt "conversations/00_emerald_vale/00_cv_moreau:47:DefaultText"
+msgid "The vending machine thing? That was ages ago."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_moreau:48
+msgctxt "conversations/00_emerald_vale/00_cv_moreau:48:DefaultText"
+msgid "I realize that. Company still has not sent us the necessary parts to conduct repairs. And so, no thanks to Ms. Holcomb, yonder vending machine remains inoperable."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_moreau:49
+msgctxt "conversations/00_emerald_vale/00_cv_moreau:49:DefaultText"
+msgid "She'll be on her best behavior. Won't you, Parvati?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_moreau:50
+msgctxt "conversations/00_emerald_vale/00_cv_moreau:50:DefaultText"
+msgid "Absolutely. I'll keep my hands in my pockets."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_moreau:52
+msgctxt "conversations/00_emerald_vale/00_cv_moreau:52:DefaultText"
+msgid "I'll take responsibility for her."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_moreau:53
+msgctxt "conversations/00_emerald_vale/00_cv_moreau:53:DefaultText"
+msgid "See that you do. I got a business to run. Edgewater ain't gonna provision itself, you know."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_moreau:55
+msgctxt "conversations/00_emerald_vale/00_cv_moreau:55:DefaultText"
+msgid "I need to fix a ship. You know where I can find parts?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_moreau:56
+msgctxt "conversations/00_emerald_vale/00_cv_moreau:56:DefaultText"
+msgid "You oughta go have a talk with the boss. Reed Tobson. He's up in his tower above the cannery."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_moreau:60
+msgctxt "conversations/00_emerald_vale/00_cv_moreau:60:DefaultText"
+msgid "I've got some questions for you."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_moreau:61
+msgctxt "conversations/00_emerald_vale/00_cv_moreau:61:DefaultText"
+msgid "I'll just excuse myself."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_moreau:62
+msgctxt "conversations/00_emerald_vale/00_cv_moreau:62:DefaultText"
+msgid "Spacer's Choice - the brand of choice for spacers on a budget."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_moreau:64
+msgctxt "conversations/00_emerald_vale/00_cv_moreau:64:DefaultText"
+msgid "What's your take on this place?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_moreau:65
+msgctxt "conversations/00_emerald_vale/00_cv_moreau:65:DefaultText"
+msgid "What, you mean Edgewater? That's a peculiar question. This a test? Am I being tested right now?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_moreau:66
+msgctxt "conversations/00_emerald_vale/00_cv_moreau:66:DefaultText"
+msgid "It's, uh... fine and dandy. Couldn't be happier. Wouldn't want to spend my life working anywhere else. Prettiest little town on Terra 2."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_moreau:67
+msgctxt "conversations/00_emerald_vale/00_cv_moreau:67:DefaultText"
+msgid "Telling yourself that won't make it true."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_moreau:68
+msgctxt "conversations/00_emerald_vale/00_cv_moreau:68:DefaultText"
+msgid "You are condescending to me and I do not care for it. I am... lucky to have my work. Lucky to be alive."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_moreau:69
+msgctxt "conversations/00_emerald_vale/00_cv_moreau:69:DefaultText"
+msgid "I'm glad you're so optimistic."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_moreau:70
+msgctxt "conversations/00_emerald_vale/00_cv_moreau:70:DefaultText"
+msgid "I have every reason to be. I caught a real break, working in a place like this."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_moreau:71
+msgctxt "conversations/00_emerald_vale/00_cv_moreau:71:DefaultText"
+msgid "I don't get paid for banter. Was there something you needed?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_moreau:72
+msgctxt "conversations/00_emerald_vale/00_cv_moreau:72:DefaultText"
+msgid "Actually, there was."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_moreau:73
+msgctxt "conversations/00_emerald_vale/00_cv_moreau:73:DefaultText"
+msgid "I'm leaving."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_moreau:74
+msgctxt "conversations/00_emerald_vale/00_cv_moreau:74:DefaultText"
+msgid "You can't be serious. No one in their right mind would want to live here."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_moreau:75
+msgctxt "conversations/00_emerald_vale/00_cv_moreau:75:DefaultText"
+msgid "If loving the place I work makes me crazy, then haul me off for mandatory re-education."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_moreau:76
+msgctxt "conversations/00_emerald_vale/00_cv_moreau:76:DefaultText"
+msgid "The blister on my ass is prettier than Edgewater."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_moreau:77
+msgctxt "conversations/00_emerald_vale/00_cv_moreau:77:DefaultText"
+msgid "Do us both a favor and don't try to prove your point."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_moreau:78
+msgctxt "conversations/00_emerald_vale/00_cv_moreau:78:DefaultText"
+msgid "That's enough for now."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_moreau:79
+msgctxt "conversations/00_emerald_vale/00_cv_moreau:79:DefaultText"
+msgid "Anyone I should watch out for?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_moreau:80
+msgctxt "conversations/00_emerald_vale/00_cv_moreau:80:DefaultText"
+msgid "Other than yourself? Definitely the Vicar. Don't get me wrong. He seems a decent man. Cut from church cloth. Knows his scriptures."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_moreau:81
+msgctxt "conversations/00_emerald_vale/00_cv_moreau:81:DefaultText"
+msgid "But there's something about him that bothers me. Like he's not one of us. Sometimes I suspect he doesn't even want to be here."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_moreau:82
+msgctxt "conversations/00_emerald_vale/00_cv_moreau:82:DefaultText"
+msgid "Thanks. Anyone else?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_moreau:83
+msgctxt "conversations/00_emerald_vale/00_cv_moreau:83:DefaultText"
+msgid "I'd keep a few paces between myself and Ms. Holcomb. The town mechanic, since her dear father \"left the workforce.\""
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_moreau:84
+msgctxt "conversations/00_emerald_vale/00_cv_moreau:84:DefaultText"
+msgid "No ill-intent in her, mind. Just a queer sort. Restless. Scatterbrained. Inclined to do first and think after, if you take my meaning."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_moreau:85
+msgctxt "conversations/00_emerald_vale/00_cv_moreau:85:DefaultText"
+msgid "Interesting. That everyone I should know about?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_moreau:86
+msgctxt "conversations/00_emerald_vale/00_cv_moreau:86:DefaultText"
+msgid "Amelia. Definitely Amelia Kim. I advise against stepping foot in her drinking establishment altogether."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_moreau:87
+msgctxt "conversations/00_emerald_vale/00_cv_moreau:87:DefaultText"
+msgid "Word is they're gonna replace her with an automechanical barkeep. She's... what's the word... obsolete. You don't wanna associate yourself with that kind of person."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_moreau:88
+msgctxt "conversations/00_emerald_vale/00_cv_moreau:88:DefaultText"
+msgid "So, about this plague that's supposed to be going around..."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_moreau:89
+msgctxt "conversations/00_emerald_vale/00_cv_moreau:89:DefaultText"
+msgid "Plague? I don't know anything about a plague. We are the very picture of hot-blooded physical vigor."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_moreau:90
+msgctxt "conversations/00_emerald_vale/00_cv_moreau:90:DefaultText"
+msgid "Are you done being delusional, or should I wait?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_moreau:91
+msgctxt "conversations/00_emerald_vale/00_cv_moreau:91:DefaultText"
+msgid "I take umbrage with your choice of phrase. We ain't sick. We're rugged."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_moreau:92
+msgctxt "conversations/00_emerald_vale/00_cv_moreau:92:DefaultText"
+msgid "Some of us who get sick are liable to exaggerate the conditions of that sickness. But the fact is, if you work hard, you have got no cause to worry."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_moreau:93
+msgctxt "conversations/00_emerald_vale/00_cv_moreau:93:DefaultText"
+msgid "What do you mean by that?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_moreau:94
+msgctxt "conversations/00_emerald_vale/00_cv_moreau:94:DefaultText"
+msgid "Survival of the fittest. It ain't just a law of nature. It's company policy! "
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_moreau:95
+msgctxt "conversations/00_emerald_vale/00_cv_moreau:95:DefaultText"
+msgid "Medical treatment is commensurate with our value to society. Spacer's Choice will dispense medicine for the indispensable worker. Natural selection at work."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_moreau:96
+msgctxt "conversations/00_emerald_vale/00_cv_moreau:96:DefaultText"
+msgid "Seems fair."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_moreau:97
+msgctxt "conversations/00_emerald_vale/00_cv_moreau:97:DefaultText"
+msgid "It is better than fair. It is company policy."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_moreau:98
+msgctxt "conversations/00_emerald_vale/00_cv_moreau:98:DefaultText"
+msgid "Listen, you mind if we talk about something else? Rambling about company policy gets me feeling all light-headed."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_moreau:99
+msgctxt "conversations/00_emerald_vale/00_cv_moreau:99:DefaultText"
+msgid "And if you don't work hard enough?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_moreau:100
+msgctxt "conversations/00_emerald_vale/00_cv_moreau:100:DefaultText"
+msgid "Then the hand of medical science will not grace you with its touch, and you must recover on the virtue of your own grit."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_moreau:101
+msgctxt "conversations/00_emerald_vale/00_cv_moreau:101:DefaultText"
+msgid "That doesn't make any sense."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_moreau:102
+msgctxt "conversations/00_emerald_vale/00_cv_moreau:102:DefaultText"
+msgid "Spend enough time in the Spacer's Choice family, and you will come to understand."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_moreau:103
+msgctxt "conversations/00_emerald_vale/00_cv_moreau:103:DefaultText"
+msgid "Yeah. Spacer's Choice obviously cares about its family."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_moreau:104
+msgctxt "conversations/00_emerald_vale/00_cv_moreau:104:DefaultText"
+msgid "Spacer's Choice is built on love. And like any real love, it is cold and tough when needs must."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_moreau:105
+msgctxt "conversations/00_emerald_vale/00_cv_moreau:105:DefaultText"
+msgid "Is there a reason you feel like you have to hide what's going on?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_moreau:106
+msgctxt "conversations/00_emerald_vale/00_cv_moreau:106:DefaultText"
+msgid "You have got the wrong idea about me. I've got nothing that needs hiding."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_moreau:107
+msgctxt "conversations/00_emerald_vale/00_cv_moreau:107:DefaultText"
+msgid "Never mind. Goodbye."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_moreau:108
+msgctxt "conversations/00_emerald_vale/00_cv_moreau:108:DefaultText"
+msgid "Go right ahead."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_moreau:110
+msgctxt "conversations/00_emerald_vale/00_cv_moreau:110:DefaultText"
+msgid "Work your jaw on some Spacer's Chaw!"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_moreau:111
+msgctxt "conversations/00_emerald_vale/00_cv_moreau:111:DefaultText"
+msgid "It's not the best choice. It's Spacer's Choice."
+msgstr ""

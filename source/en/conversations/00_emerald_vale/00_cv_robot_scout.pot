@@ -1,0 +1,169 @@
+#: conversations/00_emerald_vale/00_cv_robot_scout:1
+msgctxt "conversations/00_emerald_vale/00_cv_robot_scout:1:DefaultText"
+msgid "Searching for repair bay. Error. Navigation systems failed. Unable to comply. "
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_robot_scout:2
+msgctxt "conversations/00_emerald_vale/00_cv_robot_scout:2:DefaultText"
+msgid "Are you damaged?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_robot_scout:4
+msgctxt "conversations/00_emerald_vale/00_cv_robot_scout:4:DefaultText"
+msgid "This is a junkyard, not a repair bay."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_robot_scout:6
+msgctxt "conversations/00_emerald_vale/00_cv_robot_scout:6:DefaultText"
+msgid "Damage to navigation systems detected. Attempting to return to designated repair bay. Error. Navigation systems failed."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_robot_scout:7
+msgctxt "conversations/00_emerald_vale/00_cv_robot_scout:7:DefaultText"
+msgid "Navigation systems have determined this location as: Spacer's Choice Designated Mechanical Repair Bay. "
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_robot_scout:8
+msgctxt "conversations/00_emerald_vale/00_cv_robot_scout:8:DefaultText"
+msgid "I don't have time for this."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_robot_scout:9
+msgctxt "conversations/00_emerald_vale/00_cv_robot_scout:9:DefaultText"
+msgid "I could probably fix that. I mean, if you wanted me to."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_robot_scout:10
+msgctxt "conversations/00_emerald_vale/00_cv_robot_scout:10:DefaultText"
+msgid "Go ahead."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_robot_scout:11
+msgctxt "conversations/00_emerald_vale/00_cv_robot_scout:11:DefaultText"
+msgid "Hang on a second. I'm not sure."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_robot_scout:12
+msgctxt "conversations/00_emerald_vale/00_cv_robot_scout:12:DefaultText"
+msgid "Yep, I see the problem. His nav-mod got dislodged. Must've taken a tumble. Just gotta give it a good push and wait for the click."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_robot_scout:13
+msgctxt "conversations/00_emerald_vale/00_cv_robot_scout:13:DefaultText"
+msgid "There we go. Jeremy's good as new. Well, new by Spacer's Choice standards, anyhow. His name's Jeremy, by the bye."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_robot_scout:14
+msgctxt "conversations/00_emerald_vale/00_cv_robot_scout:14:DefaultText"
+msgid "Take your time. You need help, just give a yell. Uh, a metaphorical yell. If you yell for reals, you're liable to spook him."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_robot_scout:16
+msgctxt "conversations/00_emerald_vale/00_cv_robot_scout:16:DefaultText"
+msgid "Navigation systems operational. Optimal path toward repair bay detected. Initiating self-diagnostics."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_robot_scout:17
+msgctxt "conversations/00_emerald_vale/00_cv_robot_scout:17:DefaultText"
+msgid "Good luck, I guess?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_robot_scout:18
+msgctxt "conversations/00_emerald_vale/00_cv_robot_scout:18:DefaultText"
+msgid "Whoa, hey. Don't you owe me something for the repairs?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_robot_scout:19
+msgctxt "conversations/00_emerald_vale/00_cv_robot_scout:19:DefaultText"
+msgid "Um, I don't reckon Jeremy understands the concept of trade."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_robot_scout:20
+msgctxt "conversations/00_emerald_vale/00_cv_robot_scout:20:DefaultText"
+msgid "Spacer's Choice reminds all colonists that serving the Spacer's Choice family is the highest possible reward. I have been programmed to deliver this pre-approved message."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_robot_scout:22
+msgctxt "conversations/00_emerald_vale/00_cv_robot_scout:22:DefaultText"
+msgid "This is ridiculous. I'm done."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_robot_scout:23
+msgctxt "conversations/00_emerald_vale/00_cv_robot_scout:23:DefaultText"
+msgid "Be more careful out there, Jeremy!"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_robot_scout:25
+msgctxt "conversations/00_emerald_vale/00_cv_robot_scout:25:DefaultText"
+msgid "Navigation systems, huh? I could probably fix you up."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_robot_scout:26
+msgctxt "conversations/00_emerald_vale/00_cv_robot_scout:26:DefaultText"
+msgid "That's not bad work, mister. You done this afore?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_robot_scout:26
+msgctxt "conversations/00_emerald_vale/00_cv_robot_scout:26:FemaleText"
+msgid "That's not bad work, ma'am. You done this afore?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_robot_scout:29
+msgctxt "conversations/00_emerald_vale/00_cv_robot_scout:29:DefaultText"
+msgid "Self-diagnostics initiated. Please do not disturb."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_robot_scout:30
+msgctxt "conversations/00_emerald_vale/00_cv_robot_scout:30:DefaultText"
+msgid "Nothing a good smack won't fix."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_robot_scout:31
+msgctxt "conversations/00_emerald_vale/00_cv_robot_scout:31:DefaultText"
+msgid "Oh. Ow. Could you not- I mean, it's a mechanical, sure. But that just seems...mean."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_robot_scout:33
+msgctxt "conversations/00_emerald_vale/00_cv_robot_scout:33:DefaultText"
+msgid "I can do it myself, actually."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_robot_scout:34
+msgctxt "conversations/00_emerald_vale/00_cv_robot_scout:34:DefaultText"
+msgid "Nah. I'm just gonna give it a good smack."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_robot_scout:39
+msgctxt "conversations/00_emerald_vale/00_cv_robot_scout:39:DefaultText"
+msgid "Attempting to misdirect or confuse a Spacer's Choice mechanical is a punishable offense. Please report yourself to your supervisor."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_robot_scout:40
+msgctxt "conversations/00_emerald_vale/00_cv_robot_scout:40:DefaultText"
+msgid "...Parvati, why did you name the mechanical?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_robot_scout:41
+msgctxt "conversations/00_emerald_vale/00_cv_robot_scout:41:DefaultText"
+msgid "On account of I fixed him. And he's Jeremy on account of his helmet. It's like Jeremy, the officer in True Romantic Tales of the Space Guard."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_robot_scout:43
+msgctxt "conversations/00_emerald_vale/00_cv_robot_scout:43:DefaultText"
+msgid "Is that an aetherwave serial or something?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_robot_scout:44
+msgctxt "conversations/00_emerald_vale/00_cv_robot_scout:44:DefaultText"
+msgid "Abso-surely. I make a point to watch every Tuesday night."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_robot_scout:46
+msgctxt "conversations/00_emerald_vale/00_cv_robot_scout:46:DefaultText"
+msgid "Go ahead and fix him up, Parvati."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_robot_scout:47
+msgctxt "conversations/00_emerald_vale/00_cv_robot_scout:47:DefaultText"
+msgid "I'll be going now."
+msgstr ""

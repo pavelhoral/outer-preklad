@@ -1,0 +1,87 @@
+#: conversations/04_monarch/0411/0411_cp_office_worker_2:1
+msgctxt "conversations/04_monarch/0411/0411_cp_office_worker_2:1:DefaultText"
+msgid "C&P Factory Systems\n"
+"========================\n"
+"AUTHORIZED USER LOG IN SEQUENCE INTIATING...\n"
+"========================\n"
+"Greetings, authorized personnel. The King would like to remind you that terminal sessions are recorded with corresponding time stamps. Prolonged periods of use are liable to incur conduct infraction(s). If you would like to temporarily disable the recording system, please schedule a dinner appointment with the King after entering your password."
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cp_office_worker_2:2
+msgctxt "conversations/04_monarch/0411/0411_cp_office_worker_2:2:DefaultText"
+msgid "[Messages]"
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cp_office_worker_2:3
+msgctxt "conversations/04_monarch/0411/0411_cp_office_worker_2:3:DefaultText"
+msgid "[Exit]"
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cp_office_worker_2:5
+msgctxt "conversations/04_monarch/0411/0411_cp_office_worker_2:5:DefaultText"
+msgid "[FROM: A. Rose]"
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cp_office_worker_2:6
+msgctxt "conversations/04_monarch/0411/0411_cp_office_worker_2:6:DefaultText"
+msgid "[FROM: J. Blanchard]"
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cp_office_worker_2:7
+msgctxt "conversations/04_monarch/0411/0411_cp_office_worker_2:7:DefaultText"
+msgid "[Return to Root]"
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cp_office_worker_2:8
+msgctxt "conversations/04_monarch/0411/0411_cp_office_worker_2:8:DefaultText"
+msgid "C&P Factory Systems\n"
+"=========================\n"
+"Message Logs\n"
+"FROM: A. Rose\n"
+"TO: F. Patterson\n"
+"SUBJECT: What ends will begin again.\n"
+"\n"
+"Factory's back online. Feels strange. Not only did I never think I'd stoop to this sort of work, but they gave me your place on the line. \n"
+"\n"
+"Wish you could've waited. Just for a little while. But that's fine... me and cousin Isaac are right as rain, we are.\n"
+"\n"
+"I never met a man so eccentric as the factory's new owner, Clive. Got a dreadful temper, he does. But he pays our wages on time, so I guess I don't rightly mind.\n"
+"\n"
+"Just... if you ain't coming back, you could at least answer my darned messages \n"
+"I feel like a fool sending these. Like I'm pouring my heart into some silly diary. Maybe I'll go visit with Isaac. Haven't seen him in a few days.\n"
+"\n"
+"The one you left behind,\n"
+"-A  "
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cp_office_worker_2:9
+msgctxt "conversations/04_monarch/0411/0411_cp_office_worker_2:9:DefaultText"
+msgid "C&P Factory Systems\n"
+"=========================\n"
+"Message Logs\n"
+"FROM: J. Blanchard\n"
+"TO: C. Blanchard\n"
+"SUBJECT: Need me a new job.\n"
+"\n"
+"I. Cannot. Fricking. Take. It. Any. Longer!!!!!!!\n"
+"\n"
+"I know the money's good. I know the work's steady. But, Cor, you can't hardly fathom what it's like. Day in and out.\n"
+"\n"
+"Grew up with the slimy worm, and now he's got me calling him \"The Boarst King of Monarch\" like real fragging royalty. Like the myths of old. \n"
+"\n"
+"And he's always muttering to himself. Or shouting. Splattered with gristle or worse.\n"
+"\n"
+"But I know what happened to them fellas who got pink slips. Won't go out like that. Not me. And not on account of Slaughterhouse Clive.  \n"
+"\n"
+"I quit.\n"
+"\n"
+"Your loving brother,\n"
+"Janyn"
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cp_office_worker_2:10
+msgctxt "conversations/04_monarch/0411/0411_cp_office_worker_2:10:DefaultText"
+msgid "C&P Factory Systems\r\n"
+"=========================\r\n"
+"Message Logs"
+msgstr ""

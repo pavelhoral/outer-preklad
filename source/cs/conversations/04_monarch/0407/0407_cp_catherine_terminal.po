@@ -1,0 +1,108 @@
+#: conversations/04_monarch/0407/0407_cp_catherine_terminal:1
+msgctxt "conversations/04_monarch/0407/0407_cp_catherine_terminal:1:DefaultText"
+msgid "Sublight Salvage & Shipping \r\n"
+"========================\r\n"
+"This terminal is registered for usage by Catherine Malin and is only to be accessed for the for official communication on behalf of Sublight Salvage & Shipping. "
+msgstr ""
+
+#: conversations/04_monarch/0407/0407_cp_catherine_terminal:2
+msgctxt "conversations/04_monarch/0407/0407_cp_catherine_terminal:2:DefaultText"
+msgid "[Messages]"
+msgstr ""
+
+#: conversations/04_monarch/0407/0407_cp_catherine_terminal:3
+msgctxt "conversations/04_monarch/0407/0407_cp_catherine_terminal:3:DefaultText"
+msgid "[Exit]"
+msgstr ""
+
+#: conversations/04_monarch/0407/0407_cp_catherine_terminal:5
+msgctxt "conversations/04_monarch/0407/0407_cp_catherine_terminal:5:DefaultText"
+msgid "[TO: L. Hagen]"
+msgstr ""
+
+#: conversations/04_monarch/0407/0407_cp_catherine_terminal:6
+msgctxt "conversations/04_monarch/0407/0407_cp_catherine_terminal:6:DefaultText"
+msgid "[FROM: L. Hagen]"
+msgstr ""
+
+#: conversations/04_monarch/0407/0407_cp_catherine_terminal:7
+msgctxt "conversations/04_monarch/0407/0407_cp_catherine_terminal:7:DefaultText"
+msgid "[Return to Root]"
+msgstr ""
+
+#: conversations/04_monarch/0407/0407_cp_catherine_terminal:8
+msgctxt "conversations/04_monarch/0407/0407_cp_catherine_terminal:8:DefaultText"
+msgid "Sublight Salvage & Shipping \r\n"
+"=========================\r\n"
+"Message Logs\r\n"
+"FROM: C. Malin\r\n"
+"TO: L. Hagen\r\n"
+"SUBJECT: Blind Drops\r\n"
+"\r\n"
+"My dearest pain-in-the-ass,\r\n"
+"\r\n"
+"For a good month now, I've been blind dropping supplies to an anonymous buyer. The payments clear in full, on time, and the supplies are religiously retrieved from the bridge to the north of Fallbrook. My suspicions warn me that we might very well be dealing with a corporation - one operating on Monarch illegally.\r\n"
+"\r\n"
+"The opportunity for exploitation is ripe, and I find myself itching to strike.\r\n"
+"\r\n"
+"Advise now or forever hold your peace.\r\n"
+"\r\n"
+"Your most favored salvager,\r\n"
+"Malin"
+msgstr ""
+
+#: conversations/04_monarch/0407/0407_cp_catherine_terminal:9
+msgctxt "conversations/04_monarch/0407/0407_cp_catherine_terminal:9:DefaultText"
+msgid "Sublight Salvage & Shipping\r\n"
+"=========================\r\n"
+"Message Logs\r\n"
+"FROM: L. Hagen\r\n"
+"TO: C. Malin\r\n"
+"SUBJECT: Contractor En Route\r\n"
+"\r\n"
+"I told you, I don't want to see business details. especially not on record. If there's something I absofuckinlutely need to know, send a courier. Someone we both know. Otherwise handle it yourself. You work your magic, I trust your calls, rah rah, end of line. Send me some boarst when you're done; I'll send you torpedo juice in trade (finally got a line in with one of the engineers!)\r\n"
+"\r\n"
+"I hired a new contractor and sent them your way. You can call them Alex Hawthorne. They're not the Hawthorne that used to do Fallbrook runs, but I don't care and neither do you - right?? Expect them to deliver a package for me. You'll know what to do with it when you see it. Anything you need done, ask them. Just make sure they can do what they came for while you borrow them.\r\n"
+"\r\n"
+"Let me know next time you come to gb. I'll make dinner, we can get falling down drunk and scandalize our employees. Just like old times.\r\n"
+"\r\n"
+"- pain in the ass"
+msgstr ""
+
+#: conversations/04_monarch/0407/0407_cp_catherine_terminal:10
+msgctxt "conversations/04_monarch/0407/0407_cp_catherine_terminal:10:DefaultText"
+msgid "Sublight Salvage & Shipping \r\n"
+"=========================\r\n"
+"Message Logs"
+msgstr ""
+
+#: conversations/04_monarch/0407/0407_cp_catherine_terminal:11
+msgctxt "conversations/04_monarch/0407/0407_cp_catherine_terminal:11:DefaultText"
+msgid "[FROM: Niles]"
+msgstr ""
+
+#: conversations/04_monarch/0407/0407_cp_catherine_terminal:12
+msgctxt "conversations/04_monarch/0407/0407_cp_catherine_terminal:12:DefaultText"
+msgid "Sublight Salvage & Shipping \r\n"
+"=========================\r\n"
+"Message Logs\r\n"
+"FROM: Niles\r\n"
+"TO: C. Malin\r\n"
+"SUBJECT: Cascadia Job\r\n"
+"\r\n"
+"Scoped out the Cascadia job like you wanted, boss. Far as I can tell, this is what it will take to get it done:\r\n"
+"\r\n"
+"STEP 1: Land a ship on the Cascadia landing pad. Should be able to signal it from a messenger terminal in the lab so it doesn't have to stay long.\r\n"
+"\r\n"
+"STEP 2: Hook the ship up to the landing pad's refueling system.\r\n"
+"\r\n"
+"STEP 3: Siphon the alta-whatever gas into the ship.\r\n"
+"\r\n"
+"That last one's the tricky part. Lots of mant activity around there, won't be easy to get to.\r\n"
+"\r\n"
+"Lab access seems to be in a little shop in the north east part of  South Cascadia. I couldn't get close to it though. Too many damn marauders. I got the password for the terminal there though: ANTEDILUVIAN \r\n"
+"\r\n"
+"Now we just need Hagen to send us someone who can get it done...\r\n"
+"\r\n"
+"- Niles"
+msgstr ""

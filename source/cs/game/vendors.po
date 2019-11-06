@@ -1,0 +1,249 @@
+#: game/vendors:0
+msgctxt "game/vendors:0:DefaultText"
+msgid "[TEST] Pop's Mop Shop"
+msgstr ""
+
+#: game/vendors:1
+msgctxt "game/vendors:1:DefaultText"
+msgid "Auntie Cleo's Auto-Vend"
+msgstr ""
+
+#: game/vendors:2
+msgctxt "game/vendors:2:DefaultText"
+msgid "(SYSTEM ERROR) Auto-Vend"
+msgstr ""
+
+#: game/vendors:3
+msgctxt "game/vendors:3:DefaultText"
+msgid "Terra-fried Spratwurst, by Spacer's Choice!"
+msgstr ""
+
+#: game/vendors:4
+msgctxt "game/vendors:4:DefaultText"
+msgid "Drunky's Ethanol Emporium"
+msgstr ""
+
+#: game/vendors:5
+msgctxt "game/vendors:5:DefaultText"
+msgid "The Lost Hope Bar"
+msgstr ""
+
+#: game/vendors:6
+msgctxt "game/vendors:6:DefaultText"
+msgid "C&P's Deep Fried Cystybits"
+msgstr ""
+
+#: game/vendors:7
+msgctxt "game/vendors:7:DefaultText"
+msgid "Rizzo Candy Kiosk"
+msgstr ""
+
+#: game/vendors:8
+msgctxt "game/vendors:8:DefaultText"
+msgid "Ike's Armory"
+msgstr ""
+
+#: game/vendors:9
+msgctxt "game/vendors:9:DefaultText"
+msgid "Belle's Shells"
+msgstr ""
+
+#: game/vendors:10
+msgctxt "game/vendors:10:DefaultText"
+msgid "Spacer's Choice"
+msgstr ""
+
+#: game/vendors:11
+msgctxt "game/vendors:11:DefaultText"
+msgid "Auntie's Kitchen"
+msgstr ""
+
+#: game/vendors:12
+msgctxt "game/vendors:12:DefaultText"
+msgid "Gladys Culkelly"
+msgstr ""
+
+#: game/vendors:13
+msgctxt "game/vendors:13:DefaultText"
+msgid "Zeng's Emporium"
+msgstr ""
+
+#: game/vendors:14
+msgctxt "game/vendors:14:DefaultText"
+msgid "Sebastian Adam's Wildlife Emporium"
+msgstr ""
+
+#: game/vendors:15
+msgctxt "game/vendors:15:DefaultText"
+msgid "The Yacht Club"
+msgstr ""
+
+#: game/vendors:16
+msgctxt "game/vendors:16:DefaultText"
+msgid "Emerald Vale General Store"
+msgstr ""
+
+#: game/vendors:17
+msgctxt "game/vendors:17:DefaultText"
+msgid "Spacer's Choice Cantina"
+msgstr ""
+
+#: game/vendors:18
+msgctxt "game/vendors:18:DefaultText"
+msgid "Iconoclast Quartermaster"
+msgstr ""
+
+#: game/vendors:19
+msgctxt "game/vendors:19:DefaultText"
+msgid "C&P's Fundable Edibles"
+msgstr ""
+
+#: game/vendors:20
+msgctxt "game/vendors:20:DefaultText"
+msgid "(SYSTEM ERROR) Fundable Edibles"
+msgstr ""
+
+#: game/vendors:21
+msgctxt "game/vendors:21:DefaultText"
+msgid "Rizzo's Self-Serve Snack System"
+msgstr ""
+
+#: game/vendors:22
+msgctxt "game/vendors:22:DefaultText"
+msgid "(SYSTEM ERROR) Self-Serve Snack System"
+msgstr ""
+
+#: game/vendors:23
+msgctxt "game/vendors:23:DefaultText"
+msgid "Saltuna of the Deep Merchant Machine"
+msgstr ""
+
+#: game/vendors:24
+msgctxt "game/vendors:24:DefaultText"
+msgid "(SYSTEM ERROR) Merchant Machine"
+msgstr ""
+
+#: game/vendors:25
+msgctxt "game/vendors:25:DefaultText"
+msgid "Spacer's Choice Insta-Merch"
+msgstr ""
+
+#: game/vendors:26
+msgctxt "game/vendors:26:DefaultText"
+msgid "(SYSTEM ERROR) Insta-Merch"
+msgstr ""
+
+#: game/vendors:27
+msgctxt "game/vendors:27:DefaultText"
+msgid "T&L's Exotic Assets"
+msgstr ""
+
+#: game/vendors:28
+msgctxt "game/vendors:28:DefaultText"
+msgid "(SYSTEM ERROR) Exotic Assets"
+msgstr ""
+
+#: game/vendors:29
+msgctxt "game/vendors:29:DefaultText"
+msgid "Bullets 'n Things"
+msgstr ""
+
+#: game/vendors:30
+msgctxt "game/vendors:30:DefaultText"
+msgid "(SYSTEM ERROR) Bullets 'n Things"
+msgstr ""
+
+#: game/vendors:31
+msgctxt "game/vendors:31:DefaultText"
+msgid "Duncan's Wholesome Dry Goods"
+msgstr ""
+
+#: game/vendors:32
+msgctxt "game/vendors:32:DefaultText"
+msgid "Guns! Guns! Guns! And Ammo"
+msgstr ""
+
+#: game/vendors:33
+msgctxt "game/vendors:33:DefaultText"
+msgid "Ante Up"
+msgstr ""
+
+#: game/vendors:34
+msgctxt "game/vendors:34:DefaultText"
+msgid "The Tipsy Sprat"
+msgstr ""
+
+#: game/vendors:35
+msgctxt "game/vendors:35:DefaultText"
+msgid "Billingsly's House of Inebriation"
+msgstr ""
+
+#: game/vendors:36
+msgctxt "game/vendors:36:DefaultText"
+msgid "Jolicoeur's Haberdashery"
+msgstr ""
+
+#: game/vendors:37
+msgctxt "game/vendors:37:DefaultText"
+msgid "The Lost Hope Bar"
+msgstr ""
+
+#: game/vendors:38
+msgctxt "game/vendors:38:DefaultText"
+msgid "Groundbreaker Medical Bay"
+msgstr ""
+
+#: game/vendors:39
+msgctxt "game/vendors:39:DefaultText"
+msgid "Forsythe Luxury Munitions"
+msgstr ""
+
+#: game/vendors:40
+msgctxt "game/vendors:40:DefaultText"
+msgid "Percival's Curated Selections"
+msgstr ""
+
+#: game/vendors:41
+msgctxt "game/vendors:41:DefaultText"
+msgid "Candy Rush Outlet"
+msgstr ""
+
+#: game/vendors:42
+msgctxt "game/vendors:42:DefaultText"
+msgid "The Soda Jerk"
+msgstr ""
+
+#: game/vendors:43
+msgctxt "game/vendors:43:DefaultText"
+msgid "Auntie Cleo's 17th Bar"
+msgstr ""
+
+#: game/vendors:44
+msgctxt "game/vendors:44:DefaultText"
+msgid "Stefan's Bartering Post"
+msgstr ""
+
+#: game/vendors:45
+msgctxt "game/vendors:45:DefaultText"
+msgid "Window Shades"
+msgstr ""
+
+#: game/vendors:46
+msgctxt "game/vendors:46:DefaultText"
+msgid "Where There's Smoke Shop"
+msgstr ""
+
+#: game/vendors:47
+msgctxt "game/vendors:47:DefaultText"
+msgid "Elroy's Salvage and Supply"
+msgstr ""
+
+#: game/vendors:48
+msgctxt "game/vendors:48:DefaultText"
+msgid "Iconoclast Outfitter"
+msgstr ""
+
+#: game/vendors:49
+msgctxt "game/vendors:49:DefaultText"
+msgid "Stellar Supplies"
+msgstr ""

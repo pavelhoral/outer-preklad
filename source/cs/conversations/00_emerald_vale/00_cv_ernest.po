@@ -1,0 +1,129 @@
+#: conversations/00_emerald_vale/00_cv_ernest:1
+msgctxt "conversations/00_emerald_vale/00_cv_ernest:1:DefaultText"
+msgid "Now, seems to me - and correct me if I'm wrong here, but - seems to me they're all dead. Mind telling me what happened here?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_ernest:2
+msgctxt "conversations/00_emerald_vale/00_cv_ernest:2:DefaultText"
+msgid "Yeah, the guards and I had a bit of an altercation, you see."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_ernest:3
+msgctxt "conversations/00_emerald_vale/00_cv_ernest:3:DefaultText"
+msgid "The guards accidentally brutally shot themselves while on patrol."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_ernest:4
+msgctxt "conversations/00_emerald_vale/00_cv_ernest:4:DefaultText"
+msgid "I don't like your tone, Ernie."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_ernest:5
+msgctxt "conversations/00_emerald_vale/00_cv_ernest:5:DefaultText"
+msgid "An altercation, you say. Shame as that goes. Spacer's Choice policy strictly prohibits dying during work hours."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_ernest:6
+msgctxt "conversations/00_emerald_vale/00_cv_ernest:6:DefaultText"
+msgid "Accidentally brutally shot themselves, huh? Unbelievable. Second time this month."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_ernest:7
+msgctxt "conversations/00_emerald_vale/00_cv_ernest:7:DefaultText"
+msgid "Cool your thrusters, friend. Just out here doing my trade. Gathering remains. Tagging corpses. Filing reports."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_ernest:8
+msgctxt "conversations/00_emerald_vale/00_cv_ernest:8:DefaultText"
+msgid "Guess I'd better get to cleaning up. Can't just leave company property scattered about, bleeding out on the dirt."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_ernest:9
+msgctxt "conversations/00_emerald_vale/00_cv_ernest:9:DefaultText"
+msgid "Don't you care that they died?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_ernest:10
+msgctxt "conversations/00_emerald_vale/00_cv_ernest:10:DefaultText"
+msgid "I could use their gear. No sense in letting a good suit of armor go to waste."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_ernest:11
+msgctxt "conversations/00_emerald_vale/00_cv_ernest:11:DefaultText"
+msgid "Good idea. And clean up this ship while you're at it."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_ernest:12
+msgctxt "conversations/00_emerald_vale/00_cv_ernest:12:DefaultText"
+msgid "No can do, friend. That armor's Spacer's Choice property. Bodies, too. Living or otherwise. Company policy, you see."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_ernest:13
+msgctxt "conversations/00_emerald_vale/00_cv_ernest:13:DefaultText"
+msgid "Is that an official Spacer's Choice spacecraft on an official Spacer's Choice landing pad? Do I look like an automechanical sanitation unit? The answer to both questions is no."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_ernest:14
+msgctxt "conversations/00_emerald_vale/00_cv_ernest:14:DefaultText"
+msgid "That who died? Oh - right. Well, we do need all the hands we got, what with folks in Edgewater dropping off like cystypig tumors. Less competition though, come promotin' time."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_ernest:15
+msgctxt "conversations/00_emerald_vale/00_cv_ernest:15:DefaultText"
+msgid "You'll want to amble on over to Edgewater at your earliest convenience. Constable's office might have work for someone with your - uh, let's just say - aggressive disposition."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_ernest:19
+msgctxt "conversations/00_emerald_vale/00_cv_ernest:19:DefaultText"
+msgid "These bodies won't tag themselves, you know."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_ernest:20
+msgctxt "conversations/00_emerald_vale/00_cv_ernest:20:DefaultText"
+msgid "Law be with you, friend. I'm Ernie - from the Spacer's Choice Department of Human Resources. Town sent me hereabouts to check on the guards."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_ernest:22
+msgctxt "conversations/00_emerald_vale/00_cv_ernest:22:DefaultText"
+msgid "Oh! And, uh, be sure to stop by the Edgewater provisioner for a can of saltuna. It's not the best choice, it's Spacer's Choice."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_ernest:23
+msgctxt "conversations/00_emerald_vale/00_cv_ernest:23:DefaultText"
+msgid "Yeah, the guards and the locals had a bit of an altercation."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_ernest:24
+msgctxt "conversations/00_emerald_vale/00_cv_ernest:24:DefaultText"
+msgid "Now, seems to me - and correct me if I'm wrong here, but - seems to me that the ranking officer is dead. Mind telling me what happened here?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_ernest:26
+msgctxt "conversations/00_emerald_vale/00_cv_ernest:26:DefaultText"
+msgid "Don't you care that she died?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_ernest:27
+msgctxt "conversations/00_emerald_vale/00_cv_ernest:27:DefaultText"
+msgid "Hang on. I want to ask you something."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_ernest:28
+msgctxt "conversations/00_emerald_vale/00_cv_ernest:28:DefaultText"
+msgid "I'll be on my way."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_ernest:29
+msgctxt "conversations/00_emerald_vale/00_cv_ernest:29:DefaultText"
+msgid "Don't get paid bits to chat with strangers. You wanna chew the rag, go talk to Silas over by the cemetery."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_ernest:34
+msgctxt "conversations/00_emerald_vale/00_cv_ernest:34:DefaultText"
+msgid "Wonder if something happened down at the plant."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_ernest:35
+msgctxt "conversations/00_emerald_vale/00_cv_ernest:35:DefaultText"
+msgid "Hey, you made it. Had a word with the constable yet?"
+msgstr ""

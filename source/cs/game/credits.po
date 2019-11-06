@@ -1,0 +1,5117 @@
+#: game/credits:0
+msgctxt "game/credits:0:DefaultText"
+msgid "The Outer Worlds Development Team"
+msgstr ""
+
+#: game/credits:1
+msgctxt "game/credits:1:DefaultText"
+msgid "Leads"
+msgstr ""
+
+#: game/credits:2
+msgctxt "game/credits:2:DefaultText"
+msgid "Game Directors"
+msgstr ""
+
+#: game/credits:3
+msgctxt "game/credits:3:DefaultText"
+msgid "Leonard Boyarsky"
+msgstr ""
+
+#: game/credits:4
+msgctxt "game/credits:4:DefaultText"
+msgid "Timothy Cain"
+msgstr ""
+
+#: game/credits:5
+msgctxt "game/credits:5:DefaultText"
+msgid "Art Director"
+msgstr ""
+
+#: game/credits:6
+msgctxt "game/credits:6:DefaultText"
+msgid "Daniel Alpert"
+msgstr ""
+
+#: game/credits:7
+msgctxt "game/credits:7:DefaultText"
+msgid "Audio Director"
+msgstr ""
+
+#: game/credits:8
+msgctxt "game/credits:8:DefaultText"
+msgid "Justin E. Bell"
+msgstr ""
+
+#: game/credits:9
+msgctxt "game/credits:9:DefaultText"
+msgid "Design Director"
+msgstr ""
+
+#: game/credits:10
+msgctxt "game/credits:10:DefaultText"
+msgid "Charles Staples"
+msgstr ""
+
+#: game/credits:11
+msgctxt "game/credits:11:DefaultText"
+msgid "Production Director"
+msgstr ""
+
+#: game/credits:12
+msgctxt "game/credits:12:DefaultText"
+msgid "Eric DeMilt"
+msgstr ""
+
+#: game/credits:13
+msgctxt "game/credits:13:DefaultText"
+msgid "Programming Director"
+msgstr ""
+
+#: game/credits:14
+msgctxt "game/credits:14:DefaultText"
+msgid "Mark DeGeorge"
+msgstr ""
+
+#: game/credits:15
+msgctxt "game/credits:15:DefaultText"
+msgid "Animation Lead"
+msgstr ""
+
+#: game/credits:16
+msgctxt "game/credits:16:DefaultText"
+msgid "Shon Stewart"
+msgstr ""
+
+#: game/credits:17
+msgctxt "game/credits:17:DefaultText"
+msgid "Character Art Lead"
+msgstr ""
+
+#: game/credits:18
+msgctxt "game/credits:18:DefaultText"
+msgid "Omar Aweidah"
+msgstr ""
+
+#: game/credits:19
+msgctxt "game/credits:19:DefaultText"
+msgid "Environment Art Lead"
+msgstr ""
+
+#: game/credits:20
+msgctxt "game/credits:20:DefaultText"
+msgid "Terry Hess"
+msgstr ""
+
+#: game/credits:21
+msgctxt "game/credits:21:DefaultText"
+msgid "Level Design Lead"
+msgstr ""
+
+#: game/credits:22
+msgctxt "game/credits:22:DefaultText"
+msgid "Tyson Christensen"
+msgstr ""
+
+#: game/credits:23
+msgctxt "game/credits:23:DefaultText"
+msgid "Narrative Design Lead"
+msgstr ""
+
+#: game/credits:24
+msgctxt "game/credits:24:DefaultText"
+msgid "Leonard Boyarsky"
+msgstr ""
+
+#: game/credits:25
+msgctxt "game/credits:25:DefaultText"
+msgid "QA Lead"
+msgstr ""
+
+#: game/credits:26
+msgctxt "game/credits:26:DefaultText"
+msgid "Taylor Swope"
+msgstr ""
+
+#: game/credits:27
+msgctxt "game/credits:27:DefaultText"
+msgid "Systems Design Lead"
+msgstr ""
+
+#: game/credits:28
+msgctxt "game/credits:28:DefaultText"
+msgid "David Williams"
+msgstr ""
+
+#: game/credits:29
+msgctxt "game/credits:29:DefaultText"
+msgid "Tools Programming Lead"
+msgstr ""
+
+#: game/credits:30
+msgctxt "game/credits:30:DefaultText"
+msgid "David Szymczyk"
+msgstr ""
+
+#: game/credits:31
+msgctxt "game/credits:31:DefaultText"
+msgid "Art"
+msgstr ""
+
+#: game/credits:32
+msgctxt "game/credits:32:DefaultText"
+msgid "Animators"
+msgstr ""
+
+#: game/credits:33
+msgctxt "game/credits:33:DefaultText"
+msgid "Nicole Evanich"
+msgstr ""
+
+#: game/credits:34
+msgctxt "game/credits:34:DefaultText"
+msgid "Seth McCaughey"
+msgstr ""
+
+#: game/credits:35
+msgctxt "game/credits:35:DefaultText"
+msgid "Long Nguyen"
+msgstr ""
+
+#: game/credits:36
+msgctxt "game/credits:36:DefaultText"
+msgid "Cathy Nichols"
+msgstr ""
+
+#: game/credits:37
+msgctxt "game/credits:37:DefaultText"
+msgid "Archye Valdes"
+msgstr ""
+
+#: game/credits:38
+msgctxt "game/credits:38:DefaultText"
+msgid "Additional Animation"
+msgstr ""
+
+#: game/credits:39
+msgctxt "game/credits:39:DefaultText"
+msgid "Elyse Zuber"
+msgstr ""
+
+#: game/credits:40
+msgctxt "game/credits:40:DefaultText"
+msgid "Character Artists"
+msgstr ""
+
+#: game/credits:41
+msgctxt "game/credits:41:DefaultText"
+msgid "James Chea"
+msgstr ""
+
+#: game/credits:42
+msgctxt "game/credits:42:DefaultText"
+msgid "Craig Matchett"
+msgstr ""
+
+#: game/credits:43
+msgctxt "game/credits:43:DefaultText"
+msgid "Dan Platt"
+msgstr ""
+
+#: game/credits:44
+msgctxt "game/credits:44:DefaultText"
+msgid "Aldo Vicente"
+msgstr ""
+
+#: game/credits:45
+msgctxt "game/credits:45:DefaultText"
+msgid "Additional Character Artists"
+msgstr ""
+
+#: game/credits:46
+msgctxt "game/credits:46:DefaultText"
+msgid "Larry Wu"
+msgstr ""
+
+#: game/credits:47
+msgctxt "game/credits:47:DefaultText"
+msgid "Concept Artists"
+msgstr ""
+
+#: game/credits:48
+msgctxt "game/credits:48:DefaultText"
+msgid "Breanna Guthrie"
+msgstr ""
+
+#: game/credits:49
+msgctxt "game/credits:49:DefaultText"
+msgid "Bobby Hernandez"
+msgstr ""
+
+#: game/credits:50
+msgctxt "game/credits:50:DefaultText"
+msgid "Hannah Kennedy"
+msgstr ""
+
+#: game/credits:51
+msgctxt "game/credits:51:DefaultText"
+msgid "Brian Menze"
+msgstr ""
+
+#: game/credits:52
+msgctxt "game/credits:52:DefaultText"
+msgid "Additional Concept Artists"
+msgstr ""
+
+#: game/credits:53
+msgctxt "game/credits:53:DefaultText"
+msgid "Tor Frick"
+msgstr ""
+
+#: game/credits:54
+msgctxt "game/credits:54:DefaultText"
+msgid "James Paick"
+msgstr ""
+
+#: game/credits:55
+msgctxt "game/credits:55:DefaultText"
+msgid "Environment Artists"
+msgstr ""
+
+#: game/credits:56
+msgctxt "game/credits:56:DefaultText"
+msgid "Marina Bekeshko"
+msgstr ""
+
+#: game/credits:57
+msgctxt "game/credits:57:DefaultText"
+msgid "Andrew Bosold"
+msgstr ""
+
+#: game/credits:58
+msgctxt "game/credits:58:DefaultText"
+msgid "Scott Everts"
+msgstr ""
+
+#: game/credits:59
+msgctxt "game/credits:59:DefaultText"
+msgid "Ken LeSaint"
+msgstr ""
+
+#: game/credits:60
+msgctxt "game/credits:60:DefaultText"
+msgid "Jason Lewis"
+msgstr ""
+
+#: game/credits:61
+msgctxt "game/credits:61:DefaultText"
+msgid "Gerardo Orozco"
+msgstr ""
+
+#: game/credits:62
+msgctxt "game/credits:62:DefaultText"
+msgid "Matthew Pauley"
+msgstr ""
+
+#: game/credits:63
+msgctxt "game/credits:63:DefaultText"
+msgid "Dennis Presnell"
+msgstr ""
+
+#: game/credits:64
+msgctxt "game/credits:64:DefaultText"
+msgid "Brandon Rosser"
+msgstr ""
+
+#: game/credits:65
+msgctxt "game/credits:65:DefaultText"
+msgid "Michelle Vargas"
+msgstr ""
+
+#: game/credits:66
+msgctxt "game/credits:66:DefaultText"
+msgid "Additional Environment Artists"
+msgstr ""
+
+#: game/credits:67
+msgctxt "game/credits:67:DefaultText"
+msgid "Thad Clevenger"
+msgstr ""
+
+#: game/credits:68
+msgctxt "game/credits:68:DefaultText"
+msgid "Trevor Crandall"
+msgstr ""
+
+#: game/credits:69
+msgctxt "game/credits:69:DefaultText"
+msgid "Lucas Feld"
+msgstr ""
+
+#: game/credits:70
+msgctxt "game/credits:70:DefaultText"
+msgid "April Claudio"
+msgstr ""
+
+#: game/credits:71
+msgctxt "game/credits:71:DefaultText"
+msgid "Alexander Gonzalez"
+msgstr ""
+
+#: game/credits:72
+msgctxt "game/credits:72:DefaultText"
+msgid "Daniel Keating"
+msgstr ""
+
+#: game/credits:73
+msgctxt "game/credits:73:DefaultText"
+msgid "Jena Mae Ruhl"
+msgstr ""
+
+#: game/credits:74
+msgctxt "game/credits:74:DefaultText"
+msgid "Jami Moravetz"
+msgstr ""
+
+#: game/credits:75
+msgctxt "game/credits:75:DefaultText"
+msgid "Rachel Myre"
+msgstr ""
+
+#: game/credits:76
+msgctxt "game/credits:76:DefaultText"
+msgid "Alexander Nguyen"
+msgstr ""
+
+#: game/credits:77
+msgctxt "game/credits:77:DefaultText"
+msgid "Lighting Artists"
+msgstr ""
+
+#: game/credits:78
+msgctxt "game/credits:78:DefaultText"
+msgid "Adriana Catarino"
+msgstr ""
+
+#: game/credits:79
+msgctxt "game/credits:79:DefaultText"
+msgid "Christopher J. Logan"
+msgstr ""
+
+#: game/credits:80
+msgctxt "game/credits:80:DefaultText"
+msgid "Brian LeLeux"
+msgstr ""
+
+#: game/credits:81
+msgctxt "game/credits:81:DefaultText"
+msgid "Technical Character Artists"
+msgstr ""
+
+#: game/credits:82
+msgctxt "game/credits:82:DefaultText"
+msgid "Antonio Govela"
+msgstr ""
+
+#: game/credits:83
+msgctxt "game/credits:83:DefaultText"
+msgid "Nina Huynh"
+msgstr ""
+
+#: game/credits:84
+msgctxt "game/credits:84:DefaultText"
+msgid "Kihan Pak"
+msgstr ""
+
+#: game/credits:85
+msgctxt "game/credits:85:DefaultText"
+msgid "Anthony Rogers"
+msgstr ""
+
+#: game/credits:86
+msgctxt "game/credits:86:DefaultText"
+msgid "Additional Technical Character Artist"
+msgstr ""
+
+#: game/credits:87
+msgctxt "game/credits:87:DefaultText"
+msgid "Sara Orozco"
+msgstr ""
+
+#: game/credits:88
+msgctxt "game/credits:88:DefaultText"
+msgid "Technical Environment Artists"
+msgstr ""
+
+#: game/credits:89
+msgctxt "game/credits:89:DefaultText"
+msgid "Brad Grace"
+msgstr ""
+
+#: game/credits:90
+msgctxt "game/credits:90:DefaultText"
+msgid "Matthew Lowe"
+msgstr ""
+
+#: game/credits:91
+msgctxt "game/credits:91:DefaultText"
+msgid "UI Artists"
+msgstr ""
+
+#: game/credits:92
+msgctxt "game/credits:92:DefaultText"
+msgid "Glenn Lattiere"
+msgstr ""
+
+#: game/credits:93
+msgctxt "game/credits:93:DefaultText"
+msgid "Katayune Golshan"
+msgstr ""
+
+#: game/credits:94
+msgctxt "game/credits:94:DefaultText"
+msgid "Visual Effects Artists"
+msgstr ""
+
+#: game/credits:95
+msgctxt "game/credits:95:DefaultText"
+msgid "Aaron Du Bois"
+msgstr ""
+
+#: game/credits:96
+msgctxt "game/credits:96:DefaultText"
+msgid "Geoffrey Schofield"
+msgstr ""
+
+#: game/credits:97
+msgctxt "game/credits:97:DefaultText"
+msgid "James Melilli"
+msgstr ""
+
+#: game/credits:98
+msgctxt "game/credits:98:DefaultText"
+msgid "Weapon Artists"
+msgstr ""
+
+#: game/credits:99
+msgctxt "game/credits:99:DefaultText"
+msgid "Daniel Clesi"
+msgstr ""
+
+#: game/credits:100
+msgctxt "game/credits:100:DefaultText"
+msgid "Ken LeSaint"
+msgstr ""
+
+#: game/credits:101
+msgctxt "game/credits:101:DefaultText"
+msgid "Additional Weapon Art"
+msgstr ""
+
+#: game/credits:102
+msgctxt "game/credits:102:DefaultText"
+msgid "Kelvin Nakamura"
+msgstr ""
+
+#: game/credits:103
+msgctxt "game/credits:103:DefaultText"
+msgid "Key Art"
+msgstr ""
+
+#: game/credits:104
+msgctxt "game/credits:104:DefaultText"
+msgid "Cedric Peyravernay"
+msgstr ""
+
+#: game/credits:105
+msgctxt "game/credits:105:DefaultText"
+msgid "Audio"
+msgstr ""
+
+#: game/credits:106
+msgctxt "game/credits:106:DefaultText"
+msgid "Composer"
+msgstr ""
+
+#: game/credits:107
+msgctxt "game/credits:107:DefaultText"
+msgid "Justin E. Bell"
+msgstr ""
+
+#: game/credits:108
+msgctxt "game/credits:108:DefaultText"
+msgid "Sound Designers"
+msgstr ""
+
+#: game/credits:109
+msgctxt "game/credits:109:DefaultText"
+msgid "Jerrick Flores"
+msgstr ""
+
+#: game/credits:110
+msgctxt "game/credits:110:DefaultText"
+msgid "Scott Gilmore"
+msgstr ""
+
+#: game/credits:111
+msgctxt "game/credits:111:DefaultText"
+msgid "Dylan Hairston"
+msgstr ""
+
+#: game/credits:112
+msgctxt "game/credits:112:DefaultText"
+msgid "Renzo G. Heredia"
+msgstr ""
+
+#: game/credits:113
+msgctxt "game/credits:113:DefaultText"
+msgid "Ali Mohsini"
+msgstr ""
+
+#: game/credits:114
+msgctxt "game/credits:114:DefaultText"
+msgid "Mark Rios"
+msgstr ""
+
+#: game/credits:115
+msgctxt "game/credits:115:DefaultText"
+msgid "Zachary Simon"
+msgstr ""
+
+#: game/credits:116
+msgctxt "game/credits:116:DefaultText"
+msgid "Design"
+msgstr ""
+
+#: game/credits:117
+msgctxt "game/credits:117:DefaultText"
+msgid "Area Designers"
+msgstr ""
+
+#: game/credits:118
+msgctxt "game/credits:118:DefaultText"
+msgid "Jesse Farrell"
+msgstr ""
+
+#: game/credits:119
+msgctxt "game/credits:119:DefaultText"
+msgid "Constant Gaw"
+msgstr ""
+
+#: game/credits:120
+msgctxt "game/credits:120:DefaultText"
+msgid "Scott Hafner"
+msgstr ""
+
+#: game/credits:121
+msgctxt "game/credits:121:DefaultText"
+msgid "Brian Heins"
+msgstr ""
+
+#: game/credits:122
+msgctxt "game/credits:122:DefaultText"
+msgid "Denise McMurry"
+msgstr ""
+
+#: game/credits:123
+msgctxt "game/credits:123:DefaultText"
+msgid "Marc Soskin"
+msgstr ""
+
+#: game/credits:124
+msgctxt "game/credits:124:DefaultText"
+msgid "Carter Thomas"
+msgstr ""
+
+#: game/credits:125
+msgctxt "game/credits:125:DefaultText"
+msgid "Olivia Veras"
+msgstr ""
+
+#: game/credits:126
+msgctxt "game/credits:126:DefaultText"
+msgid "Sydney Phoenix Wolfram"
+msgstr ""
+
+#: game/credits:127
+msgctxt "game/credits:127:DefaultText"
+msgid "Area Design Intern"
+msgstr ""
+
+#: game/credits:128
+msgctxt "game/credits:128:DefaultText"
+msgid "Jonathan Lee"
+msgstr ""
+
+#: game/credits:129
+msgctxt "game/credits:129:DefaultText"
+msgid "Additional Area Design"
+msgstr ""
+
+#: game/credits:130
+msgctxt "game/credits:130:DefaultText"
+msgid "Robert Lee"
+msgstr ""
+
+#: game/credits:131
+msgctxt "game/credits:131:DefaultText"
+msgid "John Cotto"
+msgstr ""
+
+#: game/credits:132
+msgctxt "game/credits:132:DefaultText"
+msgid "Connor Richards"
+msgstr ""
+
+#: game/credits:133
+msgctxt "game/credits:133:DefaultText"
+msgid "Ryan Torres"
+msgstr ""
+
+#: game/credits:134
+msgctxt "game/credits:134:DefaultText"
+msgid "Narrative Designers"
+msgstr ""
+
+#: game/credits:135
+msgctxt "game/credits:135:DefaultText"
+msgid "Kate Dollarhyde"
+msgstr ""
+
+#: game/credits:136
+msgctxt "game/credits:136:DefaultText"
+msgid "Paul Kirsch"
+msgstr ""
+
+#: game/credits:137
+msgctxt "game/credits:137:DefaultText"
+msgid "Chris L'etoile"
+msgstr ""
+
+#: game/credits:138
+msgctxt "game/credits:138:DefaultText"
+msgid "Daniel McPhee"
+msgstr ""
+
+#: game/credits:139
+msgctxt "game/credits:139:DefaultText"
+msgid "Carrie Patel"
+msgstr ""
+
+#: game/credits:140
+msgctxt "game/credits:140:DefaultText"
+msgid "Nitai Poddar"
+msgstr ""
+
+#: game/credits:141
+msgctxt "game/credits:141:DefaultText"
+msgid "Megan Starks"
+msgstr ""
+
+#: game/credits:142
+msgctxt "game/credits:142:DefaultText"
+msgid "Systems Designers"
+msgstr ""
+
+#: game/credits:143
+msgctxt "game/credits:143:DefaultText"
+msgid "Kevin Lee"
+msgstr ""
+
+#: game/credits:144
+msgctxt "game/credits:144:DefaultText"
+msgid "Olivier Pougnand"
+msgstr ""
+
+#: game/credits:145
+msgctxt "game/credits:145:DefaultText"
+msgid "UI Designer"
+msgstr ""
+
+#: game/credits:146
+msgctxt "game/credits:146:DefaultText"
+msgid "Kylan Coats"
+msgstr ""
+
+#: game/credits:147
+msgctxt "game/credits:147:DefaultText"
+msgid "UX Designer"
+msgstr ""
+
+#: game/credits:148
+msgctxt "game/credits:148:DefaultText"
+msgid "Chris Stuart"
+msgstr ""
+
+#: game/credits:149
+msgctxt "game/credits:149:DefaultText"
+msgid "Production"
+msgstr ""
+
+#: game/credits:150
+msgctxt "game/credits:150:DefaultText"
+msgid "Executive Producer"
+msgstr ""
+
+#: game/credits:151
+msgctxt "game/credits:151:DefaultText"
+msgid "Richard Taylor"
+msgstr ""
+
+#: game/credits:152
+msgctxt "game/credits:152:DefaultText"
+msgid "Outsourcing Art Manager"
+msgstr ""
+
+#: game/credits:153
+msgctxt "game/credits:153:DefaultText"
+msgid "Loeu Heng"
+msgstr ""
+
+#: game/credits:154
+msgctxt "game/credits:154:DefaultText"
+msgid "Producers"
+msgstr ""
+
+#: game/credits:155
+msgctxt "game/credits:155:DefaultText"
+msgid "Erin K. Ahern"
+msgstr ""
+
+#: game/credits:156
+msgctxt "game/credits:156:DefaultText"
+msgid "David Benefield"
+msgstr ""
+
+#: game/credits:157
+msgctxt "game/credits:157:DefaultText"
+msgid "Eric Daily"
+msgstr ""
+
+#: game/credits:158
+msgctxt "game/credits:158:DefaultText"
+msgid "Ian Conway"
+msgstr ""
+
+#: game/credits:159
+msgctxt "game/credits:159:DefaultText"
+msgid "Brian Goetz"
+msgstr ""
+
+#: game/credits:160
+msgctxt "game/credits:160:DefaultText"
+msgid "Lauren Gragg"
+msgstr ""
+
+#: game/credits:161
+msgctxt "game/credits:161:DefaultText"
+msgid "Julia Kernan"
+msgstr ""
+
+#: game/credits:162
+msgctxt "game/credits:162:DefaultText"
+msgid "Jonathan Moses"
+msgstr ""
+
+#: game/credits:163
+msgctxt "game/credits:163:DefaultText"
+msgid "Ryan Rucinski"
+msgstr ""
+
+#: game/credits:164
+msgctxt "game/credits:164:DefaultText"
+msgid "Matthew Singh"
+msgstr ""
+
+#: game/credits:165
+msgctxt "game/credits:165:DefaultText"
+msgid "Joseph Than"
+msgstr ""
+
+#: game/credits:166
+msgctxt "game/credits:166:DefaultText"
+msgid "Production Intern"
+msgstr ""
+
+#: game/credits:167
+msgctxt "game/credits:167:DefaultText"
+msgid "Jackson Shedwill"
+msgstr ""
+
+#: game/credits:168
+msgctxt "game/credits:168:DefaultText"
+msgid "Additional Production"
+msgstr ""
+
+#: game/credits:169
+msgctxt "game/credits:169:DefaultText"
+msgid "John Lee"
+msgstr ""
+
+#: game/credits:170
+msgctxt "game/credits:170:DefaultText"
+msgid "Chris Parker"
+msgstr ""
+
+#: game/credits:171
+msgctxt "game/credits:171:DefaultText"
+msgid "Programming"
+msgstr ""
+
+#: game/credits:172
+msgctxt "game/credits:172:DefaultText"
+msgid "AI Programmers"
+msgstr ""
+
+#: game/credits:173
+msgctxt "game/credits:173:DefaultText"
+msgid "Jerad Dunn"
+msgstr ""
+
+#: game/credits:174
+msgctxt "game/credits:174:DefaultText"
+msgid "Nicholas Kinkade"
+msgstr ""
+
+#: game/credits:175
+msgctxt "game/credits:175:DefaultText"
+msgid "Ankur Oswal"
+msgstr ""
+
+#: game/credits:176
+msgctxt "game/credits:176:DefaultText"
+msgid "Engine Programmers"
+msgstr ""
+
+#: game/credits:177
+msgctxt "game/credits:177:DefaultText"
+msgid "Su \"Allen\" Chen"
+msgstr ""
+
+#: game/credits:178
+msgctxt "game/credits:178:DefaultText"
+msgid "Dennis DeVore"
+msgstr ""
+
+#: game/credits:179
+msgctxt "game/credits:179:DefaultText"
+msgid "Michael Schaadt"
+msgstr ""
+
+#: game/credits:180
+msgctxt "game/credits:180:DefaultText"
+msgid "Gameplay Programmers"
+msgstr ""
+
+#: game/credits:181
+msgctxt "game/credits:181:DefaultText"
+msgid "Anthony Davis"
+msgstr ""
+
+#: game/credits:182
+msgctxt "game/credits:182:DefaultText"
+msgid "Jerad Dunn"
+msgstr ""
+
+#: game/credits:183
+msgctxt "game/credits:183:DefaultText"
+msgid "Jay Fong"
+msgstr ""
+
+#: game/credits:184
+msgctxt "game/credits:184:DefaultText"
+msgid "Colby Hall"
+msgstr ""
+
+#: game/credits:185
+msgctxt "game/credits:185:DefaultText"
+msgid "Timothy Hume"
+msgstr ""
+
+#: game/credits:186
+msgctxt "game/credits:186:DefaultText"
+msgid "Brandon Long"
+msgstr ""
+
+#: game/credits:187
+msgctxt "game/credits:187:DefaultText"
+msgid "Kyle Radue"
+msgstr ""
+
+#: game/credits:188
+msgctxt "game/credits:188:DefaultText"
+msgid "Daniel Spitzley"
+msgstr ""
+
+#: game/credits:189
+msgctxt "game/credits:189:DefaultText"
+msgid "Graphics Programmers"
+msgstr ""
+
+#: game/credits:190
+msgctxt "game/credits:190:DefaultText"
+msgid "Michael Edwards"
+msgstr ""
+
+#: game/credits:191
+msgctxt "game/credits:191:DefaultText"
+msgid "Timothy Truesdale"
+msgstr ""
+
+#: game/credits:192
+msgctxt "game/credits:192:DefaultText"
+msgid "Tools Programmers"
+msgstr ""
+
+#: game/credits:193
+msgctxt "game/credits:193:DefaultText"
+msgid "Phillip Chiu"
+msgstr ""
+
+#: game/credits:194
+msgctxt "game/credits:194:DefaultText"
+msgid "Steven Moret"
+msgstr ""
+
+#: game/credits:195
+msgctxt "game/credits:195:DefaultText"
+msgid "Kyle Swaim"
+msgstr ""
+
+#: game/credits:196
+msgctxt "game/credits:196:DefaultText"
+msgid "David Vodhanel"
+msgstr ""
+
+#: game/credits:197
+msgctxt "game/credits:197:DefaultText"
+msgid "UI Programmers"
+msgstr ""
+
+#: game/credits:198
+msgctxt "game/credits:198:DefaultText"
+msgid "Adrian Hernández"
+msgstr ""
+
+#: game/credits:199
+msgctxt "game/credits:199:DefaultText"
+msgid "Michael Kemski"
+msgstr ""
+
+#: game/credits:200
+msgctxt "game/credits:200:DefaultText"
+msgid "Jorge Morales"
+msgstr ""
+
+#: game/credits:201
+msgctxt "game/credits:201:DefaultText"
+msgid "Nate McDorman"
+msgstr ""
+
+#: game/credits:202
+msgctxt "game/credits:202:DefaultText"
+msgid "Additional Programming"
+msgstr ""
+
+#: game/credits:203
+msgctxt "game/credits:203:DefaultText"
+msgid "Preston Hulcy"
+msgstr ""
+
+#: game/credits:204
+msgctxt "game/credits:204:DefaultText"
+msgid "Keno San Pablo"
+msgstr ""
+
+#: game/credits:205
+msgctxt "game/credits:205:DefaultText"
+msgid "Quality Assurance"
+msgstr ""
+
+#: game/credits:206
+msgctxt "game/credits:206:DefaultText"
+msgid "Quality Assurance Analysts"
+msgstr ""
+
+#: game/credits:207
+msgctxt "game/credits:207:DefaultText"
+msgid "Doug Avery"
+msgstr ""
+
+#: game/credits:208
+msgctxt "game/credits:208:DefaultText"
+msgid "Joshua Ledford"
+msgstr ""
+
+#: game/credits:209
+msgctxt "game/credits:209:DefaultText"
+msgid "Ian McNicol"
+msgstr ""
+
+#: game/credits:210
+msgctxt "game/credits:210:DefaultText"
+msgid "Arthur Rodriguez"
+msgstr ""
+
+#: game/credits:211
+msgctxt "game/credits:211:DefaultText"
+msgid "Ryan Rodriguez"
+msgstr ""
+
+#: game/credits:212
+msgctxt "game/credits:212:DefaultText"
+msgid "Ariana Tavantzis"
+msgstr ""
+
+#: game/credits:213
+msgctxt "game/credits:213:DefaultText"
+msgid "Additional Quality Assurance"
+msgstr ""
+
+#: game/credits:214
+msgctxt "game/credits:214:DefaultText"
+msgid "Andy Artz"
+msgstr ""
+
+#: game/credits:215
+msgctxt "game/credits:215:DefaultText"
+msgid "Caleb Diaz"
+msgstr ""
+
+#: game/credits:216
+msgctxt "game/credits:216:DefaultText"
+msgid "Adam Taylor"
+msgstr ""
+
+#: game/credits:217
+msgctxt "game/credits:217:DefaultText"
+msgid "Aaron Umberson"
+msgstr ""
+
+#: game/credits:218
+msgctxt "game/credits:218:DefaultText"
+msgid "Quality Assurance Interns"
+msgstr ""
+
+#: game/credits:219
+msgctxt "game/credits:219:DefaultText"
+msgid "Kyle Anderson"
+msgstr ""
+
+#: game/credits:220
+msgctxt "game/credits:220:DefaultText"
+msgid "Nicholas Feathers"
+msgstr ""
+
+#: game/credits:221
+msgctxt "game/credits:221:DefaultText"
+msgid "Operations"
+msgstr ""
+
+#: game/credits:222
+msgctxt "game/credits:222:DefaultText"
+msgid "Studio Head"
+msgstr ""
+
+#: game/credits:223
+msgctxt "game/credits:223:DefaultText"
+msgid "Feargus Urquhart"
+msgstr ""
+
+#: game/credits:224
+msgctxt "game/credits:224:DefaultText"
+msgid "Chief Information Officer"
+msgstr ""
+
+#: game/credits:225
+msgctxt "game/credits:225:DefaultText"
+msgid "Darren Monahan"
+msgstr ""
+
+#: game/credits:226
+msgctxt "game/credits:226:DefaultText"
+msgid "Chief Development Officer"
+msgstr ""
+
+#: game/credits:227
+msgctxt "game/credits:227:DefaultText"
+msgid "Chris Parker"
+msgstr ""
+
+#: game/credits:228
+msgctxt "game/credits:228:DefaultText"
+msgid "Chief Technology Officer"
+msgstr ""
+
+#: game/credits:229
+msgctxt "game/credits:229:DefaultText"
+msgid "Chris Jones"
+msgstr ""
+
+#: game/credits:230
+msgctxt "game/credits:230:DefaultText"
+msgid "Legal Counsel"
+msgstr ""
+
+#: game/credits:231
+msgctxt "game/credits:231:DefaultText"
+msgid "Jeffrey W. Rose"
+msgstr ""
+
+#: game/credits:232
+msgctxt "game/credits:232:DefaultText"
+msgid "Accounting"
+msgstr ""
+
+#: game/credits:233
+msgctxt "game/credits:233:DefaultText"
+msgid "Jennifer Hendrix"
+msgstr ""
+
+#: game/credits:235
+msgctxt "game/credits:235:DefaultText"
+msgid "Rob Nesler"
+msgstr ""
+
+#: game/credits:237
+msgctxt "game/credits:237:DefaultText"
+msgid "Justin E. Bell"
+msgstr ""
+
+#: game/credits:239
+msgctxt "game/credits:239:DefaultText"
+msgid "Josh Sawyer"
+msgstr ""
+
+#: game/credits:240
+msgctxt "game/credits:240:DefaultText"
+msgid "Human Resources Director"
+msgstr ""
+
+#: game/credits:241
+msgctxt "game/credits:241:DefaultText"
+msgid "Tina Parker"
+msgstr ""
+
+#: game/credits:242
+msgctxt "game/credits:242:DefaultText"
+msgid "Human Resources"
+msgstr ""
+
+#: game/credits:243
+msgctxt "game/credits:243:DefaultText"
+msgid "Sydney Montes"
+msgstr ""
+
+#: game/credits:244
+msgctxt "game/credits:244:DefaultText"
+msgid "Head of Development"
+msgstr ""
+
+#: game/credits:245
+msgctxt "game/credits:245:DefaultText"
+msgid "Justin Britch"
+msgstr ""
+
+#: game/credits:246
+msgctxt "game/credits:246:DefaultText"
+msgid "Analytics"
+msgstr ""
+
+#: game/credits:247
+msgctxt "game/credits:247:DefaultText"
+msgid "Matt Festa"
+msgstr ""
+
+#: game/credits:248
+msgctxt "game/credits:248:DefaultText"
+msgid "Development Operations"
+msgstr ""
+
+#: game/credits:249
+msgctxt "game/credits:249:DefaultText"
+msgid "Cesar Ramirez"
+msgstr ""
+
+#: game/credits:250
+msgctxt "game/credits:250:DefaultText"
+msgid "Information Technology"
+msgstr ""
+
+#: game/credits:251
+msgctxt "game/credits:251:DefaultText"
+msgid "Chris Benson"
+msgstr ""
+
+#: game/credits:252
+msgctxt "game/credits:252:DefaultText"
+msgid "Chris Jackson"
+msgstr ""
+
+#: game/credits:253
+msgctxt "game/credits:253:DefaultText"
+msgid "John Wunder"
+msgstr ""
+
+#: game/credits:254
+msgctxt "game/credits:254:DefaultText"
+msgid "Recruiter"
+msgstr ""
+
+#: game/credits:255
+msgctxt "game/credits:255:DefaultText"
+msgid "Jason Tucker"
+msgstr ""
+
+#: game/credits:256
+msgctxt "game/credits:256:DefaultText"
+msgid "Front Desk"
+msgstr ""
+
+#: game/credits:257
+msgctxt "game/credits:257:DefaultText"
+msgid "Bonnie Baeza"
+msgstr ""
+
+#: game/credits:258
+msgctxt "game/credits:258:DefaultText"
+msgid "Communications"
+msgstr ""
+
+#: game/credits:259
+msgctxt "game/credits:259:DefaultText"
+msgid "PR Manager/Communications Director"
+msgstr ""
+
+#: game/credits:260
+msgctxt "game/credits:260:DefaultText"
+msgid "Mikey Dowling"
+msgstr ""
+
+#: game/credits:261
+msgctxt "game/credits:261:DefaultText"
+msgid "Community Manager"
+msgstr ""
+
+#: game/credits:262
+msgctxt "game/credits:262:DefaultText"
+msgid "Aarik Dorobiala"
+msgstr ""
+
+#: game/credits:263
+msgctxt "game/credits:263:DefaultText"
+msgid "Graphic Artist"
+msgstr ""
+
+#: game/credits:264
+msgctxt "game/credits:264:DefaultText"
+msgid "Daniel Peterson"
+msgstr ""
+
+#: game/credits:265
+msgctxt "game/credits:265:DefaultText"
+msgid "Project Manager"
+msgstr ""
+
+#: game/credits:266
+msgctxt "game/credits:266:DefaultText"
+msgid "Daniel Ham"
+msgstr ""
+
+#: game/credits:267
+msgctxt "game/credits:267:DefaultText"
+msgid "Product Services Manager"
+msgstr ""
+
+#: game/credits:268
+msgctxt "game/credits:268:DefaultText"
+msgid "Samuel Chin"
+msgstr ""
+
+#: game/credits:269
+msgctxt "game/credits:269:DefaultText"
+msgid "Web Programmer"
+msgstr ""
+
+#: game/credits:270
+msgctxt "game/credits:270:DefaultText"
+msgid "Devin Thomas"
+msgstr ""
+
+#: game/credits:271
+msgctxt "game/credits:271:DefaultText"
+msgid "Exigent"
+msgstr ""
+
+#: game/credits:272
+msgctxt "game/credits:272:DefaultText"
+msgid "General Manager"
+msgstr ""
+
+#: game/credits:273
+msgctxt "game/credits:273:DefaultText"
+msgid "Vikram Saxena"
+msgstr ""
+
+#: game/credits:274
+msgctxt "game/credits:274:DefaultText"
+msgid "3D Art Director"
+msgstr ""
+
+#: game/credits:275
+msgctxt "game/credits:275:DefaultText"
+msgid "Ajay Aggarwal"
+msgstr ""
+
+#: game/credits:276
+msgctxt "game/credits:276:DefaultText"
+msgid "Producer"
+msgstr ""
+
+#: game/credits:277
+msgctxt "game/credits:277:DefaultText"
+msgid "Pawan Singh"
+msgstr ""
+
+#: game/credits:278
+msgctxt "game/credits:278:DefaultText"
+msgid "Lead Artists"
+msgstr ""
+
+#: game/credits:279
+msgctxt "game/credits:279:DefaultText"
+msgid "Praveen Natarajan"
+msgstr ""
+
+#: game/credits:280
+msgctxt "game/credits:280:DefaultText"
+msgid "Mohit Singh Chauhan"
+msgstr ""
+
+#: game/credits:281
+msgctxt "game/credits:281:DefaultText"
+msgid "Himanshu Kumar Gupta"
+msgstr ""
+
+#: game/credits:282
+msgctxt "game/credits:282:DefaultText"
+msgid "3D Artist"
+msgstr ""
+
+#: game/credits:283
+msgctxt "game/credits:283:DefaultText"
+msgid "Amit Srivastava"
+msgstr ""
+
+#: game/credits:284
+msgctxt "game/credits:284:DefaultText"
+msgid "Anirban Sen"
+msgstr ""
+
+#: game/credits:285
+msgctxt "game/credits:285:DefaultText"
+msgid "Ankit Simalti"
+msgstr ""
+
+#: game/credits:286
+msgctxt "game/credits:286:DefaultText"
+msgid "Chetan Sharma"
+msgstr ""
+
+#: game/credits:287
+msgctxt "game/credits:287:DefaultText"
+msgid "Prashant Aggarwal"
+msgstr ""
+
+#: game/credits:288
+msgctxt "game/credits:288:DefaultText"
+msgid "Pushpendra Kumar Singh"
+msgstr ""
+
+#: game/credits:289
+msgctxt "game/credits:289:DefaultText"
+msgid "Rama Shankar Prasad"
+msgstr ""
+
+#: game/credits:290
+msgctxt "game/credits:290:DefaultText"
+msgid "Ravindra Pal Singh"
+msgstr ""
+
+#: game/credits:291
+msgctxt "game/credits:291:DefaultText"
+msgid "Ravish Kumar"
+msgstr ""
+
+#: game/credits:292
+msgctxt "game/credits:292:DefaultText"
+msgid "Saurabh Thuwal"
+msgstr ""
+
+#: game/credits:293
+msgctxt "game/credits:293:DefaultText"
+msgid "Shikha Jain"
+msgstr ""
+
+#: game/credits:294
+msgctxt "game/credits:294:DefaultText"
+msgid "Shivpal Singh Udawat"
+msgstr ""
+
+#: game/credits:295
+msgctxt "game/credits:295:DefaultText"
+msgid "Shubham Kumar"
+msgstr ""
+
+#: game/credits:296
+msgctxt "game/credits:296:DefaultText"
+msgid "Siddhant Phukan"
+msgstr ""
+
+#: game/credits:297
+msgctxt "game/credits:297:DefaultText"
+msgid "Siddharth Bhardwaj"
+msgstr ""
+
+#: game/credits:298
+msgctxt "game/credits:298:DefaultText"
+msgid "Operations Intern"
+msgstr ""
+
+#: game/credits:299
+msgctxt "game/credits:299:DefaultText"
+msgid "Lauren Jones"
+msgstr ""
+
+#: game/credits:300
+msgctxt "game/credits:300:DefaultText"
+msgid "Brian Macintosh"
+msgstr ""
+
+#: game/credits:301
+msgctxt "game/credits:301:DefaultText"
+msgid "Jonathan Rebar"
+msgstr ""
+
+#: game/credits:302
+msgctxt "game/credits:302:DefaultText"
+msgid "Private Division"
+msgstr ""
+
+#: game/credits:303
+msgctxt "game/credits:303:DefaultText"
+msgid "Lead Producers"
+msgstr ""
+
+#: game/credits:304
+msgctxt "game/credits:304:DefaultText"
+msgid "Allen Murray, Executive Producer"
+msgstr ""
+
+#: game/credits:305
+msgctxt "game/credits:305:DefaultText"
+msgid "Shana T. Bryant, Senior Producer"
+msgstr ""
+
+#: game/credits:306
+msgctxt "game/credits:306:DefaultText"
+msgid "Naomi Steele, Producer"
+msgstr ""
+
+#: game/credits:307
+msgctxt "game/credits:307:DefaultText"
+msgid "Marketing Lead"
+msgstr ""
+
+#: game/credits:308
+msgctxt "game/credits:308:DefaultText"
+msgid "Brian Roundy, Marketing & Communications Director"
+msgstr ""
+
+#: game/credits:309
+msgctxt "game/credits:309:DefaultText"
+msgid "Private Division – Label Management"
+msgstr ""
+
+#: game/credits:310
+msgctxt "game/credits:310:DefaultText"
+msgid "General Manager"
+msgstr ""
+
+#: game/credits:311
+msgctxt "game/credits:311:DefaultText"
+msgid "Michael Worosz"
+msgstr ""
+
+#: game/credits:312
+msgctxt "game/credits:312:DefaultText"
+msgid "Head of Production"
+msgstr ""
+
+#: game/credits:313
+msgctxt "game/credits:313:DefaultText"
+msgid "Allen Murray"
+msgstr ""
+
+#: game/credits:314
+msgctxt "game/credits:314:DefaultText"
+msgid "Head of Marketing"
+msgstr ""
+
+#: game/credits:315
+msgctxt "game/credits:315:DefaultText"
+msgid "Tom Bass"
+msgstr ""
+
+#: game/credits:316
+msgctxt "game/credits:316:DefaultText"
+msgid "Head of Business Development"
+msgstr ""
+
+#: game/credits:317
+msgctxt "game/credits:317:DefaultText"
+msgid "Ed Tomaszewski"
+msgstr ""
+
+#: game/credits:318
+msgctxt "game/credits:318:DefaultText"
+msgid "Private Division – Marketing & Public Relations"
+msgstr ""
+
+#: game/credits:319
+msgctxt "game/credits:319:DefaultText"
+msgid "Marketing & Communications Director"
+msgstr ""
+
+#: game/credits:320
+msgctxt "game/credits:320:DefaultText"
+msgid "Brian Roundy"
+msgstr ""
+
+#: game/credits:321
+msgctxt "game/credits:321:DefaultText"
+msgid "Sr. Director of International Marketing & Communications"
+msgstr ""
+
+#: game/credits:322
+msgctxt "game/credits:322:DefaultText"
+msgid "Markus Wilding"
+msgstr ""
+
+#: game/credits:323
+msgctxt "game/credits:323:DefaultText"
+msgid "International Communications Manager"
+msgstr ""
+
+#: game/credits:324
+msgctxt "game/credits:324:DefaultText"
+msgid "Peter Langhofer"
+msgstr ""
+
+#: game/credits:325
+msgctxt "game/credits:325:DefaultText"
+msgid "International Marketing Manager"
+msgstr ""
+
+#: game/credits:326
+msgctxt "game/credits:326:DefaultText"
+msgid "Joe Banks"
+msgstr ""
+
+#: game/credits:327
+msgctxt "game/credits:327:DefaultText"
+msgid "Assistant Marketing Manager"
+msgstr ""
+
+#: game/credits:328
+msgctxt "game/credits:328:DefaultText"
+msgid "Ara Josefsson"
+msgstr ""
+
+#: game/credits:329
+msgctxt "game/credits:329:DefaultText"
+msgid "Assistant Communications Manager"
+msgstr ""
+
+#: game/credits:330
+msgctxt "game/credits:330:DefaultText"
+msgid "Jeremy Gumber"
+msgstr ""
+
+#: game/credits:331
+msgctxt "game/credits:331:DefaultText"
+msgid "Video Editor"
+msgstr ""
+
+#: game/credits:332
+msgctxt "game/credits:332:DefaultText"
+msgid "Nick Margherita"
+msgstr ""
+
+#: game/credits:333
+msgctxt "game/credits:333:DefaultText"
+msgid "Assistant Manager, Community and Customer Service"
+msgstr ""
+
+#: game/credits:334
+msgctxt "game/credits:334:DefaultText"
+msgid "Jemellee Santos"
+msgstr ""
+
+#: game/credits:335
+msgctxt "game/credits:335:DefaultText"
+msgid "Marketing Production Artist"
+msgstr ""
+
+#: game/credits:336
+msgctxt "game/credits:336:DefaultText"
+msgid "Alanna Cervenak"
+msgstr ""
+
+#: game/credits:337
+msgctxt "game/credits:337:DefaultText"
+msgid "Private Division – Production & Operations"
+msgstr ""
+
+#: game/credits:338
+msgctxt "game/credits:338:DefaultText"
+msgid "Executive Producer"
+msgstr ""
+
+#: game/credits:339
+msgctxt "game/credits:339:DefaultText"
+msgid "Michael Cook"
+msgstr ""
+
+#: game/credits:340
+msgctxt "game/credits:340:DefaultText"
+msgid "Senior Producers"
+msgstr ""
+
+#: game/credits:341
+msgctxt "game/credits:341:DefaultText"
+msgid "Mika Kurosawa"
+msgstr ""
+
+#: game/credits:342
+msgctxt "game/credits:342:DefaultText"
+msgid "Roger Kurtz"
+msgstr ""
+
+#: game/credits:343
+msgctxt "game/credits:343:DefaultText"
+msgid "Kari Toyama"
+msgstr ""
+
+#: game/credits:344
+msgctxt "game/credits:344:DefaultText"
+msgid "Producer"
+msgstr ""
+
+#: game/credits:345
+msgctxt "game/credits:345:DefaultText"
+msgid "Grant Gertz"
+msgstr ""
+
+#: game/credits:346
+msgctxt "game/credits:346:DefaultText"
+msgid "Associate Producer"
+msgstr ""
+
+#: game/credits:347
+msgctxt "game/credits:347:DefaultText"
+msgid "Jennifer Ashiru"
+msgstr ""
+
+#: game/credits:348
+msgctxt "game/credits:348:DefaultText"
+msgid "Release Manager"
+msgstr ""
+
+#: game/credits:349
+msgctxt "game/credits:349:DefaultText"
+msgid "Jo Lammert"
+msgstr ""
+
+#: game/credits:350
+msgctxt "game/credits:350:DefaultText"
+msgid "Office Manager"
+msgstr ""
+
+#: game/credits:351
+msgctxt "game/credits:351:DefaultText"
+msgid "Lisa Ammon"
+msgstr ""
+
+#: game/credits:352
+msgctxt "game/credits:352:DefaultText"
+msgid "Production Intern"
+msgstr ""
+
+#: game/credits:353
+msgctxt "game/credits:353:DefaultText"
+msgid "Seren McCall Cromer"
+msgstr ""
+
+#: game/credits:354
+msgctxt "game/credits:354:DefaultText"
+msgid "Private Division – Quality Assurance"
+msgstr ""
+
+#: game/credits:355
+msgctxt "game/credits:355:DefaultText"
+msgid "QA Manager"
+msgstr ""
+
+#: game/credits:356
+msgctxt "game/credits:356:DefaultText"
+msgid "Anthony Scott Price"
+msgstr ""
+
+#: game/credits:357
+msgctxt "game/credits:357:DefaultText"
+msgid "QA Lead"
+msgstr ""
+
+#: game/credits:358
+msgctxt "game/credits:358:DefaultText"
+msgid "Erik Morton"
+msgstr ""
+
+#: game/credits:359
+msgctxt "game/credits:359:DefaultText"
+msgid "Associate Leads"
+msgstr ""
+
+#: game/credits:360
+msgctxt "game/credits:360:DefaultText"
+msgid "Adam Junior"
+msgstr ""
+
+#: game/credits:361
+msgctxt "game/credits:361:DefaultText"
+msgid "Sr. Testers"
+msgstr ""
+
+#: game/credits:362
+msgctxt "game/credits:362:DefaultText"
+msgid "Sampson Brier"
+msgstr ""
+
+#: game/credits:363
+msgctxt "game/credits:363:DefaultText"
+msgid "James “JR” Dabinett"
+msgstr ""
+
+#: game/credits:364
+msgctxt "game/credits:364:DefaultText"
+msgid "Ashley Fossile"
+msgstr ""
+
+#: game/credits:365
+msgctxt "game/credits:365:DefaultText"
+msgid "Demetri Ghaeni"
+msgstr ""
+
+#: game/credits:366
+msgctxt "game/credits:366:DefaultText"
+msgid "Emily Marvel"
+msgstr ""
+
+#: game/credits:367
+msgctxt "game/credits:367:DefaultText"
+msgid "Jake Merryman"
+msgstr ""
+
+#: game/credits:368
+msgctxt "game/credits:368:DefaultText"
+msgid "Dolores Reynolds"
+msgstr ""
+
+#: game/credits:369
+msgctxt "game/credits:369:DefaultText"
+msgid "Tiffany Ann Somera"
+msgstr ""
+
+#: game/credits:370
+msgctxt "game/credits:370:DefaultText"
+msgid "Ashley Thornton"
+msgstr ""
+
+#: game/credits:371
+msgctxt "game/credits:371:DefaultText"
+msgid "Art Garza-Trevino"
+msgstr ""
+
+#: game/credits:372
+msgctxt "game/credits:372:DefaultText"
+msgid "David A. Wineinger Jr."
+msgstr ""
+
+#: game/credits:373
+msgctxt "game/credits:373:DefaultText"
+msgid "Testers"
+msgstr ""
+
+#: game/credits:374
+msgctxt "game/credits:374:DefaultText"
+msgid "Rachel Britton"
+msgstr ""
+
+#: game/credits:375
+msgctxt "game/credits:375:DefaultText"
+msgid "Chelsea M. Brown"
+msgstr ""
+
+#: game/credits:376
+msgctxt "game/credits:376:DefaultText"
+msgid "Trevor Callahan"
+msgstr ""
+
+#: game/credits:377
+msgctxt "game/credits:377:DefaultText"
+msgid "Manny Castillo"
+msgstr ""
+
+#: game/credits:378
+msgctxt "game/credits:378:DefaultText"
+msgid "Brian Catagnus"
+msgstr ""
+
+#: game/credits:379
+msgctxt "game/credits:379:DefaultText"
+msgid "Thaddeus Cole"
+msgstr ""
+
+#: game/credits:380
+msgctxt "game/credits:380:DefaultText"
+msgid "Lo Daniels"
+msgstr ""
+
+#: game/credits:381
+msgctxt "game/credits:381:DefaultText"
+msgid "Matthew Diaz"
+msgstr ""
+
+#: game/credits:382
+msgctxt "game/credits:382:DefaultText"
+msgid "Gabriela Douglas"
+msgstr ""
+
+#: game/credits:383
+msgctxt "game/credits:383:DefaultText"
+msgid "Edgar Orbezo Garay"
+msgstr ""
+
+#: game/credits:384
+msgctxt "game/credits:384:DefaultText"
+msgid "Patrick Halm"
+msgstr ""
+
+#: game/credits:385
+msgctxt "game/credits:385:DefaultText"
+msgid "A. M. Hulet"
+msgstr ""
+
+#: game/credits:386
+msgctxt "game/credits:386:DefaultText"
+msgid "Ethan E. Irish"
+msgstr ""
+
+#: game/credits:387
+msgctxt "game/credits:387:DefaultText"
+msgid "Victoria Jade"
+msgstr ""
+
+#: game/credits:388
+msgctxt "game/credits:388:DefaultText"
+msgid "Jaylan Johnson"
+msgstr ""
+
+#: game/credits:389
+msgctxt "game/credits:389:DefaultText"
+msgid "Steffi Keller"
+msgstr ""
+
+#: game/credits:390
+msgctxt "game/credits:390:DefaultText"
+msgid "Joshua Longo"
+msgstr ""
+
+#: game/credits:391
+msgctxt "game/credits:391:DefaultText"
+msgid "Alfonso Lopez"
+msgstr ""
+
+#: game/credits:392
+msgctxt "game/credits:392:DefaultText"
+msgid "Karen Malone"
+msgstr ""
+
+#: game/credits:393
+msgctxt "game/credits:393:DefaultText"
+msgid "Nick Martinez"
+msgstr ""
+
+#: game/credits:394
+msgctxt "game/credits:394:DefaultText"
+msgid "Lexi Mathis"
+msgstr ""
+
+#: game/credits:395
+msgctxt "game/credits:395:DefaultText"
+msgid "Joshua McKibbin"
+msgstr ""
+
+#: game/credits:396
+msgctxt "game/credits:396:DefaultText"
+msgid "Andrew Morales"
+msgstr ""
+
+#: game/credits:397
+msgctxt "game/credits:397:DefaultText"
+msgid "Kimberlyn Palmer"
+msgstr ""
+
+#: game/credits:398
+msgctxt "game/credits:398:DefaultText"
+msgid "Iker Ganchegui Platas"
+msgstr ""
+
+#: game/credits:399
+msgctxt "game/credits:399:DefaultText"
+msgid "Karissa Sanford"
+msgstr ""
+
+#: game/credits:400
+msgctxt "game/credits:400:DefaultText"
+msgid "Geneva Smith"
+msgstr ""
+
+#: game/credits:401
+msgctxt "game/credits:401:DefaultText"
+msgid "Camille Torres"
+msgstr ""
+
+#: game/credits:402
+msgctxt "game/credits:402:DefaultText"
+msgid "Deborah “Bo” Willies"
+msgstr ""
+
+#: game/credits:403
+msgctxt "game/credits:403:DefaultText"
+msgid "Kyle Wong"
+msgstr ""
+
+#: game/credits:404
+msgctxt "game/credits:404:DefaultText"
+msgid "Support Leads"
+msgstr ""
+
+#: game/credits:405
+msgctxt "game/credits:405:DefaultText"
+msgid "Joshua Collins"
+msgstr ""
+
+#: game/credits:406
+msgctxt "game/credits:406:DefaultText"
+msgid "Support Associate Lead"
+msgstr ""
+
+#: game/credits:407
+msgctxt "game/credits:407:DefaultText"
+msgid "Kyle Cobos"
+msgstr ""
+
+#: game/credits:408
+msgctxt "game/credits:408:DefaultText"
+msgid "Private Division – Information Technology"
+msgstr ""
+
+#: game/credits:409
+msgctxt "game/credits:409:DefaultText"
+msgid "Senior IT Manager"
+msgstr ""
+
+#: game/credits:410
+msgctxt "game/credits:410:DefaultText"
+msgid "Brian MacKenzie"
+msgstr ""
+
+#: game/credits:411
+msgctxt "game/credits:411:DefaultText"
+msgid "Online Systems Engineer"
+msgstr ""
+
+#: game/credits:412
+msgctxt "game/credits:412:DefaultText"
+msgid "Matt Hurtado"
+msgstr ""
+
+#: game/credits:413
+msgctxt "game/credits:413:DefaultText"
+msgid "PC Technician, Private Division QA"
+msgstr ""
+
+#: game/credits:414
+msgctxt "game/credits:414:DefaultText"
+msgid "John “JP” Powers"
+msgstr ""
+
+#: game/credits:415
+msgctxt "game/credits:415:DefaultText"
+msgid "Sr. Systems Administrator, Private Division QA"
+msgstr ""
+
+#: game/credits:416
+msgctxt "game/credits:416:DefaultText"
+msgid "Matthew Winchell"
+msgstr ""
+
+#: game/credits:417
+msgctxt "game/credits:417:DefaultText"
+msgid "IT Support Staff"
+msgstr ""
+
+#: game/credits:418
+msgctxt "game/credits:418:DefaultText"
+msgid "Peter Thomatos"
+msgstr ""
+
+#: game/credits:419
+msgctxt "game/credits:419:DefaultText"
+msgid "Andrew Granik"
+msgstr ""
+
+#: game/credits:420
+msgctxt "game/credits:420:DefaultText"
+msgid "J.P. Kiernan"
+msgstr ""
+
+#: game/credits:421
+msgctxt "game/credits:421:DefaultText"
+msgid "Mariah Rupp"
+msgstr ""
+
+#: game/credits:422
+msgctxt "game/credits:422:DefaultText"
+msgid "Absanael Boggio"
+msgstr ""
+
+#: game/credits:423
+msgctxt "game/credits:423:DefaultText"
+msgid "Brian Downey"
+msgstr ""
+
+#: game/credits:424
+msgctxt "game/credits:424:DefaultText"
+msgid "Automation Engineer"
+msgstr ""
+
+#: game/credits:425
+msgctxt "game/credits:425:DefaultText"
+msgid "Noah Masur"
+msgstr ""
+
+#: game/credits:426
+msgctxt "game/credits:426:DefaultText"
+msgid "Private Division – Finance"
+msgstr ""
+
+#: game/credits:427
+msgctxt "game/credits:427:DefaultText"
+msgid "Finance Manager"
+msgstr ""
+
+#: game/credits:428
+msgctxt "game/credits:428:DefaultText"
+msgid "Stephanie Chi"
+msgstr ""
+
+#: game/credits:429
+msgctxt "game/credits:429:DefaultText"
+msgid "Take-Two Interactive – Legal"
+msgstr ""
+
+#: game/credits:430
+msgctxt "game/credits:430:DefaultText"
+msgid "Legal Counsel"
+msgstr ""
+
+#: game/credits:431
+msgctxt "game/credits:431:DefaultText"
+msgid "Melissa Bortnick"
+msgstr ""
+
+#: game/credits:432
+msgctxt "game/credits:432:DefaultText"
+msgid "Aaron Diamond"
+msgstr ""
+
+#: game/credits:433
+msgctxt "game/credits:433:DefaultText"
+msgid "Greg Gibson"
+msgstr ""
+
+#: game/credits:434
+msgctxt "game/credits:434:DefaultText"
+msgid "Howard Cheng"
+msgstr ""
+
+#: game/credits:435
+msgctxt "game/credits:435:DefaultText"
+msgid "Oren Hoffman"
+msgstr ""
+
+#: game/credits:436
+msgctxt "game/credits:436:DefaultText"
+msgid "Nic Murfett"
+msgstr ""
+
+#: game/credits:437
+msgctxt "game/credits:437:DefaultText"
+msgid "Gerald Wang"
+msgstr ""
+
+#: game/credits:438
+msgctxt "game/credits:438:DefaultText"
+msgid "Pete Welch"
+msgstr ""
+
+#: game/credits:439
+msgctxt "game/credits:439:DefaultText"
+msgid "Adam Wexler"
+msgstr ""
+
+#: game/credits:440
+msgctxt "game/credits:440:DefaultText"
+msgid "Take-Two Interactive – HR"
+msgstr ""
+
+#: game/credits:441
+msgctxt "game/credits:441:DefaultText"
+msgid "Sr. Director, People & Development Operations"
+msgstr ""
+
+#: game/credits:442
+msgctxt "game/credits:442:DefaultText"
+msgid "Jessica Eth"
+msgstr ""
+
+#: game/credits:443
+msgctxt "game/credits:443:DefaultText"
+msgid "HR Specialist"
+msgstr ""
+
+#: game/credits:444
+msgctxt "game/credits:444:DefaultText"
+msgid "Sam Gomez"
+msgstr ""
+
+#: game/credits:445
+msgctxt "game/credits:445:DefaultText"
+msgid "Take-Two Interactive – Asia Publishing & Operations"
+msgstr ""
+
+#: game/credits:446
+msgctxt "game/credits:446:DefaultText"
+msgid "VP Publishing, Asia"
+msgstr ""
+
+#: game/credits:447
+msgctxt "game/credits:447:DefaultText"
+msgid "Erik Ford"
+msgstr ""
+
+#: game/credits:448
+msgctxt "game/credits:448:DefaultText"
+msgid "Operations Senior Director, Singapore"
+msgstr ""
+
+#: game/credits:449
+msgctxt "game/credits:449:DefaultText"
+msgid "Eileen Chong"
+msgstr ""
+
+#: game/credits:450
+msgctxt "game/credits:450:DefaultText"
+msgid "Director of Business Development, Selling"
+msgstr ""
+
+#: game/credits:451
+msgctxt "game/credits:451:DefaultText"
+msgid "Dustin Zhao"
+msgstr ""
+
+#: game/credits:452
+msgctxt "game/credits:452:DefaultText"
+msgid "Obsidian Special Thanks"
+msgstr ""
+
+#: game/credits:453
+msgctxt "game/credits:453:DefaultText"
+msgid "Strauss Zelnick"
+msgstr ""
+
+#: game/credits:454
+msgctxt "game/credits:454:DefaultText"
+msgid "Karl Slatoff"
+msgstr ""
+
+#: game/credits:455
+msgctxt "game/credits:455:DefaultText"
+msgid "Lainie Goldstein"
+msgstr ""
+
+#: game/credits:456
+msgctxt "game/credits:456:DefaultText"
+msgid "Chris Casazza"
+msgstr ""
+
+#: game/credits:457
+msgctxt "game/credits:457:DefaultText"
+msgid "Dan Emerson"
+msgstr ""
+
+#: game/credits:458
+msgctxt "game/credits:458:DefaultText"
+msgid "Jordan Katz"
+msgstr ""
+
+#: game/credits:459
+msgctxt "game/credits:459:DefaultText"
+msgid "The teams at Take-Two Interactive and 2K Games for their support, as well as our friends and families."
+msgstr ""
+
+#: game/credits:460
+msgctxt "game/credits:460:DefaultText"
+msgid "Thanks also to Steve Glickstein, David Cox, the Take-Two Sales team, the Take-Two Digital Sales team, the Take-Two Channel Marketing team, the Take-Two HR and Benefits teams, Stuart Morrison, David Ruda, and the Take-Two Marketing Technology team, Siobhan Boes, Hank Diamond, Alan Lewis, Daniel Einzig, Christopher Fiumano, Dorian Rehfield, Kathy Lee-Fung, Buddha Jones, Liquid Advertising, Target Media, Sunny Side Up Creative, Tara Bruno PR, Gartner PR, Renaissance PR, Warning Up, Kool Things, PR Nordic, Best Vision PR, Star2Com, Game Drive, 18Point2, and Keywords."
+msgstr ""
+
+#: game/credits:461
+msgctxt "game/credits:461:DefaultText"
+msgid "Private Division Babies Born During Production"
+msgstr ""
+
+#: game/credits:462
+msgctxt "game/credits:462:DefaultText"
+msgid "Charlie Grant Worosz"
+msgstr ""
+
+#: game/credits:463
+msgctxt "game/credits:463:DefaultText"
+msgid "Skyler Sora Inamine"
+msgstr ""
+
+#: game/credits:464
+msgctxt "game/credits:464:DefaultText"
+msgid "Orion Christopher Morton"
+msgstr ""
+
+#: game/credits:465
+msgctxt "game/credits:465:DefaultText"
+msgid "Exigent"
+msgstr ""
+
+#: game/credits:466
+msgctxt "game/credits:466:DefaultText"
+msgid "General Manager"
+msgstr ""
+
+#: game/credits:467
+msgctxt "game/credits:467:DefaultText"
+msgid "Vikram Saxena"
+msgstr ""
+
+#: game/credits:468
+msgctxt "game/credits:468:DefaultText"
+msgid "3D Art Director"
+msgstr ""
+
+#: game/credits:469
+msgctxt "game/credits:469:DefaultText"
+msgid "Ajay Aggarwal"
+msgstr ""
+
+#: game/credits:470
+msgctxt "game/credits:470:DefaultText"
+msgid "Producer"
+msgstr ""
+
+#: game/credits:471
+msgctxt "game/credits:471:DefaultText"
+msgid "Pawan Singh"
+msgstr ""
+
+#: game/credits:472
+msgctxt "game/credits:472:DefaultText"
+msgid "Lead Artists"
+msgstr ""
+
+#: game/credits:473
+msgctxt "game/credits:473:DefaultText"
+msgid "Praveen Natarajan"
+msgstr ""
+
+#: game/credits:474
+msgctxt "game/credits:474:DefaultText"
+msgid "Mohit Singh Chauhan"
+msgstr ""
+
+#: game/credits:475
+msgctxt "game/credits:475:DefaultText"
+msgid "Himanshu Kumar Gupta"
+msgstr ""
+
+#: game/credits:476
+msgctxt "game/credits:476:DefaultText"
+msgid "3D Artists"
+msgstr ""
+
+#: game/credits:477
+msgctxt "game/credits:477:DefaultText"
+msgid "Amit Srivastava"
+msgstr ""
+
+#: game/credits:478
+msgctxt "game/credits:478:DefaultText"
+msgid "Anirban Sen"
+msgstr ""
+
+#: game/credits:479
+msgctxt "game/credits:479:DefaultText"
+msgid "Ankit Simalti"
+msgstr ""
+
+#: game/credits:480
+msgctxt "game/credits:480:DefaultText"
+msgid "Chetan Sharma"
+msgstr ""
+
+#: game/credits:481
+msgctxt "game/credits:481:DefaultText"
+msgid "Prashant Aggarwal"
+msgstr ""
+
+#: game/credits:482
+msgctxt "game/credits:482:DefaultText"
+msgid "Pushpendra Kumar Singh"
+msgstr ""
+
+#: game/credits:483
+msgctxt "game/credits:483:DefaultText"
+msgid "Rama Shankar Prasad"
+msgstr ""
+
+#: game/credits:484
+msgctxt "game/credits:484:DefaultText"
+msgid "Ravindra Pal Singh"
+msgstr ""
+
+#: game/credits:485
+msgctxt "game/credits:485:DefaultText"
+msgid "Ravish Kumar"
+msgstr ""
+
+#: game/credits:486
+msgctxt "game/credits:486:DefaultText"
+msgid "Saurabh Thuwal"
+msgstr ""
+
+#: game/credits:487
+msgctxt "game/credits:487:DefaultText"
+msgid "Shikha Jain"
+msgstr ""
+
+#: game/credits:488
+msgctxt "game/credits:488:DefaultText"
+msgid "Shivpal Singh Udawat"
+msgstr ""
+
+#: game/credits:489
+msgctxt "game/credits:489:DefaultText"
+msgid "Shubham Kumar"
+msgstr ""
+
+#: game/credits:490
+msgctxt "game/credits:490:DefaultText"
+msgid "Siddhant Phukan"
+msgstr ""
+
+#: game/credits:491
+msgctxt "game/credits:491:DefaultText"
+msgid "Siddharth Bhardwaj"
+msgstr ""
+
+#: game/credits:492
+msgctxt "game/credits:492:DefaultText"
+msgid "Sperasoft"
+msgstr ""
+
+#: game/credits:493
+msgctxt "game/credits:493:DefaultText"
+msgid "UI Concept Artists"
+msgstr ""
+
+#: game/credits:494
+msgctxt "game/credits:494:DefaultText"
+msgid "Pavel Balabanov"
+msgstr ""
+
+#: game/credits:495
+msgctxt "game/credits:495:DefaultText"
+msgid "Alexey Eremin"
+msgstr ""
+
+#: game/credits:496
+msgctxt "game/credits:496:DefaultText"
+msgid "Ruslan Farkhutdinov"
+msgstr ""
+
+#: game/credits:497
+msgctxt "game/credits:497:DefaultText"
+msgid "Daria Kuznetcova"
+msgstr ""
+
+#: game/credits:498
+msgctxt "game/credits:498:DefaultText"
+msgid "Dmitriy Temchenko"
+msgstr ""
+
+#: game/credits:499
+msgctxt "game/credits:499:DefaultText"
+msgid "Virtuos"
+msgstr ""
+
+#: game/credits:500
+msgctxt "game/credits:500:DefaultText"
+msgid "Virtuos Chengdu"
+msgstr ""
+
+#: game/credits:501
+msgctxt "game/credits:501:DefaultText"
+msgid "Concept Team"
+msgstr ""
+
+#: game/credits:502
+msgctxt "game/credits:502:DefaultText"
+msgid "Art Director"
+msgstr ""
+
+#: game/credits:503
+msgctxt "game/credits:503:DefaultText"
+msgid "Nicodemus Mattisson"
+msgstr ""
+
+#: game/credits:504
+msgctxt "game/credits:504:DefaultText"
+msgid "Art Producer"
+msgstr ""
+
+#: game/credits:505
+msgctxt "game/credits:505:DefaultText"
+msgid "He Mingmin"
+msgstr ""
+
+#: game/credits:506
+msgctxt "game/credits:506:DefaultText"
+msgid "Artists"
+msgstr ""
+
+#: game/credits:507
+msgctxt "game/credits:507:DefaultText"
+msgid "Raymond Tan"
+msgstr ""
+
+#: game/credits:508
+msgctxt "game/credits:508:DefaultText"
+msgid "Wu Jinquan"
+msgstr ""
+
+#: game/credits:509
+msgctxt "game/credits:509:DefaultText"
+msgid "Zhang Qi"
+msgstr ""
+
+#: game/credits:510
+msgctxt "game/credits:510:DefaultText"
+msgid "Wang Juntao"
+msgstr ""
+
+#: game/credits:511
+msgctxt "game/credits:511:DefaultText"
+msgid "Ma Tao"
+msgstr ""
+
+#: game/credits:512
+msgctxt "game/credits:512:DefaultText"
+msgid "Virtuos Shanghai"
+msgstr ""
+
+#: game/credits:513
+msgctxt "game/credits:513:DefaultText"
+msgid "Character Team"
+msgstr ""
+
+#: game/credits:514
+msgctxt "game/credits:514:DefaultText"
+msgid "Art Director"
+msgstr ""
+
+#: game/credits:515
+msgctxt "game/credits:515:DefaultText"
+msgid "Wu Wei"
+msgstr ""
+
+#: game/credits:516
+msgctxt "game/credits:516:DefaultText"
+msgid "Art Producer"
+msgstr ""
+
+#: game/credits:517
+msgctxt "game/credits:517:DefaultText"
+msgid "Wang Hui"
+msgstr ""
+
+#: game/credits:518
+msgctxt "game/credits:518:DefaultText"
+msgid "Team Leader"
+msgstr ""
+
+#: game/credits:519
+msgctxt "game/credits:519:DefaultText"
+msgid "Wang Ying"
+msgstr ""
+
+#: game/credits:520
+msgctxt "game/credits:520:DefaultText"
+msgid "Technical Artist"
+msgstr ""
+
+#: game/credits:521
+msgctxt "game/credits:521:DefaultText"
+msgid "Liu Dian"
+msgstr ""
+
+#: game/credits:522
+msgctxt "game/credits:522:DefaultText"
+msgid "Artists"
+msgstr ""
+
+#: game/credits:523
+msgctxt "game/credits:523:DefaultText"
+msgid "Zhou Yaoyao"
+msgstr ""
+
+#: game/credits:524
+msgctxt "game/credits:524:DefaultText"
+msgid "Yao Yafei"
+msgstr ""
+
+#: game/credits:525
+msgctxt "game/credits:525:DefaultText"
+msgid "Tian Lei"
+msgstr ""
+
+#: game/credits:526
+msgctxt "game/credits:526:DefaultText"
+msgid "Guo Fuchang"
+msgstr ""
+
+#: game/credits:527
+msgctxt "game/credits:527:DefaultText"
+msgid "Hu Xinyuan"
+msgstr ""
+
+#: game/credits:528
+msgctxt "game/credits:528:DefaultText"
+msgid "Zhang Xinyang"
+msgstr ""
+
+#: game/credits:529
+msgctxt "game/credits:529:DefaultText"
+msgid "Feng Xianqiang"
+msgstr ""
+
+#: game/credits:530
+msgctxt "game/credits:530:DefaultText"
+msgid "Li Maohua"
+msgstr ""
+
+#: game/credits:531
+msgctxt "game/credits:531:DefaultText"
+msgid "Wu Danhui"
+msgstr ""
+
+#: game/credits:532
+msgctxt "game/credits:532:DefaultText"
+msgid "Wang Ouya"
+msgstr ""
+
+#: game/credits:533
+msgctxt "game/credits:533:DefaultText"
+msgid "Li Ruiqi"
+msgstr ""
+
+#: game/credits:534
+msgctxt "game/credits:534:DefaultText"
+msgid "Liu Chang"
+msgstr ""
+
+#: game/credits:535
+msgctxt "game/credits:535:DefaultText"
+msgid "Virtuos Sparx"
+msgstr ""
+
+#: game/credits:536
+msgctxt "game/credits:536:DefaultText"
+msgid "Character Team"
+msgstr ""
+
+#: game/credits:537
+msgctxt "game/credits:537:DefaultText"
+msgid "Art Director"
+msgstr ""
+
+#: game/credits:538
+msgctxt "game/credits:538:DefaultText"
+msgid "Phan Thanh Hai"
+msgstr ""
+
+#: game/credits:539
+msgctxt "game/credits:539:DefaultText"
+msgid "Art Producer"
+msgstr ""
+
+#: game/credits:540
+msgctxt "game/credits:540:DefaultText"
+msgid "Minh Thu"
+msgstr ""
+
+#: game/credits:541
+msgctxt "game/credits:541:DefaultText"
+msgid "Team Leader"
+msgstr ""
+
+#: game/credits:542
+msgctxt "game/credits:542:DefaultText"
+msgid "Truong Son"
+msgstr ""
+
+#: game/credits:543
+msgctxt "game/credits:543:DefaultText"
+msgid "Artists"
+msgstr ""
+
+#: game/credits:544
+msgctxt "game/credits:544:DefaultText"
+msgid "Phuong Tung"
+msgstr ""
+
+#: game/credits:545
+msgctxt "game/credits:545:DefaultText"
+msgid "Thanh Vinh"
+msgstr ""
+
+#: game/credits:546
+msgctxt "game/credits:546:DefaultText"
+msgid "Hoai Thuong"
+msgstr ""
+
+#: game/credits:547
+msgctxt "game/credits:547:DefaultText"
+msgid "Cinematics Team"
+msgstr ""
+
+#: game/credits:548
+msgctxt "game/credits:548:DefaultText"
+msgid "Animation Director"
+msgstr ""
+
+#: game/credits:549
+msgctxt "game/credits:549:DefaultText"
+msgid "Patrice Compagnon"
+msgstr ""
+
+#: game/credits:550
+msgctxt "game/credits:550:DefaultText"
+msgid "Art Director"
+msgstr ""
+
+#: game/credits:551
+msgctxt "game/credits:551:DefaultText"
+msgid "Jerome Hereng"
+msgstr ""
+
+#: game/credits:552
+msgctxt "game/credits:552:DefaultText"
+msgid "Cinematic Pipeline Director"
+msgstr ""
+
+#: game/credits:553
+msgctxt "game/credits:553:DefaultText"
+msgid "Fernando Castillo"
+msgstr ""
+
+#: game/credits:554
+msgctxt "game/credits:554:DefaultText"
+msgid "Animation Team Lead"
+msgstr ""
+
+#: game/credits:555
+msgctxt "game/credits:555:DefaultText"
+msgid "Nguyen Xuan Vinh"
+msgstr ""
+
+#: game/credits:556
+msgctxt "game/credits:556:DefaultText"
+msgid "Lighting Team Lead"
+msgstr ""
+
+#: game/credits:557
+msgctxt "game/credits:557:DefaultText"
+msgid "Nguyen Le Dang Khoa"
+msgstr ""
+
+#: game/credits:558
+msgctxt "game/credits:558:DefaultText"
+msgid "Production Manager"
+msgstr ""
+
+#: game/credits:559
+msgctxt "game/credits:559:DefaultText"
+msgid "Le Thi Thuy Tien"
+msgstr ""
+
+#: game/credits:560
+msgctxt "game/credits:560:DefaultText"
+msgid "Animation Producer"
+msgstr ""
+
+#: game/credits:561
+msgctxt "game/credits:561:DefaultText"
+msgid "Le Phuong Bao"
+msgstr ""
+
+#: game/credits:562
+msgctxt "game/credits:562:DefaultText"
+msgid "Line Producers"
+msgstr ""
+
+#: game/credits:563
+msgctxt "game/credits:563:DefaultText"
+msgid "Dinh Thi Chan Tu"
+msgstr ""
+
+#: game/credits:564
+msgctxt "game/credits:564:DefaultText"
+msgid "Duong Thuy Chi"
+msgstr ""
+
+#: game/credits:565
+msgctxt "game/credits:565:DefaultText"
+msgid "Animators"
+msgstr ""
+
+#: game/credits:566
+msgctxt "game/credits:566:DefaultText"
+msgid "Nguyen Thien Ca"
+msgstr ""
+
+#: game/credits:567
+msgctxt "game/credits:567:DefaultText"
+msgid "Nguyen Van Tien Dung"
+msgstr ""
+
+#: game/credits:568
+msgctxt "game/credits:568:DefaultText"
+msgid "Nguyen Diem Sao Mai"
+msgstr ""
+
+#: game/credits:569
+msgctxt "game/credits:569:DefaultText"
+msgid "Dinh Thi Tuong Chi"
+msgstr ""
+
+#: game/credits:570
+msgctxt "game/credits:570:DefaultText"
+msgid "Hoang Minh Duc"
+msgstr ""
+
+#: game/credits:571
+msgctxt "game/credits:571:DefaultText"
+msgid "Layout Artist"
+msgstr ""
+
+#: game/credits:572
+msgctxt "game/credits:572:DefaultText"
+msgid "Nguyen Chi Cong"
+msgstr ""
+
+#: game/credits:573
+msgctxt "game/credits:573:DefaultText"
+msgid "Lighting Artist"
+msgstr ""
+
+#: game/credits:574
+msgctxt "game/credits:574:DefaultText"
+msgid "Tran Van Quan"
+msgstr ""
+
+#: game/credits:575
+msgctxt "game/credits:575:DefaultText"
+msgid "Technical Animator"
+msgstr ""
+
+#: game/credits:576
+msgctxt "game/credits:576:DefaultText"
+msgid "Ngo Dang Khoa"
+msgstr ""
+
+#: game/credits:577
+msgctxt "game/credits:577:DefaultText"
+msgid "Technical Artists"
+msgstr ""
+
+#: game/credits:578
+msgctxt "game/credits:578:DefaultText"
+msgid "Nguyen Minh Son"
+msgstr ""
+
+#: game/credits:579
+msgctxt "game/credits:579:DefaultText"
+msgid "Nguyen Chi Quynh"
+msgstr ""
+
+#: game/credits:580
+msgctxt "game/credits:580:DefaultText"
+msgid "VFX & Cloth Artist"
+msgstr ""
+
+#: game/credits:581
+msgctxt "game/credits:581:DefaultText"
+msgid "Nguyen Quang Phuc"
+msgstr ""
+
+#: game/credits:582
+msgctxt "game/credits:582:DefaultText"
+msgid "Business Unit Director"
+msgstr ""
+
+#: game/credits:583
+msgctxt "game/credits:583:DefaultText"
+msgid "Kristian Pedlow"
+msgstr ""
+
+#: game/credits:584
+msgctxt "game/credits:584:DefaultText"
+msgid "Director, North America"
+msgstr ""
+
+#: game/credits:585
+msgctxt "game/credits:585:DefaultText"
+msgid "Jake Digennaro"
+msgstr ""
+
+#: game/credits:586
+msgctxt "game/credits:586:DefaultText"
+msgid "Environment Team"
+msgstr ""
+
+#: game/credits:587
+msgctxt "game/credits:587:DefaultText"
+msgid "Art Director"
+msgstr ""
+
+#: game/credits:588
+msgctxt "game/credits:588:DefaultText"
+msgid "Ron Mayland"
+msgstr ""
+
+#: game/credits:589
+msgctxt "game/credits:589:DefaultText"
+msgid "Art Producer"
+msgstr ""
+
+#: game/credits:590
+msgctxt "game/credits:590:DefaultText"
+msgid "Xuan Huong"
+msgstr ""
+
+#: game/credits:591
+msgctxt "game/credits:591:DefaultText"
+msgid "Team Leader"
+msgstr ""
+
+#: game/credits:592
+msgctxt "game/credits:592:DefaultText"
+msgid "Phuong Thuy"
+msgstr ""
+
+#: game/credits:593
+msgctxt "game/credits:593:DefaultText"
+msgid "Artists"
+msgstr ""
+
+#: game/credits:594
+msgctxt "game/credits:594:DefaultText"
+msgid "Nguyen Nam"
+msgstr ""
+
+#: game/credits:595
+msgctxt "game/credits:595:DefaultText"
+msgid "Phuoc Tri"
+msgstr ""
+
+#: game/credits:596
+msgctxt "game/credits:596:DefaultText"
+msgid "Ky Nam"
+msgstr ""
+
+#: game/credits:597
+msgctxt "game/credits:597:DefaultText"
+msgid "Bao Trung"
+msgstr ""
+
+#: game/credits:598
+msgctxt "game/credits:598:DefaultText"
+msgid "Anh Kim"
+msgstr ""
+
+#: game/credits:599
+msgctxt "game/credits:599:DefaultText"
+msgid "Thanh Hai"
+msgstr ""
+
+#: game/credits:600
+msgctxt "game/credits:600:DefaultText"
+msgid "So An"
+msgstr ""
+
+#: game/credits:601
+msgctxt "game/credits:601:DefaultText"
+msgid "Hong Tho"
+msgstr ""
+
+#: game/credits:602
+msgctxt "game/credits:602:DefaultText"
+msgid "Cam Nhung"
+msgstr ""
+
+#: game/credits:603
+msgctxt "game/credits:603:DefaultText"
+msgid "Van Tuan"
+msgstr ""
+
+#: game/credits:604
+msgctxt "game/credits:604:DefaultText"
+msgid "Virtuos Paris"
+msgstr ""
+
+#: game/credits:605
+msgctxt "game/credits:605:DefaultText"
+msgid "Optimization Team"
+msgstr ""
+
+#: game/credits:606
+msgctxt "game/credits:606:DefaultText"
+msgid "Paris Studio Manager & Virtuos Game Division Director"
+msgstr ""
+
+#: game/credits:607
+msgctxt "game/credits:607:DefaultText"
+msgid "Christophe Gandon"
+msgstr ""
+
+#: game/credits:608
+msgctxt "game/credits:608:DefaultText"
+msgid "Executive Assistant"
+msgstr ""
+
+#: game/credits:609
+msgctxt "game/credits:609:DefaultText"
+msgid "Estelle Maitre"
+msgstr ""
+
+#: game/credits:610
+msgctxt "game/credits:610:DefaultText"
+msgid "Head of HR"
+msgstr ""
+
+#: game/credits:611
+msgctxt "game/credits:611:DefaultText"
+msgid "Corinne Legentil"
+msgstr ""
+
+#: game/credits:612
+msgctxt "game/credits:612:DefaultText"
+msgid "Technical Director"
+msgstr ""
+
+#: game/credits:613
+msgctxt "game/credits:613:DefaultText"
+msgid "Xavier Rozé"
+msgstr ""
+
+#: game/credits:614
+msgctxt "game/credits:614:DefaultText"
+msgid "Lead Software Engineer"
+msgstr ""
+
+#: game/credits:615
+msgctxt "game/credits:615:DefaultText"
+msgid "Damien Poisson"
+msgstr ""
+
+#: game/credits:616
+msgctxt "game/credits:616:DefaultText"
+msgid "IT & Data Manager"
+msgstr ""
+
+#: game/credits:617
+msgctxt "game/credits:617:DefaultText"
+msgid "Kevin Mancino"
+msgstr ""
+
+#: game/credits:618
+msgctxt "game/credits:618:DefaultText"
+msgid "Lead QA"
+msgstr ""
+
+#: game/credits:619
+msgctxt "game/credits:619:DefaultText"
+msgid "Marianne Dubois"
+msgstr ""
+
+#: game/credits:620
+msgctxt "game/credits:620:DefaultText"
+msgid "Technical Producer"
+msgstr ""
+
+#: game/credits:621
+msgctxt "game/credits:621:DefaultText"
+msgid "Marie Hauuy"
+msgstr ""
+
+#: game/credits:622
+msgctxt "game/credits:622:DefaultText"
+msgid "Assistant Producer"
+msgstr ""
+
+#: game/credits:623
+msgctxt "game/credits:623:DefaultText"
+msgid "Brian Dorcet"
+msgstr ""
+
+#: game/credits:624
+msgctxt "game/credits:624:DefaultText"
+msgid "Software Engineers"
+msgstr ""
+
+#: game/credits:625
+msgctxt "game/credits:625:DefaultText"
+msgid "Rodolphe Cargou"
+msgstr ""
+
+#: game/credits:626
+msgctxt "game/credits:626:DefaultText"
+msgid "Camille Koziar"
+msgstr ""
+
+#: game/credits:627
+msgctxt "game/credits:627:DefaultText"
+msgid "Alexandre Ramchurn"
+msgstr ""
+
+#: game/credits:628
+msgctxt "game/credits:628:DefaultText"
+msgid "Florian Papasidero"
+msgstr ""
+
+#: game/credits:629
+msgctxt "game/credits:629:DefaultText"
+msgid "Sami Mossaddek"
+msgstr ""
+
+#: game/credits:630
+msgctxt "game/credits:630:DefaultText"
+msgid "Alejandro Barkasz"
+msgstr ""
+
+#: game/credits:631
+msgctxt "game/credits:631:DefaultText"
+msgid "Gaëtan Monnier"
+msgstr ""
+
+#: game/credits:632
+msgctxt "game/credits:632:DefaultText"
+msgid "Jonathan Lecavelier"
+msgstr ""
+
+#: game/credits:633
+msgctxt "game/credits:633:DefaultText"
+msgid "Technical Artists"
+msgstr ""
+
+#: game/credits:634
+msgctxt "game/credits:634:DefaultText"
+msgid "Clément Lebrun"
+msgstr ""
+
+#: game/credits:635
+msgctxt "game/credits:635:DefaultText"
+msgid "Luc Leture"
+msgstr ""
+
+#: game/credits:636
+msgctxt "game/credits:636:DefaultText"
+msgid "Virtuos Xi'an"
+msgstr ""
+
+#: game/credits:637
+msgctxt "game/credits:637:DefaultText"
+msgid "Environment Team"
+msgstr ""
+
+#: game/credits:638
+msgctxt "game/credits:638:DefaultText"
+msgid "Art Director"
+msgstr ""
+
+#: game/credits:639
+msgctxt "game/credits:639:DefaultText"
+msgid "Frederic Lavignasse"
+msgstr ""
+
+#: game/credits:640
+msgctxt "game/credits:640:DefaultText"
+msgid "Art Producer"
+msgstr ""
+
+#: game/credits:641
+msgctxt "game/credits:641:DefaultText"
+msgid "Fang Kun"
+msgstr ""
+
+#: game/credits:642
+msgctxt "game/credits:642:DefaultText"
+msgid "Team Leader"
+msgstr ""
+
+#: game/credits:643
+msgctxt "game/credits:643:DefaultText"
+msgid "Zhu Xiaojing"
+msgstr ""
+
+#: game/credits:644
+msgctxt "game/credits:644:DefaultText"
+msgid "Artists"
+msgstr ""
+
+#: game/credits:645
+msgctxt "game/credits:645:DefaultText"
+msgid "Ren Jing"
+msgstr ""
+
+#: game/credits:646
+msgctxt "game/credits:646:DefaultText"
+msgid "Ren Yi"
+msgstr ""
+
+#: game/credits:647
+msgctxt "game/credits:647:DefaultText"
+msgid "Zhang Weifan"
+msgstr ""
+
+#: game/credits:648
+msgctxt "game/credits:648:DefaultText"
+msgid "Yan Liya"
+msgstr ""
+
+#: game/credits:649
+msgctxt "game/credits:649:DefaultText"
+msgid "Cui Xiaoyu"
+msgstr ""
+
+#: game/credits:650
+msgctxt "game/credits:650:DefaultText"
+msgid "Casting and Voice Production"
+msgstr ""
+
+#: game/credits:651
+msgctxt "game/credits:651:DefaultText"
+msgid "Cast"
+msgstr ""
+
+#: game/credits:652
+msgctxt "game/credits:652:DefaultText"
+msgid "Critical Role"
+msgstr ""
+
+#: game/credits:653
+msgctxt "game/credits:653:DefaultText"
+msgid "Ashley Burch - Parvati Holcomb"
+msgstr ""
+
+#: game/credits:654
+msgctxt "game/credits:654:DefaultText"
+msgid "Noshir Dalal - Udom Bedford"
+msgstr ""
+
+#: game/credits:655
+msgctxt "game/credits:655:DefaultText"
+msgid "Darin De Paul - Reed Tobson"
+msgstr ""
+
+#: game/credits:656
+msgctxt "game/credits:656:DefaultText"
+msgid "Bruce Dinsmore - SAM"
+msgstr ""
+
+#: game/credits:657
+msgctxt "game/credits:657:DefaultText"
+msgid "Christine Dunsford - Adelaide McDevitt, Additional Voices"
+msgstr ""
+
+#: game/credits:658
+msgctxt "game/credits:658:DefaultText"
+msgid "Crispin Freeman - Charles Rockwell"
+msgstr ""
+
+#: game/credits:659
+msgctxt "game/credits:659:DefaultText"
+msgid "Keston John - Hiram Blythe"
+msgstr ""
+
+#: game/credits:660
+msgctxt "game/credits:660:DefaultText"
+msgid "Mara Junot - Nyoka Ramnarim-Wentworth III"
+msgstr ""
+
+#: game/credits:661
+msgctxt "game/credits:661:DefaultText"
+msgid "Piotr Michael - Phineas Welles"
+msgstr ""
+
+#: game/credits:662
+msgctxt "game/credits:662:DefaultText"
+msgid "Dave Mitchell - Vicar Maximillian DeSoto"
+msgstr ""
+
+#: game/credits:663
+msgctxt "game/credits:663:DefaultText"
+msgid "Sumalee Montano - Zora Blackwood"
+msgstr ""
+
+#: game/credits:664
+msgctxt "game/credits:664:DefaultText"
+msgid "Andrew Morgado - Sanjar Nandi"
+msgstr ""
+
+#: game/credits:665
+msgctxt "game/credits:665:DefaultText"
+msgid "Victoria Sanchez - Marilyn \"Ellie\" Fenhill"
+msgstr ""
+
+#: game/credits:666
+msgctxt "game/credits:666:DefaultText"
+msgid "Jonathan Silver - Felix Millstone"
+msgstr ""
+
+#: game/credits:667
+msgctxt "game/credits:667:DefaultText"
+msgid "Roger Craig Smith - Graham Bryant"
+msgstr ""
+
+#: game/credits:668
+msgctxt "game/credits:668:DefaultText"
+msgid "Courtenay Taylor - ADA, Lilya Hagen, Additional Voices"
+msgstr ""
+
+#: game/credits:669
+msgctxt "game/credits:669:DefaultText"
+msgid "Debra Wilson - Sophia Akande"
+msgstr ""
+
+#: game/credits:670
+msgctxt "game/credits:670:DefaultText"
+msgid "Cast"
+msgstr ""
+
+#: game/credits:671
+msgctxt "game/credits:671:DefaultText"
+msgid "Patrick Abellard - Additional Voices"
+msgstr ""
+
+#: game/credits:672
+msgctxt "game/credits:672:DefaultText"
+msgid "Deena Aziz - Additional Voices"
+msgstr ""
+
+#: game/credits:673
+msgctxt "game/credits:673:DefaultText"
+msgid "Shawn Baichoo - Additional Voices"
+msgstr ""
+
+#: game/credits:674
+msgctxt "game/credits:674:DefaultText"
+msgid "Susan Bain - Hermit, Additional Voices"
+msgstr ""
+
+#: game/credits:675
+msgctxt "game/credits:675:DefaultText"
+msgid "Wyatt Bowen - Additional Voices"
+msgstr ""
+
+#: game/credits:676
+msgctxt "game/credits:676:DefaultText"
+msgid "Tamara Brown - Additional Voices"
+msgstr ""
+
+#: game/credits:677
+msgctxt "game/credits:677:DefaultText"
+msgid "Jeremy Cabrera - Additional Voices"
+msgstr ""
+
+#: game/credits:678
+msgctxt "game/credits:678:DefaultText"
+msgid "Mark Camacho - Clyde Harlow, Additional Voices"
+msgstr ""
+
+#: game/credits:679
+msgctxt "game/credits:679:DefaultText"
+msgid "Stephanie Costa - Gladys Culkelly, Additional Voices"
+msgstr ""
+
+#: game/credits:680
+msgctxt "game/credits:680:DefaultText"
+msgid "Lucinda Davis - Additional Voices"
+msgstr ""
+
+#: game/credits:681
+msgctxt "game/credits:681:DefaultText"
+msgid "Mylène Dihn-Robic - Additional Voices"
+msgstr ""
+
+#: game/credits:682
+msgctxt "game/credits:682:DefaultText"
+msgid "Amber Goldfarb - Additional Voices"
+msgstr ""
+
+#: game/credits:683
+msgctxt "game/credits:683:DefaultText"
+msgid "Al Goulem - Additional Voices"
+msgstr ""
+
+#: game/credits:684
+msgctxt "game/credits:684:DefaultText"
+msgid "Hamza Haq - Additional Voices"
+msgstr ""
+
+#: game/credits:685
+msgctxt "game/credits:685:DefaultText"
+msgid "Scott Humphrey - Additional Voices"
+msgstr ""
+
+#: game/credits:686
+msgctxt "game/credits:686:DefaultText"
+msgid "Alex Ivanovici - Additional Voices"
+msgstr ""
+
+#: game/credits:687
+msgctxt "game/credits:687:DefaultText"
+msgid "Don Jordan - Additional Voices"
+msgstr ""
+
+#: game/credits:688
+msgctxt "game/credits:688:DefaultText"
+msgid "Fred Nguyen Khan - Additional Voices"
+msgstr ""
+
+#: game/credits:689
+msgctxt "game/credits:689:DefaultText"
+msgid "Cat Kidd - Catherine Malin, Additional Voices"
+msgstr ""
+
+#: game/credits:690
+msgctxt "game/credits:690:DefaultText"
+msgid "Mark Krupa - Clive Lumbergh, Additional Voices"
+msgstr ""
+
+#: game/credits:691
+msgctxt "game/credits:691:DefaultText"
+msgid "Tristan D Lalla - Additional Voices"
+msgstr ""
+
+#: game/credits:692
+msgctxt "game/credits:692:DefaultText"
+msgid "Braeden Marcott - Minister Aloysius Clarke"
+msgstr ""
+
+#: game/credits:693
+msgctxt "game/credits:693:DefaultText"
+msgid "Carlo Mestroni - Rufus Trask, Additional Voices"
+msgstr ""
+
+#: game/credits:694
+msgctxt "game/credits:694:DefaultText"
+msgid "Christian Paul - Additional Voices"
+msgstr ""
+
+#: game/credits:695
+msgctxt "game/credits:695:DefaultText"
+msgid "Michelle Rambharose - Junlei Tennyson, Additional Voices"
+msgstr ""
+
+#: game/credits:696
+msgctxt "game/credits:696:DefaultText"
+msgid "Howard Rosenstein - Additional Voices"
+msgstr ""
+
+#: game/credits:697
+msgctxt "game/credits:697:DefaultText"
+msgid "Daniella Sandiford - Additional Voices"
+msgstr ""
+
+#: game/credits:698
+msgctxt "game/credits:698:DefaultText"
+msgid "Terrence Scammell - Lionel Witherspoon, Additional Voices"
+msgstr ""
+
+#: game/credits:699
+msgctxt "game/credits:699:DefaultText"
+msgid "Jennifer Seguin - Theodora Fenhill, Additional Voices"
+msgstr ""
+
+#: game/credits:700
+msgctxt "game/credits:700:DefaultText"
+msgid "Felicia Shulman - Isadora DeSoto, Additional Voices"
+msgstr ""
+
+#: game/credits:701
+msgctxt "game/credits:701:DefaultText"
+msgid "Kathleen Stavert - Celia Robbins, Additional Voices"
+msgstr ""
+
+#: game/credits:702
+msgctxt "game/credits:702:DefaultText"
+msgid "Patricia Summersett - Additional Voices"
+msgstr ""
+
+#: game/credits:703
+msgctxt "game/credits:703:DefaultText"
+msgid "Mahalia G. Tahririha - Additional Voices"
+msgstr ""
+
+#: game/credits:704
+msgctxt "game/credits:704:DefaultText"
+msgid "Russell Yuen - Additional Voices"
+msgstr ""
+
+#: game/credits:705
+msgctxt "game/credits:705:DefaultText"
+msgid "Voice Editing"
+msgstr ""
+
+#: game/credits:706
+msgctxt "game/credits:706:DefaultText"
+msgid "Music"
+msgstr ""
+
+#: game/credits:707
+msgctxt "game/credits:707:DefaultText"
+msgid "Orchestra"
+msgstr ""
+
+#: game/credits:708
+msgctxt "game/credits:708:DefaultText"
+msgid "Songs and Singers"
+msgstr ""
+
+#: game/credits:709
+msgctxt "game/credits:709:DefaultText"
+msgid "Localization by Lionbridge"
+msgstr ""
+
+#: game/credits:710
+msgctxt "game/credits:710:DefaultText"
+msgid "Lionbridge - Localization Translation Team"
+msgstr ""
+
+#: game/credits:711
+msgctxt "game/credits:711:DefaultText"
+msgid "Senior Project Manager"
+msgstr ""
+
+#: game/credits:712
+msgctxt "game/credits:712:DefaultText"
+msgid "Maciej Mamiński"
+msgstr ""
+
+#: game/credits:713
+msgctxt "game/credits:713:DefaultText"
+msgid "Production Manager"
+msgstr ""
+
+#: game/credits:714
+msgctxt "game/credits:714:DefaultText"
+msgid "Katarzyna Druszcz"
+msgstr ""
+
+#: game/credits:715
+msgctxt "game/credits:715:DefaultText"
+msgid "Senior Project Manager (Spanish)"
+msgstr ""
+
+#: game/credits:716
+msgctxt "game/credits:716:DefaultText"
+msgid "Iina Sainio"
+msgstr ""
+
+#: game/credits:717
+msgctxt "game/credits:717:DefaultText"
+msgid "Project Manager (Spanish)"
+msgstr ""
+
+#: game/credits:718
+msgctxt "game/credits:718:DefaultText"
+msgid "Marian López"
+msgstr ""
+
+#: game/credits:719
+msgctxt "game/credits:719:DefaultText"
+msgid "Linguistic Coordinator (Spanish)"
+msgstr ""
+
+#: game/credits:720
+msgctxt "game/credits:720:DefaultText"
+msgid "Juanma Pérez"
+msgstr ""
+
+#: game/credits:721
+msgctxt "game/credits:721:DefaultText"
+msgid "Project Manager (Brazilian Portuguese)"
+msgstr ""
+
+#: game/credits:722
+msgctxt "game/credits:722:DefaultText"
+msgid "Glaucia Quadros"
+msgstr ""
+
+#: game/credits:723
+msgctxt "game/credits:723:DefaultText"
+msgid "Linguistic Coordinator (Brazilian Portuguese)"
+msgstr ""
+
+#: game/credits:724
+msgctxt "game/credits:724:DefaultText"
+msgid "Pedro Pires"
+msgstr ""
+
+#: game/credits:725
+msgctxt "game/credits:725:DefaultText"
+msgid "Project Manager (Japanese)"
+msgstr ""
+
+#: game/credits:726
+msgctxt "game/credits:726:DefaultText"
+msgid "Hiroyuki Kamakami"
+msgstr ""
+
+#: game/credits:727
+msgctxt "game/credits:727:DefaultText"
+msgid "Linguistic Coordinator (Chinese)"
+msgstr ""
+
+#: game/credits:728
+msgctxt "game/credits:728:DefaultText"
+msgid "Gary Wang"
+msgstr ""
+
+#: game/credits:729
+msgctxt "game/credits:729:DefaultText"
+msgid "Linguistic Coordinators (French)"
+msgstr ""
+
+#: game/credits:730
+msgctxt "game/credits:730:DefaultText"
+msgid "Tristan Lhomme"
+msgstr ""
+
+#: game/credits:731
+msgctxt "game/credits:731:DefaultText"
+msgid "Morgane Munns"
+msgstr ""
+
+#: game/credits:732
+msgctxt "game/credits:732:DefaultText"
+msgid "Linguistic Coordinator (German)"
+msgstr ""
+
+#: game/credits:733
+msgctxt "game/credits:733:DefaultText"
+msgid "Jan Dittrich"
+msgstr ""
+
+#: game/credits:734
+msgctxt "game/credits:734:DefaultText"
+msgid "Linguistic Coordinator (Polish)"
+msgstr ""
+
+#: game/credits:735
+msgctxt "game/credits:735:DefaultText"
+msgid "Victoria Klama"
+msgstr ""
+
+#: game/credits:736
+msgctxt "game/credits:736:DefaultText"
+msgid "Narrative Design"
+msgstr ""
+
+#: game/credits:737
+msgctxt "game/credits:737:DefaultText"
+msgid "Kendall Davis"
+msgstr ""
+
+#: game/credits:738
+msgctxt "game/credits:738:DefaultText"
+msgid "Program Management"
+msgstr ""
+
+#: game/credits:739
+msgctxt "game/credits:739:DefaultText"
+msgid "Erin M. Ellis"
+msgstr ""
+
+#: game/credits:740
+msgctxt "game/credits:740:DefaultText"
+msgid "Sarah Huschle"
+msgstr ""
+
+#: game/credits:741
+msgctxt "game/credits:741:DefaultText"
+msgid "Lief Thompson"
+msgstr ""
+
+#: game/credits:742
+msgctxt "game/credits:742:DefaultText"
+msgid "Lionbridge - Localization Quality Assurance"
+msgstr ""
+
+#: game/credits:743
+msgctxt "game/credits:743:DefaultText"
+msgid "Senior LQA Test Manager"
+msgstr ""
+
+#: game/credits:744
+msgctxt "game/credits:744:DefaultText"
+msgid "Damian Domach"
+msgstr ""
+
+#: game/credits:745
+msgctxt "game/credits:745:DefaultText"
+msgid "Test Managers"
+msgstr ""
+
+#: game/credits:746
+msgctxt "game/credits:746:DefaultText"
+msgid "Konrad Lesiak"
+msgstr ""
+
+#: game/credits:747
+msgctxt "game/credits:747:DefaultText"
+msgid "Weiwei Yin"
+msgstr ""
+
+#: game/credits:748
+msgctxt "game/credits:748:DefaultText"
+msgid "Test Leads"
+msgstr ""
+
+#: game/credits:749
+msgctxt "game/credits:749:DefaultText"
+msgid "Piotr Polikarski"
+msgstr ""
+
+#: game/credits:750
+msgctxt "game/credits:750:DefaultText"
+msgid "Zijian Zhao"
+msgstr ""
+
+#: game/credits:751
+msgctxt "game/credits:751:DefaultText"
+msgid "Brazilian Portuguese Testers"
+msgstr ""
+
+#: game/credits:752
+msgctxt "game/credits:752:DefaultText"
+msgid "Eduardo Bernardes"
+msgstr ""
+
+#: game/credits:753
+msgctxt "game/credits:753:DefaultText"
+msgid "Walter Dos Santos"
+msgstr ""
+
+#: game/credits:754
+msgctxt "game/credits:754:DefaultText"
+msgid "Chinese Simplified Testers"
+msgstr ""
+
+#: game/credits:755
+msgctxt "game/credits:755:DefaultText"
+msgid "Qianyu Pi"
+msgstr ""
+
+#: game/credits:756
+msgctxt "game/credits:756:DefaultText"
+msgid "Zhixin Wang"
+msgstr ""
+
+#: game/credits:757
+msgctxt "game/credits:757:DefaultText"
+msgid "French Testers"
+msgstr ""
+
+#: game/credits:758
+msgctxt "game/credits:758:DefaultText"
+msgid "Pablo Bellostas"
+msgstr ""
+
+#: game/credits:759
+msgctxt "game/credits:759:DefaultText"
+msgid "Deborah Gawlikowska"
+msgstr ""
+
+#: game/credits:760
+msgctxt "game/credits:760:DefaultText"
+msgid "German Testers"
+msgstr ""
+
+#: game/credits:761
+msgctxt "game/credits:761:DefaultText"
+msgid "Martin Bräuer"
+msgstr ""
+
+#: game/credits:762
+msgctxt "game/credits:762:DefaultText"
+msgid "Jennifer Kossmann"
+msgstr ""
+
+#: game/credits:763
+msgctxt "game/credits:763:DefaultText"
+msgid "Italian Testers"
+msgstr ""
+
+#: game/credits:764
+msgctxt "game/credits:764:DefaultText"
+msgid "Alex Angelini"
+msgstr ""
+
+#: game/credits:765
+msgctxt "game/credits:765:DefaultText"
+msgid "Nicola Spinoni"
+msgstr ""
+
+#: game/credits:766
+msgctxt "game/credits:766:DefaultText"
+msgid "Japanese Testers"
+msgstr ""
+
+#: game/credits:767
+msgctxt "game/credits:767:DefaultText"
+msgid "Shinjiro Azumi"
+msgstr ""
+
+#: game/credits:768
+msgctxt "game/credits:768:DefaultText"
+msgid "Mari Hisano"
+msgstr ""
+
+#: game/credits:769
+msgctxt "game/credits:769:DefaultText"
+msgid "Tensho Ohashi"
+msgstr ""
+
+#: game/credits:770
+msgctxt "game/credits:770:DefaultText"
+msgid "Korean Testers"
+msgstr ""
+
+#: game/credits:771
+msgctxt "game/credits:771:DefaultText"
+msgid "JoongKee Choi"
+msgstr ""
+
+#: game/credits:772
+msgctxt "game/credits:772:DefaultText"
+msgid "Solho Lee"
+msgstr ""
+
+#: game/credits:773
+msgctxt "game/credits:773:DefaultText"
+msgid "Polish Testers"
+msgstr ""
+
+#: game/credits:774
+msgctxt "game/credits:774:DefaultText"
+msgid "Marek Kopański"
+msgstr ""
+
+#: game/credits:775
+msgctxt "game/credits:775:DefaultText"
+msgid "Mateusz Matuszewski"
+msgstr ""
+
+#: game/credits:776
+msgctxt "game/credits:776:DefaultText"
+msgid "Russian Testers"
+msgstr ""
+
+#: game/credits:777
+msgctxt "game/credits:777:DefaultText"
+msgid "Vadym Abramuk"
+msgstr ""
+
+#: game/credits:778
+msgctxt "game/credits:778:DefaultText"
+msgid "Maksym Davydenko"
+msgstr ""
+
+#: game/credits:779
+msgctxt "game/credits:779:DefaultText"
+msgid "Spanish Testers"
+msgstr ""
+
+#: game/credits:780
+msgctxt "game/credits:780:DefaultText"
+msgid "Andrés Bustos Miguel"
+msgstr ""
+
+#: game/credits:781
+msgctxt "game/credits:781:DefaultText"
+msgid "Diego Fernández Rodríguez"
+msgstr ""
+
+#: game/credits:782
+msgctxt "game/credits:782:DefaultText"
+msgid "Take-Two & Private Division Special Thanks"
+msgstr ""
+
+#: game/credits:783
+msgctxt "game/credits:783:DefaultText"
+msgid "KT, for saying yes"
+msgstr ""
+
+#: game/credits:784
+msgctxt "game/credits:784:DefaultText"
+msgid "Kemski, for a lifetime supply of salt."
+msgstr ""
+
+#: game/credits:785
+msgctxt "game/credits:785:DefaultText"
+msgid "Louie"
+msgstr ""
+
+#: game/credits:786
+msgctxt "game/credits:786:DefaultText"
+msgid "Special thanks to my mami, Nadegda."
+msgstr ""
+
+#: game/credits:787
+msgctxt "game/credits:787:DefaultText"
+msgid "To Erica, Abi, Sofi, Castle, Juli, Fathom, and Joaquin.  Love you guys"
+msgstr ""
+
+#: game/credits:788
+msgctxt "game/credits:788:DefaultText"
+msgid "Evgeny Adamenkov"
+msgstr ""
+
+#: game/credits:789
+msgctxt "game/credits:789:DefaultText"
+msgid "Thank you to my beautiful wife Anamaria Zamudio, to my mom Doris Du Bois and my dog Izzy for all your love and support throughout the years. - Aaron Du Bois"
+msgstr ""
+
+#: game/credits:790
+msgctxt "game/credits:790:DefaultText"
+msgid "Thanks Icy-Pole Company for all the birthday caterings!"
+msgstr ""
+
+#: game/credits:791
+msgctxt "game/credits:791:DefaultText"
+msgid "I'd like to give special thanks to my wife, Negah, for her love and support as well as for bringing our two beautiful children, Alina and Marcus, into this Outer World."
+msgstr ""
+
+#: game/credits:792
+msgctxt "game/credits:792:DefaultText"
+msgid "Sweet P, Little B, Tiny T and the Fam. - Loeu Heng"
+msgstr ""
+
+#: game/credits:793
+msgctxt "game/credits:793:DefaultText"
+msgid "Lorie Hernández"
+msgstr ""
+
+#: game/credits:794
+msgctxt "game/credits:794:DefaultText"
+msgid "Head Colorer - Leloo Multipass"
+msgstr ""
+
+#: game/credits:795
+msgctxt "game/credits:795:DefaultText"
+msgid "Associate Colorer - Izzy Busy Bee"
+msgstr ""
+
+#: game/credits:796
+msgctxt "game/credits:796:DefaultText"
+msgid "Assistant Colorer - Lil Buddy"
+msgstr ""
+
+#: game/credits:797
+msgctxt "game/credits:797:DefaultText"
+msgid "To the loves of my life, Kelly and Samantha. Thank you both for standing by me. - Terry Hess"
+msgstr ""
+
+#: game/credits:798
+msgctxt "game/credits:798:DefaultText"
+msgid "To Anne and Michael. Thank you for raising me as a nerd. - Erin K. Ahern"
+msgstr ""
+
+#: game/credits:799
+msgctxt "game/credits:799:DefaultText"
+msgid "Rheia, Twice, Lyn Inaizumi, Rilakkuma, The Cash Cow, and all Kingdom Citizens"
+msgstr ""
+
+#: game/credits:800
+msgctxt "game/credits:800:DefaultText"
+msgid "To my wonderful wife, Jacqui, for always being my safe haven amongst the Outer Worlds. - Constant Gaw"
+msgstr ""
+
+#: game/credits:801
+msgctxt "game/credits:801:DefaultText"
+msgid "Cindi Rice"
+msgstr ""
+
+#: game/credits:802
+msgctxt "game/credits:802:DefaultText"
+msgid "Tim, Colleen, Zach, Hans, Yvonne, and Greg - Syd"
+msgstr ""
+
+#: game/credits:803
+msgctxt "game/credits:803:DefaultText"
+msgid "To Robert for being INCREDIBLY patient. - Tim Cain"
+msgstr ""
+
+#: game/credits:804
+msgctxt "game/credits:804:DefaultText"
+msgid "Carol Whitehead and Larry Hernández"
+msgstr ""
+
+#: game/credits:805
+msgctxt "game/credits:805:DefaultText"
+msgid "Special thanks to my loving wife Latoshia, and Bradley, the best kid on the planet. - Brandon Rosser"
+msgstr ""
+
+#: game/credits:806
+msgctxt "game/credits:806:DefaultText"
+msgid "Thanks to my wonderful husband, Hiren, for all of his love and support! - Carrie"
+msgstr ""
+
+#: game/credits:807
+msgctxt "game/credits:807:DefaultText"
+msgid "To my amazing wife Monique, my awesome daughters Madison and Hayden, and Cooper, the greatest dog ever…Love you all!! - Brian Goetz"
+msgstr ""
+
+#: game/credits:808
+msgctxt "game/credits:808:DefaultText"
+msgid "Tavi and Autumn Navarro"
+msgstr ""
+
+#: game/credits:809
+msgctxt "game/credits:809:DefaultText"
+msgid "Lennart Rudolph"
+msgstr ""
+
+#: game/credits:810
+msgctxt "game/credits:810:DefaultText"
+msgid "Terri, Jackie, Katie, and Daisy"
+msgstr ""
+
+#: game/credits:811
+msgctxt "game/credits:811:DefaultText"
+msgid "To Daryan, thank you for your unwavering love and support. I couldn't do this without you. - Dylan Hairston"
+msgstr ""
+
+#: game/credits:812
+msgctxt "game/credits:812:DefaultText"
+msgid "Thanks to my family: Carrie Williams, Korey, Jason, Lauren, and Hailey Moritz, Sammy Boyarsky, Bonnie Jon and Eric Rumble, and my parents - Leonard"
+msgstr ""
+
+#: game/credits:813
+msgctxt "game/credits:813:DefaultText"
+msgid "Jason Anderson, our Troika brother"
+msgstr ""
+
+#: game/credits:814
+msgctxt "game/credits:814:DefaultText"
+msgid "To Celestina <3 This is me from the past. Spooky. If you’re reading this, I hope you had fun. Thanks for playing. Same goes for the rest of you. - Paul"
+msgstr ""
+
+#: game/credits:815
+msgctxt "game/credits:815:DefaultText"
+msgid "Thanks to Kim, Erin, and Kira Staples for their love and support. - Charles Staples"
+msgstr ""
+
+#: game/credits:816
+msgctxt "game/credits:816:DefaultText"
+msgid "Thank you to my wonderful mother for always supporting and believing in my love for creating art. - B.R. Guthrie"
+msgstr ""
+
+#: game/credits:817
+msgctxt "game/credits:817:DefaultText"
+msgid "Love to my family (Grace, Gerardo, & Isaac) and hubbykins, Matt! Also shoutout to my \"At Death's Door\" D&D 5e crew for slaying baddies together since 2016 and cheers to my homies in our \"Children of the Gods\" campaign. I couldn't ask for a better group of clever, collaborative storytellers to adventure and make games with! <3 - Michie"
+msgstr ""
+
+#: game/credits:818
+msgctxt "game/credits:818:DefaultText"
+msgid "Daniere Lattiere, Gloria Lattiere, Rhea VP Banks, and Shauna. - Glenn Lattiere"
+msgstr ""
+
+#: game/credits:819
+msgctxt "game/credits:819:DefaultText"
+msgid "Para os meus Pais; Obrigado. ~ Adriana Catarino"
+msgstr ""
+
+#: game/credits:820
+msgctxt "game/credits:820:DefaultText"
+msgid "Nathaniel, you are my muse. ~ Adriana Catarino"
+msgstr ""
+
+#: game/credits:821
+msgctxt "game/credits:821:DefaultText"
+msgid "To my amazing fiancé and best friend in the whole galaxy! Thank you for always being the Deni-est Deni.  -Aldo Vicente"
+msgstr ""
+
+#: game/credits:822
+msgctxt "game/credits:822:DefaultText"
+msgid "To Sarah, David, Jasmine, and Cindy: Love you all!"
+msgstr ""
+
+#: game/credits:823
+msgctxt "game/credits:823:DefaultText"
+msgid "To Yesenia, Melissa and Victor Christensen. - Tyson Christensen"
+msgstr ""
+
+#: game/credits:824
+msgctxt "game/credits:824:DefaultText"
+msgid "To Elena and Ted Straub, thank you for your support along my journey. - Marina"
+msgstr ""
+
+#: game/credits:825
+msgctxt "game/credits:825:DefaultText"
+msgid "Thank you to Mom, Dad, all my family and friends...Big thank you to Louie for always being the goodest boy, and lending us your crazy sounds. - Nicole Evanich"
+msgstr ""
+
+#: game/credits:826
+msgctxt "game/credits:826:DefaultText"
+msgid "Thank you to everyone who has taught and contributed to Obsidian University."
+msgstr ""
+
+#: game/credits:827
+msgctxt "game/credits:827:DefaultText"
+msgid "Development Weddings"
+msgstr ""
+
+#: game/credits:828
+msgctxt "game/credits:828:DefaultText"
+msgid "Constant Gaw and Jacqui Cheng"
+msgstr ""
+
+#: game/credits:829
+msgctxt "game/credits:829:DefaultText"
+msgid "Development Babies"
+msgstr ""
+
+#: game/credits:830
+msgctxt "game/credits:830:DefaultText"
+msgid "Marcus Daily"
+msgstr ""
+
+#: game/credits:831
+msgctxt "game/credits:831:DefaultText"
+msgid "Declan Ethan Edwards"
+msgstr ""
+
+#: game/credits:832
+msgctxt "game/credits:832:DefaultText"
+msgid "Joaquin Elijah Flores-Bell"
+msgstr ""
+
+#: game/credits:833
+msgctxt "game/credits:833:DefaultText"
+msgid "Westley Alexander Minh McMurry"
+msgstr ""
+
+#: game/credits:834
+msgctxt "game/credits:834:DefaultText"
+msgid "Patrick Stewart"
+msgstr ""
+
+#: game/credits:835
+msgctxt "game/credits:835:DefaultText"
+msgid "Meela Valdes"
+msgstr ""
+
+#: game/credits:836
+msgctxt "game/credits:836:DefaultText"
+msgid "In Memoriam"
+msgstr ""
+
+#: game/credits:837
+msgctxt "game/credits:837:DefaultText"
+msgid "Gregory T. Dion"
+msgstr ""
+
+#: game/credits:838
+msgctxt "game/credits:838:DefaultText"
+msgid "For my grandfather Kambiz Kiani (1935-2018). Thank you for always supporting me. I love you. -Ariana Tavantzis"
+msgstr ""
+
+#: game/credits:839
+msgctxt "game/credits:839:DefaultText"
+msgid "Boris"
+msgstr ""
+
+#: game/credits:840
+msgctxt "game/credits:840:DefaultText"
+msgid "Nguyen Van Son"
+msgstr ""
+
+#: game/credits:841
+msgctxt "game/credits:841:DefaultText"
+msgid "Bruce P. Radue"
+msgstr ""
+
+#: game/credits:842
+msgctxt "game/credits:842:DefaultText"
+msgid "Raymond P. Hagarty"
+msgstr ""
+
+#: game/credits:843
+msgctxt "game/credits:843:DefaultText"
+msgid "For Toby, couch potato, lover of treats, and truly this man's best friend for 10 wonderful years. - Brandon Rosser"
+msgstr ""
+
+#: game/credits:844
+msgctxt "game/credits:844:DefaultText"
+msgid "Mochi, the bestest rat"
+msgstr ""
+
+#: game/credits:845
+msgctxt "game/credits:845:DefaultText"
+msgid "Gary Williams"
+msgstr ""
+
+#: game/credits:846
+msgctxt "game/credits:846:DefaultText"
+msgid "Teddy"
+msgstr ""
+
+#: game/credits:847
+msgctxt "game/credits:847:DefaultText"
+msgid "Development Tabletop Surviving Characters - For 3+ Years of Service"
+msgstr ""
+
+#: game/credits:848
+msgctxt "game/credits:848:DefaultText"
+msgid "Michie Vargas - Ashabelle \"Ash\" de'Lucca - Level 12 Bloodhunter"
+msgstr ""
+
+#: game/credits:849
+msgctxt "game/credits:849:DefaultText"
+msgid "Seth McCaughey - Sir Aillig Frasier Hillnettle - Level 9 Bard/Level 3 Fighter"
+msgstr ""
+
+#: game/credits:850
+msgctxt "game/credits:850:DefaultText"
+msgid "Development Tabletop Characters Slain"
+msgstr ""
+
+#: game/credits:851
+msgctxt "game/credits:851:DefaultText"
+msgid "Live Support Team"
+msgstr ""
+
+#: game/credits:852
+msgctxt "game/credits:852:DefaultText"
+msgid "Marketing/Communications"
+msgstr ""
+
+#: game/credits:853
+msgctxt "game/credits:853:DefaultText"
+msgid "PR Manager/Communications Director"
+msgstr ""
+
+#: game/credits:854
+msgctxt "game/credits:854:DefaultText"
+msgid "Mikey Dowling"
+msgstr ""
+
+#: game/credits:855
+msgctxt "game/credits:855:DefaultText"
+msgid "Community Manager"
+msgstr ""
+
+#: game/credits:856
+msgctxt "game/credits:856:DefaultText"
+msgid "Aarik Dorobiala"
+msgstr ""
+
+#: game/credits:857
+msgctxt "game/credits:857:DefaultText"
+msgid "Graphic Artist"
+msgstr ""
+
+#: game/credits:858
+msgctxt "game/credits:858:DefaultText"
+msgid "Daniel Peterson"
+msgstr ""
+
+#: game/credits:859
+msgctxt "game/credits:859:DefaultText"
+msgid "Project Manager"
+msgstr ""
+
+#: game/credits:860
+msgctxt "game/credits:860:DefaultText"
+msgid "Daniel Ham"
+msgstr ""
+
+#: game/credits:861
+msgctxt "game/credits:861:DefaultText"
+msgid "Product Services Manager"
+msgstr ""
+
+#: game/credits:862
+msgctxt "game/credits:862:DefaultText"
+msgid "Samuel Chin"
+msgstr ""
+
+#: game/credits:863
+msgctxt "game/credits:863:DefaultText"
+msgid "Web Programmer"
+msgstr ""
+
+#: game/credits:864
+msgctxt "game/credits:864:DefaultText"
+msgid "Devin Thomas"
+msgstr ""
+
+#: game/credits:865
+msgctxt "game/credits:865:DefaultText"
+msgid "Additional Support"
+msgstr ""
+
+#: game/credits:866
+msgctxt "game/credits:866:DefaultText"
+msgid "Obsidian University"
+msgstr ""
+
+#: game/credits:867
+msgctxt "game/credits:867:DefaultText"
+msgid "Obsidian University Coordinator"
+msgstr ""
+
+#: game/credits:868
+msgctxt "game/credits:868:DefaultText"
+msgid "Alec Frey"
+msgstr ""
+
+#: game/credits:869
+msgctxt "game/credits:869:DefaultText"
+msgid "Organizers"
+msgstr ""
+
+#: game/credits:870
+msgctxt "game/credits:870:DefaultText"
+msgid "Justin Britch"
+msgstr ""
+
+#: game/credits:871
+msgctxt "game/credits:871:DefaultText"
+msgid "Caleb Diaz"
+msgstr ""
+
+#: game/credits:872
+msgctxt "game/credits:872:DefaultText"
+msgid "Wes Webb"
+msgstr ""
+
+#: game/credits:874
+msgctxt "game/credits:874:DefaultText"
+msgid "Chris Fulton"
+msgstr ""
+
+#: game/credits:875
+msgctxt "game/credits:875:DefaultText"
+msgid "Erik Price"
+msgstr ""
+
+#: game/credits:876
+msgctxt "game/credits:876:DefaultText"
+msgid "Vlasta Vrana - End Slide Narrator"
+msgstr ""
+
+#: game/credits:877
+msgctxt "game/credits:877:DefaultText"
+msgid "Sara Cravens - Additional Voices"
+msgstr ""
+
+#: game/credits:878
+msgctxt "game/credits:878:DefaultText"
+msgid "Facial animations generated with FaceFX. (c)2002-2019, OC3 Entertainment, Inc. and its licensors. All rights reserved."
+msgstr ""
+
+#: game/credits:879
+msgctxt "game/credits:879:DefaultText"
+msgid "Powered by Wwise (c)2006-2019 Audiokinetic Inc. All rights reserved."
+msgstr ""
+
+#: game/credits:880
+msgctxt "game/credits:880:DefaultText"
+msgid "Unreal(R) is a trademark or registered trademark of Epic Games, Inc. in the United States of America."
+msgstr ""
+
+#: game/credits:881
+msgctxt "game/credits:881:DefaultText"
+msgid "Unreal(R) Engine, Copyright 1998-2019, Epic Games, Inc. All rights reserved."
+msgstr ""
+
+#: game/credits:882
+msgctxt "game/credits:882:DefaultText"
+msgid "Includes 3D production and optimization powered by InstaLOD. InstaLOD is a trademark of InstaLOD UG (haftungsbeschraenkt)."
+msgstr ""
+
+#: game/credits:883
+msgctxt "game/credits:883:DefaultText"
+msgid "Uses Megascans (R), Copyright (c) - 2019 Quixel AB"
+msgstr ""
+
+#: game/credits:884
+msgctxt "game/credits:884:DefaultText"
+msgid "Tony Blackwell"
+msgstr ""
+
+#: game/credits:885
+msgctxt "game/credits:885:DefaultText"
+msgid "Pierson Marks"
+msgstr ""
+
+#: game/credits:886
+msgctxt "game/credits:886:DefaultText"
+msgid "Conor Walsh"
+msgstr ""
+
+#: game/credits:887
+msgctxt "game/credits:887:DefaultText"
+msgid "Thank you to Stanisław Barańczak (from Ossolineum), Yuichi Takamatsu (from Iwanami Shoten), Harro Christensen (from Heyne Verlag), Joachim Körber (from Heyne Verlag), Wolfgang Neuhaus (from Heyne Verlag), Antonio Rivero Taravillo (from Pre-Textos), Roberto Sanesi (from UTET), Yves Bonnefoy (from La Pléiade), Grigory Kruzhkov, Paulo Vizioli (from Companhia das Letras), and 傅浩 (from 上海译文出版社) for your translations of \"The Second Coming\" by William Butler Yeats."
+msgstr ""
+
+#: game/credits:888
+msgctxt "game/credits:888:DefaultText"
+msgid "Thank you to Stanisław Barańczak, José Ángel Valente, Cristina Campom, Dmitriy Shchedrovitskiy, Sonia Moreira, and 존 던 저, 김영남 역 (from 지식을만드는지식) for your translations of \"A Nocturnal upon St. Lucy's Day\" by John Donne."
+msgstr ""
+
+#: game/credits:889
+msgctxt "game/credits:889:DefaultText"
+msgid "VO Production -  GAME ON"
+msgstr ""
+
+#: game/credits:890
+msgctxt "game/credits:890:DefaultText"
+msgid "CEO"
+msgstr ""
+
+#: game/credits:891
+msgctxt "game/credits:891:DefaultText"
+msgid "Sam Girardin"
+msgstr ""
+
+#: game/credits:892
+msgctxt "game/credits:892:DefaultText"
+msgid "Executive Producer"
+msgstr ""
+
+#: game/credits:893
+msgctxt "game/credits:893:DefaultText"
+msgid "Sabrina Jacques"
+msgstr ""
+
+#: game/credits:894
+msgctxt "game/credits:894:DefaultText"
+msgid "Production Managers"
+msgstr ""
+
+#: game/credits:895
+msgctxt "game/credits:895:DefaultText"
+msgid "Nina Tourigny"
+msgstr ""
+
+#: game/credits:896
+msgctxt "game/credits:896:DefaultText"
+msgid "Nick Lanza"
+msgstr ""
+
+#: game/credits:897
+msgctxt "game/credits:897:DefaultText"
+msgid "Production Coordinators"
+msgstr ""
+
+#: game/credits:898
+msgctxt "game/credits:898:DefaultText"
+msgid "Amandine Chabanne"
+msgstr ""
+
+#: game/credits:899
+msgctxt "game/credits:899:DefaultText"
+msgid "Christian Maestas"
+msgstr ""
+
+#: game/credits:900
+msgctxt "game/credits:900:DefaultText"
+msgid "April Geirman"
+msgstr ""
+
+#: game/credits:901
+msgctxt "game/credits:901:DefaultText"
+msgid "Account Manager"
+msgstr ""
+
+#: game/credits:902
+msgctxt "game/credits:902:DefaultText"
+msgid "Arnaud Barenne"
+msgstr ""
+
+#: game/credits:903
+msgctxt "game/credits:903:DefaultText"
+msgid "Financial Controller"
+msgstr ""
+
+#: game/credits:904
+msgctxt "game/credits:904:DefaultText"
+msgid "David Lavergne"
+msgstr ""
+
+#: game/credits:905
+msgctxt "game/credits:905:DefaultText"
+msgid "Audio Techs & Post"
+msgstr ""
+
+#: game/credits:906
+msgctxt "game/credits:906:DefaultText"
+msgid "François Lafrenière"
+msgstr ""
+
+#: game/credits:907
+msgctxt "game/credits:907:DefaultText"
+msgid "Valentin Briand"
+msgstr ""
+
+#: game/credits:908
+msgctxt "game/credits:908:DefaultText"
+msgid "Gabriel Duboc"
+msgstr ""
+
+#: game/credits:909
+msgctxt "game/credits:909:DefaultText"
+msgid "Patrick Goyette"
+msgstr ""
+
+#: game/credits:910
+msgctxt "game/credits:910:DefaultText"
+msgid "Samuel Haythornthwaite"
+msgstr ""
+
+#: game/credits:911
+msgctxt "game/credits:911:DefaultText"
+msgid "Marie-Miel Lacasse"
+msgstr ""
+
+#: game/credits:912
+msgctxt "game/credits:912:DefaultText"
+msgid "Amélie Lamy"
+msgstr ""
+
+#: game/credits:913
+msgctxt "game/credits:913:DefaultText"
+msgid "Jules Montreuil"
+msgstr ""
+
+#: game/credits:914
+msgctxt "game/credits:914:DefaultText"
+msgid "Patrick Rioux"
+msgstr ""
+
+#: game/credits:915
+msgctxt "game/credits:915:DefaultText"
+msgid "Brendan Dane"
+msgstr ""
+
+#: game/credits:916
+msgctxt "game/credits:916:DefaultText"
+msgid "Jesus Morillo"
+msgstr ""
+
+#: game/credits:917
+msgctxt "game/credits:917:DefaultText"
+msgid "Tyrone Forte"
+msgstr ""
+
+#: game/credits:918
+msgctxt "game/credits:918:DefaultText"
+msgid "Voice Directors"
+msgstr ""
+
+#: game/credits:919
+msgctxt "game/credits:919:DefaultText"
+msgid "Simon Peacock"
+msgstr ""
+
+#: game/credits:920
+msgctxt "game/credits:920:DefaultText"
+msgid "Amanda Wyatt"
+msgstr ""
+
+#: game/credits:921
+msgctxt "game/credits:921:DefaultText"
+msgid "Mark Camacho"
+msgstr ""
+
+#: game/credits:922
+msgctxt "game/credits:922:DefaultText"
+msgid "Carlo Mestroni"
+msgstr ""
+
+#: game/credits:923
+msgctxt "game/credits:923:DefaultText"
+msgid "Josh Dean"
+msgstr ""
+
+#: game/credits:924
+msgctxt "game/credits:924:DefaultText"
+msgid "Robert Thayer"
+msgstr ""
+
+#: game/credits:925
+msgctxt "game/credits:925:DefaultText"
+msgid "Additional Sound Design"
+msgstr ""
+
+#: game/credits:926
+msgctxt "game/credits:926:DefaultText"
+msgid "Technical Audio Designer"
+msgstr ""
+
+#: game/credits:927
+msgctxt "game/credits:927:DefaultText"
+msgid "Budapest Art Orchestra"
+msgstr ""
+
+#: game/credits:928
+msgctxt "game/credits:928:DefaultText"
+msgid "Conductor"
+msgstr ""
+
+#: game/credits:929
+msgctxt "game/credits:929:DefaultText"
+msgid "Peter Illenyi"
+msgstr ""
+
+#: game/credits:930
+msgctxt "game/credits:930:DefaultText"
+msgid "East Connection Music Recording CO., Studio 22"
+msgstr ""
+
+#: game/credits:931
+msgctxt "game/credits:931:DefaultText"
+msgid "ProTools Engineer"
+msgstr ""
+
+#: game/credits:932
+msgctxt "game/credits:932:DefaultText"
+msgid "Miklos Lukacs Sr."
+msgstr ""
+
+#: game/credits:933
+msgctxt "game/credits:933:DefaultText"
+msgid "Recording Engineer"
+msgstr ""
+
+#: game/credits:934
+msgctxt "game/credits:934:DefaultText"
+msgid "Gabor Buczko"
+msgstr ""
+
+#: game/credits:935
+msgctxt "game/credits:935:DefaultText"
+msgid "Songs and Singers"
+msgstr ""
+
+#: game/credits:936
+msgctxt "game/credits:936:DefaultText"
+msgid "Score Editor"
+msgstr ""
+
+#: game/credits:937
+msgctxt "game/credits:937:DefaultText"
+msgid "Zachary Lucia"
+msgstr ""
+
+#: game/credits:938
+msgctxt "game/credits:938:DefaultText"
+msgid "Orchestrator"
+msgstr ""
+
+#: game/credits:939
+msgctxt "game/credits:939:DefaultText"
+msgid "Ryan Humphries"
+msgstr ""
+
+#: game/credits:940
+msgctxt "game/credits:940:DefaultText"
+msgid "Score Mixed by John Rodd"
+msgstr ""
+
+#: game/credits:941
+msgctxt "game/credits:941:DefaultText"
+msgid "Additional Narrative Design"
+msgstr ""
+
+#: game/credits:942
+msgctxt "game/credits:942:DefaultText"
+msgid "Additional Music Recording"
+msgstr ""
+
+#: game/credits:943
+msgctxt "game/credits:943:DefaultText"
+msgid "Alan Umstead"
+msgstr ""
+
+#: game/credits:944
+msgctxt "game/credits:944:DefaultText"
+msgid "Nashville Music Scoring"
+msgstr ""
+
+#: game/credits:945
+msgctxt "game/credits:945:DefaultText"
+msgid "Recording Engineer"
+msgstr ""
+
+#: game/credits:946
+msgctxt "game/credits:946:DefaultText"
+msgid "Nick Spezia - Recording Engineer"
+msgstr ""
+
+#: game/credits:947
+msgctxt "game/credits:947:DefaultText"
+msgid "Peter Sheridan - Bass Flute and low Flutes"
+msgstr ""
+
+#: game/credits:948
+msgctxt "game/credits:948:DefaultText"
+msgid "Martin Wright"
+msgstr ""
+
+#: game/credits:949
+msgctxt "game/credits:949:DefaultText"
+msgid "Move Records"
+msgstr ""
+
+#: game/credits:950
+msgctxt "game/credits:950:DefaultText"
+msgid "Sean Dunny"
+msgstr ""
+
+#: game/credits:951
+msgctxt "game/credits:951:DefaultText"
+msgid "QLOC Studio S.A."
+msgstr ""
+
+#: game/credits:952
+msgctxt "game/credits:952:DefaultText"
+msgid "General Manager"
+msgstr ""
+
+#: game/credits:953
+msgctxt "game/credits:953:DefaultText"
+msgid "Vice President, Business Development"
+msgstr ""
+
+#: game/credits:954
+msgctxt "game/credits:954:DefaultText"
+msgid "Business Development Deputy Director"
+msgstr ""
+
+#: game/credits:955
+msgctxt "game/credits:955:DefaultText"
+msgid "Business Development Manager"
+msgstr ""
+
+#: game/credits:956
+msgctxt "game/credits:956:DefaultText"
+msgid "Director of Quality Assurance"
+msgstr ""
+
+#: game/credits:957
+msgctxt "game/credits:957:DefaultText"
+msgid "Manager"
+msgstr ""
+
+#: game/credits:958
+msgctxt "game/credits:958:DefaultText"
+msgid "QA Lab Managers"
+msgstr ""
+
+#: game/credits:959
+msgctxt "game/credits:959:DefaultText"
+msgid "QA Training Manager"
+msgstr ""
+
+#: game/credits:960
+msgctxt "game/credits:960:DefaultText"
+msgid "QA Team Leader"
+msgstr ""
+
+#: game/credits:961
+msgctxt "game/credits:961:DefaultText"
+msgid "QA Testers"
+msgstr ""
+
+#: game/credits:962
+msgctxt "game/credits:962:DefaultText"
+msgid "IT Manager"
+msgstr ""
+
+#: game/credits:963
+msgctxt "game/credits:963:DefaultText"
+msgid "Adam Piesiak"
+msgstr ""
+
+#: game/credits:964
+msgctxt "game/credits:964:DefaultText"
+msgid "Pawel Ziajka"
+msgstr ""
+
+#: game/credits:965
+msgctxt "game/credits:965:DefaultText"
+msgid "Jakub Trudzik"
+msgstr ""
+
+#: game/credits:966
+msgctxt "game/credits:966:DefaultText"
+msgid "Adrian Czerwinski"
+msgstr ""
+
+#: game/credits:967
+msgctxt "game/credits:967:DefaultText"
+msgid "Sergiusz Slosarczyk"
+msgstr ""
+
+#: game/credits:968
+msgctxt "game/credits:968:DefaultText"
+msgid "Maciej Grabowski"
+msgstr ""
+
+#: game/credits:969
+msgctxt "game/credits:969:DefaultText"
+msgid "Lukasz Miroslawski"
+msgstr ""
+
+#: game/credits:970
+msgctxt "game/credits:970:DefaultText"
+msgid "Pawel Strzelczyk"
+msgstr ""
+
+#: game/credits:971
+msgctxt "game/credits:971:DefaultText"
+msgid "Michal Raczynski"
+msgstr ""
+
+#: game/credits:972
+msgctxt "game/credits:972:DefaultText"
+msgid "Michal Mugerman"
+msgstr ""
+
+#: game/credits:973
+msgctxt "game/credits:973:DefaultText"
+msgid "Ali El Sabeh"
+msgstr ""
+
+#: game/credits:974
+msgctxt "game/credits:974:DefaultText"
+msgid "Artur Khanvelian"
+msgstr ""
+
+#: game/credits:975
+msgctxt "game/credits:975:DefaultText"
+msgid "Choi Hoseong"
+msgstr ""
+
+#: game/credits:976
+msgctxt "game/credits:976:DefaultText"
+msgid "Chuhao Lim"
+msgstr ""
+
+#: game/credits:977
+msgctxt "game/credits:977:DefaultText"
+msgid "Kamil Walkowiak"
+msgstr ""
+
+#: game/credits:978
+msgctxt "game/credits:978:DefaultText"
+msgid "Luis Miguel Hierro Cascajares"
+msgstr ""
+
+#: game/credits:979
+msgctxt "game/credits:979:DefaultText"
+msgid "Lukasz Mitka"
+msgstr ""
+
+#: game/credits:980
+msgctxt "game/credits:980:DefaultText"
+msgid "Maja Lyzwinska"
+msgstr ""
+
+#: game/credits:981
+msgctxt "game/credits:981:DefaultText"
+msgid "Tomasz Dziedzic"
+msgstr ""
+
+#: game/credits:983
+msgctxt "game/credits:983:DefaultText"
+msgid "Additional Sound Design"
+msgstr ""
+
+#: game/credits:984
+msgctxt "game/credits:984:DefaultText"
+msgid "Thank you to our focus testers! – Michael Gentile, Gaby Gonzalez, Nate Ball, Jackson Greaves, Ulises Perez, Winwin Wijaya, Sasha Moshref, Minnie Wu, Ryan Green, Chris Jabs, Paul Dang, Hannah Patricio, Rachel Lee, Ittai Mann, Naz Hartoonian, Daniel Gardner, Jasiel Jimenez, Nathaniel Richards, Karim Najib, Amanda Cullen, Marcel Cobos, Kevin Ha, Tara Nguyen, Daniel Domingo, Lewis Lam, Kristi Chang, Renee Reynosa, Derek Mallon, Stephanie Pocci, Emma Luu, Carly Buck, Rodolfo Solorzano, Miguel Loo, Adam Nelson, Matt Kelly, Joseph Frizzle, Nicole Roque, John Wilson, Micah Pyle, and Jeremy Frey."
+msgstr ""
+
+#: game/credits:985
+msgctxt "game/credits:985:DefaultText"
+msgid "WellPlayed Research"
+msgstr ""
+
+#: game/credits:986
+msgctxt "game/credits:986:DefaultText"
+msgid "Rodney Craig"
+msgstr ""
+
+#: game/credits:987
+msgctxt "game/credits:987:DefaultText"
+msgid "Bren Magel"
+msgstr ""
+
+#: game/credits:988
+msgctxt "game/credits:988:DefaultText"
+msgid "Brittany Igleheart"
+msgstr ""
+
+#: game/credits:989
+msgctxt "game/credits:989:DefaultText"
+msgid "Jelani Bonner"
+msgstr ""
+
+#: game/credits:990
+msgctxt "game/credits:990:DefaultText"
+msgid "Jose Villanueva"
+msgstr ""
+
+#: game/credits:991
+msgctxt "game/credits:991:DefaultText"
+msgid "Kaitlin Friedman"
+msgstr ""
+
+#: game/credits:992
+msgctxt "game/credits:992:DefaultText"
+msgid "Leonardo Marin"
+msgstr ""
+
+#: game/credits:993
+msgctxt "game/credits:993:DefaultText"
+msgid "Miguel Candelaria"
+msgstr ""
+
+#: game/credits:994
+msgctxt "game/credits:994:DefaultText"
+msgid "Sevaughn Thomas"
+msgstr ""
+
+#: game/credits:995
+msgctxt "game/credits:995:DefaultText"
+msgid "(c)2019 Obsidian Entertainment, Inc. Obsidian Entertainment and the Obsidian Entertainment logo are trademarks or registered trademarks of Obsidian Entertainment, Inc. The Outer Worlds and The Outer Worlds logos are trademarks or registered trademarks of Obsidian Entertainment, Inc. Published by Private Division. Private Division and the Private Division logo are trademarks of Take-Two Interactive Software, Inc. All rights reserved."
+msgstr ""
+
+#: game/credits:997
+msgctxt "game/credits:997:DefaultText"
+msgid "Samuel Chin's - Ruthless (Toothless) Donaar -  Level 12 Barbarian Dragonborn"
+msgstr ""
+
+#: game/credits:998
+msgctxt "game/credits:998:DefaultText"
+msgid "International PR Coordinator"
+msgstr ""
+
+#: game/credits:999
+msgctxt "game/credits:999:DefaultText"
+msgid "Natalia Dabrowska"
+msgstr ""
+
+#: game/credits:1000
+msgctxt "game/credits:1000:DefaultText"
+msgid "Junior International Product Manager"
+msgstr ""
+
+#: game/credits:1001
+msgctxt "game/credits:1001:DefaultText"
+msgid "Carolina Sanchez Bossi"
+msgstr ""
+
+#: game/credits:1002
+msgctxt "game/credits:1002:DefaultText"
+msgid "Community Manager"
+msgstr ""
+
+#: game/credits:1003
+msgctxt "game/credits:1003:DefaultText"
+msgid "Anais Alexandre"
+msgstr ""
+
+#: game/credits:1004
+msgctxt "game/credits:1004:DefaultText"
+msgid "Media and Data Analyst"
+msgstr ""
+
+#: game/credits:1005
+msgctxt "game/credits:1005:DefaultText"
+msgid "Ben Walthall"
+msgstr ""
+
+#: game/credits:1006
+msgctxt "game/credits:1006:DefaultText"
+msgid "Marketing Coordinator"
+msgstr ""
+
+#: game/credits:1007
+msgctxt "game/credits:1007:DefaultText"
+msgid "Kyle Wong"
+msgstr ""
+
+#: game/credits:1008
+msgctxt "game/credits:1008:DefaultText"
+msgid "Internal Release Manager"
+msgstr ""
+
+#: game/credits:1009
+msgctxt "game/credits:1009:DefaultText"
+msgid "Tanja Volter"
+msgstr ""
+
+#: game/credits:1010
+msgctxt "game/credits:1010:DefaultText"
+msgid "Samuel Chin's - Emma O'Hara - Level 7 Monk Bugbear"
+msgstr ""
+
+#: game/credits:1011
+msgctxt "game/credits:1011:DefaultText"
+msgid "Erin K. Ahern's - Elisabeth Snow - Level 7 Frost Maiden Warlock"
+msgstr ""
+
+#: game/credits:1012
+msgctxt "game/credits:1012:DefaultText"
+msgid "Kyle Swaim's - Persinette de la Force - Level 7 Arcane Trickster"
+msgstr ""
+
+#: game/credits:1013
+msgctxt "game/credits:1013:DefaultText"
+msgid "Kelvin Nakamura's - Aermid and Roile (Brown Bear Companion) - Level 7 Beast Enclave Ranger"
+msgstr ""
+
+#: game/credits:1014
+msgctxt "game/credits:1014:DefaultText"
+msgid "Jason Tucker's - Yug - Level 7 Bard Changeling"
+msgstr ""
+
+#: game/credits:1015
+msgctxt "game/credits:1015:DefaultText"
+msgid "Cesar Gutierrez"
+msgstr ""
+
+#: game/credits:1016
+msgctxt "game/credits:1016:DefaultText"
+msgid "Technical Audio Consultant"
+msgstr ""
+
+#: game/credits:1017
+msgctxt "game/credits:1017:DefaultText"
+msgid "Kristofor Mellroth"
+msgstr ""
+
+#: game/credits:1018
+msgctxt "game/credits:1018:DefaultText"
+msgid "Additional Music Arrangements"
+msgstr ""
+
+#: game/credits:1019
+msgctxt "game/credits:1019:DefaultText"
+msgid "Eric Bradley & Suzanne Waters - Jingle Vocalists"
+msgstr ""
+
+#: game/credits:1020
+msgctxt "game/credits:1020:DefaultText"
+msgid "Michael Hamlin - Musician, Sitar"
+msgstr ""
+
+#: game/credits:1021
+msgctxt "game/credits:1021:DefaultText"
+msgid "Scott Lawlor & Andrew Dearing - Sitar Recording"
+msgstr ""
+
+#: game/credits:1022
+msgctxt "game/credits:1022:DefaultText"
+msgid "Erwin Schaars"
+msgstr ""
+
+#: game/credits:1023
+msgctxt "game/credits:1023:DefaultText"
+msgid "Roboto Font used for Korean characters. Droid Sans Font used for Chinese Simplified and Japanese characters. \n"
+"\n"
+"Licensed under the Apache License, Version 2.0 (the \"License\");\n"
+"you may not use this file except in compliance with the License.\n"
+"You may obtain a copy of the License at\n"
+"\n"
+"    http://www.apache.org/licenses/LICENSE-2.0\n"
+"\n"
+"Unless required by applicable law or agreed to in writing, software\n"
+"distributed under the License is distributed on an \"AS IS\" BASIS,\n"
+"WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.\n"
+"See the License for the specific language governing permissions and\n"
+"limitations under the License.\n"
+""
+msgstr ""
+
+#: game/credits:1024
+msgctxt "game/credits:1024:DefaultText"
+msgid "Daniel Platt's 5e Campaign - At Death's Door"
+msgstr ""
+
+#: game/credits:1025
+msgctxt "game/credits:1025:DefaultText"
+msgid "John Cotto's 5e Campaign - Happily Ever After?"
+msgstr ""
+
+#: game/credits:1026
+msgctxt "game/credits:1026:DefaultText"
+msgid "Nicholas Clifton"
+msgstr ""

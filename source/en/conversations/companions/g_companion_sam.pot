@@ -1,0 +1,224 @@
+#: conversations/companions/g_companion_sam:1
+msgctxt "conversations/companions/g_companion_sam:1:DefaultText"
+msgid "[There's no response from the automechanical unit. A serial number etched in its chassis includes the letters \"SAM.\"]"
+msgstr ""
+
+#: conversations/companions/g_companion_sam:2
+msgctxt "conversations/companions/g_companion_sam:2:DefaultText"
+msgid "<Install the acid steeper.>"
+msgstr ""
+
+#: conversations/companions/g_companion_sam:3
+msgctxt "conversations/companions/g_companion_sam:3:DefaultText"
+msgid "<Leave the automechanical alone.>"
+msgstr ""
+
+#: conversations/companions/g_companion_sam:5
+msgctxt "conversations/companions/g_companion_sam:5:DefaultText"
+msgid "Every SAM unit comes lean, mean, and ready to clean!"
+msgstr ""
+
+#: conversations/companions/g_companion_sam:6
+msgctxt "conversations/companions/g_companion_sam:6:DefaultText"
+msgid "Battery levels are: FULLY CHARGED."
+msgstr ""
+
+#: conversations/companions/g_companion_sam:7
+msgctxt "conversations/companions/g_companion_sam:7:DefaultText"
+msgid "Issuing sanitation ticket. ERROR: refill printer paper."
+msgstr ""
+
+#: conversations/companions/g_companion_sam:8
+msgctxt "conversations/companions/g_companion_sam:8:DefaultText"
+msgid "Scanning for c2547-grade rated contaminants. "
+msgstr ""
+
+#: conversations/companions/g_companion_sam:9
+msgctxt "conversations/companions/g_companion_sam:9:DefaultText"
+msgid "Dust accumulation analysis: 2.5 years."
+msgstr ""
+
+#: conversations/companions/g_companion_sam:10
+msgctxt "conversations/companions/g_companion_sam:10:DefaultText"
+msgid "AHHHHHHHHHHHHHH!!!!!!!!!!"
+msgstr ""
+
+#: conversations/companions/g_companion_sam:11
+msgctxt "conversations/companions/g_companion_sam:11:DefaultText"
+msgid "[The unit does not respond to your high-pitched scream.]"
+msgstr ""
+
+#: conversations/companions/g_companion_sam:12
+msgctxt "conversations/companions/g_companion_sam:12:DefaultText"
+msgid "[A rumbling vibrates from the unit's chassis.]"
+msgstr ""
+
+#: conversations/companions/g_companion_sam:13
+msgctxt "conversations/companions/g_companion_sam:13:DefaultText"
+msgid "Go back to the ship, SAM."
+msgstr ""
+
+#: conversations/companions/g_companion_sam:14
+msgctxt "conversations/companions/g_companion_sam:14:DefaultText"
+msgid "Command accepted. Unit relocating to specified destination: the Unreliable."
+msgstr ""
+
+#: conversations/companions/g_companion_sam:15
+msgctxt "conversations/companions/g_companion_sam:15:DefaultText"
+msgid "SAM, I'm decommissioning you from service. You're fired."
+msgstr ""
+
+#: conversations/companions/g_companion_sam:16
+msgctxt "conversations/companions/g_companion_sam:16:DefaultText"
+msgid "Customer, please confirm that you wish to terminate this SAM unit's employment contract."
+msgstr ""
+
+#: conversations/companions/g_companion_sam:17
+msgctxt "conversations/companions/g_companion_sam:17:DefaultText"
+msgid "Once decommissioned, this unit will no longer be available for service on the Unreliable."
+msgstr ""
+
+#: conversations/companions/g_companion_sam:18
+msgctxt "conversations/companions/g_companion_sam:18:DefaultText"
+msgid "On second thought, I could use your cleaning skills."
+msgstr ""
+
+#: conversations/companions/g_companion_sam:19
+msgctxt "conversations/companions/g_companion_sam:19:DefaultText"
+msgid "Customer service contract successfully renewed. Thank you for your commitment to utilizing a SAM."
+msgstr ""
+
+#: conversations/companions/g_companion_sam:20
+msgctxt "conversations/companions/g_companion_sam:20:DefaultText"
+msgid "Exactly. Get lost, scrapheap."
+msgstr ""
+
+#: conversations/companions/g_companion_sam:21
+msgctxt "conversations/companions/g_companion_sam:21:DefaultText"
+msgid "Service request processed. New task: \"deploy to remote lands\" is scheduled for immediate execution."
+msgstr ""
+
+#: conversations/companions/g_companion_sam:22
+msgctxt "conversations/companions/g_companion_sam:22:DefaultText"
+msgid "AHHHHHHHHHHHHHH!!!!!!!!!!"
+msgstr ""
+
+#: conversations/companions/g_companion_sam:23
+msgctxt "conversations/companions/g_companion_sam:23:DefaultText"
+msgid "Error: this unit is unable to process the service request, \"AHHHHHHHHHHHHHH!!!!!!!!!!\" Customer, please repeat the command."
+msgstr ""
+
+#: conversations/companions/g_companion_sam:24
+msgctxt "conversations/companions/g_companion_sam:24:DefaultText"
+msgid "This area is utterly filthy."
+msgstr ""
+
+#: conversations/companions/g_companion_sam:25
+msgctxt "conversations/companions/g_companion_sam:25:DefaultText"
+msgid "Back to work, SAM."
+msgstr ""
+
+#: conversations/companions/g_companion_sam:26
+msgctxt "conversations/companions/g_companion_sam:26:DefaultText"
+msgid "All cleaning tasks have been completed. Scheduling next round of cleaning to commence in... four minutes."
+msgstr ""
+
+#: conversations/companions/g_companion_sam:27
+msgctxt "conversations/companions/g_companion_sam:27:DefaultText"
+msgid "So where did you come from?"
+msgstr ""
+
+#: conversations/companions/g_companion_sam:29
+msgctxt "conversations/companions/g_companion_sam:29:DefaultText"
+msgid "Good work, SAM!"
+msgstr ""
+
+#: conversations/companions/g_companion_sam:30
+msgctxt "conversations/companions/g_companion_sam:30:DefaultText"
+msgid "Thank you, customer!"
+msgstr ""
+
+#: conversations/companions/g_companion_sam:31
+msgctxt "conversations/companions/g_companion_sam:31:DefaultText"
+msgid "Initiating initialization sequences.... GREETINGS, CUSTOMER! This SAM unit is unable to locate your registered information."
+msgstr ""
+
+#: conversations/companions/g_companion_sam:32
+msgctxt "conversations/companions/g_companion_sam:32:DefaultText"
+msgid "Would you like to register your SAM?"
+msgstr ""
+
+#: conversations/companions/g_companion_sam:33
+msgctxt "conversations/companions/g_companion_sam:33:DefaultText"
+msgid "Welcome to the crew, SAM."
+msgstr ""
+
+#: conversations/companions/g_companion_sam:34
+msgctxt "conversations/companions/g_companion_sam:34:DefaultText"
+msgid "SAM units live to clean and clean to live!"
+msgstr ""
+
+#: conversations/companions/g_companion_sam:35
+msgctxt "conversations/companions/g_companion_sam:35:DefaultText"
+msgid "All SAM units travel fully assembled in a twelve by twelve corrugated steel box."
+msgstr ""
+
+#: conversations/companions/g_companion_sam:36
+msgctxt "conversations/companions/g_companion_sam:36:DefaultText"
+msgid "No, I mean, I want to know more about you."
+msgstr ""
+
+#: conversations/companions/g_companion_sam:37
+msgctxt "conversations/companions/g_companion_sam:37:DefaultText"
+msgid "Did you know SAM units are capable of equipping regulation-grade flamethrower nozzles? Upgrade your attachment today, and get to Firing Away!"
+msgstr ""
+
+#: conversations/companions/g_companion_sam:39
+msgctxt "conversations/companions/g_companion_sam:39:DefaultText"
+msgid "I'll leave you to it, then."
+msgstr ""
+
+#: conversations/companions/g_companion_sam:40
+msgctxt "conversations/companions/g_companion_sam:40:DefaultText"
+msgid "What do you say, SAM? You want to help me clean up this colony?"
+msgstr ""
+
+#: conversations/companions/g_companion_sam:41
+msgctxt "conversations/companions/g_companion_sam:41:DefaultText"
+msgid "Got stubborn stains? Leave them for SAM."
+msgstr ""
+
+#: conversations/companions/g_companion_sam:43
+msgctxt "conversations/companions/g_companion_sam:43:DefaultText"
+msgid "Yes."
+msgstr ""
+
+#: conversations/companions/g_companion_sam:44
+msgctxt "conversations/companions/g_companion_sam:44:DefaultText"
+msgid "No."
+msgstr ""
+
+#: conversations/companions/g_companion_sam:45
+msgctxt "conversations/companions/g_companion_sam:45:DefaultText"
+msgid "Registering new owner... CAPTAIN."
+msgstr ""
+
+#: conversations/companions/g_companion_sam:46
+msgctxt "conversations/companions/g_companion_sam:46:DefaultText"
+msgid "You know what's great about our SAM units? They never need to be told twice!"
+msgstr ""
+
+#: conversations/companions/g_companion_sam:47
+msgctxt "conversations/companions/g_companion_sam:47:DefaultText"
+msgid "SAM - we guarantee it's the only sanitation and maintenance unit you'll ever need."
+msgstr ""
+
+#: conversations/companions/g_companion_sam:48
+msgctxt "conversations/companions/g_companion_sam:48:DefaultText"
+msgid "WARNING: Raptidon claws carry bacteria and have the potential to cause organic death due to massive amounts of blood loss. Service cancellation request processing..."
+msgstr ""
+
+#: conversations/companions/g_companion_sam:49
+msgctxt "conversations/companions/g_companion_sam:49:DefaultText"
+msgid "SAM: merciless on germs!"
+msgstr ""

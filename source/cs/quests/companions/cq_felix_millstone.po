@@ -1,0 +1,134 @@
+#: quests/companions/cq_felix_millstone:0
+msgctxt "quests/companions/cq_felix_millstone:0:DefaultText"
+msgid "Friendship's Due"
+msgstr ""
+
+#: quests/companions/cq_felix_millstone:1
+msgctxt "quests/companions/cq_felix_millstone:1:DefaultText"
+msgid "Bring Felix to Meet with Harlow"
+msgstr ""
+
+#: quests/companions/cq_felix_millstone:2
+msgctxt "quests/companions/cq_felix_millstone:2:DefaultText"
+msgid "Find Trask"
+msgstr ""
+
+#: quests/companions/cq_felix_millstone:3
+msgctxt "quests/companions/cq_felix_millstone:3:DefaultText"
+msgid "Confront Trask"
+msgstr ""
+
+#: quests/companions/cq_felix_millstone:4
+msgctxt "quests/companions/cq_felix_millstone:4:DefaultText"
+msgid "Return to Harlow with Felix"
+msgstr ""
+
+#: quests/companions/cq_felix_millstone:5
+msgctxt "quests/companions/cq_felix_millstone:5:DefaultText"
+msgid "Speak with Felix on the Ship"
+msgstr ""
+
+#: quests/companions/cq_felix_millstone:6
+msgctxt "quests/companions/cq_felix_millstone:6:DefaultText"
+msgid "Talk to Felix"
+msgstr ""
+
+#: quests/companions/cq_felix_millstone:13
+msgctxt "quests/companions/cq_felix_millstone:13:DefaultText"
+msgid "Get Trask's Ring"
+msgstr ""
+
+#: quests/companions/cq_felix_millstone:14
+msgctxt "quests/companions/cq_felix_millstone:14:DefaultText"
+msgid "(Optional) Find Trask's Stashed Evidence"
+msgstr ""
+
+#: quests/companions/cq_felix_millstone:10000
+msgctxt "quests/companions/cq_felix_millstone:10000:DefaultText"
+msgid "Clyde Harlow, an old friend of Felix from his early days on the Groundbreaker, wants to meet him in person. Harlow told Felix he wants him to be a part of a revolutionary project."
+msgstr ""
+
+#: quests/companions/cq_felix_millstone:10001
+msgctxt "quests/companions/cq_felix_millstone:10001:DefaultText"
+msgid "Felix wants to meet Harlow in person. Travel to his landing pad on Scylla to have a chat with him."
+msgstr ""
+
+#: quests/companions/cq_felix_millstone:10002
+msgctxt "quests/companions/cq_felix_millstone:10002:DefaultText"
+msgid "Harlow told you that if Felix wants a place on his crew, he must prove himself by killing a traitor named Rufus Trask. He wants you to find Trask, kill him, and take his ring."
+msgstr ""
+
+#: quests/companions/cq_felix_millstone:10003
+msgctxt "quests/companions/cq_felix_millstone:10003:DefaultText"
+msgid "Trask is hiding in Emerald Vale."
+msgstr ""
+
+#: quests/companions/cq_felix_millstone:10004
+msgctxt "quests/companions/cq_felix_millstone:10004:DefaultText"
+msgid "With Trask dealt with, it's time to return to Harlow."
+msgstr ""
+
+#: quests/companions/cq_felix_millstone:10005
+msgctxt "quests/companions/cq_felix_millstone:10005:DefaultText"
+msgid "You confronted Harlow about Trask. Felix would like a word with you."
+msgstr ""
+
+#: quests/companions/cq_felix_millstone:10006
+msgctxt "quests/companions/cq_felix_millstone:10006:DefaultText"
+msgid "You killed Harlow without hearing him out. Felix is probably unhappy about this."
+msgstr ""
+
+#: quests/companions/cq_felix_millstone:10013
+msgctxt "quests/companions/cq_felix_millstone:10013:DefaultText"
+msgid "Trask is dead. Harlow will want his ring as evidence."
+msgstr ""
+
+#: quests/companions/cq_felix_millstone:10014
+msgctxt "quests/companions/cq_felix_millstone:10014:DefaultText"
+msgid "Trask said he stashed evidence against Harlow in a vent back in Harlow's base. It could be worth a look."
+msgstr ""
+
+#: quests/companions/cq_felix_millstone:20000
+msgctxt "quests/companions/cq_felix_millstone:20000:DefaultText"
+msgid "Rufus Trask's wife, Rosana, mentioned that her husband can be found hiding in the wilderness of Emerald Vale."
+msgstr ""
+
+#: quests/companions/cq_felix_millstone:20002
+msgctxt "quests/companions/cq_felix_millstone:20002:DefaultText"
+msgid "Rufus Trask has gone into hiding. Harlow suggested questioning his wife, Rosana. She can be found on the Groundbreaker."
+msgstr ""
+
+#: quests/companions/cq_felix_millstone:20004
+msgctxt "quests/companions/cq_felix_millstone:20004:DefaultText"
+msgid "Rosana is dead. You'll have to find Rufus Trask on your own."
+msgstr ""
+
+#: quests/companions/cq_felix_millstone:30000
+msgctxt "quests/companions/cq_felix_millstone:30000:DefaultText"
+msgid "You failed to help Felix resolve his differences with Clyde Harlow."
+msgstr ""
+
+#: quests/companions/cq_felix_millstone:30001
+msgctxt "quests/companions/cq_felix_millstone:30001:DefaultText"
+msgid "Felix has decided to stay with Harlow. He is no longer part of your crew."
+msgstr ""
+
+#: quests/companions/cq_felix_millstone:30002
+msgctxt "quests/companions/cq_felix_millstone:30002:DefaultText"
+msgid "Felix decided that he would rather stay with you."
+msgstr ""
+
+#: quests/companions/cq_felix_millstone:30003
+msgctxt "quests/companions/cq_felix_millstone:30003:DefaultText"
+msgid "You decided to deal with Harlow by killing him on a whim."
+msgstr ""
+
+#: quests/companions/cq_felix_millstone:30004
+msgctxt "quests/companions/cq_felix_millstone:30004:DefaultText"
+msgid "You let Felix remain with Harlow. He will not be returning to your ship."
+msgstr ""
+
+#: quests/companions/cq_felix_millstone:40001
+msgctxt "quests/companions/cq_felix_millstone:40001:DefaultText"
+msgid "While exploring a former mining facility on Scylla, Felix ran into an old acquaintance: Clyde Harlow, a former worker on the Groundbreaker, now an outlaw."
+msgstr ""

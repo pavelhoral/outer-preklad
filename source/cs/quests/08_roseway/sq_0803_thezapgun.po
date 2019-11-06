@@ -1,0 +1,69 @@
+#: quests/08_roseway/sq_0803_thezapgun:0
+msgctxt "quests/08_roseway/sq_0803_thezapgun:0:DefaultText"
+msgid "Journey Into Smoke"
+msgstr ""
+
+#: quests/08_roseway/sq_0803_thezapgun:3
+msgctxt "quests/08_roseway/sq_0803_thezapgun:3:DefaultText"
+msgid "Retrieve Lillian's Cigarettes"
+msgstr ""
+
+#: quests/08_roseway/sq_0803_thezapgun:4
+msgctxt "quests/08_roseway/sq_0803_thezapgun:4:DefaultText"
+msgid "Return Lillian's Cigarettes"
+msgstr ""
+
+#: quests/08_roseway/sq_0803_thezapgun:10000
+msgctxt "quests/08_roseway/sq_0803_thezapgun:10000:DefaultText"
+msgid "Lillian, Terra 2's friendliest outlaw, evidently dropped a rare, limited-edition Spacer's Choice cigarette case during a scrap with raptidons. She'd be thrilled to get it back."
+msgstr ""
+
+#: quests/08_roseway/sq_0803_thezapgun:10003
+msgctxt "quests/08_roseway/sq_0803_thezapgun:10003:DefaultText"
+msgid "Lillian said she dropped her cigarette case in an outdoor raptidon pen. Follow the road southeast from her position."
+msgstr ""
+
+#: quests/08_roseway/sq_0803_thezapgun:10004
+msgctxt "quests/08_roseway/sq_0803_thezapgun:10004:DefaultText"
+msgid "You recovered Lillian's lost cigarette case. Find her and return the item."
+msgstr ""
+
+#: quests/08_roseway/sq_0803_thezapgun:30000
+msgctxt "quests/08_roseway/sq_0803_thezapgun:30000:DefaultText"
+msgid "You returned Lillian's cigarettes to her."
+msgstr ""
+
+#: quests/08_roseway/sq_0803_thezapgun:30001
+msgctxt "quests/08_roseway/sq_0803_thezapgun:30001:DefaultText"
+msgid "You recovered Lillian's cigarettes and returned it in exchange for a kind word on your behalf with the pamphlet-happy outlaw leader."
+msgstr ""
+
+#: quests/08_roseway/sq_0803_thezapgun:30002
+msgctxt "quests/08_roseway/sq_0803_thezapgun:30002:DefaultText"
+msgid "You recovered Lillian's cigarettes but told her you aimed to keep it. She did not take this kindly."
+msgstr ""
+
+#: quests/08_roseway/sq_0803_thezapgun:30003
+msgctxt "quests/08_roseway/sq_0803_thezapgun:30003:DefaultText"
+msgid "You recovered Lillian's cigarette case. After you pointed out that you could beat the raptidons when she could not, the outlaw \"agreed\" to let you keep the item."
+msgstr ""
+
+#: quests/08_roseway/sq_0803_thezapgun:30004
+msgctxt "quests/08_roseway/sq_0803_thezapgun:30004:DefaultText"
+msgid "You recovered Lillian's cigarette case but convinced her that you weren't able to recover them safely."
+msgstr ""
+
+#: quests/08_roseway/sq_0803_thezapgun:30005
+msgctxt "quests/08_roseway/sq_0803_thezapgun:30005:DefaultText"
+msgid "You killed Lillian before returning her lost cigarette case."
+msgstr ""
+
+#: quests/08_roseway/sq_0803_thezapgun:30007
+msgctxt "quests/08_roseway/sq_0803_thezapgun:30007:DefaultText"
+msgid "You made an enemy of Lillian's boss, Cassandra, and lost the opportunity to work with her."
+msgstr ""
+
+#: quests/08_roseway/sq_0803_thezapgun:30008
+msgctxt "quests/08_roseway/sq_0803_thezapgun:30008:DefaultText"
+msgid "The Auntie Cleo Faction has become hostile towards you, making it impossible to complete this quest."
+msgstr ""

@@ -1,0 +1,31 @@
+#: quests/02_terra2/ta_0203_lyingearth:0
+msgctxt "quests/02_terra2/ta_0203_lyingearth:0:DefaultText"
+msgid "The Lying Earth"
+msgstr ""
+
+#: quests/02_terra2/ta_0203_lyingearth:1
+msgctxt "quests/02_terra2/ta_0203_lyingearth:1:DefaultText"
+msgid "Send Minister Clarke's Message"
+msgstr ""
+
+#: quests/02_terra2/ta_0203_lyingearth:10000
+msgctxt "quests/02_terra2/ta_0203_lyingearth:10000:DefaultText"
+msgid "Minister Clarke has asked you to send a message to Earth."
+msgstr ""
+
+#: quests/02_terra2/ta_0203_lyingearth:10001
+msgctxt "quests/02_terra2/ta_0203_lyingearth:10001:DefaultText"
+msgid "Minister Clarke has a message for the Earth Directorate, and one of the only terminals in Halcyon capable of transmitting to the Earthbound message drone is in the Chairman's office.\n"
+"\n"
+"Go to the HHC building in Byzantium and send his message."
+msgstr ""
+
+#: quests/02_terra2/ta_0203_lyingearth:20000
+msgctxt "quests/02_terra2/ta_0203_lyingearth:20000:DefaultText"
+msgid "Minister Clarke is dead, but his message could still make a difference."
+msgstr ""
+
+#: quests/02_terra2/ta_0203_lyingearth:30000
+msgctxt "quests/02_terra2/ta_0203_lyingearth:30000:DefaultText"
+msgid "You sent the minister's message."
+msgstr ""

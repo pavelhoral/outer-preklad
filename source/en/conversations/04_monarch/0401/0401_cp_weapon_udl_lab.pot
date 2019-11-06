@@ -1,0 +1,260 @@
+#: conversations/04_monarch/0401/0401_cp_weapon_udl_lab:1
+msgctxt "conversations/04_monarch/0401/0401_cp_weapon_udl_lab:1:DefaultText"
+msgid "Universal Defense Logistics\r\n"
+"===========================\r\n"
+"This terminal is only to be used by UDL personnel with S-564 clearance. If you are reading this without S-564 clearance, please report to your supervisor for immediate termination and disciplinary action, including but not limited to: fines in excess of 100,000 bits, detention in a UDL-authorized incarceration center for up to 349 months and a personal letter from Chairman Rockwell* expressing his extreme disappointment.\r\n"
+"\r\n"
+"* - Letter not actually written by Chairman Rockwell. However, it is an approximation of his tone and vocabulary with a 99.8% degree of accuracy, so you should still feel very ashamed."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_weapon_udl_lab:2
+msgctxt "conversations/04_monarch/0401/0401_cp_weapon_udl_lab:2:DefaultText"
+msgid "[Research Data]"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_weapon_udl_lab:3
+msgctxt "conversations/04_monarch/0401/0401_cp_weapon_udl_lab:3:DefaultText"
+msgid "[Unlock Gloop Gun Containment Unit]"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_weapon_udl_lab:4
+msgctxt "conversations/04_monarch/0401/0401_cp_weapon_udl_lab:4:DefaultText"
+msgid "[Exit]"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_weapon_udl_lab:5
+msgctxt "conversations/04_monarch/0401/0401_cp_weapon_udl_lab:5:DefaultText"
+msgid "Mandatory Security Check\r\n"
+"===========================\r\n"
+"To confirm that you are an authorized Universal Defense Logistics security specialist, please answer the following questions.\r\n"
+"\r\n"
+"Question 1: You are attending a company meeting at HHC headquarters in Byzantium, and vile dissidents attack the building. \r\n"
+"\r\n"
+"What is your priority?"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_weapon_udl_lab:6
+msgctxt "conversations/04_monarch/0401/0401_cp_weapon_udl_lab:6:DefaultText"
+msgid "Project Name: NOTATOY\r\n"
+"Status: COMPLETE-ISH\r\n"
+"Authorization: S-564 CLEARANCE\r\n"
+"========================\r\n"
+"After successful trials, management has decided to put Project NOTATOY on hold. UDL will instead pursue projects with a wider area of effect for more practical large-scale crowd control.\r\n"
+"\r\n"
+"NOTE: Before anyone asks, this does NOT mean I'm unlocking the gun. It's still off-limits. - NS"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_weapon_udl_lab:7
+msgctxt "conversations/04_monarch/0401/0401_cp_weapon_udl_lab:7:DefaultText"
+msgid "[Research Log 14]"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_weapon_udl_lab:8
+msgctxt "conversations/04_monarch/0401/0401_cp_weapon_udl_lab:8:DefaultText"
+msgid "[Research Log 57]"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_weapon_udl_lab:9
+msgctxt "conversations/04_monarch/0401/0401_cp_weapon_udl_lab:9:DefaultText"
+msgid "[Return to Root]"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_weapon_udl_lab:10
+msgctxt "conversations/04_monarch/0401/0401_cp_weapon_udl_lab:10:DefaultText"
+msgid "Early results are promising. We've managed increase the surface tension of the \"Gloop\" to create a controlled and predictable spread of the substance. Management wants a catchier name, though.\r\n"
+"\r\n"
+"Note: I told Powell we're not calling the project STICKYBITZ, but he refuses to refer to it as anything else. It doesn't even make sense - the Gloop particles are nearly frictionless."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_weapon_udl_lab:11
+msgctxt "conversations/04_monarch/0401/0401_cp_weapon_udl_lab:11:DefaultText"
+msgid "Powell and Chastity have started to show interest in the project. Which should be good, but their \"trials\" seem to involve covering various hard-to-reach surfaces in Gloop and launching (expensive) equipment at them.\r\n"
+"\r\n"
+"I'm going to have a talk with them."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_weapon_udl_lab:12
+msgctxt "conversations/04_monarch/0401/0401_cp_weapon_udl_lab:12:DefaultText"
+msgid "[Research Log 143]"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_weapon_udl_lab:13
+msgctxt "conversations/04_monarch/0401/0401_cp_weapon_udl_lab:13:DefaultText"
+msgid "Chastity used the Gloop Gun in our office paintball game yesterday. She said it was a \"mistake,\" but this is the third time she's made the same \"mistake,\" and she managed to cover the door panel with the stuff. Damn thing's been going haywire ever since.\r\n"
+"\r\n"
+"Do you know how hard it is to clean Gloop? Chastity doesn't, because every time I pull out the latex and solvent, she remembers she's got actual work to do.\r\n"
+"\r\n"
+"From now on, I'm locking the damn gun up."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_weapon_udl_lab:14
+msgctxt "conversations/04_monarch/0401/0401_cp_weapon_udl_lab:14:DefaultText"
+msgid "[Answer: Get to safety.]"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_weapon_udl_lab:15
+msgctxt "conversations/04_monarch/0401/0401_cp_weapon_udl_lab:15:DefaultText"
+msgid "[Answer: Evacuate the employees.]"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_weapon_udl_lab:16
+msgctxt "conversations/04_monarch/0401/0401_cp_weapon_udl_lab:16:DefaultText"
+msgid "[Answer: Protect the Chairman.]"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_weapon_udl_lab:17
+msgctxt "conversations/04_monarch/0401/0401_cp_weapon_udl_lab:17:DefaultText"
+msgid "Incorrect response. Returning to root..."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_weapon_udl_lab:18
+msgctxt "conversations/04_monarch/0401/0401_cp_weapon_udl_lab:18:DefaultText"
+msgid "Mandatory Security Check\r\n"
+"===========================\r\n"
+"Question 2: You are perusing one of our many UDL Personal Security Mega-Outlets - and enjoying our fine selection of employee compliance equipment - when you are approached by a stranger. He makes an offhanded comment that could be construed as an indirect insult to Chairman Rockwell. \r\n"
+"\r\n"
+"What do you do?"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_weapon_udl_lab:19
+msgctxt "conversations/04_monarch/0401/0401_cp_weapon_udl_lab:19:DefaultText"
+msgid "[Answer: Smile and walk away.]"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_weapon_udl_lab:20
+msgctxt "conversations/04_monarch/0401/0401_cp_weapon_udl_lab:20:DefaultText"
+msgid "[Answer: Berate him relentlessly to defend the Chairman's honor.]"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_weapon_udl_lab:21
+msgctxt "conversations/04_monarch/0401/0401_cp_weapon_udl_lab:21:DefaultText"
+msgid "[Answer: Engage him further to assess his intent.]"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_weapon_udl_lab:22
+msgctxt "conversations/04_monarch/0401/0401_cp_weapon_udl_lab:22:DefaultText"
+msgid "Mandatory Security Check\r\n"
+"===========================\r\n"
+"Question 3: You and your spouse have a healthy, loving relationship, but one day you discover that they have been reading unsanctioned stories to your children. \r\n"
+"\r\n"
+"What do you do?"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_weapon_udl_lab:23
+msgctxt "conversations/04_monarch/0401/0401_cp_weapon_udl_lab:23:DefaultText"
+msgid "[Answer: Arrest your spouse and admit your children to a reeducation program.]"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_weapon_udl_lab:24
+msgctxt "conversations/04_monarch/0401/0401_cp_weapon_udl_lab:24:DefaultText"
+msgid "[Answer: Destroy the stories and forbid your children from mentioning them again.]"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_weapon_udl_lab:25
+msgctxt "conversations/04_monarch/0401/0401_cp_weapon_udl_lab:25:DefaultText"
+msgid "[Answer: Turn the stories in to the authorities and claim responsibility.]"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_weapon_udl_lab:26
+msgctxt "conversations/04_monarch/0401/0401_cp_weapon_udl_lab:26:DefaultText"
+msgid "Use of prototype crowd suppression weapon GL-009 has been authorized.\r\n"
+"\r\n"
+"REMINDER: Indoor use of this weapon will result in any cleaning fees being deducted from your paycheck.\r\n"
+"\r\n"
+"Have a pleasant day!"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_weapon_udl_lab:27
+msgctxt "conversations/04_monarch/0401/0401_cp_weapon_udl_lab:27:DefaultText"
+msgid "[Exit]"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_weapon_udl_lab:28
+msgctxt "conversations/04_monarch/0401/0401_cp_weapon_udl_lab:28:DefaultText"
+msgid "[Back]"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_weapon_udl_lab:29
+msgctxt "conversations/04_monarch/0401/0401_cp_weapon_udl_lab:29:DefaultText"
+msgid "[Research Log 58]"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_weapon_udl_lab:30
+msgctxt "conversations/04_monarch/0401/0401_cp_weapon_udl_lab:30:DefaultText"
+msgid "Someone filled my underwear drawer with Gloop. I have theories."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_weapon_udl_lab:31
+msgctxt "conversations/04_monarch/0401/0401_cp_weapon_udl_lab:31:DefaultText"
+msgid "[Override: Chairman Login]"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_weapon_udl_lab:32
+msgctxt "conversations/04_monarch/0401/0401_cp_weapon_udl_lab:32:DefaultText"
+msgid "Processing...\r\n"
+"\r\n"
+"Please enter password."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_weapon_udl_lab:33
+msgctxt "conversations/04_monarch/0401/0401_cp_weapon_udl_lab:33:DefaultText"
+msgid "[Bypass]"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_weapon_udl_lab:34
+msgctxt "conversations/04_monarch/0401/0401_cp_weapon_udl_lab:34:DefaultText"
+msgid "[1234]"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_weapon_udl_lab:35
+msgctxt "conversations/04_monarch/0401/0401_cp_weapon_udl_lab:35:DefaultText"
+msgid "Welcome, Chairman Rockwell!\r\n"
+"\r\n"
+"Use of prototype crowd suppression weapon GL-009 has been authorized."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_weapon_udl_lab:36
+msgctxt "conversations/04_monarch/0401/0401_cp_weapon_udl_lab:36:DefaultText"
+msgid "[Return to Root]"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_weapon_udl_lab:37
+msgctxt "conversations/04_monarch/0401/0401_cp_weapon_udl_lab:37:DefaultText"
+msgid "[Continue]"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_weapon_udl_lab:38
+msgctxt "conversations/04_monarch/0401/0401_cp_weapon_udl_lab:38:DefaultText"
+msgid "Correct response registered. \r\n"
+"\r\n"
+"Proceeding with security check..."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_weapon_udl_lab:39
+msgctxt "conversations/04_monarch/0401/0401_cp_weapon_udl_lab:39:DefaultText"
+msgid "[Continue]"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_weapon_udl_lab:40
+msgctxt "conversations/04_monarch/0401/0401_cp_weapon_udl_lab:40:DefaultText"
+msgid "Correct response registered. \r\n"
+"\r\n"
+"Proceeding with security check..."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_weapon_udl_lab:41
+msgctxt "conversations/04_monarch/0401/0401_cp_weapon_udl_lab:41:DefaultText"
+msgid "[Continue]"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_weapon_udl_lab:42
+msgctxt "conversations/04_monarch/0401/0401_cp_weapon_udl_lab:42:DefaultText"
+msgid "Correct response registered. \r\n"
+"\r\n"
+"Security check complete."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_weapon_udl_lab:43
+msgctxt "conversations/04_monarch/0401/0401_cp_weapon_udl_lab:43:DefaultText"
+msgid "[Continue]"
+msgstr ""

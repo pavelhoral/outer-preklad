@@ -1,0 +1,269 @@
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:1
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:1:DefaultText"
+msgid "You can pass. Go on through."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:2
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:2:DefaultText"
+msgid "The Acropolis District is off-limits. Move along."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:3
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:3:DefaultText"
+msgid "What is it now?"
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:4
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:4:DefaultText"
+msgid "Mind if I take a breather? I'm pretty tired after hauling around all these bits."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:5
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:5:DefaultText"
+msgid "What in the Law's name are you on about?"
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:6
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:6:DefaultText"
+msgid "These <oeiglobal>Bribe_Amount</oeiglobal> bits have been weighing me down all day. Here, you hold them."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:7
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:7:DefaultText"
+msgid "Sure, let me just take that off your hands."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:9
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:9:DefaultText"
+msgid "These <oeiglobal>Bribe_Amount</oeiglobal> bits have been weighing me down all day. Here, you hold them."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:12
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:12:DefaultText"
+msgid "This is embarrassing. I was going to bribe you, but I just realized I don't have enough on me."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:13
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:13:DefaultText"
+msgid "Honest mistake. Why don't you come back another time, and we can take this from the top?"
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:14
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:14:DefaultText"
+msgid "You don't know me because I'm new to the job. I'm starting at the Ministry tomorrow."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:15
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:15:DefaultText"
+msgid "You're new to the Ministry? You one of those labcoats they promoted from a company town?"
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:16
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:16:DefaultText"
+msgid "I'm back with money. Want to try this bribery thing again?"
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:17
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:17:DefaultText"
+msgid "As I recall, you were saying something about being tired and needing a breather."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:18
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:18:DefaultText"
+msgid "I'm not looking for trouble. I just want in."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:19
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:19:DefaultText"
+msgid "And seeing as you don't seem the executive sort, you obviously don't belong in the Acropolis District."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:20
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:20:DefaultText"
+msgid "Farewell."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:57
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:57:DefaultText"
+msgid "Did I say restricted area? Slip of the tongue. What I meant was - welcome to the Acropolis District."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:58
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:58:DefaultText"
+msgid "Goodbye."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:59
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:59:DefaultText"
+msgid "You don't know that."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:60
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:60:DefaultText"
+msgid "I really don't have time for this."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:61
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:61:DefaultText"
+msgid "That's some brilliant logic. You should be promoted."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:62
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:62:DefaultText"
+msgid "Hey, were you awarded Most Persons Profiled six non-consecutive months in a row? I didn't think so."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:63
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:63:DefaultText"
+msgid "Yeah? Well, my shift ends approximately never, so I've got all the time in the world."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:64
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:64:DefaultText"
+msgid "Hey, I've been trying to get a post at the HHC, but they keep turning me down on account of my \"odious interpersonal skills.\" Or something."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:65
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:65:DefaultText"
+msgid "Anyway, I've worked here long enough to know every clerk by name and face. And since I don't know yours, you ain't getting through."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:67
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:67:DefaultText"
+msgid "Yeah, and I'd really like a new Hammersmith Grenade Launcher. Hammersmith - the most trusted brand in brutality. But we can't all have what we want."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:69
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:69:DefaultText"
+msgid "Would you believe it? Punched my ticket out of Edgewater. Good riddance."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:70
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:70:DefaultText"
+msgid "Handing out promotions like Cleo bars. Auntie Cleo, better than nature."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:71
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:71:DefaultText"
+msgid "So you start tomorrow, huh? You know they should've set you up with an ID six to eight weeks ago."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:72
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:72:DefaultText"
+msgid "I know, I know. But it never arrived. I tried to file a complaint."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:73
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:73:DefaultText"
+msgid "But then you had to wait six to eight weeks for the complaint forms to arrive, right? I've been there."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:74
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:74:DefaultText"
+msgid "Yeah, all right. You're good to go."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:75
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:75:DefaultText"
+msgid "If I ever find the clerk who stiffed me, I'm gonna censure him with a strongly worded memo."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:76
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:76:DefaultText"
+msgid "You do that."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:77
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:77:DefaultText"
+msgid "What are you doing in the Acropolis District? I don't remember letting you in."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:78
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:78:DefaultText"
+msgid "I'm on special assignment for the Adjutant. You never saw me."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:79
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:79:DefaultText"
+msgid "Oh, carry on, then."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:80
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:80:DefaultText"
+msgid "I just flew in to the landing pad atop the tower."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:81
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:81:DefaultText"
+msgid "You didn't let me in because I didn't come through the gate."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:82
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:82:DefaultText"
+msgid "Move along."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:84
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:84:DefaultText"
+msgid "Uh, I'm pretty sure that wouldn't have worked with Constable Reyes. Is this a Byzantium thing?"
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:85
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:85:DefaultText"
+msgid "You're a master of misdirection, Boss."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:86
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:86:DefaultText"
+msgid "Can you spell gullible? No, really, I'm asking."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:88
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:88:DefaultText"
+msgid "Gonna have to remember that line."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:90
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:90:DefaultText"
+msgid "You get paid by the word, Officer Windbag?"
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:91
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:91:DefaultText"
+msgid "As a matter of fact, I get paid per profile, you marginally employed twenty-something male with more guts than sense."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:92
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:92:DefaultText"
+msgid "You could've asked me, you know."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:93
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:93:DefaultText"
+msgid "<moving/travel music playing>"
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:94
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:94:DefaultText"
+msgid "I've got a Hammersmith Grenade Launcher. It's yours if you let me through."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:95
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:95:DefaultText"
+msgid "I'll take it off your hands. In the interest of public safety, of course. "
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:96
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:96:DefaultText"
+msgid "Really? In that case..."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:97
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:97:DefaultText"
+msgid "You ever heard of Stimu-Lotion? I developed the active compound."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:98
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:98:DefaultText"
+msgid "That was yours? Wow. You earned that promotion, all right."
+msgstr ""

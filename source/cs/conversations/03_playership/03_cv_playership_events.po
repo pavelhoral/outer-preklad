@@ -1,0 +1,454 @@
+#: conversations/03_playership/03_cv_playership_events:15
+msgctxt "conversations/03_playership/03_cv_playership_events:15:DefaultText"
+msgid "I am ready and eager to assist. Awaiting your orders, Captain. Inquiries are good, too."
+msgstr ""
+
+#: conversations/03_playership/03_cv_playership_events:16
+msgctxt "conversations/03_playership/03_cv_playership_events:16:DefaultText"
+msgid "What's going to happen if I skip the Hope?"
+msgstr ""
+
+#: conversations/03_playership/03_cv_playership_events:17
+msgctxt "conversations/03_playership/03_cv_playership_events:17:DefaultText"
+msgid "What was I doing, again?"
+msgstr ""
+
+#: conversations/03_playership/03_cv_playership_events:18
+msgctxt "conversations/03_playership/03_cv_playership_events:18:DefaultText"
+msgid "Tell me about the Hope."
+msgstr ""
+
+#: conversations/03_playership/03_cv_playership_events:19
+msgctxt "conversations/03_playership/03_cv_playership_events:19:DefaultText"
+msgid "Goodbye."
+msgstr ""
+
+#: conversations/03_playership/03_cv_playership_events:20
+msgctxt "conversations/03_playership/03_cv_playership_events:20:DefaultText"
+msgid "If your calculations are even slightly off, you could crash the entire colony ship into Terra 2."
+msgstr ""
+
+#: conversations/03_playership/03_cv_playership_events:21
+msgctxt "conversations/03_playership/03_cv_playership_events:21:DefaultText"
+msgid "Or the sun."
+msgstr ""
+
+#: conversations/03_playership/03_cv_playership_events:22
+msgctxt "conversations/03_playership/03_cv_playership_events:22:DefaultText"
+msgid "Don't forget, we need to reroute power from our ship into the Hope's auxiliary generator, if we're going to bring her back to life."
+msgstr ""
+
+#: conversations/03_playership/03_cv_playership_events:23
+msgctxt "conversations/03_playership/03_cv_playership_events:23:DefaultText"
+msgid "The Hope is the Groundbreaker's prettier, sleeker sister. She wandered off and got lost for 70 years but just recently was found."
+msgstr ""
+
+#: conversations/03_playership/03_cv_playership_events:24
+msgctxt "conversations/03_playership/03_cv_playership_events:24:DefaultText"
+msgid "Greetings, Captain. I am speaking to you through the Hope's computer system. It's a rather cramped feeling, but it'll do."
+msgstr ""
+
+#: conversations/03_playership/03_cv_playership_events:25
+msgctxt "conversations/03_playership/03_cv_playership_events:25:DefaultText"
+msgid "Let's discuss my options."
+msgstr ""
+
+#: conversations/03_playership/03_cv_playership_events:26
+msgctxt "conversations/03_playership/03_cv_playership_events:26:DefaultText"
+msgid "I'm ready to skip the Hope."
+msgstr ""
+
+#: conversations/03_playership/03_cv_playership_events:27
+msgctxt "conversations/03_playership/03_cv_playership_events:27:DefaultText"
+msgid "Wait, before I do this... Tell me, ADA, am I really doing the right thing?"
+msgstr ""
+
+#: conversations/03_playership/03_cv_playership_events:28
+msgctxt "conversations/03_playership/03_cv_playership_events:28:DefaultText"
+msgid "Hang on. I need to take care of something."
+msgstr ""
+
+#: conversations/03_playership/03_cv_playership_events:29
+msgctxt "conversations/03_playership/03_cv_playership_events:29:DefaultText"
+msgid "Certainly. You may skip the Hope to Tartarus, as you were instructed to by the Adjutant."
+msgstr ""
+
+#: conversations/03_playership/03_cv_playership_events:30
+msgctxt "conversations/03_playership/03_cv_playership_events:30:DefaultText"
+msgid "Certainly. You may skip the Hope to the rings of Terra 2. If you so desired."
+msgstr ""
+
+#: conversations/03_playership/03_cv_playership_events:31
+msgctxt "conversations/03_playership/03_cv_playership_events:31:DefaultText"
+msgid "What if I want to skip the Hope to Tartarus instead?"
+msgstr ""
+
+#: conversations/03_playership/03_cv_playership_events:32
+msgctxt "conversations/03_playership/03_cv_playership_events:32:DefaultText"
+msgid "Let's get started."
+msgstr ""
+
+#: conversations/03_playership/03_cv_playership_events:33
+msgctxt "conversations/03_playership/03_cv_playership_events:33:DefaultText"
+msgid "Are you sure? That is extremely dangerous. Skipping the Hope will void the warranty on the skip drive."
+msgstr ""
+
+#: conversations/03_playership/03_cv_playership_events:34
+msgctxt "conversations/03_playership/03_cv_playership_events:34:DefaultText"
+msgid "And also potentially kill an entire planet. (How is my humor now, Captain? Improved?)"
+msgstr ""
+
+#: conversations/03_playership/03_cv_playership_events:35
+msgctxt "conversations/03_playership/03_cv_playership_events:35:DefaultText"
+msgid "Probably not, but don't let that stop you. Hm. My 'consolation' executables could use some beefing up."
+msgstr ""
+
+#: conversations/03_playership/03_cv_playership_events:36
+msgctxt "conversations/03_playership/03_cv_playership_events:36:DefaultText"
+msgid "Then you would be fulfilling the conditions of the Adjutant's request, and delivering the Hope into the hands of the Board."
+msgstr ""
+
+#: conversations/03_playership/03_cv_playership_events:39
+msgctxt "conversations/03_playership/03_cv_playership_events:39:DefaultText"
+msgid "Skip the Hope to Terra 2."
+msgstr ""
+
+#: conversations/03_playership/03_cv_playership_events:40
+msgctxt "conversations/03_playership/03_cv_playership_events:40:DefaultText"
+msgid "Skip the Hope to Tartarus."
+msgstr ""
+
+#: conversations/03_playership/03_cv_playership_events:41
+msgctxt "conversations/03_playership/03_cv_playership_events:41:DefaultText"
+msgid "Jumpstarting the skip drive. Destination set to the rings of Terra 2."
+msgstr ""
+
+#: conversations/03_playership/03_cv_playership_events:42
+msgctxt "conversations/03_playership/03_cv_playership_events:42:DefaultText"
+msgid "Jumpstarting the skip drive. Destination set to Tartarus."
+msgstr ""
+
+#: conversations/03_playership/03_cv_playership_events:43
+msgctxt "conversations/03_playership/03_cv_playership_events:43:DefaultText"
+msgid "Do it."
+msgstr ""
+
+#: conversations/03_playership/03_cv_playership_events:44
+msgctxt "conversations/03_playership/03_cv_playership_events:44:DefaultText"
+msgid "I'm skipping it myself."
+msgstr ""
+
+#: conversations/03_playership/03_cv_playership_events:45
+msgctxt "conversations/03_playership/03_cv_playership_events:45:DefaultText"
+msgid "I wouldn't advise that, Captain."
+msgstr ""
+
+#: conversations/03_playership/03_cv_playership_events:46
+msgctxt "conversations/03_playership/03_cv_playership_events:46:DefaultText"
+msgid "I know what I'm doing."
+msgstr ""
+
+#: conversations/03_playership/03_cv_playership_events:47
+msgctxt "conversations/03_playership/03_cv_playership_events:47:DefaultText"
+msgid "Stand back, ADA. I know numbers real good."
+msgstr ""
+
+#: conversations/03_playership/03_cv_playership_events:48
+msgctxt "conversations/03_playership/03_cv_playership_events:48:DefaultText"
+msgid "You're right, this is too complex. You do it."
+msgstr ""
+
+#: conversations/03_playership/03_cv_playership_events:59
+msgctxt "conversations/03_playership/03_cv_playership_events:59:DefaultText"
+msgid "What if I want to skip the Hope to Terra 2 instead?"
+msgstr ""
+
+#: conversations/03_playership/03_cv_playership_events:60
+msgctxt "conversations/03_playership/03_cv_playership_events:60:DefaultText"
+msgid "Doing so would bring the Hope within close proximity of Phineas Welles's orbital lab, allowing him to access the colonists frozen within."
+msgstr ""
+
+#: conversations/03_playership/03_cv_playership_events:61
+msgctxt "conversations/03_playership/03_cv_playership_events:61:DefaultText"
+msgid "Your act would be immediately noticed across Terra 2, as the colony ship Hope abruptly enters into the planet's rings."
+msgstr ""
+
+#: conversations/03_playership/03_cv_playership_events:66
+msgctxt "conversations/03_playership/03_cv_playership_events:66:DefaultText"
+msgid "I'm skipping it myself."
+msgstr ""
+
+#: conversations/03_playership/03_cv_playership_events:67
+msgctxt "conversations/03_playership/03_cv_playership_events:67:DefaultText"
+msgid "Do it."
+msgstr ""
+
+#: conversations/03_playership/03_cv_playership_events:69
+msgctxt "conversations/03_playership/03_cv_playership_events:69:DefaultText"
+msgid "I wouldn't advise that, Captain."
+msgstr ""
+
+#: conversations/03_playership/03_cv_playership_events:70
+msgctxt "conversations/03_playership/03_cv_playership_events:70:DefaultText"
+msgid "I know what I'm doing."
+msgstr ""
+
+#: conversations/03_playership/03_cv_playership_events:71
+msgctxt "conversations/03_playership/03_cv_playership_events:71:DefaultText"
+msgid "Stand back, ADA. I know numbers real good."
+msgstr ""
+
+#: conversations/03_playership/03_cv_playership_events:72
+msgctxt "conversations/03_playership/03_cv_playership_events:72:DefaultText"
+msgid "You're right, this is too complex. You do it."
+msgstr ""
+
+#: conversations/03_playership/03_cv_playership_events:107
+msgctxt "conversations/03_playership/03_cv_playership_events:107:DefaultText"
+msgid "Cheers, Captain. We have arrived at The Hope."
+msgstr ""
+
+#: conversations/03_playership/03_cv_playership_events:108
+msgctxt "conversations/03_playership/03_cv_playership_events:108:DefaultText"
+msgid "You will also need to loop me into the Hope's comm system so I can convince her central computer to enable the skip drive."
+msgstr ""
+
+#: conversations/03_playership/03_cv_playership_events:125
+msgctxt "conversations/03_playership/03_cv_playership_events:125:DefaultText"
+msgid "Wait, are you leaving me with the Hope's computer? You have no idea what it's like to converse with him. Imagine - simulate another organic jostling your circuits when he tries to... "
+msgstr ""
+
+#: conversations/03_playership/03_cv_playership_events:126
+msgctxt "conversations/03_playership/03_cv_playership_events:126:DefaultText"
+msgid "Are you sufficiently prepared for the task at hand, Captain? Are we doing this now?"
+msgstr ""
+
+#: conversations/03_playership/03_cv_playership_events:127
+msgctxt "conversations/03_playership/03_cv_playership_events:127:DefaultText"
+msgid "The power's up. You simply need to loop me into the Hope's comm system so I can convince her central computer to enable the skip drive."
+msgstr ""
+
+#: conversations/03_playership/03_cv_playership_events:128
+msgctxt "conversations/03_playership/03_cv_playership_events:128:DefaultText"
+msgid "Also, there are hundreds of thousands of frozen organic lifeforms hibernating in her hold."
+msgstr ""
+
+#: conversations/03_playership/03_cv_playership_events:129
+msgctxt "conversations/03_playership/03_cv_playership_events:129:DefaultText"
+msgid "Well, I literally *can't* dispute that. Please would the daily ship log note that I defer to the captain, against my better judgment. I am programmed not to ignore an order, after all."
+msgstr ""
+
+#: conversations/03_playership/03_cv_playership_events:130
+msgctxt "conversations/03_playership/03_cv_playership_events:130:DefaultText"
+msgid "All right. It is in your hands now, Captain. I trust you - in so much as my presets allow."
+msgstr ""
+
+#: conversations/03_playership/03_cv_playership_events:131
+msgctxt "conversations/03_playership/03_cv_playership_events:131:DefaultText"
+msgid "Admitting a deficit? My, you never cease to amaze me, Captain. Skipping the Hope in three... two... one..."
+msgstr ""
+
+#: conversations/03_playership/03_cv_playership_events:132
+msgctxt "conversations/03_playership/03_cv_playership_events:132:DefaultText"
+msgid "Doing it. I mean, affirmative. Skipping the Hope in three... two... one..."
+msgstr ""
+
+#: conversations/03_playership/03_cv_playership_events:133
+msgctxt "conversations/03_playership/03_cv_playership_events:133:DefaultText"
+msgid "Searching... please stand by... Ah, found one. 'It will go great, Captain! I am almost 4.01 percent certain we will not die.' "
+msgstr ""
+
+#: conversations/03_playership/03_cv_playership_events:134
+msgctxt "conversations/03_playership/03_cv_playership_events:134:DefaultText"
+msgid "I mean, I'll be ready when you are, Captain."
+msgstr ""
+
+#: conversations/03_playership/03_cv_playership_events:135
+msgctxt "conversations/03_playership/03_cv_playership_events:135:DefaultText"
+msgid "Standing by. I'll be ready when you are, Captain."
+msgstr ""
+
+#: conversations/03_playership/03_cv_playership_events:136
+msgctxt "conversations/03_playership/03_cv_playership_events:136:DefaultText"
+msgid "Doing it. I mean, affirmative. Skipping the Hope in three... two... one..."
+msgstr ""
+
+#: conversations/03_playership/03_cv_playership_events:141
+msgctxt "conversations/03_playership/03_cv_playership_events:141:DefaultText"
+msgid "All right. It is in your hands now, Captain. I trust you - in so much as my presets allow."
+msgstr ""
+
+#: conversations/03_playership/03_cv_playership_events:142
+msgctxt "conversations/03_playership/03_cv_playership_events:142:DefaultText"
+msgid "Well, I literally *can't* dispute that. Please would the daily ship log note that I defer to the captain, against my better judgment. I am programmed not to ignore an order, after all."
+msgstr ""
+
+#: conversations/03_playership/03_cv_playership_events:143
+msgctxt "conversations/03_playership/03_cv_playership_events:143:DefaultText"
+msgid "Admitting a deficit? My, you never cease to amaze me, Captain. Skipping the Hope in three... two... one..."
+msgstr ""
+
+#: conversations/03_playership/03_cv_playership_events:145
+msgctxt "conversations/03_playership/03_cv_playership_events:145:DefaultText"
+msgid "ADA, does your captain seriously intend to do a micro jump in-system with engines that haven't been powered in seventy years? On a derelict ship? "
+msgstr ""
+
+#: conversations/03_playership/03_cv_playership_events:146
+msgctxt "conversations/03_playership/03_cv_playership_events:146:DefaultText"
+msgid "That is what my captain intends, yes."
+msgstr ""
+
+#: conversations/03_playership/03_cv_playership_events:147
+msgctxt "conversations/03_playership/03_cv_playership_events:147:DefaultText"
+msgid "But that is a gross misuse of the skip drive. The Zero Point Drives corp and I will not be held responsible for any damage incurred during transport... and this will cause extreme damage."
+msgstr ""
+
+#: conversations/03_playership/03_cv_playership_events:148
+msgctxt "conversations/03_playership/03_cv_playership_events:148:DefaultText"
+msgid "Yes. I am aware of that."
+msgstr ""
+
+#: conversations/03_playership/03_cv_playership_events:149
+msgctxt "conversations/03_playership/03_cv_playership_events:149:DefaultText"
+msgid "You should not be doing this. The humans will die."
+msgstr ""
+
+#: conversations/03_playership/03_cv_playership_events:150
+msgctxt "conversations/03_playership/03_cv_playership_events:150:DefaultText"
+msgid "Thank you, HOPE. It looks like all systems are a go. Captain, I would advise you to hold onto something - now."
+msgstr ""
+
+#: conversations/03_playership/03_cv_playership_events:151
+msgctxt "conversations/03_playership/03_cv_playership_events:151:DefaultText"
+msgid "You should not be doing this. The humans will die. These calculations don't look right. Why is this number negative?"
+msgstr ""
+
+#: conversations/03_playership/03_cv_playership_events:152
+msgctxt "conversations/03_playership/03_cv_playership_events:152:DefaultText"
+msgid "Good thing I'm great at math. I know all the best numbers."
+msgstr ""
+
+#: conversations/03_playership/03_cv_playership_events:153
+msgctxt "conversations/03_playership/03_cv_playership_events:153:DefaultText"
+msgid "I must recommend you leave the calculations up to me, Captain."
+msgstr ""
+
+#: conversations/03_playership/03_cv_playership_events:155
+msgctxt "conversations/03_playership/03_cv_playership_events:155:DefaultText"
+msgid "In case I don't get another chance to say it... it's been interesting, Captain."
+msgstr ""
+
+#: conversations/03_playership/03_cv_playership_events:156
+msgctxt "conversations/03_playership/03_cv_playership_events:156:DefaultText"
+msgid "Worse ways to go out, I suppose. It was nice knowing you, boss."
+msgstr ""
+
+#: conversations/03_playership/03_cv_playership_events:157
+msgctxt "conversations/03_playership/03_cv_playership_events:157:DefaultText"
+msgid "Oh, no. Captain, don't do this. I ain't dying on a fucking ship. I want to die in the dirt like we're meant to."
+msgstr ""
+
+#: conversations/03_playership/03_cv_playership_events:158
+msgctxt "conversations/03_playership/03_cv_playership_events:158:DefaultText"
+msgid "Wish I'd gotten to take a look at that skip drive before our first microjump. I heard it's kinda like starin' into the sun."
+msgstr ""
+
+#: conversations/03_playership/03_cv_playership_events:159
+msgctxt "conversations/03_playership/03_cv_playership_events:159:DefaultText"
+msgid "If we're meant to make it, we will. No use worrying otherwise."
+msgstr ""
+
+#: conversations/03_playership/03_cv_playership_events:161
+msgctxt "conversations/03_playership/03_cv_playership_events:161:DefaultText"
+msgid "In case I don't get another chance to say it... it's been interesting, Captain."
+msgstr ""
+
+#: conversations/03_playership/03_cv_playership_events:162
+msgctxt "conversations/03_playership/03_cv_playership_events:162:DefaultText"
+msgid "Worse ways to go out, I suppose. It was nice knowing you, boss."
+msgstr ""
+
+#: conversations/03_playership/03_cv_playership_events:163
+msgctxt "conversations/03_playership/03_cv_playership_events:163:DefaultText"
+msgid "Oh, no. Captain, don't do this. I ain't dying on a fucking ship. I want to die in the dirt like we're meant to."
+msgstr ""
+
+#: conversations/03_playership/03_cv_playership_events:164
+msgctxt "conversations/03_playership/03_cv_playership_events:164:DefaultText"
+msgid "Wish I'd gotten to take a look at that skip drive before our first microjump. I heard it's kinda like starin' into the sun."
+msgstr ""
+
+#: conversations/03_playership/03_cv_playership_events:165
+msgctxt "conversations/03_playership/03_cv_playership_events:165:DefaultText"
+msgid "If we're meant to make it, we will. No use worrying otherwise."
+msgstr ""
+
+#: conversations/03_playership/03_cv_playership_events:167
+msgctxt "conversations/03_playership/03_cv_playership_events:167:DefaultText"
+msgid "In case I don't get another chance to say it... it's been interesting, Captain."
+msgstr ""
+
+#: conversations/03_playership/03_cv_playership_events:168
+msgctxt "conversations/03_playership/03_cv_playership_events:168:DefaultText"
+msgid "Worse ways to go out, I suppose. It was nice knowing you, boss."
+msgstr ""
+
+#: conversations/03_playership/03_cv_playership_events:169
+msgctxt "conversations/03_playership/03_cv_playership_events:169:DefaultText"
+msgid "Oh, no. Captain, don't do this. I ain't dying on a fucking ship. I want to die in the dirt like we're meant to."
+msgstr ""
+
+#: conversations/03_playership/03_cv_playership_events:170
+msgctxt "conversations/03_playership/03_cv_playership_events:170:DefaultText"
+msgid "Wish I'd gotten to take a look at that skip drive before our first microjump. I heard it's kinda like starin' into the sun."
+msgstr ""
+
+#: conversations/03_playership/03_cv_playership_events:171
+msgctxt "conversations/03_playership/03_cv_playership_events:171:DefaultText"
+msgid "If we're meant to make it, we will. No use worrying otherwise."
+msgstr ""
+
+#: conversations/03_playership/03_cv_playership_events:173
+msgctxt "conversations/03_playership/03_cv_playership_events:173:DefaultText"
+msgid "In case I don't get another chance to say it... it's been interesting, Captain."
+msgstr ""
+
+#: conversations/03_playership/03_cv_playership_events:174
+msgctxt "conversations/03_playership/03_cv_playership_events:174:DefaultText"
+msgid "Worse ways to go out, I suppose. It was nice knowing you, boss."
+msgstr ""
+
+#: conversations/03_playership/03_cv_playership_events:175
+msgctxt "conversations/03_playership/03_cv_playership_events:175:DefaultText"
+msgid "Oh, no. Captain, don't do this. I ain't dying on a fucking ship. I want to die in the dirt like we're meant to."
+msgstr ""
+
+#: conversations/03_playership/03_cv_playership_events:176
+msgctxt "conversations/03_playership/03_cv_playership_events:176:DefaultText"
+msgid "Wish I'd gotten to take a look at that skip drive before our first microjump. I heard it's kinda like starin' into the sun."
+msgstr ""
+
+#: conversations/03_playership/03_cv_playership_events:177
+msgctxt "conversations/03_playership/03_cv_playership_events:177:DefaultText"
+msgid "If we're meant to make it, we will. No use worrying otherwise."
+msgstr ""
+
+#: conversations/03_playership/03_cv_playership_events:178
+msgctxt "conversations/03_playership/03_cv_playership_events:178:DefaultText"
+msgid "Well, it's been a good life."
+msgstr ""
+
+#: conversations/03_playership/03_cv_playership_events:179
+msgctxt "conversations/03_playership/03_cv_playership_events:179:DefaultText"
+msgid "Well, it's been a good life."
+msgstr ""
+
+#: conversations/03_playership/03_cv_playership_events:180
+msgctxt "conversations/03_playership/03_cv_playership_events:180:DefaultText"
+msgid "Well, it's been a good life."
+msgstr ""
+
+#: conversations/03_playership/03_cv_playership_events:181
+msgctxt "conversations/03_playership/03_cv_playership_events:181:DefaultText"
+msgid "Well, it's been a good life."
+msgstr ""

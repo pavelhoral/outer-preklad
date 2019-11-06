@@ -1,0 +1,59 @@
+#: quests/04_monarch/fq_0406_suckerbait:0
+msgctxt "quests/04_monarch/fq_0406_suckerbait:0:DefaultText"
+msgid "Sucker Bait"
+msgstr ""
+
+#: quests/04_monarch/fq_0406_suckerbait:1
+msgctxt "quests/04_monarch/fq_0406_suckerbait:1:DefaultText"
+msgid "Open the Sealed Door"
+msgstr ""
+
+#: quests/04_monarch/fq_0406_suckerbait:2
+msgctxt "quests/04_monarch/fq_0406_suckerbait:2:DefaultText"
+msgid "Search the Area"
+msgstr ""
+
+#: quests/04_monarch/fq_0406_suckerbait:3
+msgctxt "quests/04_monarch/fq_0406_suckerbait:3:DefaultText"
+msgid "Return to Zora"
+msgstr ""
+
+#: quests/04_monarch/fq_0406_suckerbait:10000
+msgctxt "quests/04_monarch/fq_0406_suckerbait:10000:DefaultText"
+msgid "Zora has asked you to investigate an old relay station that has been overrun by monsters. She hopes to find answers to the mystery of the Amber Heights massacre."
+msgstr ""
+
+#: quests/04_monarch/fq_0406_suckerbait:10001
+msgctxt "quests/04_monarch/fq_0406_suckerbait:10001:DefaultText"
+msgid "Zora thinks the codes she gave you are to the relay station's entrance."
+msgstr ""
+
+#: quests/04_monarch/fq_0406_suckerbait:10002
+msgctxt "quests/04_monarch/fq_0406_suckerbait:10002:DefaultText"
+msgid "Scour the station for any data cartridges or pertinent information regarding the Amber Heights massacre."
+msgstr ""
+
+#: quests/04_monarch/fq_0406_suckerbait:10003
+msgctxt "quests/04_monarch/fq_0406_suckerbait:10003:DefaultText"
+msgid "You found a suspicious data cartridge. This may be what Zora was looking for."
+msgstr ""
+
+#: quests/04_monarch/fq_0406_suckerbait:30000
+msgctxt "quests/04_monarch/fq_0406_suckerbait:30000:DefaultText"
+msgid "While investigating an abandoned pirate outpost, you found damning evidence against Graham that has caused Zora to question her loyalty to him."
+msgstr ""
+
+#: quests/04_monarch/fq_0406_suckerbait:30001
+msgctxt "quests/04_monarch/fq_0406_suckerbait:30001:DefaultText"
+msgid "Zora has been killed. This task can never be completed."
+msgstr ""
+
+#: quests/04_monarch/fq_0406_suckerbait:30002
+msgctxt "quests/04_monarch/fq_0406_suckerbait:30002:DefaultText"
+msgid "After giving Graham the gunship targeting module, Zora's attention is focused entirely on Stellar Bay. She's too busy to worry about an old mystery like this."
+msgstr ""
+
+#: quests/04_monarch/fq_0406_suckerbait:30003
+msgctxt "quests/04_monarch/fq_0406_suckerbait:30003:DefaultText"
+msgid "[Stub] "
+msgstr ""

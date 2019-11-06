@@ -1,0 +1,130 @@
+#: conversations/04_monarch/0407/0407_cp_insurance_terminal:1
+msgctxt "conversations/04_monarch/0407/0407_cp_insurance_terminal:1:DefaultText"
+msgid "Greater Halcyon Insurance Group\r\n"
+"==========================="
+msgstr ""
+
+#: conversations/04_monarch/0407/0407_cp_insurance_terminal:2
+msgctxt "conversations/04_monarch/0407/0407_cp_insurance_terminal:2:DefaultText"
+msgid "[View Recent Records] "
+msgstr ""
+
+#: conversations/04_monarch/0407/0407_cp_insurance_terminal:3
+msgctxt "conversations/04_monarch/0407/0407_cp_insurance_terminal:3:DefaultText"
+msgid "Please select a claim to view:"
+msgstr ""
+
+#: conversations/04_monarch/0407/0407_cp_insurance_terminal:4
+msgctxt "conversations/04_monarch/0407/0407_cp_insurance_terminal:4:DefaultText"
+msgid "[Exit]"
+msgstr ""
+
+#: conversations/04_monarch/0407/0407_cp_insurance_terminal:5
+msgctxt "conversations/04_monarch/0407/0407_cp_insurance_terminal:5:DefaultText"
+msgid "[Policy Details: Fenhill, Marilyn]"
+msgstr ""
+
+#: conversations/04_monarch/0407/0407_cp_insurance_terminal:14
+msgctxt "conversations/04_monarch/0407/0407_cp_insurance_terminal:14:DefaultText"
+msgid "Insured: MARILYN FENHILL\r\n"
+"\r\n"
+"Cause of Death: JRF-23-794 (cf.: cervical fracture, fashion-related incidents, staircases)\r\n"
+"\r\n"
+"Monthly Payout: <oeiglobal>CQ_Ellie_Insurance_Payout</oeiglobal> bits\r\n"
+"\r\n"
+"Beneficiaries: THEODORA FENHILL, LIONEL WITHERSPOON"
+msgstr ""
+
+#: conversations/04_monarch/0407/0407_cp_insurance_terminal:15
+msgctxt "conversations/04_monarch/0407/0407_cp_insurance_terminal:15:DefaultText"
+msgid "[Change Beneficiary To: Ellie Fenhill]"
+msgstr ""
+
+#: conversations/04_monarch/0407/0407_cp_insurance_terminal:18
+msgctxt "conversations/04_monarch/0407/0407_cp_insurance_terminal:18:DefaultText"
+msgid "Creating new beneficiary account for ELLIE FENHILL...\r\n"
+"\r\n"
+"Removing THEODORA FENHILL and LIONEL WITHERSPOON from beneficiary list...\r\n"
+"\r\n"
+"Success! All future payouts will be routed to ELLIE FENHILL."
+msgstr ""
+
+#: conversations/04_monarch/0407/0407_cp_insurance_terminal:19
+msgctxt "conversations/04_monarch/0407/0407_cp_insurance_terminal:19:DefaultText"
+msgid "[Continue]"
+msgstr ""
+
+#: conversations/04_monarch/0407/0407_cp_insurance_terminal:20
+msgctxt "conversations/04_monarch/0407/0407_cp_insurance_terminal:20:DefaultText"
+msgid "Thank you for bringing your business to the Greater Halcyon Insurance Group! \r\n"
+"\r\n"
+"We realize you don't have other options when it comes to meeting your insurance needs, but we're contractually obligated to display this message!"
+msgstr ""
+
+#: conversations/04_monarch/0407/0407_cp_insurance_terminal:29
+msgctxt "conversations/04_monarch/0407/0407_cp_insurance_terminal:29:DefaultText"
+msgid "[Return to Root]"
+msgstr ""
+
+#: conversations/04_monarch/0407/0407_cp_insurance_terminal:30
+msgctxt "conversations/04_monarch/0407/0407_cp_insurance_terminal:30:DefaultText"
+msgid "[Birtwhistle, Ahmed]"
+msgstr ""
+
+#: conversations/04_monarch/0407/0407_cp_insurance_terminal:31
+msgctxt "conversations/04_monarch/0407/0407_cp_insurance_terminal:31:DefaultText"
+msgid "[Cartwright, Fanny]"
+msgstr ""
+
+#: conversations/04_monarch/0407/0407_cp_insurance_terminal:32
+msgctxt "conversations/04_monarch/0407/0407_cp_insurance_terminal:32:DefaultText"
+msgid "[Filed on Behalf of C&P]"
+msgstr ""
+
+#: conversations/04_monarch/0407/0407_cp_insurance_terminal:33
+msgctxt "conversations/04_monarch/0407/0407_cp_insurance_terminal:33:DefaultText"
+msgid "CLAIM: Loss of (Gentlemanly Honor) and (Good Name)\n"
+"\n"
+"\"I entered into a gentleman's wager with several chaps at Billingsly's regarding the nature and composition of the Spacer's Choice product 'Tarmac & Cheese.' I was quite certain the product did contain actual tarmac, and my companions wagered that it surely did not. Lo and behold, investigation into the matter revealed that I had been the victim of a gross misunderstanding.\n"
+"\n"
+"Yet how was I to know what manner of fare common factory workers eat? And how could Spacer's Choice be so irresponsible as to advertise that its product contains tarmac when it clearly does not? \n"
+"\n"
+"The damage to my reputation has been most grievous. I find myself unable to return to my previous haunts for fear of the stares and chuckles that will follow. My honor as a gentleman has been called into question, as has the nature of my relationship with livestock.\"\n"
+"\n"
+"RESOLUTION: Denied - Improper Formwork. Claimant forgot to say the magic word."
+msgstr ""
+
+#: conversations/04_monarch/0407/0407_cp_insurance_terminal:34
+msgctxt "conversations/04_monarch/0407/0407_cp_insurance_terminal:34:DefaultText"
+msgid "CLAIM: Loss of (1) Finger(s)\n"
+"\n"
+"\"I've been an Assistant Saw Operator with C&P for five years. Most of the blade guards broke last year, and management never replaced them. I lost my left ring finger last week as a result.\"\n"
+"\n"
+"RESOLUTION: Denied - Negligible Damage. Claimant is right-handed, so the magnitude of this loss is minimal.\n"
+"\n"
+"UPDATED CLAIM: Loss of (3) Finger(s)\n"
+"\n"
+"\"The   saw I ws working c a me loosde yestrday n acount of C &P skippng roiutin m ainten ace che ks.  The accidet took tw fingers frm my rifht hand an   aother from my  left .\"\n"
+"\n"
+"RESOLUTION: Denied - Self-Disqualification. Claimant was missing a finger from a previous incident and should not have been operating sharp machinery.\n"
+"\n"
+"UPDATED CLAIM: Loss of (4) Finger(s)\n"
+"\n"
+"\"T e la t  shi ft lef  seral c ates  nse curd n w n thy  fel  t no ked mee nto th  sa  lst  4  f my rm ng 2 f nr .\"\n"
+"\n"
+"RESOLUTION: Denied - Claim Unintelligible."
+msgstr ""
+
+#: conversations/04_monarch/0407/0407_cp_insurance_terminal:35
+msgctxt "conversations/04_monarch/0407/0407_cp_insurance_terminal:35:DefaultText"
+msgid "CLAIM: Loss of (1) Worker(s)\r\n"
+"\r\n"
+"\"Assistant Saw Operator 16-J (Cartwright, F.) lost several digits due to carelessness and negligence. She failed to heed prominently-posted warnings about the state of our safety equipment, and her resultant injuries have decreased our factory's productivity and led to multiple stress headaches for management as we've struggled to reshuffle worker schedules around 16-J.\"\r\n"
+"\r\n"
+"RESOLUTION: Approved."
+msgstr ""
+
+#: conversations/04_monarch/0407/0407_cp_insurance_terminal:36
+msgctxt "conversations/04_monarch/0407/0407_cp_insurance_terminal:36:DefaultText"
+msgid "[Return to Root]"
+msgstr ""

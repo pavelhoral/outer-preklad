@@ -1,0 +1,153 @@
+#: conversations/08_roseway/08_cp_scientist_anton_telex_log:6
+msgctxt "conversations/08_roseway/08_cp_scientist_anton_telex_log:6:DefaultText"
+msgid "The latest batch is showing great promise, Anton, and, though I hesitate to tempt the fates, I might even dare to say it’s a smashing success. Incidents of cavities have dropped significantly in the test subjects using the toothpaste, with only minor side effects. Nothing too serious, mind you, just a touch of blindness, so if you could look into that it would be much appreciated. Keep this up and you’ll find yourself in Byzantium post haste.\r\n"
+"\r\n"
+"Geoff Trammell, Project Director\r\n"
+"Auntie Cleo"
+msgstr ""
+
+#: conversations/08_roseway/08_cp_scientist_anton_telex_log:7
+msgctxt "conversations/08_roseway/08_cp_scientist_anton_telex_log:7:DefaultText"
+msgid "Upon further review of our results, we’ve uncovered something quite fascinating. While the toothpaste does reduce cavities, it does so only nominally more than the current version - our results were skewed by the fact that our tests subjects had a marked decrease in appetite, and hence were eating much less! That will teach us to monitor our subjects more closely, eh? \r\n"
+"\r\n"
+"Seriously, though, the appetite suppressant qualities of this new formulation are quite incredible, though the taste and texture leave something to be desired, so we’d like for that to be your focus moving forward. No need to waste any more time on the blindness thing, we’ve got the boys in marketing working on a solution on our end.\r\n"
+"\r\n"
+"Geoff Trammell, Project Director\r\n"
+"Auntie Cleo"
+msgstr ""
+
+#: conversations/08_roseway/08_cp_scientist_anton_telex_log:8
+msgctxt "conversations/08_roseway/08_cp_scientist_anton_telex_log:8:DefaultText"
+msgid "Seriously, Anton, you really must let the whole blindness thing go. Your dedication to solving it is admirable, but also a bit misguided, I dare say. It’s really not that big of an issue in the grand scope of this whole thing, and pales in comparison to the texture and flavor issues, which we’d prefer for you to spend all your time on. \r\n"
+"\r\n"
+"You’re also mistaken about our ultimate goals for the product – the appetite suppressant qualities make this something much more valuable in the townships than even in Byzantium. The need for less food to satisfy our workers can add greatly to our bottom line, so marketing is focusing their efforts in that direction. I’m not certain, but that may have something to do with them rejecting your ‘Appezap’ suggestion for the name. Let’s leave marketing to the marketing department, shall we?\r\n"
+"\r\n"
+"Geoff Trammell, Project Director\r\n"
+"Auntie Cleo"
+msgstr ""
+
+#: conversations/08_roseway/08_cp_scientist_anton_telex_log:11
+msgctxt "conversations/08_roseway/08_cp_scientist_anton_telex_log:11:DefaultText"
+msgid "[FROM: G. Trammell]"
+msgstr ""
+
+#: conversations/08_roseway/08_cp_scientist_anton_telex_log:12
+msgctxt "conversations/08_roseway/08_cp_scientist_anton_telex_log:12:DefaultText"
+msgid "[FROM: G. Trammell]"
+msgstr ""
+
+#: conversations/08_roseway/08_cp_scientist_anton_telex_log:13
+msgctxt "conversations/08_roseway/08_cp_scientist_anton_telex_log:13:DefaultText"
+msgid "[FROM: G. Trammell]"
+msgstr ""
+
+#: conversations/08_roseway/08_cp_scientist_anton_telex_log:16
+msgctxt "conversations/08_roseway/08_cp_scientist_anton_telex_log:16:DefaultText"
+msgid "[Exit]"
+msgstr ""
+
+#: conversations/08_roseway/08_cp_scientist_anton_telex_log:20
+msgctxt "conversations/08_roseway/08_cp_scientist_anton_telex_log:20:DefaultText"
+msgid "[Messages]"
+msgstr ""
+
+#: conversations/08_roseway/08_cp_scientist_anton_telex_log:23
+msgctxt "conversations/08_roseway/08_cp_scientist_anton_telex_log:23:DefaultText"
+msgid "MESSAGES\n"
+"------------------------------\n"
+"Employee ID: 804773\n"
+"Employee Name: Crane, Anton\n"
+"Project: Winterblue Mount\n"
+"\n"
+"[1. From: Trammell, G.]\n"
+"[2. From: Trammell, G.]\n"
+"[3. From: Trammell, G.]"
+msgstr ""
+
+#: conversations/08_roseway/08_cp_scientist_anton_telex_log:37
+msgctxt "conversations/08_roseway/08_cp_scientist_anton_telex_log:37:DefaultText"
+msgid "Argos Security Systems\n"
+"---------------------------------\n"
+"SECURITY LOCKDOWN\n"
+"\n"
+"All personnel please report to assigned workstations. Report suspicious activity to the nearest Site Safety Engineer.\n"
+"---------------------------------\n"
+"Auntie Cleo Auntie-Biotics™: served fresh from our petri dishes to YOUR personal crevices."
+msgstr ""
+
+#: conversations/08_roseway/08_cp_scientist_anton_telex_log:38
+msgctxt "conversations/08_roseway/08_cp_scientist_anton_telex_log:38:DefaultText"
+msgid "Argos Security Systems\r\n"
+"---------------------------------\r\n"
+"SECURITY LOCKDOWN\r\n"
+"\r\n"
+"All personnel please report to assigned workstations. Report suspicious activity to the nearest Site Safety Engineer.\r\n"
+"---------------------------------\r\n"
+"\"Auntie Cleo's - Better than Nature!\"™"
+msgstr ""
+
+#: conversations/08_roseway/08_cp_scientist_anton_telex_log:39
+msgctxt "conversations/08_roseway/08_cp_scientist_anton_telex_log:39:DefaultText"
+msgid "Argos Security Systems\r\n"
+"---------------------------------\r\n"
+"SECURITY LOCKDOWN\r\n"
+"\r\n"
+"All personnel please report to assigned workstations. Report suspicious activity to the nearest Site Safety Engineer.\r\n"
+"---------------------------------\r\n"
+"Feeling irate? Try Auntie Cleo's Nar-Choc-Lectic™ bars. Now with 3% real CCN76."
+msgstr ""
+
+#: conversations/08_roseway/08_cp_scientist_anton_telex_log:40
+msgctxt "conversations/08_roseway/08_cp_scientist_anton_telex_log:40:DefaultText"
+msgid "Argos Security Systems\r\n"
+"---------------------------------\r\n"
+"SECURITY LOCKDOWN\r\n"
+"\r\n"
+"All personnel please report to assigned workstations. Report suspicious activity to the nearest Site Safety Engineer.\r\n"
+"---------------------------------\r\n"
+"Have you brushed your teeth with Auntie's Blinding White Paste™ today?"
+msgstr ""
+
+#: conversations/08_roseway/08_cp_scientist_anton_telex_log:41
+msgctxt "conversations/08_roseway/08_cp_scientist_anton_telex_log:41:DefaultText"
+msgid "Argos Security Systems\r\n"
+"---------------------------------\r\n"
+"SECURITY LOCKDOWN\r\n"
+"\r\n"
+"All personnel please report to assigned workstations. Report suspicious activity to the nearest Site Safety Engineer.\r\n"
+"---------------------------------\r\n"
+"Parents who buy Auntie Cleo should have children who buy Auntie Cleo."
+msgstr ""
+
+#: conversations/08_roseway/08_cp_scientist_anton_telex_log:42
+msgctxt "conversations/08_roseway/08_cp_scientist_anton_telex_log:42:DefaultText"
+msgid "Argos Security Systems\r\n"
+"---------------------------------\r\n"
+"SECURITY LOCKDOWN\r\n"
+"\r\n"
+"All personnel please report to assigned workstations. Report suspicious activity to the nearest Site Safety Engineer.\r\n"
+"---------------------------------\r\n"
+"Tired of itchy acid burns? Try Auntie Cleo's artisanal boarst-scented moisturizing cream."
+msgstr ""
+
+#: conversations/08_roseway/08_cp_scientist_anton_telex_log:43
+msgctxt "conversations/08_roseway/08_cp_scientist_anton_telex_log:43:DefaultText"
+msgid "Argos Security Systems\r\n"
+"---------------------------------\r\n"
+"SECURITY LOCKDOWN\r\n"
+"\r\n"
+"All personnel please report to assigned workstations. Report suspicious activity to the nearest Site Safety Engineer.\r\n"
+"---------------------------------\r\n"
+"Try Auntie Cleo's Handi-Off™, the surgical stain remover of choice."
+msgstr ""
+
+#: conversations/08_roseway/08_cp_scientist_anton_telex_log:44
+msgctxt "conversations/08_roseway/08_cp_scientist_anton_telex_log:44:DefaultText"
+msgid "Argos Security Systems\r\n"
+"---------------------------------\r\n"
+"SECURITY LOCKDOWN\r\n"
+"\r\n"
+"All personnel please report to assigned workstations. Report suspicious activity to the nearest Site Safety Engineer.\r\n"
+"---------------------------------\r\n"
+"Unsightly bloodstains? Consider Auntie Cleo's laundry soap. Now with a refreshing lemon zing scent."
+msgstr ""

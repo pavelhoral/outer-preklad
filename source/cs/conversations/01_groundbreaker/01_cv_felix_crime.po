@@ -1,0 +1,29 @@
+#: conversations/01_groundbreaker/01_cv_felix_crime:2
+msgctxt "conversations/01_groundbreaker/01_cv_felix_crime:2:DefaultText"
+msgid "What do you need?"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_felix_crime:3
+msgctxt "conversations/01_groundbreaker/01_cv_felix_crime:3:DefaultText"
+msgid "I'll pay you <oeiglobal>Bribe_Amount</oeiglobal> bits to look the other way."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_felix_crime:4
+msgctxt "conversations/01_groundbreaker/01_cv_felix_crime:4:DefaultText"
+msgid "Oh, nothing. Hey, what's that over there?"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_felix_crime:5
+msgctxt "conversations/01_groundbreaker/01_cv_felix_crime:5:DefaultText"
+msgid "Mind your own business."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_felix_crime:6
+msgctxt "conversations/01_groundbreaker/01_cv_felix_crime:6:DefaultText"
+msgid "I was just leaving."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_felix_crime:7
+msgctxt "conversations/01_groundbreaker/01_cv_felix_crime:7:DefaultText"
+msgid "<Attack>"
+msgstr ""

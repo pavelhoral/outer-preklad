@@ -1,0 +1,150 @@
+#: conversations/08_roseway/08_cp_gas_terminal:1
+msgctxt "conversations/08_roseway/08_cp_gas_terminal:1:DefaultText"
+msgid "Anemoi Ventilation Systems\r\n"
+"-------------------------------------\r\n"
+"Status: Default Recirculation\r\n"
+"Gas Distribution Canisters: 0/3"
+msgstr ""
+
+#: conversations/08_roseway/08_cp_gas_terminal:2
+msgctxt "conversations/08_roseway/08_cp_gas_terminal:2:DefaultText"
+msgid "[Insert Gas Canister]"
+msgstr ""
+
+#: conversations/08_roseway/08_cp_gas_terminal:3
+msgctxt "conversations/08_roseway/08_cp_gas_terminal:3:DefaultText"
+msgid "[Ventilate Gas]"
+msgstr ""
+
+#: conversations/08_roseway/08_cp_gas_terminal:4
+msgctxt "conversations/08_roseway/08_cp_gas_terminal:4:DefaultText"
+msgid "[Exit]"
+msgstr ""
+
+#: conversations/08_roseway/08_cp_gas_terminal:6
+msgctxt "conversations/08_roseway/08_cp_gas_terminal:6:DefaultText"
+msgid "Anemoi Ventilation Systems\r\n"
+"-------------------------------------\r\n"
+"Ventilation complete. Thank you for using Anemoi's Any-Gas Ventilation Distributor."
+msgstr ""
+
+#: conversations/08_roseway/08_cp_gas_terminal:7
+msgctxt "conversations/08_roseway/08_cp_gas_terminal:7:DefaultText"
+msgid "Anemoi Ventilation Systems\r\n"
+"-------------------------------------\r\n"
+"Status: Default Recirculation\r\n"
+"Gas Distribution Canisters: 1/3\r\n"
+"\r\n"
+"Low volume of sedative gas detected in circulation system."
+msgstr ""
+
+#: conversations/08_roseway/08_cp_gas_terminal:8
+msgctxt "conversations/08_roseway/08_cp_gas_terminal:8:DefaultText"
+msgid "Anemoi Ventilation Systems\r\n"
+"-------------------------------------\r\n"
+"Status: Default Recirculation\r\n"
+"Gas Distribution Canisters: 2/3\r\n"
+"\r\n"
+"Moderate volume of sedative gas detected in circulation system."
+msgstr ""
+
+#: conversations/08_roseway/08_cp_gas_terminal:9
+msgctxt "conversations/08_roseway/08_cp_gas_terminal:9:DefaultText"
+msgid "Anemoi Ventilation Systems\r\n"
+"-------------------------------------\r\n"
+"Status: Default Recirculation\r\n"
+"Gas Distribution Canisters: 3/3\r\n"
+"\r\n"
+"High volume of sedative gas detected. Ventilation is now possible."
+msgstr ""
+
+#: conversations/08_roseway/08_cp_gas_terminal:10
+msgctxt "conversations/08_roseway/08_cp_gas_terminal:10:DefaultText"
+msgid "Anemoi Ventilation Systems\r\n"
+"-------------------------------------\r\n"
+"Ventilation activated. Please inform any employees currently in the chamber that Auntie Cleo's Accidental Death and Dismemberment policy does not cover gas-induced brain damage."
+msgstr ""
+
+#: conversations/08_roseway/08_cp_gas_terminal:14
+msgctxt "conversations/08_roseway/08_cp_gas_terminal:14:DefaultText"
+msgid "[Messages]"
+msgstr ""
+
+#: conversations/08_roseway/08_cp_gas_terminal:15
+msgctxt "conversations/08_roseway/08_cp_gas_terminal:15:DefaultText"
+msgid "Roseway Laboratory\n"
+"\n"
+"Property of Auntie Cleo\n"
+"========================\n"
+"\n"
+"Messages\n"
+""
+msgstr ""
+
+#: conversations/08_roseway/08_cp_gas_terminal:16
+msgctxt "conversations/08_roseway/08_cp_gas_terminal:16:DefaultText"
+msgid "[FROM: R. Agarwal]"
+msgstr ""
+
+#: conversations/08_roseway/08_cp_gas_terminal:17
+msgctxt "conversations/08_roseway/08_cp_gas_terminal:17:DefaultText"
+msgid "[FROM: G. Bakker]"
+msgstr ""
+
+#: conversations/08_roseway/08_cp_gas_terminal:18
+msgctxt "conversations/08_roseway/08_cp_gas_terminal:18:DefaultText"
+msgid "Roseway Laboratory\n"
+"\n"
+"Property of Auntie Cleo\n"
+"========================\n"
+"\n"
+"Messages\n"
+"\n"
+"FROM: R. Agarwal\n"
+"TO: H. Braden\n"
+"SUBJECT: Raptidon Sedative\n"
+"\n"
+"Hans,\n"
+"\n"
+"I have good news and I have bad news.\n"
+"\n"
+"The bad news is that we've got a sprat problem. Thanks to the little monsters chewing on our wires, our ventilation system is temporarily offline. If your raptidons are cranky, you'll need to sedate them manually. Bring a few canisters of sedative and hook it up to the auxiliary terminal in the main research chamber.\n"
+"\n"
+"The good news is that my Hephaestos Hammers clobbered your precious Rizzo's Rangers. Would you care for some Auntie Cleo's Tripicale Pasta Sauce with your humble pie?\n"
+"\n"
+"-Rohan\n"
+""
+msgstr ""
+
+#: conversations/08_roseway/08_cp_gas_terminal:19
+msgctxt "conversations/08_roseway/08_cp_gas_terminal:19:DefaultText"
+msgid "Roseway Laboratory\n"
+"\n"
+"Property of Auntie Cleo\n"
+"========================\n"
+"\n"
+"Messages\n"
+"\n"
+"FROM: G. Bakker\n"
+"TO: H. Braden\n"
+"SUBJECT: Raptidon Sedative\n"
+"\n"
+"Hans,\n"
+"\n"
+"Please explain the unmitigated disaster I'm currently holding in my hand. I have here a form approving the relocation of our Raptidon mother to the main hall. A form signed by you.\n"
+"\n"
+"First of all, the structural integrity of our raptidon tanks are not nearly sufficient to contain an enraged raptidon mother.\n"
+"\n"
+"Secondly, raptidons are notoriously territorial and extremely protective of their young.\n"
+"\n"
+"Please stop me if I'm using too many numbers for you. I know you have a problem with basic arithmetic, seeing how you don't seem to realize that Raptidon Mother + Raptidon Tank = Murder.\n"
+"\n"
+"Respectfully yours,\n"
+"\n"
+"Gail"
+msgstr ""
+
+#: conversations/08_roseway/08_cp_gas_terminal:20
+msgctxt "conversations/08_roseway/08_cp_gas_terminal:20:DefaultText"
+msgid "[Return to Root]"
+msgstr ""

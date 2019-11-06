@@ -1,0 +1,639 @@
+#: conversations/04_monarch/0402/0402_cv_sebastianadams:99
+msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:99:DefaultText"
+msgid "Hello, stranger. Can I interest you in a raptidon tongue? Or maybe some canid toenails? "
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sebastianadams:100
+msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:100:DefaultText"
+msgid "Why would I want any of that?"
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sebastianadams:101
+msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:101:DefaultText"
+msgid "Let's see what you have. "
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sebastianadams:102
+msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:102:DefaultText"
+msgid "You look like a man who's looking for some mostly-fresh animal parts."
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sebastianadams:102
+msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:102:FemaleText"
+msgid "You look like a woman who's looking for some mostly-fresh animal parts."
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sebastianadams:103
+msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:103:DefaultText"
+msgid "I dunno. Celia usually buys whatever I have, and Mr. Pickett seemed real interested, so I thought maybe I was onto something."
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sebastianadams:104
+msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:104:DefaultText"
+msgid "Maybe some other time."
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sebastianadams:105
+msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:105:DefaultText"
+msgid "Oh, good. Celia hasn't come by in a few days, so I haven't sold much."
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sebastianadams:106
+msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:106:DefaultText"
+msgid "Who's Celia?"
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sebastianadams:107
+msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:107:DefaultText"
+msgid "She works for Sanjar at MSI. She's also Stellar Bay's biggest collector of canid incisors. And I should know, 'cause she buys 'em from me."
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sebastianadams:108
+msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:108:DefaultText"
+msgid "Let's talk about Celia."
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sebastianadams:109
+msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:109:DefaultText"
+msgid "Let's see what you have. "
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sebastianadams:110
+msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:110:DefaultText"
+msgid "Oh. Haven't seen her in a few days, but I've been meaning to ask her how that raptidon acid is working out."
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sebastianadams:111
+msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:111:DefaultText"
+msgid "That's because she likes you."
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sebastianadams:112
+msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:112:DefaultText"
+msgid "I hope it's working okay, because no one else really seems interested in this stuff."
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sebastianadams:113
+msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:113:DefaultText"
+msgid "She doesn't want a discount. She's attracted to you."
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sebastianadams:114
+msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:114:DefaultText"
+msgid "That's because she likes you, you dummy."
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sebastianadams:117
+msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:117:DefaultText"
+msgid "Nuh-uh. Lot of people think I'm not too bright, but you're not fooling me."
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sebastianadams:118
+msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:118:DefaultText"
+msgid "Wait, I see what's going on. She put you up to this so she could get a discount, hm?"
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sebastianadams:119
+msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:119:DefaultText"
+msgid "Don't get me wrong. I'd like to give her a discount. She's a real fine lady. Always talks nice and slow so I understand."
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sebastianadams:120
+msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:120:DefaultText"
+msgid "But if I give her one, I won't hardly make a bit. On account of no one else having any use for raptidon tongues."
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sebastianadams:121
+msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:121:DefaultText"
+msgid "Forget this."
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sebastianadams:122
+msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:122:DefaultText"
+msgid "Don't take my word for it. Spend some time with her - I promise she won't ask for a discount."
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sebastianadams:123
+msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:123:DefaultText"
+msgid "Would you consider going on a date with her?"
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sebastianadams:124
+msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:124:DefaultText"
+msgid "She likes you. "
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sebastianadams:125
+msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:125:DefaultText"
+msgid "Nice of you to say. I like her, too."
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sebastianadams:126
+msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:126:DefaultText"
+msgid "No, I mean she really likes you. "
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sebastianadams:127
+msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:127:DefaultText"
+msgid "She's interested in you. Romantically."
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sebastianadams:128
+msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:128:DefaultText"
+msgid "And I gotta admire anyone with her passion for canid hides. But you don't have to butter me up."
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sebastianadams:129
+msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:129:DefaultText"
+msgid "Since you've got so much in common, maybe you should let her take you out."
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sebastianadams:130
+msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:130:DefaultText"
+msgid "You idiot. I'm trying to tell you she wants to date you."
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sebastianadams:131
+msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:131:DefaultText"
+msgid "I know she can't get these goods anywhere else."
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sebastianadams:132
+msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:132:DefaultText"
+msgid "You think she needs the stuff she buys? She just wants an excuse to talk to you."
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sebastianadams:133
+msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:133:DefaultText"
+msgid "Come on, that's crazy. No one would do that."
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sebastianadams:134
+msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:134:DefaultText"
+msgid "Consider this a <oeiglobal>Bribe_Amount</oeiglobal>-bit advance against lost business."
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sebastianadams:135
+msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:135:DefaultText"
+msgid "Haven't you heard? Competition's moving into town. "
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sebastianadams:136
+msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:136:DefaultText"
+msgid "You sound pretty sure. And she is awful nice..."
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sebastianadams:137
+msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:137:DefaultText"
+msgid "Okay. I'll do it. Once her shift ends, we'll go someplace nice. Maybe to Chef Raymond's."
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sebastianadams:138
+msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:138:DefaultText"
+msgid "I guess I could afford to take a risk..."
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sebastianadams:139
+msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:139:DefaultText"
+msgid "You don't think she'd look elsewhere?"
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sebastianadams:140
+msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:140:DefaultText"
+msgid "Maybe I should spend some extra time with her. For, uh, customer relations."
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sebastianadams:141
+msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:141:DefaultText"
+msgid "Rapt musk and canid eyes, right here!"
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sebastianadams:142
+msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:142:DefaultText"
+msgid "Mr. Pickett?"
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sebastianadams:143
+msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:143:DefaultText"
+msgid "About Mr. Pickett..."
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sebastianadams:144
+msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:144:DefaultText"
+msgid "He came to Stellar Bay years ago - just before the Board cut us off. Ended up stuck here. He was always real interested in our monsters. Mantiqueens especially. "
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sebastianadams:145
+msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:145:DefaultText"
+msgid "I found Mr. Pickett's journal."
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sebastianadams:146
+msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:146:DefaultText"
+msgid "Yeah? You find him yet?"
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sebastianadams:147
+msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:147:DefaultText"
+msgid "Let's talk about something else."
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sebastianadams:148
+msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:148:DefaultText"
+msgid "Where should I look for him?"
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sebastianadams:149
+msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:149:DefaultText"
+msgid "I sent him past the ruins just south of town. He was hunting for a mantiqueen out there."
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sebastianadams:150
+msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:150:DefaultText"
+msgid "Have you seen a mantiqueen?"
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sebastianadams:151
+msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:151:DefaultText"
+msgid "Why was he interested in mantiqueens?"
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sebastianadams:152
+msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:152:DefaultText"
+msgid "Sure. They're real big. Hard to miss 'em."
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sebastianadams:153
+msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:153:DefaultText"
+msgid "Who wouldn't be?"
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sebastianadams:154
+msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:154:DefaultText"
+msgid "Okay, but did he say anything more specific?"
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sebastianadams:155
+msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:155:DefaultText"
+msgid "People who value self-preservation, Sebastian."
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sebastianadams:156
+msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:156:DefaultText"
+msgid "Now that just sounds like a fancy way to say \"boring people.\""
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sebastianadams:157
+msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:157:DefaultText"
+msgid "He kept talking about collecting a queen to take back to Terra 2. Didn't make no kind of sense to me. Mantiqueens won't let you collect 'em."
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sebastianadams:158
+msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:158:DefaultText"
+msgid "Where have you seen a mantiqueen?"
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sebastianadams:159
+msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:159:DefaultText"
+msgid "Well, I could send you to the same place I sent Mr. Pickett. But I haven't seen him in a few weeks. To tell true, I'm starting to get a bit worried about him."
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sebastianadams:160
+msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:160:DefaultText"
+msgid "Tell you what. I'll tell you where I sent Mr. Pickett if you promise to look for him. Help him out if he's got himself in trouble. Fair deal?"
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sebastianadams:161
+msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:161:DefaultText"
+msgid "I'll go looking for him if you tell me where you sent him."
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sebastianadams:162
+msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:162:DefaultText"
+msgid "Sure, I can keep an eye out for him."
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sebastianadams:163
+msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:163:DefaultText"
+msgid "Let me think about it."
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sebastianadams:164
+msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:164:DefaultText"
+msgid "All right, then. Leave town through the southern gate - the one right here - and head past the abandoned ruins."
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sebastianadams:165
+msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:165:DefaultText"
+msgid "Okay. Well, let me know when you've made up your mind."
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sebastianadams:166
+msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:166:DefaultText"
+msgid "Last mantiqueen I saw was in the wilds out thataways. Could be Mr. Pickett's still out there, too."
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sebastianadams:167
+msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:167:DefaultText"
+msgid "Hm? Like what?"
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sebastianadams:168
+msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:168:DefaultText"
+msgid "He'll probably be wanting it back. You see any sign of him?"
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sebastianadams:169
+msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:169:DefaultText"
+msgid "I found the journal inside a dead mantiqueen."
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sebastianadams:171
+msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:171:DefaultText"
+msgid "He was eaten by a mantiqueen. He's dead. All that's left is that journal."
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sebastianadams:172
+msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:172:DefaultText"
+msgid "Funny place to leave a journal. But what about Mr. Pickett?"
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sebastianadams:174
+msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:174:DefaultText"
+msgid "That's pretty sad. He sure seemed like he knew what he was doing."
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sebastianadams:175
+msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:175:DefaultText"
+msgid "Maybe you and Celia can read it together on your date."
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sebastianadams:176
+msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:176:DefaultText"
+msgid "So this journal is all he left behind? Seems like I ought to read it. Looks mighty long, though."
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sebastianadams:177
+msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:177:DefaultText"
+msgid "Maybe focus on not sending anyone else out alone against a mantiqueen."
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sebastianadams:178
+msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:178:DefaultText"
+msgid "I bet she'll like that. She's real enthusiastic about all sorts of monsters."
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sebastianadams:179
+msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:179:DefaultText"
+msgid "In any case, I appreciate you tracking down Mr. Pickett for me. Here's some bits for your trouble."
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sebastianadams:180
+msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:180:DefaultText"
+msgid "Worked out for you, didn't it?"
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sebastianadams:181
+msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:181:DefaultText"
+msgid "Yeah, you're probably right."
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sebastianadams:184
+msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:184:DefaultText"
+msgid "I just skip the big words."
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sebastianadams:185
+msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:185:DefaultText"
+msgid "That'll help. Still, if he wrote 'em down, they must be important."
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sebastianadams:186
+msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:186:DefaultText"
+msgid "Look on the bright side. He found his mantiqueen."
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sebastianadams:187
+msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:187:DefaultText"
+msgid "Huh. That's a fine way of putting it."
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sebastianadams:188
+msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:188:DefaultText"
+msgid "You really are slow, fella. And coming from me, that's saying something."
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sebastianadams:189
+msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:189:DefaultText"
+msgid "He's dead. Eaten by a mantiqueen."
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sebastianadams:190
+msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:190:DefaultText"
+msgid "Who knows? By the looks of things, this guy's a real escape artist. "
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sebastianadams:191
+msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:191:DefaultText"
+msgid "Thanks."
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sebastianadams:192
+msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:192:DefaultText"
+msgid "Well, I take it from your tone he's not coming back."
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sebastianadams:193
+msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:193:DefaultText"
+msgid "Mysteries of the universe, I guess."
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sebastianadams:194
+msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:194:DefaultText"
+msgid "That's the spirit, Sebastian. Be yourself."
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sebastianadams:195
+msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:195:DefaultText"
+msgid "Oh no, that's not it at all. She's smitten with you. You smited her. Smote? Smoot?"
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sebastianadams:196
+msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:196:DefaultText"
+msgid "I kept telling him he was a fool for chasing mantiqueen tail. Anyone looking to get familiar with a queen is liable to become the bitch's supper."
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sebastianadams:197
+msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:197:DefaultText"
+msgid "Oh, my. Well, I hope he's all right. Haven't seen him in a while."
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sebastianadams:198
+msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:198:DefaultText"
+msgid "Past the ruins? That's manti territory, all right. My professional opinion is that we leave that idiot to his well-deserved fate."
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sebastianadams:199
+msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:199:DefaultText"
+msgid "Anyone fool enough to chase after a queen is pretty fucking far from the \"know what they're doing\" class of people."
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sebastianadams:200
+msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:200:DefaultText"
+msgid "Give her a chance. Give yourself a chance. Take her someplace nice."
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sebastianadams:203
+msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:203:DefaultText"
+msgid "Between you and me, Captain? I'm not sure Ms. Celia knows him too well. But we can hope, right? I want them to be happy."
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sebastianadams:204
+msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:204:DefaultText"
+msgid "Mr. Pickett? Franklin Pickett? From Edgewater?"
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sebastianadams:205
+msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:205:DefaultText"
+msgid "That's him! He'd been here years, but he always talked about going back to Edgewater one day."
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sebastianadams:206
+msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:206:DefaultText"
+msgid "Parvati, you know who he's talking about?"
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sebastianadams:207
+msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:207:DefaultText"
+msgid "Sure. Mr. Pickett used to run the Community Center outside Edgewater. He had this grand idea to make it a museum for Halcyon life. "
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sebastianadams:208
+msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:208:DefaultText"
+msgid "As my dad told it, Mr. Pickett was always going on about getting a mantiqueen for the last display. He left the Vale, gosh, years ago."
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sebastianadams:211
+msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:211:DefaultText"
+msgid "Celia buys your stock because she likes you."
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sebastianadams:212
+msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:212:DefaultText"
+msgid "Captain, can we look for him? I'd feel awful if somebody from home was in trouble, and we didn't do nothing."
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sebastianadams:213
+msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:213:DefaultText"
+msgid "If he's a friend of Parvati's, I suppose I ought to."
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sebastianadams:214
+msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:214:DefaultText"
+msgid "Thanks, Captain."
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sebastianadams:215
+msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:215:DefaultText"
+msgid "No offense."
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sebastianadams:216
+msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:216:DefaultText"
+msgid "Not funny, Captain."
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sebastianadams:217
+msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:217:DefaultText"
+msgid "He used to tell the kids crazy stories about Halcyon wildlife. Later I learned most of it was wrong. But it was the thought that counted."
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sebastianadams:218
+msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:218:DefaultText"
+msgid "He did always want to see one."
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sebastianadams:219
+msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:219:DefaultText"
+msgid "It'd be nice for there to be some good come outta this."
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sebastianadams:221
+msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:221:DefaultText"
+msgid "You oughta know how dangerous that is."
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sebastianadams:222
+msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:222:DefaultText"
+msgid "Um, I can help you with those if you need, Captain."
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sebastianadams:223
+msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:223:DefaultText"
+msgid "Sebastian! You ever get your hands on those pheromone sacs? Mantipillars ain't gonna hunt themselves, you know."
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sebastianadams:224
+msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:224:DefaultText"
+msgid "I must've hunted a dozen, but I couldn't find a single sac on any of 'em. Must be looking in the wrong place."
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sebastianadams:225
+msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:225:DefaultText"
+msgid "Heh, heh. Mantipillars ain't got pheromone sacs. I just told him that so's he'd stop asking me for advice."
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sebastianadams:226
+msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:226:DefaultText"
+msgid "Least I'm getting a good haul of claws in the process. "
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sebastianadams:227
+msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:227:DefaultText"
+msgid "You're in good hands, traveling with Monarch's top merc. Still, if you want any rapt glands or manti claws, I've got you covered."
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sebastianadams:228
+msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:228:DefaultText"
+msgid "Now I see what Celia was talking about. This guy almost reminds me of Irion."
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sebastianadams:229
+msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:229:DefaultText"
+msgid "Who?"
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sebastianadams:230
+msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:230:DefaultText"
+msgid "An old... acquaintance from the Groundbreaker. Real piece of work."
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sebastianadams:231
+msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:231:DefaultText"
+msgid "That's mighty kind of you to say. "
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sebastianadams:233
+msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:233:DefaultText"
+msgid "But we were talking about what a lucky gal Celia is."
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sebastianadams:234
+msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:234:DefaultText"
+msgid "Anyone who can afford such a fine collection of mantisaur claws has it pretty good."
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sebastianadams:235
+msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:235:DefaultText"
+msgid "Don't get me wrong. I'd like to give her a discount. She's a real fine lady. Always talks nice and slow so I understand."
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sebastianadams:236
+msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:236:DefaultText"
+msgid "Okay. I'll do it. Once her shift ends, we'll go someplace nice. Maybe to Chef Raymond's."
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sebastianadams:237
+msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:237:DefaultText"
+msgid "Then one day he just disappeared. Never heard anything about him again."
+msgstr ""

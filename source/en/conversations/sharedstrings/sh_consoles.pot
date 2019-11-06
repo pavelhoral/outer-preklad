@@ -1,0 +1,274 @@
+#: conversations/sharedstrings/sh_consoles:1
+msgctxt "conversations/sharedstrings/sh_consoles:1:DefaultText"
+msgid "[Exit]"
+msgstr ""
+
+#: conversations/sharedstrings/sh_consoles:2
+msgctxt "conversations/sharedstrings/sh_consoles:2:DefaultText"
+msgid "Argos Security Systems\r\n"
+"---------------------------------\r\n"
+"SECURITY LOCKDOWN\r\n"
+"---------------------------------\r\n"
+"All personnel please report to your assigned workstations. Report suspicious activity to the nearest Site Safety Engineer."
+msgstr ""
+
+#: conversations/sharedstrings/sh_consoles:3
+msgctxt "conversations/sharedstrings/sh_consoles:3:DefaultText"
+msgid "[Messages]"
+msgstr ""
+
+#: conversations/sharedstrings/sh_consoles:4
+msgctxt "conversations/sharedstrings/sh_consoles:4:DefaultText"
+msgid "[Inventory Logs]"
+msgstr ""
+
+#: conversations/sharedstrings/sh_consoles:5
+msgctxt "conversations/sharedstrings/sh_consoles:5:DefaultText"
+msgid "[Maintenance Logs]"
+msgstr ""
+
+#: conversations/sharedstrings/sh_consoles:6
+msgctxt "conversations/sharedstrings/sh_consoles:6:DefaultText"
+msgid "[Log On]"
+msgstr ""
+
+#: conversations/sharedstrings/sh_consoles:7
+msgctxt "conversations/sharedstrings/sh_consoles:7:DefaultText"
+msgid "[Armory Logs]"
+msgstr ""
+
+#: conversations/sharedstrings/sh_consoles:8
+msgctxt "conversations/sharedstrings/sh_consoles:8:DefaultText"
+msgid "[Security Camera Controls]"
+msgstr ""
+
+#: conversations/sharedstrings/sh_consoles:9
+msgctxt "conversations/sharedstrings/sh_consoles:9:DefaultText"
+msgid "[Door Lock Controls]"
+msgstr ""
+
+#: conversations/sharedstrings/sh_consoles:10
+msgctxt "conversations/sharedstrings/sh_consoles:10:DefaultText"
+msgid "[Experimental Notes]"
+msgstr ""
+
+#: conversations/sharedstrings/sh_consoles:11
+msgctxt "conversations/sharedstrings/sh_consoles:11:DefaultText"
+msgid "[Personal Files]"
+msgstr ""
+
+#: conversations/sharedstrings/sh_consoles:12
+msgctxt "conversations/sharedstrings/sh_consoles:12:DefaultText"
+msgid "[Return to Root]"
+msgstr ""
+
+#: conversations/sharedstrings/sh_consoles:13
+msgctxt "conversations/sharedstrings/sh_consoles:13:DefaultText"
+msgid "Argos Security Systems\r\n"
+"---------------------------------\r\n"
+"SECURITY LOCKDOWN\r\n"
+"\r\n"
+"All personnel please report to assigned workstations. Report suspicious activity to the nearest Site Safety Engineer.\r\n"
+"---------------------------------\r\n"
+"Unsightly bloodstains? Consider Auntie Cleo's laundry soap. Now with a refreshing lemon zing scent."
+msgstr ""
+
+#: conversations/sharedstrings/sh_consoles:14
+msgctxt "conversations/sharedstrings/sh_consoles:14:DefaultText"
+msgid "Argos Security Systems\r\n"
+"---------------------------------\r\n"
+"SECURITY LOCKDOWN\r\n"
+"\r\n"
+"All personnel please report to assigned workstations. Report suspicious activity to the nearest Site Safety Engineer.\r\n"
+"---------------------------------\r\n"
+"Have you brushed your teeth with Auntie's Blinding White Paste™ today?"
+msgstr ""
+
+#: conversations/sharedstrings/sh_consoles:15
+msgctxt "conversations/sharedstrings/sh_consoles:15:DefaultText"
+msgid "Argos Security Systems\n"
+"---------------------------------\n"
+"SECURITY LOCKDOWN\n"
+"\n"
+"All personnel please report to assigned workstations. Report suspicious activity to the nearest Site Safety Engineer.\n"
+"---------------------------------\n"
+"Auntie Cleo Auntie-Biotics™: served fresh from our petri dishes to YOUR personal crevices."
+msgstr ""
+
+#: conversations/sharedstrings/sh_consoles:16
+msgctxt "conversations/sharedstrings/sh_consoles:16:DefaultText"
+msgid "Argos Security Systems\r\n"
+"---------------------------------\r\n"
+"SECURITY LOCKDOWN\r\n"
+"\r\n"
+"All personnel please report to assigned workstations. Report suspicious activity to the nearest Site Safety Engineer.\r\n"
+"---------------------------------\r\n"
+"Tired of itchy acid burns? Try Auntie Cleo's artisanal boarst-scented moisturizing cream."
+msgstr ""
+
+#: conversations/sharedstrings/sh_consoles:17
+msgctxt "conversations/sharedstrings/sh_consoles:17:DefaultText"
+msgid "Argos Security Systems\r\n"
+"---------------------------------\r\n"
+"SECURITY LOCKDOWN\r\n"
+"\r\n"
+"All personnel please report to assigned workstations. Report suspicious activity to the nearest Site Safety Engineer.\r\n"
+"---------------------------------\r\n"
+"Feeling irate? Try Auntie Cleo's Nar-Choc-Lectic™ bars. Now with 3% real CCN76."
+msgstr ""
+
+#: conversations/sharedstrings/sh_consoles:18
+msgctxt "conversations/sharedstrings/sh_consoles:18:DefaultText"
+msgid "Argos Security Systems\r\n"
+"---------------------------------\r\n"
+"SECURITY LOCKDOWN\r\n"
+"\r\n"
+"All personnel please report to assigned workstations. Report suspicious activity to the nearest Site Safety Engineer.\r\n"
+"---------------------------------\r\n"
+"Try Auntie Cleo's Handi-Off™, the surgical stain remover of choice."
+msgstr ""
+
+#: conversations/sharedstrings/sh_consoles:19
+msgctxt "conversations/sharedstrings/sh_consoles:19:DefaultText"
+msgid "Argos Security Systems\r\n"
+"---------------------------------\r\n"
+"SECURITY LOCKDOWN\r\n"
+"\r\n"
+"All personnel please report to assigned workstations. Report suspicious activity to the nearest Site Safety Engineer.\r\n"
+"---------------------------------\r\n"
+"Parents who buy Auntie Cleo should have children who buy Auntie Cleo."
+msgstr ""
+
+#: conversations/sharedstrings/sh_consoles:20
+msgctxt "conversations/sharedstrings/sh_consoles:20:DefaultText"
+msgid "Argos Security Systems\r\n"
+"---------------------------------\r\n"
+"SECURITY LOCKDOWN\r\n"
+"\r\n"
+"All personnel please report to assigned workstations. Report suspicious activity to the nearest Site Safety Engineer.\r\n"
+"---------------------------------\r\n"
+"\"Auntie Cleo's - Better than Nature!\"™"
+msgstr ""
+
+#: conversations/sharedstrings/sh_consoles:21
+msgctxt "conversations/sharedstrings/sh_consoles:21:DefaultText"
+msgid "[Continue]"
+msgstr ""
+
+#: conversations/sharedstrings/sh_consoles:22
+msgctxt "conversations/sharedstrings/sh_consoles:22:DefaultText"
+msgid "[Accessing...]"
+msgstr ""
+
+#: conversations/sharedstrings/sh_consoles:23
+msgctxt "conversations/sharedstrings/sh_consoles:23:DefaultText"
+msgid "[Security Routines]"
+msgstr ""
+
+#: conversations/sharedstrings/sh_consoles:24
+msgctxt "conversations/sharedstrings/sh_consoles:24:DefaultText"
+msgid "[Personnel Files]"
+msgstr ""
+
+#: conversations/sharedstrings/sh_consoles:25
+msgctxt "conversations/sharedstrings/sh_consoles:25:DefaultText"
+msgid "[Transfer Files to External Tape]"
+msgstr ""
+
+#: conversations/sharedstrings/sh_consoles:26
+msgctxt "conversations/sharedstrings/sh_consoles:26:DefaultText"
+msgid "[Proceed]"
+msgstr ""
+
+#: conversations/sharedstrings/sh_consoles:27
+msgctxt "conversations/sharedstrings/sh_consoles:27:DefaultText"
+msgid "[Abort]"
+msgstr ""
+
+#: conversations/sharedstrings/sh_consoles:28
+msgctxt "conversations/sharedstrings/sh_consoles:28:DefaultText"
+msgid "[Yes]"
+msgstr ""
+
+#: conversations/sharedstrings/sh_consoles:29
+msgctxt "conversations/sharedstrings/sh_consoles:29:DefaultText"
+msgid "[No]"
+msgstr ""
+
+#: conversations/sharedstrings/sh_consoles:30
+msgctxt "conversations/sharedstrings/sh_consoles:30:DefaultText"
+msgid "[Bypass]"
+msgstr ""
+
+#: conversations/sharedstrings/sh_consoles:31
+msgctxt "conversations/sharedstrings/sh_consoles:31:DefaultText"
+msgid "[Open Last Entry]"
+msgstr ""
+
+#: conversations/sharedstrings/sh_consoles:33
+msgctxt "conversations/sharedstrings/sh_consoles:33:DefaultText"
+msgid "[Back]"
+msgstr ""
+
+#: conversations/sharedstrings/sh_consoles:34
+msgctxt "conversations/sharedstrings/sh_consoles:34:DefaultText"
+msgid "[Access Redacted Text]"
+msgstr ""
+
+#: conversations/sharedstrings/sh_consoles:35
+msgctxt "conversations/sharedstrings/sh_consoles:35:DefaultText"
+msgid "Messages\n"
+"======================\n"
+""
+msgstr ""
+
+#: conversations/sharedstrings/sh_consoles:36
+msgctxt "conversations/sharedstrings/sh_consoles:36:DefaultText"
+msgid "HALCYON HOLDINGS CORPORATE BOARD\n"
+"\n"
+"PUBLIC NOTICE #117: ON THE ISSUING OF A HAZARD CLAUSE FOR TERRA ONE\n"
+"\n"
+"This notice, issued on January 12th, 2343, serves as the public denouncement of Terra 1 as a feasible workplace environment.\n"
+"\n"
+"Due to the hostile and aggressive nature of the wildlife, as well as the unsustainability of its natural flora for use in human consumption, the Halcyon Holdings Corporate Board has officially enacted a Hazard Clause covering the entirety of Terra 1.\n"
+"\n"
+"After an evacuation period of no more than six (6) months, Terra 1 will be officially considered illegal territory. As this is a unanimous decision, any corporation caught operating on Terra 1 after the evacuation period will face fines and possible disbarment, as defined in Halcyon Code 22.1."
+msgstr ""
+
+#: conversations/sharedstrings/sh_consoles:37
+msgctxt "conversations/sharedstrings/sh_consoles:37:DefaultText"
+msgid "Please enter the name of the employee whose files you want to view:"
+msgstr ""
+
+#: conversations/sharedstrings/sh_consoles:38
+msgctxt "conversations/sharedstrings/sh_consoles:38:DefaultText"
+msgid "Monarch Stellar Industries\r\n"
+"============================\r\n"
+"\r\n"
+"This terminal is only to be used for official communication on behalf of Monarch Stellar Industries. "
+msgstr ""
+
+#: conversations/sharedstrings/sh_consoles:39
+msgctxt "conversations/sharedstrings/sh_consoles:39:DefaultText"
+msgid "[Research Data]"
+msgstr ""
+
+#: conversations/sharedstrings/sh_consoles:40
+msgctxt "conversations/sharedstrings/sh_consoles:40:DefaultText"
+msgid "[Activate Alarm]"
+msgstr ""
+
+#: conversations/sharedstrings/sh_consoles:41
+msgctxt "conversations/sharedstrings/sh_consoles:41:DefaultText"
+msgid "[View Lab Notes]"
+msgstr ""
+
+#: conversations/sharedstrings/sh_consoles:42
+msgctxt "conversations/sharedstrings/sh_consoles:42:DefaultText"
+msgid "[Disable Area Alarms]"
+msgstr ""
+
+#: conversations/sharedstrings/sh_consoles:43
+msgctxt "conversations/sharedstrings/sh_consoles:43:DefaultText"
+msgid "[Enter Passcode]"
+msgstr ""

@@ -1,0 +1,41 @@
+#: conversations/02_terra2/0231_bureau/0231_cp_containment:1
+msgctxt "conversations/02_terra2/0231_bureau/0231_cp_containment:1:DefaultText"
+msgid "Ministry of Accuracy and Morale\n"
+"========================\n"
+"Welcome to the Subject Containment Facility! \n"
+"\n"
+"For the protection of Ministry property, including Ministry personnel, dangerous subjects must be properly restrained."
+msgstr ""
+
+#: conversations/02_terra2/0231_bureau/0231_cp_containment:2
+msgctxt "conversations/02_terra2/0231_bureau/0231_cp_containment:2:DefaultText"
+msgid "[Containment Log]"
+msgstr ""
+
+#: conversations/02_terra2/0231_bureau/0231_cp_containment:3
+msgctxt "conversations/02_terra2/0231_bureau/0231_cp_containment:3:DefaultText"
+msgid "Containment Notes\r\n"
+"========================\r\n"
+"UDL Security scooped the subjects up from various locations around Halcyon. None displayed any behavioral abnormalities or homicidal tendencies.\r\n"
+"\r\n"
+"We tested revivifying formula #132 on them (the one with high concentrations of Adrena-Time), and they began exhibiting hyperaggression.\r\n"
+"\r\n"
+"Whatever you do, do NOT open the cells."
+msgstr ""
+
+#: conversations/02_terra2/0231_bureau/0231_cp_containment:4
+msgctxt "conversations/02_terra2/0231_bureau/0231_cp_containment:4:DefaultText"
+msgid "[Open Containment Cells]"
+msgstr ""
+
+#: conversations/02_terra2/0231_bureau/0231_cp_containment:5
+msgctxt "conversations/02_terra2/0231_bureau/0231_cp_containment:5:DefaultText"
+msgid "Disengaging locks...\r\n"
+"\r\n"
+"Cells opened."
+msgstr ""
+
+#: conversations/02_terra2/0231_bureau/0231_cp_containment:8
+msgctxt "conversations/02_terra2/0231_bureau/0231_cp_containment:8:DefaultText"
+msgid "[Exit]"
+msgstr ""

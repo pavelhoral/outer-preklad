@@ -1,0 +1,344 @@
+#: conversations/01_groundbreaker/01_cv_dorsett_wanda:1
+msgctxt "conversations/01_groundbreaker/01_cv_dorsett_wanda:1:DefaultText"
+msgid "Can't say I've seen you before. I take it you're a freighter captain?"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_dorsett_wanda:2
+msgctxt "conversations/01_groundbreaker/01_cv_dorsett_wanda:2:DefaultText"
+msgid "Wheeler told me to tell you to get off his ass about your shipment."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_dorsett_wanda:3
+msgctxt "conversations/01_groundbreaker/01_cv_dorsett_wanda:3:DefaultText"
+msgid "If you're here to better yourself, you'll have to wait. We're having a spot of trouble with our delivery service."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_dorsett_wanda:4
+msgctxt "conversations/01_groundbreaker/01_cv_dorsett_wanda:4:DefaultText"
+msgid "Did he, now? The mouth on that man, I swear - his late mother'd be ashamed."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_dorsett_wanda:5
+msgctxt "conversations/01_groundbreaker/01_cv_dorsett_wanda:5:DefaultText"
+msgid "I wish I could cure what ails you, but we're short-staffed right now - you'll have to come back another time."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_dorsett_wanda:7
+msgctxt "conversations/01_groundbreaker/01_cv_dorsett_wanda:7:DefaultText"
+msgid "Nothing for now."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_dorsett_wanda:8
+msgctxt "conversations/01_groundbreaker/01_cv_dorsett_wanda:8:DefaultText"
+msgid "Keep hanging around, and I'll begin to think you're here for me."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_dorsett_wanda:9
+msgctxt "conversations/01_groundbreaker/01_cv_dorsett_wanda:9:DefaultText"
+msgid "What can I do for you?"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_dorsett_wanda:10
+msgctxt "conversations/01_groundbreaker/01_cv_dorsett_wanda:10:DefaultText"
+msgid "What's going on?"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_dorsett_wanda:11
+msgctxt "conversations/01_groundbreaker/01_cv_dorsett_wanda:11:DefaultText"
+msgid "I'm expecting our delivery fellow to stop through with medical supplies and service automechanicals. Name's Captain Irion."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_dorsett_wanda:14
+msgctxt "conversations/01_groundbreaker/01_cv_dorsett_wanda:14:DefaultText"
+msgid "He must be referring to Irion. I'm sure the fool's gotten himself into another scrape."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_dorsett_wanda:15
+msgctxt "conversations/01_groundbreaker/01_cv_dorsett_wanda:15:DefaultText"
+msgid "I could try to find him."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_dorsett_wanda:16
+msgctxt "conversations/01_groundbreaker/01_cv_dorsett_wanda:16:DefaultText"
+msgid "Who's Irion?"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_dorsett_wanda:18
+msgctxt "conversations/01_groundbreaker/01_cv_dorsett_wanda:18:DefaultText"
+msgid "I'd be grateful if you'd spare the time. We need his delivery soon as yesterday."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_dorsett_wanda:19
+msgctxt "conversations/01_groundbreaker/01_cv_dorsett_wanda:19:DefaultText"
+msgid "Irion mentioned a busybody getting in his way on Scylla. I'd wager that's you."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_dorsett_wanda:20
+msgctxt "conversations/01_groundbreaker/01_cv_dorsett_wanda:20:DefaultText"
+msgid "Good news, I've already found Irion. Bad news, he's dead."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_dorsett_wanda:21
+msgctxt "conversations/01_groundbreaker/01_cv_dorsett_wanda:21:DefaultText"
+msgid "Oh, my. I suppose the man finally found himself in a spot he couldn't weasel out of. What a shame."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_dorsett_wanda:22
+msgctxt "conversations/01_groundbreaker/01_cv_dorsett_wanda:22:DefaultText"
+msgid "You got it."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_dorsett_wanda:24
+msgctxt "conversations/01_groundbreaker/01_cv_dorsett_wanda:24:DefaultText"
+msgid "Thank you for getting my mechanicals to me. If you're ever in the market for a bit of beautification, the first one's on me."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_dorsett_wanda:26
+msgctxt "conversations/01_groundbreaker/01_cv_dorsett_wanda:26:DefaultText"
+msgid "Were I a gambling woman, I'd wager you're responsible for my mechanicals' safe return."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_dorsett_wanda:27
+msgctxt "conversations/01_groundbreaker/01_cv_dorsett_wanda:27:DefaultText"
+msgid "I can't thank you enough."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_dorsett_wanda:28
+msgctxt "conversations/01_groundbreaker/01_cv_dorsett_wanda:28:DefaultText"
+msgid "I'm here about Irion. He didn't make it."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_dorsett_wanda:29
+msgctxt "conversations/01_groundbreaker/01_cv_dorsett_wanda:29:DefaultText"
+msgid "Busybody? That sorry bastard's got a lot of nerve. I saved his life!"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_dorsett_wanda:30
+msgctxt "conversations/01_groundbreaker/01_cv_dorsett_wanda:30:DefaultText"
+msgid "Oh, don't take it personally. Irion just spins tales. Real protective of his image, that man."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_dorsett_wanda:31
+msgctxt "conversations/01_groundbreaker/01_cv_dorsett_wanda:31:DefaultText"
+msgid "He may have a bolt loose, but he's reliable and kind enough, so I can't say I much mind."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_dorsett_wanda:32
+msgctxt "conversations/01_groundbreaker/01_cv_dorsett_wanda:32:DefaultText"
+msgid "A brave idiot with a penchant for getting himself delayed... sometimes by dates, usually by bandits."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_dorsett_wanda:33
+msgctxt "conversations/01_groundbreaker/01_cv_dorsett_wanda:33:DefaultText"
+msgid "Last he told me, he was taking a 'shortcut' by Scylla, an asteroid in the Charybdis Cluster. That's where I'd start, were I the adventuring type."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_dorsett_wanda:35
+msgctxt "conversations/01_groundbreaker/01_cv_dorsett_wanda:35:DefaultText"
+msgid "I should be lamenting the mechanicals, but, well... I'll miss him. I'll leave it at that. Thank you for bringing me the news."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_dorsett_wanda:36
+msgctxt "conversations/01_groundbreaker/01_cv_dorsett_wanda:36:DefaultText"
+msgid "Our delivery man."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_dorsett_wanda:38
+msgctxt "conversations/01_groundbreaker/01_cv_dorsett_wanda:38:DefaultText"
+msgid "\"Better myself?\" Isn't this the medbay?"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_dorsett_wanda:39
+msgctxt "conversations/01_groundbreaker/01_cv_dorsett_wanda:39:DefaultText"
+msgid "Sure is. You need a deft hand to straighten a busted nose or sparkle up those not so pearly whites, I'm your gal."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_dorsett_wanda:41
+msgctxt "conversations/01_groundbreaker/01_cv_dorsett_wanda:41:DefaultText"
+msgid "'Course, there's not much cosmetic improvement going on at the moment, not without my mechanicals. Where the Law is Irion, anyway?"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_dorsett_wanda:42
+msgctxt "conversations/01_groundbreaker/01_cv_dorsett_wanda:42:DefaultText"
+msgid "Good news, I've already found Irion. Better news, he's still alive."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_dorsett_wanda:43
+msgctxt "conversations/01_groundbreaker/01_cv_dorsett_wanda:43:DefaultText"
+msgid "My, my! You must be the charming captain I have to thank for my automechs' safe delivery, then."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_dorsett_wanda:44
+msgctxt "conversations/01_groundbreaker/01_cv_dorsett_wanda:44:DefaultText"
+msgid "You look out, though. The place is probably crawling with outlaws."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_dorsett_wanda:45
+msgctxt "conversations/01_groundbreaker/01_cv_dorsett_wanda:45:DefaultText"
+msgid "You've done me - and Groundbreaker - a fair turn. We owe you a debt of gratitude."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_dorsett_wanda:46
+msgctxt "conversations/01_groundbreaker/01_cv_dorsett_wanda:46:DefaultText"
+msgid "If you're ever in the market for a bit of beautification, the first one's on me."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_dorsett_wanda:47
+msgctxt "conversations/01_groundbreaker/01_cv_dorsett_wanda:47:DefaultText"
+msgid "Whoever he is, he's not my problem."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_dorsett_wanda:48
+msgctxt "conversations/01_groundbreaker/01_cv_dorsett_wanda:48:DefaultText"
+msgid "You have yourself a day, then."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_dorsett_wanda:49
+msgctxt "conversations/01_groundbreaker/01_cv_dorsett_wanda:49:DefaultText"
+msgid "You do cosmetic surgery on this rickety space station? Really?"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_dorsett_wanda:50
+msgctxt "conversations/01_groundbreaker/01_cv_dorsett_wanda:50:DefaultText"
+msgid "Sure. How do you think we keep this pile of junk in the sky? It costs bits, and a little prettying up brings in a fair few of 'em."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_dorsett_wanda:51
+msgctxt "conversations/01_groundbreaker/01_cv_dorsett_wanda:51:DefaultText"
+msgid "Or it would, if I had my danged mechanicals."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_dorsett_wanda:52
+msgctxt "conversations/01_groundbreaker/01_cv_dorsett_wanda:52:DefaultText"
+msgid "Wanda's secret is repeat business. Once her subjects see her work, they gotta come back to get it fixed."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_dorsett_wanda:53
+msgctxt "conversations/01_groundbreaker/01_cv_dorsett_wanda:53:DefaultText"
+msgid "You want to me insult me, dear, you do it off my doorstep, else you'll be needing my services sooner than you might like."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_dorsett_wanda:54
+msgctxt "conversations/01_groundbreaker/01_cv_dorsett_wanda:54:DefaultText"
+msgid "'Course, I can't go slicing anyone up without my danged mechanicals."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_dorsett_wanda:55
+msgctxt "conversations/01_groundbreaker/01_cv_dorsett_wanda:55:DefaultText"
+msgid "Easy on the eyes, soft in the skull. A real danger to the gene pool."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_dorsett_wanda:56
+msgctxt "conversations/01_groundbreaker/01_cv_dorsett_wanda:56:DefaultText"
+msgid "You're not wrong."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_dorsett_wanda:57
+msgctxt "conversations/01_groundbreaker/01_cv_dorsett_wanda:57:DefaultText"
+msgid "What do you need mechanicals for?"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_dorsett_wanda:58
+msgctxt "conversations/01_groundbreaker/01_cv_dorsett_wanda:58:DefaultText"
+msgid "I'm beginning to wonder if I'm ever going to get my service mechanicals at this rate."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_dorsett_wanda:59
+msgctxt "conversations/01_groundbreaker/01_cv_dorsett_wanda:59:DefaultText"
+msgid "Surgery, mostly. Medical personnel are difficult to come by on Groundbreaker."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_dorsett_wanda:61
+msgctxt "conversations/01_groundbreaker/01_cv_dorsett_wanda:61:DefaultText"
+msgid "Why's that?"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_dorsett_wanda:62
+msgctxt "conversations/01_groundbreaker/01_cv_dorsett_wanda:62:DefaultText"
+msgid "The Board won't let their doctors and nurses station here, and they own all the medical schools. If we can't hire their people, we can't hire anyone."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_dorsett_wanda:63
+msgctxt "conversations/01_groundbreaker/01_cv_dorsett_wanda:63:DefaultText"
+msgid "Everyone on staff here on Groundbreaker was trained by me or Idris. We're good, don't get me wrong, but we've only two heads between us, and we don't know everything."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_dorsett_wanda:64
+msgctxt "conversations/01_groundbreaker/01_cv_dorsett_wanda:64:DefaultText"
+msgid "And you think automechanicals are a good substitute?"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_dorsett_wanda:65
+msgctxt "conversations/01_groundbreaker/01_cv_dorsett_wanda:65:DefaultText"
+msgid "Don't misunderstand me, Dr. Fenhill - I know they're not. But we don't have the luxury of choice on Groundbreaker. We make do or die trying."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_dorsett_wanda:66
+msgctxt "conversations/01_groundbreaker/01_cv_dorsett_wanda:66:DefaultText"
+msgid "Don't let your patients hear you say that."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_dorsett_wanda:67
+msgctxt "conversations/01_groundbreaker/01_cv_dorsett_wanda:67:DefaultText"
+msgid "If you'd like to put your scalpel where your mouth is and lend a hand, we'd be happy to have you, but if you don't... then kindly shut up."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_dorsett_wanda:71
+msgctxt "conversations/01_groundbreaker/01_cv_dorsett_wanda:71:DefaultText"
+msgid "Well, well, Dr. Fenhill. It's not often I see you on this side of sick bay."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_dorsett_wanda:72
+msgctxt "conversations/01_groundbreaker/01_cv_dorsett_wanda:72:DefaultText"
+msgid "I make it a point not to get shot. And when I do, I can usually take care of the mess myself."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_dorsett_wanda:73
+msgctxt "conversations/01_groundbreaker/01_cv_dorsett_wanda:73:DefaultText"
+msgid "It'd be nice to have you in here patching people up, not just blowing them apart."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_dorsett_wanda:74
+msgctxt "conversations/01_groundbreaker/01_cv_dorsett_wanda:74:DefaultText"
+msgid "I respect what you're doing here, but you know I'm not ready to settle down. It's not you, it's me."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_dorsett_wanda:75
+msgctxt "conversations/01_groundbreaker/01_cv_dorsett_wanda:75:DefaultText"
+msgid "Have it your way, then. You always do."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_dorsett_wanda:76
+msgctxt "conversations/01_groundbreaker/01_cv_dorsett_wanda:76:DefaultText"
+msgid "Any chance you could let me into the back rooms?"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_dorsett_wanda:77
+msgctxt "conversations/01_groundbreaker/01_cv_dorsett_wanda:77:DefaultText"
+msgid "Not sure why you'd want to, given the biohazard signs. Luckily, we don't actually have any chemical agents or plague going on in there... not right now, at least."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_dorsett_wanda:78
+msgctxt "conversations/01_groundbreaker/01_cv_dorsett_wanda:78:DefaultText"
+msgid "Well, you did help me out. Sure, go ahead. Just don't do anything unsavory. "
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_dorsett_wanda:79
+msgctxt "conversations/01_groundbreaker/01_cv_dorsett_wanda:79:DefaultText"
+msgid "Now, about your friend here..."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_dorsett_wanda:81
+msgctxt "conversations/01_groundbreaker/01_cv_dorsett_wanda:81:DefaultText"
+msgid "But that's neither here nor there."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_dorsett_wanda:82
+msgctxt "conversations/01_groundbreaker/01_cv_dorsett_wanda:82:DefaultText"
+msgid "Wheeler says your shipment won't be coming in soon."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_dorsett_wanda:83
+msgctxt "conversations/01_groundbreaker/01_cv_dorsett_wanda:83:DefaultText"
+msgid "I'll be on my way."
+msgstr ""

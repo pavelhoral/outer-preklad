@@ -1,0 +1,38 @@
+#: conversations/02_terra2/0231_bureau/0231_cp_autopsy:1
+msgctxt "conversations/02_terra2/0231_bureau/0231_cp_autopsy:1:DefaultText"
+msgid "Ministry of Accuracy and Morale\n"
+"========================\n"
+"Remember, Ministry terminals are to be used for Ministry business only! \r\n"
+"\r\n"
+"Anyone caught or suspected of using Ministry terminals for criminal, defamatory, or non-work related purposes will be prosecuted."
+msgstr ""
+
+#: conversations/02_terra2/0231_bureau/0231_cp_autopsy:2
+msgctxt "conversations/02_terra2/0231_bureau/0231_cp_autopsy:2:DefaultText"
+msgid "[View Lab Notes]"
+msgstr ""
+
+#: conversations/02_terra2/0231_bureau/0231_cp_autopsy:3
+msgctxt "conversations/02_terra2/0231_bureau/0231_cp_autopsy:3:DefaultText"
+msgid "Autopsy Records\n"
+"========================\n"
+"Note: All subjects have perished after undergoing multiple hibernation cycles:\n"
+"\n"
+"Subject 19-F: Massive cranial hemorrhage upon removal from hibernation chamber.\n"
+"\n"
+"Subject 61-B: Intestinal rupture upon removal from hibernation chamber.\n"
+"\n"
+"Subject 82-C: Lab technician accidentally shorted hibernation chamber. Subject electrocuted.\n"
+"\n"
+"Subject 15-R: Pulmonary edema upon removal from hibernation chamber."
+msgstr ""
+
+#: conversations/02_terra2/0231_bureau/0231_cp_autopsy:4
+msgctxt "conversations/02_terra2/0231_bureau/0231_cp_autopsy:4:DefaultText"
+msgid "[Exit]"
+msgstr ""
+
+#: conversations/02_terra2/0231_bureau/0231_cp_autopsy:5
+msgctxt "conversations/02_terra2/0231_bureau/0231_cp_autopsy:5:DefaultText"
+msgid "[Return to Root]"
+msgstr ""

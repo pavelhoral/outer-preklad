@@ -1,0 +1,69 @@
+#: quests/04_monarch/fq_0411_little_memento:0
+msgctxt "quests/04_monarch/fq_0411_little_memento:0:DefaultText"
+msgid "Little Memento"
+msgstr ""
+
+#: quests/04_monarch/fq_0411_little_memento:1
+msgctxt "quests/04_monarch/fq_0411_little_memento:1:DefaultText"
+msgid "Investigate the Outpost"
+msgstr ""
+
+#: quests/04_monarch/fq_0411_little_memento:2
+msgctxt "quests/04_monarch/fq_0411_little_memento:2:DefaultText"
+msgid "Find the Mercenaries"
+msgstr ""
+
+#: quests/04_monarch/fq_0411_little_memento:3
+msgctxt "quests/04_monarch/fq_0411_little_memento:3:DefaultText"
+msgid "Return to Ash"
+msgstr ""
+
+#: quests/04_monarch/fq_0411_little_memento:10000
+msgctxt "quests/04_monarch/fq_0411_little_memento:10000:DefaultText"
+msgid "Ash, a grizzled old veteran in the Amber Heights bar, has asked you to track down a keepsake box from his old mercenary unit."
+msgstr ""
+
+#: quests/04_monarch/fq_0411_little_memento:10001
+msgctxt "quests/04_monarch/fq_0411_little_memento:10001:DefaultText"
+msgid "Ash has pointed you toward one of his unit's old outposts."
+msgstr ""
+
+#: quests/04_monarch/fq_0411_little_memento:10002
+msgctxt "quests/04_monarch/fq_0411_little_memento:10002:DefaultText"
+msgid "It looks like the mercenaries packed up and fled to a nearby waterfall. If they're there, the keepsake box is likely with them."
+msgstr ""
+
+#: quests/04_monarch/fq_0411_little_memento:10003
+msgctxt "quests/04_monarch/fq_0411_little_memento:10003:DefaultText"
+msgid "You found a locked box of mementos from Ash's old mercenary unit."
+msgstr ""
+
+#: quests/04_monarch/fq_0411_little_memento:20000
+msgctxt "quests/04_monarch/fq_0411_little_memento:20000:DefaultText"
+msgid "You've found the outpost, but the mercenaries aren't here. They must have left some clues as to where they went."
+msgstr ""
+
+#: quests/04_monarch/fq_0411_little_memento:20001
+msgctxt "quests/04_monarch/fq_0411_little_memento:20001:DefaultText"
+msgid "The mercenaries appear to have met a grisly fate in the jaws of the Monarch wilderness. Perhaps one of them had the box in their possession."
+msgstr ""
+
+#: quests/04_monarch/fq_0411_little_memento:20002
+msgctxt "quests/04_monarch/fq_0411_little_memento:20002:DefaultText"
+msgid "You found a ledger that seems to indicate that Ash was never a part of the mercenary squad using this outpost."
+msgstr ""
+
+#: quests/04_monarch/fq_0411_little_memento:30000
+msgctxt "quests/04_monarch/fq_0411_little_memento:30000:DefaultText"
+msgid "You found Ash's old lockbox and returned it to him."
+msgstr ""
+
+#: quests/04_monarch/fq_0411_little_memento:30001
+msgctxt "quests/04_monarch/fq_0411_little_memento:30001:DefaultText"
+msgid "You have a hostile relationship with the Iconoclasts."
+msgstr ""
+
+#: quests/04_monarch/fq_0411_little_memento:30002
+msgctxt "quests/04_monarch/fq_0411_little_memento:30002:DefaultText"
+msgid "Ash is dead."
+msgstr ""

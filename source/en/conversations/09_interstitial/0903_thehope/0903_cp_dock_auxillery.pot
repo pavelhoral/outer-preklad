@@ -1,0 +1,200 @@
+#: conversations/09_interstitial/0903_thehope/0903_cp_dock_auxillery:1
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_dock_auxillery:1:DefaultText"
+msgid "AUXILIARY POWER STATION\r\n"
+"===========================\r\n"
+"Available functions:\r\n"
+"- PATCH: Route an auxiliary power source to supplement UDL-002's reactor\r\n"
+"- STATUS: Power status report\r\n"
+"- LOGS: View archived logs, recorded audio transmissions, and/or internal messages"
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_dock_auxillery:8
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_dock_auxillery:8:DefaultText"
+msgid "Systems due for regularly scheduled maintenance:\n"
+"\n"
+"- Engines: 22,056 days overdue\n"
+"- Power Regulators: 22,159 days overdue\n"
+"- Coolant Systems: 22,036 days overdue\n"
+"- Security Automechs: 22,098 days overdue\n"
+"- Skip Drive: 21,985 days overdue\n"
+"- Janitorial: 22,175 days overdue\n"
+"\n"
+"Pending work orders:\n"
+"- #M-3697: Macrowave short circuited after SOME IDIOT left his fork on his plate\n"
+"- #M-3699: Macrowave clock has stopped\n"
+"- #M-3704: Macrowave is stuck on high power mode\n"
+"- #M-3745: Macrowave has stopped working entirely"
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_dock_auxillery:9
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_dock_auxillery:9:DefaultText"
+msgid "[Exit]"
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_dock_auxillery:12
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_dock_auxillery:12:DefaultText"
+msgid "All hibernation storage systems are functioning within intended parameters. \r\n"
+"\r\n"
+"Storage Bay 5 is currently at 99% capacity\r\n"
+"\r\n"
+"Storage Bay 8 is currently at 92% capacity.\r\n"
+"\r\n"
+"Storage Bay 12 is currently at 76% capacity."
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_dock_auxillery:16
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_dock_auxillery:16:DefaultText"
+msgid "[Status]"
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_dock_auxillery:17
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_dock_auxillery:17:DefaultText"
+msgid "[Logs]"
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_dock_auxillery:18
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_dock_auxillery:18:DefaultText"
+msgid "[Patch]"
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_dock_auxillery:19
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_dock_auxillery:19:DefaultText"
+msgid "AUXILIARY POWER STATION\r\n"
+"===========================\r\n"
+"UDL-002's reactor is in power save mode. Only life support is powered."
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_dock_auxillery:20
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_dock_auxillery:20:DefaultText"
+msgid "AUXILIARY POWER STATION\r\n"
+"===========================\r\n"
+"UDL-002's reactor is in auxiliary mode. The following modules are now operational:\r\n"
+"- Life Support\r\n"
+"- Engines\r\n"
+"- Navigation\r\n"
+"- Communications\r\n"
+"- Security"
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_dock_auxillery:22
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_dock_auxillery:22:DefaultText"
+msgid "AUXILIARY POWER STATION\r\n"
+"===========================\r\n"
+"Error accessing archives. Available entries:"
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_dock_auxillery:23
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_dock_auxillery:23:DefaultText"
+msgid "[Pre-Launch Roll Call]"
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_dock_auxillery:24
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_dock_auxillery:24:DefaultText"
+msgid "PRE-LAUNCH ROLL CALL RECORDING: 24 CREWMEMBERS\r\n"
+"===========================\r\n"
+"PERSONNEL OF NOTABLE RANK\r\n"
+"===========================\r\n"
+"CAPTAIN: Hunte, Wilhelm\r\n"
+"FIRST MATE: Hunte, Donna\r\n"
+"NAVIGATION: Torrega, Rezi\r\n"
+"CHIEF ENGINEER: Nolda, Frank\r\n"
+"MEDICAL OFFICER: Volkov, Alexei"
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_dock_auxillery:25
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_dock_auxillery:25:DefaultText"
+msgid "[Manual Log #L-01 - HUNTE, W.]"
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_dock_auxillery:26
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_dock_auxillery:26:DefaultText"
+msgid "Ten years.\r\n"
+"\r\n"
+"Longest trip Donna and I ever took was a week-long sojourn into the Silver Mountains. Even that set her on edge. She's a homebody. Always was. She packed so much food we could've been stranded out on those rocks for a month and we probably would've been just fine.\r\n"
+"\r\n"
+"UDL sent us on a team-building seminar into the city once. They paid for everything. Donna still packed nutrient bars \"just in case the bus broke down.\"\r\n"
+"\r\n"
+"It's gonna take this ship ten years to reach Halcyon. An entire decade.\r\n"
+"\r\n"
+"It's a good thing UDL provided the rations, else she might have dumped our life savings into mixed nuts and freeze-dried meat."
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_dock_auxillery:27
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_dock_auxillery:27:DefaultText"
+msgid "[Automated Audio Transcript #R-01]"
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_dock_auxillery:28
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_dock_auxillery:28:DefaultText"
+msgid "HUNTE, W: This is it, folks. \r\n"
+"NOLDA, F: Say goodbye to old Blue, eh?\r\n"
+"HUNTE, W: Yeah. If anyone wants to...\r\n"
+"TORREGA, R: Good riddance.\r\n"
+"VOLKOV, A: Why so bitter, Rezi? She's been a good home.\r\n"
+"TORREGA, R: Give me a space ship any day of the week.\r\n"
+"HUNTE, D: Well... we'll see how you feel a year in.\r\n"
+"NOLDA, F: So, um, moment of silence? Or should we make a toast? Anything? It feels weird leaving Earth in the rear-view mirror.\r\n"
+"HUNTE, W: No. From now on, we look only forward."
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_dock_auxillery:29
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_dock_auxillery:29:DefaultText"
+msgid "[Back]"
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_dock_auxillery:30
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_dock_auxillery:30:DefaultText"
+msgid "AUXILIARY POWER STATION\r\n"
+"===========================\r\n"
+"Power is now being routed from the docking bay. Reactor is now in auxiliary power mode."
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_dock_auxillery:31
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_dock_auxillery:31:DefaultText"
+msgid "AUXILIARY POWER STATION\r\n"
+"===========================\r\n"
+"Status reports available on the following functions:\r\n"
+"- Power\r\n"
+"- Maintenance\r\n"
+"- Hibernation Chambers"
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_dock_auxillery:32
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_dock_auxillery:32:DefaultText"
+msgid "[Power Status]"
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_dock_auxillery:33
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_dock_auxillery:33:DefaultText"
+msgid "[Maintenance Status]"
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_dock_auxillery:34
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_dock_auxillery:34:DefaultText"
+msgid "[Hibernation Storage Status]"
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_dock_auxillery:35
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_dock_auxillery:35:DefaultText"
+msgid "[Back]"
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_dock_auxillery:36
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_dock_auxillery:36:DefaultText"
+msgid "[Continue]"
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_dock_auxillery:37
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_dock_auxillery:37:DefaultText"
+msgid "[Exit]"
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_dock_auxillery:38
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_dock_auxillery:38:DefaultText"
+msgid "[Continue]"
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_dock_auxillery:39
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_dock_auxillery:39:DefaultText"
+msgid "[Continue]"
+msgstr ""

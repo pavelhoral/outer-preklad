@@ -1,0 +1,55 @@
+#: conversations/04_monarch/0411/0411_cp_office_manager:1
+msgctxt "conversations/04_monarch/0411/0411_cp_office_manager:1:DefaultText"
+msgid "C&P Factory Systems\n"
+"========================\n"
+"AUTHORIZED MANAGER LOG IN SEQUENCE INTIATING...\n"
+"========================\n"
+"Greetings, authorized manager. The King would like to remind you to please record the day's Production Cycle numbers and promptly return to work. \"Or I'll see you for dinner you cysty-necked sack of blood clots.\""
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cp_office_manager:3
+msgctxt "conversations/04_monarch/0411/0411_cp_office_manager:3:DefaultText"
+msgid "[C&P Financial Records]"
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cp_office_manager:4
+msgctxt "conversations/04_monarch/0411/0411_cp_office_manager:4:DefaultText"
+msgid "[Exit]"
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cp_office_manager:5
+msgctxt "conversations/04_monarch/0411/0411_cp_office_manager:5:DefaultText"
+msgid "Financial Report for Production Cycle 255\r\n"
+"\r\n"
+"Cans Produced: 5000\r\n"
+"Cans Distributed: 4500\r\n"
+"Cost of Manufacturing: 38500.00\r\n"
+"Price per Unit: 14.99\r\n"
+"Net Gains: 28955.00"
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cp_office_manager:6
+msgctxt "conversations/04_monarch/0411/0411_cp_office_manager:6:DefaultText"
+msgid "Financial Report for Production Cycle 255\r\n"
+"\r\n"
+"Cans Produced: 5000\r\n"
+"Cans Distributed: 4500\r\n"
+"Cost of Manufacturing: 38500.00\r\n"
+"Price per Unit: 0.50\r\n"
+"Net Gains: -36250.00"
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cp_office_manager:7
+msgctxt "conversations/04_monarch/0411/0411_cp_office_manager:7:DefaultText"
+msgid "[Edit Financial Records]"
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cp_office_manager:8
+msgctxt "conversations/04_monarch/0411/0411_cp_office_manager:8:DefaultText"
+msgid "[Return to Root]"
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cp_office_manager:15
+msgctxt "conversations/04_monarch/0411/0411_cp_office_manager:15:DefaultText"
+msgid "[Operation complete.]"
+msgstr ""

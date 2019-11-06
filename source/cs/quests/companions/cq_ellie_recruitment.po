@@ -1,0 +1,84 @@
+#: quests/companions/cq_ellie_recruitment:0
+msgctxt "quests/companions/cq_ellie_recruitment:0:DefaultText"
+msgid "Worst Contact"
+msgstr ""
+
+#: quests/companions/cq_ellie_recruitment:1
+msgctxt "quests/companions/cq_ellie_recruitment:1:DefaultText"
+msgid "Talk to Jessie"
+msgstr ""
+
+#: quests/companions/cq_ellie_recruitment:2
+msgctxt "quests/companions/cq_ellie_recruitment:2:DefaultText"
+msgid "Convince Udom Bedford to Clear Jessie's Debts"
+msgstr ""
+
+#: quests/companions/cq_ellie_recruitment:3
+msgctxt "quests/companions/cq_ellie_recruitment:3:DefaultText"
+msgid "Talk to Ellie"
+msgstr ""
+
+#: quests/companions/cq_ellie_recruitment:8
+msgctxt "quests/companions/cq_ellie_recruitment:8:DefaultText"
+msgid "Talk to Jessie"
+msgstr ""
+
+#: quests/companions/cq_ellie_recruitment:10000
+msgctxt "quests/companions/cq_ellie_recruitment:10000:DefaultText"
+msgid "Ellie thinks there's something amiss with Jessie, an acquaintance who's been holed up in Groundbreaker's sick bay for a suspiciously long time."
+msgstr ""
+
+#: quests/companions/cq_ellie_recruitment:10001
+msgctxt "quests/companions/cq_ellie_recruitment:10001:DefaultText"
+msgid "Ellie hasn't been able to get through to Jessie, but you could try."
+msgstr ""
+
+#: quests/companions/cq_ellie_recruitment:10002
+msgctxt "quests/companions/cq_ellie_recruitment:10002:DefaultText"
+msgid "Jessie's hiding from the Board's agents. You might be able to help her by speaking with the Board's representative on Groundbreaker, Udom Bedford."
+msgstr ""
+
+#: quests/companions/cq_ellie_recruitment:10003
+msgctxt "quests/companions/cq_ellie_recruitment:10003:DefaultText"
+msgid "Ellie will be pleased to know that you've addressed Jessie's debts with the Board - and her debts with Jessie."
+msgstr ""
+
+#: quests/companions/cq_ellie_recruitment:10008
+msgctxt "quests/companions/cq_ellie_recruitment:10008:DefaultText"
+msgid "Udom Bedford has been replaced as the Board's representative to the Groundbreaker. Jessie will want to hear about this."
+msgstr ""
+
+#: quests/companions/cq_ellie_recruitment:20000
+msgctxt "quests/companions/cq_ellie_recruitment:20000:DefaultText"
+msgid "Udom Bedford has been replaced as the Board's representative to the Groundbreaker. Jessie will want to hear about this."
+msgstr ""
+
+#: quests/companions/cq_ellie_recruitment:20001
+msgctxt "quests/companions/cq_ellie_recruitment:20001:DefaultText"
+msgid "Jessie is in the quarantine section of Groundbreaker's MedBay - a Restricted Area. Finding a Mardet ID cartridge would allow you to use the Holographic Shroud Phineas told you about to walk past security."
+msgstr ""
+
+#: quests/companions/cq_ellie_recruitment:30000
+msgctxt "quests/companions/cq_ellie_recruitment:30000:DefaultText"
+msgid "Ellie is dead."
+msgstr ""
+
+#: quests/companions/cq_ellie_recruitment:30001
+msgctxt "quests/companions/cq_ellie_recruitment:30001:DefaultText"
+msgid "Jessie's dead, and Ellie won't have any further dealings with you."
+msgstr ""
+
+#: quests/companions/cq_ellie_recruitment:30002
+msgctxt "quests/companions/cq_ellie_recruitment:30002:DefaultText"
+msgid "Ellie feels indebted to you for clearing her debt to Jessie."
+msgstr ""
+
+#: quests/companions/cq_ellie_recruitment:30003
+msgctxt "quests/companions/cq_ellie_recruitment:30003:DefaultText"
+msgid "The Groundbreaker has become hostile towards you, making it impossible to complete this quest."
+msgstr ""
+
+#: quests/companions/cq_ellie_recruitment:40001
+msgctxt "quests/companions/cq_ellie_recruitment:40001:DefaultText"
+msgid "Inform Ellie that you've eliminated Jessie Doyle."
+msgstr ""

@@ -1,0 +1,124 @@
+#: quests/00_emeraldvale/sq_0004_rescuekidnappeddeserter:0
+msgctxt "quests/00_emeraldvale/sq_0004_rescuekidnappeddeserter:0:DefaultText"
+msgid "A Few Kindred Spirits"
+msgstr ""
+
+#: quests/00_emeraldvale/sq_0004_rescuekidnappeddeserter:1
+msgctxt "quests/00_emeraldvale/sq_0004_rescuekidnappeddeserter:1:DefaultText"
+msgid "Search Zoe's Home for Clues"
+msgstr ""
+
+#: quests/00_emeraldvale/sq_0004_rescuekidnappeddeserter:3
+msgctxt "quests/00_emeraldvale/sq_0004_rescuekidnappeddeserter:3:DefaultText"
+msgid "Return to Grace"
+msgstr ""
+
+#: quests/00_emeraldvale/sq_0004_rescuekidnappeddeserter:9
+msgctxt "quests/00_emeraldvale/sq_0004_rescuekidnappeddeserter:9:DefaultText"
+msgid "Return to Grace"
+msgstr ""
+
+#: quests/00_emeraldvale/sq_0004_rescuekidnappeddeserter:12
+msgctxt "quests/00_emeraldvale/sq_0004_rescuekidnappeddeserter:12:DefaultText"
+msgid "Find Zoe"
+msgstr ""
+
+#: quests/00_emeraldvale/sq_0004_rescuekidnappeddeserter:15
+msgctxt "quests/00_emeraldvale/sq_0004_rescuekidnappeddeserter:15:DefaultText"
+msgid "Find Proof on Zoe's Corpse"
+msgstr ""
+
+#: quests/00_emeraldvale/sq_0004_rescuekidnappeddeserter:16
+msgctxt "quests/00_emeraldvale/sq_0004_rescuekidnappeddeserter:16:DefaultText"
+msgid "Convince Zoe to Return"
+msgstr ""
+
+#: quests/00_emeraldvale/sq_0004_rescuekidnappeddeserter:19
+msgctxt "quests/00_emeraldvale/sq_0004_rescuekidnappeddeserter:19:DefaultText"
+msgid "Convince Zoe to Return"
+msgstr ""
+
+#: quests/00_emeraldvale/sq_0004_rescuekidnappeddeserter:10000
+msgctxt "quests/00_emeraldvale/sq_0004_rescuekidnappeddeserter:10000:DefaultText"
+msgid "Grace Romero, one of the deserters camped at the Botanical Lab, has asked you to look for a missing deserter named Zoe."
+msgstr ""
+
+#: quests/00_emeraldvale/sq_0004_rescuekidnappeddeserter:10001
+msgctxt "quests/00_emeraldvale/sq_0004_rescuekidnappeddeserter:10001:DefaultText"
+msgid "Grace doesn't know where Zoe might have gone. She suggested checking the shack where Zoe beds down for any hints at where she might have gone."
+msgstr ""
+
+#: quests/00_emeraldvale/sq_0004_rescuekidnappeddeserter:10003
+msgctxt "quests/00_emeraldvale/sq_0004_rescuekidnappeddeserter:10003:DefaultText"
+msgid "You convinced Zoe to return to the camp. Grace will want to hear the good news."
+msgstr ""
+
+#: quests/00_emeraldvale/sq_0004_rescuekidnappeddeserter:10009
+msgctxt "quests/00_emeraldvale/sq_0004_rescuekidnappeddeserter:10009:DefaultText"
+msgid "You found a ring on Zoe's corpse. Hopefully, Grace will recognize the ring and reward you for reporting what \"happened\" to Zoe."
+msgstr ""
+
+#: quests/00_emeraldvale/sq_0004_rescuekidnappeddeserter:10012
+msgctxt "quests/00_emeraldvale/sq_0004_rescuekidnappeddeserter:10012:DefaultText"
+msgid "One of Zoe's journal entries revealed that she secretly planned to run away and join the marauder camp to the east. Now that you know her location, head to the camp and see if she's okay."
+msgstr ""
+
+#: quests/00_emeraldvale/sq_0004_rescuekidnappeddeserter:10015
+msgctxt "quests/00_emeraldvale/sq_0004_rescuekidnappeddeserter:10015:DefaultText"
+msgid "You found Zoe, then promptly killed her. You could probably tell Grace you found her that way, but you should probably see if you can find anything on Zoe's corpse that Grace might recognize as proof that you found her."
+msgstr ""
+
+#: quests/00_emeraldvale/sq_0004_rescuekidnappeddeserter:10016
+msgctxt "quests/00_emeraldvale/sq_0004_rescuekidnappeddeserter:10016:DefaultText"
+msgid "You already came across Zoe in your travels, and now just have to get her to return to Grace and the others in the camp."
+msgstr ""
+
+#: quests/00_emeraldvale/sq_0004_rescuekidnappeddeserter:10019
+msgctxt "quests/00_emeraldvale/sq_0004_rescuekidnappeddeserter:10019:DefaultText"
+msgid "Zoe is perfectly fine and somehow living amongst marauders. She seems to be content with her situation, so it'll take some convincing to get her to return to her people."
+msgstr ""
+
+#: quests/00_emeraldvale/sq_0004_rescuekidnappeddeserter:20000
+msgctxt "quests/00_emeraldvale/sq_0004_rescuekidnappeddeserter:20000:DefaultText"
+msgid "Stefan said that Zoe kept a journal, which should be in her quarters."
+msgstr ""
+
+#: quests/00_emeraldvale/sq_0004_rescuekidnappeddeserter:20001
+msgctxt "quests/00_emeraldvale/sq_0004_rescuekidnappeddeserter:20001:DefaultText"
+msgid "Stefan revealed that he was looking forward to surprising Zoe with an episode of her favorite serial."
+msgstr ""
+
+#: quests/00_emeraldvale/sq_0004_rescuekidnappeddeserter:20002
+msgctxt "quests/00_emeraldvale/sq_0004_rescuekidnappeddeserter:20002:DefaultText"
+msgid "Grace said that out of all the people in the camp, Stefan was the one closest to Zoe, and might know something about her disappearance."
+msgstr ""
+
+#: quests/00_emeraldvale/sq_0004_rescuekidnappeddeserter:30000
+msgctxt "quests/00_emeraldvale/sq_0004_rescuekidnappeddeserter:30000:DefaultText"
+msgid "You got Zoe to abandon her plan and move back to the camp."
+msgstr ""
+
+#: quests/00_emeraldvale/sq_0004_rescuekidnappeddeserter:30003
+msgctxt "quests/00_emeraldvale/sq_0004_rescuekidnappeddeserter:30003:DefaultText"
+msgid "You told Grace that Zoe is dead."
+msgstr ""
+
+#: quests/00_emeraldvale/sq_0004_rescuekidnappeddeserter:30004
+msgctxt "quests/00_emeraldvale/sq_0004_rescuekidnappeddeserter:30004:DefaultText"
+msgid "Grace should have been more worried about herself than Zoe. That'll learn 'er."
+msgstr ""
+
+#: quests/00_emeraldvale/sq_0004_rescuekidnappeddeserter:30005
+msgctxt "quests/00_emeraldvale/sq_0004_rescuekidnappeddeserter:30005:DefaultText"
+msgid "The residents of the Botanical Lab all want you dead, so Grace probably no longer wants your help finding Zoe."
+msgstr ""
+
+#: quests/00_emeraldvale/sq_0004_rescuekidnappeddeserter:30006
+msgctxt "quests/00_emeraldvale/sq_0004_rescuekidnappeddeserter:30006:DefaultText"
+msgid "The residents of Edgewater all hate you, so Grace is unlikely to want your continued help finding Zoe."
+msgstr ""
+
+#: quests/00_emeraldvale/sq_0004_rescuekidnappeddeserter:40001
+msgctxt "quests/00_emeraldvale/sq_0004_rescuekidnappeddeserter:40001:DefaultText"
+msgid "Grace Romero, one of the deserters who moved back to Edgewater from the Botanical Lab, has asked you to look for a missing deserter named Zoe."
+msgstr ""

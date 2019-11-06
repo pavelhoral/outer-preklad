@@ -1,0 +1,1230 @@
+#: game/areas:0
+msgctxt "game/areas:0:DefaultText"
+msgid "Test Shanty Town"
+msgstr ""
+
+#: game/areas:1
+msgctxt "game/areas:1:DefaultText"
+msgid "Exterior Area Test"
+msgstr ""
+
+#: game/areas:2
+msgctxt "game/areas:2:DefaultText"
+msgid "Test for a larger streaming area."
+msgstr ""
+
+#: game/areas:3
+msgctxt "game/areas:3:DefaultText"
+msgid "Small test town"
+msgstr ""
+
+#: game/areas:4
+msgctxt "game/areas:4:DefaultText"
+msgid "Small Lab"
+msgstr ""
+
+#: game/areas:5
+msgctxt "game/areas:5:DefaultText"
+msgid "A small test lab"
+msgstr ""
+
+#: game/areas:6
+msgctxt "game/areas:6:DefaultText"
+msgid "Large Lab"
+msgstr ""
+
+#: game/areas:7
+msgctxt "game/areas:7:DefaultText"
+msgid "A Larger Test Lab"
+msgstr ""
+
+#: game/areas:8
+msgctxt "game/areas:8:DefaultText"
+msgid "Small Town"
+msgstr ""
+
+#: game/areas:9
+msgctxt "game/areas:9:DefaultText"
+msgid "Game Objects Test Map"
+msgstr ""
+
+#: game/areas:10
+msgctxt "game/areas:10:DefaultText"
+msgid "Demonstrates Game Object Interactions"
+msgstr ""
+
+#: game/areas:11
+msgctxt "game/areas:11:DefaultText"
+msgid "Game Objects Test B"
+msgstr ""
+
+#: game/areas:12
+msgctxt "game/areas:12:DefaultText"
+msgid "Demonstrates Level Transitions"
+msgstr ""
+
+#: game/areas:13
+msgctxt "game/areas:13:DefaultText"
+msgid "Covert Lab"
+msgstr ""
+
+#: game/areas:14
+msgctxt "game/areas:14:DefaultText"
+msgid "Roseway"
+msgstr ""
+
+#: game/areas:15
+msgctxt "game/areas:15:DefaultText"
+msgid "Auntie-Biotics Lab"
+msgstr ""
+
+#: game/areas:16
+msgctxt "game/areas:16:DefaultText"
+msgid "Storage Facility"
+msgstr ""
+
+#: game/areas:18
+msgctxt "game/areas:18:DefaultText"
+msgid "Underground Lab"
+msgstr ""
+
+#: game/areas:19
+msgctxt "game/areas:19:DefaultText"
+msgid "Auntie Cleo's"
+msgstr ""
+
+#: game/areas:20
+msgctxt "game/areas:20:DefaultText"
+msgid "Shanty Town"
+msgstr ""
+
+#: game/areas:26
+msgctxt "game/areas:26:DefaultText"
+msgid "Game Objects Test C"
+msgstr ""
+
+#: game/areas:27
+msgctxt "game/areas:27:DefaultText"
+msgid "Test Room for Objectives and Breadcrumbing"
+msgstr ""
+
+#: game/areas:28
+msgctxt "game/areas:28:DefaultText"
+msgid "Emerald Vale Region"
+msgstr ""
+
+#: game/areas:30
+msgctxt "game/areas:30:DefaultText"
+msgid "Edgewater"
+msgstr ""
+
+#: game/areas:32
+msgctxt "game/areas:32:DefaultText"
+msgid "Groundbreaker"
+msgstr ""
+
+#: game/areas:33
+msgctxt "game/areas:33:DefaultText"
+msgid "Independent orbital station in the remains of Halcyon's first colony ship. Captained by Junlei Tennyson and run by descendants of the original crew."
+msgstr ""
+
+#: game/areas:38
+msgctxt "game/areas:38:DefaultText"
+msgid "Geothermal Power Plant"
+msgstr ""
+
+#: game/areas:42
+msgctxt "game/areas:42:DefaultText"
+msgid "Monarch Wilderness"
+msgstr ""
+
+#: game/areas:43
+msgctxt "game/areas:43:DefaultText"
+msgid "Devil's Peak Station"
+msgstr ""
+
+#: game/areas:44
+msgctxt "game/areas:44:DefaultText"
+msgid ""
+msgstr ""
+
+#: game/areas:45
+msgctxt "game/areas:45:DefaultText"
+msgid "Stellar Bay"
+msgstr ""
+
+#: game/areas:46
+msgctxt "game/areas:46:DefaultText"
+msgid "Devil's Peak Caverns"
+msgstr ""
+
+#: game/areas:47
+msgctxt "game/areas:47:DefaultText"
+msgid "Bayside Tunnel"
+msgstr ""
+
+#: game/areas:50
+msgctxt "game/areas:50:DefaultText"
+msgid "Objective Beacon Test - Main Area"
+msgstr ""
+
+#: game/areas:51
+msgctxt "game/areas:51:DefaultText"
+msgid "Objective Beacon Test - Side Area"
+msgstr ""
+
+#: game/areas:52
+msgctxt "game/areas:52:DefaultText"
+msgid "Player Ship"
+msgstr ""
+
+#: game/areas:53
+msgctxt "game/areas:53:DefaultText"
+msgid "Temp Player Ship"
+msgstr ""
+
+#: game/areas:54
+msgctxt "game/areas:54:DefaultText"
+msgid "Roseway Landing Pad"
+msgstr ""
+
+#: game/areas:55
+msgctxt "game/areas:55:DefaultText"
+msgid "Roseway Gardens"
+msgstr ""
+
+#: game/areas:66
+msgctxt "game/areas:66:DefaultText"
+msgid "Small Cave"
+msgstr ""
+
+#: game/areas:67
+msgctxt "game/areas:67:DefaultText"
+msgid "Large Cave"
+msgstr ""
+
+#: game/areas:86
+msgctxt "game/areas:86:DefaultText"
+msgid "Byzantium"
+msgstr ""
+
+#: game/areas:87
+msgctxt "game/areas:87:DefaultText"
+msgid "Byzantium is Halcyon's capital, and the home of the colony's wealthy elite."
+msgstr ""
+
+#: game/areas:88
+msgctxt "game/areas:88:DefaultText"
+msgid "HHC Building"
+msgstr ""
+
+#: game/areas:91
+msgctxt "game/areas:91:DefaultText"
+msgid "Devil's Peak Summit"
+msgstr ""
+
+#: game/areas:99
+msgctxt "game/areas:99:DefaultText"
+msgid "Devil's Peak Mid Mountain Entrance"
+msgstr ""
+
+#: game/areas:102
+msgctxt "game/areas:102:DefaultText"
+msgid "Devil's Peak River Cave Entrance"
+msgstr ""
+
+#: game/areas:107
+msgctxt "game/areas:107:DefaultText"
+msgid "Devil's Peak Relay"
+msgstr ""
+
+#: game/areas:113
+msgctxt "game/areas:113:DefaultText"
+msgid "Stellar Bay Ruins (North)"
+msgstr ""
+
+#: game/areas:116
+msgctxt "game/areas:116:DefaultText"
+msgid "Stellar Bay Ruins (South)"
+msgstr ""
+
+#: game/areas:127
+msgctxt "game/areas:127:DefaultText"
+msgid "Stellar Bay (Docks)"
+msgstr ""
+
+#: game/areas:132
+msgctxt "game/areas:132:DefaultText"
+msgid "Stellar Bay Landing Pad"
+msgstr ""
+
+#: game/areas:133
+msgctxt "game/areas:133:DefaultText"
+msgid "Crashed Pod"
+msgstr ""
+
+#: game/areas:134
+msgctxt "game/areas:134:DefaultText"
+msgid "Edgewater Landing Pad"
+msgstr ""
+
+#: game/areas:135
+msgctxt "game/areas:135:DefaultText"
+msgid "The Unreliable - Interior"
+msgstr ""
+
+#: game/areas:136
+msgctxt "game/areas:136:DefaultText"
+msgid "Ministry of Accuracy and Morale"
+msgstr ""
+
+#: game/areas:137
+msgctxt "game/areas:137:DefaultText"
+msgid "(TEMP) Description of Ministry of Accuracy and Morale"
+msgstr ""
+
+#: game/areas:138
+msgctxt "game/areas:138:DefaultText"
+msgid "Fairfield"
+msgstr ""
+
+#: game/areas:139
+msgctxt "game/areas:139:DefaultText"
+msgid "(TEMP) Description of Fairfield"
+msgstr ""
+
+#: game/areas:140
+msgctxt "game/areas:140:DefaultText"
+msgid "Midway (Terra 2) Landing Pad"
+msgstr ""
+
+#: game/areas:141
+msgctxt "game/areas:141:DefaultText"
+msgid "[TEMP] Description for Midway (Terra 2) Landing Pad)"
+msgstr ""
+
+#: game/areas:142
+msgctxt "game/areas:142:DefaultText"
+msgid "Midway (Terra 2) Cavern"
+msgstr ""
+
+#: game/areas:143
+msgctxt "game/areas:143:DefaultText"
+msgid "[TEMP] Description for Midway (Terra 2) Cavern"
+msgstr ""
+
+#: game/areas:144
+msgctxt "game/areas:144:DefaultText"
+msgid "Midway (Terra 2) Surface"
+msgstr ""
+
+#: game/areas:145
+msgctxt "game/areas:145:DefaultText"
+msgid "[TEMP] Description for Midway (Terra 2) Surface)"
+msgstr ""
+
+#: game/areas:146
+msgctxt "game/areas:146:DefaultText"
+msgid "Midway (Terra 2) Hammersmith Landing Pad"
+msgstr ""
+
+#: game/areas:147
+msgctxt "game/areas:147:DefaultText"
+msgid "[TEMP] Description for Midway (Terra 2) Hammersmith Landing Pad"
+msgstr ""
+
+#: game/areas:148
+msgctxt "game/areas:148:DefaultText"
+msgid "Midway (Terra 2) Hammersmith Warehouse"
+msgstr ""
+
+#: game/areas:149
+msgctxt "game/areas:149:DefaultText"
+msgid "[TEMP] Description for Midway (Terra 2) Hammersmith Warehouse"
+msgstr ""
+
+#: game/areas:150
+msgctxt "game/areas:150:DefaultText"
+msgid "The Hope"
+msgstr ""
+
+#: game/areas:151
+msgctxt "game/areas:151:DefaultText"
+msgid "The sister ship to The Groundbreaker, The Hope has been missing for years."
+msgstr ""
+
+#: game/areas:156
+msgctxt "game/areas:156:DefaultText"
+msgid "Phineas' Lab - Docking Bay"
+msgstr ""
+
+#: game/areas:157
+msgctxt "game/areas:157:DefaultText"
+msgid "This docking bay provides access to Phineas Welles's orbital laboratory."
+msgstr ""
+
+#: game/areas:158
+msgctxt "game/areas:158:DefaultText"
+msgid "Phineas' Laboratory"
+msgstr ""
+
+#: game/areas:159
+msgctxt "game/areas:159:DefaultText"
+msgid "Dr. Phineas Welles operates out of an orbital lab, hidden in the rings of Terra 2."
+msgstr ""
+
+#: game/areas:160
+msgctxt "game/areas:160:DefaultText"
+msgid "Byzantium HHC Landing Pad"
+msgstr ""
+
+#: game/areas:162
+msgctxt "game/areas:162:DefaultText"
+msgid "Terra 2"
+msgstr ""
+
+#: game/areas:163
+msgctxt "game/areas:163:DefaultText"
+msgid "[TEMP] Description of Terra 2"
+msgstr ""
+
+#: game/areas:164
+msgctxt "game/areas:164:DefaultText"
+msgid "[TEMP] Primal Creation Laboratory"
+msgstr ""
+
+#: game/areas:165
+msgctxt "game/areas:165:DefaultText"
+msgid "[TEMP] Description of the Primal creation lab"
+msgstr ""
+
+#: game/areas:166
+msgctxt "game/areas:166:DefaultText"
+msgid "[TEMP] Abandoned Smuggling Warehouse"
+msgstr ""
+
+#: game/areas:167
+msgctxt "game/areas:167:DefaultText"
+msgid "[TEMP] Description for the abandoned smuggling warehouse."
+msgstr ""
+
+#: game/areas:168
+msgctxt "game/areas:168:DefaultText"
+msgid "<WARNING! DANGEROUS!>\n"
+"Cascadia Landing Pad"
+msgstr ""
+
+#: game/areas:170
+msgctxt "game/areas:170:DefaultText"
+msgid "[TEMP] Auntie Cleo Depository 18"
+msgstr ""
+
+#: game/areas:171
+msgctxt "game/areas:171:DefaultText"
+msgid "[TEMP] Auntie Cleo Depository 18"
+msgstr ""
+
+#: game/areas:172
+msgctxt "game/areas:172:DefaultText"
+msgid "[TEMP] Player Ship"
+msgstr ""
+
+#: game/areas:173
+msgctxt "game/areas:173:DefaultText"
+msgid "[TEMP] Player Ship Description"
+msgstr ""
+
+#: game/areas:174
+msgctxt "game/areas:174:DefaultText"
+msgid "[TEMP] Keystone"
+msgstr ""
+
+#: game/areas:175
+msgctxt "game/areas:175:DefaultText"
+msgid "[TEMP] Description of Keystone"
+msgstr ""
+
+#: game/areas:176
+msgctxt "game/areas:176:DefaultText"
+msgid "Maintenance Tunnels"
+msgstr ""
+
+#: game/areas:178
+msgctxt "game/areas:178:DefaultText"
+msgid "Tartarus"
+msgstr ""
+
+#: game/areas:179
+msgctxt "game/areas:179:DefaultText"
+msgid "Tartarus Docking Facilities"
+msgstr ""
+
+#: game/areas:184
+msgctxt "game/areas:184:DefaultText"
+msgid "Hephaestus Landing Pad"
+msgstr ""
+
+#: game/areas:185
+msgctxt "game/areas:185:DefaultText"
+msgid "Description Hephaestus"
+msgstr ""
+
+#: game/areas:186
+msgctxt "game/areas:186:DefaultText"
+msgid "Hephaestus"
+msgstr ""
+
+#: game/areas:187
+msgctxt "game/areas:187:DefaultText"
+msgid "C&P Boarst Factory"
+msgstr ""
+
+#: game/areas:189
+msgctxt "game/areas:189:DefaultText"
+msgid "Scylla"
+msgstr ""
+
+#: game/areas:190
+msgctxt "game/areas:190:DefaultText"
+msgid "Scylla is one of the largest asteroids orbiting Halcyon, the largest in a grouping of rocks known as the Charybdis Cluster. Hephaestus Mining once claimed the asteroid, but its prospecting site was abandoned decades ago."
+msgstr ""
+
+#: game/areas:191
+msgctxt "game/areas:191:DefaultText"
+msgid "Scylla Landing Pad"
+msgstr ""
+
+#: game/areas:192
+msgctxt "game/areas:192:DefaultText"
+msgid "Emerald Vale Community Center"
+msgstr ""
+
+#: game/areas:194
+msgctxt "game/areas:194:DefaultText"
+msgid "Botanical Lab"
+msgstr ""
+
+#: game/areas:196
+msgctxt "game/areas:196:DefaultText"
+msgid "Terra One Publications"
+msgstr ""
+
+#: game/areas:198
+msgctxt "game/areas:198:DefaultText"
+msgid "HRS-1084"
+msgstr ""
+
+#: game/areas:199
+msgctxt "game/areas:199:DefaultText"
+msgid "A satellite in the outer part of the Halcyon system. Heliospheric Research Station 1084 is technically owned by the Board, but has been long since abandoned."
+msgstr ""
+
+#: game/areas:200
+msgctxt "game/areas:200:DefaultText"
+msgid "Rizzo Secret Laboratory"
+msgstr ""
+
+#: game/areas:202
+msgctxt "game/areas:202:DefaultText"
+msgid "Landing Site"
+msgstr ""
+
+#: game/areas:204
+msgctxt "game/areas:204:DefaultText"
+msgid "Byzantium Freight Port Landing Pad"
+msgstr ""
+
+#: game/areas:206
+msgctxt "game/areas:206:DefaultText"
+msgid "Dr. Chartrand's Home"
+msgstr ""
+
+#: game/areas:209
+msgctxt "game/areas:209:DefaultText"
+msgid "Edgewater Landing Pad"
+msgstr ""
+
+#: game/areas:212
+msgctxt "game/areas:212:DefaultText"
+msgid "Fallbrook Landing Pad"
+msgstr ""
+
+#: game/areas:213
+msgctxt "game/areas:213:DefaultText"
+msgid "Fallbrook"
+msgstr ""
+
+#: game/areas:214
+msgctxt "game/areas:214:DefaultText"
+msgid "Smuggler Tunnel"
+msgstr ""
+
+#: game/areas:216
+msgctxt "game/areas:216:DefaultText"
+msgid "Edgewater (SW Gate)"
+msgstr ""
+
+#: game/areas:217
+msgctxt "game/areas:217:DefaultText"
+msgid "Edgewater (SE Gate)"
+msgstr ""
+
+#: game/areas:218
+msgctxt "game/areas:218:DefaultText"
+msgid "Edgewater (NW Gate)"
+msgstr ""
+
+#: game/areas:219
+msgctxt "game/areas:219:DefaultText"
+msgid "Cascadia"
+msgstr ""
+
+#: game/areas:221
+msgctxt "game/areas:221:DefaultText"
+msgid "UDL Lab"
+msgstr ""
+
+#: game/areas:225
+msgctxt "game/areas:225:DefaultText"
+msgid "[TEMP] Sublight Lab"
+msgstr ""
+
+#: game/areas:226
+msgctxt "game/areas:226:DefaultText"
+msgid "[TEMP] Sublight Lab"
+msgstr ""
+
+#: game/areas:227
+msgctxt "game/areas:227:DefaultText"
+msgid "Gunship Crash Site"
+msgstr ""
+
+#: game/areas:229
+msgctxt "game/areas:229:DefaultText"
+msgid "Bayside Terrace Ruins"
+msgstr ""
+
+#: game/areas:235
+msgctxt "game/areas:235:DefaultText"
+msgid "Fallbrook Crossroads"
+msgstr ""
+
+#: game/areas:236
+msgctxt "game/areas:236:DefaultText"
+msgid "Odeon Pictures"
+msgstr ""
+
+#: game/areas:238
+msgctxt "game/areas:238:DefaultText"
+msgid "Hermit's Lodge"
+msgstr ""
+
+#: game/areas:240
+msgctxt "game/areas:240:DefaultText"
+msgid "Early Retirement District"
+msgstr ""
+
+#: game/areas:242
+msgctxt "game/areas:242:DefaultText"
+msgid "Relay GB-23"
+msgstr ""
+
+#: game/areas:243
+msgctxt "game/areas:243:DefaultText"
+msgid "One of several orbital relay stations used by Groundbreaker's communications to maintain line of sight with ships traveling the Halcyon System."
+msgstr ""
+
+#: game/areas:244
+msgctxt "game/areas:244:DefaultText"
+msgid "001_Combat_Test"
+msgstr ""
+
+#: game/areas:245
+msgctxt "game/areas:245:DefaultText"
+msgid "008_NPC_AI_Test"
+msgstr ""
+
+#: game/areas:246
+msgctxt "game/areas:246:DefaultText"
+msgid "011_NPCGallery_Test"
+msgstr ""
+
+#: game/areas:247
+msgctxt "game/areas:247:DefaultText"
+msgid "[TEMP] Rizzo's Confectionery Description"
+msgstr ""
+
+#: game/areas:248
+msgctxt "game/areas:248:DefaultText"
+msgid "Rizzo's Confectionery"
+msgstr ""
+
+#: game/areas:249
+msgctxt "game/areas:249:DefaultText"
+msgid "Minister Clarke's Residence"
+msgstr ""
+
+#: game/areas:251
+msgctxt "game/areas:251:DefaultText"
+msgid "Prosperity Plaza"
+msgstr ""
+
+#: game/areas:252
+msgctxt "game/areas:252:DefaultText"
+msgid "Estates District"
+msgstr ""
+
+#: game/areas:255
+msgctxt "game/areas:255:DefaultText"
+msgid "[TEMP] HHC Building - Top Floor"
+msgstr ""
+
+#: game/areas:256
+msgctxt "game/areas:256:DefaultText"
+msgid "Acropolis District"
+msgstr ""
+
+#: game/areas:260
+msgctxt "game/areas:260:DefaultText"
+msgid "Adjutant Akande's Landing Pad"
+msgstr ""
+
+#: game/areas:261
+msgctxt "game/areas:261:DefaultText"
+msgid "[TEMP] HHC Building - Lobby"
+msgstr ""
+
+#: game/areas:262
+msgctxt "game/areas:262:DefaultText"
+msgid "[TEMP] End Slides"
+msgstr ""
+
+#: game/areas:263
+msgctxt "game/areas:263:DefaultText"
+msgid "[TEMP] End Slides Description"
+msgstr ""
+
+#: game/areas:264
+msgctxt "game/areas:264:DefaultText"
+msgid "Abandoned Logging Machine"
+msgstr ""
+
+#: game/areas:265
+msgctxt "game/areas:265:DefaultText"
+msgid "Terraformer"
+msgstr ""
+
+#: game/areas:266
+msgctxt "game/areas:266:DefaultText"
+msgid "Terraformer des"
+msgstr ""
+
+#: game/areas:267
+msgctxt "game/areas:267:DefaultText"
+msgid "SC Town"
+msgstr ""
+
+#: game/areas:268
+msgctxt "game/areas:268:DefaultText"
+msgid "SC Town des"
+msgstr ""
+
+#: game/areas:269
+msgctxt "game/areas:269:DefaultText"
+msgid "CP Farm"
+msgstr ""
+
+#: game/areas:270
+msgctxt "game/areas:270:DefaultText"
+msgid "CP Farm des"
+msgstr ""
+
+#: game/areas:271
+msgctxt "game/areas:271:DefaultText"
+msgid "Keystone Landing Pad"
+msgstr ""
+
+#: game/areas:272
+msgctxt "game/areas:272:DefaultText"
+msgid "Mantisaur Hive"
+msgstr ""
+
+#: game/areas:276
+msgctxt "game/areas:276:DefaultText"
+msgid "Labyrinth Docks description"
+msgstr ""
+
+#: game/areas:277
+msgctxt "game/areas:277:DefaultText"
+msgid "Bureau of Exploration"
+msgstr ""
+
+#: game/areas:279
+msgctxt "game/areas:279:DefaultText"
+msgid "Bureau of Exploration - Second Floor"
+msgstr ""
+
+#: game/areas:280
+msgctxt "game/areas:280:DefaultText"
+msgid "Halcyon Parcel Service"
+msgstr ""
+
+#: game/areas:282
+msgctxt "game/areas:282:DefaultText"
+msgid "Amber Heights"
+msgstr ""
+
+#: game/areas:283
+msgctxt "game/areas:283:DefaultText"
+msgid "Home of the Iconoclasts, men and women following the Philosophist teachings of Graham Bryant."
+msgstr ""
+
+#: game/areas:284
+msgctxt "game/areas:284:DefaultText"
+msgid "Back Bays"
+msgstr ""
+
+#: game/areas:286
+msgctxt "game/areas:286:DefaultText"
+msgid "Harlow's Base"
+msgstr ""
+
+#: game/areas:288
+msgctxt "game/areas:288:DefaultText"
+msgid "Fenhill Estate"
+msgstr ""
+
+#: game/areas:292
+msgctxt "game/areas:292:DefaultText"
+msgid "Deforesting Machine"
+msgstr ""
+
+#: game/areas:293
+msgctxt "game/areas:293:DefaultText"
+msgid "Tug Ship Crash"
+msgstr ""
+
+#: game/areas:294
+msgctxt "game/areas:294:DefaultText"
+msgid "Raptidon Pens"
+msgstr ""
+
+#: game/areas:295
+msgctxt "game/areas:295:DefaultText"
+msgid "Workbench"
+msgstr ""
+
+#: game/areas:296
+msgctxt "game/areas:296:DefaultText"
+msgid "Vending Machine"
+msgstr ""
+
+#: game/areas:297
+msgctxt "game/areas:297:DefaultText"
+msgid "Covert Lab Vent Shaft"
+msgstr ""
+
+#: game/areas:298
+msgctxt "game/areas:298:DefaultText"
+msgid "Groundbreaker Docking Bays"
+msgstr ""
+
+#: game/areas:299
+msgctxt "game/areas:299:DefaultText"
+msgid "Groundbreaker Promenade"
+msgstr ""
+
+#: game/areas:301
+msgctxt "game/areas:301:DefaultText"
+msgid "17th Bar Vendor"
+msgstr ""
+
+#: game/areas:302
+msgctxt "game/areas:302:DefaultText"
+msgid "Comms"
+msgstr ""
+
+#: game/areas:303
+msgctxt "game/areas:303:DefaultText"
+msgid "Luxury Apartments"
+msgstr ""
+
+#: game/areas:304
+msgctxt "game/areas:304:DefaultText"
+msgid "Workshop"
+msgstr ""
+
+#: game/areas:305
+msgctxt "game/areas:305:DefaultText"
+msgid "Forlorn Crossroads"
+msgstr ""
+
+#: game/areas:307
+msgctxt "game/areas:307:DefaultText"
+msgid "C3 Barracks"
+msgstr ""
+
+#: game/areas:309
+msgctxt "game/areas:309:DefaultText"
+msgid "Blown Bridge"
+msgstr ""
+
+#: game/areas:311
+msgctxt "game/areas:311:DefaultText"
+msgid "Bayside Terrace Warehouse"
+msgstr ""
+
+#: game/areas:313
+msgctxt "game/areas:313:DefaultText"
+msgid "Phineas' Laboratory"
+msgstr ""
+
+#: game/areas:314
+msgctxt "game/areas:314:DefaultText"
+msgid "An isolated space station."
+msgstr ""
+
+#: game/areas:316
+msgctxt "game/areas:316:DefaultText"
+msgid "Amber Heights Crossroads"
+msgstr ""
+
+#: game/areas:318
+msgctxt "game/areas:318:DefaultText"
+msgid "Cascadia Landing Pad"
+msgstr ""
+
+#: game/areas:320
+msgctxt "game/areas:320:DefaultText"
+msgid "Cascadia Turnpike"
+msgstr ""
+
+#: game/areas:323
+msgctxt "game/areas:323:DefaultText"
+msgid "Anton's Office"
+msgstr ""
+
+#: game/areas:324
+msgctxt "game/areas:324:DefaultText"
+msgid "Porter's Office"
+msgstr ""
+
+#: game/areas:325
+msgctxt "game/areas:325:DefaultText"
+msgid "Orson's Lab"
+msgstr ""
+
+#: game/areas:326
+msgctxt "game/areas:326:DefaultText"
+msgid "Vaughn's Lab"
+msgstr ""
+
+#: game/areas:327
+msgctxt "game/areas:327:DefaultText"
+msgid "Raptidon Incubation"
+msgstr ""
+
+#: game/areas:328
+msgctxt "game/areas:328:DefaultText"
+msgid "Distillery"
+msgstr ""
+
+#: game/areas:329
+msgctxt "game/areas:329:DefaultText"
+msgid "Raptidon Den"
+msgstr ""
+
+#: game/areas:330
+msgctxt "game/areas:330:DefaultText"
+msgid "Abandoned Mining Outpost"
+msgstr ""
+
+#: game/areas:332
+msgctxt "game/areas:332:DefaultText"
+msgid "Spacer's Choice Cantina"
+msgstr ""
+
+#: game/areas:333
+msgctxt "game/areas:333:DefaultText"
+msgid "Emerald Vale General Store"
+msgstr ""
+
+#: game/areas:334
+msgctxt "game/areas:334:DefaultText"
+msgid "UDL Terraformer"
+msgstr ""
+
+#: game/areas:335
+msgctxt "game/areas:335:DefaultText"
+msgid "Circus Time Freighter"
+msgstr ""
+
+#: game/areas:336
+msgctxt "game/areas:336:DefaultText"
+msgid "Irion's Ship"
+msgstr ""
+
+#: game/areas:337
+msgctxt "game/areas:337:DefaultText"
+msgid "Spacer's Choice Vendor"
+msgstr ""
+
+#: game/areas:338
+msgctxt "game/areas:338:DefaultText"
+msgid "Belle's Shells"
+msgstr ""
+
+#: game/areas:339
+msgctxt "game/areas:339:DefaultText"
+msgid "The Lost Hope Bar Vendor"
+msgstr ""
+
+#: game/areas:340
+msgctxt "game/areas:340:DefaultText"
+msgid "Spratwurst Vendor"
+msgstr ""
+
+#: game/areas:341
+msgctxt "game/areas:341:DefaultText"
+msgid "Ike's Armory"
+msgstr ""
+
+#: game/areas:342
+msgctxt "game/areas:342:DefaultText"
+msgid "Auntie's Kitchen"
+msgstr ""
+
+#: game/areas:343
+msgctxt "game/areas:343:DefaultText"
+msgid "Sulfur Pits"
+msgstr ""
+
+#: game/areas:344
+msgctxt "game/areas:344:DefaultText"
+msgid "Olympus Lovers Point"
+msgstr ""
+
+#: game/areas:345
+msgctxt "game/areas:345:DefaultText"
+msgid "Abandoned Safehouse"
+msgstr ""
+
+#: game/areas:346
+msgctxt "game/areas:346:DefaultText"
+msgid "Hero's Last Stand"
+msgstr ""
+
+#: game/areas:347
+msgctxt "game/areas:347:DefaultText"
+msgid "Sundered Rock"
+msgstr ""
+
+#: game/areas:348
+msgctxt "game/areas:348:DefaultText"
+msgid "Mantisaur Lair"
+msgstr ""
+
+#: game/areas:349
+msgctxt "game/areas:349:DefaultText"
+msgid "Cascadia Bridge Safehouse"
+msgstr ""
+
+#: game/areas:350
+msgctxt "game/areas:350:DefaultText"
+msgid "Abandoned Relay Station"
+msgstr ""
+
+#: game/areas:351
+msgctxt "game/areas:351:DefaultText"
+msgid "C&P Factory Sewer Entrance"
+msgstr ""
+
+#: game/areas:352
+msgctxt "game/areas:352:DefaultText"
+msgid "Marauder River Camp"
+msgstr ""
+
+#: game/areas:353
+msgctxt "game/areas:353:DefaultText"
+msgid "Junkyard"
+msgstr ""
+
+#: game/areas:354
+msgctxt "game/areas:354:DefaultText"
+msgid "Old Wreckage"
+msgstr ""
+
+#: game/areas:355
+msgctxt "game/areas:355:DefaultText"
+msgid "Marauder Hideout"
+msgstr ""
+
+#: game/areas:356
+msgctxt "game/areas:356:DefaultText"
+msgid "Primal Nest"
+msgstr ""
+
+#: game/areas:357
+msgctxt "game/areas:357:DefaultText"
+msgid "Abandoned Industrial Zone"
+msgstr ""
+
+#: game/areas:358
+msgctxt "game/areas:358:DefaultText"
+msgid "Abandoned Spacer's Choice Settlement"
+msgstr ""
+
+#: game/areas:359
+msgctxt "game/areas:359:DefaultText"
+msgid "Edgewater Cemetery"
+msgstr ""
+
+#: game/areas:360
+msgctxt "game/areas:360:DefaultText"
+msgid "Transport Wreckage"
+msgstr ""
+
+#: game/areas:361
+msgctxt "game/areas:361:DefaultText"
+msgid "Lone Grave"
+msgstr ""
+
+#: game/areas:362
+msgctxt "game/areas:362:DefaultText"
+msgid "North Gulch"
+msgstr ""
+
+#: game/areas:363
+msgctxt "game/areas:363:DefaultText"
+msgid "River Hideout"
+msgstr ""
+
+#: game/areas:364
+msgctxt "game/areas:364:DefaultText"
+msgid "Volcanic Summit"
+msgstr ""
+
+#: game/areas:365
+msgctxt "game/areas:365:DefaultText"
+msgid "Abandoned Outpost"
+msgstr ""
+
+#: game/areas:366
+msgctxt "game/areas:366:DefaultText"
+msgid "Marauder Encampment"
+msgstr ""
+
+#: game/areas:367
+msgctxt "game/areas:367:DefaultText"
+msgid "Old Campsite"
+msgstr ""
+
+#: game/areas:368
+msgctxt "game/areas:368:DefaultText"
+msgid "Sebastian Adam's Wildlife Emporium"
+msgstr ""
+
+#: game/areas:369
+msgctxt "game/areas:369:DefaultText"
+msgid "Zeng's Emporium"
+msgstr ""
+
+#: game/areas:370
+msgctxt "game/areas:370:DefaultText"
+msgid "The Yacht Club Vendor"
+msgstr ""
+
+#: game/areas:371
+msgctxt "game/areas:371:DefaultText"
+msgid "Duncan's Wholesome Dry Goods"
+msgstr ""
+
+#: game/areas:372
+msgctxt "game/areas:372:DefaultText"
+msgid "Guns! Guns! Guns! And Ammo Vendor"
+msgstr ""
+
+#: game/areas:373
+msgctxt "game/areas:373:DefaultText"
+msgid "Ante Up Vendor"
+msgstr ""
+
+#: game/areas:374
+msgctxt "game/areas:374:DefaultText"
+msgid "The Tipsy Sprat Vendor"
+msgstr ""
+
+#: game/areas:375
+msgctxt "game/areas:375:DefaultText"
+msgid "Iconoclast Quartermaster Vendor"
+msgstr ""
+
+#: game/areas:376
+msgctxt "game/areas:376:DefaultText"
+msgid "Prospecting Cave"
+msgstr ""
+
+#: game/areas:377
+msgctxt "game/areas:377:DefaultText"
+msgid "Jolicoeur's Haberdashery"
+msgstr ""
+
+#: game/areas:378
+msgctxt "game/areas:378:DefaultText"
+msgid "Billingsly's House of Inebriation"
+msgstr ""
+
+#: game/areas:379
+msgctxt "game/areas:379:DefaultText"
+msgid "Forlorn Medbot"
+msgstr ""
+
+#: game/areas:380
+msgctxt "game/areas:380:DefaultText"
+msgid "The Unreliable"
+msgstr ""
+
+#: game/areas:381
+msgctxt "game/areas:381:DefaultText"
+msgid "The Pit"
+msgstr ""
+
+#: game/areas:382
+msgctxt "game/areas:382:DefaultText"
+msgid "Docking Bay"
+msgstr ""
+
+#: game/areas:383
+msgctxt "game/areas:383:DefaultText"
+msgid "Cargo Yard"
+msgstr ""
+
+#: game/areas:384
+msgctxt "game/areas:384:DefaultText"
+msgid "The Pit - Floor 1"
+msgstr ""
+
+#: game/areas:385
+msgctxt "game/areas:385:DefaultText"
+msgid "The Pit - Floor 2"
+msgstr ""
+
+#: game/areas:386
+msgctxt "game/areas:386:DefaultText"
+msgid "The Pit - Floor 3"
+msgstr ""
+
+#: game/areas:387
+msgctxt "game/areas:387:DefaultText"
+msgid "The Atrium"
+msgstr ""
+
+#: game/areas:388
+msgctxt "game/areas:388:DefaultText"
+msgid "Forsythe Luxury Munitions"
+msgstr ""
+
+#: game/areas:389
+msgctxt "game/areas:389:DefaultText"
+msgid "Mather Residence"
+msgstr ""

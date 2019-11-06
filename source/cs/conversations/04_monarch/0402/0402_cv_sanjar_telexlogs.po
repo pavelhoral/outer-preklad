@@ -1,0 +1,75 @@
+#: conversations/04_monarch/0402/0402_cv_sanjar_telexlogs:1
+msgctxt "conversations/04_monarch/0402/0402_cv_sanjar_telexlogs:1:DefaultText"
+msgid "Monarch Stellar Industries\r\n"
+"============================\r\n"
+"\r\n"
+"This terminal is only to be used for official communication on behalf of Monarch Stellar Industries. "
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sanjar_telexlogs:3
+msgctxt "conversations/04_monarch/0402/0402_cv_sanjar_telexlogs:3:DefaultText"
+msgid "[View Data]"
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sanjar_telexlogs:4
+msgctxt "conversations/04_monarch/0402/0402_cv_sanjar_telexlogs:4:DefaultText"
+msgid "[Exit]"
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sanjar_telexlogs:5
+msgctxt "conversations/04_monarch/0402/0402_cv_sanjar_telexlogs:5:DefaultText"
+msgid "Personal Files for S. Nandi\r\n"
+"==========================="
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sanjar_telexlogs:8
+msgctxt "conversations/04_monarch/0402/0402_cv_sanjar_telexlogs:8:DefaultText"
+msgid "[A Summary Report on Conditions Within Stellar Bay]"
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sanjar_telexlogs:9
+msgctxt "conversations/04_monarch/0402/0402_cv_sanjar_telexlogs:9:DefaultText"
+msgid "[Working Slogans]"
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sanjar_telexlogs:10
+msgctxt "conversations/04_monarch/0402/0402_cv_sanjar_telexlogs:10:DefaultText"
+msgid "[WIP - White Paper on the Proposed Collaboration Between MSI and Iconoclast Forces]"
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sanjar_telexlogs:11
+msgctxt "conversations/04_monarch/0402/0402_cv_sanjar_telexlogs:11:DefaultText"
+msgid "[Return to Root]"
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sanjar_telexlogs:12
+msgctxt "conversations/04_monarch/0402/0402_cv_sanjar_telexlogs:12:DefaultText"
+msgid "Productivity has continued to improve since relaxing MSI's old restrictions and making allowances for employee benefits such as: time off for illness and personal leave, 24.9% reductions in shift length, and 52.3% more positive feedback. \r\n"
+"\r\n"
+"Fishery output is up 15.2% this year, showing a continuing but slowing growth trend. Decreased gains compared to previous years are likely due to the deterioration of materials and morale, occasional shortfalls in our supplies, and the gradual loss of personnel to marauders (7.2%), hostile wildlife (10.3%), and Iconoclast recruitment (17.4%). \r\n"
+"\r\n"
+"Reconciliation with the Board remains a long-term goal, but the immediate concern is defending the city from hostile elements. Repairing damage to the city walls consumes approximately 32.8% of our annual budget. The best solution would be an influx of skilled defenders and weaponry, but given the aforementioned factors and their effects on the local population, such a solution remains unlikely."
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sanjar_telexlogs:13
+msgctxt "conversations/04_monarch/0402/0402_cv_sanjar_telexlogs:13:DefaultText"
+msgid "\"MSI: Our Profit Margins Are STELLAR!\"\r\n"
+"\r\n"
+"\"MSI Saltuna: 43.28% MORE Nutrient-Dense Than the Leading Brands!\"\r\n"
+"\r\n"
+"\"Stellar Bay: A Tolerable Center of Commerce in a Hostile and Chaotic Galaxy!\""
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sanjar_telexlogs:14
+msgctxt "conversations/04_monarch/0402/0402_cv_sanjar_telexlogs:14:DefaultText"
+msgid "The alliance proposed by <oeitoken>PlayerName</oeitoken> presents a key opportunity for both Stellar Bay and Monarch at large. Seizing it depends on all parties understanding the costs and benefits of an arrangement. \r\n"
+"\r\n"
+"The addition of Iconoclast personnel would increase Stellar Bay's workforce by approximately 26.1%. Such gains may be offset, however, by the increased cost of resources and demands on local infrastructure. \r\n"
+"\r\n"
+"Iconoclast personnel could expect to see a reduction in malnutrition of approximately 36.9%, a 31.3% reduction in productivity lost to illness and/or dismemberment, and a roughly 41.2% decrease of annual mortality rates. (Note: such figures are based on most recently available data and projections, which are hazy at best)"
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sanjar_telexlogs:15
+msgctxt "conversations/04_monarch/0402/0402_cv_sanjar_telexlogs:15:DefaultText"
+msgid "[Back]"
+msgstr ""

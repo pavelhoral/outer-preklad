@@ -1,0 +1,744 @@
+#: conversations/companions/g_companion_parvati_in_party:24
+msgctxt "conversations/companions/g_companion_parvati_in_party:24:DefaultText"
+msgid "Yeah? I mean, what do you need? Captain. Mister. Sir."
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:24
+msgctxt "conversations/companions/g_companion_parvati_in_party:24:FemaleText"
+msgid "Yeah? I mean, what do you need? Captain. Ma'am. Lady."
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:27
+msgctxt "conversations/companions/g_companion_parvati_in_party:27:DefaultText"
+msgid "We'll talk later."
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:28
+msgctxt "conversations/companions/g_companion_parvati_in_party:28:DefaultText"
+msgid "Where can I find a Power Regulator? I need one big enough for a ship."
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:34
+msgctxt "conversations/companions/g_companion_parvati_in_party:34:DefaultText"
+msgid "You wanted to talk to me?"
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:39
+msgctxt "conversations/companions/g_companion_parvati_in_party:39:DefaultText"
+msgid "Captain. We gotta talk about- about what you did to Junlei."
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:40
+msgctxt "conversations/companions/g_companion_parvati_in_party:40:DefaultText"
+msgid "I got that soap you wanted."
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:58
+msgctxt "conversations/companions/g_companion_parvati_in_party:58:DefaultText"
+msgid "All this running around we've done for your date... You're stalling."
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:67
+msgctxt "conversations/companions/g_companion_parvati_in_party:67:DefaultText"
+msgid "Where we headed?"
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:69
+msgctxt "conversations/companions/g_companion_parvati_in_party:69:DefaultText"
+msgid "Yeah-huh?"
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:70
+msgctxt "conversations/companions/g_companion_parvati_in_party:70:DefaultText"
+msgid "Something you need?"
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:71
+msgctxt "conversations/companions/g_companion_parvati_in_party:71:DefaultText"
+msgid "When people ask me stuff, I tend to run my mouth too long. Or I get into details they'd rather not know. Or- sorry."
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:79
+msgctxt "conversations/companions/g_companion_parvati_in_party:79:DefaultText"
+msgid "Are we going to get in trouble today? Not that I want to. Just seems to happen around you, is all."
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:94
+msgctxt "conversations/companions/g_companion_parvati_in_party:94:DefaultText"
+msgid "I noticed you mention your dad a lot, but never your mother."
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:95
+msgctxt "conversations/companions/g_companion_parvati_in_party:95:DefaultText"
+msgid "That's on account of how I never met her."
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:96
+msgctxt "conversations/companions/g_companion_parvati_in_party:96:DefaultText"
+msgid "You mean she's dead?"
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:97
+msgctxt "conversations/companions/g_companion_parvati_in_party:97:DefaultText"
+msgid "I don't rightly know."
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:98
+msgctxt "conversations/companions/g_companion_parvati_in_party:98:DefaultText"
+msgid "How's that possible?"
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:99
+msgctxt "conversations/companions/g_companion_parvati_in_party:99:DefaultText"
+msgid "She was in another division of the Spacer's Choice family. She worked in the Vale a few months sorting the cannery computers."
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:100
+msgctxt "conversations/companions/g_companion_parvati_in_party:100:DefaultText"
+msgid "Her contract said any kids she had, expected or not, belonged to her office from the time of conception. So when I was born, I got sent here."
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:101
+msgctxt "conversations/companions/g_companion_parvati_in_party:101:DefaultText"
+msgid "Is that normal?"
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:102
+msgctxt "conversations/companions/g_companion_parvati_in_party:102:DefaultText"
+msgid "I don't know about normal. Dad said she worked under some kind of special contract."
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:103
+msgctxt "conversations/companions/g_companion_parvati_in_party:103:DefaultText"
+msgid "That's inhuman."
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:104
+msgctxt "conversations/companions/g_companion_parvati_in_party:104:DefaultText"
+msgid "It's sensible. Dad just fixed machines. She did some kind of crazy math, high-level stuff. Better to raise me on his time than hers."
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:105
+msgctxt "conversations/companions/g_companion_parvati_in_party:105:DefaultText"
+msgid "The minute she thought of having a kid, they put it down on her permanent record?"
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:106
+msgctxt "conversations/companions/g_companion_parvati_in_party:106:DefaultText"
+msgid "What? No, conception as in- Has nobody ever taught you about this?"
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:107
+msgctxt "conversations/companions/g_companion_parvati_in_party:107:DefaultText"
+msgid "You got along well with your dad. You might not have with your mother."
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:108
+msgctxt "conversations/companions/g_companion_parvati_in_party:108:DefaultText"
+msgid "Could be. Reckon I'll never know."
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:109
+msgctxt "conversations/companions/g_companion_parvati_in_party:109:DefaultText"
+msgid "I'm sorry."
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:110
+msgctxt "conversations/companions/g_companion_parvati_in_party:110:DefaultText"
+msgid "Hard to miss what you never knew. I don't ponder it overmuch."
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:112
+msgctxt "conversations/companions/g_companion_parvati_in_party:112:DefaultText"
+msgid "Thomas seemed very fond of you."
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:121
+msgctxt "conversations/companions/g_companion_parvati_in_party:121:DefaultText"
+msgid "You mentioned something earlier that I wanted to ask you about."
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:123
+msgctxt "conversations/companions/g_companion_parvati_in_party:123:DefaultText"
+msgid "I did? Um, sorry. I can't remember what I was gonna say. Sorry."
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:128
+msgctxt "conversations/companions/g_companion_parvati_in_party:128:DefaultText"
+msgid "We better clear out of Mister Tobson's office afore we talk."
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:153
+msgctxt "conversations/companions/g_companion_parvati_in_party:153:DefaultText"
+msgid "You mind if I ask you a question? Like, a personal one?"
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:154
+msgctxt "conversations/companions/g_companion_parvati_in_party:154:DefaultText"
+msgid "What's on your mind?"
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:155
+msgctxt "conversations/companions/g_companion_parvati_in_party:155:DefaultText"
+msgid "Is it important?"
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:156
+msgctxt "conversations/companions/g_companion_parvati_in_party:156:DefaultText"
+msgid "Yes, I've been wearing this underwear for seventy years. But I was frozen the whole time."
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:157
+msgctxt "conversations/companions/g_companion_parvati_in_party:157:DefaultText"
+msgid "The less you know about me, the better."
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:158
+msgctxt "conversations/companions/g_companion_parvati_in_party:158:DefaultText"
+msgid "Wow. Uh, that's not- can we just not ever mention that again?"
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:159
+msgctxt "conversations/companions/g_companion_parvati_in_party:159:DefaultText"
+msgid "Yeah. Okay. I mean, that's a passing strange thing to say, but sure."
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:160
+msgctxt "conversations/companions/g_companion_parvati_in_party:160:DefaultText"
+msgid "Is it true what you said? About being on the Hope?"
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:161
+msgctxt "conversations/companions/g_companion_parvati_in_party:161:DefaultText"
+msgid "Is it true what you said? About being from Earth?"
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:162
+msgctxt "conversations/companions/g_companion_parvati_in_party:162:DefaultText"
+msgid "Maybe? Something just took me off guard, is all."
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:163
+msgctxt "conversations/companions/g_companion_parvati_in_party:163:DefaultText"
+msgid "It's true. I just woke up here just a little while ago."
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:164
+msgctxt "conversations/companions/g_companion_parvati_in_party:164:DefaultText"
+msgid "If I said it was, would you believe me?"
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:165
+msgctxt "conversations/companions/g_companion_parvati_in_party:165:DefaultText"
+msgid "Nah. You think somebody like that would just walk into a nowhere town?"
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:166
+msgctxt "conversations/companions/g_companion_parvati_in_party:166:DefaultText"
+msgid "I guess not. Seems like a weird thing to lie 'bout if it ain't true, though. And you ARE something of a mystery, Captain."
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:167
+msgctxt "conversations/companions/g_companion_parvati_in_party:167:DefaultText"
+msgid "I don't rightly know. I haven't figured if you're the sort who'd make up stories. Not yet, anyhow."
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:168
+msgctxt "conversations/companions/g_companion_parvati_in_party:168:DefaultText"
+msgid "I'm wearing a hibernation suit. You ever seen one of these before?"
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:169
+msgctxt "conversations/companions/g_companion_parvati_in_party:169:DefaultText"
+msgid "I guess maybe you coulda got one from a museum? But they've only got those in Byzantium. Where the rich folk live."
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:170
+msgctxt "conversations/companions/g_companion_parvati_in_party:170:DefaultText"
+msgid "Oh. Wow."
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:171
+msgctxt "conversations/companions/g_companion_parvati_in_party:171:DefaultText"
+msgid "Well, uh, welcome to Halcyon. I'm Parvati. Holcomb. Parvati Holcomb. Which you already knew. Okay, I'm bad at this."
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:172
+msgctxt "conversations/companions/g_companion_parvati_in_party:172:DefaultText"
+msgid "All the same, sorry I interrupted. Was there something you wanted to ask me about?"
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:173
+msgctxt "conversations/companions/g_companion_parvati_in_party:173:DefaultText"
+msgid "You ever get cold? 'Cause those dangling tubes look real drafty."
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:174
+msgctxt "conversations/companions/g_companion_parvati_in_party:174:DefaultText"
+msgid "That helmet makes you look like some kinda space monster. You should get a hat. Something that'll keep the sun outta your eyes."
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:175
+msgctxt "conversations/companions/g_companion_parvati_in_party:175:DefaultText"
+msgid "You're doing just fine. It's nice to meet somebody friendly so soon."
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:176
+msgctxt "conversations/companions/g_companion_parvati_in_party:176:DefaultText"
+msgid "I'm <oeitoken>PlayerName</oeitoken>. To be honest, I don't know what I'm doing either."
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:177
+msgctxt "conversations/companions/g_companion_parvati_in_party:177:DefaultText"
+msgid "Forget about it. Let's just get this job done so I can get out of here."
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:178
+msgctxt "conversations/companions/g_companion_parvati_in_party:178:DefaultText"
+msgid "Reckon we'll have to figure it out together. I mean, if that's what you want! I didn't mean to presume. Sorry."
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:179
+msgctxt "conversations/companions/g_companion_parvati_in_party:179:DefaultText"
+msgid "It's hard, huh? Not knowing anybody? Not being sure what's expected, or how people are judging you?"
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:180
+msgctxt "conversations/companions/g_companion_parvati_in_party:180:DefaultText"
+msgid "But- but you got me now. I'm sure I can help you out. I- we can do this. Yay us."
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:182
+msgctxt "conversations/companions/g_companion_parvati_in_party:182:DefaultText"
+msgid "Yeah, sure. You got it, mister."
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:182
+msgctxt "conversations/companions/g_companion_parvati_in_party:182:FemaleText"
+msgid "Yeah, sure. You got it, ma'am."
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:184
+msgctxt "conversations/companions/g_companion_parvati_in_party:184:DefaultText"
+msgid "Oh, did something break?"
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:185
+msgctxt "conversations/companions/g_companion_parvati_in_party:185:DefaultText"
+msgid "Abso-surely, Captain. What's on your mind?"
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:186
+msgctxt "conversations/companions/g_companion_parvati_in_party:186:DefaultText"
+msgid "Oh, sure. Like what?"
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:187
+msgctxt "conversations/companions/g_companion_parvati_in_party:187:DefaultText"
+msgid "So there's your soap."
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:212
+msgctxt "conversations/companions/g_companion_parvati_in_party:212:DefaultText"
+msgid "Thanks for your help up to now. I'll try to do the rest on my lonesome."
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:215
+msgctxt "conversations/companions/g_companion_parvati_in_party:215:DefaultText"
+msgid "Are you dropping your plans to ask Junlei out?"
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:216
+msgctxt "conversations/companions/g_companion_parvati_in_party:216:DefaultText"
+msgid "I'm not dropping them, Captain. I just don't want you involved anymore."
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:217
+msgctxt "conversations/companions/g_companion_parvati_in_party:217:DefaultText"
+msgid "I'm glad for all the help you gave me. But the way you want to do things just doesn't sit well with me."
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:241
+msgctxt "conversations/companions/g_companion_parvati_in_party:241:DefaultText"
+msgid "What was that about back at Junlei's?"
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:242
+msgctxt "conversations/companions/g_companion_parvati_in_party:242:DefaultText"
+msgid "I didn't expect her to be so tall, and- and did you see the size of her arms?"
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:259
+msgctxt "conversations/companions/g_companion_parvati_in_party:259:DefaultText"
+msgid "Did you wanna talk about anything else afore we moved on?"
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:260
+msgctxt "conversations/companions/g_companion_parvati_in_party:260:DefaultText"
+msgid "Okay. I don't wanna waste your time or nothing."
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:261
+msgctxt "conversations/companions/g_companion_parvati_in_party:261:DefaultText"
+msgid "Oh no. It can wait. Sorry. What do you need?"
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:262
+msgctxt "conversations/companions/g_companion_parvati_in_party:262:DefaultText"
+msgid "Sorry. I don't mean to make such a fuss."
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:263
+msgctxt "conversations/companions/g_companion_parvati_in_party:263:DefaultText"
+msgid "Where we headed next?"
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:264
+msgctxt "conversations/companions/g_companion_parvati_in_party:264:DefaultText"
+msgid "It's true. I woke right before I showed up in Edgewater."
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:266
+msgctxt "conversations/companions/g_companion_parvati_in_party:266:DefaultText"
+msgid "She's okay, I guess."
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:267
+msgctxt "conversations/companions/g_companion_parvati_in_party:267:DefaultText"
+msgid "Are you all right?"
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:268
+msgctxt "conversations/companions/g_companion_parvati_in_party:268:DefaultText"
+msgid "It sounds like you have a crush on her."
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:287
+msgctxt "conversations/companions/g_companion_parvati_in_party:287:DefaultText"
+msgid "What do you think about that guy at the Lost Hope? Felix?"
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:288
+msgctxt "conversations/companions/g_companion_parvati_in_party:288:DefaultText"
+msgid "He seemed like a nice boy to me. Maybe you oughta give him a shot."
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:289
+msgctxt "conversations/companions/g_companion_parvati_in_party:289:DefaultText"
+msgid "He didn't seem very bright."
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:290
+msgctxt "conversations/companions/g_companion_parvati_in_party:290:DefaultText"
+msgid "He seems like a risk. All that talk about getting into a fight with his foreman."
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:291
+msgctxt "conversations/companions/g_companion_parvati_in_party:291:DefaultText"
+msgid "I thought you didn't like strangers, generally?"
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:292
+msgctxt "conversations/companions/g_companion_parvati_in_party:292:DefaultText"
+msgid "Because we've never ended up in a fight?"
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:293
+msgctxt "conversations/companions/g_companion_parvati_in_party:293:DefaultText"
+msgid "What do you think about that guy we met on Groundbreaker. Felix?"
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:294
+msgctxt "conversations/companions/g_companion_parvati_in_party:294:DefaultText"
+msgid "Maybe he doesn't talk all smarty-smart, but he can still have it good where it counts. In his heart, I mean."
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:295
+msgctxt "conversations/companions/g_companion_parvati_in_party:295:DefaultText"
+msgid "I dunno. He seemed really smart."
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:296
+msgctxt "conversations/companions/g_companion_parvati_in_party:296:DefaultText"
+msgid "Aw, I'm sure he puts his socks on one at a time like anybody else."
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:297
+msgctxt "conversations/companions/g_companion_parvati_in_party:297:DefaultText"
+msgid "Yeah, but- I got a good feeling about him, is all."
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:298
+msgctxt "conversations/companions/g_companion_parvati_in_party:298:DefaultText"
+msgid "That's not the answer I expected."
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:299
+msgctxt "conversations/companions/g_companion_parvati_in_party:299:DefaultText"
+msgid "I mean, sure. He's a bit rough around the edges. I bet he just needs somebody to show him a better path."
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:301
+msgctxt "conversations/companions/g_companion_parvati_in_party:301:DefaultText"
+msgid "You seriously think I'm the right sort to put him on the right course in life?"
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:302
+msgctxt "conversations/companions/g_companion_parvati_in_party:302:DefaultText"
+msgid "So you're saying I could sculpt him into an ideal minion?"
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:303
+msgctxt "conversations/companions/g_companion_parvati_in_party:303:DefaultText"
+msgid "You might surprise yourself."
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:304
+msgctxt "conversations/companions/g_companion_parvati_in_party:304:DefaultText"
+msgid "Then why'd you ask it?"
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:308
+msgctxt "conversations/companions/g_companion_parvati_in_party:308:DefaultText"
+msgid "That's... not exactly what I'm saying."
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:309
+msgctxt "conversations/companions/g_companion_parvati_in_party:309:DefaultText"
+msgid "Not many folk have big pulsating space-brains like you."
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:311
+msgctxt "conversations/companions/g_companion_parvati_in_party:311:DefaultText"
+msgid "I was mostly thinking he'd be hired muscle."
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:312
+msgctxt "conversations/companions/g_companion_parvati_in_party:312:DefaultText"
+msgid "I'm sure he could hit stuff for us just fine. But I was thinking on what we could do for him."
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:317
+msgctxt "conversations/companions/g_companion_parvati_in_party:317:DefaultText"
+msgid "Look, you'll catch your death of cold. Put some clothes on."
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:318
+msgctxt "conversations/companions/g_companion_parvati_in_party:318:DefaultText"
+msgid "What do you think of the new guy, Felix?"
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:319
+msgctxt "conversations/companions/g_companion_parvati_in_party:319:DefaultText"
+msgid "He seems like a nice boy to me. I'm glad you gave him a shot."
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:321
+msgctxt "conversations/companions/g_companion_parvati_in_party:321:DefaultText"
+msgid "It was embarrassing to watch."
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:322
+msgctxt "conversations/companions/g_companion_parvati_in_party:322:DefaultText"
+msgid "What? No! Maybe? I don't- it's like somebody reached into my head and pulled out what I didn't know I wanted."
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:323
+msgctxt "conversations/companions/g_companion_parvati_in_party:323:DefaultText"
+msgid "You know how hard it is to find anybody who likes working with tools in a little town like Edgewater?"
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:324
+msgctxt "conversations/companions/g_companion_parvati_in_party:324:DefaultText"
+msgid "Thomas liked tools. You treated him very differently."
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:326
+msgctxt "conversations/companions/g_companion_parvati_in_party:326:DefaultText"
+msgid "Thomas only liked tools because I did. He wasn't interested. When I'd ask what he thought, he'd just shrug and say, \"Whatever you think.\""
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:328
+msgctxt "conversations/companions/g_companion_parvati_in_party:328:DefaultText"
+msgid "You think I ain't been thinking that my own self?"
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:329
+msgctxt "conversations/companions/g_companion_parvati_in_party:329:DefaultText"
+msgid "You know how long I wanted to have somebody I could talk shop with?"
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:330
+msgctxt "conversations/companions/g_companion_parvati_in_party:330:DefaultText"
+msgid "Did you see how everybody on Groundbreaker listens to Junlei? She's just, \"Here's how to fix it.\" And they trust her."
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:331
+msgctxt "conversations/companions/g_companion_parvati_in_party:331:DefaultText"
+msgid "It's just- she's calm and knows what to do. I wish I was half so confident."
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:332
+msgctxt "conversations/companions/g_companion_parvati_in_party:332:DefaultText"
+msgid "Just took off-guard, is all. I never met another engineer afore who wasn't my dad."
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:333
+msgctxt "conversations/companions/g_companion_parvati_in_party:333:DefaultText"
+msgid "Sounds like you're not sure how you feel."
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:334
+msgctxt "conversations/companions/g_companion_parvati_in_party:334:DefaultText"
+msgid "I just met her. How could I be? All's I know is, I want to talk with her more."
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:335
+msgctxt "conversations/companions/g_companion_parvati_in_party:335:DefaultText"
+msgid "This won't interfere with your work, will it?"
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:336
+msgctxt "conversations/companions/g_companion_parvati_in_party:336:DefaultText"
+msgid "Come on, Captain. I just got my fingers dug into the guts of a real-deal space ship. You think I'm liable to let go anytime soon?"
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:337
+msgctxt "conversations/companions/g_companion_parvati_in_party:337:DefaultText"
+msgid "There's more to a relationship than beefy arms and a shared career."
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:338
+msgctxt "conversations/companions/g_companion_parvati_in_party:338:DefaultText"
+msgid "I reckon there's worse places to start."
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:376
+msgctxt "conversations/companions/g_companion_parvati_in_party:376:DefaultText"
+msgid "Captain, that- that wasn't right. Killing the Chief in cold blood."
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:379
+msgctxt "conversations/companions/g_companion_parvati_in_party:379:DefaultText"
+msgid "She was working to do right by her people. What'd she ever do to you?"
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:381
+msgctxt "conversations/companions/g_companion_parvati_in_party:381:DefaultText"
+msgid "I heard over Groundbreaker comms that you killed Junlei."
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:384
+msgctxt "conversations/companions/g_companion_parvati_in_party:384:DefaultText"
+msgid "It's hard to talk to you when I can see all your stuff, Captain."
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:386
+msgctxt "conversations/companions/g_companion_parvati_in_party:386:DefaultText"
+msgid "That Chief Junlei sure seemed swell, huh?"
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:387
+msgctxt "conversations/companions/g_companion_parvati_in_party:387:DefaultText"
+msgid "Groundbreaker's safe from melting to bits now. Lot of good people can rest easy 'cause of you."
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:394
+msgctxt "conversations/companions/g_companion_parvati_in_party:394:DefaultText"
+msgid "I think you did the rightest thing you could, sending the power back to Edgewater. Lotta people would have suffered, otherwise. People I care for, even if they ain't care much for me."
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:395
+msgctxt "conversations/companions/g_companion_parvati_in_party:395:DefaultText"
+msgid "I can't stop thinking on Edgewater, Captain. I'm glad the Deserters are gonna be all right now they got power, but what about the town? All those people..."
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:396
+msgctxt "conversations/companions/g_companion_parvati_in_party:396:DefaultText"
+msgid "That was a good thing you did, Captain - helping to bring the Deserters and Edgewater folks back together. I hope you rest well on that."
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:402
+msgctxt "conversations/companions/g_companion_parvati_in_party:402:DefaultText"
+msgid "She seemed very competent."
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:403
+msgctxt "conversations/companions/g_companion_parvati_in_party:403:DefaultText"
+msgid "Gosh, did she ever."
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:409
+msgctxt "conversations/companions/g_companion_parvati_in_party:409:DefaultText"
+msgid "I think I'm better off trying to make this work on my lonesome."
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:413
+msgctxt "conversations/companions/g_companion_parvati_in_party:413:DefaultText"
+msgid "Head back to the ship, Parvati. I'm going on without you."
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:414
+msgctxt "conversations/companions/g_companion_parvati_in_party:414:DefaultText"
+msgid "Sure thing, Captain. I'll be waiting back at the Unreliable if you need me."
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:416
+msgctxt "conversations/companions/g_companion_parvati_in_party:416:DefaultText"
+msgid "I found you a fancy outfit for your date with Junlei."
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:417
+msgctxt "conversations/companions/g_companion_parvati_in_party:417:DefaultText"
+msgid "Oh gosh, that was awfully kind of you, Captain. You didn't have to, but I'm so glad you did."
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:419
+msgctxt "conversations/companions/g_companion_parvati_in_party:419:DefaultText"
+msgid "Is this everything you need for that dinner?"
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:425
+msgctxt "conversations/companions/g_companion_parvati_in_party:425:DefaultText"
+msgid "You wanted to talk to me?"
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:426
+msgctxt "conversations/companions/g_companion_parvati_in_party:426:DefaultText"
+msgid "Oh, right- about the Groundbreaker's engineer, Junlei Tennyson."
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:428
+msgctxt "conversations/companions/g_companion_parvati_in_party:428:DefaultText"
+msgid "Ergh. Everything's a little... spinny. Are they 'sposed to be spinny? Maybe I should sit. Now where's that floor gone? Come 'ere, you- you rascal. Dodging ain't fair!"
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:429
+msgctxt "conversations/companions/g_companion_parvati_in_party:429:DefaultText"
+msgid "I hope this fancy soap we got is extra-strength. I'm feelin' a might... ripe."
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:430
+msgctxt "conversations/companions/g_companion_parvati_in_party:430:DefaultText"
+msgid "Junlei'll like a casserole, right? Everyone likes a casserole. I mean, I don't really, but I don't count."
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:431
+msgctxt "conversations/companions/g_companion_parvati_in_party:431:DefaultText"
+msgid "Oh Captain, you see those fine clothes Ms. Jolicoeur made for me? I ain't never owned anything so fancy in my life!"
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:432
+msgctxt "conversations/companions/g_companion_parvati_in_party:432:DefaultText"
+msgid "Ergh. My stomach's a little upset. Maybe drinking don't agree with me."
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:433
+msgctxt "conversations/companions/g_companion_parvati_in_party:433:DefaultText"
+msgid "Now cakes, cakes I like. Gosh, I hope she likes 'em, too."
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:434
+msgctxt "conversations/companions/g_companion_parvati_in_party:434:DefaultText"
+msgid "Her contract said any kids she had, expected or not, belonged to her office from the time of conception."
+msgstr ""

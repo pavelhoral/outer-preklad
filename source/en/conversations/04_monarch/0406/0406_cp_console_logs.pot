@@ -1,0 +1,102 @@
+#: conversations/04_monarch/0406/0406_cp_console_logs:1
+msgctxt "conversations/04_monarch/0406/0406_cp_console_logs:1:DefaultText"
+msgid "Devil's Peak Station\r\n"
+"========================\r\n"
+"\r\n"
+"INCLEMENT WEATHER WARNING: Regional Severe Alert - next 72 hours chance of thunderstorms and severe thunderstorms including lightning strikes forecast across the mountain region."
+msgstr ""
+
+#: conversations/04_monarch/0406/0406_cp_console_logs:2
+msgctxt "conversations/04_monarch/0406/0406_cp_console_logs:2:DefaultText"
+msgid "[Messages]"
+msgstr ""
+
+#: conversations/04_monarch/0406/0406_cp_console_logs:3
+msgctxt "conversations/04_monarch/0406/0406_cp_console_logs:3:DefaultText"
+msgid "[Exit]"
+msgstr ""
+
+#: conversations/04_monarch/0406/0406_cp_console_logs:4
+msgctxt "conversations/04_monarch/0406/0406_cp_console_logs:4:DefaultText"
+msgid "[Accessing...]"
+msgstr ""
+
+#: conversations/04_monarch/0406/0406_cp_console_logs:5
+msgctxt "conversations/04_monarch/0406/0406_cp_console_logs:5:DefaultText"
+msgid "Devil's Peak Station\n"
+"=========================\n"
+"Message Logs\n"
+"FROM: V. Ramsey\n"
+"TO: I. Broker\n"
+"SUBJECT: Emergency Protocols\n"
+"\n"
+"As I stated in my prior FOUR messages, there is simply no cause for alarm. I swear to you, Hiram, the situation is under control. \n"
+"\n"
+"What you call a \"near-emergency,\" I would consider a non-event. Yes, a high-energy transmission was used for too lengthy a period of time. And yes, the generators cannot safely support that activity. Yes and yes, they could have been damaged under load. But the point remains -- nothing happened.\n"
+"\n"
+"We caught the issue in time. The engineers involved were reprimanded.\n"
+"\n"
+"I swear on my mama's grave, it will not happen again.\n"
+"\n"
+"Now, please, cease contacting me for daily updates on the status of the generators.\n"
+"\n"
+"Thank you,\n"
+"Val"
+msgstr ""
+
+#: conversations/04_monarch/0406/0406_cp_console_logs:6
+msgctxt "conversations/04_monarch/0406/0406_cp_console_logs:6:DefaultText"
+msgid "[FROM: V. Ramsey, SUBJECT: Emergency Protocols]"
+msgstr ""
+
+#: conversations/04_monarch/0406/0406_cp_console_logs:7
+msgctxt "conversations/04_monarch/0406/0406_cp_console_logs:7:DefaultText"
+msgid "[FROM: I. M. Avoyeur, SUBJECT: Toilets]"
+msgstr ""
+
+#: conversations/04_monarch/0406/0406_cp_console_logs:8
+msgctxt "conversations/04_monarch/0406/0406_cp_console_logs:8:DefaultText"
+msgid "Devil's Peak Station\r\n"
+"=========================\r\n"
+"Message Logs\r\n"
+"FROM: I. M. Avoyeur\r\n"
+"TO: J. Ramsey\r\n"
+"SUBJECT: Toilets\r\n"
+"\r\n"
+"What in the black hole were you thinking, Val? At some point, \"space efficiency\" becomes the inverse to \"time efficiency\" and one negates the other. What I mean is, how am I to do my morning business when the toilets are directly facing the open showers? You might like watching fellows scrub their jigglies while you take a steaming dump, but I don't.\r\n"
+"\r\n"
+"Sincerely,\r\n"
+"Thanks for the peep show. Not really. (That was sarcasm.) \r\n"
+"Theodore"
+msgstr ""
+
+#: conversations/04_monarch/0406/0406_cp_console_logs:9
+msgctxt "conversations/04_monarch/0406/0406_cp_console_logs:9:DefaultText"
+msgid "[FROM: V. Ramsey, SUBJECT: Re: Toilets]"
+msgstr ""
+
+#: conversations/04_monarch/0406/0406_cp_console_logs:10
+msgctxt "conversations/04_monarch/0406/0406_cp_console_logs:10:DefaultText"
+msgid "Devil's Peak Station\r\n"
+"=========================\r\n"
+"Message Logs\r\n"
+"FROM: J. Ramsey\r\n"
+"TO: I. M. Avoyeur\r\n"
+"SUBJECT: Re: Toilets\r\n"
+"\r\n"
+"On the contrary, Theo. Not only is it a spatially efficient design, but it also encourages simultaneous users to hurry their... business.\r\n"
+"\r\n"
+"Don't like, don't look. Or speed it up and move on.\r\n"
+"\r\n"
+"After all, the faster you're back to your station, the happier we all will be.\r\n"
+"\r\n"
+"Warmest regards,\r\n"
+"Val\r\n"
+"\r\n"
+"Postscript - You take too many bathroom breaks, and you know it."
+msgstr ""
+
+#: conversations/04_monarch/0406/0406_cp_console_logs:11
+msgctxt "conversations/04_monarch/0406/0406_cp_console_logs:11:DefaultText"
+msgid "[Return to Root]"
+msgstr ""

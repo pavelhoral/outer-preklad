@@ -1,0 +1,165 @@
+#: conversations/04_monarch/0404/0404_cv_cascadia_sentrybot:1
+msgctxt "conversations/04_monarch/0404/0404_cv_cascadia_sentrybot:1:DefaultText"
+msgid "Proximity alert! Biology: human. Protocol: Kill_All_Mants suspended. Present your Rizzo identification credentials or prepare to be downsized."
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cv_cascadia_sentrybot:2
+msgctxt "conversations/04_monarch/0404/0404_cv_cascadia_sentrybot:2:DefaultText"
+msgid "Disengage security protocols. I'm not a threat."
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cv_cascadia_sentrybot:3
+msgctxt "conversations/04_monarch/0404/0404_cv_cascadia_sentrybot:3:DefaultText"
+msgid "I left my ID in the wash."
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cv_cascadia_sentrybot:4
+msgctxt "conversations/04_monarch/0404/0404_cv_cascadia_sentrybot:4:DefaultText"
+msgid "<Attack> You can't fire me, I quit."
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cv_cascadia_sentrybot:5
+msgctxt "conversations/04_monarch/0404/0404_cv_cascadia_sentrybot:5:DefaultText"
+msgid "Washing company property without authorization is a fireable offense."
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cv_cascadia_sentrybot:6
+msgctxt "conversations/04_monarch/0404/0404_cv_cascadia_sentrybot:6:DefaultText"
+msgid "Attempting to disengage security protocols without proper authorization is a fireable offense."
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cv_cascadia_sentrybot:7
+msgctxt "conversations/04_monarch/0404/0404_cv_cascadia_sentrybot:7:DefaultText"
+msgid "I am an authorized Rizzo employee. Password: ANTEDILUVIAN"
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cv_cascadia_sentrybot:8
+msgctxt "conversations/04_monarch/0404/0404_cv_cascadia_sentrybot:8:DefaultText"
+msgid "Executive level password accepted as identification according to Employee ID\r\n"
+"Protocol A-3501. Welcome back, doctor."
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cv_cascadia_sentrybot:9
+msgctxt "conversations/04_monarch/0404/0404_cv_cascadia_sentrybot:9:DefaultText"
+msgid "Be advised, mantisaur threat level is... Petrifying Purpleberry. Please use caution. Mantisaur wounds are not covered under Rizzo's health policy."
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cv_cascadia_sentrybot:10
+msgctxt "conversations/04_monarch/0404/0404_cv_cascadia_sentrybot:10:DefaultText"
+msgid "Have a productive day!"
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cv_cascadia_sentrybot:11
+msgctxt "conversations/04_monarch/0404/0404_cv_cascadia_sentrybot:11:DefaultText"
+msgid "Quitting is a fireable offense."
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cv_cascadia_sentrybot:12
+msgctxt "conversations/04_monarch/0404/0404_cv_cascadia_sentrybot:12:DefaultText"
+msgid "Priming weapons..."
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cv_cascadia_sentrybot:14
+msgctxt "conversations/04_monarch/0404/0404_cv_cascadia_sentrybot:14:DefaultText"
+msgid "Wait, wait! Un-prime weapons! Un-prime!"
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cv_cascadia_sentrybot:15
+msgctxt "conversations/04_monarch/0404/0404_cv_cascadia_sentrybot:15:DefaultText"
+msgid "<Attack> The hard way it is..."
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cv_cascadia_sentrybot:16
+msgctxt "conversations/04_monarch/0404/0404_cv_cascadia_sentrybot:16:DefaultText"
+msgid "Priming weapons..."
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cv_cascadia_sentrybot:17
+msgctxt "conversations/04_monarch/0404/0404_cv_cascadia_sentrybot:17:DefaultText"
+msgid "Weapons primed. Engaging."
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cv_cascadia_sentrybot:18
+msgctxt "conversations/04_monarch/0404/0404_cv_cascadia_sentrybot:18:DefaultText"
+msgid "Bunker assessment: overdue for cleaning. Initiating emergency deep-clean protocol authorization code APASTRON-5."
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cv_cascadia_sentrybot:19
+msgctxt "conversations/04_monarch/0404/0404_cv_cascadia_sentrybot:19:DefaultText"
+msgid "You don't wanna shoot us. We're - uh - we're from the Board. Real distinguished corporate jackasses, we are. Yeah."
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cv_cascadia_sentrybot:20
+msgctxt "conversations/04_monarch/0404/0404_cv_cascadia_sentrybot:20:DefaultText"
+msgid "Checking internal calendar... last cleaning occurred 3654 days ago. Emergency cleaning protocol accepted."
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cv_cascadia_sentrybot:21
+msgctxt "conversations/04_monarch/0404/0404_cv_cascadia_sentrybot:21:DefaultText"
+msgid "Nice work, SAM."
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cv_cascadia_sentrybot:22
+msgctxt "conversations/04_monarch/0404/0404_cv_cascadia_sentrybot:22:DefaultText"
+msgid "You clean, you talk down mechanical sentries, what don't you do, SAM?"
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cv_cascadia_sentrybot:23
+msgctxt "conversations/04_monarch/0404/0404_cv_cascadia_sentrybot:23:DefaultText"
+msgid "Congratulations, you've avoided the scrap heap for another week."
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cv_cascadia_sentrybot:24
+msgctxt "conversations/04_monarch/0404/0404_cv_cascadia_sentrybot:24:DefaultText"
+msgid "<happy chirpy beep/music>"
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cv_cascadia_sentrybot:25
+msgctxt "conversations/04_monarch/0404/0404_cv_cascadia_sentrybot:25:DefaultText"
+msgid "SAM units are not Board-certified to sanitize wounds and/or perform medical operations. If this is an emergency, please send a distress signal on the Zeta band."
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cv_cascadia_sentrybot:26
+msgctxt "conversations/04_monarch/0404/0404_cv_cascadia_sentrybot:26:DefaultText"
+msgid "<happy chirpy beep/music>"
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cv_cascadia_sentrybot:27
+msgctxt "conversations/04_monarch/0404/0404_cv_cascadia_sentrybot:27:DefaultText"
+msgid "Mediocre verbal evasion detected. Threat level downgraded to \"negligible.\" Weapons disengaged. "
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cv_cascadia_sentrybot:28
+msgctxt "conversations/04_monarch/0404/0404_cv_cascadia_sentrybot:28:DefaultText"
+msgid "Have a productive day!"
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cv_cascadia_sentrybot:29
+msgctxt "conversations/04_monarch/0404/0404_cv_cascadia_sentrybot:29:DefaultText"
+msgid "Impressive negotiating tactics, Felix. "
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cv_cascadia_sentrybot:30
+msgctxt "conversations/04_monarch/0404/0404_cv_cascadia_sentrybot:30:DefaultText"
+msgid "That might be the first time I've seen you disarm a tense standoff, Felix. "
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cv_cascadia_sentrybot:31
+msgctxt "conversations/04_monarch/0404/0404_cv_cascadia_sentrybot:31:DefaultText"
+msgid "I think an automech just took pity on you, Felix. How does it feel?"
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cv_cascadia_sentrybot:32
+msgctxt "conversations/04_monarch/0404/0404_cv_cascadia_sentrybot:32:DefaultText"
+msgid "Aw, it's nothing, boss. All I had to do was ask myself - Felix, what would a real, certified corporate bootlicker say in this situation?"
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cv_cascadia_sentrybot:33
+msgctxt "conversations/04_monarch/0404/0404_cv_cascadia_sentrybot:33:DefaultText"
+msgid "Been picking up some tricks from you, boss."
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cv_cascadia_sentrybot:34
+msgctxt "conversations/04_monarch/0404/0404_cv_cascadia_sentrybot:34:DefaultText"
+msgid "Pity? Naw. That was pure terror."
+msgstr ""

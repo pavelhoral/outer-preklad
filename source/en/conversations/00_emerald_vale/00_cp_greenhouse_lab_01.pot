@@ -1,0 +1,151 @@
+#: conversations/00_emerald_vale/00_cp_greenhouse_lab_01:1
+msgctxt "conversations/00_emerald_vale/00_cp_greenhouse_lab_01:1:DefaultText"
+msgid "Emerald Vale Botanical Lab and Experimental Facility\r\n"
+"\r\n"
+"A Spacer's Choice Property\r\n"
+"========================\r\n"
+"\r\n"
+"Terminal Access"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cp_greenhouse_lab_01:2
+msgctxt "conversations/00_emerald_vale/00_cp_greenhouse_lab_01:2:DefaultText"
+msgid "[Experimental Notes]"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cp_greenhouse_lab_01:3
+msgctxt "conversations/00_emerald_vale/00_cp_greenhouse_lab_01:3:DefaultText"
+msgid "Emerald Vale Botanical Lab and Experimental Facility\r\n"
+"\r\n"
+"A Spacer's Choice Property\r\n"
+"========================\r\n"
+"\r\n"
+"Experimental Notes"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cp_greenhouse_lab_01:4
+msgctxt "conversations/00_emerald_vale/00_cp_greenhouse_lab_01:4:DefaultText"
+msgid "[Exit]"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cp_greenhouse_lab_01:5
+msgctxt "conversations/00_emerald_vale/00_cp_greenhouse_lab_01:5:DefaultText"
+msgid "[Personal Files]"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cp_greenhouse_lab_01:6
+msgctxt "conversations/00_emerald_vale/00_cp_greenhouse_lab_01:6:DefaultText"
+msgid "Emerald Vale Botanical Lab and Experimental Facility\r\n"
+"\r\n"
+"A Spacer's Choice Property\r\n"
+"========================\r\n"
+"\r\n"
+"Personal Files\r\n"
+"...\r\n"
+"[PASSWORD REQUIRED]"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cp_greenhouse_lab_01:7
+msgctxt "conversations/00_emerald_vale/00_cp_greenhouse_lab_01:7:DefaultText"
+msgid "[Bypass]"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cp_greenhouse_lab_01:8
+msgctxt "conversations/00_emerald_vale/00_cp_greenhouse_lab_01:8:DefaultText"
+msgid "[Return to Root]"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cp_greenhouse_lab_01:10
+msgctxt "conversations/00_emerald_vale/00_cp_greenhouse_lab_01:10:DefaultText"
+msgid "Emerald Vale Botanical Lab and Experimental Facility\r\n"
+"\r\n"
+"A Spacer's Choice Property\r\n"
+"========================\r\n"
+"\r\n"
+"Personal Files\r\n"
+"...\r\n"
+"[PASSWORD]: silentspring\r\n"
+"[PASSWORD ACCEPTED]\r\n"
+"WELCOME, A. McDevitt"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cp_greenhouse_lab_01:11
+msgctxt "conversations/00_emerald_vale/00_cp_greenhouse_lab_01:11:DefaultText"
+msgid "[Open Last Entry]"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cp_greenhouse_lab_01:12
+msgctxt "conversations/00_emerald_vale/00_cp_greenhouse_lab_01:12:DefaultText"
+msgid "Emerald Vale Botanical Lab and Experimental Facility\r\n"
+"\r\n"
+"A Spacer's Choice Property\r\n"
+"========================\r\n"
+"\r\n"
+"Personal Files - Last Entry\r\n"
+"\r\n"
+"We found another worker from Edgewater. Ex-worker, now. Desertion rates must be climbing. I'm not terribly surprised. Reed's style of management has always been tyrannical. I imagine an exodus is brewing.\r\n"
+"\r\n"
+"At any rate, the worker was in a sorry state. Fever. Shallow breathing. Delirious. Must have been plagued. I set him right with a diet of greens. He was all better in a couple weeks. Physically. Spiritually. He's one of our flock now."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cp_greenhouse_lab_01:13
+msgctxt "conversations/00_emerald_vale/00_cp_greenhouse_lab_01:13:DefaultText"
+msgid "[Open First Entry]"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cp_greenhouse_lab_01:14
+msgctxt "conversations/00_emerald_vale/00_cp_greenhouse_lab_01:14:DefaultText"
+msgid "Emerald Vale Botanical Lab and Experimental Facility\r\n"
+"\r\n"
+"A Spacer's Choice Property\r\n"
+"========================\r\n"
+"\r\n"
+"Personal Files - First Entry\r\n"
+"\r\n"
+"May the Eternal bless my first endeavor. It's been two days since I walked away from life at the Edgewater cannery. Fortuitously, the old botanical labs are still operational. Mostly. The soil's sour. I'll do what I can, but I'm going to need some powerful fertilizer.\r\n"
+"\r\n"
+"Tired of having the taste of saltuna lingering on my tongue, day in, day out. I want something fresh. Something that grows out the earth."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cp_greenhouse_lab_01:15
+msgctxt "conversations/00_emerald_vale/00_cp_greenhouse_lab_01:15:DefaultText"
+msgid "[Open Last Entry]"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cp_greenhouse_lab_01:17
+msgctxt "conversations/00_emerald_vale/00_cp_greenhouse_lab_01:17:DefaultText"
+msgid "Emerald Vale Botanical Lab and Experimental Facility\r\n"
+"\r\n"
+"A Spacer's Choice Property\r\n"
+"========================\r\n"
+"\r\n"
+"Experimental Notes - Last Entry\r\n"
+"\r\n"
+"Flora are living things, as sensitive to their environment as any breathing, thinking body. I contend that the crops in this region failed because the corporate scientists tending to them are cold, heartless, inhumane people acting on behalf of a sterile and inhumane power. One cannot expect your crops to flush with green and reach for the sky under these conditions.\r\n"
+"\r\n"
+"The soil is sour, it's true. I don't know quite how to explain that. I am sure the Scienticians will say something about biology or the carbon cycle. \r\n"
+"\r\n"
+"But I can conclude, after months of my own experimentation, that the secret to a rich and wholesome garden is love, attention, compassion, and a natural fertilizer bursting with organic materials. Just as nature intended."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cp_greenhouse_lab_01:18
+msgctxt "conversations/00_emerald_vale/00_cp_greenhouse_lab_01:18:DefaultText"
+msgid "[Open First Entry]"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cp_greenhouse_lab_01:19
+msgctxt "conversations/00_emerald_vale/00_cp_greenhouse_lab_01:19:DefaultText"
+msgid "Emerald Vale Botanical Lab and Experimental Facility\r\n"
+"\r\n"
+"A Spacer's Choice Property\r\n"
+"========================\r\n"
+"\r\n"
+"Experimental Notes - First Entry\r\n"
+"\r\n"
+"I am hereby repurposing this botanical lab from its original conception as a gear in the soulless automaton of the corporate machine. This greenhouse may look impressive, but like all Spacer's Choice products, it is cheap and unreliable. I shall have to make some repairs with my own two hands.\r\n"
+"\r\n"
+"This place shall become a nursery. Before it was abandoned, I understand the horticulturalists failed to produce a single viable crop. Something about the soil being too poor. \r\n"
+"\r\n"
+"I am determined to find a way. May the Eternal smile upon my endeavors.\r\n"
+""
+msgstr ""

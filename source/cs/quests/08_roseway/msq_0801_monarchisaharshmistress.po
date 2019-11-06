@@ -1,0 +1,256 @@
+#: quests/08_roseway/msq_0801_monarchisaharshmistress:0
+msgctxt "quests/08_roseway/msq_0801_monarchisaharshmistress:0:DefaultText"
+msgid "The Doom That Came to Roseway"
+msgstr ""
+
+#: quests/08_roseway/msq_0801_monarchisaharshmistress:1
+msgctxt "quests/08_roseway/msq_0801_monarchisaharshmistress:1:DefaultText"
+msgid "Investigate the Distress Call"
+msgstr ""
+
+#: quests/08_roseway/msq_0801_monarchisaharshmistress:64
+msgctxt "quests/08_roseway/msq_0801_monarchisaharshmistress:64:DefaultText"
+msgid "Create an Escape Route"
+msgstr ""
+
+#: quests/08_roseway/msq_0801_monarchisaharshmistress:68
+msgctxt "quests/08_roseway/msq_0801_monarchisaharshmistress:68:DefaultText"
+msgid "Release Cassandra"
+msgstr ""
+
+#: quests/08_roseway/msq_0801_monarchisaharshmistress:75
+msgctxt "quests/08_roseway/msq_0801_monarchisaharshmistress:75:DefaultText"
+msgid "Speak to Anton"
+msgstr ""
+
+#: quests/08_roseway/msq_0801_monarchisaharshmistress:81
+msgctxt "quests/08_roseway/msq_0801_monarchisaharshmistress:81:DefaultText"
+msgid "(Optional) Deal with the Raptidons"
+msgstr ""
+
+#: quests/08_roseway/msq_0801_monarchisaharshmistress:82
+msgctxt "quests/08_roseway/msq_0801_monarchisaharshmistress:82:DefaultText"
+msgid "Find Anton's Safe"
+msgstr ""
+
+#: quests/08_roseway/msq_0801_monarchisaharshmistress:83
+msgctxt "quests/08_roseway/msq_0801_monarchisaharshmistress:83:DefaultText"
+msgid "(Optional) Eliminate the Outlaws"
+msgstr ""
+
+#: quests/08_roseway/msq_0801_monarchisaharshmistress:91
+msgctxt "quests/08_roseway/msq_0801_monarchisaharshmistress:91:DefaultText"
+msgid "Search Cassandra's Corpse"
+msgstr ""
+
+#: quests/08_roseway/msq_0801_monarchisaharshmistress:98
+msgctxt "quests/08_roseway/msq_0801_monarchisaharshmistress:98:DefaultText"
+msgid "Recover Anton's Data"
+msgstr ""
+
+#: quests/08_roseway/msq_0801_monarchisaharshmistress:10000
+msgctxt "quests/08_roseway/msq_0801_monarchisaharshmistress:10000:DefaultText"
+msgid "A distress call from Roseway, a corporate township on Terra 2, was cut off mid-broadcast at the source. Investigate the call."
+msgstr ""
+
+#: quests/08_roseway/msq_0801_monarchisaharshmistress:10001
+msgctxt "quests/08_roseway/msq_0801_monarchisaharshmistress:10001:DefaultText"
+msgid "The distress call must have originated from Roseway's broadcast tower. Head there and find out what precipitated the call."
+msgstr ""
+
+#: quests/08_roseway/msq_0801_monarchisaharshmistress:10064
+msgctxt "quests/08_roseway/msq_0801_monarchisaharshmistress:10064:DefaultText"
+msgid "You've agreed to help open up an escape route for Cassandra. You'll need find a keycard to unlock her pen gate and clear out either the Auntie Cleo security forces near the front entrance or the raptidons infesting the loading dock."
+msgstr ""
+
+#: quests/08_roseway/msq_0801_monarchisaharshmistress:10068
+msgctxt "quests/08_roseway/msq_0801_monarchisaharshmistress:10068:DefaultText"
+msgid "You found the needed keycard and opened up a route out of the lab for Cassandra. Unlock her door and inform her of her available escape routes."
+msgstr ""
+
+#: quests/08_roseway/msq_0801_monarchisaharshmistress:10075
+msgctxt "quests/08_roseway/msq_0801_monarchisaharshmistress:10075:DefaultText"
+msgid "You got Anton's diet toothpaste research data. Head to Roseway and speak with him."
+msgstr ""
+
+#: quests/08_roseway/msq_0801_monarchisaharshmistress:10081
+msgctxt "quests/08_roseway/msq_0801_monarchisaharshmistress:10081:DefaultText"
+msgid "Raptidons are loose in the underground facility. It would be of great help to Anton if all of them were subdued or killed."
+msgstr ""
+
+#: quests/08_roseway/msq_0801_monarchisaharshmistress:10082
+msgctxt "quests/08_roseway/msq_0801_monarchisaharshmistress:10082:DefaultText"
+msgid "You've been asked to recover research data from the safe in Anton Crane's office.\r\n"
+"\r\n"
+"Anton's office is in Auntie Cleo corporation's Secret Lab, which lies at the end of the paved road south out of Roseway."
+msgstr ""
+
+#: quests/08_roseway/msq_0801_monarchisaharshmistress:10083
+msgctxt "quests/08_roseway/msq_0801_monarchisaharshmistress:10083:DefaultText"
+msgid "Auntie Cleo's Secret Lab is under attack by a band of outlaws -- interplanetary raiders with no respect for property, life, or polite speech. Anton would like them removed, if possible."
+msgstr ""
+
+#: quests/08_roseway/msq_0801_monarchisaharshmistress:10091
+msgctxt "quests/08_roseway/msq_0801_monarchisaharshmistress:10091:DefaultText"
+msgid "You killed Cassandra. Find a way through the service door and get Anton's research from her corpse."
+msgstr ""
+
+#: quests/08_roseway/msq_0801_monarchisaharshmistress:10098
+msgctxt "quests/08_roseway/msq_0801_monarchisaharshmistress:10098:DefaultText"
+msgid "Anton's research data was taken from his safe, likely by outlaws. Search the lab and get it back from them."
+msgstr ""
+
+#: quests/08_roseway/msq_0801_monarchisaharshmistress:20001
+msgctxt "quests/08_roseway/msq_0801_monarchisaharshmistress:20001:DefaultText"
+msgid "Anton's safe was broken into and his data is missing. Looks like the outlaws swiped it."
+msgstr ""
+
+#: quests/08_roseway/msq_0801_monarchisaharshmistress:20002
+msgctxt "quests/08_roseway/msq_0801_monarchisaharshmistress:20002:DefaultText"
+msgid "Anton would prefer that you use the lab's equipment to gas and incapacitate the beasts, the raptidon mother in particular."
+msgstr ""
+
+#: quests/08_roseway/msq_0801_monarchisaharshmistress:20003
+msgctxt "quests/08_roseway/msq_0801_monarchisaharshmistress:20003:DefaultText"
+msgid "There's a system in the lab that can gas the raptidons and knock them unconscious."
+msgstr ""
+
+#: quests/08_roseway/msq_0801_monarchisaharshmistress:20005
+msgctxt "quests/08_roseway/msq_0801_monarchisaharshmistress:20005:DefaultText"
+msgid "You convinced Porter to pull his security detail back to Roseway."
+msgstr ""
+
+#: quests/08_roseway/msq_0801_monarchisaharshmistress:20006
+msgctxt "quests/08_roseway/msq_0801_monarchisaharshmistress:20006:DefaultText"
+msgid "Leaving the mother raptidon alive would allow the scientists to continue their experiments."
+msgstr ""
+
+#: quests/08_roseway/msq_0801_monarchisaharshmistress:20007
+msgctxt "quests/08_roseway/msq_0801_monarchisaharshmistress:20007:DefaultText"
+msgid "Cassandra has agreed to give you Anton's data, but demands that you find a way to get her out of the lab."
+msgstr ""
+
+#: quests/08_roseway/msq_0801_monarchisaharshmistress:20008
+msgctxt "quests/08_roseway/msq_0801_monarchisaharshmistress:20008:DefaultText"
+msgid "The secret research Anton's trying to recover is a formula for \"diet\" toothpaste."
+msgstr ""
+
+#: quests/08_roseway/msq_0801_monarchisaharshmistress:20010
+msgctxt "quests/08_roseway/msq_0801_monarchisaharshmistress:20010:DefaultText"
+msgid "You've cleared the loading dock of raptidons."
+msgstr ""
+
+#: quests/08_roseway/msq_0801_monarchisaharshmistress:20011
+msgctxt "quests/08_roseway/msq_0801_monarchisaharshmistress:20011:DefaultText"
+msgid "You told Cassandra that you would obtain the funds to buy the research data from Anton."
+msgstr ""
+
+#: quests/08_roseway/msq_0801_monarchisaharshmistress:20013
+msgctxt "quests/08_roseway/msq_0801_monarchisaharshmistress:20013:DefaultText"
+msgid "There's a terminal in Chief Porter's office that can print a security keycard to unlock the doors trapping some of the outlaws."
+msgstr ""
+
+#: quests/08_roseway/msq_0801_monarchisaharshmistress:20014
+msgctxt "quests/08_roseway/msq_0801_monarchisaharshmistress:20014:DefaultText"
+msgid "You used gas sedative to knock out the Raptidons."
+msgstr ""
+
+#: quests/08_roseway/msq_0801_monarchisaharshmistress:20015
+msgctxt "quests/08_roseway/msq_0801_monarchisaharshmistress:20015:DefaultText"
+msgid "There's a terminal in Chief Porter's office that can print a Security Keycard to unlock Cassandra's door."
+msgstr ""
+
+#: quests/08_roseway/msq_0801_monarchisaharshmistress:20017
+msgctxt "quests/08_roseway/msq_0801_monarchisaharshmistress:20017:DefaultText"
+msgid "Cassandra revealed that she stole Anton's data."
+msgstr ""
+
+#: quests/08_roseway/msq_0801_monarchisaharshmistress:20018
+msgctxt "quests/08_roseway/msq_0801_monarchisaharshmistress:20018:DefaultText"
+msgid "You've obtained a security keycard that should unlock Cassandra's door."
+msgstr ""
+
+#: quests/08_roseway/msq_0801_monarchisaharshmistress:20019
+msgctxt "quests/08_roseway/msq_0801_monarchisaharshmistress:20019:DefaultText"
+msgid "You wiped out Porter and his men to clear the front entrance."
+msgstr ""
+
+#: quests/08_roseway/msq_0801_monarchisaharshmistress:20020
+msgctxt "quests/08_roseway/msq_0801_monarchisaharshmistress:20020:DefaultText"
+msgid "You found a canister of sedative gas. Three should be sufficient to subdue the raptidons in the facility. The canisters must be installed near the ventilation system in the raptidon incubation chamber."
+msgstr ""
+
+#: quests/08_roseway/msq_0801_monarchisaharshmistress:20021
+msgctxt "quests/08_roseway/msq_0801_monarchisaharshmistress:20021:DefaultText"
+msgid "(<oeiglobal>0803_Rapts_Killed</oeiglobal>/<oeiglobal>0803_Rapts_Total</oeiglobal>) Raptidons killed."
+msgstr ""
+
+#: quests/08_roseway/msq_0801_monarchisaharshmistress:20022
+msgctxt "quests/08_roseway/msq_0801_monarchisaharshmistress:20022:DefaultText"
+msgid "With three canisters of sedative gas installed, you can use the ventilation control terminal to subdue the raptidons inside the facility."
+msgstr ""
+
+#: quests/08_roseway/msq_0801_monarchisaharshmistress:30000
+msgctxt "quests/08_roseway/msq_0801_monarchisaharshmistress:30000:DefaultText"
+msgid "You recovered Anton's research from the outlaw leader, Cassandra O'Malley, but kept it for yourself. Gladys will be able to negotiate a tidy sum from Auntie Cleo's rivals for their diet toothpaste formula."
+msgstr ""
+
+#: quests/08_roseway/msq_0801_monarchisaharshmistress:30001
+msgctxt "quests/08_roseway/msq_0801_monarchisaharshmistress:30001:DefaultText"
+msgid "You let the outlaw leader, Cassandra O'Malley, leave with Anton's diet toothpaste research."
+msgstr ""
+
+#: quests/08_roseway/msq_0801_monarchisaharshmistress:30002
+msgctxt "quests/08_roseway/msq_0801_monarchisaharshmistress:30002:DefaultText"
+msgid "You recovered Anton's research from the outlaw leader, Cassandra O'Malley, and returned it to him. That man was real excited about his diet toothpaste."
+msgstr ""
+
+#: quests/08_roseway/msq_0801_monarchisaharshmistress:30011
+msgctxt "quests/08_roseway/msq_0801_monarchisaharshmistress:30011:DefaultText"
+msgid "You killed both Anton and Cassandra, leaving you the sole owner of a new formula for diet toothpaste."
+msgstr ""
+
+#: quests/08_roseway/msq_0801_monarchisaharshmistress:30012
+msgctxt "quests/08_roseway/msq_0801_monarchisaharshmistress:30012:DefaultText"
+msgid "You helped the outlaw leader, Cassandra O'Malley, escape. She kept Anton's research."
+msgstr ""
+
+#: quests/08_roseway/msq_0801_monarchisaharshmistress:30014
+msgctxt "quests/08_roseway/msq_0801_monarchisaharshmistress:30014:DefaultText"
+msgid "After being forced to face his empty, pointless existence, Anton refused to speak to you again.  You also killed the outlaw leader, Cassandra O'Malley, so no one's left to object to you taking Auntie Cleo's research."
+msgstr ""
+
+#: quests/08_roseway/msq_0801_monarchisaharshmistress:30015
+msgctxt "quests/08_roseway/msq_0801_monarchisaharshmistress:30015:DefaultText"
+msgid "The outlaw leader, Cassandra O'Malley, escaped with Anton's research. The man's had his spirits crushed."
+msgstr ""
+
+#: quests/08_roseway/msq_0801_monarchisaharshmistress:30016
+msgctxt "quests/08_roseway/msq_0801_monarchisaharshmistress:30016:DefaultText"
+msgid "You killed Anton before dealing with his problems."
+msgstr ""
+
+#: quests/08_roseway/msq_0801_monarchisaharshmistress:30017
+msgctxt "quests/08_roseway/msq_0801_monarchisaharshmistress:30017:DefaultText"
+msgid "You recovered Anton's research from the outlaw leader, Cassandra O'Malley, but lied to Anton and told him she got away with it."
+msgstr ""
+
+#: quests/08_roseway/msq_0801_monarchisaharshmistress:30018
+msgctxt "quests/08_roseway/msq_0801_monarchisaharshmistress:30018:DefaultText"
+msgid "The Auntie Cleo Faction has become hostile towards you, making it impossible to complete this quest."
+msgstr ""
+
+#: quests/08_roseway/msq_0801_monarchisaharshmistress:40002
+msgctxt "quests/08_roseway/msq_0801_monarchisaharshmistress:40002:DefaultText"
+msgid "You've met the leader of the outlaws, Cassandra, who is likely tied to the events that precipitated Roseway's distress beacon. For now, you've agreed to help her open up an escape route out of the lab. You'll need find a keycard to unlock the gate to her pen and clear out either the security forces near the front entrance or the raptidons infesting the loading dock."
+msgstr ""
+
+#: quests/08_roseway/msq_0801_monarchisaharshmistress:40003
+msgctxt "quests/08_roseway/msq_0801_monarchisaharshmistress:40003:DefaultText"
+msgid "Outlaws and Auntie Cleo security clashed over research data that is now in your possession. Head to Roseway and see if the recent distress call is related to this conflict."
+msgstr ""
+
+#: quests/08_roseway/msq_0801_monarchisaharshmistress:40004
+msgctxt "quests/08_roseway/msq_0801_monarchisaharshmistress:40004:DefaultText"
+msgid "Outlaws have struck Auntie Cleo's Secret Lab, south of Roseway. Security Chief Porter said that the man who supervises the facility, Dr. Crane, is concerned about the safety of his research data, and wants someone to recover it from his office in the facility."
+msgstr ""

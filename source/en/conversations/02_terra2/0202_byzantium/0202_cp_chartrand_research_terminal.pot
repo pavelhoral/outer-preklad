@@ -1,0 +1,162 @@
+#: conversations/02_terra2/0202_byzantium/0202_cp_chartrand_research_terminal:1
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cp_chartrand_research_terminal:1:DefaultText"
+msgid "Personal Terminal - Dr. Eva Chartrand\r\n"
+"=============================\r\n"
+"\r\n"
+"Main menu"
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cp_chartrand_research_terminal:2
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cp_chartrand_research_terminal:2:DefaultText"
+msgid "[Logs]"
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cp_chartrand_research_terminal:3
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cp_chartrand_research_terminal:3:DefaultText"
+msgid "[Laboratory Access]"
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cp_chartrand_research_terminal:4
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cp_chartrand_research_terminal:4:DefaultText"
+msgid "[Exit]"
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cp_chartrand_research_terminal:5
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cp_chartrand_research_terminal:5:DefaultText"
+msgid "Personal Terminal - Dr. Eva Chartrand\r\n"
+"=============================\r\n"
+"\r\n"
+"Logs"
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cp_chartrand_research_terminal:6
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cp_chartrand_research_terminal:6:DefaultText"
+msgid "[Cascadia, compromised?]"
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cp_chartrand_research_terminal:9
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cp_chartrand_research_terminal:9:DefaultText"
+msgid "Personal Terminal - Dr. Eva Chartrand\r\n"
+"=============================\r\n"
+"\r\n"
+"I received a message that an unauthorized user was looking through the files on my Cascadia terminal. Maybe some marauder with two firing brain cells. Maybe not.\r\n"
+"\r\n"
+"I hope whoever it is understands that the sacrifices made on Monarch and HRS-1084 serve a higher purpose. One day, when all of us have attained a new state of being, humanity may forgive my sins."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cp_chartrand_research_terminal:12
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cp_chartrand_research_terminal:12:DefaultText"
+msgid "[HRS-1084]"
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cp_chartrand_research_terminal:14
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cp_chartrand_research_terminal:14:DefaultText"
+msgid "Personal Terminal - Dr. Eva Chartrand\r\n"
+"=============================\r\n"
+"\r\n"
+"My worst suspicions are confirmed. HRS-1084 was ransacked. Who knows what became of the suspension tanks, my team?\r\n"
+"\r\n"
+"As usual, my handlers on the Board are no help. Until I deliver results they can replicate, package, and disperse to the general population, they desire only silence and obedience from the likes of me. "
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cp_chartrand_research_terminal:17
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cp_chartrand_research_terminal:17:DefaultText"
+msgid "Personal Terminal - Dr. Eva Chartrand\r\n"
+"=============================\r\n"
+"\r\n"
+"Laboratory Access\r\n"
+"\r\n"
+"Status: SEALED"
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cp_chartrand_research_terminal:18
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cp_chartrand_research_terminal:18:DefaultText"
+msgid "Personal Terminal - Dr. Eva Chartrand\r\n"
+"=============================\r\n"
+"\r\n"
+"Laboratory Access\r\n"
+"\r\n"
+"Status: UNSEALED"
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cp_chartrand_research_terminal:19
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cp_chartrand_research_terminal:19:DefaultText"
+msgid "[Unseal Entrance]"
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cp_chartrand_research_terminal:20
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cp_chartrand_research_terminal:20:DefaultText"
+msgid "[Return to Root]"
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cp_chartrand_research_terminal:21
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cp_chartrand_research_terminal:21:DefaultText"
+msgid "[Continue]"
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cp_chartrand_research_terminal:22
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cp_chartrand_research_terminal:22:DefaultText"
+msgid "Personal Terminal - Dr. Eva Chartrand\r\n"
+"=============================\r\n"
+"\r\n"
+"Doubtless there is a connection to be drawn to the hooligans who accessed my Monarch notes.\r\n"
+"\r\n"
+"The project demands that I protect every research asset with my life. Now the time has come to fulfill that promise."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cp_chartrand_research_terminal:23
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cp_chartrand_research_terminal:23:DefaultText"
+msgid "[Continue]"
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cp_chartrand_research_terminal:24
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cp_chartrand_research_terminal:24:DefaultText"
+msgid "Personal Terminal - Dr. Eva Chartrand\r\n"
+"=============================\r\n"
+"\r\n"
+"Could HRS-1084 have been jeopardized as well? \r\n"
+"\r\n"
+"If the project is under attack, it falls to me to defend it. There are too few of us left."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cp_chartrand_research_terminal:25
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cp_chartrand_research_terminal:25:DefaultText"
+msgid "Personal Terminal - Dr. Eva Chartrand\r\n"
+"=============================\r\n"
+"\r\n"
+"I've received no messages from the Cascadia lab. I can hold out hope that a mere salvager happened upon HRS-1084, and not a saboteur. "
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cp_chartrand_research_terminal:26
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cp_chartrand_research_terminal:26:DefaultText"
+msgid "[Yet another relocation]"
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cp_chartrand_research_terminal:27
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cp_chartrand_research_terminal:27:DefaultText"
+msgid "Personal Terminal - Dr. Eva Chartrand\r\n"
+"=============================\n"
+"\n"
+"Circumstances were hardly optimal at the primary and secondary labs. Political instability pulled Cascadia out from under me, and some combination of cabin fever and paranoia soured HRS-1084. \n"
+"\n"
+"Perhaps my home in steadfast Byzantium will offer the retreat I need. Though I miss working alongside colleagues, I know that I hardly deserved the ones I so enjoyed. The ones I lost.\n"
+"\n"
+"The work continues in isolation and loneliness, perhaps as it should. "
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cp_chartrand_research_terminal:28
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cp_chartrand_research_terminal:28:DefaultText"
+msgid "[The first extraterrestrials]"
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cp_chartrand_research_terminal:29
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cp_chartrand_research_terminal:29:DefaultText"
+msgid "Personal Terminal - Dr. Eva Chartrand\r\n"
+"=============================\r\n"
+"\r\n"
+"Ever since our species became aware of itself, we imposed our superiority on the worlds we touched. Colonialism worked. For a time. \r\n"
+"\r\n"
+"But our oldest trick didn't work in Halcyon, did it? Now we are the ones who must bow to a force greater than ourselves. We are the ones who must adapt.\r\n"
+"\r\n"
+"Update - Wine makes me too introspective. Perhaps I'll balance it out with vodka."
+msgstr ""

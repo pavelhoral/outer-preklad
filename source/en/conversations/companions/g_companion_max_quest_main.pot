@@ -1,0 +1,764 @@
+#: conversations/companions/g_companion_max_quest_main:1
+msgctxt "conversations/companions/g_companion_max_quest_main:1:DefaultText"
+msgid "I've been thinking on that. There's a former assoc... er, infamous Philosophist scholar who fled Terra 2 some years ago. He's an expert on Bakonu. "
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:2
+msgctxt "conversations/companions/g_companion_max_quest_main:2:DefaultText"
+msgid "Of course. Are you ready to break into security on the Groundbreaker? "
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:3
+msgctxt "conversations/companions/g_companion_max_quest_main:3:DefaultText"
+msgid "Yes, I've been meaning to discuss exactly that. Now that we know where... uh, the scholar is, when will we be searching him out?"
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:4
+msgctxt "conversations/companions/g_companion_max_quest_main:4:DefaultText"
+msgid "There it is. Just yank the drive and I'll do the rest."
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:6
+msgctxt "conversations/companions/g_companion_max_quest_main:6:DefaultText"
+msgid "I want to thank you for not interfering back there with Chaney."
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:7
+msgctxt "conversations/companions/g_companion_max_quest_main:7:DefaultText"
+msgid "I must admit to a certain anxiousness. To be able to... question Chaney, to get some answers from him. I feel, I don't know, young again. "
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:8
+msgctxt "conversations/companions/g_companion_max_quest_main:8:DefaultText"
+msgid "I have dreamed of this moment for years. Soon, the answers will be in my hands."
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:12
+msgctxt "conversations/companions/g_companion_max_quest_main:12:DefaultText"
+msgid "It may seem silly, but, if you'd indulge me one last thing, I think I'd like to find this hermit he spoke of and give her the book. Maybe she can find some use for it."
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:13
+msgctxt "conversations/companions/g_companion_max_quest_main:13:DefaultText"
+msgid "That sounds like a good lead. But how do we find him?"
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:14
+msgctxt "conversations/companions/g_companion_max_quest_main:14:DefaultText"
+msgid "That seems like a bit of a long shot. What makes you so sure?"
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:15
+msgctxt "conversations/companions/g_companion_max_quest_main:15:DefaultText"
+msgid "Fortunately, we're in the perfect place to start. This is where I'd go if I wanted to get off Terra 2. Great place to pick up a ride to Hephaestus, Scylla, even Monarch."
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:16
+msgctxt "conversations/companions/g_companion_max_quest_main:16:DefaultText"
+msgid "I'm anything but certain. But it's all I've got at the moment."
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:17
+msgctxt "conversations/companions/g_companion_max_quest_main:17:DefaultText"
+msgid "Got it! His name is, uh, Reginald Chaney and he joined a SubLight salvage crew. Only he's not listed on the return manifest. Must've made landfall somewhere he wasn't supposed to."
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:19
+msgctxt "conversations/companions/g_companion_max_quest_main:19:DefaultText"
+msgid "How do we get there?"
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:20
+msgctxt "conversations/companions/g_companion_max_quest_main:20:DefaultText"
+msgid "Sounds good, let's go."
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:21
+msgctxt "conversations/companions/g_companion_max_quest_main:21:DefaultText"
+msgid "This all seems awfully convenient."
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:22
+msgctxt "conversations/companions/g_companion_max_quest_main:22:DefaultText"
+msgid "I admit it was a bit of a long shot, but when you've spent as many hours as I have in contemplation of the universe's secrets, you sometimes get a sense for these things."
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:25
+msgctxt "conversations/companions/g_companion_max_quest_main:25:DefaultText"
+msgid "I might have had questions for her after this experience... ah, well."
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:33
+msgctxt "conversations/companions/g_companion_max_quest_main:33:DefaultText"
+msgid "Why would you do that?! To come so far only to create a literal dead-end... You've ruined decades of meticulously derived plans!"
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:34
+msgctxt "conversations/companions/g_companion_max_quest_main:34:DefaultText"
+msgid "I can't believe this... years of obsession, my whole life's work... it was all for nothing. It can't just end like this."
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:35
+msgctxt "conversations/companions/g_companion_max_quest_main:35:DefaultText"
+msgid "What sort of a half-assed destiny just peters out into nothing? I DEVOTED MYSELF - every moment of every day - to uncovering the truth."
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:36
+msgctxt "conversations/companions/g_companion_max_quest_main:36:DefaultText"
+msgid "Wish me luck. I've heard these things can drive one to insanity."
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:41
+msgctxt "conversations/companions/g_companion_max_quest_main:41:DefaultText"
+msgid "Fallbrook is actually closer to Cascadia, but we should land in Stellar Bay and proceed from there. The whole planet is dangerous, but the route from Cascadia is pure suicide."
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:43
+msgctxt "conversations/companions/g_companion_max_quest_main:43:DefaultText"
+msgid "He's also who told me of the journal's presence in Emerald Vale. If anyone in this colony could translate that book, it would be him."
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:44
+msgctxt "conversations/companions/g_companion_max_quest_main:44:DefaultText"
+msgid "Seriously? Only one guy in this whole colony that can translate French?"
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:45
+msgctxt "conversations/companions/g_companion_max_quest_main:45:DefaultText"
+msgid "The only one I'm aware of. I suppose we could always just ask random passersby if they are fluent in it. "
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:46
+msgctxt "conversations/companions/g_companion_max_quest_main:46:DefaultText"
+msgid "Hey, I'm the captain here, only I get to be a smart ass."
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:48
+msgctxt "conversations/companions/g_companion_max_quest_main:48:DefaultText"
+msgid "Point taken."
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:49
+msgctxt "conversations/companions/g_companion_max_quest_main:49:DefaultText"
+msgid "That sounds like a great idea!"
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:50
+msgctxt "conversations/companions/g_companion_max_quest_main:50:DefaultText"
+msgid "I don't have time for this."
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:51
+msgctxt "conversations/companions/g_companion_max_quest_main:51:DefaultText"
+msgid "I can't believe my desperation has led me to... you. Well, I, uh, just remembered there actually is a list like that. The Groundbreaker has access to it."
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:53
+msgctxt "conversations/companions/g_companion_max_quest_main:53:DefaultText"
+msgid "All I need is access to a data cartridge from the security terminal. Their easily hackable system keeps a registry of all crew manifests for both arrivals and departures."
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:54
+msgctxt "conversations/companions/g_companion_max_quest_main:54:DefaultText"
+msgid "Sounds good, let's go."
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:55
+msgctxt "conversations/companions/g_companion_max_quest_main:55:DefaultText"
+msgid "I'll have to think about it."
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:56
+msgctxt "conversations/companions/g_companion_max_quest_main:56:DefaultText"
+msgid "We should start on the Groundbreaker. It's where I'd go if I wanted to get off Terra 2. Great place to pick up a ride to Hephaestus, Scylla, even Monarch."
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:57
+msgctxt "conversations/companions/g_companion_max_quest_main:57:DefaultText"
+msgid "That's a good question."
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:58
+msgctxt "conversations/companions/g_companion_max_quest_main:58:DefaultText"
+msgid "Yes, well, now that we're here, can we check in with security? I'd like to track down that scholar."
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:59
+msgctxt "conversations/companions/g_companion_max_quest_main:59:DefaultText"
+msgid "You hesitated there, Vicar. What aren't you telling me?"
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:60
+msgctxt "conversations/companions/g_companion_max_quest_main:60:DefaultText"
+msgid "Oh, it's nothing. I suppose I really didn't have much faith in actually finding him. Was a bit of a long shot, wasn't it?"
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:61
+msgctxt "conversations/companions/g_companion_max_quest_main:61:DefaultText"
+msgid "Before we can do anything we'll need to acquire that Stellar Bay Navkey you're looking for."
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:62
+msgctxt "conversations/companions/g_companion_max_quest_main:62:DefaultText"
+msgid "Sounds like a challenge."
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:63
+msgctxt "conversations/companions/g_companion_max_quest_main:63:DefaultText"
+msgid "I'll take your word for it."
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:64
+msgctxt "conversations/companions/g_companion_max_quest_main:64:DefaultText"
+msgid "And why is that?"
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:65
+msgctxt "conversations/companions/g_companion_max_quest_main:65:DefaultText"
+msgid "Stellar Bay still has some semblance of society, if you could call it that, but Cascadia is overrun with all manner of vile things intent on murdering anything or anyone they can."
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:66
+msgctxt "conversations/companions/g_companion_max_quest_main:66:DefaultText"
+msgid "And you know this how?"
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:67
+msgctxt "conversations/companions/g_companion_max_quest_main:67:DefaultText"
+msgid "A vicar values knowledge above all else. And, in my case, that includes the hotbed of Philosophist radicals inhabiting Monarch."
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:68
+msgctxt "conversations/companions/g_companion_max_quest_main:68:DefaultText"
+msgid "Got it."
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:70
+msgctxt "conversations/companions/g_companion_max_quest_main:70:DefaultText"
+msgid "As soon as we can, I promise."
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:71
+msgctxt "conversations/companions/g_companion_max_quest_main:71:DefaultText"
+msgid "I'm not sure yet."
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:72
+msgctxt "conversations/companions/g_companion_max_quest_main:72:DefaultText"
+msgid "When I decide we will."
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:73
+msgctxt "conversations/companions/g_companion_max_quest_main:73:DefaultText"
+msgid "How could you have killed Chaney like that? You robbed me of the pleasure of doing it myself."
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:74
+msgctxt "conversations/companions/g_companion_max_quest_main:74:DefaultText"
+msgid "What are you talking about?"
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:75
+msgctxt "conversations/companions/g_companion_max_quest_main:75:DefaultText"
+msgid "That man you killed in Fallbrook. His name was Reginald Chaney, and, as you may have surmised, he was not actually a Philosophist scholar."
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:76
+msgctxt "conversations/companions/g_companion_max_quest_main:76:DefaultText"
+msgid "He was a prisoner in the penitentiary I was assigned to. He's the one who told me about the book - conned me out of good money for its location."
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:77
+msgctxt "conversations/companions/g_companion_max_quest_main:77:DefaultText"
+msgid "You're welcome."
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:78
+msgctxt "conversations/companions/g_companion_max_quest_main:78:DefaultText"
+msgid "Look, I'm in charge of my crew, and I decide who dies. You have a problem with that?"
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:80
+msgctxt "conversations/companions/g_companion_max_quest_main:80:DefaultText"
+msgid "I did it so you wouldn't have to. You can thank me later."
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:81
+msgctxt "conversations/companions/g_companion_max_quest_main:81:DefaultText"
+msgid "I'm sorry. Sometimes I just can't control myself."
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:82
+msgctxt "conversations/companions/g_companion_max_quest_main:82:DefaultText"
+msgid "You will know when I do."
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:83
+msgctxt "conversations/companions/g_companion_max_quest_main:83:DefaultText"
+msgid "So that's what that looks like."
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:84
+msgctxt "conversations/companions/g_companion_max_quest_main:84:DefaultText"
+msgid "I've never heard it called that."
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:85
+msgctxt "conversations/companions/g_companion_max_quest_main:85:DefaultText"
+msgid "I've denied that part of myself for too long, pretending I was something I'm not. I've spent myself chasing an illusion. "
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:86
+msgctxt "conversations/companions/g_companion_max_quest_main:86:DefaultText"
+msgid "It's time I gave up childish dreams and accepted who I am."
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:87
+msgctxt "conversations/companions/g_companion_max_quest_main:87:DefaultText"
+msgid "What will you do now?"
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:88
+msgctxt "conversations/companions/g_companion_max_quest_main:88:DefaultText"
+msgid "Why?"
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:89
+msgctxt "conversations/companions/g_companion_max_quest_main:89:DefaultText"
+msgid "That sounds like a good idea."
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:90
+msgctxt "conversations/companions/g_companion_max_quest_main:90:DefaultText"
+msgid "I can't rightly say. Perhaps I just need some sort of closure, a formal end to my lifelong quest perhaps."
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:91
+msgctxt "conversations/companions/g_companion_max_quest_main:91:DefaultText"
+msgid "Wow. That's quite the turn around."
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:92
+msgctxt "conversations/companions/g_companion_max_quest_main:92:DefaultText"
+msgid "I'm sure it would seem such to you, but I don't believe it is. I think I always knew this day would come. I was just afraid to admit it. Even to myself."
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:93
+msgctxt "conversations/companions/g_companion_max_quest_main:93:DefaultText"
+msgid "I don't think so. Seems like a waste of time to me."
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:94
+msgctxt "conversations/companions/g_companion_max_quest_main:94:DefaultText"
+msgid "So you're feeling 'violently enthusiastic'?"
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:95
+msgctxt "conversations/companions/g_companion_max_quest_main:95:DefaultText"
+msgid "Hah. Not quite that young."
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:96
+msgctxt "conversations/companions/g_companion_max_quest_main:96:DefaultText"
+msgid "It's time you faced the truth, Vicar. Your religion is nothing but lies. "
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:98
+msgctxt "conversations/companions/g_companion_max_quest_main:98:DefaultText"
+msgid "You sarcasm is duly noted and will be reflected on your review."
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:102
+msgctxt "conversations/companions/g_companion_max_quest_main:102:DefaultText"
+msgid "A thousand pardons, my good captain. I thought we were engaging in witty repartee."
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:103
+msgctxt "conversations/companions/g_companion_max_quest_main:103:DefaultText"
+msgid "Now, as far as tracking down this scholar..."
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:105
+msgctxt "conversations/companions/g_companion_max_quest_main:105:DefaultText"
+msgid "That's the plan."
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:106
+msgctxt "conversations/companions/g_companion_max_quest_main:106:DefaultText"
+msgid "Not just yet."
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:108
+msgctxt "conversations/companions/g_companion_max_quest_main:108:DefaultText"
+msgid "I want to thank you for talking some sense into me back there with Chaney."
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:109
+msgctxt "conversations/companions/g_companion_max_quest_main:109:DefaultText"
+msgid "What was it like, being in prison?"
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:110
+msgctxt "conversations/companions/g_companion_max_quest_main:110:DefaultText"
+msgid "Why didn't you tell me you served time in prison?"
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:112
+msgctxt "conversations/companions/g_companion_max_quest_main:112:DefaultText"
+msgid "You never asked."
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:113
+msgctxt "conversations/companions/g_companion_max_quest_main:113:DefaultText"
+msgid "Very funny. Would you care to explain now?"
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:114
+msgctxt "conversations/companions/g_companion_max_quest_main:114:DefaultText"
+msgid "Oh, exactly as you'd imagine. Can't say I enjoyed the stint. It did provide me with plenty of time to think."
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:115
+msgctxt "conversations/companions/g_companion_max_quest_main:115:DefaultText"
+msgid "Let's move on."
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:116
+msgctxt "conversations/companions/g_companion_max_quest_main:116:DefaultText"
+msgid "Most laypeople are not aware of this, but we've not discovered any new insights into the Plan for a long, long time. "
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:117
+msgctxt "conversations/companions/g_companion_max_quest_main:117:DefaultText"
+msgid "I had an idea that we should welcome the truth, no matter where we found it. I had the worse idea to share my thoughts with a superior."
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:118
+msgctxt "conversations/companions/g_companion_max_quest_main:118:DefaultText"
+msgid "And that's how I ended up assigned prison duty, where I was fool enough to let an inmate bend my ear with stories of an original Bakonu journal."
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:119
+msgctxt "conversations/companions/g_companion_max_quest_main:119:DefaultText"
+msgid "What should I expect in Stellar Bay?"
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:120
+msgctxt "conversations/companions/g_companion_max_quest_main:120:DefaultText"
+msgid "Stellar Bay still has some semblance of society, if you could call it that. Outside their walls though, Monarch is a lawless and deadly land. I'm sure we'll be fine."
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:121
+msgctxt "conversations/companions/g_companion_max_quest_main:121:DefaultText"
+msgid "This is Reginald's stuff, all right, but it looks like he's not home. Let's search the room, try to figure out where he's gone."
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:123
+msgctxt "conversations/companions/g_companion_max_quest_main:123:DefaultText"
+msgid "The way I see it, the universe was snapping me back to where I needed to be. You stray too far from the course of your destiny, the world will try to correct for it."
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:124
+msgctxt "conversations/companions/g_companion_max_quest_main:124:DefaultText"
+msgid "<Glare silently.>"
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:125
+msgctxt "conversations/companions/g_companion_max_quest_main:125:DefaultText"
+msgid "Well, you didn't. But fine."
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:126
+msgctxt "conversations/companions/g_companion_max_quest_main:126:DefaultText"
+msgid "No. I don't accept it. I did find the truth, and the truth is this religion is nothing more than a well-constructed lie. Meant to keep the lowly sheep of the world in line. "
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:127
+msgctxt "conversations/companions/g_companion_max_quest_main:127:DefaultText"
+msgid "What're you going to do?"
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:128
+msgctxt "conversations/companions/g_companion_max_quest_main:128:DefaultText"
+msgid "'Baaa!'"
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:129
+msgctxt "conversations/companions/g_companion_max_quest_main:129:DefaultText"
+msgid "My eyes are open now. I won't live a lie - I reject any man-made system of control. What I'll do next... I just don't know."
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:130
+msgctxt "conversations/companions/g_companion_max_quest_main:130:DefaultText"
+msgid "Exactly right. I'm no sheep."
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:131
+msgctxt "conversations/companions/g_companion_max_quest_main:131:DefaultText"
+msgid "How is it that a simple vicar happens to be such a highly skilled hacker?"
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:132
+msgctxt "conversations/companions/g_companion_max_quest_main:132:DefaultText"
+msgid "Before I transferred to Edgewater, I had a wealth of time to develop certain, ah, secular skills during my years serving a particular \"penitentiary flock.\""
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:133
+msgctxt "conversations/companions/g_companion_max_quest_main:133:DefaultText"
+msgid "Remind me why we want to do that?"
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:134
+msgctxt "conversations/companions/g_companion_max_quest_main:134:DefaultText"
+msgid "I meditated, led sermons, provided guidance to the inmates as needed, of course... I also played prison yard tossball and taught myself a bit about computronic security systems."
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:135
+msgctxt "conversations/companions/g_companion_max_quest_main:135:DefaultText"
+msgid "I should have guessed. What better place to lay low if you wish to avoid the authorities?"
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:136
+msgctxt "conversations/companions/g_companion_max_quest_main:136:DefaultText"
+msgid "Fallbrook?"
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:137
+msgctxt "conversations/companions/g_companion_max_quest_main:137:DefaultText"
+msgid "Oh, you know. Illegal smuggler's town on a blockaded planet. The usual. Shouldn't be hard to find him at all. Once we're there."
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:138
+msgctxt "conversations/companions/g_companion_max_quest_main:138:DefaultText"
+msgid "Ah, yes. Here. There's a domicile on Monarch, in Fallbrook, rented to the same bit cart he used to buy his seat on the salvage ship. "
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:139
+msgctxt "conversations/companions/g_companion_max_quest_main:139:DefaultText"
+msgid "How will a crew manifest help us track down your scholar friend?"
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:140
+msgctxt "conversations/companions/g_companion_max_quest_main:140:DefaultText"
+msgid "I'll comb the last six months of departure manifests to track the Philosophist's offworld destination."
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:141
+msgctxt "conversations/companions/g_companion_max_quest_main:141:DefaultText"
+msgid "If I can access the data cartridge from the terminal in security, I can easily hack into their arrivals and departures registry. "
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:142
+msgctxt "conversations/companions/g_companion_max_quest_main:142:DefaultText"
+msgid "It will be. But I have the utmost faith that you can handle it."
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:143
+msgctxt "conversations/companions/g_companion_max_quest_main:143:DefaultText"
+msgid "A former what, now?"
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:144
+msgctxt "conversations/companions/g_companion_max_quest_main:144:DefaultText"
+msgid "You caught me. Listen, the OSI frowns on fraternization with Philosophists. I'd like to keep my associations with our... scholar friend quiet."
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:145
+msgctxt "conversations/companions/g_companion_max_quest_main:145:DefaultText"
+msgid "I'm certain he knew it was in French, and I was going to make him pay for wasting years of my life."
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:146
+msgctxt "conversations/companions/g_companion_max_quest_main:146:DefaultText"
+msgid "Maybe you're right."
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:148
+msgctxt "conversations/companions/g_companion_max_quest_main:148:DefaultText"
+msgid "Chaney conned me not only out of good money for the book's location, but also years of my life. I'm certain he knew it was in French. At least you made him pay. For all of it."
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:149
+msgctxt "conversations/companions/g_companion_max_quest_main:149:DefaultText"
+msgid "I thought my training had allowed me to leave it behind, but prison brought it all raging back. "
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:150
+msgctxt "conversations/companions/g_companion_max_quest_main:150:DefaultText"
+msgid "<Say nothing.>"
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:151
+msgctxt "conversations/companions/g_companion_max_quest_main:151:DefaultText"
+msgid "And it felt... right. "
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:152
+msgctxt "conversations/companions/g_companion_max_quest_main:152:DefaultText"
+msgid "It has been a long time since I gave in to my... violent enthusiasm."
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:153
+msgctxt "conversations/companions/g_companion_max_quest_main:153:DefaultText"
+msgid "It has been a long time since I gave in to my... violent enthusiasm."
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:154
+msgctxt "conversations/companions/g_companion_max_quest_main:154:DefaultText"
+msgid "I want to throttle you... but perhaps it's time to admit that you're right."
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:155
+msgctxt "conversations/companions/g_companion_max_quest_main:155:DefaultText"
+msgid "Uhm... oops? "
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:156
+msgctxt "conversations/companions/g_companion_max_quest_main:156:DefaultText"
+msgid "Oh, now you're sorry?! Your apology would be laudable if only some things could be undone. I suppose this is my well-deserved fate."
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:157
+msgctxt "conversations/companions/g_companion_max_quest_main:157:DefaultText"
+msgid "Should have known better than to fight my station. All right, universe, message received. "
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:158
+msgctxt "conversations/companions/g_companion_max_quest_main:158:DefaultText"
+msgid "I'm sorry, Max."
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:160
+msgctxt "conversations/companions/g_companion_max_quest_main:160:DefaultText"
+msgid "This is it: security. I can check the departures registry to find out which crew Cha - I mean, the scholar shipped in and out with. "
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:161
+msgctxt "conversations/companions/g_companion_max_quest_main:161:DefaultText"
+msgid "I'm sorry. Next time I'll let you take your own revenge."
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:162
+msgctxt "conversations/companions/g_companion_max_quest_main:162:DefaultText"
+msgid "That is becoming more and more obvious. I don't think you understand the hatred I was harboring for that miserable excuse for a human being."
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:163
+msgctxt "conversations/companions/g_companion_max_quest_main:163:DefaultText"
+msgid "That'll give us dates, times, and the crew manifests for every registered ship."
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:164
+msgctxt "conversations/companions/g_companion_max_quest_main:164:DefaultText"
+msgid "Thank you, Captain."
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:165
+msgctxt "conversations/companions/g_companion_max_quest_main:165:DefaultText"
+msgid "Thank you, Captain. I knew I could rely on you. I think it will help put all this behind me."
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:166
+msgctxt "conversations/companions/g_companion_max_quest_main:166:DefaultText"
+msgid "As you wish. You are the captain, after all."
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:167
+msgctxt "conversations/companions/g_companion_max_quest_main:167:DefaultText"
+msgid "I must admit I'm feeling trepidation about meeting this so called hermit. I may finally find the answers I've been looking for, but will they be enough? I suppose they'll have to be."
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:168
+msgctxt "conversations/companions/g_companion_max_quest_main:168:DefaultText"
+msgid "Cut the crap, Max. You lied to me about Chaney, and I want to know why."
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:169
+msgctxt "conversations/companions/g_companion_max_quest_main:169:DefaultText"
+msgid "Never mind that, why did you feel the need to lie about Chaney?"
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:170
+msgctxt "conversations/companions/g_companion_max_quest_main:170:DefaultText"
+msgid "You're right, I owe you an apology. I've been so obsessed, for so long... I couldn't see anything else. You offered me a place on your crew, friendship, and I used you to get to Chaney."
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:171
+msgctxt "conversations/companions/g_companion_max_quest_main:171:DefaultText"
+msgid "And even then, you saved me from myself. I don't know if I could live with myself had I gone through with it."
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:173
+msgctxt "conversations/companions/g_companion_max_quest_main:173:DefaultText"
+msgid "You owe me nothing, I know, but I'm... I'm begging your forgiveness."
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:175
+msgctxt "conversations/companions/g_companion_max_quest_main:175:DefaultText"
+msgid "I don't think so. You're not welcome on my crew anymore, pack your things."
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:176
+msgctxt "conversations/companions/g_companion_max_quest_main:176:DefaultText"
+msgid "I understand, it's nothing but what I deserve. I won't bother you anymore. Goodbye, captain. "
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:179
+msgctxt "conversations/companions/g_companion_max_quest_main:179:DefaultText"
+msgid "I understand. We all get a little obsessed sometimes. You're forgiven."
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:180
+msgctxt "conversations/companions/g_companion_max_quest_main:180:DefaultText"
+msgid "Okay, but I'm watching you. You ever lie to me again, about anything, you're out."
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:181
+msgctxt "conversations/companions/g_companion_max_quest_main:181:DefaultText"
+msgid "Thank you. I promise, I'll be nothing but truthful from this point forward."
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:182
+msgctxt "conversations/companions/g_companion_max_quest_main:182:DefaultText"
+msgid "Wait, what? You're saying you were fucking lying to me all this time? How dare you!"
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:183
+msgctxt "conversations/companions/g_companion_max_quest_main:183:DefaultText"
+msgid "You were lying to me about him whole time? Care to explain yourself?"
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:184
+msgctxt "conversations/companions/g_companion_max_quest_main:184:DefaultText"
+msgid "Why did you feel the need to lie to me about Chaney?"
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:185
+msgctxt "conversations/companions/g_companion_max_quest_main:185:DefaultText"
+msgid "Why would you do that? I needed her!"
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:186
+msgctxt "conversations/companions/g_companion_max_quest_main:186:DefaultText"
+msgid "Now that we have the data cartridge I can finally find where that scholar I'm looking for ended up."
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:187
+msgctxt "conversations/companions/g_companion_max_quest_main:187:DefaultText"
+msgid "Sounds like Chaney's gone gold panning down on the river. Uh, I guess even scholars need to find ways to make ends meet in exile."
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:188
+msgctxt "conversations/companions/g_companion_max_quest_main:188:DefaultText"
+msgid "Wait, what are you doing? I'm supposed to be the one to kill him!"
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:189
+msgctxt "conversations/companions/g_companion_max_quest_main:189:DefaultText"
+msgid "Ah, yes. he's right here in Fallbrook, rented a domicile with the same bit cart he used to buy his seat on the salvage ship. "
+msgstr ""
+
+#: conversations/companions/g_companion_max_quest_main:190
+msgctxt "conversations/companions/g_companion_max_quest_main:190:DefaultText"
+msgid "There it is. Just yank the drive and I'll do the rest."
+msgstr ""

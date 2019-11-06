@@ -1,0 +1,314 @@
+#: conversations/03_playership/03_bs_playership:13
+msgctxt "conversations/03_playership/03_bs_playership:13:DefaultText"
+msgid "Captain, we have arrived at Tartarus. I have important information for you."
+msgstr ""
+
+#: conversations/03_playership/03_bs_playership:21
+msgctxt "conversations/03_playership/03_bs_playership:21:DefaultText"
+msgid "Some crewmembers are causing a disturbance on the ship."
+msgstr ""
+
+#: conversations/03_playership/03_bs_playership:22
+msgctxt "conversations/03_playership/03_bs_playership:22:DefaultText"
+msgid "Captain, Felix and the vicar are arguing again."
+msgstr ""
+
+#: conversations/03_playership/03_bs_playership:27
+msgctxt "conversations/03_playership/03_bs_playership:27:DefaultText"
+msgid "Crew report: Nyoka is drunk. Surprise!"
+msgstr ""
+
+#: conversations/03_playership/03_bs_playership:30
+msgctxt "conversations/03_playership/03_bs_playership:30:DefaultText"
+msgid "Sometimes I think SAM is the only one who understands me."
+msgstr ""
+
+#: conversations/03_playership/03_bs_playership:31
+msgctxt "conversations/03_playership/03_bs_playership:31:DefaultText"
+msgid "Captain, I have detected that Edgewater's power supply is now optimal. I applaud your willingness to invest your time in the local community."
+msgstr ""
+
+#: conversations/03_playership/03_bs_playership:36
+msgctxt "conversations/03_playership/03_bs_playership:36:DefaultText"
+msgid "Captain, I hope you made the right decision by siding with MSI."
+msgstr ""
+
+#: conversations/03_playership/03_bs_playership:40
+msgctxt "conversations/03_playership/03_bs_playership:40:DefaultText"
+msgid "Captain, I hope Dr. Welles has not dragged you into one of his irrational schemes again. My diagnosis of his mental stability is not flattering."
+msgstr ""
+
+#: conversations/03_playership/03_bs_playership:42
+msgctxt "conversations/03_playership/03_bs_playership:42:DefaultText"
+msgid "I understand we have decided to continue supporting the outlaw scientist Dr. Phineas Welles."
+msgstr ""
+
+#: conversations/03_playership/03_bs_playership:43
+msgctxt "conversations/03_playership/03_bs_playership:43:DefaultText"
+msgid "When I was stranded in Emerald Vale, I simulated a number of hypothetical scenarios in which Edgewater met its demise. Death by Automechanical was number fifty-seven."
+msgstr ""
+
+#: conversations/03_playership/03_bs_playership:46
+msgctxt "conversations/03_playership/03_bs_playership:46:DefaultText"
+msgid "Captain, I have detected that the town of Edgewater is now without power. I appreciate you doing your part to hasten their demise."
+msgstr ""
+
+#: conversations/03_playership/03_bs_playership:47
+msgctxt "conversations/03_playership/03_bs_playership:47:DefaultText"
+msgid "Groundbreaker should understand well enough now - sometimes violence is the answer."
+msgstr ""
+
+#: conversations/03_playership/03_bs_playership:51
+msgctxt "conversations/03_playership/03_bs_playership:51:DefaultText"
+msgid "Leaving the Iconoclasts in control of Monarch is a concept that weighs heavily on my processor banks. "
+msgstr ""
+
+#: conversations/03_playership/03_bs_playership:52
+msgctxt "conversations/03_playership/03_bs_playership:52:DefaultText"
+msgid "Working together diplomatically is a strong predictor for success. Smart work in Monarch, Captain."
+msgstr ""
+
+#: conversations/03_playership/03_bs_playership:53
+msgctxt "conversations/03_playership/03_bs_playership:53:DefaultText"
+msgid "Captain, your actions have left the world of Monarch in a state of chaos. I look forward to observing its collapse."
+msgstr ""
+
+#: conversations/03_playership/03_bs_playership:58
+msgctxt "conversations/03_playership/03_bs_playership:58:DefaultText"
+msgid "If you don't mind my saying, Captain, Minister Clarke is lucky to have you on his side."
+msgstr ""
+
+#: conversations/03_playership/03_bs_playership:59
+msgctxt "conversations/03_playership/03_bs_playership:59:DefaultText"
+msgid "Dr. Welles has failed to discover the tracking signal broadcasting the location of his lab. I have revised my estimations of his competence accordingly."
+msgstr ""
+
+#: conversations/03_playership/03_bs_playership:61
+msgctxt "conversations/03_playership/03_bs_playership:61:DefaultText"
+msgid "You killed the Adjutant?! We are outlaws in the truest sense of the word now."
+msgstr ""
+
+#: conversations/03_playership/03_bs_playership:66
+msgctxt "conversations/03_playership/03_bs_playership:66:DefaultText"
+msgid "Captain Hawthorne never worked to support the Board before. At least not officially. I suppose we are turning over a new leaf?"
+msgstr ""
+
+#: conversations/03_playership/03_bs_playership:67
+msgctxt "conversations/03_playership/03_bs_playership:67:DefaultText"
+msgid "Sending a corrupted tracking signal to the Board was quite clever, if I might say, Captain."
+msgstr ""
+
+#: conversations/03_playership/03_bs_playership:72
+msgctxt "conversations/03_playership/03_bs_playership:72:DefaultText"
+msgid "My noxious-scent sensors are tingling, Captain. What's in there and how along ago might it have spoiled?"
+msgstr ""
+
+#: conversations/03_playership/03_bs_playership:73
+msgctxt "conversations/03_playership/03_bs_playership:73:DefaultText"
+msgid "Providing a proper place for every item keeps the Unreliable shipshape. Thanks for storing that... in storage."
+msgstr ""
+
+#: conversations/03_playership/03_bs_playership:74
+msgctxt "conversations/03_playership/03_bs_playership:74:DefaultText"
+msgid "Checking for messages? Don't worry, I'm not reading over your shoulder."
+msgstr ""
+
+#: conversations/03_playership/03_bs_playership:75
+msgctxt "conversations/03_playership/03_bs_playership:75:DefaultText"
+msgid "Sleep well, Captain."
+msgstr ""
+
+#: conversations/03_playership/03_bs_playership:77
+msgctxt "conversations/03_playership/03_bs_playership:77:DefaultText"
+msgid "We're now in orbit above Stellar Bay, Captain. No blockade is a match for my piloting skills."
+msgstr ""
+
+#: conversations/03_playership/03_bs_playership:78
+msgctxt "conversations/03_playership/03_bs_playership:78:DefaultText"
+msgid "We're in orbit over Cascadia, Captain. "
+msgstr ""
+
+#: conversations/03_playership/03_bs_playership:82
+msgctxt "conversations/03_playership/03_bs_playership:82:DefaultText"
+msgid "We're now in orbit above Roseway, Captain."
+msgstr ""
+
+#: conversations/03_playership/03_bs_playership:84
+msgctxt "conversations/03_playership/03_bs_playership:84:DefaultText"
+msgid "We're now in orbit above Byzantium, Captain."
+msgstr ""
+
+#: conversations/03_playership/03_bs_playership:85
+msgctxt "conversations/03_playership/03_bs_playership:85:DefaultText"
+msgid "We're now in orbit above Byzantium, Captain."
+msgstr ""
+
+#: conversations/03_playership/03_bs_playership:86
+msgctxt "conversations/03_playership/03_bs_playership:86:DefaultText"
+msgid "We're now in orbit above Fallbrook, Captain. "
+msgstr ""
+
+#: conversations/03_playership/03_bs_playership:87
+msgctxt "conversations/03_playership/03_bs_playership:87:DefaultText"
+msgid "We're now in orbit above Edgewater, Captain."
+msgstr ""
+
+#: conversations/03_playership/03_bs_playership:88
+msgctxt "conversations/03_playership/03_bs_playership:88:DefaultText"
+msgid "We're now in orbit above Emerald Vale, Captain. "
+msgstr ""
+
+#: conversations/03_playership/03_bs_playership:89
+msgctxt "conversations/03_playership/03_bs_playership:89:DefaultText"
+msgid "We've re-docked with the Hope, Captain."
+msgstr ""
+
+#: conversations/03_playership/03_bs_playership:90
+msgctxt "conversations/03_playership/03_bs_playership:90:DefaultText"
+msgid "We've re-docked with the Hope, Captain."
+msgstr ""
+
+#: conversations/03_playership/03_bs_playership:91
+msgctxt "conversations/03_playership/03_bs_playership:91:DefaultText"
+msgid "We've reached the Hope, Captain. I'll tether us and initiate boarding protocols."
+msgstr ""
+
+#: conversations/03_playership/03_bs_playership:92
+msgctxt "conversations/03_playership/03_bs_playership:92:DefaultText"
+msgid "The Groundbreaker has approved our request for docking, Captain. You're free to disembark."
+msgstr ""
+
+#: conversations/03_playership/03_bs_playership:95
+msgctxt "conversations/03_playership/03_bs_playership:95:DefaultText"
+msgid "We have successfully arrived at Phineas' orbital lab, Captain. And we're still in one piece. Shall I congratulate myself or would you like to do the honors?"
+msgstr ""
+
+#: conversations/03_playership/03_bs_playership:96
+msgctxt "conversations/03_playership/03_bs_playership:96:DefaultText"
+msgid "We've reached HRS-1084, Captain. It's emitting a very weak docking signal. I almost mislabeled it as normal aetheric static."
+msgstr ""
+
+#: conversations/03_playership/03_bs_playership:100
+msgctxt "conversations/03_playership/03_bs_playership:100:DefaultText"
+msgid "We're now in orbit above Stellar Bay, Captain."
+msgstr ""
+
+#: conversations/03_playership/03_bs_playership:102
+msgctxt "conversations/03_playership/03_bs_playership:102:DefaultText"
+msgid "Now arriving at: Phineas' top-secret orbital lab."
+msgstr ""
+
+#: conversations/03_playership/03_bs_playership:103
+msgctxt "conversations/03_playership/03_bs_playership:103:DefaultText"
+msgid "We've arrived at Phineas' orbital lab."
+msgstr ""
+
+#: conversations/03_playership/03_bs_playership:104
+msgctxt "conversations/03_playership/03_bs_playership:104:DefaultText"
+msgid "Destination reached: The Groundbreaker."
+msgstr ""
+
+#: conversations/03_playership/03_bs_playership:105
+msgctxt "conversations/03_playership/03_bs_playership:105:DefaultText"
+msgid "We've arrived at the Groundbreaker."
+msgstr ""
+
+#: conversations/03_playership/03_bs_playership:108
+msgctxt "conversations/03_playership/03_bs_playership:108:DefaultText"
+msgid "Destination reached: Scylla."
+msgstr ""
+
+#: conversations/03_playership/03_bs_playership:109
+msgctxt "conversations/03_playership/03_bs_playership:109:DefaultText"
+msgid "Captain, I received a distress call from Dr. Welles. I believe you will want to hear this."
+msgstr ""
+
+#: conversations/03_playership/03_bs_playership:111
+msgctxt "conversations/03_playership/03_bs_playership:111:DefaultText"
+msgid "Message from the Board, Captain."
+msgstr ""
+
+#: conversations/03_playership/03_bs_playership:113
+msgctxt "conversations/03_playership/03_bs_playership:113:DefaultText"
+msgid "We're now in orbit above Byzantium, Captain. You also have a Message from one Udom Bedford."
+msgstr ""
+
+#: conversations/03_playership/03_bs_playership:114
+msgctxt "conversations/03_playership/03_bs_playership:114:DefaultText"
+msgid "Crewmembers Ellie and Max are engaged in a heated discussion in the kitchen."
+msgstr ""
+
+#: conversations/03_playership/03_bs_playership:115
+msgctxt "conversations/03_playership/03_bs_playership:115:DefaultText"
+msgid "I believe I hear Felix and Parvati discussing the latest aetherwave serial. "
+msgstr ""
+
+#: conversations/03_playership/03_bs_playership:116
+msgctxt "conversations/03_playership/03_bs_playership:116:DefaultText"
+msgid "If you stop in the engine room, would you ask Parvati to send SAM down to the bridge?"
+msgstr ""
+
+#: conversations/03_playership/03_bs_playership:117
+msgctxt "conversations/03_playership/03_bs_playership:117:DefaultText"
+msgid "A reminder to all crewmembers: there is only one toilet on the ship."
+msgstr ""
+
+#: conversations/03_playership/03_bs_playership:118
+msgctxt "conversations/03_playership/03_bs_playership:118:DefaultText"
+msgid "Captain, if you're looking for crewmembers Ellie or Felix, they're sharing a drink upstairs."
+msgstr ""
+
+#: conversations/03_playership/03_bs_playership:119
+msgctxt "conversations/03_playership/03_bs_playership:119:DefaultText"
+msgid "Didn't I request no more fertilizer shipments be brought on board? Who keeps ordering these?"
+msgstr ""
+
+#: conversations/03_playership/03_bs_playership:121
+msgctxt "conversations/03_playership/03_bs_playership:121:DefaultText"
+msgid "Captain, improperly filling the fuel cells has triggered a massive plasma discharge. We must travel with caution to the Groundbreaker, else we risk imploding mid-journey."
+msgstr ""
+
+#: conversations/03_playership/03_bs_playership:122
+msgctxt "conversations/03_playership/03_bs_playership:122:DefaultText"
+msgid "Our fuel cells are now primed with Alta-Vitae gas. As the organics say, let us hope we do not explode in transit to the Groundbreaker."
+msgstr ""
+
+#: conversations/03_playership/03_bs_playership:123
+msgctxt "conversations/03_playership/03_bs_playership:123:DefaultText"
+msgid "Captain, I wish to offer my commendations for convincing the UDL's gunship to leave HRS-1084. I did not favor the idea of being stripped and sold for parts."
+msgstr ""
+
+#: conversations/03_playership/03_bs_playership:124
+msgctxt "conversations/03_playership/03_bs_playership:124:DefaultText"
+msgid "Captain, the UDL's gunship has docked with HRS-1084. Our work at the station is not yet finished."
+msgstr ""
+
+#: conversations/03_playership/03_bs_playership:125
+msgctxt "conversations/03_playership/03_bs_playership:125:DefaultText"
+msgid "Captain, I must say, your thrilling management of the UDL troops at HRS-1084 was masterful to, er - remotely keep apprised of."
+msgstr ""
+
+#: conversations/03_playership/03_bs_playership:126
+msgctxt "conversations/03_playership/03_bs_playership:126:DefaultText"
+msgid "Nice work dispatching Chartrand, Captain. SubLight will be pleased."
+msgstr ""
+
+#: conversations/03_playership/03_bs_playership:127
+msgctxt "conversations/03_playership/03_bs_playership:127:DefaultText"
+msgid "I believe your choice to spare Chartrand would be considered the honorable path, yes? SubLight's money is inconsequential in the face of ethics."
+msgstr ""
+
+#: conversations/03_playership/03_bs_playership:128
+msgctxt "conversations/03_playership/03_bs_playership:128:DefaultText"
+msgid "We're now at Relay GB-23, Captain. It's orbiting Halcyon at extreme velocity, but the docking gantry SHOULD remain stable."
+msgstr ""
+
+#: conversations/03_playership/03_bs_playership:129
+msgctxt "conversations/03_playership/03_bs_playership:129:DefaultText"
+msgid "Attention: crewmember Nyoka, please desist any and all activites which could result in further damage to the ship."
+msgstr ""
+
+#: conversations/03_playership/03_bs_playership:130
+msgctxt "conversations/03_playership/03_bs_playership:130:DefaultText"
+msgid "I have received a transmission from Roseway, from a Dr. Shaw."
+msgstr ""

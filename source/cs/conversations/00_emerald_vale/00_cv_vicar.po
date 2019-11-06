@@ -1,0 +1,1929 @@
+#: conversations/00_emerald_vale/00_cv_vicar:1
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:1:DefaultText"
+msgid "Yes, what is it? You're an outsider. Fantastic! Vicar Maximillian DeSoto, at your service. Or Vicar Max, if you're the sort who prefers brevity. "
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:3
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:3:DefaultText"
+msgid "I'm looking for a power regulator."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:4
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:4:DefaultText"
+msgid "Mechanical tomfoolery is well out of my purview. I suggest you take such matters to Mr. Tobson, in the Cannery. "
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:18
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:18:DefaultText"
+msgid "I'll look for your book."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:23
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:23:DefaultText"
+msgid "What sort of spiritual advice do you offer here?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:26
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:26:DefaultText"
+msgid "I so rarely get new people to talk to. Name your poison, anything at all. Spiritual counseling? This season's tossball predictions? The quickest way out of town?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:28
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:28:DefaultText"
+msgid "'They who are not satisfied with their work, are satisfied with nothing.' No? How about 'Work fortifies the spirit. True exhaustion awaits idle hands.'?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:47
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:47:DefaultText"
+msgid "Just a moment - if you're going to be walking around outside, make sure you're well prepared. Unless you don't care for your life."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:49
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:49:DefaultText"
+msgid "I've changed my mind. I'll find that book for you."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:50
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:50:DefaultText"
+msgid "Do, and you'll have my undying gratitude."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:51
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:51:DefaultText"
+msgid "I've got your book right here."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:52
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:52:DefaultText"
+msgid "Wonderful. This is fantastic! Well worth all the sacrifices I... wait..."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:58
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:58:DefaultText"
+msgid "All right, let's go."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:60
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:60:DefaultText"
+msgid "You mean this book? Here you go."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:62
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:62:DefaultText"
+msgid "Goodbye."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:63
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:63:DefaultText"
+msgid "Thank you. If you retrieve it, you can always find me here."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:70
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:70:DefaultText"
+msgid "What's in it for me?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:71
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:71:DefaultText"
+msgid "How about no?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:72
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:72:DefaultText"
+msgid "Free spiritual counseling, someone to watch your back. Not to mention a grown-up in the party."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:74
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:74:DefaultText"
+msgid "Have you reconsidered? I'd be quite valuable to have with you."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:75
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:75:DefaultText"
+msgid "Hmm. Nope. Still don't care."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:76
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:76:DefaultText"
+msgid "You have to admire the Architect's sense of humor. French. Hah."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:78
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:78:DefaultText"
+msgid "How did you know I'm an outsider?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:79
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:79:DefaultText"
+msgid "And why is that?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:81
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:81:DefaultText"
+msgid "My retrieval efforts have been thwarted by marauders who've overrun the property. Should you fare better than me, I'd pay a handsome sum for the book."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:84
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:84:DefaultText"
+msgid "A handsome sum, you say? Tell me more."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:85
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:85:DefaultText"
+msgid "So you'll consider it? I do appreciate your hearing me out. And, uh, your discretion."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:86
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:86:DefaultText"
+msgid "It's a handwritten journal. A faded blue cover, with the name M. Bakonu handwritten in the lower corner. I'll mark where I saw it on your map. Assuming you're serious."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:87
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:87:DefaultText"
+msgid "On second thought, I'm not interested in running errands."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:93
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:93:DefaultText"
+msgid "All very fascinating, I'm sure, but I've got to be going."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:94
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:94:DefaultText"
+msgid "I've never seen you before. And there's been no paperwork indicating a transfer. Half the time it's wrong, but a new worker without paperwork? Unheard of. "
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:95
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:95:DefaultText"
+msgid "Also, you lack the distinctive worker gaze. Usually either a deadening behind the eyes, or, in some rare cases, a wild-eyed frenzy. Like a trapped animal."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:96
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:96:DefaultText"
+msgid "You seem quite dismissive of the common man for a spiritual leader."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:98
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:98:DefaultText"
+msgid "Yes, but there are few who hear me in this miserable place."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:100
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:100:DefaultText"
+msgid "Nothing could be further from the truth. "
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:101
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:101:DefaultText"
+msgid "Isn't it your job to raise that?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:110
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:110:DefaultText"
+msgid "All you've got are platitudes about enjoying your work? Have you looked around here lately?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:111
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:111:DefaultText"
+msgid "Have you? These people need something, anything they can grasp to survive. Delving into the metaphysical minutiae of the Grand Plan would be nonsense to them, if not worse."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:112
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:112:DefaultText"
+msgid "Pretty universal here. Except for Ms. Holcomb. Who, for some reason, doesn't seem to have much to say to me. Isn't that right?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:125
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:125:DefaultText"
+msgid "Let's get back on track."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:127
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:127:DefaultText"
+msgid "Seriously? That's what you're selling here?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:128
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:128:DefaultText"
+msgid "Selling? No, it is free for all who seek it. I'm sorry you don't find these tried and true words of wisdom to your liking."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:129
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:129:DefaultText"
+msgid "It's just- there's more to it all than numbers. Sorry."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:130
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:130:DefaultText"
+msgid "Maybe it's because you're so dismissive. Quite inappropriate for a vicar, isn't it?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:135
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:135:DefaultText"
+msgid "That's understandable. If you change your mind, let me know."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:136
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:136:DefaultText"
+msgid "Hold on a minute. Did you just refer to this town as a 'miserable place'?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:137
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:137:DefaultText"
+msgid "Yes, and thank you for pointing it out. It is wrong of me to succumb to distress. This place could be so much more, and I will continue in my quest to make it so."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:138
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:138:DefaultText"
+msgid "I've been outside, I'm not impressed. And I can handle myself better than a vicar."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:140
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:140:DefaultText"
+msgid "Ha. The marauders I met when I ventured outside the walls might agree with you. Bastards snuck up on me while I was dutifully hunting for a banned book in a collector's library."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:141
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:141:DefaultText"
+msgid "Barely escaped with my life. But you see, one of the reasons I transferred here was to get my hands on that heretical text. "
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:142
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:142:DefaultText"
+msgid "This conversation has become tiresome. I'm done with it."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:145
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:145:DefaultText"
+msgid "What the fuck is this? Is this... French? I can't fucking read French!"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:147
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:147:DefaultText"
+msgid "I'm no animal, and I don't like being insulted by you and your high-falutin language."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:148
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:148:DefaultText"
+msgid "You must be right, Parvati. I don't know hardly any numbers, and I do just fine."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:149
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:149:DefaultText"
+msgid "And I'm not an ass. That makes one of us."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:150
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:150:DefaultText"
+msgid "Handsome? What kinda weirdness you all into around here?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:151
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:151:DefaultText"
+msgid "Sounds like you're terrible at your job, Vicar."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:152
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:152:DefaultText"
+msgid "What? Uh... you seem the perfect type to go blindly into the wild on a suicidal quest."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:153
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:153:DefaultText"
+msgid "I'm looking for a journal - a handwritten book - with the name 'M. Bakonu' on the cover. I'll pay you to find it."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:154
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:154:DefaultText"
+msgid "I merely meant to say that you're not beaten down by... you know what? Forget it. You have my sincerest apologies."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:157
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:157:DefaultText"
+msgid "Uhm, I was actually asking what your religion was all about."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:159
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:159:DefaultText"
+msgid "The OSI teaches that the Grand Architect set a perfect system in motion at the beginning of time. Contentment is found by accepting one's role in that Grand Plan."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:160
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:160:DefaultText"
+msgid "What does OSI stand for?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:166
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:166:DefaultText"
+msgid "The Order of Scientific Inquiry. Also known as Scientism to the layperson."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:167
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:167:DefaultText"
+msgid "How do you talk to this Grand Architect? Prayer, meditation, or what?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:168
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:168:DefaultText"
+msgid "You don't talk to the Grand Architect. Once the universe was set in motion, it stepped back. It has no concern for us."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:169
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:169:DefaultText"
+msgid "What would you like to discuss?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:170
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:170:DefaultText"
+msgid "Doesn't sound like a very motivational religious philosophy. What's there to aspire to?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:171
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:171:DefaultText"
+msgid "We will eventually decode the Plan and all its intricacies. Once we are able to deduce the properties of every particle in the universe and its trajectory we will know everything."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:172
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:172:DefaultText"
+msgid "The future, the past, each person's place within the Plan, all will be laid out before us, removing struggle and bringing peace. No one will ever need question their path again."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:173
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:173:DefaultText"
+msgid "How much to put in a good word for me with the Grand Architect?? You know, unofficial like?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:174
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:174:DefaultText"
+msgid "That's not how it works. The Grand Architect has no concern for us beyond setting the Plan in motion."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:177
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:177:DefaultText"
+msgid "I don't get it."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:178
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:178:DefaultText"
+msgid "Obviously. Look. If we can figure out how to... read the Grand Plan, we can more perfectly align ourselves to it, bringing everyone peace."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:179
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:179:DefaultText"
+msgid "I'm... my apologies. The townsfolk are having a tough time of it, and it's been difficult for me to enrich their lives. They are good people, it is just... difficult to reach them."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:181
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:181:DefaultText"
+msgid "No, I am not, though there is something to your accusation. It is wrong for me to succumb to distress. "
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:182
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:182:DefaultText"
+msgid "What were you saying about wanting a book so bad you'd pay for it?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:183
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:183:DefaultText"
+msgid "The outsider who brought the errant children back to the flock! A pleasure to finally meet you."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:184
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:184:DefaultText"
+msgid "I heard you were able to bring the errant children back to the flock. I'm impressed. "
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:185
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:185:DefaultText"
+msgid "Any progress on that matter we discussed?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:187
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:187:DefaultText"
+msgid "I haven't found your book yet."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:188
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:188:DefaultText"
+msgid "Please get it."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:189
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:189:DefaultText"
+msgid "You seem pretty concerned about that book. Care to tell me why?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:190
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:190:DefaultText"
+msgid "Because I'm also a collector. Of books. Rare things in this colony, appreciation of the written word outside monthly periodicals is virtually unknown here. "
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:193
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:193:DefaultText"
+msgid "That seems... unlikely."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:194
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:194:DefaultText"
+msgid "I would love to discuss the finer points of my religion with you. Oh, wait, no I wouldn't. "
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:197
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:197:DefaultText"
+msgid "What happened to all your crap about leading your flock?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:202
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:202:DefaultText"
+msgid "I must double my efforts to elevate my flock. These are good, hard working people here. "
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:203
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:203:DefaultText"
+msgid "I must double my efforts to elevate my flock. These are good, hard working people here. "
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:204
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:204:DefaultText"
+msgid "An ass? Who do you think... ahem. Please, excuse my ill temper. I fear you've misunderstood."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:205
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:205:DefaultText"
+msgid "I'm simply bemoaning the... level of spiritual awareness in this town."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:206
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:206:DefaultText"
+msgid "Sheesh. I'm working on it. You need to practice some patience, Vicar."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:207
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:207:DefaultText"
+msgid "Keep your gratitude. I'm expecting a reward."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:208
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:208:DefaultText"
+msgid "Of course."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:209
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:209:DefaultText"
+msgid "Spiritual counseling? Are you even a real vicar?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:211
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:211:DefaultText"
+msgid "I'm pretty handy with a tossball stick, or any blunt instrument, really. I'm also a passable gunhand, if it comes to that. I can usually talk my way out of conflict, though. "
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:212
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:212:DefaultText"
+msgid "That all part of your vicar training?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:213
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:213:DefaultText"
+msgid "Well, understanding computers is, though I admit I took it further than most. And I was quite the 32nd back during my seminary days. Left many an opponent bleeding on the field."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:215
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:215:DefaultText"
+msgid "Nothing could be more excruciating than discussing the true nature of reality with people who have no interest beyond their next aetherwave programme. "
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:217
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:217:DefaultText"
+msgid "I don't think so."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:218
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:218:DefaultText"
+msgid "Of course. I'm a vicar who is dedicated to his calling. More dedicated than any other you'll find in this colony. I joined the OSI to help decipher the Grand Plan."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:219
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:219:DefaultText"
+msgid "But instead I ended up the vicar in a prison due to ignorance and politics. Then I came here. Satisfied?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:226
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:226:DefaultText"
+msgid "I just thought of something else I need to be doing."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:234
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:234:DefaultText"
+msgid "How'd you get assigned to prison duty?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:237
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:237:DefaultText"
+msgid "It's the journal of one of the originators of the Philosophist school of thought, though it would be more than a century before it was perverted into that belief system. "
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:240
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:240:DefaultText"
+msgid "Philosophism's a false religion that stands in contradiction to almost everything we know to be true. They believe all is chaos, in stark contrast to OSI's belief in the Plan. "
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:241
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:241:DefaultText"
+msgid "But most of that came later. Bakonu had some interesting theories about man's perception of reality that I thought could be applied to our attempts to decipher the Plan."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:245
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:245:DefaultText"
+msgid "Most laypeople are not aware of this, but we've not discovered any new insights into the Plan for a long, long time. "
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:248
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:248:DefaultText"
+msgid "I had an idea that we should welcome the truth, no matter where we found it. I had the worse idea to share my thoughts with a superior."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:249
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:249:DefaultText"
+msgid "Seriously, though, to truly understand the metaphysics involved takes years of study and contemplation."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:251
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:251:DefaultText"
+msgid "I think I'm pretty much done here."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:252
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:252:DefaultText"
+msgid "Pretty weak religion you got there. Follow a preordained plan? Sounds like a lot of fun."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:253
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:253:DefaultText"
+msgid "So what's your part in all this, besides counseling people?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:254
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:254:DefaultText"
+msgid "Fun? It concerns much bigger things than 'fun'. Things like deciphering the secrets of the universe, to start."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:255
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:255:DefaultText"
+msgid "And then?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:256
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:256:DefaultText"
+msgid "OSI? Scientism? Not very religious sounding. You sure you didn't just make all this up?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:257
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:257:DefaultText"
+msgid "Mock me all you want. I know my beliefs to be true."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:259
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:259:DefaultText"
+msgid "I'll need to know a little bit more about this book before I agree to this."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:260
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:260:DefaultText"
+msgid "Not many in this colony could understand its true value - should they ever read it. "
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:261
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:261:DefaultText"
+msgid "It is not only a beautiful relic of a bygone time, it's also the thoughts of an early thinker on the nature of man's place in the cosmos."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:262
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:262:DefaultText"
+msgid "I don't think you were being completely honest with me about that book. What's the story?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:263
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:263:DefaultText"
+msgid "Of course. But I had a something I wanted to ask you."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:264
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:264:DefaultText"
+msgid "If you don't mind a bit of unsolicited advice, be cautious on your way to the geothermal plant. It is not as safe as you might assume."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:267
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:267:DefaultText"
+msgid "That's got to be tough."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:268
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:268:DefaultText"
+msgid "Yes, yes it is. But it's my job, and I take it very seriously."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:269
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:269:DefaultText"
+msgid "Really? How does that work? Tell me more."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:270
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:270:DefaultText"
+msgid "Well, first there's the matter of the secret blood rites and animal sacrifices. I'm kidding, I'm kidding."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:271
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:271:DefaultText"
+msgid "You're my best chance at getting that book translated. And maintaining my sanity. In short, I'm asking you to take me on as crew."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:276
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:276:DefaultText"
+msgid "I'm glad you stopped by. I've been... meditating since you retrieved that book. \"Stewing\" might be a better word. I have a proposition for you."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:281
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:281:DefaultText"
+msgid "I'm twenty-eight."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:284
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:284:DefaultText"
+msgid "And Ms. Holcomb, as well. How rare to see you out. And with a complete stranger. Curious."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:285
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:285:DefaultText"
+msgid "Parvati wanted to talk to you, about what Reed asked us to do."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:286
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:286:DefaultText"
+msgid "What? I-I thought you would talk to him."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:287
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:287:DefaultText"
+msgid "You wanted to speak to me, Ms. Holcomb? Every time I've tried to engage you in conversation, you look at the floor, answer in single words, and slink away."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:288
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:288:DefaultText"
+msgid "I can't imagine what would be so grave as to drive her to my mission. What has Mr. Tobson asked you to do?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:289
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:289:DefaultText"
+msgid "Fix the geothermal plant."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:290
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:290:DefaultText"
+msgid "Cut off the power to Adelaide's deserters."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:291
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:291:DefaultText"
+msgid "So what do you advise?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:292
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:292:DefaultText"
+msgid "That seems well within your expertise."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:293
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:293:DefaultText"
+msgid "Depriving them of safety from the marauders and wildlife."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:294
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:294:DefaultText"
+msgid "The way we do it's by cutting off power to the others. The ones who left."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:295
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:295:DefaultText"
+msgid "Adelaide McDevitt's encampment?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:296
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:296:DefaultText"
+msgid "I can see why that troubles you."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:297
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:297:DefaultText"
+msgid "Ms. Holcomb has a soft heart. Always has, if you believe the talk."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:298
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:298:DefaultText"
+msgid "Can Parvati get that treated by a sawbones?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:299
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:299:DefaultText"
+msgid "I see today we'll be conversing without metaphors."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:300
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:300:DefaultText"
+msgid "I'd guess her condition is incurable. It's unlikely to be fatal, but she may feel more heartache than most."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:301
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:301:DefaultText"
+msgid "Could you maybe stop talking about me like I'm some kinda weird bug?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:302
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:302:DefaultText"
+msgid "What do you think of Adelaide's group, Vicar?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:304
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:304:DefaultText"
+msgid "They rejected the order of society and live beyond the walls so thoughtfully provided by our Spacer's Choice patrons."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:307
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:307:DefaultText"
+msgid "Does that strike you as a responsible life choice?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:308
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:308:DefaultText"
+msgid "Is that even possible?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:309
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:309:DefaultText"
+msgid "I spoke to the deserters. They have some disagreement about the town's leadership."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:311
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:311:DefaultText"
+msgid "Not if things are left to stand as they are."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:312
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:312:DefaultText"
+msgid "No doubt. But order is the nature of our universe. Some lead, others must follow. You might as well complain about the gravity being too high."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:314
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:314:DefaultText"
+msgid "Can Parvati get her soft heart treated by a sawbones?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:316
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:316:DefaultText"
+msgid "Right. Just talk everybody into coming together. I'll keep that in mind."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:317
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:317:DefaultText"
+msgid "If it were as easy as a few soothing words in the right ears, I'm sure it would have been done already. Consider it a challenge."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:319
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:319:DefaultText"
+msgid "Ah, Ms. Holcomb. How rare to see you out. And with a complete stranger. Curious."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:320
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:320:DefaultText"
+msgid "Cut power to the deserters. If you could answer quickly, we're in a hurry."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:321
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:321:DefaultText"
+msgid "Right, great. Can we wrap this up?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:337
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:337:DefaultText"
+msgid "Depends on how well the leader can provide, beyond your walls."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:339
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:339:DefaultText"
+msgid "Astute. But I am here, not in the deserter camp, so that's not a variable I can account for."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:347
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:347:DefaultText"
+msgid "This has been a waste of time. Let's go, Parvati."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:349
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:349:DefaultText"
+msgid "It's a Law-forsaken joke is what it is. French! Hah. I was so high and mighty, preaching to the yokels about following the Plan while fighting it at every turn. "
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:352
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:352:DefaultText"
+msgid "I've spent my life searching for the keys to unlocking the secrets of the Universal Equation that underlies the Plan. I had hoped this book held some of those answers. "
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:355
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:355:DefaultText"
+msgid "Why did you think the book held the secrets you were looking for?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:357
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:357:DefaultText"
+msgid "Bakonu - the author - had some interesting theories about man's perception of reality that I thought could be applied to our attempts to decipher the Plan."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:358
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:358:DefaultText"
+msgid "Unfortunately, he was also one of the founders of the Philosophist school of thought, so the book is banned in this colony."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:360
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:360:DefaultText"
+msgid "What's a Philosophist?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:361
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:361:DefaultText"
+msgid "Philosophism's a false religion that stands in contradiction to almost everything we know to be true. They believe all is chaos, in stark contrast to OSI's belief in the Plan. "
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:362
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:362:DefaultText"
+msgid "But most of the Philosophist perversion of Bakonu's thoughts came more than a century after his death."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:364
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:364:DefaultText"
+msgid "A vicar searching for a banned book sets a bad example, doesn't it?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:365
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:365:DefaultText"
+msgid "The story of my life. Most laypeople are not aware of this, but we've not discovered any new insights into the Plan for a long, long time. "
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:366
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:366:DefaultText"
+msgid "I had an idea that we should welcome the truth, no matter where we found it. I had the worse idea to share my thoughts with a superior."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:367
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:367:DefaultText"
+msgid "And that's how I ended up assigned prison duty, where I was fool enough to let an inmate bend my ear with stories of an original Bakonu journal."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:369
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:369:DefaultText"
+msgid "I became so desperate I even got myself assigned to this plague-ridden backwater to find the damned thing. All the time and suffering I've spent... wasted!"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:371
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:371:DefaultText"
+msgid "I'll just let you have your existential crisis in peace."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:374
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:374:DefaultText"
+msgid "Speaking of plague-ridden backwaters, I should get going."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:380
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:380:DefaultText"
+msgid "All very fascinating, but I must be on my way."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:381
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:381:DefaultText"
+msgid "Plague-ridden backwater? What happened to all your crap about leading your flock?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:382
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:382:DefaultText"
+msgid "Nothing could be more excruciating than discussing the true nature of reality with people who have no interest beyond their next aetherwave programme. "
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:383
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:383:DefaultText"
+msgid "That book seems a bit more important than you let on."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:384
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:384:DefaultText"
+msgid "What's so important about this book?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:393
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:393:DefaultText"
+msgid "Are you even a vicar? Because you aren't sounding very... vicarly right now."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:396
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:396:DefaultText"
+msgid "You mentioned something called a \"Philosophist.\" What's that?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:400
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:400:DefaultText"
+msgid "I apologize if my advice was wanting. I find many people can find their path when presented with the right questions."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:401
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:401:DefaultText"
+msgid "To divine a true path out of the aether takes time. There are calculations to be done, variables to consider. But there is something I'd like to ask if you're venturing outside."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:403
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:403:DefaultText"
+msgid "I'm sorry, there are too many variables involved to choose the right path at the moment. "
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:404
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:404:DefaultText"
+msgid "I'm listening."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:412
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:412:DefaultText"
+msgid "One of the reasons I transferred here was to fulfill my duty in hunting down banned, heretical texts. "
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:413
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:413:DefaultText"
+msgid "Eat your own variables, I prefer steak. See you, preacher-man."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:414
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:414:DefaultText"
+msgid "Ah, excuse me. I'm suddenly experiencing... quite an amazing headache."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:415
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:415:DefaultText"
+msgid "Reed told me to cut power to the deserters. You have any thoughts on that?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:416
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:416:DefaultText"
+msgid "Adelaide McDevitt's encampment?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:417
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:417:DefaultText"
+msgid "Hardly surprising. Certainly I never expected the peace between them to last."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:419
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:419:DefaultText"
+msgid "But-! Sorry, I don't mean to- I mean, if we cut their power, they won't have any protection from marauders. We've got a wall, at least."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:420
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:420:DefaultText"
+msgid "Of course, that would leave Ms. McDevitt's group fully at the mercy of marauders."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:422
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:422:DefaultText"
+msgid "This has been a waste of time. I'm leaving."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:423
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:423:DefaultText"
+msgid "...what?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:425
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:425:DefaultText"
+msgid "Ah, Ms. Holcomb. How rare to see you out. And with a complete stranger. Curious."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:427
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:427:DefaultText"
+msgid "And you've somehow persuaded Ms. Holcomb to venture out in society. If you're going to keep performing such miracles, perhaps you should be the vicar."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:432
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:432:DefaultText"
+msgid "Right, great. Any way to avoid that? I'm on a schedule here."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:434
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:434:DefaultText"
+msgid "Fantastic! I promise you won't regret this."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:435
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:435:DefaultText"
+msgid "Uh... are you all right, Vicar?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:436
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:436:DefaultText"
+msgid "Oh, perfectly. I destroyed my life out of a misguided devotion to my calling. Why wouldn't I be all right?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:438
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:438:DefaultText"
+msgid "The Architect may not concern itself with the universe, but it does seem to possess an incredibly droll wit. Go on, do whatever it is you plan to do. Assuming there is a plan. "
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:439
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:439:DefaultText"
+msgid "What could I do to persuade you to search for my book?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:440
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:440:DefaultText"
+msgid "I have a regular service at noon on Wednesdays, if you're interested."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:441
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:441:DefaultText"
+msgid "Back again?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:444
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:444:DefaultText"
+msgid "I've tried to seek it on my own since you last visited. The marauders once again taught me the folly of doing so alone."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:445
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:445:DefaultText"
+msgid "I expect you plan to depart soon. This is my final chance."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:451
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:451:DefaultText"
+msgid "Not to put too fine a point on it, but your choice of wardrobe is not precisely common hereabouts."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:455
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:455:DefaultText"
+msgid "Few outsiders visit Edgewater. Your appearance so soon after the town's power is restored seems too great a coincidence."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:456
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:456:DefaultText"
+msgid "A coincidence is all it is."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:457
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:457:DefaultText"
+msgid "Reed asked me to do it."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:458
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:458:DefaultText"
+msgid "I just did it so I could get the hell out of this dump."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:459
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:459:DefaultText"
+msgid "A motive I can appreciate. Regardless, it's a boon to the folk of this town."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:460
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:460:DefaultText"
+msgid "As I thought. Mr. Tobson has wanted the power restored for some time, but didn't possess the fortitude to address the problem himself."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:461
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:461:DefaultText"
+msgid "If you insist, though there's no call for modesty. No one in this town was capable of the task."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:462
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:462:DefaultText"
+msgid "You'll forgive me, but I'm quite distracted by work at the moment. The townsfolk are agitated by the loss of power. They come to me seeking reassurance."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:467
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:467:DefaultText"
+msgid "Can you hear it? Once again, Edgewater hums with the power of industry."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:468
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:468:DefaultText"
+msgid "The return of light to Edgewater proves salvation comes through stoic acceptance of the Grand Plan."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:469
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:469:DefaultText"
+msgid "I confess, now that there is a surplus of power, I'm tempted to keep the wireless tuned to tossball."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:471
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:471:DefaultText"
+msgid "I wonder at the wisdom of allowing Ms. McDevitt's group to return. Her followers were simple, misled. She may prove a raptidon in the fold."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:472
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:472:DefaultText"
+msgid "A pity that Ms. McDevitt persists in her folly. At least the rest can be gathered safely back into the fold."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:473
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:473:DefaultText"
+msgid "I wonder at the wisdom of allowing Ms. McDevitt's group to return. Her followers were simple, misled. She may prove a raptidon in the fold."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:474
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:474:DefaultText"
+msgid "A pity that Ms. McDevitt persists in her folly. At least the rest can be gathered safely back into the fold."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:476
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:476:DefaultText"
+msgid "Darkness is fleeting. These people can endure a few long nights."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:477
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:477:DefaultText"
+msgid "So many hands idle. With nothing to strive for, no vital task to fill, it's no wonder they fall to despair."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:479
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:479:DefaultText"
+msgid "The lights go out, they fall to pieces? Pathetic."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:480
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:480:DefaultText"
+msgid "Adelaide's deserters have the power now. These people should move."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:482
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:482:DefaultText"
+msgid "One can hardly be surprised. They've known no other life. They rise, they work - they take comfort in unthinking routine."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:483
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:483:DefaultText"
+msgid "Ms. McDevitt? Her people lack walls to hold against marauders. These people may prefer the safety of a dark town over an illuminated danger."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:486
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:486:DefaultText"
+msgid "Thanks. You'll be happy to know I also found that book for you."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:489
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:489:DefaultText"
+msgid "ADELAIDE'S GREENS ARE PEOPLE!"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:491
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:491:DefaultText"
+msgid "I found Adelaide's been digging up corpses to improve the soil."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:492
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:492:DefaultText"
+msgid "From our own graveyard? Just outside the gates? And Silas had not even an inkling? What do they pay the man for?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:493
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:493:DefaultText"
+msgid "I- er, what?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:494
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:494:DefaultText"
+msgid "Ms. McDevitt's been digging up the graveyard. She uses our dead to sweeten the earth, and grow vegetables."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:495
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:495:DefaultText"
+msgid "He spends all day digging graves, Vicar, sir. Sometimes he's gotta sleep."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:496
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:496:DefaultText"
+msgid "She robs graves and turns the people into dirt, and then she plants plants on them."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:497
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:497:DefaultText"
+msgid "And that works? The results are edible? I was under the impression nothing could be grown hereabouts."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:498
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:498:DefaultText"
+msgid "I didn't check. I'm no vegetarian cannibal."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:499
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:499:DefaultText"
+msgid "Well, nobody over there's dead. I mean, aside from the ones she puts in the ground."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:500
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:500:DefaultText"
+msgid "That what she says. If you can believe somebody who eats salad."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:501
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:501:DefaultText"
+msgid "No, no. You're clearly a better class of- You have a superior grasp of- Well, you're \"different.\""
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:502
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:502:DefaultText"
+msgid "Of course. Aside from them. Fascinating."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:503
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:503:DefaultText"
+msgid "That is truly unexpected. I wonder how she discovered that?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:504
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:504:DefaultText"
+msgid "Once the spark of life has fled, the mortal form is but unanimated matter. Comprised of the same elements as the rest of the universe."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:505
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:505:DefaultText"
+msgid "We inter for the comfort of the living, not the benefit of the dead. While distasteful, I would judge Ms. McDevitt's actions beneficial to the greater good."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:506
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:506:DefaultText"
+msgid "You don't find what Adelaide's doing objectionable?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:507
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:507:DefaultText"
+msgid "Is what she told me true? That the soil's \"sour,\" and you can't raise crops?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:508
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:508:DefaultText"
+msgid "Isn't that illegal or something?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:509
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:509:DefaultText"
+msgid "Yes, of course. My reaction was... unreasonable."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:510
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:510:DefaultText"
+msgid "I'm surprised you'd say that. It doesn't seem disrespectful to you?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:511
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:511:DefaultText"
+msgid "Intellectually that makes sense, but it still doesn't sit right."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:512
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:512:DefaultText"
+msgid "Some might be a bit upset at their dead friends or relatives being used as fertilizer."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:513
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:513:DefaultText"
+msgid "The universe is a mechanism. Its operation and meaning can be understood by observation. By understanding, we move closer to Verity, and kinship with the Grand Architect."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:514
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:514:DefaultText"
+msgid "Only to the feelings of the living. The dead are no more concerned with their corpses than a snake is with the skin it shed."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:515
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:515:DefaultText"
+msgid "The greater good is to tend to the needs of the living, not the dead."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:516
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:516:DefaultText"
+msgid "Then I would counsel them to work through their emotions and assess the matter rationally."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:517
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:517:DefaultText"
+msgid "Animals are ruled by their hearts. Humans were gifted with intellect for a purpose."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:518
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:518:DefaultText"
+msgid "So Adelaide's plants don't taste good, but they're good for you?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:519
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:519:DefaultText"
+msgid "Close enough. I'm sure you have many issues taxing your limited resources. You can safely place this one out of mind."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:520
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:520:DefaultText"
+msgid "It is my understanding that none of the local life, plant or animal, is edible. Earth-crops are grown in farms. Not isolated cannery towns."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:521
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:521:DefaultText"
+msgid "Flowers grow well enough. And creeping ivies. And the fuzzies that grow on rocks. But we don't eat none of that."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:522
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:522:DefaultText"
+msgid "I'd need to give it careful consideration before answering. If it does improve the soil, it would seem to be a benefit overall."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:524
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:524:DefaultText"
+msgid "Technically, corpses remain under contract to Spacer's Choice. But I believe you're asking my opinion on the morality of the act."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:525
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:525:DefaultText"
+msgid "It's a fine new day in Edgewater. The cannery hums. Streetlights and faces glow."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:526
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:526:DefaultText"
+msgid "I suppose this means you were able to sort out the matter after all."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:527
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:527:DefaultText"
+msgid "I suppose this means the two of you were able to sort out the matter."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:528
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:528:DefaultText"
+msgid "I presume we have you to thank for that?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:529
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:529:DefaultText"
+msgid "It seemed like the better choice."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:530
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:530:DefaultText"
+msgid "I'm not sure I made the right decision."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:531
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:531:DefaultText"
+msgid "And the deserters are moving back. Minus Adelaide."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:532
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:532:DefaultText"
+msgid "And the deserters are moving back. Even Adelaide."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:534
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:534:DefaultText"
+msgid "If you've come to ask forgiveness for Reed Tobson's murder, I'm afraid OSI theology has little to say on the matter."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:535
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:535:DefaultText"
+msgid "All the lights in town went out. Since then I've had wild-eyed workers begging my guidance."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:537
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:537:DefaultText"
+msgid "I just did it so I could get the hell out of this dump."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:538
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:538:DefaultText"
+msgid "A motive I can appreciate. Regardless, it's a boon to the folk of this town."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:539
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:539:DefaultText"
+msgid "The greater good can be difficult to determine. None of us can know the effects of our decision in a year, or ten, or a hundred."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:540
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:540:DefaultText"
+msgid "There's little point in second guessing now."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:541
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:541:DefaultText"
+msgid "I am - somewhat taken aback by that. Given the heat between her and Mr. Tobson. What deal did you strike with her, I wonder?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:542
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:542:DefaultText"
+msgid "Not unexpected. Take heart in the fact that you've saved the rest from idleness and marauders."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:543
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:543:DefaultText"
+msgid "Take comfort in the fact that your choices are always, ultimately, in line with the Grand Plan."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:544
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:544:DefaultText"
+msgid "I'm surprised you would go along with this action, Ms. Holcomb."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:545
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:545:DefaultText"
+msgid "Looks like you made your decision after all."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:546
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:546:DefaultText"
+msgid "I presume this was your doing?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:547
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:547:DefaultText"
+msgid "I'm not sure what the right and wrong of it is, sir. But leaving the deserters with neither walls nor lights woulda left them to the mercy of marauders."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:548
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:548:DefaultText"
+msgid "Let's hope walls alone are sufficient, then."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:549
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:549:DefaultText"
+msgid "Fuck this town and fuck Reed Tobson."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:550
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:550:DefaultText"
+msgid "Adelaide's people are healthy and living as they want. Welcome to freedom."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:551
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:551:DefaultText"
+msgid "These people are sick and overworked. Things had to change."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:552
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:552:DefaultText"
+msgid "I just did it so I could get the hell out of this dump."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:553
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:553:DefaultText"
+msgid "A motive I can well appreciate. But surely not one liable to make you popular with Mr. Tobson."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:554
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:554:DefaultText"
+msgid "Oh, inarguably. This town was a pustule on the ass of the Architect. Uh, metaphorically speaking."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:555
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:555:DefaultText"
+msgid "You took it upon yourself to decide the fate of strangers. I don't know whether that's confidence or arrogance. Either way, I'm fascinated."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:556
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:556:DefaultText"
+msgid "Ha! \"Freedom.\" Indeed. These workers are tame as cystypigs in a slaughterhouse. They'll just mill about, confused, and wait for orders."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:557
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:557:DefaultText"
+msgid "Hah! You have no idea how many times I've wanted to shout those very words."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:558
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:558:DefaultText"
+msgid "You don't care what I've done?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:559
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:559:DefaultText"
+msgid "Me? A murderer? You're mistaken."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:560
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:560:DefaultText"
+msgid "I hope you don't plan to cause me any trouble, preacher-man."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:561
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:561:DefaultText"
+msgid "To Tobson? No. I'd prefer not to join him, of course."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:562
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:562:DefaultText"
+msgid "I was told it was a stranger come to town. I see no other strangers about. But the workers of Edgewater may not be the most reliable witnesses."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:563
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:563:DefaultText"
+msgid "Any conflict between the two of you is none of my concern. I have no inclination to interfere."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:564
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:564:DefaultText"
+msgid "I have greater goals to achieve in my lifetime than meeting a quota of canned fish."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:565
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:565:DefaultText"
+msgid "No concept of confessing one's sins, I guess?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:566
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:566:DefaultText"
+msgid "Any action humans take is, by definition, part of the Great Architect's plan for the universe."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:567
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:567:DefaultText"
+msgid "Of course, the Law is an entirely different matter from the law. The Board will see your actions rather differently than the church."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:568
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:568:DefaultText"
+msgid "And Ms. Holcomb is with you? Surprising, given what you're accused of. I hope you didn't threaten her. She's a gentle soul."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:576
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:576:DefaultText"
+msgid "I've got your book."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:577
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:577:DefaultText"
+msgid "Oh, I'm fairly competent at hacking computers as well."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:583
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:583:DefaultText"
+msgid "Fantastic! Let me get my things in order, and I'll catch up with you."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:589
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:589:DefaultText"
+msgid "Not sure I'm in the market for a hacking, brawling vicar. Maybe some other time."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:590
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:590:DefaultText"
+msgid "Sounds good. Let's go."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:592
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:592:DefaultText"
+msgid "Sounds good. Let's go."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:596
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:596:DefaultText"
+msgid "Some even believe this ultimate knowledge will unlock mankind's true potential, and we will all become akin to Grand Architects ourselves, after a fashion."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:597
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:597:DefaultText"
+msgid "Let me ask you something else."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:598
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:598:DefaultText"
+msgid "Of course."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:599
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:599:DefaultText"
+msgid "I'm uh... excuse me, I was just... pondering... my life. Is there something I can help you with?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:600
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:600:DefaultText"
+msgid "Reed told me to cut power to the deserters. You have any thoughts on that?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:601
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:601:DefaultText"
+msgid "Of course he did. Reed never had the intestinal fortitude to do something about his lost workers himself. "
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:602
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:602:DefaultText"
+msgid "Or, you're asking my advice? I, uhm... I don't rightly know, to be perfectly honest. Been preoccupied since you brought me that... book."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:603
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:603:DefaultText"
+msgid "Snap out of it. Parvati said we should seek your guidance, so we're seeking it."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:604
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:604:DefaultText"
+msgid "Snap out of it. You're a vicar, I'm here to seek guidance. So guide me."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:605
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:605:DefaultText"
+msgid "Yes, well, all things being equal, I'd have to say I don't really care."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:607
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:607:DefaultText"
+msgid "Oh, and a word of warning. If you're considering wandering around outside the safety of the town, you'd best be cautious. "
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:608
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:608:DefaultText"
+msgid "I happen to know such a book is, as we speak, tainting a collector's library in Emerald Vale. However, the collector's residence lies outside the town's walls."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:609
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:609:DefaultText"
+msgid "If you managed to acquire it for me, I'd pay quite a handsome sum for the book."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:610
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:610:DefaultText"
+msgid "Why would a vicar be after a banned, heretical book?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:611
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:611:DefaultText"
+msgid "I just want to keep the writing out of laymans' hands. It wouldn't do for such information to fall into public consumption."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:612
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:612:DefaultText"
+msgid "Seems to me the authorities would be interested to hear you're after this contraband text."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:613
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:613:DefaultText"
+msgid "Maybe I'll get your book and sell it to someone else."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:614
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:614:DefaultText"
+msgid "On the contrary, my position means that I am one of the few legally allowed to possess such items. But do not worry, you'll be safe since you are acting on my behalf."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:615
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:615:DefaultText"
+msgid "I can assure you, you won't find another willing to risk imprisonment to possess this book. Nor anyone willing to pay the price I can offer."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:616
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:616:DefaultText"
+msgid "You make a compelling argument."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:617
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:617:DefaultText"
+msgid "Glad we see eye to eye."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:618
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:618:DefaultText"
+msgid "It's a handwritten journal. A faded blue cover, with the name M. Bakonu handwritten in the lower corner. I'll mark where I saw it on your map. Assuming you're serious."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:619
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:619:DefaultText"
+msgid "You didn't want that book to keep others from reading it, you just wanted it for yourself."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:620
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:620:DefaultText"
+msgid "Well, uh... yes. But I assure you, it was not for personal gain, only for the greater good. "
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:621
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:621:DefaultText"
+msgid "There is little more important than such a precious, rare text."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:622
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:622:DefaultText"
+msgid "Assuming your goal is to save as many as possible, then you should bring everyone together. Send the power to Edgewater and convince the deserters to return to the fold."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:623
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:623:DefaultText"
+msgid "I apologize if my advice was wanting. I find many people can find their path when presented with the right questions."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:626
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:626:DefaultText"
+msgid "I'll need to know a little bit more about this book before I agree to this."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:627
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:627:DefaultText"
+msgid "It's a handwritten journal. A faded blue cover, with the name M. Bakonu handwritten in the lower corner. I'll mark where I saw it on your map. Assuming you're serious."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:628
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:628:DefaultText"
+msgid "A religious text deemed heretical by the OSI is an unsafe object at large. Though I understand why a collector would desire to possess such a rare book."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:631
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:631:DefaultText"
+msgid "Just tagging along, Vicar DeSoto. Don't mind me."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:633
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:633:DefaultText"
+msgid "This here's Vicar DeSoto. He's always offering spiritual counsel to those that need it."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:634
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:634:DefaultText"
+msgid "Thank you for the kind assessment, Ms. Holcomb. I admit, I've been quite interested to make our outsider's acquaintance."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:635
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:635:DefaultText"
+msgid "This here's Vicar DeSoto. He's always offering spiritual counsel to those that need it."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:636
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:636:DefaultText"
+msgid "Thank you for the kind assessment, Ms. Holcomb. I admit, I've been quite interested to make our outsider's acquaintance."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:637
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:637:DefaultText"
+msgid "This here's Vicar DeSoto. He's always offering spiritual counsel to those that need it."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:638
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:638:DefaultText"
+msgid "Thank you for the kind assessment, Ms. Holcomb. I admit, I've been quite interested to make our outsider's acquaintance."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:641
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:641:DefaultText"
+msgid "Edgewater's gonna miss you. Folk here always had good things to say about their vicar."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:642
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:642:DefaultText"
+msgid "Thank you, Ms. Holcomb. I'll be glad for the change of scenery. And to leave this place behind."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:643
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:643:DefaultText"
+msgid "I shall see you on the ship, Captain, whenever you're ready to leave Emerald Vale."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:644
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:644:DefaultText"
+msgid "Edgewater's gonna miss you. Folk here always had good things to say about their vicar."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:645
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:645:DefaultText"
+msgid "Thank you, Ms. Holcomb. I'll be glad for the change of scenery. And to leave this place behind."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:647
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:647:DefaultText"
+msgid "It is my esteemed pleasure to serve as your crew vicar, Captain."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:650
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:650:DefaultText"
+msgid "You're overreacting a bit, don't you think?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:651
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:651:DefaultText"
+msgid "Over- OVERREACTING?! Do you have any idea how many years I spent in - no. You couldn't possibly know, could you?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:652
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:652:DefaultText"
+msgid "I assume you'll want to burn it once you get your hands on it."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:654
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:654:DefaultText"
+msgid "What?! No! I don't want to burn it! I would never - I mean, I just want to, uhm... look, I have a very simple goal here."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:655
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:655:DefaultText"
+msgid "At least you still have your mission work here to give your life a meaningful purpose."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:656
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:656:DefaultText"
+msgid "This has to be some kind of cosmic retribution."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:657
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:657:DefaultText"
+msgid "Yes. You're right. Such are the workings of the Equation. And I've only my own hubris to blame. I certainly never planned for this contingency."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:658
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:658:DefaultText"
+msgid "Please. Those dolts?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:659
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:659:DefaultText"
+msgid "Please. As if my life should have no greater meaning than proselytizing to a bunch of feeble-minded wretches?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:660
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:660:DefaultText"
+msgid "But that's neither here nor there. What I need to do now is to find a translator, obviously, but to do that I'll first need to secure transport."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:661
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:661:DefaultText"
+msgid "Please. Those dolts?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:664
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:664:DefaultText"
+msgid "You have a ship? Perhaps I could make myself of use to your crew?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:665
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:665:DefaultText"
+msgid "Exactly."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:667
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:667:DefaultText"
+msgid "Could be a beneficial arrangement. You need a ride out of town. I wouldn't mind a shiphand."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:668
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:668:DefaultText"
+msgid "Certainly. I already gave you most of my money, but I can offer you free spiritual counseling, and I'd be happy to watch your back."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:670
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:670:DefaultText"
+msgid "Well, understanding computers is, though I admit I took it further than most. And I was quite the 32nd back during my penitentiary term. Left many an opponent bleeding in the prison yard."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:672
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:672:DefaultText"
+msgid "And that's the long and short of it. So, what do you think?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:673
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:673:DefaultText"
+msgid "I'll meet you on the ship when you're ready to depart from Emerald Vale, Captain."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:674
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:674:DefaultText"
+msgid "All right, let's go."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:676
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:676:DefaultText"
+msgid "I must ask you to please reconsider taking me out of this place. I do not know how much more I can stand."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:677
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:677:DefaultText"
+msgid "And why is that?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:678
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:678:DefaultText"
+msgid "Marauders are about. Though if you are planning on venturing outside, I do have a proposition that may interest you."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:679
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:679:DefaultText"
+msgid "Still - um, still a bit shaken, Vicar. I appreciate you asking after me, though. You've always offered a helping hand to those that need counseling."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:681
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:681:DefaultText"
+msgid "I shall see you on the ship, Captain, whenever you're ready to leave Emerald Vale."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:682
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:682:DefaultText"
+msgid "It sounds like I've got my work cut out for me. Thank you for your time."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_vicar:683
+msgctxt "conversations/00_emerald_vale/00_cv_vicar:683:DefaultText"
+msgid "I'm a bit surprised to hear you dismiss your parishioners so casually."
+msgstr ""

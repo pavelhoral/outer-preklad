@@ -1,0 +1,163 @@
+#: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_experiment_terminal:1
+msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_experiment_terminal:1:DefaultText"
+msgid "RESEARCH TERMINAL\r\n"
+"Phineas V. Welles\r\n"
+"\r\n"
+"====================\r\n"
+"\"I can calculate the movement of the heavenly bodies, but not the madness of men.\" -Newton\r\n"
+"====================\r\n"
+""
+msgstr ""
+
+#: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_experiment_terminal:2
+msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_experiment_terminal:2:DefaultText"
+msgid "[Experimental Notes]"
+msgstr ""
+
+#: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_experiment_terminal:3
+msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_experiment_terminal:3:DefaultText"
+msgid "[Personal Files]"
+msgstr ""
+
+#: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_experiment_terminal:4
+msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_experiment_terminal:4:DefaultText"
+msgid "[Exit]"
+msgstr ""
+
+#: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_experiment_terminal:5
+msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_experiment_terminal:5:DefaultText"
+msgid "RESEARCH TERMINAL\r\n"
+"Phineas V. Welles\r\n"
+"\r\n"
+"[Accessing Personal Files]\r\n"
+"...\r\n"
+"...\r\n"
+"...\r\n"
+"...\r\n"
+"[PASSWORD REQUIRED]"
+msgstr ""
+
+#: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_experiment_terminal:6
+msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_experiment_terminal:6:DefaultText"
+msgid "RESEARCH TERMINAL\r\n"
+"Phineas V. Welles\r\n"
+"\r\n"
+"[Accessing Experimental Notes]\r\n"
+"...\r\n"
+"...\r\n"
+"..."
+msgstr ""
+
+#: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_experiment_terminal:7
+msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_experiment_terminal:7:DefaultText"
+msgid "[Logs: Experiment #01173]"
+msgstr ""
+
+#: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_experiment_terminal:8
+msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_experiment_terminal:8:DefaultText"
+msgid "[Logs: Experiment #00938]"
+msgstr ""
+
+#: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_experiment_terminal:9
+msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_experiment_terminal:9:DefaultText"
+msgid "[Logs: Experiment #01083]"
+msgstr ""
+
+#: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_experiment_terminal:10
+msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_experiment_terminal:10:DefaultText"
+msgid "[Return to Root]"
+msgstr ""
+
+#: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_experiment_terminal:11
+msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_experiment_terminal:11:DefaultText"
+msgid "[Exit]"
+msgstr ""
+
+#: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_experiment_terminal:12
+msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_experiment_terminal:12:DefaultText"
+msgid "EUREKA!\r\n"
+"\r\n"
+"Flash-frozen organic material reverts back to its original cell structure when treated with tincture of Dimethyl Sulfoxide.\r\n"
+"\r\n"
+"Rate of Explosive Cell Death a very respectable six per-cent!\r\n"
+"\r\n"
+"Bad news: Difficult to acquire. Limited quantities of compound, likely produced by Auntie Cleo. Recently discontinued due to \"severe adverse reactions.\"\r\n"
+"\r\n"
+"Must find more!"
+msgstr ""
+
+#: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_experiment_terminal:13
+msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_experiment_terminal:13:DefaultText"
+msgid "00:12 - Artificial stasis successfully induced in cystypig specimen. \r\n"
+"\r\n"
+"02:17: Revivification complicated. Cystypig tissue returned to living state. Brain tissue suffered from rapid nucleation. Attempting treatment.\r\n"
+"\r\n"
+"05:58: Treatment progressing.\r\n"
+"\r\n"
+"08:20: Treatment failed. Brain tissue irreparably damaged by rapid onset necrosis.\r\n"
+"\r\n"
+"08:51: Explosive Cell Death.\r\n"
+"\r\n"
+"09:49: Finished cleaning liquefied remains of Cystypig from laboratory floor, walls, equipment."
+msgstr ""
+
+#: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_experiment_terminal:14
+msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_experiment_terminal:14:DefaultText"
+msgid "02:16: Fresh out of Auntie Cleo's. Experimenting with Spacer's Choice Partially Emulsified Creamer Substitute.\r\n"
+"\r\n"
+"02:18: Finished brewing. Adding two ounces Spacer's Choice.\r\n"
+"\r\n"
+"02:20: Atrocious. Felt part of self die on the inside. \r\n"
+"\r\n"
+"REMINDER: Add Spacer's Choice to \"The List.\"\r\n"
+"\r\n"
+"Note to self #2: Buy more mouthwash."
+msgstr ""
+
+#: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_experiment_terminal:15
+msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_experiment_terminal:15:DefaultText"
+msgid "[Bypass]"
+msgstr ""
+
+#: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_experiment_terminal:17
+msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_experiment_terminal:17:DefaultText"
+msgid "RESEARCH TERMINAL\r\n"
+"Phineas V. Welles\r\n"
+"\r\n"
+"[PASSWORD]: swh181942\r\n"
+"[PASSWORD ACCEPTED]\r\n"
+"\r\n"
+"WELCOME, PHINEAS WELLES."
+msgstr ""
+
+#: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_experiment_terminal:18
+msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_experiment_terminal:18:DefaultText"
+msgid "[Personal Logs: Entry #01037]"
+msgstr ""
+
+#: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_experiment_terminal:20
+msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_experiment_terminal:20:DefaultText"
+msgid "Have procured the services of one Captain Alex Hawthorne of the Unreliable. I hope he didn't name his ship after the quality of his services.\r\n"
+"\r\n"
+"I'll be sending my new accomplice down to Hawthorne via escape pod as soon as the revival process is complete. Hawthorne should make for an agreeable companion, or at least an acceptable chaperone. Law willing, he isn't a total buffoon."
+msgstr ""
+
+#: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_experiment_terminal:28
+msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_experiment_terminal:28:DefaultText"
+msgid "RESEARCH TERMINAL\r\n"
+"Phineas V. Welles\r\n"
+"\r\n"
+"[Accessing Personal Files]"
+msgstr ""
+
+#: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_experiment_terminal:30
+msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_experiment_terminal:30:DefaultText"
+msgid "[Cystypig Notes]"
+msgstr ""
+
+#: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_experiment_terminal:31
+msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_experiment_terminal:31:DefaultText"
+msgid "Have spared one of my stock of experimental cystypigs, to be used as renewable source of nourishment. Have named this lucky pig \"Bubbles.\" Giving an animal a name establishes rapport and creates a positive emotional bond. (Allegedly improves flavor of tumors? Must look into that.)\r\n"
+"\r\n"
+"Excellent creatures, cystypigs. Don't know how people used to survive without these genetic wonders of porcine succulence. Slaughtering a pig for meat instead of harvesting tumors that ripen naturally, falling off the flesh like mock-apples off a tree, seems the height of barbarity. Truly a miracle of modern science!"
+msgstr ""

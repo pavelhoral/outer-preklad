@@ -1,0 +1,89 @@
+#: quests/04_monarch/sq_0406_amateuralchemist:0
+msgctxt "quests/04_monarch/sq_0406_amateuralchemist:0:DefaultText"
+msgid "Passion Pills"
+msgstr ""
+
+#: quests/04_monarch/sq_0406_amateuralchemist:14
+msgctxt "quests/04_monarch/sq_0406_amateuralchemist:14:DefaultText"
+msgid "Get Nyoka's Medicine from the MSI Dispensary"
+msgstr ""
+
+#: quests/04_monarch/sq_0406_amateuralchemist:15
+msgctxt "quests/04_monarch/sq_0406_amateuralchemist:15:DefaultText"
+msgid "Return with Nyoka's Caffenoid"
+msgstr ""
+
+#: quests/04_monarch/sq_0406_amateuralchemist:25
+msgctxt "quests/04_monarch/sq_0406_amateuralchemist:25:DefaultText"
+msgid "(Optional) Search Dr. Williams' Body"
+msgstr ""
+
+#: quests/04_monarch/sq_0406_amateuralchemist:10000
+msgctxt "quests/04_monarch/sq_0406_amateuralchemist:10000:DefaultText"
+msgid "Nyoka said she'll help guide you through the Monarch wilderness, but only if you can sober her up."
+msgstr ""
+
+#: quests/04_monarch/sq_0406_amateuralchemist:10014
+msgctxt "quests/04_monarch/sq_0406_amateuralchemist:10014:DefaultText"
+msgid "Nyoka needs a \"steroid-or-caffeine-something.\" The dispensary serves them, but she has reached her month's allotment."
+msgstr ""
+
+#: quests/04_monarch/sq_0406_amateuralchemist:10015
+msgctxt "quests/04_monarch/sq_0406_amateuralchemist:10015:DefaultText"
+msgid "You have Nyoka's pill."
+msgstr ""
+
+#: quests/04_monarch/sq_0406_amateuralchemist:10025
+msgctxt "quests/04_monarch/sq_0406_amateuralchemist:10025:DefaultText"
+msgid "Dr. Williams, who used to be in charge of Stellar Bay's medical allotments, is buried in a graveyard in the ruins south of town."
+msgstr ""
+
+#: quests/04_monarch/sq_0406_amateuralchemist:20006
+msgctxt "quests/04_monarch/sq_0406_amateuralchemist:20006:DefaultText"
+msgid "You've bumped Nyoka's allotment up. Abigail can get you an extra dose of Caffenoid now."
+msgstr ""
+
+#: quests/04_monarch/sq_0406_amateuralchemist:20007
+msgctxt "quests/04_monarch/sq_0406_amateuralchemist:20007:DefaultText"
+msgid "According to Abigail, Dr. Williams managed allotments from a terminal upstairs."
+msgstr ""
+
+#: quests/04_monarch/sq_0406_amateuralchemist:20016
+msgctxt "quests/04_monarch/sq_0406_amateuralchemist:20016:DefaultText"
+msgid "You found a keycard on Dr. Williams' body. "
+msgstr ""
+
+#: quests/04_monarch/sq_0406_amateuralchemist:20017
+msgctxt "quests/04_monarch/sq_0406_amateuralchemist:20017:DefaultText"
+msgid "Abigail implied that she and Dr. Williams both have keys to the medical supply room."
+msgstr ""
+
+#: quests/04_monarch/sq_0406_amateuralchemist:20018
+msgctxt "quests/04_monarch/sq_0406_amateuralchemist:20018:DefaultText"
+msgid "You found the medical supply room, but it's locked."
+msgstr ""
+
+#: quests/04_monarch/sq_0406_amateuralchemist:20019
+msgctxt "quests/04_monarch/sq_0406_amateuralchemist:20019:DefaultText"
+msgid "You got a keycard to the medical supply room from Abigail."
+msgstr ""
+
+#: quests/04_monarch/sq_0406_amateuralchemist:20020
+msgctxt "quests/04_monarch/sq_0406_amateuralchemist:20020:DefaultText"
+msgid "You got a keycard to the medical supply room from Dr. Williams"
+msgstr ""
+
+#: quests/04_monarch/sq_0406_amateuralchemist:20021
+msgctxt "quests/04_monarch/sq_0406_amateuralchemist:20021:DefaultText"
+msgid "It sounds like Abigail stores medications in a locked supply room upstairs."
+msgstr ""
+
+#: quests/04_monarch/sq_0406_amateuralchemist:30000
+msgctxt "quests/04_monarch/sq_0406_amateuralchemist:30000:DefaultText"
+msgid "You delivered a Caffenoid dose to Nyoka."
+msgstr ""
+
+#: quests/04_monarch/sq_0406_amateuralchemist:30001
+msgctxt "quests/04_monarch/sq_0406_amateuralchemist:30001:DefaultText"
+msgid "You attacked Nyoka, losing any chance of gaining her cooperation."
+msgstr ""

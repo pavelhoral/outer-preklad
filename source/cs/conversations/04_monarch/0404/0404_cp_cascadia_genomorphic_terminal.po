@@ -1,0 +1,145 @@
+#: conversations/04_monarch/0404/0404_cp_cascadia_genomorphic_terminal:1
+msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_genomorphic_terminal:1:DefaultText"
+msgid "Executive Research Focus Group\r\n"
+"Gas Regulation Terminal\r\n"
+"=========================\r\n"
+"\r\n"
+"ALTA-VITAE GAS CAPACITY\r\n"
+"\r\n"
+"Tank A: 0%\r\n"
+"Tank B: 0%\r\n"
+"Tank C: 0%\r\n"
+"\r\n"
+"WARNING: Plasma regulators critical. Evacuation is advised."
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cp_cascadia_genomorphic_terminal:2
+msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_genomorphic_terminal:2:DefaultText"
+msgid "Executive Research Focus Group\r\n"
+"Gas Regulation Terminal\r\n"
+"=========================\r\n"
+"\r\n"
+"ALTA-VITAE GAS CAPACITY\r\n"
+"\r\n"
+"Tank A: 0%\r\n"
+"Tank B: 0%\r\n"
+"Tank C: 0%"
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cp_cascadia_genomorphic_terminal:3
+msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_genomorphic_terminal:3:DefaultText"
+msgid "Executive Research Focus Group\r\n"
+"Gas Regulation Terminal\r\n"
+"=========================\r\n"
+"\r\n"
+"ALTA-VITAE GAS CAPACITY\r\n"
+"\r\n"
+"75 m3 Tank A: 64%\r\n"
+"75 m3 Tank B: 23%\r\n"
+"75 m3 Tank C: 79%"
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cp_cascadia_genomorphic_terminal:4
+msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_genomorphic_terminal:4:DefaultText"
+msgid "[Connect Storage Tanks to the Landing Pad Refueling System]"
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cp_cascadia_genomorphic_terminal:5
+msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_genomorphic_terminal:5:DefaultText"
+msgid "[Exit]"
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cp_cascadia_genomorphic_terminal:6
+msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_genomorphic_terminal:6:DefaultText"
+msgid "Executive Research Focus Group\r\n"
+"Gas Regulation Terminal\r\n"
+"=========================\r\n"
+"\r\n"
+"Landing pad... OCCUPIED\r\n"
+"Refueling system... ALIGNED\r\n"
+"Gas flow... FAILURE\r\n"
+"\r\n"
+"ERROR: Fuel type mismatch. Safety protocols engaged. Please send a support ticket to your local engineering department. Thank you!"
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cp_cascadia_genomorphic_terminal:7
+msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_genomorphic_terminal:7:DefaultText"
+msgid "Executive Research Focus Group\r\n"
+"Gas Regulation Terminal\r\n"
+"=========================\r\n"
+"\r\n"
+"Landing pad... OCCUPIED\r\n"
+"Refueling system... DISCONNECTED\r\n"
+"Gas flow... FAILURE\r\n"
+"\r\n"
+"ERROR: Refueling system offline. Realign fuel pumps to proceed."
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cp_cascadia_genomorphic_terminal:8
+msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_genomorphic_terminal:8:DefaultText"
+msgid "Executive Research Focus Group\r\n"
+"Gas Regulation Terminal\r\n"
+"=========================\r\n"
+"\r\n"
+"Landing pad... EMPTY\r\n"
+"Refueling system... LOCKED\r\n"
+"Gas flow... FAILURE\r\n"
+"\r\n"
+"ERROR: Landing pad unoccupied. Refueling system locked down."
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cp_cascadia_genomorphic_terminal:9
+msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_genomorphic_terminal:9:DefaultText"
+msgid "[Return to Root]"
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cp_cascadia_genomorphic_terminal:10
+msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_genomorphic_terminal:10:DefaultText"
+msgid "[Reconfigure the Fuel System to Accept Alta-Vitae Gas]"
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cp_cascadia_genomorphic_terminal:11
+msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_genomorphic_terminal:11:DefaultText"
+msgid "[Override Safety Protocols]"
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cp_cascadia_genomorphic_terminal:12
+msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_genomorphic_terminal:12:DefaultText"
+msgid "[Overload Plasma Regulators to Force the Gas Through the System]"
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cp_cascadia_genomorphic_terminal:23
+msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_genomorphic_terminal:23:DefaultText"
+msgid "Executive Research Focus Group\r\n"
+"Gas Regulation Terminal\r\n"
+"=========================\r\n"
+"\r\n"
+"ALTA-VITAE GAS CAPACITY\r\n"
+"\r\n"
+"Tank A: 0%\r\n"
+"Tank B: 0%\r\n"
+"Tank C: 0%"
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cp_cascadia_genomorphic_terminal:24
+msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_genomorphic_terminal:24:DefaultText"
+msgid "Executive Research Focus Group\r\n"
+"Gas Regulation Terminal\r\n"
+"=========================\r\n"
+"\r\n"
+"WARNING!\r\n"
+"\r\n"
+"System diagnostics indicate that there is a 105.3% chance that this will result in plasma leakage in all lab facilities. If you wish to proceed, immediate evacuation through the lab's express elevator system is recommended.\r\n"
+"\r\n"
+"Do you wish to proceed?"
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cp_cascadia_genomorphic_terminal:25
+msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_genomorphic_terminal:25:DefaultText"
+msgid "[Continue]"
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cp_cascadia_genomorphic_terminal:30
+msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_genomorphic_terminal:30:DefaultText"
+msgid "[Continue]"
+msgstr ""

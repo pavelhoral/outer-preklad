@@ -1,0 +1,98 @@
+#: conversations/01_groundbreaker/01_cp_medbay_terminal:1
+msgctxt "conversations/01_groundbreaker/01_cp_medbay_terminal:1:DefaultText"
+msgid "Groundbreaker MedBay Terminal\r\n"
+"========================\r\n"
+"\r\n"
+"Main menu"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_medbay_terminal:2
+msgctxt "conversations/01_groundbreaker/01_cp_medbay_terminal:2:DefaultText"
+msgid "[Messages]"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_medbay_terminal:3
+msgctxt "conversations/01_groundbreaker/01_cp_medbay_terminal:3:DefaultText"
+msgid "[Exit]"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_medbay_terminal:4
+msgctxt "conversations/01_groundbreaker/01_cp_medbay_terminal:4:DefaultText"
+msgid "Groundbreaker MedBay Terminal\r\n"
+"========================\r\n"
+"\r\n"
+"Messages"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_medbay_terminal:5
+msgctxt "conversations/01_groundbreaker/01_cp_medbay_terminal:5:DefaultText"
+msgid "[TO: Capt. Irion, SUBJECT: Where are my automechs?]"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_medbay_terminal:6
+msgctxt "conversations/01_groundbreaker/01_cp_medbay_terminal:6:DefaultText"
+msgid "[FROM: Capt. Irion, SUBJECT: Heyyyy, relax]"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_medbay_terminal:7
+msgctxt "conversations/01_groundbreaker/01_cp_medbay_terminal:7:DefaultText"
+msgid "[Return to Root]"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_medbay_terminal:8
+msgctxt "conversations/01_groundbreaker/01_cp_medbay_terminal:8:DefaultText"
+msgid "Groundbreaker MedBay Terminal\r\n"
+"========================\r\n"
+"\r\n"
+"FROM: Dorsett, W.\r\n"
+"TO: Cap_Irion\r\n"
+"SUBJECT: Where are my automechs?\r\n"
+"\r\n"
+"I need a status update, Irion. \r\n"
+"\r\n"
+"I know you boasted about the Scylla shortcut, but could you maybe venture through a pocket of space that isn't infested with pirates? You know, pirates. The ones who love cargo and hate rules.\r\n"
+"\r\n"
+"Here in MedBay we've got blunt tools, watered-down meds, long shifts, and shaky hands. Don't let me down."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_medbay_terminal:9
+msgctxt "conversations/01_groundbreaker/01_cp_medbay_terminal:9:DefaultText"
+msgid "Groundbreaker MedBay Terminal\r\n"
+"========================\r\n"
+"\r\n"
+"FROM: Cap_Irion\r\n"
+"TO: Dorsett, W.\r\n"
+"SUBJECT: Heyyyy, relax\r\n"
+"\r\n"
+"When have I ever let you down? \r\n"
+"\r\n"
+"Hope you enjoy the latest haul. Don't forget me the next time you're low on pills. I like a repeat customer. Maybe buy me dinner the next time I do a Groundbreaker run? What do you say? That sprat joint looks tasty."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_medbay_terminal:10
+msgctxt "conversations/01_groundbreaker/01_cp_medbay_terminal:10:DefaultText"
+msgid "[Logs]"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_medbay_terminal:11
+msgctxt "conversations/01_groundbreaker/01_cp_medbay_terminal:11:DefaultText"
+msgid "Groundbreaker MedBay Terminal\r\n"
+"========================\r\n"
+"\r\n"
+"Logs"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_medbay_terminal:12
+msgctxt "conversations/01_groundbreaker/01_cp_medbay_terminal:12:DefaultText"
+msgid "[Staff Shortage]"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_medbay_terminal:14
+msgctxt "conversations/01_groundbreaker/01_cp_medbay_terminal:14:DefaultText"
+msgid "Groundbreaker MedBay Terminal\r\n"
+"========================\r\n"
+"\r\n"
+"I'm at my wit's end coordinating with any authority outside of Groundbreaker. The Board won't dispatch a surgeon unless Junlei agrees to share a third of all docking revenue, and Spacer's Choice won't send supplies unless we make an exclusive deal to use their products. No thank you. I've seen enough shoddy needles breaking off in patients' arms. \r\n"
+"\r\n"
+"I need to chat with Junlei about this, but she has problems of her own. Some of us are growing concerned about the cost of Groundbreaker's independence."
+msgstr ""

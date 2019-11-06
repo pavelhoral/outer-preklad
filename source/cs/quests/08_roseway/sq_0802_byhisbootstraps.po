@@ -1,0 +1,74 @@
+#: quests/08_roseway/sq_0802_byhisbootstraps:0
+msgctxt "quests/08_roseway/sq_0802_byhisbootstraps:0:DefaultText"
+msgid "By His Bootstraps"
+msgstr ""
+
+#: quests/08_roseway/sq_0802_byhisbootstraps:3
+msgctxt "quests/08_roseway/sq_0802_byhisbootstraps:3:DefaultText"
+msgid "Rescue Jameson"
+msgstr ""
+
+#: quests/08_roseway/sq_0802_byhisbootstraps:5
+msgctxt "quests/08_roseway/sq_0802_byhisbootstraps:5:DefaultText"
+msgid "Talk to Anton"
+msgstr ""
+
+#: quests/08_roseway/sq_0802_byhisbootstraps:10000
+msgctxt "quests/08_roseway/sq_0802_byhisbootstraps:10000:DefaultText"
+msgid "A labcoat by the name of Jameson is missing. There's raptidons and marauders about, so his boss, Anton Crane, is (somewhat belatedly) worried for him."
+msgstr ""
+
+#: quests/08_roseway/sq_0802_byhisbootstraps:10003
+msgctxt "quests/08_roseway/sq_0802_byhisbootstraps:10003:DefaultText"
+msgid "Anton sent Jameson to Auntie Cleo's old Auntie-Biotics Lab, just down the road south of Roseway. Make sure he isn't raptidon chow."
+msgstr ""
+
+#: quests/08_roseway/sq_0802_byhisbootstraps:10005
+msgctxt "quests/08_roseway/sq_0802_byhisbootstraps:10005:DefaultText"
+msgid "Jameson is pissed off but otherwise fine. Head back to Roseway to give Anton the good news."
+msgstr ""
+
+#: quests/08_roseway/sq_0802_byhisbootstraps:20004
+msgctxt "quests/08_roseway/sq_0802_byhisbootstraps:20004:DefaultText"
+msgid "Looks like the raptidons clawed their way in to kill Jameson while you were engaged elsewhere. Best check to see if he has some kind of ID you can take back to Anton as proof."
+msgstr ""
+
+#: quests/08_roseway/sq_0802_byhisbootstraps:20016
+msgctxt "quests/08_roseway/sq_0802_byhisbootstraps:20016:DefaultText"
+msgid "Jameson died on his way back to Anton. Collect his ID and then go tell Anton the bad news."
+msgstr ""
+
+#: quests/08_roseway/sq_0802_byhisbootstraps:20017
+msgctxt "quests/08_roseway/sq_0802_byhisbootstraps:20017:DefaultText"
+msgid "Jameson died after you found him. Grab his ID and return to Anton to relay the bad news."
+msgstr ""
+
+#: quests/08_roseway/sq_0802_byhisbootstraps:30001
+msgctxt "quests/08_roseway/sq_0802_byhisbootstraps:30001:DefaultText"
+msgid "You rescued Jameson and told Anton he was safe. Funny how Jameson didn't tell Anton his own self. Not REAL funny, but, you know, odd."
+msgstr ""
+
+#: quests/08_roseway/sq_0802_byhisbootstraps:30002
+msgctxt "quests/08_roseway/sq_0802_byhisbootstraps:30002:DefaultText"
+msgid "You told Anton that Jameson was killed by raptidons. The man actually seemed affected by it."
+msgstr ""
+
+#: quests/08_roseway/sq_0802_byhisbootstraps:30003
+msgctxt "quests/08_roseway/sq_0802_byhisbootstraps:30003:DefaultText"
+msgid "You killed Anton, so you can probably forget about any reward for rescuing his \"protégé.\""
+msgstr ""
+
+#: quests/08_roseway/sq_0802_byhisbootstraps:30004
+msgctxt "quests/08_roseway/sq_0802_byhisbootstraps:30004:DefaultText"
+msgid "Anton might be a tad angry with you, and is no longer willing to talk to you about Jameson."
+msgstr ""
+
+#: quests/08_roseway/sq_0802_byhisbootstraps:30005
+msgctxt "quests/08_roseway/sq_0802_byhisbootstraps:30005:DefaultText"
+msgid "The Auntie Cleo Faction has become hostile towards you, making it impossible to complete this quest."
+msgstr ""
+
+#: quests/08_roseway/sq_0802_byhisbootstraps:40002
+msgctxt "quests/08_roseway/sq_0802_byhisbootstraps:40002:DefaultText"
+msgid "You retrieved Jameson's ID cartridge from his corpse. Head back to Roseway to give Anton the bad news."
+msgstr ""

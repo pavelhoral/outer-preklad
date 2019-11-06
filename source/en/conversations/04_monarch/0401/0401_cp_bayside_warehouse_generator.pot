@@ -1,0 +1,111 @@
+#: conversations/04_monarch/0401/0401_cp_bayside_warehouse_generator:1
+msgctxt "conversations/04_monarch/0401/0401_cp_bayside_warehouse_generator:1:DefaultText"
+msgid "REACTOR STATUS: Unstable\r\n"
+"CORROSIVE GAS LEVELS: Critical\r\n"
+"GAS VENTS: Closed\r\n"
+"\r\n"
+"Recommendation: Open gas vents."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_bayside_warehouse_generator:2
+msgctxt "conversations/04_monarch/0401/0401_cp_bayside_warehouse_generator:2:DefaultText"
+msgid "[Route the Gas Outside]"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_bayside_warehouse_generator:3
+msgctxt "conversations/04_monarch/0401/0401_cp_bayside_warehouse_generator:3:DefaultText"
+msgid "[Exit]"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_bayside_warehouse_generator:4
+msgctxt "conversations/04_monarch/0401/0401_cp_bayside_warehouse_generator:4:DefaultText"
+msgid "EXPOSURE TO HAZARDOUS MATERIAL WARNING #7-B\r\n"
+"============================\r\n"
+"Anyone in the immediate vicinity of this generator and its environmental-facing vents may be subject to burns, disfigurement, and an increased risk of cancer.\r\n"
+"\r\n"
+"Please ensure that all on-site personnel have evacuated the venting area. Refer to the UDL Employee Handbook for procedures regarding the reimbursement of time spent evacuating."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_bayside_warehouse_generator:5
+msgctxt "conversations/04_monarch/0401/0401_cp_bayside_warehouse_generator:5:DefaultText"
+msgid "[Vent the Gas]"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_bayside_warehouse_generator:6
+msgctxt "conversations/04_monarch/0401/0401_cp_bayside_warehouse_generator:6:DefaultText"
+msgid "Gas venting in progress.\r\n"
+"\r\n"
+"Once the procedure completes, the vents will need to be closed. Thank you!"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_bayside_warehouse_generator:7
+msgctxt "conversations/04_monarch/0401/0401_cp_bayside_warehouse_generator:7:DefaultText"
+msgid "Gas filters nominal. Venting procedure is currently locked."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_bayside_warehouse_generator:9
+msgctxt "conversations/04_monarch/0401/0401_cp_bayside_warehouse_generator:9:DefaultText"
+msgid "REACTOR STATUS: Nominal\r\n"
+"CORROSIVE GAS LEVELS: Normal\r\n"
+"GAS VENTS: Open\r\n"
+"\r\n"
+"Recommendation: Close gas vents."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_bayside_warehouse_generator:10
+msgctxt "conversations/04_monarch/0401/0401_cp_bayside_warehouse_generator:10:DefaultText"
+msgid "[Back]"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_bayside_warehouse_generator:11
+msgctxt "conversations/04_monarch/0401/0401_cp_bayside_warehouse_generator:11:DefaultText"
+msgid "[Close the Vents]"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_bayside_warehouse_generator:12
+msgctxt "conversations/04_monarch/0401/0401_cp_bayside_warehouse_generator:12:DefaultText"
+msgid "Vents are now closed.\r\n"
+"\r\n"
+"Please report this incidental gas venting to your nearest site security engineer."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_bayside_warehouse_generator:13
+msgctxt "conversations/04_monarch/0401/0401_cp_bayside_warehouse_generator:13:DefaultText"
+msgid "REACTOR STATUS: Nominal\r\n"
+"CORROSIVE GAS LEVELS: Normal\r\n"
+"GAS VENTS: Closed\r\n"
+"\r\n"
+"Recommendation: Enjoy your day!"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_bayside_warehouse_generator:14
+msgctxt "conversations/04_monarch/0401/0401_cp_bayside_warehouse_generator:14:DefaultText"
+msgid "[Open the Vents]"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_bayside_warehouse_generator:15
+msgctxt "conversations/04_monarch/0401/0401_cp_bayside_warehouse_generator:15:DefaultText"
+msgid "Gas venting in progress.\r\n"
+"\r\n"
+"Once the procedure completes, the vents will need to be closed. Thank you!"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_bayside_warehouse_generator:16
+msgctxt "conversations/04_monarch/0401/0401_cp_bayside_warehouse_generator:16:DefaultText"
+msgid "Please wait while this system recalibrates its gas sensors.\r\n"
+"\r\n"
+"Calibration progress: 0.04%\r\n"
+"Estimated time to completion: 341.7 days"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_bayside_warehouse_generator:17
+msgctxt "conversations/04_monarch/0401/0401_cp_bayside_warehouse_generator:17:DefaultText"
+msgid "UDL Sulfur-Safe Power Generation System\r\n"
+"============================\r\n"
+"Warning: Unauthorized access to this equipment may result in injury, death, or unemployment."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_bayside_warehouse_generator:18
+msgctxt "conversations/04_monarch/0401/0401_cp_bayside_warehouse_generator:18:DefaultText"
+msgid "[Continue]"
+msgstr ""

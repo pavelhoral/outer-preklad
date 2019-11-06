@@ -1,0 +1,24 @@
+#: conversations/04_monarch/0401/0401_cp_cascadia_southgate_control:1
+msgctxt "conversations/04_monarch/0401/0401_cp_cascadia_southgate_control:1:DefaultText"
+msgid "Due to emergency precautions, the Rizzo Bridge to Success™ has been sealed. For your safety and the safety of others, all access is closed until further notice."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_cascadia_southgate_control:3
+msgctxt "conversations/04_monarch/0401/0401_cp_cascadia_southgate_control:3:DefaultText"
+msgid "[Enter Access Code]"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_cascadia_southgate_control:4
+msgctxt "conversations/04_monarch/0401/0401_cp_cascadia_southgate_control:4:DefaultText"
+msgid "[Override Gate Lock]"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_cascadia_southgate_control:5
+msgctxt "conversations/04_monarch/0401/0401_cp_cascadia_southgate_control:5:DefaultText"
+msgid "[Exit]"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_cascadia_southgate_control:6
+msgctxt "conversations/04_monarch/0401/0401_cp_cascadia_southgate_control:6:DefaultText"
+msgid "Access gate unlocked. Please be advised that harm to company assets or personnel as a result of the bridge being opened will be divided and taken from every Cascadia employee's pay."
+msgstr ""

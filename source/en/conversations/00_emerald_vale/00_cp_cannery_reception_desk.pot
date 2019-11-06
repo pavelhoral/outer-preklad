@@ -1,0 +1,46 @@
+#: conversations/00_emerald_vale/00_cp_cannery_reception_desk:1
+msgctxt "conversations/00_emerald_vale/00_cp_cannery_reception_desk:1:DefaultText"
+msgid "Edgewater Saltuna Cannery\r\n"
+"\r\n"
+"A Spacer's Choice Property\r\n"
+"========================\r\n"
+"\r\n"
+"Terminal Access"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cp_cannery_reception_desk:2
+msgctxt "conversations/00_emerald_vale/00_cp_cannery_reception_desk:2:DefaultText"
+msgid "[Logs]"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cp_cannery_reception_desk:3
+msgctxt "conversations/00_emerald_vale/00_cp_cannery_reception_desk:3:DefaultText"
+msgid "[Exit]"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cp_cannery_reception_desk:4
+msgctxt "conversations/00_emerald_vale/00_cp_cannery_reception_desk:4:DefaultText"
+msgid "Edgewater Saltuna Cannery\r\n"
+"\r\n"
+"A Spacer's Choice Property\r\n"
+"========================\r\n"
+"\r\n"
+"NOTICE:\r\n"
+"\r\n"
+"The Edgewater Saltuna Canning Facility strictly adheres to Spacer's Choice standards of health and safety.\r\n"
+"\r\n"
+"NOTICE:\r\n"
+"\r\n"
+"Schedule your sick leave with your Spacer's Choice Foreman and/or Supervisor. \r\n"
+"\r\n"
+"Be considerate toward other members of the Spacer's Choice family. Allow two to four weeks to process and approve your scheduled sick leave.\r\n"
+"\r\n"
+"Lost hours must be compensated to the company. See Reed if you're having trouble paying for your sick leave. We'll try to arrange wage deductions instead.\r\n"
+"\r\n"
+"Remember: Work invigorates the spirit.  Sickness in the body reflects sickness in the mind and sickness in the character. If you find yourself falling ill, it may be time to schedule a meeting with our local vicar."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cp_cannery_reception_desk:5
+msgctxt "conversations/00_emerald_vale/00_cp_cannery_reception_desk:5:DefaultText"
+msgid "[Return to Root]"
+msgstr ""

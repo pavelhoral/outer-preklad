@@ -1,0 +1,121 @@
+#: conversations/09_interstitial/0903_thehope/0903_cp_securitybots:1
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_securitybots:1:DefaultText"
+msgid "Argos Security Management Systems\r\n"
+"===========================\r\n"
+"Current Sentry Status: Normal Operations"
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_securitybots:8
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_securitybots:8:DefaultText"
+msgid "[Exit]"
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_securitybots:22
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_securitybots:22:DefaultText"
+msgid "[Power Down Sentries]"
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_securitybots:28
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_securitybots:28:DefaultText"
+msgid "Argos Security Management Systems\r\n"
+"===========================\r\n"
+"Warning: In the event of a security breach, sentries will no longer assist in neutralizing threats.\r\n"
+"\r\n"
+"Do you still wish to disable automated sentries?"
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_securitybots:31
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_securitybots:31:DefaultText"
+msgid "[Set Targeting Systems to UDL Employees]"
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_securitybots:32
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_securitybots:32:DefaultText"
+msgid "Argos Security Management Systems\r\n"
+"===========================\r\n"
+"Warning: Sentries will open fire on anyone identified as a UDL employee. UDL assumes all risk to company assets and personnel.\r\n"
+"\r\n"
+"Do you still wish to modify sentries' targeting parameters?"
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_securitybots:34
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_securitybots:34:DefaultText"
+msgid "Argos Security Management Systems\r\n"
+"===========================\r\n"
+"Sentries targeting: UDL Employees"
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_securitybots:35
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_securitybots:35:DefaultText"
+msgid "[Continue]"
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_securitybots:36
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_securitybots:36:DefaultText"
+msgid "[Back]"
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_securitybots:37
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_securitybots:37:DefaultText"
+msgid "Argos Security Management Systems\r\n"
+"===========================\r\n"
+"Sentries targeting: Nothing"
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_securitybots:39
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_securitybots:39:DefaultText"
+msgid "[Continue]"
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_securitybots:40
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_securitybots:40:DefaultText"
+msgid "[Back]"
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_securitybots:41
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_securitybots:41:DefaultText"
+msgid "Argos Security Management Systems\r\n"
+"===========================\r\n"
+"Sentries are returning to charging stations to enter standby mode."
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_securitybots:42
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_securitybots:42:DefaultText"
+msgid "Argos Security Management Systems\r\n"
+"===========================\r\n"
+"Targeting parameters accepted."
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_securitybots:43
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_securitybots:43:DefaultText"
+msgid "[Modify Hope Crew Roster]"
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_securitybots:44
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_securitybots:44:DefaultText"
+msgid "Argos Security Management Systems\r\n"
+"===========================\r\n"
+"Add <oeitoken>PlayerName</oeitoken> to the Hope crew roster?"
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_securitybots:45
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_securitybots:45:DefaultText"
+msgid "[Continue]"
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_securitybots:46
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_securitybots:46:DefaultText"
+msgid "[Back]"
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_securitybots:47
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_securitybots:47:DefaultText"
+msgid "Argos Security Management Systems\n"
+"===========================\n"
+"<oeitoken>PlayerName</oeitoken> has been registered as a crewmember."
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_securitybots:52
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_securitybots:52:DefaultText"
+msgid "[Continue]"
+msgstr ""

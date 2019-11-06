@@ -1,0 +1,119 @@
+#: quests/04_monarch/ta_0407_spratkings:0
+msgctxt "quests/04_monarch/ta_0407_spratkings:0:DefaultText"
+msgid "Spratkings"
+msgstr ""
+
+#: quests/04_monarch/ta_0407_spratkings:1
+msgctxt "quests/04_monarch/ta_0407_spratkings:1:DefaultText"
+msgid "Search SubLight's Shipping Tunnels"
+msgstr ""
+
+#: quests/04_monarch/ta_0407_spratkings:6
+msgctxt "quests/04_monarch/ta_0407_spratkings:6:DefaultText"
+msgid "Report Back to Nelson"
+msgstr ""
+
+#: quests/04_monarch/ta_0407_spratkings:7
+msgctxt "quests/04_monarch/ta_0407_spratkings:7:DefaultText"
+msgid "Find the Missing Sprat Carriers"
+msgstr ""
+
+#: quests/04_monarch/ta_0407_spratkings:8
+msgctxt "quests/04_monarch/ta_0407_spratkings:8:DefaultText"
+msgid "Retrieve the Drugs from the Sprat Carriers"
+msgstr ""
+
+#: quests/04_monarch/ta_0407_spratkings:11
+msgctxt "quests/04_monarch/ta_0407_spratkings:11:DefaultText"
+msgid "Recover Nelson's Drugs from the Sprat Droppings"
+msgstr ""
+
+#: quests/04_monarch/ta_0407_spratkings:14
+msgctxt "quests/04_monarch/ta_0407_spratkings:14:DefaultText"
+msgid "Return to Nelson"
+msgstr ""
+
+#: quests/04_monarch/ta_0407_spratkings:20
+msgctxt "quests/04_monarch/ta_0407_spratkings:20:DefaultText"
+msgid "Deal with Bertrand"
+msgstr ""
+
+#: quests/04_monarch/ta_0407_spratkings:10000
+msgctxt "quests/04_monarch/ta_0407_spratkings:10000:DefaultText"
+msgid "Nelson Mayson's sprat carriers have gone missing. For a cut of the profit on his dealing operation, he's asked you to locate and retrieve his missing inventory within Fallbrook."
+msgstr ""
+
+#: quests/04_monarch/ta_0407_spratkings:10001
+msgctxt "quests/04_monarch/ta_0407_spratkings:10001:DefaultText"
+msgid "Nelson's sprat carriers run their secretive routes through SubLight's shipping tunnels. It's the last place the sprats were seen before they went missing."
+msgstr ""
+
+#: quests/04_monarch/ta_0407_spratkings:10006
+msgctxt "quests/04_monarch/ta_0407_spratkings:10006:DefaultText"
+msgid "Give Nelson Mayson in Fallbrook the drugs you recovered from the dead sprats in SubLight's shipping tunnels."
+msgstr ""
+
+#: quests/04_monarch/ta_0407_spratkings:10007
+msgctxt "quests/04_monarch/ta_0407_spratkings:10007:DefaultText"
+msgid "Since the corpses in SubLight's shipping tunnels accounted for only half of Nelson's sprat carriers, the remaining ones must be somewhere in Fallbrook. Find them."
+msgstr ""
+
+#: quests/04_monarch/ta_0407_spratkings:10008
+msgctxt "quests/04_monarch/ta_0407_spratkings:10008:DefaultText"
+msgid "Collect Nelson's drugs from the sprat carriers... by any means necessary."
+msgstr ""
+
+#: quests/04_monarch/ta_0407_spratkings:10011
+msgctxt "quests/04_monarch/ta_0407_spratkings:10011:DefaultText"
+msgid "In order to retrieve the drugs for Nelson, you'll have to get your hands dirty."
+msgstr ""
+
+#: quests/04_monarch/ta_0407_spratkings:10014
+msgctxt "quests/04_monarch/ta_0407_spratkings:10014:DefaultText"
+msgid "Now that you've collected the remaining drugs for Nelson Mayson, return to him for a cut of the profits."
+msgstr ""
+
+#: quests/04_monarch/ta_0407_spratkings:10020
+msgctxt "quests/04_monarch/ta_0407_spratkings:10020:DefaultText"
+msgid "Bertrand stole from SubLight. You'll need to decide what to do with him before returning to Nelson."
+msgstr ""
+
+#: quests/04_monarch/ta_0407_spratkings:20000
+msgctxt "quests/04_monarch/ta_0407_spratkings:20000:DefaultText"
+msgid "Seems like Bertrand had something to do with the missing sprats. Speak with him."
+msgstr ""
+
+#: quests/04_monarch/ta_0407_spratkings:20001
+msgctxt "quests/04_monarch/ta_0407_spratkings:20001:DefaultText"
+msgid "You told Nelson someone stole the drugs from the SubLight tunnels so you could keep them for yourself."
+msgstr ""
+
+#: quests/04_monarch/ta_0407_spratkings:20002
+msgctxt "quests/04_monarch/ta_0407_spratkings:20002:DefaultText"
+msgid "You lied to Nelson so you could keep the drugs for yourself."
+msgstr ""
+
+#: quests/04_monarch/ta_0407_spratkings:20003
+msgctxt "quests/04_monarch/ta_0407_spratkings:20003:DefaultText"
+msgid "The tunnel has been compromised by rapts. Clear them out."
+msgstr ""
+
+#: quests/04_monarch/ta_0407_spratkings:30004
+msgctxt "quests/04_monarch/ta_0407_spratkings:30004:DefaultText"
+msgid "You recovered Nelson Mayson's missing drugs."
+msgstr ""
+
+#: quests/04_monarch/ta_0407_spratkings:30005
+msgctxt "quests/04_monarch/ta_0407_spratkings:30005:DefaultText"
+msgid "Because you killed Nelson Mayson he cannot pay you a cut from his scheme."
+msgstr ""
+
+#: quests/04_monarch/ta_0407_spratkings:30006
+msgctxt "quests/04_monarch/ta_0407_spratkings:30006:DefaultText"
+msgid "You killed Bertrand for stealing from SubLight. Then you took a cut of the profits from Nelson Mayson's dealing after recovering his lost drugs."
+msgstr ""
+
+#: quests/04_monarch/ta_0407_spratkings:30007
+msgctxt "quests/04_monarch/ta_0407_spratkings:30007:DefaultText"
+msgid "You tracked down Nelson's missing drugs but lied to him to keep them for yourself."
+msgstr ""

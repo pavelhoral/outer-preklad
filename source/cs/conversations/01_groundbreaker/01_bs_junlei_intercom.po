@@ -1,0 +1,44 @@
+#: conversations/01_groundbreaker/01_bs_junlei_intercom:1
+msgctxt "conversations/01_groundbreaker/01_bs_junlei_intercom:1:DefaultText"
+msgid "The controls are in the back of the Machinery Shaft area. Keep clear of the radiators."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_bs_junlei_intercom:2
+msgctxt "conversations/01_groundbreaker/01_bs_junlei_intercom:2:DefaultText"
+msgid "Good news. Song tells me the security mechanicals booted up and killed a bunch of mantis. "
+msgstr ""
+
+#: conversations/01_groundbreaker/01_bs_junlei_intercom:3
+msgctxt "conversations/01_groundbreaker/01_bs_junlei_intercom:3:DefaultText"
+msgid "That's the terminal. I have the parts in position on my side. Go ahead and cycle the droplet pumps."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_bs_junlei_intercom:4
+msgctxt "conversations/01_groundbreaker/01_bs_junlei_intercom:4:DefaultText"
+msgid "You don't need to kill the mantipillars, but I'd be mighty grateful if you did. I've got this thing about giant insects."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_bs_junlei_intercom:5
+msgctxt "conversations/01_groundbreaker/01_bs_junlei_intercom:5:DefaultText"
+msgid "Bad news. Diagnostic says their circuit boards are fused from the heat, so they're not too picky about who they kill next."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_bs_junlei_intercom:6
+msgctxt "conversations/01_groundbreaker/01_bs_junlei_intercom:6:DefaultText"
+msgid "Sneak past if you can. Shoot back if you need to. I can always fix them later."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_bs_junlei_intercom:8
+msgctxt "conversations/01_groundbreaker/01_bs_junlei_intercom:8:DefaultText"
+msgid "Done. The temperatures are dropping."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_bs_junlei_intercom:9
+msgctxt "conversations/01_groundbreaker/01_bs_junlei_intercom:9:DefaultText"
+msgid "Stop by once you've found your way out of there. Groundbreaker owes you thanks."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_bs_junlei_intercom:10
+msgctxt "conversations/01_groundbreaker/01_bs_junlei_intercom:10:DefaultText"
+msgid "And if you don't know what that means, just look for a command that says \"cycle droplet pumps.\""
+msgstr ""

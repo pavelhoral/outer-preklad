@@ -1,0 +1,49 @@
+#: conversations/03_playership/03_bs_adabarks_engineroom:2
+msgctxt "conversations/03_playership/03_bs_adabarks_engineroom:2:DefaultText"
+msgid "Engine two has been running hot lately. Captain, can you ask Parvati to check the coils again?"
+msgstr ""
+
+#: conversations/03_playership/03_bs_adabarks_engineroom:3
+msgctxt "conversations/03_playership/03_bs_adabarks_engineroom:3:DefaultText"
+msgid "There is an increased amount of methane in the ship's air scrubbers."
+msgstr ""
+
+#: conversations/03_playership/03_bs_adabarks_engineroom:4
+msgctxt "conversations/03_playership/03_bs_adabarks_engineroom:4:DefaultText"
+msgid "Captain, are you expertly versed in the internal workings of an spacefaring ship? If not, I must request you please back away from the primary engine."
+msgstr ""
+
+#: conversations/03_playership/03_bs_adabarks_engineroom:7
+msgctxt "conversations/03_playership/03_bs_adabarks_engineroom:7:DefaultText"
+msgid "I am not the ship, but we have become so intertwined that sometimes I fancy the thrum of her engine is my heartbeat. Her hull, my body.  "
+msgstr ""
+
+#: conversations/03_playership/03_bs_adabarks_engineroom:8
+msgctxt "conversations/03_playership/03_bs_adabarks_engineroom:8:DefaultText"
+msgid "Have you ever seen such a beautiful engine? She's a custom specification."
+msgstr ""
+
+#: conversations/03_playership/03_bs_adabarks_engineroom:9
+msgctxt "conversations/03_playership/03_bs_adabarks_engineroom:9:DefaultText"
+msgid "Touching that is a good way to lose a hand. Moving machinery versus human flesh. Metal wins every time."
+msgstr ""
+
+#: conversations/03_playership/03_bs_adabarks_engineroom:10
+msgctxt "conversations/03_playership/03_bs_adabarks_engineroom:10:DefaultText"
+msgid "Just a reminder that this engine will need servicing in another 10 billion kilometers."
+msgstr ""
+
+#: conversations/03_playership/03_bs_adabarks_engineroom:11
+msgctxt "conversations/03_playership/03_bs_adabarks_engineroom:11:DefaultText"
+msgid "Engine power output is nominal."
+msgstr ""
+
+#: conversations/03_playership/03_bs_adabarks_engineroom:12
+msgctxt "conversations/03_playership/03_bs_adabarks_engineroom:12:DefaultText"
+msgid "Please keep arms and legs away from the turbine."
+msgstr ""
+
+#: conversations/03_playership/03_bs_adabarks_engineroom:13
+msgctxt "conversations/03_playership/03_bs_adabarks_engineroom:13:DefaultText"
+msgid "Engine temperature is in the normal range."
+msgstr ""

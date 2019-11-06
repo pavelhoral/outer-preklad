@@ -1,0 +1,130 @@
+#: conversations/04_monarch/0401/0401_cp_crashed_ship_bridge:1
+msgctxt "conversations/04_monarch/0401/0401_cp_crashed_ship_bridge:1:DefaultText"
+msgid "UDL RQL MkIV Gunship\r\n"
+"============================\r\n"
+"Ship ID: Cantankerous Canid\r\n"
+"============================\r\n"
+"Error: Captain Matsu's captain's key is active, but his life signs are no longer detected on the bridge. Logging flight hours while not present for duty is a violation of UDL policy."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_crashed_ship_bridge:2
+msgctxt "conversations/04_monarch/0401/0401_cp_crashed_ship_bridge:2:DefaultText"
+msgid "[Eject Captain Matsu's Command Key]"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_crashed_ship_bridge:3
+msgctxt "conversations/04_monarch/0401/0401_cp_crashed_ship_bridge:3:DefaultText"
+msgid "[View Logs]"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_crashed_ship_bridge:4
+msgctxt "conversations/04_monarch/0401/0401_cp_crashed_ship_bridge:4:DefaultText"
+msgid "[Exit]"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_crashed_ship_bridge:5
+msgctxt "conversations/04_monarch/0401/0401_cp_crashed_ship_bridge:5:DefaultText"
+msgid "Error: Unable to access central log storage. Only the most recent entries in Captain Matsu's logs are available."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_crashed_ship_bridge:6
+msgctxt "conversations/04_monarch/0401/0401_cp_crashed_ship_bridge:6:DefaultText"
+msgid "[Captain's Log: November 12th. 2354]"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_crashed_ship_bridge:7
+msgctxt "conversations/04_monarch/0401/0401_cp_crashed_ship_bridge:7:DefaultText"
+msgid "[Captain's Log:  December 21st. 2354]"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_crashed_ship_bridge:8
+msgctxt "conversations/04_monarch/0401/0401_cp_crashed_ship_bridge:8:DefaultText"
+msgid "[Captain's Log:  January 3rd, 2355]"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_crashed_ship_bridge:9
+msgctxt "conversations/04_monarch/0401/0401_cp_crashed_ship_bridge:9:DefaultText"
+msgid "[Back]"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_crashed_ship_bridge:10
+msgctxt "conversations/04_monarch/0401/0401_cp_crashed_ship_bridge:10:DefaultText"
+msgid "Another day, another ship lands on Terra One and we can't shoot 'em down.\r\n"
+"\r\n"
+"That makes... I've lost count. What's the point of being out here if we can't get some backup?"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_crashed_ship_bridge:11
+msgctxt "conversations/04_monarch/0401/0401_cp_crashed_ship_bridge:11:DefaultText"
+msgid "How in this Law-forsaken colony is it so impossible to requisition parts? My chief engineer is barking at me to order yet another damn thing and I can't even get a response from corporate."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_crashed_ship_bridge:12
+msgctxt "conversations/04_monarch/0401/0401_cp_crashed_ship_bridge:12:DefaultText"
+msgid "CE's saying something about spare regulator bypass something something. Chikushou. I'm turning this thing toward the Groundbreaker, firing up the engines and retiring.\r\n"
+"\r\n"
+"Better to be arrested than lose power and drift out into space. I just hope this old bird can handle one last trip."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_crashed_ship_bridge:13
+msgctxt "conversations/04_monarch/0401/0401_cp_crashed_ship_bridge:13:DefaultText"
+msgid "Command key ejected."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_crashed_ship_bridge:14
+msgctxt "conversations/04_monarch/0401/0401_cp_crashed_ship_bridge:14:DefaultText"
+msgid "[Run Diagnostics]"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_crashed_ship_bridge:15
+msgctxt "conversations/04_monarch/0401/0401_cp_crashed_ship_bridge:15:DefaultText"
+msgid "DIAGNOSTICS REPORT\r\n"
+"============================\r\n"
+"Main Terminal: Online\r\n"
+"Bridge Controls: Offline\r\n"
+"Engines: Technically Functional\r\n"
+"Hull Integrity: Don't Ask\r\n"
+"\r\n"
+"This MkIV Gunship's operational parameters have exceeded acceptable damage ranges. The cost of any repairs necessary at your nearest UDL repair facility will be averaged amongst the crew."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_crashed_ship_bridge:16
+msgctxt "conversations/04_monarch/0401/0401_cp_crashed_ship_bridge:16:DefaultText"
+msgid "[Continue]"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_crashed_ship_bridge:17
+msgctxt "conversations/04_monarch/0401/0401_cp_crashed_ship_bridge:17:DefaultText"
+msgid "[Continue]"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_crashed_ship_bridge:18
+msgctxt "conversations/04_monarch/0401/0401_cp_crashed_ship_bridge:18:DefaultText"
+msgid "[Continue]"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_crashed_ship_bridge:20
+msgctxt "conversations/04_monarch/0401/0401_cp_crashed_ship_bridge:20:DefaultText"
+msgid "UDL RQL MkIV Gunship\r\n"
+"============================\r\n"
+"Ship ID: Cantankerous Canid\r\n"
+"============================\r\n"
+"Error: Captain Matsu's keycard has been removed. The current time is %ERROR%, which indicates that the captain's shift is still ongoing. Failure to report to duty is a violation of UDL policy."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_crashed_ship_bridge:22
+msgctxt "conversations/04_monarch/0401/0401_cp_crashed_ship_bridge:22:DefaultText"
+msgid "[Start Mayday Message Playback]"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_crashed_ship_bridge:25
+msgctxt "conversations/04_monarch/0401/0401_cp_crashed_ship_bridge:25:DefaultText"
+msgid "[Locate Targeting Module]"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_crashed_ship_bridge:26
+msgctxt "conversations/04_monarch/0401/0401_cp_crashed_ship_bridge:26:DefaultText"
+msgid "Targeting modules are located in Primary Routing. Access requires Captain Matsu's command key.\r\n"
+"\r\n"
+"WARNING: The integration module is responsible for controlling access to this ship's primary functions. Removing it will void your manufacturer's warranty, and despite removing it, the ship remains UDL property. Unauthorized access by parties not covered by UDL policy is a felony."
+msgstr ""

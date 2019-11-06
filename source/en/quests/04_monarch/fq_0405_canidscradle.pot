@@ -1,0 +1,299 @@
+#: quests/04_monarch/fq_0405_canidscradle:0
+msgctxt "quests/04_monarch/fq_0405_canidscradle:0:DefaultText"
+msgid "Canid's Cradle"
+msgstr ""
+
+#: quests/04_monarch/fq_0405_canidscradle:1
+msgctxt "quests/04_monarch/fq_0405_canidscradle:1:DefaultText"
+msgid "Retrieve the Gunship's Targeting Module"
+msgstr ""
+
+#: quests/04_monarch/fq_0405_canidscradle:2
+msgctxt "quests/04_monarch/fq_0405_canidscradle:2:DefaultText"
+msgid "(Optional) Give the Module to Graham"
+msgstr ""
+
+#: quests/04_monarch/fq_0405_canidscradle:3
+msgctxt "quests/04_monarch/fq_0405_canidscradle:3:DefaultText"
+msgid "(Optional) Give the Module to Sanjar"
+msgstr ""
+
+#: quests/04_monarch/fq_0405_canidscradle:4
+msgctxt "quests/04_monarch/fq_0405_canidscradle:4:DefaultText"
+msgid "(Optional) Give the Module to Zora"
+msgstr ""
+
+#: quests/04_monarch/fq_0405_canidscradle:12
+msgctxt "quests/04_monarch/fq_0405_canidscradle:12:DefaultText"
+msgid "Defeat the Iconoclasts"
+msgstr ""
+
+#: quests/04_monarch/fq_0405_canidscradle:13
+msgctxt "quests/04_monarch/fq_0405_canidscradle:13:DefaultText"
+msgid "Defeat MSI"
+msgstr ""
+
+#: quests/04_monarch/fq_0405_canidscradle:14
+msgctxt "quests/04_monarch/fq_0405_canidscradle:14:DefaultText"
+msgid "Defeat MSI"
+msgstr ""
+
+#: quests/04_monarch/fq_0405_canidscradle:15
+msgctxt "quests/04_monarch/fq_0405_canidscradle:15:DefaultText"
+msgid "(Optional) Convince MSI and the Iconoclasts to Negotiate"
+msgstr ""
+
+#: quests/04_monarch/fq_0405_canidscradle:16
+msgctxt "quests/04_monarch/fq_0405_canidscradle:16:DefaultText"
+msgid "Oversee the Negotiation"
+msgstr ""
+
+#: quests/04_monarch/fq_0405_canidscradle:23
+msgctxt "quests/04_monarch/fq_0405_canidscradle:23:DefaultText"
+msgid "Speak to Sanjar"
+msgstr ""
+
+#: quests/04_monarch/fq_0405_canidscradle:24
+msgctxt "quests/04_monarch/fq_0405_canidscradle:24:DefaultText"
+msgid "Speak to Graham"
+msgstr ""
+
+#: quests/04_monarch/fq_0405_canidscradle:25
+msgctxt "quests/04_monarch/fq_0405_canidscradle:25:DefaultText"
+msgid "Speak to Zora"
+msgstr ""
+
+#: quests/04_monarch/fq_0405_canidscradle:45
+msgctxt "quests/04_monarch/fq_0405_canidscradle:45:DefaultText"
+msgid "See Where the Ship Lands"
+msgstr ""
+
+#: quests/04_monarch/fq_0405_canidscradle:10000
+msgctxt "quests/04_monarch/fq_0405_canidscradle:10000:DefaultText"
+msgid "A ship has crashed on Monarch."
+msgstr ""
+
+#: quests/04_monarch/fq_0405_canidscradle:10001
+msgctxt "quests/04_monarch/fq_0405_canidscradle:10001:DefaultText"
+msgid "Reach the ship and take the targeting module from its central terminal."
+msgstr ""
+
+#: quests/04_monarch/fq_0405_canidscradle:10002
+msgctxt "quests/04_monarch/fq_0405_canidscradle:10002:DefaultText"
+msgid "Go to Amber Heights and give Graham Bryant the module to ally with the Iconoclasts."
+msgstr ""
+
+#: quests/04_monarch/fq_0405_canidscradle:10003
+msgctxt "quests/04_monarch/fq_0405_canidscradle:10003:DefaultText"
+msgid "Go to Stellar Bay and give Sanjar Nandi the module to ally with MSI."
+msgstr ""
+
+#: quests/04_monarch/fq_0405_canidscradle:10004
+msgctxt "quests/04_monarch/fq_0405_canidscradle:10004:DefaultText"
+msgid "With Graham dead, give the module to Zora to side with the Iconoclasts."
+msgstr ""
+
+#: quests/04_monarch/fq_0405_canidscradle:10012
+msgctxt "quests/04_monarch/fq_0405_canidscradle:10012:DefaultText"
+msgid "The Iconoclasts are preparing to attack Stellar Bay. Confront them in the ruins and defeat them."
+msgstr ""
+
+#: quests/04_monarch/fq_0405_canidscradle:10013
+msgctxt "quests/04_monarch/fq_0405_canidscradle:10013:DefaultText"
+msgid "The Iconoclasts are preparing to seize Stellar Bay. Help them defeat MSI's forces."
+msgstr ""
+
+#: quests/04_monarch/fq_0405_canidscradle:10014
+msgctxt "quests/04_monarch/fq_0405_canidscradle:10014:DefaultText"
+msgid "The Iconoclasts are preparing to seize Stellar Bay. Help them defeat MSI's forces."
+msgstr ""
+
+#: quests/04_monarch/fq_0405_canidscradle:10015
+msgctxt "quests/04_monarch/fq_0405_canidscradle:10015:DefaultText"
+msgid "There's a chance for peace between MSI and the Iconoclasts, but you'll need to convince their leadership to go along with it."
+msgstr ""
+
+#: quests/04_monarch/fq_0405_canidscradle:10016
+msgctxt "quests/04_monarch/fq_0405_canidscradle:10016:DefaultText"
+msgid "Zora and Sanjar are meeting at the OSI Church outside Stellar Bay's southern gate. Meet them there to help establish peace between MSI and the Iconoclasts."
+msgstr ""
+
+#: quests/04_monarch/fq_0405_canidscradle:10023
+msgctxt "quests/04_monarch/fq_0405_canidscradle:10023:DefaultText"
+msgid "Sanjar will be relieved to know you've vanquished the Iconoclasts."
+msgstr ""
+
+#: quests/04_monarch/fq_0405_canidscradle:10024
+msgctxt "quests/04_monarch/fq_0405_canidscradle:10024:DefaultText"
+msgid "The Iconoclasts can now claim Stellar Bay. Share the good news with Graham."
+msgstr ""
+
+#: quests/04_monarch/fq_0405_canidscradle:10025
+msgctxt "quests/04_monarch/fq_0405_canidscradle:10025:DefaultText"
+msgid "The Iconoclasts can now claim Stellar Bay. Share the good news with Zora. "
+msgstr ""
+
+#: quests/04_monarch/fq_0405_canidscradle:10045
+msgctxt "quests/04_monarch/fq_0405_canidscradle:10045:DefaultText"
+msgid "They could still stick the landing..."
+msgstr ""
+
+#: quests/04_monarch/fq_0405_canidscradle:20000
+msgctxt "quests/04_monarch/fq_0405_canidscradle:20000:DefaultText"
+msgid "Sanjar says he's willing to negotiate, but only if Graham is replaced as leader. The obvious alternative is Zora."
+msgstr ""
+
+#: quests/04_monarch/fq_0405_canidscradle:20001
+msgctxt "quests/04_monarch/fq_0405_canidscradle:20001:DefaultText"
+msgid "Sanjar says he's willing to negotiate if Zora is."
+msgstr ""
+
+#: quests/04_monarch/fq_0405_canidscradle:20002
+msgctxt "quests/04_monarch/fq_0405_canidscradle:20002:DefaultText"
+msgid "Zora says she's willing to negotiate if Sanjar is."
+msgstr ""
+
+#: quests/04_monarch/fq_0405_canidscradle:20003
+msgctxt "quests/04_monarch/fq_0405_canidscradle:20003:DefaultText"
+msgid "Before Sanjar is willing to negotiate with Zora, he wants to see her employee review. Retrieve it from Cascadia and bring it to him."
+msgstr ""
+
+#: quests/04_monarch/fq_0405_canidscradle:20004
+msgctxt "quests/04_monarch/fq_0405_canidscradle:20004:DefaultText"
+msgid "Return to Sanjar with Zora's review data."
+msgstr ""
+
+#: quests/04_monarch/fq_0405_canidscradle:20005
+msgctxt "quests/04_monarch/fq_0405_canidscradle:20005:DefaultText"
+msgid "You gave the module to the Iconoclasts instead."
+msgstr ""
+
+#: quests/04_monarch/fq_0405_canidscradle:20006
+msgctxt "quests/04_monarch/fq_0405_canidscradle:20006:DefaultText"
+msgid "Sanjar died before you could give him the module."
+msgstr ""
+
+#: quests/04_monarch/fq_0405_canidscradle:20007
+msgctxt "quests/04_monarch/fq_0405_canidscradle:20007:DefaultText"
+msgid "Graham died before you could give him the module."
+msgstr ""
+
+#: quests/04_monarch/fq_0405_canidscradle:20008
+msgctxt "quests/04_monarch/fq_0405_canidscradle:20008:DefaultText"
+msgid "Zora died before you could give her the module."
+msgstr ""
+
+#: quests/04_monarch/fq_0405_canidscradle:20009
+msgctxt "quests/04_monarch/fq_0405_canidscradle:20009:DefaultText"
+msgid "Sanjar and Zora have agreed to negotiate, so there's no reason to give the module away."
+msgstr ""
+
+#: quests/04_monarch/fq_0405_canidscradle:20010
+msgctxt "quests/04_monarch/fq_0405_canidscradle:20010:DefaultText"
+msgid "You gave the module to MSI instead."
+msgstr ""
+
+#: quests/04_monarch/fq_0405_canidscradle:20011
+msgctxt "quests/04_monarch/fq_0405_canidscradle:20011:DefaultText"
+msgid "Giving the module away has made peace impossible."
+msgstr ""
+
+#: quests/04_monarch/fq_0405_canidscradle:20012
+msgctxt "quests/04_monarch/fq_0405_canidscradle:20012:DefaultText"
+msgid "With Sanjar killed, a peaceful resolution is impossible."
+msgstr ""
+
+#: quests/04_monarch/fq_0405_canidscradle:20013
+msgctxt "quests/04_monarch/fq_0405_canidscradle:20013:DefaultText"
+msgid "With Zora killed, a peaceful resolution is impossible."
+msgstr ""
+
+#: quests/04_monarch/fq_0405_canidscradle:20014
+msgctxt "quests/04_monarch/fq_0405_canidscradle:20014:DefaultText"
+msgid "Zora has no interest in peace. It seems you didn't earn her trust."
+msgstr ""
+
+#: quests/04_monarch/fq_0405_canidscradle:20015
+msgctxt "quests/04_monarch/fq_0405_canidscradle:20015:DefaultText"
+msgid "0/10 from the Monarch judge."
+msgstr ""
+
+#: quests/04_monarch/fq_0405_canidscradle:20016
+msgctxt "quests/04_monarch/fq_0405_canidscradle:20016:DefaultText"
+msgid "With Celia dead, Sanjar's in no state to lead."
+msgstr ""
+
+#: quests/04_monarch/fq_0405_canidscradle:20017
+msgctxt "quests/04_monarch/fq_0405_canidscradle:20017:DefaultText"
+msgid "With Celia dead, Sanjar's in no state to negotiate."
+msgstr ""
+
+#: quests/04_monarch/fq_0405_canidscradle:20018
+msgctxt "quests/04_monarch/fq_0405_canidscradle:20018:DefaultText"
+msgid "Until the battle is won, Stellar Bay is sealed off."
+msgstr ""
+
+#: quests/04_monarch/fq_0405_canidscradle:20019
+msgctxt "quests/04_monarch/fq_0405_canidscradle:20019:DefaultText"
+msgid "Until the battle is won, Stellar Bay and Amber Heights are sealed off."
+msgstr ""
+
+#: quests/04_monarch/fq_0405_canidscradle:30000
+msgctxt "quests/04_monarch/fq_0405_canidscradle:30000:DefaultText"
+msgid "The leadership of Monarch has been wiped out. This conflict may never be resolved."
+msgstr ""
+
+#: quests/04_monarch/fq_0405_canidscradle:30001
+msgctxt "quests/04_monarch/fq_0405_canidscradle:30001:DefaultText"
+msgid "With the Iconoclasts defeated, Monarch is united under Sanjar's MSI."
+msgstr ""
+
+#: quests/04_monarch/fq_0405_canidscradle:30002
+msgctxt "quests/04_monarch/fq_0405_canidscradle:30002:DefaultText"
+msgid "With MSI defeated, the citizens of Monarch are beholden to no one, though Graham and his Iconoclasts are the dominant power."
+msgstr ""
+
+#: quests/04_monarch/fq_0405_canidscradle:30003
+msgctxt "quests/04_monarch/fq_0405_canidscradle:30003:DefaultText"
+msgid "Zora's Iconoclasts have defeated MSI. Under her leadership, the people of Monarch will come before corporations and ideologies."
+msgstr ""
+
+#: quests/04_monarch/fq_0405_canidscradle:30004
+msgctxt "quests/04_monarch/fq_0405_canidscradle:30004:DefaultText"
+msgid "Zora and Sanjar have made peace between MSI and the Iconoclasts."
+msgstr ""
+
+#: quests/04_monarch/fq_0405_canidscradle:30008
+msgctxt "quests/04_monarch/fq_0405_canidscradle:30008:DefaultText"
+msgid "Zora and Sanjar agreed to meet, but violence prevented the negotiations from moving forward."
+msgstr ""
+
+#: quests/04_monarch/fq_0405_canidscradle:30009
+msgctxt "quests/04_monarch/fq_0405_canidscradle:30009:DefaultText"
+msgid "Sanjar was killed after you gave him the targeting module. Even if the battle is won, it will be a pyrrhic victory - MSI could never really trust you."
+msgstr ""
+
+#: quests/04_monarch/fq_0405_canidscradle:30010
+msgctxt "quests/04_monarch/fq_0405_canidscradle:30010:DefaultText"
+msgid "Graham was killed after you gave him the targeting module. Even if the battle is won, it will be a pyrrhic victory - the Iconoclasts could never really trust you."
+msgstr ""
+
+#: quests/04_monarch/fq_0405_canidscradle:30011
+msgctxt "quests/04_monarch/fq_0405_canidscradle:30011:DefaultText"
+msgid "Zora was killed after you gave her the targeting module. Even if the battle is won, it will be a pyrrhic victory - the Iconoclasts could never really trust you."
+msgstr ""
+
+#: quests/04_monarch/fq_0405_canidscradle:30013
+msgctxt "quests/04_monarch/fq_0405_canidscradle:30013:DefaultText"
+msgid "Celia was killed after you gave Sanjar the targeting module. Even if the battle is won, it will be a pyrrhic victory - MSI could never really trust you."
+msgstr ""
+
+#: quests/04_monarch/fq_0405_canidscradle:30014
+msgctxt "quests/04_monarch/fq_0405_canidscradle:30014:DefaultText"
+msgid "You won the battle, but Celia was killed afterwards. With Sanjar distraught, Monarch remains chaotic."
+msgstr ""
+
+#: quests/04_monarch/fq_0405_canidscradle:40001
+msgctxt "quests/04_monarch/fq_0405_canidscradle:40001:DefaultText"
+msgid "A UDL gunship has crashed on Monarch, and both MSI and the Iconoclasts desperately want it."
+msgstr ""

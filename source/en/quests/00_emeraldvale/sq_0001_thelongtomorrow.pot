@@ -1,0 +1,99 @@
+#: quests/00_emeraldvale/sq_0001_thelongtomorrow:0
+msgctxt "quests/00_emeraldvale/sq_0001_thelongtomorrow:0:DefaultText"
+msgid "The Long Tomorrow"
+msgstr ""
+
+#: quests/00_emeraldvale/sq_0001_thelongtomorrow:1
+msgctxt "quests/00_emeraldvale/sq_0001_thelongtomorrow:1:DefaultText"
+msgid "Retrieve the Cache of Medicine"
+msgstr ""
+
+#: quests/00_emeraldvale/sq_0001_thelongtomorrow:2
+msgctxt "quests/00_emeraldvale/sq_0001_thelongtomorrow:2:DefaultText"
+msgid "Turn in the Medicine"
+msgstr ""
+
+#: quests/00_emeraldvale/sq_0001_thelongtomorrow:10000
+msgctxt "quests/00_emeraldvale/sq_0001_thelongtomorrow:10000:DefaultText"
+msgid "Abernathy asked you to bring him a cache of anthrocillin hidden in the Emerald Vale Community Center."
+msgstr ""
+
+#: quests/00_emeraldvale/sq_0001_thelongtomorrow:10001
+msgctxt "quests/00_emeraldvale/sq_0001_thelongtomorrow:10001:DefaultText"
+msgid "Abernathy believes he's dying. He wants a special cache of anthrocillin, found in the Emerald Vale Community Center."
+msgstr ""
+
+#: quests/00_emeraldvale/sq_0001_thelongtomorrow:10002
+msgctxt "quests/00_emeraldvale/sq_0001_thelongtomorrow:10002:DefaultText"
+msgid "You found a cache of experimental anthrocillin in the Emerald Vale Community Center."
+msgstr ""
+
+#: quests/00_emeraldvale/sq_0001_thelongtomorrow:20000
+msgctxt "quests/00_emeraldvale/sq_0001_thelongtomorrow:20000:DefaultText"
+msgid "Esther confronted you outside of Abernathy's house, and suggested that you should give the medicine to her instead of Abernathy."
+msgstr ""
+
+#: quests/00_emeraldvale/sq_0001_thelongtomorrow:20001
+msgctxt "quests/00_emeraldvale/sq_0001_thelongtomorrow:20001:DefaultText"
+msgid "You chose not to give the medicine to Abernathy. Unless you have a sudden change of heart, you'll have to find someone else to take it off your hands."
+msgstr ""
+
+#: quests/00_emeraldvale/sq_0001_thelongtomorrow:20002
+msgctxt "quests/00_emeraldvale/sq_0001_thelongtomorrow:20002:DefaultText"
+msgid "After hearing about Abernathy's terrible affliction, you decided it was best to put him out of his misery. Perhaps someone else will pay you for the medicine he requested."
+msgstr ""
+
+#: quests/00_emeraldvale/sq_0001_thelongtomorrow:20003
+msgctxt "quests/00_emeraldvale/sq_0001_thelongtomorrow:20003:DefaultText"
+msgid "Esther is dead and will no longer be able to take the anthrocillin off your hands. You'll have to find someone else who will take it now."
+msgstr ""
+
+#: quests/00_emeraldvale/sq_0001_thelongtomorrow:20004
+msgctxt "quests/00_emeraldvale/sq_0001_thelongtomorrow:20004:DefaultText"
+msgid "Even though you got the medicine for Abernathy, he still ended up dying due to \"natural\" causes. You'll have to find someone else who will take these meds from you."
+msgstr ""
+
+#: quests/00_emeraldvale/sq_0001_thelongtomorrow:20005
+msgctxt "quests/00_emeraldvale/sq_0001_thelongtomorrow:20005:DefaultText"
+msgid "You found a cache of anthrocillin, but Esther refuses to take it due to the fact that she is a corpse. You'll have to find someone else to buy this cache of drugs."
+msgstr ""
+
+#: quests/00_emeraldvale/sq_0001_thelongtomorrow:20007
+msgctxt "quests/00_emeraldvale/sq_0001_thelongtomorrow:20007:DefaultText"
+msgid "After getting the medicine for Abernathy, you heard from Esther that she would be willing to buy it from you instead."
+msgstr ""
+
+#: quests/00_emeraldvale/sq_0001_thelongtomorrow:30000
+msgctxt "quests/00_emeraldvale/sq_0001_thelongtomorrow:30000:DefaultText"
+msgid "You gave Abernathy the medicine that he requested, which should help him recover from his terrible illness."
+msgstr ""
+
+#: quests/00_emeraldvale/sq_0001_thelongtomorrow:30001
+msgctxt "quests/00_emeraldvale/sq_0001_thelongtomorrow:30001:DefaultText"
+msgid "You gave Esther the cache of anthrocillin. Esther said she won't waste the medicine on Abernathy, but promises to distribute it to people who need it."
+msgstr ""
+
+#: quests/00_emeraldvale/sq_0001_thelongtomorrow:30002
+msgctxt "quests/00_emeraldvale/sq_0001_thelongtomorrow:30002:DefaultText"
+msgid "You turned over the cache of anthrocillin to Reyes. Reyes confiscated the medicine as contraband, but rewarded you."
+msgstr ""
+
+#: quests/00_emeraldvale/sq_0001_thelongtomorrow:30003
+msgctxt "quests/00_emeraldvale/sq_0001_thelongtomorrow:30003:DefaultText"
+msgid "You killed everyone who might have rewarded you for finding the cache of anthrocillin. Well done."
+msgstr ""
+
+#: quests/00_emeraldvale/sq_0001_thelongtomorrow:30004
+msgctxt "quests/00_emeraldvale/sq_0001_thelongtomorrow:30004:DefaultText"
+msgid "The people of Edgewater all want you dead, so delivering the medicine to any of its residents is no longer a possibility."
+msgstr ""
+
+#: quests/00_emeraldvale/sq_0001_thelongtomorrow:40001
+msgctxt "quests/00_emeraldvale/sq_0001_thelongtomorrow:40001:DefaultText"
+msgid "You found a hidden cache of experimental anthrocillin. This could be useful to someone."
+msgstr ""
+
+#: quests/00_emeraldvale/sq_0001_thelongtomorrow:40002
+msgctxt "quests/00_emeraldvale/sq_0001_thelongtomorrow:40002:DefaultText"
+msgid "You found the anthrocillin Abernathy mentioned. There may be someone else that wants it."
+msgstr ""

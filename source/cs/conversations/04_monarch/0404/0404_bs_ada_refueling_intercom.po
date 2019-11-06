@@ -1,0 +1,14 @@
+#: conversations/04_monarch/0404/0404_bs_ada_refueling_intercom:1
+msgctxt "conversations/04_monarch/0404/0404_bs_ada_refueling_intercom:1:DefaultText"
+msgid "Captain, I've touched down on Cascadia's landing pad."
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_bs_ada_refueling_intercom:2
+msgctxt "conversations/04_monarch/0404/0404_bs_ada_refueling_intercom:2:DefaultText"
+msgid "You'll need to connect the storage tanks to my fueling system and then initiate the transfer from an authorized terminal within the lab."
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_bs_ada_refueling_intercom:3
+msgctxt "conversations/04_monarch/0404/0404_bs_ada_refueling_intercom:3:DefaultText"
+msgid "Captain, I'm waiting for your signal at Cascadia's landing pad."
+msgstr ""

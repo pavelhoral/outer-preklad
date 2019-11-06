@@ -1,0 +1,59 @@
+#: conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal:3
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal:3:DefaultText"
+msgid "UDL-002 THE HOPE\r\n"
+"===========================\r\n"
+"Warning: Unauthorized access will result in immediate termination upon your arrival in Halcyon."
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal:6
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal:6:DefaultText"
+msgid "[Automated Audio Transcript #R-114]"
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal:12
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal:12:DefaultText"
+msgid "NOLDA, F: You gotta help me, Alexei. I'm gonna go mental.\r\n"
+"VOLKOV, A: What's the problem?\r\n"
+"NOLDA, F: It's the food.\r\n"
+"VOLKOV, A: Our rations? Are you having digestion issues?\r\n"
+"NOLDA, F: No. No! I just... I hate boarst, doctor! I hate it! I can't spend the next ten years eating it!\r\n"
+"VOLKOV, A: I thought you had an actual medical problem, Frank.\r\n"
+"NOLDA, F: I do! It's disgusting!\r\n"
+"VOLKOV, A: Get back to your post. You're wasting my time.\r\n"
+"NOLDA, F: Come on! There's gotta be something you can prescribe.\r\n"
+"VOLKOV, A: You'll get used to it or you'll starve. Up to you."
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal:17
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal:17:DefaultText"
+msgid "[Exit]"
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal:18
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal:18:DefaultText"
+msgid "CREW TERMINAL\r\n"
+"===========================\r\n"
+"Error accessing archives. Available entries:"
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal:19
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal:19:DefaultText"
+msgid "[Message Exchange #T-778]"
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal:20
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal:20:DefaultText"
+msgid "HUNTE, D: Darling. I've just had a frightening epiphany.\r\n"
+"HUNTE, W: What's wrong?\r\n"
+"HUNTE, D: I've just realized that we'll be nearing our fifties when we arrive in Halcyon.\r\n"
+"HUNTE, W: Yes.\r\n"
+"HUNTE, D: But our Lukas -- when they wake him up he'll still be six. By the time he's out of schooling, we'll be nearly sixty!\r\n"
+"HUNTE, D: I feel as though time is being stolen from me.\r\n"
+"HUNTE, W: He'll work on the ship when he graduates. We'll see him again.\r\n"
+"HUNTE, D: I hope so, Will."
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal:21
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal:21:DefaultText"
+msgid "[Continue]"
+msgstr ""

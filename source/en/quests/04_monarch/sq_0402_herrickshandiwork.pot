@@ -1,0 +1,109 @@
+#: quests/04_monarch/sq_0402_herrickshandiwork:0
+msgctxt "quests/04_monarch/sq_0402_herrickshandiwork:0:DefaultText"
+msgid "Herrick's Handiwork"
+msgstr ""
+
+#: quests/04_monarch/sq_0402_herrickshandiwork:1
+msgctxt "quests/04_monarch/sq_0402_herrickshandiwork:1:DefaultText"
+msgid "Convince Caleb to Return to Work"
+msgstr ""
+
+#: quests/04_monarch/sq_0402_herrickshandiwork:2
+msgctxt "quests/04_monarch/sq_0402_herrickshandiwork:2:DefaultText"
+msgid "Convince Velma to Negotiate"
+msgstr ""
+
+#: quests/04_monarch/sq_0402_herrickshandiwork:3
+msgctxt "quests/04_monarch/sq_0402_herrickshandiwork:3:DefaultText"
+msgid "Inform Velma the Situation is Resolved"
+msgstr ""
+
+#: quests/04_monarch/sq_0402_herrickshandiwork:5
+msgctxt "quests/04_monarch/sq_0402_herrickshandiwork:5:DefaultText"
+msgid "Inform Caleb that Velma Will Negotiate"
+msgstr ""
+
+#: quests/04_monarch/sq_0402_herrickshandiwork:10000
+msgctxt "quests/04_monarch/sq_0402_herrickshandiwork:10000:DefaultText"
+msgid "Caleb Herrick and the other auto loader operators are on strike until Velma gives them a raise."
+msgstr ""
+
+#: quests/04_monarch/sq_0402_herrickshandiwork:10001
+msgctxt "quests/04_monarch/sq_0402_herrickshandiwork:10001:DefaultText"
+msgid "Caleb Herrick hangs out at The Yacht Club in Stellar Bay."
+msgstr ""
+
+#: quests/04_monarch/sq_0402_herrickshandiwork:10002
+msgctxt "quests/04_monarch/sq_0402_herrickshandiwork:10002:DefaultText"
+msgid "Velma Ballard manages the warehouse in Stellar Bay."
+msgstr ""
+
+#: quests/04_monarch/sq_0402_herrickshandiwork:10003
+msgctxt "quests/04_monarch/sq_0402_herrickshandiwork:10003:DefaultText"
+msgid "You've ensured that Caleb and his crew will return to work. Let Velma know so you can get your reward."
+msgstr ""
+
+#: quests/04_monarch/sq_0402_herrickshandiwork:10005
+msgctxt "quests/04_monarch/sq_0402_herrickshandiwork:10005:DefaultText"
+msgid "You've convinced Velma to negotiate. Let Caleb know that he and his team can return to work."
+msgstr ""
+
+#: quests/04_monarch/sq_0402_herrickshandiwork:20000
+msgctxt "quests/04_monarch/sq_0402_herrickshandiwork:20000:DefaultText"
+msgid "Caleb's living off a stash of bits he keeps at his home near the diner. If this stash were to go missing, he'd have to return to work."
+msgstr ""
+
+#: quests/04_monarch/sq_0402_herrickshandiwork:20001
+msgctxt "quests/04_monarch/sq_0402_herrickshandiwork:20001:DefaultText"
+msgid "You acquired Caleb's stash of bits from a chest on the balcony of his home."
+msgstr ""
+
+#: quests/04_monarch/sq_0402_herrickshandiwork:20002
+msgctxt "quests/04_monarch/sq_0402_herrickshandiwork:20002:DefaultText"
+msgid "Caleb believes Velma has been skimming money out of the warehouse accounts. If you can find proof, he can use that as leverage to make Velma negotiate."
+msgstr ""
+
+#: quests/04_monarch/sq_0402_herrickshandiwork:20003
+msgctxt "quests/04_monarch/sq_0402_herrickshandiwork:20003:DefaultText"
+msgid "When confronted about skimming money, Velma mentioned her office terminal."
+msgstr ""
+
+#: quests/04_monarch/sq_0402_herrickshandiwork:20004
+msgctxt "quests/04_monarch/sq_0402_herrickshandiwork:20004:DefaultText"
+msgid "You retrieved financial data from Velma's terminal showing that she's been siphoning money into her personal account."
+msgstr ""
+
+#: quests/04_monarch/sq_0402_herrickshandiwork:30000
+msgctxt "quests/04_monarch/sq_0402_herrickshandiwork:30000:DefaultText"
+msgid "Velma Ballard is dead."
+msgstr ""
+
+#: quests/04_monarch/sq_0402_herrickshandiwork:30001
+msgctxt "quests/04_monarch/sq_0402_herrickshandiwork:30001:DefaultText"
+msgid "Caleb Herrick is dead."
+msgstr ""
+
+#: quests/04_monarch/sq_0402_herrickshandiwork:30002
+msgctxt "quests/04_monarch/sq_0402_herrickshandiwork:30002:DefaultText"
+msgid "You persuaded Caleb that it was in his best interest to return to work before Velma hired replacements."
+msgstr ""
+
+#: quests/04_monarch/sq_0402_herrickshandiwork:30003
+msgctxt "quests/04_monarch/sq_0402_herrickshandiwork:30003:DefaultText"
+msgid "You stole Caleb's stash from his home. Without a supply of bits to live on, he was forced to return to work without a raise."
+msgstr ""
+
+#: quests/04_monarch/sq_0402_herrickshandiwork:30004
+msgctxt "quests/04_monarch/sq_0402_herrickshandiwork:30004:DefaultText"
+msgid "You persuaded Velma to give Caleb and his workers a raise."
+msgstr ""
+
+#: quests/04_monarch/sq_0402_herrickshandiwork:30005
+msgctxt "quests/04_monarch/sq_0402_herrickshandiwork:30005:DefaultText"
+msgid "You discovered that Velma has been skimming profits from MSI and used that to extort her into raising salaries."
+msgstr ""
+
+#: quests/04_monarch/sq_0402_herrickshandiwork:40001
+msgctxt "quests/04_monarch/sq_0402_herrickshandiwork:40001:DefaultText"
+msgid "Caleb and the auto loader operators are asking for a raise, but their boss, Velma Ballard, refuses to negotiate."
+msgstr ""

@@ -1,0 +1,141 @@
+#: conversations/04_monarch/0402/0402_cv_msi_warehouse_telexlogs:1
+msgctxt "conversations/04_monarch/0402/0402_cv_msi_warehouse_telexlogs:1:DefaultText"
+msgid "Messages\n"
+"======================\n"
+""
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_msi_warehouse_telexlogs:2
+msgctxt "conversations/04_monarch/0402/0402_cv_msi_warehouse_telexlogs:2:DefaultText"
+msgid "[TO: B. Hecht]"
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_msi_warehouse_telexlogs:3
+msgctxt "conversations/04_monarch/0402/0402_cv_msi_warehouse_telexlogs:3:DefaultText"
+msgid "[TO: S. Nandi]"
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_msi_warehouse_telexlogs:4
+msgctxt "conversations/04_monarch/0402/0402_cv_msi_warehouse_telexlogs:4:DefaultText"
+msgid "[TO: B. Hecht]"
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_msi_warehouse_telexlogs:5
+msgctxt "conversations/04_monarch/0402/0402_cv_msi_warehouse_telexlogs:5:DefaultText"
+msgid "[Exit]"
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_msi_warehouse_telexlogs:6
+msgctxt "conversations/04_monarch/0402/0402_cv_msi_warehouse_telexlogs:6:DefaultText"
+msgid "Braxton,\r\n"
+"\r\n"
+"The fish in tank 23-A are looking a little lumpy. If you're not going to make it in, that's fine, but you have to let me know so I can stay on top of the doses.\r\n"
+"\r\n"
+"- Velma"
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_msi_warehouse_telexlogs:7
+msgctxt "conversations/04_monarch/0402/0402_cv_msi_warehouse_telexlogs:7:DefaultText"
+msgid "Brax,\r\n"
+"\r\n"
+"Seriously, where are you? You've missed three shifts. This is getting ridiculous, even for you.\r\n"
+"\r\n"
+"- V"
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_msi_warehouse_telexlogs:8
+msgctxt "conversations/04_monarch/0402/0402_cv_msi_warehouse_telexlogs:8:DefaultText"
+msgid "Mr. Nandi,\r\n"
+"\r\n"
+"We really need to talk about the saltuna situation. I've had to let four batches rot in the warehouse over the last two months because we're not finding buyers. \r\n"
+"\r\n"
+"I know the situation with the Board puts us in a tough spot, but we need to start thinking about how we're going to keep Stellar Bay afloat if we can't get sales up.\r\n"
+"\r\n"
+"- V. Ballard"
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_msi_warehouse_telexlogs:9
+msgctxt "conversations/04_monarch/0402/0402_cv_msi_warehouse_telexlogs:9:DefaultText"
+msgid "Monarch Stellar Industries\r\n"
+"==========================\r\n"
+"\r\n"
+"This terminal is only to be used for official work on behalf of Monarch Stellar Industries."
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_msi_warehouse_telexlogs:10
+msgctxt "conversations/04_monarch/0402/0402_cv_msi_warehouse_telexlogs:10:DefaultText"
+msgid "[Return to Root]"
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_msi_warehouse_telexlogs:11
+msgctxt "conversations/04_monarch/0402/0402_cv_msi_warehouse_telexlogs:11:DefaultText"
+msgid "[Personal Files]"
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_msi_warehouse_telexlogs:12
+msgctxt "conversations/04_monarch/0402/0402_cv_msi_warehouse_telexlogs:12:DefaultText"
+msgid "[Messages]"
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_msi_warehouse_telexlogs:13
+msgctxt "conversations/04_monarch/0402/0402_cv_msi_warehouse_telexlogs:13:DefaultText"
+msgid "Please enter authorization code to access personal files:\r\n"
+""
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_msi_warehouse_telexlogs:14
+msgctxt "conversations/04_monarch/0402/0402_cv_msi_warehouse_telexlogs:14:DefaultText"
+msgid "[Bypass]"
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_msi_warehouse_telexlogs:16
+msgctxt "conversations/04_monarch/0402/0402_cv_msi_warehouse_telexlogs:16:DefaultText"
+msgid "Please enter the name of the employee whose files you want to view:"
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_msi_warehouse_telexlogs:17
+msgctxt "conversations/04_monarch/0402/0402_cv_msi_warehouse_telexlogs:17:DefaultText"
+msgid "[Hecht, B.]"
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_msi_warehouse_telexlogs:18
+msgctxt "conversations/04_monarch/0402/0402_cv_msi_warehouse_telexlogs:18:DefaultText"
+msgid "[Ballard, V.]"
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_msi_warehouse_telexlogs:19
+msgctxt "conversations/04_monarch/0402/0402_cv_msi_warehouse_telexlogs:19:DefaultText"
+msgid "[Braxton Hecht's files are filled with saltuna breeding charts, various pharmacological formulae, and musings on why saltuna seem to prefer Boarst 'n Beans over plain Boarstwurst.]"
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_msi_warehouse_telexlogs:20
+msgctxt "conversations/04_monarch/0402/0402_cv_msi_warehouse_telexlogs:20:DefaultText"
+msgid "[Velma's personal files are a morass of supply contracts, order forms, spreadsheets, and financial records. Careful study of her financials reveals that for the past several years she has been slowly siphoning money from her operating budget into a personal account.\r\n"
+"\r\n"
+"The theft is cleverly hidden. Individual instances could be excused as rounding errors or mistakes in simple arithmetic. The sheer volume of occurrences, however, indicates deliberate intent.]"
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_msi_warehouse_telexlogs:21
+msgctxt "conversations/04_monarch/0402/0402_cv_msi_warehouse_telexlogs:21:DefaultText"
+msgid "[Back]"
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_msi_warehouse_telexlogs:22
+msgctxt "conversations/04_monarch/0402/0402_cv_msi_warehouse_telexlogs:22:DefaultText"
+msgid "[Back]"
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_msi_warehouse_telexlogs:23
+msgctxt "conversations/04_monarch/0402/0402_cv_msi_warehouse_telexlogs:23:DefaultText"
+msgid "[Bypass]"
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_msi_warehouse_telexlogs:26
+msgctxt "conversations/04_monarch/0402/0402_cv_msi_warehouse_telexlogs:26:DefaultText"
+msgid "[Mash Random Keys]"
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_msi_warehouse_telexlogs:27
+msgctxt "conversations/04_monarch/0402/0402_cv_msi_warehouse_telexlogs:27:DefaultText"
+msgid "Password incorrect. Please try again."
+msgstr ""

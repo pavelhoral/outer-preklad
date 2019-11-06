@@ -1,0 +1,1019 @@
+#: conversations/companions/g_companion_max_in_party:13
+msgctxt "conversations/companions/g_companion_max_in_party:13:DefaultText"
+msgid "I could spend hours reflecting on the secret workings of the universe. Little else in this colony offers such a relaxing pastime."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:14
+msgctxt "conversations/companions/g_companion_max_in_party:14:DefaultText"
+msgid "By verity, by strength."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:15
+msgctxt "conversations/companions/g_companion_max_in_party:15:DefaultText"
+msgid "Yes, you caught me ruminating again. Guilty as charged."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:17
+msgctxt "conversations/companions/g_companion_max_in_party:17:DefaultText"
+msgid "Anything you'd like to discuss?"
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:18
+msgctxt "conversations/companions/g_companion_max_in_party:18:DefaultText"
+msgid "I like to know something about those I'm flying with. What's your story?"
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:19
+msgctxt "conversations/companions/g_companion_max_in_party:19:DefaultText"
+msgid "Seems quite trusting of you to just sign on without knowing anything about me."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:20
+msgctxt "conversations/companions/g_companion_max_in_party:20:DefaultText"
+msgid "I'll think it over and get back to you."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:25
+msgctxt "conversations/companions/g_companion_max_in_party:25:DefaultText"
+msgid "I have run head long into too many walls in my pursuit of the truth. This book is my last hope, and you were my only hope of getting it translated."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:27
+msgctxt "conversations/companions/g_companion_max_in_party:27:DefaultText"
+msgid "If you can't help but follow the Plan, then everything you do is part of it, right? "
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:30
+msgctxt "conversations/companions/g_companion_max_in_party:30:DefaultText"
+msgid "They internalized the precepts of Scientism like no one I've ever known. They had a pure faith, a faith that brought joy to them regardless of the situation. "
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:31
+msgctxt "conversations/companions/g_companion_max_in_party:31:DefaultText"
+msgid "I envied that. I wanted that peace. I thought if I became a vicar, I could find it - or at the very least find out why I lacked it. "
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:32
+msgctxt "conversations/companions/g_companion_max_in_party:32:DefaultText"
+msgid "Tell me about your religion."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:33
+msgctxt "conversations/companions/g_companion_max_in_party:33:DefaultText"
+msgid "The Plan is not one rigid path, there are a variety of multitudes contained within it. Our paths have variance, but we'll end up adhering to it whether we like it or not"
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:34
+msgctxt "conversations/companions/g_companion_max_in_party:34:DefaultText"
+msgid "Some choices make the path smoother, some rougher. You can even go outside the lines, but the further outside you go..."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:35
+msgctxt "conversations/companions/g_companion_max_in_party:35:DefaultText"
+msgid "It's like an unbreakable elastic band - it will only stretch so far before it snaps back. The further it is stretched, the more violent the eventual correction."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:37
+msgctxt "conversations/companions/g_companion_max_in_party:37:DefaultText"
+msgid "They thought I was fighting the Plan, should have accepted my lot. Some people pursue the clergy for power, prestige, but that was not me."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:41
+msgctxt "conversations/companions/g_companion_max_in_party:41:DefaultText"
+msgid "Makes sense."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:42
+msgctxt "conversations/companions/g_companion_max_in_party:42:DefaultText"
+msgid "What about you? What's your story?"
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:43
+msgctxt "conversations/companions/g_companion_max_in_party:43:DefaultText"
+msgid "I was a colonist on the Hope. A scientist named Welles saved me."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:44
+msgctxt "conversations/companions/g_companion_max_in_party:44:DefaultText"
+msgid "I don't want to talk about it."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:47
+msgctxt "conversations/companions/g_companion_max_in_party:47:DefaultText"
+msgid "I had family on the Hope."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:48
+msgctxt "conversations/companions/g_companion_max_in_party:48:DefaultText"
+msgid "My friends are on the Hope."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:49
+msgctxt "conversations/companions/g_companion_max_in_party:49:DefaultText"
+msgid "Just because it's the right thing to do."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:50
+msgctxt "conversations/companions/g_companion_max_in_party:50:DefaultText"
+msgid "I don't know."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:52
+msgctxt "conversations/companions/g_companion_max_in_party:52:DefaultText"
+msgid "I'm more interested in getting paid than paying him back."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:53
+msgctxt "conversations/companions/g_companion_max_in_party:53:DefaultText"
+msgid "It's every person for themselves. He had no right to bring me into this hell hole."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:54
+msgctxt "conversations/companions/g_companion_max_in_party:54:DefaultText"
+msgid "It's fun."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:59
+msgctxt "conversations/companions/g_companion_max_in_party:59:DefaultText"
+msgid "But weren't they proud when you became a vicar, at least?"
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:75
+msgctxt "conversations/companions/g_companion_max_in_party:75:DefaultText"
+msgid "Why were you so passionate about it?"
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:77
+msgctxt "conversations/companions/g_companion_max_in_party:77:DefaultText"
+msgid "Were they not religious?"
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:78
+msgctxt "conversations/companions/g_companion_max_in_party:78:DefaultText"
+msgid "My parents, ironically."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:79
+msgctxt "conversations/companions/g_companion_max_in_party:79:DefaultText"
+msgid "On the contrary. "
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:81
+msgctxt "conversations/companions/g_companion_max_in_party:81:DefaultText"
+msgid "Nothing too out of the ordinary, just your run of the mill vicar with a \"violently enthusiastic\" disposition."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:82
+msgctxt "conversations/companions/g_companion_max_in_party:82:DefaultText"
+msgid "'Violently enthusiastic disposition'?"
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:83
+msgctxt "conversations/companions/g_companion_max_in_party:83:DefaultText"
+msgid "I wanted to ask you about that book. Does it have something to do with your religion?"
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:84
+msgctxt "conversations/companions/g_companion_max_in_party:84:DefaultText"
+msgid "That's what my parents called it. "
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:85
+msgctxt "conversations/companions/g_companion_max_in_party:85:DefaultText"
+msgid "I was destined to be a laborer like my parents, but I was... infected early with a need to solve the Equation. My passion didn't sit well with them."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:86
+msgctxt "conversations/companions/g_companion_max_in_party:86:DefaultText"
+msgid "Bakonu - the author - had some interesting theories about man's perception of reality that I thought could be applied to our attempts to decipher the Plan."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:87
+msgctxt "conversations/companions/g_companion_max_in_party:87:DefaultText"
+msgid "Unfortunately, he was also one of the founders of the Philosophist school of thought, so the book is banned in this colony."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:88
+msgctxt "conversations/companions/g_companion_max_in_party:88:DefaultText"
+msgid "What's a Philosophist?"
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:89
+msgctxt "conversations/companions/g_companion_max_in_party:89:DefaultText"
+msgid "Philosophism's a false religion that stands in contradiction to almost everything we know to be true. They believe all is chaos, in stark contrast to OSI's belief in the Plan. "
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:90
+msgctxt "conversations/companions/g_companion_max_in_party:90:DefaultText"
+msgid "But most of the Philosophist perversion of Bakonu's thoughts came more than a century after his death."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:91
+msgctxt "conversations/companions/g_companion_max_in_party:91:DefaultText"
+msgid "A vicar searching for a banned book sets a bad example, doesn't it?"
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:92
+msgctxt "conversations/companions/g_companion_max_in_party:92:DefaultText"
+msgid "The story of my life. Most laypeople are not aware of this, but we've not discovered any new insights into the Plan for a long, long time. "
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:93
+msgctxt "conversations/companions/g_companion_max_in_party:93:DefaultText"
+msgid "I had an idea that we should welcome the truth, no matter where we found it. I had the worse idea to share my thoughts with a superior."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:94
+msgctxt "conversations/companions/g_companion_max_in_party:94:DefaultText"
+msgid "And that's how I ended up assigned prison duty, where I was fool enough to let an inmate bend my ear with stories of an original Bakonu journal."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:96
+msgctxt "conversations/companions/g_companion_max_in_party:96:DefaultText"
+msgid "You mentioned something called a \"Philosophist.\" What's that?"
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:97
+msgctxt "conversations/companions/g_companion_max_in_party:97:DefaultText"
+msgid "That's enough for now."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:102
+msgctxt "conversations/companions/g_companion_max_in_party:102:DefaultText"
+msgid "Any ideas where we can find someone who speaks French in this colony?"
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:103
+msgctxt "conversations/companions/g_companion_max_in_party:103:DefaultText"
+msgid "There are some things I don't understand about your religion."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:104
+msgctxt "conversations/companions/g_companion_max_in_party:104:DefaultText"
+msgid "What's this Plan you keep talking about?"
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:105
+msgctxt "conversations/companions/g_companion_max_in_party:105:DefaultText"
+msgid "Yes?"
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:106
+msgctxt "conversations/companions/g_companion_max_in_party:106:DefaultText"
+msgid "Besides the Grand Architect and the Plan, what else do you believe?"
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:108
+msgctxt "conversations/companions/g_companion_max_in_party:108:DefaultText"
+msgid "That seems a bit extreme."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:109
+msgctxt "conversations/companions/g_companion_max_in_party:109:DefaultText"
+msgid "What if the book *doesn't* have the answers you're looking for?"
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:110
+msgctxt "conversations/companions/g_companion_max_in_party:110:DefaultText"
+msgid "I've been called that more than once."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:111
+msgctxt "conversations/companions/g_companion_max_in_party:111:DefaultText"
+msgid "I honestly don't know what I'd do. This quest has consumed me for the better part of my life, I fear there's nothing else left to me."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:114
+msgctxt "conversations/companions/g_companion_max_in_party:114:DefaultText"
+msgid "He stole my body from the Hope at the edge of the colony and thawed me out."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:115
+msgctxt "conversations/companions/g_companion_max_in_party:115:DefaultText"
+msgid "Well, you do seem different than every other colonist. Let's pretend for the moment I believe you - what are you going to do now?"
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:116
+msgctxt "conversations/companions/g_companion_max_in_party:116:DefaultText"
+msgid "I'm turning him in."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:117
+msgctxt "conversations/companions/g_companion_max_in_party:117:DefaultText"
+msgid "I'm helping him recover more of the chemicals he needs to save the rest of the colonists."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:118
+msgctxt "conversations/companions/g_companion_max_in_party:118:DefaultText"
+msgid "Why would you turn on someone who saved you?"
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:119
+msgctxt "conversations/companions/g_companion_max_in_party:119:DefaultText"
+msgid "That seems a dangerous proposition. Why risk your life now that it's been returned to you?"
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:120
+msgctxt "conversations/companions/g_companion_max_in_party:120:DefaultText"
+msgid "You were the one who started this conversation."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:121
+msgctxt "conversations/companions/g_companion_max_in_party:121:DefaultText"
+msgid "Fair enough."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:122
+msgctxt "conversations/companions/g_companion_max_in_party:122:DefaultText"
+msgid "I'm a thrillseeker and lover of great renown."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:123
+msgctxt "conversations/companions/g_companion_max_in_party:123:DefaultText"
+msgid "Yes, very funny. Just like The Masked Marketeer, right?"
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:124
+msgctxt "conversations/companions/g_companion_max_in_party:124:DefaultText"
+msgid "I'm not familiar."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:125
+msgctxt "conversations/companions/g_companion_max_in_party:125:DefaultText"
+msgid "Everyone knows that aetherwave serial. Where have you been?"
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:126
+msgctxt "conversations/companions/g_companion_max_in_party:126:DefaultText"
+msgid "Exactly."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:127
+msgctxt "conversations/companions/g_companion_max_in_party:127:DefaultText"
+msgid "Okay, then."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:128
+msgctxt "conversations/companions/g_companion_max_in_party:128:DefaultText"
+msgid "I love a good adventure story."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:129
+msgctxt "conversations/companions/g_companion_max_in_party:129:DefaultText"
+msgid "That's not... let's try this again. Who are you? Where are you from?"
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:130
+msgctxt "conversations/companions/g_companion_max_in_party:130:DefaultText"
+msgid "The simple version is this - the force which we call the Grand Architect created the Universal Equation that underlies and defines everything in the universe."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:131
+msgctxt "conversations/companions/g_companion_max_in_party:131:DefaultText"
+msgid "Everything flows from the Equation, or, in layman's terms, the Grand Plan. Is the Grand Architect a consciousness? A natural force? Did it create the Equation on purpose? "
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:132
+msgctxt "conversations/companions/g_companion_max_in_party:132:DefaultText"
+msgid "The answers to these questions don't really matter. The Equation, the Plan, is all that matters. Contentment is found by accepting one's role in the Plan."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:135
+msgctxt "conversations/companions/g_companion_max_in_party:135:DefaultText"
+msgid "As always, I am at your disposal."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:137
+msgctxt "conversations/companions/g_companion_max_in_party:137:DefaultText"
+msgid "Let's talk about this, uh, \"personal quest\" of yours..."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:153
+msgctxt "conversations/companions/g_companion_max_in_party:153:DefaultText"
+msgid "Tell me again about the book we picked up that's in French."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:154
+msgctxt "conversations/companions/g_companion_max_in_party:154:DefaultText"
+msgid "Let's talk about the thing. You know, that, uh, thing with the thing that you wanna do."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:159
+msgctxt "conversations/companions/g_companion_max_in_party:159:DefaultText"
+msgid "Let's talk about something else."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:160
+msgctxt "conversations/companions/g_companion_max_in_party:160:DefaultText"
+msgid "Yes?"
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:161
+msgctxt "conversations/companions/g_companion_max_in_party:161:DefaultText"
+msgid "That's enough for now."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:163
+msgctxt "conversations/companions/g_companion_max_in_party:163:DefaultText"
+msgid "Tell me about the Plan again?"
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:164
+msgctxt "conversations/companions/g_companion_max_in_party:164:DefaultText"
+msgid "Tell me about the Plan again?"
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:174
+msgctxt "conversations/companions/g_companion_max_in_party:174:DefaultText"
+msgid "That's somewhat... concerning."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:175
+msgctxt "conversations/companions/g_companion_max_in_party:175:DefaultText"
+msgid "I eventually learned how to channel it into my quest for knowledge. But my childhood, that is a different tale."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:176
+msgctxt "conversations/companions/g_companion_max_in_party:176:DefaultText"
+msgid "I grew up in a pit of a town much like Edgewater."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:177
+msgctxt "conversations/companions/g_companion_max_in_party:177:DefaultText"
+msgid "That's a convenient way to control the masses."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:178
+msgctxt "conversations/companions/g_companion_max_in_party:178:DefaultText"
+msgid "It can be, if abused. But that can be said about anything. However, in the case of the Board and Halcyon, sadly, I believe you are correct. "
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:180
+msgctxt "conversations/companions/g_companion_max_in_party:180:DefaultText"
+msgid "Scientism, as its name implies, believes that nature abhors equality. The strong survive and the weak perish for the betterment of the whole."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:181
+msgctxt "conversations/companions/g_companion_max_in_party:181:DefaultText"
+msgid "This Plan of yours sounds like a convenient way to control the masses."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:183
+msgctxt "conversations/companions/g_companion_max_in_party:183:DefaultText"
+msgid "That sounds like a cruel belief system."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:184
+msgctxt "conversations/companions/g_companion_max_in_party:184:DefaultText"
+msgid " You lost me at \"scientism.\" "
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:185
+msgctxt "conversations/companions/g_companion_max_in_party:185:DefaultText"
+msgid "Of course I did. Let's see, how can I explain this to someone... like you. Don't be ruled by your emotions, and being strong is better than being weak."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:186
+msgctxt "conversations/companions/g_companion_max_in_party:186:DefaultText"
+msgid "And reason, not emotion, is the seat of all morality. Wisdom means accepting the vicissitudes of life with grace and dignity."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:190
+msgctxt "conversations/companions/g_companion_max_in_party:190:DefaultText"
+msgid "I prefer to think of it as looking at reality for what it truly is, not how we'd like it to be."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:191
+msgctxt "conversations/companions/g_companion_max_in_party:191:DefaultText"
+msgid "Now that's a religion I can get behind. Screw the weak."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:192
+msgctxt "conversations/companions/g_companion_max_in_party:192:DefaultText"
+msgid "Well, that's not quite how I'd put it."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:193
+msgctxt "conversations/companions/g_companion_max_in_party:193:DefaultText"
+msgid "Oh, I see. You have my condolences."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:194
+msgctxt "conversations/companions/g_companion_max_in_party:194:DefaultText"
+msgid "A commendable attitude."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:195
+msgctxt "conversations/companions/g_companion_max_in_party:195:DefaultText"
+msgid "Some would say that's right in line with the core beliefs of the OSI. I tend to take a more... compassionate view, but so be it."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:196
+msgctxt "conversations/companions/g_companion_max_in_party:196:DefaultText"
+msgid "Ah, a cold realist. "
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:197
+msgctxt "conversations/companions/g_companion_max_in_party:197:DefaultText"
+msgid "How should I know? I was frozen at the time."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:198
+msgctxt "conversations/companions/g_companion_max_in_party:198:DefaultText"
+msgid "Unfortunately, he was also one of the founders of the Philosophist school of thought, so the book is banned in this colony."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:199
+msgctxt "conversations/companions/g_companion_max_in_party:199:DefaultText"
+msgid "Remind me, what are your thoughts on the Philosophists?"
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:200
+msgctxt "conversations/companions/g_companion_max_in_party:200:DefaultText"
+msgid "Bakonu - the author - had some interesting theories about man's perception of reality that I thought could be applied to our attempts to decipher the Plan."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:201
+msgctxt "conversations/companions/g_companion_max_in_party:201:DefaultText"
+msgid "Philosophism's a false religion that stands in contradiction to almost everything we know to be true. They believe all is chaos, in stark contrast to OSI's belief in the Plan. "
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:202
+msgctxt "conversations/companions/g_companion_max_in_party:202:DefaultText"
+msgid "But most of the Philosophist perversion of Bakonu's thoughts came more than a century after his death."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:203
+msgctxt "conversations/companions/g_companion_max_in_party:203:DefaultText"
+msgid "That was quite the argument you had with Graham."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:204
+msgctxt "conversations/companions/g_companion_max_in_party:204:DefaultText"
+msgid "I've been mulling over everything with Graham and the Iconoclasts."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:206
+msgctxt "conversations/companions/g_companion_max_in_party:206:DefaultText"
+msgid "He's an unhinged zealot who lacks awareness of the consequences of his choices. I wouldn't trust him to lead a crew let alone a townwide cult."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:207
+msgctxt "conversations/companions/g_companion_max_in_party:207:DefaultText"
+msgid "I don't normally advocate murder, but as far as Graham was concerned, I think you made the right call."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:208
+msgctxt "conversations/companions/g_companion_max_in_party:208:DefaultText"
+msgid "Upon further reflection, Graham's not as much of an idiot as I thought he'd be, but in other ways he's worse. I'd urge you to be careful in future dealings with him, Captain. "
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:209
+msgctxt "conversations/companions/g_companion_max_in_party:209:DefaultText"
+msgid "He's the lesser of two evils."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:210
+msgctxt "conversations/companions/g_companion_max_in_party:210:DefaultText"
+msgid "Who would you trust to run Monarch?"
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:211
+msgctxt "conversations/companions/g_companion_max_in_party:211:DefaultText"
+msgid "If I wanted your opinion, I'd have asked for it."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:212
+msgctxt "conversations/companions/g_companion_max_in_party:212:DefaultText"
+msgid "Zora's militant, unbending, and ruthless for sure. I'd be hesitant to oppose her. But she gets results, and she doesn't suppress intelligent discourse. "
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:213
+msgctxt "conversations/companions/g_companion_max_in_party:213:DefaultText"
+msgid "As much as I usually appreciate the Board's ordered approach to governance, in Monarch's case, they aren't really running anything so much as leaving everyone to rot."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:214
+msgctxt "conversations/companions/g_companion_max_in_party:214:DefaultText"
+msgid "Well, then, consider my opinion on the matter fully exhausted."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:215
+msgctxt "conversations/companions/g_companion_max_in_party:215:DefaultText"
+msgid "Glad you see it my way."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:216
+msgctxt "conversations/companions/g_companion_max_in_party:216:DefaultText"
+msgid "I did what needed to be done."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:217
+msgctxt "conversations/companions/g_companion_max_in_party:217:DefaultText"
+msgid "I think we often see eye-to-eye. It's one of the reasons I believe our paths were destined to cross."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:218
+msgctxt "conversations/companions/g_companion_max_in_party:218:DefaultText"
+msgid "Exactly. Graham was an unhinged zealot sitting on a powderkeg. He was far too dangerous to leave loose on Monarch."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:219
+msgctxt "conversations/companions/g_companion_max_in_party:219:DefaultText"
+msgid "Let it be a lesson in what happens to those who annoy me."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:220
+msgctxt "conversations/companions/g_companion_max_in_party:220:DefaultText"
+msgid "Good thing I never annoy you then. "
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:222
+msgctxt "conversations/companions/g_companion_max_in_party:222:DefaultText"
+msgid "He may not have struck at you yet, but he would have given enough time for his paranoia to grow."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:223
+msgctxt "conversations/companions/g_companion_max_in_party:223:DefaultText"
+msgid "Sanjar may be a corporate shill, but he's safe. He doesn't have it in him to hurt anyone."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:224
+msgctxt "conversations/companions/g_companion_max_in_party:224:DefaultText"
+msgid "I can't believe you'd support Graham's riotous anarchism as Monarch's solution. But I trust you know what you are doing. So we'll leave it at that."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:225
+msgctxt "conversations/companions/g_companion_max_in_party:225:DefaultText"
+msgid "How so?"
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:226
+msgctxt "conversations/companions/g_companion_max_in_party:226:DefaultText"
+msgid "Unless you agree with them that the inhabitants of Monarch should be forced to evacuate - or die from their stubborn rebelliousness."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:227
+msgctxt "conversations/companions/g_companion_max_in_party:227:DefaultText"
+msgid "Zora's militant, unbending, and ruthless for sure. I'd be hesitant to oppose her. But she gets results, and she doesn't suppress intelligent discourse. "
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:228
+msgctxt "conversations/companions/g_companion_max_in_party:228:DefaultText"
+msgid "Can't say I agree with the Iconoclasts. But Zora has what it takes to save Monarch."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:229
+msgctxt "conversations/companions/g_companion_max_in_party:229:DefaultText"
+msgid "Sanjar may be a corporate shill, but he's safe. He doesn't have it in him to hurt anyone."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:230
+msgctxt "conversations/companions/g_companion_max_in_party:230:DefaultText"
+msgid "If I was going to trust Monarch's wellbeing to anyone, it'd be him."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:231
+msgctxt "conversations/companions/g_companion_max_in_party:231:DefaultText"
+msgid "You don't think we should have left him in charge of Monarch?"
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:232
+msgctxt "conversations/companions/g_companion_max_in_party:232:DefaultText"
+msgid "I have my doubts that Sanjar or Zora would've been any better."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:235
+msgctxt "conversations/companions/g_companion_max_in_party:235:DefaultText"
+msgid "Do you have any thoughts on the presentation we saw on the Board's plan for solving the food crisis?"
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:236
+msgctxt "conversations/companions/g_companion_max_in_party:236:DefaultText"
+msgid "Anyone with eyes to see would not be shocked to hear that the colony is dying. But the Board's solution, on the other hand..."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:239
+msgctxt "conversations/companions/g_companion_max_in_party:239:DefaultText"
+msgid "Well, that was... as unexpected and disturbing as it was enlightening."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:240
+msgctxt "conversations/companions/g_companion_max_in_party:240:DefaultText"
+msgid "I don't know yet."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:241
+msgctxt "conversations/companions/g_companion_max_in_party:241:DefaultText"
+msgid "We'll have to dig more into the issue and sort it all out."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:242
+msgctxt "conversations/companions/g_companion_max_in_party:242:DefaultText"
+msgid "I fail to see how it's our problem."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:244
+msgctxt "conversations/companions/g_companion_max_in_party:244:DefaultText"
+msgid "Yes, of course. And when you do, you can count on me to back your play."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:245
+msgctxt "conversations/companions/g_companion_max_in_party:245:DefaultText"
+msgid "Well, I would love to point out the flaws in your logic, but it's undeniable that self interest hasn't failed us so far."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:248
+msgctxt "conversations/companions/g_companion_max_in_party:248:DefaultText"
+msgid "So, tell me what's on your mind. I excel at confessional listening."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:249
+msgctxt "conversations/companions/g_companion_max_in_party:249:DefaultText"
+msgid "What are we contemplating today?"
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:250
+msgctxt "conversations/companions/g_companion_max_in_party:250:DefaultText"
+msgid "What's occupying your thoughts?"
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:251
+msgctxt "conversations/companions/g_companion_max_in_party:251:DefaultText"
+msgid "Something vexing you, Captain?"
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:252
+msgctxt "conversations/companions/g_companion_max_in_party:252:DefaultText"
+msgid "I find myself marveling at the complex simplicity of the Fibonacci spiral. I'm sure you know what that's like."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:255
+msgctxt "conversations/companions/g_companion_max_in_party:255:DefaultText"
+msgid "Captain, if I could trouble you for a moment of your time. While we're on the Groundbreaker, I may have an idea for how we could find a translator."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:256
+msgctxt "conversations/companions/g_companion_max_in_party:256:DefaultText"
+msgid "You know somebody who can read the book?"
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:257
+msgctxt "conversations/companions/g_companion_max_in_party:257:DefaultText"
+msgid "Not now, Vicar."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:259
+msgctxt "conversations/companions/g_companion_max_in_party:259:DefaultText"
+msgid "During the experience at the hermit's you seemed, um, somewhat at odds with your mother..."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:260
+msgctxt "conversations/companions/g_companion_max_in_party:260:DefaultText"
+msgid "I wouldn't say my parents disowned me, strictly speaking... but before they died, they accused me of thoughtlessly abandoning them."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:261
+msgctxt "conversations/companions/g_companion_max_in_party:261:DefaultText"
+msgid "I couldn't understand it. I was only trying to make them proud by becoming a better vessel for the Plan, to feel the joy they felt. "
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:262
+msgctxt "conversations/companions/g_companion_max_in_party:262:DefaultText"
+msgid "Couldn't they see that my potential was wasted as a laborer? Going so far in my hunt for the truth, risking it all, I just wanted to prove to them... well, it doesn't really matter now."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:263
+msgctxt "conversations/companions/g_companion_max_in_party:263:DefaultText"
+msgid "Even so, I might very well have taken offense at your killing her were she not already dead."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:264
+msgctxt "conversations/companions/g_companion_max_in_party:264:DefaultText"
+msgid "Choosing to save themselves, and their families, and friends, at the expense of the rest of the colony? Those fucking bastards. What are we going to do about this? "
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:265
+msgctxt "conversations/companions/g_companion_max_in_party:265:DefaultText"
+msgid "I don’t know, but someone's going to die. And it won’t be us."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:266
+msgctxt "conversations/companions/g_companion_max_in_party:266:DefaultText"
+msgid "I couldn't agree more."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:267
+msgctxt "conversations/companions/g_companion_max_in_party:267:DefaultText"
+msgid "Well, when you figure it out, you can count on me to back your play. "
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:270
+msgctxt "conversations/companions/g_companion_max_in_party:270:DefaultText"
+msgid "Your ability to get out of tight situations virtually undetected hasn't failed us so far."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:271
+msgctxt "conversations/companions/g_companion_max_in_party:271:DefaultText"
+msgid "Your ability to talk us out of even the most hopeless situations hasn't failed us so far."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:272
+msgctxt "conversations/companions/g_companion_max_in_party:272:DefaultText"
+msgid "Your propensity for wanton violence hasn't failed us so far."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:273
+msgctxt "conversations/companions/g_companion_max_in_party:273:DefaultText"
+msgid "I hate to contradict you by pointing out that everyone dies. But it *is* better to die last, I suppose."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:274
+msgctxt "conversations/companions/g_companion_max_in_party:274:DefaultText"
+msgid "Your instincts haven't failed us so far."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:275
+msgctxt "conversations/companions/g_companion_max_in_party:275:DefaultText"
+msgid "I feel compelled to remind you that none of us are an island. We exist in relation to all that is around us. In short, we're stuck here. If this colony dies, we die with it."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:277
+msgctxt "conversations/companions/g_companion_max_in_party:277:DefaultText"
+msgid "If I still believed in the Grand Plan a revelation like this would have seriously shaken my faith."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:279
+msgctxt "conversations/companions/g_companion_max_in_party:279:DefaultText"
+msgid "Knowing you, I can only assume you have already begun formulating a plan to deal with this. So tell me, what are we going to do?"
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:285
+msgctxt "conversations/companions/g_companion_max_in_party:285:DefaultText"
+msgid "Graham is so close to the truth, but he'll never see it. He's too busy wielding it like a bludgeon to support his own self image."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:286
+msgctxt "conversations/companions/g_companion_max_in_party:286:DefaultText"
+msgid "This leaves him unhinged and unaware of the consequences of his choices. I urge you to be careful in your dealings with him. His mercurial nature makes him a bad choice to lead anyone."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:287
+msgctxt "conversations/companions/g_companion_max_in_party:287:DefaultText"
+msgid "Thanks for your input, I'll keep it in mind."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:288
+msgctxt "conversations/companions/g_companion_max_in_party:288:DefaultText"
+msgid "Of course, it's my job."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:289
+msgctxt "conversations/companions/g_companion_max_in_party:289:DefaultText"
+msgid "What are your thoughts on what happened in Amber Heights?"
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:291
+msgctxt "conversations/companions/g_companion_max_in_party:291:DefaultText"
+msgid "I used to believe their religion to be false, in contradiction to what I knew to be true. "
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:292
+msgctxt "conversations/companions/g_companion_max_in_party:292:DefaultText"
+msgid "How pompous and sure of myself I was. Their basic tenets were closer to the truth than my own cherished beliefs."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:293
+msgctxt "conversations/companions/g_companion_max_in_party:293:DefaultText"
+msgid "I was so certain my potential was wasted as a laborer, and was willing to risk everything just to prove to them that they were wrong. I was lost, misguided..."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:294
+msgctxt "conversations/companions/g_companion_max_in_party:294:DefaultText"
+msgid "Please, Vic. You're just all shook up 'cause Mr. Graham argued circles around you."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:296
+msgctxt "conversations/companions/g_companion_max_in_party:296:DefaultText"
+msgid "Your mouth's moving, but all I hear coming out is - \"I'm jealous because Mr. Bryant's got a devoted cult following his every word, and I don't.\""
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:297
+msgctxt "conversations/companions/g_companion_max_in_party:297:DefaultText"
+msgid "Your scathing insight into the true nature of my character has cut me to the quick, Felix. I'm not sure I'll ever recover. Graham is the better man, you've forced me to admit it."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:299
+msgctxt "conversations/companions/g_companion_max_in_party:299:DefaultText"
+msgid "I must admit I'm a little surprised you're still considering working with them, especially after hearing of their plan. And erasing a town? Are we really going to do this?"
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:300
+msgctxt "conversations/companions/g_companion_max_in_party:300:DefaultText"
+msgid "I'll back whichever side is best for us. "
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:301
+msgctxt "conversations/companions/g_companion_max_in_party:301:DefaultText"
+msgid "Why wouldn't we? We don't owe anyone anything."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:302
+msgctxt "conversations/companions/g_companion_max_in_party:302:DefaultText"
+msgid "Of course. Well, whatever you decide, you can count on me to back your play."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:303
+msgctxt "conversations/companions/g_companion_max_in_party:303:DefaultText"
+msgid "Well, it sounds like some people need to die. As long it's not us, I'm good with that."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:309
+msgctxt "conversations/companions/g_companion_max_in_party:309:DefaultText"
+msgid "<Let them argue>"
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:310
+msgctxt "conversations/companions/g_companion_max_in_party:310:DefaultText"
+msgid "So, Max, you don't think we should have left him in charge of Monarch?"
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:311
+msgctxt "conversations/companions/g_companion_max_in_party:311:DefaultText"
+msgid "I'd say he's the lesser of two evils."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:312
+msgctxt "conversations/companions/g_companion_max_in_party:312:DefaultText"
+msgid "So, Max, who would you trust to run Monarch?"
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:313
+msgctxt "conversations/companions/g_companion_max_in_party:313:DefaultText"
+msgid "Felix is right. If I wanted your opinion, Max, I'd have asked for it."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:314
+msgctxt "conversations/companions/g_companion_max_in_party:314:DefaultText"
+msgid "Stow it, Felix.Thanks for your input, Max, I'll keep it in mind."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:315
+msgctxt "conversations/companions/g_companion_max_in_party:315:DefaultText"
+msgid "And how did he do that?"
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:316
+msgctxt "conversations/companions/g_companion_max_in_party:316:DefaultText"
+msgid "Return to the Unreliable, Vicar. I want you to wait for me on the ship."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:317
+msgctxt "conversations/companions/g_companion_max_in_party:317:DefaultText"
+msgid "Vicar, you're out of my crew. I want you off this ship."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:318
+msgctxt "conversations/companions/g_companion_max_in_party:318:DefaultText"
+msgid "Wish I could say I was surprised, but I got the sense we weren't quite getting on as well as we should for a time now."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:319
+msgctxt "conversations/companions/g_companion_max_in_party:319:DefaultText"
+msgid "Will do, Captain. I'll keep an eye on her. In the meantime, take care of yourself out here."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:320
+msgctxt "conversations/companions/g_companion_max_in_party:320:DefaultText"
+msgid "Maybe I was too hasty. No need to leave yet."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:321
+msgctxt "conversations/companions/g_companion_max_in_party:321:DefaultText"
+msgid "I mean it. Get lost, preacher man."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:322
+msgctxt "conversations/companions/g_companion_max_in_party:322:DefaultText"
+msgid "All right. I'll be going it alone from here. See you around Halcyon. Maybe."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:323
+msgctxt "conversations/companions/g_companion_max_in_party:323:DefaultText"
+msgid "I'll pack my belongings and go. If that's what you truly desire."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:324
+msgctxt "conversations/companions/g_companion_max_in_party:324:DefaultText"
+msgid "I appreciate the second chance, Captain."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:325
+msgctxt "conversations/companions/g_companion_max_in_party:325:DefaultText"
+msgid "As you know, I was a bit... obsessed with that book and my 'pursuit of the truth'. You seemed my last, only option."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:327
+msgctxt "conversations/companions/g_companion_max_in_party:327:DefaultText"
+msgid "Nothing too out of the ordinary, just your run of the mill vicar with a \"violently enthusiastic\" disposition."
+msgstr ""

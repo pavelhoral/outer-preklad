@@ -1,0 +1,35 @@
+#: conversations/02_terra2/0231_bureau/0231_cp_hr_office:1
+msgctxt "conversations/02_terra2/0231_bureau/0231_cp_hr_office:1:DefaultText"
+msgid "Ministry of Accuracy and Morale\n"
+"========================\n"
+"Welcome to the Human Resources Portal for the Ministry of Accuracy and Morale! \n"
+"\n"
+"Humans are our fourth most important resource at the Ministry. If you have a complaint about anything work-related, write about it here! You will feel much better after you do."
+msgstr ""
+
+#: conversations/02_terra2/0231_bureau/0231_cp_hr_office:2
+msgctxt "conversations/02_terra2/0231_bureau/0231_cp_hr_office:2:DefaultText"
+msgid "[View Employee Complaint]"
+msgstr ""
+
+#: conversations/02_terra2/0231_bureau/0231_cp_hr_office:3
+msgctxt "conversations/02_terra2/0231_bureau/0231_cp_hr_office:3:DefaultText"
+msgid "FROM: Caroline Endecott\r\n"
+"ISSUE: Finally taking action\r\n"
+"\r\n"
+"Theodore Isaacs keeps eating my Purpleberry Lunches! I know that sprat-toothed little snot is the one doing it - I've seen him with cracker crumbs on his lips and purpleberry stains on his lab coat. Working next to him and seeing him pick the remains of MY lunch out of HIS disgusting teeth just makes me want to scream!\r\n"
+"\r\n"
+"There, I did it. I screamed a little. That felt good.\r\n"
+"\r\n"
+"I'm just going to sit in the kitchen and wait for him to do it again. I'll catch him in the act, and then I'll come back and write up another entry. I'm going to be so LIVID."
+msgstr ""
+
+#: conversations/02_terra2/0231_bureau/0231_cp_hr_office:4
+msgctxt "conversations/02_terra2/0231_bureau/0231_cp_hr_office:4:DefaultText"
+msgid "[Exit]"
+msgstr ""
+
+#: conversations/02_terra2/0231_bureau/0231_cp_hr_office:5
+msgctxt "conversations/02_terra2/0231_bureau/0231_cp_hr_office:5:DefaultText"
+msgid "[Return to Root]"
+msgstr ""

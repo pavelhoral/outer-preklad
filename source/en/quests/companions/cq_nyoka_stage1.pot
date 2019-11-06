@@ -1,0 +1,196 @@
+#: quests/companions/cq_nyoka_stage1:0
+msgctxt "quests/companions/cq_nyoka_stage1:0:DefaultText"
+msgid "Star-Crossed Troopers"
+msgstr ""
+
+#: quests/companions/cq_nyoka_stage1:1
+msgctxt "quests/companions/cq_nyoka_stage1:1:DefaultText"
+msgid "Visit Hayes' Grave with Nyoka"
+msgstr ""
+
+#: quests/companions/cq_nyoka_stage1:4
+msgctxt "quests/companions/cq_nyoka_stage1:4:DefaultText"
+msgid "Give Nyoka the Medallion"
+msgstr ""
+
+#: quests/companions/cq_nyoka_stage1:8
+msgctxt "quests/companions/cq_nyoka_stage1:8:DefaultText"
+msgid "Ask Hiram for Help"
+msgstr ""
+
+#: quests/companions/cq_nyoka_stage1:9
+msgctxt "quests/companions/cq_nyoka_stage1:9:DefaultText"
+msgid "Wait for Nyoka's Research"
+msgstr ""
+
+#: quests/companions/cq_nyoka_stage1:10
+msgctxt "quests/companions/cq_nyoka_stage1:10:DefaultText"
+msgid "Search the Outpost"
+msgstr ""
+
+#: quests/companions/cq_nyoka_stage1:11
+msgctxt "quests/companions/cq_nyoka_stage1:11:DefaultText"
+msgid "Speak to Nyoka"
+msgstr ""
+
+#: quests/companions/cq_nyoka_stage1:12
+msgctxt "quests/companions/cq_nyoka_stage1:12:DefaultText"
+msgid "Speak to Nyoka"
+msgstr ""
+
+#: quests/companions/cq_nyoka_stage1:13
+msgctxt "quests/companions/cq_nyoka_stage1:13:DefaultText"
+msgid "Collect 3 Pheromone Glands from Pungent Primals"
+msgstr ""
+
+#: quests/companions/cq_nyoka_stage1:14
+msgctxt "quests/companions/cq_nyoka_stage1:14:DefaultText"
+msgid "Speak to Nyoka"
+msgstr ""
+
+#: quests/companions/cq_nyoka_stage1:15
+msgctxt "quests/companions/cq_nyoka_stage1:15:DefaultText"
+msgid "Clear Out Nyoka's Old Base"
+msgstr ""
+
+#: quests/companions/cq_nyoka_stage1:16
+msgctxt "quests/companions/cq_nyoka_stage1:16:DefaultText"
+msgid "Search the Hive for the Remains of Nyoka's Friends"
+msgstr ""
+
+#: quests/companions/cq_nyoka_stage1:17
+msgctxt "quests/companions/cq_nyoka_stage1:17:DefaultText"
+msgid "Inspect the Mantisaur Feeding Grounds"
+msgstr ""
+
+#: quests/companions/cq_nyoka_stage1:19
+msgctxt "quests/companions/cq_nyoka_stage1:19:DefaultText"
+msgid "Exterminate the Queen and her Hive"
+msgstr ""
+
+#: quests/companions/cq_nyoka_stage1:21
+msgctxt "quests/companions/cq_nyoka_stage1:21:DefaultText"
+msgid "Speak to Nyoka"
+msgstr ""
+
+#: quests/companions/cq_nyoka_stage1:10000
+msgctxt "quests/companions/cq_nyoka_stage1:10000:DefaultText"
+msgid "Nyoka is looking for some closure regarding her old team. The first stop is a grave where she personally buried a man named Hayes."
+msgstr ""
+
+#: quests/companions/cq_nyoka_stage1:10001
+msgctxt "quests/companions/cq_nyoka_stage1:10001:DefaultText"
+msgid "Nyoka gave you directions to a spot on Monarch, where she buried Hayes, a member of her old crew."
+msgstr ""
+
+#: quests/companions/cq_nyoka_stage1:10004
+msgctxt "quests/companions/cq_nyoka_stage1:10004:DefaultText"
+msgid "You found a medallion with the word \"CHARON\" on it."
+msgstr ""
+
+#: quests/companions/cq_nyoka_stage1:10008
+msgctxt "quests/companions/cq_nyoka_stage1:10008:DefaultText"
+msgid "Nyoka believes the information broker can track down her lost friends."
+msgstr ""
+
+#: quests/companions/cq_nyoka_stage1:10009
+msgctxt "quests/companions/cq_nyoka_stage1:10009:DefaultText"
+msgid "Nyoka needs to do some digging to try and track down her old friends' contract. She'll let you know when she's found it."
+msgstr ""
+
+#: quests/companions/cq_nyoka_stage1:10010
+msgctxt "quests/companions/cq_nyoka_stage1:10010:DefaultText"
+msgid "Rebekah and Anders were hired to clear an infestation out of an expansion site for Edgewater that Spacer's Choice abandoned in Emerald Vale. Head there with Nyoka and see if they're still alive."
+msgstr ""
+
+#: quests/companions/cq_nyoka_stage1:10011
+msgctxt "quests/companions/cq_nyoka_stage1:10011:DefaultText"
+msgid "With the broker dead, hopefully there's another option for finding Nyoka's friends."
+msgstr ""
+
+#: quests/companions/cq_nyoka_stage1:10012
+msgctxt "quests/companions/cq_nyoka_stage1:10012:DefaultText"
+msgid "That's three medallions out of six. Speak to Nyoka about what to do next."
+msgstr ""
+
+#: quests/companions/cq_nyoka_stage1:10013
+msgctxt "quests/companions/cq_nyoka_stage1:10013:DefaultText"
+msgid "The mantiqueen will only come out if it thinks a threat is invading its territory. A few Primal glands will do the trick. Nyoka suggested Scylla as prime hunting ground."
+msgstr ""
+
+#: quests/companions/cq_nyoka_stage1:10014
+msgctxt "quests/companions/cq_nyoka_stage1:10014:DefaultText"
+msgid "Give these gross glands to Nyoka. Then find a place to wash your hands."
+msgstr ""
+
+#: quests/companions/cq_nyoka_stage1:10015
+msgctxt "quests/companions/cq_nyoka_stage1:10015:DefaultText"
+msgid "It's time to head to Nyoka's old base, a cave on Monarch, in the region between Fallbrook and Cascadia.\r\n"
+"\r\n"
+"Clear out any Mantisaurs before searching for a spot to place the pheromones."
+msgstr ""
+
+#: quests/companions/cq_nyoka_stage1:10016
+msgctxt "quests/companions/cq_nyoka_stage1:10016:DefaultText"
+msgid "Opal and Clara's bodies are in the caves somewhere. Find their remains and retrieve their medallions."
+msgstr ""
+
+#: quests/companions/cq_nyoka_stage1:10017
+msgctxt "quests/companions/cq_nyoka_stage1:10017:DefaultText"
+msgid "When you're ready, head to the feeding grounds to disperse the pheromones and lure out the queen."
+msgstr ""
+
+#: quests/companions/cq_nyoka_stage1:10019
+msgctxt "quests/companions/cq_nyoka_stage1:10019:DefaultText"
+msgid "Here they come. Kill the brood until the mantiqueen shows up. Then kill her, too."
+msgstr ""
+
+#: quests/companions/cq_nyoka_stage1:10021
+msgctxt "quests/companions/cq_nyoka_stage1:10021:DefaultText"
+msgid "The mantiqueen is dead and you've recovered Clara and Opal's medallions. Check in with Nyoka."
+msgstr ""
+
+#: quests/companions/cq_nyoka_stage1:20000
+msgctxt "quests/companions/cq_nyoka_stage1:20000:DefaultText"
+msgid "You found Rebekah's remains and retrieved her medallion."
+msgstr ""
+
+#: quests/companions/cq_nyoka_stage1:20001
+msgctxt "quests/companions/cq_nyoka_stage1:20001:DefaultText"
+msgid "You found Anderson's remains and retrieved his medallion."
+msgstr ""
+
+#: quests/companions/cq_nyoka_stage1:20002
+msgctxt "quests/companions/cq_nyoka_stage1:20002:DefaultText"
+msgid "You retrieved Opal's medallion."
+msgstr ""
+
+#: quests/companions/cq_nyoka_stage1:20003
+msgctxt "quests/companions/cq_nyoka_stage1:20003:DefaultText"
+msgid "You retrieved Clara's medallion."
+msgstr ""
+
+#: quests/companions/cq_nyoka_stage1:20004
+msgctxt "quests/companions/cq_nyoka_stage1:20004:DefaultText"
+msgid "After running aw- er, making a strategic retreat from the base, Nyoka informed you that the mantisaurs have likely retreated to their tunnels. You'll need to release more pheromones to rile them up again."
+msgstr ""
+
+#: quests/companions/cq_nyoka_stage1:20005
+msgctxt "quests/companions/cq_nyoka_stage1:20005:DefaultText"
+msgid "(<oeiglobal>CQ_Nyoka_GlandsCollectedCount</oeiglobal>/<oeiglobal>CQ_Nyoka_GlandsCollectedMax</oeiglobal>) Pheromone Glands collected."
+msgstr ""
+
+#: quests/companions/cq_nyoka_stage1:30000
+msgctxt "quests/companions/cq_nyoka_stage1:30000:DefaultText"
+msgid "You defeated the mantiqueen and retrieved the last two medallions belonging to Nyoka's old crew, helping her gain some much-needed closure."
+msgstr ""
+
+#: quests/companions/cq_nyoka_stage1:30001
+msgctxt "quests/companions/cq_nyoka_stage1:30001:DefaultText"
+msgid "Nyoka is currently occupying her own grave, and no longer cares about her friends'."
+msgstr ""
+
+#: quests/companions/cq_nyoka_stage1:30002
+msgctxt "quests/companions/cq_nyoka_stage1:30002:DefaultText"
+msgid "Nyoka left and isn't coming back. If she ever finishes this task, it would be on her own."
+msgstr ""

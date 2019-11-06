@@ -1,0 +1,133 @@
+#: conversations/04_monarch/0402/0402_cp_cannibalhouse_terminal:1
+msgctxt "conversations/04_monarch/0402/0402_cp_cannibalhouse_terminal:1:DefaultText"
+msgid "Monarch Stellar Industries\r\n"
+"============================\r\n"
+"\r\n"
+"This terminal is only to be used for official communication on behalf of Monarch Stellar Industries. "
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cp_cannibalhouse_terminal:2
+msgctxt "conversations/04_monarch/0402/0402_cp_cannibalhouse_terminal:2:DefaultText"
+msgid "[Messages]"
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cp_cannibalhouse_terminal:3
+msgctxt "conversations/04_monarch/0402/0402_cp_cannibalhouse_terminal:3:DefaultText"
+msgid "[Exit]"
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cp_cannibalhouse_terminal:4
+msgctxt "conversations/04_monarch/0402/0402_cp_cannibalhouse_terminal:4:DefaultText"
+msgid "Messages\n"
+"======================\n"
+""
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cp_cannibalhouse_terminal:5
+msgctxt "conversations/04_monarch/0402/0402_cp_cannibalhouse_terminal:5:DefaultText"
+msgid "[FROM: E. Mather]"
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cp_cannibalhouse_terminal:6
+msgctxt "conversations/04_monarch/0402/0402_cp_cannibalhouse_terminal:6:DefaultText"
+msgid "[FROM: E. Mather]"
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cp_cannibalhouse_terminal:7
+msgctxt "conversations/04_monarch/0402/0402_cp_cannibalhouse_terminal:7:DefaultText"
+msgid "Braxton,\r\n"
+"\r\n"
+"I'm sorry to impose on you, but we really need more of those pills you found. Ever since we ran out, Martha's hands have started shaking so badly she can barely hold a glass of water. \r\n"
+"\r\n"
+"Please. I'm asking you as a friend.\r\n"
+"\r\n"
+"-Edgar"
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cp_cannibalhouse_terminal:8
+msgctxt "conversations/04_monarch/0402/0402_cp_cannibalhouse_terminal:8:DefaultText"
+msgid "Bratxon,\r\n"
+"\r\n"
+"When can yuo come with mor pills? Got hedaches so bad I can barly read thsi. Lizzie is so sick she won't eat C&P pancakes an you kno how she loves those.\r\n"
+"\r\n"
+"Please, jus once more.\r\n"
+"\r\n"
+"-Edgr"
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cp_cannibalhouse_terminal:9
+msgctxt "conversations/04_monarch/0402/0402_cp_cannibalhouse_terminal:9:DefaultText"
+msgid "[FROM: B. Hecht]"
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cp_cannibalhouse_terminal:10
+msgctxt "conversations/04_monarch/0402/0402_cp_cannibalhouse_terminal:10:DefaultText"
+msgid "Edgar,\r\n"
+"\r\n"
+"You've got to find a way off these pills. I keep trying to tell you I don't think they're helping anymore. \r\n"
+"\r\n"
+"I'll bring one more round of doses to help you ease off, but you have to quit.\r\n"
+"\r\n"
+"And clean up whatever's rotting in your upstairs closet. It smells like a raptidon died in there.\r\n"
+"\r\n"
+"-B"
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cp_cannibalhouse_terminal:11
+msgctxt "conversations/04_monarch/0402/0402_cp_cannibalhouse_terminal:11:DefaultText"
+msgid "[Return to Root]"
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cp_cannibalhouse_terminal:12
+msgctxt "conversations/04_monarch/0402/0402_cp_cannibalhouse_terminal:12:DefaultText"
+msgid "[Personal Files]"
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cp_cannibalhouse_terminal:13
+msgctxt "conversations/04_monarch/0402/0402_cp_cannibalhouse_terminal:13:DefaultText"
+msgid "Personal files for E. Mather\r\n"
+"============================\r\n"
+""
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cp_cannibalhouse_terminal:14
+msgctxt "conversations/04_monarch/0402/0402_cp_cannibalhouse_terminal:14:DefaultText"
+msgid "[Employee of the Month Electronic Certificate]"
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cp_cannibalhouse_terminal:15
+msgctxt "conversations/04_monarch/0402/0402_cp_cannibalhouse_terminal:15:DefaultText"
+msgid "[Notice of Resignation]"
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cp_cannibalhouse_terminal:16
+msgctxt "conversations/04_monarch/0402/0402_cp_cannibalhouse_terminal:16:DefaultText"
+msgid "Employee of the Month\r\n"
+"\r\n"
+"- awarded to -\r\n"
+"\r\n"
+"EDGAR MATHER\r\n"
+"\r\n"
+"in recognition of his/her dedication and hard work at\r\n"
+"\r\n"
+"MSI FISHERIES\r\n"
+"\r\n"
+"Great job, EDGAR!"
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cp_cannibalhouse_terminal:17
+msgctxt "conversations/04_monarch/0402/0402_cp_cannibalhouse_terminal:17:DefaultText"
+msgid "This notice hereby recognizes the resignation of MATHER, EDGAR from MSI FISHERIES for reasons of PERSONAL/FAMILY HEALTH.\r\n"
+"\r\n"
+"Should you wish to return to work at MSI FISHERIES, please inquire about open positions with your local site supervisor."
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cp_cannibalhouse_terminal:20
+msgctxt "conversations/04_monarch/0402/0402_cp_cannibalhouse_terminal:20:DefaultText"
+msgid "[Back]"
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cp_cannibalhouse_terminal:21
+msgctxt "conversations/04_monarch/0402/0402_cp_cannibalhouse_terminal:21:DefaultText"
+msgid "[Back]"
+msgstr ""

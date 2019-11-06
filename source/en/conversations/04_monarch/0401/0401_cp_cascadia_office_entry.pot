@@ -1,0 +1,129 @@
+#: conversations/04_monarch/0401/0401_cp_cascadia_office_entry:1
+msgctxt "conversations/04_monarch/0401/0401_cp_cascadia_office_entry:1:DefaultText"
+msgid "Welcome to the offices of Rizzo, a wholly-owned subsidiary of East West Company."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_cascadia_office_entry:4
+msgctxt "conversations/04_monarch/0401/0401_cp_cascadia_office_entry:4:DefaultText"
+msgid "[Exit]"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_cascadia_office_entry:6
+msgctxt "conversations/04_monarch/0401/0401_cp_cascadia_office_entry:6:DefaultText"
+msgid "[Messages]"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_cascadia_office_entry:7
+msgctxt "conversations/04_monarch/0401/0401_cp_cascadia_office_entry:7:DefaultText"
+msgid "Available messages:"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_cascadia_office_entry:8
+msgctxt "conversations/04_monarch/0401/0401_cp_cascadia_office_entry:8:DefaultText"
+msgid "[TO: C. McClure]"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_cascadia_office_entry:9
+msgctxt "conversations/04_monarch/0401/0401_cp_cascadia_office_entry:9:DefaultText"
+msgid "[FROM: C. McClure]"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_cascadia_office_entry:10
+msgctxt "conversations/04_monarch/0401/0401_cp_cascadia_office_entry:10:DefaultText"
+msgid "[FROM: Z. Blackwood]"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_cascadia_office_entry:11
+msgctxt "conversations/04_monarch/0401/0401_cp_cascadia_office_entry:11:DefaultText"
+msgid "[TO: P. Bartleby]"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_cascadia_office_entry:12
+msgctxt "conversations/04_monarch/0401/0401_cp_cascadia_office_entry:12:DefaultText"
+msgid "To: Cecil M.\r\n"
+"From: Violette H.\r\n"
+"Subject: Approved metaphors\r\n"
+"Date: April 17th, 2342\r\n"
+"\r\n"
+"Cecil,\r\n"
+"\r\n"
+"I have received multiple complaints about your interactions with customers. According to these reports, the following phrases have been used when describing Rizzo products being sold at your storefront:\r\n"
+"\r\n"
+"- \"If that ain't savings, just call me a raptidon [expletive deleted]!\"\r\n"
+"- \"The latest batch is gonna Knock You Out like a nose full of sulfur!\"\r\n"
+"- \"... the north end of a south-bound wooly cow\"\r\n"
+"\r\n"
+"These--and others--are not approved metaphors. Please refer to your employee handbook for the list of metaphors allowed when working.\r\n"
+"\r\n"
+"Much obliged,\r\n"
+"Violette Humbert\r\n"
+"Human Resources Department\r\n"
+"Rizzo, Inc."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_cascadia_office_entry:13
+msgctxt "conversations/04_monarch/0401/0401_cp_cascadia_office_entry:13:DefaultText"
+msgid "To: Violette H.\r\n"
+"From: Cecil M.\r\n"
+"Subject: Violation appeals\r\n"
+"Date: June 20th, 2342\r\n"
+"\r\n"
+"Violette,\r\n"
+"\r\n"
+"I have received notices of the following violations:\r\n"
+"\r\n"
+"- Consumption of Non-Approved Lunch Material\r\n"
+"- Failure to Volunteer for Voluntary Overtime\r\n"
+"- Sale of Restricted Goods\r\n"
+"\r\n"
+"I contest these violations on the following grounds:\r\n"
+"\r\n"
+"- I'm allergic to Purpleberry. Making one of our pre-approved Purpleberry Lunch meals will literally kill me. To be candid, it is a miracle I have lived here this long without incident.\r\n"
+"- I can't volunteer for overtime because I've already been assigned overtime shifts!\r\n"
+"- OK, I'll fess up to selling restricted goods. You got me there. Selling soap to a man who stinks so bad I can't smell the sulfur around him is against the rules. Fine. I won't do it anymore.\r\n"
+"\r\n"
+"- Cecil"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_cascadia_office_entry:14
+msgctxt "conversations/04_monarch/0401/0401_cp_cascadia_office_entry:14:DefaultText"
+msgid "To: Violette H.\r\n"
+"From: Zora B.\r\n"
+"Subject: Simon needs soap\r\n"
+"Date: September 17th, 2342\r\n"
+"\r\n"
+"Violette. Please. We are all begging you. For the love of all that is good and just, please let Cecil sell soap to Simon again.\r\n"
+"\r\n"
+"He's got some kind of condition. I don't rightly know what it is. But I've smelled corpses with a finer odor than his.\r\n"
+"\r\n"
+"- Zora"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_cascadia_office_entry:15
+msgctxt "conversations/04_monarch/0401/0401_cp_cascadia_office_entry:15:DefaultText"
+msgid "To: Pauline B.\n"
+"From: Violette H.\n"
+"Subject: Raptidon sightings\n"
+"Date: September 1st, 2342\n"
+"\n"
+"Ms. Bartleby,\n"
+"\n"
+"I am writing to inform you that multiple employees have filed Form R-441, Perceived Danger to Human Resources, through my office.\n"
+"\n"
+"It appears that raptidon sightings are growing more and more frequent. As Rizzo, Inc. has not responded to our requests for safety equipment, a level of concern and--dare I say it--restlessness grows among the workers.\n"
+"\n"
+"Any indication as to the truth of these sightings, or of the rumors that Rizzo, Inc. is no longer supporting our efforts here, would go a long way toward improving company morale.\n"
+"\n"
+"Thank you,\n"
+"Violette"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_cascadia_office_entry:16
+msgctxt "conversations/04_monarch/0401/0401_cp_cascadia_office_entry:16:DefaultText"
+msgid "[Back]"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_cascadia_office_entry:17
+msgctxt "conversations/04_monarch/0401/0401_cp_cascadia_office_entry:17:DefaultText"
+msgid "[Return to Root]"
+msgstr ""

@@ -1,0 +1,89 @@
+#: conversations/00_emerald_vale/00_cv_crime:1
+msgctxt "conversations/00_emerald_vale/00_cv_crime:1:DefaultText"
+msgid "What do you think you're doing?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_crime:2
+msgctxt "conversations/00_emerald_vale/00_cv_crime:2:DefaultText"
+msgid "<Attack>"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_crime:3
+msgctxt "conversations/00_emerald_vale/00_cv_crime:3:DefaultText"
+msgid "I was just leaving."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_crime:4
+msgctxt "conversations/00_emerald_vale/00_cv_crime:4:DefaultText"
+msgid "I'll pay you <oeiglobal>Bribe_Amount</oeiglobal> bits to look the other way."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_crime:5
+msgctxt "conversations/00_emerald_vale/00_cv_crime:5:DefaultText"
+msgid "Whatever I want."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_crime:6
+msgctxt "conversations/00_emerald_vale/00_cv_crime:6:DefaultText"
+msgid "Nothing at all."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_crime:7
+msgctxt "conversations/00_emerald_vale/00_cv_crime:7:DefaultText"
+msgid "Nothing at all."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_crime:8
+msgctxt "conversations/00_emerald_vale/00_cv_crime:8:DefaultText"
+msgid "Whatever I want."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_crime:9
+msgctxt "conversations/00_emerald_vale/00_cv_crime:9:DefaultText"
+msgid "I was just leaving."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_crime:10
+msgctxt "conversations/00_emerald_vale/00_cv_crime:10:DefaultText"
+msgid "Nothing at all."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_crime:11
+msgctxt "conversations/00_emerald_vale/00_cv_crime:11:DefaultText"
+msgid "Whatever I want."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_crime:12
+msgctxt "conversations/00_emerald_vale/00_cv_crime:12:DefaultText"
+msgid "I was just leaving."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_crime:13
+msgctxt "conversations/00_emerald_vale/00_cv_crime:13:DefaultText"
+msgid "This is a restricted area. Leave now or I am authorized to use deadly force!"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_crime:14
+msgctxt "conversations/00_emerald_vale/00_cv_crime:14:DefaultText"
+msgid "What do you think you're doing?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_crime:15
+msgctxt "conversations/00_emerald_vale/00_cv_crime:15:DefaultText"
+msgid "I was just leaving."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_crime:16
+msgctxt "conversations/00_emerald_vale/00_cv_crime:16:DefaultText"
+msgid "Nothing at all."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_crime:17
+msgctxt "conversations/00_emerald_vale/00_cv_crime:17:DefaultText"
+msgid "Whatever I want."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_crime:18
+msgctxt "conversations/00_emerald_vale/00_cv_crime:18:DefaultText"
+msgid "I was just leaving."
+msgstr ""

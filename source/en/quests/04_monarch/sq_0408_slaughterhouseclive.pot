@@ -1,0 +1,64 @@
+#: quests/04_monarch/sq_0408_slaughterhouseclive:0
+msgctxt "quests/04_monarch/sq_0408_slaughterhouseclive:0:DefaultText"
+msgid "Slaughterhouse Clive"
+msgstr ""
+
+#: quests/04_monarch/sq_0408_slaughterhouseclive:2
+msgctxt "quests/04_monarch/sq_0408_slaughterhouseclive:2:DefaultText"
+msgid "Deal with Clive"
+msgstr ""
+
+#: quests/04_monarch/sq_0408_slaughterhouseclive:4
+msgctxt "quests/04_monarch/sq_0408_slaughterhouseclive:4:DefaultText"
+msgid "Return to Catherine"
+msgstr ""
+
+#: quests/04_monarch/sq_0408_slaughterhouseclive:5
+msgctxt "quests/04_monarch/sq_0408_slaughterhouseclive:5:DefaultText"
+msgid "(Optional) Convince Catherine to Work with Clive"
+msgstr ""
+
+#: quests/04_monarch/sq_0408_slaughterhouseclive:10000
+msgctxt "quests/04_monarch/sq_0408_slaughterhouseclive:10000:DefaultText"
+msgid "With the scarcity of saltuna alternatives on Monarch, Clive Lumbergh has been making a killing by operating the planet's last remaining boarst factory. SubLight wants to take the self-proclaimed Boarst King of Monarch's profits for themselves, and have hired you to get rid of him."
+msgstr ""
+
+#: quests/04_monarch/sq_0408_slaughterhouseclive:10002
+msgctxt "quests/04_monarch/sq_0408_slaughterhouseclive:10002:DefaultText"
+msgid "Make your way to Clive Lumbergh's office in the C&P Factory and get him out of SubLight's way."
+msgstr ""
+
+#: quests/04_monarch/sq_0408_slaughterhouseclive:10004
+msgctxt "quests/04_monarch/sq_0408_slaughterhouseclive:10004:DefaultText"
+msgid "The deed is done. Let Catherine Malin in Fallbrook know the good news."
+msgstr ""
+
+#: quests/04_monarch/sq_0408_slaughterhouseclive:10005
+msgctxt "quests/04_monarch/sq_0408_slaughterhouseclive:10005:DefaultText"
+msgid "Return to Catherine Malin in Fallbrook and propose a working relationship with Clive Lumbergh."
+msgstr ""
+
+#: quests/04_monarch/sq_0408_slaughterhouseclive:20010
+msgctxt "quests/04_monarch/sq_0408_slaughterhouseclive:20010:DefaultText"
+msgid "Alternatively, search the factory for a way to sabotage Clive's operations. Catherine suggests investigating the cystypig food supply, the canning machine or the financial records."
+msgstr ""
+
+#: quests/04_monarch/sq_0408_slaughterhouseclive:30000
+msgctxt "quests/04_monarch/sq_0408_slaughterhouseclive:30000:DefaultText"
+msgid "Clive is dead. Now the Syndicate runs it in his stead, and reaps all the rewards."
+msgstr ""
+
+#: quests/04_monarch/sq_0408_slaughterhouseclive:30001
+msgctxt "quests/04_monarch/sq_0408_slaughterhouseclive:30001:DefaultText"
+msgid "Clive's factory was sabotaged. He'll be forced to give it to Catherine."
+msgstr ""
+
+#: quests/04_monarch/sq_0408_slaughterhouseclive:30002
+msgctxt "quests/04_monarch/sq_0408_slaughterhouseclive:30002:DefaultText"
+msgid "Clive and Catherine have formed a partnership."
+msgstr ""
+
+#: quests/04_monarch/sq_0408_slaughterhouseclive:30003
+msgctxt "quests/04_monarch/sq_0408_slaughterhouseclive:30003:DefaultText"
+msgid "Catherine Malin is dead. Collecting a reward will now be impossible."
+msgstr ""

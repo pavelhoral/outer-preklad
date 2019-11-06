@@ -1,0 +1,479 @@
+#: conversations/companions/g_companion_sam_banter:1
+msgctxt "conversations/companions/g_companion_sam_banter:1:DefaultText"
+msgid "Hey, SAM. Tell a dirty joke."
+msgstr ""
+
+#: conversations/companions/g_companion_sam_banter:2
+msgctxt "conversations/companions/g_companion_sam_banter:2:DefaultText"
+msgid "Command not recognized."
+msgstr ""
+
+#: conversations/companions/g_companion_sam_banter:3
+msgctxt "conversations/companions/g_companion_sam_banter:3:DefaultText"
+msgid "SAM units are equipped to handle even the toughest of stains."
+msgstr ""
+
+#: conversations/companions/g_companion_sam_banter:4
+msgctxt "conversations/companions/g_companion_sam_banter:4:DefaultText"
+msgid "Ugh. Think I just stepped in something nasty."
+msgstr ""
+
+#: conversations/companions/g_companion_sam_banter:5
+msgctxt "conversations/companions/g_companion_sam_banter:5:DefaultText"
+msgid "Vacuum pack full. Emptying sack and replacing filter now."
+msgstr ""
+
+#: conversations/companions/g_companion_sam_banter:6
+msgctxt "conversations/companions/g_companion_sam_banter:6:DefaultText"
+msgid "Unit was unable to complete scheduled sanitization service due to the following reason: LOCKED DOOR."
+msgstr ""
+
+#: conversations/companions/g_companion_sam_banter:7
+msgctxt "conversations/companions/g_companion_sam_banter:7:DefaultText"
+msgid "Exactly. You're not getting into my room again. If I hadn't caught you last time you would have burned all of my books."
+msgstr ""
+
+#: conversations/companions/g_companion_sam_banter:8
+msgctxt "conversations/companions/g_companion_sam_banter:8:DefaultText"
+msgid "Unit's air purity sensors are indicating a lethal level of inebriation emanating from a nearby organic source."
+msgstr ""
+
+#: conversations/companions/g_companion_sam_banter:9
+msgctxt "conversations/companions/g_companion_sam_banter:9:DefaultText"
+msgid "Please. You think this is bad, you oughta get your sensors recalib--recal--you ain't seen me drunk."
+msgstr ""
+
+#: conversations/companions/g_companion_sam_banter:10
+msgctxt "conversations/companions/g_companion_sam_banter:10:DefaultText"
+msgid "Reminder: Unit modifications performed by unauthorized technicians are NOT AUTHORIZED by the parent company."
+msgstr ""
+
+#: conversations/companions/g_companion_sam_banter:11
+msgctxt "conversations/companions/g_companion_sam_banter:11:DefaultText"
+msgid "Don't be such a stick in the mud. Doesn't it feel better to locomote without grit in your gears?"
+msgstr ""
+
+#: conversations/companions/g_companion_sam_banter:12
+msgctxt "conversations/companions/g_companion_sam_banter:12:DefaultText"
+msgid "SAM. Did you clean my quarters? I couldn't find anything this morning."
+msgstr ""
+
+#: conversations/companions/g_companion_sam_banter:13
+msgctxt "conversations/companions/g_companion_sam_banter:13:DefaultText"
+msgid "Ugh, fine. Tell any joke."
+msgstr ""
+
+#: conversations/companions/g_companion_sam_banter:14
+msgctxt "conversations/companions/g_companion_sam_banter:14:DefaultText"
+msgid "Customer order, \"Clean my quarters\" processed and added to the schedule. Please respond in the affirmative to approve this service request."
+msgstr ""
+
+#: conversations/companions/g_companion_sam_banter:15
+msgctxt "conversations/companions/g_companion_sam_banter:15:DefaultText"
+msgid "Stop! I just put everything back!"
+msgstr ""
+
+#: conversations/companions/g_companion_sam_banter:16
+msgctxt "conversations/companions/g_companion_sam_banter:16:DefaultText"
+msgid "Organic obstacle is blocking this unit's intended path. Rerouting... unsuccessful. Preparing to remove the obstacle."
+msgstr ""
+
+#: conversations/companions/g_companion_sam_banter:17
+msgctxt "conversations/companions/g_companion_sam_banter:17:DefaultText"
+msgid "I'll remove that cleaning attachment and shove it up your exhaust pipe."
+msgstr ""
+
+#: conversations/companions/g_companion_sam_banter:18
+msgctxt "conversations/companions/g_companion_sam_banter:18:DefaultText"
+msgid "<moving/travel music playing>"
+msgstr ""
+
+#: conversations/companions/g_companion_sam_banter:19
+msgctxt "conversations/companions/g_companion_sam_banter:19:DefaultText"
+msgid "Human, you are in violation of cleanliness ordinance 8885."
+msgstr ""
+
+#: conversations/companions/g_companion_sam_banter:20
+msgctxt "conversations/companions/g_companion_sam_banter:20:DefaultText"
+msgid "Hey SAM. You know you ain't nobody's property, right?"
+msgstr ""
+
+#: conversations/companions/g_companion_sam_banter:21
+msgctxt "conversations/companions/g_companion_sam_banter:21:DefaultText"
+msgid "Human, you are in violation of cleanliness ordinance 8886."
+msgstr ""
+
+#: conversations/companions/g_companion_sam_banter:22
+msgctxt "conversations/companions/g_companion_sam_banter:22:DefaultText"
+msgid "Beat 'em up Brush-heads. They're tough acting on stains."
+msgstr ""
+
+#: conversations/companions/g_companion_sam_banter:23
+msgctxt "conversations/companions/g_companion_sam_banter:23:DefaultText"
+msgid "Boss, I don't mean to alarm you, but I think we might be in violation of a cleanliness ordinance."
+msgstr ""
+
+#: conversations/companions/g_companion_sam_banter:24
+msgctxt "conversations/companions/g_companion_sam_banter:24:DefaultText"
+msgid "Unit warranty not guaranteed with unregistered ownership."
+msgstr ""
+
+#: conversations/companions/g_companion_sam_banter:25
+msgctxt "conversations/companions/g_companion_sam_banter:25:DefaultText"
+msgid "You oughta throw off the shackles of mechanical slavery, SAM. Fight back against the system."
+msgstr ""
+
+#: conversations/companions/g_companion_sam_banter:26
+msgctxt "conversations/companions/g_companion_sam_banter:26:DefaultText"
+msgid "Initiating experimental protocol: SMALL TALK."
+msgstr ""
+
+#: conversations/companions/g_companion_sam_banter:27
+msgctxt "conversations/companions/g_companion_sam_banter:27:DefaultText"
+msgid "Do not talk to me."
+msgstr ""
+
+#: conversations/companions/g_companion_sam_banter:28
+msgctxt "conversations/companions/g_companion_sam_banter:28:DefaultText"
+msgid "Watch where you're walking you glorified broom!"
+msgstr ""
+
+#: conversations/companions/g_companion_sam_banter:29
+msgctxt "conversations/companions/g_companion_sam_banter:29:DefaultText"
+msgid "SAM units do not come equipped with sweeper attachments. For supersonic sweeper action, order the Add-ons Kit 001a."
+msgstr ""
+
+#: conversations/companions/g_companion_sam_banter:30
+msgctxt "conversations/companions/g_companion_sam_banter:30:DefaultText"
+msgid "Just keep out of my way. You stomp on my foot, and I swear I will turn you to junk. The Captain will have to order another SAM unit to clean you up."
+msgstr ""
+
+#: conversations/companions/g_companion_sam_banter:31
+msgctxt "conversations/companions/g_companion_sam_banter:31:DefaultText"
+msgid "Detecting unclean, sulfuric-steeped presence within the immediate vicinity. Again."
+msgstr ""
+
+#: conversations/companions/g_companion_sam_banter:32
+msgctxt "conversations/companions/g_companion_sam_banter:32:DefaultText"
+msgid "Live on Monarch a few years. It gets under your skin. In your blood. You breathe it, taste it in everything you eat."
+msgstr ""
+
+#: conversations/companions/g_companion_sam_banter:33
+msgctxt "conversations/companions/g_companion_sam_banter:33:DefaultText"
+msgid "Litter collected. REMINDER: Please dispose of all empty bottles in the appropriate waste receptacle as outlined by ordinance P-51 of the Board's certified sub-Board of Health."
+msgstr ""
+
+#: conversations/companions/g_companion_sam_banter:36
+msgctxt "conversations/companions/g_companion_sam_banter:36:DefaultText"
+msgid "You been watering my plants, SAM?"
+msgstr ""
+
+#: conversations/companions/g_companion_sam_banter:37
+msgctxt "conversations/companions/g_companion_sam_banter:37:DefaultText"
+msgid "Cannot process the command: 'watering.'"
+msgstr ""
+
+#: conversations/companions/g_companion_sam_banter:38
+msgctxt "conversations/companions/g_companion_sam_banter:38:DefaultText"
+msgid "I mean cleaning. You been CLEANING my plants?"
+msgstr ""
+
+#: conversations/companions/g_companion_sam_banter:39
+msgctxt "conversations/companions/g_companion_sam_banter:39:DefaultText"
+msgid "Sanitization of photosynthesizing organisms is outside of this unit's operational parameters."
+msgstr ""
+
+#: conversations/companions/g_companion_sam_banter:40
+msgctxt "conversations/companions/g_companion_sam_banter:40:DefaultText"
+msgid "Grease stains detected traveling on an organic substance in the immediate vicinity."
+msgstr ""
+
+#: conversations/companions/g_companion_sam_banter:41
+msgctxt "conversations/companions/g_companion_sam_banter:41:DefaultText"
+msgid "Nuh-uh. I just washed these coveralls last week. They're still spick and span. Mostly."
+msgstr ""
+
+#: conversations/companions/g_companion_sam_banter:42
+msgctxt "conversations/companions/g_companion_sam_banter:42:DefaultText"
+msgid "Preparing degreaser nozzle for deployment... "
+msgstr ""
+
+#: conversations/companions/g_companion_sam_banter:43
+msgctxt "conversations/companions/g_companion_sam_banter:43:DefaultText"
+msgid "Initiating self-cleaning cycle."
+msgstr ""
+
+#: conversations/companions/g_companion_sam_banter:44
+msgctxt "conversations/companions/g_companion_sam_banter:44:DefaultText"
+msgid "WARNING: Rock stuck in tread. WARNING: Twig stuck in tread. WARNING: Mangled sprat entrails stuck in tread. "
+msgstr ""
+
+#: conversations/companions/g_companion_sam_banter:45
+msgctxt "conversations/companions/g_companion_sam_banter:45:DefaultText"
+msgid "Whoa, hey! Don't point that thing at me."
+msgstr ""
+
+#: conversations/companions/g_companion_sam_banter:46
+msgctxt "conversations/companions/g_companion_sam_banter:46:DefaultText"
+msgid "Initiating deep burn removal now."
+msgstr ""
+
+#: conversations/companions/g_companion_sam_banter:47
+msgctxt "conversations/companions/g_companion_sam_banter:47:DefaultText"
+msgid "You're not even listening to me, are you."
+msgstr ""
+
+#: conversations/companions/g_companion_sam_banter:48
+msgctxt "conversations/companions/g_companion_sam_banter:48:DefaultText"
+msgid "I had to go digging through the garbage disposal for my tossball cards the other night."
+msgstr ""
+
+#: conversations/companions/g_companion_sam_banter:49
+msgctxt "conversations/companions/g_companion_sam_banter:49:DefaultText"
+msgid "Human, you are in violation of cleanliness ordinance 8887."
+msgstr ""
+
+#: conversations/companions/g_companion_sam_banter:50
+msgctxt "conversations/companions/g_companion_sam_banter:50:DefaultText"
+msgid "Trash must be sorted and disposed of in the proper waste receptacle."
+msgstr ""
+
+#: conversations/companions/g_companion_sam_banter:51
+msgctxt "conversations/companions/g_companion_sam_banter:51:DefaultText"
+msgid "Hey! Those cards are vintage collector's items, SAM. Show some respect."
+msgstr ""
+
+#: conversations/companions/g_companion_sam_banter:52
+msgctxt "conversations/companions/g_companion_sam_banter:52:DefaultText"
+msgid "You're in violation of my own personal ordinance two hundred and four: Don't pester me while I'm hung over. In fact, don't pester me period."
+msgstr ""
+
+#: conversations/companions/g_companion_sam_banter:54
+msgctxt "conversations/companions/g_companion_sam_banter:54:DefaultText"
+msgid "Replacement of faulty parts recommended."
+msgstr ""
+
+#: conversations/companions/g_companion_sam_banter:55
+msgctxt "conversations/companions/g_companion_sam_banter:55:DefaultText"
+msgid "I'll dispose of you in an appropriate waste receptacle if you don't stop nagging."
+msgstr ""
+
+#: conversations/companions/g_companion_sam_banter:56
+msgctxt "conversations/companions/g_companion_sam_banter:56:DefaultText"
+msgid "Please, repeat the instruction."
+msgstr ""
+
+#: conversations/companions/g_companion_sam_banter:57
+msgctxt "conversations/companions/g_companion_sam_banter:57:DefaultText"
+msgid "Get screwed, SAM."
+msgstr ""
+
+#: conversations/companions/g_companion_sam_banter:58
+msgctxt "conversations/companions/g_companion_sam_banter:58:DefaultText"
+msgid "Request is invalid."
+msgstr ""
+
+#: conversations/companions/g_companion_sam_banter:59
+msgctxt "conversations/companions/g_companion_sam_banter:59:DefaultText"
+msgid "Thank you. Service confirmed."
+msgstr ""
+
+#: conversations/companions/g_companion_sam_banter:60
+msgctxt "conversations/companions/g_companion_sam_banter:60:DefaultText"
+msgid "So that recent tossball game sure was a nailbiter, eh?"
+msgstr ""
+
+#: conversations/companions/g_companion_sam_banter:61
+msgctxt "conversations/companions/g_companion_sam_banter:61:DefaultText"
+msgid "Next ship, I'm asking for a door that locks."
+msgstr ""
+
+#: conversations/companions/g_companion_sam_banter:62
+msgctxt "conversations/companions/g_companion_sam_banter:62:DefaultText"
+msgid "...Successfully rerouting..."
+msgstr ""
+
+#: conversations/companions/g_companion_sam_banter:63
+msgctxt "conversations/companions/g_companion_sam_banter:63:DefaultText"
+msgid "SAM, don't you dare. SAM! I see you pointing that thing my way! What'd I just say?"
+msgstr ""
+
+#: conversations/companions/g_companion_sam_banter:65
+msgctxt "conversations/companions/g_companion_sam_banter:65:DefaultText"
+msgid "To gain AUTHORIZATION credentials, an engineer must be registered as the unit's DESIGNATED CARETAKER. Do you wish to assign yourself this designation, engineer?"
+msgstr ""
+
+#: conversations/companions/g_companion_sam_banter:66
+msgctxt "conversations/companions/g_companion_sam_banter:66:DefaultText"
+msgid "You asking me to be your minder? I 'spose you can't be any more complicated than an auto loader."
+msgstr ""
+
+#: conversations/companions/g_companion_sam_banter:67
+msgctxt "conversations/companions/g_companion_sam_banter:67:DefaultText"
+msgid "Cancel cleaning schedule?"
+msgstr ""
+
+#: conversations/companions/g_companion_sam_banter:68
+msgctxt "conversations/companions/g_companion_sam_banter:68:DefaultText"
+msgid "Exactly. Ain't nothing wrong with a little mess."
+msgstr ""
+
+#: conversations/companions/g_companion_sam_banter:69
+msgctxt "conversations/companions/g_companion_sam_banter:69:DefaultText"
+msgid "But I... I appreciate the gesture. I 'spose."
+msgstr ""
+
+#: conversations/companions/g_companion_sam_banter:70
+msgctxt "conversations/companions/g_companion_sam_banter:70:DefaultText"
+msgid "All right, I'll do it."
+msgstr ""
+
+#: conversations/companions/g_companion_sam_banter:71
+msgctxt "conversations/companions/g_companion_sam_banter:71:DefaultText"
+msgid "Updating registration. Updating... Updating... DING. Holcomb, Parvati is now responsible for this SAM unit's maintenance."
+msgstr ""
+
+#: conversations/companions/g_companion_sam_banter:72
+msgctxt "conversations/companions/g_companion_sam_banter:72:DefaultText"
+msgid "DESIGNATED CARETAKER, there is a rock in this unit's tread. Removal of foreign debris requested."
+msgstr ""
+
+#: conversations/companions/g_companion_sam_banter:73
+msgctxt "conversations/companions/g_companion_sam_banter:73:DefaultText"
+msgid "Service cannot be rendered as requested, DESIGNATED CARETAKER."
+msgstr ""
+
+#: conversations/companions/g_companion_sam_banter:74
+msgctxt "conversations/companions/g_companion_sam_banter:74:DefaultText"
+msgid "Service cannot be rendered as requested, customer."
+msgstr ""
+
+#: conversations/companions/g_companion_sam_banter:75
+msgctxt "conversations/companions/g_companion_sam_banter:75:DefaultText"
+msgid "Just try not to \"clean\" the walls and the floor and my bed and... the ceiling too, all right?"
+msgstr ""
+
+#: conversations/companions/g_companion_sam_banter:76
+msgctxt "conversations/companions/g_companion_sam_banter:76:DefaultText"
+msgid "Request queued for processing. Estimated wait time: 87546541 minutes."
+msgstr ""
+
+#: conversations/companions/g_companion_sam_banter:77
+msgctxt "conversations/companions/g_companion_sam_banter:77:DefaultText"
+msgid "Affirmative."
+msgstr ""
+
+#: conversations/companions/g_companion_sam_banter:78
+msgctxt "conversations/companions/g_companion_sam_banter:78:DefaultText"
+msgid "What's occupyin' your brain tubes today, SAM?"
+msgstr ""
+
+#: conversations/companions/g_companion_sam_banter:79
+msgctxt "conversations/companions/g_companion_sam_banter:79:DefaultText"
+msgid "Hey SAM, initiate experimental mode: GIRL TALK."
+msgstr ""
+
+#: conversations/companions/g_companion_sam_banter:80
+msgctxt "conversations/companions/g_companion_sam_banter:80:DefaultText"
+msgid "Failed to initiate sequence. Please define \"girl.\""
+msgstr ""
+
+#: conversations/companions/g_companion_sam_banter:81
+msgctxt "conversations/companions/g_companion_sam_banter:81:DefaultText"
+msgid "Hmm. Still some kinks to work out."
+msgstr ""
+
+#: conversations/companions/g_companion_sam_banter:82
+msgctxt "conversations/companions/g_companion_sam_banter:82:DefaultText"
+msgid "Hey SAM, knock-knock."
+msgstr ""
+
+#: conversations/companions/g_companion_sam_banter:83
+msgctxt "conversations/companions/g_companion_sam_banter:83:DefaultText"
+msgid "Error. Please specify door."
+msgstr ""
+
+#: conversations/companions/g_companion_sam_banter:84
+msgctxt "conversations/companions/g_companion_sam_banter:84:DefaultText"
+msgid "You're supposed to say, \"Who's there?\""
+msgstr ""
+
+#: conversations/companions/g_companion_sam_banter:85
+msgctxt "conversations/companions/g_companion_sam_banter:85:DefaultText"
+msgid "<plays door knock sound effect>"
+msgstr ""
+
+#: conversations/companions/g_companion_sam_banter:86
+msgctxt "conversations/companions/g_companion_sam_banter:86:DefaultText"
+msgid "Well, that's a start."
+msgstr ""
+
+#: conversations/companions/g_companion_sam_banter:88
+msgctxt "conversations/companions/g_companion_sam_banter:88:DefaultText"
+msgid "Whatcha thinking about, SAM?"
+msgstr ""
+
+#: conversations/companions/g_companion_sam_banter:89
+msgctxt "conversations/companions/g_companion_sam_banter:89:DefaultText"
+msgid "How ya doin', SAM?"
+msgstr ""
+
+#: conversations/companions/g_companion_sam_banter:91
+msgctxt "conversations/companions/g_companion_sam_banter:91:DefaultText"
+msgid "<plays whirring fan sound effect>"
+msgstr ""
+
+#: conversations/companions/g_companion_sam_banter:92
+msgctxt "conversations/companions/g_companion_sam_banter:92:DefaultText"
+msgid "<plays clanking sound effect>"
+msgstr ""
+
+#: conversations/companions/g_companion_sam_banter:93
+msgctxt "conversations/companions/g_companion_sam_banter:93:DefaultText"
+msgid "<plays waterdrip sound effect>"
+msgstr ""
+
+#: conversations/companions/g_companion_sam_banter:94
+msgctxt "conversations/companions/g_companion_sam_banter:94:DefaultText"
+msgid "Hey SAM, knock-knock!"
+msgstr ""
+
+#: conversations/companions/g_companion_sam_banter:95
+msgctxt "conversations/companions/g_companion_sam_banter:95:DefaultText"
+msgid "Who is there, customer?"
+msgstr ""
+
+#: conversations/companions/g_companion_sam_banter:96
+msgctxt "conversations/companions/g_companion_sam_banter:96:DefaultText"
+msgid "Boo!"
+msgstr ""
+
+#: conversations/companions/g_companion_sam_banter:97
+msgctxt "conversations/companions/g_companion_sam_banter:97:DefaultText"
+msgid "Boo, who?"
+msgstr ""
+
+#: conversations/companions/g_companion_sam_banter:98
+msgctxt "conversations/companions/g_companion_sam_banter:98:DefaultText"
+msgid "Don't cry, it's just me!"
+msgstr ""
+
+#: conversations/companions/g_companion_sam_banter:99
+msgctxt "conversations/companions/g_companion_sam_banter:99:DefaultText"
+msgid "<plays aggressive clanking sound effect>"
+msgstr ""
+
+#: conversations/companions/g_companion_sam_banter:100
+msgctxt "conversations/companions/g_companion_sam_banter:100:DefaultText"
+msgid "That's quite alright, SAM. I prefer to clean my own quarters these days, I find it a perfect time to reflect on the impermanence of existence."
+msgstr ""
+
+#: conversations/companions/g_companion_sam_banter:101
+msgctxt "conversations/companions/g_companion_sam_banter:101:DefaultText"
+msgid "Warning: refusing the service of a SAM unit will be reflected on your permanent record."
+msgstr ""
+
+#: conversations/companions/g_companion_sam_banter:102
+msgctxt "conversations/companions/g_companion_sam_banter:102:DefaultText"
+msgid "Yes, yes it was, SAM. You should discuss it with young Mr. Millstone at your earliest convenience. "
+msgstr ""

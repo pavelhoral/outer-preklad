@@ -1,0 +1,439 @@
+#: conversations/01_groundbreaker/01_bs_promenadebaramb01:3
+msgctxt "conversations/01_groundbreaker/01_bs_promenadebaramb01:3:DefaultText"
+msgid "You're spending large tonight, ma'am."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_bs_promenadebaramb01:4
+msgctxt "conversations/01_groundbreaker/01_bs_promenadebaramb01:4:DefaultText"
+msgid "Hey there. What're you doing after work?"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_bs_promenadebaramb01:5
+msgctxt "conversations/01_groundbreaker/01_bs_promenadebaramb01:5:DefaultText"
+msgid "You don't mind my saying, you've been looking down lately."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_bs_promenadebaramb01:6
+msgctxt "conversations/01_groundbreaker/01_bs_promenadebaramb01:6:DefaultText"
+msgid "It just me, or was the holding pattern for a berth shorter today?"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_bs_promenadebaramb01:12
+msgctxt "conversations/01_groundbreaker/01_bs_promenadebaramb01:12:DefaultText"
+msgid "There's your drink, ma'am. If you want anything else, just flag me down."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_bs_promenadebaramb01:13
+msgctxt "conversations/01_groundbreaker/01_bs_promenadebaramb01:13:DefaultText"
+msgid "What do you recommend?"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_bs_promenadebaramb01:18
+msgctxt "conversations/01_groundbreaker/01_bs_promenadebaramb01:18:DefaultText"
+msgid "Hey, you. Where's my order?"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_bs_promenadebaramb01:19
+msgctxt "conversations/01_groundbreaker/01_bs_promenadebaramb01:19:DefaultText"
+msgid "How about a Bumblebee Pale Kale Ale?"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_bs_promenadebaramb01:21
+msgctxt "conversations/01_groundbreaker/01_bs_promenadebaramb01:21:DefaultText"
+msgid "We got all colors of Rizzo's Spectrum Vodka."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_bs_promenadebaramb01:23
+msgctxt "conversations/01_groundbreaker/01_bs_promenadebaramb01:23:DefaultText"
+msgid "A Zero Gee Brew? \"The Brew For What Ails You!\" Damn it, now I'm gonna have that jingle stuck in my head all day."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_bs_promenadebaramb01:24
+msgctxt "conversations/01_groundbreaker/01_bs_promenadebaramb01:24:DefaultText"
+msgid "Isn't your usual Glacial Age Iceberg Aged Whiskey?"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_bs_promenadebaramb01:27
+msgctxt "conversations/01_groundbreaker/01_bs_promenadebaramb01:27:DefaultText"
+msgid "Glass of Rizzo's Purpleberry Wine, maybe?"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_bs_promenadebaramb01:28
+msgctxt "conversations/01_groundbreaker/01_bs_promenadebaramb01:28:DefaultText"
+msgid "Going back to the old cubicle to watch the latest episode of my serial."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_bs_promenadebaramb01:31
+msgctxt "conversations/01_groundbreaker/01_bs_promenadebaramb01:31:DefaultText"
+msgid "I'm going to cut my toenails and leave them out for Grunty to eat."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_bs_promenadebaramb01:32
+msgctxt "conversations/01_groundbreaker/01_bs_promenadebaramb01:32:DefaultText"
+msgid "Wow. That's really- What the hell's \"Grunty?\""
+msgstr ""
+
+#: conversations/01_groundbreaker/01_bs_promenadebaramb01:33
+msgctxt "conversations/01_groundbreaker/01_bs_promenadebaramb01:33:DefaultText"
+msgid "No one knows. Some kind of critter that lives in the ducts and pipes."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_bs_promenadebaramb01:34
+msgctxt "conversations/01_groundbreaker/01_bs_promenadebaramb01:34:DefaultText"
+msgid "People leave food by the vents for it. It's supposed to bring good luck."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_bs_promenadebaramb01:41
+msgctxt "conversations/01_groundbreaker/01_bs_promenadebaramb01:41:DefaultText"
+msgid "What's a nice boy like you watch? Something exciting? Romantic? \"Baking with Edna?\""
+msgstr ""
+
+#: conversations/01_groundbreaker/01_bs_promenadebaramb01:42
+msgctxt "conversations/01_groundbreaker/01_bs_promenadebaramb01:42:DefaultText"
+msgid "I like documentary serials. Truth is better than fiction. Right now I'm watching \"The Cannibals of Monarch.\""
+msgstr ""
+
+#: conversations/01_groundbreaker/01_bs_promenadebaramb01:43
+msgctxt "conversations/01_groundbreaker/01_bs_promenadebaramb01:43:DefaultText"
+msgid "Oh."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_bs_promenadebaramb01:46
+msgctxt "conversations/01_groundbreaker/01_bs_promenadebaramb01:46:DefaultText"
+msgid "I figured I'd keep working on my novel. It's about a poor young waiter."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_bs_promenadebaramb01:47
+msgctxt "conversations/01_groundbreaker/01_bs_promenadebaramb01:47:DefaultText"
+msgid "Who has a torrid affair with a passing freighter captain?"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_bs_promenadebaramb01:48
+msgctxt "conversations/01_groundbreaker/01_bs_promenadebaramb01:48:DefaultText"
+msgid "Who dreams of chopping up his annoying customers and selling them as meat pies."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_bs_promenadebaramb01:54
+msgctxt "conversations/01_groundbreaker/01_bs_promenadebaramb01:54:DefaultText"
+msgid "Such a go-getter. Entrepreneurial spirit. Clearly deserves his freighter captain romance."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_bs_promenadebaramb01:56
+msgctxt "conversations/01_groundbreaker/01_bs_promenadebaramb01:56:DefaultText"
+msgid "Ah, things are rough out there. You know how it is."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_bs_promenadebaramb01:57
+msgctxt "conversations/01_groundbreaker/01_bs_promenadebaramb01:57:DefaultText"
+msgid "Ain't one thing it's another. Marauders on the prowl. Fuel bills. Micrometa- micromeaty- very small rocks."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_bs_promenadebaramb01:58
+msgctxt "conversations/01_groundbreaker/01_bs_promenadebaramb01:58:DefaultText"
+msgid "Are marauders that big a problem? I thought they were all crazy."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_bs_promenadebaramb01:59
+msgctxt "conversations/01_groundbreaker/01_bs_promenadebaramb01:59:DefaultText"
+msgid "Mad as wet canids. Strong as drunk primals. Three-word vocabulary, and one of them words is \"ARRRG.\""
+msgstr ""
+
+#: conversations/01_groundbreaker/01_bs_promenadebaramb01:60
+msgctxt "conversations/01_groundbreaker/01_bs_promenadebaramb01:60:DefaultText"
+msgid "But they can still push the button that makes a ship take off."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_bs_promenadebaramb01:62
+msgctxt "conversations/01_groundbreaker/01_bs_promenadebaramb01:62:DefaultText"
+msgid "You still haven't paid for your last drink."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_bs_promenadebaramb01:63
+msgctxt "conversations/01_groundbreaker/01_bs_promenadebaramb01:63:DefaultText"
+msgid "I delivered it two minutes ago."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_bs_promenadebaramb01:64
+msgctxt "conversations/01_groundbreaker/01_bs_promenadebaramb01:64:DefaultText"
+msgid "Look, can I get you a caffenoid or something?"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_bs_promenadebaramb01:65
+msgctxt "conversations/01_groundbreaker/01_bs_promenadebaramb01:65:DefaultText"
+msgid "Don't you ever go home?"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_bs_promenadebaramb01:66
+msgctxt "conversations/01_groundbreaker/01_bs_promenadebaramb01:66:DefaultText"
+msgid "I'm a rambling rose, sweetie."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_bs_promenadebaramb01:67
+msgctxt "conversations/01_groundbreaker/01_bs_promenadebaramb01:67:DefaultText"
+msgid "Ramble on home. You've had enough."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_bs_promenadebaramb01:68
+msgctxt "conversations/01_groundbreaker/01_bs_promenadebaramb01:68:DefaultText"
+msgid "My ship's my home."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_bs_promenadebaramb01:69
+msgctxt "conversations/01_groundbreaker/01_bs_promenadebaramb01:69:DefaultText"
+msgid "Then ramble on back to the docking bay."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_bs_promenadebaramb01:70
+msgctxt "conversations/01_groundbreaker/01_bs_promenadebaramb01:70:DefaultText"
+msgid "I plan to go through all the colors of spectrum vodka tonight."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_bs_promenadebaramb01:71
+msgctxt "conversations/01_groundbreaker/01_bs_promenadebaramb01:71:DefaultText"
+msgid "Swell. I'll set out a bucket for you to puke into."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_bs_promenadebaramb01:72
+msgctxt "conversations/01_groundbreaker/01_bs_promenadebaramb01:72:DefaultText"
+msgid "Oh. Did I drink it already?"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_bs_promenadebaramb01:73
+msgctxt "conversations/01_groundbreaker/01_bs_promenadebaramb01:73:DefaultText"
+msgid "Don't know. I wasn't here."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_bs_promenadebaramb01:74
+msgctxt "conversations/01_groundbreaker/01_bs_promenadebaramb01:74:DefaultText"
+msgid "Better get me another, then."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_bs_promenadebaramb01:75
+msgctxt "conversations/01_groundbreaker/01_bs_promenadebaramb01:75:DefaultText"
+msgid "Put it on my tab."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_bs_promenadebaramb01:76
+msgctxt "conversations/01_groundbreaker/01_bs_promenadebaramb01:76:DefaultText"
+msgid "We don't have tabs, ma'am."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_bs_promenadebaramb01:77
+msgctxt "conversations/01_groundbreaker/01_bs_promenadebaramb01:77:DefaultText"
+msgid "Every bar's got a tab."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_bs_promenadebaramb01:78
+msgctxt "conversations/01_groundbreaker/01_bs_promenadebaramb01:78:DefaultText"
+msgid "I don't make the rules. Take it up with Ms. Vera."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_bs_promenadebaramb01:84
+msgctxt "conversations/01_groundbreaker/01_bs_promenadebaramb01:84:DefaultText"
+msgid "Last time you came through, you liked the Glacial Age Tripistout."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_bs_promenadebaramb01:85
+msgctxt "conversations/01_groundbreaker/01_bs_promenadebaramb01:85:DefaultText"
+msgid "Rocky Mountain Algae Lager? I'd say it's an acquired taste. Somebody likes it, because we've got cases in the store room."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_bs_promenadebaramb01:86
+msgctxt "conversations/01_groundbreaker/01_bs_promenadebaramb01:86:DefaultText"
+msgid "How the hell do you make beer out of algae?"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_bs_promenadebaramb01:87
+msgctxt "conversations/01_groundbreaker/01_bs_promenadebaramb01:87:DefaultText"
+msgid "I have no clue."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_bs_promenadebaramb01:88
+msgctxt "conversations/01_groundbreaker/01_bs_promenadebaramb01:88:DefaultText"
+msgid "What's it taste like?"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_bs_promenadebaramb01:89
+msgctxt "conversations/01_groundbreaker/01_bs_promenadebaramb01:89:DefaultText"
+msgid "It's very... You could say... If I were to compare it to... Uh, it's green?"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_bs_promenadebaramb01:91
+msgctxt "conversations/01_groundbreaker/01_bs_promenadebaramb01:91:DefaultText"
+msgid "Green's my favorite color. Bring me a bottle."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_bs_promenadebaramb01:94
+msgctxt "conversations/01_groundbreaker/01_bs_promenadebaramb01:94:DefaultText"
+msgid "Not much of a wine drinker. To me it all tastes kinda like juice from berries that went bad."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_bs_promenadebaramb01:96
+msgctxt "conversations/01_groundbreaker/01_bs_promenadebaramb01:96:DefaultText"
+msgid "I'll give you another minute to think about it."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_bs_promenadebaramb01:97
+msgctxt "conversations/01_groundbreaker/01_bs_promenadebaramb01:97:DefaultText"
+msgid "Zero Gee is like anything else made by Spacer's Choice."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_bs_promenadebaramb01:98
+msgctxt "conversations/01_groundbreaker/01_bs_promenadebaramb01:98:DefaultText"
+msgid "You buy it because it costs half what anything else does. Then you have to replace it in a quarter the time."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_bs_promenadebaramb01:99
+msgctxt "conversations/01_groundbreaker/01_bs_promenadebaramb01:99:DefaultText"
+msgid "Honestly, it's just tripicale-flavored water."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_bs_promenadebaramb01:100
+msgctxt "conversations/01_groundbreaker/01_bs_promenadebaramb01:100:DefaultText"
+msgid "You got that on tap?"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_bs_promenadebaramb01:101
+msgctxt "conversations/01_groundbreaker/01_bs_promenadebaramb01:101:DefaultText"
+msgid "What do you think this is, Byzantium? You get it in a bottle. If you're lucky, it's cold."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_bs_promenadebaramb01:102
+msgctxt "conversations/01_groundbreaker/01_bs_promenadebaramb01:102:DefaultText"
+msgid "Ever wonder how they get alcohol outta kale? Kale's like... evil lettuce."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_bs_promenadebaramb01:103
+msgctxt "conversations/01_groundbreaker/01_bs_promenadebaramb01:103:DefaultText"
+msgid "You actually got Ultraviolet? What's that look like?"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_bs_promenadebaramb01:104
+msgctxt "conversations/01_groundbreaker/01_bs_promenadebaramb01:104:DefaultText"
+msgid "It's a kind of dark brownish-black, I guess?"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_bs_promenadebaramb01:105
+msgctxt "conversations/01_groundbreaker/01_bs_promenadebaramb01:105:DefaultText"
+msgid "You just poured all the colors into one glass, didn't you? That ain't Ultraviolet - if it was, you wouldn't be able to see it!"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_bs_promenadebaramb01:106
+msgctxt "conversations/01_groundbreaker/01_bs_promenadebaramb01:106:DefaultText"
+msgid "How'd you figure it out?"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_bs_promenadebaramb01:107
+msgctxt "conversations/01_groundbreaker/01_bs_promenadebaramb01:107:DefaultText"
+msgid "Honey, what do you think I do with the splash left over in every bottle? I call it a Spectrum Colorblind, 'cause it's guaranteed to leave you blind."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_bs_promenadebaramb01:108
+msgctxt "conversations/01_groundbreaker/01_bs_promenadebaramb01:108:DefaultText"
+msgid "Yeah, but I'm trying to expand my whatevers. And if I wanted Iceberg Whiskey, I've got that back on my ship."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_bs_promenadebaramb01:109
+msgctxt "conversations/01_groundbreaker/01_bs_promenadebaramb01:109:DefaultText"
+msgid "Why aren't you drinking that, then? Got to be cheaper than ordering shots in a bar."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_bs_promenadebaramb01:110
+msgctxt "conversations/01_groundbreaker/01_bs_promenadebaramb01:110:DefaultText"
+msgid "Ain't got a cute waiter to pour for me back on the ship. Unless you're offering."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_bs_promenadebaramb01:111
+msgctxt "conversations/01_groundbreaker/01_bs_promenadebaramb01:111:DefaultText"
+msgid "Squeeze gently, and warm your hands first."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_bs_promenadebaramb01:112
+msgctxt "conversations/01_groundbreaker/01_bs_promenadebaramb01:112:DefaultText"
+msgid "Did I? That last trip out's kinda... blurry."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_bs_promenadebaramb01:113
+msgctxt "conversations/01_groundbreaker/01_bs_promenadebaramb01:113:DefaultText"
+msgid "You knocked four back like they were pale ales, then mumbled they were stronger than you thought. And passed out."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_bs_promenadebaramb01:114
+msgctxt "conversations/01_groundbreaker/01_bs_promenadebaramb01:114:DefaultText"
+msgid "If anybody knows my tastes, I reckon it'd be me. Get a Tripistout, deliver it to me, and tell me it comes compliments of me."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_bs_promenadebaramb01:138
+msgctxt "conversations/01_groundbreaker/01_bs_promenadebaramb01:138:DefaultText"
+msgid "Just got done with a real sweet haul. Heph to Fairfield. Load of metals and rare earths for the T&L factory."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_bs_promenadebaramb01:139
+msgctxt "conversations/01_groundbreaker/01_bs_promenadebaramb01:139:DefaultText"
+msgid "What's a \"rare earth?\""
+msgstr ""
+
+#: conversations/01_groundbreaker/01_bs_promenadebaramb01:140
+msgctxt "conversations/01_groundbreaker/01_bs_promenadebaramb01:140:DefaultText"
+msgid "Hell if I know. But it's \"rare,\" so it's gotta be expensive, yeah? Made a good pile of bits on it."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_bs_promenadebaramb01:141
+msgctxt "conversations/01_groundbreaker/01_bs_promenadebaramb01:141:DefaultText"
+msgid "Planning to blow it all here, huh?"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_bs_promenadebaramb01:142
+msgctxt "conversations/01_groundbreaker/01_bs_promenadebaramb01:142:DefaultText"
+msgid "Law, no. Burned half of it before I got off the docking gantry. Fees. Fuel. Some overdue repairs."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_bs_promenadebaramb01:145
+msgctxt "conversations/01_groundbreaker/01_bs_promenadebaramb01:145:DefaultText"
+msgid "Just keep coming around - this seat's my berth for the night. How's business around the station?"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_bs_promenadebaramb01:146
+msgctxt "conversations/01_groundbreaker/01_bs_promenadebaramb01:146:DefaultText"
+msgid "Same as everywhere, I guess. The Mardets been talking about rising crime rates, but I don't see it."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_bs_promenadebaramb01:150
+msgctxt "conversations/01_groundbreaker/01_bs_promenadebaramb01:150:DefaultText"
+msgid "It's getting so an honest soul can't ply the aether without getting her thrusters shot up."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_bs_promenadebaramb01:151
+msgctxt "conversations/01_groundbreaker/01_bs_promenadebaramb01:151:DefaultText"
+msgid "I have to see to the other tables. I'll stop by again later."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_bs_promenadebaramb01:176
+msgctxt "conversations/01_groundbreaker/01_bs_promenadebaramb01:176:DefaultText"
+msgid "It's shorter. The Chief's finally got enough hands to coordinate docking, and the Board's got to make their shipments."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_bs_promenadebaramb01:177
+msgctxt "conversations/01_groundbreaker/01_bs_promenadebaramb01:177:DefaultText"
+msgid "I thought Chief and the Board were at each other's throats."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_bs_promenadebaramb01:178
+msgctxt "conversations/01_groundbreaker/01_bs_promenadebaramb01:178:DefaultText"
+msgid "They were. Hell, they still are. But Junlei don't gotta send her engineers running all over the station trying to fix those radiators anymore."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_bs_promenadebaramb01:179
+msgctxt "conversations/01_groundbreaker/01_bs_promenadebaramb01:179:DefaultText"
+msgid "So we got a temperate station and a quick dock. What more can ya ask for?"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_bs_promenadebaramb01:180
+msgctxt "conversations/01_groundbreaker/01_bs_promenadebaramb01:180:DefaultText"
+msgid "Free beer."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_bs_promenadebaramb01:183
+msgctxt "conversations/01_groundbreaker/01_bs_promenadebaramb01:183:DefaultText"
+msgid "That's more or less what it is, yeah."
+msgstr ""

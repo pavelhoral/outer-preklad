@@ -1,0 +1,469 @@
+#: conversations/00_emerald_vale/00_cv_phyllis:1
+msgctxt "conversations/00_emerald_vale/00_cv_phyllis:1:DefaultText"
+msgid "You the new worker?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_phyllis:2
+msgctxt "conversations/00_emerald_vale/00_cv_phyllis:2:DefaultText"
+msgid "Whatever. Make it quick, tenderfoot. I'm busy."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_phyllis:3
+msgctxt "conversations/00_emerald_vale/00_cv_phyllis:3:DefaultText"
+msgid "I'm guessing you're the foreman."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_phyllis:4
+msgctxt "conversations/00_emerald_vale/00_cv_phyllis:4:DefaultText"
+msgid "Foreman Granger. Mind those words don't come out of your mouth unless preceded by \"Yes,\" or \"Right away,\" or \"Thank you.\""
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_phyllis:5
+msgctxt "conversations/00_emerald_vale/00_cv_phyllis:5:DefaultText"
+msgid "Gravesite fees. I'm here to collect."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_phyllis:6
+msgctxt "conversations/00_emerald_vale/00_cv_phyllis:6:DefaultText"
+msgid "Shit. Silas still on about that? Here, take the fees. I'd appreciate it if you didn't tell Reed I was late on my payment. "
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_phyllis:7
+msgctxt "conversations/00_emerald_vale/00_cv_phyllis:7:DefaultText"
+msgid "I'll let you get back to work."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_phyllis:8
+msgctxt "conversations/00_emerald_vale/00_cv_phyllis:8:DefaultText"
+msgid "What's on your mind?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_phyllis:9
+msgctxt "conversations/00_emerald_vale/00_cv_phyllis:9:DefaultText"
+msgid "These papers aren't signed in your name."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_phyllis:10
+msgctxt "conversations/00_emerald_vale/00_cv_phyllis:10:DefaultText"
+msgid "Because they're not my fees and not my gravesite. Guy I worked with shot himself. I paid the bill."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_phyllis:11
+msgctxt "conversations/00_emerald_vale/00_cv_phyllis:11:DefaultText"
+msgid "You have to pay for your neighbor's gravesite fees?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_phyllis:12
+msgctxt "conversations/00_emerald_vale/00_cv_phyllis:12:DefaultText"
+msgid "That's kind of you. I guess."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_phyllis:13
+msgctxt "conversations/00_emerald_vale/00_cv_phyllis:13:DefaultText"
+msgid "I could do without the sarcasm. Wasn't acting out of the goodness of my heart."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_phyllis:14
+msgctxt "conversations/00_emerald_vale/00_cv_phyllis:14:DefaultText"
+msgid "If you're not familiar with Board law, you oughta be."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_phyllis:15
+msgctxt "conversations/00_emerald_vale/00_cv_phyllis:15:DefaultText"
+msgid "Law requires delinquent gravesite fees to be paid by the deceased party's closest living relative. Which meant me."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_phyllis:16
+msgctxt "conversations/00_emerald_vale/00_cv_phyllis:16:DefaultText"
+msgid "Shame, though. Eugene was a good worker."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_phyllis:17
+msgctxt "conversations/00_emerald_vale/00_cv_phyllis:17:DefaultText"
+msgid "Not half as awful as the bill Eugene left us with."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_phyllis:18
+msgctxt "conversations/00_emerald_vale/00_cv_phyllis:18:DefaultText"
+msgid "You said this guy shot himself?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_phyllis:20
+msgctxt "conversations/00_emerald_vale/00_cv_phyllis:20:DefaultText"
+msgid "Woke up one morning and put a round through his upper story. Can't imagine why. The kid was doing all right at his desk. We all thought he was an upstanding receptionist."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_phyllis:21
+msgctxt "conversations/00_emerald_vale/00_cv_phyllis:21:DefaultText"
+msgid "Just between the two of us, I'm pretty shocked his weapon didn't misfire. Spacer's Choice handguns aren't the most reliable."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_phyllis:22
+msgctxt "conversations/00_emerald_vale/00_cv_phyllis:22:DefaultText"
+msgid "That's an awful thing to say."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_phyllis:23
+msgctxt "conversations/00_emerald_vale/00_cv_phyllis:23:DefaultText"
+msgid "Must be tough losing family."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_phyllis:25
+msgctxt "conversations/00_emerald_vale/00_cv_phyllis:25:DefaultText"
+msgid "Eugene wasn't family."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_phyllis:27
+msgctxt "conversations/00_emerald_vale/00_cv_phyllis:27:DefaultText"
+msgid "Suicide's a crime. The legal term is irreparable damage to company property. What Eugene did to himself was vandalism."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_phyllis:28
+msgctxt "conversations/00_emerald_vale/00_cv_phyllis:28:DefaultText"
+msgid "I thought you said you were his closest living relative."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_phyllis:29
+msgctxt "conversations/00_emerald_vale/00_cv_phyllis:29:DefaultText"
+msgid "Yeah. I was the closest living person relative to his body at time of death. I'm the one who found him, you see. So I pay the fines."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_phyllis:31
+msgctxt "conversations/00_emerald_vale/00_cv_phyllis:31:DefaultText"
+msgid "You can't be serious."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_phyllis:32
+msgctxt "conversations/00_emerald_vale/00_cv_phyllis:32:DefaultText"
+msgid "What are they gonna do? Arrest his corpse?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_phyllis:33
+msgctxt "conversations/00_emerald_vale/00_cv_phyllis:33:DefaultText"
+msgid "I'm plenty serious. In fact I'm a little upset Eugene didn't think things through. "
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_phyllis:34
+msgctxt "conversations/00_emerald_vale/00_cv_phyllis:34:DefaultText"
+msgid "When one of your workers commits a crime, the entire town pays for it."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_phyllis:35
+msgctxt "conversations/00_emerald_vale/00_cv_phyllis:35:DefaultText"
+msgid "In other words, Edgewater would've been penalized pretty hard. Whatever Eugene was worth as an asset, we would've had to pay out of pocket to Spacer's Choice."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_phyllis:36
+msgctxt "conversations/00_emerald_vale/00_cv_phyllis:36:DefaultText"
+msgid "Would've? You didn't?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_phyllis:37
+msgctxt "conversations/00_emerald_vale/00_cv_phyllis:37:DefaultText"
+msgid "He was a person, not an asset."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_phyllis:38
+msgctxt "conversations/00_emerald_vale/00_cv_phyllis:38:DefaultText"
+msgid "Well excuse you. I'll have you know Eugene was an asset to us all. May his atoms be commended to the Law."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_phyllis:39
+msgctxt "conversations/00_emerald_vale/00_cv_phyllis:39:DefaultText"
+msgid "Look around. Edgewater ain't exactly swimming in luxury. We can't afford to pay the body-price of a suicide."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_phyllis:40
+msgctxt "conversations/00_emerald_vale/00_cv_phyllis:40:DefaultText"
+msgid "All I know is Silas asked me for Eugene's gravesite fees. Which means he was approved for burial. Which means his papers went through. Which means the town's in the clear."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_phyllis:41
+msgctxt "conversations/00_emerald_vale/00_cv_phyllis:41:DefaultText"
+msgid "I'm just glad to put this whole ugly affair behind me. Eugene can rest his bones in peace. And the rest of us can get on with our own lives."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_phyllis:42
+msgctxt "conversations/00_emerald_vale/00_cv_phyllis:42:DefaultText"
+msgid "I'd like to talk to you about Eugene."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_phyllis:43
+msgctxt "conversations/00_emerald_vale/00_cv_phyllis:43:DefaultText"
+msgid "Yeah?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_phyllis:44
+msgctxt "conversations/00_emerald_vale/00_cv_phyllis:44:DefaultText"
+msgid "I paid his burial fees, didn't I? Let the dead sleep."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_phyllis:45
+msgctxt "conversations/00_emerald_vale/00_cv_phyllis:45:DefaultText"
+msgid "The guy just shot himself?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_phyllis:47
+msgctxt "conversations/00_emerald_vale/00_cv_phyllis:47:DefaultText"
+msgid "Actually, never mind."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_phyllis:49
+msgctxt "conversations/00_emerald_vale/00_cv_phyllis:49:DefaultText"
+msgid "Yeah?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_phyllis:50
+msgctxt "conversations/00_emerald_vale/00_cv_phyllis:50:DefaultText"
+msgid "I found Eugene's teeth."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_phyllis:51
+msgctxt "conversations/00_emerald_vale/00_cv_phyllis:51:DefaultText"
+msgid "I found your letter to Conrad."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_phyllis:52
+msgctxt "conversations/00_emerald_vale/00_cv_phyllis:52:DefaultText"
+msgid "Conrad tells me Eugene wasn't a suicide."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_phyllis:53
+msgctxt "conversations/00_emerald_vale/00_cv_phyllis:53:DefaultText"
+msgid "You what? How? Please don't tell me you dug up his corpse."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_phyllis:54
+msgctxt "conversations/00_emerald_vale/00_cv_phyllis:54:DefaultText"
+msgid "I don't understand. I found Eugene's body. I know the guy shot himself - wait, are you telling me he was murdered?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_phyllis:55
+msgctxt "conversations/00_emerald_vale/00_cv_phyllis:55:DefaultText"
+msgid "Didn't anyone ever tell you not to go rifling through other peoples' correspondence?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_phyllis:56
+msgctxt "conversations/00_emerald_vale/00_cv_phyllis:56:DefaultText"
+msgid "Marauders stole his corpse before Silas had a chance to bury him."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_phyllis:57
+msgctxt "conversations/00_emerald_vale/00_cv_phyllis:57:DefaultText"
+msgid "They were on Adelaide's desk."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_phyllis:58
+msgctxt "conversations/00_emerald_vale/00_cv_phyllis:58:DefaultText"
+msgid "Merciful Law. Why would they do a thing like that?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_phyllis:59
+msgctxt "conversations/00_emerald_vale/00_cv_phyllis:59:DefaultText"
+msgid "You don't want to know."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_phyllis:60
+msgctxt "conversations/00_emerald_vale/00_cv_phyllis:60:DefaultText"
+msgid "Marauders have a discerning palate. "
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_phyllis:61
+msgctxt "conversations/00_emerald_vale/00_cv_phyllis:61:DefaultText"
+msgid "Probably had the same idea you did, when you suggested prying his teeth out of his corpse."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_phyllis:62
+msgctxt "conversations/00_emerald_vale/00_cv_phyllis:62:DefaultText"
+msgid "Hey now. I wasn't planning on eating the poor guy's remains. He wasn't going to use those teeth, and we could've sold them off to help the town."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_phyllis:63
+msgctxt "conversations/00_emerald_vale/00_cv_phyllis:63:DefaultText"
+msgid "That's disgusting. I really wish you hadn't told me that. Now I've got that thought lodged in my skull."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_phyllis:64
+msgctxt "conversations/00_emerald_vale/00_cv_phyllis:64:DefaultText"
+msgid "That bad, huh? Yeah, keep the details to yourself, maybe. I only get one meal a day, and I don't wanna lose it."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_phyllis:65
+msgctxt "conversations/00_emerald_vale/00_cv_phyllis:65:DefaultText"
+msgid "What, McDevitt? Flavor specialist? Oh Law, please don't tell me that was her special ingredient."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_phyllis:66
+msgctxt "conversations/00_emerald_vale/00_cv_phyllis:66:DefaultText"
+msgid "She was using Eugene's body to fertilize her crops."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_phyllis:68
+msgctxt "conversations/00_emerald_vale/00_cv_phyllis:68:DefaultText"
+msgid "I couldn't say."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_phyllis:69
+msgctxt "conversations/00_emerald_vale/00_cv_phyllis:69:DefaultText"
+msgid "You would've done the same. You were planning on selling his teeth."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_phyllis:70
+msgctxt "conversations/00_emerald_vale/00_cv_phyllis:70:DefaultText"
+msgid "Unbelievable. That is a blatant and grotesque misuse of company property."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_phyllis:72
+msgctxt "conversations/00_emerald_vale/00_cv_phyllis:72:DefaultText"
+msgid "Look. This is gonna sound weird, but..."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_phyllis:73
+msgctxt "conversations/00_emerald_vale/00_cv_phyllis:73:DefaultText"
+msgid "Let me guess. You want to buy the teeth."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_phyllis:74
+msgctxt "conversations/00_emerald_vale/00_cv_phyllis:74:DefaultText"
+msgid "That's never stopped you before."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_phyllis:75
+msgctxt "conversations/00_emerald_vale/00_cv_phyllis:75:DefaultText"
+msgid "I'm well accustomed to weird."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_phyllis:76
+msgctxt "conversations/00_emerald_vale/00_cv_phyllis:76:DefaultText"
+msgid "Only if it's not too much to ask. I'm not gonna sell 'em. I'm not gonna pawn 'em off."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_phyllis:77
+msgctxt "conversations/00_emerald_vale/00_cv_phyllis:77:DefaultText"
+msgid "Eugene was a good worker who did his best for us. He deserved better. And his remains deserve better. I'm saying I'd like to buy his teeth."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_phyllis:78
+msgctxt "conversations/00_emerald_vale/00_cv_phyllis:78:DefaultText"
+msgid "Deal."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_phyllis:79
+msgctxt "conversations/00_emerald_vale/00_cv_phyllis:79:DefaultText"
+msgid "No deal."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_phyllis:80
+msgctxt "conversations/00_emerald_vale/00_cv_phyllis:80:DefaultText"
+msgid "Thanks. I won't forget this."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_phyllis:81
+msgctxt "conversations/00_emerald_vale/00_cv_phyllis:81:DefaultText"
+msgid "Come back if you change your mind."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_phyllis:82
+msgctxt "conversations/00_emerald_vale/00_cv_phyllis:82:DefaultText"
+msgid "You offered to buy those teeth off me, right?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_phyllis:83
+msgctxt "conversations/00_emerald_vale/00_cv_phyllis:83:DefaultText"
+msgid "Eugene overdosed on medication. The medication drove him paranoid."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_phyllis:84
+msgctxt "conversations/00_emerald_vale/00_cv_phyllis:84:DefaultText"
+msgid "You didn't hear it from me."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_phyllis:85
+msgctxt "conversations/00_emerald_vale/00_cv_phyllis:85:DefaultText"
+msgid "You'll have to ask Conrad for the details. I just thought you should know."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_phyllis:86
+msgctxt "conversations/00_emerald_vale/00_cv_phyllis:86:DefaultText"
+msgid "He was plagued? Oh, Law. That's awful. I helped carry his body out. I could've been infected!"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_phyllis:87
+msgctxt "conversations/00_emerald_vale/00_cv_phyllis:87:DefaultText"
+msgid "Like I didn't have enough to worry about. Now I've got to keep one eye peeled for a possible criminal."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_phyllis:88
+msgctxt "conversations/00_emerald_vale/00_cv_phyllis:88:DefaultText"
+msgid "I suppose I'll have to. I'm not pleased he talked to you about all this without talking to me, first."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_phyllis:89
+msgctxt "conversations/00_emerald_vale/00_cv_phyllis:89:DefaultText"
+msgid "You were planning on stealing Eugene's gold teeth."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_phyllis:90
+msgctxt "conversations/00_emerald_vale/00_cv_phyllis:90:DefaultText"
+msgid "I do what I want."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_phyllis:91
+msgctxt "conversations/00_emerald_vale/00_cv_phyllis:91:DefaultText"
+msgid "Excuse you. Eugene's body and all rare-earth minerals contained therein already belong to Spacer's Choice. And we're all part of the Spacer's Choice family here."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_phyllis:92
+msgctxt "conversations/00_emerald_vale/00_cv_phyllis:92:DefaultText"
+msgid "Never mind. I don't have to explain myself to you."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_phyllis:93
+msgctxt "conversations/00_emerald_vale/00_cv_phyllis:93:DefaultText"
+msgid "Yeah? Well. Disabuse yourself of any clever notions involving extortion. I'll have you know nothing I wrote in that letter was unlawful."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_phyllis:94
+msgctxt "conversations/00_emerald_vale/00_cv_phyllis:94:DefaultText"
+msgid "This is all a little too much for me to take in. But I guess if Eugene wasn't a suicide, our town won't have to pay a penalty."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_phyllis:95
+msgctxt "conversations/00_emerald_vale/00_cv_phyllis:95:DefaultText"
+msgid "Take care."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_phyllis:96
+msgctxt "conversations/00_emerald_vale/00_cv_phyllis:96:DefaultText"
+msgid "You picked a fine time to visit, stranger."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_phyllis:98
+msgctxt "conversations/00_emerald_vale/00_cv_phyllis:98:DefaultText"
+msgid "Somebody's been spinning a tale about a lost colony ship. Talk like that will get you reported real quick."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_phyllis:99
+msgctxt "conversations/00_emerald_vale/00_cv_phyllis:99:DefaultText"
+msgid "Vandalism, huh? Did you have to clean bits of him off the wall or something?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_phyllis:100
+msgctxt "conversations/00_emerald_vale/00_cv_phyllis:100:DefaultText"
+msgid "This Eugene guy sounds like he was more trouble than he's worth."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_phyllis:102
+msgctxt "conversations/00_emerald_vale/00_cv_phyllis:102:DefaultText"
+msgid "First of all, that's a horrible thing to say. Secondly, yes, we did."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_phyllis:103
+msgctxt "conversations/00_emerald_vale/00_cv_phyllis:103:DefaultText"
+msgid "That's an awful thing to say about your closest relative."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_phyllis:104
+msgctxt "conversations/00_emerald_vale/00_cv_phyllis:104:DefaultText"
+msgid "I'll just - I don't know - stick his teeth in an old Spacer's Choice can and leave 'em in his grave, where they belong."
+msgstr ""

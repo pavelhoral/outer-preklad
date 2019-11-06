@@ -1,0 +1,54 @@
+#: quests/02_terra2/pq_0203_gomeettheadjutant:0
+msgctxt "quests/02_terra2/pq_0203_gomeettheadjutant:0:DefaultText"
+msgid "The Puppet Masters"
+msgstr ""
+
+#: quests/02_terra2/pq_0203_gomeettheadjutant:1
+msgctxt "quests/02_terra2/pq_0203_gomeettheadjutant:1:DefaultText"
+msgid "Meet with Sophia Akande"
+msgstr ""
+
+#: quests/02_terra2/pq_0203_gomeettheadjutant:10000
+msgctxt "quests/02_terra2/pq_0203_gomeettheadjutant:10000:DefaultText"
+msgid "After speaking to Udom Bedford, you learned he could arrange a meeting between you and Sophia Akande, Adjutant to the Chairman."
+msgstr ""
+
+#: quests/02_terra2/pq_0203_gomeettheadjutant:10001
+msgctxt "quests/02_terra2/pq_0203_gomeettheadjutant:10001:DefaultText"
+msgid "Udom Bedford has given you access to Adjutant Akande's landing pad in Byzantium. A meeting has been scheduled. Adjutant Akande is expecting you."
+msgstr ""
+
+#: quests/02_terra2/pq_0203_gomeettheadjutant:30000
+msgctxt "quests/02_terra2/pq_0203_gomeettheadjutant:30000:DefaultText"
+msgid "Adjutant Akande wanted to test your abilities before deciding whether to work with you."
+msgstr ""
+
+#: quests/02_terra2/pq_0203_gomeettheadjutant:30002
+msgctxt "quests/02_terra2/pq_0203_gomeettheadjutant:30002:DefaultText"
+msgid "You murdered Percival Platt. The Adjutant wants nothing to do with you."
+msgstr ""
+
+#: quests/02_terra2/pq_0203_gomeettheadjutant:30003
+msgctxt "quests/02_terra2/pq_0203_gomeettheadjutant:30003:DefaultText"
+msgid "Adjutant Sophia Akande is dead, so your meeting with her has been postponed indefinitely."
+msgstr ""
+
+#: quests/02_terra2/pq_0203_gomeettheadjutant:30004
+msgctxt "quests/02_terra2/pq_0203_gomeettheadjutant:30004:DefaultText"
+msgid "You've ruined your reputation with the Board. Adjutant Akande will no longer work with you."
+msgstr ""
+
+#: quests/02_terra2/pq_0203_gomeettheadjutant:40001
+msgctxt "quests/02_terra2/pq_0203_gomeettheadjutant:40001:DefaultText"
+msgid "You received an invitation to meet with Sophia Akande, Adjutant to the Chairman. "
+msgstr ""
+
+#: quests/02_terra2/pq_0203_gomeettheadjutant:40002
+msgctxt "quests/02_terra2/pq_0203_gomeettheadjutant:40002:DefaultText"
+msgid "You hacked Udom Bedford's terminal on the Groundbreaker to authorize a Navkey to Byzantium. The terminal mentioned Sophia Akande, Adjutant to the Chairman. If you want to turn in Phineas Welles, you should talk to her."
+msgstr ""
+
+#: quests/02_terra2/pq_0203_gomeettheadjutant:40003
+msgctxt "quests/02_terra2/pq_0203_gomeettheadjutant:40003:DefaultText"
+msgid "You have secured access to Adjutant Akande's landing pad in Byzantium."
+msgstr ""

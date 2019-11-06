@@ -1,0 +1,599 @@
+#: conversations/01_groundbreaker/01_cv_flores_carlos:1
+msgctxt "conversations/01_groundbreaker/01_cv_flores_carlos:1:DefaultText"
+msgid "If you're here to report a crime, you'll want to talk to Comdt. Sanita. I'm not authorized to take incident reports anymore."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_flores_carlos:4
+msgctxt "conversations/01_groundbreaker/01_cv_flores_carlos:4:DefaultText"
+msgid "What can Groundbreaker Security do for you today?"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_flores_carlos:16
+msgctxt "conversations/01_groundbreaker/01_cv_flores_carlos:16:DefaultText"
+msgid "I could use some work. Any pointers?"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_flores_carlos:23
+msgctxt "conversations/01_groundbreaker/01_cv_flores_carlos:23:DefaultText"
+msgid "What can you tell me about SubLight Salvage? "
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_flores_carlos:27
+msgctxt "conversations/01_groundbreaker/01_cv_flores_carlos:27:DefaultText"
+msgid "They're run by Ms. Hagen. Half the tramp captains and contractors in the system have worked for her."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_flores_carlos:30
+msgctxt "conversations/01_groundbreaker/01_cv_flores_carlos:30:DefaultText"
+msgid "I oughta warn you straight off. Scuttlebutt says some of the jobs they do aren't exactly above-board. Downright \"anti-business,\" if you catch my meaning."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_flores_carlos:40
+msgctxt "conversations/01_groundbreaker/01_cv_flores_carlos:40:DefaultText"
+msgid "I'm coming in there. Whether you live to tell anyone about it? That's up to you."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_flores_carlos:41
+msgctxt "conversations/01_groundbreaker/01_cv_flores_carlos:41:DefaultText"
+msgid "Oh, right. I forgot to pay the \"filing fee.\" That was... <oeiglobal>Bribe_Amount</oeiglobal> bits?"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_flores_carlos:43
+msgctxt "conversations/01_groundbreaker/01_cv_flores_carlos:43:DefaultText"
+msgid "All right, I guess. In and out, though. Just try not to do any shady stuff, I'd like to keep my job."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_flores_carlos:44
+msgctxt "conversations/01_groundbreaker/01_cv_flores_carlos:44:DefaultText"
+msgid "Hey now. No call for violence. I'll unlock the door. Just try not to do any shady stuff, I'd like to keep my job."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_flores_carlos:56
+msgctxt "conversations/01_groundbreaker/01_cv_flores_carlos:56:DefaultText"
+msgid "This is the security desk, sir."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_flores_carlos:56
+msgctxt "conversations/01_groundbreaker/01_cv_flores_carlos:56:FemaleText"
+msgid "This is the security desk, ma'am."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_flores_carlos:70
+msgctxt "conversations/01_groundbreaker/01_cv_flores_carlos:70:DefaultText"
+msgid "I bet you've got seized contraband from all over the system locked up back there."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_flores_carlos:71
+msgctxt "conversations/01_groundbreaker/01_cv_flores_carlos:71:DefaultText"
+msgid "Lot of freighters come through this station? Must keep you busy."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_flores_carlos:72
+msgctxt "conversations/01_groundbreaker/01_cv_flores_carlos:72:DefaultText"
+msgid "Just getting my bearings. What do you do here?"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_flores_carlos:73
+msgctxt "conversations/01_groundbreaker/01_cv_flores_carlos:73:DefaultText"
+msgid "Sure. And stuff from outside the system too, off the interstellar freighters. That's why we also have so many armed Mardets on duty here."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_flores_carlos:74
+msgctxt "conversations/01_groundbreaker/01_cv_flores_carlos:74:DefaultText"
+msgid "Less than there used to be. Fewer freighters passing through these days. I spend some shifts just listening to the wireless."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_flores_carlos:90
+msgctxt "conversations/01_groundbreaker/01_cv_flores_carlos:90:DefaultText"
+msgid "Why aren't as many freighters coming through?"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_flores_carlos:92
+msgctxt "conversations/01_groundbreaker/01_cv_flores_carlos:92:DefaultText"
+msgid "Search me. I mean, don't \"search me.\" Because that's my job. Ha, get it?"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_flores_carlos:99
+msgctxt "conversations/01_groundbreaker/01_cv_flores_carlos:99:DefaultText"
+msgid "Hear anything good over the comms?"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_flores_carlos:104
+msgctxt "conversations/01_groundbreaker/01_cv_flores_carlos:104:DefaultText"
+msgid "What if some of that contraband's mine and I'm here to claim it?"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_flores_carlos:105
+msgctxt "conversations/01_groundbreaker/01_cv_flores_carlos:105:DefaultText"
+msgid "Do you do, I don't know, tours or something?"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_flores_carlos:108
+msgctxt "conversations/01_groundbreaker/01_cv_flores_carlos:108:DefaultText"
+msgid "That'd be awful weird, on account of you should be locked up back here too, then."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_flores_carlos:110
+msgctxt "conversations/01_groundbreaker/01_cv_flores_carlos:110:DefaultText"
+msgid "We can't just let anyone walk in here. I wouldn't be, well... It's not... uh, we just don't."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_flores_carlos:112
+msgctxt "conversations/01_groundbreaker/01_cv_flores_carlos:112:DefaultText"
+msgid "We're friends, right, Lee? Do me a favor and I'll owe you one."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_flores_carlos:117
+msgctxt "conversations/01_groundbreaker/01_cv_flores_carlos:117:DefaultText"
+msgid "I'd really like to get back there."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_flores_carlos:118
+msgctxt "conversations/01_groundbreaker/01_cv_flores_carlos:118:DefaultText"
+msgid "Yeah, I'm getting that. But this area's off-limits, I told you."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_flores_carlos:122
+msgctxt "conversations/01_groundbreaker/01_cv_flores_carlos:122:DefaultText"
+msgid "I'll need you to explain that."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_flores_carlos:123
+msgctxt "conversations/01_groundbreaker/01_cv_flores_carlos:123:DefaultText"
+msgid "So they're criminals, but they have an office on your Promenade Deck?"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_flores_carlos:124
+msgctxt "conversations/01_groundbreaker/01_cv_flores_carlos:124:DefaultText"
+msgid "They're working against the Halcyon Board?"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_flores_carlos:125
+msgctxt "conversations/01_groundbreaker/01_cv_flores_carlos:125:DefaultText"
+msgid "\"Against\" is a strong word. Let's say that if you need something the Board ain't inclined to sell, you might look to SubLight to get it."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_flores_carlos:126
+msgctxt "conversations/01_groundbreaker/01_cv_flores_carlos:126:DefaultText"
+msgid "Let's say there's been times when I heard somebody needed a thing. And somebody else had such a thing, but they weren't inclined to sell."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_flores_carlos:127
+msgctxt "conversations/01_groundbreaker/01_cv_flores_carlos:127:DefaultText"
+msgid "If anybody could prove them criminals, the Board woulda put their foot down a long time past. They always got... what do they call it? \"Deniability?\""
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_flores_carlos:129
+msgctxt "conversations/01_groundbreaker/01_cv_flores_carlos:129:DefaultText"
+msgid "See you around."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_flores_carlos:130
+msgctxt "conversations/01_groundbreaker/01_cv_flores_carlos:130:DefaultText"
+msgid "Well, let me think about it for a minute."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_flores_carlos:131
+msgctxt "conversations/01_groundbreaker/01_cv_flores_carlos:131:DefaultText"
+msgid "Hm..."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_flores_carlos:132
+msgctxt "conversations/01_groundbreaker/01_cv_flores_carlos:132:DefaultText"
+msgid "No?"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_flores_carlos:133
+msgctxt "conversations/01_groundbreaker/01_cv_flores_carlos:133:DefaultText"
+msgid "Any chance you'll change your mind?"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_flores_carlos:134
+msgctxt "conversations/01_groundbreaker/01_cv_flores_carlos:134:DefaultText"
+msgid "Uh, I reckon you'd have to ask the folks in Byzantium."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_flores_carlos:137
+msgctxt "conversations/01_groundbreaker/01_cv_flores_carlos:137:DefaultText"
+msgid "Chief Tennyson don't generally hire outsiders for station jobs. But you could try asking at SubLight Salvage. They got an office on the far end of the Promenade Deck."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_flores_carlos:139
+msgctxt "conversations/01_groundbreaker/01_cv_flores_carlos:139:DefaultText"
+msgid "Something gets nicked or someone turns up dead, SubLight says, \"Hey, independent contractor. Not our responsibility.\" But everyone knows what they're doing, top to bottom."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_flores_carlos:140
+msgctxt "conversations/01_groundbreaker/01_cv_flores_carlos:140:DefaultText"
+msgid "You might pay SubLight a shitload of bits for it. But that money gets passed on to their contractors, so... in the end it's still business."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_flores_carlos:141
+msgctxt "conversations/01_groundbreaker/01_cv_flores_carlos:141:DefaultText"
+msgid "If anyone asks, SubLight says it got salvaged from an old wreck. Case closed."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_flores_carlos:142
+msgctxt "conversations/01_groundbreaker/01_cv_flores_carlos:142:DefaultText"
+msgid "You threw something? Shoot, must have sailed right by me."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_flores_carlos:143
+msgctxt "conversations/01_groundbreaker/01_cv_flores_carlos:143:DefaultText"
+msgid "P-Pardon?"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_flores_carlos:145
+msgctxt "conversations/01_groundbreaker/01_cv_flores_carlos:145:DefaultText"
+msgid "Don't mind our captain. He's a little... distractible-like. Probably just needs a nap."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_flores_carlos:145
+msgctxt "conversations/01_groundbreaker/01_cv_flores_carlos:145:FemaleText"
+msgid "Don't mind our captain. She's a little... distractible-like. Probably just needs a nap."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_flores_carlos:149
+msgctxt "conversations/01_groundbreaker/01_cv_flores_carlos:149:DefaultText"
+msgid "Let's just move on, shall we?"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_flores_carlos:151
+msgctxt "conversations/01_groundbreaker/01_cv_flores_carlos:151:DefaultText"
+msgid "If you say so."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_flores_carlos:152
+msgctxt "conversations/01_groundbreaker/01_cv_flores_carlos:152:DefaultText"
+msgid "Anything else I can help you with, mister?"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_flores_carlos:152
+msgctxt "conversations/01_groundbreaker/01_cv_flores_carlos:152:FemaleText"
+msgid "Anything else I can help you with, ma'am?"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_flores_carlos:153
+msgctxt "conversations/01_groundbreaker/01_cv_flores_carlos:153:DefaultText"
+msgid "Hi there! Haven't seen you around before."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_flores_carlos:154
+msgctxt "conversations/01_groundbreaker/01_cv_flores_carlos:154:DefaultText"
+msgid "Not much's changed since last you asked. Maybe Comdt. Sanita's got a bounty you could look into?"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_flores_carlos:155
+msgctxt "conversations/01_groundbreaker/01_cv_flores_carlos:155:DefaultText"
+msgid "All right, that's enough."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_flores_carlos:156
+msgctxt "conversations/01_groundbreaker/01_cv_flores_carlos:156:DefaultText"
+msgid "Oh, sure. Sure, sorry."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_flores_carlos:157
+msgctxt "conversations/01_groundbreaker/01_cv_flores_carlos:157:DefaultText"
+msgid "Gets a mite boring at this desk, you know? Then I get to chattin' too much and Comdt. Sanita's gotta reprimand me again, and..."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_flores_carlos:158
+msgctxt "conversations/01_groundbreaker/01_cv_flores_carlos:158:DefaultText"
+msgid "Oops. Doing it again. Sorry!"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_flores_carlos:159
+msgctxt "conversations/01_groundbreaker/01_cv_flores_carlos:159:DefaultText"
+msgid "Don't worry, Captain's real understandin'."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_flores_carlos:160
+msgctxt "conversations/01_groundbreaker/01_cv_flores_carlos:160:DefaultText"
+msgid "Can't speak for the captain, but I'm used to listening to folks drone on about their pointless, depressing lives."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_flores_carlos:162
+msgctxt "conversations/01_groundbreaker/01_cv_flores_carlos:162:DefaultText"
+msgid "Now, let's say the one who had the thing suddenly found theirs missing, and the one who needed, got one."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_flores_carlos:164
+msgctxt "conversations/01_groundbreaker/01_cv_flores_carlos:164:DefaultText"
+msgid "You must admit, there is a beauty to the order of it. Everything operates within the constraints of the Grand Plan, even organized crime. "
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_flores_carlos:165
+msgctxt "conversations/01_groundbreaker/01_cv_flores_carlos:165:DefaultText"
+msgid "That doesn't sound right to me, Captain."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_flores_carlos:166
+msgctxt "conversations/01_groundbreaker/01_cv_flores_carlos:166:DefaultText"
+msgid "They sound like real organized criminals."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_flores_carlos:167
+msgctxt "conversations/01_groundbreaker/01_cv_flores_carlos:167:DefaultText"
+msgid "Sir, are you foolin' on me? Cause I could swear you're foolin' on me."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_flores_carlos:167
+msgctxt "conversations/01_groundbreaker/01_cv_flores_carlos:167:FemaleText"
+msgid "Are you foolin' on me? Cause I could swear you're foolin' on me."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_flores_carlos:169
+msgctxt "conversations/01_groundbreaker/01_cv_flores_carlos:169:DefaultText"
+msgid "The captain likes to state the obvious. Uhm... just so we're all of the same understanding."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_flores_carlos:170
+msgctxt "conversations/01_groundbreaker/01_cv_flores_carlos:170:DefaultText"
+msgid "Honest, he's like this all the time."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_flores_carlos:170
+msgctxt "conversations/01_groundbreaker/01_cv_flores_carlos:170:FemaleText"
+msgid "Honest, she's like this all the time."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_flores_carlos:171
+msgctxt "conversations/01_groundbreaker/01_cv_flores_carlos:171:DefaultText"
+msgid "Chief Tennyson?"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_flores_carlos:172
+msgctxt "conversations/01_groundbreaker/01_cv_flores_carlos:172:DefaultText"
+msgid "Chief Junlei Tennyson. She runs the ship. Does a real great job of it, too."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_flores_carlos:173
+msgctxt "conversations/01_groundbreaker/01_cv_flores_carlos:173:DefaultText"
+msgid "Her family's worked on it for, gosh, since it was built, I think. Back before the Crossing."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_flores_carlos:174
+msgctxt "conversations/01_groundbreaker/01_cv_flores_carlos:174:DefaultText"
+msgid "Mind if I ask you some questions?"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_flores_carlos:175
+msgctxt "conversations/01_groundbreaker/01_cv_flores_carlos:175:DefaultText"
+msgid "That's what I'm here for, sir."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_flores_carlos:175
+msgctxt "conversations/01_groundbreaker/01_cv_flores_carlos:175:FemaleText"
+msgid "That's what I'm here for, ma'am."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_flores_carlos:176
+msgctxt "conversations/01_groundbreaker/01_cv_flores_carlos:176:DefaultText"
+msgid "Why can't you take incident reports?"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_flores_carlos:177
+msgctxt "conversations/01_groundbreaker/01_cv_flores_carlos:177:DefaultText"
+msgid "I'm not so good at filing? Mix up first name and surname one, two, seven times, well-"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_flores_carlos:179
+msgctxt "conversations/01_groundbreaker/01_cv_flores_carlos:179:DefaultText"
+msgid "Folks are liable to start taking your filing privileges away."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_flores_carlos:180
+msgctxt "conversations/01_groundbreaker/01_cv_flores_carlos:180:DefaultText"
+msgid "Filing, huh? That what you do for fun?"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_flores_carlos:181
+msgctxt "conversations/01_groundbreaker/01_cv_flores_carlos:181:DefaultText"
+msgid "Sure. Quiets the mind."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_flores_carlos:185
+msgctxt "conversations/01_groundbreaker/01_cv_flores_carlos:185:DefaultText"
+msgid "Back to my other questions."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_flores_carlos:186
+msgctxt "conversations/01_groundbreaker/01_cv_flores_carlos:186:DefaultText"
+msgid "All right."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_flores_carlos:187
+msgctxt "conversations/01_groundbreaker/01_cv_flores_carlos:187:DefaultText"
+msgid "You don't sound awfully sure of that."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_flores_carlos:188
+msgctxt "conversations/01_groundbreaker/01_cv_flores_carlos:188:DefaultText"
+msgid "It's fine, I take your meaning."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_flores_carlos:189
+msgctxt "conversations/01_groundbreaker/01_cv_flores_carlos:189:DefaultText"
+msgid "Appreciate it, you being so understanding and all."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_flores_carlos:190
+msgctxt "conversations/01_groundbreaker/01_cv_flores_carlos:190:DefaultText"
+msgid "I told you, I'm not allowed to file stuff anymore!"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_flores_carlos:191
+msgctxt "conversations/01_groundbreaker/01_cv_flores_carlos:191:DefaultText"
+msgid "I'm trying to pay you a bribe, Lee. Will <oeiglobal>Bribe_Amount</oeiglobal> bits do it?"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_flores_carlos:193
+msgctxt "conversations/01_groundbreaker/01_cv_flores_carlos:193:DefaultText"
+msgid "Oh! Right, uh- okay. Mind you don't touch nothing. \"Fees\" or no, the other Mardets won't take it kindly."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_flores_carlos:194
+msgctxt "conversations/01_groundbreaker/01_cv_flores_carlos:194:DefaultText"
+msgid "I'm not allowed to file stuff, sir."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_flores_carlos:194
+msgctxt "conversations/01_groundbreaker/01_cv_flores_carlos:194:FemaleText"
+msgid "I'm not allowed to file stuff, ma'am."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_flores_carlos:195
+msgctxt "conversations/01_groundbreaker/01_cv_flores_carlos:195:DefaultText"
+msgid "I told you we don't!"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_flores_carlos:197
+msgctxt "conversations/01_groundbreaker/01_cv_flores_carlos:197:DefaultText"
+msgid "You know we do, sir."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_flores_carlos:197
+msgctxt "conversations/01_groundbreaker/01_cv_flores_carlos:197:FemaleText"
+msgid "You know we do, ma'am."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_flores_carlos:198
+msgctxt "conversations/01_groundbreaker/01_cv_flores_carlos:198:DefaultText"
+msgid "There's been a whole heap of good advertisements lately. Sometimes I tune in just for those."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_flores_carlos:199
+msgctxt "conversations/01_groundbreaker/01_cv_flores_carlos:199:DefaultText"
+msgid "The heat situation's still dire. Chief Tennyson doesn't often hire freelancers, like I told you, but she might be amenable now."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_flores_carlos:201
+msgctxt "conversations/01_groundbreaker/01_cv_flores_carlos:201:DefaultText"
+msgid "What's she like? Is she a... good boss?"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_flores_carlos:202
+msgctxt "conversations/01_groundbreaker/01_cv_flores_carlos:202:DefaultText"
+msgid "Good as she can be, I guess, what with all the troubles Groundbreaker's facing."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_flores_carlos:203
+msgctxt "conversations/01_groundbreaker/01_cv_flores_carlos:203:DefaultText"
+msgid "She could stand to lighten up, I 'spose. But she tries her to best to do right by folks, and that's what matters."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_flores_carlos:204
+msgctxt "conversations/01_groundbreaker/01_cv_flores_carlos:204:DefaultText"
+msgid "Why'd you want to know that, Parvati?"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_flores_carlos:205
+msgctxt "conversations/01_groundbreaker/01_cv_flores_carlos:205:DefaultText"
+msgid "Fascinating. Anyway..."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_flores_carlos:206
+msgctxt "conversations/01_groundbreaker/01_cv_flores_carlos:206:DefaultText"
+msgid "Er, right. Back to business."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_flores_carlos:207
+msgctxt "conversations/01_groundbreaker/01_cv_flores_carlos:207:DefaultText"
+msgid "Leading a ship the size of Groundbreaker must be a challenge."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_flores_carlos:208
+msgctxt "conversations/01_groundbreaker/01_cv_flores_carlos:208:DefaultText"
+msgid "Sure is. But she makes it look easy. She's real competent, our Chief, even if she ain't real friendly."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_flores_carlos:209
+msgctxt "conversations/01_groundbreaker/01_cv_flores_carlos:209:DefaultText"
+msgid "N-no reason. Don't you trouble yourself over it, Captain."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_flores_carlos:210
+msgctxt "conversations/01_groundbreaker/01_cv_flores_carlos:210:DefaultText"
+msgid "That was very convincing, miss. I think your Captain almost bought it."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_flores_carlos:211
+msgctxt "conversations/01_groundbreaker/01_cv_flores_carlos:211:DefaultText"
+msgid "Hey, ease off, Lee. Why don't you go file some papers?"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_flores_carlos:212
+msgctxt "conversations/01_groundbreaker/01_cv_flores_carlos:212:DefaultText"
+msgid "All right, all right. I'm just havin' fun, is all. Didn't mean anything by it."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_flores_carlos:213
+msgctxt "conversations/01_groundbreaker/01_cv_flores_carlos:213:DefaultText"
+msgid "Don't hassle my crew, kid."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_flores_carlos:214
+msgctxt "conversations/01_groundbreaker/01_cv_flores_carlos:214:DefaultText"
+msgid "Yes, sir. Of course. I'm sorry if I overstepped. Was just having fun, is all. Didn't mean anything by it."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_flores_carlos:214
+msgctxt "conversations/01_groundbreaker/01_cv_flores_carlos:214:FemaleText"
+msgid "Yes, ma'am. Of course. I'm sorry if I overstepped. Was just having fun, is all. Didn't mean anything by it."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_flores_carlos:215
+msgctxt "conversations/01_groundbreaker/01_cv_flores_carlos:215:DefaultText"
+msgid "I don't under- you know what, never mind. Yeah, friend, you missed it all right."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_flores_carlos:216
+msgctxt "conversations/01_groundbreaker/01_cv_flores_carlos:216:DefaultText"
+msgid "People do what they gotta to get by."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_flores_carlos:217
+msgctxt "conversations/01_groundbreaker/01_cv_flores_carlos:217:DefaultText"
+msgid "That's gotta make long flights fun."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_flores_carlos:218
+msgctxt "conversations/01_groundbreaker/01_cv_flores_carlos:218:DefaultText"
+msgid "Awful generous of you, listening to me like this."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_flores_carlos:219
+msgctxt "conversations/01_groundbreaker/01_cv_flores_carlos:219:DefaultText"
+msgid "We got a lot of rules to follow. Hard to remember 'em all sometimes."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_flores_carlos:221
+msgctxt "conversations/01_groundbreaker/01_cv_flores_carlos:221:DefaultText"
+msgid "Maybe if you clear an open bounty and get in good with Cmdt. Sanita? Or help Chief Tennyson fix this heat? That might warrant a \"thank you\" tour or something."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_flores_carlos:222
+msgctxt "conversations/01_groundbreaker/01_cv_flores_carlos:222:DefaultText"
+msgid "You DID help fix the radiators - I know Cmdt. Sanita's grateful for that. Maybe if you cleared an open bounty, that'd be enough for a \"thank you\" tour?"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_flores_carlos:223
+msgctxt "conversations/01_groundbreaker/01_cv_flores_carlos:223:DefaultText"
+msgid "You DID take care of MacRedd. 'Bout the only thing that'd make Cmdt. Sanita happier is if this heat problem were fixed, too. Maybe she'd give you a \"thank you\" tour after that?"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_flores_carlos:224
+msgctxt "conversations/01_groundbreaker/01_cv_flores_carlos:224:DefaultText"
+msgid "You have done a lot for us, Captain. I'll talk to the Cmdt. about scheduling a \"thank you\" tour for you. Maybe check back in a few days?"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_flores_carlos:225
+msgctxt "conversations/01_groundbreaker/01_cv_flores_carlos:225:DefaultText"
+msgid "I've already handled a big problem for the station, Lee. You can trust me."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_flores_carlos:226
+msgctxt "conversations/01_groundbreaker/01_cv_flores_carlos:226:DefaultText"
+msgid "Come on, Lee. I've done a lot for you all. Why the wait?"
+msgstr ""

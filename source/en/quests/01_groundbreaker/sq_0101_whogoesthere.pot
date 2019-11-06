@@ -1,0 +1,69 @@
+#: quests/01_groundbreaker/sq_0101_whogoesthere:0
+msgctxt "quests/01_groundbreaker/sq_0101_whogoesthere:0:DefaultText"
+msgid "Who Goes There?"
+msgstr ""
+
+#: quests/01_groundbreaker/sq_0101_whogoesthere:1
+msgctxt "quests/01_groundbreaker/sq_0101_whogoesthere:1:DefaultText"
+msgid "Hunt Down and Kill Captain MacRedd"
+msgstr ""
+
+#: quests/01_groundbreaker/sq_0101_whogoesthere:2
+msgctxt "quests/01_groundbreaker/sq_0101_whogoesthere:2:DefaultText"
+msgid "Claim the Bounty's Reward from Comdt. Sanita"
+msgstr ""
+
+#: quests/01_groundbreaker/sq_0101_whogoesthere:10000
+msgctxt "quests/01_groundbreaker/sq_0101_whogoesthere:10000:DefaultText"
+msgid "The Groundbreaker's Mardets have a bounty out for a criminal on the run in the Groundbreaker's Back Bays. You've agreed to hunt down the unlawful Captain Gunnar MacRedd. Return his lighter to Cmdt. Sanita to claim the bounty."
+msgstr ""
+
+#: quests/01_groundbreaker/sq_0101_whogoesthere:10001
+msgctxt "quests/01_groundbreaker/sq_0101_whogoesthere:10001:DefaultText"
+msgid "Based on the bounty listing, Captain MacRedd was last sighted in the Back Bays. Head there and take him out."
+msgstr ""
+
+#: quests/01_groundbreaker/sq_0101_whogoesthere:10002
+msgctxt "quests/01_groundbreaker/sq_0101_whogoesthere:10002:DefaultText"
+msgid "To claim the bounty's reward, deliver Captain MacRedd's lucky lighter as proof of kill to Comdt. Sanita in Groundbreaker's Mardet station."
+msgstr ""
+
+#: quests/01_groundbreaker/sq_0101_whogoesthere:20002
+msgctxt "quests/01_groundbreaker/sq_0101_whogoesthere:20002:DefaultText"
+msgid "You ended up killing MacRedd anyways. Go tell Sanita what happened."
+msgstr ""
+
+#: quests/01_groundbreaker/sq_0101_whogoesthere:20003
+msgctxt "quests/01_groundbreaker/sq_0101_whogoesthere:20003:DefaultText"
+msgid "MacRedd is dead. Make sure to grab his lucky lighter so that you can collect the reward for his bounty."
+msgstr ""
+
+#: quests/01_groundbreaker/sq_0101_whogoesthere:20004
+msgctxt "quests/01_groundbreaker/sq_0101_whogoesthere:20004:DefaultText"
+msgid "You negotiated with MacRedd and got his lighter without killing him."
+msgstr ""
+
+#: quests/01_groundbreaker/sq_0101_whogoesthere:30000
+msgctxt "quests/01_groundbreaker/sq_0101_whogoesthere:30000:DefaultText"
+msgid "You took out the target and collected the bounty from Sanita."
+msgstr ""
+
+#: quests/01_groundbreaker/sq_0101_whogoesthere:30001
+msgctxt "quests/01_groundbreaker/sq_0101_whogoesthere:30001:DefaultText"
+msgid "Sanita died, and you can no longer collect the bounty for the target."
+msgstr ""
+
+#: quests/01_groundbreaker/sq_0101_whogoesthere:30002
+msgctxt "quests/01_groundbreaker/sq_0101_whogoesthere:30002:DefaultText"
+msgid "You lied to Sanita, and gave her MacRedd's lucky lighter without killing him."
+msgstr ""
+
+#: quests/01_groundbreaker/sq_0101_whogoesthere:30003
+msgctxt "quests/01_groundbreaker/sq_0101_whogoesthere:30003:DefaultText"
+msgid "The Groundbreaker has become hostile towards you, making it impossible to complete this quest."
+msgstr ""
+
+#: quests/01_groundbreaker/sq_0101_whogoesthere:40001
+msgctxt "quests/01_groundbreaker/sq_0101_whogoesthere:40001:DefaultText"
+msgid "MacRedd gave you his lucky lighter to give to Sanita. Go turn it in to resolve his bounty."
+msgstr ""

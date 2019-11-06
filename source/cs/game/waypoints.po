@@ -1,0 +1,2149 @@
+#: game/waypoints:0
+msgctxt "game/waypoints:0:DefaultText"
+msgid "Party Time!"
+msgstr ""
+
+#: game/waypoints:1
+msgctxt "game/waypoints:1:DefaultText"
+msgid "Anton"
+msgstr ""
+
+#: game/waypoints:5
+msgctxt "game/waypoints:5:DefaultText"
+msgid "Distress Call"
+msgstr ""
+
+#: game/waypoints:30
+msgctxt "game/waypoints:30:DefaultText"
+msgid "Security Console"
+msgstr ""
+
+#: game/waypoints:32
+msgctxt "game/waypoints:32:DefaultText"
+msgid "Cassandra"
+msgstr ""
+
+#: game/waypoints:33
+msgctxt "game/waypoints:33:DefaultText"
+msgid "Cassandra"
+msgstr ""
+
+#: game/waypoints:46
+msgctxt "game/waypoints:46:DefaultText"
+msgid "Cassandra"
+msgstr ""
+
+#: game/waypoints:47
+msgctxt "game/waypoints:47:DefaultText"
+msgid "Cassandra"
+msgstr ""
+
+#: game/waypoints:52
+msgctxt "game/waypoints:52:DefaultText"
+msgid "Jameson"
+msgstr ""
+
+#: game/waypoints:59
+msgctxt "game/waypoints:59:DefaultText"
+msgid "Schematics"
+msgstr ""
+
+#: game/waypoints:60
+msgctxt "game/waypoints:60:DefaultText"
+msgid "Orson"
+msgstr ""
+
+#: game/waypoints:62
+msgctxt "game/waypoints:62:DefaultText"
+msgid "Experiment"
+msgstr ""
+
+#: game/waypoints:65
+msgctxt "game/waypoints:65:DefaultText"
+msgid "Vaughn"
+msgstr ""
+
+#: game/waypoints:67
+msgctxt "game/waypoints:67:DefaultText"
+msgid "Vaughn"
+msgstr ""
+
+#: game/waypoints:68
+msgctxt "game/waypoints:68:DefaultText"
+msgid "Roseway"
+msgstr ""
+
+#: game/waypoints:70
+msgctxt "game/waypoints:70:DefaultText"
+msgid "Cigarette Case"
+msgstr ""
+
+#: game/waypoints:72
+msgctxt "game/waypoints:72:DefaultText"
+msgid "Lillian"
+msgstr ""
+
+#: game/waypoints:78
+msgctxt "game/waypoints:78:DefaultText"
+msgid "Lillian's Weapon"
+msgstr ""
+
+#: game/waypoints:86
+msgctxt "game/waypoints:86:DefaultText"
+msgid "Lillian's Weapon"
+msgstr ""
+
+#: game/waypoints:87
+msgctxt "game/waypoints:87:DefaultText"
+msgid "Lillian's Weapon"
+msgstr ""
+
+#: game/waypoints:88
+msgctxt "game/waypoints:88:DefaultText"
+msgid "Lillian"
+msgstr ""
+
+#: game/waypoints:90
+msgctxt "game/waypoints:90:DefaultText"
+msgid "Testy Quest Bro"
+msgstr ""
+
+#: game/waypoints:99
+msgctxt "game/waypoints:99:DefaultText"
+msgid "Testy Chesty"
+msgstr ""
+
+#: game/waypoints:103
+msgctxt "game/waypoints:103:DefaultText"
+msgid "The Unreliable"
+msgstr ""
+
+#: game/waypoints:105
+msgctxt "game/waypoints:105:DefaultText"
+msgid "Emerald Vale"
+msgstr ""
+
+#: game/waypoints:106
+msgctxt "game/waypoints:106:DefaultText"
+msgid "Parvati"
+msgstr ""
+
+#: game/waypoints:107
+msgctxt "game/waypoints:107:DefaultText"
+msgid "Reed Tobson"
+msgstr ""
+
+#: game/waypoints:108
+msgctxt "game/waypoints:108:DefaultText"
+msgid "Vicar Max"
+msgstr ""
+
+#: game/waypoints:110
+msgctxt "game/waypoints:110:DefaultText"
+msgid "Power Regulator"
+msgstr ""
+
+#: game/waypoints:114
+msgctxt "game/waypoints:114:DefaultText"
+msgid "Silas"
+msgstr ""
+
+#: game/waypoints:119
+msgctxt "game/waypoints:119:DefaultText"
+msgid "Sanjar"
+msgstr ""
+
+#: game/waypoints:120
+msgctxt "game/waypoints:120:DefaultText"
+msgid "Sanjar"
+msgstr ""
+
+#: game/waypoints:121
+msgctxt "game/waypoints:121:DefaultText"
+msgid "Sanjar"
+msgstr ""
+
+#: game/waypoints:125
+msgctxt "game/waypoints:125:DefaultText"
+msgid "Nyoka"
+msgstr ""
+
+#: game/waypoints:126
+msgctxt "game/waypoints:126:DefaultText"
+msgid "Sebastian"
+msgstr ""
+
+#: game/waypoints:127
+msgctxt "game/waypoints:127:DefaultText"
+msgid "Velma"
+msgstr ""
+
+#: game/waypoints:148
+msgctxt "game/waypoints:148:DefaultText"
+msgid "Nyoka"
+msgstr ""
+
+#: game/waypoints:149
+msgctxt "game/waypoints:149:DefaultText"
+msgid "Storage Container"
+msgstr ""
+
+#: game/waypoints:150
+msgctxt "game/waypoints:150:DefaultText"
+msgid "Phineas"
+msgstr ""
+
+#: game/waypoints:151
+msgctxt "game/waypoints:151:DefaultText"
+msgid "Clive"
+msgstr ""
+
+#: game/waypoints:156
+msgctxt "game/waypoints:156:DefaultText"
+msgid "Catherine"
+msgstr ""
+
+#: game/waypoints:157
+msgctxt "game/waypoints:157:DefaultText"
+msgid "Catherine"
+msgstr ""
+
+#: game/waypoints:162
+msgctxt "game/waypoints:162:DefaultText"
+msgid "Clive"
+msgstr ""
+
+#: game/waypoints:163
+msgctxt "game/waypoints:163:DefaultText"
+msgid "Catherine"
+msgstr ""
+
+#: game/waypoints:164
+msgctxt "game/waypoints:164:DefaultText"
+msgid "Velma"
+msgstr ""
+
+#: game/waypoints:165
+msgctxt "game/waypoints:165:DefaultText"
+msgid "Sebastian"
+msgstr ""
+
+#: game/waypoints:167
+msgctxt "game/waypoints:167:DefaultText"
+msgid "Nell"
+msgstr ""
+
+#: game/waypoints:168
+msgctxt "game/waypoints:168:DefaultText"
+msgid "Nell"
+msgstr ""
+
+#: game/waypoints:171
+msgctxt "game/waypoints:171:DefaultText"
+msgid "Sanjar"
+msgstr ""
+
+#: game/waypoints:172
+msgctxt "game/waypoints:172:DefaultText"
+msgid "Apartment"
+msgstr ""
+
+#: game/waypoints:173
+msgctxt "game/waypoints:173:DefaultText"
+msgid "Velma"
+msgstr ""
+
+#: game/waypoints:175
+msgctxt "game/waypoints:175:DefaultText"
+msgid "Printing Press"
+msgstr ""
+
+#: game/waypoints:176
+msgctxt "game/waypoints:176:DefaultText"
+msgid "Targeting Module"
+msgstr ""
+
+#: game/waypoints:177
+msgctxt "game/waypoints:177:DefaultText"
+msgid "Dr. Williams"
+msgstr ""
+
+#: game/waypoints:178
+msgctxt "game/waypoints:178:DefaultText"
+msgid "Zora"
+msgstr ""
+
+#: game/waypoints:179
+msgctxt "game/waypoints:179:DefaultText"
+msgid "Zora"
+msgstr ""
+
+#: game/waypoints:180
+msgctxt "game/waypoints:180:DefaultText"
+msgid "Sanjar"
+msgstr ""
+
+#: game/waypoints:181
+msgctxt "game/waypoints:181:DefaultText"
+msgid "Iconoclast Leader"
+msgstr ""
+
+#: game/waypoints:182
+msgctxt "game/waypoints:182:DefaultText"
+msgid "Graham"
+msgstr ""
+
+#: game/waypoints:183
+msgctxt "game/waypoints:183:DefaultText"
+msgid "Zora"
+msgstr ""
+
+#: game/waypoints:184
+msgctxt "game/waypoints:184:DefaultText"
+msgid "MSI Leader"
+msgstr ""
+
+#: game/waypoints:185
+msgctxt "game/waypoints:185:DefaultText"
+msgid "Graham"
+msgstr ""
+
+#: game/waypoints:186
+msgctxt "game/waypoints:186:DefaultText"
+msgid "Zora"
+msgstr ""
+
+#: game/waypoints:187
+msgctxt "game/waypoints:187:DefaultText"
+msgid "Sanjar"
+msgstr ""
+
+#: game/waypoints:188
+msgctxt "game/waypoints:188:DefaultText"
+msgid "Bath Supplies"
+msgstr ""
+
+#: game/waypoints:195
+msgctxt "game/waypoints:195:DefaultText"
+msgid "Fancy Outfit"
+msgstr ""
+
+#: game/waypoints:197
+msgctxt "game/waypoints:197:DefaultText"
+msgid "Confront Trask"
+msgstr ""
+
+#: game/waypoints:198
+msgctxt "game/waypoints:198:DefaultText"
+msgid "Clyde Harlow"
+msgstr ""
+
+#: game/waypoints:199
+msgctxt "game/waypoints:199:DefaultText"
+msgid "Felix"
+msgstr ""
+
+#: game/waypoints:200
+msgctxt "game/waypoints:200:DefaultText"
+msgid "Blood"
+msgstr ""
+
+#: game/waypoints:201
+msgctxt "game/waypoints:201:DefaultText"
+msgid "Blood"
+msgstr ""
+
+#: game/waypoints:202
+msgctxt "game/waypoints:202:DefaultText"
+msgid "Blood"
+msgstr ""
+
+#: game/waypoints:203
+msgctxt "game/waypoints:203:DefaultText"
+msgid "Blood"
+msgstr ""
+
+#: game/waypoints:204
+msgctxt "game/waypoints:204:DefaultText"
+msgid "Scientist"
+msgstr ""
+
+#: game/waypoints:205
+msgctxt "game/waypoints:205:DefaultText"
+msgid "Scientists"
+msgstr ""
+
+#: game/waypoints:206
+msgctxt "game/waypoints:206:DefaultText"
+msgid "Sebastian"
+msgstr ""
+
+#: game/waypoints:207
+msgctxt "game/waypoints:207:DefaultText"
+msgid "Celia"
+msgstr ""
+
+#: game/waypoints:212
+msgctxt "game/waypoints:212:DefaultText"
+msgid "Ellie"
+msgstr ""
+
+#: game/waypoints:213
+msgctxt "game/waypoints:213:DefaultText"
+msgid "Jessie Doyle"
+msgstr ""
+
+#: game/waypoints:214
+msgctxt "game/waypoints:214:DefaultText"
+msgid "Mantiqueen"
+msgstr ""
+
+#: game/waypoints:215
+msgctxt "game/waypoints:215:DefaultText"
+msgid "Raptidon"
+msgstr ""
+
+#: game/waypoints:216
+msgctxt "game/waypoints:216:DefaultText"
+msgid "Primal"
+msgstr ""
+
+#: game/waypoints:217
+msgctxt "game/waypoints:217:DefaultText"
+msgid "ARMS Storage"
+msgstr ""
+
+#: game/waypoints:218
+msgctxt "game/waypoints:218:DefaultText"
+msgid "Carlotta"
+msgstr ""
+
+#: game/waypoints:219
+msgctxt "game/waypoints:219:DefaultText"
+msgid "Carlotta"
+msgstr ""
+
+#: game/waypoints:220
+msgctxt "game/waypoints:220:DefaultText"
+msgid "Graham"
+msgstr ""
+
+#: game/waypoints:221
+msgctxt "game/waypoints:221:DefaultText"
+msgid "ARMS Storage"
+msgstr ""
+
+#: game/waypoints:222
+msgctxt "game/waypoints:222:DefaultText"
+msgid "ARMS Storage"
+msgstr ""
+
+#: game/waypoints:223
+msgctxt "game/waypoints:223:DefaultText"
+msgid "Sanjar"
+msgstr ""
+
+#: game/waypoints:224
+msgctxt "game/waypoints:224:DefaultText"
+msgid "Graham"
+msgstr ""
+
+#: game/waypoints:225
+msgctxt "game/waypoints:225:DefaultText"
+msgid "Medic"
+msgstr ""
+
+#: game/waypoints:226
+msgctxt "game/waypoints:226:DefaultText"
+msgid "Scout"
+msgstr ""
+
+#: game/waypoints:227
+msgctxt "game/waypoints:227:DefaultText"
+msgid "Catherine"
+msgstr ""
+
+#: game/waypoints:228
+msgctxt "game/waypoints:228:DefaultText"
+msgid "Drop Point"
+msgstr ""
+
+#: game/waypoints:229
+msgctxt "game/waypoints:229:DefaultText"
+msgid "Survivor"
+msgstr ""
+
+#: game/waypoints:230
+msgctxt "game/waypoints:230:DefaultText"
+msgid "Wesley"
+msgstr ""
+
+#: game/waypoints:231
+msgctxt "game/waypoints:231:DefaultText"
+msgid "Yvonne"
+msgstr ""
+
+#: game/waypoints:232
+msgctxt "game/waypoints:232:DefaultText"
+msgid "Huxley"
+msgstr ""
+
+#: game/waypoints:233
+msgctxt "game/waypoints:233:DefaultText"
+msgid "Research"
+msgstr ""
+
+#: game/waypoints:234
+msgctxt "game/waypoints:234:DefaultText"
+msgid "Gate Controls"
+msgstr ""
+
+#: game/waypoints:235
+msgctxt "game/waypoints:235:DefaultText"
+msgid "Sanjar"
+msgstr ""
+
+#: game/waypoints:236
+msgctxt "game/waypoints:236:DefaultText"
+msgid "Catherine's Terminal"
+msgstr ""
+
+#: game/waypoints:237
+msgctxt "game/waypoints:237:DefaultText"
+msgid "Gunship"
+msgstr ""
+
+#: game/waypoints:238
+msgctxt "game/waypoints:238:DefaultText"
+msgid "Sanjar"
+msgstr ""
+
+#: game/waypoints:239
+msgctxt "game/waypoints:239:DefaultText"
+msgid "Graham"
+msgstr ""
+
+#: game/waypoints:240
+msgctxt "game/waypoints:240:DefaultText"
+msgid "Zora"
+msgstr ""
+
+#: game/waypoints:241
+msgctxt "game/waypoints:241:DefaultText"
+msgid "HR Terminal"
+msgstr ""
+
+#: game/waypoints:242
+msgctxt "game/waypoints:242:DefaultText"
+msgid "To Battle"
+msgstr ""
+
+#: game/waypoints:243
+msgctxt "game/waypoints:243:DefaultText"
+msgid "OSI Church"
+msgstr ""
+
+#: game/waypoints:244
+msgctxt "game/waypoints:244:DefaultText"
+msgid "Information?"
+msgstr ""
+
+#: game/waypoints:248
+msgctxt "game/waypoints:248:DefaultText"
+msgid "Graham"
+msgstr ""
+
+#: game/waypoints:252
+msgctxt "game/waypoints:252:DefaultText"
+msgid "Zora"
+msgstr ""
+
+#: game/waypoints:253
+msgctxt "game/waypoints:253:DefaultText"
+msgid "Nyoka"
+msgstr ""
+
+#: game/waypoints:254
+msgctxt "game/waypoints:254:DefaultText"
+msgid "Nyoka"
+msgstr ""
+
+#: game/waypoints:255
+msgctxt "game/waypoints:255:DefaultText"
+msgid "Nyoka's Corpse"
+msgstr ""
+
+#: game/waypoints:258
+msgctxt "game/waypoints:258:DefaultText"
+msgid "Intercom"
+msgstr ""
+
+#: game/waypoints:259
+msgctxt "game/waypoints:259:DefaultText"
+msgid "Sanjar"
+msgstr ""
+
+#: game/waypoints:262
+msgctxt "game/waypoints:262:DefaultText"
+msgid "C3"
+msgstr ""
+
+#: game/waypoints:263
+msgctxt "game/waypoints:263:DefaultText"
+msgid "Graham"
+msgstr ""
+
+#: game/waypoints:265
+msgctxt "game/waypoints:265:DefaultText"
+msgid "Broadcast Terminal"
+msgstr ""
+
+#: game/waypoints:266
+msgctxt "game/waypoints:266:DefaultText"
+msgid "Sanjar"
+msgstr ""
+
+#: game/waypoints:267
+msgctxt "game/waypoints:267:DefaultText"
+msgid "Graham"
+msgstr ""
+
+#: game/waypoints:268
+msgctxt "game/waypoints:268:DefaultText"
+msgid "Broadcast Terminal"
+msgstr ""
+
+#: game/waypoints:270
+msgctxt "game/waypoints:270:DefaultText"
+msgid "Phineas"
+msgstr ""
+
+#: game/waypoints:272
+msgctxt "game/waypoints:272:DefaultText"
+msgid "Nyoka"
+msgstr ""
+
+#: game/waypoints:273
+msgctxt "game/waypoints:273:DefaultText"
+msgid "Nyoka"
+msgstr ""
+
+#: game/waypoints:278
+msgctxt "game/waypoints:278:DefaultText"
+msgid "Intercom"
+msgstr ""
+
+#: game/waypoints:281
+msgctxt "game/waypoints:281:DefaultText"
+msgid "C3"
+msgstr ""
+
+#: game/waypoints:282
+msgctxt "game/waypoints:282:DefaultText"
+msgid "Sanjar"
+msgstr ""
+
+#: game/waypoints:283
+msgctxt "game/waypoints:283:DefaultText"
+msgid "Graham"
+msgstr ""
+
+#: game/waypoints:284
+msgctxt "game/waypoints:284:DefaultText"
+msgid "Broker"
+msgstr ""
+
+#: game/waypoints:287
+msgctxt "game/waypoints:287:DefaultText"
+msgid "Sophia"
+msgstr ""
+
+#: game/waypoints:288
+msgctxt "game/waypoints:288:DefaultText"
+msgid "Gunship"
+msgstr ""
+
+#: game/waypoints:289
+msgctxt "game/waypoints:289:DefaultText"
+msgid "Captain's Terminal"
+msgstr ""
+
+#: game/waypoints:290
+msgctxt "game/waypoints:290:DefaultText"
+msgid "Phineas"
+msgstr ""
+
+#: game/waypoints:291
+msgctxt "game/waypoints:291:DefaultText"
+msgid "Sophia"
+msgstr ""
+
+#: game/waypoints:292
+msgctxt "game/waypoints:292:DefaultText"
+msgid "Jerseys"
+msgstr ""
+
+#: game/waypoints:293
+msgctxt "game/waypoints:293:DefaultText"
+msgid "Celia"
+msgstr ""
+
+#: game/waypoints:294
+msgctxt "game/waypoints:294:DefaultText"
+msgid "Velma"
+msgstr ""
+
+#: game/waypoints:295
+msgctxt "game/waypoints:295:DefaultText"
+msgid "Velma"
+msgstr ""
+
+#: game/waypoints:296
+msgctxt "game/waypoints:296:DefaultText"
+msgid "Nell"
+msgstr ""
+
+#: game/waypoints:298
+msgctxt "game/waypoints:298:DefaultText"
+msgid "Velma's Storage"
+msgstr ""
+
+#: game/waypoints:299
+msgctxt "game/waypoints:299:DefaultText"
+msgid "Grimm"
+msgstr ""
+
+#: game/waypoints:300
+msgctxt "game/waypoints:300:DefaultText"
+msgid "Grimm"
+msgstr ""
+
+#: game/waypoints:302
+msgctxt "game/waypoints:302:DefaultText"
+msgid "Nelson"
+msgstr ""
+
+#: game/waypoints:309
+msgctxt "game/waypoints:309:DefaultText"
+msgid "Catherine"
+msgstr ""
+
+#: game/waypoints:313
+msgctxt "game/waypoints:313:DefaultText"
+msgid "Catherine"
+msgstr ""
+
+#: game/waypoints:315
+msgctxt "game/waypoints:315:DefaultText"
+msgid "Catherine"
+msgstr ""
+
+#: game/waypoints:317
+msgctxt "game/waypoints:317:DefaultText"
+msgid "House"
+msgstr ""
+
+#: game/waypoints:318
+msgctxt "game/waypoints:318:DefaultText"
+msgid "Locked Room"
+msgstr ""
+
+#: game/waypoints:320
+msgctxt "game/waypoints:320:DefaultText"
+msgid "Regulator"
+msgstr ""
+
+#: game/waypoints:321
+msgctxt "game/waypoints:321:DefaultText"
+msgid "Rerouter"
+msgstr ""
+
+#: game/waypoints:322
+msgctxt "game/waypoints:322:DefaultText"
+msgid "Breaker"
+msgstr ""
+
+#: game/waypoints:323
+msgctxt "game/waypoints:323:DefaultText"
+msgid "Bronson"
+msgstr ""
+
+#: game/waypoints:324
+msgctxt "game/waypoints:324:DefaultText"
+msgid "Mr. Pickett?"
+msgstr ""
+
+#: game/waypoints:325
+msgctxt "game/waypoints:325:DefaultText"
+msgid "Sebastian"
+msgstr ""
+
+#: game/waypoints:326
+msgctxt "game/waypoints:326:DefaultText"
+msgid "Dispensary"
+msgstr ""
+
+#: game/waypoints:327
+msgctxt "game/waypoints:327:DefaultText"
+msgid "Apartment"
+msgstr ""
+
+#: game/waypoints:328
+msgctxt "game/waypoints:328:DefaultText"
+msgid "Caleb"
+msgstr ""
+
+#: game/waypoints:329
+msgctxt "game/waypoints:329:DefaultText"
+msgid "Velma"
+msgstr ""
+
+#: game/waypoints:330
+msgctxt "game/waypoints:330:DefaultText"
+msgid "Velma"
+msgstr ""
+
+#: game/waypoints:331
+msgctxt "game/waypoints:331:DefaultText"
+msgid "Caleb"
+msgstr ""
+
+#: game/waypoints:332
+msgctxt "game/waypoints:332:DefaultText"
+msgid "Tucker"
+msgstr ""
+
+#: game/waypoints:333
+msgctxt "game/waypoints:333:DefaultText"
+msgid "Tucker"
+msgstr ""
+
+#: game/waypoints:334
+msgctxt "game/waypoints:334:DefaultText"
+msgid "Agnes"
+msgstr ""
+
+#: game/waypoints:335
+msgctxt "game/waypoints:335:DefaultText"
+msgid "Agnes"
+msgstr ""
+
+#: game/waypoints:336
+msgctxt "game/waypoints:336:DefaultText"
+msgid "Berthold"
+msgstr ""
+
+#: game/waypoints:337
+msgctxt "game/waypoints:337:DefaultText"
+msgid "Mantiqueen"
+msgstr ""
+
+#: game/waypoints:338
+msgctxt "game/waypoints:338:DefaultText"
+msgid "Berthold"
+msgstr ""
+
+#: game/waypoints:339
+msgctxt "game/waypoints:339:DefaultText"
+msgid "Berthold Fox"
+msgstr ""
+
+#: game/waypoints:344
+msgctxt "game/waypoints:344:DefaultText"
+msgid "Ash"
+msgstr ""
+
+#: game/waypoints:346
+msgctxt "game/waypoints:346:DefaultText"
+msgid "Terminal"
+msgstr ""
+
+#: game/waypoints:347
+msgctxt "game/waypoints:347:DefaultText"
+msgid "Refueling System"
+msgstr ""
+
+#: game/waypoints:348
+msgctxt "game/waypoints:348:DefaultText"
+msgid "Terminal"
+msgstr ""
+
+#: game/waypoints:350
+msgctxt "game/waypoints:350:DefaultText"
+msgid "Secret Lab Access"
+msgstr ""
+
+#: game/waypoints:351
+msgctxt "game/waypoints:351:DefaultText"
+msgid "ARMS Key"
+msgstr ""
+
+#: game/waypoints:352
+msgctxt "game/waypoints:352:DefaultText"
+msgid "Phineas' Contact"
+msgstr ""
+
+#: game/waypoints:353
+msgctxt "game/waypoints:353:DefaultText"
+msgid "Broker"
+msgstr ""
+
+#: game/waypoints:354
+msgctxt "game/waypoints:354:DefaultText"
+msgid "Relay"
+msgstr ""
+
+#: game/waypoints:355
+msgctxt "game/waypoints:355:DefaultText"
+msgid "Everett"
+msgstr ""
+
+#: game/waypoints:356
+msgctxt "game/waypoints:356:DefaultText"
+msgid "Cavern"
+msgstr ""
+
+#: game/waypoints:357
+msgctxt "game/waypoints:357:DefaultText"
+msgid "Exit"
+msgstr ""
+
+#: game/waypoints:358
+msgctxt "game/waypoints:358:DefaultText"
+msgid "Minister's Guard"
+msgstr ""
+
+#: game/waypoints:359
+msgctxt "game/waypoints:359:DefaultText"
+msgid "Contact's Corpse"
+msgstr ""
+
+#: game/waypoints:360
+msgctxt "game/waypoints:360:DefaultText"
+msgid "Minister Clarke"
+msgstr ""
+
+#: game/waypoints:361
+msgctxt "game/waypoints:361:DefaultText"
+msgid "Building with Book"
+msgstr ""
+
+#: game/waypoints:362
+msgctxt "game/waypoints:362:DefaultText"
+msgid "Rahim"
+msgstr ""
+
+#: game/waypoints:363
+msgctxt "game/waypoints:363:DefaultText"
+msgid "Ship Controls"
+msgstr ""
+
+#: game/waypoints:364
+msgctxt "game/waypoints:364:DefaultText"
+msgid "Search Area"
+msgstr ""
+
+#: game/waypoints:365
+msgctxt "game/waypoints:365:DefaultText"
+msgid "Ship's Computer"
+msgstr ""
+
+#: game/waypoints:366
+msgctxt "game/waypoints:366:DefaultText"
+msgid "Reed's Terminal"
+msgstr ""
+
+#: game/waypoints:367
+msgctxt "game/waypoints:367:DefaultText"
+msgid "Geothermal Master Control Terminal"
+msgstr ""
+
+#: game/waypoints:368
+msgctxt "game/waypoints:368:DefaultText"
+msgid "Routing Switch"
+msgstr ""
+
+#: game/waypoints:369
+msgctxt "game/waypoints:369:DefaultText"
+msgid "Geothermal Plant"
+msgstr ""
+
+#: game/waypoints:370
+msgctxt "game/waypoints:370:DefaultText"
+msgid "Power Regulator Housing"
+msgstr ""
+
+#: game/waypoints:371
+msgctxt "game/waypoints:371:DefaultText"
+msgid "Edgewater"
+msgstr ""
+
+#: game/waypoints:372
+msgctxt "game/waypoints:372:DefaultText"
+msgid "Adelaide McDevitt"
+msgstr ""
+
+#: game/waypoints:373
+msgctxt "game/waypoints:373:DefaultText"
+msgid "Botanical Lab"
+msgstr ""
+
+#: game/waypoints:374
+msgctxt "game/waypoints:374:DefaultText"
+msgid "Grace Romero"
+msgstr ""
+
+#: game/waypoints:375
+msgctxt "game/waypoints:375:DefaultText"
+msgid "Thomas Kemp"
+msgstr ""
+
+#: game/waypoints:376
+msgctxt "game/waypoints:376:DefaultText"
+msgid "Automechanical Scout"
+msgstr ""
+
+#: game/waypoints:377
+msgctxt "game/waypoints:377:DefaultText"
+msgid "Ludwig Miller"
+msgstr ""
+
+#: game/waypoints:379
+msgctxt "game/waypoints:379:DefaultText"
+msgid "Security Chief's Corpse"
+msgstr ""
+
+#: game/waypoints:380
+msgctxt "game/waypoints:380:DefaultText"
+msgid "Logic Module"
+msgstr ""
+
+#: game/waypoints:381
+msgctxt "game/waypoints:381:DefaultText"
+msgid "Ludwig's Bundle"
+msgstr ""
+
+#: game/waypoints:382
+msgctxt "game/waypoints:382:DefaultText"
+msgid "Guillaume Antrim"
+msgstr ""
+
+#: game/waypoints:383
+msgctxt "game/waypoints:383:DefaultText"
+msgid "Doc Maybell"
+msgstr ""
+
+#: game/waypoints:384
+msgctxt "game/waypoints:384:DefaultText"
+msgid "Bertie Cotton"
+msgstr ""
+
+#: game/waypoints:385
+msgctxt "game/waypoints:385:DefaultText"
+msgid "Constable Reyes"
+msgstr ""
+
+#: game/waypoints:386
+msgctxt "game/waypoints:386:DefaultText"
+msgid "Zoe Chandler"
+msgstr ""
+
+#: game/waypoints:387
+msgctxt "game/waypoints:387:DefaultText"
+msgid "Zoe's House"
+msgstr ""
+
+#: game/waypoints:388
+msgctxt "game/waypoints:388:DefaultText"
+msgid "Marauder Camp"
+msgstr ""
+
+#: game/waypoints:389
+msgctxt "game/waypoints:389:DefaultText"
+msgid "Zoe's Corpse"
+msgstr ""
+
+#: game/waypoints:390
+msgctxt "game/waypoints:390:DefaultText"
+msgid "Engineering Volume 03"
+msgstr ""
+
+#: game/waypoints:391
+msgctxt "game/waypoints:391:DefaultText"
+msgid "Engineering Volume 01"
+msgstr ""
+
+#: game/waypoints:392
+msgctxt "game/waypoints:392:DefaultText"
+msgid "Engineering Volume 02"
+msgstr ""
+
+#: game/waypoints:393
+msgctxt "game/waypoints:393:DefaultText"
+msgid "Martin Abernathy"
+msgstr ""
+
+#: game/waypoints:394
+msgctxt "game/waypoints:394:DefaultText"
+msgid "Conrad Sadik"
+msgstr ""
+
+#: game/waypoints:395
+msgctxt "game/waypoints:395:DefaultText"
+msgid "Phyllis Granger"
+msgstr ""
+
+#: game/waypoints:397
+msgctxt "game/waypoints:397:DefaultText"
+msgid "Find Scholar"
+msgstr ""
+
+#: game/waypoints:398
+msgctxt "game/waypoints:398:DefaultText"
+msgid "Gladys"
+msgstr ""
+
+#: game/waypoints:400
+msgctxt "game/waypoints:400:DefaultText"
+msgid "Navigation Terminal"
+msgstr ""
+
+#: game/waypoints:401
+msgctxt "game/waypoints:401:DefaultText"
+msgid "ADA"
+msgstr ""
+
+#: game/waypoints:412
+msgctxt "game/waypoints:412:DefaultText"
+msgid "Storage Container"
+msgstr ""
+
+#: game/waypoints:415
+msgctxt "game/waypoints:415:DefaultText"
+msgid "Edna Ingmire"
+msgstr ""
+
+#: game/waypoints:416
+msgctxt "game/waypoints:416:DefaultText"
+msgid "Maverick"
+msgstr ""
+
+#: game/waypoints:417
+msgctxt "game/waypoints:417:DefaultText"
+msgid "Places!"
+msgstr ""
+
+#: game/waypoints:418
+msgctxt "game/waypoints:418:DefaultText"
+msgid "Audition"
+msgstr ""
+
+#: game/waypoints:419
+msgctxt "game/waypoints:419:DefaultText"
+msgid "Cave"
+msgstr ""
+
+#: game/waypoints:420
+msgctxt "game/waypoints:420:DefaultText"
+msgid "Dumpster"
+msgstr ""
+
+#: game/waypoints:421
+msgctxt "game/waypoints:421:DefaultText"
+msgid "Emma Ashby"
+msgstr ""
+
+#: game/waypoints:422
+msgctxt "game/waypoints:422:DefaultText"
+msgid "Poison"
+msgstr ""
+
+#: game/waypoints:423
+msgctxt "game/waypoints:423:DefaultText"
+msgid "Hermit"
+msgstr ""
+
+#: game/waypoints:425
+msgctxt "game/waypoints:425:DefaultText"
+msgid "Bar"
+msgstr ""
+
+#: game/waypoints:436
+msgctxt "game/waypoints:436:DefaultText"
+msgid "Vicar Barnes"
+msgstr ""
+
+#: game/waypoints:437
+msgctxt "game/waypoints:437:DefaultText"
+msgid "Eli Rhodes"
+msgstr ""
+
+#: game/waypoints:438
+msgctxt "game/waypoints:438:DefaultText"
+msgid "Constance Offenbacker"
+msgstr ""
+
+#: game/waypoints:439
+msgctxt "game/waypoints:439:DefaultText"
+msgid "Byzantium Representative"
+msgstr ""
+
+#: game/waypoints:440
+msgctxt "game/waypoints:440:DefaultText"
+msgid "MTO Officer"
+msgstr ""
+
+#: game/waypoints:441
+msgctxt "game/waypoints:441:DefaultText"
+msgid "Office"
+msgstr ""
+
+#: game/waypoints:442
+msgctxt "game/waypoints:442:DefaultText"
+msgid "Signature Required"
+msgstr ""
+
+#: game/waypoints:443
+msgctxt "game/waypoints:443:DefaultText"
+msgid "Safe Location"
+msgstr ""
+
+#: game/waypoints:444
+msgctxt "game/waypoints:444:DefaultText"
+msgid "Fuel Terminal"
+msgstr ""
+
+#: game/waypoints:446
+msgctxt "game/waypoints:446:DefaultText"
+msgid "Exit"
+msgstr ""
+
+#: game/waypoints:447
+msgctxt "game/waypoints:447:DefaultText"
+msgid "Hortense"
+msgstr ""
+
+#: game/waypoints:448
+msgctxt "game/waypoints:448:DefaultText"
+msgid "Retirement Welcome Center"
+msgstr ""
+
+#: game/waypoints:449
+msgctxt "game/waypoints:449:DefaultText"
+msgid "Ellie's Parents"
+msgstr ""
+
+#: game/waypoints:451
+msgctxt "game/waypoints:451:DefaultText"
+msgid "Minister's Office"
+msgstr ""
+
+#: game/waypoints:453
+msgctxt "game/waypoints:453:DefaultText"
+msgid "Chairman's Office"
+msgstr ""
+
+#: game/waypoints:454
+msgctxt "game/waypoints:454:DefaultText"
+msgid "Dimethyl Sulfoxide"
+msgstr ""
+
+#: game/waypoints:455
+msgctxt "game/waypoints:455:DefaultText"
+msgid "Lockwood"
+msgstr ""
+
+#: game/waypoints:456
+msgctxt "game/waypoints:456:DefaultText"
+msgid "Lockwood's Office"
+msgstr ""
+
+#: game/waypoints:457
+msgctxt "game/waypoints:457:DefaultText"
+msgid "Relay GB-23"
+msgstr ""
+
+#: game/waypoints:458
+msgctxt "game/waypoints:458:DefaultText"
+msgid "Activate Relay"
+msgstr ""
+
+#: game/waypoints:463
+msgctxt "game/waypoints:463:DefaultText"
+msgid "Alonzo"
+msgstr ""
+
+#: game/waypoints:464
+msgctxt "game/waypoints:464:DefaultText"
+msgid "Newton"
+msgstr ""
+
+#: game/waypoints:465
+msgctxt "game/waypoints:465:DefaultText"
+msgid "Lyndia"
+msgstr ""
+
+#: game/waypoints:466
+msgctxt "game/waypoints:466:DefaultText"
+msgid "HPS"
+msgstr ""
+
+#: game/waypoints:467
+msgctxt "game/waypoints:467:DefaultText"
+msgid "Lyndia's Office"
+msgstr ""
+
+#: game/waypoints:468
+msgctxt "game/waypoints:468:DefaultText"
+msgid "Stash House"
+msgstr ""
+
+#: game/waypoints:471
+msgctxt "game/waypoints:471:DefaultText"
+msgid "Presentation Device"
+msgstr ""
+
+#: game/waypoints:472
+msgctxt "game/waypoints:472:DefaultText"
+msgid "Bureau Pass"
+msgstr ""
+
+#: game/waypoints:473
+msgctxt "game/waypoints:473:DefaultText"
+msgid "Minister's Terminal"
+msgstr ""
+
+#: game/waypoints:475
+msgctxt "game/waypoints:475:DefaultText"
+msgid "Salvage Parts"
+msgstr ""
+
+#: game/waypoints:476
+msgctxt "game/waypoints:476:DefaultText"
+msgid "Junlei Tennyson"
+msgstr ""
+
+#: game/waypoints:477
+msgctxt "game/waypoints:477:DefaultText"
+msgid "Repair Radiators"
+msgstr ""
+
+#: game/waypoints:479
+msgctxt "game/waypoints:479:DefaultText"
+msgid "Camp"
+msgstr ""
+
+#: game/waypoints:480
+msgctxt "game/waypoints:480:DefaultText"
+msgid "Kat"
+msgstr ""
+
+#: game/waypoints:481
+msgctxt "game/waypoints:481:DefaultText"
+msgid "Ogden"
+msgstr ""
+
+#: game/waypoints:482
+msgctxt "game/waypoints:482:DefaultText"
+msgid "Town Leader"
+msgstr ""
+
+#: game/waypoints:483
+msgctxt "game/waypoints:483:DefaultText"
+msgid "Corpse"
+msgstr ""
+
+#: game/waypoints:484
+msgctxt "game/waypoints:484:DefaultText"
+msgid "Emma"
+msgstr ""
+
+#: game/waypoints:485
+msgctxt "game/waypoints:485:DefaultText"
+msgid "Hiding Spot"
+msgstr ""
+
+#: game/waypoints:500
+msgctxt "game/waypoints:500:DefaultText"
+msgid "MacRedd"
+msgstr ""
+
+#: game/waypoints:503
+msgctxt "game/waypoints:503:DefaultText"
+msgid "Comdt. Sanita"
+msgstr ""
+
+#: game/waypoints:506
+msgctxt "game/waypoints:506:DefaultText"
+msgid "Meet with Sophia"
+msgstr ""
+
+#: game/waypoints:507
+msgctxt "game/waypoints:507:DefaultText"
+msgid "Return to Percival"
+msgstr ""
+
+#: game/waypoints:508
+msgctxt "game/waypoints:508:DefaultText"
+msgid "Percival"
+msgstr ""
+
+#: game/waypoints:510
+msgctxt "game/waypoints:510:DefaultText"
+msgid "Dr. Dorsett"
+msgstr ""
+
+#: game/waypoints:511
+msgctxt "game/waypoints:511:DefaultText"
+msgid "Crash Site"
+msgstr ""
+
+#: game/waypoints:512
+msgctxt "game/waypoints:512:DefaultText"
+msgid "Save Irion"
+msgstr ""
+
+#: game/waypoints:514
+msgctxt "game/waypoints:514:DefaultText"
+msgid "Melody's House"
+msgstr ""
+
+#: game/waypoints:515
+msgctxt "game/waypoints:515:DefaultText"
+msgid "Melody Jensen"
+msgstr ""
+
+#: game/waypoints:516
+msgctxt "game/waypoints:516:DefaultText"
+msgid "Hazel Ulrich"
+msgstr ""
+
+#: game/waypoints:517
+msgctxt "game/waypoints:517:DefaultText"
+msgid "Langston Wymore"
+msgstr ""
+
+#: game/waypoints:518
+msgctxt "game/waypoints:518:DefaultText"
+msgid "Langston's Locker"
+msgstr ""
+
+#: game/waypoints:519
+msgctxt "game/waypoints:519:DefaultText"
+msgid "Franklin Wong"
+msgstr ""
+
+#: game/waypoints:520
+msgctxt "game/waypoints:520:DefaultText"
+msgid "Katie Sato"
+msgstr ""
+
+#: game/waypoints:521
+msgctxt "game/waypoints:521:DefaultText"
+msgid "Crawford Morrison"
+msgstr ""
+
+#: game/waypoints:522
+msgctxt "game/waypoints:522:DefaultText"
+msgid "Stella Grant"
+msgstr ""
+
+#: game/waypoints:523
+msgctxt "game/waypoints:523:DefaultText"
+msgid "Rizzo's Confectionary"
+msgstr ""
+
+#: game/waypoints:527
+msgctxt "game/waypoints:527:DefaultText"
+msgid "Confectionary Lab"
+msgstr ""
+
+#: game/waypoints:528
+msgctxt "game/waypoints:528:DefaultText"
+msgid "Rizzo Lab Terminal"
+msgstr ""
+
+#: game/waypoints:529
+msgctxt "game/waypoints:529:DefaultText"
+msgid "Supervisor's Terminal"
+msgstr ""
+
+#: game/waypoints:532
+msgctxt "game/waypoints:532:DefaultText"
+msgid "Terminal"
+msgstr ""
+
+#: game/waypoints:533
+msgctxt "game/waypoints:533:DefaultText"
+msgid "Catherine"
+msgstr ""
+
+#: game/waypoints:534
+msgctxt "game/waypoints:534:DefaultText"
+msgid "Message Terminal"
+msgstr ""
+
+#: game/waypoints:535
+msgctxt "game/waypoints:535:DefaultText"
+msgid "Lilya"
+msgstr ""
+
+#: game/waypoints:536
+msgctxt "game/waypoints:536:DefaultText"
+msgid "Keystone"
+msgstr ""
+
+#: game/waypoints:537
+msgctxt "game/waypoints:537:DefaultText"
+msgid "Tobias Oyama"
+msgstr ""
+
+#: game/waypoints:538
+msgctxt "game/waypoints:538:DefaultText"
+msgid "Siphon Gas"
+msgstr ""
+
+#: game/waypoints:539
+msgctxt "game/waypoints:539:DefaultText"
+msgid "Hayes' Grave"
+msgstr ""
+
+#: game/waypoints:540
+msgctxt "game/waypoints:540:DefaultText"
+msgid "Expansion Site"
+msgstr ""
+
+#: game/waypoints:541
+msgctxt "game/waypoints:541:DefaultText"
+msgid "Hope Docking Bay"
+msgstr ""
+
+#: game/waypoints:542
+msgctxt "game/waypoints:542:DefaultText"
+msgid "Hope Auxiliary Power"
+msgstr ""
+
+#: game/waypoints:543
+msgctxt "game/waypoints:543:DefaultText"
+msgid "Hope Comms"
+msgstr ""
+
+#: game/waypoints:544
+msgctxt "game/waypoints:544:DefaultText"
+msgid "Hope Bridge"
+msgstr ""
+
+#: game/waypoints:545
+msgctxt "game/waypoints:545:DefaultText"
+msgid "Unreliable"
+msgstr ""
+
+#: game/waypoints:548
+msgctxt "game/waypoints:548:DefaultText"
+msgid "Lilya Hagen"
+msgstr ""
+
+#: game/waypoints:549
+msgctxt "game/waypoints:549:DefaultText"
+msgid "Security"
+msgstr ""
+
+#: game/waypoints:550
+msgctxt "game/waypoints:550:DefaultText"
+msgid "Raptidons"
+msgstr ""
+
+#: game/waypoints:551
+msgctxt "game/waypoints:551:DefaultText"
+msgid "Cassandra's Corpse"
+msgstr ""
+
+#: game/waypoints:553
+msgctxt "game/waypoints:553:DefaultText"
+msgid "Anton's Data"
+msgstr ""
+
+#: game/waypoints:555
+msgctxt "game/waypoints:555:DefaultText"
+msgid "Sweetheart Cake"
+msgstr ""
+
+#: game/waypoints:557
+msgctxt "game/waypoints:557:DefaultText"
+msgid "Dustback Casserole"
+msgstr ""
+
+#: game/waypoints:559
+msgctxt "game/waypoints:559:DefaultText"
+msgid "Retrieve Minister's Parcel"
+msgstr ""
+
+#: game/waypoints:560
+msgctxt "game/waypoints:560:DefaultText"
+msgid "Cassandra"
+msgstr ""
+
+#: game/waypoints:561
+msgctxt "game/waypoints:561:DefaultText"
+msgid "Pen Door"
+msgstr ""
+
+#: game/waypoints:567
+msgctxt "game/waypoints:567:DefaultText"
+msgid "Secret Panel"
+msgstr ""
+
+#: game/waypoints:568
+msgctxt "game/waypoints:568:DefaultText"
+msgid "Hawthorne's Ship"
+msgstr ""
+
+#: game/waypoints:569
+msgctxt "game/waypoints:569:DefaultText"
+msgid "Injured Guard"
+msgstr ""
+
+#: game/waypoints:570
+msgctxt "game/waypoints:570:DefaultText"
+msgid "Shoot"
+msgstr ""
+
+#: game/waypoints:572
+msgctxt "game/waypoints:572:DefaultText"
+msgid "Hiram"
+msgstr ""
+
+#: game/waypoints:573
+msgctxt "game/waypoints:573:DefaultText"
+msgid "Acid Steeper"
+msgstr ""
+
+#: game/waypoints:574
+msgctxt "game/waypoints:574:DefaultText"
+msgid "SAM"
+msgstr ""
+
+#: game/waypoints:575
+msgctxt "game/waypoints:575:DefaultText"
+msgid "Dr. Chartrand"
+msgstr ""
+
+#: game/waypoints:579
+msgctxt "game/waypoints:579:DefaultText"
+msgid "Door Passcode"
+msgstr ""
+
+#: game/waypoints:580
+msgctxt "game/waypoints:580:DefaultText"
+msgid "Mechanical Control Terminal"
+msgstr ""
+
+#: game/waypoints:581
+msgctxt "game/waypoints:581:DefaultText"
+msgid "Vicar's Book"
+msgstr ""
+
+#: game/waypoints:582
+msgctxt "game/waypoints:582:DefaultText"
+msgid "Cache of Medicine"
+msgstr ""
+
+#: game/waypoints:583
+msgctxt "game/waypoints:583:DefaultText"
+msgid "Esther Blaine"
+msgstr ""
+
+#: game/waypoints:584
+msgctxt "game/waypoints:584:DefaultText"
+msgid "Scout"
+msgstr ""
+
+#: game/waypoints:586
+msgctxt "game/waypoints:586:DefaultText"
+msgid "Communications Terminal"
+msgstr ""
+
+#: game/waypoints:588
+msgctxt "game/waypoints:588:DefaultText"
+msgid "Mercs"
+msgstr ""
+
+#: game/waypoints:589
+msgctxt "game/waypoints:589:DefaultText"
+msgid "Search Remains"
+msgstr ""
+
+#: game/waypoints:590
+msgctxt "game/waypoints:590:DefaultText"
+msgid "Outpost"
+msgstr ""
+
+#: game/waypoints:591
+msgctxt "game/waypoints:591:DefaultText"
+msgid "Collector's Domicile"
+msgstr ""
+
+#: game/waypoints:593
+msgctxt "game/waypoints:593:DefaultText"
+msgid "Udom Bedford"
+msgstr ""
+
+#: game/waypoints:594
+msgctxt "game/waypoints:594:DefaultText"
+msgid "Udom's Terminal"
+msgstr ""
+
+#: game/waypoints:595
+msgctxt "game/waypoints:595:DefaultText"
+msgid "Rosana"
+msgstr ""
+
+#: game/waypoints:596
+msgctxt "game/waypoints:596:DefaultText"
+msgid "Elevator"
+msgstr ""
+
+#: game/waypoints:597
+msgctxt "game/waypoints:597:DefaultText"
+msgid "Pit Access"
+msgstr ""
+
+#: game/waypoints:598
+msgctxt "game/waypoints:598:DefaultText"
+msgid "Pit Exit"
+msgstr ""
+
+#: game/waypoints:599
+msgctxt "game/waypoints:599:DefaultText"
+msgid "Chairman Rockwell"
+msgstr ""
+
+#: game/waypoints:600
+msgctxt "game/waypoints:600:DefaultText"
+msgid "R.A.M."
+msgstr ""
+
+#: game/waypoints:601
+msgctxt "game/waypoints:601:DefaultText"
+msgid "Lock"
+msgstr ""
+
+#: game/waypoints:602
+msgctxt "game/waypoints:602:DefaultText"
+msgid "Release"
+msgstr ""
+
+#: game/waypoints:603
+msgctxt "game/waypoints:603:DefaultText"
+msgid "Phineas"
+msgstr ""
+
+#: game/waypoints:604
+msgctxt "game/waypoints:604:DefaultText"
+msgid "Phineas"
+msgstr ""
+
+#: game/waypoints:605
+msgctxt "game/waypoints:605:DefaultText"
+msgid "Cave Entrance"
+msgstr ""
+
+#: game/waypoints:606
+msgctxt "game/waypoints:606:DefaultText"
+msgid "Path to Ship"
+msgstr ""
+
+#: game/waypoints:607
+msgctxt "game/waypoints:607:DefaultText"
+msgid "Tartarus"
+msgstr ""
+
+#: game/waypoints:609
+msgctxt "game/waypoints:609:DefaultText"
+msgid "Restore Power"
+msgstr ""
+
+#: game/waypoints:611
+msgctxt "game/waypoints:611:DefaultText"
+msgid "Eliminate the Outlaws"
+msgstr ""
+
+#: game/waypoints:613
+msgctxt "game/waypoints:613:DefaultText"
+msgid "Nelson"
+msgstr ""
+
+#: game/waypoints:614
+msgctxt "game/waypoints:614:DefaultText"
+msgid "Sprat Droppings"
+msgstr ""
+
+#: game/waypoints:615
+msgctxt "game/waypoints:615:DefaultText"
+msgid "Bertrand"
+msgstr ""
+
+#: game/waypoints:616
+msgctxt "game/waypoints:616:DefaultText"
+msgid "Phineas' Lab"
+msgstr ""
+
+#: game/waypoints:618
+msgctxt "game/waypoints:618:DefaultText"
+msgid "Locked Safe"
+msgstr ""
+
+#: game/waypoints:619
+msgctxt "game/waypoints:619:DefaultText"
+msgid "Insurance Office"
+msgstr ""
+
+#: game/waypoints:620
+msgctxt "game/waypoints:620:DefaultText"
+msgid "Elijah"
+msgstr ""
+
+#: game/waypoints:621
+msgctxt "game/waypoints:621:DefaultText"
+msgid "Clear Marauders (<oeiglobal>0406_Marauders_Killed</oeiglobal>/<oeiglobal>0406_Maruaders_To_Kill</oeiglobal>)"
+msgstr ""
+
+#: game/waypoints:622
+msgctxt "game/waypoints:622:DefaultText"
+msgid "Sprat?"
+msgstr ""
+
+#: game/waypoints:623
+msgctxt "game/waypoints:623:DefaultText"
+msgid "Meditative Aid"
+msgstr ""
+
+#: game/waypoints:624
+msgctxt "game/waypoints:624:DefaultText"
+msgid "Stash"
+msgstr ""
+
+#: game/waypoints:625
+msgctxt "game/waypoints:625:DefaultText"
+msgid "Leverage"
+msgstr ""
+
+#: game/waypoints:626
+msgctxt "game/waypoints:626:DefaultText"
+msgid "Edgar"
+msgstr ""
+
+#: game/waypoints:627
+msgctxt "game/waypoints:627:DefaultText"
+msgid "Levi"
+msgstr ""
+
+#: game/waypoints:628
+msgctxt "game/waypoints:628:DefaultText"
+msgid "Martha"
+msgstr ""
+
+#: game/waypoints:629
+msgctxt "game/waypoints:629:DefaultText"
+msgid "Lizzie"
+msgstr ""
+
+#: game/waypoints:630
+msgctxt "game/waypoints:630:DefaultText"
+msgid "Sprat!"
+msgstr ""
+
+#: game/waypoints:631
+msgctxt "game/waypoints:631:DefaultText"
+msgid "Bertrand"
+msgstr ""
+
+#: game/waypoints:632
+msgctxt "game/waypoints:632:DefaultText"
+msgid "Droppings"
+msgstr ""
+
+#: game/waypoints:633
+msgctxt "game/waypoints:633:DefaultText"
+msgid "Mini Malin"
+msgstr ""
+
+#: game/waypoints:634
+msgctxt "game/waypoints:634:DefaultText"
+msgid "Outpost Access"
+msgstr ""
+
+#: game/waypoints:635
+msgctxt "game/waypoints:635:DefaultText"
+msgid "Window B"
+msgstr ""
+
+#: game/waypoints:636
+msgctxt "game/waypoints:636:DefaultText"
+msgid "HPS Clerk"
+msgstr ""
+
+#: game/waypoints:637
+msgctxt "game/waypoints:637:DefaultText"
+msgid "Parcel Delivery"
+msgstr ""
+
+#: game/waypoints:638
+msgctxt "game/waypoints:638:DefaultText"
+msgid "Parcel Pickup"
+msgstr ""
+
+#: game/waypoints:639
+msgctxt "game/waypoints:639:DefaultText"
+msgid "Mantisaur Feeding Grounds"
+msgstr ""
+
+#: game/waypoints:640
+msgctxt "game/waypoints:640:DefaultText"
+msgid "Joy"
+msgstr ""
+
+#: game/waypoints:641
+msgctxt "game/waypoints:641:DefaultText"
+msgid "Sprats in Tunnels"
+msgstr ""
+
+#: game/waypoints:642
+msgctxt "game/waypoints:642:DefaultText"
+msgid "Giles"
+msgstr ""
+
+#: game/waypoints:643
+msgctxt "game/waypoints:643:DefaultText"
+msgid "Byzantium Beacon"
+msgstr ""
+
+#: game/waypoints:644
+msgctxt "game/waypoints:644:DefaultText"
+msgid "Emerald Vale Beacon"
+msgstr ""
+
+#: game/waypoints:645
+msgctxt "game/waypoints:645:DefaultText"
+msgid "Scylla Beacon"
+msgstr ""
+
+#: game/waypoints:646
+msgctxt "game/waypoints:646:DefaultText"
+msgid "Monarch Beacon"
+msgstr ""
+
+#: game/waypoints:647
+msgctxt "game/waypoints:647:DefaultText"
+msgid "Sophia's Key"
+msgstr ""
+
+#: game/waypoints:648
+msgctxt "game/waypoints:648:DefaultText"
+msgid "Sophia Akande"
+msgstr ""
+
+#: game/waypoints:649
+msgctxt "game/waypoints:649:DefaultText"
+msgid "HPS Parcel"
+msgstr ""
+
+#: game/waypoints:650
+msgctxt "game/waypoints:650:DefaultText"
+msgid "Window C"
+msgstr ""
+
+#: game/waypoints:651
+msgctxt "game/waypoints:651:DefaultText"
+msgid "Returned Parcel"
+msgstr ""
+
+#: game/waypoints:652
+msgctxt "game/waypoints:652:DefaultText"
+msgid "Captain Irion"
+msgstr ""
+
+#: game/waypoints:653
+msgctxt "game/waypoints:653:DefaultText"
+msgid "Elevator Panel"
+msgstr ""
+
+#: game/waypoints:654
+msgctxt "game/waypoints:654:DefaultText"
+msgid "Passcode"
+msgstr ""
+
+#: game/waypoints:655
+msgctxt "game/waypoints:655:DefaultText"
+msgid "Celeste"
+msgstr ""
+
+#: game/waypoints:656
+msgctxt "game/waypoints:656:DefaultText"
+msgid "Transfer Terminal"
+msgstr ""
+
+#: game/waypoints:657
+msgctxt "game/waypoints:657:DefaultText"
+msgid "Celeste's Parcel"
+msgstr ""
+
+#: game/waypoints:658
+msgctxt "game/waypoints:658:DefaultText"
+msgid "Override Terminal"
+msgstr ""
+
+#: game/waypoints:659
+msgctxt "game/waypoints:659:DefaultText"
+msgid "Retirement District"
+msgstr ""
+
+#: game/waypoints:661
+msgctxt "game/waypoints:661:DefaultText"
+msgid "Opal"
+msgstr ""
+
+#: game/waypoints:662
+msgctxt "game/waypoints:662:DefaultText"
+msgid "Clara"
+msgstr ""
+
+#: game/waypoints:663
+msgctxt "game/waypoints:663:DefaultText"
+msgid "Exit the Unreliable"
+msgstr ""
+
+#: game/waypoints:664
+msgctxt "game/waypoints:664:DefaultText"
+msgid "Parvati's Date"
+msgstr ""
+
+#: game/waypoints:665
+msgctxt "game/waypoints:665:DefaultText"
+msgid "Lab Sprat"
+msgstr ""
+
+#: game/waypoints:666
+msgctxt "game/waypoints:666:DefaultText"
+msgid "Dustback Casserole"
+msgstr ""
+
+#: game/waypoints:668
+msgctxt "game/waypoints:668:DefaultText"
+msgid "Trask's Ring"
+msgstr ""
+
+#: game/waypoints:669
+msgctxt "game/waypoints:669:DefaultText"
+msgid "Trask's Evidence"
+msgstr ""
+
+#: game/waypoints:670
+msgctxt "game/waypoints:670:DefaultText"
+msgid "Primal Glands"
+msgstr ""
+
+#: game/waypoints:671
+msgctxt "game/waypoints:671:DefaultText"
+msgid "Lockwood's Documents"
+msgstr ""
+
+#: game/waypoints:672
+msgctxt "game/waypoints:672:DefaultText"
+msgid "Lockwood's Terminal"
+msgstr ""
+
+#: game/waypoints:673
+msgctxt "game/waypoints:673:DefaultText"
+msgid "Carmen"
+msgstr ""
+
+#: game/waypoints:674
+msgctxt "game/waypoints:674:DefaultText"
+msgid "Sneak Aboard"
+msgstr ""
+
+#: game/waypoints:675
+msgctxt "game/waypoints:675:DefaultText"
+msgid "ID Cartridge"
+msgstr ""
+
+#: game/waypoints:676
+msgctxt "game/waypoints:676:DefaultText"
+msgid "Holographic Shroud"
+msgstr ""
+
+#: game/waypoints:677
+msgctxt "game/waypoints:677:DefaultText"
+msgid "Jump"
+msgstr ""
+
+#: game/waypoints:678
+msgctxt "game/waypoints:678:DefaultText"
+msgid "Drop"
+msgstr ""
+
+#: game/waypoints:679
+msgctxt "game/waypoints:679:DefaultText"
+msgid "Sneak"
+msgstr ""
+
+#: game/waypoints:680
+msgctxt "game/waypoints:680:DefaultText"
+msgid "Crouch"
+msgstr ""
+
+#: game/waypoints:681
+msgctxt "game/waypoints:681:DefaultText"
+msgid "Move"
+msgstr ""
+
+#: game/waypoints:682
+msgctxt "game/waypoints:682:DefaultText"
+msgid "Gas Raptidons"
+msgstr ""
+
+#: game/waypoints:683
+msgctxt "game/waypoints:683:DefaultText"
+msgid "Phineas' Weapon"
+msgstr ""
+
+#: game/waypoints:684
+msgctxt "game/waypoints:684:DefaultText"
+msgid "Groundbreaker Weapon"
+msgstr ""
+
+#: game/waypoints:685
+msgctxt "game/waypoints:685:DefaultText"
+msgid "Duncan"
+msgstr ""
+
+#: game/waypoints:686
+msgctxt "game/waypoints:686:DefaultText"
+msgid "Scylla Weapon"
+msgstr ""
+
+#: game/waypoints:687
+msgctxt "game/waypoints:687:DefaultText"
+msgid "Monarch Weapon"
+msgstr ""
+
+#: game/waypoints:688
+msgctxt "game/waypoints:688:DefaultText"
+msgid "Abandoned Lab Weapon"
+msgstr ""
+
+#: game/waypoints:718
+msgctxt "game/waypoints:718:DefaultText"
+msgid "Impound Notice"
+msgstr ""
+
+#: game/waypoints:729
+msgctxt "game/waypoints:729:DefaultText"
+msgid "Stefan Garcia"
+msgstr ""
+
+#: game/waypoints:736
+msgctxt "game/waypoints:736:DefaultText"
+msgid "[Stub] "
+msgstr ""

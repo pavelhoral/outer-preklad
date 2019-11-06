@@ -1,0 +1,159 @@
+#: conversations/12_hephaestus/12_cv_harlow_lieutenant:1
+msgctxt "conversations/12_hephaestus/12_cv_harlow_lieutenant:1:DefaultText"
+msgid "Hey, you. Looking for something?"
+msgstr ""
+
+#: conversations/12_hephaestus/12_cv_harlow_lieutenant:2
+msgctxt "conversations/12_hephaestus/12_cv_harlow_lieutenant:2:DefaultText"
+msgid "Where do you think you're going?"
+msgstr ""
+
+#: conversations/12_hephaestus/12_cv_harlow_lieutenant:3
+msgctxt "conversations/12_hephaestus/12_cv_harlow_lieutenant:3:DefaultText"
+msgid "Easy, big guy. I'm just looking around."
+msgstr ""
+
+#: conversations/12_hephaestus/12_cv_harlow_lieutenant:4
+msgctxt "conversations/12_hephaestus/12_cv_harlow_lieutenant:4:DefaultText"
+msgid "Felix Millstone's with me. Clyde Harlow's expecting us."
+msgstr ""
+
+#: conversations/12_hephaestus/12_cv_harlow_lieutenant:5
+msgctxt "conversations/12_hephaestus/12_cv_harlow_lieutenant:5:DefaultText"
+msgid "Through you, if you push me."
+msgstr ""
+
+#: conversations/12_hephaestus/12_cv_harlow_lieutenant:8
+msgctxt "conversations/12_hephaestus/12_cv_harlow_lieutenant:8:DefaultText"
+msgid "Yeah. The captain said we might be getting a new recruit. That you, then?"
+msgstr ""
+
+#: conversations/12_hephaestus/12_cv_harlow_lieutenant:9
+msgctxt "conversations/12_hephaestus/12_cv_harlow_lieutenant:9:DefaultText"
+msgid "Sounds like Clyde's jumping to conclusions. But yeah, I'm Felix."
+msgstr ""
+
+#: conversations/12_hephaestus/12_cv_harlow_lieutenant:10
+msgctxt "conversations/12_hephaestus/12_cv_harlow_lieutenant:10:DefaultText"
+msgid "You're on a first name basis with Captain Harlow, huh?"
+msgstr ""
+
+#: conversations/12_hephaestus/12_cv_harlow_lieutenant:11
+msgctxt "conversations/12_hephaestus/12_cv_harlow_lieutenant:11:DefaultText"
+msgid "All right. Go on through."
+msgstr ""
+
+#: conversations/12_hephaestus/12_cv_harlow_lieutenant:12
+msgctxt "conversations/12_hephaestus/12_cv_harlow_lieutenant:12:DefaultText"
+msgid "Long as you ain't looking for trouble."
+msgstr ""
+
+#: conversations/12_hephaestus/12_cv_harlow_lieutenant:13
+msgctxt "conversations/12_hephaestus/12_cv_harlow_lieutenant:13:DefaultText"
+msgid "Hey, nice form. Good delivery, too. You looking to join Captain Harlow's crew, huh?"
+msgstr ""
+
+#: conversations/12_hephaestus/12_cv_harlow_lieutenant:15
+msgctxt "conversations/12_hephaestus/12_cv_harlow_lieutenant:15:DefaultText"
+msgid "Hey, no loitering."
+msgstr ""
+
+#: conversations/12_hephaestus/12_cv_harlow_lieutenant:16
+msgctxt "conversations/12_hephaestus/12_cv_harlow_lieutenant:16:DefaultText"
+msgid "Got my sights on you."
+msgstr ""
+
+#: conversations/12_hephaestus/12_cv_harlow_lieutenant:17
+msgctxt "conversations/12_hephaestus/12_cv_harlow_lieutenant:17:DefaultText"
+msgid "<Show him the papers.> Harlow's been paid off by the Board. "
+msgstr ""
+
+#: conversations/12_hephaestus/12_cv_harlow_lieutenant:18
+msgctxt "conversations/12_hephaestus/12_cv_harlow_lieutenant:18:DefaultText"
+msgid "What? Let me see that."
+msgstr ""
+
+#: conversations/12_hephaestus/12_cv_harlow_lieutenant:19
+msgctxt "conversations/12_hephaestus/12_cv_harlow_lieutenant:19:DefaultText"
+msgid "Mr. Harlow never said we was working for the Board. Stands to reason, though."
+msgstr ""
+
+#: conversations/12_hephaestus/12_cv_harlow_lieutenant:20
+msgctxt "conversations/12_hephaestus/12_cv_harlow_lieutenant:20:DefaultText"
+msgid "That's all you have to say? Your boss was taking money from the Board. He's a mercenary for the establishment!"
+msgstr ""
+
+#: conversations/12_hephaestus/12_cv_harlow_lieutenant:21
+msgctxt "conversations/12_hephaestus/12_cv_harlow_lieutenant:21:DefaultText"
+msgid "Uh, yeah. What's your point? We all gotta play ball with the Board, kid. They own this whole damn colony."
+msgstr ""
+
+#: conversations/12_hephaestus/12_cv_harlow_lieutenant:22
+msgctxt "conversations/12_hephaestus/12_cv_harlow_lieutenant:22:DefaultText"
+msgid "Harlow talked about revolution and fighting the system. Do you believe any of that?"
+msgstr ""
+
+#: conversations/12_hephaestus/12_cv_harlow_lieutenant:23
+msgctxt "conversations/12_hephaestus/12_cv_harlow_lieutenant:23:DefaultText"
+msgid "Let's move on."
+msgstr ""
+
+#: conversations/12_hephaestus/12_cv_harlow_lieutenant:24
+msgctxt "conversations/12_hephaestus/12_cv_harlow_lieutenant:24:DefaultText"
+msgid "Mr. Harlow says a lot of things. And as long as I get my share of the plunder, I believe every word he says."
+msgstr ""
+
+#: conversations/12_hephaestus/12_cv_harlow_lieutenant:25
+msgctxt "conversations/12_hephaestus/12_cv_harlow_lieutenant:25:DefaultText"
+msgid "You're a real piece of work. Nice to know Harlow's filling his crew with certified jackasses."
+msgstr ""
+
+#: conversations/12_hephaestus/12_cv_harlow_lieutenant:26
+msgctxt "conversations/12_hephaestus/12_cv_harlow_lieutenant:26:DefaultText"
+msgid "I'll be on my way."
+msgstr ""
+
+#: conversations/12_hephaestus/12_cv_harlow_lieutenant:27
+msgctxt "conversations/12_hephaestus/12_cv_harlow_lieutenant:27:DefaultText"
+msgid "Ah, yeah. I remember that job. Nice and clean. Easy pickings."
+msgstr ""
+
+#: conversations/12_hephaestus/12_cv_harlow_lieutenant:28
+msgctxt "conversations/12_hephaestus/12_cv_harlow_lieutenant:28:DefaultText"
+msgid "Hey, you gotta take work where you can get, right?"
+msgstr ""
+
+#: conversations/12_hephaestus/12_cv_harlow_lieutenant:30
+msgctxt "conversations/12_hephaestus/12_cv_harlow_lieutenant:30:DefaultText"
+msgid "Right! You sound just like Mr. Harlow."
+msgstr ""
+
+#: conversations/12_hephaestus/12_cv_harlow_lieutenant:31
+msgctxt "conversations/12_hephaestus/12_cv_harlow_lieutenant:31:DefaultText"
+msgid "Uh, Felix? I'm a mercenary for the Board, too."
+msgstr ""
+
+#: conversations/12_hephaestus/12_cv_harlow_lieutenant:32
+msgctxt "conversations/12_hephaestus/12_cv_harlow_lieutenant:32:DefaultText"
+msgid "Yeah, I know. You don't gotta remind me."
+msgstr ""
+
+#: conversations/12_hephaestus/12_cv_harlow_lieutenant:33
+msgctxt "conversations/12_hephaestus/12_cv_harlow_lieutenant:33:DefaultText"
+msgid "Well, yeah, but - you're different!"
+msgstr ""
+
+#: conversations/12_hephaestus/12_cv_harlow_lieutenant:34
+msgctxt "conversations/12_hephaestus/12_cv_harlow_lieutenant:34:DefaultText"
+msgid "Your captain's real sensible, kid. You could learn a thing or two."
+msgstr ""
+
+#: conversations/12_hephaestus/12_cv_harlow_lieutenant:35
+msgctxt "conversations/12_hephaestus/12_cv_harlow_lieutenant:35:DefaultText"
+msgid "Let's get going."
+msgstr ""
+
+#: conversations/12_hephaestus/12_cv_harlow_lieutenant:36
+msgctxt "conversations/12_hephaestus/12_cv_harlow_lieutenant:36:DefaultText"
+msgid "I think we've heard enough."
+msgstr ""

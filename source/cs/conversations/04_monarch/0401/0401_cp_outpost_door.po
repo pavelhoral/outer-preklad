@@ -1,0 +1,24 @@
+#: conversations/04_monarch/0401/0401_cp_outpost_door:1
+msgctxt "conversations/04_monarch/0401/0401_cp_outpost_door:1:DefaultText"
+msgid "UDL Communications Substation #204\r\n"
+"============================\r\n"
+"Records Room Status: SEALED\r\n"
+"Enter administration code."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_outpost_door:2
+msgctxt "conversations/04_monarch/0401/0401_cp_outpost_door:2:DefaultText"
+msgid "[Enter Code]"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_outpost_door:3
+msgctxt "conversations/04_monarch/0401/0401_cp_outpost_door:3:DefaultText"
+msgid "[Exit]"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_outpost_door:4
+msgctxt "conversations/04_monarch/0401/0401_cp_outpost_door:4:DefaultText"
+msgid "UDL Communications Substation #204\r\n"
+"============================\r\n"
+"Records Room Status: ACCESSIBLE. Warning: Unauthorized entry into the records room will result in immediate reassignment."
+msgstr ""

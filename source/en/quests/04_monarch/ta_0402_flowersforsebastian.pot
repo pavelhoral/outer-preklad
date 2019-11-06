@@ -1,0 +1,49 @@
+#: quests/04_monarch/ta_0402_flowersforsebastian:0
+msgctxt "quests/04_monarch/ta_0402_flowersforsebastian:0:DefaultText"
+msgid "Flowers for Sebastian"
+msgstr ""
+
+#: quests/04_monarch/ta_0402_flowersforsebastian:1
+msgctxt "quests/04_monarch/ta_0402_flowersforsebastian:1:DefaultText"
+msgid "Ask Sebastian on a Date for Celia"
+msgstr ""
+
+#: quests/04_monarch/ta_0402_flowersforsebastian:2
+msgctxt "quests/04_monarch/ta_0402_flowersforsebastian:2:DefaultText"
+msgid "Give Celia the Good News"
+msgstr ""
+
+#: quests/04_monarch/ta_0402_flowersforsebastian:10000
+msgctxt "quests/04_monarch/ta_0402_flowersforsebastian:10000:DefaultText"
+msgid "Celia has taken a special interest in Sebastian, but she needs help making her move."
+msgstr ""
+
+#: quests/04_monarch/ta_0402_flowersforsebastian:10001
+msgctxt "quests/04_monarch/ta_0402_flowersforsebastian:10001:DefaultText"
+msgid "Celia's taken a liking to Sebastian, but she's too shy to ask him out herself."
+msgstr ""
+
+#: quests/04_monarch/ta_0402_flowersforsebastian:10002
+msgctxt "quests/04_monarch/ta_0402_flowersforsebastian:10002:DefaultText"
+msgid "Sebastian has agreed to give things a chance with Celia. Go and tell her."
+msgstr ""
+
+#: quests/04_monarch/ta_0402_flowersforsebastian:30000
+msgctxt "quests/04_monarch/ta_0402_flowersforsebastian:30000:DefaultText"
+msgid "You successfully set Sebastian and Celia up on a date."
+msgstr ""
+
+#: quests/04_monarch/ta_0402_flowersforsebastian:30001
+msgctxt "quests/04_monarch/ta_0402_flowersforsebastian:30001:DefaultText"
+msgid "Celia is dead."
+msgstr ""
+
+#: quests/04_monarch/ta_0402_flowersforsebastian:30002
+msgctxt "quests/04_monarch/ta_0402_flowersforsebastian:30002:DefaultText"
+msgid "Sebastian is dead."
+msgstr ""
+
+#: quests/04_monarch/ta_0402_flowersforsebastian:30003
+msgctxt "quests/04_monarch/ta_0402_flowersforsebastian:30003:DefaultText"
+msgid "The Iconoclasts have taken over Stellar Bay, and as a member of MSI, Celia has disappeared. Whether she fled or was killed is anyone's guess."
+msgstr ""

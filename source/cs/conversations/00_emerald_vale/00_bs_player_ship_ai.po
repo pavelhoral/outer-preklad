@@ -1,0 +1,14 @@
+#: conversations/00_emerald_vale/00_bs_player_ship_ai:1
+msgctxt "conversations/00_emerald_vale/00_bs_player_ship_ai:1:DefaultText"
+msgid "Please be informed that this vessel contains no valuable plunder or useful salvage."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_bs_player_ship_ai:2
+msgctxt "conversations/00_emerald_vale/00_bs_player_ship_ai:2:DefaultText"
+msgid "Unauthorized access of spacefaring vessels is a crime. Please submit yourself to the nearest landing pad authority."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_bs_player_ship_ai:3
+msgctxt "conversations/00_emerald_vale/00_bs_player_ship_ai:3:DefaultText"
+msgid "Message from Dr. Welles, Captain."
+msgstr ""

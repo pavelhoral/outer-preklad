@@ -1,0 +1,61 @@
+#: quests/01_groundbreaker/msq_0101_thesilentvoices:0
+msgctxt "quests/01_groundbreaker/msq_0101_thesilentvoices:0:DefaultText"
+msgid "The Silent Voices"
+msgstr ""
+
+#: quests/01_groundbreaker/msq_0101_thesilentvoices:1
+msgctxt "quests/01_groundbreaker/msq_0101_thesilentvoices:1:DefaultText"
+msgid "Travel to Relay GB-23"
+msgstr ""
+
+#: quests/01_groundbreaker/msq_0101_thesilentvoices:2
+msgctxt "quests/01_groundbreaker/msq_0101_thesilentvoices:2:DefaultText"
+msgid "Reactivate the Relay Transmitter"
+msgstr ""
+
+#: quests/01_groundbreaker/msq_0101_thesilentvoices:6
+msgctxt "quests/01_groundbreaker/msq_0101_thesilentvoices:6:DefaultText"
+msgid "Return the Data Backup to Edna Ingmire on the Groundbreaker"
+msgstr ""
+
+#: quests/01_groundbreaker/msq_0101_thesilentvoices:10000
+msgctxt "quests/01_groundbreaker/msq_0101_thesilentvoices:10000:DefaultText"
+msgid "The Groundbreaker's primary communications relay station is about to be occluded by one of Halcyon's gas giants for the next few months. To avoid being entirely cut off, they need the old backup relay station operational again. Edna Ingmire in communications hired you to travel to Relay GB-23 and bring the station online."
+msgstr ""
+
+#: quests/01_groundbreaker/msq_0101_thesilentvoices:10001
+msgctxt "quests/01_groundbreaker/msq_0101_thesilentvoices:10001:DefaultText"
+msgid "The Groundbreaker's backup communications relay went offline a while ago. Now that the station's primary relay is going to be occluded, this backup relay must be repaired."
+msgstr ""
+
+#: quests/01_groundbreaker/msq_0101_thesilentvoices:10002
+msgctxt "quests/01_groundbreaker/msq_0101_thesilentvoices:10002:DefaultText"
+msgid "The terminal to activate the relay is located inside the central control room of the relay station.\r\n"
+"\r\n"
+"Each relay transmitter maintains a backup of messages it has received but not yet transmitted. Since the relay has been off-line for some time, the log of backup messages should be quite substantial."
+msgstr ""
+
+#: quests/01_groundbreaker/msq_0101_thesilentvoices:10006
+msgctxt "quests/01_groundbreaker/msq_0101_thesilentvoices:10006:DefaultText"
+msgid "Edna is in the Communications Control room in Engineering."
+msgstr ""
+
+#: quests/01_groundbreaker/msq_0101_thesilentvoices:20000
+msgctxt "quests/01_groundbreaker/msq_0101_thesilentvoices:20000:DefaultText"
+msgid "It appears that someone has been living in the relay station, and automechanical defenses are active."
+msgstr ""
+
+#: quests/01_groundbreaker/msq_0101_thesilentvoices:30000
+msgctxt "quests/01_groundbreaker/msq_0101_thesilentvoices:30000:DefaultText"
+msgid "With Edna dead, no one remains on the Groundbreaker to pay you for your services."
+msgstr ""
+
+#: quests/01_groundbreaker/msq_0101_thesilentvoices:30001
+msgctxt "quests/01_groundbreaker/msq_0101_thesilentvoices:30001:DefaultText"
+msgid "You reactivated the transmitter and recovered the backup communications data. Groundbreaker will avoid a crippling communications blackout."
+msgstr ""
+
+#: quests/01_groundbreaker/msq_0101_thesilentvoices:30005
+msgctxt "quests/01_groundbreaker/msq_0101_thesilentvoices:30005:DefaultText"
+msgid "The Groundbreaker has become hostile towards you, making it impossible to complete this quest."
+msgstr ""

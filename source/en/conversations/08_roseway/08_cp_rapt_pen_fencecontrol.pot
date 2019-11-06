@@ -1,0 +1,73 @@
+#: conversations/08_roseway/08_cp_rapt_pen_fencecontrol:1
+msgctxt "conversations/08_roseway/08_cp_rapt_pen_fencecontrol:1:DefaultText"
+msgid "Roseway Laboratory and Outpost\r\n"
+"\r\n"
+"Property of Auntie Cleo\r\n"
+"========================\r\n"
+"\r\n"
+"Welcome, L. Han"
+msgstr ""
+
+#: conversations/08_roseway/08_cp_rapt_pen_fencecontrol:2
+msgctxt "conversations/08_roseway/08_cp_rapt_pen_fencecontrol:2:DefaultText"
+msgid "[Read: Automated Security Warning]"
+msgstr ""
+
+#: conversations/08_roseway/08_cp_rapt_pen_fencecontrol:3
+msgctxt "conversations/08_roseway/08_cp_rapt_pen_fencecontrol:3:DefaultText"
+msgid "[Arm Electric Fence]"
+msgstr ""
+
+#: conversations/08_roseway/08_cp_rapt_pen_fencecontrol:4
+msgctxt "conversations/08_roseway/08_cp_rapt_pen_fencecontrol:4:DefaultText"
+msgid "[Disarm Electric Fence]"
+msgstr ""
+
+#: conversations/08_roseway/08_cp_rapt_pen_fencecontrol:5
+msgctxt "conversations/08_roseway/08_cp_rapt_pen_fencecontrol:5:DefaultText"
+msgid "[Exit]"
+msgstr ""
+
+#: conversations/08_roseway/08_cp_rapt_pen_fencecontrol:6
+msgctxt "conversations/08_roseway/08_cp_rapt_pen_fencecontrol:6:DefaultText"
+msgid "Roseway Laboratory and Outpost\r\n"
+"\r\n"
+"Property of Auntie Cleo\r\n"
+"========================\r\n"
+"\r\n"
+"AUTOMATED SECURITY WARNING,\r\n"
+"\r\n"
+"Dear Sir and/or Madam:\r\n"
+"\r\n"
+"This is an automated message generated to inform you of a security breach somewhere in the vicinity of the Roseway Laboratory and Outpost. Auntie Cleo wishes to inform you that in the event of a security breach, you are expected to destroy evidence of any ongoing experiments of questionable legitimacy.\r\n"
+"\r\n"
+"Please retrieve any available weapon and commence elimination of your cache of imported raptidons.\r\n"
+"\r\n"
+"Please remember to disable electric fences before attempting to enter raptidon pens.\r\n"
+"\r\n"
+"Auntie Cleo frowns upon the use of any weaponry made or designed by Spacer's Choice. If your body is found carrying an unauthorized weapon designed by Spacer's Choice Incorporated, you may be fined for violating your non-competition agreement."
+msgstr ""
+
+#: conversations/08_roseway/08_cp_rapt_pen_fencecontrol:7
+msgctxt "conversations/08_roseway/08_cp_rapt_pen_fencecontrol:7:DefaultText"
+msgid "Roseway Laboratory and Outpost\r\n"
+"\r\n"
+"Property of Auntie Cleo\r\n"
+"========================\r\n"
+"\r\n"
+"Raptidon Pen Security Protocol\r\n"
+"\r\n"
+"STATUS: Electric Fence Successfully Armed."
+msgstr ""
+
+#: conversations/08_roseway/08_cp_rapt_pen_fencecontrol:8
+msgctxt "conversations/08_roseway/08_cp_rapt_pen_fencecontrol:8:DefaultText"
+msgid "Roseway Laboratory and Outpost\r\n"
+"\r\n"
+"Property of Auntie Cleo\r\n"
+"========================\r\n"
+"\r\n"
+"Raptidon Pen Security Protocol\r\n"
+"\r\n"
+"STATUS: Electric Fence Successfully Disarmed. Please proceed with caution."
+msgstr ""

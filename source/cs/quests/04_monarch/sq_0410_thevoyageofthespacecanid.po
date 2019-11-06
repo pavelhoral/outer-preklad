@@ -1,0 +1,104 @@
+#: quests/04_monarch/sq_0410_thevoyageofthespacecanid:0
+msgctxt "quests/04_monarch/sq_0410_thevoyageofthespacecanid:0:DefaultText"
+msgid "The Voyage of the Space Canid"
+msgstr ""
+
+#: quests/04_monarch/sq_0410_thevoyageofthespacecanid:1
+msgctxt "quests/04_monarch/sq_0410_thevoyageofthespacecanid:1:DefaultText"
+msgid "Investigate the Crashed Ship"
+msgstr ""
+
+#: quests/04_monarch/sq_0410_thevoyageofthespacecanid:45
+msgctxt "quests/04_monarch/sq_0410_thevoyageofthespacecanid:45:DefaultText"
+msgid "See Where the Ship Lands"
+msgstr ""
+
+#: quests/04_monarch/sq_0410_thevoyageofthespacecanid:46
+msgctxt "quests/04_monarch/sq_0410_thevoyageofthespacecanid:46:DefaultText"
+msgid "Tell Phineas about the Crashed Ship"
+msgstr ""
+
+#: quests/04_monarch/sq_0410_thevoyageofthespacecanid:47
+msgctxt "quests/04_monarch/sq_0410_thevoyageofthespacecanid:47:DefaultText"
+msgid "Tell Sophia about the Crashed Ship"
+msgstr ""
+
+#: quests/04_monarch/sq_0410_thevoyageofthespacecanid:10000
+msgctxt "quests/04_monarch/sq_0410_thevoyageofthespacecanid:10000:DefaultText"
+msgid "A ship is speeding towards the surface of Monarch..."
+msgstr ""
+
+#: quests/04_monarch/sq_0410_thevoyageofthespacecanid:10001
+msgctxt "quests/04_monarch/sq_0410_thevoyageofthespacecanid:10001:DefaultText"
+msgid "The ship's logs and targeting module might be able to tell you something."
+msgstr ""
+
+#: quests/04_monarch/sq_0410_thevoyageofthespacecanid:10045
+msgctxt "quests/04_monarch/sq_0410_thevoyageofthespacecanid:10045:DefaultText"
+msgid "They could still stick the landing..."
+msgstr ""
+
+#: quests/04_monarch/sq_0410_thevoyageofthespacecanid:10046
+msgctxt "quests/04_monarch/sq_0410_thevoyageofthespacecanid:10046:DefaultText"
+msgid "He might be interested in what happened."
+msgstr ""
+
+#: quests/04_monarch/sq_0410_thevoyageofthespacecanid:10047
+msgctxt "quests/04_monarch/sq_0410_thevoyageofthespacecanid:10047:DefaultText"
+msgid "As a UDL ship, she'll definitely want to know."
+msgstr ""
+
+#: quests/04_monarch/sq_0410_thevoyageofthespacecanid:20015
+msgctxt "quests/04_monarch/sq_0410_thevoyageofthespacecanid:20015:DefaultText"
+msgid "0/10 from the Monarch judge."
+msgstr ""
+
+#: quests/04_monarch/sq_0410_thevoyageofthespacecanid:20018
+msgctxt "quests/04_monarch/sq_0410_thevoyageofthespacecanid:20018:DefaultText"
+msgid "You found a recording of the crash."
+msgstr ""
+
+#: quests/04_monarch/sq_0410_thevoyageofthespacecanid:20019
+msgctxt "quests/04_monarch/sq_0410_thevoyageofthespacecanid:20019:DefaultText"
+msgid "You retrieved the ship's targeting module."
+msgstr ""
+
+#: quests/04_monarch/sq_0410_thevoyageofthespacecanid:20020
+msgctxt "quests/04_monarch/sq_0410_thevoyageofthespacecanid:20020:DefaultText"
+msgid "You turned in Phineas. He won't need these details in prison."
+msgstr ""
+
+#: quests/04_monarch/sq_0410_thevoyageofthespacecanid:20021
+msgctxt "quests/04_monarch/sq_0410_thevoyageofthespacecanid:20021:DefaultText"
+msgid "Sophia Akande is dead. You can tell her, but she won't be listening."
+msgstr ""
+
+#: quests/04_monarch/sq_0410_thevoyageofthespacecanid:20022
+msgctxt "quests/04_monarch/sq_0410_thevoyageofthespacecanid:20022:DefaultText"
+msgid "With Phineas missing, you won't be able to inform him."
+msgstr ""
+
+#: quests/04_monarch/sq_0410_thevoyageofthespacecanid:30000
+msgctxt "quests/04_monarch/sq_0410_thevoyageofthespacecanid:30000:DefaultText"
+msgid "Anyone who would want to know about the crashed gunship is dead or in prison."
+msgstr ""
+
+#: quests/04_monarch/sq_0410_thevoyageofthespacecanid:30009
+msgctxt "quests/04_monarch/sq_0410_thevoyageofthespacecanid:30009:DefaultText"
+msgid "You told Phineas about the gunship."
+msgstr ""
+
+#: quests/04_monarch/sq_0410_thevoyageofthespacecanid:30010
+msgctxt "quests/04_monarch/sq_0410_thevoyageofthespacecanid:30010:DefaultText"
+msgid "You told Sophia about the gunship."
+msgstr ""
+
+#: quests/04_monarch/sq_0410_thevoyageofthespacecanid:30011
+msgctxt "quests/04_monarch/sq_0410_thevoyageofthespacecanid:30011:DefaultText"
+msgid "After skipping the Hope, there's no more time to investigate this mystery. The fate of the colonists takes priority."
+msgstr ""
+
+#: quests/04_monarch/sq_0410_thevoyageofthespacecanid:40001
+msgctxt "quests/04_monarch/sq_0410_thevoyageofthespacecanid:40001:DefaultText"
+msgid "A ship has crashed on Monarch. It might be worth investigating."
+msgstr ""

@@ -1,0 +1,14 @@
+#: conversations/companions/g_companion_felix_space_pirate:1
+msgctxt "conversations/companions/g_companion_felix_space_pirate:1:DefaultText"
+msgid "I guess this is where we part ways. Thanks for everything, captain."
+msgstr ""
+
+#: conversations/companions/g_companion_felix_space_pirate:2
+msgctxt "conversations/companions/g_companion_felix_space_pirate:2:DefaultText"
+msgid "I'll see you around. Maybe."
+msgstr ""
+
+#: conversations/companions/g_companion_felix_space_pirate:3
+msgctxt "conversations/companions/g_companion_felix_space_pirate:3:DefaultText"
+msgid "Take care of yourself."
+msgstr ""

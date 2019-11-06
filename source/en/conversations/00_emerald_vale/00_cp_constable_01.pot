@@ -1,0 +1,142 @@
+#: conversations/00_emerald_vale/00_cp_constable_01:1
+msgctxt "conversations/00_emerald_vale/00_cp_constable_01:1:DefaultText"
+msgid "Edgewater Saltuna Cannery\r\n"
+"\r\n"
+"A Spacer's Choice Property\r\n"
+"========================\r\n"
+"\r\n"
+"Terminal Access\r\n"
+"\r\n"
+"Welcome, Constable Reyes"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cp_constable_01:2
+msgctxt "conversations/00_emerald_vale/00_cp_constable_01:2:DefaultText"
+msgid "[Bounty Records]"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cp_constable_01:3
+msgctxt "conversations/00_emerald_vale/00_cp_constable_01:3:DefaultText"
+msgid "Edgewater Saltuna Cannery\r\n"
+"\r\n"
+"A Spacer's Choice Property\r\n"
+"========================\r\n"
+"\r\n"
+"\r\n"
+"All bounties posted by the Edgewater Constabulary have been authorized by Spacer's Choice.\r\n"
+"\r\n"
+"View Bounties?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cp_constable_01:4
+msgctxt "conversations/00_emerald_vale/00_cp_constable_01:4:DefaultText"
+msgid "[Exit]"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cp_constable_01:6
+msgctxt "conversations/00_emerald_vale/00_cp_constable_01:6:DefaultText"
+msgid "[Query: Guillaume Antrim]"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cp_constable_01:7
+msgctxt "conversations/00_emerald_vale/00_cp_constable_01:7:DefaultText"
+msgid "[Query: Doc Maybell]"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cp_constable_01:8
+msgctxt "conversations/00_emerald_vale/00_cp_constable_01:8:DefaultText"
+msgid "[Query: Bertie Cotton]"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cp_constable_01:9
+msgctxt "conversations/00_emerald_vale/00_cp_constable_01:9:DefaultText"
+msgid "Edgewater Saltuna Cannery\r\n"
+"\r\n"
+"A Spacer's Choice Property\r\n"
+"========================\r\n"
+"\r\n"
+"WANTED: Guillaume \"Gill\" Antrim\r\n"
+"\r\n"
+"BACKGROUND: Former Spacer's Choice Associate Mechanic. Terminated from his position.\r\n"
+"\r\n"
+"CONSTABLE'S MEMORANDUM:\r\n"
+"\r\n"
+"The Spacer's Choice Department of Retirement, Termination, and Restitution has filed a writ of execution for Guillaume \"Gill\" Antrim, effective immediately.\r\n"
+"\r\n"
+"Some of you may remember Gill Antrim from his days in the cannery. Please be advised that Spacer's Choice no longer recognizes Mr. Antrim as a member of its valued family. Spacer's Choice advises its workers in good standing to remain in good standing by disabusing themselves of any sympathy, allegiance, or memory toward Mr. Antrim.\r\n"
+"\r\n"
+"Generous bounty. Payment on delivery. Must be able to sign your own name. See Constable Reyes for details."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cp_constable_01:10
+msgctxt "conversations/00_emerald_vale/00_cp_constable_01:10:DefaultText"
+msgid "Edgewater Saltuna Cannery\r\n"
+"\r\n"
+"A Spacer's Choice Property\r\n"
+"========================\r\n"
+"\r\n"
+"WANTED: \"Doc\" Maybell Burgess\r\n"
+"\r\n"
+"BACKGROUND: Former Spacer's Choice Physician. Abandoned her duties and disappeared from Edgewater. At large and considered dangerous.\r\n"
+"\r\n"
+"CONSTABLE'S MEMORANDUM:\r\n"
+"\r\n"
+"The Spacer's Choice Department of Retirement, Termination, and Restitution has filed a writ of execution for \"Doc\" Maybell Burgess, effective immediately.\r\n"
+"\r\n"
+"Doc Maybell is wanted for three counts of larceny: two for each parcel of stolen Adrena-Time, and one for depriving the outpost of its official physician.\r\n"
+"\r\n"
+"Generous bounty. Payment on delivery. Must be able to sign your own name. See Constable Reyes for details."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cp_constable_01:11
+msgctxt "conversations/00_emerald_vale/00_cp_constable_01:11:DefaultText"
+msgid "Edgewater Saltuna Cannery\r\n"
+"\r\n"
+"A Spacer's Choice Property\r\n"
+"========================\r\n"
+"\r\n"
+"WANTED: Bertie Cotton\r\n"
+"\r\n"
+"BACKGROUND: Former Vicar acting on behalf of the Order of Scientific Inquiry, stationed to the Edgewater Vicarage. Suffered psychological breakdown upon showing symptoms of plague. At-large and dangerous.\r\n"
+"\r\n"
+"CONSTABLE'S MEMORANDUM:\r\n"
+"\r\n"
+"The Spacer's Choice Department of Retirement, Termination, and Restitution has filed a writ of execution for Bertie Cotton, effective immediately. The Order of Scientific Inquiry has declined a response.\r\n"
+"\r\n"
+"Vicar Cotton's sermons are considered defunct and obsolete. Spacer's Choice advises purging them from your memory with the help of Zero Gee. Zero Gee Brew - An Ale That's Good For What Ails You.\r\n"
+"\r\n"
+"Generous bounty. Payment on delivery. Must be able to sign your own name. See Constable Reyes for details."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cp_constable_01:19
+msgctxt "conversations/00_emerald_vale/00_cp_constable_01:19:DefaultText"
+msgid "[Open Bounties]"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cp_constable_01:20
+msgctxt "conversations/00_emerald_vale/00_cp_constable_01:20:DefaultText"
+msgid "[Closed Bounties]"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cp_constable_01:21
+msgctxt "conversations/00_emerald_vale/00_cp_constable_01:21:DefaultText"
+msgid "Edgewater Saltuna Cannery\r\n"
+"\r\n"
+"A Spacer's Choice Property\r\n"
+"========================\r\n"
+"\r\n"
+"Accessing Open Bounties\r\n"
+"..."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cp_constable_01:22
+msgctxt "conversations/00_emerald_vale/00_cp_constable_01:22:DefaultText"
+msgid "Edgewater Saltuna Cannery\r\n"
+"\r\n"
+"A Spacer's Choice Property\r\n"
+"========================\r\n"
+"\r\n"
+"Accessing Closed Bounties\r\n"
+"...\r\n"
+""
+msgstr ""

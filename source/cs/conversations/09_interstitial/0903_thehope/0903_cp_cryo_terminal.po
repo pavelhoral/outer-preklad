@@ -1,0 +1,87 @@
+#: conversations/09_interstitial/0903_thehope/0903_cp_cryo_terminal:1
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_cryo_terminal:1:DefaultText"
+msgid "UDL-002 THE HOPE\r\n"
+"===========================\r\n"
+"Warning: Unauthorized access will result in immediate termination upon your arrival in Halcyon."
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_cryo_terminal:2
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_cryo_terminal:2:DefaultText"
+msgid "COLD STORAGE BAY 5\r\n"
+"===========================\r\n"
+"Access to storage pods is currently unavailable.\r\n"
+"\r\n"
+"Available functions:\r\n"
+"- STATUS: Power status report\r\n"
+"- LOGS: View archived logs, recorded audio transmissions, and/or internal messages"
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_cryo_terminal:3
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_cryo_terminal:3:DefaultText"
+msgid "[Status]"
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_cryo_terminal:4
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_cryo_terminal:4:DefaultText"
+msgid "[Logs]"
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_cryo_terminal:5
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_cryo_terminal:5:DefaultText"
+msgid "[Exit]"
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_cryo_terminal:6
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_cryo_terminal:6:DefaultText"
+msgid "COLD STORAGE BAY 5\n"
+"===========================\n"
+"Current storage status: Normal\n"
+"\n"
+"Current pod count: 9,999"
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_cryo_terminal:7
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_cryo_terminal:7:DefaultText"
+msgid "COLD STORAGE BAY 5\r\n"
+"===========================\r\n"
+"Error accessing archives. Available entries:"
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_cryo_terminal:8
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_cryo_terminal:8:DefaultText"
+msgid "[Pod Removal #CB5-524]"
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_cryo_terminal:9
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_cryo_terminal:9:DefaultText"
+msgid "[Automated Audio Transcript #R-2793 - UNKNOWN CREWMEMBERS]"
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_cryo_terminal:11
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_cryo_terminal:11:DefaultText"
+msgid "[Back]"
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_cryo_terminal:12
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_cryo_terminal:12:DefaultText"
+msgid "Cold storage pod #CB5-524\r\n"
+"\r\n"
+"Occupant: <oeitoken>PlayerName</oeitoken>\r\n"
+"\r\n"
+"Removed by: UNKNOWN CREWMEMBER"
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_cryo_terminal:13
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_cryo_terminal:13:DefaultText"
+msgid "UNKNOWN: Hundreds of thousands of colonists, left to drift out here forever. Just to keep from damaging the Board's bottom line. Disgraceful."
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_cryo_terminal:18
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_cryo_terminal:18:DefaultText"
+msgid "[Continue]"
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_cryo_terminal:19
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_cryo_terminal:19:DefaultText"
+msgid "[Continue]"
+msgstr ""

@@ -1,0 +1,108 @@
+#: conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal4:3
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal4:3:DefaultText"
+msgid "UDL-002 THE HOPE\r\n"
+"===========================\r\n"
+"Warning: Unauthorized access will result in immediate termination upon your arrival in Halcyon."
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal4:4
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal4:4:DefaultText"
+msgid "[Manual Log #L-4127 - TORREGA, R.]"
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal4:6
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal4:6:DefaultText"
+msgid "[Automated Audio Transcript #R-2104]"
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal4:8
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal4:8:DefaultText"
+msgid "[Manual Log #L-4391 - HUNTE, D.]"
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal4:17
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal4:17:DefaultText"
+msgid "[Exit]"
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal4:27
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal4:27:DefaultText"
+msgid "[Automated Audio Transcript #R-2130]"
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal4:31
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal4:31:DefaultText"
+msgid "Dear Diary,\r\n"
+"\r\n"
+"Everyone is running around trying to figure out how we're going to eat, but none of it means anything if I can't keep us on course.\r\n"
+"\r\n"
+"It's hell. Charting twenty-six years of travel through space is... I don't know if I can handle it. It's so much pressure. So many lives.\r\n"
+"\r\n"
+"If I get one thing wrong - one smudged decimal point, one off-by-one miscalculation - we could crash into an asteroid.\r\n"
+"\r\n"
+"I keep thinking of the colonists. They'd just... never wake up.\r\n"
+"\r\n"
+"Lucky them."
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal4:41
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal4:41:DefaultText"
+msgid "HUNTE, W: I've called you all here because the numbers on our rations are off.\r\n"
+"NOLDA, F: Off? What do you mean, off?\r\n"
+"HUNTE, W: We have too many. Someone hasn't been taking theirs.\r\n"
+"HUNTE, D: Extra food sounds like a good thing, darling.\r\n"
+"HUNTE, W: Not extra. Someone's getting their food from another source. They must have it stashed somewhere.\r\n"
+"NOLDA, F: So? Someone could've brought some from Earth.\r\n"
+"HUNTE, W: If they did, we need to include it in our rationing, Frank. Every bit of food on this ship is to be split among us all.\r\n"
+"NOLDA, F: It's theirs. It isn't yours to take.\r\n"
+"HUNTE, W: This isn't about ownership! This is about survival. We're going to run out eventually, and the longer we last, the closer we get to figuring this shit out!\r\n"
+"NOLDA, F: All right, all right.\r\n"
+"HUNTE, W: I want everyone to interrogate their crew. Find whoever's not eating their share and bring them forward."
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal4:42
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal4:42:DefaultText"
+msgid "Perhaps there is hope yet.\r\n"
+"\r\n"
+"Mama used to have such a garden. I grew up on her tomatoes and lemons and limes. When we left Earth, she was so kind as to share a sample of seeds with me, so that wherever we end up, I might start my own garden.\r\n"
+"\r\n"
+"Now... buds grow in Hydroponics. This may not be a backyard, but it is something.\r\n"
+"\r\n"
+"I remember you every day, mamochka. Now more than ever."
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal4:43
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal4:43:DefaultText"
+msgid "NOLDA, F: Law help me, it worked. I'm going to hell, but it worked.\r\n"
+"NOLDA, F: Now... how the fuck do I break the news to the captain?"
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal4:44
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal4:44:DefaultText"
+msgid "[Message Exchange #T-2810]"
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal4:45
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal4:45:DefaultText"
+msgid "NOLDA, F: cap. wanted this on record. sick of the witch hunt. it's me. i haven't been eating my rations.\r\n"
+"HUNTE, W: Why?\r\n"
+"NOLDA, F: don't need it. don't mind feeling hungry.\r\n"
+"HUNTE, W: I need my chief engineer with his full faculties. I'm glad you owned up to this, but start eating your full share. That's an order.\r\n"
+"NOLDA, F: all due respect, cap\r\n"
+"NOLDA, F: we're up shit creek\r\n"
+"NOLDA, F: i'm not sure \"that's an order\" means a lot right now\r\n"
+"HUNTE, W: It holds weight now more than ever, Frank. We need to stay organized.\r\n"
+"NOLDA, F: well, i ain't doing it. so either shove that shit down my throat yourself or give my leftovers to someone else."
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal4:46
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal4:46:DefaultText"
+msgid "CREW TERMINAL\r\n"
+"===========================\r\n"
+"Error accessing archives. Available entries:"
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal4:47
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal4:47:DefaultText"
+msgid "[Continue]"
+msgstr ""

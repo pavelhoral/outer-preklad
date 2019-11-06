@@ -1,0 +1,84 @@
+#: quests/00_emeraldvale/sq_0003_marauderbounties:0
+msgctxt "quests/00_emeraldvale/sq_0003_marauderbounties:0:DefaultText"
+msgid "Fistful of Digits"
+msgstr ""
+
+#: quests/00_emeraldvale/sq_0003_marauderbounties:1
+msgctxt "quests/00_emeraldvale/sq_0003_marauderbounties:1:DefaultText"
+msgid "Collect Guillaume Antrim's Finger"
+msgstr ""
+
+#: quests/00_emeraldvale/sq_0003_marauderbounties:2
+msgctxt "quests/00_emeraldvale/sq_0003_marauderbounties:2:DefaultText"
+msgid "Collect Doc Maybell's Finger"
+msgstr ""
+
+#: quests/00_emeraldvale/sq_0003_marauderbounties:3
+msgctxt "quests/00_emeraldvale/sq_0003_marauderbounties:3:DefaultText"
+msgid "Collect Bertie Cotton's Finger"
+msgstr ""
+
+#: quests/00_emeraldvale/sq_0003_marauderbounties:10
+msgctxt "quests/00_emeraldvale/sq_0003_marauderbounties:10:DefaultText"
+msgid "Turn in Guillaume Antrim's Finger"
+msgstr ""
+
+#: quests/00_emeraldvale/sq_0003_marauderbounties:11
+msgctxt "quests/00_emeraldvale/sq_0003_marauderbounties:11:DefaultText"
+msgid "Turn in Doc Maybell's Finger"
+msgstr ""
+
+#: quests/00_emeraldvale/sq_0003_marauderbounties:12
+msgctxt "quests/00_emeraldvale/sq_0003_marauderbounties:12:DefaultText"
+msgid "Turn in Bertie Cotton's Finger"
+msgstr ""
+
+#: quests/00_emeraldvale/sq_0003_marauderbounties:10000
+msgctxt "quests/00_emeraldvale/sq_0003_marauderbounties:10000:DefaultText"
+msgid "Constable Reyes of Edgewater has placed a bounty on dangerous marauders plaguing the region."
+msgstr ""
+
+#: quests/00_emeraldvale/sq_0003_marauderbounties:10001
+msgctxt "quests/00_emeraldvale/sq_0003_marauderbounties:10001:DefaultText"
+msgid "Guillaume Antrim is a dangerous marauder. Kill him and bring back a finger as proof."
+msgstr ""
+
+#: quests/00_emeraldvale/sq_0003_marauderbounties:10002
+msgctxt "quests/00_emeraldvale/sq_0003_marauderbounties:10002:DefaultText"
+msgid "Doc Maybell is wanted for murder and crimes against the region. Kill her and bring back a finger as proof."
+msgstr ""
+
+#: quests/00_emeraldvale/sq_0003_marauderbounties:10003
+msgctxt "quests/00_emeraldvale/sq_0003_marauderbounties:10003:DefaultText"
+msgid "Bertie Cotton is an ex-vicar turned vicious marauder. Kill him and bring back a finger as proof."
+msgstr ""
+
+#: quests/00_emeraldvale/sq_0003_marauderbounties:10010
+msgctxt "quests/00_emeraldvale/sq_0003_marauderbounties:10010:DefaultText"
+msgid "Now that you've collected Guillaume's finger, you can turn it in to Constable Reyes in Edgewater to collect the bounty."
+msgstr ""
+
+#: quests/00_emeraldvale/sq_0003_marauderbounties:10011
+msgctxt "quests/00_emeraldvale/sq_0003_marauderbounties:10011:DefaultText"
+msgid "Now that you've collected Doc Maybell's finger, you can turn it in to Constable Reyes in Edgewater to collect the bounty."
+msgstr ""
+
+#: quests/00_emeraldvale/sq_0003_marauderbounties:10012
+msgctxt "quests/00_emeraldvale/sq_0003_marauderbounties:10012:DefaultText"
+msgid "Now that you've collected Bertie Cotton's finger, you can turn it in to Constable Reyes in Edgewater to collect the bounty."
+msgstr ""
+
+#: quests/00_emeraldvale/sq_0003_marauderbounties:30000
+msgctxt "quests/00_emeraldvale/sq_0003_marauderbounties:30000:DefaultText"
+msgid "You killed all three marauders and collected the bounties on them."
+msgstr ""
+
+#: quests/00_emeraldvale/sq_0003_marauderbounties:30001
+msgctxt "quests/00_emeraldvale/sq_0003_marauderbounties:30001:DefaultText"
+msgid "You killed Constable Reyes. Maybe she looked at you the wrong way. Maybe you got really confused and thought you had to kill her for the reward. In any event, you won't be collecting the bounties from her any time soon."
+msgstr ""
+
+#: quests/00_emeraldvale/sq_0003_marauderbounties:30002
+msgctxt "quests/00_emeraldvale/sq_0003_marauderbounties:30002:DefaultText"
+msgid "All of Edgewater wants you dead, so aiding or visiting their heavily-armed constable is no longer the most productive use of your time."
+msgstr ""

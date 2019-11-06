@@ -1,0 +1,36 @@
+#: conversations/g_cp_landingpad:1
+msgctxt "conversations/g_cp_landingpad:1:DefaultText"
+msgid "Argos Traffic Systems\r\n"
+"-------------------------------------\r\n"
+"Status: Operational\r\n"
+"\r\n"
+"Insert Captain's Identification Cartridge to Initiate Remote Landing\r\n"
+""
+msgstr ""
+
+#: conversations/g_cp_landingpad:10
+msgctxt "conversations/g_cp_landingpad:10:DefaultText"
+msgid "[Exit]"
+msgstr ""
+
+#: conversations/g_cp_landingpad:11
+msgctxt "conversations/g_cp_landingpad:11:DefaultText"
+msgid "[Insert Hawthorne's ID Cartridge]"
+msgstr ""
+
+#: conversations/g_cp_landingpad:13
+msgctxt "conversations/g_cp_landingpad:13:DefaultText"
+msgid "Argos Traffic Systems\r\n"
+"-------------------------------------\r\n"
+"Verifying Captain's ID Cartridge. . . .\r\n"
+"Verified!\r\n"
+"\r\n"
+"Designated Captain: Hawthorne, A.\r\n"
+"Designated Vessel: Unreliable, The\r\n"
+"\r\n"
+"Initiating Remote Landing Protocol. . . .\r\n"
+". . . . .\r\n"
+"Confirmation received from Autonomous Digital Astrogator. . . .\r\n"
+". . . . .\r\n"
+"Remote Landing Status: Success"
+msgstr ""

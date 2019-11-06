@@ -1,0 +1,181 @@
+#: conversations/04_monarch/0411/0411_cp_cystypig_pens:1
+msgctxt "conversations/04_monarch/0411/0411_cp_cystypig_pens:1:DefaultText"
+msgid "C&P Factory Systems\n"
+"Cystypig Feeding Terminal 1 of 2\n"
+"========================\n"
+"AUTHORIZED USER LOG IN SEQUENCE INTIATING...\n"
+"========================\n"
+"\r\n"
+"Greetings, authorized personnel. The King would like to remind you of the following message: \n"
+"\n"
+"begin block quote --\n"
+"\n"
+"The cystypigs get five cans of boarst per meal, per day, each. Not four, not six, not ten. That is FIVE, precisely. And I don't care how much they squeal at you or how pathetic-looking their sad little eyes are - if you over or under feed my stock I will carve each of your limbs away then run your shrieking body through the machine. Dreadful slow.\n"
+"\n"
+"-- end block quote Please select the action you would like to perform."
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cp_cystypig_pens:2
+msgctxt "conversations/04_monarch/0411/0411_cp_cystypig_pens:2:DefaultText"
+msgid "[Inventory Logs]"
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cp_cystypig_pens:4
+msgctxt "conversations/04_monarch/0411/0411_cp_cystypig_pens:4:DefaultText"
+msgid "[Exit]"
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cp_cystypig_pens:5
+msgctxt "conversations/04_monarch/0411/0411_cp_cystypig_pens:5:DefaultText"
+msgid "[Accessing...]"
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cp_cystypig_pens:6
+msgctxt "conversations/04_monarch/0411/0411_cp_cystypig_pens:6:DefaultText"
+msgid "[Inventory Log: Past]"
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cp_cystypig_pens:7
+msgctxt "conversations/04_monarch/0411/0411_cp_cystypig_pens:7:DefaultText"
+msgid "[Inventory Log: Present]"
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cp_cystypig_pens:8
+msgctxt "conversations/04_monarch/0411/0411_cp_cystypig_pens:8:DefaultText"
+msgid "[Return to Root]"
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cp_cystypig_pens:9
+msgctxt "conversations/04_monarch/0411/0411_cp_cystypig_pens:9:DefaultText"
+msgid "Inventory Log...\r\n"
+"\r\n"
+"Week 1:\r\n"
+"\r\n"
+"Day 093 - 0 Cans\r\n"
+"Day 094 - 0 Cans\r\n"
+"Day 095 - 0 Cans\r\n"
+"Day 096 - 1118 Cans\r\n"
+"Day 097 - 3354 Cans\r\n"
+"Day 098 - 10062 Cans\r\n"
+"Day 099 - 30186 Cans\r\n"
+"\r\n"
+"Would you like to see Week 2's Inventory?\r\n"
+"\r\n"
+"Cannot parse command... Returning to root node..."
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cp_cystypig_pens:10
+msgctxt "conversations/04_monarch/0411/0411_cp_cystypig_pens:10:DefaultText"
+msgid "Inventory Log...\r\n"
+"\r\n"
+"Week Corrupted:\r\n"
+"\r\n"
+"Day Corrupted - Unknown Cans\r\n"
+"Day Corrupted - Unknown Cans\r\n"
+"Day Corrupted - Unknown Cans\r\n"
+"Day Corrupted - Unknown Cans\r\n"
+"Day Corrupted - Unknown Cans\r\n"
+"Day Corrupted - Unknown Cans\r\n"
+"Day Corrupted - Unknown Cans\r\n"
+"\r\n"
+"Fatal Error... Returning to root node..."
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cp_cystypig_pens:12
+msgctxt "conversations/04_monarch/0411/0411_cp_cystypig_pens:12:DefaultText"
+msgid "[Feed the Cystypigs]"
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cp_cystypig_pens:13
+msgctxt "conversations/04_monarch/0411/0411_cp_cystypig_pens:13:DefaultText"
+msgid "How many cans would you like to feed to the cystypigs, authorized user?"
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cp_cystypig_pens:20
+msgctxt "conversations/04_monarch/0411/0411_cp_cystypig_pens:20:DefaultText"
+msgid "C&P Factory Systems\r\n"
+"Cystypig Feeding Terminal 1 of 2\r\n"
+"========================\r\n"
+"\n"
+"CYSTYPIG FEEDERS\r\n"
+"UNIT 1 of 2\r\n"
+"\r\n"
+"FOOD SUPPLY STATUS: Comprehensive nutritional assessment indicates the current administration of slop is... \r\n"
+"\r\n"
+">>>Category 5 - Lethal"
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cp_cystypig_pens:21
+msgctxt "conversations/04_monarch/0411/0411_cp_cystypig_pens:21:DefaultText"
+msgid "C&P Factory Systems\r\n"
+"Cystypig Feeding Terminal 1 of 2\r\n"
+"========================\r\n"
+"CYSTYPIG FEEDERS\r\n"
+"UNIT 1 of 2\r\n"
+"\r\n"
+"FOOD SUPPLY STATUS: Comprehensive nutritional assessment indicates the current administration of slop is... \r\n"
+"\r\n"
+">>>Category 2 - Toxic"
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cp_cystypig_pens:23
+msgctxt "conversations/04_monarch/0411/0411_cp_cystypig_pens:23:DefaultText"
+msgid "[Increase Daily Vitamin Administration to the Cystypigs' Feeding Troughs by 4000%]"
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cp_cystypig_pens:27
+msgctxt "conversations/04_monarch/0411/0411_cp_cystypig_pens:27:DefaultText"
+msgid "C&P Factory Systems\r\n"
+"Cystypig Feeding Terminal 1 of 2\r\n"
+"========================\r\n"
+"\n"
+"CYSTYPIG FEEDERS\r\n"
+"UNIT 1 of 2\r\n"
+"\r\n"
+"FOOD SUPPLY STATUS: Comprehensive nutritional assessment indicates the current administration of slop is... \r\n"
+"\r\n"
+">>>Category 2 - Toxic"
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cp_cystypig_pens:28
+msgctxt "conversations/04_monarch/0411/0411_cp_cystypig_pens:28:DefaultText"
+msgid "C&P Factory Systems\r\n"
+"Cystypig Feeding Terminal 2 of 2\r\n"
+"========================\r\n"
+"\n"
+"CYSTYPIG FEEDERS\r\n"
+"UNIT 1 of 2\r\n"
+"\r\n"
+"FOOD SUPPLY STATUS: Comprehensive nutritional assessment indicates the current administration of slop is... \r\n"
+"\r\n"
+">>>Category 5 - Lethal"
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cp_cystypig_pens:29
+msgctxt "conversations/04_monarch/0411/0411_cp_cystypig_pens:29:DefaultText"
+msgid "C&P Factory Systems\n"
+"\n"
+"Cystypig Feeding Terminal 2 of 2\n"
+"========================\n"
+"AUTHORIZED USER LOG IN SEQUENCE INTIATING...\n"
+"========================\n"
+"\n"
+"\n"
+"Greetings, authorized personnel. The King would like to remind you of the following message: \n"
+"\n"
+"begin block quote --\n"
+"\n"
+"The cystypigs get five cans of boarst per meal, per day, each. Not four, not six, not ten. That is FIVE, precisely. And I don't care how much they squeal at you or how pathetic-looking their sad little eyes are - if you over or under feed my stock I will carve each of your limbs away then run your shrieking body through the machine. Dreadful slow.\n"
+"\n"
+"-- end block quote Please select the action you would like to perform."
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cp_cystypig_pens:41
+msgctxt "conversations/04_monarch/0411/0411_cp_cystypig_pens:41:DefaultText"
+msgid "[Increase Daily Vitamin Administration to the Cystypigs' Feeding Troughs by 4000%]"
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cp_cystypig_pens:43
+msgctxt "conversations/04_monarch/0411/0411_cp_cystypig_pens:43:DefaultText"
+msgid "[Enter Feeding Amount: 5097346897 Cans]"
+msgstr ""

@@ -1,0 +1,239 @@
+#: conversations/04_monarch/0406/0406_cp_console_broadcaster:20
+msgctxt "conversations/04_monarch/0406/0406_cp_console_broadcaster:20:DefaultText"
+msgid "Devil's Peak Station\n"
+"========================\n"
+"AUTHORIZED BROADCASTER, select [Recorded Transmissions] for a listing of all scheduled incoming and outgoing broadcasts. To go live, please ask your producer to initiate broadcasting. DO. NOT. Begin broadcasting. Without the supervision of a senior producer. Thank you. - Val\n"
+"---------------------------------\n"
+"\n"
+"And now, a message from our sponsors: \n"
+"\n"
+"Tired of itchy acid burns? Try Auntie Cleo's artisanal boarst-scented moisturizing cream.\n"
+"\n"
+"\n"
+"\n"
+""
+msgstr ""
+
+#: conversations/04_monarch/0406/0406_cp_console_broadcaster:22
+msgctxt "conversations/04_monarch/0406/0406_cp_console_broadcaster:22:DefaultText"
+msgid "[Exit]"
+msgstr ""
+
+#: conversations/04_monarch/0406/0406_cp_console_broadcaster:23
+msgctxt "conversations/04_monarch/0406/0406_cp_console_broadcaster:23:DefaultText"
+msgid "============================\r\n"
+"Outgoing Transmissions: SOS. Date: April 3rd, 2345\r\n"
+"============================\r\n"
+"Incoming Transmissions: Amber Heights, Stellar Bay \r\n"
+"============================\r\n"
+"Administrator Notes: Amber Heights data is Iconoclast in origin. Graham is behind it. Must speak with him. \r\n"
+"\r\n"
+"Stellar Bay broadcasts are coded gibberish. Could potentially use to blackmail Sanjar - has his signature all over it.\r\n"
+"============================"
+msgstr ""
+
+#: conversations/04_monarch/0406/0406_cp_console_broadcaster:24
+msgctxt "conversations/04_monarch/0406/0406_cp_console_broadcaster:24:DefaultText"
+msgid "[Begin Broadcasting]"
+msgstr ""
+
+#: conversations/04_monarch/0406/0406_cp_console_broadcaster:25
+msgctxt "conversations/04_monarch/0406/0406_cp_console_broadcaster:25:DefaultText"
+msgid "[Accessing...]"
+msgstr ""
+
+#: conversations/04_monarch/0406/0406_cp_console_broadcaster:26
+msgctxt "conversations/04_monarch/0406/0406_cp_console_broadcaster:26:DefaultText"
+msgid "AUTHORIZED BROADCASTER, don't even try to pretend you're unaware that all broadcasting is currently LOCKED DOWN. Please, return to milling about the breakroom and lamenting that internship in corporate arbitration you never finished. Or, to override the lock on recording, simply enter your admin username and p * * * * * * d in the command line.\n"
+"\n"
+"Oh, you can't?\n"
+"\n"
+"Maybe you should've been nicer to Val. "
+msgstr ""
+
+#: conversations/04_monarch/0406/0406_cp_console_broadcaster:27
+msgctxt "conversations/04_monarch/0406/0406_cp_console_broadcaster:27:DefaultText"
+msgid "[Accessing...]"
+msgstr ""
+
+#: conversations/04_monarch/0406/0406_cp_console_broadcaster:28
+msgctxt "conversations/04_monarch/0406/0406_cp_console_broadcaster:28:DefaultText"
+msgid "[Personal Files]"
+msgstr ""
+
+#: conversations/04_monarch/0406/0406_cp_console_broadcaster:29
+msgctxt "conversations/04_monarch/0406/0406_cp_console_broadcaster:29:DefaultText"
+msgid "[1. Memorandum titled, \"Clear Blue Skies\" -- Mood: Optimistic]"
+msgstr ""
+
+#: conversations/04_monarch/0406/0406_cp_console_broadcaster:30
+msgctxt "conversations/04_monarch/0406/0406_cp_console_broadcaster:30:DefaultText"
+msgid "[2. Memorandum titled, \"Sneaky Sneaky\" -- Mood: Sneaky]"
+msgstr ""
+
+#: conversations/04_monarch/0406/0406_cp_console_broadcaster:32
+msgctxt "conversations/04_monarch/0406/0406_cp_console_broadcaster:32:DefaultText"
+msgid "[Return to Root]"
+msgstr ""
+
+#: conversations/04_monarch/0406/0406_cp_console_broadcaster:33
+msgctxt "conversations/04_monarch/0406/0406_cp_console_broadcaster:33:DefaultText"
+msgid "Devil's Peak Station\r\n"
+"========================\r\n"
+"PERSONAL FILES FOR HIRAM BLYTHE\r\n"
+"\r\n"
+"Dare I say, the future is looking bright. Indeed, I can run a full gamut of operations without ever leaving the sanctuary of the broadcast room. Sanjar and Graham are living up to their promises and have not interfered with initial broadcasts. The deal is holding. And I...\r\n"
+"\r\n"
+"I believe I can make a life here.\r\n"
+"\r\n"
+"-H"
+msgstr ""
+
+#: conversations/04_monarch/0406/0406_cp_console_broadcaster:34
+msgctxt "conversations/04_monarch/0406/0406_cp_console_broadcaster:34:DefaultText"
+msgid "Devil's Peak Station\r\n"
+"========================\r\n"
+"PERSONAL FILES FOR HIRAM BLYTHE\r\n"
+"\r\n"
+"Had a near miss the other day. Nearly ended up with the Board on my trail. We will mark that trial firmly in the failure category. One must experiment, however, to ascertain the best methods. I have found, thus far, that the most reliable method for evading detection within the limited frequency of Monarch's off-world transmissions involves duplicating regular news broadcasts on several unused frequencies. My information gathering associates know to filter out the sounds in the vocal range, in turn isolating the embedded data. \r\n"
+"\r\n"
+"And the Board's authorities are none-the-wiser.\r\n"
+"\r\n"
+"Playing Hazard has never been so thrilling. Nor high stakes.\r\n"
+"\r\n"
+"-H "
+msgstr ""
+
+#: conversations/04_monarch/0406/0406_cp_console_broadcaster:35
+msgctxt "conversations/04_monarch/0406/0406_cp_console_broadcaster:35:DefaultText"
+msgid "Devil's Peak Station\n"
+"========================\n"
+"PERSONAL FILES FOR HIRAM BLYTHE\n"
+"\n"
+"Pox it all! Those imbecilic children! In their hatred of each other, Sanjar and Graham have over-saturated my key bands. They'll take down each other all right... and me right alongside them.\n"
+"\n"
+"I should have never invited them to play. But what to do about it now? What to do, indeed.\n"
+"\n"
+"-H"
+msgstr ""
+
+#: conversations/04_monarch/0406/0406_cp_console_broadcaster:36
+msgctxt "conversations/04_monarch/0406/0406_cp_console_broadcaster:36:DefaultText"
+msgid "[Priority Transmission Log]"
+msgstr ""
+
+#: conversations/04_monarch/0406/0406_cp_console_broadcaster:37
+msgctxt "conversations/04_monarch/0406/0406_cp_console_broadcaster:37:DefaultText"
+msgid "Devil's Peak Station\r\n"
+"========================\r\n"
+"\r\n"
+"STATUS: The station's primary band is presently over-saturated with continual transmissions from sister settlements. Off-world signals are unable to be isolated for recording."
+msgstr ""
+
+#: conversations/04_monarch/0406/0406_cp_console_broadcaster:38
+msgctxt "conversations/04_monarch/0406/0406_cp_console_broadcaster:38:DefaultText"
+msgid "Devil's Peak Station\r\n"
+"========================\r\n"
+"\r\n"
+"STATUS: Problematic transmissions from Stellar Bay and Amber Heights stations have been discontinued. The station's primary band is operating with minimal signal interference. \r\n"
+"\r\n"
+">>>New data from incoming transmissions has been recorded. One outgoing message is queued for broadcast. View recording?"
+msgstr ""
+
+#: conversations/04_monarch/0406/0406_cp_console_broadcaster:39
+msgctxt "conversations/04_monarch/0406/0406_cp_console_broadcaster:39:DefaultText"
+msgid "[Open Welles2084-C]"
+msgstr ""
+
+#: conversations/04_monarch/0406/0406_cp_console_broadcaster:41
+msgctxt "conversations/04_monarch/0406/0406_cp_console_broadcaster:41:DefaultText"
+msgid "AUTHORIZED BROADCASTER, the content of this data file is encrypted and may not be viewed without proper authorization key. File is ready for broadcasting to CLIENT: P. WELLES. \n"
+"\n"
+"Send data?"
+msgstr ""
+
+#: conversations/04_monarch/0406/0406_cp_console_broadcaster:42
+msgctxt "conversations/04_monarch/0406/0406_cp_console_broadcaster:42:DefaultText"
+msgid "[Send Data]"
+msgstr ""
+
+#: conversations/04_monarch/0406/0406_cp_console_broadcaster:44
+msgctxt "conversations/04_monarch/0406/0406_cp_console_broadcaster:44:DefaultText"
+msgid "[Broadcasting...]\r\n"
+"\r\n"
+"STATUS: In progress\r\n"
+"\r\n"
+"Broadcasting data and deleting from local storage...\r\n"
+"\r\n"
+"ERROR: Signal disrupted\r\n"
+"\r\n"
+"Please recalibrate the extra-planetary dish for optimal transference.\r\n"
+""
+msgstr ""
+
+#: conversations/04_monarch/0406/0406_cp_console_broadcaster:45
+msgctxt "conversations/04_monarch/0406/0406_cp_console_broadcaster:45:DefaultText"
+msgid "Devil's Peak Station\r\n"
+"========================\r\n"
+"\r\n"
+"STATUS: The station's primary band is operating with minimal signal interference. \r\n"
+"\r\n"
+">>>No outgoing transmissions remain for broadcast."
+msgstr ""
+
+#: conversations/04_monarch/0406/0406_cp_console_broadcaster:47
+msgctxt "conversations/04_monarch/0406/0406_cp_console_broadcaster:47:DefaultText"
+msgid "Devil's Peak Station\r\n"
+"========================\r\n"
+"PERSONAL FILES FOR HIRAM BLYTHE"
+msgstr ""
+
+#: conversations/04_monarch/0406/0406_cp_console_broadcaster:54
+msgctxt "conversations/04_monarch/0406/0406_cp_console_broadcaster:54:DefaultText"
+msgid "[Open Channel to HHC HQ]"
+msgstr ""
+
+#: conversations/04_monarch/0406/0406_cp_console_broadcaster:55
+msgctxt "conversations/04_monarch/0406/0406_cp_console_broadcaster:55:DefaultText"
+msgid "AUTHORIZED BROADCASTER, this action will transfer control of the station's core functionality to CLIENT: S. AKANDE.\r\n"
+"\r\n"
+"Proceed?"
+msgstr ""
+
+#: conversations/04_monarch/0406/0406_cp_console_broadcaster:56
+msgctxt "conversations/04_monarch/0406/0406_cp_console_broadcaster:56:DefaultText"
+msgid "[Y]"
+msgstr ""
+
+#: conversations/04_monarch/0406/0406_cp_console_broadcaster:57
+msgctxt "conversations/04_monarch/0406/0406_cp_console_broadcaster:57:DefaultText"
+msgid "[Broadcasting...]\r\n"
+"\r\n"
+"STATUS: In Progress\r\n"
+"\r\n"
+"Transferring control...\r\n"
+"\r\n"
+"ERROR: Signal disrupted.\r\n"
+"\r\n"
+"Please recalibrate the extra-planetary dish for optimal transference."
+msgstr ""
+
+#: conversations/04_monarch/0406/0406_cp_console_broadcaster:58
+msgctxt "conversations/04_monarch/0406/0406_cp_console_broadcaster:58:DefaultText"
+msgid "[3. Memorandum titled, \"SHOULD HAVE KNOWN\" -- Mood: Furious]"
+msgstr ""
+
+#: conversations/04_monarch/0406/0406_cp_console_broadcaster:81
+msgctxt "conversations/04_monarch/0406/0406_cp_console_broadcaster:81:DefaultText"
+msgid "[Continue]"
+msgstr ""
+
+#: conversations/04_monarch/0406/0406_cp_console_broadcaster:83
+msgctxt "conversations/04_monarch/0406/0406_cp_console_broadcaster:83:DefaultText"
+msgid "[Continue]"
+msgstr ""
+
+#: conversations/04_monarch/0406/0406_cp_console_broadcaster:85
+msgctxt "conversations/04_monarch/0406/0406_cp_console_broadcaster:85:DefaultText"
+msgid "[Continue]"
+msgstr ""

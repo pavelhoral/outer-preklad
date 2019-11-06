@@ -1,0 +1,192 @@
+#: conversations/10_scylla/1001_cp_worker_terminal:1
+msgctxt "conversations/10_scylla/1001_cp_worker_terminal:1:DefaultText"
+msgid "Hephaestus Geological Survey\n"
+"Site Supervisor's Terminal\n"
+"-------------------------------------\r\n"
+"\r\n"
+"Use of this terminal for leisure activity is a violation of employee indenture contract clause 227.1(c) \"Time Theft.\" Fines will be levied accordingly.\r\n"
+"\r\n"
+"Main Menu:"
+msgstr ""
+
+#: conversations/10_scylla/1001_cp_worker_terminal:2
+msgctxt "conversations/10_scylla/1001_cp_worker_terminal:2:DefaultText"
+msgid "[Messages]"
+msgstr ""
+
+#: conversations/10_scylla/1001_cp_worker_terminal:3
+msgctxt "conversations/10_scylla/1001_cp_worker_terminal:3:DefaultText"
+msgid "[Logs]"
+msgstr ""
+
+#: conversations/10_scylla/1001_cp_worker_terminal:4
+msgctxt "conversations/10_scylla/1001_cp_worker_terminal:4:DefaultText"
+msgid "[Message #1: Preliminary Survey Results]"
+msgstr ""
+
+#: conversations/10_scylla/1001_cp_worker_terminal:5
+msgctxt "conversations/10_scylla/1001_cp_worker_terminal:5:DefaultText"
+msgid "[Exit]"
+msgstr ""
+
+#: conversations/10_scylla/1001_cp_worker_terminal:6
+msgctxt "conversations/10_scylla/1001_cp_worker_terminal:6:DefaultText"
+msgid "Hephaestus Geological Survey\n"
+"Site Supervisor's Terminal\n"
+"-------------------------------------\r\n"
+"\r\n"
+"All messages sent and received by this terminal are the property of Hephaestus Mining Corporation. Personal messages may be sent with supervisor's approval. Cost of personal messages will be deducted from employee's salary.\r\n"
+"\r\n"
+"Please select the message you wish to view:"
+msgstr ""
+
+#: conversations/10_scylla/1001_cp_worker_terminal:7
+msgctxt "conversations/10_scylla/1001_cp_worker_terminal:7:DefaultText"
+msgid "[Message #2: Status Report - Day 127"
+msgstr ""
+
+#: conversations/10_scylla/1001_cp_worker_terminal:8
+msgctxt "conversations/10_scylla/1001_cp_worker_terminal:8:DefaultText"
+msgid "Hephaestus Geological Survey\n"
+"Site Supervisor's Terminal\n"
+"-------------------------------------\r\n"
+"\r\n"
+"All logs written and stored on this terminal are the property of Hephaestus Mining Corporation. Employee logs are subject to review by management and security at any time, without prior notice.\r\n"
+"\r\n"
+"Please select the log you wish to view:"
+msgstr ""
+
+#: conversations/10_scylla/1001_cp_worker_terminal:9
+msgctxt "conversations/10_scylla/1001_cp_worker_terminal:9:DefaultText"
+msgid "Hephaestus Geological Survey\n"
+"Site Supervisor's Terminal\n"
+"-------------------------------------\r\n"
+"\r\n"
+"FROM: Thackery, B. (Site Supervisor)\r\n"
+"TO: Evers, L. (JVP Remote Extraction)\r\n"
+"SUBJECT: Scylla Preliminary Survey Results\r\n"
+"\r\n"
+"We've completed our initial survey and I have to admit that your hunch was right. I owe you lunch next time I'm on Terra 1.\r\n"
+"\r\n"
+"We barely started our survey before we uncovered a mineral vein with high densities of yttrium and scandium.\r\n"
+"\r\n"
+"There's a limit to how much my team can extract in these pressure suits. Get us a terraformer and some prospecting mechanicals and this little venture of ours is going to make us all rich!\r\n"
+"\r\n"
+"Hope the weather on Terra 1 isn't getting you down. I hear our permanent facility on Hephaestus is almost ready for habitation.\r\n"
+"\r\n"
+"- Thackery"
+msgstr ""
+
+#: conversations/10_scylla/1001_cp_worker_terminal:10
+msgctxt "conversations/10_scylla/1001_cp_worker_terminal:10:DefaultText"
+msgid "Hephaestus Geological Survey\n"
+"Site Supervisor's Terminal\n"
+"-------------------------------------\r\n"
+"\r\n"
+"FROM: Thackery, B. (Site Supervisor)\r\n"
+"TO: Evers, L. (JVP Remote Extraction)\r\n"
+"SUBJECT: Monthly Status Report\r\n"
+"\r\n"
+"Thanks for rushing us that replacement part, Linda. My team got the 'former repaired and it's busy churning out O2 again. Did you have to send one loaded with seed stock? Damn grasses are triggering my allergies.\r\n"
+"\r\n"
+"Survey efforts continue. That initial vein ran dry quicker than we hoped, but we're getting promising results from other locations. Density of scandium lower than first site, but yttrium still at respectable levels.\r\n"
+"\r\n"
+"We had a Board team out here last week scanning for signals from the Hope. We could all guess the results from how unhappy they looked. It's been three years since the Board classified the ship as missing. You'd think we'd be over it by now.\r\n"
+"\r\n"
+"- Thackery"
+msgstr ""
+
+#: conversations/10_scylla/1001_cp_worker_terminal:11
+msgctxt "conversations/10_scylla/1001_cp_worker_terminal:11:DefaultText"
+msgid "[Return to Root]"
+msgstr ""
+
+#: conversations/10_scylla/1001_cp_worker_terminal:12
+msgctxt "conversations/10_scylla/1001_cp_worker_terminal:12:DefaultText"
+msgid "[Message #3: Status Report - Day 268]"
+msgstr ""
+
+#: conversations/10_scylla/1001_cp_worker_terminal:13
+msgctxt "conversations/10_scylla/1001_cp_worker_terminal:13:DefaultText"
+msgid "Hephaestus Geological Survey\n"
+"Site Supervisor's Terminal\n"
+"-------------------------------------\r\n"
+"\r\n"
+"FROM: Thackery, B. (Site Supervisor)\r\n"
+"TO: Evers, L. (VP Remote Extraction)\r\n"
+"SUBJECT: Monthly Status Report\r\n"
+"\r\n"
+"Congratulations on your promotion! Youngest full VP in company history. Just promise me you won't promote that drill-bit Needham to replace you.\r\n"
+"\r\n"
+"Bad news, Lin... all the sites within the 'former's dome have run dry. The mechanicals are bringing back good samples from beyond the retention field. I'll be sending you a requisition for a hauler to relocate the terraformer closer to the new sites.\r\n"
+"\r\n"
+"My team heard that you arranged for some CircusTime traveling show to stop at our base. It was a big boost to morale - we can't wait for some entertainment out here!\r\n"
+"\r\n"
+"- Thackery"
+msgstr ""
+
+#: conversations/10_scylla/1001_cp_worker_terminal:14
+msgctxt "conversations/10_scylla/1001_cp_worker_terminal:14:DefaultText"
+msgid "[Message #4: Denial of Site Relocation]"
+msgstr ""
+
+#: conversations/10_scylla/1001_cp_worker_terminal:15
+msgctxt "conversations/10_scylla/1001_cp_worker_terminal:15:DefaultText"
+msgid "Hephaestus Geological Survey\n"
+"Site Supervisor's Terminal\n"
+"-------------------------------------\r\n"
+"\r\n"
+"FROM: Needham, S. (JVP Remote Extraction)\r\n"
+"TO: Thackery, B. (Site Supervisor)\r\n"
+"SUBJECT: Relocation\r\n"
+"\r\n"
+"Thackery,\r\n"
+"\r\n"
+"Your request for site relocation on that useless rock is DENIED. You've had over a year to generate a profit. If you haven't done it by now, it's not going to happen. And Evers is too busy to hide your incompetence.\r\n"
+"\r\n"
+"I don't want to hear any of your absurd excuses either. The 'terraformer failure' was bad enough, but this drivel about primals running loose and damaging your equipment is the limit. The UTTER LIMIT, do you hear?\r\n"
+"\r\n"
+"Operations at your site are terminated, EFFECTIVE IMMEDIATELY. I've got a new site in mind for you. One of the rocks orbiting Hephaestus. Temps are a cool 170° C. You'll love it.\r\n"
+"\r\n"
+"- Needham"
+msgstr ""
+
+#: conversations/10_scylla/1001_cp_worker_terminal:16
+msgctxt "conversations/10_scylla/1001_cp_worker_terminal:16:DefaultText"
+msgid "[Happy birthday, Julia...]"
+msgstr ""
+
+#: conversations/10_scylla/1001_cp_worker_terminal:17
+msgctxt "conversations/10_scylla/1001_cp_worker_terminal:17:DefaultText"
+msgid "[Reminder: Ask about SubLight]"
+msgstr ""
+
+#: conversations/10_scylla/1001_cp_worker_terminal:18
+msgctxt "conversations/10_scylla/1001_cp_worker_terminal:18:DefaultText"
+msgid "Hephaestus Geological Survey\n"
+"Site Supervisor's Terminal\n"
+"-------------------------------------\r\n"
+"\r\n"
+"A visiting Board team reminded me of the date. We should be celebrating your 42nd birthday today. I'd try and get you drunk with the latest Rizzo's concoction. You'd turn up your nose and say it was nowhere near as good as an Earth wine.\r\n"
+"\r\n"
+"I don't know where you are, big sis. It's been 13 years since you entered hibernation. Since the Hope started its journey. I don't know what happened, why you never got here. If the Architect is kind, you didn't suffer.\r\n"
+"\r\n"
+"I think about you all the time. Every time one of the big interstellar conveyors blazes past, I look up and hope. Hope. Whoever named that damned ship should take a walk in the aether.\r\n"
+"\r\n"
+"I'm so sorry. I never should have convinced you to sign the indenture contract and join me on Halcyon.\r\n"
+"\r\n"
+"I'll never stop thinking about you, Jules. Please forgive me."
+msgstr ""
+
+#: conversations/10_scylla/1001_cp_worker_terminal:19
+msgctxt "conversations/10_scylla/1001_cp_worker_terminal:19:DefaultText"
+msgid "Hephaestus Geological Survey\n"
+"Site Supervisor's Terminal\n"
+"-------------------------------------\r\n"
+"\r\n"
+"Ask Linda for info on this \"SubLight\" company. That freighter captain claimed to work for them. Very strange ship - no corporate branding or colors, the captain didn't wear an approved uniform. Dealing with him left me feeling out of sorts.\r\n"
+"\r\n"
+"Had some interesting items for sale, though. Can't shake the feeling that they \"fell off the back of a conveyor.\"\r\n"
+"\r\n"
+"That captain sold Harris something called the \"Rearranger,\" then left before we discovered the damn thing doesn't work. Only thing it rearranged is the number of bits on Harris's cart. Looks like some strange tech, maybe a scientist can make something of it."
+msgstr ""

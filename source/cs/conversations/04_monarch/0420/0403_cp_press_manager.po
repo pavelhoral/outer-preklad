@@ -1,0 +1,63 @@
+#: conversations/04_monarch/0420/0403_cp_press_manager:2
+msgctxt "conversations/04_monarch/0420/0403_cp_press_manager:2:DefaultText"
+msgid "Terra One Publications\n"
+"A subsidiary of Universal Defense Logistics\n"
+"============================\n"
+"Account: Rodriguez, R.\n"
+"Available Messages:\n"
+"One Hazard Clause"
+msgstr ""
+
+#: conversations/04_monarch/0420/0403_cp_press_manager:11
+msgctxt "conversations/04_monarch/0420/0403_cp_press_manager:11:DefaultText"
+msgid "[Halcyon Referendum #207: Terra One Hazard Clause]"
+msgstr ""
+
+#: conversations/04_monarch/0420/0403_cp_press_manager:12
+msgctxt "conversations/04_monarch/0420/0403_cp_press_manager:12:DefaultText"
+msgid "[We're leaving...]"
+msgstr ""
+
+#: conversations/04_monarch/0420/0403_cp_press_manager:13
+msgctxt "conversations/04_monarch/0420/0403_cp_press_manager:13:DefaultText"
+msgid "[Terry's birthday]"
+msgstr ""
+
+#: conversations/04_monarch/0420/0403_cp_press_manager:14
+msgctxt "conversations/04_monarch/0420/0403_cp_press_manager:14:DefaultText"
+msgid "[Exit]"
+msgstr ""
+
+#: conversations/04_monarch/0420/0403_cp_press_manager:15
+msgctxt "conversations/04_monarch/0420/0403_cp_press_manager:15:DefaultText"
+msgid "HALCYON HOLDINGS CORPORATE BOARD\n"
+"\n"
+"PUBLIC NOTICE #117: ON THE ISSUING OF A HAZARD CLAUSE FOR TERRA ONE\n"
+"\n"
+"This notice, issued on January 12th, 2343, serves as the public denouncement of Terra 1 as a feasible workplace environment.\n"
+"\n"
+"Due to the hostile and aggressive nature of the wildlife, as well as the unsustainability of its natural flora for use in human consumption, the Halcyon Holdings Corporate Board has officially enacted a Hazard Clause covering the entirety of Terra 1.\n"
+"\n"
+"After an evacuation period of no more than six (6) months, Terra 1 will be officially considered illegal territory. As this is a unanimous decision, any corporation caught operating on Terra 1 after the evacuation period will face fines and possible disbarment, as defined in Halcyon Code 22.1."
+msgstr ""
+
+#: conversations/04_monarch/0420/0403_cp_press_manager:16
+msgctxt "conversations/04_monarch/0420/0403_cp_press_manager:16:DefaultText"
+msgid "To all employees of Terra 1 Publications:\n"
+"\n"
+"Yes, the rumors are true. We're leaving. The Board has decided to cut their losses and operate on Terra 2 instead.\n"
+"\n"
+"In accordance with the evacuation orders, we are to await a shuttle out of Cascadia. When we get word that our ride is on the way, we'll shutter this facility, pack everything up, and lock the door on the way out.\n"
+"\n"
+"Until then, however, we are expected to continue working. I'm sure reassignments are forthcoming, but that's not an excuse to slow down. We still have magazines to publish, people. Our customers are eager to find out what happens in Dissident Hunter #112."
+msgstr ""
+
+#: conversations/04_monarch/0420/0403_cp_press_manager:17
+msgctxt "conversations/04_monarch/0420/0403_cp_press_manager:17:DefaultText"
+msgid "No, we are not celebrating Terry's birthday. Terry's dead, folks. I know he meant a lot to everyone here--myself included--but let his untimely demise be a lesson about safety in the workplace: Don't pet the canids."
+msgstr ""
+
+#: conversations/04_monarch/0420/0403_cp_press_manager:18
+msgctxt "conversations/04_monarch/0420/0403_cp_press_manager:18:DefaultText"
+msgid "[Continue]"
+msgstr ""

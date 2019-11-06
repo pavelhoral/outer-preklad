@@ -1,0 +1,329 @@
+#: conversations/04_monarch/0403/0403_bronson_vendor:1
+msgctxt "conversations/04_monarch/0403/0403_bronson_vendor:1:DefaultText"
+msgid "Welcome to the emporium. I'm Bronson."
+msgstr ""
+
+#: conversations/04_monarch/0403/0403_bronson_vendor:2
+msgctxt "conversations/04_monarch/0403/0403_bronson_vendor:2:DefaultText"
+msgid "Emporium, huh? Let's see what you've got."
+msgstr ""
+
+#: conversations/04_monarch/0403/0403_bronson_vendor:3
+msgctxt "conversations/04_monarch/0403/0403_bronson_vendor:3:DefaultText"
+msgid "And I'm not interested."
+msgstr ""
+
+#: conversations/04_monarch/0403/0403_bronson_vendor:8
+msgctxt "conversations/04_monarch/0403/0403_bronson_vendor:8:DefaultText"
+msgid "Simple enough. I'll let you know when they're done."
+msgstr ""
+
+#: conversations/04_monarch/0403/0403_bronson_vendor:9
+msgctxt "conversations/04_monarch/0403/0403_bronson_vendor:9:DefaultText"
+msgid "That sounds like too much work. Maybe another time."
+msgstr ""
+
+#: conversations/04_monarch/0403/0403_bronson_vendor:10
+msgctxt "conversations/04_monarch/0403/0403_bronson_vendor:10:DefaultText"
+msgid "Hey, I've fixed all your stuff."
+msgstr ""
+
+#: conversations/04_monarch/0403/0403_bronson_vendor:11
+msgctxt "conversations/04_monarch/0403/0403_bronson_vendor:11:DefaultText"
+msgid "We sent Milton out to check on the comms tower a while ago. Ain't heard back. I'd wager he got ate."
+msgstr ""
+
+#: conversations/04_monarch/0403/0403_bronson_vendor:12
+msgctxt "conversations/04_monarch/0403/0403_bronson_vendor:12:DefaultText"
+msgid "Great. I'll keep an eye out."
+msgstr ""
+
+#: conversations/04_monarch/0403/0403_bronson_vendor:13
+msgctxt "conversations/04_monarch/0403/0403_bronson_vendor:13:DefaultText"
+msgid "I oughta tell you - most of these systems are routed through one of our terminals. You might be able to handle some of 'em remotely if you know your way around a computer."
+msgstr ""
+
+#: conversations/04_monarch/0403/0403_bronson_vendor:14
+msgctxt "conversations/04_monarch/0403/0403_bronson_vendor:14:DefaultText"
+msgid "What're you buying?"
+msgstr ""
+
+#: conversations/04_monarch/0403/0403_bronson_vendor:15
+msgctxt "conversations/04_monarch/0403/0403_bronson_vendor:15:DefaultText"
+msgid "Well, let's see..."
+msgstr ""
+
+#: conversations/04_monarch/0403/0403_bronson_vendor:17
+msgctxt "conversations/04_monarch/0403/0403_bronson_vendor:17:DefaultText"
+msgid "I'm <oeitoken>PlayerName</oeitoken>. You run a store out here?"
+msgstr ""
+
+#: conversations/04_monarch/0403/0403_bronson_vendor:19
+msgctxt "conversations/04_monarch/0403/0403_bronson_vendor:19:DefaultText"
+msgid "It ain't really a store. Think of me more like a quartermaster. And a chef, and a handyman, and... whatever else we need."
+msgstr ""
+
+#: conversations/04_monarch/0403/0403_bronson_vendor:25
+msgctxt "conversations/04_monarch/0403/0403_bronson_vendor:25:DefaultText"
+msgid "A quartermaster? For the Iconoclasts?"
+msgstr ""
+
+#: conversations/04_monarch/0403/0403_bronson_vendor:26
+msgctxt "conversations/04_monarch/0403/0403_bronson_vendor:26:DefaultText"
+msgid "You're... a chef?"
+msgstr ""
+
+#: conversations/04_monarch/0403/0403_bronson_vendor:27
+msgctxt "conversations/04_monarch/0403/0403_bronson_vendor:27:DefaultText"
+msgid "Handyman, huh? You fix things around here?"
+msgstr ""
+
+#: conversations/04_monarch/0403/0403_bronson_vendor:28
+msgctxt "conversations/04_monarch/0403/0403_bronson_vendor:28:DefaultText"
+msgid "We gotta eat. Eating means hunting, and hunting means armaments. We used to let people take what they will, but then some idiot shot some other idiot over cards."
+msgstr ""
+
+#: conversations/04_monarch/0403/0403_bronson_vendor:29
+msgctxt "conversations/04_monarch/0403/0403_bronson_vendor:29:DefaultText"
+msgid "So Zora set up a system. You fuck up, you don't get to buy gear. You play nice, you do."
+msgstr ""
+
+#: conversations/04_monarch/0403/0403_bronson_vendor:30
+msgctxt "conversations/04_monarch/0403/0403_bronson_vendor:30:DefaultText"
+msgid "Cooking's my true passion. You need a raptidon to taste good, bring it here and I'll work a miracle or two."
+msgstr ""
+
+#: conversations/04_monarch/0403/0403_bronson_vendor:33
+msgctxt "conversations/04_monarch/0403/0403_bronson_vendor:33:DefaultText"
+msgid "Oh, sure. Sulfur ain't so good on metals, and replacing parts is expensive. So we fix things 'til we can't."
+msgstr ""
+
+#: conversations/04_monarch/0403/0403_bronson_vendor:35
+msgctxt "conversations/04_monarch/0403/0403_bronson_vendor:35:DefaultText"
+msgid "Why do you need a quartermaster?"
+msgstr ""
+
+#: conversations/04_monarch/0403/0403_bronson_vendor:36
+msgctxt "conversations/04_monarch/0403/0403_bronson_vendor:36:DefaultText"
+msgid "Got it. All right, let's see what you've got for sale."
+msgstr ""
+
+#: conversations/04_monarch/0403/0403_bronson_vendor:37
+msgctxt "conversations/04_monarch/0403/0403_bronson_vendor:37:DefaultText"
+msgid "And you're, what, a quartermaster in your free time?"
+msgstr ""
+
+#: conversations/04_monarch/0403/0403_bronson_vendor:39
+msgctxt "conversations/04_monarch/0403/0403_bronson_vendor:39:DefaultText"
+msgid "Anything you need help with?"
+msgstr ""
+
+#: conversations/04_monarch/0403/0403_bronson_vendor:40
+msgctxt "conversations/04_monarch/0403/0403_bronson_vendor:40:DefaultText"
+msgid "Fair enough. Let's trade."
+msgstr ""
+
+#: conversations/04_monarch/0403/0403_bronson_vendor:41
+msgctxt "conversations/04_monarch/0403/0403_bronson_vendor:41:DefaultText"
+msgid "Yeah, plenty. If you're the type to fix a thing or two, I've got a couple reports I need to follow up on."
+msgstr ""
+
+#: conversations/04_monarch/0403/0403_bronson_vendor:42
+msgctxt "conversations/04_monarch/0403/0403_bronson_vendor:42:DefaultText"
+msgid "The pipes up on Milton's house burst. Someone needs to shut 'em off. Then there are the cables outside the bar - a sprat chewed through 'em and now they're spitting lightning."
+msgstr ""
+
+#: conversations/04_monarch/0403/0403_bronson_vendor:43
+msgctxt "conversations/04_monarch/0403/0403_bronson_vendor:43:DefaultText"
+msgid "Then there's the old guard house - outside town, on the way to the old Bayside Terrace. Someone needs to reset the comms breaker there."
+msgstr ""
+
+#: conversations/04_monarch/0403/0403_bronson_vendor:46
+msgctxt "conversations/04_monarch/0403/0403_bronson_vendor:46:DefaultText"
+msgid "Wow. I'll get out of your hair, then."
+msgstr ""
+
+#: conversations/04_monarch/0403/0403_bronson_vendor:47
+msgctxt "conversations/04_monarch/0403/0403_bronson_vendor:47:DefaultText"
+msgid "Why do the Iconoclasts need a quartermaster?"
+msgstr ""
+
+#: conversations/04_monarch/0403/0403_bronson_vendor:48
+msgctxt "conversations/04_monarch/0403/0403_bronson_vendor:48:DefaultText"
+msgid "Anything I can do to help you out?"
+msgstr ""
+
+#: conversations/04_monarch/0403/0403_bronson_vendor:49
+msgctxt "conversations/04_monarch/0403/0403_bronson_vendor:49:DefaultText"
+msgid "I've decided to help you fix those hazards."
+msgstr ""
+
+#: conversations/04_monarch/0403/0403_bronson_vendor:50
+msgctxt "conversations/04_monarch/0403/0403_bronson_vendor:50:DefaultText"
+msgid "Well, ain't you a saint. Here's the list again."
+msgstr ""
+
+#: conversations/04_monarch/0403/0403_bronson_vendor:51
+msgctxt "conversations/04_monarch/0403/0403_bronson_vendor:51:DefaultText"
+msgid "Where's this terminal?"
+msgstr ""
+
+#: conversations/04_monarch/0403/0403_bronson_vendor:52
+msgctxt "conversations/04_monarch/0403/0403_bronson_vendor:52:DefaultText"
+msgid "Up the hill. It's right on the cliff's edge."
+msgstr ""
+
+#: conversations/04_monarch/0403/0403_bronson_vendor:53
+msgctxt "conversations/04_monarch/0403/0403_bronson_vendor:53:DefaultText"
+msgid "Ok. Thanks for the tip."
+msgstr ""
+
+#: conversations/04_monarch/0403/0403_bronson_vendor:54
+msgctxt "conversations/04_monarch/0403/0403_bronson_vendor:54:DefaultText"
+msgid "All right. I'll let you know if I \"get ate.\""
+msgstr ""
+
+#: conversations/04_monarch/0403/0403_bronson_vendor:55
+msgctxt "conversations/04_monarch/0403/0403_bronson_vendor:55:DefaultText"
+msgid "I'll be damned. Thanks for doing that. Here - Zora sets aside a bit or two for people who help out."
+msgstr ""
+
+#: conversations/04_monarch/0403/0403_bronson_vendor:56
+msgctxt "conversations/04_monarch/0403/0403_bronson_vendor:56:DefaultText"
+msgid "Nothing, nevermind."
+msgstr ""
+
+#: conversations/04_monarch/0403/0403_bronson_vendor:57
+msgctxt "conversations/04_monarch/0403/0403_bronson_vendor:57:DefaultText"
+msgid "Buying? Oh, this is a store?"
+msgstr ""
+
+#: conversations/04_monarch/0403/0403_bronson_vendor:58
+msgctxt "conversations/04_monarch/0403/0403_bronson_vendor:58:DefaultText"
+msgid "Wow. Things are really falling apart around here."
+msgstr ""
+
+#: conversations/04_monarch/0403/0403_bronson_vendor:59
+msgctxt "conversations/04_monarch/0403/0403_bronson_vendor:59:DefaultText"
+msgid "That's one way to look at it. Another is: Those are the only things in this whole fucking town that are broke. Maybe we appreciate that."
+msgstr ""
+
+#: conversations/04_monarch/0403/0403_bronson_vendor:60
+msgctxt "conversations/04_monarch/0403/0403_bronson_vendor:60:DefaultText"
+msgid "Good point. All right, I'll let you know when they're done."
+msgstr ""
+
+#: conversations/04_monarch/0403/0403_bronson_vendor:61
+msgctxt "conversations/04_monarch/0403/0403_bronson_vendor:61:DefaultText"
+msgid "Fair enough, but I'm not a handyman. Forget it."
+msgstr ""
+
+#: conversations/04_monarch/0403/0403_bronson_vendor:62
+msgctxt "conversations/04_monarch/0403/0403_bronson_vendor:62:DefaultText"
+msgid "It was like that in Edgewater, too. Use to be when Bess would break down, I'd have to borrow parts from the grinder to get her working again and vice versa."
+msgstr ""
+
+#: conversations/04_monarch/0403/0403_bronson_vendor:63
+msgctxt "conversations/04_monarch/0403/0403_bronson_vendor:63:DefaultText"
+msgid "Hah! That's the way of it, no doubt. Just last week I sacrificed my favorite heat slicer to replace the coils on my stove."
+msgstr ""
+
+#: conversations/04_monarch/0403/0403_bronson_vendor:65
+msgctxt "conversations/04_monarch/0403/0403_bronson_vendor:65:DefaultText"
+msgid "Let me see what you've got for sale."
+msgstr ""
+
+#: conversations/04_monarch/0403/0403_bronson_vendor:66
+msgctxt "conversations/04_monarch/0403/0403_bronson_vendor:66:DefaultText"
+msgid "So you're some kind of quartermaster?"
+msgstr ""
+
+#: conversations/04_monarch/0403/0403_bronson_vendor:67
+msgctxt "conversations/04_monarch/0403/0403_bronson_vendor:67:DefaultText"
+msgid "By \"miracle\" he means salt. He adds salt and calls it cuisine."
+msgstr ""
+
+#: conversations/04_monarch/0403/0403_bronson_vendor:68
+msgctxt "conversations/04_monarch/0403/0403_bronson_vendor:68:DefaultText"
+msgid "Hey! Don't go spilling my secrets! You're just mad we cut you off."
+msgstr ""
+
+#: conversations/04_monarch/0403/0403_bronson_vendor:69
+msgctxt "conversations/04_monarch/0403/0403_bronson_vendor:69:DefaultText"
+msgid "A lady's got a right to drink, damn you!"
+msgstr ""
+
+#: conversations/04_monarch/0403/0403_bronson_vendor:70
+msgctxt "conversations/04_monarch/0403/0403_bronson_vendor:70:DefaultText"
+msgid "You be careful. Don't let this one near your medical supplies. She ain't picky as to the difference between pure alcohol and distilled spirits."
+msgstr ""
+
+#: conversations/04_monarch/0403/0403_bronson_vendor:76
+msgctxt "conversations/04_monarch/0403/0403_bronson_vendor:76:DefaultText"
+msgid "Let's just trade, all right?"
+msgstr ""
+
+#: conversations/04_monarch/0403/0403_bronson_vendor:77
+msgctxt "conversations/04_monarch/0403/0403_bronson_vendor:77:DefaultText"
+msgid "I'll, uh, keep that in mind. See you."
+msgstr ""
+
+#: conversations/04_monarch/0403/0403_bronson_vendor:78
+msgctxt "conversations/04_monarch/0403/0403_bronson_vendor:78:DefaultText"
+msgid "Before you ask, no, it ain't pay. Just being generous to folks who do a good turn."
+msgstr ""
+
+#: conversations/04_monarch/0403/0403_bronson_vendor:79
+msgctxt "conversations/04_monarch/0403/0403_bronson_vendor:79:DefaultText"
+msgid "I should go."
+msgstr ""
+
+#: conversations/04_monarch/0403/0403_bronson_vendor:80
+msgctxt "conversations/04_monarch/0403/0403_bronson_vendor:80:DefaultText"
+msgid "Hey. Thanks again for helping out. What can I do you for?"
+msgstr ""
+
+#: conversations/04_monarch/0403/0403_bronson_vendor:81
+msgctxt "conversations/04_monarch/0403/0403_bronson_vendor:81:DefaultText"
+msgid "Show me what's in stock."
+msgstr ""
+
+#: conversations/04_monarch/0403/0403_bronson_vendor:82
+msgctxt "conversations/04_monarch/0403/0403_bronson_vendor:82:DefaultText"
+msgid "I keep meaning to ask. Why do you need a store here?"
+msgstr ""
+
+#: conversations/04_monarch/0403/0403_bronson_vendor:83
+msgctxt "conversations/04_monarch/0403/0403_bronson_vendor:83:DefaultText"
+msgid "Mister, there's something I been wonderin' since we got here - how do you protect your wires from sulfuric degradation?"
+msgstr ""
+
+#: conversations/04_monarch/0403/0403_bronson_vendor:84
+msgctxt "conversations/04_monarch/0403/0403_bronson_vendor:84:DefaultText"
+msgid "Oh, easy. Most of the wildlife here seems to tolerate the sulfur, so we wrap our copper in rapt bits. Hides, tongues, whatever's pliable."
+msgstr ""
+
+#: conversations/04_monarch/0403/0403_bronson_vendor:85
+msgctxt "conversations/04_monarch/0403/0403_bronson_vendor:85:DefaultText"
+msgid "Huh. That's... creative. All right, if I get a chance to fix things up, I'll update you."
+msgstr ""
+
+#: conversations/04_monarch/0403/0403_bronson_vendor:87
+msgctxt "conversations/04_monarch/0403/0403_bronson_vendor:87:DefaultText"
+msgid "Ugh. That is... really gross. Let's go."
+msgstr ""
+
+#: conversations/04_monarch/0403/0403_bronson_vendor:88
+msgctxt "conversations/04_monarch/0403/0403_bronson_vendor:88:DefaultText"
+msgid "Wasn't too pretty, and it kept me on my toes, but I still made do all right."
+msgstr ""
+
+#: conversations/04_monarch/0403/0403_bronson_vendor:91
+msgctxt "conversations/04_monarch/0403/0403_bronson_vendor:91:DefaultText"
+msgid "I've already taken care of it."
+msgstr ""
+
+#: conversations/04_monarch/0403/0403_bronson_vendor:92
+msgctxt "conversations/04_monarch/0403/0403_bronson_vendor:92:DefaultText"
+msgid "I oughta tell you - most of these systems are routed through one of our terminals. You might be able to handle some of 'em remotely if you know your way around a computer."
+msgstr ""

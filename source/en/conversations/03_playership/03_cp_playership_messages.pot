@@ -1,0 +1,530 @@
+#: conversations/03_playership/03_cp_playership_messages:1
+msgctxt "conversations/03_playership/03_cp_playership_messages:1:DefaultText"
+msgid "The Unreliable Message Terminal\r\n"
+"========================\r\n"
+"AUTHORIZED LOG IN SEQUENCE RECOGNIZED...\r\n"
+"========================\r\n"
+"Welcome, Captain."
+msgstr ""
+
+#: conversations/03_playership/03_cp_playership_messages:3
+msgctxt "conversations/03_playership/03_cp_playership_messages:3:DefaultText"
+msgid "[Exit]"
+msgstr ""
+
+#: conversations/03_playership/03_cp_playership_messages:5
+msgctxt "conversations/03_playership/03_cp_playership_messages:5:DefaultText"
+msgid "[FROM: E. Blaine]"
+msgstr ""
+
+#: conversations/03_playership/03_cp_playership_messages:6
+msgctxt "conversations/03_playership/03_cp_playership_messages:6:DefaultText"
+msgid "[FROM: T. Kemp]"
+msgstr ""
+
+#: conversations/03_playership/03_cp_playership_messages:7
+msgctxt "conversations/03_playership/03_cp_playership_messages:7:DefaultText"
+msgid "From: Esther Blaine\r\n"
+"To: <oeitoken>PlayerName</oeitoken>\r\n"
+"Subject: Medicine\r\n"
+"\r\n"
+"<oeitoken>PlayerName</oeitoken>,\r\n"
+"\r\n"
+"This is just to let you know that I've given out the rest of that You-Know-What to the You-Know-Who's. Sorry for the secrecy. You never really know who's reading these things. \r\n"
+"\r\n"
+"I appreciate you giving me the time of day. You risked your neck heading into that community center. I'm grateful, but I'd also appreciate it if you never told another soul about our business. I like my job, and I should like to keep it."
+msgstr ""
+
+#: conversations/03_playership/03_cp_playership_messages:8
+msgctxt "conversations/03_playership/03_cp_playership_messages:8:DefaultText"
+msgid "From: Thomas Kemp\r\n"
+"To: <oeitoken>PlayerName</oeitoken>\r\n"
+"Subject: Thanks!\r\n"
+"\r\n"
+"Hey there,\r\n"
+"\r\n"
+"Could be I'm making a fool out of myself for sending you this message. I've been up all night poring over those manuals you brought me. There's a good chance I'm pretty delirious right now.\r\n"
+"\r\n"
+"I just wanted to thank you for going through the trouble. You didn't have to help me out, but you did anyway. "
+msgstr ""
+
+#: conversations/03_playership/03_cp_playership_messages:9
+msgctxt "conversations/03_playership/03_cp_playership_messages:9:DefaultText"
+msgid "[Return to Root]"
+msgstr ""
+
+#: conversations/03_playership/03_cp_playership_messages:10
+msgctxt "conversations/03_playership/03_cp_playership_messages:10:DefaultText"
+msgid "[Messages for <oeitoken>PlayerName</oeitoken>]"
+msgstr ""
+
+#: conversations/03_playership/03_cp_playership_messages:11
+msgctxt "conversations/03_playership/03_cp_playership_messages:11:DefaultText"
+msgid "Recent message list"
+msgstr ""
+
+#: conversations/03_playership/03_cp_playership_messages:12
+msgctxt "conversations/03_playership/03_cp_playership_messages:12:DefaultText"
+msgid "[Hawthorne's ARCHIVED Messages]"
+msgstr ""
+
+#: conversations/03_playership/03_cp_playership_messages:13
+msgctxt "conversations/03_playership/03_cp_playership_messages:13:DefaultText"
+msgid "Old message list"
+msgstr ""
+
+#: conversations/03_playership/03_cp_playership_messages:14
+msgctxt "conversations/03_playership/03_cp_playership_messages:14:DefaultText"
+msgid "[Search Term: SAM]"
+msgstr ""
+
+#: conversations/03_playership/03_cp_playership_messages:15
+msgctxt "conversations/03_playership/03_cp_playership_messages:15:DefaultText"
+msgid "Search Results: SAM"
+msgstr ""
+
+#: conversations/03_playership/03_cp_playership_messages:16
+msgctxt "conversations/03_playership/03_cp_playership_messages:16:DefaultText"
+msgid "[First SAM Result]"
+msgstr ""
+
+#: conversations/03_playership/03_cp_playership_messages:17
+msgctxt "conversations/03_playership/03_cp_playership_messages:17:DefaultText"
+msgid "Experimental Note OI695: \n"
+"\n"
+"Do not forget! You found a discarded Sanitation and Maintenance automechanical in Emerald Vale's scrapheap during your last job.\n"
+"\n"
+"It should not be too difficult to get it up and running. With a few key modifications, I can envision a combat-capable variant. Some might say... a clean, mean, killing machine...?\n"
+"\n"
+"Should be fun!\n"
+"\n"
+"- A.H. "
+msgstr ""
+
+#: conversations/03_playership/03_cp_playership_messages:18
+msgctxt "conversations/03_playership/03_cp_playership_messages:18:DefaultText"
+msgid "[Second SAM Result]"
+msgstr ""
+
+#: conversations/03_playership/03_cp_playership_messages:19
+msgctxt "conversations/03_playership/03_cp_playership_messages:19:DefaultText"
+msgid "Experimental note OI696:\n"
+"\n"
+"Removal of factory standard part \"S.U.D.S. Steeper\" was successful. Delivery of combat-modified replacement part \"Acid Steeper\" has been delayed. Progress set back is estimated now to be a solid three months.\n"
+"\n"
+"Not like I have more pressing matters to attend to... Ah, but I do! \n"
+"\n"
+"- A.H. "
+msgstr ""
+
+#: conversations/03_playership/03_cp_playership_messages:20
+msgctxt "conversations/03_playership/03_cp_playership_messages:20:DefaultText"
+msgid "[Third SAM Result]"
+msgstr ""
+
+#: conversations/03_playership/03_cp_playership_messages:21
+msgctxt "conversations/03_playership/03_cp_playership_messages:21:DefaultText"
+msgid "Experimental Note OI697:\n"
+"\n"
+"I'm giving up hope on the delivery. The part is lost in transit, and it's not turning up any time soon. \n"
+"\n"
+"BUT, good news! \n"
+"\n"
+"I heard from a fellow who knows a gal who knows \"the Broker\" who overcharged me for the information regarding the location of an Acid Steeper I can... er, filch. The part was sent to an old storage facility in Roseway. I sure never thought I'd go back to that pit. Good thing Auntie abandoned it years ago. I'll pick it up following this next pitstop (back to) Emerald Vale. Welles wants me to chaperone some person of interest. Details to come later. \n"
+"\n"
+"- A.H."
+msgstr ""
+
+#: conversations/03_playership/03_cp_playership_messages:22
+msgctxt "conversations/03_playership/03_cp_playership_messages:22:DefaultText"
+msgid "[FROM: U. Bedford]"
+msgstr ""
+
+#: conversations/03_playership/03_cp_playership_messages:23
+msgctxt "conversations/03_playership/03_cp_playership_messages:23:DefaultText"
+msgid "From: Udom Bedford\r\n"
+"To: Alex Hawthorne\r\n"
+"Subject: A pleasure!\r\n"
+"\r\n"
+"\r\n"
+"Dear Alex,\r\n"
+"\r\n"
+"Hello, Udom here! Udom Bedford. We met when I accidentally impounded your ship? My silly fat fingers embarrassing me once again!\r\n"
+"\r\n"
+"I hope that wasn't too terribly inconvenient for you - it was such a pleasure for me. And I tremendously appreciate your forbearance in not throttling me! You really are quite the gentleman.\r\n"
+"\r\n"
+"If you're ever in Groundbreaker's airspace - well, spacespace - please don't hesitate to look me up. The Lost Hope serves Spectrum Vodka - perhaps we could try every color? You know, really tie one on!\r\n"
+"\r\n"
+"Let me know.\r\n"
+"\r\n"
+"Your new friend,\r\n"
+"Udom"
+msgstr ""
+
+#: conversations/03_playership/03_cp_playership_messages:24
+msgctxt "conversations/03_playership/03_cp_playership_messages:24:DefaultText"
+msgid "[FROM: U. Bedford]"
+msgstr ""
+
+#: conversations/03_playership/03_cp_playership_messages:25
+msgctxt "conversations/03_playership/03_cp_playership_messages:25:DefaultText"
+msgid "[FROM: U. Bedford]"
+msgstr ""
+
+#: conversations/03_playership/03_cp_playership_messages:26
+msgctxt "conversations/03_playership/03_cp_playership_messages:26:DefaultText"
+msgid "From: Udom Bedford\r\n"
+"To: Alex \"Wingman\" Hawthorne\r\n"
+"Subject: Checking in\r\n"
+"\r\n"
+"Dear Alex,\r\n"
+"\r\n"
+"Hello, hello! Hope this finds you well. It was a pleasure to see you in my office again last week!\r\n"
+"\r\n"
+"Once again, I'm terribly sorry about the impounding mix-up. How could it have happened a SECOND time? Terminals these days, I swear. Dreadfully unreliable. Aha, just like your ship!\r\n"
+"\r\n"
+"I hope you've given some thought to that thing we discussed. You know, about the Welles fellow. I'm so sorry to press, but I have the strangest tickling feeling that you really do know him. And if you could just tell me where he is, well - it would be marvelous for our friendship, wouldn't it?\r\n"
+"\r\n"
+"Looking forward to seeing you again, \"Wingman\". ;)\r\n"
+"\r\n"
+"Your dear friend,\r\n"
+"Udom"
+msgstr ""
+
+#: conversations/03_playership/03_cp_playership_messages:27
+msgctxt "conversations/03_playership/03_cp_playership_messages:27:DefaultText"
+msgid "From: Udom Bedford\r\n"
+"To: A. Hawthorne\r\n"
+"Subject: Hello? Hello???\r\n"
+"\r\n"
+"Alex,\r\n"
+"\r\n"
+"I don't know where you were raised, but I'd hazard to guess it may have been a BARN, because ANYONE with even a MODICUM of DECENT REARING would know it's UNFORGIVABLY RUDE to ignore the ardent, sincere messages of one's FRIENDS.\r\n"
+"\r\n"
+"Best,\r\n"
+"Udom\r\n"
+"\r\n"
+"p.s. Please respond."
+msgstr ""
+
+#: conversations/03_playership/03_cp_playership_messages:28
+msgctxt "conversations/03_playership/03_cp_playership_messages:28:DefaultText"
+msgid "[Hawthorne's SENT Messages]"
+msgstr ""
+
+#: conversations/03_playership/03_cp_playership_messages:29
+msgctxt "conversations/03_playership/03_cp_playership_messages:29:DefaultText"
+msgid "Sent message list"
+msgstr ""
+
+#: conversations/03_playership/03_cp_playership_messages:30
+msgctxt "conversations/03_playership/03_cp_playership_messages:30:DefaultText"
+msgid "[TO: U. Bedford]"
+msgstr ""
+
+#: conversations/03_playership/03_cp_playership_messages:31
+msgctxt "conversations/03_playership/03_cp_playership_messages:31:DefaultText"
+msgid "From: Hawthorne, A.\r\n"
+"To: Bedford, U.\r\n"
+"Subject: [No subject]\r\n"
+"\r\n"
+"Look, there's no call for shouting -- my terminal was busted. Had a few too many and might've knocked it off the desk... You know how it is. Sometimes you just gotta... cut loose.\r\n"
+"\r\n"
+"I'm not telling you where Welles is, so lay off.\r\n"
+"\r\n"
+"Buy me a drink at the Lost Hope next time I'm in... and I might forgive you.\r\n"
+"\r\n"
+"- A. H."
+msgstr ""
+
+#: conversations/03_playership/03_cp_playership_messages:32
+msgctxt "conversations/03_playership/03_cp_playership_messages:32:DefaultText"
+msgid "[FROM: U. Bedford]"
+msgstr ""
+
+#: conversations/03_playership/03_cp_playership_messages:33
+msgctxt "conversations/03_playership/03_cp_playership_messages:33:DefaultText"
+msgid "From: Udom \"Wingman's Wingman\" Bedford\r\n"
+"To: Alex \"Wingman\" Hawthorne\r\n"
+"Subject: Thank you\r\n"
+"\r\n"
+"Dearest Alex,\r\n"
+"\r\n"
+"I can't tell you how pleased I am to finally hear from you. Your message was hilarious! I'm delighted by your sense of humor and the tale of your hijinks. I hope your terminal will cooperate for the foreseeable future?\r\n"
+"\r\n"
+"By the by, I was scraping Groundbreaker's comms network for tasty little tidbits, and I noticed you declined to dock at Edgewater's landing pad and instead touched down in the wilderness! You rugged individualist, you. I only pray that idiot Tobson wasn't giving you any trouble.\r\n"
+"\r\n"
+"Anyway, I hope your meeting down on Terra 2 proves fruitful, and I look forward to corresponding with greater regularity!\r\n"
+"\r\n"
+"Your best friend,\r\n"
+"Udom"
+msgstr ""
+
+#: conversations/03_playership/03_cp_playership_messages:34
+msgctxt "conversations/03_playership/03_cp_playership_messages:34:DefaultText"
+msgid "[Hawthorne's UNREAD Messages]"
+msgstr ""
+
+#: conversations/03_playership/03_cp_playership_messages:35
+msgctxt "conversations/03_playership/03_cp_playership_messages:35:DefaultText"
+msgid "Unread message list"
+msgstr ""
+
+#: conversations/03_playership/03_cp_playership_messages:36
+msgctxt "conversations/03_playership/03_cp_playership_messages:36:DefaultText"
+msgid "[FROM: U. Bedford]"
+msgstr ""
+
+#: conversations/03_playership/03_cp_playership_messages:37
+msgctxt "conversations/03_playership/03_cp_playership_messages:37:DefaultText"
+msgid "From: Udom \"Wingman's Wingman\" Bedford\r\n"
+"To: Alex \"Wingman\" Hawthorne\r\n"
+"Subject: RE: Thank you\r\n"
+"\r\n"
+"Oh, I forgot to mention in my previous message! Silly me. I'm mailing you a copy of my favorite serial, \"The Space Adventures of Singularity Steel.\" It's about a dashing space pirate with a heart of, well, steel. It's not exactly Board-approved, so don't you go showing it around to your spacer buddies. I hope it will amuse you while you're out adventuring.\r\n"
+"\r\n"
+"Any similarities to a certain someone are entirely intentional. ;) ;)\r\n"
+"\r\n"
+"~ Udom"
+msgstr ""
+
+#: conversations/03_playership/03_cp_playership_messages:38
+msgctxt "conversations/03_playership/03_cp_playership_messages:38:DefaultText"
+msgid "[FROM: L. Hagen]"
+msgstr ""
+
+#: conversations/03_playership/03_cp_playership_messages:39
+msgctxt "conversations/03_playership/03_cp_playership_messages:39:DefaultText"
+msgid "From: Lilya Hagen\r\n"
+"To: <oeitoken>PlayerName</oeitoken>\r\n"
+"Subject: Letter of Recommendation \r\n"
+"\r\n"
+"Best of luck out there, <oeitoken>PlayerName</oeitoken>. Unemployment is hell. Go make it a funemployment. ~L.H. \r\n"
+"\r\n"
+"PS. Don't share this.\r\n"
+"\r\n"
+"I worked with <oeitoken>PlayerName</oeitoken> across two jobs and change. We terminated our employment agreement over a difference of ethics. Prior to that, <oeitoken>PlayerName</oeitoken> showed grit, guts, moxie, and spunk. More guts than grit. More moxie than spunk. \r\n"
+"\r\n"
+"<oeitoken>PlayerName</oeitoken>'s sole weakness is an excess of moral fiber that threatens the species. The day we stop ourselves from executing scientists in the name of our superiority is the day we cease to be human. I'm a human through and through. Can you say the same? <oeitoken>PlayerName</oeitoken> sure can't. \r\n"
+"\r\n"
+"If you're reading this, you should hire <oeitoken>PlayerName</oeitoken> regardless of qualifications. Hand over your job if you have to. Then come work for SubLight. You'll thank me for it. \r\n"
+"\r\n"
+"Lilya Hagen"
+msgstr ""
+
+#: conversations/03_playership/03_cp_playership_messages:40
+msgctxt "conversations/03_playership/03_cp_playership_messages:40:DefaultText"
+msgid "[FROM: U. Bedford]"
+msgstr ""
+
+#: conversations/03_playership/03_cp_playership_messages:41
+msgctxt "conversations/03_playership/03_cp_playership_messages:41:DefaultText"
+msgid "From: Udom Bedford\r\n"
+"To: <oeitoken>PlayerName</oeitoken>\r\n"
+"Subject: Why\r\n"
+"\r\n"
+"I thought we had an agreement. You said you'd get my seal from Gladys, and I'd get you to Byzantium. And what'd you do? You went there without my help. You LIED.\r\n"
+"\r\n"
+"Now the Board's Human Resource Termination Officers are knocking on the Waste Disposal door. I bet that little prick Kendrick told them where I was hiding. Well, I hope a sprat swarm eats his entire face off.\r\n"
+"\r\n"
+"Do you like Spectrum Vodka? When you get this, toast to my memory with some - AND CHOKE ON IT.\r\n"
+"\r\n"
+"- U.\r\n"
+"\r\n"
+"p.s. In case it wasn't clear, our friendship is cancelled.\r\n"
+"\r\n"
+"p.p.s. Tell Kendrick he cannnn dksdk;klfkffffffffffffffffffffffffffffffffffffffffffffffffff"
+msgstr ""
+
+#: conversations/03_playership/03_cp_playership_messages:42
+msgctxt "conversations/03_playership/03_cp_playership_messages:42:DefaultText"
+msgid "Checking...\r\n"
+"Checking...\r\n"
+"Checking...\r\n"
+"\r\n"
+"No new messages"
+msgstr ""
+
+#: conversations/03_playership/03_cp_playership_messages:43
+msgctxt "conversations/03_playership/03_cp_playership_messages:43:DefaultText"
+msgid "[Access Recent READ Messages]"
+msgstr ""
+
+#: conversations/03_playership/03_cp_playership_messages:44
+msgctxt "conversations/03_playership/03_cp_playership_messages:44:DefaultText"
+msgid "[FROM: J. Tennyson]"
+msgstr ""
+
+#: conversations/03_playership/03_cp_playership_messages:45
+msgctxt "conversations/03_playership/03_cp_playership_messages:45:DefaultText"
+msgid "From: Junlei Tennyson\r\n"
+"To: Parvati Holcomb\r\n"
+"Subject: Poem\r\n"
+"\r\n"
+"Parvati, \r\n"
+"\r\n"
+"I don't do this. Ever. So here goes. \r\n"
+"\r\n"
+"There's this engine, see, and it hums real nice. \r\n"
+"Like a box of cats playing with mice. \r\n"
+"But she's coughing and hacking up sludge\r\n"
+"Cause there's a blockage that just won't budge. \r\n"
+"What's an engine to do? \r\n"
+"\r\n"
+"Then this wrencher strides in like a shark\r\n"
+"Hair all done up and fancy and dark.\r\n"
+"She feels a spasm in her compression alternator\r\n"
+"Trembling cause it's aching to meet her.\r\n"
+"What's an engine to do?\r\n"
+"\r\n"
+"I've got, oh... five more stanzas mapped out. But I'm having trouble rhyming some of the parts. So I'll get back to you on that. \r\n"
+"\r\n"
+"J.T."
+msgstr ""
+
+#: conversations/03_playership/03_cp_playership_messages:46
+msgctxt "conversations/03_playership/03_cp_playership_messages:46:DefaultText"
+msgid "[FROM: J. Tennyson]"
+msgstr ""
+
+#: conversations/03_playership/03_cp_playership_messages:47
+msgctxt "conversations/03_playership/03_cp_playership_messages:47:DefaultText"
+msgid "From: Junlei Tennyson\r\n"
+"To: Parvati Holcomb\r\n"
+"Subject: about that talk we had\r\n"
+"\r\n"
+"We were talking about \"old friends,\" you know, and I got to thinking about Isabelle. I don't know what I was thinking. I don't know what she was thinking. We were a mess. A good mess. But a mess.\r\n"
+"\r\n"
+"I'm a better me than I was then. Wanted you to know. Even when I drink too much of the old family recipe. \r\n"
+"\r\n"
+"You're pretty swell, Party Tea. \r\n"
+"\r\n"
+"...Damn you, insta-spellcheck. Meet my wrench.\r\n"
+"\r\n"
+"Too tired. Just gonna put my head down for alkj:Ijhfue;g/{S{HZlpoj"
+msgstr ""
+
+#: conversations/03_playership/03_cp_playership_messages:48
+msgctxt "conversations/03_playership/03_cp_playership_messages:48:DefaultText"
+msgid "[Messages for Alex Hawthorne]"
+msgstr ""
+
+#: conversations/03_playership/03_cp_playership_messages:49
+msgctxt "conversations/03_playership/03_cp_playership_messages:49:DefaultText"
+msgid "The Unreliable Message Terminal\r\n"
+"===========================\r\n"
+"\r\n"
+"Viewing messages for user: Hawthorne, A.\r\n"
+"\r\n"
+"Please select from the following options:"
+msgstr ""
+
+#: conversations/03_playership/03_cp_playership_messages:51
+msgctxt "conversations/03_playership/03_cp_playership_messages:51:DefaultText"
+msgid "[Logs]"
+msgstr ""
+
+#: conversations/03_playership/03_cp_playership_messages:52
+msgctxt "conversations/03_playership/03_cp_playership_messages:52:DefaultText"
+msgid "The Unreliable Message Terminal\r\n"
+"==========================\r\n"
+"\r\n"
+"Viewing log entries from user: Hawthorne, A.\r\n"
+"\r\n"
+"Please select from the following options:"
+msgstr ""
+
+#: conversations/03_playership/03_cp_playership_messages:53
+msgctxt "conversations/03_playership/03_cp_playership_messages:53:DefaultText"
+msgid "[Log Entry #1 - Titled: Shrink Ray]"
+msgstr ""
+
+#: conversations/03_playership/03_cp_playership_messages:54
+msgctxt "conversations/03_playership/03_cp_playership_messages:54:DefaultText"
+msgid "[Log Entry #2 - Titled: Hammer Power]"
+msgstr ""
+
+#: conversations/03_playership/03_cp_playership_messages:55
+msgctxt "conversations/03_playership/03_cp_playership_messages:55:DefaultText"
+msgid "[Log Entry #3 - Titled: Black Market Leads]"
+msgstr ""
+
+#: conversations/03_playership/03_cp_playership_messages:56
+msgctxt "conversations/03_playership/03_cp_playership_messages:56:DefaultText"
+msgid "Captain's Note SW001: Shrink Ray\r\n"
+"\r\n"
+"Note to self: remember this later! No, better -- ADA, remind me weekly to check this log until I tell you to stop. Yes, I mean \"continually.\" No, ADA, not if I'm dead. Why would you even ask me that? \r\n"
+"\r\n"
+"Back to my point: I saw in actuality, with my own two eyes, a sublimely powerful weapon in Welles's lab. Just sitting there for the taking... if the grayhair were to look away or forget about it, maybe. Or if I had asked a smidgen more nicely... \r\n"
+"\r\n"
+"He called it a Shrink Ray but wouldn't let me test that claim after I lost my temper. Said he was inspired to create the thing by the achievements of other scientists who'd dared to push the boundaries of human knowledge and decency laws.\r\n"
+"\r\n"
+"I had heard rumors of fantastical weapons like this one, weapons that push the boundaries of the mind and science's cutting edge, but I figured they were just stories, to be honest. Laying eyes on Welles's Shrink Ray firsthand is enough to make a fella wonder if there's more to the rumors.\r\n"
+"\r\n"
+"More to be had.\r\n"
+"\r\n"
+"- A.H. "
+msgstr ""
+
+#: conversations/03_playership/03_cp_playership_messages:57
+msgctxt "conversations/03_playership/03_cp_playership_messages:57:DefaultText"
+msgid "Captain's Note SW002: Hammer Power\r\n"
+"\r\n"
+"The last time, I got sloshed -- I mean, was imbibing at the Lost Hope on the Groundbreaker (look, Udom was really free with the drinks, he seems like an okay fellow), I shamelessly but subtly eavesdropped on two Mardets yammering on about a mad scientist some years back who'd claimed he'd made a huge discovery that would change the fate of the colony. Like none of us have heard that one before. BUT here is the good part: the Mardets said the mad scientist kept yelling about the \"hammer's power\" or something similar.\r\n"
+"\r\n"
+"A strange weapon with a special power created by a crazy labcoat? Sure fits the bill.\r\n"
+"\r\n"
+"It could be another one of the weapons that inspired Welles.\r\n"
+"\r\n"
+"- A.H. "
+msgstr ""
+
+#: conversations/03_playership/03_cp_playership_messages:58
+msgctxt "conversations/03_playership/03_cp_playership_messages:58:DefaultText"
+msgid "Captain's Note SW003: Black Market Leads\r\n"
+"\r\n"
+"Why? Why?! WHY won't Welles just give the Shrink Ray to me?! Blast him to the depths of the Labyrinth on Tartarus and back! \r\n"
+"\r\n"
+"Let the record show, I did apologize for shouting him down... five times. But, Architect be damned, it's JUST SITTING THERE, neglected and gathering dust!\r\n"
+"\r\n"
+"I should have commandeered it and thanked him without asking permission or, uh, breaking expensive equipment when he said it wasn't ready yet and that even if it were, he couldn't entrust it to someone like me. \r\n"
+"\r\n"
+"What does that even mean, I ask? That I'm not trustworthy enough? That I'd use it to wipe out the good, hardworking folks of the colony like some sort of moralless psycho? I'll admit to maintaining some questionable associations but I follow a strict code of me, myself, and mine. What's not to respect in that?\r\n"
+"\r\n"
+"Exactly.\r\n"
+"\r\n"
+"Now I have to wait until Welles forgets or thinks he's misplaced it. In the meanwhile, I have been tracking down additional rumors pertaining to others of these \"science weapons\" throughout Halcyon. If gossip holds true, my next step will be to check with the black market merchants on the Groundbreaker and in Fallbrook.\r\n"
+"\r\n"
+"- A.H. "
+msgstr ""
+
+#: conversations/03_playership/03_cp_playership_messages:61
+msgctxt "conversations/03_playership/03_cp_playership_messages:61:DefaultText"
+msgid "[Search Hephaestus Mining - Archive Cartridge for Keyword: \"weapon\"]"
+msgstr ""
+
+#: conversations/03_playership/03_cp_playership_messages:62
+msgctxt "conversations/03_playership/03_cp_playership_messages:62:DefaultText"
+msgid "Hephaestus Geological Survey\n"
+"         - Site Archive - \n"
+"--------------------------------------\n"
+"\n"
+"Keyword search results:\n"
+"\n"
+"Result #1 >>> from the Site Supervisor's Personal Logs: \n"
+"\n"
+"\"That captain sold Harris something called the 'Rearranger,' then left before we discovered the damn thing doesn't work. Only thing it rearranged is the number of bits on Harris's cart. Looks like some strange tech or a weapon. Maybe a scientist can make something of it?\"\n"
+"\n"
+"Result #2  >>> from the Site Safety Officer's Incident Report: \n"
+"\n"
+"\"Doc Caulfield couldn't save Lem. Now I gotta arrest Harris for his murder. Confiscated that weapon he used and stored it in Bertie's office for now. Figure the least the Site Supervisor can do is fill out the forms for whatever that damn thing is. Don't know how I'm gonna detain Harris. Not like we got prison cells on this rock.\"\n"
+"\n"
+"Result #3  >>> from Barber's Coronary Inquest:\n"
+"\n"
+"\"Given Name: Lemuel\n"
+"Family Name: Heryford\n"
+"Employment Status: Indenture\n"
+"Contract Term: 35 years, 2 months, 16 days, 5 hours, 33 minutes (approx.) remaining\n"
+"Time of Deceasement: 18:27 hours (approx.)\n"
+"Cause of Deceasement: Blunt force trauma. Weapon unknown. Took a good whack to the noggin. The facial area, to be specifical about it. It's all twisted up, too. Nose is five times too big, jaw is shrunk to almost nothin'. Teeth are all out of kilter, though I suppose that was true pre-deceasement. If the blow itself didn't kill 'im, there's no way he could've breathed with all that damage.\""
+msgstr ""

@@ -1,0 +1,159 @@
+#: quests/00_emeraldvale/pq_0001_strangeland:0
+msgctxt "quests/00_emeraldvale/pq_0001_strangeland:0:DefaultText"
+msgid "Stranger in a Strange Land"
+msgstr ""
+
+#: quests/00_emeraldvale/pq_0001_strangeland:1
+msgctxt "quests/00_emeraldvale/pq_0001_strangeland:1:DefaultText"
+msgid "Find Hawthorne's Ship"
+msgstr ""
+
+#: quests/00_emeraldvale/pq_0001_strangeland:3
+msgctxt "quests/00_emeraldvale/pq_0001_strangeland:3:DefaultText"
+msgid "Find a Power Regulator"
+msgstr ""
+
+#: quests/00_emeraldvale/pq_0001_strangeland:4
+msgctxt "quests/00_emeraldvale/pq_0001_strangeland:4:DefaultText"
+msgid "Return to the Unreliable"
+msgstr ""
+
+#: quests/00_emeraldvale/pq_0001_strangeland:30
+msgctxt "quests/00_emeraldvale/pq_0001_strangeland:30:DefaultText"
+msgid "Retrieve the Power Regulator"
+msgstr ""
+
+#: quests/00_emeraldvale/pq_0001_strangeland:33
+msgctxt "quests/00_emeraldvale/pq_0001_strangeland:33:DefaultText"
+msgid "Retrieve the Power Regulator"
+msgstr ""
+
+#: quests/00_emeraldvale/pq_0001_strangeland:34
+msgctxt "quests/00_emeraldvale/pq_0001_strangeland:34:DefaultText"
+msgid "Install the Power Regulator"
+msgstr ""
+
+#: quests/00_emeraldvale/pq_0001_strangeland:35
+msgctxt "quests/00_emeraldvale/pq_0001_strangeland:35:DefaultText"
+msgid "Speak With ADA"
+msgstr ""
+
+#: quests/00_emeraldvale/pq_0001_strangeland:36
+msgctxt "quests/00_emeraldvale/pq_0001_strangeland:36:DefaultText"
+msgid "Divert Power from the Geothermal Plant"
+msgstr ""
+
+#: quests/00_emeraldvale/pq_0001_strangeland:10000
+msgctxt "quests/00_emeraldvale/pq_0001_strangeland:10000:DefaultText"
+msgid "Phineas needs your help to set things right in Halcyon, but you'll need transportation first."
+msgstr ""
+
+#: quests/00_emeraldvale/pq_0001_strangeland:10001
+msgctxt "quests/00_emeraldvale/pq_0001_strangeland:10001:DefaultText"
+msgid "The smuggler took your meeting location a bit too literally. Guess that means his ship is yours now, if you can find it."
+msgstr ""
+
+#: quests/00_emeraldvale/pq_0001_strangeland:10003
+msgctxt "quests/00_emeraldvale/pq_0001_strangeland:10003:DefaultText"
+msgid "The Unreliable's power regulator has been damaged beyond repair and must be replaced. ADA suggested you seek help in the nearby settlement of Edgewater. Talk to whoever runs the town."
+msgstr ""
+
+#: quests/00_emeraldvale/pq_0001_strangeland:10004
+msgctxt "quests/00_emeraldvale/pq_0001_strangeland:10004:DefaultText"
+msgid "You have found a power regulator. Return to your ship."
+msgstr ""
+
+#: quests/00_emeraldvale/pq_0001_strangeland:10030
+msgctxt "quests/00_emeraldvale/pq_0001_strangeland:10030:DefaultText"
+msgid "You diverted power from the Botanical Lab to Edgewater. The Botanical Lab is now without power. You should be able to salvage their power regulator now."
+msgstr ""
+
+#: quests/00_emeraldvale/pq_0001_strangeland:10033
+msgctxt "quests/00_emeraldvale/pq_0001_strangeland:10033:DefaultText"
+msgid "You diverted power from Edgewater to the Botanical Lab. Edgewater and its cannery are now without power. You should be able to salvage their power regulator now."
+msgstr ""
+
+#: quests/00_emeraldvale/pq_0001_strangeland:10034
+msgctxt "quests/00_emeraldvale/pq_0001_strangeland:10034:DefaultText"
+msgid "In order to get the ship up and running, you just need to install the power regulator in the ship's engine room."
+msgstr ""
+
+#: quests/00_emeraldvale/pq_0001_strangeland:10035
+msgctxt "quests/00_emeraldvale/pq_0001_strangeland:10035:DefaultText"
+msgid "Now that the power regulator is installed, speak with ADA to pilot the Unreliable out of Emerald Vale."
+msgstr ""
+
+#: quests/00_emeraldvale/pq_0001_strangeland:10036
+msgctxt "quests/00_emeraldvale/pq_0001_strangeland:10036:DefaultText"
+msgid "You've learned that there are power regulators in both the Edgewater cannery and a Botanical Lab elsewhere in the region, but neither can be removed unless power is routed away from them. Travel to the region's geothermal plant and route the power away from one of the locations."
+msgstr ""
+
+#: quests/00_emeraldvale/pq_0001_strangeland:20000
+msgctxt "quests/00_emeraldvale/pq_0001_strangeland:20000:DefaultText"
+msgid "You've learned that there's a power regulator attached to the cannery's transformer in the town of Edgewater."
+msgstr ""
+
+#: quests/00_emeraldvale/pq_0001_strangeland:20001
+msgctxt "quests/00_emeraldvale/pq_0001_strangeland:20001:DefaultText"
+msgid "You senselessly murdered Reed Tobson, the leader of the town, before he could tell you anything. Since you're already acting like a common criminal, you might as well rifle through his stuff and see what turns up. "
+msgstr ""
+
+#: quests/00_emeraldvale/pq_0001_strangeland:20002
+msgctxt "quests/00_emeraldvale/pq_0001_strangeland:20002:DefaultText"
+msgid "Reed Tobson, the leader of the town of Edgewater, informed you that you can obtain a power regulator from the botanical lab if you redirect the power of the region's geothermal plant to his cannery."
+msgstr ""
+
+#: quests/00_emeraldvale/pq_0001_strangeland:20003
+msgctxt "quests/00_emeraldvale/pq_0001_strangeland:20003:DefaultText"
+msgid "You found a power regulator attached to the cannery transformer in Edgewater, but it appears impossible to remove while the transformer is still running."
+msgstr ""
+
+#: quests/00_emeraldvale/pq_0001_strangeland:20004
+msgctxt "quests/00_emeraldvale/pq_0001_strangeland:20004:DefaultText"
+msgid "You learned that diverting the power of the region's geothermal plant away from a district will shut down the transformer there, allowing you to safely remove the power regulator attached to it."
+msgstr ""
+
+#: quests/00_emeraldvale/pq_0001_strangeland:20031
+msgctxt "quests/00_emeraldvale/pq_0001_strangeland:20031:DefaultText"
+msgid "ADA suggested that it would be useful to have a trained mechanic onboard, and that Edgewater would be a good place to find one."
+msgstr ""
+
+#: quests/00_emeraldvale/pq_0001_strangeland:20032
+msgctxt "quests/00_emeraldvale/pq_0001_strangeland:20032:DefaultText"
+msgid "You've learned that a man named Reed Tobson is in charge of Edgewater. He might be able to help you find the part you need to fix the ship."
+msgstr ""
+
+#: quests/00_emeraldvale/pq_0001_strangeland:20033
+msgctxt "quests/00_emeraldvale/pq_0001_strangeland:20033:DefaultText"
+msgid "The plant's master control terminal is reporting that three switches inside the plant must be flipped before the plant's power can be redirected."
+msgstr ""
+
+#: quests/00_emeraldvale/pq_0001_strangeland:20034
+msgctxt "quests/00_emeraldvale/pq_0001_strangeland:20034:DefaultText"
+msgid "Hawthorne's ship is somewhere down in the valley below, but there's no direct way down. You'll have to find a path around."
+msgstr ""
+
+#: quests/00_emeraldvale/pq_0001_strangeland:20035
+msgctxt "quests/00_emeraldvale/pq_0001_strangeland:20035:DefaultText"
+msgid "All three switches have been activated. You should now be able to redirect the plant's power from the master control terminal."
+msgstr ""
+
+#: quests/00_emeraldvale/pq_0001_strangeland:20036
+msgctxt "quests/00_emeraldvale/pq_0001_strangeland:20036:DefaultText"
+msgid "You activated one of the switches needed to redirect power."
+msgstr ""
+
+#: quests/00_emeraldvale/pq_0001_strangeland:20037
+msgctxt "quests/00_emeraldvale/pq_0001_strangeland:20037:DefaultText"
+msgid "You activated a second switch in the geothermal plant."
+msgstr ""
+
+#: quests/00_emeraldvale/pq_0001_strangeland:20038
+msgctxt "quests/00_emeraldvale/pq_0001_strangeland:20038:DefaultText"
+msgid "Reed asked you to deliver a message to a woman named Adelaide McDevitt before you head into the geothermal plant."
+msgstr ""
+
+#: quests/00_emeraldvale/pq_0001_strangeland:30000
+msgctxt "quests/00_emeraldvale/pq_0001_strangeland:30000:DefaultText"
+msgid "You retrieved the power regulator needed to fix the smuggler's ship, and are now able to travel to other parts of the Halcyon System."
+msgstr ""

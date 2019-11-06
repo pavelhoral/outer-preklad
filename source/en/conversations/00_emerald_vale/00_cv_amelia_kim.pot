@@ -1,0 +1,774 @@
+#: conversations/00_emerald_vale/00_cv_amelia_kim:1
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:1:DefaultText"
+msgid "Power's gone. Law knows how long. Looking to get drunk?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:4
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:4:DefaultText"
+msgid "I'll have a drink."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:5
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:5:DefaultText"
+msgid "Coming right up."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:11
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:11:DefaultText"
+msgid "There was something else I wanted to ask you."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:12
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:12:DefaultText"
+msgid "I should go."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:14
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:14:DefaultText"
+msgid "I want to talk to whoever runs this place."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:15
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:15:DefaultText"
+msgid "Do you, now? And what makes you think Mister Tobson wants to talk to you? He's a busy man."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:16
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:16:DefaultText"
+msgid "You want to talk to Mister Tobson, try ignoring your duties. He'll summon you up to that great big tower atop the cannery, and you'll get yourself a proper dressing down."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:17
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:17:DefaultText"
+msgid "You say that like it's a good thing."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:18
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:18:DefaultText"
+msgid "It is a good thing. If you're not pulling your weight, you don't deserve to live here. Simple as that."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:19
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:19:DefaultText"
+msgid "I should go."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:26
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:26:DefaultText"
+msgid "So what's your story?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:27
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:27:DefaultText"
+msgid "I've talked enough about my past."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:28
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:28:DefaultText"
+msgid "Don't see how that's any of your business."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:29
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:29:DefaultText"
+msgid "I'm not trying to judge you. I'm just curious."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:30
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:30:DefaultText"
+msgid "You're the first to ask after me in some time, I'll give you that. But I don't have a story to share."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:31
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:31:DefaultText"
+msgid "My family's worked Spacer's Choice for two generations. And I've lived in Edgewater just about all my life."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:32
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:32:DefaultText"
+msgid "Wanted to work in the sciences, once upon a time. Would you believe it? That was a wild fancy. Glad I disabused myself."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:35
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:35:DefaultText"
+msgid "Sounds like Spacer's Choice took care of you."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:36
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:36:DefaultText"
+msgid "They did. They gave me a life. Gave me a purpose. This is where I belong."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:37
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:37:DefaultText"
+msgid "You've been scrubbing dishes all your life?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:38
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:38:DefaultText"
+msgid "What's wrong with that? It's good, honest work. Pots and pans don't scrub themselves. Glasses don't fill themselves either."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:39
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:39:DefaultText"
+msgid "Unless you're in Byzantium. I hear everything's automated there. Not that I'll ever find out."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:42
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:42:DefaultText"
+msgid "So you had a dream of being a scientist. What happened?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:43
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:43:DefaultText"
+msgid "What happened, you ask. What always happens when you're dreaming? I woke up."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:44
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:44:DefaultText"
+msgid "I just didn't have the brains for it. Asked too many questions. Wasn't suited to the work. So I did the right thing and worked the life I was always meant to live."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:45
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:45:DefaultText"
+msgid "Now that I'm behind a bar, I can ask all the questions I want. Important ones. Like, when are you going to pay your tab? And, would you like another round of cold, refreshing Zero Gee?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:46
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:46:DefaultText"
+msgid "Thanks for the story."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:47
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:47:DefaultText"
+msgid "Not so fast. I told you about my life. Your turn to tell me about yours."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:48
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:48:DefaultText"
+msgid "So what's your story?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:49
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:49:DefaultText"
+msgid "You wouldn't believe it if I told you."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:50
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:50:DefaultText"
+msgid "That right? Prove it."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:51
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:51:DefaultText"
+msgid "I'm the last survivor of the colony ship Hope. Everyone else is frozen."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:52
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:52:DefaultText"
+msgid "I know that serial drama. They were playing it just the other night. What was it called? The Last Spacer?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:53
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:53:DefaultText"
+msgid "You're right. I don't believe you. I'd advise you to keep that story unsaid. Don't want people thinking you're a loon."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:56
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:56:DefaultText"
+msgid "A crazy scientist stranded me on this planet with no way out other than a broken-down ship."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:57
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:57:DefaultText"
+msgid "Sounds as if you've been keeping questionable company. Or spinning a tale."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:58
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:58:DefaultText"
+msgid "I'm an alien spirit of pure aether, inhabiting a human body to learn about your kind."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:59
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:59:DefaultText"
+msgid "You knocked your head in the Cannery, didn't you? Injuries come out of everyone's pay. Says so right there in your contract. "
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:60
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:60:DefaultText"
+msgid "So you want to tell me what your story really is?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:61
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:61:DefaultText"
+msgid "Not really."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:62
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:62:DefaultText"
+msgid "I'm still trying to figure that out myself."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:63
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:63:DefaultText"
+msgid "What's there to figure out? Stands to reason you work for a company. You ain't Spacer's Choice. Could be you're with Auntie Cleo."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:64
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:64:DefaultText"
+msgid "That's right. I'm an Auntie Cleo worker."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:65
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:65:DefaultText"
+msgid "Don't see what a Cleo worker's doing in Spacer country. Trying to eyeball the competition, are we?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:66
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:66:DefaultText"
+msgid "I don't work for any company."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:67
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:67:DefaultText"
+msgid "You're one of those freelancers, then? Running about Halcyon, selling off your loyalties to the highest bidder. "
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:68
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:68:DefaultText"
+msgid "Well. Good luck trying to figure yourself out. Sounds like you'll need it."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:69
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:69:DefaultText"
+msgid "So much for small talk."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:70
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:70:DefaultText"
+msgid "There's more to life than the company you work for."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:71
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:71:DefaultText"
+msgid "That's exactly the kind of crazy talk that comes from an overabundance of sobriety."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:72
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:72:DefaultText"
+msgid "I'll tell you some other time."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:73
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:73:DefaultText"
+msgid "Suit yourself."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:74
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:74:DefaultText"
+msgid "See you around."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:75
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:75:DefaultText"
+msgid "Not one I'm willing to share."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:76
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:76:DefaultText"
+msgid "There's no need to be rude."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:77
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:77:DefaultText"
+msgid "And there's no need for you to pry, either."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:78
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:78:DefaultText"
+msgid "Never mind."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:79
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:79:DefaultText"
+msgid "Yeah, I guess it's not."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:80
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:80:DefaultText"
+msgid "Will there be anything else?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:81
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:81:DefaultText"
+msgid "You asked me about myself."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:82
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:82:DefaultText"
+msgid "Suppose I did. Ready to talk about it?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:83
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:83:DefaultText"
+msgid "What if I told you I just got shot into space by a crazy scientist?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:84
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:84:DefaultText"
+msgid "Is this the start of a joke? If you want me to laugh at your jokes, it's a three drink minimum."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:89
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:89:DefaultText"
+msgid "My world is these four walls, that door, and a row of mugs that need cleaning."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:90
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:90:DefaultText"
+msgid "What's this about Deserters?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:92
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:92:DefaultText"
+msgid "It almost sounds like you're afraid to go outside."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:93
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:93:DefaultText"
+msgid "Let me make something clear. Spacer's Choice has been real good to me. The town's been real good to me."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:94
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:94:DefaultText"
+msgid "I start gallivanting around outside the walls, poking around in places I shouldn't be, learning things I've got no right to know, people will talk."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:95
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:95:DefaultText"
+msgid "Won't ever catch me asking about the world outside. Else the town's gonna say Amelia's gone soft. That Amelia's pondering desertion. I don't want that."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:96
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:96:DefaultText"
+msgid "I think it's a mistake, living your life on everyone else's terms."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:97
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:97:DefaultText"
+msgid "There you go with that thinking again. Didn't anyone ever tell you it's dangerous?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:98
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:98:DefaultText"
+msgid "I suppose we've all got to do our jobs."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:99
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:99:DefaultText"
+msgid "And be satisfied with our lot in life."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:100
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:100:DefaultText"
+msgid "I imagine you'd want to get out of town, what with the plague and all."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:101
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:101:DefaultText"
+msgid "Keep it down, will you? We don't talk about the P-L-A-Y-G-E. Not here. And if you're smart, you won't mention it anywhere."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:102
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:102:DefaultText"
+msgid "I've said enough. People come here to drink their problems away."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:103
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:103:DefaultText"
+msgid "If they wanted to face their problems, they'd go see our Vicar."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:104
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:104:DefaultText"
+msgid "If they wanted to face their problems, they'd go see you, Vic."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:105
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:105:DefaultText"
+msgid "They're going to have to learn to fend for themselves now, Amelia."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:106
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:106:DefaultText"
+msgid "Fine. I'll drop it."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:107
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:107:DefaultText"
+msgid "See that you do."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:108
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:108:DefaultText"
+msgid "Never mind."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:112
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:112:DefaultText"
+msgid "What do you need?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:113
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:113:DefaultText"
+msgid "Just felt like chatting."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:114
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:114:DefaultText"
+msgid "I'll be on my way."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:115
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:115:DefaultText"
+msgid "Go ahead."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:116
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:116:DefaultText"
+msgid "You tried the best. Now try the rest. Spacer's Choice."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:117
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:117:DefaultText"
+msgid "We'll get you mostly drunk at half the price. Spacer's Choice."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:118
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:118:DefaultText"
+msgid "Plague got you feeling woozy? Get yourself boozy with Spacer's Choice."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:120
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:120:DefaultText"
+msgid "Oh, I almost forgot. I'm contractually obligated to recite company slogans to any visitors. "
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:123
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:123:DefaultText"
+msgid "Abernathy's got some bounce in his heel. Must have heard some good news."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:124
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:124:DefaultText"
+msgid "Town's been humming with power. Somebody must've been down in the old plant."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:125
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:125:DefaultText"
+msgid "I want to talk to Reed. Where can I find him?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:128
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:128:DefaultText"
+msgid "I was wondering if you knew anything about the Hope."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:129
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:129:DefaultText"
+msgid "I've been asking around. No one seems to know anything about the Hope."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:130
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:130:DefaultText"
+msgid "The Hope? No, I've never mixed a drink by that name. I could get you a Rum-and-Somethin' if you like."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:131
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:131:DefaultText"
+msgid "Wait, no. Never mind. We're all out of Somethin'."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:132
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:132:DefaultText"
+msgid "Why is it that nobody wants to talk about the Hope?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:133
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:133:DefaultText"
+msgid "I'm not talking about a drink. I'm from the Hope myself."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:134
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:134:DefaultText"
+msgid "I guess this means you've never heard of anybody from the Hope."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:135
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:135:DefaultText"
+msgid "Yeah, I got vague recollections of some folklore about a mysterious colony ship. "
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:136
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:136:DefaultText"
+msgid "You feeling a bit flushed? Look, why don't you go set yourself down in the corner before you get all tangle-footed?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:137
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:137:DefaultText"
+msgid "I don't know what fancy bars you've been crawling, but the rest of us make do with Zero Gee. Zero Gee Brew - an ale that's good for what ails you."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:138
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:138:DefaultText"
+msgid "It's not folklore. I'm from the Hope."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:140
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:140:DefaultText"
+msgid "I'm not drunk. I just want to know if anybody else made it off the Hope."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:141
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:141:DefaultText"
+msgid "The Hope's out there somewhere, with hundreds of thousands of other colonists."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:142
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:142:DefaultText"
+msgid "This is a waste of time."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:143
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:143:DefaultText"
+msgid "Then pretend you're drunk. Sober folk don't talk the way you are. Not unless they're looking for a trip to Tartarus."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:144
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:144:DefaultText"
+msgid "Would you keep your voice down? You're gonna get the whole cantina written up."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:145
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:145:DefaultText"
+msgid "The Hope's folklore, all right? Sixty, seventy year old folklore by now. The Board don't approve of spreading seditious rumors and falsehoods."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:146
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:146:DefaultText"
+msgid "You sound scared."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:147
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:147:DefaultText"
+msgid "Look - either shut your gob or stick a drink in it. We're done talking about this."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:148
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:148:DefaultText"
+msgid "Whatever. Give me a drink."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:149
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:149:DefaultText"
+msgid "I already asked you not to bring that up around me. Change the subject or buy something."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:150
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:150:DefaultText"
+msgid "Never mind."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:151
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:151:DefaultText"
+msgid "Well in that case, let me see what's on tap."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:152
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:152:DefaultText"
+msgid "I wish it was a joke. Honestly, I don't even know where I am."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:153
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:153:DefaultText"
+msgid "I'm not joking. My escape pod landed in the hills. On top of a guy."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:154
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:154:DefaultText"
+msgid "Look, I don't know what you're blathering about. If you took a blow to your skull, you really should settle down with some Zero Gee."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:155
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:155:DefaultText"
+msgid "Most folk forget where they're standing after a few drinks. Seems to me you've got a head start."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:156
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:156:DefaultText"
+msgid "Anyhow, whatever happens outside the walls is not my business. Only Deserters and marauders wander out there, and I cannot tell you which I revile more."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:157
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:157:DefaultText"
+msgid "Yeah, Reed mentioned those Deserters."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:158
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:158:DefaultText"
+msgid "I've met Adelaide's people. They seem decent enough."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:159
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:159:DefaultText"
+msgid "Traitors, the lot of 'em. Bunch of folks decided they were tired of working, and went out into the wilds to fend for their own selves."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:160
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:160:DefaultText"
+msgid "Town's already struggling to make quotas, even without that band of slackwits abandoning their posts."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:162
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:162:DefaultText"
+msgid "Don't you go letting them traitors drip poison down your ear. Nothing decent about a worker who walks out on their own family."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:164
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:164:DefaultText"
+msgid "I don't know you."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:166
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:166:DefaultText"
+msgid "Excuse me?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:167
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:167:DefaultText"
+msgid "I'm <oeitoken>PlayerName</oeitoken>."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:168
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:168:DefaultText"
+msgid "Nice to meet you, too. Everyone's so friendly and welcoming in this town."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:169
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:169:DefaultText"
+msgid "Alex Hawthorne. Captain of the Unreliable."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:170
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:170:DefaultText"
+msgid "Amelia Kim. Spacer's Choice beverage dispenser."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:171
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:171:DefaultText"
+msgid "Uh-huh. The Unreliable, you say. Never heard of any company supply ship with that particular name. "
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:172
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:172:DefaultText"
+msgid "I know every face that walks through those doors, except yours."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:173
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:173:DefaultText"
+msgid "We don't welcome trouble."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:174
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:174:DefaultText"
+msgid "I don't know what you're about, but this here's a Spacer's Choice drinking establishment. We're all loyal, hard-working company folk here."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:175
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:175:DefaultText"
+msgid "So you're not going to serve me a drink?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:176
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:176:DefaultText"
+msgid "Something going on here that I should know about?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:177
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:177:DefaultText"
+msgid "And what a fine establishment it is. "
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:178
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:178:DefaultText"
+msgid "Nah. I'm contractually obligated to serve you. Just not gonna be too happy about it."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:179
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:179:DefaultText"
+msgid "If you're gonna have a drink, I'd like to ask that you do it within the premises. Can't have you taking drinks over to those Deserters."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:180
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:180:DefaultText"
+msgid "Am I that easy to read? Yeah, we been having some problems lately. Loyalty issues. Lines in the sand. I know where folk in Edgewater stand - but you? I don't know you."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:181
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:181:DefaultText"
+msgid "You really think so? That's kind of you. I been trying to keep the floors clean. You got no idea how long it takes to scrub the tiles."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:185
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:185:DefaultText"
+msgid "Fine by me. Let's see what's on tap."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:189
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:189:DefaultText"
+msgid "Bunch of lazy, shiftless rungleeches. Anyway, enough about them. What can I do for you?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:192
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:192:DefaultText"
+msgid "Guess I misreckoned you. Sorry about that. I didn't mean to be curt - we just got some problems lately."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:193
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:193:DefaultText"
+msgid "I can get you a drink if you'd like. Gotta ask you to enjoy your beverage within the premises, though. Can't risk you bringing a drink over to those deserters, you understand."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:194
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:194:DefaultText"
+msgid "You're inviting trouble talking that way, and I don't want a part of it."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:195
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:195:DefaultText"
+msgid "Asking questions is the foundation of science. The best scientists ask too many."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:196
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:196:DefaultText"
+msgid "That's quitter talk. If I can be a scientist, anybody can."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:197
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:197:DefaultText"
+msgid "Don't talk to me that way, please. Spent many years disabusing myself of that notion. Don't need you putting it back in my head."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:199
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:199:DefaultText"
+msgid "Lab work ain't for me. Never was. Never will be. Spacer's Choice put me where I belong, and for that I am grateful."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:200
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:200:DefaultText"
+msgid "Could've fooled me. All I see are a bunch of drunken slobs and one ugly bartender."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_amelia_kim:201
+msgctxt "conversations/00_emerald_vale/00_cv_amelia_kim:201:DefaultText"
+msgid "Hey, come on now. That was uncalled for. Some of us are still sober."
+msgstr ""

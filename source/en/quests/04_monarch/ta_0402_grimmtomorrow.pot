@@ -1,0 +1,134 @@
+#: quests/04_monarch/ta_0402_grimmtomorrow:0
+msgctxt "quests/04_monarch/ta_0402_grimmtomorrow:0:DefaultText"
+msgid "The Grimm Tomorrow"
+msgstr ""
+
+#: quests/04_monarch/ta_0402_grimmtomorrow:1
+msgctxt "quests/04_monarch/ta_0402_grimmtomorrow:1:DefaultText"
+msgid "Check with Celia"
+msgstr ""
+
+#: quests/04_monarch/ta_0402_grimmtomorrow:2
+msgctxt "quests/04_monarch/ta_0402_grimmtomorrow:2:DefaultText"
+msgid "Speak with Velma at the Warehouse"
+msgstr ""
+
+#: quests/04_monarch/ta_0402_grimmtomorrow:3
+msgctxt "quests/04_monarch/ta_0402_grimmtomorrow:3:DefaultText"
+msgid "Get Grimm's Tossball Poster"
+msgstr ""
+
+#: quests/04_monarch/ta_0402_grimmtomorrow:7
+msgctxt "quests/04_monarch/ta_0402_grimmtomorrow:7:DefaultText"
+msgid "Deliver the Tossball Poster to Grimm"
+msgstr ""
+
+#: quests/04_monarch/ta_0402_grimmtomorrow:15
+msgctxt "quests/04_monarch/ta_0402_grimmtomorrow:15:DefaultText"
+msgid "Speak to Grimm"
+msgstr ""
+
+#: quests/04_monarch/ta_0402_grimmtomorrow:10000
+msgctxt "quests/04_monarch/ta_0402_grimmtomorrow:10000:DefaultText"
+msgid "Grimm is waiting for a tossball poster signed by the great Bertie \"Black Hole\" Holcomb."
+msgstr ""
+
+#: quests/04_monarch/ta_0402_grimmtomorrow:10001
+msgctxt "quests/04_monarch/ta_0402_grimmtomorrow:10001:DefaultText"
+msgid "Celia, who works with Sanjar Nandi in the MSI building, should know about the status of Grimm's poster."
+msgstr ""
+
+#: quests/04_monarch/ta_0402_grimmtomorrow:10002
+msgctxt "quests/04_monarch/ta_0402_grimmtomorrow:10002:DefaultText"
+msgid "Celia sent you to Velma Ballard, manager of Stellar Bay's warehouse. She receives all of SubLight's incoming shipments."
+msgstr ""
+
+#: quests/04_monarch/ta_0402_grimmtomorrow:10003
+msgctxt "quests/04_monarch/ta_0402_grimmtomorrow:10003:DefaultText"
+msgid "Velma received another offer for the tossball poster from Nell, who runs a betting parlor in Stellar Bay."
+msgstr ""
+
+#: quests/04_monarch/ta_0402_grimmtomorrow:10007
+msgctxt "quests/04_monarch/ta_0402_grimmtomorrow:10007:DefaultText"
+msgid "Now that you have the signed tossball poster, deliver it to Grimm by Stellar Bay's landing pad."
+msgstr ""
+
+#: quests/04_monarch/ta_0402_grimmtomorrow:10015
+msgctxt "quests/04_monarch/ta_0402_grimmtomorrow:10015:DefaultText"
+msgid "With Celia dead, you'll need to check in with Grimm to determine where else to look for the tossball poster."
+msgstr ""
+
+#: quests/04_monarch/ta_0402_grimmtomorrow:20000
+msgctxt "quests/04_monarch/ta_0402_grimmtomorrow:20000:DefaultText"
+msgid "Velma is keeping the poster locked up in her office until Nell pays her."
+msgstr ""
+
+#: quests/04_monarch/ta_0402_grimmtomorrow:20001
+msgctxt "quests/04_monarch/ta_0402_grimmtomorrow:20001:DefaultText"
+msgid "Nell says she'd be willing to give up the poster if you find her lost shipment of tossball jerseys. They should be near Amber Heights."
+msgstr ""
+
+#: quests/04_monarch/ta_0402_grimmtomorrow:20002
+msgctxt "quests/04_monarch/ta_0402_grimmtomorrow:20002:DefaultText"
+msgid "Nell agreed to give up the poster."
+msgstr ""
+
+#: quests/04_monarch/ta_0402_grimmtomorrow:20004
+msgctxt "quests/04_monarch/ta_0402_grimmtomorrow:20004:DefaultText"
+msgid "You found the tossball jerseys for Nell."
+msgstr ""
+
+#: quests/04_monarch/ta_0402_grimmtomorrow:20005
+msgctxt "quests/04_monarch/ta_0402_grimmtomorrow:20005:DefaultText"
+msgid "Nell's dead. She won't need that poster anymore."
+msgstr ""
+
+#: quests/04_monarch/ta_0402_grimmtomorrow:30000
+msgctxt "quests/04_monarch/ta_0402_grimmtomorrow:30000:DefaultText"
+msgid "You convinced Nell to withdraw her offer for the tossball poster. Grimm was overjoyed to receive his prized collectible."
+msgstr ""
+
+#: quests/04_monarch/ta_0402_grimmtomorrow:30001
+msgctxt "quests/04_monarch/ta_0402_grimmtomorrow:30001:DefaultText"
+msgid "You persuaded Velma to honor her original agreement with Grimm. He was overjoyed to receive his prized collectible."
+msgstr ""
+
+#: quests/04_monarch/ta_0402_grimmtomorrow:30002
+msgctxt "quests/04_monarch/ta_0402_grimmtomorrow:30002:DefaultText"
+msgid "You got the tossball poster from Velma's office and delivered it to Grimm. He was overjoyed to receive his prized collectible."
+msgstr ""
+
+#: quests/04_monarch/ta_0402_grimmtomorrow:30003
+msgctxt "quests/04_monarch/ta_0402_grimmtomorrow:30003:DefaultText"
+msgid "You told Grimm that Nell offered more money for the poster and Velma had sold it to her."
+msgstr ""
+
+#: quests/04_monarch/ta_0402_grimmtomorrow:30004
+msgctxt "quests/04_monarch/ta_0402_grimmtomorrow:30004:DefaultText"
+msgid "Nell came to an unfortunate end, making her bid for the tossball poster a non-issue. Velma agreed to honor her original agreement. Grimm was overjoyed to receive his prized collectible."
+msgstr ""
+
+#: quests/04_monarch/ta_0402_grimmtomorrow:30006
+msgctxt "quests/04_monarch/ta_0402_grimmtomorrow:30006:DefaultText"
+msgid "Grimm is dead. No one is left to care about what happens to this poster."
+msgstr ""
+
+#: quests/04_monarch/ta_0402_grimmtomorrow:30007
+msgctxt "quests/04_monarch/ta_0402_grimmtomorrow:30007:DefaultText"
+msgid "You convinced Nell to let Grimm have the poster, after you helped her secure some official tossball jerseys - now with authentic game-time aroma!"
+msgstr ""
+
+#: quests/04_monarch/ta_0402_grimmtomorrow:30008
+msgctxt "quests/04_monarch/ta_0402_grimmtomorrow:30008:DefaultText"
+msgid "The Iconoclasts have taken over Stellar Bay, and as a member of MSI, Grimm has disappeared. Whether he fled or was killed is anyone's guess."
+msgstr ""
+
+#: quests/04_monarch/ta_0402_grimmtomorrow:40001
+msgctxt "quests/04_monarch/ta_0402_grimmtomorrow:40001:DefaultText"
+msgid "With Celia dead, Grimm suggested checking in with Velma, manager of Stellar Bay's warehouse. She'll know if the SubLight shipment has arrived."
+msgstr ""
+
+#: quests/04_monarch/ta_0402_grimmtomorrow:40002
+msgctxt "quests/04_monarch/ta_0402_grimmtomorrow:40002:DefaultText"
+msgid "With Velma dead, Grimm's tossball poster is likely locked up safe in her office."
+msgstr ""

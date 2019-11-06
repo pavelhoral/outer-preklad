@@ -1,0 +1,634 @@
+#: conversations/04_monarch/0401/0401_cv_donald:1
+msgctxt "conversations/04_monarch/0401/0401_cv_donald:1:DefaultText"
+msgid "How'd you get up here? Through the caves?"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_donald:2
+msgctxt "conversations/04_monarch/0401/0401_cv_donald:2:DefaultText"
+msgid "What caves?"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_donald:3
+msgctxt "conversations/04_monarch/0401/0401_cv_donald:3:DefaultText"
+msgid "That's right. I did."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_donald:4
+msgctxt "conversations/04_monarch/0401/0401_cv_donald:4:DefaultText"
+msgid "We're mercs. And our current contract mandates that we annihilate any creatures - or persons - that emerge from the tunnel."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_donald:5
+msgctxt "conversations/04_monarch/0401/0401_cv_donald:5:DefaultText"
+msgid "Seriously?"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_donald:6
+msgctxt "conversations/04_monarch/0401/0401_cv_donald:6:DefaultText"
+msgid "Trying that would be a mistake."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_donald:7
+msgctxt "conversations/04_monarch/0401/0401_cv_donald:7:DefaultText"
+msgid "Allow me to intervene. It's my job to mediate any conflicts of interest regarding C3 and third parties."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_donald:8
+msgctxt "conversations/04_monarch/0401/0401_cv_donald:8:DefaultText"
+msgid "Role? Technically, I'm jobless."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_donald:9
+msgctxt "conversations/04_monarch/0401/0401_cv_donald:9:DefaultText"
+msgid "You can consider me the CEO of a company of one."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_donald:10
+msgctxt "conversations/04_monarch/0401/0401_cv_donald:10:DefaultText"
+msgid "J-jobless?! Wha - how - why?! If you ain't out here on account of work then, might be you ought to explain -"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_donald:11
+msgctxt "conversations/04_monarch/0401/0401_cv_donald:11:DefaultText"
+msgid "A lean but efficient corporate structure. I'm impressed. Still, I got to wonder -"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_donald:12
+msgctxt "conversations/04_monarch/0401/0401_cv_donald:12:DefaultText"
+msgid "What are your intentions regarding Devil's Peak Station? That is why you've wandered out here, I presume."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_donald:13
+msgctxt "conversations/04_monarch/0401/0401_cv_donald:13:DefaultText"
+msgid "I've never even heard of Devil's Peak Station."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_donald:14
+msgctxt "conversations/04_monarch/0401/0401_cv_donald:14:DefaultText"
+msgid "I need to speak with an information broker named Hiram."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_donald:15
+msgctxt "conversations/04_monarch/0401/0401_cv_donald:15:DefaultText"
+msgid "I'm interested in the station's radio broadcasts."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_donald:16
+msgctxt "conversations/04_monarch/0401/0401_cv_donald:16:DefaultText"
+msgid "Our guidelines allow us some leeway in identifying threats to our client. Your... unorthodox profession makes me think we ought to remove you from the premises... permanently."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_donald:18
+msgctxt "conversations/04_monarch/0401/0401_cv_donald:18:DefaultText"
+msgid "However, the terms of our contract specifically targets marauders, Iconoclasts, MSI operatives and anyone deemed too 'hobo-like' in appearance."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_donald:19
+msgctxt "conversations/04_monarch/0401/0401_cv_donald:19:DefaultText"
+msgid "All right. That there's an HR violation. C3 does not tolerate threats made to company property or personnel."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_donald:20
+msgctxt "conversations/04_monarch/0401/0401_cv_donald:20:DefaultText"
+msgid "Will <oeiglobal>0401_C3BribeValue</oeiglobal> bits cover it?"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_donald:21
+msgctxt "conversations/04_monarch/0401/0401_cv_donald:21:DefaultText"
+msgid "We've both lost on this interaction. Call it even, or I'll be forced to collect as well."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_donald:22
+msgctxt "conversations/04_monarch/0401/0401_cv_donald:22:DefaultText"
+msgid "<Attack> This farce has gone on long enough. My guns will do the talking now."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_donald:26
+msgctxt "conversations/04_monarch/0401/0401_cv_donald:26:DefaultText"
+msgid "Exactly who is your client?"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_donald:28
+msgctxt "conversations/04_monarch/0401/0401_cv_donald:28:DefaultText"
+msgid "How'd the station end up overrun by marauders if you were hired to guard it?"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_donald:29
+msgctxt "conversations/04_monarch/0401/0401_cv_donald:29:DefaultText"
+msgid "Trying to say we didn't do our job? I'll have you know, our contract was to stop any marauders coming from the caves. Didn't say nothing about the ones taking the mountain path."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_donald:30
+msgctxt "conversations/04_monarch/0401/0401_cv_donald:30:DefaultText"
+msgid "We'll simply clear them out later. Once we've the go-ahead from Berthold."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_donald:31
+msgctxt "conversations/04_monarch/0401/0401_cv_donald:31:DefaultText"
+msgid "Who's Berthold? Your boss?"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_donald:32
+msgctxt "conversations/04_monarch/0401/0401_cv_donald:32:DefaultText"
+msgid "That's right. Berthold Fox is our boss man - Founder, President, and CEO. Berty went down into the caves on a hunt for marauders, give or take six hours ago."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_donald:33
+msgctxt "conversations/04_monarch/0401/0401_cv_donald:33:DefaultText"
+msgid "He's a hands-on type. Likes to handle the tougher tasks himself."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_donald:34
+msgctxt "conversations/04_monarch/0401/0401_cv_donald:34:DefaultText"
+msgid "Although, he should've been back goin' on six hours now. I'd ask you to check the caves for him. But then we'd have to kill you when you crawl back out."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_donald:35
+msgctxt "conversations/04_monarch/0401/0401_cv_donald:35:DefaultText"
+msgid "Make me an honorary C3, and I'll look for him."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_donald:36
+msgctxt "conversations/04_monarch/0401/0401_cv_donald:36:DefaultText"
+msgid "I think I'll steer clear of the caves, if it's all the same."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_donald:37
+msgctxt "conversations/04_monarch/0401/0401_cv_donald:37:DefaultText"
+msgid "Done. Use this - signal's locked to Berty's tracker. Should lead you right to him."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_donald:38
+msgctxt "conversations/04_monarch/0401/0401_cv_donald:38:DefaultText"
+msgid "Anything else you need?"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_donald:40
+msgctxt "conversations/04_monarch/0401/0401_cv_donald:40:DefaultText"
+msgid "Probably for the best. Berty's going to be back... any minute now..."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_donald:41
+msgctxt "conversations/04_monarch/0401/0401_cv_donald:41:DefaultText"
+msgid "I'll look for Berthold if I get a free pass to explore the caves."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_donald:43
+msgctxt "conversations/04_monarch/0401/0401_cv_donald:43:DefaultText"
+msgid "The guy calls himself the 'Information Broker.' Like he's starring in one of those fancy broadcast productions the station puts out. My guess is, he brokers... information. "
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_donald:44
+msgctxt "conversations/04_monarch/0401/0401_cv_donald:44:DefaultText"
+msgid "I'll be going now."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_donald:45
+msgctxt "conversations/04_monarch/0401/0401_cv_donald:45:DefaultText"
+msgid "Good answer. I wasn't looking forward to gutshotting you. See, the thing is, I'm with the Corporate Compliance Crew - C3, if you will."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_donald:59
+msgctxt "conversations/04_monarch/0401/0401_cv_donald:59:DefaultText"
+msgid "You still here?"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_donald:64
+msgctxt "conversations/04_monarch/0401/0401_cv_donald:64:DefaultText"
+msgid "Enforcing compliance is just busy work. Damn it."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_donald:65
+msgctxt "conversations/04_monarch/0401/0401_cv_donald:65:DefaultText"
+msgid "Well, that's unfortunate. For you, I mean. 'Cause see, the thing is -"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_donald:68
+msgctxt "conversations/04_monarch/0401/0401_cv_donald:68:DefaultText"
+msgid "We're mercs. And our current contract mandates that we annihilate any creatures - or persons - that emerge from the tunnel."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_donald:69
+msgctxt "conversations/04_monarch/0401/0401_cv_donald:69:DefaultText"
+msgid "I'm with the Corporate Compliance Crew - C3, if you will."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_donald:73
+msgctxt "conversations/04_monarch/0401/0401_cv_donald:73:DefaultText"
+msgid "Aside from the fact that I'm guy in charge of it? I reckon killing the person who saved one of our own won't have a positive impact on our image. Do you?"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_donald:74
+msgctxt "conversations/04_monarch/0401/0401_cv_donald:74:DefaultText"
+msgid "What does that have to do with PR?"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_donald:76
+msgctxt "conversations/04_monarch/0401/0401_cv_donald:76:DefaultText"
+msgid "C3s, fire at will!"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_donald:77
+msgctxt "conversations/04_monarch/0401/0401_cv_donald:77:DefaultText"
+msgid "I saw the boss man die in the skirmish. But my mind... it don't believe it."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_donald:78
+msgctxt "conversations/04_monarch/0401/0401_cv_donald:78:DefaultText"
+msgid "Forget about Berthold. We've got to clear out the station."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_donald:80
+msgctxt "conversations/04_monarch/0401/0401_cv_donald:80:DefaultText"
+msgid "If the marauders kill your client, you won't get paid."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_donald:81
+msgctxt "conversations/04_monarch/0401/0401_cv_donald:81:DefaultText"
+msgid "Berthold's been gone six hours? You know he's dead, right?"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_donald:82
+msgctxt "conversations/04_monarch/0401/0401_cv_donald:82:DefaultText"
+msgid "Once the marauders finish wrecking the station, they're going to come here and eat you alive."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_donald:83
+msgctxt "conversations/04_monarch/0401/0401_cv_donald:83:DefaultText"
+msgid "Could use your help clearing out the station."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_donald:90
+msgctxt "conversations/04_monarch/0401/0401_cv_donald:90:DefaultText"
+msgid "I owe you for bringing the boss man back to us."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_donald:91
+msgctxt "conversations/04_monarch/0401/0401_cv_donald:91:DefaultText"
+msgid "Thank the stars that mess is over and done with."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_donald:92
+msgctxt "conversations/04_monarch/0401/0401_cv_donald:92:DefaultText"
+msgid "No. I came around from the... other way."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_donald:93
+msgctxt "conversations/04_monarch/0401/0401_cv_donald:93:DefaultText"
+msgid "All right. First thing's first. To make a decision in this dispute, I'm gonna need to know what your role in your organization is."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_donald:94
+msgctxt "conversations/04_monarch/0401/0401_cv_donald:94:DefaultText"
+msgid "Mhmm. Might I remind you that it is unethical to lie in an arbitration. "
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_donald:95
+msgctxt "conversations/04_monarch/0401/0401_cv_donald:95:DefaultText"
+msgid "As you don't appear to fit any of those categories, I'm afraid I can't quite make a call on you."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_donald:97
+msgctxt "conversations/04_monarch/0401/0401_cv_donald:97:DefaultText"
+msgid "Ah, so you're a fan."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_donald:98
+msgctxt "conversations/04_monarch/0401/0401_cv_donald:98:DefaultText"
+msgid "No. I'll sign the clearance form. Just... I must advise you to steer clear of Devil's Peak Station. It's teeming with marauders."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_donald:99
+msgctxt "conversations/04_monarch/0401/0401_cv_donald:99:DefaultText"
+msgid "You going to kill Berthold when he returns from the caves, too?"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_donald:100
+msgctxt "conversations/04_monarch/0401/0401_cv_donald:100:DefaultText"
+msgid "Space, no! The contract doesn't target C3s. How'd we enforce it, otherwise?"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_donald:101
+msgctxt "conversations/04_monarch/0401/0401_cv_donald:101:DefaultText"
+msgid "A might cold-blooded, ain't he, Donald?"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_donald:101
+msgctxt "conversations/04_monarch/0401/0401_cv_donald:101:FemaleText"
+msgid "A might cold-blooded, ain't she, Donald?"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_donald:102
+msgctxt "conversations/04_monarch/0401/0401_cv_donald:102:DefaultText"
+msgid "I found him dying in the cave. He said to tell you I'm replacing him as the head of C3."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_donald:104
+msgctxt "conversations/04_monarch/0401/0401_cv_donald:104:DefaultText"
+msgid "Never mind."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_donald:108
+msgctxt "conversations/04_monarch/0401/0401_cv_donald:108:DefaultText"
+msgid "I'll wire ahead to Joy and Hudson for support. All right, C3s! Prepare to head out!"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_donald:110
+msgctxt "conversations/04_monarch/0401/0401_cv_donald:110:DefaultText"
+msgid "Or his body. Whatever you find... bring him back to us. Okay?"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_donald:111
+msgctxt "conversations/04_monarch/0401/0401_cv_donald:111:DefaultText"
+msgid "Don, I don't care if the guy's name is the Architect himself so long as we get paid well and paid on time."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_donald:112
+msgctxt "conversations/04_monarch/0401/0401_cv_donald:112:DefaultText"
+msgid "No dispute here."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_donald:113
+msgctxt "conversations/04_monarch/0401/0401_cv_donald:113:DefaultText"
+msgid "And?"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_donald:114
+msgctxt "conversations/04_monarch/0401/0401_cv_donald:114:DefaultText"
+msgid "I really don't care."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_donald:117
+msgctxt "conversations/04_monarch/0401/0401_cv_donald:117:DefaultText"
+msgid "Don't we as a standing policy provide an alternative to termination via financial restitution?"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_donald:118
+msgctxt "conversations/04_monarch/0401/0401_cv_donald:118:DefaultText"
+msgid "Rude, ain't he, Don?"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_donald:118
+msgctxt "conversations/04_monarch/0401/0401_cv_donald:118:FemaleText"
+msgid "Rude, ain't she, Don?"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_donald:119
+msgctxt "conversations/04_monarch/0401/0401_cv_donald:119:DefaultText"
+msgid "A smidge, yeah."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_donald:120
+msgctxt "conversations/04_monarch/0401/0401_cv_donald:120:DefaultText"
+msgid "They most certainly should."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_donald:121
+msgctxt "conversations/04_monarch/0401/0401_cv_donald:121:DefaultText"
+msgid "All right. Lance? Unless you have a final point of contention to make, I'd say he's clear to go."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_donald:121
+msgctxt "conversations/04_monarch/0401/0401_cv_donald:121:FemaleText"
+msgid "All right. Lance? Unless you have a final point of contention to make, I'd say she's clear to go."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_donald:122
+msgctxt "conversations/04_monarch/0401/0401_cv_donald:122:DefaultText"
+msgid "On second thought, let's call this one a free learning experience. You're obviously not a marauder, anyway."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_donald:123
+msgctxt "conversations/04_monarch/0401/0401_cv_donald:123:DefaultText"
+msgid "Look, much as we'd like to slaughter some marauders. We can't act unless it's on orders. And those come from the boss man."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_donald:124
+msgctxt "conversations/04_monarch/0401/0401_cv_donald:124:DefaultText"
+msgid "No, sir. We do not know that. I ain't about to forsake Berty that easily."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_donald:125
+msgctxt "conversations/04_monarch/0401/0401_cv_donald:125:DefaultText"
+msgid "Don't fancy getting devoured by marauders. No, I do not."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_donald:126
+msgctxt "conversations/04_monarch/0401/0401_cv_donald:126:DefaultText"
+msgid "Maybe Berty won't mind if we clear out the station real quick, then get back to our posts."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_donald:127
+msgctxt "conversations/04_monarch/0401/0401_cv_donald:127:DefaultText"
+msgid "What he doesn't know won't hurt us. Eh, Lance?"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_donald:128
+msgctxt "conversations/04_monarch/0401/0401_cv_donald:128:DefaultText"
+msgid "Now that won't hold. There's nothing Berty hates worse than a dead client."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_donald:129
+msgctxt "conversations/04_monarch/0401/0401_cv_donald:129:DefaultText"
+msgid "The Broker's a real paranoid type. I'd wager my keenest knife he's got the place on lockdown. Booby trapped. Add the marauders and we'll be walking into a veritable death gauntlet."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_donald:130
+msgctxt "conversations/04_monarch/0401/0401_cv_donald:130:DefaultText"
+msgid "So it ought to be fun. You find a way to jimmy the front door, and we'll clean house on the main level. "
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_donald:131
+msgctxt "conversations/04_monarch/0401/0401_cv_donald:131:DefaultText"
+msgid "Bullseye."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_donald:132
+msgctxt "conversations/04_monarch/0401/0401_cv_donald:132:DefaultText"
+msgid "Get on with it, please."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_donald:133
+msgctxt "conversations/04_monarch/0401/0401_cv_donald:133:DefaultText"
+msgid "<Pretend to shoot a gun with your fingers.>"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_donald:134
+msgctxt "conversations/04_monarch/0401/0401_cv_donald:134:DefaultText"
+msgid "Already forgotten."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_donald:135
+msgctxt "conversations/04_monarch/0401/0401_cv_donald:135:DefaultText"
+msgid "You? You're his protégé? I mean, no offense but I never would've figured... I mean. Space me! What're the orders, boss?"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_donald:136
+msgctxt "conversations/04_monarch/0401/0401_cv_donald:136:DefaultText"
+msgid "If you're wanting to clear the station of all hostiles there's something you ought to know."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_donald:137
+msgctxt "conversations/04_monarch/0401/0401_cv_donald:137:DefaultText"
+msgid "No, I didn't come up through the caves."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_donald:138
+msgctxt "conversations/04_monarch/0401/0401_cv_donald:138:DefaultText"
+msgid "Addie, our Chief Financial Officer could confirm, but I'm betting if you're willing to compensate us for our lost time and productivity due to this arbitration, you could pass."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_donald:139
+msgctxt "conversations/04_monarch/0401/0401_cv_donald:139:DefaultText"
+msgid "I like him."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_donald:139
+msgctxt "conversations/04_monarch/0401/0401_cv_donald:139:FemaleText"
+msgid "I like her."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_donald:140
+msgctxt "conversations/04_monarch/0401/0401_cv_donald:140:DefaultText"
+msgid "You got a medic on staff? I could offer my services in exchange for a free pass."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_donald:141
+msgctxt "conversations/04_monarch/0401/0401_cv_donald:141:DefaultText"
+msgid "As a matter of fact, we could use a skilled sawbones. Seems a fair trade to me."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_donald:142
+msgctxt "conversations/04_monarch/0401/0401_cv_donald:142:DefaultText"
+msgid "Joy sent me to talk to you."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_donald:143
+msgctxt "conversations/04_monarch/0401/0401_cv_donald:143:DefaultText"
+msgid "That's all well and good, but the reason you've come is secondary to the arbitration at hand."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_donald:144
+msgctxt "conversations/04_monarch/0401/0401_cv_donald:144:DefaultText"
+msgid "I met Joy by the station. Was hoping to get you guys to do your job and take down the marauders."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_donald:145
+msgctxt "conversations/04_monarch/0401/0401_cv_donald:145:DefaultText"
+msgid "Can't we all just get along - for free? We're on the same side here."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_donald:146
+msgctxt "conversations/04_monarch/0401/0401_cv_donald:146:DefaultText"
+msgid "I guess we might could. There's something I like about you. Can't put my finger on it, but I feel like I'd rather have you with us than against us."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_donald:147
+msgctxt "conversations/04_monarch/0401/0401_cv_donald:147:DefaultText"
+msgid "I did your job for you. The station has been cleared of marauders."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_donald:148
+msgctxt "conversations/04_monarch/0401/0401_cv_donald:148:DefaultText"
+msgid "Well, that's a pickle. See, I don't recollect that our contract specifies what to do in the case of a third party fulfilling our obligations."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_donald:149
+msgctxt "conversations/04_monarch/0401/0401_cv_donald:149:DefaultText"
+msgid "Shucks, Lance. Why give the client the details? All that matters is that the work's been done. Seems to me, we can close up, cash out, and move on. "
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_donald:150
+msgctxt "conversations/04_monarch/0401/0401_cv_donald:150:DefaultText"
+msgid "I do love when you think outside the box, Don. Fair enough. I'll sign the clearance form and issue our 'external contractor' here an NDA. "
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_donald:151
+msgctxt "conversations/04_monarch/0401/0401_cv_donald:151:DefaultText"
+msgid "We're locked and loaded. Joy and Hudson know you're coming. They'll back you in the frontal assault on Devil's Peak."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_donald:152
+msgctxt "conversations/04_monarch/0401/0401_cv_donald:152:DefaultText"
+msgid "Your boss - he died in the caves."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_donald:153
+msgctxt "conversations/04_monarch/0401/0401_cv_donald:153:DefaultText"
+msgid "Now that just can't be right, no. Can't hardly wrap my mind around it. Tell me then... what got Berty in the end?"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_donald:154
+msgctxt "conversations/04_monarch/0401/0401_cv_donald:154:DefaultText"
+msgid "The caves are infested with vicious wildlife. It must've overwhelmed him."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_donald:155
+msgctxt "conversations/04_monarch/0401/0401_cv_donald:155:DefaultText"
+msgid "I did."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_donald:156
+msgctxt "conversations/04_monarch/0401/0401_cv_donald:156:DefaultText"
+msgid "I found his remains half-eaten by a mantiqueen."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_donald:157
+msgctxt "conversations/04_monarch/0401/0401_cv_donald:157:DefaultText"
+msgid "With or without a CEO, you can still help me take back the station."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_donald:158
+msgctxt "conversations/04_monarch/0401/0401_cv_donald:158:DefaultText"
+msgid "I don't know. Berty was the plan maker, and he told us to stick to the explicit requirements of the contract."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_donald:159
+msgctxt "conversations/04_monarch/0401/0401_cv_donald:159:DefaultText"
+msgid "Fine. Stay here where it's safe, you cowards."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_donald:160
+msgctxt "conversations/04_monarch/0401/0401_cv_donald:160:DefaultText"
+msgid "You really think that staying here is the best option?"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_donald:161
+msgctxt "conversations/04_monarch/0401/0401_cv_donald:161:DefaultText"
+msgid "Say that to the head of my hammer. C3s ain't cowards. There's reasons we stick to the protocol - not getting the entire squad killed is chiefly among them."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_donald:162
+msgctxt "conversations/04_monarch/0401/0401_cv_donald:162:DefaultText"
+msgid "Till we got a new CEO who can make that decision? Yes. We never fail to fulfill a contract. We just dispute the criterion with our clients' lawyers from time to time."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_donald:163
+msgctxt "conversations/04_monarch/0401/0401_cv_donald:163:DefaultText"
+msgid "Didn't think nothing or no one could take Berty down... He was like a titanium wall, you know? "
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_donald:164
+msgctxt "conversations/04_monarch/0401/0401_cv_donald:164:DefaultText"
+msgid "You?! You killed our CEO? Then you thought you brag about it? Best believe we'll be avenging him!"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_donald:165
+msgctxt "conversations/04_monarch/0401/0401_cv_donald:165:DefaultText"
+msgid "Damned right! C3s, fire at will!"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_donald:166
+msgctxt "conversations/04_monarch/0401/0401_cv_donald:166:DefaultText"
+msgid "Space me. Now someone's got to take over as CEO, and I ain't inclined to offer."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_donald:167
+msgctxt "conversations/04_monarch/0401/0401_cv_donald:167:DefaultText"
+msgid "Don't look to me. Addie's my pick."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cv_donald:169
+msgctxt "conversations/04_monarch/0401/0401_cv_donald:169:DefaultText"
+msgid "Sorry, not able to talk business right now. C3's suffered an... unfortunate staffing problem."
+msgstr ""

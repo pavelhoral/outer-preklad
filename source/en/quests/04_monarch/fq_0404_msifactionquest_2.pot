@@ -1,0 +1,164 @@
+#: quests/04_monarch/fq_0404_msifactionquest_2:0
+msgctxt "quests/04_monarch/fq_0404_msifactionquest_2:0:DefaultText"
+msgid "Errors Unseen"
+msgstr ""
+
+#: quests/04_monarch/fq_0404_msifactionquest_2:1
+msgctxt "quests/04_monarch/fq_0404_msifactionquest_2:1:DefaultText"
+msgid "Follow up with Catherine Malin"
+msgstr ""
+
+#: quests/04_monarch/fq_0404_msifactionquest_2:5
+msgctxt "quests/04_monarch/fq_0404_msifactionquest_2:5:DefaultText"
+msgid "Investigate the Drop-Off Point"
+msgstr ""
+
+#: quests/04_monarch/fq_0404_msifactionquest_2:6
+msgctxt "quests/04_monarch/fq_0404_msifactionquest_2:6:DefaultText"
+msgid "Follow the Trail of Blood"
+msgstr ""
+
+#: quests/04_monarch/fq_0404_msifactionquest_2:7
+msgctxt "quests/04_monarch/fq_0404_msifactionquest_2:7:DefaultText"
+msgid "Recover Proof of Corporate Presence on Monarch"
+msgstr ""
+
+#: quests/04_monarch/fq_0404_msifactionquest_2:9
+msgctxt "quests/04_monarch/fq_0404_msifactionquest_2:9:DefaultText"
+msgid "Return to Sanjar with the Data Cartridge"
+msgstr ""
+
+#: quests/04_monarch/fq_0404_msifactionquest_2:12
+msgctxt "quests/04_monarch/fq_0404_msifactionquest_2:12:DefaultText"
+msgid "Speak to Fallbrook's Bartenders"
+msgstr ""
+
+#: quests/04_monarch/fq_0404_msifactionquest_2:17
+msgctxt "quests/04_monarch/fq_0404_msifactionquest_2:17:DefaultText"
+msgid "Speak to Huxley"
+msgstr ""
+
+#: quests/04_monarch/fq_0404_msifactionquest_2:20
+msgctxt "quests/04_monarch/fq_0404_msifactionquest_2:20:DefaultText"
+msgid "(Optional) Use the Rear Gate"
+msgstr ""
+
+#: quests/04_monarch/fq_0404_msifactionquest_2:10000
+msgctxt "quests/04_monarch/fq_0404_msifactionquest_2:10000:DefaultText"
+msgid "Sanjar believes another company may be operating on Monarch illegally. If he can get proof, then he could use that as leverage to get MSI readmitted to the Halcyon Board."
+msgstr ""
+
+#: quests/04_monarch/fq_0404_msifactionquest_2:10001
+msgctxt "quests/04_monarch/fq_0404_msifactionquest_2:10001:DefaultText"
+msgid "Sanjar believes Catherine would know where this other corporation is operating. See if you can get the location from her."
+msgstr ""
+
+#: quests/04_monarch/fq_0404_msifactionquest_2:10005
+msgctxt "quests/04_monarch/fq_0404_msifactionquest_2:10005:DefaultText"
+msgid "Someone hired Catherine's team to make blind supply drops at the bridge north of Fallbrook. Investigating the area may lead you to the proof you need."
+msgstr ""
+
+#: quests/04_monarch/fq_0404_msifactionquest_2:10006
+msgctxt "quests/04_monarch/fq_0404_msifactionquest_2:10006:DefaultText"
+msgid "Someone survived the attack at the drop point. Follow the blood trail to see if you can learn more."
+msgstr ""
+
+#: quests/04_monarch/fq_0404_msifactionquest_2:10007
+msgctxt "quests/04_monarch/fq_0404_msifactionquest_2:10007:DefaultText"
+msgid "You found a hidden facility where some scientists are being held captive by marauders. This could be the corporate base Sanjar's been looking for - find proof."
+msgstr ""
+
+#: quests/04_monarch/fq_0404_msifactionquest_2:10009
+msgctxt "quests/04_monarch/fq_0404_msifactionquest_2:10009:DefaultText"
+msgid "You have evidence that UDL has been secretly developing a crowd control gas on Monarch. This is the proof Sanjar needs to make his appeal to the Board."
+msgstr ""
+
+#: quests/04_monarch/fq_0404_msifactionquest_2:10012
+msgctxt "quests/04_monarch/fq_0404_msifactionquest_2:10012:DefaultText"
+msgid "Catherine revealed that a twitchy regular at the gambling dens might know more. Ask the bartenders, Yvonne and Westley, about her."
+msgstr ""
+
+#: quests/04_monarch/fq_0404_msifactionquest_2:10017
+msgctxt "quests/04_monarch/fq_0404_msifactionquest_2:10017:DefaultText"
+msgid "The mystery gambler in Fallbrook had an unlikely gambling buddy, Huxley, the Iconoclast who had trapped herself in a closet. Speak to her in Amber Heights."
+msgstr ""
+
+#: quests/04_monarch/fq_0404_msifactionquest_2:10020
+msgctxt "quests/04_monarch/fq_0404_msifactionquest_2:10020:DefaultText"
+msgid "Huxley gave you a key she won off her gambling buddy. It could be used to open the facility's rear gate."
+msgstr ""
+
+#: quests/04_monarch/fq_0404_msifactionquest_2:20000
+msgctxt "quests/04_monarch/fq_0404_msifactionquest_2:20000:DefaultText"
+msgid "Catherine is dead, but her private terminal may have the information you need."
+msgstr ""
+
+#: quests/04_monarch/fq_0404_msifactionquest_2:20001
+msgctxt "quests/04_monarch/fq_0404_msifactionquest_2:20001:DefaultText"
+msgid "Maybe the scientists could provide testimony..."
+msgstr ""
+
+#: quests/04_monarch/fq_0404_msifactionquest_2:20002
+msgctxt "quests/04_monarch/fq_0404_msifactionquest_2:20002:DefaultText"
+msgid "Never mind."
+msgstr ""
+
+#: quests/04_monarch/fq_0404_msifactionquest_2:20003
+msgctxt "quests/04_monarch/fq_0404_msifactionquest_2:20003:DefaultText"
+msgid "You found Arthur, a SubLight courier, and learned that his team was attacked by marauders."
+msgstr ""
+
+#: quests/04_monarch/fq_0404_msifactionquest_2:20004
+msgctxt "quests/04_monarch/fq_0404_msifactionquest_2:20004:DefaultText"
+msgid "You spoke to Yvonne."
+msgstr ""
+
+#: quests/04_monarch/fq_0404_msifactionquest_2:20005
+msgctxt "quests/04_monarch/fq_0404_msifactionquest_2:20005:DefaultText"
+msgid "You spoke to Westley."
+msgstr ""
+
+#: quests/04_monarch/fq_0404_msifactionquest_2:20006
+msgctxt "quests/04_monarch/fq_0404_msifactionquest_2:20006:DefaultText"
+msgid "Yvonne is dead, she won't be able to help."
+msgstr ""
+
+#: quests/04_monarch/fq_0404_msifactionquest_2:20007
+msgctxt "quests/04_monarch/fq_0404_msifactionquest_2:20007:DefaultText"
+msgid "Westley is dead, he won't be able to help."
+msgstr ""
+
+#: quests/04_monarch/fq_0404_msifactionquest_2:20008
+msgctxt "quests/04_monarch/fq_0404_msifactionquest_2:20008:DefaultText"
+msgid "Huxley is dead, she won't be able to help."
+msgstr ""
+
+#: quests/04_monarch/fq_0404_msifactionquest_2:20009
+msgctxt "quests/04_monarch/fq_0404_msifactionquest_2:20009:DefaultText"
+msgid "An alarm behind the facility might clear it of hostiles."
+msgstr ""
+
+#: quests/04_monarch/fq_0404_msifactionquest_2:30000
+msgctxt "quests/04_monarch/fq_0404_msifactionquest_2:30000:DefaultText"
+msgid "You delivered the UDL data to Sanjar."
+msgstr ""
+
+#: quests/04_monarch/fq_0404_msifactionquest_2:30001
+msgctxt "quests/04_monarch/fq_0404_msifactionquest_2:30001:DefaultText"
+msgid "You killed Sanjar."
+msgstr ""
+
+#: quests/04_monarch/fq_0404_msifactionquest_2:30002
+msgctxt "quests/04_monarch/fq_0404_msifactionquest_2:30002:DefaultText"
+msgid "With Celia dead, Sanjar is too traumatized to conduct business."
+msgstr ""
+
+#: quests/04_monarch/fq_0404_msifactionquest_2:40001
+msgctxt "quests/04_monarch/fq_0404_msifactionquest_2:40001:DefaultText"
+msgid "From Arthur, you learned that the marauders who attacked came from a location up the hill, west of the bridge. If the marauders found the shipments, perhaps they can lead you to the secret facility, too."
+msgstr ""
+
+#: quests/04_monarch/fq_0404_msifactionquest_2:40002
+msgctxt "quests/04_monarch/fq_0404_msifactionquest_2:40002:DefaultText"
+msgid "You learned that Huxley's gambling buddy lives in a hidden facility in the wilderness. Sounds like the corporate base you're looking for. Find proof."
+msgstr ""

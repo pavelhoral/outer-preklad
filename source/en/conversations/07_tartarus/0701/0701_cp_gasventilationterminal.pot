@@ -1,0 +1,50 @@
+#: conversations/07_tartarus/0701/0701_cp_gasventilationterminal:1
+msgctxt "conversations/07_tartarus/0701/0701_cp_gasventilationterminal:1:DefaultText"
+msgid "LBR-NTH Forced Pacification System\r\n"
+"============================\r\n"
+"By using UDL's patented Forced Pacification System you agree to the following terms and conditions:\r\n"
+"\r\n"
+"1. UDL is not responsible for harm caused by this FPS to any personnel, nor to any non-personnel human resources.\r\n"
+"\r\n"
+"2. This FPS is only to be used in emergency situations.\r\n"
+"\r\n"
+"3. Proper utilization of the FPS will not confer punitive action on its user, even in the event of injuries.\r\n"
+"\r\n"
+"4. As this system utilizes a powerful steam-based delivery mechanism, please alert your nearest mechanical engineer that the system's valves will need replacing after every use."
+msgstr ""
+
+#: conversations/07_tartarus/0701/0701_cp_gasventilationterminal:2
+msgctxt "conversations/07_tartarus/0701/0701_cp_gasventilationterminal:2:DefaultText"
+msgid "[Deliver Pacification Gas]"
+msgstr ""
+
+#: conversations/07_tartarus/0701/0701_cp_gasventilationterminal:3
+msgctxt "conversations/07_tartarus/0701/0701_cp_gasventilationterminal:3:DefaultText"
+msgid "[Exit]"
+msgstr ""
+
+#: conversations/07_tartarus/0701/0701_cp_gasventilationterminal:4
+msgctxt "conversations/07_tartarus/0701/0701_cp_gasventilationterminal:4:DefaultText"
+msgid "LBR-NTH Forced Pacification System\r\n"
+"============================\r\n"
+"UDL's patented Safety-Conscious Pacification Gas is now being deployed. Authorized UDL employees would be wise to avoid the areas now being flooded with neurotoxins until the deployment is complete."
+msgstr ""
+
+#: conversations/07_tartarus/0701/0701_cp_gasventilationterminal:5
+msgctxt "conversations/07_tartarus/0701/0701_cp_gasventilationterminal:5:DefaultText"
+msgid "LBR-NTH Forced Pacification System\r\n"
+"============================\r\n"
+"Error: Pacification deployment requires an authorization password."
+msgstr ""
+
+#: conversations/07_tartarus/0701/0701_cp_gasventilationterminal:7
+msgctxt "conversations/07_tartarus/0701/0701_cp_gasventilationterminal:7:DefaultText"
+msgid "[Continue]"
+msgstr ""
+
+#: conversations/07_tartarus/0701/0701_cp_gasventilationterminal:10
+msgctxt "conversations/07_tartarus/0701/0701_cp_gasventilationterminal:10:DefaultText"
+msgid "LBR-NTH Forced Pacification System\r\n"
+"============================\r\n"
+"Error: The FPS has already been deployed. Please reload its delivery mechanism with UDL's patented Safety-Conscious Pacification Gas."
+msgstr ""

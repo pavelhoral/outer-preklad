@@ -1,0 +1,123 @@
+#: conversations/04_monarch/0401/0401_cp_outpost_logs_1:1
+msgctxt "conversations/04_monarch/0401/0401_cp_outpost_logs_1:1:DefaultText"
+msgid "UDL Communications Substation #204\r\n"
+"============================\r\n"
+"This substation has been decommissioned following the closure of work order #UDL-211.\r\n"
+"\r\n"
+"Communications functionality has been disabled. Logs and messages have been archived."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_outpost_logs_1:2
+msgctxt "conversations/04_monarch/0401/0401_cp_outpost_logs_1:2:DefaultText"
+msgid "[Messages]"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_outpost_logs_1:3
+msgctxt "conversations/04_monarch/0401/0401_cp_outpost_logs_1:3:DefaultText"
+msgid "[Exit]"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_outpost_logs_1:5
+msgctxt "conversations/04_monarch/0401/0401_cp_outpost_logs_1:5:DefaultText"
+msgid "[Halcyon Referendum #207: Terra One Hazard Clause]"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_outpost_logs_1:6
+msgctxt "conversations/04_monarch/0401/0401_cp_outpost_logs_1:6:DefaultText"
+msgid "[Closure of Work Order #UDL-211]"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_outpost_logs_1:7
+msgctxt "conversations/04_monarch/0401/0401_cp_outpost_logs_1:7:DefaultText"
+msgid "[Work Order #UDL-211 Status Report #2]"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_outpost_logs_1:9
+msgctxt "conversations/04_monarch/0401/0401_cp_outpost_logs_1:9:DefaultText"
+msgid "HALCYON HOLDINGS CORPORATE BOARD\n"
+"\n"
+"PUBLIC NOTICE #117: ON THE ISSUING OF A HAZARD CLAUSE FOR TERRA ONE\n"
+"\n"
+"This notice, issued on January 12th, 2343, serves as the public denouncement of Terra 1 as a feasible workplace environment.\n"
+"\n"
+"Due to the hostile and aggressive nature of the wildlife, as well as the unsustainability of its natural flora for use in human consumption, the Halcyon Holdings Corporate Board has officially enacted a Hazard Clause covering the entirety of Terra 1.\n"
+"\n"
+"After an evacuation period of no more than six (6) months, Terra 1 will be officially considered illegal territory. As this is a unanimous decision, any corporation caught operating on Terra 1 after the evacuation period will face fines and possible disbarment, as defined in Halcyon Code 22.1."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_outpost_logs_1:10
+msgctxt "conversations/04_monarch/0401/0401_cp_outpost_logs_1:10:DefaultText"
+msgid "Work order #UDL-211 has been completed. This substation will now be disabled and closed off.\r\n"
+"\r\n"
+"It should be noted that the lead engineer, Franklin Walcowicz, has perished due to a workplace accident involving hostile wildlife in the Devil's Peak caverns.\r\n"
+"\r\n"
+"It should be further noted that Mr. Walcowicz's complaints regarding the dangers of the Terra One wildlife have been redacted."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_outpost_logs_1:11
+msgctxt "conversations/04_monarch/0401/0401_cp_outpost_logs_1:11:DefaultText"
+msgid "#UDL-211 Status Report #2\r\n"
+"Recording engineer: Walcowicz\r\n"
+"\r\n"
+"We've got signal from Amber Heights, Stellar Bay and Cascadia. Still waiting on word from Bayside Terrace and Aurora Ridge.\r\n"
+"\r\n"
+"I oughta note that I was right about those caverns. They ain't safe. Some kind of... hell, I don't know. A big thing with claws. I ain't an animal scientist.\r\n"
+"\r\n"
+"Can't wait to get the hell off this rock."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_outpost_logs_1:13
+msgctxt "conversations/04_monarch/0401/0401_cp_outpost_logs_1:13:DefaultText"
+msgid "UDL Communications Substation #204\r\n"
+"============================\r\n"
+"The following messages are available for retrieval:"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_outpost_logs_1:15
+msgctxt "conversations/04_monarch/0401/0401_cp_outpost_logs_1:15:DefaultText"
+msgid "[Work Order #UDL-211 Status Report #1]"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_outpost_logs_1:16
+msgctxt "conversations/04_monarch/0401/0401_cp_outpost_logs_1:16:DefaultText"
+msgid "#UDL-211 Status Report #1\r\n"
+"Recording engineer: Walcowicz\r\n"
+"\r\n"
+"Tunnels are in. Cables are laid.\r\n"
+"\r\n"
+"Devil's Peak is receiving, but we're waiting on signal confirmation from the outposts.\r\n"
+"\r\n"
+"This whole place stinks of sulfur. We should've brought masks.\r\n"
+"\r\n"
+"I'm sure I heard something in the caverns beneath the tower. Something's living there. Here's hoping we don't unsettle it, or else that place ain't gonna be safe for our cable guys."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_outpost_logs_1:22
+msgctxt "conversations/04_monarch/0401/0401_cp_outpost_logs_1:22:DefaultText"
+msgid "[Exit]"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_outpost_logs_1:23
+msgctxt "conversations/04_monarch/0401/0401_cp_outpost_logs_1:23:DefaultText"
+msgid "[Manual Log Entry]"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_outpost_logs_1:24
+msgctxt "conversations/04_monarch/0401/0401_cp_outpost_logs_1:24:DefaultText"
+msgid "Gonna die for this damn fool errand, I know it.\r\n"
+"\r\n"
+"He said Amber Heights was gonna have more bits than we can spend, but those suited morons up and spent it all for us. Books and vases and pretty shit.\r\n"
+"\r\n"
+"You can't eat a fuckin' book.\r\n"
+"\r\n"
+"Look at us now. Of all the closets to coop up in and lick our wounds, we had to choose the one that's set to lock itself up.\r\n"
+"\r\n"
+"Feel like a marauder, digging at the walls like this, but we gotta get out before we starve. It ain't possible, but Nelson over there's trying to keep our spirits up and I don't got the energy to fight him on it.\r\n"
+"\r\n"
+"Screw that Bryant fella. Eyes bigger than his fuckin' stomach."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_outpost_logs_1:25
+msgctxt "conversations/04_monarch/0401/0401_cp_outpost_logs_1:25:DefaultText"
+msgid "[Back]"
+msgstr ""

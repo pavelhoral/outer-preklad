@@ -1,0 +1,131 @@
+#: conversations/04_monarch/0404/0404_cp_cascadia_refueling_terminal:4
+msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_refueling_terminal:4:DefaultText"
+msgid "Cascadia Refueling Terminal\r\n"
+"=======================\n"
+"\n"
+"REFUELING SYSTEM ENABLED\n"
+"\n"
+"Connection established with northern landing pad. Running diagnostic...\n"
+"\n"
+"Landing Pad... OCCUPIED: TRAMP FREIGHTER \"UNRELIABLE\"\n"
+"Fuel Pumps... ALIGNED"
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cp_cascadia_refueling_terminal:5
+msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_refueling_terminal:5:DefaultText"
+msgid "Cascadia Refueling Terminal\r\n"
+"=======================\n"
+"\n"
+"REFUELING SYSTEM ENABLED\n"
+"\n"
+"Connection established with northern landing pad. Running diagnostic....\n"
+"\n"
+"Landing Pad... OCCUPIED: TRAMP FREIGHTER \"UNRELIABLE\"\n"
+"Fuel Pumps... DISCONNECTED"
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cp_cascadia_refueling_terminal:6
+msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_refueling_terminal:6:DefaultText"
+msgid "Cascadia Refueling Terminal\r\n"
+"=======================\r\n"
+"\r\n"
+"REFUELING SYSTEM LOCKED\r\n"
+"\r\n"
+"Connection established with northern landing pad. Running diagnostic...\r\n"
+"\r\n"
+"Landing Pad... EMPTY\r\n"
+"Fuel Pumps... DISCONNECTED"
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cp_cascadia_refueling_terminal:7
+msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_refueling_terminal:7:DefaultText"
+msgid "Cascadia Refueling Terminal\r\n"
+"=======================\r\n"
+"\r\n"
+"Aligning fuel pumps, please stand by...\r\n"
+"...\r\n"
+"Fuel pumps aligned. Connect storage tanks and initiate siphon to transfer fuel."
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cp_cascadia_refueling_terminal:8
+msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_refueling_terminal:8:DefaultText"
+msgid "[Initiate transfer of Alta-Vitae gas]"
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cp_cascadia_refueling_terminal:9
+msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_refueling_terminal:9:DefaultText"
+msgid "[Align Fueling System]"
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cp_cascadia_refueling_terminal:10
+msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_refueling_terminal:10:DefaultText"
+msgid "[Exit]"
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cp_cascadia_refueling_terminal:11
+msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_refueling_terminal:11:DefaultText"
+msgid "Cascadia Refueling Terminal\r\n"
+"=======================\r\n"
+"\r\n"
+"ERROR. This terminal does not have Administrator permissions required to transfer Alta-Vitae gas. Access is restricted to the Executive Research Focus Group terminal located in R&D labs. "
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cp_cascadia_refueling_terminal:12
+msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_refueling_terminal:12:DefaultText"
+msgid "Cascadia Refueling Terminal\r\n"
+"=======================\r\n"
+"Log Archives\r\n"
+"--------------------\r\n"
+"\r\n"
+"Logs archived by user: Chartrand, E.\r\n"
+"\r\n"
+"Select the archive you wish to view:"
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cp_cascadia_refueling_terminal:13
+msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_refueling_terminal:13:DefaultText"
+msgid "[Archived Log - Animal trials]"
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cp_cascadia_refueling_terminal:14
+msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_refueling_terminal:14:DefaultText"
+msgid "Cascadia Refueling Terminal\r\n"
+"=======================\r\n"
+"Log Archives\r\n"
+"--------------------\r\n"
+"\r\n"
+"Tom was skeptical that animal trials would yield good data, but I wanted to start small. I wish someone had thought to pack a breeding stock of fruit flies from Earth. Writing them off as mere pest species has limited our research efforts more than once.\r\n"
+"\r\n"
+"With approval from C&P, I've made arrangements to peruse the boarst factory near Fallbrook. Cystypigs mature reasonably swiftly. I feel this is the best option available to us.\r\n"
+"\r\n"
+"I've done great things with cystypig engineering in the past. Of course, my current project is far more difficult than merely enhancing the baconated flavoring of cystypig tumors. Let's see if I can make lightning strike twice, this time on alternate tissues. "
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cp_cascadia_refueling_terminal:15
+msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_refueling_terminal:15:DefaultText"
+msgid "[Archived Log - Moving to Cascadia]"
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cp_cascadia_refueling_terminal:16
+msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_refueling_terminal:16:DefaultText"
+msgid "Cascadia Refueling Terminal\r\n"
+"=======================\n"
+"Log Archives\n"
+"--------------------\n"
+"\n"
+"The Board has repeatedly denied my requests for data from the other teams investigating the Issue. I'm guessing their efforts have progressed no further than ours.\n"
+"\n"
+"There is some good news. We'll be heading to a town called Cascadia. Apparently Rizzo volunteered to provide lab space. We could use a change of scene. I'll ask the movers to handle this terminal with care.\n"
+"\n"
+"I'm starting to have doubts that animal testing will yield us the results we seek, but succumbing to pessimism helps no one. "
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cp_cascadia_refueling_terminal:17
+msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_refueling_terminal:17:DefaultText"
+msgid "[Logs]"
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cp_cascadia_refueling_terminal:18
+msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_refueling_terminal:18:DefaultText"
+msgid "[Return to Root]"
+msgstr ""

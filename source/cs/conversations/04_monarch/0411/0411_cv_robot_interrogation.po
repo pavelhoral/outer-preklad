@@ -1,0 +1,329 @@
+#: conversations/04_monarch/0411/0411_cv_robot_interrogation:1
+msgctxt "conversations/04_monarch/0411/0411_cv_robot_interrogation:1:DefaultText"
+msgid "Error: Employee information not found. Identify yourself."
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cv_robot_interrogation:2
+msgctxt "conversations/04_monarch/0411/0411_cv_robot_interrogation:2:DefaultText"
+msgid "I'm an emergency transfer. My paperwork is still processing."
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cv_robot_interrogation:3
+msgctxt "conversations/04_monarch/0411/0411_cv_robot_interrogation:3:DefaultText"
+msgid "Error: Transfer request not found. State your employer."
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cv_robot_interrogation:4
+msgctxt "conversations/04_monarch/0411/0411_cv_robot_interrogation:4:DefaultText"
+msgid "Spacer's Choice."
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cv_robot_interrogation:5
+msgctxt "conversations/04_monarch/0411/0411_cv_robot_interrogation:5:DefaultText"
+msgid "Registered. A fine of ten thousand bits will be assessed in your corporation's ledger for failure to follow transfer procedures. Thank you for your cooperation."
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cv_robot_interrogation:7
+msgctxt "conversations/04_monarch/0411/0411_cv_robot_interrogation:7:DefaultText"
+msgid "Auntie Cleo."
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cv_robot_interrogation:8
+msgctxt "conversations/04_monarch/0411/0411_cv_robot_interrogation:8:DefaultText"
+msgid "Rizzo."
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cv_robot_interrogation:9
+msgctxt "conversations/04_monarch/0411/0411_cv_robot_interrogation:9:DefaultText"
+msgid "UDL."
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cv_robot_interrogation:10
+msgctxt "conversations/04_monarch/0411/0411_cv_robot_interrogation:10:DefaultText"
+msgid "C&P."
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cv_robot_interrogation:11
+msgctxt "conversations/04_monarch/0411/0411_cv_robot_interrogation:11:DefaultText"
+msgid "If you're experiencing errors, I should take you to a mechanical engineer."
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cv_robot_interrogation:12
+msgctxt "conversations/04_monarch/0411/0411_cv_robot_interrogation:12:DefaultText"
+msgid "Error: This unit is not experiencing errors."
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cv_robot_interrogation:13
+msgctxt "conversations/04_monarch/0411/0411_cv_robot_interrogation:13:DefaultText"
+msgid "You just said \"error\" twice."
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cv_robot_interrogation:14
+msgctxt "conversations/04_monarch/0411/0411_cv_robot_interrogation:14:DefaultText"
+msgid "Error: This unit is functioning correctly. There is no need for the intervention of mechanical engineers. Thank you for your cooperation."
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cv_robot_interrogation:15
+msgctxt "conversations/04_monarch/0411/0411_cv_robot_interrogation:15:DefaultText"
+msgid "Yes, you are. You couldn't look me up."
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cv_robot_interrogation:16
+msgctxt "conversations/04_monarch/0411/0411_cv_robot_interrogation:16:DefaultText"
+msgid "This statement is false."
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cv_robot_interrogation:17
+msgctxt "conversations/04_monarch/0411/0411_cv_robot_interrogation:17:DefaultText"
+msgid "Error: Paradox protection protocols have prevented me from registering your stated identification. Please report to your nearest mechanical engineer."
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cv_robot_interrogation:18
+msgctxt "conversations/04_monarch/0411/0411_cv_robot_interrogation:18:DefaultText"
+msgid "Everything I say is false."
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cv_robot_interrogation:19
+msgctxt "conversations/04_monarch/0411/0411_cv_robot_interrogation:19:DefaultText"
+msgid "Error: Paradox prevention has temporarily disabled this unit's auditory processing. Thank you for your cooperation."
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cv_robot_interrogation:20
+msgctxt "conversations/04_monarch/0411/0411_cv_robot_interrogation:20:DefaultText"
+msgid "Will do. Thanks."
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cv_robot_interrogation:21
+msgctxt "conversations/04_monarch/0411/0411_cv_robot_interrogation:21:DefaultText"
+msgid "Uh oh."
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cv_robot_interrogation:22
+msgctxt "conversations/04_monarch/0411/0411_cv_robot_interrogation:22:DefaultText"
+msgid "Alert: Intruder on the premises. Instituting correctional behavior protocols."
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cv_robot_interrogation:24
+msgctxt "conversations/04_monarch/0411/0411_cv_robot_interrogation:24:DefaultText"
+msgid "Records indicate you have already been identified as non-standard personnel. State your purpose."
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cv_robot_interrogation:25
+msgctxt "conversations/04_monarch/0411/0411_cv_robot_interrogation:25:DefaultText"
+msgid "I've been looking for automechanicals to repair."
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cv_robot_interrogation:26
+msgctxt "conversations/04_monarch/0411/0411_cv_robot_interrogation:26:DefaultText"
+msgid "This unit is in perfectly functional condition. There is no need for a service request here."
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cv_robot_interrogation:27
+msgctxt "conversations/04_monarch/0411/0411_cv_robot_interrogation:27:DefaultText"
+msgid "Glad to hear it. Carry on, then!"
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cv_robot_interrogation:28
+msgctxt "conversations/04_monarch/0411/0411_cv_robot_interrogation:28:DefaultText"
+msgid "Affirmative. Thank you for your cooperation."
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cv_robot_interrogation:29
+msgctxt "conversations/04_monarch/0411/0411_cv_robot_interrogation:29:DefaultText"
+msgid "Oh, I won't take long. You'll only be out of service for a week or so."
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cv_robot_interrogation:30
+msgctxt "conversations/04_monarch/0411/0411_cv_robot_interrogation:30:DefaultText"
+msgid "Alert: This unit must patrol elsewhere. Have a pleasant day."
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cv_robot_interrogation:31
+msgctxt "conversations/04_monarch/0411/0411_cv_robot_interrogation:31:DefaultText"
+msgid "My purpose is to destroy automechanicals."
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cv_robot_interrogation:32
+msgctxt "conversations/04_monarch/0411/0411_cv_robot_interrogation:32:DefaultText"
+msgid "Error: \"Automechanical destruction\" is not a valid employment option. Please try again."
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cv_robot_interrogation:33
+msgctxt "conversations/04_monarch/0411/0411_cv_robot_interrogation:33:DefaultText"
+msgid "I don't think you understood. I'm going to destroy you if you keep me here."
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cv_robot_interrogation:34
+msgctxt "conversations/04_monarch/0411/0411_cv_robot_interrogation:34:DefaultText"
+msgid "Please wait while I process your inquiry."
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cv_robot_interrogation:35
+msgctxt "conversations/04_monarch/0411/0411_cv_robot_interrogation:35:DefaultText"
+msgid "...have a pleasant day!"
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cv_robot_interrogation:36
+msgctxt "conversations/04_monarch/0411/0411_cv_robot_interrogation:36:DefaultText"
+msgid "You heard me. It's a new job. Want to be my first task?"
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cv_robot_interrogation:37
+msgctxt "conversations/04_monarch/0411/0411_cv_robot_interrogation:37:DefaultText"
+msgid "01110111 01101000 01101001 01101100 01100101 00101000 01110100 01110010 01110101 01100101 00101001"
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cv_robot_interrogation:38
+msgctxt "conversations/04_monarch/0411/0411_cv_robot_interrogation:38:DefaultText"
+msgid "Error: Binary detected. Binary has been deprecated since the invention of Auntie Cleo's patented Tripinary language."
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cv_robot_interrogation:39
+msgctxt "conversations/04_monarch/0411/0411_cv_robot_interrogation:39:DefaultText"
+msgid "Tripinary: More bits for your bits!"
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cv_robot_interrogation:40
+msgctxt "conversations/04_monarch/0411/0411_cv_robot_interrogation:40:DefaultText"
+msgid "Right, well, thanks for the update. I'll let my boss know."
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cv_robot_interrogation:41
+msgctxt "conversations/04_monarch/0411/0411_cv_robot_interrogation:41:DefaultText"
+msgid "We appreciate your cooperation. Have a pleasant day."
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cv_robot_interrogation:42
+msgctxt "conversations/04_monarch/0411/0411_cv_robot_interrogation:42:DefaultText"
+msgid "Call me old-fashioned, I suppose."
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cv_robot_interrogation:43
+msgctxt "conversations/04_monarch/0411/0411_cv_robot_interrogation:43:DefaultText"
+msgid "Error: This unit is incapable of processing the given command. Have a pleasant day."
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cv_robot_interrogation:44
+msgctxt "conversations/04_monarch/0411/0411_cv_robot_interrogation:44:DefaultText"
+msgid "Um, I, uh..."
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cv_robot_interrogation:45
+msgctxt "conversations/04_monarch/0411/0411_cv_robot_interrogation:45:DefaultText"
+msgid "Alert: According to area records, this is your third offense. Please prepare for termination."
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cv_robot_interrogation:46
+msgctxt "conversations/04_monarch/0411/0411_cv_robot_interrogation:46:DefaultText"
+msgid "There must be some mistake. This is my first offense."
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cv_robot_interrogation:47
+msgctxt "conversations/04_monarch/0411/0411_cv_robot_interrogation:47:DefaultText"
+msgid "Error: This unit is 98.12% certain that you are lying, which is a felony."
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cv_robot_interrogation:48
+msgctxt "conversations/04_monarch/0411/0411_cv_robot_interrogation:48:DefaultText"
+msgid "And what's your certainty of charging me before I dismantle you?"
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cv_robot_interrogation:49
+msgctxt "conversations/04_monarch/0411/0411_cv_robot_interrogation:49:DefaultText"
+msgid "That doesn't sound like 100% to me. What if I'm innocent?"
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cv_robot_interrogation:50
+msgctxt "conversations/04_monarch/0411/0411_cv_robot_interrogation:50:DefaultText"
+msgid "Processing."
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cv_robot_interrogation:51
+msgctxt "conversations/04_monarch/0411/0411_cv_robot_interrogation:51:DefaultText"
+msgid "Error: This unit has exceeded its maximum allowable error tolerance. Have a pleasant day."
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cv_robot_interrogation:52
+msgctxt "conversations/04_monarch/0411/0411_cv_robot_interrogation:52:DefaultText"
+msgid "This is a waste of time. I'm just going to dismantle you."
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cv_robot_interrogation:53
+msgctxt "conversations/04_monarch/0411/0411_cv_robot_interrogation:53:DefaultText"
+msgid "You're going to need some backup if you want to terminate me."
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cv_robot_interrogation:54
+msgctxt "conversations/04_monarch/0411/0411_cv_robot_interrogation:54:DefaultText"
+msgid "Error: Subject's danger assessment may be inaccurate. This unit will need to reprocess."
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cv_robot_interrogation:55
+msgctxt "conversations/04_monarch/0411/0411_cv_robot_interrogation:55:DefaultText"
+msgid "I don't mind if you want to take a few minutes to reassess."
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cv_robot_interrogation:56
+msgctxt "conversations/04_monarch/0411/0411_cv_robot_interrogation:56:DefaultText"
+msgid "Affirmative. This unit will re-run its danger assessment calculations. Please stand by."
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cv_robot_interrogation:57
+msgctxt "conversations/04_monarch/0411/0411_cv_robot_interrogation:57:DefaultText"
+msgid "You'd need at least thirty automechanicals if you want a chance."
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cv_robot_interrogation:58
+msgctxt "conversations/04_monarch/0411/0411_cv_robot_interrogation:58:DefaultText"
+msgid "Error: This unit requires additional resources. Please stand by while the proper forces are gathered for your termination."
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cv_robot_interrogation:59
+msgctxt "conversations/04_monarch/0411/0411_cv_robot_interrogation:59:DefaultText"
+msgid "So you'll be an easy fight? Let's do it."
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cv_robot_interrogation:60
+msgctxt "conversations/04_monarch/0411/0411_cv_robot_interrogation:60:DefaultText"
+msgid "After only three offenses? That's a bit harsh!"
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cv_robot_interrogation:61
+msgctxt "conversations/04_monarch/0411/0411_cv_robot_interrogation:61:DefaultText"
+msgid "Error: The penalties for crimes are immutable."
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cv_robot_interrogation:62
+msgctxt "conversations/04_monarch/0411/0411_cv_robot_interrogation:62:DefaultText"
+msgid "I'll change them myself. With my weapon."
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cv_robot_interrogation:63
+msgctxt "conversations/04_monarch/0411/0411_cv_robot_interrogation:63:DefaultText"
+msgid "Alert: This unit has detected a threat. Please return when proper backup has arrived."
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cv_robot_interrogation:64
+msgctxt "conversations/04_monarch/0411/0411_cv_robot_interrogation:64:DefaultText"
+msgid "No, they aren't. It sounds like your logic is broken."
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cv_robot_interrogation:65
+msgctxt "conversations/04_monarch/0411/0411_cv_robot_interrogation:65:DefaultText"
+msgid "Error: This unit is incapable of self-diagnosis. Please return with a mechanical engineer to evaluate the validity of this unit's security protocols."
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cv_robot_interrogation:66
+msgctxt "conversations/04_monarch/0411/0411_cv_robot_interrogation:66:DefaultText"
+msgid "I guess we're fighting, then."
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cv_robot_interrogation:67
+msgctxt "conversations/04_monarch/0411/0411_cv_robot_interrogation:67:DefaultText"
+msgid "Alert: You're a worthless piece of tin. Prepare for recycling."
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cv_robot_interrogation:68
+msgctxt "conversations/04_monarch/0411/0411_cv_robot_interrogation:68:DefaultText"
+msgid "Alert: Subject has exceeded its maximum allowed crime tolerance. Termination will commence momentarily."
+msgstr ""

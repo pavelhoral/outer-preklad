@@ -1,0 +1,794 @@
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:1
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:1:DefaultText"
+msgid "Welcome! Welcome to the Byzantium Office of - I mean Bureau. Bureau of Exploration. I'm - never mind who I am. Hi there!"
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:2
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:2:DefaultText"
+msgid "Well, hey there! What can I do for you?"
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:3
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:3:DefaultText"
+msgid "Excuse me."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:4
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:4:DefaultText"
+msgid "I'm looking for a cartographer by the name of Rachel Lockwood."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:5
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:5:DefaultText"
+msgid "Ah, yes! Lockwood. Right. Unfortunately, she isn't in the office right now."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:6
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:6:DefaultText"
+msgid "I'm just here to pick something up from her office."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:7
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:7:DefaultText"
+msgid "Do you have any idea where she might be?"
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:8
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:8:DefaultText"
+msgid "If I knew, I wouldn't be here, would I? ... uh. I mean... sometimes she's at the bar wetting her beak."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:9
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:9:DefaultText"
+msgid "Uh, you can't do that. Sorry. It's, uh, locked! Yes. It is locked and you cannot enter."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:10
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:10:DefaultText"
+msgid "You got a key to her office?"
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:11
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:11:DefaultText"
+msgid "Of course I've got a key. I'm the receptionist! It's my job to have a key! I'm not giving it to the likes of you, though. I am honor-bound to protect this office."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:12
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:12:DefaultText"
+msgid "How long has she been gone?"
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:13
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:13:DefaultText"
+msgid "I don't know. Five hours. Five days. I'm a receptionist, not a clock."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:17
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:17:DefaultText"
+msgid "Hey, about that cartographer."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:18
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:18:DefaultText"
+msgid "Yeah?"
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:20
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:20:DefaultText"
+msgid "I looked in the closet. You've got some explaining to do."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:21
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:21:DefaultText"
+msgid "Aw, shit. That's, um. That's a mannequin. Ms. Lockwood and I work on the set of a show, you see, and-"
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:22
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:22:DefaultText"
+msgid "Damn. Fine. You got me. I ain't a receptionist. Truth be told, I'm glad you know. Lying to a stranger weighs heavily on my spirit."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:24
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:24:DefaultText"
+msgid "An assassin? What are you doing here?"
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:25
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:25:DefaultText"
+msgid "You sure fooled me."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:26
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:26:DefaultText"
+msgid "I was hired to cross off Ms. Lockwood. Thought I'd pose as her receptionist. Brilliant, right? Thing is, she ain't shown up in ages, so here we are."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:27
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:27:DefaultText"
+msgid "Hey, thanks! You know, hiding in plain sight like this is tougher than it looks."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:28
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:28:DefaultText"
+msgid "You don't think she'd recognize that you aren't her normal receptionist?"
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:29
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:29:DefaultText"
+msgid "I'll just tell her I'm the replacement. If she calls me on it, I'll kill her. If she buys it, I'll kill her. Win-win."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:30
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:30:DefaultText"
+msgid "Well, this is great. I was hired to kill her, too."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:31
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:31:DefaultText"
+msgid "Hah! Hope you don't mind a bit of competition. May the best receptionist win!"
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:32
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:32:DefaultText"
+msgid "I hope you're not planning on attacking me. It won't go well for you."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:33
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:33:DefaultText"
+msgid "Perish the thought! I don't just waltz about murdering who I please. I am a professional. I have got standards."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:35
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:35:DefaultText"
+msgid "What's on your mind, friend?"
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:38
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:38:DefaultText"
+msgid "How'd you get hired for this job, anyway?"
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:39
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:39:DefaultText"
+msgid "Oh, you know how it goes. Board put out a contract. I put in a request. Made a few appointments with the appropriate departments. Signed some papers."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:40
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:40:DefaultText"
+msgid "Lockwood's hiding in the tunnels."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:41
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:41:DefaultText"
+msgid "The tunnels! That sprat! You're brilliant. Meet me down there and we'll sort this all out."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:42
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:42:DefaultText"
+msgid "But you will kill an innocent receptionist to take his place."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:43
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:43:DefaultText"
+msgid "Hey. I tried to convince him to take a vacation. He wasn't hearing it. Some peoples' work ethic is just too strong for their own good."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:74
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:74:DefaultText"
+msgid "I really need that key. I'll be quick, I promise."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:75
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:75:DefaultText"
+msgid "Uh well, fine. Hurry up, before she comes back and catches me - I mean, you. Catches you."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:76
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:76:DefaultText"
+msgid "Hey, mind if I get into her office? Maybe there's a clue in there."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:77
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:77:DefaultText"
+msgid "Knock yourself out. Let me know if you find anything."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:79
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:79:DefaultText"
+msgid "Whew! That was fun. Thanks for the help, friend. I'll get this body outta here."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:84
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:84:DefaultText"
+msgid "Hey, hey! You found her! I'm a little miffed you didn't let me know, but all's well that ends well. Let's get to killing!"
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:85
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:85:DefaultText"
+msgid "What? Killing? What the fuck is going on here?"
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:86
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:86:DefaultText"
+msgid "My friend and I here have jobs to do. You just sit tight for a minute while we discuss how we're gonna handle this."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:87
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:87:DefaultText"
+msgid "She's my kill."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:88
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:88:DefaultText"
+msgid "Ah, yeah, look. Reception doesn't pay as well as it used to. Turns out I really need this. I know, I know. I'm a jerk. Hate me if you want. But I gotta take her head in."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:89
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:89:DefaultText"
+msgid "The contract calls for her maps, yeah? Half the bits for the maps, half for confirmation of the kill. How's about I take the kill and you take the maps?"
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:90
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:90:DefaultText"
+msgid "Hold on. Okay, just hear me out. What if ..."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:91
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:91:DefaultText"
+msgid "Will you pipe down? We're trying to have a business meeting here."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:92
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:92:DefaultText"
+msgid "The kill's mine."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:93
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:93:DefaultText"
+msgid "We coulda had a beautiful thing here, you know. Oh, well. Here I go killing again."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:94
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:94:DefaultText"
+msgid "How about you take the maps and I take the kill?"
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:95
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:95:DefaultText"
+msgid "Afraid not, friend. I've carefully cultivated this reputation of mine. I always get what I'm after, and today it's her head."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:96
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:96:DefaultText"
+msgid "We haven't found her maps yet. We shouldn't kill her until we do."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:97
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:97:DefaultText"
+msgid "I don't really care about the maps. I know, I know. What a surprise. Half the contract and all that. But I figure, if I kill her first, it'll make it easier to look for 'em."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:98
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:98:DefaultText"
+msgid "My ... head? Oh, no. Please. Please don't do this."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:99
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:99:DefaultText"
+msgid "All right. She's yours."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:100
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:100:DefaultText"
+msgid "Hot damn! This is gonna be fun."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:101
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:101:DefaultText"
+msgid "I'd like to hear what she has to say."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:102
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:102:DefaultText"
+msgid "You must be new to the assassination game. If you talk to your victims, it makes it harder to kill 'em, see? It's not recommended. Didn't you read the handbook?"
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:103
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:103:DefaultText"
+msgid "Please, just listen. You don't need to ..."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:104
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:104:DefaultText"
+msgid "Shush!"
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:105
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:105:DefaultText"
+msgid "Look, we came all this way. Might as well hear her out."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:106
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:106:DefaultText"
+msgid "Oh, all right. The anticipation is killing me, though. Heh, get it? Because I want to kill her."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:107
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:107:DefaultText"
+msgid "Wait wait wait. Whatever the contract is, I'll pay you both the full amount. You let me live and you don't have to split anything."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:108
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:108:DefaultText"
+msgid "That's a lot of bits! But, ah ... I mean, I've got a reputation to uphold. How would you feel if someone paid you to make bogus maps?"
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:109
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:109:DefaultText"
+msgid "I'd just as soon not have to deal with the mess. I say we take the offer."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:110
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:110:DefaultText"
+msgid "Right! Well, Ms. Lockwood? Any last words?"
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:111
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:111:DefaultText"
+msgid "Thank the Law. Here's your half."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:112
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:112:DefaultText"
+msgid "Right! Well, you two, it has been an absolute pleasure."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:113
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:113:DefaultText"
+msgid "Pleasure. Yeah. I honestly hope I never see either of you again."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:114
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:114:DefaultText"
+msgid "He's got a point. No deal."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:115
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:115:DefaultText"
+msgid "Listen, I don't want to beat around the bush. If you're dead set on taking that deal, I'm dead set on taking your life."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:116
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:116:DefaultText"
+msgid "Okay, okay. Fine. Let's kill her."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:117
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:117:DefaultText"
+msgid "Whew! You had me worried for a little bit there."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:118
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:118:DefaultText"
+msgid "<Attack> Let's get on with it, then."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:119
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:119:DefaultText"
+msgid "What a damn shame. I was starting to like you."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:120
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:120:DefaultText"
+msgid "Honestly, with the mess you've made getting here, I'd take the money and run."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:121
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:121:DefaultText"
+msgid "You know, my friend, that's a fine point. If I high tail it outta here, I could avoid the inside of a cell for once. All right. Deal."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:122
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:122:DefaultText"
+msgid "Got something in mind?"
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:124
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:124:DefaultText"
+msgid "You spratbag! That was my kill!"
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:128
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:128:DefaultText"
+msgid "Well. Can't say I've ever left someone alive before. Hope I can sleep tonight."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:129
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:129:DefaultText"
+msgid "Go fuck yourselves."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:130
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:130:DefaultText"
+msgid "I admire her spirit. So, how are we doing this? I'd still like credit for the kill."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:131
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:131:DefaultText"
+msgid "She's getting real spooked here, friend. Let's come to terms already."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:132
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:132:DefaultText"
+msgid "I'm an assassin."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:133
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:133:DefaultText"
+msgid "Yeah. The dead body was kind of a tip-off."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:134
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:134:DefaultText"
+msgid "Not bad, huh? Blew his head clean off. One of my better kills, if I do say so myself."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:136
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:136:DefaultText"
+msgid "So what now?"
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:139
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:139:DefaultText"
+msgid "I'm gonna wait for her to return. Tell you what - you find out where she is, you let me know, yeah? As a professional courtesy."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:140
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:140:DefaultText"
+msgid "Then we can both have at it, and whoever kills her better gets the contract. What do you say?"
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:143
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:143:DefaultText"
+msgid "And here's yours."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:144
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:144:DefaultText"
+msgid "Plus, then I can turn in her head and relax for a bit. You know. Take a break, kick my feet back. Look for the maps later."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:145
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:145:DefaultText"
+msgid "Looked like an easy job. She's a map-maker, right? What's she gonna do - consult her maps and find a good place to hide?"
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:146
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:146:DefaultText"
+msgid "Billingsly's. That's the place. You checked there yet? You should."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:147
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:147:DefaultText"
+msgid "Hey, take it easy. I'm uh - new to the job. Yeah. Learning as I go."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:148
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:148:DefaultText"
+msgid "You're not much of a receptionist either."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:152
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:152:DefaultText"
+msgid "I'd appreciate it if you could keep this whole assassin thing just between us."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:153
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:153:DefaultText"
+msgid "Any sign of Ms. Lockwood? I'd look for her myself, but I was always better at killing than tracking."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:154
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:154:DefaultText"
+msgid "Nice outfit. Is that a Jolicoeur?"
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:157
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:157:DefaultText"
+msgid "All right. Enough with the pleasantries."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:158
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:158:DefaultText"
+msgid "Easy there, friend. You look like you're in a real hurry to get somewhere."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:159
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:159:DefaultText"
+msgid "Yeah, I found her papers."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:160
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:160:DefaultText"
+msgid "And if I refuse?"
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:161
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:161:DefaultText"
+msgid "Then I get angry and take out my frustration on your corpse. Which, I admit, I really wanna do."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:162
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:162:DefaultText"
+msgid "<Attack> You're welcome to try."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:163
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:163:DefaultText"
+msgid "I was hoping you'd say that. Look, this ain't personal or nothing. I'm gonna have a cleanup crew come down here and dispose of your body real efficient-like."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:167
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:167:DefaultText"
+msgid "You must be that other freelancer Akande mentioned."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:168
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:168:DefaultText"
+msgid "You talked to Adjutant Akande? I mean - she mentioned me? What'd she say? Good things, yeah?"
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:169
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:169:DefaultText"
+msgid "Only that the Board hired you, and you hadn't delivered results yet."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:170
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:170:DefaultText"
+msgid "How could she not?"
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:171
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:171:DefaultText"
+msgid "No. You're an embarrassment."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:172
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:172:DefaultText"
+msgid "That's the problem with these bureaucratic types. They got no notion of - what's it called - aesthetics. Art takes time."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:173
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:173:DefaultText"
+msgid "I tell myself the same thing every morning. Sherman, I say, you're gonna go out there today and absolutely murder it."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:174
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:174:DefaultText"
+msgid "You don't pull your punches, huh? It's fine. I can take it."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:175
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:175:DefaultText"
+msgid "I really need this contract, you know? Score a kill for the Adjutant herself - that looks good. Career-making good."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:176
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:176:DefaultText"
+msgid "Could it be because you've got Ms. Lockwood's papers? Please say yes. Otherwise I'm pretty much out of leads."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:177
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:177:DefaultText"
+msgid "Thanks for the tip-off, friend. Can we get to the killing? My palms are starting to itch."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:179
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:179:DefaultText"
+msgid "I don't have any documents."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:180
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:180:DefaultText"
+msgid "Aw for cryin' out loud! I spent days on this damn job, and now I gotta start over."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:181
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:181:DefaultText"
+msgid "I can't deal with this. I'm going over to Billingsly's for a drink or three. "
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:182
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:182:DefaultText"
+msgid "Take care."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:183
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:183:DefaultText"
+msgid "<Attack> You're a loose end."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:184
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:184:DefaultText"
+msgid "Adjutant Akande hired me. Do you really want to make an enemy of her?"
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:185
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:185:DefaultText"
+msgid "Why'd you have to go and say something like that? I was really looking forward to killing something."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:186
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:186:DefaultText"
+msgid "I changed my mind. I'm letting her live."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:187
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:187:DefaultText"
+msgid "Are you serious? After I made my grand entrance?"
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:188
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:188:DefaultText"
+msgid "I guess I'm gonna have to do all the killing by myself. As usual."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:189
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:189:DefaultText"
+msgid "This isn't worth it. I'm letting her go."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:190
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:190:DefaultText"
+msgid "After all that, you're just gonna up and lose your nerve? Are you kidding me?"
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:192
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:192:DefaultText"
+msgid "Wow, am I ever glad I followed you. I figured you were on to something when you were snooping around the office. So, shall we get to the killing?"
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:193
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:193:DefaultText"
+msgid "You're a little late. Lockwood's dead."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:194
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:194:DefaultText"
+msgid "Lockwood's long gone. You're too late."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:196
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:196:DefaultText"
+msgid "Lockwood's dead? But - she was supposed to be my kill. What am I supposed to do now? "
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:197
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:197:DefaultText"
+msgid "What do you mean she's gone? From Byzantium? I'm never gonna find her now. She could be anywhere."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:198
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:198:DefaultText"
+msgid "Damn it. I needed that job. I really, really needed that job."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:199
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:199:DefaultText"
+msgid "No promises."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:200
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:200:DefaultText"
+msgid "I'll see what I can do."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:201
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:201:DefaultText"
+msgid "Yeah! I'm excited about this."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:202
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:202:DefaultText"
+msgid "What are promises between a pair of hired killers anyway?"
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:203
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:203:DefaultText"
+msgid "Actually, hang on."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:204
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:204:DefaultText"
+msgid "I'm leaving."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:206
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:206:DefaultText"
+msgid "Who am I kidding? She gave me an easy job and I fouled it up. I'm never gonna work in this city again."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:207
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:207:DefaultText"
+msgid "Could you give a guy some privacy, friend? Kinda busy feeling sorry for myself here."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:210
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:210:DefaultText"
+msgid "Hope you're better at fighting than you are at lying."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:211
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:211:DefaultText"
+msgid "Wow. What a twist."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:212
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:212:DefaultText"
+msgid "A murderer, you mean."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:213
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:213:DefaultText"
+msgid "Well, we definitely wouldn't want your spirit weighed down by lying. Or killing people, but that seems like splitting hairs, really."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:214
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:214:DefaultText"
+msgid "I can tell you and your associates are still reeling from the shock of my revelation. But it's all true. I am an assassin by trade."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:216
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:216:DefaultText"
+msgid "Just make sure Akande doesn't hear about it, or she's putting a hit out on us next."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:217
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:217:DefaultText"
+msgid "Nothing about this job feels good, but this comes close."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:218
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:218:DefaultText"
+msgid "Oh, thank heavens."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:219
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:219:DefaultText"
+msgid "I do rest easier when we break neither the Law nor the law."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:220
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:220:DefaultText"
+msgid "A coward, more like. Hiding so's you don't have to look someone in the eye when you pull the trigger."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:221
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:221:DefaultText"
+msgid "Need a cleaner? Call SAM. Our units are the best in the biz."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:223
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:223:DefaultText"
+msgid "I knew you were setting a trap. Good work, Captain."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:224
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:224:DefaultText"
+msgid "Canceling queued action."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:225
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:225:DefaultText"
+msgid "Aw, for cryin' out loud! You already stole my kill. You gotta crush my last hope, too?"
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:227
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:227:DefaultText"
+msgid "You're the other contractor Sophia mentioned."
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:228
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_assassin:228:DefaultText"
+msgid "Damn. Fine. You got me. I ain't a receptionist. Truth be told, I'm glad you know. Lying to a stranger weighs heavily on my spirit."
+msgstr ""

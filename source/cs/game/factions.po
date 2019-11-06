@@ -1,0 +1,298 @@
+#: game/factions:0
+msgctxt "game/factions:0:DefaultText"
+msgid "Iconoclasts"
+msgstr ""
+
+#: game/factions:2
+msgctxt "game/factions:2:DefaultText"
+msgid "Deserters"
+msgstr ""
+
+#: game/factions:3
+msgctxt "game/factions:3:DefaultText"
+msgid "Edgewater"
+msgstr ""
+
+#: game/factions:4
+msgctxt "game/factions:4:DefaultText"
+msgid "Groundbreaker"
+msgstr ""
+
+#: game/factions:5
+msgctxt "game/factions:5:DefaultText"
+msgid "Monarch Stellar Industries"
+msgstr ""
+
+#: game/factions:6
+msgctxt "game/factions:6:DefaultText"
+msgid "Raptidon"
+msgstr ""
+
+#: game/factions:7
+msgctxt "game/factions:7:DefaultText"
+msgid "Auntie Cleo"
+msgstr ""
+
+#: game/factions:9
+msgctxt "game/factions:9:DefaultText"
+msgid "SubLight Salvage & Shipping"
+msgstr ""
+
+#: game/factions:10
+msgctxt "game/factions:10:DefaultText"
+msgid "The Board"
+msgstr ""
+
+#: game/factions:11
+msgctxt "game/factions:11:DefaultText"
+msgid "The Iconoclasts are a group of survivalists living in the ruins of Amber Heights on Monarch. Led by Graham Bryant, a staunch Philosophist, they hope to one day tear down the corporate establishment that they believe has brought the colony to the brink of death."
+msgstr ""
+
+#: game/factions:13
+msgctxt "game/factions:13:DefaultText"
+msgid "The Deserters are a community of disillusioned workers who left the town of Edgewater. They live together in a makeshift camp located in the Botanical Lab district of Emerald Vale."
+msgstr ""
+
+#: game/factions:14
+msgctxt "game/factions:14:DefaultText"
+msgid "Spacer's Choice is the favorite brand for a colonist on the budget. The town of Edgewater, and the region of Emerald Vale, are properties of the Spacer's Choice company."
+msgstr ""
+
+#: game/factions:15
+msgctxt "game/factions:15:DefaultText"
+msgid "A former colony ship turned space station, Groundbreaker is the only township in the system operating outside the Board's control. The Groundbreaker's crew are led by engineer–turned–captain Junlei Tennyson, and they are fiercely protective of their independence."
+msgstr ""
+
+#: game/factions:16
+msgctxt "game/factions:16:DefaultText"
+msgid "Once a loyal Board-owned corporation, Monarch Stellar Industries split off to become their own private entity under the leadership of Sanjar Nandi. Espousing worker-centric rights and democratic ideals, Sanjar seeks to bring his own brand of freedoms to the rest of Halcyon."
+msgstr ""
+
+#: game/factions:17
+msgctxt "game/factions:17:DefaultText"
+msgid "Raptidon faction description"
+msgstr ""
+
+#: game/factions:18
+msgctxt "game/factions:18:DefaultText"
+msgid "Auntie Cleo brings millenia of scientific research and advancement to your nearest pharmaceutical outlet or convenience store. With everything from their \"Auntie-Biotics\" line of medicinal solutions to their straight-from-the-laboratory Tripicale foodstuffs, you're sure to find something for everyone.\n"
+"\n"
+"Auntie Cleo: It's better than nature!"
+msgstr ""
+
+#: game/factions:20
+msgctxt "game/factions:20:DefaultText"
+msgid "SubLight is a network of \"salvagers\" with business ties to \"transportation\" and \"waste disposal.\" A tangled web of contractors and secretive vice presidents make up their official hierarchy, leaving no one to speak on the record about SubLight's more legally-dubious activities. "
+msgstr ""
+
+#: game/factions:21
+msgctxt "game/factions:21:DefaultText"
+msgid "The Halcyon Holdings Board of Directors is a group of CEOs from each of Halcyon's founding companies. Under the leadership of Chairman Rockwell, the CEO of Universal Defense Logistics, the Board institutes policy and law throughout the Halcyon colony."
+msgstr ""
+
+#: game/factions:26
+msgctxt "game/factions:26:DefaultText"
+msgid "Neutral"
+msgstr ""
+
+#: game/factions:27
+msgctxt "game/factions:27:DefaultText"
+msgid "Agreeable"
+msgstr ""
+
+#: game/factions:28
+msgctxt "game/factions:28:DefaultText"
+msgid "Friendly"
+msgstr ""
+
+#: game/factions:29
+msgctxt "game/factions:29:DefaultText"
+msgid "Revering"
+msgstr ""
+
+#: game/factions:30
+msgctxt "game/factions:30:DefaultText"
+msgid "Off-put"
+msgstr ""
+
+#: game/factions:31
+msgctxt "game/factions:31:DefaultText"
+msgid "Mixed"
+msgstr ""
+
+#: game/factions:32
+msgctxt "game/factions:32:DefaultText"
+msgid "Confused"
+msgstr ""
+
+#: game/factions:33
+msgctxt "game/factions:33:DefaultText"
+msgid "Understanding"
+msgstr ""
+
+#: game/factions:34
+msgctxt "game/factions:34:DefaultText"
+msgid "Angry"
+msgstr ""
+
+#: game/factions:35
+msgctxt "game/factions:35:DefaultText"
+msgid "Bitter"
+msgstr ""
+
+#: game/factions:36
+msgctxt "game/factions:36:DefaultText"
+msgid "Cautious"
+msgstr ""
+
+#: game/factions:37
+msgctxt "game/factions:37:DefaultText"
+msgid "Tolerant"
+msgstr ""
+
+#: game/factions:38
+msgctxt "game/factions:38:DefaultText"
+msgid "Repulsed"
+msgstr ""
+
+#: game/factions:39
+msgctxt "game/factions:39:DefaultText"
+msgid "Scared"
+msgstr ""
+
+#: game/factions:40
+msgctxt "game/factions:40:DefaultText"
+msgid "Agitated"
+msgstr ""
+
+#: game/factions:41
+msgctxt "game/factions:41:DefaultText"
+msgid "Nervous"
+msgstr ""
+
+#: game/factions:42
+msgctxt "game/factions:42:DefaultText"
+msgid "It's too early to tell whether this employee is competent or not."
+msgstr ""
+
+#: game/factions:43
+msgctxt "game/factions:43:DefaultText"
+msgid "We are seeing some areas that are good and some that need improvement."
+msgstr ""
+
+#: game/factions:44
+msgctxt "game/factions:44:DefaultText"
+msgid "This employee needs supervision."
+msgstr ""
+
+#: game/factions:45
+msgctxt "game/factions:45:DefaultText"
+msgid "This employee's behavior is erratic. Recommend they see a company counselor."
+msgstr ""
+
+#: game/factions:46
+msgctxt "game/factions:46:DefaultText"
+msgid "A good employee in the making."
+msgstr ""
+
+#: game/factions:47
+msgctxt "game/factions:47:DefaultText"
+msgid "Their last review was good but they are making lots of mistakes recently."
+msgstr ""
+
+#: game/factions:48
+msgctxt "game/factions:48:DefaultText"
+msgid "A good employee, but they make enough mistakes that retraining is recommended."
+msgstr ""
+
+#: game/factions:49
+msgctxt "game/factions:49:DefaultText"
+msgid "On track to being a great employee."
+msgstr ""
+
+#: game/factions:50
+msgctxt "game/factions:50:DefaultText"
+msgid "A great employee who makes a few mistakes."
+msgstr ""
+
+#: game/factions:51
+msgctxt "game/factions:51:DefaultText"
+msgid "Best employee ever! Deserves a big bonus and a promotion."
+msgstr ""
+
+#: game/factions:52
+msgctxt "game/factions:52:DefaultText"
+msgid "This employee needs improvement."
+msgstr ""
+
+#: game/factions:53
+msgctxt "game/factions:53:DefaultText"
+msgid "This employee is on an action plan. Please report any negative behaviors to your supervisor."
+msgstr ""
+
+#: game/factions:54
+msgctxt "game/factions:54:DefaultText"
+msgid "This employee is guilty of major infractions and should be supervised at all times."
+msgstr ""
+
+#: game/factions:55
+msgctxt "game/factions:55:DefaultText"
+msgid "This employee is on report. Avoid contact."
+msgstr ""
+
+#: game/factions:56
+msgctxt "game/factions:56:DefaultText"
+msgid "This employee is wanted by HR. Please report any sightings of this employee to management immediately."
+msgstr ""
+
+#: game/factions:57
+msgctxt "game/factions:57:DefaultText"
+msgid "This employee should be fired. Preferably out of a cannon."
+msgstr ""
+
+#: game/factions:63
+msgctxt "game/factions:63:DefaultText"
+msgid "Labyrinth Prisoners"
+msgstr ""
+
+#: game/factions:67
+msgctxt "game/factions:67:DefaultText"
+msgid "Spacer's Choice"
+msgstr ""
+
+#: game/factions:68
+msgctxt "game/factions:68:DefaultText"
+msgid "Spacer's Choice, a wholly-owned subsidiary of Universal Defense Logistics, mass produces their own branded versions of every product on the market. From ammunition to nutrition, you can cut your costs by buying from your nearest Spacer's Choice outlet.\n"
+"\n"
+"It's not the best choice--it's Spacer's Choice!"
+msgstr ""
+
+#: game/factions:71
+msgctxt "game/factions:71:DefaultText"
+msgid "Marauders"
+msgstr ""
+
+#: game/factions:73
+msgctxt "game/factions:73:DefaultText"
+msgid "The Hope"
+msgstr ""
+
+#: game/factions:77
+msgctxt "game/factions:77:DefaultText"
+msgid "C&P Boarst Factory"
+msgstr ""
+
+#: game/factions:78
+msgctxt "game/factions:78:DefaultText"
+msgid "This cystypig processing facility on Monarch was once owned and operated by C&P. Now it is run by Clive Lumbergh, the self-proclaimed \"Boarst King\", who keeps the factory producing canned boarst for sale in the region."
+msgstr ""
+
+#: game/factions:79
+msgctxt "game/factions:79:DefaultText"
+msgid "Stellar Bay Residents"
+msgstr ""
+
+#: game/factions:83
+msgctxt "game/factions:83:DefaultText"
+msgid "Byzantium Residents"
+msgstr ""

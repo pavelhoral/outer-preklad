@@ -1,0 +1,134 @@
+#: conversations/04_monarch/0404/0404_cp_cascadia_telex_terminal:1
+msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_telex_terminal:1:DefaultText"
+msgid "Rizzo Message Network Terminal\r\n"
+"==========================\r\n"
+"\r\n"
+"REMINDER: Personal messages on Rizzo time will result in a mandatory deduction from your monthly candy fund."
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cp_cascadia_telex_terminal:2
+msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_telex_terminal:2:DefaultText"
+msgid "[Signal ADA to Land on the Cascadia Pad]"
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cp_cascadia_telex_terminal:3
+msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_telex_terminal:3:DefaultText"
+msgid "[Messages]"
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cp_cascadia_telex_terminal:4
+msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_telex_terminal:4:DefaultText"
+msgid "[Exit]"
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cp_cascadia_telex_terminal:5
+msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_telex_terminal:5:DefaultText"
+msgid "Rizzo Message Network Terminal\r\n"
+"==========================\r\n"
+"\r\n"
+"Messages"
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cp_cascadia_telex_terminal:6
+msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_telex_terminal:6:DefaultText"
+msgid "[FROM: REDACTED, SUBJECT: Re: See you on the station]"
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cp_cascadia_telex_terminal:7
+msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_telex_terminal:7:DefaultText"
+msgid "[TO: L. Fahl, SUBJECT: Getting there]"
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cp_cascadia_telex_terminal:8
+msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_telex_terminal:8:DefaultText"
+msgid "[Return to Root]"
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cp_cascadia_telex_terminal:9
+msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_telex_terminal:9:DefaultText"
+msgid "Rizzo Message Network Terminal\r\n"
+"==========================\r\n"
+"\r\n"
+"FROM: REDACTED\r\n"
+"TO: Chartrand, E.\r\n"
+"SUBJECT: Re: See you at the station\r\n"
+"\r\n"
+"You will not see me, but I will be close. Continue your research, doctor. Report to me when you have achieved a mission end state.\r\n"
+"\r\n"
+"FROM: Chartrand, E.\r\n"
+"TO: REDACTED\r\n"
+"SUBJECT: See you at the station\r\n"
+"\r\n"
+"I understand we're bound for a secondary lab. Will you be supervising our research this time, or will it be the standard \"work from the shadows\" routine?\r\n"
+"\r\n"
+"~Eva"
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cp_cascadia_telex_terminal:10
+msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_telex_terminal:10:DefaultText"
+msgid "Rizzo Message Network Terminal\r\n"
+"==========================\r\n"
+"\r\n"
+"FROM: Chartrand, E.\r\n"
+"TO: Fahl, L.\r\n"
+"SUBJECT: Getting there\r\n"
+"\r\n"
+"Thank you for your optimism, Lore. What we're doing isn't easy under the best of circumstances, much less with the Board cutting corners. \r\n"
+"\r\n"
+"I can promise you that our research will lead to a better Halcyon. Even if we have to pay a terrible cost getting there.\r\n"
+"\r\n"
+"~Eva"
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cp_cascadia_telex_terminal:11
+msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_telex_terminal:11:DefaultText"
+msgid "Rizzo Message Network Terminal\r\n"
+"==========================\r\n"
+"\r\n"
+"Sending message... SUCCESS"
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cp_cascadia_telex_terminal:12
+msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_telex_terminal:12:DefaultText"
+msgid "[Signal ADA to interface with the Cascadia Landing Pad]"
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cp_cascadia_telex_terminal:13
+msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_telex_terminal:13:DefaultText"
+msgid "[Search - Fuel Controls]"
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cp_cascadia_telex_terminal:14
+msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_telex_terminal:14:DefaultText"
+msgid "Rizzo Message Network Terminal\r\n"
+"==========================\r\n"
+"\r\n"
+"The closest functioning terminal with Refueling authorization is located above the flavor R&D lab. "
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cp_cascadia_telex_terminal:16
+msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_telex_terminal:16:DefaultText"
+msgid "[FROM: REDACTED, SUBJECT: Effects of O2 Rationing on Native Fauna]"
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cp_cascadia_telex_terminal:17
+msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_telex_terminal:17:DefaultText"
+msgid "Rizzo Message Network Terminal\r\n"
+"==========================\r\n"
+"\r\n"
+"FROM: REDACTED\r\n"
+"TO: Chartrand, E.\r\n"
+"SUBJECT: Re: Release of Research Data\r\n"
+"\r\n"
+"You have your orders, Dr. Your project is too important - too sensitive - to allow any hint of it to reach the public.\r\n"
+"\r\n"
+"FROM: Chartrand, E.\r\n"
+"TO: REDACTED\r\n"
+"SUBJECT: Release of Research Data\r\n"
+"\r\n"
+"With all respect, I urge you to reconsider your decision to classify our research results on the native fauna of Terra 1. I assure you that we will diligently redact any references to our project or its purpose from any papers we release.\r\n"
+"\r\n"
+"We have made several discoveries about how the terraforming process affected the nuclein of the raptidon and manti families. At the very least allow us to inform our fellow Board researchers that these creatures will perish when O2 concentrations are reduced to 19.5%, a level within human tolerance.\r\n"
+"\r\n"
+"This is not about fame or prestige. This is about potentially saving lives. Please."
+msgstr ""

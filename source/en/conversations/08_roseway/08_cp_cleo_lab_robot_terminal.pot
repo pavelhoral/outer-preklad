@@ -1,0 +1,160 @@
+#: conversations/08_roseway/08_cp_cleo_lab_robot_terminal:2
+msgctxt "conversations/08_roseway/08_cp_cleo_lab_robot_terminal:2:DefaultText"
+msgid "[Maintenance Logs]"
+msgstr ""
+
+#: conversations/08_roseway/08_cp_cleo_lab_robot_terminal:3
+msgctxt "conversations/08_roseway/08_cp_cleo_lab_robot_terminal:3:DefaultText"
+msgid "[Exit]"
+msgstr ""
+
+#: conversations/08_roseway/08_cp_cleo_lab_robot_terminal:4
+msgctxt "conversations/08_roseway/08_cp_cleo_lab_robot_terminal:4:DefaultText"
+msgid "MECHANICAL MAINTENANCE LOGS\r\n"
+"------------------------------\r\n"
+"[1. Week 1]\r\n"
+"[2. Week 2]\r\n"
+"[3. Week 3]\r\n"
+"[4. Week 4]"
+msgstr ""
+
+#: conversations/08_roseway/08_cp_cleo_lab_robot_terminal:6
+msgctxt "conversations/08_roseway/08_cp_cleo_lab_robot_terminal:6:DefaultText"
+msgid "[Week 1]"
+msgstr ""
+
+#: conversations/08_roseway/08_cp_cleo_lab_robot_terminal:7
+msgctxt "conversations/08_roseway/08_cp_cleo_lab_robot_terminal:7:DefaultText"
+msgid "[Week 2]"
+msgstr ""
+
+#: conversations/08_roseway/08_cp_cleo_lab_robot_terminal:8
+msgctxt "conversations/08_roseway/08_cp_cleo_lab_robot_terminal:8:DefaultText"
+msgid "[Week 3]"
+msgstr ""
+
+#: conversations/08_roseway/08_cp_cleo_lab_robot_terminal:9
+msgctxt "conversations/08_roseway/08_cp_cleo_lab_robot_terminal:9:DefaultText"
+msgid "[Week 4]"
+msgstr ""
+
+#: conversations/08_roseway/08_cp_cleo_lab_robot_terminal:10
+msgctxt "conversations/08_roseway/08_cp_cleo_lab_robot_terminal:10:DefaultText"
+msgid "06's patrol route passed too close to the experimental subject pens. Now there's rapt spit gunking up the servos in its gun arm.\r\n"
+"\r\n"
+"We don't have a replacement arm, so ... guess we disassemble this one for parts. At least 12 and 17 are still working."
+msgstr ""
+
+#: conversations/08_roseway/08_cp_cleo_lab_robot_terminal:11
+msgctxt "conversations/08_roseway/08_cp_cleo_lab_robot_terminal:11:DefaultText"
+msgid "Someone tried to disable the mandatory consumer broadcasts on 17. The thing got stuck in maximum volume mode until we factory reset it."
+msgstr ""
+
+#: conversations/08_roseway/08_cp_cleo_lab_robot_terminal:12
+msgctxt "conversations/08_roseway/08_cp_cleo_lab_robot_terminal:12:DefaultText"
+msgid "12 had a serious malfunction today. Porter accidentally tripped one of the sensors inside the walls, so the blasted unit thought everyone was an intruder and just started shooting.\r\n"
+"\r\n"
+"We shut it down for now, but we've requested new behavior modules from HQ for the rest of the units."
+msgstr ""
+
+#: conversations/08_roseway/08_cp_cleo_lab_robot_terminal:13
+msgctxt "conversations/08_roseway/08_cp_cleo_lab_robot_terminal:13:DefaultText"
+msgid "No response on the behavior modules. For the time being we'll have to hope nobody blows up a wall."
+msgstr ""
+
+#: conversations/08_roseway/08_cp_cleo_lab_robot_terminal:15
+msgctxt "conversations/08_roseway/08_cp_cleo_lab_robot_terminal:15:DefaultText"
+msgid "Argos Security Systems\n"
+"---------------------------------\n"
+"SECURITY LOCKDOWN\n"
+"\n"
+"All personnel please report to assigned workstations. Report suspicious activity to the nearest Site Safety Engineer.\n"
+"---------------------------------\n"
+"Auntie Cleo Auntie-Biotics™: served fresh from our petri dishes to YOUR personal crevices."
+msgstr ""
+
+#: conversations/08_roseway/08_cp_cleo_lab_robot_terminal:16
+msgctxt "conversations/08_roseway/08_cp_cleo_lab_robot_terminal:16:DefaultText"
+msgid "Argos Security Systems\r\n"
+"---------------------------------\r\n"
+"SECURITY LOCKDOWN\r\n"
+"\r\n"
+"All personnel please report to assigned workstations. Report suspicious activity to the nearest Site Safety Engineer.\r\n"
+"---------------------------------\r\n"
+"\"Auntie Cleo's - Better than Nature!\"™"
+msgstr ""
+
+#: conversations/08_roseway/08_cp_cleo_lab_robot_terminal:17
+msgctxt "conversations/08_roseway/08_cp_cleo_lab_robot_terminal:17:DefaultText"
+msgid "Argos Security Systems\r\n"
+"---------------------------------\r\n"
+"SECURITY LOCKDOWN\r\n"
+"\r\n"
+"All personnel please report to assigned workstations. Report suspicious activity to the nearest Site Safety Engineer.\r\n"
+"---------------------------------\r\n"
+"Feeling irate? Try Auntie Cleo's Nar-Choc-Lectic™ bars. Now with 3% real CCN76."
+msgstr ""
+
+#: conversations/08_roseway/08_cp_cleo_lab_robot_terminal:18
+msgctxt "conversations/08_roseway/08_cp_cleo_lab_robot_terminal:18:DefaultText"
+msgid "Argos Security Systems\r\n"
+"---------------------------------\r\n"
+"SECURITY LOCKDOWN\r\n"
+"\r\n"
+"All personnel please report to assigned workstations. Report suspicious activity to the nearest Site Safety Engineer.\r\n"
+"---------------------------------\r\n"
+"Have you brushed your teeth with Auntie's Blinding White Paste™ today?"
+msgstr ""
+
+#: conversations/08_roseway/08_cp_cleo_lab_robot_terminal:19
+msgctxt "conversations/08_roseway/08_cp_cleo_lab_robot_terminal:19:DefaultText"
+msgid "Argos Security Systems\r\n"
+"---------------------------------\r\n"
+"SECURITY LOCKDOWN\r\n"
+"\r\n"
+"All personnel please report to assigned workstations. Report suspicious activity to the nearest Site Safety Engineer.\r\n"
+"---------------------------------\r\n"
+"Parents who buy Auntie Cleo should have children who buy Auntie Cleo."
+msgstr ""
+
+#: conversations/08_roseway/08_cp_cleo_lab_robot_terminal:20
+msgctxt "conversations/08_roseway/08_cp_cleo_lab_robot_terminal:20:DefaultText"
+msgid "Argos Security Systems\r\n"
+"---------------------------------\r\n"
+"SECURITY LOCKDOWN\r\n"
+"\r\n"
+"All personnel please report to assigned workstations. Report suspicious activity to the nearest Site Safety Engineer.\r\n"
+"---------------------------------\r\n"
+"Tired of itchy acid burns? Try Auntie Cleo's artisanal boarst-scented moisturizing cream."
+msgstr ""
+
+#: conversations/08_roseway/08_cp_cleo_lab_robot_terminal:21
+msgctxt "conversations/08_roseway/08_cp_cleo_lab_robot_terminal:21:DefaultText"
+msgid "Argos Security Systems\r\n"
+"---------------------------------\r\n"
+"SECURITY LOCKDOWN\r\n"
+"\r\n"
+"All personnel please report to assigned workstations. Report suspicious activity to the nearest Site Safety Engineer.\r\n"
+"---------------------------------\r\n"
+"Try Auntie Cleo's Handi-Off™, the surgical stain remover of choice."
+msgstr ""
+
+#: conversations/08_roseway/08_cp_cleo_lab_robot_terminal:22
+msgctxt "conversations/08_roseway/08_cp_cleo_lab_robot_terminal:22:DefaultText"
+msgid "Argos Security Systems\r\n"
+"---------------------------------\r\n"
+"SECURITY LOCKDOWN\r\n"
+"\r\n"
+"All personnel please report to assigned workstations. Report suspicious activity to the nearest Site Safety Engineer.\r\n"
+"---------------------------------\r\n"
+"Unsightly bloodstains? Consider Auntie Cleo's laundry soap. Now with a refreshing lemon zing scent."
+msgstr ""
+
+#: conversations/08_roseway/08_cp_cleo_lab_robot_terminal:26
+msgctxt "conversations/08_roseway/08_cp_cleo_lab_robot_terminal:26:DefaultText"
+msgid "Error: Volume not found.\r\n"
+". . . . .\r\n"
+"Theft of terminal volumes is punishable by a fine of no less than 3,000 bits.\r\n"
+". . . . .\r\n"
+"Theft has been logged with the nearest site security office. Employee, please remain at this terminal until contacted by your site safety officer in order to receive your ticket."
+msgstr ""

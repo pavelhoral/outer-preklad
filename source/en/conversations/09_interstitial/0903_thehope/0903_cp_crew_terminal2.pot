@@ -1,0 +1,59 @@
+#: conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal2:3
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal2:3:DefaultText"
+msgid "UDL-002 THE HOPE\r\n"
+"===========================\r\n"
+"Warning: Unauthorized access will result in immediate termination upon your arrival in Halcyon."
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal2:4
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal2:4:DefaultText"
+msgid "[Message Exchange #T-1022]"
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal2:8
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal2:8:DefaultText"
+msgid "[Automated Audio Transcript #R-211]"
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal2:17
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal2:17:DefaultText"
+msgid "[Exit]"
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal2:18
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal2:18:DefaultText"
+msgid "NOLDA, F: hey, rez\r\n"
+"TORREGA, R: Yeah?\r\n"
+"NOLDA, F: bored. up for a round of torts?\r\n"
+"TORREGA, R: Yeah, but I've got bridge duty.\r\n"
+"NOLDA, F: i'll come up. buzz me in?\r\n"
+"TORREGA, R: Sure. Don't cheat this time.\r\n"
+"NOLDA, F: listen\r\n"
+"NOLDA, F: it's not cheating if you don't get caught\r\n"
+"TORREGA, R: I'm inspecting the deck all the same.\r\n"
+"NOLDA, F: ok you know what\r\n"
+"NOLDA, F: i will find alexei and play with him instead"
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal2:22
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal2:22:DefaultText"
+msgid "VOLKOV, A: Oh... oh, my fuck.\r\n"
+"TORREGA, R: Shhh.\r\n"
+"VOLKOV, A: Sorry. It's hard to be quiet.\r\n"
+"TORREGA, R: Well, try. If we get picked up by the computer, we're on record forever.\r\n"
+"VOLKOV, A: Is that so bad?\r\n"
+"TORREGA, R: I've got someone waiting for me in the pods, Alexei. This is a one-trip thing.\r\n"
+"VOLKOV, A: Ah."
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal2:23
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal2:23:DefaultText"
+msgid "CREW TERMINAL\r\n"
+"===========================\r\n"
+"Error accessing archives. Available entries:"
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal2:24
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal2:24:DefaultText"
+msgid "[Continue]"
+msgstr ""

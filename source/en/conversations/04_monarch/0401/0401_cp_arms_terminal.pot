@@ -1,0 +1,136 @@
+#: conversations/04_monarch/0401/0401_cp_arms_terminal:2
+msgctxt "conversations/04_monarch/0401/0401_cp_arms_terminal:2:DefaultText"
+msgid "Monarch Stellar Industries - ARMS\r\n"
+"============================\r\n"
+"\r\n"
+"Welcome to Archives, Records, and Miscellaneous Storage (ARMS). Please select one of the menu options below."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_arms_terminal:3
+msgctxt "conversations/04_monarch/0401/0401_cp_arms_terminal:3:DefaultText"
+msgid "[View Executive Reviews]"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_arms_terminal:4
+msgctxt "conversations/04_monarch/0401/0401_cp_arms_terminal:4:DefaultText"
+msgid "[Exit]"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_arms_terminal:5
+msgctxt "conversations/04_monarch/0401/0401_cp_arms_terminal:5:DefaultText"
+msgid "Accessing...\r\n"
+"\r\n"
+"Loading last accessed document..."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_arms_terminal:6
+msgctxt "conversations/04_monarch/0401/0401_cp_arms_terminal:6:DefaultText"
+msgid "NOTE: All Executive Reviews are the property of Monarch Stellar Industries. It is not permissible to view or tamper with any Executive Review without the approval of an authorized manager.\r\n"
+"\r\n"
+"Monarch Stellar Industries is not responsible for any mental, emotional, or digestive distress that may result from viewing these reviews."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_arms_terminal:8
+msgctxt "conversations/04_monarch/0401/0401_cp_arms_terminal:8:DefaultText"
+msgid "[Executive Review - NANDI, SANJAR]"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_arms_terminal:9
+msgctxt "conversations/04_monarch/0401/0401_cp_arms_terminal:9:DefaultText"
+msgid "[Executive Review - BRYANT, GRAHAM]"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_arms_terminal:10
+msgctxt "conversations/04_monarch/0401/0401_cp_arms_terminal:10:DefaultText"
+msgid "[Executive Review - ERICKSON, DORA]"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_arms_terminal:11
+msgctxt "conversations/04_monarch/0401/0401_cp_arms_terminal:11:DefaultText"
+msgid "[Return to Root]"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_arms_terminal:12
+msgctxt "conversations/04_monarch/0401/0401_cp_arms_terminal:12:DefaultText"
+msgid "Executive Review for DORA ERICKSON\r\n"
+"============================\r\n"
+"Dora shows a real knack for brief but compelling presentations supported by catchy slogans. \r\n"
+"\r\n"
+"Her delegation skills are also top-notch - she can build a lengthy meeting around any topic and emerge with plenty of work assigned.\r\n"
+"\r\n"
+"RECOMMEND FOR PROMOTION "
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_arms_terminal:13
+msgctxt "conversations/04_monarch/0401/0401_cp_arms_terminal:13:DefaultText"
+msgid "Executive Review for SANJAR NANDI\n"
+"============================\r\n"
+"Sanjar has a bad habit of padding his reports with numbers and statistics. Not very good with slogans, jingles, and/or taglines.\n"
+"\n"
+"Presentations tend to be dry and lacking in emotional appeal and funny references. Sanjar also displays a noted tendency to complete work rather than delegating it, a trend unbecoming in upper management.\n"
+"\n"
+"All in all, Sanjar's work habits suggest a preoccupation with details and a startling lack of vision. We cannot recommend him for further advancement.\n"
+"\n"
+"NEEDS IMPROVEMENT IN THE FOLLOWING AREAS: Interpersonal communication, brevity, delegation, idea generation."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_arms_terminal:14
+msgctxt "conversations/04_monarch/0401/0401_cp_arms_terminal:14:DefaultText"
+msgid "[Delete All]"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_arms_terminal:15
+msgctxt "conversations/04_monarch/0401/0401_cp_arms_terminal:15:DefaultText"
+msgid "Executive Review for GRAHAM BRYANT\r\n"
+"============================\r\n"
+"Graham's understanding of product messaging and branding is impressive, especially for a relatively low-level editor. Has a knack for memorable slogans and taglines.\r\n"
+"\r\n"
+"However, Graham has issues with brevity and shows consistent disregard for prescribed fonts and formats. Some of his work has been flagged for subversive undertones.\r\n"
+"\r\n"
+"RECOMMEND FURTHER SUPERVISION"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_arms_terminal:16
+msgctxt "conversations/04_monarch/0401/0401_cp_arms_terminal:16:DefaultText"
+msgid "Deleting files...\r\n"
+"\r\n"
+"Deleting all references and indices...\r\n"
+"\r\n"
+"Deleting record of deletion...\r\n"
+"\r\n"
+"All files have been deleted."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_arms_terminal:17
+msgctxt "conversations/04_monarch/0401/0401_cp_arms_terminal:17:DefaultText"
+msgid "ERROR: No data available."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_arms_terminal:19
+msgctxt "conversations/04_monarch/0401/0401_cp_arms_terminal:19:DefaultText"
+msgid "[Continue]"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_arms_terminal:20
+msgctxt "conversations/04_monarch/0401/0401_cp_arms_terminal:20:DefaultText"
+msgid "[Continue]"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_arms_terminal:22
+msgctxt "conversations/04_monarch/0401/0401_cp_arms_terminal:22:DefaultText"
+msgid "Accessing...\r\n"
+"\r\n"
+"Restricted file. \r\n"
+"\r\n"
+"Executive authorization required to proceed."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_arms_terminal:23
+msgctxt "conversations/04_monarch/0401/0401_cp_arms_terminal:23:DefaultText"
+msgid "[Spoof Login Credentials]"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_arms_terminal:24
+msgctxt "conversations/04_monarch/0401/0401_cp_arms_terminal:24:DefaultText"
+msgid "[Return to Root]"
+msgstr ""

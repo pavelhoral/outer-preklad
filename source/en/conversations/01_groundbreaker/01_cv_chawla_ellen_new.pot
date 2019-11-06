@@ -1,0 +1,734 @@
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:1
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:1:DefaultText"
+msgid "Unless you're here to file an incident report or to inquire about the bounty posting, I must kindly ask you to clear out. The Mardet's offices aren't for leisure time nor loitering."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:2
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:2:DefaultText"
+msgid "What bounties do you have available?"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:3
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:3:DefaultText"
+msgid "So what's it like, working security detail on a space station?"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:4
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:4:DefaultText"
+msgid "I'll be on my way."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:5
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:5:DefaultText"
+msgid "Do I look like your gossipy best friend? While I'm on post, I take my duties real serious. I would have no qualms whatsoever escorting you to a cell. Understand?"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:6
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:6:DefaultText"
+msgid "Got a hot one for you - Captain Gunnar MacRedd. Just 26 hours old. The posting that is, not the criminal."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:7
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:7:DefaultText"
+msgid "Last tip we got pointed toward the Back Bays. You want the reward? Do the legwork."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:9
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:9:DefaultText"
+msgid "I'll take the posting."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:10
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:10:DefaultText"
+msgid "I'll think about it."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:11
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:11:DefaultText"
+msgid "Why don't you send a Mardet to apprehend him?"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:12
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:12:DefaultText"
+msgid "Oh, I will. Soon as the Chief approves the personnel re-org required for a bounty dispatch. So in about three to seven weeks."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:14
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:14:DefaultText"
+msgid "You and about six other enterprising mavericks. It's only a matter of time before someone brings me MacRedd's head - or his lucky lighter - as proof of kill."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:15
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:15:DefaultText"
+msgid "Suit yourself. Not everyone's cut out for detective work and so forth. I understand."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:16
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:16:DefaultText"
+msgid "How goes the hunt? I've been ruminating on it, and I decided - if you ain't killed MacRedd yet, I want you to hurt him a little before you do."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:17
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:17:DefaultText"
+msgid "Come to take the bounty posting?"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:19
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:19:DefaultText"
+msgid "I'm working on it."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:21
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:21:DefaultText"
+msgid "Good news, I killed Captain MacRedd. And I roughed him up before I did him in."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:22
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:22:DefaultText"
+msgid "I already killed MacRedd. Here's his lighter for proof."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:23
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:23:DefaultText"
+msgid "Here's the bounty pay-out. Nice work down there. With any luck, we can hire more sharp-eyed bounty hunters like you in the future."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:24
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:24:DefaultText"
+msgid "Hey, bounty hunter. You're welcome here anytime... so long as you ain't loitering."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:25
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:25:DefaultText"
+msgid "Say I did have an incident to report."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:26
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:26:DefaultText"
+msgid "Assuming the nature of the incident is both sufficient cause for infraction and under our jurisdiction, I'll take your statement and open an investigation into the matter."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:27
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:27:DefaultText"
+msgid "Now, then. What's happened?"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:28
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:28:DefaultText"
+msgid "Nothing at this time."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:29
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:29:DefaultText"
+msgid "You need me, you know where my offices are."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:30
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:30:DefaultText"
+msgid "I'd like to report a crime."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:31
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:31:DefaultText"
+msgid "I'd like to be off duty for the night. But as I've several more hours remaining on my shift, I am obligated to hear you out."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:32
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:32:DefaultText"
+msgid "Bit of a contradictory one, ain't you? Or were you making an ill-attempted joke? Well, I suppose it ain't a crime to change one's mind. "
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:33
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:33:DefaultText"
+msgid "There was a man living in the comms relay station, but I killed him."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:34
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:34:DefaultText"
+msgid "You've got a squatter in the comms station. He tampered with the relay equipment."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:35
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:35:DefaultText"
+msgid "Are you reporting him for vagrancy, yourself for murder, or both?"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:36
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:36:DefaultText"
+msgid "Who is he and how long has he been there?"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:37
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:37:DefaultText"
+msgid "Calls himself Frey and I think he's been there for several months now."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:38
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:38:DefaultText"
+msgid "How should I know?"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:39
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:39:DefaultText"
+msgid "Sounds like we've got multiple counts of vagrancy, trespassing, breaking and entering, unlawful imitation of a station technician, and property damage. "
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:40
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:40:DefaultText"
+msgid "Unless this fella's some Byzantium gold-blood, he don't stand a chance of paying the fines. All right, I'll round him up."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:41
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:41:DefaultText"
+msgid "I thought there was a squatter in the comms relay station, but I was mistaken."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:42
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:42:DefaultText"
+msgid "Him for vagrancy."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:43
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:43:DefaultText"
+msgid "Uh, neither on second thought."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:44
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:44:DefaultText"
+msgid "The Mardet appreciates your report."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:45
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:45:DefaultText"
+msgid "It's not much of a report if it ain't got any details, but all right. I suppose I can spare an officer to investigate the premises - in about four to six weeks."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:46
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:46:DefaultText"
+msgid "Might I clarify that we don't take 'almost incident' reports? Only actual occurrences of an illegal nature. "
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:47
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:47:DefaultText"
+msgid "Now, if there actually was any unauthorized persons residing in one of our relay stations, I would be required to send a officer to make an arrest."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:48
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:48:DefaultText"
+msgid "But as you were mistaken, I see no need to waste the resources. You remember something that might change that, you let me know."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:49
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:49:DefaultText"
+msgid "Fine, fine."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:50
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:50:DefaultText"
+msgid "So then later, over drinks?"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:51
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:51:DefaultText"
+msgid "Then get to business or get moving."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:52
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:52:DefaultText"
+msgid "Don't make me laugh on duty. It sets a bad example for the rookies."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:53
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:53:DefaultText"
+msgid "Allegations include several counts of flying under the influence, carrying open alcoholic containers, failure to pay docking fees, resisting arrest, and assaulting not one but two officers."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:54
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:54:DefaultText"
+msgid "Flying under the influence... of illegal substances?"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:55
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:55:DefaultText"
+msgid "Assaulting two officers?"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:56
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:56:DefaultText"
+msgid "Swerving in the air was more like it. Then he crashed hard into the dock and tumbled out of his ship and fled on foot."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:57
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:57:DefaultText"
+msgid "I can see why he's wanted dead or alive."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:58
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:58:DefaultText"
+msgid "Kicked one right in the kneecap while he poked the other in the eyes. MacRedd's lucky we're too backlogged right now to hunt him down ourselves."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:59
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:59:DefaultText"
+msgid "Dreadful, ain't it? Such blatant disregard for order. It's a real problem in the youth these days."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:60
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:60:DefaultText"
+msgid "But if our resources clear up and we catch him before some contractor does, I fully plan to lock him in iso with them two officers he wounded. Thinking he won't like that one bit."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:61
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:61:DefaultText"
+msgid "It's true enough that he ain't particularly deadly, but the interest on each fine being compounded as they are means he'll be paying with his life insurance. Only way to cover it."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:62
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:62:DefaultText"
+msgid "Spilled Rizzo's Violet spectrum vodka all over Officer Hartley - an affront of its own considering none of us are approved for anything higher than Green spectrum. "
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:63
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:63:DefaultText"
+msgid "Any leads on where I might find MacRedd?"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:64
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:64:DefaultText"
+msgid "Allegations include several counts of flying under the influence, carrying open alcoholic containers, failure to pay docking fees, resisting arrest, and assaulting not one but two officers."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:65
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:65:DefaultText"
+msgid "The outlaw scientist fella - right. The Board's had it out for him for ages."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:66
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:66:DefaultText"
+msgid "I couldn't help but notice the bounty posting on Phineas Welles."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:67
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:67:DefaultText"
+msgid "I do hope you're the lucky hunter, though. Good luck and skip speed to you."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:68
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:68:DefaultText"
+msgid "Tell me about that bounty on MacRedd again."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:69
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:69:DefaultText"
+msgid "Nothing excessive, mind you. But the scoundrel deserves a light beating at least before he kicks off."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:70
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:70:DefaultText"
+msgid "Forget about the bounty for now. I want to talk with you about something else."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:71
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:71:DefaultText"
+msgid "Have at it, then."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:72
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:72:DefaultText"
+msgid "Sorry to disappoint. I only kill humanely. Here's MacRedd's lighter."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:73
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:73:DefaultText"
+msgid "I believe I'm growing fond of you, bounty hunter. If you got the Mardets' backs, the Mardets have got yours."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:74
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:74:DefaultText"
+msgid "A shame, but I won't hold it against you. The lighter's enough to file for the insurance payment. Long as his fees are cleared, I'll call it justice served."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:76
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:76:DefaultText"
+msgid "I already killed MacRedd. Here's his lighter for proof."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:77
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:77:DefaultText"
+msgid "Captain MacRedd is completely dead. Here's his lucky lighter as proof."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:78
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:78:DefaultText"
+msgid "Whoa, all right. Just trying to make conversation."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:79
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:79:DefaultText"
+msgid "I'm not here for a chat. Now get moving before I see you moved."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:80
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:80:DefaultText"
+msgid "Hey! No one talks to me like that."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:81
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:81:DefaultText"
+msgid "Now, let's not start a fuss. I'm just trying to do my job, and I can't do it while chit-chatting with you."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:82
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:82:DefaultText"
+msgid "If you have an inkling of the wheres or what-fors of his location, Udom Bedford would surely like to hear it."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:83
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:83:DefaultText"
+msgid "Where can I find Udom Bedford?"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:85
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:85:DefaultText"
+msgid "He'll be in the Board offices on the Promenade, no doubt dreaming up new ways to be a pain in my ass."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:87
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:87:DefaultText"
+msgid "Who's Udom Bedford?"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:88
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:88:DefaultText"
+msgid "He's the Board's watchful eye here on Groundbreaker."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:89
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:89:DefaultText"
+msgid "Got it."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:91
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:91:DefaultText"
+msgid "Is this Welles fellow a famous criminal or something?"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:92
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:92:DefaultText"
+msgid "Phineas is my friend!"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:93
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:93:DefaultText"
+msgid "That was uh - that was sarcasm, right? Real dry sense of humor."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:94
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:94:DefaultText"
+msgid "Think you mighta got your words mixed up again, Captain."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:95
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:95:DefaultText"
+msgid "Ha, ha! The captain has such a dry sense of humor, sometimes it's tough even for me to tell when he's joking. Because you *are* pulling the kind officer's leg. Right, Captain?"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:96
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:96:DefaultText"
+msgid "Oh, right. Yeah. It's not like we've met or anything."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:97
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:97:DefaultText"
+msgid "No, I mean it! I've been to his secret base and everything!"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:98
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:98:DefaultText"
+msgid "If you're looking for a pay day, you'll want to talk to Udom about it. I'm not processing the Board's paperwork for them."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:99
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:99:DefaultText"
+msgid "Not least 'cause they want everything in triplicate. 'Won't the one message do?' No, I have to send it three times."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:100
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:100:DefaultText"
+msgid "Glad to hear it. Anything else?"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:101
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:101:DefaultText"
+msgid "To the Board, yeah. You've read his wanted poster. Whole list of things to get their unders in a wad."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:102
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:102:DefaultText"
+msgid "Uh huh."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:103
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:103:DefaultText"
+msgid "I don't care whether you know him or not - I'm not about to start enforcing the Board's bounties for them."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:104
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:104:DefaultText"
+msgid "But he's never done nothing to Groundbreaker, so I've no problem with him. We keep the poster up to keep the peace, is all."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:105
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:105:DefaultText"
+msgid "Still waitin' to hear back on that bounty for MacRedd. That aside, not much else - Groundbreaker's keepin' calm at the moment."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:106
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:106:DefaultText"
+msgid "With that bastard MacRedd dead, there ain't much else in the offing. Not that I'm complaining, mind you."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:107
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:107:DefaultText"
+msgid "Nothing at the moment. Not that I'm complaining."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:108
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:108:DefaultText"
+msgid "I could start something if you want. Just say the word."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:109
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:109:DefaultText"
+msgid "Look at my face, Felix. Do I look like I'm in a mood for your nonsense?"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:110
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:110:DefaultText"
+msgid "Does Felix cause trouble a lot, ma'am?"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:111
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:111:DefaultText"
+msgid "Constantly. Little hellion's probably spent more time in lock-up than he has in his own bunk."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:112
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:112:DefaultText"
+msgid "Whoa. Hey. Now that is pure fabrication. I don't have a bunk."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:113
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:113:DefaultText"
+msgid "Come on, Felix. A real rebel doesn't ask permission."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:114
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:114:DefaultText"
+msgid "You might be a top-notch sawbones, but I'm not above cuffing you to a waste outflow pipe for a couple hours if you get on my nerves."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:115
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:115:DefaultText"
+msgid "Promise?"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:116
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:116:DefaultText"
+msgid "Show a little respect, son."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:117
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:117:DefaultText"
+msgid "I was showing respect! I asked permission and everything."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:118
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:118:DefaultText"
+msgid "Quite the charmer, isn't he."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:119
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:119:DefaultText"
+msgid "My friend Felix here slapped his foreman with a tossball stick."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:120
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:120:DefaultText"
+msgid "Come on, boss. I told you - he was slandering my Rangers."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:121
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:121:DefaultText"
+msgid "You finally did it, huh? Good for you. Been a long time coming. You done hauling crates, then?"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:123
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:123:DefaultText"
+msgid "My box-hauling days are officially behind me. Say hello to Felix Millstone: Spacer Extraordinaire."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:124
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:124:DefaultText"
+msgid "You're not going to reprimand him for bludgeoning his foreman?"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:125
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:125:DefaultText"
+msgid "I'd sooner shake the kid's hand. Asshole had it coming."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:126
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:126:DefaultText"
+msgid "I'm starting to wonder if I made a mistake."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:127
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:127:DefaultText"
+msgid "Did I hear you right? You want to shake my hand? I need to get this in writing."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:128
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:128:DefaultText"
+msgid "Don't push your luck, Millstone. I still got a cell with your name on it."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:129
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:129:DefaultText"
+msgid "She does. I scratched my name on the wall."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:130
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:130:DefaultText"
+msgid "No take-backs. He's yours now."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:131
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:131:DefaultText"
+msgid "Yep. We're stuck with each other, like tumors on a cystypig."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:132
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:132:DefaultText"
+msgid "Yep. Welcome aboard and all that."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:133
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:133:DefaultText"
+msgid "Now then. Did you have anything else to report?"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:134
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:134:DefaultText"
+msgid "I'm interested in that MacRedd bounty. Where can I find him?"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:136
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:136:DefaultText"
+msgid "Buy me a couple drinks first?"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:138
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:138:DefaultText"
+msgid "What's a \"Mardet\"?"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:139
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:139:DefaultText"
+msgid "We're the security force here on Groundbreaker. Started back before the Crossing, you know."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:140
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:140:DefaultText"
+msgid "The original force was made up of a marine detachment from the 77th Marine Expeditionary Unit, Trailward Fleet."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:141
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:141:DefaultText"
+msgid "Folks started calling us \"Mardets\" 'cause it was easier to say. Guess it stuck."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:142
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:142:DefaultText"
+msgid "Huh. Okay."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:143
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:143:DefaultText"
+msgid "Why \"Mardet\" and not guard or officer?"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:144
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:144:DefaultText"
+msgid "It's a Groundbreaker thing. Nothing to trouble yourself over."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:145
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:145:DefaultText"
+msgid "In other words, they call themselves \"Mardets\" 'cause it's fancier than \"guards.\""
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:146
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:146:DefaultText"
+msgid "You're lucky I got better things to do than arrest you for back-sassing an officer, Felix."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:148
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:148:DefaultText"
+msgid "That's mighty generous of you, ma'am. We won't take too much of your time, honest."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:149
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:149:DefaultText"
+msgid "So if I say \"I'd like to report a crime,\" you've gotta listen to me? I should lead with that next time I'm in trouble."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:150
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:150:DefaultText"
+msgid "We'll be brief. I hope."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:151
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:151:DefaultText"
+msgid "Nothing like going where you want, when you want. Which you can do when you don't work shifts."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:152
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:152:DefaultText"
+msgid "Did you actually have something to report, or are you here to make fun?"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:153
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:153:DefaultText"
+msgid "Does this have anything to do with your \"carnal understanding\"?"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:154
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:154:DefaultText"
+msgid "He tell you that, did he?"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:155
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:155:DefaultText"
+msgid "I might'a kicked his ass from one end of the Groundbreaker to the other a few years back. Whatever he reads into that is his business."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:157
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:157:DefaultText"
+msgid "That ain't how MacRedd put it. Something obviously happened between you two. 'Course, he might have been chewing mushrooms at the time."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:160
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:160:DefaultText"
+msgid "Don't think too hard on it, Felix. Seriously - don't."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:161
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:161:DefaultText"
+msgid "I told you, you should've gone independent."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_chawla_ellen_new:162
+msgctxt "conversations/01_groundbreaker/01_cv_chawla_ellen_new:162:DefaultText"
+msgid "Ugh."
+msgstr ""

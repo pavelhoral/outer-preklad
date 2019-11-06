@@ -1,0 +1,19 @@
+#: conversations/07_tartarus/0701/0701_cp_chairman_door:1
+msgctxt "conversations/07_tartarus/0701/0701_cp_chairman_door:1:DefaultText"
+msgid "DOOR STATUS: Sealed"
+msgstr ""
+
+#: conversations/07_tartarus/0701/0701_cp_chairman_door:2
+msgctxt "conversations/07_tartarus/0701/0701_cp_chairman_door:2:DefaultText"
+msgid "[Unseal Door]"
+msgstr ""
+
+#: conversations/07_tartarus/0701/0701_cp_chairman_door:3
+msgctxt "conversations/07_tartarus/0701/0701_cp_chairman_door:3:DefaultText"
+msgid "[Exit]"
+msgstr ""
+
+#: conversations/07_tartarus/0701/0701_cp_chairman_door:4
+msgctxt "conversations/07_tartarus/0701/0701_cp_chairman_door:4:DefaultText"
+msgid "DOOR STATUS: Unsealed"
+msgstr ""

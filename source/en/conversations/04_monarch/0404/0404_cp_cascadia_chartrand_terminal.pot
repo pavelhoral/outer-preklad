@@ -1,0 +1,68 @@
+#: conversations/04_monarch/0404/0404_cp_cascadia_chartrand_terminal:1
+msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_chartrand_terminal:1:DefaultText"
+msgid "Cascadia Lab - Executive Research Focus Group\r\n"
+"====================================\r\n"
+"\r\n"
+"Authorized user: Chartrand, E. \r\n"
+"\r\n"
+"Main menu"
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cp_cascadia_chartrand_terminal:3
+msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_chartrand_terminal:3:DefaultText"
+msgid "[Logs]"
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cp_cascadia_chartrand_terminal:5
+msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_chartrand_terminal:5:DefaultText"
+msgid "[Exit]"
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cp_cascadia_chartrand_terminal:25
+msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_chartrand_terminal:25:DefaultText"
+msgid "Cascadia Lab - Executive Research Focus Group\r\n"
+"====================================\r\n"
+"\r\n"
+"-Chief concern is rejection of the tissue - a problem as classical as limb transplantation, though obviously on a cellular level.\r\n"
+"\r\n"
+"-The scale of the problem, though. Even with the Alta-Vitae bolstering our efforts, an achievement of such proportion has never been attempted, or even considered. \r\n"
+"\r\n"
+"-How do we define a tolerable failure rate when the losses could swell to affect millions? Even one percent is unthinkable. \r\n"
+"\r\n"
+"I have much to consider."
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cp_cascadia_chartrand_terminal:40
+msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_chartrand_terminal:40:DefaultText"
+msgid "Cascadia Lab - Executive Research Focus Group\r\n"
+"====================================\r\n"
+"\r\n"
+"The project has been reassigned to a secondary lab. I'm told the Board is pulling out of Terra 1 and we don't even have time to transfer our research. For once I'm grateful our labors didn't make significant strides here.\r\n"
+"\r\n"
+"I won't forget Tom's sacrifice. Up until the end, he knew it had to happen. If it wasn't one of us, the Board would have \"volunteered\" inmates from Tartarus.\r\n"
+"\r\n"
+"I'll be sure to carry his example to the new lab... and the next phase of human trials. "
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cp_cascadia_chartrand_terminal:41
+msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_chartrand_terminal:41:DefaultText"
+msgid "Cascadia Lab - Executive Research Focus Group\r\n"
+"====================================\r\n"
+"\r\n"
+"Logs"
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cp_cascadia_chartrand_terminal:42
+msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_chartrand_terminal:42:DefaultText"
+msgid "[Research notes - tissue compatibility, acceptable losses]"
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cp_cascadia_chartrand_terminal:43
+msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_chartrand_terminal:43:DefaultText"
+msgid "[Transfer to secondary site]"
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cp_cascadia_chartrand_terminal:44
+msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_chartrand_terminal:44:DefaultText"
+msgid "[Return to Root]"
+msgstr ""

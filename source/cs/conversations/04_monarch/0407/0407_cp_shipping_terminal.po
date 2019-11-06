@@ -1,0 +1,102 @@
+#: conversations/04_monarch/0407/0407_cp_shipping_terminal:1
+msgctxt "conversations/04_monarch/0407/0407_cp_shipping_terminal:1:DefaultText"
+msgid "Fallbrook Shipping and Receiving\r\n"
+"==========================\r\n"
+"Authorized users, please enter your authorization code.\r\n"
+"\r\n"
+"Everyone else, if I catch you using this thing I'm going to tie steel to your feet and throw you in a sulfur pool.\r\n"
+"\r\n"
+"- Catherine"
+msgstr ""
+
+#: conversations/04_monarch/0407/0407_cp_shipping_terminal:2
+msgctxt "conversations/04_monarch/0407/0407_cp_shipping_terminal:2:DefaultText"
+msgid "[Access Shipping Manifests]"
+msgstr ""
+
+#: conversations/04_monarch/0407/0407_cp_shipping_terminal:3
+msgctxt "conversations/04_monarch/0407/0407_cp_shipping_terminal:3:DefaultText"
+msgid "Fallbrook Shipping and Receiving\r\n"
+"==========================\r\n"
+"The most recent manifests:"
+msgstr ""
+
+#: conversations/04_monarch/0407/0407_cp_shipping_terminal:4
+msgctxt "conversations/04_monarch/0407/0407_cp_shipping_terminal:4:DefaultText"
+msgid "[Outgoing - Auntie Cleo perishables]"
+msgstr ""
+
+#: conversations/04_monarch/0407/0407_cp_shipping_terminal:5
+msgctxt "conversations/04_monarch/0407/0407_cp_shipping_terminal:5:DefaultText"
+msgid "[Incoming - Spacer's Choice perishables]"
+msgstr ""
+
+#: conversations/04_monarch/0407/0407_cp_shipping_terminal:6
+msgctxt "conversations/04_monarch/0407/0407_cp_shipping_terminal:6:DefaultText"
+msgid "[Purchase Request #UDL-2007]"
+msgstr ""
+
+#: conversations/04_monarch/0407/0407_cp_shipping_terminal:7
+msgctxt "conversations/04_monarch/0407/0407_cp_shipping_terminal:7:DefaultText"
+msgid "Fallbrook Shipping and Receiving\r\n"
+"==========================\r\n"
+"Request origin: UDL outpost #172\r\n"
+"Request department: Department of Agriculture\r\n"
+"Offer: 51,241 bits"
+msgstr ""
+
+#: conversations/04_monarch/0407/0407_cp_shipping_terminal:9
+msgctxt "conversations/04_monarch/0407/0407_cp_shipping_terminal:9:DefaultText"
+msgid "Fallbrook Shipping and Receiving\r\n"
+"==========================\r\n"
+"Parcel: 59.2kg\r\n"
+"Origin: Spacer's Choice outpost #111\r\n"
+"Attn: Department of Sanitation\r\n"
+"\r\n"
+"Parcel: 58.9kb\r\n"
+"Origin: Spacer's Choice outpost #171\r\n"
+"Attn: Department of Security"
+msgstr ""
+
+#: conversations/04_monarch/0407/0407_cp_shipping_terminal:10
+msgctxt "conversations/04_monarch/0407/0407_cp_shipping_terminal:10:DefaultText"
+msgid "Fallbrook Shipping and Receiving\r\n"
+"==========================\r\n"
+"Parcel: 61.2kg\r\n"
+"Destination: Auntie Cleo outpost #221\r\n"
+"Attn: Department of Engineering\r\n"
+"\r\n"
+"Parcel: 68.7kg\r\n"
+"Destination: Auntie Cleo outpost #417\r\n"
+"Attn: Department of Engineering\r\n"
+"\r\n"
+"Parcel: 67.1kg\r\n"
+"Destination: Auntie Cleo outpost #112\r\n"
+"Attn: Department of Agriculture"
+msgstr ""
+
+#: conversations/04_monarch/0407/0407_cp_shipping_terminal:25
+msgctxt "conversations/04_monarch/0407/0407_cp_shipping_terminal:25:DefaultText"
+msgid "[Exit]"
+msgstr ""
+
+#: conversations/04_monarch/0407/0407_cp_shipping_terminal:29
+msgctxt "conversations/04_monarch/0407/0407_cp_shipping_terminal:29:DefaultText"
+msgid "[Continue]"
+msgstr ""
+
+#: conversations/04_monarch/0407/0407_cp_shipping_terminal:30
+msgctxt "conversations/04_monarch/0407/0407_cp_shipping_terminal:30:DefaultText"
+msgid "[Supplies Delivery]"
+msgstr ""
+
+#: conversations/04_monarch/0407/0407_cp_shipping_terminal:31
+msgctxt "conversations/04_monarch/0407/0407_cp_shipping_terminal:31:DefaultText"
+msgid "Fallbrook Shipping and Receiving\r\n"
+"==========================\r\n"
+"Registered supplies:\r\n"
+"- Rizzo's Purpleberry Bunch: 200kg\r\n"
+"- Doc Rocket's Chocolasteroids: 175kg\r\n"
+"- Spacer's Choice Saltuna: 175kg\r\n"
+"- C&P NearMaple Syrup: 225kg"
+msgstr ""

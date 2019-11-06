@@ -1,0 +1,41 @@
+#: conversations/02_terra2/0202_byzantium/0202_cp_retirement_contract:1
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cp_retirement_contract:1:DefaultText"
+msgid "Welcome to the HHC Early Retirement Center\r\n"
+"===========================\r\n"
+"\r\n"
+"Before beginning your new life in Byzantium, our safety regulations require you to consent to the following:\r\n"
+"\r\n"
+"You, hereinafter referred to as the EMPLOYEE, consent to the rules and regulations of the Halcyon Holdings Corporation Early Retirement Center, hereinafter referred to as the CENTER. The EMPLOYEE confirms that they have read and understand the rules of the CENTER, as written in Article 3, Section 5, Clause 27 of the Early Retirement Welcome Packet. The EMPLOYEE also confirms that they received this packet en route to the CENTER.\r\n"
+"\r\n"
+"In the unlikely event of injury, death, or the loss of personal items, the EMPLOYEE assumes all liability for the incident. The Halcyon Holdings Corporation and its subsidiaries bear no responsibility for the incident, and offer no compensation. Should the CENTER recover any lost or stolen goods, the EMPLOYEE must retrieve them within 48 hours, or their goods will be forfeit.\r\n"
+"\r\n"
+"If the EMPLOYEE is having second thoughts about living out the rest of their lives in unparalleled luxury, then they may exit this terminal and return to the CENTER'S landing bay. There, the EMPLOYEE may turn in their winning Early Retirement ticket and await the next outbound transport. Don't worry, that ticket won't go to waste - it will be given to another deserving worker to keep the CENTER'S inbound population at ideal levels.\r\n"
+"\r\n"
+"Otherwise, if the EMPLOYEE is ready to begin the final leg of their Early Retirement journey and enjoy all the CENTER has to offer, please select \"I consent.\""
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cp_retirement_contract:2
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cp_retirement_contract:2:DefaultText"
+msgid "[I Consent]"
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cp_retirement_contract:3
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cp_retirement_contract:3:DefaultText"
+msgid "[Exit]"
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cp_retirement_contract:4
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cp_retirement_contract:4:DefaultText"
+msgid "Welcome to the HHC Early Retirement Center\r\n"
+"==========================\r\n"
+"\r\n"
+"Please proceed to the elevator. The rest of your life begins now!"
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cp_retirement_contract:5
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cp_retirement_contract:5:DefaultText"
+msgid "Welcome to the HHC Early Retirement Center\r\n"
+"===========================\r\n"
+"\r\n"
+"Congratulations! You just made the first step on the greatest journey of your life. Now please proceed to the elevator. Your Early Retirement awaits!"
+msgstr ""

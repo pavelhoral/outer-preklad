@@ -1,0 +1,79 @@
+#: quests/04_monarch/fq_0402_msifactionquest_1:0
+msgctxt "quests/04_monarch/fq_0402_msifactionquest_1:0:DefaultText"
+msgid "BOLT with His Name"
+msgstr ""
+
+#: quests/04_monarch/fq_0402_msifactionquest_1:1
+msgctxt "quests/04_monarch/fq_0402_msifactionquest_1:1:DefaultText"
+msgid "Get into the ARMS Building"
+msgstr ""
+
+#: quests/04_monarch/fq_0402_msifactionquest_1:24
+msgctxt "quests/04_monarch/fq_0402_msifactionquest_1:24:DefaultText"
+msgid "Return to Sanjar"
+msgstr ""
+
+#: quests/04_monarch/fq_0402_msifactionquest_1:32
+msgctxt "quests/04_monarch/fq_0402_msifactionquest_1:32:DefaultText"
+msgid "Obtain the BOLT-52"
+msgstr ""
+
+#: quests/04_monarch/fq_0402_msifactionquest_1:40
+msgctxt "quests/04_monarch/fq_0402_msifactionquest_1:40:DefaultText"
+msgid "(Optional) Wipe Any Terminals in the Building"
+msgstr ""
+
+#: quests/04_monarch/fq_0402_msifactionquest_1:10000
+msgctxt "quests/04_monarch/fq_0402_msifactionquest_1:10000:DefaultText"
+msgid "Sanjar needs a BOLT-52 cartridge to defend Stellar Bay. He believes you can find one in the ruins north of town."
+msgstr ""
+
+#: quests/04_monarch/fq_0402_msifactionquest_1:10001
+msgctxt "quests/04_monarch/fq_0402_msifactionquest_1:10001:DefaultText"
+msgid "The BOLT-52 is in an abandoned building north of Stellar Bay."
+msgstr ""
+
+#: quests/04_monarch/fq_0402_msifactionquest_1:10024
+msgctxt "quests/04_monarch/fq_0402_msifactionquest_1:10024:DefaultText"
+msgid "Return the BOLT-52 to Sanjar in Stellar Bay."
+msgstr ""
+
+#: quests/04_monarch/fq_0402_msifactionquest_1:10032
+msgctxt "quests/04_monarch/fq_0402_msifactionquest_1:10032:DefaultText"
+msgid "The BOLT-52 is in a locked closet. Find a way inside and retrieve it."
+msgstr ""
+
+#: quests/04_monarch/fq_0402_msifactionquest_1:10040
+msgctxt "quests/04_monarch/fq_0402_msifactionquest_1:10040:DefaultText"
+msgid "Sanjar wants the data on any terminals in the ARMS building deleted."
+msgstr ""
+
+#: quests/04_monarch/fq_0402_msifactionquest_1:20011
+msgctxt "quests/04_monarch/fq_0402_msifactionquest_1:20011:DefaultText"
+msgid "Huxley's partner had the key to the door, but he was probably killed by raptidons. You might find the key on his body... or in a raptidon's stomach."
+msgstr ""
+
+#: quests/04_monarch/fq_0402_msifactionquest_1:20013
+msgctxt "quests/04_monarch/fq_0402_msifactionquest_1:20013:DefaultText"
+msgid "You found Sanjar's executive review on the ARMS terminal. It was less than flattering."
+msgstr ""
+
+#: quests/04_monarch/fq_0402_msifactionquest_1:20014
+msgctxt "quests/04_monarch/fq_0402_msifactionquest_1:20014:DefaultText"
+msgid "You found the key to the closet."
+msgstr ""
+
+#: quests/04_monarch/fq_0402_msifactionquest_1:30011
+msgctxt "quests/04_monarch/fq_0402_msifactionquest_1:30011:DefaultText"
+msgid "You returned the BOLT-52 cartridge to Sanjar."
+msgstr ""
+
+#: quests/04_monarch/fq_0402_msifactionquest_1:30012
+msgctxt "quests/04_monarch/fq_0402_msifactionquest_1:30012:DefaultText"
+msgid "You killed Sanjar."
+msgstr ""
+
+#: quests/04_monarch/fq_0402_msifactionquest_1:30013
+msgctxt "quests/04_monarch/fq_0402_msifactionquest_1:30013:DefaultText"
+msgid "With Celia dead, Sanjar is too traumatized to conduct business."
+msgstr ""

@@ -1,0 +1,56 @@
+#: conversations/04_monarch/0402/0402_cv_apartmentresident_telexlogs_01:1
+msgctxt "conversations/04_monarch/0402/0402_cv_apartmentresident_telexlogs_01:1:DefaultText"
+msgid "Messages\n"
+"======================\n"
+""
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_apartmentresident_telexlogs_01:2
+msgctxt "conversations/04_monarch/0402/0402_cv_apartmentresident_telexlogs_01:2:DefaultText"
+msgid "[TO: S. Nandi]"
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_apartmentresident_telexlogs_01:3
+msgctxt "conversations/04_monarch/0402/0402_cv_apartmentresident_telexlogs_01:3:DefaultText"
+msgid "[Exit]"
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_apartmentresident_telexlogs_01:4
+msgctxt "conversations/04_monarch/0402/0402_cv_apartmentresident_telexlogs_01:4:DefaultText"
+msgid "Mr. Nandi,\r\n"
+"\r\n"
+"Sorry to bother you about this, but something foul is leaking from the apartment upstairs. \r\n"
+"\r\n"
+"I don't know what Celia's keeping up there, but she works for you, right? Do you think you could talk to her about it?"
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_apartmentresident_telexlogs_01:5
+msgctxt "conversations/04_monarch/0402/0402_cv_apartmentresident_telexlogs_01:5:DefaultText"
+msgid "[TO: I. Rose]"
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_apartmentresident_telexlogs_01:6
+msgctxt "conversations/04_monarch/0402/0402_cv_apartmentresident_telexlogs_01:6:DefaultText"
+msgid "Isaac,\r\n"
+"\r\n"
+"Can you PLEASE try to keep your windows shut? As I've tried to explain, leaving them open - especially when you've got food out - invites mantiswarms, and a mantiswarm infestation is EVERYONE'S problem."
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_apartmentresident_telexlogs_01:7
+msgctxt "conversations/04_monarch/0402/0402_cv_apartmentresident_telexlogs_01:7:DefaultText"
+msgid "[TO: B. Hecht]"
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_apartmentresident_telexlogs_01:8
+msgctxt "conversations/04_monarch/0402/0402_cv_apartmentresident_telexlogs_01:8:DefaultText"
+msgid "Braxton,\r\n"
+"\r\n"
+"I know you keep odd hours (I know because I've heard you coming and going at all times of the day/night, ha ha), but maybe you could try to close your door a little more quietly? \r\n"
+"\r\n"
+"I have rather sensitive nerves, and every time I hear your door, I think we're in the middle of another Amber Heights."
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_apartmentresident_telexlogs_01:9
+msgctxt "conversations/04_monarch/0402/0402_cv_apartmentresident_telexlogs_01:9:DefaultText"
+msgid "[Return to Root]"
+msgstr ""

@@ -1,0 +1,374 @@
+#: quests/00_emeraldvale/pq_0002_activategeothermalplant:0
+msgctxt "quests/00_emeraldvale/pq_0002_activategeothermalplant:0:DefaultText"
+msgid "Comes Now the Power"
+msgstr ""
+
+#: quests/00_emeraldvale/pq_0002_activategeothermalplant:1
+msgctxt "quests/00_emeraldvale/pq_0002_activategeothermalplant:1:DefaultText"
+msgid "Deliver Reed's Message"
+msgstr ""
+
+#: quests/00_emeraldvale/pq_0002_activategeothermalplant:2
+msgctxt "quests/00_emeraldvale/pq_0002_activategeothermalplant:2:DefaultText"
+msgid "Divert Power from the Geothermal Plant"
+msgstr ""
+
+#: quests/00_emeraldvale/pq_0002_activategeothermalplant:4
+msgctxt "quests/00_emeraldvale/pq_0002_activategeothermalplant:4:DefaultText"
+msgid "Convince the Deserters to Return"
+msgstr ""
+
+#: quests/00_emeraldvale/pq_0002_activategeothermalplant:9
+msgctxt "quests/00_emeraldvale/pq_0002_activategeothermalplant:9:DefaultText"
+msgid "Return to Reed"
+msgstr ""
+
+#: quests/00_emeraldvale/pq_0002_activategeothermalplant:13
+msgctxt "quests/00_emeraldvale/pq_0002_activategeothermalplant:13:DefaultText"
+msgid "Return to Adelaide"
+msgstr ""
+
+#: quests/00_emeraldvale/pq_0002_activategeothermalplant:14
+msgctxt "quests/00_emeraldvale/pq_0002_activategeothermalplant:14:DefaultText"
+msgid "Divert Power from the Geothermal Plant"
+msgstr ""
+
+#: quests/00_emeraldvale/pq_0002_activategeothermalplant:15
+msgctxt "quests/00_emeraldvale/pq_0002_activategeothermalplant:15:DefaultText"
+msgid "Return to Reed"
+msgstr ""
+
+#: quests/00_emeraldvale/pq_0002_activategeothermalplant:21
+msgctxt "quests/00_emeraldvale/pq_0002_activategeothermalplant:21:DefaultText"
+msgid "Speak to Adelaide"
+msgstr ""
+
+#: quests/00_emeraldvale/pq_0002_activategeothermalplant:23
+msgctxt "quests/00_emeraldvale/pq_0002_activategeothermalplant:23:DefaultText"
+msgid "Return to Reed"
+msgstr ""
+
+#: quests/00_emeraldvale/pq_0002_activategeothermalplant:26
+msgctxt "quests/00_emeraldvale/pq_0002_activategeothermalplant:26:DefaultText"
+msgid "Divert Power from the Geothermal Plant"
+msgstr ""
+
+#: quests/00_emeraldvale/pq_0002_activategeothermalplant:27
+msgctxt "quests/00_emeraldvale/pq_0002_activategeothermalplant:27:DefaultText"
+msgid "Return to Reed"
+msgstr ""
+
+#: quests/00_emeraldvale/pq_0002_activategeothermalplant:31
+msgctxt "quests/00_emeraldvale/pq_0002_activategeothermalplant:31:DefaultText"
+msgid "(Optional) Remove Reed from Edgewater"
+msgstr ""
+
+#: quests/00_emeraldvale/pq_0002_activategeothermalplant:35
+msgctxt "quests/00_emeraldvale/pq_0002_activategeothermalplant:35:DefaultText"
+msgid "(Optional) Reprogram the Automechanicals"
+msgstr ""
+
+#: quests/00_emeraldvale/pq_0002_activategeothermalplant:37
+msgctxt "quests/00_emeraldvale/pq_0002_activategeothermalplant:37:DefaultText"
+msgid "(Optional) Speak to the Vicar"
+msgstr ""
+
+#: quests/00_emeraldvale/pq_0002_activategeothermalplant:40
+msgctxt "quests/00_emeraldvale/pq_0002_activategeothermalplant:40:DefaultText"
+msgid "Divert Power from the Geothermal Plant"
+msgstr ""
+
+#: quests/00_emeraldvale/pq_0002_activategeothermalplant:46
+msgctxt "quests/00_emeraldvale/pq_0002_activategeothermalplant:46:DefaultText"
+msgid "Speak to Adelaide"
+msgstr ""
+
+#: quests/00_emeraldvale/pq_0002_activategeothermalplant:47
+msgctxt "quests/00_emeraldvale/pq_0002_activategeothermalplant:47:DefaultText"
+msgid "Return to Adelaide"
+msgstr ""
+
+#: quests/00_emeraldvale/pq_0002_activategeothermalplant:55
+msgctxt "quests/00_emeraldvale/pq_0002_activategeothermalplant:55:DefaultText"
+msgid "Divert Power from the Geothermal Plant"
+msgstr ""
+
+#: quests/00_emeraldvale/pq_0002_activategeothermalplant:10000
+msgctxt "quests/00_emeraldvale/pq_0002_activategeothermalplant:10000:DefaultText"
+msgid "Workers are abandoning the town of Edgewater. Reed Tobson, Edgewater's administrator, wants to force these deserters to return to town by shutting off their power."
+msgstr ""
+
+#: quests/00_emeraldvale/pq_0002_activategeothermalplant:10001
+msgctxt "quests/00_emeraldvale/pq_0002_activategeothermalplant:10001:DefaultText"
+msgid "Reed asked you to deliver a message to Adelaide and her deserters: come back to town, because he's cutting off their power. Adelaide and her people are camped out in the Botanical Lab, north of Edgewater."
+msgstr ""
+
+#: quests/00_emeraldvale/pq_0002_activategeothermalplant:10002
+msgctxt "quests/00_emeraldvale/pq_0002_activategeothermalplant:10002:DefaultText"
+msgid "You delivered Reed's message, but Adelaide refused to return to Edgewater. Head to the Geothermal Plant and redirect the power."
+msgstr ""
+
+#: quests/00_emeraldvale/pq_0002_activategeothermalplant:10004
+msgctxt "quests/00_emeraldvale/pq_0002_activategeothermalplant:10004:DefaultText"
+msgid "Now that their power is off, you should have an easier time convincing the deserters to move back."
+msgstr ""
+
+#: quests/00_emeraldvale/pq_0002_activategeothermalplant:10009
+msgctxt "quests/00_emeraldvale/pq_0002_activategeothermalplant:10009:DefaultText"
+msgid "You convinced the deserters to return to Edgewater, but Adelaide refused to go back. Reed will want to know."
+msgstr ""
+
+#: quests/00_emeraldvale/pq_0002_activategeothermalplant:10013
+msgctxt "quests/00_emeraldvale/pq_0002_activategeothermalplant:10013:DefaultText"
+msgid "Reed has been removed from Edgewater. Return to Adelaide and tell her the news."
+msgstr ""
+
+#: quests/00_emeraldvale/pq_0002_activategeothermalplant:10014
+msgctxt "quests/00_emeraldvale/pq_0002_activategeothermalplant:10014:DefaultText"
+msgid "With Adelaide dead, negotiating with the other deserters should be straightforward. Reed still wants you to divert power from the geothermal plant to Edgewater."
+msgstr ""
+
+#: quests/00_emeraldvale/pq_0002_activategeothermalplant:10015
+msgctxt "quests/00_emeraldvale/pq_0002_activategeothermalplant:10015:DefaultText"
+msgid "You entered the geothermal plant and diverted power to the Edgewater cannery. Return to Reed and report your progress."
+msgstr ""
+
+#: quests/00_emeraldvale/pq_0002_activategeothermalplant:10021
+msgctxt "quests/00_emeraldvale/pq_0002_activategeothermalplant:10021:DefaultText"
+msgid "The terminal in Reed's office mentioned a woman named Adelaide. One of Reed's major regrets was failing to convince her to move back to Edgewater. Travel to the Botanical Lab district where she resides and see if you can do better."
+msgstr ""
+
+#: quests/00_emeraldvale/pq_0002_activategeothermalplant:10023
+msgctxt "quests/00_emeraldvale/pq_0002_activategeothermalplant:10023:DefaultText"
+msgid "You diverted Edgewater's power to the Botanical Lab. Reed must be furious."
+msgstr ""
+
+#: quests/00_emeraldvale/pq_0002_activategeothermalplant:10026
+msgctxt "quests/00_emeraldvale/pq_0002_activategeothermalplant:10026:DefaultText"
+msgid "Adelaide wants you to divert Edgewater's power to the Botanical Lab. Or you could stick to Reed's original plan and send the Botanical Lab's power to Edgewater's cannery."
+msgstr ""
+
+#: quests/00_emeraldvale/pq_0002_activategeothermalplant:10027
+msgctxt "quests/00_emeraldvale/pq_0002_activategeothermalplant:10027:DefaultText"
+msgid "Adelaide wasn't convinced by your use of deadly force, and is no longer capable of seeing the merits of your arguments. Return to Edgewater and let Reed know that she and the deserters will not be coming back."
+msgstr ""
+
+#: quests/00_emeraldvale/pq_0002_activategeothermalplant:10031
+msgctxt "quests/00_emeraldvale/pq_0002_activategeothermalplant:10031:DefaultText"
+msgid "Adelaide refuses to return to Edgewater unless Reed is out of the picture. Her people will follow her back to town, if she returns."
+msgstr ""
+
+#: quests/00_emeraldvale/pq_0002_activategeothermalplant:10035
+msgctxt "quests/00_emeraldvale/pq_0002_activategeothermalplant:10035:DefaultText"
+msgid "Chester gave you a passcode to a terminal located elsewhere in the plant. This terminal allows you to reprogram the plant's automechanicals. Changing their behavior might make getting around in the plant easier."
+msgstr ""
+
+#: quests/00_emeraldvale/pq_0002_activategeothermalplant:10037
+msgctxt "quests/00_emeraldvale/pq_0002_activategeothermalplant:10037:DefaultText"
+msgid "Parvati wants to visit the town's Vicar. She's a little uncertain about the task Reed has set before you. The Vicar might be able to provide some moral guidance."
+msgstr ""
+
+#: quests/00_emeraldvale/pq_0002_activategeothermalplant:10040
+msgctxt "quests/00_emeraldvale/pq_0002_activategeothermalplant:10040:DefaultText"
+msgid "You entered the geothermal plant without first speaking to Adelaide. If you divert power to Edgewater without giving her a fair warning, she's going to be upset."
+msgstr ""
+
+#: quests/00_emeraldvale/pq_0002_activategeothermalplant:10046
+msgctxt "quests/00_emeraldvale/pq_0002_activategeothermalplant:10046:DefaultText"
+msgid "With Reed dead, there's no longer any need to deliver his message. But it sounded like there was some enmity between him and this Adelaide. It might be worth talking to her, if only to pass along the news of Reed's untimely demise."
+msgstr ""
+
+#: quests/00_emeraldvale/pq_0002_activategeothermalplant:10047
+msgctxt "quests/00_emeraldvale/pq_0002_activategeothermalplant:10047:DefaultText"
+msgid "You diverted the Botanical Lab's power to the Edgewater cannery. Adelaide will probably be upset."
+msgstr ""
+
+#: quests/00_emeraldvale/pq_0002_activategeothermalplant:10055
+msgctxt "quests/00_emeraldvale/pq_0002_activategeothermalplant:10055:DefaultText"
+msgid "You managed to gravely offend the deserters. Adelaide won't speak with you. Reed still wants the geothermal plant's power sent to Edgewater."
+msgstr ""
+
+#: quests/00_emeraldvale/pq_0002_activategeothermalplant:20000
+msgctxt "quests/00_emeraldvale/pq_0002_activategeothermalplant:20000:DefaultText"
+msgid "Adelaide proposed that you divert the geothermal plant's output to the Botanical Lab, depriving Edgewater of power."
+msgstr ""
+
+#: quests/00_emeraldvale/pq_0002_activategeothermalplant:20001
+msgctxt "quests/00_emeraldvale/pq_0002_activategeothermalplant:20001:DefaultText"
+msgid "Adelaide refused to move back. You may have more luck convincing some of the other deserters. In particular, she suggested you speak to Grace or Thomas, as the others will listen to them."
+msgstr ""
+
+#: quests/00_emeraldvale/pq_0002_activategeothermalplant:20002
+msgctxt "quests/00_emeraldvale/pq_0002_activategeothermalplant:20002:DefaultText"
+msgid "The plant's master control terminal is reporting that three switches must be activated before you can redirect power."
+msgstr ""
+
+#: quests/00_emeraldvale/pq_0002_activategeothermalplant:20003
+msgctxt "quests/00_emeraldvale/pq_0002_activategeothermalplant:20003:DefaultText"
+msgid "A log you found revealed that the security chief locked the items he confiscated from Chester in the closet next to the security office. The security chief should have the key on him."
+msgstr ""
+
+#: quests/00_emeraldvale/pq_0002_activategeothermalplant:20004
+msgctxt "quests/00_emeraldvale/pq_0002_activategeothermalplant:20004:DefaultText"
+msgid "The last log the security chief wrote mentioned that he was heading down to the automechanical control room when the mechanicals first went crazy."
+msgstr ""
+
+#: quests/00_emeraldvale/pq_0002_activategeothermalplant:20005
+msgctxt "quests/00_emeraldvale/pq_0002_activategeothermalplant:20005:DefaultText"
+msgid "After speaking with Thomas, you discovered he wants to move back to Edgewater."
+msgstr ""
+
+#: quests/00_emeraldvale/pq_0002_activategeothermalplant:20006
+msgctxt "quests/00_emeraldvale/pq_0002_activategeothermalplant:20006:DefaultText"
+msgid "After speaking with Grace, you discovered she wants to move back to Edgewater."
+msgstr ""
+
+#: quests/00_emeraldvale/pq_0002_activategeothermalplant:20007
+msgctxt "quests/00_emeraldvale/pq_0002_activategeothermalplant:20007:DefaultText"
+msgid "You diverted the region's power to the town of Edgewater. The Botanical Lab is now without power. While you no longer need the Vicar's advice on the matter, it may still be worth meeting him."
+msgstr ""
+
+#: quests/00_emeraldvale/pq_0002_activategeothermalplant:20008
+msgctxt "quests/00_emeraldvale/pq_0002_activategeothermalplant:20008:DefaultText"
+msgid "You diverted the region's power to the Botanical Lab. Edgewater is now without power. While you no longer need the Vicar's advice on the matter, you may still want to meet him."
+msgstr ""
+
+#: quests/00_emeraldvale/pq_0002_activategeothermalplant:20009
+msgctxt "quests/00_emeraldvale/pq_0002_activategeothermalplant:20009:DefaultText"
+msgid "You killed Adelaide."
+msgstr ""
+
+#: quests/00_emeraldvale/pq_0002_activategeothermalplant:20010
+msgctxt "quests/00_emeraldvale/pq_0002_activategeothermalplant:20010:DefaultText"
+msgid "You killed Reed."
+msgstr ""
+
+#: quests/00_emeraldvale/pq_0002_activategeothermalplant:20012
+msgctxt "quests/00_emeraldvale/pq_0002_activategeothermalplant:20012:DefaultText"
+msgid "You killed Adelaide."
+msgstr ""
+
+#: quests/00_emeraldvale/pq_0002_activategeothermalplant:20013
+msgctxt "quests/00_emeraldvale/pq_0002_activategeothermalplant:20013:DefaultText"
+msgid "You killed Reed."
+msgstr ""
+
+#: quests/00_emeraldvale/pq_0002_activategeothermalplant:20014
+msgctxt "quests/00_emeraldvale/pq_0002_activategeothermalplant:20014:DefaultText"
+msgid "Adelaide and her people had a falling out regarding their decision to return to Edgewater. Even getting rid of Reed won't persuade her to return now."
+msgstr ""
+
+#: quests/00_emeraldvale/pq_0002_activategeothermalplant:20015
+msgctxt "quests/00_emeraldvale/pq_0002_activategeothermalplant:20015:DefaultText"
+msgid "Apparently you didn't need the Vicar's advice, because you killed him."
+msgstr ""
+
+#: quests/00_emeraldvale/pq_0002_activategeothermalplant:20016
+msgctxt "quests/00_emeraldvale/pq_0002_activategeothermalplant:20016:DefaultText"
+msgid "You chose not to deliver Reed's message and went straight to the geothermal plant."
+msgstr ""
+
+#: quests/00_emeraldvale/pq_0002_activategeothermalplant:20017
+msgctxt "quests/00_emeraldvale/pq_0002_activategeothermalplant:20017:DefaultText"
+msgid "All three switches have been flipped. You should now be able to redirect the plant's power from the master control terminal."
+msgstr ""
+
+#: quests/00_emeraldvale/pq_0002_activategeothermalplant:20018
+msgctxt "quests/00_emeraldvale/pq_0002_activategeothermalplant:20018:DefaultText"
+msgid "You might be able to convince Grace and Thomas to return to Edgewater on their own. However, Adelaide won't be pleased."
+msgstr ""
+
+#: quests/00_emeraldvale/pq_0002_activategeothermalplant:20019
+msgctxt "quests/00_emeraldvale/pq_0002_activategeothermalplant:20019:DefaultText"
+msgid "With all the automechanicals in the plant out of commission, there's no need to modify their behavior."
+msgstr ""
+
+#: quests/00_emeraldvale/pq_0002_activategeothermalplant:20020
+msgctxt "quests/00_emeraldvale/pq_0002_activategeothermalplant:20020:DefaultText"
+msgid "You activated one of the switches needed to redirect power."
+msgstr ""
+
+#: quests/00_emeraldvale/pq_0002_activategeothermalplant:20021
+msgctxt "quests/00_emeraldvale/pq_0002_activategeothermalplant:20021:DefaultText"
+msgid "You activated a second switch in the geothermal plant."
+msgstr ""
+
+#: quests/00_emeraldvale/pq_0002_activategeothermalplant:20022
+msgctxt "quests/00_emeraldvale/pq_0002_activategeothermalplant:20022:DefaultText"
+msgid "Reed is dead. There's no point in asking the Vicar about Reed's plans."
+msgstr ""
+
+#: quests/00_emeraldvale/pq_0002_activategeothermalplant:20023
+msgctxt "quests/00_emeraldvale/pq_0002_activategeothermalplant:20023:DefaultText"
+msgid "With Adelaide dead, there's no longer a need to ask the Vicar about Reed's task."
+msgstr ""
+
+#: quests/00_emeraldvale/pq_0002_activategeothermalplant:30000
+msgctxt "quests/00_emeraldvale/pq_0002_activategeothermalplant:30000:DefaultText"
+msgid "You convinced the deserters to move back to Edgewater, but Adelaide refused to return with them. Reed was pleased, and rewarded you."
+msgstr ""
+
+#: quests/00_emeraldvale/pq_0002_activategeothermalplant:30001
+msgctxt "quests/00_emeraldvale/pq_0002_activategeothermalplant:30001:DefaultText"
+msgid "With Reed gone, Adelaide will undoubtedly take control of Edgewater."
+msgstr ""
+
+#: quests/00_emeraldvale/pq_0002_activategeothermalplant:30002
+msgctxt "quests/00_emeraldvale/pq_0002_activategeothermalplant:30002:DefaultText"
+msgid "Adelaide is dead. You reactivated the geothermal plant, and it is now powering Edgewater."
+msgstr ""
+
+#: quests/00_emeraldvale/pq_0002_activategeothermalplant:30003
+msgctxt "quests/00_emeraldvale/pq_0002_activategeothermalplant:30003:DefaultText"
+msgid "With the power from the geothermal plant diverted to Adelaide's camp, Reed's plans are undone. You should be able to take the power regulator from Edgewater."
+msgstr ""
+
+#: quests/00_emeraldvale/pq_0002_activategeothermalplant:30004
+msgctxt "quests/00_emeraldvale/pq_0002_activategeothermalplant:30004:DefaultText"
+msgid "You sent power to the Botanical Lab, but without Adelaide, the deserters living there won't last long."
+msgstr ""
+
+#: quests/00_emeraldvale/pq_0002_activategeothermalplant:30005
+msgctxt "quests/00_emeraldvale/pq_0002_activategeothermalplant:30005:DefaultText"
+msgid "Reed and Adelaide are both gone. Without their leadership, their respective communities are doomed."
+msgstr ""
+
+#: quests/00_emeraldvale/pq_0002_activategeothermalplant:30006
+msgctxt "quests/00_emeraldvale/pq_0002_activategeothermalplant:30006:DefaultText"
+msgid "You redirected the geothermal plant's power to Edgewater, which will allow you to take the power regulator from the transformer in the Botanical Lab district."
+msgstr ""
+
+#: quests/00_emeraldvale/pq_0002_activategeothermalplant:30007
+msgctxt "quests/00_emeraldvale/pq_0002_activategeothermalplant:30007:DefaultText"
+msgid "You redirected the geothermal plant's power to the Botanical Lab, which will allow you to take the power regulator from the transformer in Edgewater's cannery."
+msgstr ""
+
+#: quests/00_emeraldvale/pq_0002_activategeothermalplant:30008
+msgctxt "quests/00_emeraldvale/pq_0002_activategeothermalplant:30008:DefaultText"
+msgid "You diverted the geothermal plant's power to the Botanical Lab, which will allow you to take the power regulator from the transformer in Edgewater's cannery. You also killed Reed, ostensibly because it seemed like a good idea at the time. Lacking both power and strong leadership, the town is almost certainly doomed."
+msgstr ""
+
+#: quests/00_emeraldvale/pq_0002_activategeothermalplant:30009
+msgctxt "quests/00_emeraldvale/pq_0002_activategeothermalplant:30009:DefaultText"
+msgid "You diverted the geothermal plant's power to Edgewater, and convinced Adelaide's deserters to move back to the town without her. A job well done, except you also killed Reed. Without his leadership, Edgewater will likely suffer, particularly since it now has more people to support."
+msgstr ""
+
+#: quests/00_emeraldvale/pq_0002_activategeothermalplant:30010
+msgctxt "quests/00_emeraldvale/pq_0002_activategeothermalplant:30010:DefaultText"
+msgid "Everyone in Edgewater wants you dead, so Reed is unlikely to care about your further efforts on his behalf."
+msgstr ""
+
+#: quests/00_emeraldvale/pq_0002_activategeothermalplant:30011
+msgctxt "quests/00_emeraldvale/pq_0002_activategeothermalplant:30011:DefaultText"
+msgid "Everyone at the Botanical Lab wants you dead, so visiting Adelaide is probably no longer a good idea."
+msgstr ""
+
+#: quests/00_emeraldvale/pq_0002_activategeothermalplant:30012
+msgctxt "quests/00_emeraldvale/pq_0002_activategeothermalplant:30012:DefaultText"
+msgid "Hostile mechanicals have been unleashed on Edgewater, so getting the deserters to move back is no longer high on Reed's list of priorities."
+msgstr ""
+
+#: quests/00_emeraldvale/pq_0002_activategeothermalplant:40001
+msgctxt "quests/00_emeraldvale/pq_0002_activategeothermalplant:40001:DefaultText"
+msgid "You found a message on a terminal in Reed's office that mentioned him wishing he had been able to get a woman named Adelaide and her followers to move back to Edgewater. Not sure why you'd carry out the last wishes of a man you ruthlessly murdered for no reason, but maybe logic doesn't enter into it."
+msgstr ""

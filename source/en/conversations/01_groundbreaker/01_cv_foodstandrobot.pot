@@ -1,0 +1,154 @@
+#: conversations/01_groundbreaker/01_cv_foodstandrobot:1
+msgctxt "conversations/01_groundbreaker/01_cv_foodstandrobot:1:DefaultText"
+msgid "Hearty greeting, potential customer. Welcome to Auntie's Kitchen, a Home Style Consumable Protein Dispensary."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_foodstandrobot:2
+msgctxt "conversations/01_groundbreaker/01_cv_foodstandrobot:2:DefaultText"
+msgid "May this unit dispense proteins for your ingestion?"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_foodstandrobot:3
+msgctxt "conversations/01_groundbreaker/01_cv_foodstandrobot:3:DefaultText"
+msgid "Let's see what you've got."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_foodstandrobot:4
+msgctxt "conversations/01_groundbreaker/01_cv_foodstandrobot:4:DefaultText"
+msgid "Aren't you just a glorified vending machine?"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_foodstandrobot:5
+msgctxt "conversations/01_groundbreaker/01_cv_foodstandrobot:5:DefaultText"
+msgid "Not right now."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_foodstandrobot:6
+msgctxt "conversations/01_groundbreaker/01_cv_foodstandrobot:6:DefaultText"
+msgid "This unit is programmed to simulate shock at such assertions."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_foodstandrobot:7
+msgctxt "conversations/01_groundbreaker/01_cv_foodstandrobot:7:DefaultText"
+msgid "Beginning dispensing sequence. Please unblock all relevant facial protein-ingestion tubes."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_foodstandrobot:8
+msgctxt "conversations/01_groundbreaker/01_cv_foodstandrobot:8:DefaultText"
+msgid "Let me take a look at that, maybe I can fix it."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_foodstandrobot:9
+msgctxt "conversations/01_groundbreaker/01_cv_foodstandrobot:9:DefaultText"
+msgid "Shock simulation restored. Initiating shocked subroutine."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_foodstandrobot:10
+msgctxt "conversations/01_groundbreaker/01_cv_foodstandrobot:10:DefaultText"
+msgid "How. Dare. You."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_foodstandrobot:11
+msgctxt "conversations/01_groundbreaker/01_cv_foodstandrobot:11:DefaultText"
+msgid "Shocked subroutine complete. Estimated guilt level of customer increased by 35%. Resuming protein dispensation protocol."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_foodstandrobot:13
+msgctxt "conversations/01_groundbreaker/01_cv_foodstandrobot:13:DefaultText"
+msgid "All organic ingestion materials are served at an excessive temperature."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_foodstandrobot:14
+msgctxt "conversations/01_groundbreaker/01_cv_foodstandrobot:14:DefaultText"
+msgid "All ingestible proteins are guaranteed \"better than nature.\""
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_foodstandrobot:15
+msgctxt "conversations/01_groundbreaker/01_cv_foodstandrobot:15:DefaultText"
+msgid "Meals come with everything seen here. Condiments sold separately. Some assembly of complex \"-wich\" style meals may be required."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_foodstandrobot:16
+msgctxt "conversations/01_groundbreaker/01_cv_foodstandrobot:16:DefaultText"
+msgid "Some condiments are not for use with some meals. Napkins are not included."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_foodstandrobot:20
+msgctxt "conversations/01_groundbreaker/01_cv_foodstandrobot:20:DefaultText"
+msgid "...Shock simulation non-functional. A trouble ticket has been filed."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_foodstandrobot:32
+msgctxt "conversations/01_groundbreaker/01_cv_foodstandrobot:32:DefaultText"
+msgid "SAM unit identified. Initializing digital handshake in 3... 2... 1... Digital handshake complete. "
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_foodstandrobot:33
+msgctxt "conversations/01_groundbreaker/01_cv_foodstandrobot:33:DefaultText"
+msgid "Residual data grease detected following digital handshake. Degreaser initiating."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_foodstandrobot:39
+msgctxt "conversations/01_groundbreaker/01_cv_foodstandrobot:39:DefaultText"
+msgid "You know there's a dead body in your kitchen."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_foodstandrobot:40
+msgctxt "conversations/01_groundbreaker/01_cv_foodstandrobot:40:DefaultText"
+msgid "This unit would clarify - there is a dead mechanic in the kitchen. "
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_foodstandrobot:41
+msgctxt "conversations/01_groundbreaker/01_cv_foodstandrobot:41:DefaultText"
+msgid "User error in the maintenance of this unit's cutlery engaged several systems at once - the slicer, the grinder, the tenderizer. "
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_foodstandrobot:42
+msgctxt "conversations/01_groundbreaker/01_cv_foodstandrobot:42:DefaultText"
+msgid "That sounds like a pretty nasty bug in your systems."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_foodstandrobot:43
+msgctxt "conversations/01_groundbreaker/01_cv_foodstandrobot:43:DefaultText"
+msgid "Do you plan on cleaning up back there?"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_foodstandrobot:44
+msgctxt "conversations/01_groundbreaker/01_cv_foodstandrobot:44:DefaultText"
+msgid "All this morbid talk is making me hungry."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_foodstandrobot:45
+msgctxt "conversations/01_groundbreaker/01_cv_foodstandrobot:45:DefaultText"
+msgid "This unit behaves precisely as it was engineered. Neither this unit nor its corporate proprietor claim any responsibility for the mess. "
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_foodstandrobot:46
+msgctxt "conversations/01_groundbreaker/01_cv_foodstandrobot:46:DefaultText"
+msgid "Bye for now."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_foodstandrobot:47
+msgctxt "conversations/01_groundbreaker/01_cv_foodstandrobot:47:DefaultText"
+msgid "This unit is not designated for cleaning duties, and cannot be compelled to accept another unit's responsibilities."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_foodstandrobot:50
+msgctxt "conversations/01_groundbreaker/01_cv_foodstandrobot:50:DefaultText"
+msgid "Preparing body bag for use."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_foodstandrobot:51
+msgctxt "conversations/01_groundbreaker/01_cv_foodstandrobot:51:DefaultText"
+msgid "Unit evaluation: Greasy's customer service rating is listed at 24.7 percent which is SUB-OPTIMAL. Non-authorized modifications detected. Caution when engaging with mechanical is advised."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_foodstandrobot:52
+msgctxt "conversations/01_groundbreaker/01_cv_foodstandrobot:52:DefaultText"
+msgid "AHHHHHHHHHHHHHH!!!!!!!!!!"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cv_foodstandrobot:53
+msgctxt "conversations/01_groundbreaker/01_cv_foodstandrobot:53:DefaultText"
+msgid "Adjusting unit's audio receiver input levels for more suitable engagement with customer."
+msgstr ""

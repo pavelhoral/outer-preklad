@@ -1,0 +1,112 @@
+#: conversations/08_roseway/08_cp_cleo_lab_archive_terminal:9
+msgctxt "conversations/08_roseway/08_cp_cleo_lab_archive_terminal:9:DefaultText"
+msgid "[Exit]"
+msgstr ""
+
+#: conversations/08_roseway/08_cp_cleo_lab_archive_terminal:10
+msgctxt "conversations/08_roseway/08_cp_cleo_lab_archive_terminal:10:DefaultText"
+msgid "[Experimental Notes]"
+msgstr ""
+
+#: conversations/08_roseway/08_cp_cleo_lab_archive_terminal:11
+msgctxt "conversations/08_roseway/08_cp_cleo_lab_archive_terminal:11:DefaultText"
+msgid "RAPTIDON FLUID INGESTION TEST\r\n"
+"------------------------------\r\n"
+"1. Objective\r\n"
+"2. Procedure\r\n"
+"3. Results"
+msgstr ""
+
+#: conversations/08_roseway/08_cp_cleo_lab_archive_terminal:12
+msgctxt "conversations/08_roseway/08_cp_cleo_lab_archive_terminal:12:DefaultText"
+msgid "[Raptidon Fluid Ingestion Test: Objective]"
+msgstr ""
+
+#: conversations/08_roseway/08_cp_cleo_lab_archive_terminal:13
+msgctxt "conversations/08_roseway/08_cp_cleo_lab_archive_terminal:13:DefaultText"
+msgid "[Raptidon Fluid Ingestion Test: Procedure]"
+msgstr ""
+
+#: conversations/08_roseway/08_cp_cleo_lab_archive_terminal:14
+msgctxt "conversations/08_roseway/08_cp_cleo_lab_archive_terminal:14:DefaultText"
+msgid "[Raptidon Fluid Ingestion Test: Results]"
+msgstr ""
+
+#: conversations/08_roseway/08_cp_cleo_lab_archive_terminal:15
+msgctxt "conversations/08_roseway/08_cp_cleo_lab_archive_terminal:15:DefaultText"
+msgid "[Exit]"
+msgstr ""
+
+#: conversations/08_roseway/08_cp_cleo_lab_archive_terminal:16
+msgctxt "conversations/08_roseway/08_cp_cleo_lab_archive_terminal:16:DefaultText"
+msgid "Objective: Determine the maximum amount of raptidon digestive acid that can be safely ingested by humans before adverse effects present themselves."
+msgstr ""
+
+#: conversations/08_roseway/08_cp_cleo_lab_archive_terminal:17
+msgctxt "conversations/08_roseway/08_cp_cleo_lab_archive_terminal:17:DefaultText"
+msgid "Proposed procedure: Slowly introduce increasing amounts of raptidon digestive acid into the evening meals of randomly selected workers and observe their overall health."
+msgstr ""
+
+#: conversations/08_roseway/08_cp_cleo_lab_archive_terminal:18
+msgctxt "conversations/08_roseway/08_cp_cleo_lab_archive_terminal:18:DefaultText"
+msgid "1 MILLILITER - Minor stomach pain and nausea. Safe.\r\n"
+"2 MILLILITERS - Minor stomach pain, extreme nausea. Safe.\r\n"
+"3 MILLILITERS - Major stomach pain, debilitating nausea, some vomiting. Potentially unsafe in the workplace.\r\n"
+"4 MILLILITERS - Temporary blindness; frequent vomiting; patient unable to describe pain. Unsafe.\r\n"
+"5 MILLILITERS - Unable to record symptoms as patient died within the hour."
+msgstr ""
+
+#: conversations/08_roseway/08_cp_cleo_lab_archive_terminal:23
+msgctxt "conversations/08_roseway/08_cp_cleo_lab_archive_terminal:23:DefaultText"
+msgid "Argos Security Systems\n"
+"---------------------------------\n"
+"SECURITY LOCKDOWN\n"
+"\n"
+"All personnel please report to assigned workstations. Report suspicious activity to the nearest Site Safety Engineer.\n"
+"---------------------------------\n"
+"Auntie Cleo Auntie-Biotics™: served fresh from our petri dishes to YOUR personal crevices."
+msgstr ""
+
+#: conversations/08_roseway/08_cp_cleo_lab_archive_terminal:25
+msgctxt "conversations/08_roseway/08_cp_cleo_lab_archive_terminal:25:DefaultText"
+msgid "Argos Security Systems\r\n"
+"---------------------------------\r\n"
+"SECURITY LOCKDOWN\r\n"
+"\r\n"
+"All personnel please report to assigned workstations. Report suspicious activity to the nearest Site Safety Engineer.\r\n"
+"---------------------------------\r\n"
+"Feeling irate? Try Auntie Cleo's Nar-Choc-Lectic™ bars. Now with 3% real CCN76."
+msgstr ""
+
+#: conversations/08_roseway/08_cp_cleo_lab_archive_terminal:28
+msgctxt "conversations/08_roseway/08_cp_cleo_lab_archive_terminal:28:DefaultText"
+msgid "Argos Security Systems\r\n"
+"---------------------------------\r\n"
+"SECURITY LOCKDOWN\r\n"
+"\r\n"
+"All personnel please report to assigned workstations. Report suspicious activity to the nearest Site Safety Engineer.\r\n"
+"---------------------------------\r\n"
+"Tired of itchy acid burns? Try Auntie Cleo's artisanal boarst-scented moisturizing cream."
+msgstr ""
+
+#: conversations/08_roseway/08_cp_cleo_lab_archive_terminal:29
+msgctxt "conversations/08_roseway/08_cp_cleo_lab_archive_terminal:29:DefaultText"
+msgid "Argos Security Systems\r\n"
+"---------------------------------\r\n"
+"SECURITY LOCKDOWN\r\n"
+"\r\n"
+"All personnel please report to assigned workstations. Report suspicious activity to the nearest Site Safety Engineer.\r\n"
+"---------------------------------\r\n"
+"Try Auntie Cleo's Handi-Off™, the surgical stain remover of choice."
+msgstr ""
+
+#: conversations/08_roseway/08_cp_cleo_lab_archive_terminal:30
+msgctxt "conversations/08_roseway/08_cp_cleo_lab_archive_terminal:30:DefaultText"
+msgid "Argos Security Systems\r\n"
+"---------------------------------\r\n"
+"SECURITY LOCKDOWN\r\n"
+"\r\n"
+"All personnel please report to assigned workstations. Report suspicious activity to the nearest Site Safety Engineer.\r\n"
+"---------------------------------\r\n"
+"Unsightly bloodstains? Consider Auntie Cleo's laundry soap. Now with a refreshing lemon zing scent."
+msgstr ""

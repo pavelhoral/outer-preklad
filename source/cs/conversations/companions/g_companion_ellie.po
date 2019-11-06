@@ -1,0 +1,699 @@
+#: conversations/companions/g_companion_ellie:59
+msgctxt "conversations/companions/g_companion_ellie:59:DefaultText"
+msgid "Something on your mind?"
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:60
+msgctxt "conversations/companions/g_companion_ellie:60:DefaultText"
+msgid "If we're going to work together, I'd like to know more about you."
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:61
+msgctxt "conversations/companions/g_companion_ellie:61:DefaultText"
+msgid "Never mind. Let's go."
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:62
+msgctxt "conversations/companions/g_companion_ellie:62:DefaultText"
+msgid "Not much else to know, Captain. I like long walks on the Promenade and the smell of Spacer's Corona. I make a mean Zero Gee cocktail, and I've got a meaner right hook."
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:63
+msgctxt "conversations/companions/g_companion_ellie:63:DefaultText"
+msgid "What's a Zero Gee cocktail?"
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:64
+msgctxt "conversations/companions/g_companion_ellie:64:DefaultText"
+msgid "It's a mix of whatever you've got on hand. Usually Zero Gee Brew with some Spectrum Vodka if you're lucky. Purpleberry Shake if you're not."
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:65
+msgctxt "conversations/companions/g_companion_ellie:65:DefaultText"
+msgid "Inventive. I like it."
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:66
+msgctxt "conversations/companions/g_companion_ellie:66:DefaultText"
+msgid "That sounds disgusting."
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:67
+msgctxt "conversations/companions/g_companion_ellie:67:DefaultText"
+msgid "So you never know what you're getting?"
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:68
+msgctxt "conversations/companions/g_companion_ellie:68:DefaultText"
+msgid "Exactly! That's what makes them fun."
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:69
+msgctxt "conversations/companions/g_companion_ellie:69:DefaultText"
+msgid "Let's get back to business."
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:70
+msgctxt "conversations/companions/g_companion_ellie:70:DefaultText"
+msgid "No complaints here."
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:71
+msgctxt "conversations/companions/g_companion_ellie:71:DefaultText"
+msgid "I'll make you one sometime. If you don't enjoy it, I'll make a few more until you do."
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:72
+msgctxt "conversations/companions/g_companion_ellie:72:DefaultText"
+msgid "Out on the edge of the aether, we learn to make do with what we've got. No room for fancy predilections."
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:73
+msgctxt "conversations/companions/g_companion_ellie:73:DefaultText"
+msgid "Do you have much experience contracting out with other captains?"
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:74
+msgctxt "conversations/companions/g_companion_ellie:74:DefaultText"
+msgid "Sure do. Some of it was even legal."
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:75
+msgctxt "conversations/companions/g_companion_ellie:75:DefaultText"
+msgid "What's that supposed to mean?"
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:76
+msgctxt "conversations/companions/g_companion_ellie:76:DefaultText"
+msgid "You weren't joking about being a pirate."
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:77
+msgctxt "conversations/companions/g_companion_ellie:77:DefaultText"
+msgid "What gave it away? It's the hair, right? Or maybe the ammo belt? I had it custom made."
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:78
+msgctxt "conversations/companions/g_companion_ellie:78:DefaultText"
+msgid "There's a lot of business that goes through the Groundbreaker. Some of it's Board-authorized freight-hauling, and some of it's... not."
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:79
+msgctxt "conversations/companions/g_companion_ellie:79:DefaultText"
+msgid "Wait, you WANT to look like a pirate?"
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:80
+msgctxt "conversations/companions/g_companion_ellie:80:DefaultText"
+msgid "I was hoping to know something more personal about you."
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:81
+msgctxt "conversations/companions/g_companion_ellie:81:DefaultText"
+msgid "I've done all types of work with all kinds of crews. If there's one thing you oughta know about me, it's that I won't tell you your business. Your ship, your way."
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:82
+msgctxt "conversations/companions/g_companion_ellie:82:DefaultText"
+msgid "I keep things aboveboard. I hope that won't be a problem."
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:83
+msgctxt "conversations/companions/g_companion_ellie:83:DefaultText"
+msgid "But there are plenty of frontier towns that'd take issue with you. Settlements that depend on goods \"disappearing\" now and then."
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:84
+msgctxt "conversations/companions/g_companion_ellie:84:DefaultText"
+msgid "That sounds reasonable."
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:85
+msgctxt "conversations/companions/g_companion_ellie:85:DefaultText"
+msgid "As long as you know I've never been much of a rule-follower."
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:86
+msgctxt "conversations/companions/g_companion_ellie:86:DefaultText"
+msgid "Makes two of us, Captain."
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:87
+msgctxt "conversations/companions/g_companion_ellie:87:DefaultText"
+msgid "Not at all. I chose this life to make bits, not waves. "
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:88
+msgctxt "conversations/companions/g_companion_ellie:88:DefaultText"
+msgid "Glad to hear it. It's worked for me this long."
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:89
+msgctxt "conversations/companions/g_companion_ellie:89:DefaultText"
+msgid "Though, if I can offer another perspective, piracy's just trade the corporations don't have a hand in."
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:90
+msgctxt "conversations/companions/g_companion_ellie:90:DefaultText"
+msgid "Didn't you just say you weren't going to tell me my business?"
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:91
+msgctxt "conversations/companions/g_companion_ellie:91:DefaultText"
+msgid "How do you figure that?"
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:92
+msgctxt "conversations/companions/g_companion_ellie:92:DefaultText"
+msgid "It's also murder and thievery."
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:93
+msgctxt "conversations/companions/g_companion_ellie:93:DefaultText"
+msgid "Your casual outlook on legality. "
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:94
+msgctxt "conversations/companions/g_companion_ellie:94:DefaultText"
+msgid "I didn't mean that as a compliment."
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:95
+msgctxt "conversations/companions/g_companion_ellie:95:DefaultText"
+msgid "Gotta figure out how to work that into my aesthetic. Maybe a pair of earrings?"
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:96
+msgctxt "conversations/companions/g_companion_ellie:96:DefaultText"
+msgid "Gotta advertise your business somehow."
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:97
+msgctxt "conversations/companions/g_companion_ellie:97:DefaultText"
+msgid "That's okay. I'm an optimist at heart."
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:98
+msgctxt "conversations/companions/g_companion_ellie:98:DefaultText"
+msgid "That's all I really need to know."
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:99
+msgctxt "conversations/companions/g_companion_ellie:99:DefaultText"
+msgid "I have a feeling we'll get along."
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:100
+msgctxt "conversations/companions/g_companion_ellie:100:DefaultText"
+msgid "And I meant it. I was only making small talk just now, but I can take a hint."
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:101
+msgctxt "conversations/companions/g_companion_ellie:101:DefaultText"
+msgid "Only on good days."
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:102
+msgctxt "conversations/companions/g_companion_ellie:102:DefaultText"
+msgid "Well, they're the ones who set the rules. So I guess you can't blame them for stacking the deck in their favor."
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:103
+msgctxt "conversations/companions/g_companion_ellie:103:DefaultText"
+msgid "But the rest of us have to get by somehow. "
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:104
+msgctxt "conversations/companions/g_companion_ellie:104:DefaultText"
+msgid "Fair enough."
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:105
+msgctxt "conversations/companions/g_companion_ellie:105:DefaultText"
+msgid "That's a rather principled stance."
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:106
+msgctxt "conversations/companions/g_companion_ellie:106:DefaultText"
+msgid "I still disagree."
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:107
+msgctxt "conversations/companions/g_companion_ellie:107:DefaultText"
+msgid "Hey, I'm not out to change anyone's mind."
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:108
+msgctxt "conversations/companions/g_companion_ellie:108:DefaultText"
+msgid "Let's move on to something lighter. All this talk of politics makes me tired. And thirsty."
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:109
+msgctxt "conversations/companions/g_companion_ellie:109:DefaultText"
+msgid "Don't go getting the wrong idea. "
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:110
+msgctxt "conversations/companions/g_companion_ellie:110:DefaultText"
+msgid "I don't have principles. I just don't like being told how to live my life."
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:111
+msgctxt "conversations/companions/g_companion_ellie:111:DefaultText"
+msgid "Relax, that's just a joke."
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:112
+msgctxt "conversations/companions/g_companion_ellie:112:DefaultText"
+msgid "Well, my blood type is AB positive, I'm a Leo, and I despise \"Space Hospital,\" never mind what anyone else tries to tell you."
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:113
+msgctxt "conversations/companions/g_companion_ellie:113:DefaultText"
+msgid "You're deflecting."
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:114
+msgctxt "conversations/companions/g_companion_ellie:114:DefaultText"
+msgid "Where are you from? How'd you get into this line of work?"
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:115
+msgctxt "conversations/companions/g_companion_ellie:115:DefaultText"
+msgid "Okay."
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:117
+msgctxt "conversations/companions/g_companion_ellie:117:DefaultText"
+msgid "That about covers it."
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:118
+msgctxt "conversations/companions/g_companion_ellie:118:DefaultText"
+msgid "Shall we get back to mischief, or what?"
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:119
+msgctxt "conversations/companions/g_companion_ellie:119:DefaultText"
+msgid "Aw, come on. That stuff's boring."
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:120
+msgctxt "conversations/companions/g_companion_ellie:120:DefaultText"
+msgid "Look, the thing I've learned about living in close quarters is that you've gotta give people room to breathe."
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:121
+msgctxt "conversations/companions/g_companion_ellie:121:DefaultText"
+msgid "I'm all for making a few bits together and having fun doing it, but let's keep a little professional distance."
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:123
+msgctxt "conversations/companions/g_companion_ellie:123:DefaultText"
+msgid "Did you have an opinion on the Monarch situation, Ellie?"
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:125
+msgctxt "conversations/companions/g_companion_ellie:125:DefaultText"
+msgid "What do you think about Zora and Sanjar coming to terms?"
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:132
+msgctxt "conversations/companions/g_companion_ellie:132:DefaultText"
+msgid "Any thoughts on Felix's friend?"
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:133
+msgctxt "conversations/companions/g_companion_ellie:133:DefaultText"
+msgid "I take it you've got something to say about Harlow."
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:137
+msgctxt "conversations/companions/g_companion_ellie:137:DefaultText"
+msgid "You have something to say about chasing down the dimethyl sulfoxide?"
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:138
+msgctxt "conversations/companions/g_companion_ellie:138:DefaultText"
+msgid "What do you think about the plan to skip the Hope?"
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:139
+msgctxt "conversations/companions/g_companion_ellie:139:DefaultText"
+msgid "You look like you have something you want to say, Ellie."
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:146
+msgctxt "conversations/companions/g_companion_ellie:146:DefaultText"
+msgid "Anything else?"
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:147
+msgctxt "conversations/companions/g_companion_ellie:147:DefaultText"
+msgid "That got weird earlier, didn't it? I, uh, probably shouldn't have gotten so het up."
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:148
+msgctxt "conversations/companions/g_companion_ellie:148:DefaultText"
+msgid "Well, that's a relief."
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:149
+msgctxt "conversations/companions/g_companion_ellie:149:DefaultText"
+msgid "What was it you said you'd been meaning to do?"
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:150
+msgctxt "conversations/companions/g_companion_ellie:150:DefaultText"
+msgid "Oh, that. It's about my parents."
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:152
+msgctxt "conversations/companions/g_companion_ellie:152:DefaultText"
+msgid "What can you tell me about Byzantium?"
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:153
+msgctxt "conversations/companions/g_companion_ellie:153:DefaultText"
+msgid "Hey, Captain, next time we're in Byzantium, there's something I've been meaning to do."
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:154
+msgctxt "conversations/companions/g_companion_ellie:154:DefaultText"
+msgid "What's that?"
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:155
+msgctxt "conversations/companions/g_companion_ellie:155:DefaultText"
+msgid "We'll talk about it another time."
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:156
+msgctxt "conversations/companions/g_companion_ellie:156:DefaultText"
+msgid "Sure."
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:157
+msgctxt "conversations/companions/g_companion_ellie:157:DefaultText"
+msgid "Make sure it doesn't happen again."
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:158
+msgctxt "conversations/companions/g_companion_ellie:158:DefaultText"
+msgid "I overreacted, too."
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:159
+msgctxt "conversations/companions/g_companion_ellie:159:DefaultText"
+msgid "Sure thing, Captain."
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:160
+msgctxt "conversations/companions/g_companion_ellie:160:DefaultText"
+msgid "Happens to the best of us at the worst of times."
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:161
+msgctxt "conversations/companions/g_companion_ellie:161:DefaultText"
+msgid "Since we're in Byzantium, there's something I've been meaning to do."
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:162
+msgctxt "conversations/companions/g_companion_ellie:162:DefaultText"
+msgid "What's that?"
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:163
+msgctxt "conversations/companions/g_companion_ellie:163:DefaultText"
+msgid "We don't have time for this right now."
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:164
+msgctxt "conversations/companions/g_companion_ellie:164:DefaultText"
+msgid "It's like one of those stuffy art gallery pieces. Looks okay from far off, but once you get close, you realize it's just some mismatched shit everyone's agreed to overpay for."
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:165
+msgctxt "conversations/companions/g_companion_ellie:165:DefaultText"
+msgid "Why did you leave?"
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:166
+msgctxt "conversations/companions/g_companion_ellie:166:DefaultText"
+msgid "I need the lay of the land. Anything I should know?"
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:167
+msgctxt "conversations/companions/g_companion_ellie:167:DefaultText"
+msgid "Must have been interesting growing up there."
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:168
+msgctxt "conversations/companions/g_companion_ellie:168:DefaultText"
+msgid "Enough about Byzantium."
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:169
+msgctxt "conversations/companions/g_companion_ellie:169:DefaultText"
+msgid "That's what I've been saying."
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:170
+msgctxt "conversations/companions/g_companion_ellie:170:DefaultText"
+msgid "Don't trust anyone, don't touch anything, and whatever you do, don't show your teeth when you smile. "
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:173
+msgctxt "conversations/companions/g_companion_ellie:173:DefaultText"
+msgid "I've already forgotten about it."
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:174
+msgctxt "conversations/companions/g_companion_ellie:174:DefaultText"
+msgid "Though if I'd known you let go of things so fast, I would've asked to borrow some bits, too."
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:175
+msgctxt "conversations/companions/g_companion_ellie:175:DefaultText"
+msgid "All I was trying to say back there is that I ought to drop in on my folks when we're in Byzantium."
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:183
+msgctxt "conversations/companions/g_companion_ellie:183:DefaultText"
+msgid "I told you, we're done."
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:184
+msgctxt "conversations/companions/g_companion_ellie:184:DefaultText"
+msgid "About that visit with your parents..."
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:187
+msgctxt "conversations/companions/g_companion_ellie:187:DefaultText"
+msgid "You got your money. How's it feel?"
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:192
+msgctxt "conversations/companions/g_companion_ellie:192:DefaultText"
+msgid "Forget I asked."
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:193
+msgctxt "conversations/companions/g_companion_ellie:193:DefaultText"
+msgid "I'm a surgeon by training and a pirate by inclination."
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:194
+msgctxt "conversations/companions/g_companion_ellie:194:DefaultText"
+msgid "Gladly."
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:195
+msgctxt "conversations/companions/g_companion_ellie:195:DefaultText"
+msgid "Even the bribes are overpriced."
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:196
+msgctxt "conversations/companions/g_companion_ellie:196:DefaultText"
+msgid "Why not?"
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:197
+msgctxt "conversations/companions/g_companion_ellie:197:DefaultText"
+msgid "Is this one of those \"establish dominance\" things?"
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:199
+msgctxt "conversations/companions/g_companion_ellie:199:DefaultText"
+msgid "People are extremely competitive about cosmetic dentistry. It can get ugly."
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:200
+msgctxt "conversations/companions/g_companion_ellie:200:DefaultText"
+msgid "What, like primals? Nah."
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:201
+msgctxt "conversations/companions/g_companion_ellie:201:DefaultText"
+msgid "\"Interesting\" like a colonoscopy."
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:202
+msgctxt "conversations/companions/g_companion_ellie:202:DefaultText"
+msgid "I trained as a surgeon. More my folks' idea than mine, but I made the best of it."
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:203
+msgctxt "conversations/companions/g_companion_ellie:203:DefaultText"
+msgid "Yeah, well. We all learn sometime, don't we?"
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:204
+msgctxt "conversations/companions/g_companion_ellie:204:DefaultText"
+msgid "There's all these invisible rules. And everyone spends all their energy just trying not to break them."
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:205
+msgctxt "conversations/companions/g_companion_ellie:205:DefaultText"
+msgid "The real question is why didn't I leave sooner."
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:206
+msgctxt "conversations/companions/g_companion_ellie:206:DefaultText"
+msgid "What do you mean?"
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:207
+msgctxt "conversations/companions/g_companion_ellie:207:DefaultText"
+msgid "It's called \"society.\""
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:208
+msgctxt "conversations/companions/g_companion_ellie:208:DefaultText"
+msgid "That's exhausting."
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:209
+msgctxt "conversations/companions/g_companion_ellie:209:DefaultText"
+msgid "Call it what you want. It sucks."
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:210
+msgctxt "conversations/companions/g_companion_ellie:210:DefaultText"
+msgid "That's what I said. I'll take stale cigars and rationed showers any day."
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:211
+msgctxt "conversations/companions/g_companion_ellie:211:DefaultText"
+msgid "Sounds like there's a \"but\" to this story."
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:212
+msgctxt "conversations/companions/g_companion_ellie:212:DefaultText"
+msgid "I have a hard time picturing anyone pushing you around."
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:213
+msgctxt "conversations/companions/g_companion_ellie:213:DefaultText"
+msgid "Spare me. Your parents nudged you into a lucrative job where you could help people."
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:214
+msgctxt "conversations/companions/g_companion_ellie:214:DefaultText"
+msgid "Hey, it's not all it's cracked up to be. Didn't help that most of my actual work was tightening calves and firming up chins."
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:215
+msgctxt "conversations/companions/g_companion_ellie:215:DefaultText"
+msgid "Lots of 'em, unfortunately. I even sculpted a few."
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:216
+msgctxt "conversations/companions/g_companion_ellie:216:DefaultText"
+msgid "Turns out Byzantines are more concerned with having square shoulders and a good profile than... well, anything else."
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:217
+msgctxt "conversations/companions/g_companion_ellie:217:DefaultText"
+msgid "I finally got tired of spending my hard-won skills straightening noses and firming up chins. "
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:218
+msgctxt "conversations/companions/g_companion_ellie:218:DefaultText"
+msgid "I was a top-tier surgeon, but I could hardly open a pack of gauze without ten people signing off first."
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:219
+msgctxt "conversations/companions/g_companion_ellie:219:DefaultText"
+msgid "Something tells me that was best for everyone involved."
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:220
+msgctxt "conversations/companions/g_companion_ellie:220:DefaultText"
+msgid "That would drive me crazy."
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:221
+msgctxt "conversations/companions/g_companion_ellie:221:DefaultText"
+msgid "So you had to deal with red tape. What of it?"
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:222
+msgctxt "conversations/companions/g_companion_ellie:222:DefaultText"
+msgid "Now you see why I left."
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:223
+msgctxt "conversations/companions/g_companion_ellie:223:DefaultText"
+msgid "People call Byzantium the jewel of Halcyon, but really? It's just paste."
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:224
+msgctxt "conversations/companions/g_companion_ellie:224:DefaultText"
+msgid "Everything's polish and bureaucracy. Take a close look, and you'll see it's deader than anywhere else in the colony."
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:225
+msgctxt "conversations/companions/g_companion_ellie:225:DefaultText"
+msgid "That's no way to live!"
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:226
+msgctxt "conversations/companions/g_companion_ellie:226:DefaultText"
+msgid "Easy to say when you've never had to ask permission to take a piss."
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:242
+msgctxt "conversations/companions/g_companion_ellie:242:DefaultText"
+msgid "Head back to the ship for now."
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:252
+msgctxt "conversations/companions/g_companion_ellie:252:DefaultText"
+msgid "I think we should part ways."
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:253
+msgctxt "conversations/companions/g_companion_ellie:253:DefaultText"
+msgid "You serious? I thought we were getting along just fine."
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:254
+msgctxt "conversations/companions/g_companion_ellie:254:DefaultText"
+msgid "On second thought, stick around."
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:255
+msgctxt "conversations/companions/g_companion_ellie:255:DefaultText"
+msgid "I mean it. You need to leave."
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:256
+msgctxt "conversations/companions/g_companion_ellie:256:DefaultText"
+msgid "Whatever you say. This was fun while it lasted."
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:257
+msgctxt "conversations/companions/g_companion_ellie:257:DefaultText"
+msgid "Okay. See you around."
+msgstr ""

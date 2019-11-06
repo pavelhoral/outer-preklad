@@ -1,0 +1,121 @@
+#: conversations/01_groundbreaker/01_cp_engineering_radiator_repair:1
+msgctxt "conversations/01_groundbreaker/01_cp_engineering_radiator_repair:1:DefaultText"
+msgid "Lithium Droplet Radiator Array\r\n"
+"\r\n"
+"Fluid Circulation Pump Terminal\r\n"
+"========================\r\n"
+"\r\n"
+"!! == !! WARNING !! == !!\r\n"
+"\r\n"
+"Lithium fluid pressure at 23%\r\n"
+"\r\n"
+"Solid-state radiators at 102% capacity\r\n"
+"PCM heat sinks at 98% capacity\r\n"
+"\r\n"
+"Ambient station temperature +8°C\r\n"
+"Machinery shaft temperature +29°C"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_engineering_radiator_repair:5
+msgctxt "conversations/01_groundbreaker/01_cp_engineering_radiator_repair:5:DefaultText"
+msgid "[Exit]"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_engineering_radiator_repair:6
+msgctxt "conversations/01_groundbreaker/01_cp_engineering_radiator_repair:6:DefaultText"
+msgid "Lithium Droplet Radiator Array\r\n"
+"\r\n"
+"Fluid Circulation Pump Terminal\r\n"
+"========================\r\n"
+"\r\n"
+"Lithium fluid pressure at 99%"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_engineering_radiator_repair:10
+msgctxt "conversations/01_groundbreaker/01_cp_engineering_radiator_repair:10:DefaultText"
+msgid "[Cycle Droplet Pumps]"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_engineering_radiator_repair:12
+msgctxt "conversations/01_groundbreaker/01_cp_engineering_radiator_repair:12:DefaultText"
+msgid "Lithium Droplet Radiator Array\r\n"
+"\r\n"
+"Fluid Circulation Pump Terminal\r\n"
+"========================\r\n"
+"\r\n"
+"Reminder: Non-expendable personnel must exit the Maintenance Shaft before activating the Cycling Protocol.\r\n"
+"\r\n"
+"Cycling...\r\n"
+"\r\n"
+"Successful!"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_engineering_radiator_repair:13
+msgctxt "conversations/01_groundbreaker/01_cp_engineering_radiator_repair:13:DefaultText"
+msgid "[Logs]"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_engineering_radiator_repair:14
+msgctxt "conversations/01_groundbreaker/01_cp_engineering_radiator_repair:14:DefaultText"
+msgid "Lithium Droplet Radiator Array\r\n"
+"\r\n"
+"Fluid Circulation Pump Terminal\r\n"
+"========================\r\n"
+"\r\n"
+"Logs"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_engineering_radiator_repair:15
+msgctxt "conversations/01_groundbreaker/01_cp_engineering_radiator_repair:15:DefaultText"
+msgid "[Cobbled Together]"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_engineering_radiator_repair:16
+msgctxt "conversations/01_groundbreaker/01_cp_engineering_radiator_repair:16:DefaultText"
+msgid "[Old Plans, New Problems]"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_engineering_radiator_repair:17
+msgctxt "conversations/01_groundbreaker/01_cp_engineering_radiator_repair:17:DefaultText"
+msgid "[Return to Root]"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_engineering_radiator_repair:18
+msgctxt "conversations/01_groundbreaker/01_cp_engineering_radiator_repair:18:DefaultText"
+msgid "Lithium Droplet Radiator Array\r\n"
+"\r\n"
+"Fluid Circulation Pump Terminal\r\n"
+"========================\r\n"
+"\r\n"
+"The staff is getting restless. Workaround and half-cocked solutions are all we've got to mend Groundbreaker's bones. In many cases we can't revive one system without cannibalizing another. Grandma lived with that reality, and so will I. \r\n"
+"\r\n"
+"I can rally our spirits, but what happens when I'm not around? Groundbreaker's real test will be seeing if our independence outlasts me. I'll take that bet. \r\n"
+"\r\n"
+"J.T. "
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_engineering_radiator_repair:19
+msgctxt "conversations/01_groundbreaker/01_cp_engineering_radiator_repair:19:DefaultText"
+msgid "Lithium Droplet Radiator Array\r\n"
+"\r\n"
+"Fluid Circulation Pump Terminal\r\n"
+"========================\r\n"
+"\r\n"
+"Found some of Chief Guiying's old schematics. Groundbreaker must have taken a beating during the Crossing, because she spent half of her career patching it up. Lot of corners cut when they put this place together. \r\n"
+"\r\n"
+"Among her papers I also found the layout of a hangar that doesn't match any of my docs. Something that might have gotten sealed off along the way, like blood cells isolating an infection.\r\n"
+"\r\n"
+"I hate to put sentiment down in print, but every time I open a panel or find some workaround in the guts of this old bird, it's like I can feel you reaching out to me from the past, grandma.\r\n"
+"\r\n"
+"J.T. "
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_engineering_radiator_repair:20
+msgctxt "conversations/01_groundbreaker/01_cp_engineering_radiator_repair:20:DefaultText"
+msgid "Lithium Droplet Radiator Array\r\n"
+"\r\n"
+"Fluid Circulation Pump Terminal\r\n"
+"========================\r\n"
+"\r\n"
+"Main menu"
+msgstr ""

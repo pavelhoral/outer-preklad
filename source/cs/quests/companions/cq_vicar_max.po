@@ -1,0 +1,178 @@
+#: quests/companions/cq_vicar_max:0
+msgctxt "quests/companions/cq_vicar_max:0:DefaultText"
+msgid "The Empty Man"
+msgstr ""
+
+#: quests/companions/cq_vicar_max:1
+msgctxt "quests/companions/cq_vicar_max:1:DefaultText"
+msgid "Track Down Reginald Chaney"
+msgstr ""
+
+#: quests/companions/cq_vicar_max:2
+msgctxt "quests/companions/cq_vicar_max:2:DefaultText"
+msgid "Take Max to the Hermit on Scylla"
+msgstr ""
+
+#: quests/companions/cq_vicar_max:4
+msgctxt "quests/companions/cq_vicar_max:4:DefaultText"
+msgid "Join Max on his Vision Quest"
+msgstr ""
+
+#: quests/companions/cq_vicar_max:5
+msgctxt "quests/companions/cq_vicar_max:5:DefaultText"
+msgid "Help Max Fulfill his Vision Quest"
+msgstr ""
+
+#: quests/companions/cq_vicar_max:6
+msgctxt "quests/companions/cq_vicar_max:6:DefaultText"
+msgid "Check on Max's Mental State"
+msgstr ""
+
+#: quests/companions/cq_vicar_max:8
+msgctxt "quests/companions/cq_vicar_max:8:DefaultText"
+msgid "Talk to Max"
+msgstr ""
+
+#: quests/companions/cq_vicar_max:12
+msgctxt "quests/companions/cq_vicar_max:12:DefaultText"
+msgid "Partake in the Meditative Aid to Join Max on his Vision Quest"
+msgstr ""
+
+#: quests/companions/cq_vicar_max:14
+msgctxt "quests/companions/cq_vicar_max:14:DefaultText"
+msgid "Speak with Max"
+msgstr ""
+
+#: quests/companions/cq_vicar_max:15
+msgctxt "quests/companions/cq_vicar_max:15:DefaultText"
+msgid "Locate a Security Terminal on the Groundbreaker"
+msgstr ""
+
+#: quests/companions/cq_vicar_max:16
+msgctxt "quests/companions/cq_vicar_max:16:DefaultText"
+msgid "Give the Data Cartridge to Vicar Max"
+msgstr ""
+
+#: quests/companions/cq_vicar_max:17
+msgctxt "quests/companions/cq_vicar_max:17:DefaultText"
+msgid "Remove the Data Cartridge from the Terminal"
+msgstr ""
+
+#: quests/companions/cq_vicar_max:18
+msgctxt "quests/companions/cq_vicar_max:18:DefaultText"
+msgid "Search Reginald Chaney's Domicile"
+msgstr ""
+
+#: quests/companions/cq_vicar_max:19
+msgctxt "quests/companions/cq_vicar_max:19:DefaultText"
+msgid "Find Reginald Chaney"
+msgstr ""
+
+#: quests/companions/cq_vicar_max:10000
+msgctxt "quests/companions/cq_vicar_max:10000:DefaultText"
+msgid "Vicar Max believes the book you retrieved for him in Emerald Vale holds the key to his enlightenment. He has requested your help in tracking down someone who can decipher its contents."
+msgstr ""
+
+#: quests/companions/cq_vicar_max:10001
+msgctxt "quests/companions/cq_vicar_max:10001:DefaultText"
+msgid "Vicar Max has tracked the scholar to a rented domicile in Fallbrook on Monarch. Take Max to visit Reginald Chaney and ask him about the banned journal."
+msgstr ""
+
+#: quests/companions/cq_vicar_max:10002
+msgctxt "quests/companions/cq_vicar_max:10002:DefaultText"
+msgid "The \"scholar\" turned out to be someone else entirely - an ex-con Max met in prison. But through Reginald, you were able to learn that the journal was originally the property of a Philosophist who rusticates in a life of hermitage on Scylla. \n"
+"\n"
+"Vicar Max wants to talk to this hermit."
+msgstr ""
+
+#: quests/companions/cq_vicar_max:10004
+msgctxt "quests/companions/cq_vicar_max:10004:DefaultText"
+msgid "Enter the hermit's meditation chamber and initiate a vision quest with Vicar Max."
+msgstr ""
+
+#: quests/companions/cq_vicar_max:10005
+msgctxt "quests/companions/cq_vicar_max:10005:DefaultText"
+msgid "Help Max navigate and fulfill his vision quest by confronting any hallucinations he may encounter during the experience."
+msgstr ""
+
+#: quests/companions/cq_vicar_max:10006
+msgctxt "quests/companions/cq_vicar_max:10006:DefaultText"
+msgid "Max appears to have finished hallucinating. Speak to him to determine if he found the answers he was looking for."
+msgstr ""
+
+#: quests/companions/cq_vicar_max:10008
+msgctxt "quests/companions/cq_vicar_max:10008:DefaultText"
+msgid "The hermit refused Vicar Max's request to undergo a vision quest.\r\n"
+"\r\n"
+"Talk to Max to see how he's holding up."
+msgstr ""
+
+#: quests/companions/cq_vicar_max:10012
+msgctxt "quests/companions/cq_vicar_max:10012:DefaultText"
+msgid "Enter the hermit's meditation chamber and partake in the meditative aid the hermit has provided in order to experience a vision quest with Vicar Max."
+msgstr ""
+
+#: quests/companions/cq_vicar_max:10014
+msgctxt "quests/companions/cq_vicar_max:10014:DefaultText"
+msgid "Talk to Max to see what he wants to do now."
+msgstr ""
+
+#: quests/companions/cq_vicar_max:10015
+msgctxt "quests/companions/cq_vicar_max:10015:DefaultText"
+msgid "Vicar Max wants to track down the scholar who told him about the banned Journal of M. Bakonu in order to translate its writing. If the scholar has been through the Groundbreaker recently, Max thinks he can track him down by accessing a data cartridge from a terminal in the Groundbreaker's security office."
+msgstr ""
+
+#: quests/companions/cq_vicar_max:10016
+msgctxt "quests/companions/cq_vicar_max:10016:DefaultText"
+msgid "Speak with Max as he hacks the security data cartridge and uses the Groundbreaker's crew manifest departures registry to track the scholar's current whereabouts."
+msgstr ""
+
+#: quests/companions/cq_vicar_max:10017
+msgctxt "quests/companions/cq_vicar_max:10017:DefaultText"
+msgid "The terminal in the security office should provide a hacker of Max's skill level with access to the Groundbreaker's arrival and departure shipping records."
+msgstr ""
+
+#: quests/companions/cq_vicar_max:10018
+msgctxt "quests/companions/cq_vicar_max:10018:DefaultText"
+msgid "The scholar, Reginald Chaney, isn't at home. Perhaps something in his domicile will provide an indication as to where he's gone."
+msgstr ""
+
+#: quests/companions/cq_vicar_max:10019
+msgctxt "quests/companions/cq_vicar_max:10019:DefaultText"
+msgid "A note in Reginald Chaney's domicile in Fallbrook indicated he's been panning gold from a river on the outskirts of town. Take Max to search for Reginald along the river bed."
+msgstr ""
+
+#: quests/companions/cq_vicar_max:20000
+msgctxt "quests/companions/cq_vicar_max:20000:DefaultText"
+msgid "The security terminal on Groundbreaker is in a Restricted Area. Finding a Mardet ID cartridge will allow you to use the Holographic Shroud Phineas told you about to enter and avoid hostilities."
+msgstr ""
+
+#: quests/companions/cq_vicar_max:30000
+msgctxt "quests/companions/cq_vicar_max:30000:DefaultText"
+msgid "Max has no hope for obtaining enlightment... because he's dead."
+msgstr ""
+
+#: quests/companions/cq_vicar_max:30001
+msgctxt "quests/companions/cq_vicar_max:30001:DefaultText"
+msgid "Thanks to your murderous inclinations, Max will never know the true path to enlightenment."
+msgstr ""
+
+#: quests/companions/cq_vicar_max:30002
+msgctxt "quests/companions/cq_vicar_max:30002:DefaultText"
+msgid "Max could not prove himself to the Hermit. Unable to obtain enlightenment, he renounced his beliefs in the OSI."
+msgstr ""
+
+#: quests/companions/cq_vicar_max:30003
+msgctxt "quests/companions/cq_vicar_max:30003:DefaultText"
+msgid "Thanks to your help, Max was able to reach a state of enlightenment through the Hermit's vision quest."
+msgstr ""
+
+#: quests/companions/cq_vicar_max:30004
+msgctxt "quests/companions/cq_vicar_max:30004:DefaultText"
+msgid "Unable to obtain enlightenment, Max has renounced his beliefs in the OSI."
+msgstr ""
+
+#: quests/companions/cq_vicar_max:30005
+msgctxt "quests/companions/cq_vicar_max:30005:DefaultText"
+msgid "You and Vicar Max have parted ways."
+msgstr ""

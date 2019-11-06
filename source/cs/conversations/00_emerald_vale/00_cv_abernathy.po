@@ -1,0 +1,719 @@
+#: conversations/00_emerald_vale/00_cv_abernathy:27
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:27:DefaultText"
+msgid "You wanna mingle, go try the cantina."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:28
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:28:DefaultText"
+msgid "I have that medicine you wanted."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:29
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:29:DefaultText"
+msgid "I'll leave you be."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:33
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:33:DefaultText"
+msgid "Just as I was on the mend, the cannery had to go and shut down."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:34
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:34:DefaultText"
+msgid "You tell Mr. Tobson I'll be right at my post. Tomorrow. Bright and early, tomorrow. Because I am definitely not plagued. Spry as a spring chicken - that's old Abernathy."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:35
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:35:DefaultText"
+msgid "Take it easy. Mr. Tobson didn't send me."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:36
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:36:DefaultText"
+msgid "I heard you muttering to yourself."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:38
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:38:DefaultText"
+msgid "Didn't nobody ever tell you to never impress yourself between a man and his muttering? Which is, by the way, a normal and healthy mode of expression."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:39
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:39:DefaultText"
+msgid "I'm positive you mentioned something about being plagued."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:40
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:40:DefaultText"
+msgid "You don't know that. I could've been saying anything. Maybe I said \"vague.\" You know how words sound a mite strange when you're sick?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:65
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:65:DefaultText"
+msgid "Yes, Mr. Tobson. I'm fine, Mr. Tobson. Never been healthier."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:66
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:66:DefaultText"
+msgid "I don't know anybody by that name."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:67
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:67:DefaultText"
+msgid "Then what are you doing here? Visiting? Well, let me give you the grand tour. This here's my domicile - and there's the door."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:68
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:68:DefaultText"
+msgid "You want to tell me what's got you so nervous?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:69
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:69:DefaultText"
+msgid "You some sort of wandering alienist? Walking into a man's own domicile, pestering him about his mental state."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:70
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:70:DefaultText"
+msgid "So you're Martin Abernathy?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:71
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:71:DefaultText"
+msgid "I'm here to collect your gravesite fees."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:72
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:72:DefaultText"
+msgid "What? No. I mean - I might be. That depends on who's asking."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:81
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:81:DefaultText"
+msgid "I'm not looking for trouble. I'm just here to collect your gravesite fees."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:82
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:82:DefaultText"
+msgid "Silas sent me. You owe him money."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:83
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:83:DefaultText"
+msgid "Silas knows, doesn't he? That's why he sent you. That's why he wants me to pay up. He knows. "
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:85
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:85:DefaultText"
+msgid "So Silas can afford a hired thug, but I still gotta pay him a burial tax?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:86
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:86:DefaultText"
+msgid "Knows what?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:87
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:87:DefaultText"
+msgid "He told me everything. How long did you think you could keep a secret like that?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:89
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:89:DefaultText"
+msgid "I'm dying. I'm not long for this world. The date of my expiration is fast approaching, and soon I shall be ushered through the great cannery in the skies."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:90
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:90:DefaultText"
+msgid "Sounds like he's already told you. You may as well hear it from me."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:93
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:93:DefaultText"
+msgid "It's plague. Has to be. Silas knows. He knows I've got one foot in my grave, and now he wants to charge me for the other one."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:94
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:94:DefaultText"
+msgid "I'm sure it's all very tragic and heartbreaking. Pay me so I can get out of here."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:95
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:95:DefaultText"
+msgid "You're being paranoid."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:97
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:97:DefaultText"
+msgid "I'll pay your fees. I don't want any trouble from Silas. But if you could see your way to freelancing for me, I could really use the help."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:98
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:98:DefaultText"
+msgid "I am? Law help me. Paranoia's one of the plague's known symptoms. "
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:99
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:99:DefaultText"
+msgid "I'm sorry to hear that."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:100
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:100:DefaultText"
+msgid "You are? Oh. Wow. First time anyone's ever told me that."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:101
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:101:DefaultText"
+msgid "How can I help?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:102
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:102:DefaultText"
+msgid "Depends on what you need."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:103
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:103:DefaultText"
+msgid "You can't afford me."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:105
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:105:DefaultText"
+msgid "Couple hours out of your day and some light second-story work. That's all."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:106
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:106:DefaultText"
+msgid "I'll scratch something together for you. Sell off some of my sundry at Moreau's if I have to. Just hear me out."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:108
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:108:DefaultText"
+msgid "There's a cache of anthrocillin tucked away in the old community center. Powerful stuff. Stronger than what we got, anyway."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:109
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:109:DefaultText"
+msgid "I've been there already. Is this the medicine you're talking about?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:110
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:110:DefaultText"
+msgid "Let's see it. Don't keep us waiting."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:111
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:111:DefaultText"
+msgid "I'll do it."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:112
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:112:DefaultText"
+msgid "I'll think about it."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:113
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:113:DefaultText"
+msgid "Not so fast. I've got some questions."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:114
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:114:DefaultText"
+msgid "Will you oblige me with your haste? I think I feel the plague spreadin'. Oh Law, it's in my spleen now. I can feel it."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:115
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:115:DefaultText"
+msgid "I'll do what I can."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:116
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:116:DefaultText"
+msgid "Why can't you just buy some medicine yourself?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:117
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:117:DefaultText"
+msgid "I assume there are guards."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:118
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:118:DefaultText"
+msgid "I've heard enough."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:119
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:119:DefaultText"
+msgid "So you'll do it, then?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:120
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:120:DefaultText"
+msgid "Anyway, I can't just buy medicine. Distribution of medicine is strictly prohibited to any workers beneath the acceptable margin of health. Company policy."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:121
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:121:DefaultText"
+msgid "You will not find any guards within sight of that old place. Marauders, on the other hand..."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:122
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:122:DefaultText"
+msgid "In other words, the company won't treat you because you're already sick."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:123
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:123:DefaultText"
+msgid "Come on now, Abernathy. You don't look a day over ninety."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:124
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:124:DefaultText"
+msgid "Tell myself the same thing every morning. You seen those young workers at the cannery? What with their unbent spines and pristine knee joints. I can't compete with that."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:125
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:125:DefaultText"
+msgid "More like the company won't treat me 'cause I'm not healthy enough. "
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:126
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:126:DefaultText"
+msgid "What can you tell me about these marauders?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:127
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:127:DefaultText"
+msgid "You never mentioned marauders."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:128
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:128:DefaultText"
+msgid "I have it on good authority there's a gang of 'em squatting there. I advise stepping softly."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:129
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:129:DefaultText"
+msgid "It is a reality of life in the Vale. Grass is brown. Sky is grey. Marauders are outside the walls."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:131
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:131:DefaultText"
+msgid "It's all yours."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:132
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:132:DefaultText"
+msgid "Not true. You've got a secret. Secrets aren't free."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:133
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:133:DefaultText"
+msgid "I haven't decided what I'm doing with it yet."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:134
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:134:DefaultText"
+msgid "I risked my life to save yours, Abernathy."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:135
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:135:DefaultText"
+msgid "Esther tells me you have a tendency toward hypochondria."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:136
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:136:DefaultText"
+msgid "I don't know what that means. Is that some sort of medical condition? Is my plague getting worse or something?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:137
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:137:DefaultText"
+msgid "You obviously need this. <Give Abernathy the medicine.>"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:138
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:138:DefaultText"
+msgid "Sweet, life-giving nostrum. The first hit is always the best. "
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:139
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:139:DefaultText"
+msgid "See you around."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:140
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:140:DefaultText"
+msgid "You are wringing the blood out of me. Here. You can have whatever is in my pockets."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:141
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:141:DefaultText"
+msgid "You'd really sprat me out? For what - a couple extra bits? Here. Take it then. "
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:142
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:142:DefaultText"
+msgid "Haven't decided? I hired you! The nature of your employment requires you to deliver in my hand some genuine anthrocillin!"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:144
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:144:DefaultText"
+msgid "This medicine belongs to the authorities."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:145
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:145:DefaultText"
+msgid "Anthrocillin's worth a lot to the right buyer."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:148
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:148:DefaultText"
+msgid "Are you out of your mind? You're just gonna hand that over to Reyes? You know she's just gonna give that medicine to someone younger and stronger and prettier."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:149
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:149:DefaultText"
+msgid "You're right, it is. Can't blame a mercenary for trying to make a profit."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:150
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:150:DefaultText"
+msgid "I changed my mind. The medicine's yours."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:151
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:151:DefaultText"
+msgid "Look, I've got my gravesite fees right here. See? I'm good for my word. Get me that medicine, and I'll see to your payment."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:152
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:152:DefaultText"
+msgid "I put a few bits aside for my grave. Not that I'll be seeing the inside of it any time soon, what with being on the mend."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:153
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:153:DefaultText"
+msgid "Here, take my fees. I'm never getting that medicine, so I may as well buy myself a grave. Something nice and wide, with plenty of room to spin 'round inside."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:155
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:155:DefaultText"
+msgid "You're taking an awful risk trusting me, you know."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:157
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:157:DefaultText"
+msgid "Please. Wander around. Touch things. I'm awfully contagious."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:158
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:158:DefaultText"
+msgid "Nothing like a good hit of anthrocillin. Feels like warm, liquid sunlight runnin' through your veins."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:159
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:159:DefaultText"
+msgid "Wait. No. Damn it. Okay, listen, maybe I am feeling a little under the weather. But I swear I'm on the mend. Please don't tell the constable."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:160
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:160:DefaultText"
+msgid "You've got the plague? Get away from me, you leper!"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:161
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:161:DefaultText"
+msgid "Why not?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:162
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:162:DefaultText"
+msgid "You should put a sign over your door or something. Or at least cover your mouth."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:163
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:163:DefaultText"
+msgid "You're right. I'm plagued. I'm afflicted. I know it's hard to believe, what with the fine and dashing figure I cut, but it's all true."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:164
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:164:DefaultText"
+msgid "She'll toss me in the sick house! I would have confessed before the good Vicar. Get some ablutions for my spirit. Just never found my courage, is all."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:165
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:165:DefaultText"
+msgid "And become the town pariah? I'm already the oldest worker in town. I don't need to give 'em another reason to avoid me."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:166
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:166:DefaultText"
+msgid "Hey. You're hale and healthy and possibly for hire, ain't you? Do a good turn for an expiring old man."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:167
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:167:DefaultText"
+msgid "You been there already? And you ain't been ground down into marauder meat? "
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:168
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:168:DefaultText"
+msgid "Reed would've wrote me up. Constable would've locked me up and wrote me up. Could've gone to see the good vicar, but I never did find my courage."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:170
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:170:DefaultText"
+msgid "That's horrible."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:171
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:171:DefaultText"
+msgid "It is what it is. Town's got a limited supply of medicine. Medicine better spent on a body stronger and younger than mine."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:172
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:172:DefaultText"
+msgid "Scratched together all the bits I had around the domicile. It ain't as much as you deserve, but it's all I got."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:173
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:173:DefaultText"
+msgid "Esther tells me you've got a history of hippo-chondria."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:175
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:175:DefaultText"
+msgid "I am sorry to hear that Mr. Abernathy. My confessional is always open. Except for right now."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:176
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:176:DefaultText"
+msgid "Anything I should know about this community center?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:177
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:177:DefaultText"
+msgid "Just keep your head down when you're in there. Marauders have taken over. Probably tracking mud all over the archives. "
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:178
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:178:DefaultText"
+msgid "Why do you think I'm a freelancer?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:179
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:179:DefaultText"
+msgid "Oh, hey, I'm sorry. Didn't mean nothing by it. Wasn't trying to insult you. "
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:180
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:180:DefaultText"
+msgid "Why would I be insulted?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:181
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:181:DefaultText"
+msgid "Don't worry about it."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:182
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:182:DefaultText"
+msgid "Never mind. What do you need done?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:183
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:183:DefaultText"
+msgid "So does that mean you're for hire? I could use the help, if you could use the work."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:184
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:184:DefaultText"
+msgid "It's just - you ain't one of us. A Spacer, I mean. Stands to reason you've got no company looking after you. "
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:185
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:185:DefaultText"
+msgid "Not your fault, though. Even freelancers gotta eat. And if that means they must scratch some bits out of odd jobs, who am I to judge 'em? Least you're not a deserter."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:187
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:187:DefaultText"
+msgid "What kind of odd job are you referring to?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:188
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:188:DefaultText"
+msgid "Okay. That is a little insulting."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:189
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:189:DefaultText"
+msgid "I guess that's fair."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:190
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:190:DefaultText"
+msgid "Look. I'm sorry. Never had much in the way of social graces. But the job is a good one, if you're interested."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:192
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:192:DefaultText"
+msgid "Somebody's been running around talking about the Hope. Wonder if that's a new drug of some kind."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:193
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:193:DefaultText"
+msgid "Does it feel good? Robbing an old man of his last shred of hope?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:194
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:194:DefaultText"
+msgid "I'm sorry. I did what I had to do."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:195
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:195:DefaultText"
+msgid "Little bit, yeah."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:199
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:199:DefaultText"
+msgid "Betray a man in his final hours? Of course. I understand. Hell, I'd probably do the same to you, given the chance."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:200
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:200:DefaultText"
+msgid "So, you just here to watch me die, or what?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:204
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:204:DefaultText"
+msgid "You really are a piece of work. I hope somebody with plague spits in your drink."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:207
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:207:DefaultText"
+msgid "Sorry, Abernathy. I gave that anthrocillin to someone else."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:208
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:208:DefaultText"
+msgid "You what? But why? I was depending on you."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:209
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:209:DefaultText"
+msgid "I'm leaving."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:210
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:210:DefaultText"
+msgid "Oh sweet, merciful Law! A marauder's in my domicile!"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:211
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:211:DefaultText"
+msgid "Oh, wait. It's just you. Near as killed me with fright."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:212
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:212:DefaultText"
+msgid "Hey, take it easy. I'm not a marauder."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:213
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:213:DefaultText"
+msgid "<Wave your gun.> Hand over all your bits."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:214
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:214:DefaultText"
+msgid "Where? Where?!"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:216
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:216:DefaultText"
+msgid "Oh Law, please don't eat me! I got scrumpox! And chalkstones! You don't want none of that!"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:217
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:217:DefaultText"
+msgid "Least I know I ain't hallucinating. You need something?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:218
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:218:DefaultText"
+msgid "Please don't kill me! I still gotta pay my gravesite fees!"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:219
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:219:DefaultText"
+msgid "Oh just go ahead and kill me, then. I got nothing left to live for."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:220
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:220:DefaultText"
+msgid "Don't say that, Mr. Abernathy. You still got a couple decades in you."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:221
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:221:DefaultText"
+msgid "I'd steer clear, Ms. Holcomb. My affliction is bound to be contagious."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:223
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:223:DefaultText"
+msgid "Wait a second - I heard marauders don't talk much. You can talk just fine. Did Mr. Tobson send you to put the fear in me?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:225
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:225:DefaultText"
+msgid "Whoa! Did - uh - did Mr. Tobson send you?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:227
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:227:DefaultText"
+msgid "There a reason you're running around outfitted like one of those monsters? Did Mr. Tobson send you to put the fear in me?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:228
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:228:DefaultText"
+msgid "I know that. But I got nobody else to turn to."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:229
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:229:DefaultText"
+msgid "I know, I know. Should've availed myself of your services days ago. Thanks anyway, Vicar."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:230
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:230:DefaultText"
+msgid "I am sorry to hear that Mr. Abernathy. My confessional is always open. Except for right now."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:231
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:231:DefaultText"
+msgid "I know, I know. Should've availed myself of your services days ago. Thanks anyway, Vicar."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:232
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:232:DefaultText"
+msgid "I tried medicating myself with Adrena-Time. Didn't do much for me, far as I can tell."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:233
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:233:DefaultText"
+msgid "I need you to break in, nab that medicine, and bring it back to me."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:234
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:234:DefaultText"
+msgid "Leave me alone, will you? I got enough problems."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_abernathy:235
+msgctxt "conversations/00_emerald_vale/00_cv_abernathy:235:DefaultText"
+msgid "Sorry, Abernathy. I gave that anthrocillin to someone else."
+msgstr ""

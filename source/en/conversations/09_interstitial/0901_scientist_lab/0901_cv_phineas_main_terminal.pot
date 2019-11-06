@@ -1,0 +1,182 @@
+#: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_main_terminal:1
+msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_main_terminal:1:DefaultText"
+msgid "PERSONAL TERMINAL\r\n"
+"Phineas V. Welles\r\n"
+"\r\n"
+"===================="
+msgstr ""
+
+#: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_main_terminal:3
+msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_main_terminal:3:DefaultText"
+msgid "[Exit]"
+msgstr ""
+
+#: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_main_terminal:15
+msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_main_terminal:15:DefaultText"
+msgid "[Enter Passcode]"
+msgstr ""
+
+#: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_main_terminal:18
+msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_main_terminal:18:DefaultText"
+msgid "If you are seeing this screen, I, Phineas V. Welles, have been perniciously KIDNAPPED and very probably INCARCERATED by the perfidious and cowardly GOVERNMENT of HALCYON in the Prison-Fortress of TARTARUS.\n"
+"\n"
+"If I have not already been EXECUTED for charges levelled against me, I hope the person reading this terminal will find a way to finish my work, or rescue me. Preferably the latter.\n"
+"\n"
+"This screen constitutes my last will and testament. I commend my body, and my belongings, to the icy depths of the aether.\r\n"
+"\r\n"
+"If this is <oeitoken>PlayerName</oeitoken>, I've prepared an emergency care package located in a hidden panel. Unlock the panel from my terminal, and claim its contents immediately."
+msgstr ""
+
+#: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_main_terminal:19
+msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_main_terminal:19:DefaultText"
+msgid "[Exit]"
+msgstr ""
+
+#: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_main_terminal:20
+msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_main_terminal:20:DefaultText"
+msgid "PERSONAL TERMINAL\r\n"
+"Phineas V. Welles\r\n"
+"\r\n"
+"====================\r\n"
+"\r\n"
+"[CONTINGENCY PLAN ACTIVATED]\r\n"
+"\r\n"
+"[PUBLISHING LAST WILL AND TESTAMENT]\r\n"
+"...\r\n"
+"...\r\n"
+"...\r\n"
+"...\r\n"
+"[SUCCESS]\r\n"
+"\r\n"
+"[Please present login password to continue]"
+msgstr ""
+
+#: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_main_terminal:21
+msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_main_terminal:21:DefaultText"
+msgid "If you are seeing this screen, I, Phineas V. Welles, have been perniciously KIDNAPPED and very probably INCARCERATED by the perfidious and cowardly GOVERNMENT of HALCYON in the Prison-Fortress of TARTARUS.\n"
+"\n"
+"If I have not already been EXECUTED for charges levelled against me, I hope the person reading this terminal will find a way to finish my work, or rescue me. Preferably the latter.\n"
+"\n"
+"This screen constitutes my last will and testament. I commend my body, and my belongings, to the icy depths of the aether.\r\n"
+"\r\n"
+"If this is <oeitoken>PlayerName</oeitoken>, I know you've been working with Ms. Lilya Hagen. If you're going to attempt some sort of insane, suicidal rescue mission, I suggest asking for her assistance.\r\n"
+"\r\n"
+"Also, I've prepared an emergency care package located in a hidden panel. Unlock the panel from my terminal, and claim its contents immediately."
+msgstr ""
+
+#: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_main_terminal:23
+msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_main_terminal:23:DefaultText"
+msgid "[Bypass]"
+msgstr ""
+
+#: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_main_terminal:25
+msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_main_terminal:25:DefaultText"
+msgid "[Open Panel]"
+msgstr ""
+
+#: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_main_terminal:26
+msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_main_terminal:26:DefaultText"
+msgid "[Accessing]\r\n"
+"...\r\n"
+"...\r\n"
+"...\r\n"
+"[Panel Successfully Unlocked]"
+msgstr ""
+
+#: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_main_terminal:28
+msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_main_terminal:28:DefaultText"
+msgid "If you are seeing this screen, I, Phineas V. Welles, have been perniciously KIDNAPPED and very probably INCARCERATED by the perfidious and cowardly GOVERNMENT of HALCYON in the Prison-Fortress of TARTARUS.\n"
+"\n"
+"If I have not already been EXECUTED for charges levelled against me, I hope the person reading this terminal will find a way to finish my work, or rescue me. Preferably the latter.\n"
+"\n"
+"This screen constitutes my last will and testament. I commend my body, and my belongings, to the icy depths of the aether.\r\n"
+"\r\n"
+"If this is <oeitoken>PlayerName</oeitoken>, I just want you to know that I had the highest hopes for you. I don't understand why you decided to work with the Board, and maybe I never will. But I just want you to know one thing: you're a monstrous traitor, and I hope you're eaten by several hungry marauders when the colony collapses.\r\n"
+"\r\n"
+"Goodbye."
+msgstr ""
+
+#: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_main_terminal:29
+msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_main_terminal:29:DefaultText"
+msgid "[Personal Files - Phineas V. Welles Eyes ONLY!]"
+msgstr ""
+
+#: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_main_terminal:30
+msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_main_terminal:30:DefaultText"
+msgid "PERSONAL TERMINAL\r\n"
+"Phineas V. Welles\r\n"
+"\r\n"
+"====================\r\n"
+"\r\n"
+">> Note: Must delete entries from terminal memory. No telling who might be looking."
+msgstr ""
+
+#: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_main_terminal:31
+msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_main_terminal:31:DefaultText"
+msgid "[Second Entry]"
+msgstr ""
+
+#: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_main_terminal:32
+msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_main_terminal:32:DefaultText"
+msgid "[Return to Root]"
+msgstr ""
+
+#: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_main_terminal:33
+msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_main_terminal:33:DefaultText"
+msgid "PERSONAL TERMINAL\n"
+"Phineas V. Welles\n"
+"\n"
+"====================\n"
+"\n"
+"One hundred thirteen seconds. New record. Most of my subjects last ninety-three seconds, on average, before total cellular liquefaction reduces them to several gallons of organic soup three degrees above freezing temperature. \n"
+"\n"
+"One hundred and thirteen seconds of screaming. This subject was stronger than the others, but in the end, his body failed to survive the revival process. \n"
+"\n"
+"He was my twelfth subject to die. I don't know how much longer I can keep doing this. Strictly speaking, I do know--the Hope has hundreds of thousands of colonists. I've only experimented on twelve. How many more experiments before I successfully revive a single subject? One? Ten? One hundred? Five hundred?\n"
+"\n"
+"Statistically insignificant. If I experimented on one subject every month, I would not make a dent in the Hope's population in a lifetime.\n"
+"\n"
+"Can still hear the screaming. Trouble sleeping. Trouble concentrating. Psychological toll...significant. \n"
+"\n"
+"On to subject number thirteen."
+msgstr ""
+
+#: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_main_terminal:36
+msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_main_terminal:36:DefaultText"
+msgid "[First Entry]"
+msgstr ""
+
+#: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_main_terminal:37
+msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_main_terminal:37:DefaultText"
+msgid "[Final Entry]"
+msgstr ""
+
+#: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_main_terminal:38
+msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_main_terminal:38:DefaultText"
+msgid "PERSONAL TERMINAL\r\n"
+"Phineas V. Welles\r\n"
+"\r\n"
+"====================\r\n"
+"\r\n"
+"The Hope made it to Halcyon after all, twenty-five years too late. The Board doesn't know what to do with an entire ship full of frozen colonists, so naturally they're going to leave them there. Corporate tells us revival is impossible. They've tried absolutely nothing and apparently they're all out of options.\r\n"
+"\r\n"
+"Balderdash. Cellular regeneration after long-term hibernation is really just a question of thermodynamics. I'm quite confident I can find a way to revive the Hope's colonists - if only Corporate would authorize my requests. Frankly, I don't see why I need the permission of my employers to conduct experiments in the name of scientific advancement. What nonsense! Did Newton beg permission from his employers before discovering the three laws of motion?\r\n"
+"\r\n"
+"Genius is not beholden to the vicissitudes of bureaucracy. Besides, the Hope has a cargo of hundreds of thousands of colonists. The Board practically expects a few to go missing."
+msgstr ""
+
+#: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_main_terminal:39
+msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_main_terminal:39:DefaultText"
+msgid "PERSONAL TERMINAL\r\n"
+"Phineas V. Welles\r\n"
+"\r\n"
+"====================\r\n"
+"\r\n"
+"I always suspected this would happen. The Board finally discovered what I'd done and sent their headhunters to track me down, but they'll never find me.\r\n"
+"\r\n"
+"They say I'm a murderer - and they're right. I am. I regret what I've done. But I'm not about to turn myself in to the Board. I'm not going to go begging the Board's forgiveness.\r\n"
+"\r\n"
+"Only the Hope's colonists can forgive me for what I've done. They're the only people who can set things right. And I'm going to find a way to revive them, no matter how long I have to stay in hiding.\r\n"
+"\r\n"
+"I've got my notes with me. I have my equipment. And now I have this lab. It's time I returned to work."
+msgstr ""

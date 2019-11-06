@@ -1,0 +1,84 @@
+#: quests/04_monarch/sq_0402_thestainlesssteelrat:0
+msgctxt "quests/04_monarch/sq_0402_thestainlesssteelrat:0:DefaultText"
+msgid "The Stainless Steel Rat"
+msgstr ""
+
+#: quests/04_monarch/sq_0402_thestainlesssteelrat:1
+msgctxt "quests/04_monarch/sq_0402_thestainlesssteelrat:1:DefaultText"
+msgid "Search the Apartment for Clues"
+msgstr ""
+
+#: quests/04_monarch/sq_0402_thestainlesssteelrat:2
+msgctxt "quests/04_monarch/sq_0402_thestainlesssteelrat:2:DefaultText"
+msgid "Investigate Left Field Tossball Betting"
+msgstr ""
+
+#: quests/04_monarch/sq_0402_thestainlesssteelrat:12
+msgctxt "quests/04_monarch/sq_0402_thestainlesssteelrat:12:DefaultText"
+msgid "Tell Sanjar about Isaac's Murder"
+msgstr ""
+
+#: quests/04_monarch/sq_0402_thestainlesssteelrat:15
+msgctxt "quests/04_monarch/sq_0402_thestainlesssteelrat:15:DefaultText"
+msgid "Investigate Elijah and His Gang"
+msgstr ""
+
+#: quests/04_monarch/sq_0402_thestainlesssteelrat:10000
+msgctxt "quests/04_monarch/sq_0402_thestainlesssteelrat:10000:DefaultText"
+msgid "A man's been killed in a Stellar Bay apartment. It falls to you to figure out what happened to him."
+msgstr ""
+
+#: quests/04_monarch/sq_0402_thestainlesssteelrat:10001
+msgctxt "quests/04_monarch/sq_0402_thestainlesssteelrat:10001:DefaultText"
+msgid "It's not clear what happened to the victim, but something in the apartment might point you in the right direction."
+msgstr ""
+
+#: quests/04_monarch/sq_0402_thestainlesssteelrat:10002
+msgctxt "quests/04_monarch/sq_0402_thestainlesssteelrat:10002:DefaultText"
+msgid "The victim had a betting slip from Left Field Tossball Betting. Perhaps someone there knows what happened to him."
+msgstr ""
+
+#: quests/04_monarch/sq_0402_thestainlesssteelrat:10012
+msgctxt "quests/04_monarch/sq_0402_thestainlesssteelrat:10012:DefaultText"
+msgid "Sanjar will want to know about Isaac's murder. Now that you've dealt with Elijah, check in with him at MSI Headquarters."
+msgstr ""
+
+#: quests/04_monarch/sq_0402_thestainlesssteelrat:10015
+msgctxt "quests/04_monarch/sq_0402_thestainlesssteelrat:10015:DefaultText"
+msgid "Nell believes Elijah and his friends killed Isaac. They make deliveries to the bays behind the warehouse and spend the rest of their time in the alley behind The Yacht Club."
+msgstr ""
+
+#: quests/04_monarch/sq_0402_thestainlesssteelrat:20000
+msgctxt "quests/04_monarch/sq_0402_thestainlesssteelrat:20000:DefaultText"
+msgid "You've found a betting slip from Left Field Tossball Betting."
+msgstr ""
+
+#: quests/04_monarch/sq_0402_thestainlesssteelrat:20001
+msgctxt "quests/04_monarch/sq_0402_thestainlesssteelrat:20001:DefaultText"
+msgid "There's a suitcase full of clothes by the door."
+msgstr ""
+
+#: quests/04_monarch/sq_0402_thestainlesssteelrat:20002
+msgctxt "quests/04_monarch/sq_0402_thestainlesssteelrat:20002:DefaultText"
+msgid "Search the thugs' bodies for clues to Isaac's murder."
+msgstr ""
+
+#: quests/04_monarch/sq_0402_thestainlesssteelrat:20003
+msgctxt "quests/04_monarch/sq_0402_thestainlesssteelrat:20003:DefaultText"
+msgid "You found a bloody tossball stick with a tooth embedded in it. Elijah's name is written on it."
+msgstr ""
+
+#: quests/04_monarch/sq_0402_thestainlesssteelrat:30000
+msgctxt "quests/04_monarch/sq_0402_thestainlesssteelrat:30000:DefaultText"
+msgid "You told Sanjar about Isaac's death. He appreciated your help in dealing with Elijah."
+msgstr ""
+
+#: quests/04_monarch/sq_0402_thestainlesssteelrat:30001
+msgctxt "quests/04_monarch/sq_0402_thestainlesssteelrat:30001:DefaultText"
+msgid "Due to the death of personnel critical to this investigation, this mystery can no longer be solved."
+msgstr ""
+
+#: quests/04_monarch/sq_0402_thestainlesssteelrat:30002
+msgctxt "quests/04_monarch/sq_0402_thestainlesssteelrat:30002:DefaultText"
+msgid "You convinced Elijah and his gang of hooligans to flee the city, never to return."
+msgstr ""

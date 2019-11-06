@@ -1,0 +1,1789 @@
+#: conversations/08_roseway/08_cv_cleo_porter:1
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:1:DefaultText"
+msgid "I reckon we got nothing to say to each other. You best back yourself outta here. Nice and slow."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:2
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:2:DefaultText"
+msgid "So, you got a plan to pry these assholes out of my lab?"
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:3
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:3:DefaultText"
+msgid "You care to explain what you're doing here? Did you miss the big sign outside?"
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:4
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:4:DefaultText"
+msgid "Anton sent me to help. You're in charge of security?"
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:5
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:5:DefaultText"
+msgid "I'm no threat. Just a passing freelancer looking for work."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:6
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:6:DefaultText"
+msgid "You're in charge of security? Good. Per Dr. Crane, I'm in charge now."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:7
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:7:DefaultText"
+msgid "Are you supposed to be in charge here?"
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:8
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:8:DefaultText"
+msgid "I can't go five minutes in this place without someone nearly blowing my head off."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:9
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:9:DefaultText"
+msgid "Call me Porter. Doc Crane's my boss, sure enough. I don't recollect seeing you before."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:10
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:10:DefaultText"
+msgid "That I am. Name's Porter. If Doc Crane did send you, I'd be glad for the help."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:15
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:15:DefaultText"
+msgid "We spoke in Roseway. He'd broadcast a distress call."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:16
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:16:DefaultText"
+msgid "Maybe you'd like to head down the road ask him yourself?"
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:17
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:17:DefaultText"
+msgid "He hired me as a troubleshooter. So don't be trouble."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:18
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:18:DefaultText"
+msgid "I figure if a body makes a habit of walking towards gunfire, they got to expect a few bullets in their direction."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:19
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:19:DefaultText"
+msgid "Bad news is, we haven't been able to clean these outlaws out of the lab. Good news is, they haven't been able escape, neither."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:20
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:20:DefaultText"
+msgid "And let these bastards sneak out the door while I'm gone?"
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:21
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:21:DefaultText"
+msgid "Sounds like just the sort of bonehead move he'd make."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:22
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:22:DefaultText"
+msgid "Explains where he went in such a damn hurry."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:23
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:23:DefaultText"
+msgid "I'm Porter, chief of \"Site Safety Engineering.\" That's a fancy way of saying \"guards.\""
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:24
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:24:DefaultText"
+msgid "Funny way to phrase it. Yeah, I'm supposed to be. Chief Porter. I work security for the company."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:25
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:25:DefaultText"
+msgid "So it's a stalemate."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:26
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:26:DefaultText"
+msgid "What about the raptidons?"
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:27
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:27:DefaultText"
+msgid "Are there any other ways out of there?"
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:28
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:28:DefaultText"
+msgid "Could they get out through the vents?"
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:29
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:29:DefaultText"
+msgid "That's how they got in. We got that locked down. There's no access from their level without a security keycard."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:30
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:30:DefaultText"
+msgid "They got in through the ventilation system, but we locked that down. There's no access from their level without a security keycard."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:31
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:31:DefaultText"
+msgid "They don't care which side their lunch is on. But the rapt cells are down with the outlaws, so they're the appetizers."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:33
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:33:DefaultText"
+msgid "When it looks like they're fixing to make a sally upwards, I have a sniper pop the lock on a rapt cell. It's kept them busy."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:34
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:34:DefaultText"
+msgid "That's horrible."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:35
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:35:DefaultText"
+msgid "That's damn clever."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:36
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:36:DefaultText"
+msgid "They probably deserve it."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:37
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:37:DefaultText"
+msgid "Thanks. Company will probably bill me, but better to lose a rapt than get shot, I says."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:38
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:38:DefaultText"
+msgid "Hired guns, the lot of them. I'd bet you bits to bobstones each is wanted across the system."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:39
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:39:DefaultText"
+msgid "If they'd line up neat as you please to get arrested, I wouldn't have to. It's an imperfect world."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:40
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:40:DefaultText"
+msgid "I'll head down there now."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:41
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:41:DefaultText"
+msgid "Enough talk."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:42
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:42:DefaultText"
+msgid "Heh. Appetizers. I get it."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:43
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:43:DefaultText"
+msgid "Not the way I'd choose to go. But I didn't choose to shoot up somebody else's workplace either."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:44
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:44:DefaultText"
+msgid "For now. I reckon they got no backup. On the other hand, we don't neither. And our mechanicals all went haywire for some damn reason."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:45
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:45:DefaultText"
+msgid "Doc Crane ain't liable to call the company in until things are under control."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:47
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:47:DefaultText"
+msgid "Your office is locked. Can I get the keycard?"
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:48
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:48:DefaultText"
+msgid "Where can I find your office?"
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:49
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:49:DefaultText"
+msgid "What the hell you need to get in my office for?"
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:51
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:51:DefaultText"
+msgid "I need a security keycard."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:52
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:52:DefaultText"
+msgid "I want to check every room. We can't let them get behind us."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:53
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:53:DefaultText"
+msgid "What exactly do you do here?"
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:54
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:54:DefaultText"
+msgid "What for?"
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:55
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:55:DefaultText"
+msgid "Honestly, I just want to look around this place."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:58
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:58:DefaultText"
+msgid "Why you wanna know that?"
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:59
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:59:DefaultText"
+msgid "Yeah. I guess that follows. Here's the card for my office. You can run yourself off a keycard in there."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:60
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:60:DefaultText"
+msgid "Fair point. Here's a keycard to my office. Head left from here and downstairs. It's across from the cafeteria. I got a machine that makes pass cards for us."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:62
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:62:DefaultText"
+msgid "I'm going down after these guys. I don't want to get trapped by a door you locked behind you."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:63
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:63:DefaultText"
+msgid "I locked it my own self when they attacked. Unless the door's been busted down, it's clear. And if it is, you don't need my keycard."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:66
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:66:DefaultText"
+msgid "I'm gonna be honest in turn and say ''no.'' Bad enough we got outlaws trying to pick the place clean."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:67
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:67:DefaultText"
+msgid "You done a job of work. After you cacked their employer, the gunhands started surrendering. Or trying to slip out."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:68
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:68:DefaultText"
+msgid "So you're sure they don't have any jerryriggers? Not a single mag-pick?"
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:69
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:69:DefaultText"
+msgid "If you're wrong, they'll take everything you've got stashed in there."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:70
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:70:DefaultText"
+msgid "And you've been watching to make sure no one sneaks in the whole time since?"
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:71
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:71:DefaultText"
+msgid "If they reach my office, we're screwed anyway."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:72
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:72:DefaultText"
+msgid "Organized crew like this, they probably got somebody to do that. You got a point. Better to be safe than shot in the back."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:73
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:73:DefaultText"
+msgid "Well, no. But like I said, to get it open, they'd have to bust the lock."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:74
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:74:DefaultText"
+msgid "Who, me? Or you mean the lab in general?"
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:76
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:76:DefaultText"
+msgid "Yeah, you."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:77
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:77:DefaultText"
+msgid "The lab in general."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:78
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:78:DefaultText"
+msgid "Never mind. I'm heading downstairs."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:79
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:79:DefaultText"
+msgid "I'm in charge of \"Site Safety Engineering.\" Most days that means making sure folks don't run in the halls."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:80
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:80:DefaultText"
+msgid "Pretty quiet out here, huh? Normally, I mean."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:81
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:81:DefaultText"
+msgid "Sounds boring. I'll take Byzantium any day."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:82
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:82:DefaultText"
+msgid "You can have it. Out here, you can still see the real planet. Not the bits of Earth we brought to pave over the wilderness."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:83
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:83:DefaultText"
+msgid "Most days there ain't nothing to hear but wind, bugs, and the buildings falling slowly to pieces."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:87
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:87:DefaultText"
+msgid "Soap or something, I dunno. Years back they made antibiotics. You could maybe ask Doc Crane what he does all day."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:88
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:88:DefaultText"
+msgid "So why build a lab out here? What's this place for?"
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:89
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:89:DefaultText"
+msgid "The ''real planet'' is apparently raptidons trying to eat your face."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:90
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:90:DefaultText"
+msgid "What about you, Porter? What do you do here?"
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:91
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:91:DefaultText"
+msgid "Nah, raptidons are from Monarch. Fuck Monarch."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:93
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:93:DefaultText"
+msgid "Enough talk. Those outlaws won't wait forever."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:94
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:94:DefaultText"
+msgid "Yeah, falling to pieces while you live in them."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:96
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:96:DefaultText"
+msgid "Well, it's not like the rain's coming in the roof. Not yet, anyway."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:97
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:97:DefaultText"
+msgid "So long as they pay you, I guess it doesn't matter."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:98
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:98:DefaultText"
+msgid "You don't care at all? What if it's something illegal?"
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:99
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:99:DefaultText"
+msgid "If it was illegal, the company wouldn't ask us to do it."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:100
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:100:DefaultText"
+msgid "Easy to avoid breaking the law when you decide what's legal."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:101
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:101:DefaultText"
+msgid "Oh, the pay ain't much. But it's never been about the bits. I like Roseway."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:102
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:102:DefaultText"
+msgid "Seems like you're living at the edge of the known world out here."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:104
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:104:DefaultText"
+msgid "Yup."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:105
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:105:DefaultText"
+msgid "They weren't so tough."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:106
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:106:DefaultText"
+msgid "It was a near-run thing, but we got it done."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:108
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:108:DefaultText"
+msgid "I'm obliged. We'll take care of the cleanup. Shoot any strays."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:109
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:109:DefaultText"
+msgid "Stray raptidons?"
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:110
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:110:DefaultText"
+msgid "Stray outlaws?"
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:111
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:111:DefaultText"
+msgid "Sure. Them too."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:112
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:112:DefaultText"
+msgid "Any that don't give up on sight."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:113
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:113:DefaultText"
+msgid "Get down to Roseway and talk to Doc Crane. He'll make sure you get what's yours."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:114
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:114:DefaultText"
+msgid "So is there a reward for this?"
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:115
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:115:DefaultText"
+msgid "We heard it all from up here. Hell of a thing."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:116
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:116:DefaultText"
+msgid "They seemed pretty dangerous to us. Guess you're more on their level."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:118
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:118:DefaultText"
+msgid "I've been around. Seen some things. Shot most of them."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:119
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:119:DefaultText"
+msgid "If you hadn't kept them boxed in, they'd have been gone before we got that distress call."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:120
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:120:DefaultText"
+msgid "Kind of you to say. Hope the company feels the same."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:121
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:121:DefaultText"
+msgid "Then we're lucky you were passing by."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:122
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:122:DefaultText"
+msgid "How are your people?"
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:123
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:123:DefaultText"
+msgid "Their leader was no simple gunhand. She had an agenda."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:124
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:124:DefaultText"
+msgid "I'll head out then."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:126
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:126:DefaultText"
+msgid "Lost some of my own in the fight. And a bunch of the staff died before we could get them to Roseway."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:127
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:127:DefaultText"
+msgid "Taking the fight to the bosses by gunning down a bunch of little folk? Real fucking bright, that one."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:128
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:128:DefaultText"
+msgid "Not your fault, Porter."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:129
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:129:DefaultText"
+msgid "You'll be ready next time."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:130
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:130:DefaultText"
+msgid "Damn straight we will."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:131
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:131:DefaultText"
+msgid "Sign on my door says it is. But that ain't your trouble."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:132
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:132:DefaultText"
+msgid "She had a point. Things need to change up top."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:133
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:133:DefaultText"
+msgid "Ordinary folk need to be protected from her sort."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:134
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:134:DefaultText"
+msgid "Maybe. Sure. Bass-ackwards way to go about it. Shoulda shot up some rich fella's mansion instead."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:135
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:135:DefaultText"
+msgid "I ain't saying things are perfect. But shooting towns up ain't the way to improve."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:137
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:137:DefaultText"
+msgid "Thanks, I will."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:141
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:141:DefaultText"
+msgid "I'm gonna give you to the count of nothing to clear outta my post."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:143
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:143:DefaultText"
+msgid "That also means no fresh air down there. Probably reeks of raptidon musk. Couldn't happen to a nicer bunch."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:161
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:161:DefaultText"
+msgid "You sure you want to take me on?"
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:162
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:162:DefaultText"
+msgid "Ease off the trigger. Hear me out."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:163
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:163:DefaultText"
+msgid "Nobody needs to die here. Least of all me."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:164
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:164:DefaultText"
+msgid "I ain't seeing a compelling reason to not blow your head off."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:165
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:165:DefaultText"
+msgid "You got one minute. Starting now."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:166
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:166:DefaultText"
+msgid "I don't want to take anyone on today. I'm just doing my damn job."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:167
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:167:DefaultText"
+msgid "I convinced Cassandra to let you leave in peace. The lab's a wreck. The staff's half-dead."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:170
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:170:DefaultText"
+msgid "You convinced *her* to let *us* leave in peace? Listing the ills we been done ain't exactly putting me in a mind to compromise."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:173
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:173:DefaultText"
+msgid "<Attack> Fine. We'll do this the hard way."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:174
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:174:DefaultText"
+msgid "Look around. Hasn't there been enough death?"
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:175
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:175:DefaultText"
+msgid "I can't change what's done. I can change what happens from here. Just walk out."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:176
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:176:DefaultText"
+msgid "You did your job. Probably better than anybody expected you to."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:177
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:177:DefaultText"
+msgid "This isn't a cause worth dying for. You're meant for better."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:178
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:178:DefaultText"
+msgid "I gotta believe that all we done will mean something to the company. To Doc Crane. That effort'll make up for mistakes."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:179
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:179:DefaultText"
+msgid "Think it's that easy, huh? You fly in with your fancy ship, say a few words, and everyone gets a happy ending?"
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:180
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:180:DefaultText"
+msgid "Don't reckon the company's gonna see it that way."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:181
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:181:DefaultText"
+msgid "They aren't here. I'll say you fought like hell."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:182
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:182:DefaultText"
+msgid "Think about the people in this room. They're your responsibility."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:183
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:183:DefaultText"
+msgid "You think the company cares about you? Or do they care about their lab? Their research?"
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:185
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:185:DefaultText"
+msgid "Cassandra can't win. You can't win. Why throw more lives away?"
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:186
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:186:DefaultText"
+msgid "They ain't likely to take your word, given what you done."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:187
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:187:DefaultText"
+msgid "Think I don't know my own responsibilities, mister?"
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:187
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:187:FemaleText"
+msgid "Think I don't know my own responsibilities, lady?"
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:188
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:188:DefaultText"
+msgid "I let them walk, Doc Crane'll be so far up my ass, everything will smell of flop sweat."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:191
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:191:DefaultText"
+msgid "I think it can be easy, if you decide to let it be."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:192
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:192:DefaultText"
+msgid "I don't think walking away from a fight's ever easy."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:196
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:196:DefaultText"
+msgid "Anton cares what the company thinks of him more than he cares for your lives."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:199
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:199:DefaultText"
+msgid "The outlaws just want to leave. Let them go."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:201
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:201:DefaultText"
+msgid "Tell your friends there's just two ways outta here. A cell or a box."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:209
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:209:DefaultText"
+msgid "Pull stakes, people. We're heading back to town."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:214
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:214:DefaultText"
+msgid "We got places to be."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:215
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:215:DefaultText"
+msgid "Doc Crane better get over himself."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:217
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:217:DefaultText"
+msgid "Still a lot of raptidons out there. We'll take care of them."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:218
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:218:DefaultText"
+msgid "Probably gonna get fired. You know that, yeah?"
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:220
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:220:DefaultText"
+msgid "I'm working on it."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:221
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:221:DefaultText"
+msgid "I'll be back."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:222
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:222:DefaultText"
+msgid "You locked down the vents the attackers entered through. Are you sure they'll hold?"
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:223
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:223:DefaultText"
+msgid "How are you holding the attackers down there? A place like this must have more than one exit."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:224
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:224:DefaultText"
+msgid "Just don't knock over any paperwork in there. I got a system."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:225
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:225:DefaultText"
+msgid "Pretty damn sure. The shafts are sealed with four centimeter hatches."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:226
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:226:DefaultText"
+msgid "The garage and the front door are it. These bastards got in through the vent system, but we locked that down."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:229
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:229:DefaultText"
+msgid "You locked down the ventilation system. I want to use it to attack the outlaws from behind."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:230
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:230:DefaultText"
+msgid "Huh. I'll give you points for brass. Can't risk it, though. If you die, they'll take your pass and escape."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:231
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:231:DefaultText"
+msgid "They're not getting back out that way without a security keycard. They'd need to take mine. Or make a new one in my office, I guess."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:232
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:232:DefaultText"
+msgid "I want to be sure it's secure. You said the outlaws could make a card there."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:233
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:233:DefaultText"
+msgid "One level down, across from the cafeteria. But I locked it up, and I got the only keycard. To get in, they'd have to blow it. We'd hear."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:234
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:234:DefaultText"
+msgid "Damn mechanicals have always been more trouble than they're worth."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:237
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:237:DefaultText"
+msgid "Why not?"
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:238
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:238:DefaultText"
+msgid "What would it take to get things sorted?"
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:239
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:239:DefaultText"
+msgid "Who's this Crane?"
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:240
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:240:DefaultText"
+msgid "Anton Crane. Runs the lab. Likes to think he's the only one doing his job. Maybe he is, for all that."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:241
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:241:DefaultText"
+msgid "He's in charge. Since all hell's broke loose, it makes him ''look bad.'' Turd of a man."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:242
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:242:DefaultText"
+msgid "Mostly the obvious. Get the raptidons under control, get these outlaws under six feet of dirt. And somebody fetching Doc Crane's research, I reckon."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:243
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:243:DefaultText"
+msgid "About all he talked about afore he lit outta here was the data in his office. Probably shoulda taken it his damn self."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:245
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:245:DefaultText"
+msgid "Research, huh? We talking notebooks, computer tapes, or what?"
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:246
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:246:DefaultText"
+msgid "I don't get why anyone would attack this place."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:248
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:248:DefaultText"
+msgid "Big data cartridge. Doc Crane kept it locked in his office safe."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:249
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:249:DefaultText"
+msgid "Best I can figure, they were hoping to steal something valuable. Hidden lab, got to be something worth hiding, yeah? Thief logic."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:251
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:251:DefaultText"
+msgid "That's how I figured this would go. If being eaten by raptidons ain't budging them, they ain't like to parley."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:252
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:252:DefaultText"
+msgid "So we pull it off her corpse."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:253
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:253:DefaultText"
+msgid "Maybe she'll negotiate."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:255
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:255:DefaultText"
+msgid "So far all her parley's been done with bullets. To speak plain, my ire's up. I'd as soon put 'em all down."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:257
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:257:DefaultText"
+msgid "I already went by his office. The safe was empty."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:258
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:258:DefaultText"
+msgid "Damnation. The outlaws got to it. Bet their leader plans to sell or ransom it. We'll have to pry it outta her."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:259
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:259:DefaultText"
+msgid "Where's Crane's office?"
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:262
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:262:DefaultText"
+msgid "You haven't recovered Crane's data yet?"
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:263
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:263:DefaultText"
+msgid "Been a touch busy 'round here."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:265
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:265:DefaultText"
+msgid "I went to Anton's office to get his research. The safe was empty."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:266
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:266:DefaultText"
+msgid "I'm gonna guess you don't do it that often."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:271
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:271:DefaultText"
+msgid "You ever had a good thing? A place it felt like you were supposed to be? I had that here."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:275
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:275:DefaultText"
+msgid "I've  worked for Auntie Cleo eighteen years. Done my best for them. Always expected they'd do right by us in turn."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:276
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:276:DefaultText"
+msgid "I trust that we all end up where we're supposed to be. That all the variables come together in the end."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:277
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:277:DefaultText"
+msgid "The only person Doc Crane ever took a shine to was Jameson. Figured he just didn't know how to talk to folks. But here we stand, and he's nowhere about."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:280
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:280:DefaultText"
+msgid "If you thought to reinforce your friends here, think again. Touch those doors, we'll put you down."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:281
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:281:DefaultText"
+msgid "Everyone hold fire! Reinforcements are here."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:282
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:282:DefaultText"
+msgid "Well, don't that beat all. I expected you'd come back leading them against us."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:283
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:283:DefaultText"
+msgid "You must think me a fool. I was watching on the security cameras. You got downright friendly with the outlaw leader."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:286
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:286:DefaultText"
+msgid "I'm trying real hard to figure what your angle is. With your rep, I figured you'd be helping us."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:289
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:289:DefaultText"
+msgid "I'm trying to help as many people as I can."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:290
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:290:DefaultText"
+msgid "See, the answer I wanted there? It was, ''Yes, Chief, I'm helping you.''"
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:291
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:291:DefaultText"
+msgid "It doesn't have to end like this, Porter."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:292
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:292:DefaultText"
+msgid "I told you I wasn't on their side."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:293
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:293:DefaultText"
+msgid "I'm not on anyone's side, Porter. I just try to do what seems right."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:294
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:294:DefaultText"
+msgid "Then why'd you let me go down there?"
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:295
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:295:DefaultText"
+msgid "The word you're looking for is ''thanks.''"
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:296
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:296:DefaultText"
+msgid "Folks say a mess of things they don't mean. Ain't so common to find an honest soul."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:297
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:297:DefaultText"
+msgid "Been my experience that most folks confuse what's right with what's easy."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:298
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:298:DefaultText"
+msgid "The outlaws are all cleared out, then?"
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:299
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:299:DefaultText"
+msgid "Because I'm always hoping. Kind of a character flaw in my line of work."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:300
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:300:DefaultText"
+msgid "Reckon it is. So, thanks."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:301
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:301:DefaultText"
+msgid "You got ten seconds to march out peaceful-like, and disappear over my horizon."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:302
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:302:DefaultText"
+msgid "Ease down. I was sent by Anton to help you."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:303
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:303:DefaultText"
+msgid "Hold up. I'm nobody's reinforcements."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:304
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:304:DefaultText"
+msgid "What's going on here?"
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:305
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:305:DefaultText"
+msgid "Who pissed in your coffee?"
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:306
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:306:DefaultText"
+msgid "I told that dumb bastard to start reading my security briefs. Like the one about you."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:307
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:307:DefaultText"
+msgid "You expect me to believe it's coincidence that a face I seen on wanted posters shows up now?"
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:308
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:308:DefaultText"
+msgid "Like you don't know. Five seconds."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:309
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:309:DefaultText"
+msgid "I got a lab full of outlaws, and a body known for causing trouble shows up."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:310
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:310:DefaultText"
+msgid "Whatever you've read about me probably isn't true."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:311
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:311:DefaultText"
+msgid "I didn't come here to cause problems."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:312
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:312:DefaultText"
+msgid "I've got wanted posters? Do you have one? I could sign it for you."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:313
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:313:DefaultText"
+msgid "I've got no intention of fighting you."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:314
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:314:DefaultText"
+msgid "I honestly don't know your situation. We picked up a distress signal."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:315
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:315:DefaultText"
+msgid "Stop fucking counting and talk to me."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:316
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:316:DefaultText"
+msgid "I convinced him to give me a chance. Maybe you could do the same."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:317
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:317:DefaultText"
+msgid "Oh, he gave me grief about my history too. I'm just real stubborn."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:318
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:318:DefaultText"
+msgid "To be fair to the man, he seems pretty distracted."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:319
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:319:DefaultText"
+msgid "I didn't come here to cause trouble."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:320
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:320:DefaultText"
+msgid "It's your lucky day. I'm here to help, for a modest fee."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:321
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:321:DefaultText"
+msgid "I'm answering a distress signal. You're welcome."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:323
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:323:DefaultText"
+msgid "Right. And if I tell you we ain't paying shit?"
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:324
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:324:DefaultText"
+msgid "Then I leave."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:325
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:325:DefaultText"
+msgid "You don't seem to be in a position to refuse help."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:326
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:326:DefaultText"
+msgid "That's fine, I don't accept payment in shit. Bits on the barrelhead, by preference."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:327
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:327:DefaultText"
+msgid "We didn't send no damn distress call."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:328
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:328:DefaultText"
+msgid "Anton did. I spoke to him in town."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:329
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:329:DefaultText"
+msgid "Well, somebody did. And here I am."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:330
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:330:DefaultText"
+msgid "Regardless, seems to me you need help."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:331
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:331:DefaultText"
+msgid "You're in over your heads."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:332
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:332:DefaultText"
+msgid "Damn that man."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:333
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:333:DefaultText"
+msgid "Prob'ly one of the eggheads, Chief. After they fucked off to Roseway."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:334
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:334:DefaultText"
+msgid "Like I can't figure that? And watch your fucking language."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:335
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:335:DefaultText"
+msgid "We got the bulletin about what you done at Emerald Vale. You try anything here, I will throw you under a cell."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:336
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:336:DefaultText"
+msgid "Look at the comedian, here."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:337
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:337:DefaultText"
+msgid "Simple as that, eh? Bullshit."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:338
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:338:DefaultText"
+msgid "I'll just bet. Busy trying to figure how he can report this without looking bad."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:339
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:339:DefaultText"
+msgid "I don't reckon that man a shrewd judge of character. When it comes to the safety of my people, there's me and then there's the Architect of All."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:340
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:340:DefaultText"
+msgid "I get the feeling you ain't taking me seriously."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:341
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:341:DefaultText"
+msgid "Then why did you come here?"
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:342
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:342:DefaultText"
+msgid "Sure. ''Extenuatin' circumstances.'' Done it for your ailing ma. Right?"
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:343
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:343:DefaultText"
+msgid "I've got a moral code. It's just at an angle to what the corporations find convenient."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:344
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:344:DefaultText"
+msgid "Could we say that anyone I've killed probably deserved it?"
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:345
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:345:DefaultText"
+msgid "I'm decent enough. Just got no patience for fools."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:346
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:346:DefaultText"
+msgid "Then you best back outta here. Your time's up."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:350
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:350:DefaultText"
+msgid "I got a wanted poster in my desk that says you're the kind of problem I don't need today."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:351
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:351:DefaultText"
+msgid "Don't shoot, damn it. I came to help you people."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:352
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:352:DefaultText"
+msgid "This isn't the fight I came here for."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:353
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:353:DefaultText"
+msgid "Don't you have bigger problems than me?"
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:354
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:354:DefaultText"
+msgid "Doc Crane's the stubbornest man I ever met."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:364
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:364:DefaultText"
+msgid "We were flying over when we got a distress signal."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:365
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:365:DefaultText"
+msgid "To fix problems, if you'll let me."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:366
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:366:DefaultText"
+msgid "I'm starting to ask that question my own damn self."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:367
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:367:DefaultText"
+msgid "Whatever you've heard has been greatly exaggerated."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:369
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:369:DefaultText"
+msgid "My only problem is an inability to smile and turn away when someone smacks me in the face."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:370
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:370:DefaultText"
+msgid "I wouldn't put money on that, if I were you."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:371
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:371:DefaultText"
+msgid "Not from your sort."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:372
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:372:DefaultText"
+msgid "Only on account of surprise. We're doing all right now."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:373
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:373:DefaultText"
+msgid "I assure you, I take guns in my face very seriously."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:374
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:374:DefaultText"
+msgid "Right now I'm feeling that goes both ways."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:375
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:375:DefaultText"
+msgid "Sorry, just real amused to hear I'm a wanted man."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:375
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:375:FemaleText"
+msgid "Sorry, just real amused to hear I'm a wanted woman."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:376
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:376:DefaultText"
+msgid "We got a distress call. I came to investigate. That's all."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:378
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:378:DefaultText"
+msgid "You need help. I'm offering. But it seems like you'd rather make a foe of me."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:379
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:379:DefaultText"
+msgid "I've got no skin in this. If you don't want help, I can't force it on you."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:380
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:380:DefaultText"
+msgid "My mom says I'm a nice person. Are you doubting my mom?"
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:382
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:382:DefaultText"
+msgid "I'm sure she's a lovely person. But maybe a touch biased in your case."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:383
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:383:DefaultText"
+msgid "You saying all the trouble attached to your name is due to other folk? Little hard to swallow."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:384
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:384:DefaultText"
+msgid "Maybe it is. Maybe it ain't. Not a bet I aim to take."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:385
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:385:DefaultText"
+msgid "I don't know what you expected."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:386
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:386:DefaultText"
+msgid "Depends on your intentions, wouldn't you say?"
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:387
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:387:DefaultText"
+msgid "We don't want your help."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:388
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:388:DefaultText"
+msgid "See, now I wouldn't find that a bit funny."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:389
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:389:DefaultText"
+msgid "If I didn't have a pack of murderous thieves in my basement, you would be the focus of my day."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:390
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:390:DefaultText"
+msgid "Glad to hear I got your attention."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:392
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:392:DefaultText"
+msgid "Patience for fools is pretty much a requirement for living in polite society."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:393
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:393:DefaultText"
+msgid "See this? This here's my dubious face."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:394
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:394:DefaultText"
+msgid "Leastways we got one thing to agree on."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:395
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:395:DefaultText"
+msgid "I don't got the time nor the inclination to sit and talk it over with you."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:396
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:396:DefaultText"
+msgid "We could not."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:397
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:397:DefaultText"
+msgid "What, you're not going to kill me?"
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:398
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:398:DefaultText"
+msgid "Don't like killing, as a matter of principle."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:399
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:399:DefaultText"
+msgid "I like to think everything's got its place. Strife's just people not knowing where they're supposed to be."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:401
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:401:DefaultText"
+msgid "You need help. I'm offering. But it seems like you'd rather make a foe of me."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:402
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:402:DefaultText"
+msgid "You need help. I'm offering. But it seems like you'd rather make a foe of me."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:404
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:404:DefaultText"
+msgid "We got a distress call. I came to investigate. That's all."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:405
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:405:DefaultText"
+msgid "We got a distress call. I came to investigate. That's all."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:406
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:406:DefaultText"
+msgid "We're leaving."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:407
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:407:DefaultText"
+msgid "Glad to hear it. See yourself out."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:408
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:408:DefaultText"
+msgid "I can't be sure that if I let you behind me, I won't get shot in the back. That disquiets me."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:409
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:409:DefaultText"
+msgid "Ain't sure I believe you. I'd sure like to. I got bad sorts shooting up the place, and the company ain't likely to send help."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:410
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:410:DefaultText"
+msgid "Pretty sure I asked you to get out."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:425
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:425:DefaultText"
+msgid "Leastways I hope you're our reinforcements. I know you're a freelancer, but..."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:426
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:426:DefaultText"
+msgid "Anton hired me to help. You're in charge of security?"
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:427
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:427:DefaultText"
+msgid "Doc Crane sent you? Good. Reckon he gave you the basics of our situation, then. Call me Porter."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:429
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:429:DefaultText"
+msgid "I'm Porter. We got a bulletin about what you done in Emerald Vale. Glad to have a quality freelancer backing my people."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:430
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:430:DefaultText"
+msgid "You've heard of me?"
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:431
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:431:DefaultText"
+msgid "They sent 'round a bulletin about Emerald Vale. Can't say how accurate it was, but it surely made you sound good."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:432
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:432:DefaultText"
+msgid "I didn't think I'd done anything special."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:433
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:433:DefaultText"
+msgid "I can tell the story later. Just make sure there's a bottle at hand. Improves the telling."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:434
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:434:DefaultText"
+msgid "Sounds like it's time to reevaluate my hourly rates."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:435
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:435:DefaultText"
+msgid "So long as you don't price yourself outta my range. We could use the help right now."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:436
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:436:DefaultText"
+msgid "I might take you up on that. Things are a touch hairy at the moment."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:438
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:438:DefaultText"
+msgid "Fella running the place seems to disagree. Spoke your name near as much as his own."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:439
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:439:DefaultText"
+msgid "Maybe? We were passing over when we got a distress call."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:440
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:440:DefaultText"
+msgid "Somebody must have sent that in Roseway. That's where the comm tower is."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:442
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:442:DefaultText"
+msgid "They're not stupid. If there's no one to pay them, there's no reason to die."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:443
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:443:DefaultText"
+msgid "I'm having a hell of a time keeping my people from shooting their prisoners. And I'm not even sure I should stop them."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:444
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:444:DefaultText"
+msgid "They were doing a job, same as you. Blame their leader -- she got them into this."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:445
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:445:DefaultText"
+msgid "The rest will fight to the death if they see you're shooting prisoners."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:446
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:446:DefaultText"
+msgid "I won't tell if you don't."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:447
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:447:DefaultText"
+msgid "Yeah. Only drag this mess out further. Get more of mine shot."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:448
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:448:DefaultText"
+msgid "I reckon there's plenty enough blame to spread it around some."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:449
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:449:DefaultText"
+msgid "No. I'll keep them in line. It ain't right to plant unarmed folk in the ground. 'Preciate you backing us on it, though."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:450
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:450:DefaultText"
+msgid "How have you been dealing with the raptidons?"
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:452
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:452:DefaultText"
+msgid "'Course, the company ain't sending no help. And I don't aim to get any more of these people killed."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:461
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:461:DefaultText"
+msgid "Kill outlaws and raptidons, grab the research. I'm on it."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:462
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:462:DefaultText"
+msgid "Doc Crane's office is downstairs, near the cafeteria and my office."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:464
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:464:DefaultText"
+msgid "Don't know how much that'll help, but I appreciate it."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:466
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:466:DefaultText"
+msgid "Give me the details."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:467
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:467:DefaultText"
+msgid "Turning, marching, disappearing."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:468
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:468:DefaultText"
+msgid "Do I need to start counting again?"
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:469
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:469:DefaultText"
+msgid "I'll just excuse myself."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:470
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:470:DefaultText"
+msgid "We'll just excuse ourselves."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:472
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:472:DefaultText"
+msgid "Let's skip the back and forth. What's your issue with me?"
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:473
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:473:DefaultText"
+msgid "I'm leaving."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:474
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:474:DefaultText"
+msgid "We're leaving."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:477
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:477:DefaultText"
+msgid "Here. My keycard. It'll get you access to the whole place."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:479
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:479:DefaultText"
+msgid "I met him in Roseway. I wasn't impressed."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:480
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:480:DefaultText"
+msgid "Get down to Roseway and talk to Doc Crane. He'll make sure you get what's yours."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:481
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:481:DefaultText"
+msgid "Never mind. I'm leaving."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:482
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:482:DefaultText"
+msgid "The outlaws agreed to discuss terms for surrender. They're waiting for you outside."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:483
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:483:DefaultText"
+msgid "Are they now? You'll pardon if I say this smacks of ambush. Why the sudden change of heart?"
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:485
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:485:DefaultText"
+msgid "I reckon I don't see any better solution. Fine, damn it. We'll pull out."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:486
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:486:DefaultText"
+msgid "I reckon I don't see any better solution. Fine, damn it. We'll pull out."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:488
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:488:DefaultText"
+msgid "Being gnawed on by rapts has a way of adjusting your priorities."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:490
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:490:DefaultText"
+msgid "I suppose it does, at that."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:493
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:493:DefaultText"
+msgid "<Attack> You got me. I was hoping Cassandra would kill you. Guess I'll do it myself."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:494
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:494:DefaultText"
+msgid "All right. We'll head on out and see what they got to say for themselves."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:495
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:495:DefaultText"
+msgid "All right. We'll head on out and see what they got to say for themselves."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:497
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:497:DefaultText"
+msgid "Load up, gentlefolk. We got to bandy words with a repentant outlaw."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:499
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:499:DefaultText"
+msgid "It does sound like an ambush, doesn't it? Never mind."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:500
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:500:DefaultText"
+msgid "Who the- You! Yeah, you. Get over here."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:501
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:501:DefaultText"
+msgid "You damn turncoat! We saw everything."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:503
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:503:DefaultText"
+msgid "They sent around a bulletin about you. Can't say how accurate it was, but it surely made you sound good."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:504
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:504:DefaultText"
+msgid "You've got nice views and more sprats than people. What's not to like?"
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:505
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:505:DefaultText"
+msgid "Here. My keycard. It'll get you access to the whole place."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:508
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:508:DefaultText"
+msgid "You gonna tell us where to look, or do we gotta guess?"
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:509
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:509:DefaultText"
+msgid "Let me guess. That somebody was supposed to be you."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:510
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:510:DefaultText"
+msgid "Rapts are destructive little assholes. If you got a clue as to where we'll find the research, spill it so we can get to it before they do."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:511
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:511:DefaultText"
+msgid "You point us in the right direction, and I'm sure the Captain here'd be happy to help retrieve it."
+msgstr ""
+
+#: conversations/08_roseway/08_cv_cleo_porter:512
+msgctxt "conversations/08_roseway/08_cv_cleo_porter:512:DefaultText"
+msgid "And where exactly might Dr. Crane's research be found... were we inclined to retrieve it?"
+msgstr ""

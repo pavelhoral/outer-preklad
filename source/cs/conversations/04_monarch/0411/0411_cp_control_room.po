@@ -1,0 +1,99 @@
+#: conversations/04_monarch/0411/0411_cp_control_room:1
+msgctxt "conversations/04_monarch/0411/0411_cp_control_room:1:DefaultText"
+msgid "C&P Factory Systems\r\n"
+"========================\r\n"
+"AUTHORIZED USER LOG IN SEQUENCE INTIATING...\r\n"
+"========================\r\n"
+"Greetings, authorized personnel. How may the system assist you, today?"
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cp_control_room:2
+msgctxt "conversations/04_monarch/0411/0411_cp_control_room:2:DefaultText"
+msgid "[Maintenance Logs]"
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cp_control_room:4
+msgctxt "conversations/04_monarch/0411/0411_cp_control_room:4:DefaultText"
+msgid "[Enable \"Pink Slip Protocol\" on Sentry Automechs]"
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cp_control_room:5
+msgctxt "conversations/04_monarch/0411/0411_cp_control_room:5:DefaultText"
+msgid "[Call Elevator to Ground Level]"
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cp_control_room:6
+msgctxt "conversations/04_monarch/0411/0411_cp_control_room:6:DefaultText"
+msgid "[Exit]"
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cp_control_room:7
+msgctxt "conversations/04_monarch/0411/0411_cp_control_room:7:DefaultText"
+msgid "The elevator will arrive momentarily.\n"
+"\n"
+"REQUIRED ADVISORY MESSAGE: Remember, when meeting with the King, do not initiate conversation, avoid eye contact, respond respectfully when addressed, and above all else -- do not provide any provocation for which to be canned."
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cp_control_room:8
+msgctxt "conversations/04_monarch/0411/0411_cp_control_room:8:DefaultText"
+msgid "Authentication of authorization required. Please provide the correct password.\n"
+"\n"
+"PASSWORD: *******\n"
+"\n"
+"Authorization... authorization...\n"
+"\n"
+"...authorization accepted. Commencing strategic restructuring of all factory personnel... "
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cp_control_room:10
+msgctxt "conversations/04_monarch/0411/0411_cp_control_room:10:DefaultText"
+msgid "[Accessing...]"
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cp_control_room:11
+msgctxt "conversations/04_monarch/0411/0411_cp_control_room:11:DefaultText"
+msgid "[Maintenance Log 157]"
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cp_control_room:12
+msgctxt "conversations/04_monarch/0411/0411_cp_control_room:12:DefaultText"
+msgid "[Maintenance Log 241]"
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cp_control_room:13
+msgctxt "conversations/04_monarch/0411/0411_cp_control_room:13:DefaultText"
+msgid "[Return to Root]"
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cp_control_room:14
+msgctxt "conversations/04_monarch/0411/0411_cp_control_room:14:DefaultText"
+msgid "Dictating memoranda from authorized user... Control Room Operator.\n"
+"\n"
+"begin block quote --\n"
+"\n"
+"...Oh, for piss and plasma, I ain't input \"start recording\" now did I? No, you stupid piece of shrapnel computer.\n"
+"\n"
+"I was only saying how it irks me when the others filch my lunch - P-Free Butter and Purpleberry Jelly, I'll have you know, not boarst and for good reason - and while they're gorging, they got the nerve to fart and waggle their middle fingers at me from the factory floor. 'Cause they know, I know, I can't go down there 'til the shift break. And by then it's too late.\n"
+"\n"
+"Tell you what though. I'm tempted. I'm tempted, all right, to use the Sentry Automechs' new Pink Slip Protocol to terminate each and every one of 'em.\n"
+"\n"
+"Won't be waggling their middle fingers then. Now would they?\n"
+"\n"
+"-- end block quote"
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cp_control_room:15
+msgctxt "conversations/04_monarch/0411/0411_cp_control_room:15:DefaultText"
+msgid "Clog in the machinery consisted of the following composition: \n"
+"\n"
+"16% - adipose tissues\n"
+"15% - bone \n"
+"40% to indeterminant percentage - sinew, hair, hemoglobin, and other organic materials\n"
+"\n"
+"Would you like to run a deeper diagnostic?\n"
+"\n"
+"...Processing keystrokes, \"No no no no!\" \n"
+"\n"
+"Authorization... approved. Resuming deep cleansing cycle....\n"
+""
+msgstr ""

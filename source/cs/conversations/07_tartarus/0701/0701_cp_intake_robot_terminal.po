@@ -1,0 +1,292 @@
+#: conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:1
+msgctxt "conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:1:DefaultText"
+msgid "LBR-NTH Automechanical Terminal\r\n"
+"============================\r\n"
+"Riot Automechanical (RAM) is online. \r\n"
+"\r\n"
+"UDL is not responsible for lethal force dispensed by the RAM unit.\r\n"
+"\r\n"
+"If the automechanicals in this area need maintenance or updated security protocols, please consult your nearest security engineer."
+msgstr ""
+
+#: conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:4
+msgctxt "conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:4:DefaultText"
+msgid "[Designate RAM as a Hostile Intruder]"
+msgstr ""
+
+#: conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:11
+msgctxt "conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:11:DefaultText"
+msgid "[Exit]"
+msgstr ""
+
+#: conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:13
+msgctxt "conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:13:DefaultText"
+msgid "LBR-NTH Automechanical Terminal\r\n"
+"============================\r\n"
+"Intruder identified. Deploying suppression unit."
+msgstr ""
+
+#: conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:14
+msgctxt "conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:14:DefaultText"
+msgid "[Access RAM Override Menu]"
+msgstr ""
+
+#: conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:15
+msgctxt "conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:15:DefaultText"
+msgid "[Attempt RAM Shutdown Sequence]"
+msgstr ""
+
+#: conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:17
+msgctxt "conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:17:DefaultText"
+msgid "LBR-NTH Automechanical Terminal\r\n"
+"============================\r\n"
+"The RAM unit is in suppression mode. Three part authentication is required. In the event of a critical malfunction to the RAM unit's main systems, partial authentication may be accepted.\r\n"
+"\r\n"
+"To protect the RAM unit from any unauthorized access, administrators may only bypass two of these passwords.\r\n"
+"\r\n"
+"Administrative bypasses remaining: 2\r\n"
+"\r\n"
+"Please enter the first password."
+msgstr ""
+
+#: conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:18
+msgctxt "conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:18:DefaultText"
+msgid "[Bypass First Password]"
+msgstr ""
+
+#: conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:19
+msgctxt "conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:19:DefaultText"
+msgid "[AKANDE]"
+msgstr ""
+
+#: conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:20
+msgctxt "conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:20:DefaultText"
+msgid "[Mark the RAM's ammunition as the wrong caliber.]"
+msgstr ""
+
+#: conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:21
+msgctxt "conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:21:DefaultText"
+msgid "[12345]"
+msgstr ""
+
+#: conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:22
+msgctxt "conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:22:DefaultText"
+msgid "LBR-NTH Automechanical Terminal\r\n"
+"============================\r\n"
+"Administrative bypass accepted.\r\n"
+"\r\n"
+"Please enter the second password.\r\n"
+"\r\n"
+"Administrative bypasses remaining: 1"
+msgstr ""
+
+#: conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:23
+msgctxt "conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:23:DefaultText"
+msgid "[Bypass Second Password]"
+msgstr ""
+
+#: conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:24
+msgctxt "conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:24:DefaultText"
+msgid "[SMELLSLIKE]"
+msgstr ""
+
+#: conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:25
+msgctxt "conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:25:DefaultText"
+msgid "[Flag the RAM Unit's Thrusters as Overloaded]"
+msgstr ""
+
+#: conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:26
+msgctxt "conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:26:DefaultText"
+msgid "[Mash Random Keys]"
+msgstr ""
+
+#: conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:27
+msgctxt "conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:27:DefaultText"
+msgid "LBR-NTH Automechanical Terminal\r\n"
+"============================\r\n"
+"Password accepted.\r\n"
+"\r\n"
+"Please enter the second password.\r\n"
+"\r\n"
+"Administrative bypasses remaining: 2"
+msgstr ""
+
+#: conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:29
+msgctxt "conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:29:DefaultText"
+msgid "[Return to Root]"
+msgstr ""
+
+#: conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:30
+msgctxt "conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:30:DefaultText"
+msgid "LBR-NTH Automechanical Terminal\r\n"
+"============================\r\n"
+"Warning: Damage to the RAM unit or Labyrinth personnel as a result of its security or safety overrides will be marked against employee #$ERR!#, who is currently logged in."
+msgstr ""
+
+#: conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:31
+msgctxt "conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:31:DefaultText"
+msgid "[Activate Weapons Safeties]"
+msgstr ""
+
+#: conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:32
+msgctxt "conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:32:DefaultText"
+msgid "[Abort Sequence]"
+msgstr ""
+
+#: conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:33
+msgctxt "conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:33:DefaultText"
+msgid "[Bypass Third Password]"
+msgstr ""
+
+#: conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:34
+msgctxt "conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:34:DefaultText"
+msgid "[BOARST]"
+msgstr ""
+
+#: conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:35
+msgctxt "conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:35:DefaultText"
+msgid "[Load Double-C Batteries into the RAM Unit's Quadruple-Z Battery Charger]"
+msgstr ""
+
+#: conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:36
+msgctxt "conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:36:DefaultText"
+msgid "<Shout numbers at the screen.>"
+msgstr ""
+
+#: conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:37
+msgctxt "conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:37:DefaultText"
+msgid "LBR-NTH Automechanical Terminal\r\n"
+"============================\r\n"
+"Password accepted.\r\n"
+"\r\n"
+"Please enter the third password.\r\n"
+"\r\n"
+"Administrative bypasses remaining: 2"
+msgstr ""
+
+#: conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:40
+msgctxt "conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:40:DefaultText"
+msgid "LBR-NTH Automechanical Terminal\r\n"
+"============================\r\n"
+"Administrative bypass accepted.\r\n"
+"\r\n"
+"Please enter the third password.\r\n"
+"\r\n"
+"Administrative bypasses remaining: 0"
+msgstr ""
+
+#: conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:42
+msgctxt "conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:42:DefaultText"
+msgid "[Bypass Second Password]"
+msgstr ""
+
+#: conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:43
+msgctxt "conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:43:DefaultText"
+msgid "LBR-NTH Automechanical Terminal\r\n"
+"============================\r\n"
+"Password accepted.\r\n"
+"\r\n"
+"Please enter the third password.\r\n"
+"\r\n"
+"Administrative bypasses remaining: 1"
+msgstr ""
+
+#: conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:44
+msgctxt "conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:44:DefaultText"
+msgid "[SMELLSLIKE]"
+msgstr ""
+
+#: conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:45
+msgctxt "conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:45:DefaultText"
+msgid "[Flag the RAM Unit's Thrusters as Overloaded]"
+msgstr ""
+
+#: conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:46
+msgctxt "conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:46:DefaultText"
+msgid "[Mash Random Keys]"
+msgstr ""
+
+#: conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:48
+msgctxt "conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:48:DefaultText"
+msgid "[Access RAM Override Menu]"
+msgstr ""
+
+#: conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:49
+msgctxt "conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:49:DefaultText"
+msgid "LBR-NTH Automechanical Terminal\r\n"
+"============================\r\n"
+"Critical malfunction acknowledged. Partial authentication acceptable.\r\n"
+"\r\n"
+"Please enter the second password.\r\n"
+"\r\n"
+"Administrative bypasses remaining: 2"
+msgstr ""
+
+#: conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:50
+msgctxt "conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:50:DefaultText"
+msgid "LBR-NTH Automechanical Terminal\r\n"
+"============================\r\n"
+"Critical malfunction acknowledged. Partial authentication acceptable.\r\n"
+"\r\n"
+"Please enter the third password.\r\n"
+"\r\n"
+"Administrative bypasses remaining: 1"
+msgstr ""
+
+#: conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:51
+msgctxt "conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:51:DefaultText"
+msgid "LBR-NTH Automechanical Terminal\r\n"
+"============================\r\n"
+"Critical malfunction acknowledged. Partial authentication acceptable.\r\n"
+"\r\n"
+"Please enter the third password.\r\n"
+"\r\n"
+"Administrative bypasses remaining: 2"
+msgstr ""
+
+#: conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:52
+msgctxt "conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:52:DefaultText"
+msgid "LBR-NTH Automechanical Terminal\r\n"
+"============================\r\n"
+"Password accepted.\r\n"
+"\r\n"
+"RAM shutdown sequence initiated."
+msgstr ""
+
+#: conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:53
+msgctxt "conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:53:DefaultText"
+msgid "LBR-NTH Automechanical Terminal\r\n"
+"============================\r\n"
+"Administrative bypass accepted.\r\n"
+"\r\n"
+"RAM shutdown sequence initiated."
+msgstr ""
+
+#: conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:54
+msgctxt "conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:54:DefaultText"
+msgid "LBR-NTH Automechanical Terminal\r\n"
+"============================\r\n"
+"Administrative bypass accepted.\r\n"
+"\r\n"
+"Please enter the third password.\r\n"
+"\r\n"
+"Administrative bypasses remaining:  1"
+msgstr ""
+
+#: conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:55
+msgctxt "conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:55:DefaultText"
+msgid "LBR-NTH Automechanical Terminal\r\n"
+"============================\r\n"
+"Critical malfunction acknowledged. Partial authentication acceptable.\r\n"
+"\r\n"
+"RAM shutdown sequence initiated."
+msgstr ""
+
+#: conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:56
+msgctxt "conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:56:DefaultText"
+msgid "LBR-NTH Automechanical Terminal\r\n"
+"============================\r\n"
+"WARNING: RAM core systems operating below maximum efficiency. Defensive and offensive capabilities weakened. \r\n"
+"\r\n"
+"In the event of a security breach, suppression protocols may be less precise than usual. Please prepare the janitorial automechanicals for a Level 5 Mopping Sweep."
+msgstr ""

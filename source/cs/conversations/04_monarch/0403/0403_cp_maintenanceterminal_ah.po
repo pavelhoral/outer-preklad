@@ -1,0 +1,164 @@
+#: conversations/04_monarch/0403/0403_cp_maintenanceterminal_ah:1
+msgctxt "conversations/04_monarch/0403/0403_cp_maintenanceterminal_ah:1:DefaultText"
+msgid "Amber Heights Routing Terminal\r\n"
+"============================\r\n"
+"HUXLEY, STAY OFF THIS MACHINE\r\n"
+"============================\r\n"
+"I know your terminal's out of storage, but if you break this one, things are gonna go tits up around here.\r\n"
+"\r\n"
+"Anyone else, long as you know what you're doing, go ahead and clear work orders out whenever you can.\r\n"
+"\r\n"
+"-- Zora"
+msgstr ""
+
+#: conversations/04_monarch/0403/0403_cp_maintenanceterminal_ah:3
+msgctxt "conversations/04_monarch/0403/0403_cp_maintenanceterminal_ah:3:DefaultText"
+msgid "[View Work Orders]"
+msgstr ""
+
+#: conversations/04_monarch/0403/0403_cp_maintenanceterminal_ah:5
+msgctxt "conversations/04_monarch/0403/0403_cp_maintenanceterminal_ah:5:DefaultText"
+msgid "[Exit]"
+msgstr ""
+
+#: conversations/04_monarch/0403/0403_cp_maintenanceterminal_ah:6
+msgctxt "conversations/04_monarch/0403/0403_cp_maintenanceterminal_ah:6:DefaultText"
+msgid "Amber Heights Routing Terminal\r\n"
+"============================\r\n"
+"Unresolved work orders:"
+msgstr ""
+
+#: conversations/04_monarch/0403/0403_cp_maintenanceterminal_ah:7
+msgctxt "conversations/04_monarch/0403/0403_cp_maintenanceterminal_ah:7:DefaultText"
+msgid "[Steam coming outta the roof]"
+msgstr ""
+
+#: conversations/04_monarch/0403/0403_cp_maintenanceterminal_ah:8
+msgctxt "conversations/04_monarch/0403/0403_cp_maintenanceterminal_ah:8:DefaultText"
+msgid "[Arcing electricity at the bar]"
+msgstr ""
+
+#: conversations/04_monarch/0403/0403_cp_maintenanceterminal_ah:9
+msgctxt "conversations/04_monarch/0403/0403_cp_maintenanceterminal_ah:9:DefaultText"
+msgid "[Haven't heard from the rapt house]"
+msgstr ""
+
+#: conversations/04_monarch/0403/0403_cp_maintenanceterminal_ah:10
+msgctxt "conversations/04_monarch/0403/0403_cp_maintenanceterminal_ah:10:DefaultText"
+msgid "[Dear diary]"
+msgstr ""
+
+#: conversations/04_monarch/0403/0403_cp_maintenanceterminal_ah:11
+msgctxt "conversations/04_monarch/0403/0403_cp_maintenanceterminal_ah:11:DefaultText"
+msgid "System: Water flow\r\n"
+"Submitter: Milton R.\r\n"
+"Description: The pipes on top of my house are gonna burst. They're leaking steam. Someone oughta fix this before they explode or the steam hurts somebody."
+msgstr ""
+
+#: conversations/04_monarch/0403/0403_cp_maintenanceterminal_ah:12
+msgctxt "conversations/04_monarch/0403/0403_cp_maintenanceterminal_ah:12:DefaultText"
+msgid "[Remotely Reroute the Water]"
+msgstr ""
+
+#: conversations/04_monarch/0403/0403_cp_maintenanceterminal_ah:14
+msgctxt "conversations/04_monarch/0403/0403_cp_maintenanceterminal_ah:14:DefaultText"
+msgid "[Return to Root]"
+msgstr ""
+
+#: conversations/04_monarch/0403/0403_cp_maintenanceterminal_ah:20
+msgctxt "conversations/04_monarch/0403/0403_cp_maintenanceterminal_ah:20:DefaultText"
+msgid "Flow system corrections complete.\r\n"
+"\r\n"
+"Marking work order as resolved."
+msgstr ""
+
+#: conversations/04_monarch/0403/0403_cp_maintenanceterminal_ah:22
+msgctxt "conversations/04_monarch/0403/0403_cp_maintenanceterminal_ah:22:DefaultText"
+msgid "System: Electric\r\n"
+"Submitter: Bronson V.\r\n"
+"Description: Looks like sprats chewed through the wires on the side of the bar. They're sparking up a storm."
+msgstr ""
+
+#: conversations/04_monarch/0403/0403_cp_maintenanceterminal_ah:23
+msgctxt "conversations/04_monarch/0403/0403_cp_maintenanceterminal_ah:23:DefaultText"
+msgid "[Remotely Shut Off the Power Going Through the Bar's Side Panels]"
+msgstr ""
+
+#: conversations/04_monarch/0403/0403_cp_maintenanceterminal_ah:26
+msgctxt "conversations/04_monarch/0403/0403_cp_maintenanceterminal_ah:26:DefaultText"
+msgid "Power system corrections complete.\r\n"
+"\r\n"
+"Marking work order as resolved."
+msgstr ""
+
+#: conversations/04_monarch/0403/0403_cp_maintenanceterminal_ah:28
+msgctxt "conversations/04_monarch/0403/0403_cp_maintenanceterminal_ah:28:DefaultText"
+msgid "System: Communications\r\n"
+"Submitter: Zora B.\r\n"
+"Description: We ain't heard from the Rapt House in a while. Sent Milton over--ain't heard from him either. Someone needs to go check it out."
+msgstr ""
+
+#: conversations/04_monarch/0403/0403_cp_maintenanceterminal_ah:29
+msgctxt "conversations/04_monarch/0403/0403_cp_maintenanceterminal_ah:29:DefaultText"
+msgid "[Remotely Reset the Rapt House's Communications Breaker]"
+msgstr ""
+
+#: conversations/04_monarch/0403/0403_cp_maintenanceterminal_ah:32
+msgctxt "conversations/04_monarch/0403/0403_cp_maintenanceterminal_ah:32:DefaultText"
+msgid "Communications system corrections complete.\r\n"
+"\r\n"
+"Marking work order as resolved."
+msgstr ""
+
+#: conversations/04_monarch/0403/0403_cp_maintenanceterminal_ah:34
+msgctxt "conversations/04_monarch/0403/0403_cp_maintenanceterminal_ah:34:DefaultText"
+msgid "[Exit]"
+msgstr ""
+
+#: conversations/04_monarch/0403/0403_cp_maintenanceterminal_ah:35
+msgctxt "conversations/04_monarch/0403/0403_cp_maintenanceterminal_ah:35:DefaultText"
+msgid "System: Culinary\r\n"
+"Submitter: Huxley S.\r\n"
+"Description: ha HA! Hey Zora! I figured out how to add work orders!\r\n"
+"\r\n"
+"Dear diary: Eat it!!\r\n"
+"\r\n"
+"- Hux"
+msgstr ""
+
+#: conversations/04_monarch/0403/0403_cp_maintenanceterminal_ah:36
+msgctxt "conversations/04_monarch/0403/0403_cp_maintenanceterminal_ah:36:DefaultText"
+msgid "[Erase Work Order]"
+msgstr ""
+
+#: conversations/04_monarch/0403/0403_cp_maintenanceterminal_ah:38
+msgctxt "conversations/04_monarch/0403/0403_cp_maintenanceterminal_ah:38:DefaultText"
+msgid "Work order marked as resolved and purged from the system."
+msgstr ""
+
+#: conversations/04_monarch/0403/0403_cp_maintenanceterminal_ah:40
+msgctxt "conversations/04_monarch/0403/0403_cp_maintenanceterminal_ah:40:DefaultText"
+msgid "[Continue]"
+msgstr ""
+
+#: conversations/04_monarch/0403/0403_cp_maintenanceterminal_ah:44
+msgctxt "conversations/04_monarch/0403/0403_cp_maintenanceterminal_ah:44:DefaultText"
+msgid "[Medical Examiners Residence, Door Sealed]"
+msgstr ""
+
+#: conversations/04_monarch/0403/0403_cp_maintenanceterminal_ah:45
+msgctxt "conversations/04_monarch/0403/0403_cp_maintenanceterminal_ah:45:DefaultText"
+msgid "System: Residential\r\n"
+"Submitter:\r\n"
+"Description: The door to the examiners residence above the med bay is stuck and is completely sealed. Can someone get this thing open?"
+msgstr ""
+
+#: conversations/04_monarch/0403/0403_cp_maintenanceterminal_ah:46
+msgctxt "conversations/04_monarch/0403/0403_cp_maintenanceterminal_ah:46:DefaultText"
+msgid "[Engage Remote Forced Door Lever Operation]"
+msgstr ""
+
+#: conversations/04_monarch/0403/0403_cp_maintenanceterminal_ah:48
+msgctxt "conversations/04_monarch/0403/0403_cp_maintenanceterminal_ah:48:DefaultText"
+msgid "Emergency seals lifted. Work order completed."
+msgstr ""

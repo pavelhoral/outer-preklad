@@ -1,0 +1,94 @@
+#: conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal6:3
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal6:3:DefaultText"
+msgid "UDL-002 THE HOPE\r\n"
+"===========================\r\n"
+"Warning: Unauthorized access will result in immediate termination upon your arrival in Halcyon."
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal6:4
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal6:4:DefaultText"
+msgid "[Manual Log #L-5122 - HUNTE, D.]"
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal6:6
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal6:6:DefaultText"
+msgid "[Manual Log #L-5141 - VOLKOV, A.]"
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal6:8
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal6:8:DefaultText"
+msgid "[Automated Audio Transcript #R-2571]"
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal6:17
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal6:17:DefaultText"
+msgid "[Exit]"
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal6:27
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal6:27:DefaultText"
+msgid "[Message Exchange #T-4548]"
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal6:53
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal6:53:DefaultText"
+msgid "Alas, mamochka, I've failed.\r\n"
+"\r\n"
+"The tomatoes die on their stalks. Something must be wrong with the soil.\r\n"
+"\r\n"
+"We have a month of rations. The crew talks of cannibalism. My Wilhelm fights to bolster off their wilting spirits, and to bar the way from those too far gone.\r\n"
+"\r\n"
+"At nights, while my stomach grumbles, I fear I, too, might stray toward that dark path. But I think of our Lukas, asleep in his pod, and then I think of all those other sons. And daughters and mothers and fathers.\r\n"
+"\r\n"
+"If I woke up in Halcyon and my family had been devoured by these ghoulish men...\r\n"
+"\r\n"
+"I will steel my resolve. I will resist."
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal6:57
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal6:57:DefaultText"
+msgid "HUNTE, W: Rezi. Can you get us to Halcyon?\r\n"
+"TORREGA, R: Um... I've been working on it...\r\n"
+"HUNTE, W: Can you get us there?\r\n"
+"TORREGA, R: I have to, Captain.\r\n"
+"HUNTE, W: Good.\r\n"
+"HUNTE, W: Meet me on the bridge. We'll make our last stand there.\r\n"
+"TORREGA, R: Wait, what about Donna?\r\n"
+"HUNTE, W: She... won't be joining us.\r\n"
+"TORREGA, R: What the hell? What happened?\r\n"
+"HUNTE, W: I'll fill you in when you get here. Hurry.\r\n"
+"TORREGA, R. Okay. Fuck. I can't believe this is happening."
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal6:58
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal6:58:DefaultText"
+msgid "HUNTE, W: Attention all crew. I don't know who let Frank Nolda out of his cell, but he is now an enemy of this ship.\r\n"
+"HUNTE, W: Anyone in league with him will be imprisoned for the duration of our journey.\r\n"
+"HUNTE, W: Anyone caught tampering with the cold storage pods will be frozen, and upon our arrival in Halcyon you will be turned in to the authorities.\r\n"
+"HUNTE, W: I am locking off the cold storage bays. Frank, if you can hear me, there's still time to turn yourself in. Please."
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal6:59
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal6:59:DefaultText"
+msgid "The physical effects of starvation are well-documented, but we never learned about the toll they take on your mind.\r\n"
+"\r\n"
+"The things you hold true become walls between hunger and satisfaction.\r\n"
+"\r\n"
+"The difference between right and wrong blurs.\r\n"
+"\r\n"
+"I told Frank we'd have to eat about a third of the colonists in order to survive our journey. When we still had rations, that seemed impossibly unjust. Tens of thousands of innocent people to save twenty-four.\r\n"
+"\r\n"
+"Now I'm not so sure."
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal6:60
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal6:60:DefaultText"
+msgid "CREW TERMINAL\r\n"
+"===========================\r\n"
+"Error accessing archives. Available entries:"
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal6:61
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal6:61:DefaultText"
+msgid "[Continue]"
+msgstr ""

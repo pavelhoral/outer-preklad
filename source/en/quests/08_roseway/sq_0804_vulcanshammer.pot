@@ -1,0 +1,69 @@
+#: quests/08_roseway/sq_0804_vulcanshammer:0
+msgctxt "quests/08_roseway/sq_0804_vulcanshammer:0:DefaultText"
+msgid "Vulcan's Hammer"
+msgstr ""
+
+#: quests/08_roseway/sq_0804_vulcanshammer:1
+msgctxt "quests/08_roseway/sq_0804_vulcanshammer:1:DefaultText"
+msgid "Retrieve Orson's Schematics"
+msgstr ""
+
+#: quests/08_roseway/sq_0804_vulcanshammer:4
+msgctxt "quests/08_roseway/sq_0804_vulcanshammer:4:DefaultText"
+msgid "Return to Orson"
+msgstr ""
+
+#: quests/08_roseway/sq_0804_vulcanshammer:10000
+msgctxt "quests/08_roseway/sq_0804_vulcanshammer:10000:DefaultText"
+msgid "Orson Shaw, one of Roseway's labcoats, has been tinkering with a prototype pistol. He left schematics for it in the town's Storage Facility, but didn't have a chance to grab them when the marauders attacked. He'd like them returned."
+msgstr ""
+
+#: quests/08_roseway/sq_0804_vulcanshammer:10001
+msgctxt "quests/08_roseway/sq_0804_vulcanshammer:10001:DefaultText"
+msgid "Auntie Cleo's Storage Facility can be found by leaving Roseway via the south entrance and passing east, over hills and countryside."
+msgstr ""
+
+#: quests/08_roseway/sq_0804_vulcanshammer:10004
+msgctxt "quests/08_roseway/sq_0804_vulcanshammer:10004:DefaultText"
+msgid "You've found Orson's schematics. They're from FORCE, an out-system weapons manufacturer. They are almost certainly contraband."
+msgstr ""
+
+#: quests/08_roseway/sq_0804_vulcanshammer:20002
+msgctxt "quests/08_roseway/sq_0804_vulcanshammer:20002:DefaultText"
+msgid "You've pieced together the code for the armory door in the Storage Facility: 1-2-3-4."
+msgstr ""
+
+#: quests/08_roseway/sq_0804_vulcanshammer:20012
+msgctxt "quests/08_roseway/sq_0804_vulcanshammer:20012:DefaultText"
+msgid "The door to the armory is locked. You found a note indicating the passcode can be found with someone named \"Masha,\" or at the old Auntie-Biotics Lab front desk."
+msgstr ""
+
+#: quests/08_roseway/sq_0804_vulcanshammer:30000
+msgctxt "quests/08_roseway/sq_0804_vulcanshammer:30000:DefaultText"
+msgid "You recovered Orson's weapon schematic. He let you keep the finished product."
+msgstr ""
+
+#: quests/08_roseway/sq_0804_vulcanshammer:30001
+msgctxt "quests/08_roseway/sq_0804_vulcanshammer:30001:DefaultText"
+msgid "You recovered Orson's weapon schematic, and convinced him to pay you for it. He let you keep the finished product."
+msgstr ""
+
+#: quests/08_roseway/sq_0804_vulcanshammer:30003
+msgctxt "quests/08_roseway/sq_0804_vulcanshammer:30003:DefaultText"
+msgid "You killed Orson, which means he can't fix his weapon any more."
+msgstr ""
+
+#: quests/08_roseway/sq_0804_vulcanshammer:30004
+msgctxt "quests/08_roseway/sq_0804_vulcanshammer:30004:DefaultText"
+msgid "The Auntie Cleo Faction has become hostile towards you, making it impossible to complete this quest."
+msgstr ""
+
+#: quests/08_roseway/sq_0804_vulcanshammer:30005
+msgctxt "quests/08_roseway/sq_0804_vulcanshammer:30005:DefaultText"
+msgid "You sold the weapon schematics on the Groundbreaker, and can no longer return them to Orson."
+msgstr ""
+
+#: quests/08_roseway/sq_0804_vulcanshammer:30006
+msgctxt "quests/08_roseway/sq_0804_vulcanshammer:30006:DefaultText"
+msgid "You told Orson that you are going to sell his schematics to a higher bidder. He didn't seem to take kindly to that."
+msgstr ""

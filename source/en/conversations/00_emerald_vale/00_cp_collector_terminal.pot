@@ -1,0 +1,70 @@
+#: conversations/00_emerald_vale/00_cp_collector_terminal:1
+msgctxt "conversations/00_emerald_vale/00_cp_collector_terminal:1:DefaultText"
+msgid "PERSONAL TERMINAL\r\n"
+"Clement Eldridge\r\n"
+"\r\n"
+"====================\r\n"
+""
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cp_collector_terminal:4
+msgctxt "conversations/00_emerald_vale/00_cp_collector_terminal:4:DefaultText"
+msgid "[Messages]"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cp_collector_terminal:5
+msgctxt "conversations/00_emerald_vale/00_cp_collector_terminal:5:DefaultText"
+msgid "[Exit]"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cp_collector_terminal:6
+msgctxt "conversations/00_emerald_vale/00_cp_collector_terminal:6:DefaultText"
+msgid "PERSONAL TERMINAL\r\n"
+"Clement Eldridge\r\n"
+"\r\n"
+"====================\r\n"
+"\r\n"
+"Available Messages:"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cp_collector_terminal:7
+msgctxt "conversations/00_emerald_vale/00_cp_collector_terminal:7:DefaultText"
+msgid "[FROM: C. Eldridge]"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cp_collector_terminal:11
+msgctxt "conversations/00_emerald_vale/00_cp_collector_terminal:11:DefaultText"
+msgid "FROM: Eldridge, C.\r\n"
+"TO: Bartell, J.\r\n"
+"SUBJECT: Spirit of Adventure\r\n"
+"\r\n"
+"Jefferson, \r\n"
+"\r\n"
+"Of course I'd never dispute that Earth is the heart of the whole colonial system, but the real adventure and independent spirit upon which humankind truly thrives is to be found out here among the furthest colonies. \r\n"
+"\r\n"
+"I still think you're wrong about the history, though. The discovery of the skip drive was not what gave the Earth Directorate power over the corporations, the high costs of the Great War left them in a weakened state and the skip drive was simply the extra leverage the Directorate needed to return to power. \r\n"
+"\r\n"
+"- Clement"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cp_collector_terminal:12
+msgctxt "conversations/00_emerald_vale/00_cp_collector_terminal:12:DefaultText"
+msgid "[FROM: J. Bartell]"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cp_collector_terminal:13
+msgctxt "conversations/00_emerald_vale/00_cp_collector_terminal:13:DefaultText"
+msgid "FROM: Bartell, J.\r\n"
+"TO: Eldridge, C.\r\n"
+"SUBJECT: Your Theories\r\n"
+"\r\n"
+"Clement, \r\n"
+"\r\n"
+"I find I must disagree with your theories about the Earth Directorate's place in the colonial system. \r\n"
+"\r\n"
+"Sadly, as much as I appreciate the Board and the new frontier they've opened for us, I believe Halcyon and all the other colonies on the rim of the galaxy would fall to pieces or war amongst themselves if the Earth Directorate wasn't around to regulate trade and settle disputes. \r\n"
+"\r\n"
+"Do you think the corporations would accept the mandated inclusion of an Earth Minister if they had a choice in the matter?\r\n"
+"\r\n"
+"- Jefferson"
+msgstr ""

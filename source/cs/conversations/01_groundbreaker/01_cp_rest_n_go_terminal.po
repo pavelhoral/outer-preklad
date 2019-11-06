@@ -1,0 +1,231 @@
+#: conversations/01_groundbreaker/01_cp_rest_n_go_terminal:1
+msgctxt "conversations/01_groundbreaker/01_cp_rest_n_go_terminal:1:DefaultText"
+msgid "Rest–N–Go Guest Terminal\n"
+"=====================\r\n"
+"\r\n"
+"Main menu"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_rest_n_go_terminal:2
+msgctxt "conversations/01_groundbreaker/01_cp_rest_n_go_terminal:2:DefaultText"
+msgid "[Pay-to-View Movies]"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_rest_n_go_terminal:3
+msgctxt "conversations/01_groundbreaker/01_cp_rest_n_go_terminal:3:DefaultText"
+msgid "[Exit]"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_rest_n_go_terminal:4
+msgctxt "conversations/01_groundbreaker/01_cp_rest_n_go_terminal:4:DefaultText"
+msgid "[Access Guest Messages]"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_rest_n_go_terminal:5
+msgctxt "conversations/01_groundbreaker/01_cp_rest_n_go_terminal:5:DefaultText"
+msgid "Rest–N–Go Guest Terminal\n"
+"=====================\r\n"
+"\r\n"
+"NOTE: Pay-to-View is restricted to Diamond Level guests, but feel free to peruse our catalog!\r\n"
+"\r\n"
+"Entertainment cartridges are available for rent at the main desk. \r\n"
+"\r\n"
+"There are currently _0_ cartridges in stock."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_rest_n_go_terminal:6
+msgctxt "conversations/01_groundbreaker/01_cp_rest_n_go_terminal:6:DefaultText"
+msgid "[My Big Canid Friend]"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_rest_n_go_terminal:7
+msgctxt "conversations/01_groundbreaker/01_cp_rest_n_go_terminal:7:DefaultText"
+msgid "[Nanner Spank VII - Primal Affections]"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_rest_n_go_terminal:9
+msgctxt "conversations/01_groundbreaker/01_cp_rest_n_go_terminal:9:DefaultText"
+msgid "[Return to Root]"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_rest_n_go_terminal:10
+msgctxt "conversations/01_groundbreaker/01_cp_rest_n_go_terminal:10:DefaultText"
+msgid "Rest–N–Go Guest Terminal\n"
+"=====================\r\n"
+"\r\n"
+"Synopsis: A lab-grown giant canid goes on an adorable rampage, leading a family of scientists on a wild chase across Emerald Vale. Spending the holiday away from home proves to be a chore, but the family soon realizes that true friends are the monsters you meet along the way.\r\n"
+"\r\n"
+"Rated FSR11 for Funtimes, Simulated Rampage, and body count: 11."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_rest_n_go_terminal:11
+msgctxt "conversations/01_groundbreaker/01_cp_rest_n_go_terminal:11:DefaultText"
+msgid "Rest–N–Go Guest Terminal\n"
+"=====================\r\n"
+"\r\n"
+"Synopsis: Raised by wilderness primals, one man will leave the jungle he knows to explore the one he doesn't - Keystone. He came for Nanner Spank, but he stayed for love. Can a young, corporate executive collar this creature, or will she awaken the beast within?\r\n"
+"\r\n"
+"Rated PACNS for Passion, Anthropoid, and Consensual Nanner-Spanking."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_rest_n_go_terminal:13
+msgctxt "conversations/01_groundbreaker/01_cp_rest_n_go_terminal:13:DefaultText"
+msgid "Rest–N–Go Guest Terminal\n"
+"=====================\r\n"
+"\r\n"
+"Guest Messages - Admin Access"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_rest_n_go_terminal:14
+msgctxt "conversations/01_groundbreaker/01_cp_rest_n_go_terminal:14:DefaultText"
+msgid "[FROM: VERitAs, SUBJECT: Space for the ISCC]"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_rest_n_go_terminal:15
+msgctxt "conversations/01_groundbreaker/01_cp_rest_n_go_terminal:15:DefaultText"
+msgid "[FROM: Rizzo_PR, SUBJECT: Please stop] "
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_rest_n_go_terminal:16
+msgctxt "conversations/01_groundbreaker/01_cp_rest_n_go_terminal:16:DefaultText"
+msgid "Rest–N–Go Guest Terminal\n"
+"=====================\n"
+"\n"
+"FROM: VERitAs\n"
+"TO: IceMan\n"
+"SUBJECT: Space for the ISCC\n"
+"\n"
+"Icy-\n"
+"\n"
+"Been a while since I heard from you. You're on that long haul out to Dashkova right now - hope it goes well.\n"
+"\n"
+"I got a space for you and yours to meet when you get back. It's just a storage room, but it's quiet and safer than the bar. Should be able to accommodate most of your folks.\n"
+"\n"
+"No fees or nothing. Just let me buy you a beer.\n"
+"\n"
+"-V"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_rest_n_go_terminal:17
+msgctxt "conversations/01_groundbreaker/01_cp_rest_n_go_terminal:17:DefaultText"
+msgid "Rest–N–Go Guest Terminal\n"
+"=====================\r\n"
+"\r\n"
+"FROM: Rizzo_PR\r\n"
+"TO: MacRedd, G.\r\n"
+"SUBJECT: Please stop\r\n"
+"\r\n"
+"Mr. MacRedd, \r\n"
+"\r\n"
+"We have reviewed your proposal for the tenth time and still do not agree that \"Galactic Mushroom\" is an acceptable flavor for a Rizzo beverage. Even if we were to pursue the idea, the samples you sent us were dangerously hallucinogenic. The unopened package alone caused mayhem in our receiving bay. \r\n"
+"\r\n"
+"Please don't reach out to us again. "
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_rest_n_go_terminal:18
+msgctxt "conversations/01_groundbreaker/01_cp_rest_n_go_terminal:18:DefaultText"
+msgid "[Serial - Baking with Edna]"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_rest_n_go_terminal:19
+msgctxt "conversations/01_groundbreaker/01_cp_rest_n_go_terminal:19:DefaultText"
+msgid "[Serial - Space Hospital]"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_rest_n_go_terminal:20
+msgctxt "conversations/01_groundbreaker/01_cp_rest_n_go_terminal:20:DefaultText"
+msgid "Rest–N–Go Guest Terminal\n"
+"=====================\r\n"
+"\r\n"
+"Synopsis: In this time-honored culinary classic, Chef Edna gives valuable life lessons while she cooks from the Book of Approved Cakes. Learn to maintain a structured kitchen, obey your head chef, achieve a good sponge, and obey your sous-chef. Edna is the boss in her kitchen - now she can be the boss of yours!"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_rest_n_go_terminal:21
+msgctxt "conversations/01_groundbreaker/01_cp_rest_n_go_terminal:21:DefaultText"
+msgid "Rest–N–Go Guest Terminal\n"
+"=====================\r\n"
+"\r\n"
+"Synopsis: If the walls of Orbital Hospital could talk, they'd shriek with terror. These doctors have seen it all. Zero Gee cyst lancing. Extraterrestrial teratoma. Next, on a very special episode - In order to trap a chem thief, Doctor Margrave must become a serial arsonist. \r\n"
+"\r\n"
+"Don't forget to see \"Space Hospital: Nights\" for steamy suspense. "
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_rest_n_go_terminal:22
+msgctxt "conversations/01_groundbreaker/01_cp_rest_n_go_terminal:22:DefaultText"
+msgid "[Pay-to-View Serials]"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_rest_n_go_terminal:23
+msgctxt "conversations/01_groundbreaker/01_cp_rest_n_go_terminal:23:DefaultText"
+msgid "Rest–N–Go Guest Terminal\n"
+"=====================\r\n"
+"\r\n"
+"NOTE: Pay-to-View is restricted to Diamond Level guests, but feel free to peruse our catalog!\r\n"
+"\r\n"
+"Entertainment cartridges are available for rent at the main desk. \r\n"
+"\r\n"
+"There are currently _0_ cartridges in stock."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_rest_n_go_terminal:24
+msgctxt "conversations/01_groundbreaker/01_cp_rest_n_go_terminal:24:DefaultText"
+msgid "[Serial - Broderick's Brood]"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_rest_n_go_terminal:25
+msgctxt "conversations/01_groundbreaker/01_cp_rest_n_go_terminal:25:DefaultText"
+msgid "Rest–N–Go Guest Terminal\n"
+"=====================\r\n"
+"\r\n"
+"Synopsis: An ordinary colony family daydreams of the extraordinary. While Lucia works in the factory canning processed boarst, her ham-handed husband cooks up schemes to land her a big promotion. Will that lovable fool ever learn to be satisfied with what he has? Broderick's Brood is a testament to the \"Less is Success\" family lifestyle. "
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_rest_n_go_terminal:26
+msgctxt "conversations/01_groundbreaker/01_cp_rest_n_go_terminal:26:DefaultText"
+msgid "[FROM: VERitAS, SUBJECT: Be careful]"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_rest_n_go_terminal:27
+msgctxt "conversations/01_groundbreaker/01_cp_rest_n_go_terminal:27:DefaultText"
+msgid "Rest–N–Go Guest Terminal\n"
+"=====================\n"
+"\n"
+"FROM: VERitAs\n"
+"TO: IceMan\n"
+"SUBJECT: Be careful\n"
+"\n"
+"One of UB's squealers came asking after you. Wanted to know what you like to drink, who you talk to, what your temperament's like. Tried to pay me off. I took the bits and told her a pack of lies.\n"
+"\n"
+"Watch your back when you get in. Don't want to find you in the Waste Disposal chute.\n"
+"\n"
+"-V"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_rest_n_go_terminal:28
+msgctxt "conversations/01_groundbreaker/01_cp_rest_n_go_terminal:28:DefaultText"
+msgid "[SUBJECT: STOP LOOKING OR ELSE]"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_rest_n_go_terminal:29
+msgctxt "conversations/01_groundbreaker/01_cp_rest_n_go_terminal:29:DefaultText"
+msgid "Rest–N–Go Guest Terminal\n"
+"=====================\r\n"
+"\r\n"
+"Message contents empty."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_rest_n_go_terminal:30
+msgctxt "conversations/01_groundbreaker/01_cp_rest_n_go_terminal:30:DefaultText"
+msgid "Rest–N–Go Guest Terminal\n"
+"=====================\r\n"
+"\r\n"
+"This message is no longer accessible at your clearance level."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_rest_n_go_terminal:32
+msgctxt "conversations/01_groundbreaker/01_cp_rest_n_go_terminal:32:DefaultText"
+msgid "Rest–N–Go Guest Terminal\n"
+"=====================\r\n"
+"\r\n"
+"This message is no longer accessible at your clearance level."
+msgstr ""

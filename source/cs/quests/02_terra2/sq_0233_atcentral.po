@@ -1,0 +1,69 @@
+#: quests/02_terra2/sq_0233_atcentral:0
+msgctxt "quests/02_terra2/sq_0233_atcentral:0:DefaultText"
+msgid "At Central"
+msgstr ""
+
+#: quests/02_terra2/sq_0233_atcentral:1
+msgctxt "quests/02_terra2/sq_0233_atcentral:1:DefaultText"
+msgid "Attend the Audition"
+msgstr ""
+
+#: quests/02_terra2/sq_0233_atcentral:2
+msgctxt "quests/02_terra2/sq_0233_atcentral:2:DefaultText"
+msgid "Break a Leg!"
+msgstr ""
+
+#: quests/02_terra2/sq_0233_atcentral:3
+msgctxt "quests/02_terra2/sq_0233_atcentral:3:DefaultText"
+msgid "Talk to Maverick"
+msgstr ""
+
+#: quests/02_terra2/sq_0233_atcentral:10000
+msgctxt "quests/02_terra2/sq_0233_atcentral:10000:DefaultText"
+msgid "Maverick Johnston, a Byzantium film producer, thinks you've got the makings of a star! He invited you to audition for the lead role in his film."
+msgstr ""
+
+#: quests/02_terra2/sq_0233_atcentral:10001
+msgctxt "quests/02_terra2/sq_0233_atcentral:10001:DefaultText"
+msgid "Maverick said the audition would be held on the top floor of the Odeon Pictures building."
+msgstr ""
+
+#: quests/02_terra2/sq_0233_atcentral:10002
+msgctxt "quests/02_terra2/sq_0233_atcentral:10002:DefaultText"
+msgid "Enter the soundstage and put on a show."
+msgstr ""
+
+#: quests/02_terra2/sq_0233_atcentral:10003
+msgctxt "quests/02_terra2/sq_0233_atcentral:10003:DefaultText"
+msgid "Review your performance with Maverick."
+msgstr ""
+
+#: quests/02_terra2/sq_0233_atcentral:30000
+msgctxt "quests/02_terra2/sq_0233_atcentral:30000:DefaultText"
+msgid "With Maverick dead, your acting career is over before it started."
+msgstr ""
+
+#: quests/02_terra2/sq_0233_atcentral:30001
+msgctxt "quests/02_terra2/sq_0233_atcentral:30001:DefaultText"
+msgid "You made it through the scene, but Maverick will probably be looking elsewhere for his star."
+msgstr ""
+
+#: quests/02_terra2/sq_0233_atcentral:30002
+msgctxt "quests/02_terra2/sq_0233_atcentral:30002:DefaultText"
+msgid "Your sudden display of violence impressed Maverick. You're the real deal!"
+msgstr ""
+
+#: quests/02_terra2/sq_0233_atcentral:30003
+msgctxt "quests/02_terra2/sq_0233_atcentral:30003:DefaultText"
+msgid "Your combination of simple-minded charm and brutality left Maverick in awe. You're gonna be famous!"
+msgstr ""
+
+#: quests/02_terra2/sq_0233_atcentral:30004
+msgctxt "quests/02_terra2/sq_0233_atcentral:30004:DefaultText"
+msgid "You got into a fight with the actors after the audition, and Maverick fled. He doesn't deal with prima donnas."
+msgstr ""
+
+#: quests/02_terra2/sq_0233_atcentral:30005
+msgctxt "quests/02_terra2/sq_0233_atcentral:30005:DefaultText"
+msgid "Maverick was impressed by your snappy one-liners. He's gonna make you a star!"
+msgstr ""

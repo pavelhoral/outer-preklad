@@ -1,0 +1,33 @@
+#: conversations/02_terra2/0231_bureau/0231_cp_animal_testing:1
+msgctxt "conversations/02_terra2/0231_bureau/0231_cp_animal_testing:1:DefaultText"
+msgid "Ministry of Accuracy and Morale\n"
+"========================\n"
+"Remember, human trials are expensive! Test with animals first."
+msgstr ""
+
+#: conversations/02_terra2/0231_bureau/0231_cp_animal_testing:2
+msgctxt "conversations/02_terra2/0231_bureau/0231_cp_animal_testing:2:DefaultText"
+msgid "[View Lab Notes]"
+msgstr ""
+
+#: conversations/02_terra2/0231_bureau/0231_cp_animal_testing:3
+msgctxt "conversations/02_terra2/0231_bureau/0231_cp_animal_testing:3:DefaultText"
+msgid "Trial # 27 - I've tried replicating the work Dr. Welles initially did on the revivifying formula, but his notes are basically unintelligible. This may take a few iterations.\r\n"
+"\r\n"
+"Trial # 64 - That's \"tetraborate ethanol\" not \"toasted dinner roll.\"\r\n"
+"\r\n"
+"Trial # 68 - Maybe it is \"toasted dinner roll.\"\r\n"
+"\r\n"
+"Trial # 82 - Powers that be are demanding results. I have submitted my catalog of dead sprats.\r\n"
+"\r\n"
+"Trial # 127 - I didn't realize it was possible to run out of sprats.\r\n"
+"\r\n"
+"Trial # 128 - Which genius left the new shipment of sprats in the kitchen?!\r\n"
+"\r\n"
+"Trial # 237 - Still attempting to complete Welles' formula. Still going through a dozen sprats a week. We've got a lot of work ahead of us if this is ever going to be effective at reviving people from long-term hibernation."
+msgstr ""
+
+#: conversations/02_terra2/0231_bureau/0231_cp_animal_testing:4
+msgctxt "conversations/02_terra2/0231_bureau/0231_cp_animal_testing:4:DefaultText"
+msgid "[Exit]"
+msgstr ""

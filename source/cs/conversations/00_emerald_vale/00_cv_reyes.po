@@ -1,0 +1,639 @@
+#: conversations/00_emerald_vale/00_cv_reyes:2
+msgctxt "conversations/00_emerald_vale/00_cv_reyes:2:DefaultText"
+msgid "Welcome to the Spacer's Choice Constabulary. We are Halcyon's leading brand in frontier justice."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_reyes:21
+msgctxt "conversations/00_emerald_vale/00_cv_reyes:21:DefaultText"
+msgid "Something to report?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_reyes:22
+msgctxt "conversations/00_emerald_vale/00_cv_reyes:22:DefaultText"
+msgid "Goodbye."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_reyes:23
+msgctxt "conversations/00_emerald_vale/00_cv_reyes:23:DefaultText"
+msgid "I found this cache of medicine. I thought I should turn it in to you."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_reyes:24
+msgctxt "conversations/00_emerald_vale/00_cv_reyes:24:DefaultText"
+msgid "I appreciate your vigilance on behalf of Spacer's Choice. I'll make sure this medicine goes where it's most needed."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_reyes:25
+msgctxt "conversations/00_emerald_vale/00_cv_reyes:25:DefaultText"
+msgid "You owe me a reward."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_reyes:26
+msgctxt "conversations/00_emerald_vale/00_cv_reyes:26:DefaultText"
+msgid "Oh. It's you. Reed told me I should be expecting you. He's inside."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_reyes:27
+msgctxt "conversations/00_emerald_vale/00_cv_reyes:27:DefaultText"
+msgid "I'm looking for work."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_reyes:28
+msgctxt "conversations/00_emerald_vale/00_cv_reyes:28:DefaultText"
+msgid "If you need help with your marauder problem, I'm for hire."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_reyes:29
+msgctxt "conversations/00_emerald_vale/00_cv_reyes:29:DefaultText"
+msgid "As a Spacer's Choice Constable, I am authorized to grant you legal authority toward apprehending wanted criminals."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_reyes:30
+msgctxt "conversations/00_emerald_vale/00_cv_reyes:30:DefaultText"
+msgid "Know how to carry yourself in a fight? I've got bounties out for these three marauders. "
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_reyes:31
+msgctxt "conversations/00_emerald_vale/00_cv_reyes:31:DefaultText"
+msgid "Cross 'em off and bring me their fingers. Just one per marauder, please. I'll dust off the old fingerprint roller."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_reyes:32
+msgctxt "conversations/00_emerald_vale/00_cv_reyes:32:DefaultText"
+msgid "I'm here to turn in a bounty."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_reyes:33
+msgctxt "conversations/00_emerald_vale/00_cv_reyes:33:DefaultText"
+msgid "We pay by the finger. What do you have for me?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_reyes:34
+msgctxt "conversations/00_emerald_vale/00_cv_reyes:34:DefaultText"
+msgid "Gill Antrim. Real name Guillaume. Duly processed by a freelancer on behalf of Spacer's Choice."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_reyes:35
+msgctxt "conversations/00_emerald_vale/00_cv_reyes:35:DefaultText"
+msgid "<Hand over Guillaume Antrim's finger.>"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_reyes:36
+msgctxt "conversations/00_emerald_vale/00_cv_reyes:36:DefaultText"
+msgid "<Hand over Doc Maybell's finger.>"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_reyes:37
+msgctxt "conversations/00_emerald_vale/00_cv_reyes:37:DefaultText"
+msgid "Maybell Burgess. Age thirty-seven. Right or left handed? Let's just say... no longer applicable."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_reyes:38
+msgctxt "conversations/00_emerald_vale/00_cv_reyes:38:DefaultText"
+msgid "<Hand over Bertie Cotton's finger.>"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_reyes:39
+msgctxt "conversations/00_emerald_vale/00_cv_reyes:39:DefaultText"
+msgid "Here we are. Bertie Cotton. Cause of death - let's just say overwhelming physical trauma."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_reyes:40
+msgctxt "conversations/00_emerald_vale/00_cv_reyes:40:DefaultText"
+msgid "I'll just need your signature here, here, here, here, and here. Got any more fingers for me?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_reyes:41
+msgctxt "conversations/00_emerald_vale/00_cv_reyes:41:DefaultText"
+msgid "Well, that's all three. I must remember to requisition some more fingerprint ink. Here's all the compensation you've earned, plus a bonus."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_reyes:42
+msgctxt "conversations/00_emerald_vale/00_cv_reyes:42:DefaultText"
+msgid "You've done such a bang up job hunting down our former workers that I thought it only proper to deputize you. Congratulations."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_reyes:43
+msgctxt "conversations/00_emerald_vale/00_cv_reyes:43:DefaultText"
+msgid "Still one outstanding bounty. If you've got a finger, I've got the paperwork."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_reyes:44
+msgctxt "conversations/00_emerald_vale/00_cv_reyes:44:DefaultText"
+msgid "Actually, there was something else."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_reyes:48
+msgctxt "conversations/00_emerald_vale/00_cv_reyes:48:DefaultText"
+msgid "The office is running a promotion. Purchase three criminal investigations and the fourth one's free."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_reyes:49
+msgctxt "conversations/00_emerald_vale/00_cv_reyes:49:DefaultText"
+msgid "I'll leave you be."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_reyes:50
+msgctxt "conversations/00_emerald_vale/00_cv_reyes:50:DefaultText"
+msgid "Which is where, exactly?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_reyes:51
+msgctxt "conversations/00_emerald_vale/00_cv_reyes:51:DefaultText"
+msgid "You are of course entitled to a reward for assisting in the apprehension of any contraband. "
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_reyes:52
+msgctxt "conversations/00_emerald_vale/00_cv_reyes:52:DefaultText"
+msgid "Your compensation. And your receipt. Spacer's Choice wishes you a productive shift."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_reyes:53
+msgctxt "conversations/00_emerald_vale/00_cv_reyes:53:DefaultText"
+msgid "Sealed, packaged, and delivered to a Spacer's Choice storage facility. Standard procedure for contraband, you see."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_reyes:54
+msgctxt "conversations/00_emerald_vale/00_cv_reyes:54:DefaultText"
+msgid "Contraband? I'm bringing you medicine. You people need this."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_reyes:55
+msgctxt "conversations/00_emerald_vale/00_cv_reyes:55:DefaultText"
+msgid "Medical treatment by Auntie Cleo's products is strictly prohibited under Spacer's Choice company policy. "
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_reyes:56
+msgctxt "conversations/00_emerald_vale/00_cv_reyes:56:DefaultText"
+msgid "That's ridiculous."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_reyes:57
+msgctxt "conversations/00_emerald_vale/00_cv_reyes:57:DefaultText"
+msgid "Whatever. Just pay me what I'm owed."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_reyes:58
+msgctxt "conversations/00_emerald_vale/00_cv_reyes:58:DefaultText"
+msgid "If you were one of our workers, I would be obliged to mark that comment on your permanent record."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_reyes:60
+msgctxt "conversations/00_emerald_vale/00_cv_reyes:60:DefaultText"
+msgid "I remember him. Was just a kid, last I saw him. Shame."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_reyes:61
+msgctxt "conversations/00_emerald_vale/00_cv_reyes:61:DefaultText"
+msgid "I remember Doc Burgess. Conducted my physical every fiscal quarter. Guess she couldn't keep her hands off her patients' medicine."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_reyes:62
+msgctxt "conversations/00_emerald_vale/00_cv_reyes:62:DefaultText"
+msgid "Bert was the local preacher, before Max took over. Always was quick to remind us that we all get what we deserve in the end."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_reyes:63
+msgctxt "conversations/00_emerald_vale/00_cv_reyes:63:DefaultText"
+msgid "What's this? Junior Deputy Constable?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_reyes:65
+msgctxt "conversations/00_emerald_vale/00_cv_reyes:65:DefaultText"
+msgid "You should know that Abernathy asked me to steal this medicine for him."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_reyes:66
+msgctxt "conversations/00_emerald_vale/00_cv_reyes:66:DefaultText"
+msgid "Martin Abernathy? Interesting. I'll see to it that charges are filed against him."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_reyes:67
+msgctxt "conversations/00_emerald_vale/00_cv_reyes:67:DefaultText"
+msgid "Take care."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_reyes:68
+msgctxt "conversations/00_emerald_vale/00_cv_reyes:68:DefaultText"
+msgid "What kind of charges?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_reyes:70
+msgctxt "conversations/00_emerald_vale/00_cv_reyes:70:DefaultText"
+msgid "As long as your questions fall within acceptable margins of curiosity."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_reyes:71
+msgctxt "conversations/00_emerald_vale/00_cv_reyes:71:DefaultText"
+msgid "Being stupid enough to hire a freelancer who turned him in. It's a punishable offense."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_reyes:72
+msgctxt "conversations/00_emerald_vale/00_cv_reyes:72:DefaultText"
+msgid "Makes sense, I suppose."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_reyes:73
+msgctxt "conversations/00_emerald_vale/00_cv_reyes:73:DefaultText"
+msgid "Of course it makes sense. Spacer's Choice company regulations have been designed to fall within acceptable margins of sensibility."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_reyes:74
+msgctxt "conversations/00_emerald_vale/00_cv_reyes:74:DefaultText"
+msgid "I haven't been paid yet."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_reyes:75
+msgctxt "conversations/00_emerald_vale/00_cv_reyes:75:DefaultText"
+msgid "All Spacer's Choice workers are expected to be exemplary judges of character. Mister Abernathy has failed to meet these standards, and will be duly punished."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_reyes:76
+msgctxt "conversations/00_emerald_vale/00_cv_reyes:76:DefaultText"
+msgid "There was something else, actually."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_reyes:77
+msgctxt "conversations/00_emerald_vale/00_cv_reyes:77:DefaultText"
+msgid "I've got some questions for you, if you don't mind."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_reyes:78
+msgctxt "conversations/00_emerald_vale/00_cv_reyes:78:DefaultText"
+msgid "Does the name Phineas Welles mean anything to you?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_reyes:79
+msgctxt "conversations/00_emerald_vale/00_cv_reyes:79:DefaultText"
+msgid "So who do you work for? Spacer's Choice or Edgewater?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_reyes:80
+msgctxt "conversations/00_emerald_vale/00_cv_reyes:80:DefaultText"
+msgid "If this is the setup to a joke, you should know I've never found anything amusing in my life. "
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_reyes:81
+msgctxt "conversations/00_emerald_vale/00_cv_reyes:81:DefaultText"
+msgid "His likeness decorates many a wanted poster. Do you have any relevant information about this individual?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_reyes:82
+msgctxt "conversations/00_emerald_vale/00_cv_reyes:82:DefaultText"
+msgid "Thanks for your time."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_reyes:83
+msgctxt "conversations/00_emerald_vale/00_cv_reyes:83:DefaultText"
+msgid "Never mind."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_reyes:84
+msgctxt "conversations/00_emerald_vale/00_cv_reyes:84:DefaultText"
+msgid "He's a scientist. We're acquainted."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_reyes:85
+msgctxt "conversations/00_emerald_vale/00_cv_reyes:85:DefaultText"
+msgid "Yeah, that's why I'm asking. Looks like there's a bounty on his head."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_reyes:86
+msgctxt "conversations/00_emerald_vale/00_cv_reyes:86:DefaultText"
+msgid "He kidnapped me, un-froze my body, and shot me into space. Then I landed here."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_reyes:87
+msgctxt "conversations/00_emerald_vale/00_cv_reyes:87:DefaultText"
+msgid "Uh huh. Shot you into space. You know, lying to a Spacer's Choice constable is a violation of company policy, and punishable by a fine."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_reyes:89
+msgctxt "conversations/00_emerald_vale/00_cv_reyes:89:DefaultText"
+msgid "It's a good thing I don't belong to the Spacer's Choice family."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_reyes:90
+msgctxt "conversations/00_emerald_vale/00_cv_reyes:90:DefaultText"
+msgid "If the Board's paying, I'm willing to collect on that bounty."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_reyes:91
+msgctxt "conversations/00_emerald_vale/00_cv_reyes:91:DefaultText"
+msgid "It is, for Spacer's Choice."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_reyes:92
+msgctxt "conversations/00_emerald_vale/00_cv_reyes:92:DefaultText"
+msgid "Unfortunately, the arrest of Mr. Welles falls outside my authority. I enforce the company policy of Spacer's Choice in the region of Emerald Vale."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_reyes:93
+msgctxt "conversations/00_emerald_vale/00_cv_reyes:93:DefaultText"
+msgid "Welles is wanted by the Board. If you have information related to the location of Phineas V. Welles, you are required to submit that information to your nearest Board authority."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_reyes:94
+msgctxt "conversations/00_emerald_vale/00_cv_reyes:94:DefaultText"
+msgid "I am obliged to warn you against forming acquaintanceships, friendships, partnerships, or any other felicitous relationship with a wanted criminal."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_reyes:95
+msgctxt "conversations/00_emerald_vale/00_cv_reyes:95:DefaultText"
+msgid "You are correct. An outstanding bounty has been posted for information pertaining to the whereabouts of Phineas V. Welles."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_reyes:96
+msgctxt "conversations/00_emerald_vale/00_cv_reyes:96:DefaultText"
+msgid "How long has Welles been on the run?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_reyes:97
+msgctxt "conversations/00_emerald_vale/00_cv_reyes:97:DefaultText"
+msgid "He kidnapped me and hauled me off to his lab."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_reyes:98
+msgctxt "conversations/00_emerald_vale/00_cv_reyes:98:DefaultText"
+msgid "Welles has been wanted for as long as the Board decides he has been wanted. This decision will be made in accordance with Welles's behavior upon arrest."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_reyes:99
+msgctxt "conversations/00_emerald_vale/00_cv_reyes:99:DefaultText"
+msgid "How unfortunate. You have my condolences."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_reyes:100
+msgctxt "conversations/00_emerald_vale/00_cv_reyes:100:DefaultText"
+msgid "Aren't you going to do anything about it?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_reyes:101
+msgctxt "conversations/00_emerald_vale/00_cv_reyes:101:DefaultText"
+msgid "I'm more interested in the bounty."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_reyes:102
+msgctxt "conversations/00_emerald_vale/00_cv_reyes:102:DefaultText"
+msgid "I am only authorized to prosecute kidnapping of company property. Because you don't belong to Spacer's Choice, the answer is no."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_reyes:103
+msgctxt "conversations/00_emerald_vale/00_cv_reyes:103:DefaultText"
+msgid "I don't serve Edgewater. Edgewater, and the entire region of Emerald Vale, serves Spacer's Choice."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_reyes:104
+msgctxt "conversations/00_emerald_vale/00_cv_reyes:104:DefaultText"
+msgid "Who does Spacer's Choice answer to?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_reyes:105
+msgctxt "conversations/00_emerald_vale/00_cv_reyes:105:DefaultText"
+msgid "That sounds like slavery."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_reyes:106
+msgctxt "conversations/00_emerald_vale/00_cv_reyes:106:DefaultText"
+msgid "So you're basically a bureaucrat."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_reyes:107
+msgctxt "conversations/00_emerald_vale/00_cv_reyes:107:DefaultText"
+msgid "Flattery won't get you anywhere with me. The bureaucracy is a noble profession, but not all of us are gifted enough to serve in it."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_reyes:108
+msgctxt "conversations/00_emerald_vale/00_cv_reyes:108:DefaultText"
+msgid "Careful, stranger. Talk like that comes dangerously close to sedition."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_reyes:109
+msgctxt "conversations/00_emerald_vale/00_cv_reyes:109:DefaultText"
+msgid "Spacer's Choice is a wholly owned subsidiary of Universal Defense Logistics, which occupies a seat on the Halcyon Holdings Corporation."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_reyes:110
+msgctxt "conversations/00_emerald_vale/00_cv_reyes:110:DefaultText"
+msgid "Also known as the Board. I must admit, it bothers me that you don't already know this."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_reyes:111
+msgctxt "conversations/00_emerald_vale/00_cv_reyes:111:DefaultText"
+msgid "There was one other thing."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_reyes:112
+msgctxt "conversations/00_emerald_vale/00_cv_reyes:112:DefaultText"
+msgid "Vale's a little safer, thanks to you."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_reyes:113
+msgctxt "conversations/00_emerald_vale/00_cv_reyes:113:DefaultText"
+msgid "I've got nothing on my bounty board. That's a good feeling."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_reyes:114
+msgctxt "conversations/00_emerald_vale/00_cv_reyes:114:DefaultText"
+msgid "Ms. Romero's in our office now. Edgewater's getting crowded, so we could use the help."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_reyes:115
+msgctxt "conversations/00_emerald_vale/00_cv_reyes:115:DefaultText"
+msgid "Can't say I approve of a town run by McDevitt. Doesn't sit right with me at all."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_reyes:116
+msgctxt "conversations/00_emerald_vale/00_cv_reyes:116:DefaultText"
+msgid "Interesting jumpsuit you've got. And by interesting, I mean suspiciously reminiscent of contraband."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_reyes:117
+msgctxt "conversations/00_emerald_vale/00_cv_reyes:117:DefaultText"
+msgid "Put some clothes on, for Law's sake."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_reyes:118
+msgctxt "conversations/00_emerald_vale/00_cv_reyes:118:DefaultText"
+msgid "Welles saved my life. I want to know why the Board wants him dead."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_reyes:119
+msgctxt "conversations/00_emerald_vale/00_cv_reyes:119:DefaultText"
+msgid "I am obliged to remind you that questioning the veracity of the Board's orders is a punishable offense. Consider this your last warning."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_reyes:120
+msgctxt "conversations/00_emerald_vale/00_cv_reyes:120:DefaultText"
+msgid "I am also obliged to inform you of our referral program. For every criminal you refer to the authorities, the Board will reward you."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_reyes:121
+msgctxt "conversations/00_emerald_vale/00_cv_reyes:121:DefaultText"
+msgid "How long has the Board been after Welles?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_reyes:122
+msgctxt "conversations/00_emerald_vale/00_cv_reyes:122:DefaultText"
+msgid "I'm not on Welles's side. I want to know if the bounty's worth the trouble."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_reyes:123
+msgctxt "conversations/00_emerald_vale/00_cv_reyes:123:DefaultText"
+msgid "I assumed you were my nearest Board authority."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_reyes:124
+msgctxt "conversations/00_emerald_vale/00_cv_reyes:124:DefaultText"
+msgid "All right. So who do I have to talk to?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_reyes:125
+msgctxt "conversations/00_emerald_vale/00_cv_reyes:125:DefaultText"
+msgid "Any information regarding outstanding bounties and wanted criminals should be directed to Mr. Udom Bedford. Mr. Bedford's office is located on the Groundbreaker."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_reyes:126
+msgctxt "conversations/00_emerald_vale/00_cv_reyes:126:DefaultText"
+msgid "I represent Spacer's Choice. Spacer's Choice is a wholly owned subsidiary of Universal Defense Logistics, which is itself a member of the Halcyon Holdings Corporation Board."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_reyes:127
+msgctxt "conversations/00_emerald_vale/00_cv_reyes:127:DefaultText"
+msgid "Also, I specialize in processing fingerprints. So unless you're carrying Welles's finger on you, there's not a lot I can do for you."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_reyes:128
+msgctxt "conversations/00_emerald_vale/00_cv_reyes:128:DefaultText"
+msgid "Thanks for your time."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_reyes:129
+msgctxt "conversations/00_emerald_vale/00_cv_reyes:129:DefaultText"
+msgid "Got my hands full at the moment. Make it quick, please."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_reyes:131
+msgctxt "conversations/00_emerald_vale/00_cv_reyes:131:DefaultText"
+msgid "Hell of a time to start looking for work. Lucky for you, I am authorized to hire freelancers even during times of crisis."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_reyes:132
+msgctxt "conversations/00_emerald_vale/00_cv_reyes:132:DefaultText"
+msgid "Even during times of unplanned crisis or unauthorized general chaos."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_reyes:133
+msgctxt "conversations/00_emerald_vale/00_cv_reyes:133:DefaultText"
+msgid "How did so many of your people end up marauders?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_reyes:134
+msgctxt "conversations/00_emerald_vale/00_cv_reyes:134:DefaultText"
+msgid "Let me stop you there. It is official Spacer's Choice policy that all marauders, regardless of prior affiliation to the Spacer's Choice brand, no longer qualify as \"our people.\""
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_reyes:135
+msgctxt "conversations/00_emerald_vale/00_cv_reyes:135:DefaultText"
+msgid "Marauders are folk who lost the will to keep working. Wandered out into the wilds and gave in to their baser instincts. "
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_reyes:136
+msgctxt "conversations/00_emerald_vale/00_cv_reyes:136:DefaultText"
+msgid "That doesn't really answer my question."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_reyes:137
+msgctxt "conversations/00_emerald_vale/00_cv_reyes:137:DefaultText"
+msgid "Not everybody's cut out to work in Edgewater. Some turn deserter. Some turn marauder. None of 'em get my sympathy."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_reyes:138
+msgctxt "conversations/00_emerald_vale/00_cv_reyes:138:DefaultText"
+msgid "All right. Forget I asked."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_reyes:139
+msgctxt "conversations/00_emerald_vale/00_cv_reyes:139:DefaultText"
+msgid "Something else I can do for you?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_reyes:140
+msgctxt "conversations/00_emerald_vale/00_cv_reyes:140:DefaultText"
+msgid "Sounds like marauders have been a problem for a while."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_reyes:141
+msgctxt "conversations/00_emerald_vale/00_cv_reyes:141:DefaultText"
+msgid "Ever since the company first settled the Vale. Life's good out here, but it ain't easy. Some folk can't keep pace with the demands of frontier life."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_reyes:142
+msgctxt "conversations/00_emerald_vale/00_cv_reyes:142:DefaultText"
+msgid "Yeah. I heard one of your workers shot himself. Eugene, I think."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_reyes:143
+msgctxt "conversations/00_emerald_vale/00_cv_reyes:143:DefaultText"
+msgid "Uh-huh. I recall young Eugene. Good kid. Nice smile. Fussy about his health, though. Took a little too much Adrena-Time. That'll do a number on your brain-matter."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_reyes:144
+msgctxt "conversations/00_emerald_vale/00_cv_reyes:144:DefaultText"
+msgid "Says so right on the warning label. Violent psychosis is a well-documented and legally accounted-for side effect of Adrena-Time."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_reyes:145
+msgctxt "conversations/00_emerald_vale/00_cv_reyes:145:DefaultText"
+msgid "There was something else I wanted to ask you."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_reyes:146
+msgctxt "conversations/00_emerald_vale/00_cv_reyes:146:DefaultText"
+msgid "What's on your mind?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_reyes:147
+msgctxt "conversations/00_emerald_vale/00_cv_reyes:147:DefaultText"
+msgid "That's all for now."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_reyes:148
+msgctxt "conversations/00_emerald_vale/00_cv_reyes:148:DefaultText"
+msgid "Marauders seem to like Adrena-Time."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_reyes:149
+msgctxt "conversations/00_emerald_vale/00_cv_reyes:149:DefaultText"
+msgid "Everybody likes Adrena-Time. It is the finest medical drug ever developed by Spacer's Choice. Much better than that crap Auntie Cleo peddles."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_reyes:150
+msgctxt "conversations/00_emerald_vale/00_cv_reyes:150:DefaultText"
+msgid "Sure, a little too much Adrena-Time can bring out the violent animal in you. But if overdosing on Adrena-Time turns you into a lunatic, you have only yourself to blame."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_reyes:151
+msgctxt "conversations/00_emerald_vale/00_cv_reyes:151:DefaultText"
+msgid "Anthrocillin, huh? That's an Auntie Cleo product."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_reyes:152
+msgctxt "conversations/00_emerald_vale/00_cv_reyes:152:DefaultText"
+msgid "I distribute this medicine to our workers, and we're all complicit in a crime."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_reyes:154
+msgctxt "conversations/00_emerald_vale/00_cv_reyes:154:DefaultText"
+msgid "Groundbreaker? What's that?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_reyes:155
+msgctxt "conversations/00_emerald_vale/00_cv_reyes:155:DefaultText"
+msgid "Halcyon's original colony ship, now repurposed into a space station. Mr. Udom Bedford represents the Board's interests on the Groundbreaker."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_reyes:157
+msgctxt "conversations/00_emerald_vale/00_cv_reyes:157:DefaultText"
+msgid "Something else I can do for you?"
+msgstr ""

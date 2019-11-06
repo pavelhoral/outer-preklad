@@ -1,0 +1,70 @@
+#: conversations/04_monarch/0411/0411_cp_clive_office:1
+msgctxt "conversations/04_monarch/0411/0411_cp_clive_office:1:DefaultText"
+msgid "C&P Factory Systems\n"
+"========================\n"
+"CUSTOM USER LOG IN SEQUENCE INTIATING...\n"
+"========================\n"
+"Welcome, King. How may the system assist you, today? If you would like to terminate a personnel's probationary period, please select the corresponding personnel file after entering your password."
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cp_clive_office:2
+msgctxt "conversations/04_monarch/0411/0411_cp_clive_office:2:DefaultText"
+msgid "[Personal Files]"
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cp_clive_office:3
+msgctxt "conversations/04_monarch/0411/0411_cp_clive_office:3:DefaultText"
+msgid "[Exit]"
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cp_clive_office:4
+msgctxt "conversations/04_monarch/0411/0411_cp_clive_office:4:DefaultText"
+msgid "[Accessing...]"
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cp_clive_office:5
+msgctxt "conversations/04_monarch/0411/0411_cp_clive_office:5:DefaultText"
+msgid "[Executive Dictation 056]"
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cp_clive_office:6
+msgctxt "conversations/04_monarch/0411/0411_cp_clive_office:6:DefaultText"
+msgid "[Executive Dictation 108]"
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cp_clive_office:7
+msgctxt "conversations/04_monarch/0411/0411_cp_clive_office:7:DefaultText"
+msgid "[Return to Root]"
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cp_clive_office:8
+msgctxt "conversations/04_monarch/0411/0411_cp_clive_office:8:DefaultText"
+msgid "...who would have thought it, am I right? Whole factory, ripe for the taking. None the wiser, save for me. And now the King, I reckon... who is also me but different. Better. I know it ain't wise, to be so fanciful. But it grows so lonely. Just me and the pigs. And the machinery. And now the King. The others will come soon, though. To work for me. The laborers... Got to start small. But then we'll build... and we'll feed... and we'll feed and we'll feed..."
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cp_clive_office:9
+msgctxt "conversations/04_monarch/0411/0411_cp_clive_office:9:DefaultText"
+msgid "...the King can scarcely believe how well, ahem, how awful fine it's all gone. I came from nothing. But now I am a self-made man. Rich in meat and money beyond what one can believe. Power and privacy are mine. Everything I ought ever to desire is mine except for... And the King, he may not have been with me from the beginning, but he was the first to arrive. He kept me from being alone. That is for true. Don't think I could forget nor escape that fact..."
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cp_clive_office:10
+msgctxt "conversations/04_monarch/0411/0411_cp_clive_office:10:DefaultText"
+msgid "[Executive Dictation 113]"
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cp_clive_office:11
+msgctxt "conversations/04_monarch/0411/0411_cp_clive_office:11:DefaultText"
+msgid "...think I got it. Any personnel - and I don't care if they be a line worker or the janitor or a stars-damned cystypig - we shall tell them to call the King by his rightful moniker. And do it properly. None of this Slaughterhouse Clive pigshit or I will show them a slaughter they won't ever forget. Did I make myself clear enough? ...Yes? Marvelous. That ought to do it..."
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cp_clive_office:12
+msgctxt "conversations/04_monarch/0411/0411_cp_clive_office:12:DefaultText"
+msgid "[Personnel Files]"
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cp_clive_office:13
+msgctxt "conversations/04_monarch/0411/0411_cp_clive_office:13:DefaultText"
+msgid "ERROR 6548: No files in directory. \n"
+"\n"
+"All files have been terminated. "
+msgstr ""

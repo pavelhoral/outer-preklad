@@ -1,0 +1,310 @@
+#: conversations/04_monarch/0402/0402_cv_sbmedical_terminal:1
+msgctxt "conversations/04_monarch/0402/0402_cv_sbmedical_terminal:1:DefaultText"
+msgid "Monarch Stellar Industries\r\n"
+"==========================\r\n"
+"\r\n"
+"This terminal's use is restricted to authorized medical engineers. Unauthorized use will warrant action from your site safety engineer."
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sbmedical_terminal:2
+msgctxt "conversations/04_monarch/0402/0402_cv_sbmedical_terminal:2:DefaultText"
+msgid "[Patient Records]"
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sbmedical_terminal:4
+msgctxt "conversations/04_monarch/0402/0402_cv_sbmedical_terminal:4:DefaultText"
+msgid "[Exit]"
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sbmedical_terminal:5
+msgctxt "conversations/04_monarch/0402/0402_cv_sbmedical_terminal:5:DefaultText"
+msgid "Please enter the name of the patient whose records you want to view:"
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sbmedical_terminal:6
+msgctxt "conversations/04_monarch/0402/0402_cv_sbmedical_terminal:6:DefaultText"
+msgid "[Nyoka]"
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sbmedical_terminal:7
+msgctxt "conversations/04_monarch/0402/0402_cv_sbmedical_terminal:7:DefaultText"
+msgid "[Return to Root]"
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sbmedical_terminal:8
+msgctxt "conversations/04_monarch/0402/0402_cv_sbmedical_terminal:8:DefaultText"
+msgid "Nyoka Ramnarim-Wentworth III\r\n"
+"============================\r\n"
+"Caffenoid Allotment: Standard\r\n"
+"\r\n"
+"Medical engineer notes:\r\n"
+"- Liver damage, likely the result of prolonged alcoholism\r\n"
+"- Attitude problems, likely the result of prolonged alcoholism\r\n"
+"- Frequent social withdrawal, likely the result of prolonged alcoholism"
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sbmedical_terminal:9
+msgctxt "conversations/04_monarch/0402/0402_cv_sbmedical_terminal:9:DefaultText"
+msgid "[Increase Caffenoid Allotment]"
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sbmedical_terminal:15
+msgctxt "conversations/04_monarch/0402/0402_cv_sbmedical_terminal:15:DefaultText"
+msgid "Allotment increased to: High. Warning: Excessive Caffenoid consumption may lead to side effects such as:\r\n"
+"- Irritability\r\n"
+"- Fatigue\r\n"
+"- Uncontrollable bowel movements\r\n"
+"- Nausea\r\n"
+"- Death\r\n"
+"\r\n"
+"WARNING: Caffenoid storage is approaching critical levels. Resupply recommended."
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sbmedical_terminal:19
+msgctxt "conversations/04_monarch/0402/0402_cv_sbmedical_terminal:19:DefaultText"
+msgid "[Employee Login]"
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sbmedical_terminal:20
+msgctxt "conversations/04_monarch/0402/0402_cv_sbmedical_terminal:20:DefaultText"
+msgid "Please enter your assigned login credentials. If you've forgotten your assigned login credentials, please report to your supervisor for reassignment."
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sbmedical_terminal:21
+msgctxt "conversations/04_monarch/0402/0402_cv_sbmedical_terminal:21:DefaultText"
+msgid "[Login: Williams]"
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sbmedical_terminal:23
+msgctxt "conversations/04_monarch/0402/0402_cv_sbmedical_terminal:23:DefaultText"
+msgid "[Return to Root]"
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sbmedical_terminal:24
+msgctxt "conversations/04_monarch/0402/0402_cv_sbmedical_terminal:24:DefaultText"
+msgid "[Create New Account]"
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sbmedical_terminal:25
+msgctxt "conversations/04_monarch/0402/0402_cv_sbmedical_terminal:25:DefaultText"
+msgid "ERROR: Account setup requires a persistent connection to the central communications tower. Connection offline."
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sbmedical_terminal:27
+msgctxt "conversations/04_monarch/0402/0402_cv_sbmedical_terminal:27:DefaultText"
+msgid "Welcome, E. Williams!\r\n"
+"\r\n"
+"Please select from the following menu options:"
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sbmedical_terminal:35
+msgctxt "conversations/04_monarch/0402/0402_cv_sbmedical_terminal:35:DefaultText"
+msgid "[Return to Root]"
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sbmedical_terminal:38
+msgctxt "conversations/04_monarch/0402/0402_cv_sbmedical_terminal:38:DefaultText"
+msgid "[Neeoka]"
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sbmedical_terminal:39
+msgctxt "conversations/04_monarch/0402/0402_cv_sbmedical_terminal:39:DefaultText"
+msgid "ERROR: Patient not found. Please try again."
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sbmedical_terminal:40
+msgctxt "conversations/04_monarch/0402/0402_cv_sbmedical_terminal:40:DefaultText"
+msgid "[Neoka]"
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sbmedical_terminal:44
+msgctxt "conversations/04_monarch/0402/0402_cv_sbmedical_terminal:44:DefaultText"
+msgid "ERROR: Allotment already at maximum."
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sbmedical_terminal:45
+msgctxt "conversations/04_monarch/0402/0402_cv_sbmedical_terminal:45:DefaultText"
+msgid "<oeitoken>PlayerName</oeitoken>"
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sbmedical_terminal:61
+msgctxt "conversations/04_monarch/0402/0402_cv_sbmedical_terminal:61:DefaultText"
+msgid "[Back]"
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sbmedical_terminal:64
+msgctxt "conversations/04_monarch/0402/0402_cv_sbmedical_terminal:64:DefaultText"
+msgid "[Data Storage]"
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sbmedical_terminal:65
+msgctxt "conversations/04_monarch/0402/0402_cv_sbmedical_terminal:65:DefaultText"
+msgid "Please enter the name of the employee whose files you want to view:"
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sbmedical_terminal:66
+msgctxt "conversations/04_monarch/0402/0402_cv_sbmedical_terminal:66:DefaultText"
+msgid "[Williams, E.]"
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sbmedical_terminal:67
+msgctxt "conversations/04_monarch/0402/0402_cv_sbmedical_terminal:67:DefaultText"
+msgid "[Edwards, A.]"
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sbmedical_terminal:69
+msgctxt "conversations/04_monarch/0402/0402_cv_sbmedical_terminal:69:DefaultText"
+msgid "Personal Files for E. Williams\r\n"
+"==========================\r\n"
+"\r\n"
+"Notes from experiments as conducted by Dr. E. Williams."
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sbmedical_terminal:70
+msgctxt "conversations/04_monarch/0402/0402_cv_sbmedical_terminal:70:DefaultText"
+msgid "Personal Files for A. Edwards\r\n"
+"==========================\r\n"
+""
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sbmedical_terminal:75
+msgctxt "conversations/04_monarch/0402/0402_cv_sbmedical_terminal:75:DefaultText"
+msgid "[WIP #1, 23,629 words]"
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sbmedical_terminal:76
+msgctxt "conversations/04_monarch/0402/0402_cv_sbmedical_terminal:76:DefaultText"
+msgid "[WIP #2, 15,886 words]"
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sbmedical_terminal:77
+msgctxt "conversations/04_monarch/0402/0402_cv_sbmedical_terminal:77:DefaultText"
+msgid "[WIP #3, 146,307 words]"
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sbmedical_terminal:78
+msgctxt "conversations/04_monarch/0402/0402_cv_sbmedical_terminal:78:DefaultText"
+msgid "\"Stellar Bride\"\n"
+"\n"
+"She's a wide-eyed colonist from Earth. He's a hardworking saltuna farmer from Monarch. Their attraction blossoms into a whirlwind romance that transforms Stellar Bay.\n"
+"\n"
+"CHAPTER 3 - A LONG WAY FROM ARKANSAS\n"
+"\n"
+"\"You can put your things here,\" Mr. Elliot said, leading Abbie into a dim apartment. The place was small, but it had a certain... cozy charm. Abbie set her bags on the floor and loosened the straps of her jumpsuit.\n"
+"\n"
+"Mr. Elliot coughed, his face suddenly red. \"If you get warm, you can always crack the window. Breeze from the bay is real nice. Just be careful about mantiswarms.\"\n"
+"\n"
+"As Abbie went to take the room key, her fingers brushed his. He had strong, rough hands. A saltuna farmer's hands. \n"
+"\n"
+"She felt herself blush. \"You've been ever so kind to me, Mr. Elliot.\"\n"
+"\n"
+"\"Call me Archibald,\" he said."
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sbmedical_terminal:79
+msgctxt "conversations/04_monarch/0402/0402_cv_sbmedical_terminal:79:DefaultText"
+msgid "\"The Passion Broker\"\r\n"
+"\r\n"
+"A renegade Iconoclast, driven by his ideals, finds love in the arms of a mysterious man with a tortured past.\r\n"
+"\r\n"
+"Will he follow his head... or his heart?\r\n"
+"\r\n"
+"CHAPTER 2 - TALL, DARK, AND HANDSOME\r\n"
+"\r\n"
+"\"Come on up,\" said the voice on the com. It was dangerous and smooth in a way that reminded Broderick of Iceberg Aged Whiskey. \r\n"
+"\r\n"
+"The door slid open with a whisper of perfumed air. The hair rose along the nape of his neck, and he proceeded up the stairs.\r\n"
+"\r\n"
+"The Broker sat with his back to a top-of-the-line MostlyCharKoal personal heater, slender fingers tented. So this was the mysterious recluse who manipulated Monarch from afar. Broderick could feel the warmth of the heater from across the room, but it was the look in the Broker's eyes that had him feeling feverish.\r\n"
+"\r\n"
+"The Broker produced a pair of glasses and a bottle of something that looked expensive. He poured it off and held one of the glasses out to Broderick.\r\n"
+"\r\n"
+"\"For me?\" he asked, trying to ignore the man's smoldering gaze.\r\n"
+"\r\n"
+"\"Indeed,\" the Broker purred. \"I hear you're a man of... bold tastes.\"\r\n"
+"\r\n"
+"Broderick took his glass.\r\n"
+"\r\n"
+"The Broker continued, dark hair falling over darker eyes. \"That's why I've got a rare proposition for you.\"\r\n"
+"\r\n"
+"The glass nearly slipped from Broderick's fingers. He drank it in one gulp to hide the tremor in his hand. It burned all the way down."
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sbmedical_terminal:80
+msgctxt "conversations/04_monarch/0402/0402_cv_sbmedical_terminal:80:DefaultText"
+msgid "\"Clinic of the Heart\"\n"
+"\n"
+"A battle-hardened young Earth Directorate soldier visits a remote clinic on Monarch to heal his injuries. But when he meets Gail, an elegant older nurse, she goes to work on his heart, as well.\n"
+"\n"
+"CHAPTER 34 - HEALING TOUCH\n"
+"\n"
+"Fletcher held her tightly. His strength had returned - that much was clear.\n"
+"\n"
+"Yet here he remained. At the clinic. With her.\n"
+"\n"
+"He shook his head as if he'd read her mind with his perfect green eyes. \"Gail, the Earth Directorate's calling me back - they want me protecting Byzantium. But I don't know how to leave. Not after what we've found together.\"\n"
+"\n"
+"\"Then stay,\" she whispered, letting her breath warm his ear. \"I can certainly find a... position for you here.\"\n"
+"\n"
+"\"Oh, Laws,\" he moaned, pulling her closer.\n"
+"\n"
+"She pressed a finger to his lips. \"Shh. The only law here is love.\""
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sbmedical_terminal:81
+msgctxt "conversations/04_monarch/0402/0402_cv_sbmedical_terminal:81:DefaultText"
+msgid "[Return to Root]"
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sbmedical_terminal:82
+msgctxt "conversations/04_monarch/0402/0402_cv_sbmedical_terminal:82:DefaultText"
+msgid "[Notes: Reacticism + Pep-You-Up]"
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sbmedical_terminal:83
+msgctxt "conversations/04_monarch/0402/0402_cv_sbmedical_terminal:83:DefaultText"
+msgid "[Notes: Bush Berry Extract + Debilerol]"
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sbmedical_terminal:84
+msgctxt "conversations/04_monarch/0402/0402_cv_sbmedical_terminal:84:DefaultText"
+msgid "[Notes: Caustolerene - Triple Dosage]"
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sbmedical_terminal:85
+msgctxt "conversations/04_monarch/0402/0402_cv_sbmedical_terminal:85:DefaultText"
+msgid "Searching...\r\n"
+"\r\n"
+"File empty."
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sbmedical_terminal:86
+msgctxt "conversations/04_monarch/0402/0402_cv_sbmedical_terminal:86:DefaultText"
+msgid "I had hypothesized that this combination might awaken my mind and senses to the greater realities around us. If that is true, then it seems my faculties were quite overwhelmed in this instance.\r\n"
+"\r\n"
+"Shortly after the dosage, I experienced cold sweats, tremors, and mild paranoia. It is perhaps due to these latter effects that most of my notes from the episode are of little use.\r\n"
+"\r\n"
+"Nevertheless, the effects were most invigorating. I will have to attempt a milder dosage once heart palpitations subside."
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sbmedical_terminal:87
+msgctxt "conversations/04_monarch/0402/0402_cv_sbmedical_terminal:87:DefaultText"
+msgid "After my previous experiments, I theorized that deadening the external senses might allow the mind's eye to glimpse the Eternal. Alas, I was only partially successful.\n"
+"\n"
+"The combination of substances quickly rendered me both blind and feeble - so much so that I soon fell into a stupor. I awoke some hours later in a pile of my own sick and a most curious craving for Tileritos."
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sbmedical_terminal:96
+msgctxt "conversations/04_monarch/0402/0402_cv_sbmedical_terminal:96:DefaultText"
+msgid "[Back]"
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sbmedical_terminal:97
+msgctxt "conversations/04_monarch/0402/0402_cv_sbmedical_terminal:97:DefaultText"
+msgid "[Back]"
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_cv_sbmedical_terminal:100
+msgctxt "conversations/04_monarch/0402/0402_cv_sbmedical_terminal:100:DefaultText"
+msgid "[Back]"
+msgstr ""

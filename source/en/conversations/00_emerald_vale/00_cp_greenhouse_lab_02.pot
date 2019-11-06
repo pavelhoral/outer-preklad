@@ -1,0 +1,128 @@
+#: conversations/00_emerald_vale/00_cp_greenhouse_lab_02:1
+msgctxt "conversations/00_emerald_vale/00_cp_greenhouse_lab_02:1:DefaultText"
+msgid "Emerald Vale Botanical Lab and Experimental Facility\r\n"
+"\r\n"
+"A Spacer's Choice Property\r\n"
+"========================\r\n"
+"\r\n"
+"Terminal Access\r\n"
+"\r\n"
+"Lead Horticulturalist, Emerald Vale Division\r\n"
+"\r\n"
+"R. Morris"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cp_greenhouse_lab_02:2
+msgctxt "conversations/00_emerald_vale/00_cp_greenhouse_lab_02:2:DefaultText"
+msgid "[Experimental Notes]"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cp_greenhouse_lab_02:3
+msgctxt "conversations/00_emerald_vale/00_cp_greenhouse_lab_02:3:DefaultText"
+msgid "Emerald Vale Botanical Lab and Experimental Facility\r\n"
+"\r\n"
+"A Spacer's Choice Property\r\n"
+"========================\r\n"
+"\r\n"
+"Experimental Notes"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cp_greenhouse_lab_02:4
+msgctxt "conversations/00_emerald_vale/00_cp_greenhouse_lab_02:4:DefaultText"
+msgid "[Exit]"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cp_greenhouse_lab_02:5
+msgctxt "conversations/00_emerald_vale/00_cp_greenhouse_lab_02:5:DefaultText"
+msgid "[Messages]"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cp_greenhouse_lab_02:6
+msgctxt "conversations/00_emerald_vale/00_cp_greenhouse_lab_02:6:DefaultText"
+msgid "Emerald Vale Botanical Lab and Experimental Facility\r\n"
+"\r\n"
+"A Spacer's Choice Property\r\n"
+"========================\r\n"
+"\r\n"
+"Messages\r\n"
+"\r\n"
+"Welcome, R. Morris"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cp_greenhouse_lab_02:7
+msgctxt "conversations/00_emerald_vale/00_cp_greenhouse_lab_02:7:DefaultText"
+msgid "[Return to Root]"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cp_greenhouse_lab_02:8
+msgctxt "conversations/00_emerald_vale/00_cp_greenhouse_lab_02:8:DefaultText"
+msgid "[FROM: Spacer's Choice Department of Logistics]"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cp_greenhouse_lab_02:9
+msgctxt "conversations/00_emerald_vale/00_cp_greenhouse_lab_02:9:DefaultText"
+msgid "Emerald Vale Botanical Lab and Experimental Facility\r\n"
+"\r\n"
+"A Spacer's Choice Property\r\n"
+"========================\r\n"
+"\r\n"
+"FROM: Spacer's Choice Department of Logistics\r\n"
+"TO: R. Morris\r\n"
+"SUBJECT: Congratulations and Commendations\r\n"
+"\r\n"
+"Dr. Morris,\r\n"
+"\r\n"
+"Thank you for being a valued member of the Spacer's Choice Family. We are writing to you in order to express our gratitude. The work performed by you and your team of horticulturalists has demonstrated the superfluity of the Emerald Vale Botanical Lab and Experimental Facility. \r\n"
+"\r\n"
+"Effective immediately, all positions have been permanently terminated. Spacer's Choice reminds you of our commitment to every member of the Spacer's Choice family. We invite you to apply for reassignment at the Edgewater Cannery. Please remember to include your Reassignment Request Fee with your paperwork."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cp_greenhouse_lab_02:10
+msgctxt "conversations/00_emerald_vale/00_cp_greenhouse_lab_02:10:DefaultText"
+msgid "[Open Last Entry]"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cp_greenhouse_lab_02:11
+msgctxt "conversations/00_emerald_vale/00_cp_greenhouse_lab_02:11:DefaultText"
+msgid "Emerald Vale Botanical Lab and Experimental Facility\r\n"
+"\r\n"
+"A Spacer's Choice Property\r\n"
+"========================\r\n"
+"\r\n"
+"Experimental Notes - Last Entry\r\n"
+"\r\n"
+"Experiment 033-A, Trial #6\r\n"
+"\r\n"
+"Title: \"Growth Rates and Viability of Spectrum Potatoes on Terra 2, Localized to the Emerald Vale Region\"\r\n"
+"\r\n"
+"...\r\n"
+"\r\n"
+"Conclusion and Analysis:\r\n"
+"\r\n"
+"The experiment recapitulates the results of Trials #1-5. Each successive generation of spectrum potatoes atrophies in quality, size, and nutritional content. After five generations, crops invariably fail. The soil in Emerald Vale is inviable, and any attempts at industrial agriculture are likely to be unprofitable. "
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cp_greenhouse_lab_02:12
+msgctxt "conversations/00_emerald_vale/00_cp_greenhouse_lab_02:12:DefaultText"
+msgid "[Memorandum: R. Morris]"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cp_greenhouse_lab_02:13
+msgctxt "conversations/00_emerald_vale/00_cp_greenhouse_lab_02:13:DefaultText"
+msgid "Emerald Vale Botanical Lab and Experimental Facility\r\n"
+"\r\n"
+"A Spacer's Choice Property\r\n"
+"========================\r\n"
+"\r\n"
+"MEMORANDUM\r\n"
+"\r\n"
+"From: R. Morris\r\n"
+"To: SELF\r\n"
+"\r\n"
+"Our position's been terminated, so I see no reason to conceal this memorandum behind a password. No one's ever going to see this terminal again.\r\n"
+"\r\n"
+"My experiments were flawed from the beginning. Our parent company refused to send us adequate experimental equipment, citing budgetary problems. I'm sure the accountants at headquarters know what they're doing, so I can't question them. Personally, I don't know why the soil in Emerald Vale resists our every attempt at cultivation. Local volcanism and a biosphere rich with native flora supports the possibility of botanical cultivation. But nothing seems to grow.\r\n"
+"\r\n"
+"I suspect it may simply be a question of plant nutrition. Good soil requires a healthy mix of organic compounds. If corporate had sent us decent fertilizer, we might have seen some real success. Unfortunately, we've had to make do with the old, rotten contents of saltuna cans. \r\n"
+""
+msgstr ""

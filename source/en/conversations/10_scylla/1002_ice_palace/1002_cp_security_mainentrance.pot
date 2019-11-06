@@ -1,0 +1,146 @@
+#: conversations/10_scylla/1002_ice_palace/1002_cp_security_mainentrance:4
+msgctxt "conversations/10_scylla/1002_ice_palace/1002_cp_security_mainentrance:4:DefaultText"
+msgid "Lab 1084: High-Security Containment\r\n"
+"Checkpoint Alpha\r\n"
+"=============================\r\n"
+"\r\n"
+"Keycard Encoder Status: Online\r\n"
+"\r\n"
+"Main menu"
+msgstr ""
+
+#: conversations/10_scylla/1002_ice_palace/1002_cp_security_mainentrance:5
+msgctxt "conversations/10_scylla/1002_ice_palace/1002_cp_security_mainentrance:5:DefaultText"
+msgid "[Messages]"
+msgstr ""
+
+#: conversations/10_scylla/1002_ice_palace/1002_cp_security_mainentrance:7
+msgctxt "conversations/10_scylla/1002_ice_palace/1002_cp_security_mainentrance:7:DefaultText"
+msgid "[Personal Files]"
+msgstr ""
+
+#: conversations/10_scylla/1002_ice_palace/1002_cp_security_mainentrance:8
+msgctxt "conversations/10_scylla/1002_ice_palace/1002_cp_security_mainentrance:8:DefaultText"
+msgid "[Exit]"
+msgstr ""
+
+#: conversations/10_scylla/1002_ice_palace/1002_cp_security_mainentrance:9
+msgctxt "conversations/10_scylla/1002_ice_palace/1002_cp_security_mainentrance:9:DefaultText"
+msgid "Lab 1084: High-Security Containment\r\n"
+"Checkpoint Alpha\r\n"
+"=============================\r\n"
+"\r\n"
+"\r\n"
+"Messages"
+msgstr ""
+
+#: conversations/10_scylla/1002_ice_palace/1002_cp_security_mainentrance:11
+msgctxt "conversations/10_scylla/1002_ice_palace/1002_cp_security_mainentrance:11:DefaultText"
+msgid "Lab 1084: High-Security Containment\r\n"
+"Checkpoint Alpha\r\n"
+"=============================\r\n"
+"\r\n"
+"James is gone and he never said goodbye. \r\n"
+"\r\n"
+"I keep telling myself that he wanted me to remember him as he was outside of the tank. Or maybe he was just bad at goodbyes. When I saw what was left of him, I wanted to airlock everyone who let it happen.\r\n"
+"\r\n"
+"You could have said something, James. We were never short on time.\r\n"
+"\r\n"
+"Nothing's keeping me here now. The bits aren't worth it. I've requested a transfer. I get the impression I'm not the only one."
+msgstr ""
+
+#: conversations/10_scylla/1002_ice_palace/1002_cp_security_mainentrance:24
+msgctxt "conversations/10_scylla/1002_ice_palace/1002_cp_security_mainentrance:24:DefaultText"
+msgid "Lab 1084: High-Security Containment\r\n"
+"Checkpoint Alpha\r\n"
+"=============================\r\n"
+"\r\n"
+"Personal files"
+msgstr ""
+
+#: conversations/10_scylla/1002_ice_palace/1002_cp_security_mainentrance:25
+msgctxt "conversations/10_scylla/1002_ice_palace/1002_cp_security_mainentrance:25:DefaultText"
+msgid "[Note on Guthrie, J]"
+msgstr ""
+
+#: conversations/10_scylla/1002_ice_palace/1002_cp_security_mainentrance:26
+msgctxt "conversations/10_scylla/1002_ice_palace/1002_cp_security_mainentrance:26:DefaultText"
+msgid "[Note on Chief Kimball]"
+msgstr ""
+
+#: conversations/10_scylla/1002_ice_palace/1002_cp_security_mainentrance:27
+msgctxt "conversations/10_scylla/1002_ice_palace/1002_cp_security_mainentrance:27:DefaultText"
+msgid "[Return to Root]"
+msgstr ""
+
+#: conversations/10_scylla/1002_ice_palace/1002_cp_security_mainentrance:28
+msgctxt "conversations/10_scylla/1002_ice_palace/1002_cp_security_mainentrance:28:DefaultText"
+msgid "Lab 1084: High-Security Containment\r\n"
+"Checkpoint Alpha\r\n"
+"=============================\r\n"
+"\r\n"
+"Kimball thinks there'll be trouble once the docs run out of warm bodies. If James was around I know he'd set her straight. Now that he's gone, maybe I could use some convincing, too.\r\n"
+"\r\n"
+"She showed up next to my bunk last night. Said that if anything happened to her, her password was her daughter's name. Hope it never comes to that."
+msgstr ""
+
+#: conversations/10_scylla/1002_ice_palace/1002_cp_security_mainentrance:30
+msgctxt "conversations/10_scylla/1002_ice_palace/1002_cp_security_mainentrance:30:DefaultText"
+msgid "[FROM: REDACTED, SUBJECT: Closing down]"
+msgstr ""
+
+#: conversations/10_scylla/1002_ice_palace/1002_cp_security_mainentrance:32
+msgctxt "conversations/10_scylla/1002_ice_palace/1002_cp_security_mainentrance:32:DefaultText"
+msgid "Lab 1084: High-Security Containment\r\n"
+"Checkpoint Alpha\r\n"
+"=============================\n"
+"\n"
+"FROM: REDACTED\n"
+"TO: Station Security, All\n"
+"SUBJECT: Closing down\n"
+"\n"
+"A transport vessel has been dispatched to HRS-1084. I have taken the liberty of upgrading the Sensitive Materials Containment Rating of this asset, which means you are permitted to leave with company-branded consumables, but all personal effects must be left behind. \n"
+"\n"
+"Do not interfere with the tanks. A clean-up crew will dispose of all exhausted assets in time. \n"
+"\n"
+"Anyone who requires ethical correction therapy can speak to a Spacer Care approved alienist."
+msgstr ""
+
+#: conversations/10_scylla/1002_ice_palace/1002_cp_security_mainentrance:33
+msgctxt "conversations/10_scylla/1002_ice_palace/1002_cp_security_mainentrance:33:DefaultText"
+msgid "Lab 1084: High-Security Containment\r\n"
+"Checkpoint Alpha\r\n"
+"=============================\r\n"
+"\r\n"
+"ERROR: Unable to access memory cartridge.\r\n"
+"ERROR: Terminal power below 5%. Terminal in maintenance mode.\r\n"
+"\r\n"
+"Restore power supply to station to resume normal terminal operations."
+msgstr ""
+
+#: conversations/10_scylla/1002_ice_palace/1002_cp_security_mainentrance:34
+msgctxt "conversations/10_scylla/1002_ice_palace/1002_cp_security_mainentrance:34:DefaultText"
+msgid "[Encode Keycard]"
+msgstr ""
+
+#: conversations/10_scylla/1002_ice_palace/1002_cp_security_mainentrance:35
+msgctxt "conversations/10_scylla/1002_ice_palace/1002_cp_security_mainentrance:35:DefaultText"
+msgid "Lab 1084: High-Security Containment\r\n"
+"Checkpoint Alpha\r\n"
+"=============================\r\n"
+"\r\n"
+"\r\n"
+"Encoding keycard...\r\n"
+"\r\n"
+"Keycard Encoded successfully."
+msgstr ""
+
+#: conversations/10_scylla/1002_ice_palace/1002_cp_security_mainentrance:36
+msgctxt "conversations/10_scylla/1002_ice_palace/1002_cp_security_mainentrance:36:DefaultText"
+msgid "Lab 1084: High-Security Containment\r\n"
+"Checkpoint Alpha\r\n"
+"=============================\r\n"
+"\r\n"
+"\r\n"
+"Error KR-3502: No blank UDL keycard found in encoding slot. Please make sure a blank UDL brand keycard is inserted before attempting to use the encoding function."
+msgstr ""

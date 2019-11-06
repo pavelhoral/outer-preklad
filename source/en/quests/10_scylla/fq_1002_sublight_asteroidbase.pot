@@ -1,0 +1,54 @@
+#: quests/10_scylla/fq_1002_sublight_asteroidbase:0
+msgctxt "quests/10_scylla/fq_1002_sublight_asteroidbase:0:DefaultText"
+msgid "The Ice Palace"
+msgstr ""
+
+#: quests/10_scylla/fq_1002_sublight_asteroidbase:1
+msgctxt "quests/10_scylla/fq_1002_sublight_asteroidbase:1:DefaultText"
+msgid "Grant SubLight Remote Access to the Station"
+msgstr ""
+
+#: quests/10_scylla/fq_1002_sublight_asteroidbase:14
+msgctxt "quests/10_scylla/fq_1002_sublight_asteroidbase:14:DefaultText"
+msgid "Return to Lilya"
+msgstr ""
+
+#: quests/10_scylla/fq_1002_sublight_asteroidbase:10000
+msgctxt "quests/10_scylla/fq_1002_sublight_asteroidbase:10000:DefaultText"
+msgid "Lilya Hagen has another lead on some valuable salvage - an abandoned space station. She gave you an override bypass that should stake her claim over HRS-1084 as the rightful property of SubLight Salvage. "
+msgstr ""
+
+#: quests/10_scylla/fq_1002_sublight_asteroidbase:10001
+msgctxt "quests/10_scylla/fq_1002_sublight_asteroidbase:10001:DefaultText"
+msgid "The override cartridge will hand over control of the station's systems to SubLight, legitimizing Lilya's claim over the salvage. "
+msgstr ""
+
+#: quests/10_scylla/fq_1002_sublight_asteroidbase:10014
+msgctxt "quests/10_scylla/fq_1002_sublight_asteroidbase:10014:DefaultText"
+msgid "Now that the station has been secured as a holding of SubLight Salvage, Lilya Hagen will be interested in an update. She can be found in SubLight Headquarters on the Groundbreaker. "
+msgstr ""
+
+#: quests/10_scylla/fq_1002_sublight_asteroidbase:20000
+msgctxt "quests/10_scylla/fq_1002_sublight_asteroidbase:20000:DefaultText"
+msgid "HRS-1084 seems to be powered down. See if you can find a power source to get the place back up and running."
+msgstr ""
+
+#: quests/10_scylla/fq_1002_sublight_asteroidbase:20001
+msgctxt "quests/10_scylla/fq_1002_sublight_asteroidbase:20001:DefaultText"
+msgid "UDL Guards have arrived at the station to try and take you down. You'll have to deal with them as you make your way to the override terminal."
+msgstr ""
+
+#: quests/10_scylla/fq_1002_sublight_asteroidbase:20002
+msgctxt "quests/10_scylla/fq_1002_sublight_asteroidbase:20002:DefaultText"
+msgid "You convinced the UDL forces to leave the station. Make your way over to the override terminal."
+msgstr ""
+
+#: quests/10_scylla/fq_1002_sublight_asteroidbase:30000
+msgctxt "quests/10_scylla/fq_1002_sublight_asteroidbase:30000:DefaultText"
+msgid "You gave SubLight remote access into the station's systems, granting them rights to the salvage. "
+msgstr ""
+
+#: quests/10_scylla/fq_1002_sublight_asteroidbase:30002
+msgctxt "quests/10_scylla/fq_1002_sublight_asteroidbase:30002:DefaultText"
+msgid "Now that Lilya Hagen is dead, HRS-1084 is space junk."
+msgstr ""

@@ -1,0 +1,85 @@
+#: quests/09_interstitial/pq_0903_thelasthopeofhalcyon:0
+msgctxt "quests/09_interstitial/pq_0903_thelasthopeofhalcyon:0:DefaultText"
+msgid "The Last Hope of Halcyon"
+msgstr ""
+
+#: quests/09_interstitial/pq_0903_thelasthopeofhalcyon:1
+msgctxt "quests/09_interstitial/pq_0903_thelasthopeofhalcyon:1:DefaultText"
+msgid "Travel to the Hope"
+msgstr ""
+
+#: quests/09_interstitial/pq_0903_thelasthopeofhalcyon:2
+msgctxt "quests/09_interstitial/pq_0903_thelasthopeofhalcyon:2:DefaultText"
+msgid "Repower the Hope's Skip Drive"
+msgstr ""
+
+#: quests/09_interstitial/pq_0903_thelasthopeofhalcyon:3
+msgctxt "quests/09_interstitial/pq_0903_thelasthopeofhalcyon:3:DefaultText"
+msgid "Patch ADA into the Hope's Communications Systems"
+msgstr ""
+
+#: quests/09_interstitial/pq_0903_thelasthopeofhalcyon:6
+msgctxt "quests/09_interstitial/pq_0903_thelasthopeofhalcyon:6:DefaultText"
+msgid "Skip the Hope"
+msgstr ""
+
+#: quests/09_interstitial/pq_0903_thelasthopeofhalcyon:7
+msgctxt "quests/09_interstitial/pq_0903_thelasthopeofhalcyon:7:DefaultText"
+msgid "Return to Phineas Welles' Lab"
+msgstr ""
+
+#: quests/09_interstitial/pq_0903_thelasthopeofhalcyon:10000
+msgctxt "quests/09_interstitial/pq_0903_thelasthopeofhalcyon:10000:DefaultText"
+msgid "Phineas Welles has asked you to skip the Hope to Terra 2.\r\n"
+""
+msgstr ""
+
+#: quests/09_interstitial/pq_0903_thelasthopeofhalcyon:10001
+msgctxt "quests/09_interstitial/pq_0903_thelasthopeofhalcyon:10001:DefaultText"
+msgid "Land your ship in one of the Hope's docking bays."
+msgstr ""
+
+#: quests/09_interstitial/pq_0903_thelasthopeofhalcyon:10002
+msgctxt "quests/09_interstitial/pq_0903_thelasthopeofhalcyon:10002:DefaultText"
+msgid "Reroute power from your ship to the Hope's auxiliary power supply."
+msgstr ""
+
+#: quests/09_interstitial/pq_0903_thelasthopeofhalcyon:10003
+msgctxt "quests/09_interstitial/pq_0903_thelasthopeofhalcyon:10003:DefaultText"
+msgid "ADA will make sure the ship can be skipped safely."
+msgstr ""
+
+#: quests/09_interstitial/pq_0903_thelasthopeofhalcyon:10006
+msgctxt "quests/09_interstitial/pq_0903_thelasthopeofhalcyon:10006:DefaultText"
+msgid "Use the main control console to decide where to send the Hope."
+msgstr ""
+
+#: quests/09_interstitial/pq_0903_thelasthopeofhalcyon:10007
+msgctxt "quests/09_interstitial/pq_0903_thelasthopeofhalcyon:10007:DefaultText"
+msgid "With the Hope now orbiting Terra 2, return to Phineas' Lab to speak about the next steps."
+msgstr ""
+
+#: quests/09_interstitial/pq_0903_thelasthopeofhalcyon:20000
+msgctxt "quests/09_interstitial/pq_0903_thelasthopeofhalcyon:20000:DefaultText"
+msgid "You found Phineas' Lab was ransacked. Search his lab for additional info."
+msgstr ""
+
+#: quests/09_interstitial/pq_0903_thelasthopeofhalcyon:20001
+msgctxt "quests/09_interstitial/pq_0903_thelasthopeofhalcyon:20001:DefaultText"
+msgid "Phineas mentioned that something important could be found in a secret compartment in his room. You should go retrieve it."
+msgstr ""
+
+#: quests/09_interstitial/pq_0903_thelasthopeofhalcyon:20002
+msgctxt "quests/09_interstitial/pq_0903_thelasthopeofhalcyon:20002:DefaultText"
+msgid "Phineas' computer is locked, search the area for the passcode."
+msgstr ""
+
+#: quests/09_interstitial/pq_0903_thelasthopeofhalcyon:20003
+msgctxt "quests/09_interstitial/pq_0903_thelasthopeofhalcyon:20003:DefaultText"
+msgid "Phineas sent you a transmission screaming about \"corporate PIGS.\""
+msgstr ""
+
+#: quests/09_interstitial/pq_0903_thelasthopeofhalcyon:30000
+msgctxt "quests/09_interstitial/pq_0903_thelasthopeofhalcyon:30000:DefaultText"
+msgid "You successfully skipped the Hope to Terra 2."
+msgstr ""

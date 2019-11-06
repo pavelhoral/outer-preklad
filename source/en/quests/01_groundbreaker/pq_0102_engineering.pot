@@ -1,0 +1,74 @@
+#: quests/01_groundbreaker/pq_0102_engineering:0
+msgctxt "quests/01_groundbreaker/pq_0102_engineering:0:DefaultText"
+msgid "Happiness is a Warm Spaceship"
+msgstr ""
+
+#: quests/01_groundbreaker/pq_0102_engineering:2
+msgctxt "quests/01_groundbreaker/pq_0102_engineering:2:DefaultText"
+msgid "Get New Parts for the Radiators"
+msgstr ""
+
+#: quests/01_groundbreaker/pq_0102_engineering:11
+msgctxt "quests/01_groundbreaker/pq_0102_engineering:11:DefaultText"
+msgid "Return to Junlei"
+msgstr ""
+
+#: quests/01_groundbreaker/pq_0102_engineering:13
+msgctxt "quests/01_groundbreaker/pq_0102_engineering:13:DefaultText"
+msgid "Fix the Radiators"
+msgstr ""
+
+#: quests/01_groundbreaker/pq_0102_engineering:20
+msgctxt "quests/01_groundbreaker/pq_0102_engineering:20:DefaultText"
+msgid "Talk to Junlei about the Parts"
+msgstr ""
+
+#: quests/01_groundbreaker/pq_0102_engineering:10000
+msgctxt "quests/01_groundbreaker/pq_0102_engineering:10000:DefaultText"
+msgid "Help Junlei Tennyson fix the radiator arrays in the maintenance shaft."
+msgstr ""
+
+#: quests/01_groundbreaker/pq_0102_engineering:10002
+msgctxt "quests/01_groundbreaker/pq_0102_engineering:10002:DefaultText"
+msgid "You need to get new parts for the Radiator Array to keep the Groundbreaker from overheating. Junlei wants you to salvage the parts for the radiators from old machinery in the back bays."
+msgstr ""
+
+#: quests/01_groundbreaker/pq_0102_engineering:10011
+msgctxt "quests/01_groundbreaker/pq_0102_engineering:10011:DefaultText"
+msgid "Follow up with Junlei to let her know the radiators are fixed and to claim your reward."
+msgstr ""
+
+#: quests/01_groundbreaker/pq_0102_engineering:10013
+msgctxt "quests/01_groundbreaker/pq_0102_engineering:10013:DefaultText"
+msgid "Junlei told you to enter the maintenance shaft and help her install the new parts for the radiators. She warned you to go armed."
+msgstr ""
+
+#: quests/01_groundbreaker/pq_0102_engineering:10020
+msgctxt "quests/01_groundbreaker/pq_0102_engineering:10020:DefaultText"
+msgid "Go talk to Junlei to figure out what to do with the radiator parts you found."
+msgstr ""
+
+#: quests/01_groundbreaker/pq_0102_engineering:20006
+msgctxt "quests/01_groundbreaker/pq_0102_engineering:20006:DefaultText"
+msgid "You were able to peacefully resolve things with MacRedd. Go retrieve the parts and head back to Junlei."
+msgstr ""
+
+#: quests/01_groundbreaker/pq_0102_engineering:20014
+msgctxt "quests/01_groundbreaker/pq_0102_engineering:20014:DefaultText"
+msgid "You killed MacRedd, and are now free to go retrieve the parts. Go grab them and head back to Junlei."
+msgstr ""
+
+#: quests/01_groundbreaker/pq_0102_engineering:30000
+msgctxt "quests/01_groundbreaker/pq_0102_engineering:30000:DefaultText"
+msgid "You helped Junlei fix the Groundbreaker's radiator arrays."
+msgstr ""
+
+#: quests/01_groundbreaker/pq_0102_engineering:30003
+msgctxt "quests/01_groundbreaker/pq_0102_engineering:30003:DefaultText"
+msgid "Junlei is dead. Without her knowledge of the ship and its systems, the Groundbreaker is surely doomed."
+msgstr ""
+
+#: quests/01_groundbreaker/pq_0102_engineering:30005
+msgctxt "quests/01_groundbreaker/pq_0102_engineering:30005:DefaultText"
+msgid "The Groundbreaker has become hostile towards you, making it impossible to complete this quest."
+msgstr ""

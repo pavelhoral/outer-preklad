@@ -1,0 +1,138 @@
+#: conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_bot_aggression:1
+msgctxt "conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_bot_aggression:1:DefaultText"
+msgid "Emerald Vale Geothermal Plant\r\n"
+"\r\n"
+"A Spacer's Choice Property\r\n"
+"========================\r\n"
+"\r\n"
+"Automechanical Control Terminal\r\n"
+""
+msgstr ""
+
+#: conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_bot_aggression:2
+msgctxt "conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_bot_aggression:2:DefaultText"
+msgid "[Modify Behavior]"
+msgstr ""
+
+#: conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_bot_aggression:3
+msgctxt "conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_bot_aggression:3:DefaultText"
+msgid "Emerald Vale Geothermal Plant\r\n"
+"\r\n"
+"A Spacer's Choice Property\r\n"
+"========================\r\n"
+"\r\n"
+"Accessing Behavior Modification\r\n"
+"\r\n"
+"Automechanical Behavior Mode: [GUARD MODE]\r\n"
+"Guard Mode Targets: [INTRUDERS]\r\n"
+"\r\n"
+"Select Operation"
+msgstr ""
+
+#: conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_bot_aggression:4
+msgctxt "conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_bot_aggression:4:DefaultText"
+msgid "[Select New Mode]"
+msgstr ""
+
+#: conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_bot_aggression:5
+msgctxt "conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_bot_aggression:5:DefaultText"
+msgid "Emerald Vale Geothermal Plant\r\n"
+"\r\n"
+"A Spacer's Choice Property\r\n"
+"========================\r\n"
+"\r\n"
+"[Select New Mode]\r\n"
+"...\r\n"
+"...\r\n"
+"[ERROR!]\r\n"
+"\r\n"
+"Automechanicals in this facility have been mandated to remain in [GUARD MODE]. Any attempt to alter this setting is punishable by company law. Your infraction has been noted in your permanent record, [C. Higgins]. Please see your supervisor to schedule a reprimand."
+msgstr ""
+
+#: conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_bot_aggression:7
+msgctxt "conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_bot_aggression:7:DefaultText"
+msgid "Emerald Vale Geothermal Plant\r\n"
+"\r\n"
+"A Spacer's Choice Property\r\n"
+"========================\r\n"
+"\r\n"
+"[INTRUDERS]:\r\n"
+"\r\n"
+"All persons or entities NOT identified as property of Spacer's Choice.\r\n"
+"\r\n"
+"Would you like to modify the definition of [INTRUDERS]?"
+msgstr ""
+
+#: conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_bot_aggression:8
+msgctxt "conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_bot_aggression:8:DefaultText"
+msgid "[Define Intruders]"
+msgstr ""
+
+#: conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_bot_aggression:9
+msgctxt "conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_bot_aggression:9:DefaultText"
+msgid "Emerald Vale Geothermal Plant\r\n"
+"\r\n"
+"A Spacer's Choice Property\r\n"
+"========================\r\n"
+"\r\n"
+"Updating Definition: [INTRUDERS]\r\n"
+"...\r\n"
+"...\r\n"
+"Definition of [INTRUDERS] successfully updated.\r\n"
+"\r\n"
+"Modified definitions successfully forwarded to security. Please allow some time to process and remove all recently defined [INTRUDERS]."
+msgstr ""
+
+#: conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_bot_aggression:10
+msgctxt "conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_bot_aggression:10:DefaultText"
+msgid "[Exit]"
+msgstr ""
+
+#: conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_bot_aggression:11
+msgctxt "conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_bot_aggression:11:DefaultText"
+msgid "[Select New Target]"
+msgstr ""
+
+#: conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_bot_aggression:12
+msgctxt "conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_bot_aggression:12:DefaultText"
+msgid "Emerald Vale Geothermal Plant\r\n"
+"\r\n"
+"A Spacer's Choice Property\r\n"
+"========================\r\n"
+"\r\n"
+"[Select New Target]\r\n"
+"...\r\n"
+"...\r\n"
+"[ERROR!]\r\n"
+"\r\n"
+"Automechanicals in this facility have been mandated to target [INTRUDERS]. Any attempt to alter this setting is punishable by company law. Your infraction has been noted in your permanent record, [C. Higgins]. Please see your supervisor to schedule a reprimand."
+msgstr ""
+
+#: conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_bot_aggression:14
+msgctxt "conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_bot_aggression:14:DefaultText"
+msgid "[Define Intruders as Spacer's Choice Automechanicals]"
+msgstr ""
+
+#: conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_bot_aggression:16
+msgctxt "conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_bot_aggression:16:DefaultText"
+msgid "[Return to Root]"
+msgstr ""
+
+#: conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_bot_aggression:17
+msgctxt "conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_bot_aggression:17:DefaultText"
+msgid "[Run Termination Protocol]"
+msgstr ""
+
+#: conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_bot_aggression:18
+msgctxt "conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_bot_aggression:18:DefaultText"
+msgid "Emerald Vale Geothermal Plant\r\n"
+"\r\n"
+"A Spacer's Choice Property\r\n"
+"========================\r\n"
+"\r\n"
+"Running Termination Protocol\r\n"
+"...\r\n"
+"...\r\n"
+"Termination Protocol Successfully Activated\r\n"
+""
+msgstr ""

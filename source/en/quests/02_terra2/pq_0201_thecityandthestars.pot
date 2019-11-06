@@ -1,0 +1,238 @@
+#: quests/02_terra2/pq_0201_thecityandthestars:0
+msgctxt "quests/02_terra2/pq_0201_thecityandthestars:0:DefaultText"
+msgid "The City and the Stars"
+msgstr ""
+
+#: quests/02_terra2/pq_0201_thecityandthestars:1
+msgctxt "quests/02_terra2/pq_0201_thecityandthestars:1:DefaultText"
+msgid "Speak to Minister Clarke"
+msgstr ""
+
+#: quests/02_terra2/pq_0201_thecityandthestars:2
+msgctxt "quests/02_terra2/pq_0201_thecityandthestars:2:DefaultText"
+msgid "Retrieve the Dimethyl Sulfoxide"
+msgstr ""
+
+#: quests/02_terra2/pq_0201_thecityandthestars:3
+msgctxt "quests/02_terra2/pq_0201_thecityandthestars:3:DefaultText"
+msgid "Return to Phineas"
+msgstr ""
+
+#: quests/02_terra2/pq_0201_thecityandthestars:5
+msgctxt "quests/02_terra2/pq_0201_thecityandthestars:5:DefaultText"
+msgid "Search the Minister"
+msgstr ""
+
+#: quests/02_terra2/pq_0201_thecityandthestars:6
+msgctxt "quests/02_terra2/pq_0201_thecityandthestars:6:DefaultText"
+msgid "Meet with Phineas' Contact"
+msgstr ""
+
+#: quests/02_terra2/pq_0201_thecityandthestars:7
+msgctxt "quests/02_terra2/pq_0201_thecityandthestars:7:DefaultText"
+msgid "Investigate the Chairman's Office"
+msgstr ""
+
+#: quests/02_terra2/pq_0201_thecityandthestars:8
+msgctxt "quests/02_terra2/pq_0201_thecityandthestars:8:DefaultText"
+msgid "Search the Contact"
+msgstr ""
+
+#: quests/02_terra2/pq_0201_thecityandthestars:10
+msgctxt "quests/02_terra2/pq_0201_thecityandthestars:10:DefaultText"
+msgid "(Optional) Speak to the Minister's Guards"
+msgstr ""
+
+#: quests/02_terra2/pq_0201_thecityandthestars:12
+msgctxt "quests/02_terra2/pq_0201_thecityandthestars:12:DefaultText"
+msgid "Investigate the Chairman's Office"
+msgstr ""
+
+#: quests/02_terra2/pq_0201_thecityandthestars:13
+msgctxt "quests/02_terra2/pq_0201_thecityandthestars:13:DefaultText"
+msgid "Investigate the Minister's Office"
+msgstr ""
+
+#: quests/02_terra2/pq_0201_thecityandthestars:14
+msgctxt "quests/02_terra2/pq_0201_thecityandthestars:14:DefaultText"
+msgid "Investigate the Minister's Office"
+msgstr ""
+
+#: quests/02_terra2/pq_0201_thecityandthestars:15
+msgctxt "quests/02_terra2/pq_0201_thecityandthestars:15:DefaultText"
+msgid "Search Mayfield's Corpse"
+msgstr ""
+
+#: quests/02_terra2/pq_0201_thecityandthestars:16
+msgctxt "quests/02_terra2/pq_0201_thecityandthestars:16:DefaultText"
+msgid "(Optional) Retrieve the Minister's Package from HPS"
+msgstr ""
+
+#: quests/02_terra2/pq_0201_thecityandthestars:10000
+msgctxt "quests/02_terra2/pq_0201_thecityandthestars:10000:DefaultText"
+msgid "Now that Phineas knows Minister Clarke's been hoarding dimethyl sulfoxide in Byzantium, he just needs you to get to the city to steal it. Easy."
+msgstr ""
+
+#: quests/02_terra2/pq_0201_thecityandthestars:10001
+msgctxt "quests/02_terra2/pq_0201_thecityandthestars:10001:DefaultText"
+msgid "Minister Clarke spends almost all of his time at his estate, which is under heavy guard. He may be hard to reach, but he's apparently been hoarding the colony's reserves of dimethyl sulfoxide."
+msgstr ""
+
+#: quests/02_terra2/pq_0201_thecityandthestars:10002
+msgctxt "quests/02_terra2/pq_0201_thecityandthestars:10002:DefaultText"
+msgid "You've learned the dimethyl sulfoxide is at the Ministry of Accuracy and Morale along with whatever Chairman Rockwell is working on."
+msgstr ""
+
+#: quests/02_terra2/pq_0201_thecityandthestars:10003
+msgctxt "quests/02_terra2/pq_0201_thecityandthestars:10003:DefaultText"
+msgid "Now that you have the dimethyl sulfoxide, rendezvous with Phineas at his lab to plan your next move."
+msgstr ""
+
+#: quests/02_terra2/pq_0201_thecityandthestars:10005
+msgctxt "quests/02_terra2/pq_0201_thecityandthestars:10005:DefaultText"
+msgid "You killed Minister Clarke. Hopefully there's something on his person that indicates where Phineas' chemicals are."
+msgstr ""
+
+#: quests/02_terra2/pq_0201_thecityandthestars:10006
+msgctxt "quests/02_terra2/pq_0201_thecityandthestars:10006:DefaultText"
+msgid "Phineas has an associate who can help you locate Minister Clarke. This person works at the Byzantium docks."
+msgstr ""
+
+#: quests/02_terra2/pq_0201_thecityandthestars:10007
+msgctxt "quests/02_terra2/pq_0201_thecityandthestars:10007:DefaultText"
+msgid "Minister Clarke knows nothing about the dimethyl sulfoxide and explained that Chairman Rockwell has actually been keeping him under house arrest.\r\n"
+"\r\n"
+"Clarke is certain Rockwell is behind the purchase of the chemicals."
+msgstr ""
+
+#: quests/02_terra2/pq_0201_thecityandthestars:10008
+msgctxt "quests/02_terra2/pq_0201_thecityandthestars:10008:DefaultText"
+msgid "Phineas' contact is dead, but she may have the information you need to reach Minister Clarke."
+msgstr ""
+
+#: quests/02_terra2/pq_0201_thecityandthestars:10010
+msgctxt "quests/02_terra2/pq_0201_thecityandthestars:10010:DefaultText"
+msgid "Some of Minister Clarke's guards hang out at a local bar. One of them might be able to provide some information regarding Clarke's residence."
+msgstr ""
+
+#: quests/02_terra2/pq_0201_thecityandthestars:10012
+msgctxt "quests/02_terra2/pq_0201_thecityandthestars:10012:DefaultText"
+msgid "You found the minister's office, but it's obvious that no one's worked there for quite some time. \n"
+"\n"
+"In fact, it looks like it's about to become part of the Chairman's office."
+msgstr ""
+
+#: quests/02_terra2/pq_0201_thecityandthestars:10013
+msgctxt "quests/02_terra2/pq_0201_thecityandthestars:10013:DefaultText"
+msgid "You found an access card for the HHC building on the minister's body. Perhaps you'll find additional clues there."
+msgstr ""
+
+#: quests/02_terra2/pq_0201_thecityandthestars:10014
+msgctxt "quests/02_terra2/pq_0201_thecityandthestars:10014:DefaultText"
+msgid "You pickpocketed an access card from the minister that appears to open an office in the HHC building. You could check out that office or try talking to him."
+msgstr ""
+
+#: quests/02_terra2/pq_0201_thecityandthestars:10015
+msgctxt "quests/02_terra2/pq_0201_thecityandthestars:10015:DefaultText"
+msgid "You killed Mayfield, one of the guards who works at the minister's residence. Still, he may have something to help you get inside."
+msgstr ""
+
+#: quests/02_terra2/pq_0201_thecityandthestars:10016
+msgctxt "quests/02_terra2/pq_0201_thecityandthestars:10016:DefaultText"
+msgid "You've learned that the minister sometimes receives packages from HPS. If you showed up at his residence with a package for him, the guards might just let you in."
+msgstr ""
+
+#: quests/02_terra2/pq_0201_thecityandthestars:20000
+msgctxt "quests/02_terra2/pq_0201_thecityandthestars:20000:DefaultText"
+msgid "There's a security checkpoint heading into the Acropolis District. If you can't talk your way past it, you'll have to find another way in."
+msgstr ""
+
+#: quests/02_terra2/pq_0201_thecityandthestars:20001
+msgctxt "quests/02_terra2/pq_0201_thecityandthestars:20001:DefaultText"
+msgid "The maintenance tunnels beneath Byzantium connect to the Acropolis District."
+msgstr ""
+
+#: quests/02_terra2/pq_0201_thecityandthestars:20003
+msgctxt "quests/02_terra2/pq_0201_thecityandthestars:20003:DefaultText"
+msgid "You reached Minister Clarke without the guard's assistance."
+msgstr ""
+
+#: quests/02_terra2/pq_0201_thecityandthestars:20004
+msgctxt "quests/02_terra2/pq_0201_thecityandthestars:20004:DefaultText"
+msgid "You acquired a keycard to Minister Clarke's residence from Mayfield."
+msgstr ""
+
+#: quests/02_terra2/pq_0201_thecityandthestars:20005
+msgctxt "quests/02_terra2/pq_0201_thecityandthestars:20005:DefaultText"
+msgid "You found an access card on the minister's body."
+msgstr ""
+
+#: quests/02_terra2/pq_0201_thecityandthestars:20007
+msgctxt "quests/02_terra2/pq_0201_thecityandthestars:20007:DefaultText"
+msgid "There are some shipments at the dock awaiting transport to the Ministry. Maybe Carmen could help you sneak aboard."
+msgstr ""
+
+#: quests/02_terra2/pq_0201_thecityandthestars:20008
+msgctxt "quests/02_terra2/pq_0201_thecityandthestars:20008:DefaultText"
+msgid "You took a lesser quantity of dimethyl sulfoxide. As a result, the experimental test subjects are alive, and the Board's research will continue unhindered."
+msgstr ""
+
+#: quests/02_terra2/pq_0201_thecityandthestars:20009
+msgctxt "quests/02_terra2/pq_0201_thecityandthestars:20009:DefaultText"
+msgid "You took all of the dimethyl sulfoxide, killing the experimental test subjects and hindering the Board's research."
+msgstr ""
+
+#: quests/02_terra2/pq_0201_thecityandthestars:20010
+msgctxt "quests/02_terra2/pq_0201_thecityandthestars:20010:DefaultText"
+msgid "Caroline, a scientist at the Ministry of Accuracy and Morale, has an ongoing feud with Theodore, one of her coworkers."
+msgstr ""
+
+#: quests/02_terra2/pq_0201_thecityandthestars:20011
+msgctxt "quests/02_terra2/pq_0201_thecityandthestars:20011:DefaultText"
+msgid "Mayfield, one of Minister Clarke's guards, has a key to the estate. He's aggressively celebrating his promotion with Spectrum Vodka."
+msgstr ""
+
+#: quests/02_terra2/pq_0201_thecityandthestars:20012
+msgctxt "quests/02_terra2/pq_0201_thecityandthestars:20012:DefaultText"
+msgid "You gave Mayfield a Spectrum Vodka, and he's acting pretty tipsy. A couple more and you could probably get him very drunk."
+msgstr ""
+
+#: quests/02_terra2/pq_0201_thecityandthestars:20013
+msgctxt "quests/02_terra2/pq_0201_thecityandthestars:20013:DefaultText"
+msgid "One more Spectrum Vodka ought to do Mayfield in."
+msgstr ""
+
+#: quests/02_terra2/pq_0201_thecityandthestars:20014
+msgctxt "quests/02_terra2/pq_0201_thecityandthestars:20014:DefaultText"
+msgid "Mayfield's heading to the bathroom. This is your chance to grab his key."
+msgstr ""
+
+#: quests/02_terra2/pq_0201_thecityandthestars:20016
+msgctxt "quests/02_terra2/pq_0201_thecityandthestars:20016:DefaultText"
+msgid "You convinced one of the clerks to hand over the minister's package."
+msgstr ""
+
+#: quests/02_terra2/pq_0201_thecityandthestars:20017
+msgctxt "quests/02_terra2/pq_0201_thecityandthestars:20017:DefaultText"
+msgid "You snuck into the mail room of HPS and stole the minister's package."
+msgstr ""
+
+#: quests/02_terra2/pq_0201_thecityandthestars:20018
+msgctxt "quests/02_terra2/pq_0201_thecityandthestars:20018:DefaultText"
+msgid "You killed the main clerk at HPS. You'll have to get the package another way."
+msgstr ""
+
+#: quests/02_terra2/pq_0201_thecityandthestars:20019
+msgctxt "quests/02_terra2/pq_0201_thecityandthestars:20019:DefaultText"
+msgid "You found an empty canister. There should be a way to transfer the dimethyl sulfoxide into it."
+msgstr ""
+
+#: quests/02_terra2/pq_0201_thecityandthestars:30000
+msgctxt "quests/02_terra2/pq_0201_thecityandthestars:30000:DefaultText"
+msgid "You successfully brought the dimethyl sulfoxide back to Phineas."
+msgstr ""
+
+#: quests/02_terra2/pq_0201_thecityandthestars:30001
+msgctxt "quests/02_terra2/pq_0201_thecityandthestars:30001:DefaultText"
+msgid "You skipped the Hope to Tartarus for the Board, throwing Phineas' plans into disarray."
+msgstr ""

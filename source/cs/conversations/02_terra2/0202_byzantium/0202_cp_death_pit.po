@@ -1,0 +1,48 @@
+#: conversations/02_terra2/0202_byzantium/0202_cp_death_pit:1
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cp_death_pit:1:DefaultText"
+msgid "Automech Status: ACTIVE\r\n"
+"Maintenance Exit Status: UNSEALED\r\n"
+"==========================="
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cp_death_pit:2
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cp_death_pit:2:DefaultText"
+msgid "Automech Status: ACTIVE\r\n"
+"Maintenance Exit Status: SEALED\r\n"
+"===========================\r\n"
+"\r\n"
+"NOTE: Due to the nature of their assignment, automechanicals in the HHC Early Retirement Center were not constructed with a standard Maintenance Mode or IFF transmitter responder. \r\n"
+"\r\n"
+"You'll be pleased to know that this saved 200 bits per unit, but please note that any injuries sustained during routine repairs will come out of your paycheck.\r\n"
+"\r\n"
+"Thanks for being part of the UDL team!"
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cp_death_pit:3
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cp_death_pit:3:DefaultText"
+msgid "[Unseal Hatch]"
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cp_death_pit:4
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cp_death_pit:4:DefaultText"
+msgid "[Exit]"
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cp_death_pit:5
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cp_death_pit:5:DefaultText"
+msgid "[Disable Automechs]"
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cp_death_pit:6
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cp_death_pit:6:DefaultText"
+msgid "Automech Status: DISABLED\r\n"
+"Maintenance Exit Status: SEALED\r\n"
+"==========================="
+msgstr ""
+
+#: conversations/02_terra2/0202_byzantium/0202_cp_death_pit:7
+msgctxt "conversations/02_terra2/0202_byzantium/0202_cp_death_pit:7:DefaultText"
+msgid "Automech Status: DISABLED\r\n"
+"Maintenance Exit Status: UNSEALED\r\n"
+"==========================="
+msgstr ""

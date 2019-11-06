@@ -1,0 +1,59 @@
+#: quests/companions/cq_sam_recruitment:0
+msgctxt "quests/companions/cq_sam_recruitment:0:DefaultText"
+msgid "The Cleaning Machine"
+msgstr ""
+
+#: quests/companions/cq_sam_recruitment:1
+msgctxt "quests/companions/cq_sam_recruitment:1:DefaultText"
+msgid "Install the Acid Steeper"
+msgstr ""
+
+#: quests/companions/cq_sam_recruitment:3
+msgctxt "quests/companions/cq_sam_recruitment:3:DefaultText"
+msgid "Ask ADA about the SAM Unit"
+msgstr ""
+
+#: quests/companions/cq_sam_recruitment:4
+msgctxt "quests/companions/cq_sam_recruitment:4:DefaultText"
+msgid "Find an Acid Steeper"
+msgstr ""
+
+#: quests/companions/cq_sam_recruitment:5
+msgctxt "quests/companions/cq_sam_recruitment:5:DefaultText"
+msgid "Search Hawthorne's Terminal"
+msgstr ""
+
+#: quests/companions/cq_sam_recruitment:10000
+msgctxt "quests/companions/cq_sam_recruitment:10000:DefaultText"
+msgid "You found a non-operational sanitation and maintenance automechanical on the Unreliable. If you can get it running again, it may prove useful."
+msgstr ""
+
+#: quests/companions/cq_sam_recruitment:10001
+msgctxt "quests/companions/cq_sam_recruitment:10001:DefaultText"
+msgid "Now that you have the Acid Steeper part needed to modify SAM, all that remains is to return to the Unreliable and swap it out with the factory default S.U.D.S. Steeper."
+msgstr ""
+
+#: quests/companions/cq_sam_recruitment:10003
+msgctxt "quests/companions/cq_sam_recruitment:10003:DefaultText"
+msgid "You found a defunct sanitation and maintenance automechanical in the supply closet upstairs on the Unreliable. A cursory search of the unit revealed the name, SAM, but little else. ADA may know more."
+msgstr ""
+
+#: quests/companions/cq_sam_recruitment:10004
+msgctxt "quests/companions/cq_sam_recruitment:10004:DefaultText"
+msgid "You found entries on Hawthorne's terminal in the Captain's Quarters regarding his attempts to turn SAM into a combat-capable unit. Hawthorne planned to replace SAM's S.U.D.S. Steeper with an Acid Steeper but never picked up the part from Roseway."
+msgstr ""
+
+#: quests/companions/cq_sam_recruitment:10005
+msgctxt "quests/companions/cq_sam_recruitment:10005:DefaultText"
+msgid "ADA suggested that the ship's former captain, Alex Hawthorne, may have kept information about his attempts to modify or repair SAM on the terminal in the Captain's Quarters."
+msgstr ""
+
+#: quests/companions/cq_sam_recruitment:30000
+msgctxt "quests/companions/cq_sam_recruitment:30000:DefaultText"
+msgid "You installed the Acid Steeper part SAM required for modification, in order to revive the unit with added combat capabilities."
+msgstr ""
+
+#: quests/companions/cq_sam_recruitment:30001
+msgctxt "quests/companions/cq_sam_recruitment:30001:DefaultText"
+msgid "SAM has been destroyed."
+msgstr ""

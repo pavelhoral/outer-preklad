@@ -1,0 +1,34 @@
+#: conversations/04_monarch/0402/0402_bs_agnes_needham:5
+msgctxt "conversations/04_monarch/0402/0402_bs_agnes_needham:5:DefaultText"
+msgid "Please, will someone help me? My boy's in trouble!"
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_bs_agnes_needham:6
+msgctxt "conversations/04_monarch/0402/0402_bs_agnes_needham:6:DefaultText"
+msgid "Sir, please, I need your help! I can pay!"
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_bs_agnes_needham:6
+msgctxt "conversations/04_monarch/0402/0402_bs_agnes_needham:6:FemaleText"
+msgid "Ma'am, please, I need your help! I can pay!"
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_bs_agnes_needham:7
+msgctxt "conversations/04_monarch/0402/0402_bs_agnes_needham:7:DefaultText"
+msgid "Please, my boy doesn't know the danger he's in! Won't you help me?"
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_bs_agnes_needham:8
+msgctxt "conversations/04_monarch/0402/0402_bs_agnes_needham:8:DefaultText"
+msgid "Tucker could still be alive! Please, help me. I swear you'll be well-rewarded!"
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_bs_agnes_needham:9
+msgctxt "conversations/04_monarch/0402/0402_bs_agnes_needham:9:DefaultText"
+msgid "Do you have any word on my boy?"
+msgstr ""
+
+#: conversations/04_monarch/0402/0402_bs_agnes_needham:10
+msgctxt "conversations/04_monarch/0402/0402_bs_agnes_needham:10:DefaultText"
+msgid "Have you found Tucker? Please, I need him home safe!"
+msgstr ""

@@ -1,0 +1,194 @@
+#: conversations/04_monarch/0411/0411_cv_control_room_intercom:1
+msgctxt "conversations/04_monarch/0411/0411_cv_control_room_intercom:1:DefaultText"
+msgid "[The intercom turns on with a click-click noise preceding a beep. It appears to transmit over the factory's radio system.]"
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cv_control_room_intercom:2
+msgctxt "conversations/04_monarch/0411/0411_cv_control_room_intercom:2:DefaultText"
+msgid "Attention, everyone. I have an important announcement."
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cv_control_room_intercom:5
+msgctxt "conversations/04_monarch/0411/0411_cv_control_room_intercom:5:DefaultText"
+msgid "Hello, hello? Is this thing on?"
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cv_control_room_intercom:6
+msgctxt "conversations/04_monarch/0411/0411_cv_control_room_intercom:6:DefaultText"
+msgid "[Exit]"
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cv_control_room_intercom:7
+msgctxt "conversations/04_monarch/0411/0411_cv_control_room_intercom:7:DefaultText"
+msgid "What the in the void? Who is this?"
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cv_control_room_intercom:8
+msgctxt "conversations/04_monarch/0411/0411_cv_control_room_intercom:8:DefaultText"
+msgid "Oh, uh, I'm <oeitoken>PlayerName</oeitoken>."
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cv_control_room_intercom:9
+msgctxt "conversations/04_monarch/0411/0411_cv_control_room_intercom:9:DefaultText"
+msgid "Did I say \"<oeitoken>PlayerName</oeitoken>?\" I meant \"the King.\""
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cv_control_room_intercom:10
+msgctxt "conversations/04_monarch/0411/0411_cv_control_room_intercom:10:DefaultText"
+msgid "Wow, you're awful snippy for a phonograph. "
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cv_control_room_intercom:11
+msgctxt "conversations/04_monarch/0411/0411_cv_control_room_intercom:11:DefaultText"
+msgid "I'm not a machine, you hull-head, I'm talking to you through the radio!"
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cv_control_room_intercom:12
+msgctxt "conversations/04_monarch/0411/0411_cv_control_room_intercom:12:DefaultText"
+msgid "Oh my stars, you're inside this thing? You must be tiny!"
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cv_control_room_intercom:13
+msgctxt "conversations/04_monarch/0411/0411_cv_control_room_intercom:13:DefaultText"
+msgid "Nice try, automech. You ain't fooling me."
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cv_control_room_intercom:14
+msgctxt "conversations/04_monarch/0411/0411_cv_control_room_intercom:14:DefaultText"
+msgid "Space it all, do you want to get canned?! Or are you simply trying to get ME canned? Never mind. You ain't the King so that means get off the line!"
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cv_control_room_intercom:15
+msgctxt "conversations/04_monarch/0411/0411_cv_control_room_intercom:15:DefaultText"
+msgid "<Sing a tune.>"
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cv_control_room_intercom:16
+msgctxt "conversations/04_monarch/0411/0411_cv_control_room_intercom:16:DefaultText"
+msgid "Mercy! Mercy - make it stop, please. You sound like a dying raptidon."
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cv_control_room_intercom:17
+msgctxt "conversations/04_monarch/0411/0411_cv_control_room_intercom:17:DefaultText"
+msgid "Oh, for the love of boarst. "
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cv_control_room_intercom:18
+msgctxt "conversations/04_monarch/0411/0411_cv_control_room_intercom:18:DefaultText"
+msgid "Har-dee-har-har. Had me going for a nanosecond there. Did Saul put you up to this? If so, you can tell him it ain't gonna stop me from stealing his lunches."
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cv_control_room_intercom:19
+msgctxt "conversations/04_monarch/0411/0411_cv_control_room_intercom:19:DefaultText"
+msgid "Gerty, you on shift near the control room? Please issue this nutter a pink slip before we each earn an infraction! "
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cv_control_room_intercom:20
+msgctxt "conversations/04_monarch/0411/0411_cv_control_room_intercom:20:DefaultText"
+msgid "Who?"
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cv_control_room_intercom:21
+msgctxt "conversations/04_monarch/0411/0411_cv_control_room_intercom:21:DefaultText"
+msgid "Don't get your knickers in a twist."
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cv_control_room_intercom:22
+msgctxt "conversations/04_monarch/0411/0411_cv_control_room_intercom:22:DefaultText"
+msgid "Uh huh, and I'm the Boarst King of Monarch, too. Think I don't know the sound of his voice, you crazy rungleech?"
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cv_control_room_intercom:23
+msgctxt "conversations/04_monarch/0411/0411_cv_control_room_intercom:23:DefaultText"
+msgid "Oh, for the love of boarst. "
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cv_control_room_intercom:24
+msgctxt "conversations/04_monarch/0411/0411_cv_control_room_intercom:24:DefaultText"
+msgid "If you don't get off this line, I'll open the door all right - and pummel your face into ground boarst."
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cv_control_room_intercom:25
+msgctxt "conversations/04_monarch/0411/0411_cv_control_room_intercom:25:DefaultText"
+msgid "Huh? What's going on?"
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cv_control_room_intercom:26
+msgctxt "conversations/04_monarch/0411/0411_cv_control_room_intercom:26:DefaultText"
+msgid "There's a grease leak in the factory. Evacuate immediately or risk gross greasification."
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cv_control_room_intercom:28
+msgctxt "conversations/04_monarch/0411/0411_cv_control_room_intercom:28:DefaultText"
+msgid "The King would like to invite you for dinner."
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cv_control_room_intercom:30
+msgctxt "conversations/04_monarch/0411/0411_cv_control_room_intercom:30:DefaultText"
+msgid "Never mind. Carry on."
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cv_control_room_intercom:31
+msgctxt "conversations/04_monarch/0411/0411_cv_control_room_intercom:31:DefaultText"
+msgid "[Per your suggestion, the guards have abandoned this frequency. Only static plays.]"
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cv_control_room_intercom:32
+msgctxt "conversations/04_monarch/0411/0411_cv_control_room_intercom:32:DefaultText"
+msgid "[The guards have locked this intercom out of the system. It won't respond.]"
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cv_control_room_intercom:33
+msgctxt "conversations/04_monarch/0411/0411_cv_control_room_intercom:33:DefaultText"
+msgid "Greasification, huh? Well, now that sounds pretty bad. Almost as bad as what the sentries are gonna do to you if you don't get out of that control room before they get there. Security!"
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cv_control_room_intercom:35
+msgctxt "conversations/04_monarch/0411/0411_cv_control_room_intercom:35:DefaultText"
+msgid "Like I don't know what that means. Not only no, but void no. I quit. And he can keep my final paycheck."
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cv_control_room_intercom:37
+msgctxt "conversations/04_monarch/0411/0411_cv_control_room_intercom:37:DefaultText"
+msgid "Thought you might want to know, SubLight is coming to kill you all."
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cv_control_room_intercom:38
+msgctxt "conversations/04_monarch/0411/0411_cv_control_room_intercom:38:DefaultText"
+msgid "Space that! Clive don't pay me enough to die over some dumb swine. I'm out of here."
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cv_control_room_intercom:41
+msgctxt "conversations/04_monarch/0411/0411_cv_control_room_intercom:41:DefaultText"
+msgid "[In accordance with Pink Slip Protocol, all radios are locked down. Static filters across the line.]"
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cv_control_room_intercom:42
+msgctxt "conversations/04_monarch/0411/0411_cv_control_room_intercom:42:DefaultText"
+msgid "[The intercom is offline. You hear only static.]"
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cv_control_room_intercom:43
+msgctxt "conversations/04_monarch/0411/0411_cv_control_room_intercom:43:DefaultText"
+msgid "[A jolt of electricity numbs your arm.]"
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cv_control_room_intercom:44
+msgctxt "conversations/04_monarch/0411/0411_cv_control_room_intercom:44:DefaultText"
+msgid "<Punch the comm box.>"
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cv_control_room_intercom:45
+msgctxt "conversations/04_monarch/0411/0411_cv_control_room_intercom:45:DefaultText"
+msgid "What in the nebula was that? No, wait. My original demand stands. Who is on the void-damned line?!"
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cv_control_room_intercom:47
+msgctxt "conversations/04_monarch/0411/0411_cv_control_room_intercom:47:DefaultText"
+msgid "Well, that was surprisingly lovely. Got the voice of a siren, you do. That really brightened my day. Thank you. Still gonna need you to shut up though."
+msgstr ""
+
+#: conversations/04_monarch/0411/0411_cv_control_room_intercom:48
+msgctxt "conversations/04_monarch/0411/0411_cv_control_room_intercom:48:DefaultText"
+msgid "I was kidding. The King would like to invite you for dinner."
+msgstr ""

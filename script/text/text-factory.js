@@ -2,6 +2,10 @@
 
 class MessageFactory {
 
+    constructor(auto) {
+        this.auto = auto;
+    }
+
     create(tables) {
         return tables.StringTables.Entries.reduce((result, { Value: table }) => {
             result[table.Name] = this.createMessages(table, table.Entries.Entries);
@@ -28,7 +32,7 @@ class MessageFactory {
             },
             msgctxt: `${table.Name}:${string.ID}:${type}`,
             msgid: string[type],
-            msgstr: ""
+            msgstr: this.auto ? string[type] : ""
         };
     }
 

@@ -1,0 +1,84 @@
+#: quests/02_terra2/pq_0205_longdistance:0
+msgctxt "quests/02_terra2/pq_0205_longdistance:0:DefaultText"
+msgid "Long Distance"
+msgstr ""
+
+#: quests/02_terra2/pq_0205_longdistance:1
+msgctxt "quests/02_terra2/pq_0205_longdistance:1:DefaultText"
+msgid "Send the Tracking Signal"
+msgstr ""
+
+#: quests/02_terra2/pq_0205_longdistance:2
+msgctxt "quests/02_terra2/pq_0205_longdistance:2:DefaultText"
+msgid "Return to ADA"
+msgstr ""
+
+#: quests/02_terra2/pq_0205_longdistance:3
+msgctxt "quests/02_terra2/pq_0205_longdistance:3:DefaultText"
+msgid "Speak to Sophia"
+msgstr ""
+
+#: quests/02_terra2/pq_0205_longdistance:5
+msgctxt "quests/02_terra2/pq_0205_longdistance:5:DefaultText"
+msgid "Speak to Percival"
+msgstr ""
+
+#: quests/02_terra2/pq_0205_longdistance:10000
+msgctxt "quests/02_terra2/pq_0205_longdistance:10000:DefaultText"
+msgid "Adjutant Sophia Akande has asked you to help her track down Phineas Welles. Head to Welles's lab and send the Board a tracking signal from his terminal."
+msgstr ""
+
+#: quests/02_terra2/pq_0205_longdistance:10001
+msgctxt "quests/02_terra2/pq_0205_longdistance:10001:DefaultText"
+msgid "Find Welles' communication terminal and send a tracking signal to Sophia Akande."
+msgstr ""
+
+#: quests/02_terra2/pq_0205_longdistance:10002
+msgctxt "quests/02_terra2/pq_0205_longdistance:10002:DefaultText"
+msgid "Sophia said she'd contact you as soon as her office picks up Welles' location. Head back to your ship and see if Sophia has a message for you."
+msgstr ""
+
+#: quests/02_terra2/pq_0205_longdistance:10003
+msgctxt "quests/02_terra2/pq_0205_longdistance:10003:DefaultText"
+msgid "Sophia was pleased with your results and requested that you come see her in Byzantium."
+msgstr ""
+
+#: quests/02_terra2/pq_0205_longdistance:10005
+msgctxt "quests/02_terra2/pq_0205_longdistance:10005:DefaultText"
+msgid "Sophia is pleased with your work. Check in with Percival for your reward."
+msgstr ""
+
+#: quests/02_terra2/pq_0205_longdistance:20000
+msgctxt "quests/02_terra2/pq_0205_longdistance:20000:DefaultText"
+msgid "Phineas mentioned you could send a corrupted tracking signal to buy him some time."
+msgstr ""
+
+#: quests/02_terra2/pq_0205_longdistance:30000
+msgctxt "quests/02_terra2/pq_0205_longdistance:30000:DefaultText"
+msgid "You sent out a tracking signal from Welles's communications terminal. Sophia should be able to locate Welles's hideout."
+msgstr ""
+
+#: quests/02_terra2/pq_0205_longdistance:30001
+msgctxt "quests/02_terra2/pq_0205_longdistance:30001:DefaultText"
+msgid "You sent out a corrupted tracking signal from Welles's location. The signal should delay Sophia's attempts to discover his hideout, while allowing you to gain her trust."
+msgstr ""
+
+#: quests/02_terra2/pq_0205_longdistance:30002
+msgctxt "quests/02_terra2/pq_0205_longdistance:30002:DefaultText"
+msgid "You murdered Percival Platt. The Adjutant wants nothing to do with you."
+msgstr ""
+
+#: quests/02_terra2/pq_0205_longdistance:30003
+msgctxt "quests/02_terra2/pq_0205_longdistance:30003:DefaultText"
+msgid "Sophia Akande is dead, along with your career as a Board operative."
+msgstr ""
+
+#: quests/02_terra2/pq_0205_longdistance:30004
+msgctxt "quests/02_terra2/pq_0205_longdistance:30004:DefaultText"
+msgid "You skipped the Hope to Terra 2 for Phineas, spoiling the Adjutant's plans."
+msgstr ""
+
+#: quests/02_terra2/pq_0205_longdistance:30005
+msgctxt "quests/02_terra2/pq_0205_longdistance:30005:DefaultText"
+msgid "You've ruined your reputation with the Board. Adjutant Akande will no longer work with you."
+msgstr ""

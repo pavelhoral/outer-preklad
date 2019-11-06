@@ -1,0 +1,100 @@
+#: conversations/10_scylla/1002_ice_palace/1002_cp_security_labcheckpoint:4
+msgctxt "conversations/10_scylla/1002_ice_palace/1002_cp_security_labcheckpoint:4:DefaultText"
+msgid "Lab 1084: High-Security Containment\r\n"
+"Checkpoint Beta\r\n"
+"==========================\r\n"
+"\r\n"
+"Main menu"
+msgstr ""
+
+#: conversations/10_scylla/1002_ice_palace/1002_cp_security_labcheckpoint:5
+msgctxt "conversations/10_scylla/1002_ice_palace/1002_cp_security_labcheckpoint:5:DefaultText"
+msgid "[Security Routines]"
+msgstr ""
+
+#: conversations/10_scylla/1002_ice_palace/1002_cp_security_labcheckpoint:6
+msgctxt "conversations/10_scylla/1002_ice_palace/1002_cp_security_labcheckpoint:6:DefaultText"
+msgid "[Personal Files]"
+msgstr ""
+
+#: conversations/10_scylla/1002_ice_palace/1002_cp_security_labcheckpoint:7
+msgctxt "conversations/10_scylla/1002_ice_palace/1002_cp_security_labcheckpoint:7:DefaultText"
+msgid "[Exit]"
+msgstr ""
+
+#: conversations/10_scylla/1002_ice_palace/1002_cp_security_labcheckpoint:8
+msgctxt "conversations/10_scylla/1002_ice_palace/1002_cp_security_labcheckpoint:8:DefaultText"
+msgid "Lab 1084: High-Security Containment\r\n"
+"Checkpoint Beta\r\n"
+"==========================\r\n"
+"\r\n"
+"The UDL Electro-floor 3000 is: Online."
+msgstr ""
+
+#: conversations/10_scylla/1002_ice_palace/1002_cp_security_labcheckpoint:9
+msgctxt "conversations/10_scylla/1002_ice_palace/1002_cp_security_labcheckpoint:9:DefaultText"
+msgid "Lab 1084: High-Security Containment\r\n"
+"Checkpoint Beta\r\n"
+"==========================\r\n"
+"\r\n"
+"Kimball came by asking if any of the docs had been around. I told her what I know - it's been quiet, just ask Alpha. She walked off with a spring in her step. Okay, weird. \r\n"
+"\r\n"
+"Then she requisitioned a UDL Electro-floor 3000 for my checkpoint. And a crate of concussion mines. Guess she didn't believe me. Is she preparing for war? \r\n"
+"\r\n"
+"She's acting like she knows something the rest of us don't. Seems especially uncomfortable around the docs."
+msgstr ""
+
+#: conversations/10_scylla/1002_ice_palace/1002_cp_security_labcheckpoint:10
+msgctxt "conversations/10_scylla/1002_ice_palace/1002_cp_security_labcheckpoint:10:DefaultText"
+msgid "[Engage Checkpoint Security]"
+msgstr ""
+
+#: conversations/10_scylla/1002_ice_palace/1002_cp_security_labcheckpoint:11
+msgctxt "conversations/10_scylla/1002_ice_palace/1002_cp_security_labcheckpoint:11:DefaultText"
+msgid "[Return to Root]"
+msgstr ""
+
+#: conversations/10_scylla/1002_ice_palace/1002_cp_security_labcheckpoint:14
+msgctxt "conversations/10_scylla/1002_ice_palace/1002_cp_security_labcheckpoint:14:DefaultText"
+msgid "[Disengage Checkpoint Security]"
+msgstr ""
+
+#: conversations/10_scylla/1002_ice_palace/1002_cp_security_labcheckpoint:18
+msgctxt "conversations/10_scylla/1002_ice_palace/1002_cp_security_labcheckpoint:18:DefaultText"
+msgid "[Engage Checkpoint Security]"
+msgstr ""
+
+#: conversations/10_scylla/1002_ice_palace/1002_cp_security_labcheckpoint:19
+msgctxt "conversations/10_scylla/1002_ice_palace/1002_cp_security_labcheckpoint:19:DefaultText"
+msgid "Lab 1084: High-Security Containment\r\n"
+"Checkpoint Beta\r\n"
+"==========================\r\n"
+"\r\n"
+"Personal files"
+msgstr ""
+
+#: conversations/10_scylla/1002_ice_palace/1002_cp_security_labcheckpoint:20
+msgctxt "conversations/10_scylla/1002_ice_palace/1002_cp_security_labcheckpoint:20:DefaultText"
+msgid "[Log: Mama bear]"
+msgstr ""
+
+#: conversations/10_scylla/1002_ice_palace/1002_cp_security_labcheckpoint:21
+msgctxt "conversations/10_scylla/1002_ice_palace/1002_cp_security_labcheckpoint:21:DefaultText"
+msgid "Lab 1084: High-Security Containment\r\n"
+"Checkpoint Beta\r\n"
+"==========================\r\n"
+"\r\n"
+"The UDL Electro-floor 3000 is: Offline."
+msgstr ""
+
+#: conversations/10_scylla/1002_ice_palace/1002_cp_security_labcheckpoint:22
+msgctxt "conversations/10_scylla/1002_ice_palace/1002_cp_security_labcheckpoint:22:DefaultText"
+msgid "Lab 1084: High-Security Containment\r\n"
+"Checkpoint Beta\r\n"
+"==========================\r\n"
+"\r\n"
+"ERROR: Unable to access memory cartridge.\r\n"
+"ERROR: Terminal power below 5%. Terminal in maintenance mode.\r\n"
+"\r\n"
+"Restore power supply to station to resume normal terminal operations."
+msgstr ""

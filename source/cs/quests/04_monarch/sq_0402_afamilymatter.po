@@ -1,0 +1,154 @@
+#: quests/04_monarch/sq_0402_afamilymatter:0
+msgctxt "quests/04_monarch/sq_0402_afamilymatter:0:DefaultText"
+msgid "A Family Matter"
+msgstr ""
+
+#: quests/04_monarch/sq_0402_afamilymatter:1
+msgctxt "quests/04_monarch/sq_0402_afamilymatter:1:DefaultText"
+msgid "Look for Tucker Needham in Amber Heights"
+msgstr ""
+
+#: quests/04_monarch/sq_0402_afamilymatter:2
+msgctxt "quests/04_monarch/sq_0402_afamilymatter:2:DefaultText"
+msgid "Convince Tucker to Return Home"
+msgstr ""
+
+#: quests/04_monarch/sq_0402_afamilymatter:3
+msgctxt "quests/04_monarch/sq_0402_afamilymatter:3:DefaultText"
+msgid "Return to Agnes Needham in Stellar Bay"
+msgstr ""
+
+#: quests/04_monarch/sq_0402_afamilymatter:6
+msgctxt "quests/04_monarch/sq_0402_afamilymatter:6:DefaultText"
+msgid "Hand Tucker's Ring to Agnes in Stellar Bay"
+msgstr ""
+
+#: quests/04_monarch/sq_0402_afamilymatter:8
+msgctxt "quests/04_monarch/sq_0402_afamilymatter:8:DefaultText"
+msgid "Obtain Proof of Tucker's Death"
+msgstr ""
+
+#: quests/04_monarch/sq_0402_afamilymatter:10000
+msgctxt "quests/04_monarch/sq_0402_afamilymatter:10000:DefaultText"
+msgid "Tucker Needham ran away from Stellar Bay a few weeks ago to join the Iconoclasts in Amber Heights. His mother Agnes is willing to pay handsomely if you can locate her son and convince him to return."
+msgstr ""
+
+#: quests/04_monarch/sq_0402_afamilymatter:10001
+msgctxt "quests/04_monarch/sq_0402_afamilymatter:10001:DefaultText"
+msgid "Amber Heights is the settlement that houses the Iconoclasts on Monarch. If Tucker Needham survived his travels, his mother thinks he'll be there."
+msgstr ""
+
+#: quests/04_monarch/sq_0402_afamilymatter:10002
+msgctxt "quests/04_monarch/sq_0402_afamilymatter:10002:DefaultText"
+msgid "Now that you've found Tucker Needham in Amber Heights, convince him to return home to his mother in Stellar Bay."
+msgstr ""
+
+#: quests/04_monarch/sq_0402_afamilymatter:10003
+msgctxt "quests/04_monarch/sq_0402_afamilymatter:10003:DefaultText"
+msgid "You convinced Tucker Needham to return home to Stellar Bay. Agnes promised a reward for bringing her son back."
+msgstr ""
+
+#: quests/04_monarch/sq_0402_afamilymatter:10006
+msgctxt "quests/04_monarch/sq_0402_afamilymatter:10006:DefaultText"
+msgid "Tucker has asked you to tell Agnes that he died on his way to Amber Heights. Give Tucker's ring to Agnes as proof of his death."
+msgstr ""
+
+#: quests/04_monarch/sq_0402_afamilymatter:10008
+msgctxt "quests/04_monarch/sq_0402_afamilymatter:10008:DefaultText"
+msgid "Unwilling to return to Stellar Bay, Tucker attacked you. Now that he's dead, search his body for a memento that you can give to his mother."
+msgstr ""
+
+#: quests/04_monarch/sq_0402_afamilymatter:20000
+msgctxt "quests/04_monarch/sq_0402_afamilymatter:20000:DefaultText"
+msgid "You persuaded Tucker to return to Stellar Bay and confront his mother. He decided that he would stand up for himself as a grown man."
+msgstr ""
+
+#: quests/04_monarch/sq_0402_afamilymatter:20001
+msgctxt "quests/04_monarch/sq_0402_afamilymatter:20001:DefaultText"
+msgid "You threatened to hurt Agnes for her money unless Tucker returned to Stellar Bay."
+msgstr ""
+
+#: quests/04_monarch/sq_0402_afamilymatter:20002
+msgctxt "quests/04_monarch/sq_0402_afamilymatter:20002:DefaultText"
+msgid "You agreed to tell Agnes that Tucker died. He gave you his father's ring as proof of his death."
+msgstr ""
+
+#: quests/04_monarch/sq_0402_afamilymatter:30000
+msgctxt "quests/04_monarch/sq_0402_afamilymatter:30000:DefaultText"
+msgid "With Agnes Needham dead, no one is left alive to care about Tucker joining the Iconoclasts."
+msgstr ""
+
+#: quests/04_monarch/sq_0402_afamilymatter:30001
+msgctxt "quests/04_monarch/sq_0402_afamilymatter:30001:DefaultText"
+msgid "Tucker returned to Stellar Bay after you threatened to harm Agnes. His mother was very generous, now that her son is home safe again."
+msgstr ""
+
+#: quests/04_monarch/sq_0402_afamilymatter:30002
+msgctxt "quests/04_monarch/sq_0402_afamilymatter:30002:DefaultText"
+msgid "You convinced Tucker to return and confront his mother about treating him like an adult and letting him live his own life. Agnes was unhappy that her son wasn't staying, but grudgingly rewarded you for convincing him to return."
+msgstr ""
+
+#: quests/04_monarch/sq_0402_afamilymatter:30003
+msgctxt "quests/04_monarch/sq_0402_afamilymatter:30003:DefaultText"
+msgid "Tucker Needham refused to return to Stellar Bay and attacked you when you tried to force him to go. You were forced to kill him to defend yourself. You managed to lie to Agnes about her son's death and still obtain a reward."
+msgstr ""
+
+#: quests/04_monarch/sq_0402_afamilymatter:30004
+msgctxt "quests/04_monarch/sq_0402_afamilymatter:30004:DefaultText"
+msgid "Tucker was so desperate to stay away from his mother that he convinced you to tell Agnes he was dead. He gave you a family ring to use as proof of his death. Agnes was heartbroken when you told her the lie."
+msgstr ""
+
+#: quests/04_monarch/sq_0402_afamilymatter:30005
+msgctxt "quests/04_monarch/sq_0402_afamilymatter:30005:DefaultText"
+msgid "Tucker was so desperate to stay away from his mother that he asked you to tell Agnes he was dead. He gave you a family ring to use as proof of his death. You decided to tell Agnes the truth as an example of how much her son wanted to be away from her. She was heartbroken, but agreed there was nothing more she could do."
+msgstr ""
+
+#: quests/04_monarch/sq_0402_afamilymatter:30006
+msgctxt "quests/04_monarch/sq_0402_afamilymatter:30006:DefaultText"
+msgid "Tucker Needham died at Amber Heights. You informed Agnes of her son's death."
+msgstr ""
+
+#: quests/04_monarch/sq_0402_afamilymatter:30007
+msgctxt "quests/04_monarch/sq_0402_afamilymatter:30007:DefaultText"
+msgid "Tucker Needham died at Amber Heights. You found a ring on his body and returned it to his mother Agnes."
+msgstr ""
+
+#: quests/04_monarch/sq_0402_afamilymatter:30008
+msgctxt "quests/04_monarch/sq_0402_afamilymatter:30008:DefaultText"
+msgid "Tucker Needham refused to return to Stellar Bay and attacked you when you tried to force him to go. You killed him to defend yourself. You told Agnes the truth about her son's death, leaving her heartbroken."
+msgstr ""
+
+#: quests/04_monarch/sq_0402_afamilymatter:30009
+msgctxt "quests/04_monarch/sq_0402_afamilymatter:30009:DefaultText"
+msgid "You decided you were no longer going to help Agnes convince her son to return to Stellar Bay."
+msgstr ""
+
+#: quests/04_monarch/sq_0402_afamilymatter:30010
+msgctxt "quests/04_monarch/sq_0402_afamilymatter:30010:DefaultText"
+msgid "You convinced Agnes it was time to let her son grow up. She agreed to leave him in peace in Amber Heights with the Iconoclasts."
+msgstr ""
+
+#: quests/04_monarch/sq_0402_afamilymatter:30011
+msgctxt "quests/04_monarch/sq_0402_afamilymatter:30011:DefaultText"
+msgid "You threatened Agnes's life in order to convince Tucker to return home. After you collected your reward from Agnes, you told Tucker he could return to Amber Heights and the Iconoclasts."
+msgstr ""
+
+#: quests/04_monarch/sq_0402_afamilymatter:30014
+msgctxt "quests/04_monarch/sq_0402_afamilymatter:30014:DefaultText"
+msgid "After the battle outside Stellar Bay, Tucker has vanished."
+msgstr ""
+
+#: quests/04_monarch/sq_0402_afamilymatter:40001
+msgctxt "quests/04_monarch/sq_0402_afamilymatter:40001:DefaultText"
+msgid "Tucker attacked you rather than return to his life in Stellar Bay. Return his ring to Agnes as proof of her son's death."
+msgstr ""
+
+#: quests/04_monarch/sq_0402_afamilymatter:40002
+msgctxt "quests/04_monarch/sq_0402_afamilymatter:40002:DefaultText"
+msgid "Tucker died in Amber Heights. See if his body contains a memento you can give to his mother."
+msgstr ""
+
+#: quests/04_monarch/sq_0402_afamilymatter:40003
+msgctxt "quests/04_monarch/sq_0402_afamilymatter:40003:DefaultText"
+msgid "Tucker died in Amber Heights. Give his ring to Agnes as proof of her son's death."
+msgstr ""

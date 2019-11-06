@@ -1,0 +1,109 @@
+#: quests/companions/cq_0206_parvati_watersofforgetfulness:0
+msgctxt "quests/companions/cq_0206_parvati_watersofforgetfulness:0:DefaultText"
+msgid "Drinking Sapphire Wine"
+msgstr ""
+
+#: quests/companions/cq_0206_parvati_watersofforgetfulness:1
+msgctxt "quests/companions/cq_0206_parvati_watersofforgetfulness:1:DefaultText"
+msgid "Take Parvati to the Lost Hope on the Groundbreaker"
+msgstr ""
+
+#: quests/companions/cq_0206_parvati_watersofforgetfulness:5
+msgctxt "quests/companions/cq_0206_parvati_watersofforgetfulness:5:DefaultText"
+msgid "Take Parvati Back to the Ship"
+msgstr ""
+
+#: quests/companions/cq_0206_parvati_watersofforgetfulness:7
+msgctxt "quests/companions/cq_0206_parvati_watersofforgetfulness:7:DefaultText"
+msgid "Introduce Parvati to Junlei Tennyson"
+msgstr ""
+
+#: quests/companions/cq_0206_parvati_watersofforgetfulness:8
+msgctxt "quests/companions/cq_0206_parvati_watersofforgetfulness:8:DefaultText"
+msgid "Return to the Unreliable and ask Parvati about Junlei"
+msgstr ""
+
+#: quests/companions/cq_0206_parvati_watersofforgetfulness:11
+msgctxt "quests/companions/cq_0206_parvati_watersofforgetfulness:11:DefaultText"
+msgid "Talk to Parvati in the Bar"
+msgstr ""
+
+#: quests/companions/cq_0206_parvati_watersofforgetfulness:10000
+msgctxt "quests/companions/cq_0206_parvati_watersofforgetfulness:10000:DefaultText"
+msgid "Parvati received a distressing message from Junlei. She's asked you to take her drinking at the Lost Hope bar on the Groundbreaker so she can work through her feelings."
+msgstr ""
+
+#: quests/companions/cq_0206_parvati_watersofforgetfulness:10001
+msgctxt "quests/companions/cq_0206_parvati_watersofforgetfulness:10001:DefaultText"
+msgid "Parvati wants to get drinks at the bar on the Groundbreaker and discuss her situation with Junlei."
+msgstr ""
+
+#: quests/companions/cq_0206_parvati_watersofforgetfulness:10005
+msgctxt "quests/companions/cq_0206_parvati_watersofforgetfulness:10005:DefaultText"
+msgid "With her first night out drinking behind her, Parvati would like to talk to you on the ship."
+msgstr ""
+
+#: quests/companions/cq_0206_parvati_watersofforgetfulness:10007
+msgctxt "quests/companions/cq_0206_parvati_watersofforgetfulness:10007:DefaultText"
+msgid "Parvati is keen to meet Groundbreaker's engineer, Junlei. She's asked you to take her along next time you happen by that way."
+msgstr ""
+
+#: quests/companions/cq_0206_parvati_watersofforgetfulness:10008
+msgctxt "quests/companions/cq_0206_parvati_watersofforgetfulness:10008:DefaultText"
+msgid "Thanks to your introduction, Parvati and Junlei hit it off. Check in with Parvati back on the ship to see how things are progressing between the two of them."
+msgstr ""
+
+#: quests/companions/cq_0206_parvati_watersofforgetfulness:10011
+msgctxt "quests/companions/cq_0206_parvati_watersofforgetfulness:10011:DefaultText"
+msgid "You've reached the Lost Hope. Time for that discussion."
+msgstr ""
+
+#: quests/companions/cq_0206_parvati_watersofforgetfulness:20000
+msgctxt "quests/companions/cq_0206_parvati_watersofforgetfulness:20000:DefaultText"
+msgid "Junlei sent Parvati a poem. Give their relationship some time to develop further and then return to Parvati to find out how it's going."
+msgstr ""
+
+#: quests/companions/cq_0206_parvati_watersofforgetfulness:20001
+msgctxt "quests/companions/cq_0206_parvati_watersofforgetfulness:20001:DefaultText"
+msgid "It's been a while since Parvati talked about Junlei. It might be a good time to check in on her."
+msgstr ""
+
+#: quests/companions/cq_0206_parvati_watersofforgetfulness:30000
+msgctxt "quests/companions/cq_0206_parvati_watersofforgetfulness:30000:DefaultText"
+msgid "Parvati was killed."
+msgstr ""
+
+#: quests/companions/cq_0206_parvati_watersofforgetfulness:30001
+msgctxt "quests/companions/cq_0206_parvati_watersofforgetfulness:30001:DefaultText"
+msgid "Junlei was killed, bringing a premature end to her relationship with Parvati."
+msgstr ""
+
+#: quests/companions/cq_0206_parvati_watersofforgetfulness:30002
+msgctxt "quests/companions/cq_0206_parvati_watersofforgetfulness:30002:DefaultText"
+msgid "You - and a couple drinks - helped Parvati work through her concerns about her relationship with Junlei."
+msgstr ""
+
+#: quests/companions/cq_0206_parvati_watersofforgetfulness:30003
+msgctxt "quests/companions/cq_0206_parvati_watersofforgetfulness:30003:DefaultText"
+msgid "You talked Parvati out of pursuing a relationship with Junlei."
+msgstr ""
+
+#: quests/companions/cq_0206_parvati_watersofforgetfulness:30004
+msgctxt "quests/companions/cq_0206_parvati_watersofforgetfulness:30004:DefaultText"
+msgid "You and Parvati parted ways."
+msgstr ""
+
+#: quests/companions/cq_0206_parvati_watersofforgetfulness:30005
+msgctxt "quests/companions/cq_0206_parvati_watersofforgetfulness:30005:DefaultText"
+msgid "The Groundbreaker has become hostile towards you, making it impossible to complete this quest."
+msgstr ""
+
+#: quests/companions/cq_0206_parvati_watersofforgetfulness:40001
+msgctxt "quests/companions/cq_0206_parvati_watersofforgetfulness:40001:DefaultText"
+msgid "Have Parvati meet with Junlei Tennyson, the Groundbreaker's Chief Engineer."
+msgstr ""
+
+#: quests/companions/cq_0206_parvati_watersofforgetfulness:40003
+msgctxt "quests/companions/cq_0206_parvati_watersofforgetfulness:40003:DefaultText"
+msgid "Parvati wanted to have a discussion with Junlei Tennyson. You should swing by the Engineering sector of the Groundbreaker the next time the two of you are in the area."
+msgstr ""

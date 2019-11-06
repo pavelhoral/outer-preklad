@@ -1,0 +1,122 @@
+#: conversations/10_scylla/1002_ice_palace/1002_cp_generator_terminal:1
+msgctxt "conversations/10_scylla/1002_ice_palace/1002_cp_generator_terminal:1:DefaultText"
+msgid "Lab 1084: High-Security Containment\r\n"
+"==========================\r\n"
+"\r\n"
+"Engineering Section Terminal\r\n"
+"\r\n"
+"Generator Status: Active\r\n"
+"Generator Mode: Maintenance (2% Output)\r\n"
+"\r\n"
+"Maintenance Mode is ACTIVE. Minimal functions available.\r\n"
+"\r\n"
+"Main Menu:"
+msgstr ""
+
+#: conversations/10_scylla/1002_ice_palace/1002_cp_generator_terminal:3
+msgctxt "conversations/10_scylla/1002_ice_palace/1002_cp_generator_terminal:3:DefaultText"
+msgid "[Maintenance Logs]"
+msgstr ""
+
+#: conversations/10_scylla/1002_ice_palace/1002_cp_generator_terminal:5
+msgctxt "conversations/10_scylla/1002_ice_palace/1002_cp_generator_terminal:5:DefaultText"
+msgid "[Exit]"
+msgstr ""
+
+#: conversations/10_scylla/1002_ice_palace/1002_cp_generator_terminal:14
+msgctxt "conversations/10_scylla/1002_ice_palace/1002_cp_generator_terminal:14:DefaultText"
+msgid "[Return to Root]"
+msgstr ""
+
+#: conversations/10_scylla/1002_ice_palace/1002_cp_generator_terminal:18
+msgctxt "conversations/10_scylla/1002_ice_palace/1002_cp_generator_terminal:18:DefaultText"
+msgid "Lab 1084: High-Security Containment\r\n"
+"==========================\r\n"
+"\r\n"
+"Maintenance logs"
+msgstr ""
+
+#: conversations/10_scylla/1002_ice_palace/1002_cp_generator_terminal:19
+msgctxt "conversations/10_scylla/1002_ice_palace/1002_cp_generator_terminal:19:DefaultText"
+msgid "[View Facility Status Report]"
+msgstr ""
+
+#: conversations/10_scylla/1002_ice_palace/1002_cp_generator_terminal:23
+msgctxt "conversations/10_scylla/1002_ice_palace/1002_cp_generator_terminal:23:DefaultText"
+msgid "[Repair Toilet]"
+msgstr ""
+
+#: conversations/10_scylla/1002_ice_palace/1002_cp_generator_terminal:24
+msgctxt "conversations/10_scylla/1002_ice_palace/1002_cp_generator_terminal:24:DefaultText"
+msgid "Lab 1084: High-Security Containment\r\n"
+"==========================\r\n"
+"\r\n"
+"Critical Issues: 1\r\n"
+"Non-Critical Issues: 2\r\n"
+"----\r\n"
+"\r\n"
+"Critical Issues:\r\n"
+"\r\n"
+"- Issue 1: A toilet in the Maintenance Barracks does not flush. Replacement Part ordered 1243 days ago.\r\n"
+"\r\n"
+"Non-Critical Issues:\r\n"
+"\r\n"
+"- Issue 1: Sensors indicate Alta-Vitae Gas is leaking from storage tanks. Alta-Vitae Gas is toxic to humans.\r\n"
+"\r\n"
+"ADMIN OVERRIDE: Priority set to \"Non-Critical.\" Management does not utilize the Alta-Vitae Gas Tank Storage Room\r\n"
+"\r\n"
+"- Issue 2: Sensors detect that the \"New Laboratory Scent\" Air Freshener is running low."
+msgstr ""
+
+#: conversations/10_scylla/1002_ice_palace/1002_cp_generator_terminal:28
+msgctxt "conversations/10_scylla/1002_ice_palace/1002_cp_generator_terminal:28:DefaultText"
+msgid "Lab 1084: High-Security Containment\r\n"
+"==========================\r\n"
+"\r\n"
+"ERROR: Work Order already exists.\r\n"
+"\r\n"
+"The existing Work Order was opened 991 days ago, and was last accessed 991 days ago."
+msgstr ""
+
+#: conversations/10_scylla/1002_ice_palace/1002_cp_generator_terminal:42
+msgctxt "conversations/10_scylla/1002_ice_palace/1002_cp_generator_terminal:42:DefaultText"
+msgid "Lab 1084: High-Security Containment\r\n"
+"==========================\r\n"
+"\r\n"
+"Engineering Section Terminal\r\n"
+"\r\n"
+"Generator Status: Active\r\n"
+"Generator Mode: Normal (100% Output)\r\n"
+"\r\n"
+"Main Menu:"
+msgstr ""
+
+#: conversations/10_scylla/1002_ice_palace/1002_cp_generator_terminal:43
+msgctxt "conversations/10_scylla/1002_ice_palace/1002_cp_generator_terminal:43:DefaultText"
+msgid "[Modify Generator Mode - Normal]"
+msgstr ""
+
+#: conversations/10_scylla/1002_ice_palace/1002_cp_generator_terminal:44
+msgctxt "conversations/10_scylla/1002_ice_palace/1002_cp_generator_terminal:44:DefaultText"
+msgid "Lab 1084: High-Security Containment\r\n"
+"==========================\r\n"
+"\r\n"
+"Engineering Section Terminal\r\n"
+"\r\n"
+"Updating Generator Mode to: Normal. . .\r\n"
+". . . . .\r\n"
+"Disabling Emergency Lighting. . .\r\n"
+". . . . .\r\n"
+"Activating Facility Lights. . .\r\n"
+". . . . .\r\n"
+"Activating Security Protocols. . .\r\n"
+". . . . .\r\n"
+"Activating Air Recyclers (New Laboratory Scent Option Selected). . .\r\n"
+". . . . .\r\n"
+"Flushing Toilets. . .\r\n"
+". . . . .\r\n"
+". . . . .\r\n"
+"Error flushing toilets. See Maintenance Logs for details.\r\n"
+". . . . .\r\n"
+"Generator Mode Change - Complete!"
+msgstr ""

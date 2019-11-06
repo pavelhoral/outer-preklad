@@ -1,0 +1,64 @@
+#: conversations/04_monarch/0401/0401_cp_cascadia_south_bar:1
+msgctxt "conversations/04_monarch/0401/0401_cp_cascadia_south_bar:1:DefaultText"
+msgid "Rizzo, Inc. Point-of-Sale Interface\r\n"
+"======================\r\n"
+"Authorized users: Cecil McClure; Ira Boyd\r\n"
+"\r\n"
+"Error: Unable to establish connection to Rizzo, Inc. monetary processing. This terminal is now in its default log and message viewing mode."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_cascadia_south_bar:4
+msgctxt "conversations/04_monarch/0401/0401_cp_cascadia_south_bar:4:DefaultText"
+msgid "[March 11th, 2344]"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_cascadia_south_bar:5
+msgctxt "conversations/04_monarch/0401/0401_cp_cascadia_south_bar:5:DefaultText"
+msgid "Cecil - \r\n"
+"\r\n"
+"These crazy assholes don't know how to use a keypad. I took one from my clinic office and installed it on the bridge gate.\r\n"
+"\r\n"
+"2613.\r\n"
+"\r\n"
+"Be safe.\r\n"
+"\r\n"
+"- Zora"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_cascadia_south_bar:6
+msgctxt "conversations/04_monarch/0401/0401_cp_cascadia_south_bar:6:DefaultText"
+msgid "[Exit]"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_cascadia_south_bar:7
+msgctxt "conversations/04_monarch/0401/0401_cp_cascadia_south_bar:7:DefaultText"
+msgid "[February 4th, 2344]"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_cascadia_south_bar:8
+msgctxt "conversations/04_monarch/0401/0401_cp_cascadia_south_bar:8:DefaultText"
+msgid "Law help me. Help us all.\r\n"
+"\r\n"
+"I saw one. Frothing at the mouth, barely able to string a word or two together. Walking at me as if to devour me whole.\r\n"
+"\r\n"
+"Zora was right. There ARE monsters here. We need to get out if we want to live."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_cascadia_south_bar:9
+msgctxt "conversations/04_monarch/0401/0401_cp_cascadia_south_bar:9:DefaultText"
+msgid "[February 5th, 2344]"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_cascadia_south_bar:10
+msgctxt "conversations/04_monarch/0401/0401_cp_cascadia_south_bar:10:DefaultText"
+msgid "Cecil -\r\n"
+"\r\n"
+"You aren't insane. They were people once. I don't know what they are now.\r\n"
+"\r\n"
+"- Zora"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_cascadia_south_bar:13
+msgctxt "conversations/04_monarch/0401/0401_cp_cascadia_south_bar:13:DefaultText"
+msgid "[Return to Root]"
+msgstr ""

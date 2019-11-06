@@ -1,0 +1,140 @@
+#: conversations/04_monarch/0401/0401_cp_alarm_udl_lab:1
+msgctxt "conversations/04_monarch/0401/0401_cp_alarm_udl_lab:1:DefaultText"
+msgid "Alarm Status: OFFLINE\r\n"
+"===========================\r\n"
+"\r\n"
+"NOTE: The next person who sets the alarm off as a joke is getting the lost time taken out of their paycheck.\r\n"
+"\r\n"
+"It was funny the first time. Not the last twenty-seven. - NS"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_alarm_udl_lab:2
+msgctxt "conversations/04_monarch/0401/0401_cp_alarm_udl_lab:2:DefaultText"
+msgid "[Activate Alarm]"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_alarm_udl_lab:3
+msgctxt "conversations/04_monarch/0401/0401_cp_alarm_udl_lab:3:DefaultText"
+msgid "[Exit]"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_alarm_udl_lab:4
+msgctxt "conversations/04_monarch/0401/0401_cp_alarm_udl_lab:4:DefaultText"
+msgid "Alarm Status: ACTIVATED\r\n"
+"===========================\r\n"
+"\r\n"
+"NOTE: Chastity, if you lost your keycard again, I'm cutting your monthly Fizzy Tea rations in half. - NS"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_alarm_udl_lab:7
+msgctxt "conversations/04_monarch/0401/0401_cp_alarm_udl_lab:7:DefaultText"
+msgid "[View Logs]"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_alarm_udl_lab:8
+msgctxt "conversations/04_monarch/0401/0401_cp_alarm_udl_lab:8:DefaultText"
+msgid "Incident Logs\r\n"
+"===========================\r\n"
+"\r\n"
+"UDL is committed to the safety and security of its property, human and otherwise.\r\n"
+"\r\n"
+"For security purposes, only the most recent records of alarm activations will be kept."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_alarm_udl_lab:9
+msgctxt "conversations/04_monarch/0401/0401_cp_alarm_udl_lab:9:DefaultText"
+msgid "[Log 50]"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_alarm_udl_lab:10
+msgctxt "conversations/04_monarch/0401/0401_cp_alarm_udl_lab:10:DefaultText"
+msgid "[Log 51]"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_alarm_udl_lab:11
+msgctxt "conversations/04_monarch/0401/0401_cp_alarm_udl_lab:11:DefaultText"
+msgid "[Log 52]"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_alarm_udl_lab:12
+msgctxt "conversations/04_monarch/0401/0401_cp_alarm_udl_lab:12:DefaultText"
+msgid "Incident #52\r\n"
+"===========================\r\n"
+"\r\n"
+"Alarm triggered at [4:17 PM] by [POWELL, J.]\r\n"
+"\r\n"
+"Retrieving transcript...\r\n"
+"\r\n"
+"POWELL, J.: [inaudible] -marauders! They're really here this time!\r\n"
+"SANDERS, N.: I'm not falling for that. Get back to work.\r\n"
+"POWELL, J.: I mean it! We- [static]"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_alarm_udl_lab:13
+msgctxt "conversations/04_monarch/0401/0401_cp_alarm_udl_lab:13:DefaultText"
+msgid "Incident #51\r\n"
+"===========================\r\n"
+"\r\n"
+"Alarm triggered at [2:11 AM] by [CHAMBERS, C.]\r\n"
+"\r\n"
+"Retrieving transcript...\r\n"
+"\r\n"
+"SANDERS, N.: What is it now?!\r\n"
+"CHAMBERS, C.: Sorry. Cost my leecard.\r\n"
+"SANDERS, N.: Chastity? Are you drunk?\r\n"
+"CHAMBERS, C.: ...[no audio available]\r\n"
+"SANDERS, N.: Chastity.\r\n"
+"CHAMBERS, C.: ...No.\r\n"
+"SANDERS, N.: Oh, for [CENSORED - language inconsistent with UDL standards]. If I have to deal with one more false alarm, I'll [CENSORED - language inconsistent with UDL standards] but not before I've [CENSORED - language inconsistent with UDL standards] Fish Stix.\r\n"
+"CHAMBERS, C.: [static]\r\n"
+"SANDERS, N.: Architect's balls. Are you asleep out there?\r\n"
+"CHAMBERS, C.: Wha-? No.\r\n"
+"SANDERS, N.: Just get inside."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_alarm_udl_lab:14
+msgctxt "conversations/04_monarch/0401/0401_cp_alarm_udl_lab:14:DefaultText"
+msgid "Incident #50\r\n"
+"===========================\r\n"
+"\r\n"
+"Alarm triggered at [5:04 PM] by [POWELL, J.]\r\n"
+"\r\n"
+"Retrieving transcript...\r\n"
+"\r\n"
+"POWELL, J.: Marauders! Help!\r\n"
+"SANDERS, N.: Everyone, lockdown protocols! Powell, how many do you see?\r\n"
+"POWELL, J.: Laws, they're- they're everywhere!\r\n"
+"SANDERS, N.: Come on, I need details!\r\n"
+"POWELL, J.: Okay! Uh... check up your ass. Because I'm pretty sure you've got something lodged in there.\r\n"
+"SANDERS, N.: Oh, for the love of- [inaudible]"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_alarm_udl_lab:15
+msgctxt "conversations/04_monarch/0401/0401_cp_alarm_udl_lab:15:DefaultText"
+msgid "[Log 49]"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_alarm_udl_lab:16
+msgctxt "conversations/04_monarch/0401/0401_cp_alarm_udl_lab:16:DefaultText"
+msgid "Incident #49\r\n"
+"===========================\r\n"
+"\r\n"
+"Alarm triggered at [12:39 AM] by [CHAMBERS, C.]\r\n"
+"\r\n"
+"Retrieving transcript...\r\n"
+"\r\n"
+"SANDERS, N.: Chastity? Everything okay?\r\n"
+"CHAMBERS, C.: Sorry, I can't find my keycard.\r\n"
+"SANDERS, N.: So you set off the alarm? You could've knocked. \r\n"
+"CHAMBERS, C.: ...huh."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_alarm_udl_lab:17
+msgctxt "conversations/04_monarch/0401/0401_cp_alarm_udl_lab:17:DefaultText"
+msgid "[Return to Root]"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_alarm_udl_lab:18
+msgctxt "conversations/04_monarch/0401/0401_cp_alarm_udl_lab:18:DefaultText"
+msgid "[Back]"
+msgstr ""

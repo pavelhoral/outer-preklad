@@ -1,0 +1,146 @@
+#: conversations/04_monarch/0401/0401_cp_fq0404_research_station:1
+msgctxt "conversations/04_monarch/0401/0401_cp_fq0404_research_station:1:DefaultText"
+msgid "Universal Defense Logistics\r\n"
+"===========================\r\n"
+"This terminal is only to be used by UDL personnel with A-237 clearance. If you are reading this without A-237 clearance, please report to your supervisor for immediate termination and disciplinary action, including but not limited to: fines in excess of 100,000 bits, detention in a UDL-authorized incarceration center for up to 136 months, mandatory corporate policies and values seminars, revocation of company lounge and/or bathroom privileges."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_fq0404_research_station:2
+msgctxt "conversations/04_monarch/0401/0401_cp_fq0404_research_station:2:DefaultText"
+msgid "[Messages]"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_fq0404_research_station:3
+msgctxt "conversations/04_monarch/0401/0401_cp_fq0404_research_station:3:DefaultText"
+msgid "[Research Data]"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_fq0404_research_station:4
+msgctxt "conversations/04_monarch/0401/0401_cp_fq0404_research_station:4:DefaultText"
+msgid "[Exit]"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_fq0404_research_station:5
+msgctxt "conversations/04_monarch/0401/0401_cp_fq0404_research_station:5:DefaultText"
+msgid "Project Name: LOREM IPSUM\r\n"
+"Status: IN PROGRESS\r\n"
+"Authorization: A-237 CLEARANCE\r\n"
+"========================\r\n"
+"Project LOREM IPSUM shall result in a potent, mostly non-lethal crowd control gas for use against rioting, agitated, or excessively numerous crowds. \r\n"
+"\r\n"
+"Rich sulfur pockets make Monarch a prime site for testing and experimentation. Early results show promise, but further research is necessary.\r\n"
+"\r\n"
+"UDL disavows all knowledge of and responsibility for LOREM IPSUM.\r\n"
+"\r\n"
+"All data in this report is considered proprietary knowledge of UDL. "
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_fq0404_research_station:6
+msgctxt "conversations/04_monarch/0401/0401_cp_fq0404_research_station:6:DefaultText"
+msgid "[Transfer Files to External Tape]"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_fq0404_research_station:7
+msgctxt "conversations/04_monarch/0401/0401_cp_fq0404_research_station:7:DefaultText"
+msgid "[Return to Root]"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_fq0404_research_station:8
+msgctxt "conversations/04_monarch/0401/0401_cp_fq0404_research_station:8:DefaultText"
+msgid "Ejecting...\r\n"
+"\r\n"
+"Portable storage device ejected."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_fq0404_research_station:9
+msgctxt "conversations/04_monarch/0401/0401_cp_fq0404_research_station:9:DefaultText"
+msgid "Messages\n"
+"======================\n"
+""
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_fq0404_research_station:10
+msgctxt "conversations/04_monarch/0401/0401_cp_fq0404_research_station:10:DefaultText"
+msgid "[FROM: N. Sanders]"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_fq0404_research_station:11
+msgctxt "conversations/04_monarch/0401/0401_cp_fq0404_research_station:11:DefaultText"
+msgid "[FROM: R. Valdez]"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_fq0404_research_station:12
+msgctxt "conversations/04_monarch/0401/0401_cp_fq0404_research_station:12:DefaultText"
+msgid "[Return to Root]"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_fq0404_research_station:13
+msgctxt "conversations/04_monarch/0401/0401_cp_fq0404_research_station:13:DefaultText"
+msgid "Ms. Valdez,\r\n"
+"\r\n"
+"Just reporting in to let you know the lab's all set up. We found a good sulfur pocket to drill into, so the data's coming in, but this place smells awful.\r\n"
+"\r\n"
+"The only local we've had to make contact with is the SubLight boss in Fallbrook. She doesn't ask questions, but I'm pretty sure she's gouging us, and we're all getting sick of expired Cysty-Bits."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_fq0404_research_station:14
+msgctxt "conversations/04_monarch/0401/0401_cp_fq0404_research_station:14:DefaultText"
+msgid "Sanders,\r\n"
+"\r\n"
+"It's supposed to smell awful. That's the point. \r\n"
+"\r\n"
+"And I don't care what SubLight is charging as long as it keeps your presence there quiet. If word gets out, we're going to spend the rest of our lives in corporate re-education seminars.\r\n"
+"\r\n"
+"I don't want to hear from you again until you have a working formula. Once we've got that, you and the rest of the lab rats can come to Byzantium and live on cacow ribs for all I care."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_fq0404_research_station:15
+msgctxt "conversations/04_monarch/0401/0401_cp_fq0404_research_station:15:DefaultText"
+msgid "[FROM: R. Valdez]"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_fq0404_research_station:16
+msgctxt "conversations/04_monarch/0401/0401_cp_fq0404_research_station:16:DefaultText"
+msgid "And come up with a better name for the project. Something flashy and catchy but that the rest of management will take seriously. Maybe \"WATERLOO.\" Or \"DANGERBURN.\"\r\n"
+"\r\n"
+"I'm sick of my boss asking me why I'm forgetting to fill out parts of my reports."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_fq0404_research_station:17
+msgctxt "conversations/04_monarch/0401/0401_cp_fq0404_research_station:17:DefaultText"
+msgid "[Alternate Project Titles]"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_fq0404_research_station:18
+msgctxt "conversations/04_monarch/0401/0401_cp_fq0404_research_station:18:DefaultText"
+msgid "...\r\n"
+"\r\n"
+"Access restricted by user \r\n"
+"\r\n"
+"POWELL, J.\r\n"
+"\r\n"
+"Login credentials required."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_fq0404_research_station:19
+msgctxt "conversations/04_monarch/0401/0401_cp_fq0404_research_station:19:DefaultText"
+msgid "If Valdez wants a better title, see how she likes these. - JP\n"
+"\n"
+"She's going to be furious if she ever finds this list, and I'm not covering for you. Make sure these are good and hidden. - NS\n"
+"\n"
+"THUNDERDAWG\n"
+"EGGSMAYHEM\n"
+"SKUNKPARADE\n"
+"FUCKYOUVALDEZ\n"
+"IWANTMYRAISE"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_fq0404_research_station:20
+msgctxt "conversations/04_monarch/0401/0401_cp_fq0404_research_station:20:DefaultText"
+msgid "[Continue]"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_fq0404_research_station:21
+msgctxt "conversations/04_monarch/0401/0401_cp_fq0404_research_station:21:DefaultText"
+msgid "[Login: Powell, J.]"
+msgstr ""

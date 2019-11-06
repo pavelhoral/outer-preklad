@@ -1,0 +1,122 @@
+#: conversations/04_monarch/0406/0406_cp_terminal_security:2
+msgctxt "conversations/04_monarch/0406/0406_cp_terminal_security:2:DefaultText"
+msgid "Devil's Peak Station\r\n"
+"========================\r\n"
+"\r\n"
+"SECURITY STATUS: Running diagnostics...\r\n"
+"\r\n"
+"Atmospheric controls are online. Issue detected with the automechanical controls. Alerting HQ."
+msgstr ""
+
+#: conversations/04_monarch/0406/0406_cp_terminal_security:3
+msgctxt "conversations/04_monarch/0406/0406_cp_terminal_security:3:DefaultText"
+msgid "[Atmospheric Controls]"
+msgstr ""
+
+#: conversations/04_monarch/0406/0406_cp_terminal_security:5
+msgctxt "conversations/04_monarch/0406/0406_cp_terminal_security:5:DefaultText"
+msgid "[Deploy Fire Suppressant Systems in Main Hall]"
+msgstr ""
+
+#: conversations/04_monarch/0406/0406_cp_terminal_security:6
+msgctxt "conversations/04_monarch/0406/0406_cp_terminal_security:6:DefaultText"
+msgid "Devil's Peak Station\r\n"
+"========================\r\n"
+"\r\n"
+"WARNING: The Fire Suppressant System will remove all oxygen from the chamber. Please ensure that all personnel have been safely evacuated prior to initiating the safety protocol. \r\n"
+"\r\n"
+"Proceed - Y/N?"
+msgstr ""
+
+#: conversations/04_monarch/0406/0406_cp_terminal_security:7
+msgctxt "conversations/04_monarch/0406/0406_cp_terminal_security:7:DefaultText"
+msgid "[Yes]"
+msgstr ""
+
+#: conversations/04_monarch/0406/0406_cp_terminal_security:8
+msgctxt "conversations/04_monarch/0406/0406_cp_terminal_security:8:DefaultText"
+msgid "Devil's Peak Station\r\n"
+"========================\r\n"
+"\r\n"
+"Activating the Fire Suppressant System... \r\n"
+"\r\n"
+"Engaging chamber locks for user safety...\r\n"
+"\r\n"
+"Siphoning all oxygen from the chamber..."
+msgstr ""
+
+#: conversations/04_monarch/0406/0406_cp_terminal_security:9
+msgctxt "conversations/04_monarch/0406/0406_cp_terminal_security:9:DefaultText"
+msgid "[Automechanical Controls]"
+msgstr ""
+
+#: conversations/04_monarch/0406/0406_cp_terminal_security:10
+msgctxt "conversations/04_monarch/0406/0406_cp_terminal_security:10:DefaultText"
+msgid "Devil's Peak Station\r\n"
+"========================\r\n"
+"\r\n"
+"REQUEST FOR AUTOMECHANICAL SECURITY AND ASSISTANCE INSTALLATION\r\n"
+"\r\n"
+"Time submitted: >5.256e+6 minutes ago\r\n"
+"Status: awaiting an official response from Byzantium HQ"
+msgstr ""
+
+#: conversations/04_monarch/0406/0406_cp_terminal_security:12
+msgctxt "conversations/04_monarch/0406/0406_cp_terminal_security:12:DefaultText"
+msgid "[Return to Root]"
+msgstr ""
+
+#: conversations/04_monarch/0406/0406_cp_terminal_security:13
+msgctxt "conversations/04_monarch/0406/0406_cp_terminal_security:13:DefaultText"
+msgid "Devil's Peak Station\r\n"
+"========================\r\n"
+"\r\n"
+"ENVIRONMENTAL SENSORS STATUS: All sensors currently indicate a standard level range regarding temperature and chemical composition through the station."
+msgstr ""
+
+#: conversations/04_monarch/0406/0406_cp_terminal_security:14
+msgctxt "conversations/04_monarch/0406/0406_cp_terminal_security:14:DefaultText"
+msgid "[No]"
+msgstr ""
+
+#: conversations/04_monarch/0406/0406_cp_terminal_security:15
+msgctxt "conversations/04_monarch/0406/0406_cp_terminal_security:15:DefaultText"
+msgid "[Exit]"
+msgstr ""
+
+#: conversations/04_monarch/0406/0406_cp_terminal_security:18
+msgctxt "conversations/04_monarch/0406/0406_cp_terminal_security:18:DefaultText"
+msgid "[Activate Station Fire Alarm]"
+msgstr ""
+
+#: conversations/04_monarch/0406/0406_cp_terminal_security:19
+msgctxt "conversations/04_monarch/0406/0406_cp_terminal_security:19:DefaultText"
+msgid "Devil's Peak Station\r\n"
+"=======================\r\n"
+"\r\n"
+"NOTE: Worker productivity loss must be weighed against the benefits of testing the Environmental Controls safety system. Excessive activation of the system's emergency alarms will trigger an automatic administrator review.\r\n"
+"\r\n"
+"WARNING: Prolonged exposure to emergency alarms can lead to disorientation and ruptured eardrums.\r\n"
+"\r\n"
+"Proceed - Y/N?"
+msgstr ""
+
+#: conversations/04_monarch/0406/0406_cp_terminal_security:23
+msgctxt "conversations/04_monarch/0406/0406_cp_terminal_security:23:DefaultText"
+msgid "[Yes]"
+msgstr ""
+
+#: conversations/04_monarch/0406/0406_cp_terminal_security:24
+msgctxt "conversations/04_monarch/0406/0406_cp_terminal_security:24:DefaultText"
+msgid "[No]"
+msgstr ""
+
+#: conversations/04_monarch/0406/0406_cp_terminal_security:25
+msgctxt "conversations/04_monarch/0406/0406_cp_terminal_security:25:DefaultText"
+msgid "Devil's Peak Station\r\n"
+"========================\r\n"
+"\r\n"
+"Activating emergency alarms...\r\n"
+"\r\n"
+"Engaging chamber locks for user safety..."
+msgstr ""

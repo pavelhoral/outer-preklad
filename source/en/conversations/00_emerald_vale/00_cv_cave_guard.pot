@@ -1,0 +1,234 @@
+#: conversations/00_emerald_vale/00_cv_cave_guard:1
+msgctxt "conversations/00_emerald_vale/00_cv_cave_guard:1:DefaultText"
+msgid "You've tried the best. Now-"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_cave_guard:2
+msgctxt "conversations/00_emerald_vale/00_cv_cave_guard:2:DefaultText"
+msgid "- now try the rest. Spacer's Choice. Oh Law, that stings."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_cave_guard:3
+msgctxt "conversations/00_emerald_vale/00_cv_cave_guard:3:DefaultText"
+msgid "How are you feeling?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_cave_guard:4
+msgctxt "conversations/00_emerald_vale/00_cv_cave_guard:4:DefaultText"
+msgid "What happened to you?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_cave_guard:5
+msgctxt "conversations/00_emerald_vale/00_cv_cave_guard:5:DefaultText"
+msgid "Spacer's what?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_cave_guard:7
+msgctxt "conversations/00_emerald_vale/00_cv_cave_guard:7:DefaultText"
+msgid "We were out on patrol. I saw a marauder camp up in the hills. Thought I could take 'em."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_cave_guard:8
+msgctxt "conversations/00_emerald_vale/00_cv_cave_guard:8:DefaultText"
+msgid "Oh, we're all part of the Spacer's Choice family here. Not that I deserve to be. Can't even deliver a company slogan."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_cave_guard:10
+msgctxt "conversations/00_emerald_vale/00_cv_cave_guard:10:DefaultText"
+msgid "Then my gun misfired. Right through my side. I mean, what are the odds of that, right?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_cave_guard:12
+msgctxt "conversations/00_emerald_vale/00_cv_cave_guard:12:DefaultText"
+msgid "Just barely scraped by with my life. Crawled in here and blocked off the exit with those canisters."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_cave_guard:13
+msgctxt "conversations/00_emerald_vale/00_cv_cave_guard:13:DefaultText"
+msgid "Sit still. I'll patch you up."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_cave_guard:14
+msgctxt "conversations/00_emerald_vale/00_cv_cave_guard:14:DefaultText"
+msgid "Looks like the bleeding's stopped. I owe you one."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_cave_guard:15
+msgctxt "conversations/00_emerald_vale/00_cv_cave_guard:15:DefaultText"
+msgid "What's this about marauders?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_cave_guard:16
+msgctxt "conversations/00_emerald_vale/00_cv_cave_guard:16:DefaultText"
+msgid "What were you doing out here?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_cave_guard:17
+msgctxt "conversations/00_emerald_vale/00_cv_cave_guard:17:DefaultText"
+msgid "You're hiding in a cave, and you blocked off the exit. You're as good as dead."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_cave_guard:18
+msgctxt "conversations/00_emerald_vale/00_cv_cave_guard:18:DefaultText"
+msgid "Better, thanks to you. I might've bled out on my own. Or worse - had to go begging the boss for some Adrena-Time."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_cave_guard:19
+msgctxt "conversations/00_emerald_vale/00_cv_cave_guard:19:DefaultText"
+msgid "Gibbering, flesh-eating, law-breaking, unemployed lunatics. With guns."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_cave_guard:20
+msgctxt "conversations/00_emerald_vale/00_cv_cave_guard:20:DefaultText"
+msgid "Some hullhead grounded their spacecraft out in the open. That's a real good way to attract marauders."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_cave_guard:21
+msgctxt "conversations/00_emerald_vale/00_cv_cave_guard:21:DefaultText"
+msgid "Investigating an illegally grounded ship! All spacecraft must arrive and depart from authorized landing pads. That's Board law, that is."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_cave_guard:23
+msgctxt "conversations/00_emerald_vale/00_cv_cave_guard:23:DefaultText"
+msgid "See those canisters by the entrance? Marauders come sniffing around in here, and I can take 'em all out with a single shot. Not bad, huh?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_cave_guard:24
+msgctxt "conversations/00_emerald_vale/00_cv_cave_guard:24:DefaultText"
+msgid "Spacer's Choice policy clearly stipulates that \"dead\" and \"as good as dead\" are two completely different properties of matter."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_cave_guard:25
+msgctxt "conversations/00_emerald_vale/00_cv_cave_guard:25:DefaultText"
+msgid "Unless I'm dead, I'm contractually obligated to attend to my post. I will report that illegally grounded spacecraft if it is the last thing I do."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_cave_guard:26
+msgctxt "conversations/00_emerald_vale/00_cv_cave_guard:26:DefaultText"
+msgid "I've got a better idea. Give me your gun, and I'll go get help."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_cave_guard:27
+msgctxt "conversations/00_emerald_vale/00_cv_cave_guard:27:DefaultText"
+msgid "Someone grounded their ship illegally? I'll hunt 'em down for you."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_cave_guard:28
+msgctxt "conversations/00_emerald_vale/00_cv_cave_guard:28:DefaultText"
+msgid "You're an idiot. Give me your gun before you get yourself killed."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_cave_guard:29
+msgctxt "conversations/00_emerald_vale/00_cv_cave_guard:29:DefaultText"
+msgid "Yeah, okay. You look like you know your way around a gun. Got some spare ammo, not counting the bullet in my side."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_cave_guard:30
+msgctxt "conversations/00_emerald_vale/00_cv_cave_guard:30:DefaultText"
+msgid "You'd better take my gun, then. Careful. It's worth more to the company than I am."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_cave_guard:31
+msgctxt "conversations/00_emerald_vale/00_cv_cave_guard:31:DefaultText"
+msgid "Yeah, you sound a lot like my lieutenant. Here - hope this gun serves you better than it did me."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_cave_guard:32
+msgctxt "conversations/00_emerald_vale/00_cv_cave_guard:32:DefaultText"
+msgid "Here, you can have my sabre, too. For patching me up and all."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_cave_guard:33
+msgctxt "conversations/00_emerald_vale/00_cv_cave_guard:33:DefaultText"
+msgid "All Spacer's Choice weapons are now thirty percent less likely to malfunction. You've tried the best. Now try the rest. Spacer's Choice."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_cave_guard:34
+msgctxt "conversations/00_emerald_vale/00_cv_cave_guard:34:DefaultText"
+msgid "Yes! Nailed it that time."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_cave_guard:35
+msgctxt "conversations/00_emerald_vale/00_cv_cave_guard:35:DefaultText"
+msgid "Hey, you. Come here."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_cave_guard:36
+msgctxt "conversations/00_emerald_vale/00_cv_cave_guard:36:DefaultText"
+msgid "I just need to catch my breath."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_cave_guard:37
+msgctxt "conversations/00_emerald_vale/00_cv_cave_guard:37:DefaultText"
+msgid "Thanks for patching me up."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_cave_guard:38
+msgctxt "conversations/00_emerald_vale/00_cv_cave_guard:38:DefaultText"
+msgid "I'm out of bullets..."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_cave_guard:39
+msgctxt "conversations/00_emerald_vale/00_cv_cave_guard:39:DefaultText"
+msgid "Can you tell me where I am?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_cave_guard:40
+msgctxt "conversations/00_emerald_vale/00_cv_cave_guard:40:DefaultText"
+msgid "Do you know anything about the Hope?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_cave_guard:41
+msgctxt "conversations/00_emerald_vale/00_cv_cave_guard:41:DefaultText"
+msgid "I'm off."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_cave_guard:42
+msgctxt "conversations/00_emerald_vale/00_cv_cave_guard:42:DefaultText"
+msgid "Already? Lucky for you, I've got some more right here."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_cave_guard:43
+msgctxt "conversations/00_emerald_vale/00_cv_cave_guard:43:DefaultText"
+msgid "You hit your head or something? You're in Emerald Vale. We're a Spacer's Choice community."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_cave_guard:44
+msgctxt "conversations/00_emerald_vale/00_cv_cave_guard:44:DefaultText"
+msgid "The Hope? Is that some sort of fancy new drug? Are you with Auntie Cleo or something?"
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_cave_guard:46
+msgctxt "conversations/00_emerald_vale/00_cv_cave_guard:46:DefaultText"
+msgid "Hope you don't mind me omitting this little exchange from my report. Spacer's Choice doesn't like us accepting outside help."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_cave_guard:47
+msgctxt "conversations/00_emerald_vale/00_cv_cave_guard:47:DefaultText"
+msgid "Don't take this the wrong way or nothing, but I'm not allowed to fraternize with Cleo workers. Company policy."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_cave_guard:48
+msgctxt "conversations/00_emerald_vale/00_cv_cave_guard:48:DefaultText"
+msgid "Edgewater's a little ways down. Prettiest place in the vale. Be sure to stop by our provisioner's for a can of our famous saltuna."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_cave_guard:49
+msgctxt "conversations/00_emerald_vale/00_cv_cave_guard:49:DefaultText"
+msgid "It's not the best choice. It's Spacer's Choice."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_cave_guard:52
+msgctxt "conversations/00_emerald_vale/00_cv_cave_guard:52:DefaultText"
+msgid "You got past those marauders? Nice work."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_cave_guard:53
+msgctxt "conversations/00_emerald_vale/00_cv_cave_guard:53:DefaultText"
+msgid "Hey, thanks for helping me back in that cave. You got a real knack for curative work."
+msgstr ""
+
+#: conversations/00_emerald_vale/00_cv_cave_guard:54
+msgctxt "conversations/00_emerald_vale/00_cv_cave_guard:54:DefaultText"
+msgid "They're saying the power's out until further notice. Company wouldn't just do that to us - would they?"
+msgstr ""

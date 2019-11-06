@@ -1,0 +1,203 @@
+#: conversations/01_groundbreaker/01_cp_promenade_public_terminal:1
+msgctxt "conversations/01_groundbreaker/01_cp_promenade_public_terminal:1:DefaultText"
+msgid "Groundbreaker Public Access Terminal\r\n"
+"============================\r\n"
+"\r\n"
+"Main menu"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_promenade_public_terminal:2
+msgctxt "conversations/01_groundbreaker/01_cp_promenade_public_terminal:2:DefaultText"
+msgid "[Access User CALLAHAN, M.]"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_promenade_public_terminal:3
+msgctxt "conversations/01_groundbreaker/01_cp_promenade_public_terminal:3:DefaultText"
+msgid "[Exit]"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_promenade_public_terminal:4
+msgctxt "conversations/01_groundbreaker/01_cp_promenade_public_terminal:4:DefaultText"
+msgid "Groundbreaker Public Access Terminal\r\n"
+"============================\r\n"
+"\r\n"
+"Welcome, M. Callahan.\r\n"
+"\r\n"
+"Displaying recent messages."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_promenade_public_terminal:5
+msgctxt "conversations/01_groundbreaker/01_cp_promenade_public_terminal:5:DefaultText"
+msgid "[FROM: SC_Manager541, SUBJECT: The hat]"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_promenade_public_terminal:6
+msgctxt "conversations/01_groundbreaker/01_cp_promenade_public_terminal:6:DefaultText"
+msgid "[TO: MAMA_C, SUBJECT: Hi mom]"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_promenade_public_terminal:8
+msgctxt "conversations/01_groundbreaker/01_cp_promenade_public_terminal:8:DefaultText"
+msgid "[Return to Root]"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_promenade_public_terminal:9
+msgctxt "conversations/01_groundbreaker/01_cp_promenade_public_terminal:9:DefaultText"
+msgid "Groundbreaker Public Access Terminal\r\n"
+"============================\r\n"
+"\r\n"
+"FROM: SC_Manager541\r\n"
+"TO: Callahan, M.\r\n"
+"SUBJECT: Re: The hat\r\n"
+"\r\n"
+"You made your Spacer's Choice when you signed the employment contract.\r\n"
+"\r\n"
+"FROM: Callahan, M. \r\n"
+"TO: SC_Manager541\r\n"
+"SUBJECT: The hat\r\n"
+"\r\n"
+"I keep telling you the hat doesn't fit right. There's something wrong with it. How many people have worn this thing before me?\r\n"
+"\r\n"
+"Is this my life now? Because if it is, I'll take it - I'll be your moon man - but there won't be anything left of me to care. \r\n"
+"\r\n"
+"-Martin"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_promenade_public_terminal:10
+msgctxt "conversations/01_groundbreaker/01_cp_promenade_public_terminal:10:DefaultText"
+msgid "Groundbreaker Public Access Terminal\r\n"
+"============================\r\n"
+"\r\n"
+"FROM: MAMA_C\r\n"
+"TO: Callahan, M.\r\n"
+"SUBJECT: Re: Hi mom\r\n"
+"\r\n"
+"Are you okay, honey?\r\n"
+"\r\n"
+"~Mom\r\n"
+"\r\n"
+"FROM: Callahan, M.\r\n"
+"TO: MAMA_C\r\n"
+"SUBJECT: Hi mom\r\n"
+"\r\n"
+"Hope you're doing well, mom. Thought I'd check in.\r\n"
+"\r\n"
+"Engineers visit the shop a bunch. I remember when I used to turn a wrench back home on Terra 2. \r\n"
+"\r\n"
+"Lilya Hagen over in SubLight told me that I could always pursue a career in salvage if this thing doesn't work out.\r\n"
+"\r\n"
+"Please give Dad and the others a hug from me.\r\n"
+"\r\n"
+"Mom, it's really great that we can stay in touch like this. Little reminders of home are more important than ever.\r\n"
+"\r\n"
+"Enjoy the quality Spacer's Choice goods I sent. You can get ones just like them at home, but I figured you might appreciate me getting the company discount and all. \r\n"
+"\r\n"
+"-Martin"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_promenade_public_terminal:18
+msgctxt "conversations/01_groundbreaker/01_cp_promenade_public_terminal:18:DefaultText"
+msgid "[Public Notices]"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_promenade_public_terminal:19
+msgctxt "conversations/01_groundbreaker/01_cp_promenade_public_terminal:19:DefaultText"
+msgid "Groundbreaker Public Access Terminal\r\n"
+"============================\r\n"
+"\r\n"
+"Displaying public notices"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_promenade_public_terminal:20
+msgctxt "conversations/01_groundbreaker/01_cp_promenade_public_terminal:20:DefaultText"
+msgid "[Recent Users]"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_promenade_public_terminal:21
+msgctxt "conversations/01_groundbreaker/01_cp_promenade_public_terminal:21:DefaultText"
+msgid "Groundbreaker Public Access Terminal\r\n"
+"============================\r\n"
+"\r\n"
+"Loading recent users...\r\n"
+"\r\n"
+"CALLAHAN, M. - signed in\r\n"
+"EVERSON, B. - logged out\r\n"
+"OYAMA, T. - logged out"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_promenade_public_terminal:22
+msgctxt "conversations/01_groundbreaker/01_cp_promenade_public_terminal:22:DefaultText"
+msgid "[The Heat]"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_promenade_public_terminal:23
+msgctxt "conversations/01_groundbreaker/01_cp_promenade_public_terminal:23:DefaultText"
+msgid "Groundbreaker Public Access Terminal\r\n"
+"============================\r\n"
+"\r\n"
+"I know it's bad. As the one whose office is closest to our radiators, you can imagine why I want to take three showers every day. I hear you. \r\n"
+"\r\n"
+"We've got eyes on the problem. And hands. And tools. It's a mechanical problem with a mechanical solution. \r\n"
+"\r\n"
+"In the meantime, enjoy some additional water rations. And take breaks - you deserve them. If you're thirsting for cooler air, talk to your closest engineer about spots with favorable circulation.\r\n"
+"\r\n"
+"J.T."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_promenade_public_terminal:24
+msgctxt "conversations/01_groundbreaker/01_cp_promenade_public_terminal:24:DefaultText"
+msgid "[Feel That?]"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_promenade_public_terminal:25
+msgctxt "conversations/01_groundbreaker/01_cp_promenade_public_terminal:25:DefaultText"
+msgid "Groundbreaker Public Access Terminal\r\n"
+"============================\r\n"
+"\r\n"
+"That's right. We've fixed the radiators. Groundbreaker is venting heat as intended. \r\n"
+"\r\n"
+"Credit where credit is due, we couldn't have done it without an outsider who took on great personal risk and expense for our sakes. If you see a new face wandering the Promenade looking lost, chances are they deserve a hug for helping us through this crisis. \r\n"
+"\r\n"
+"Groundbreaker thanks you, outsider.\r\n"
+"\r\n"
+"J.T."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_promenade_public_terminal:26
+msgctxt "conversations/01_groundbreaker/01_cp_promenade_public_terminal:26:DefaultText"
+msgid "[Seeking Contractor: SubLight Salvage]"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_promenade_public_terminal:27
+msgctxt "conversations/01_groundbreaker/01_cp_promenade_public_terminal:27:DefaultText"
+msgid "Seeking ethically-flexible spacer with Stellar Bay landing clearance. \r\n"
+"\r\n"
+"Payment in exchange for return of legal salvage. Details given upon acceptance of contract. \r\n"
+"\r\n"
+"Active warrants? Prior convictions? No questions asked. Our background checks filter out criminal red flags. Plausible deniability is the SubLight way. \r\n"
+"\r\n"
+"See Lilya Hagen for details. Warehouse next to the Spratwurst joint, second floor. "
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_promenade_public_terminal:28
+msgctxt "conversations/01_groundbreaker/01_cp_promenade_public_terminal:28:DefaultText"
+msgid "[Loitering on Board Property is Strictly Prohibited]"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_promenade_public_terminal:29
+msgctxt "conversations/01_groundbreaker/01_cp_promenade_public_terminal:29:DefaultText"
+msgid "DO NOT DELETE\r\n"
+"\r\n"
+"The Halcyon Holdings corporate office and its environs are for conducting official Board business *only.* Anyone found misusing Board property will be fined accordingly.\r\n"
+"\r\n"
+"Board property includes - but is not limited to - Halcyon Holding's office here on Groundbreaker, the space directly in front of my desk, the space directly behind my desk, my doorway, my berth, and, most importantly, my stairs.\r\n"
+"\r\n"
+"Thank you for your cooperation.\r\n"
+"\r\n"
+"~Udom Bedford, Certified Liaison\r\n"
+"\r\n"
+"\r\n"
+"p.s. Please note that the next spacer caught drinking on the stairs outside the embassy may find themselves on the rude side of an airlock.\r\n"
+"\r\n"
+"p.p.s. This is the third time I've had to post this message, and I'm sick and tired of it. I will not hesitate to open a Board-sanctioned investigation into your behavior and, when you are caught, punish you accordingly, FELIX MILLSTONE."
+msgstr ""

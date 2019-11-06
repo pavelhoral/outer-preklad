@@ -1,0 +1,86 @@
+#: conversations/04_monarch/0401/0401_cp_cascadia_reviews:2
+msgctxt "conversations/04_monarch/0401/0401_cp_cascadia_reviews:2:DefaultText"
+msgid "Welcome to Rizzo's Employee Monitoring and Human Resources Portal!\r\n"
+"==========================="
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_cascadia_reviews:3
+msgctxt "conversations/04_monarch/0401/0401_cp_cascadia_reviews:3:DefaultText"
+msgid "[View Data]"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_cascadia_reviews:4
+msgctxt "conversations/04_monarch/0401/0401_cp_cascadia_reviews:4:DefaultText"
+msgid "[Exit]"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_cascadia_reviews:6
+msgctxt "conversations/04_monarch/0401/0401_cp_cascadia_reviews:6:DefaultText"
+msgid "Executive Reviews\r\n"
+"===========================\r\n"
+"\r\n"
+"Here to assess your progress? Grab a can of Rizzo's Purpleberry Punch, sit back, and learn how YOU can sweeten your career!\r\n"
+"\r\n"
+"Note: All employee reviews are property of Rizzo. Misuse of data may result in fines, loss of employee perks, and negative reviews."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_cascadia_reviews:8
+msgctxt "conversations/04_monarch/0401/0401_cp_cascadia_reviews:8:DefaultText"
+msgid "[Executive Review - BLACKWOOD, ZORA]"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_cascadia_reviews:9
+msgctxt "conversations/04_monarch/0401/0401_cp_cascadia_reviews:9:DefaultText"
+msgid "[Executive Review - MCCLURE, CECIL]"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_cascadia_reviews:11
+msgctxt "conversations/04_monarch/0401/0401_cp_cascadia_reviews:11:DefaultText"
+msgid "[Return to Root]"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_cascadia_reviews:13
+msgctxt "conversations/04_monarch/0401/0401_cp_cascadia_reviews:13:DefaultText"
+msgid "Executive Review for ZORA BLACKWOOD\r\n"
+"===========================\r\n"
+"\r\n"
+"Zora is a top-notch sawbones with a good head for working under pressure. She knows how to assimilate large amounts of detailed information to make quick decisions. Her competence and decisiveness have allowed her to restore more than a few limbs and digits lost to carelessness around the machinery.\r\n"
+"\r\n"
+"RECOMMEND FOR EMPLOYEE OF THE MONTH"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_cascadia_reviews:14
+msgctxt "conversations/04_monarch/0401/0401_cp_cascadia_reviews:14:DefaultText"
+msgid "[Export Executive Review for BLACKWOOD, ZORA to External Datapad]"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_cascadia_reviews:15
+msgctxt "conversations/04_monarch/0401/0401_cp_cascadia_reviews:15:DefaultText"
+msgid "Executive Review for CECIL MCCLURE\r\n"
+"===========================\r\n"
+"\r\n"
+"Cecil's enthusiasm for Rizzo's products is unmatched, and he displays an impressive knowledge of company products. \r\n"
+"\r\n"
+"He's exactly the kind of worker we need to keep at our storefronts.\r\n"
+"\r\n"
+"DO NOT PROMOTE BEYOND STORE MANAGER"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_cascadia_reviews:16
+msgctxt "conversations/04_monarch/0401/0401_cp_cascadia_reviews:16:DefaultText"
+msgid "Printing...\r\n"
+"\r\n"
+"Please remove your datapad from the transfer socket."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_cascadia_reviews:19
+msgctxt "conversations/04_monarch/0401/0401_cp_cascadia_reviews:19:DefaultText"
+msgid "Printing...\r\n"
+"\r\n"
+"Please remove your datapad from the transfer socket."
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_cascadia_reviews:20
+msgctxt "conversations/04_monarch/0401/0401_cp_cascadia_reviews:20:DefaultText"
+msgid "[Back]"
+msgstr ""

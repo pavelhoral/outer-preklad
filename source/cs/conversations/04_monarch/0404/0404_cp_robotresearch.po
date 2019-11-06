@@ -1,0 +1,249 @@
+#: conversations/04_monarch/0404/0404_cp_robotresearch:1
+msgctxt "conversations/04_monarch/0404/0404_cp_robotresearch:1:DefaultText"
+msgid "Rizzo, Inc. Personal Equipment\r\n"
+"======================\r\n"
+"This terminal is the sole property of [Buckwalter, H]. Access by any person other than [Buckwalter, H] is unauthorized. Consult your Rizzo employee handbook for the fines corresponding to the unauthorized access of personal-use terminals."
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cp_robotresearch:2
+msgctxt "conversations/04_monarch/0404/0404_cp_robotresearch:2:DefaultText"
+msgid "[Journal Entries: Buckwalter, H.]"
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cp_robotresearch:3
+msgctxt "conversations/04_monarch/0404/0404_cp_robotresearch:3:DefaultText"
+msgid "[Exit]"
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cp_robotresearch:4
+msgctxt "conversations/04_monarch/0404/0404_cp_robotresearch:4:DefaultText"
+msgid "[Access Automechanical Controls]"
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cp_robotresearch:5
+msgctxt "conversations/04_monarch/0404/0404_cp_robotresearch:5:DefaultText"
+msgid "Rizzo, Inc. Personal Equipment\r\n"
+"======================\r\n"
+"Available entries:"
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cp_robotresearch:11
+msgctxt "conversations/04_monarch/0404/0404_cp_robotresearch:11:DefaultText"
+msgid "[Preparations]"
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cp_robotresearch:12
+msgctxt "conversations/04_monarch/0404/0404_cp_robotresearch:12:DefaultText"
+msgid "Dearest Margaret,\r\n"
+"\r\n"
+"I fear that when you wake you'll think I've abandoned you like Rizzo has.\r\n"
+"\r\n"
+"I assure you of the opposite. I have commenced preparations to ensure you and Herbert survive until you are both rescued.\r\n"
+"\r\n"
+"As for myself, I fear the worst. I will make every attempt to survive the coming months, but the bites I suffered while fleeing from the raptidons show no signs of healing.\r\n"
+"\r\n"
+"I can only hope that you wake before I pass, but in the worst case, know that I love you both.\r\n"
+"\r\n"
+"Yours, now and well after my atoms have been consigned to the aether,\r\n"
+"Howard"
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cp_robotresearch:13
+msgctxt "conversations/04_monarch/0404/0404_cp_robotresearch:13:DefaultText"
+msgid "[Rationing]"
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cp_robotresearch:14
+msgctxt "conversations/04_monarch/0404/0404_cp_robotresearch:14:DefaultText"
+msgid "Dearest Margaret,\r\n"
+"\r\n"
+"Our quarters here may be tiny, but Herbert continues to investigate its every nook and cranny with utter delight. I am pleased to report that he shows no signs of distress following our sojourn into this humble new home.\r\n"
+"\r\n"
+"I have brought with me everything I can take from the surface. Our ex-colleagues continue to try and live above ground, though they have barred the north gate from the encroaching raptidons.\r\n"
+"\r\n"
+"They remain unaware as to the existence of this hideaway, and I aim to keep it so. If they found my store of food, they'd surely seek to divide it amongst themselves.\r\n"
+"\r\n"
+"Recalling my emergency training, though it was years ago, I have managed to secure intubation to sustain you while you sleep so peacefully.\r\n"
+"\r\n"
+"Properly rationed, our supplies here will last some years - surely enough that Rizzo will come to rescue us. At the very least, Herbert shall survive well through his adolescent years - with proper rationing, perhaps even into adulthood.\r\n"
+"\r\n"
+"As for myself, my wounds have begun to smell. Herbert pretends not to notice but the way his nose crinkles reminds me of how you used to laugh.\r\n"
+"\r\n"
+"How he grows with each passing day.\r\n"
+"\r\n"
+"Yours, now and well after my atoms have been consigned to the aether,\r\n"
+"Howard"
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cp_robotresearch:15
+msgctxt "conversations/04_monarch/0404/0404_cp_robotresearch:15:DefaultText"
+msgid "[Engineering a Mother]"
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cp_robotresearch:16
+msgctxt "conversations/04_monarch/0404/0404_cp_robotresearch:16:DefaultText"
+msgid "Dearest Margaret,\r\n"
+"\r\n"
+"I hope you will not take offense, should you one day wake to find an automechanical preparing Herbert's meals or adjusting your intake tubes.\r\n"
+"\r\n"
+"It has taken quite an effort - and many failures, to which my new burns can attest - to engineer an automechanical to take care of any person, much less one infant and one comatose woman.\r\n"
+"\r\n"
+"With any luck, should the infection in my leg continue to grow, these machines will handily replace my fatherly duties and maintain the loving care required to raise Herbert and nurse you back to health. To my surprise, the cooking model is even capable of limited tutoring services.\r\n"
+"\r\n"
+"Yours, now and well after my atoms have been consigned to the aether,\r\n"
+"Howard"
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cp_robotresearch:17
+msgctxt "conversations/04_monarch/0404/0404_cp_robotresearch:17:DefaultText"
+msgid "[Underwear]"
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cp_robotresearch:18
+msgctxt "conversations/04_monarch/0404/0404_cp_robotresearch:18:DefaultText"
+msgid "Dearest Margaret,\r\n"
+"\r\n"
+"The automechanicals are working splendidly; their fervor reminds me of my youth, years ago, before I became the exhausted husk I am today.\r\n"
+"\r\n"
+"Part of me is thankful that you cannot see me in such a state, with one useless leg and ominous streaks of black racing along my veins.\r\n"
+"\r\n"
+"I will leave you with a word of advice - in the absence of proper undergarments, I have taught the automechanicals to wash tanned raptidon hides for reuse. With the last vestiges of my strength, I collected a few from the surface.\r\n"
+"\r\n"
+"Should you wake, I beg you: Do not go up there. Remain here until rescued. Our colleagues have perished and only monsters now remain.\r\n"
+"\r\n"
+"Yours, now and well after my atoms have been consigned to the aether,\r\n"
+"Howard"
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cp_robotresearch:19
+msgctxt "conversations/04_monarch/0404/0404_cp_robotresearch:19:DefaultText"
+msgid "[Back]"
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cp_robotresearch:24
+msgctxt "conversations/04_monarch/0404/0404_cp_robotresearch:24:DefaultText"
+msgid "Rizzo, Inc. Personal Equipment\r\n"
+"======================\r\n"
+"Available functions:"
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cp_robotresearch:25
+msgctxt "conversations/04_monarch/0404/0404_cp_robotresearch:25:DefaultText"
+msgid "[Disable Security Protocols]"
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cp_robotresearch:26
+msgctxt "conversations/04_monarch/0404/0404_cp_robotresearch:26:DefaultText"
+msgid "[Enable Security Protocols]"
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cp_robotresearch:27
+msgctxt "conversations/04_monarch/0404/0404_cp_robotresearch:27:DefaultText"
+msgid "Rizzo, Inc. Personal Equipment\r\n"
+"======================\r\n"
+"Automechanicals disabled."
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cp_robotresearch:28
+msgctxt "conversations/04_monarch/0404/0404_cp_robotresearch:28:DefaultText"
+msgid "Rizzo, Inc. Personal Equipment\r\n"
+"======================\r\n"
+"Automechanicals enabled."
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cp_robotresearch:36
+msgctxt "conversations/04_monarch/0404/0404_cp_robotresearch:36:DefaultText"
+msgid "[Journal Entries: Buckwalter, D.]"
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cp_robotresearch:37
+msgctxt "conversations/04_monarch/0404/0404_cp_robotresearch:37:DefaultText"
+msgid "Rizzo, Inc. Personal Equipment\r\n"
+"======================\r\n"
+"Available entries:"
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cp_robotresearch:38
+msgctxt "conversations/04_monarch/0404/0404_cp_robotresearch:38:DefaultText"
+msgid "[Rizzo]"
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cp_robotresearch:39
+msgctxt "conversations/04_monarch/0404/0404_cp_robotresearch:39:DefaultText"
+msgid "rizzos purple berry crunch ready to eat\r\n"
+"\r\n"
+"tripicale flakes purple berry flavored power nuggets\r\n"
+"\r\n"
+"rizzos purple berry lunch non organic purpleberries crackers cheese p free nuts\r\n"
+"\r\n"
+"theres always time for purple berry lunch\r\n"
+"\r\n"
+"new\r\n"
+"\r\n"
+"net wt 3 2 oz 90g\r\n"
+"\r\n"
+"rizzos knock you out ccn76 milk chocolate with caramel p free nuts its time for a kyo\r\n"
+"\r\n"
+"abcdefghijklmnopqrstuvwxyz"
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cp_robotresearch:40
+msgctxt "conversations/04_monarch/0404/0404_cp_robotresearch:40:DefaultText"
+msgid "[Letters]"
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cp_robotresearch:41
+msgctxt "conversations/04_monarch/0404/0404_cp_robotresearch:41:DefaultText"
+msgid "[Scythe]"
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cp_robotresearch:42
+msgctxt "conversations/04_monarch/0404/0404_cp_robotresearch:42:DefaultText"
+msgid "[Back]"
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cp_robotresearch:43
+msgctxt "conversations/04_monarch/0404/0404_cp_robotresearch:43:DefaultText"
+msgid "qwertyuiopasdfghjklzxcvbnm\r\n"
+"\r\n"
+"father insists i practice my letters so here we are\r\n"
+"\r\n"
+"abcdefghijklmnopqrstuvwxyz"
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cp_robotresearch:44
+msgctxt "conversations/04_monarch/0404/0404_cp_robotresearch:44:DefaultText"
+msgid "[Back]"
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cp_robotresearch:45
+msgctxt "conversations/04_monarch/0404/0404_cp_robotresearch:45:DefaultText"
+msgid "today father finally let me use the candy cane\r\n"
+"\r\n"
+"it is called a \"scythe\"\r\n"
+"\r\n"
+"he showed me how to be safe so i do not burn myself\r\n"
+"\r\n"
+"maybe i can use it to capture another wooly friend and make him proud"
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cp_robotresearch:46
+msgctxt "conversations/04_monarch/0404/0404_cp_robotresearch:46:DefaultText"
+msgid "[Father]"
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cp_robotresearch:47
+msgctxt "conversations/04_monarch/0404/0404_cp_robotresearch:47:DefaultText"
+msgid "howard has not moved this morning\r\n"
+"\r\n"
+"his tummy is very still and he is very quiet like mother was when howard took her tubes out and cried all night\r\n"
+"\r\n"
+"i think white hat is my father now\r\n"
+"\r\n"
+"i don't know if it is able to be proud but i will try my best"
+msgstr ""
+
+#: conversations/04_monarch/0404/0404_cp_robotresearch:48
+msgctxt "conversations/04_monarch/0404/0404_cp_robotresearch:48:DefaultText"
+msgid "[Continue]"
+msgstr ""

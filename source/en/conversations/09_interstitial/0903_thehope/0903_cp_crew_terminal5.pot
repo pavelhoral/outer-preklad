@@ -1,0 +1,90 @@
+#: conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal5:3
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal5:3:DefaultText"
+msgid "UDL-002 THE HOPE\r\n"
+"===========================\r\n"
+"Warning: Unauthorized access will result in immediate termination upon your arrival in Halcyon."
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal5:4
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal5:4:DefaultText"
+msgid "[Automated Audio Transcript #R-2317]"
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal5:6
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal5:6:DefaultText"
+msgid "[Manual log #L-4403 - HUNTE, W.]"
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal5:8
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal5:8:DefaultText"
+msgid "[Automated Audio Transcript #R-2481]"
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal5:17
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal5:17:DefaultText"
+msgid "[Exit]"
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal5:27
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal5:27:DefaultText"
+msgid "[Automated Audio Transcript #R-2490]"
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal5:46
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal5:46:DefaultText"
+msgid "HUNTE, W: What is it, Rezi?\r\n"
+"TORREGA, R: Captain. Hey. Sorry for waking you. One of the pod alarms went off. I didn't know what to do.\r\n"
+"HUNTE, W: Pod alarms? The colonists?\r\n"
+"TORREGA, R: Yes. See?\r\n"
+"HUNTE, W: I'll check it out. Thanks."
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal5:50
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal5:50:DefaultText"
+msgid "I'm writing this down because I'm not sure what to do, but I want the incident on record.\r\n"
+"\r\n"
+"One of our colonists has gone missing. The cameras in the pod bay have been deactivated for... I don't know how long.\r\n"
+"\r\n"
+"Rezi helped me hook another up in secret. I've been checking on it every morning, and today, I discovered our chief engineer tampering with one of the pods in the middle of the night.\r\n"
+"\r\n"
+"I haven't confronted him yet. I'll collect more evidence before I do. I don't know why Frank would start waking people up. We're short on food as is."
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal5:51
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal5:51:DefaultText"
+msgid "HUNTE, W: I should throw you out of the fucking airlock, Frank.\r\n"
+"NOLDA, F: You should be thanking me for solving our food crisis!\r\n"
+"HUNTE, W: This is your solution? Sacrificing innocent people?\r\n"
+"TORREGA, R: What's going on?\r\n"
+"HUNTE, W: Rezi. Find Alexei. We're throwing Frank in the brig.\r\n"
+"TORREGA, R: What? Why?\r\n"
+"HUNTE, W: He's been ea- he's the one who's tampering with the pods.\r\n"
+"NOLDA, F: Oh, what, you're going to spare her the grisly details? I ate them, Rezi.\r\n"
+"TORREGA, R: You... you ate them?\r\n"
+"NOLDA, F: And I ain't apologizing for it! If we don't survive, they're as good as dead anyway.\r\n"
+"TORREGA, R: I'm... oh, no. I can't... I'm going to be sick.\r\n"
+"HUNTE, W: Just find Alexei!\r\n"
+"TORREGA, R: Okay. Okay."
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal5:52
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal5:52:DefaultText"
+msgid "VOLKOV, A: I've been talking to Frank.\r\n"
+"HUNTE, W: And? How's the brig?\r\n"
+"VOLKOV, A: Captain... he makes a kind of sense.\r\n"
+"HUNTE, W: Dammit, Alexei, not you, too. Don't listen to that madman.\r\n"
+"VOLKOV, A: What if your wife can't grow more food? What if it fails?\r\n"
+"HUNTE, W: Then we'll figure something else out. We are not cannibals."
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal5:53
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal5:53:DefaultText"
+msgid "CREW TERMINAL\r\n"
+"===========================\r\n"
+"Error accessing archives. Available entries:"
+msgstr ""
+
+#: conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal5:56
+msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal5:56:DefaultText"
+msgid "[Continue]"
+msgstr ""

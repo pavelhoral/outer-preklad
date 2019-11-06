@@ -1,0 +1,19 @@
+#: conversations/04_monarch/0401/0401_cp_door_cnp_exit:1
+msgctxt "conversations/04_monarch/0401/0401_cp_door_cnp_exit:1:DefaultText"
+msgid "DOOR STATUS: Sealed"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_door_cnp_exit:2
+msgctxt "conversations/04_monarch/0401/0401_cp_door_cnp_exit:2:DefaultText"
+msgid "[Unseal Door]"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_door_cnp_exit:3
+msgctxt "conversations/04_monarch/0401/0401_cp_door_cnp_exit:3:DefaultText"
+msgid "[Exit]"
+msgstr ""
+
+#: conversations/04_monarch/0401/0401_cp_door_cnp_exit:4
+msgctxt "conversations/04_monarch/0401/0401_cp_door_cnp_exit:4:DefaultText"
+msgid "DOOR STATUS: Unsealed"
+msgstr ""

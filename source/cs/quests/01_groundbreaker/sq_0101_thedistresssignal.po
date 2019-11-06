@@ -1,0 +1,171 @@
+#: quests/01_groundbreaker/sq_0101_thedistresssignal:0
+msgctxt "quests/01_groundbreaker/sq_0101_thedistresssignal:0:DefaultText"
+msgid "The Distress Signal"
+msgstr ""
+
+#: quests/01_groundbreaker/sq_0101_thedistresssignal:1
+msgctxt "quests/01_groundbreaker/sq_0101_thedistresssignal:1:DefaultText"
+msgid "Search for Secrets in Roseway"
+msgstr ""
+
+#: quests/01_groundbreaker/sq_0101_thedistresssignal:2
+msgctxt "quests/01_groundbreaker/sq_0101_thedistresssignal:2:DefaultText"
+msgid "Acquire Anton's Research"
+msgstr ""
+
+#: quests/01_groundbreaker/sq_0101_thedistresssignal:3
+msgctxt "quests/01_groundbreaker/sq_0101_thedistresssignal:3:DefaultText"
+msgid "Return to Gladys on the Groundbreaker"
+msgstr ""
+
+#: quests/01_groundbreaker/sq_0101_thedistresssignal:5
+msgctxt "quests/01_groundbreaker/sq_0101_thedistresssignal:5:DefaultText"
+msgid "Acquire Vaughn's Research"
+msgstr ""
+
+#: quests/01_groundbreaker/sq_0101_thedistresssignal:7
+msgctxt "quests/01_groundbreaker/sq_0101_thedistresssignal:7:DefaultText"
+msgid "Acquire the Weapon Plans"
+msgstr ""
+
+#: quests/01_groundbreaker/sq_0101_thedistresssignal:14
+msgctxt "quests/01_groundbreaker/sq_0101_thedistresssignal:14:DefaultText"
+msgid "View the Distress Signal Recording on Your Ship"
+msgstr ""
+
+#: quests/01_groundbreaker/sq_0101_thedistresssignal:10000
+msgctxt "quests/01_groundbreaker/sq_0101_thedistresssignal:10000:DefaultText"
+msgid "Gladys has given you a copy of a distress signal from Terra 2. Someone in Roseway, a supposedly-abandoned Auntie Cleo outpost, is requesting help.\n"
+"\n"
+"If there are corporate operations hiding there, it's likely you'll be able to find some valuable data to sell back to Gladys."
+msgstr ""
+
+#: quests/01_groundbreaker/sq_0101_thedistresssignal:10001
+msgctxt "quests/01_groundbreaker/sq_0101_thedistresssignal:10001:DefaultText"
+msgid "Investigate Roseway to find potential company secrets that could be sold to the highest bidder through Gladys. Talking to the scientists around the town would probably be a good place to start."
+msgstr ""
+
+#: quests/01_groundbreaker/sq_0101_thedistresssignal:10002
+msgctxt "quests/01_groundbreaker/sq_0101_thedistresssignal:10002:DefaultText"
+msgid "Anton's research sounds like it'd be valuable to Gladys."
+msgstr ""
+
+#: quests/01_groundbreaker/sq_0101_thedistresssignal:10003
+msgctxt "quests/01_groundbreaker/sq_0101_thedistresssignal:10003:DefaultText"
+msgid "You've acquired one of the company secrets that Gladys was talking about. You can return to her to sell it, or keep searching for more secrets."
+msgstr ""
+
+#: quests/01_groundbreaker/sq_0101_thedistresssignal:10005
+msgctxt "quests/01_groundbreaker/sq_0101_thedistresssignal:10005:DefaultText"
+msgid "Vaughn's semi-legal research would likely be valuable to Gladys."
+msgstr ""
+
+#: quests/01_groundbreaker/sq_0101_thedistresssignal:10007
+msgctxt "quests/01_groundbreaker/sq_0101_thedistresssignal:10007:DefaultText"
+msgid "The schematics for Orson's prototype would likely be valuable to Gladys."
+msgstr ""
+
+#: quests/01_groundbreaker/sq_0101_thedistresssignal:10014
+msgctxt "quests/01_groundbreaker/sq_0101_thedistresssignal:10014:DefaultText"
+msgid "The distress signal has nav coordinates embedded in it. Play it on your ship so that ADA can get to the Roseway landing pad."
+msgstr ""
+
+#: quests/01_groundbreaker/sq_0101_thedistresssignal:20001
+msgctxt "quests/01_groundbreaker/sq_0101_thedistresssignal:20001:DefaultText"
+msgid "You've acquired all of the worthwhile company secrets in Roseway. Head back to Gladys on the Groundbreaker."
+msgstr ""
+
+#: quests/01_groundbreaker/sq_0101_thedistresssignal:20002
+msgctxt "quests/01_groundbreaker/sq_0101_thedistresssignal:20002:DefaultText"
+msgid "You returned the toothpaste formula to Anton."
+msgstr ""
+
+#: quests/01_groundbreaker/sq_0101_thedistresssignal:20003
+msgctxt "quests/01_groundbreaker/sq_0101_thedistresssignal:20003:DefaultText"
+msgid "You returned the raptidon musk research to Vaughn."
+msgstr ""
+
+#: quests/01_groundbreaker/sq_0101_thedistresssignal:20004
+msgctxt "quests/01_groundbreaker/sq_0101_thedistresssignal:20004:DefaultText"
+msgid "You returned the FORCE schematics to Orson."
+msgstr ""
+
+#: quests/01_groundbreaker/sq_0101_thedistresssignal:20005
+msgctxt "quests/01_groundbreaker/sq_0101_thedistresssignal:20005:DefaultText"
+msgid "You let Cassandra keep Anton's research."
+msgstr ""
+
+#: quests/01_groundbreaker/sq_0101_thedistresssignal:20006
+msgctxt "quests/01_groundbreaker/sq_0101_thedistresssignal:20006:DefaultText"
+msgid "You sabotaged Vaughn's experiment."
+msgstr ""
+
+#: quests/01_groundbreaker/sq_0101_thedistresssignal:20007
+msgctxt "quests/01_groundbreaker/sq_0101_thedistresssignal:20007:DefaultText"
+msgid "You've dealt with all of the company secrets in Roseway. Report back to Gladys."
+msgstr ""
+
+#: quests/01_groundbreaker/sq_0101_thedistresssignal:20008
+msgctxt "quests/01_groundbreaker/sq_0101_thedistresssignal:20008:DefaultText"
+msgid "Anton is dead, and can no longer provide you with any information."
+msgstr ""
+
+#: quests/01_groundbreaker/sq_0101_thedistresssignal:20009
+msgctxt "quests/01_groundbreaker/sq_0101_thedistresssignal:20009:DefaultText"
+msgid "Orson is dead, and can no longer provide you with any information."
+msgstr ""
+
+#: quests/01_groundbreaker/sq_0101_thedistresssignal:20010
+msgctxt "quests/01_groundbreaker/sq_0101_thedistresssignal:20010:DefaultText"
+msgid "Vaughn is dead, and can no longer provide you with any information."
+msgstr ""
+
+#: quests/01_groundbreaker/sq_0101_thedistresssignal:20011
+msgctxt "quests/01_groundbreaker/sq_0101_thedistresssignal:20011:DefaultText"
+msgid "All three scientists are dead, which means you'll just have to search around Roseway for secrets on your own."
+msgstr ""
+
+#: quests/01_groundbreaker/sq_0101_thedistresssignal:20012
+msgctxt "quests/01_groundbreaker/sq_0101_thedistresssignal:20012:DefaultText"
+msgid "You sold the toothpaste formula to Gladys."
+msgstr ""
+
+#: quests/01_groundbreaker/sq_0101_thedistresssignal:20013
+msgctxt "quests/01_groundbreaker/sq_0101_thedistresssignal:20013:DefaultText"
+msgid "You sold the raptidon musk research to Gladys."
+msgstr ""
+
+#: quests/01_groundbreaker/sq_0101_thedistresssignal:20014
+msgctxt "quests/01_groundbreaker/sq_0101_thedistresssignal:20014:DefaultText"
+msgid "You sold the FORCE schematics to Gladys."
+msgstr ""
+
+#: quests/01_groundbreaker/sq_0101_thedistresssignal:30000
+msgctxt "quests/01_groundbreaker/sq_0101_thedistresssignal:30000:DefaultText"
+msgid "You found some company secrets in Roseway and sold them to Gladys for a nice cut of money."
+msgstr ""
+
+#: quests/01_groundbreaker/sq_0101_thedistresssignal:30001
+msgctxt "quests/01_groundbreaker/sq_0101_thedistresssignal:30001:DefaultText"
+msgid "You found all of the company secrets in Roseway and sold them to Gladys for a ton of money."
+msgstr ""
+
+#: quests/01_groundbreaker/sq_0101_thedistresssignal:30002
+msgctxt "quests/01_groundbreaker/sq_0101_thedistresssignal:30002:DefaultText"
+msgid "You weren't able to acquire any of the company secrets from Roseway. Gladys still gave you a few bits for investigating for her though."
+msgstr ""
+
+#: quests/01_groundbreaker/sq_0101_thedistresssignal:30004
+msgctxt "quests/01_groundbreaker/sq_0101_thedistresssignal:30004:DefaultText"
+msgid "Gladys was killed, preventing you from selling the secrets to her."
+msgstr ""
+
+#: quests/01_groundbreaker/sq_0101_thedistresssignal:30005
+msgctxt "quests/01_groundbreaker/sq_0101_thedistresssignal:30005:DefaultText"
+msgid "The Groundbreaker has become hostile towards you, making it impossible to complete this quest."
+msgstr ""
+
+#: quests/01_groundbreaker/sq_0101_thedistresssignal:40001
+msgctxt "quests/01_groundbreaker/sq_0101_thedistresssignal:40001:DefaultText"
+msgid "You've dealt with one of the company secrets that Gladys was talking about. You can return to her and inform her of what happened, or keep searching for more secrets."
+msgstr ""

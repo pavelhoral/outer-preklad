@@ -1,0 +1,152 @@
+#: conversations/01_groundbreaker/01_cp_engineering_parvati_music:1
+msgctxt "conversations/01_groundbreaker/01_cp_engineering_parvati_music:1:DefaultText"
+msgid "Propulsion Plant Master Circuit (2MC)\r\n"
+"Auxiliary Monitoring Station\r\n"
+"==========================\r\n"
+"\r\n"
+"Main menu"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_engineering_parvati_music:2
+msgctxt "conversations/01_groundbreaker/01_cp_engineering_parvati_music:2:DefaultText"
+msgid "[Display Music Cartridge Use, By Number of Plays] "
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_engineering_parvati_music:3
+msgctxt "conversations/01_groundbreaker/01_cp_engineering_parvati_music:3:DefaultText"
+msgid "Propulsion Plant Master Circuit (2MC)\r\n"
+"Auxiliary Monitoring Station\r\n"
+"==========================\r\n"
+"\r\n"
+"Working...\r\n"
+"\r\n"
+"2,155,037 cartridge access records found in 25,387 days\r\n"
+"\r\n"
+"Specify User:"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_engineering_parvati_music:4
+msgctxt "conversations/01_groundbreaker/01_cp_engineering_parvati_music:4:DefaultText"
+msgid "[Tennyson, Junlei]"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_engineering_parvati_music:5
+msgctxt "conversations/01_groundbreaker/01_cp_engineering_parvati_music:5:DefaultText"
+msgid "Propulsion Plant Master Circuit (2MC)\r\n"
+"Auxiliary Monitoring Station\r\n"
+"==========================\r\n"
+"\r\n"
+"User Tennyson, J. has accessed the following 5 music cartridges most frequently:\r\n"
+"\r\n"
+"347 - \"I'll Be With You When the Greenhouse Blossoms\" by Marise Selvidge\r\n"
+"126 - \"Aether Waltz\" by Chuck Yellen and His Eleven Yellin' Men\r\n"
+"104 - \"Waiting for the Birds to Return\" by Hannah Wyeth\r\n"
+"102 - \"Breath of Gravity\" by The Ghostwriters\r\n"
+"96 - \"Mo Li Hua\" by Josephine Liu"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_engineering_parvati_music:7
+msgctxt "conversations/01_groundbreaker/01_cp_engineering_parvati_music:7:DefaultText"
+msgid "[Jiang, Song]"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_engineering_parvati_music:8
+msgctxt "conversations/01_groundbreaker/01_cp_engineering_parvati_music:8:DefaultText"
+msgid "Propulsion Plant Master Circuit (2MC)\r\n"
+"Auxiliary Monitoring Station\r\n"
+"==========================\r\n"
+"\r\n"
+"User Jiang, S.. has accessed the following 5 music cartridges most frequently:\r\n"
+"\r\n"
+"274 - \"Last Shuttle Outta the Well\" by The Ad-Hoc Rocket Jocks\r\n"
+"185 - \"Cut the Stars From Fire\" by The Half-Carafes\r\n"
+"133 - \"Don't Watch the Moons (With Anyone Else)\" by Eloise Desai with the Byzantium Philharmonic\r\n"
+"87 - \"Before the Comets Fell\" by The Canfields\r\n"
+"75 - \"She Don't Fly Those Skies No More\" by Reggie Horton and the Silent Qs"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_engineering_parvati_music:9
+msgctxt "conversations/01_groundbreaker/01_cp_engineering_parvati_music:9:DefaultText"
+msgid "[Holcomb, Parvati]"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_engineering_parvati_music:10
+msgctxt "conversations/01_groundbreaker/01_cp_engineering_parvati_music:10:DefaultText"
+msgid "Propulsion Plant Master Circuit (2MC)\r\n"
+"Auxiliary Monitoring Station\r\n"
+"==========================\r\n"
+"\r\n"
+"User Holcomb, P.. has accessed the following 5 music cartridges most frequently:\r\n"
+"\r\n"
+"17 - \"On That Distant Moon\" by Lapis Laplace\r\n"
+"14 - \"Where the Sun Came Up\" by Althea Highsmith\r\n"
+"12 - \"I'll Be With You When the Greenhouse Blossoms\" by Marise Selvidge\r\n"
+"10 - \"Into Each Other's Arms\" by The Drouins\r\n"
+"8 - \"Stars Like Dust\" by Asenka and Juri"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_engineering_parvati_music:11
+msgctxt "conversations/01_groundbreaker/01_cp_engineering_parvati_music:11:DefaultText"
+msgid "[Exit]"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_engineering_parvati_music:12
+msgctxt "conversations/01_groundbreaker/01_cp_engineering_parvati_music:12:DefaultText"
+msgid "[Archived Logs and Transmissions]"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_engineering_parvati_music:13
+msgctxt "conversations/01_groundbreaker/01_cp_engineering_parvati_music:13:DefaultText"
+msgid "Propulsion Plant Master Circuit (2MC)\r\n"
+"Auxiliary Monitoring Station\r\n"
+"==========================\r\n"
+"\r\n"
+"Archived logs and transmissions"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_engineering_parvati_music:14
+msgctxt "conversations/01_groundbreaker/01_cp_engineering_parvati_music:14:DefaultText"
+msgid "[Return to Root]"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_engineering_parvati_music:15
+msgctxt "conversations/01_groundbreaker/01_cp_engineering_parvati_music:15:DefaultText"
+msgid "[Arrival Confirmation]"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_engineering_parvati_music:16
+msgctxt "conversations/01_groundbreaker/01_cp_engineering_parvati_music:16:DefaultText"
+msgid "[A Stern Reminder]"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_engineering_parvati_music:17
+msgctxt "conversations/01_groundbreaker/01_cp_engineering_parvati_music:17:DefaultText"
+msgid "Propulsion Plant Master Circuit (2MC)\r\n"
+"Auxiliary Monitoring Station\r\n"
+"==========================\n"
+"\n"
+"To HHB, Earth HQ. Transmitted via probe, archived at source. \n"
+"\n"
+"It is my honor to report that Groundbreaker has successfully arrived at the Lagrange point, having released our cargo of prefab housing, settlers, and supplies at their intended colony worlds. May they prosper and expand.  \n"
+"\n"
+"Now that stages one and two of the mission have been carried out, my family will take ownership of the Groundbreaker as specified in our contract, keeping the ship in active duty as an independent trading post, repair stop, and cargo bay.\n"
+"\n"
+"I'd be remiss if I closed this transmission without sending my hopes and best wishes back to Earth. There's so much ahead of us, but we'll never forget what we left behind. \n"
+"\n"
+"Chief Guiying"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_engineering_parvati_music:18
+msgctxt "conversations/01_groundbreaker/01_cp_engineering_parvati_music:18:DefaultText"
+msgid "Propulsion Plant Master Circuit (2MC)\r\n"
+"Auxiliary Monitoring Station\r\n"
+"==========================\r\n"
+"\r\n"
+"Some very rich and unsavory elements among our colonial neighbors seem to have the wrong idea about why I flew us out here. It wasn't for a nine-figure blood money salary and a Spacer's Choice logo stamped on my ass. It wasn't to nickel and dime passing ships out of their last bit. \r\n"
+"\r\n"
+"Groundbreaker has no role in the success or failure of Halcyon's corporate entities. Period. I negotiated that understanding and clearly outlined it in writing before I ever set foot on this ship. \r\n"
+"\r\n"
+"If anyone wants to dispute or compromise our independence, they will answer to a Tennyson. We're a family operation. Even when the last Tennyson falls, Groundbreaker will remember us and defend its freedom accordingly. \r\n"
+"\r\n"
+"Chief Guiying"
+msgstr ""

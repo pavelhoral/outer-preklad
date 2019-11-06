@@ -1,0 +1,108 @@
+#: conversations/01_groundbreaker/01_cp_scihammer_terminal:1
+msgctxt "conversations/01_groundbreaker/01_cp_scihammer_terminal:1:DefaultText"
+msgid "Prismatic Hammer Research Terminal\r\n"
+"============================\r\n"
+"\r\n"
+"Main menu"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_scihammer_terminal:2
+msgctxt "conversations/01_groundbreaker/01_cp_scihammer_terminal:2:DefaultText"
+msgid "[Log 01 - Discovery]"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_scihammer_terminal:3
+msgctxt "conversations/01_groundbreaker/01_cp_scihammer_terminal:3:DefaultText"
+msgid "[Log 02 - Mystery]"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_scihammer_terminal:4
+msgctxt "conversations/01_groundbreaker/01_cp_scihammer_terminal:4:DefaultText"
+msgid "[Log 03 - Troubles]"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_scihammer_terminal:5
+msgctxt "conversations/01_groundbreaker/01_cp_scihammer_terminal:5:DefaultText"
+msgid "[Log 04 - Annihilation]"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_scihammer_terminal:6
+msgctxt "conversations/01_groundbreaker/01_cp_scihammer_terminal:6:DefaultText"
+msgid "[Exit]"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_scihammer_terminal:8
+msgctxt "conversations/01_groundbreaker/01_cp_scihammer_terminal:8:DefaultText"
+msgid "Prismatic Hammer Research Terminal\r\n"
+"============================\r\n"
+"\r\n"
+"Entry 01:\r\n"
+"\r\n"
+"While rummaging through the back bays, I discovered a very old Hammersmith crate that seemed to have been sealed for a very long time. A bit of elbow grease and determination pried it open, but I couldn't make heads or tails of my discovery - a prototype hammer. \r\n"
+"\r\n"
+"I didn't know Hammersmith actually made hammers, but I've brought it to my lab for a closer look.\r\n"
+"\r\n"
+"How strangely it glows. The trail of its wake lingers even when my eyes are closed. "
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_scihammer_terminal:9
+msgctxt "conversations/01_groundbreaker/01_cp_scihammer_terminal:9:DefaultText"
+msgid "Prismatic Hammer Research Terminal\r\n"
+"============================\r\n"
+"\r\n"
+"Entry 02:\r\n"
+"\r\n"
+"I've spent more time on the hammer. Its internal workings are state of the art - thermal, electrical, and chemical systems all working in harmony. How is this even possible? The weapon is a breakthrough in circuitry and engineering, and many of its systems appear rigged against tampering. \r\n"
+"\r\n"
+"There's a curious energy signature swirling about the weapon, though I have yet to identify the source. The air tastes of copper. And I have lost several teeth. "
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_scihammer_terminal:10
+msgctxt "conversations/01_groundbreaker/01_cp_scihammer_terminal:10:DefaultText"
+msgid "Prismatic Hammer Research Terminal\r\n"
+"============================\r\n"
+"\r\n"
+"Entry 03:\r\n"
+"\r\n"
+"I have had the most sublime, prismatic dreams since I invited the hammer into my bedchamber. \r\n"
+"\r\n"
+"Never mind that for now. Good news first. The energy signature matches Blondiot's elusive N-rays, raising the hammer's elemental properties to four: shock, plasma, corrosion, and radiation.\r\n"
+"\r\n"
+"Now for the bad. In my attempts to neuter the self-destruct functionality, I inadvertently caused a small fire. The hammer's manual controls may never function again. Swinging it seems to be the only way of cycling through its elemental modes.\r\n"
+"\r\n"
+"I must take greater care with future experiments."
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_scihammer_terminal:11
+msgctxt "conversations/01_groundbreaker/01_cp_scihammer_terminal:11:DefaultText"
+msgid "Prismatic Hammer Research Terminal\r\n"
+"============================\r\n"
+"\r\n"
+"Entry 04:\r\n"
+"\r\n"
+"I've taken the liberty of locking myself in the workshop. My tinkerings were all for naught. This is no prototype - I am simply too flawed to recognize its perfections. \r\n"
+"\r\n"
+"The hammer is a lesson. A symbol. It whispers to me that disorder rules all things, but with a little ambition we can harness that power. Only by inflicting chaos upon others can we transmute disorder into harmony. \r\n"
+"\r\n"
+"And that is a lesson Halcyon is not ready to hear. "
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_scihammer_terminal:12
+msgctxt "conversations/01_groundbreaker/01_cp_scihammer_terminal:12:DefaultText"
+msgid "[Return to Root]"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_scihammer_terminal:13
+msgctxt "conversations/01_groundbreaker/01_cp_scihammer_terminal:13:DefaultText"
+msgid "[Logs]"
+msgstr ""
+
+#: conversations/01_groundbreaker/01_cp_scihammer_terminal:14
+msgctxt "conversations/01_groundbreaker/01_cp_scihammer_terminal:14:DefaultText"
+msgid "Prismatic Hammer Research Terminal\r\n"
+"============================\r\n"
+"\r\n"
+"Displaying log entries.\r\n"
+"\r\n"
+"Last log entry date: ERROR - ABERRANT INTERFERENCE."
+msgstr ""

@@ -1,0 +1,60 @@
+#: conversations/00_emerald_vale/0006_communitycenter/0006_cp_lobby_terminal:1
+msgctxt "conversations/00_emerald_vale/0006_communitycenter/0006_cp_lobby_terminal:1:DefaultText"
+msgid "Emerald Vale Community Center\r\n"
+"\r\n"
+"A Spacer's Choice Property\r\n"
+"========================\r\n"
+"\r\n"
+"Terminal Access\r\n"
+"\r\n"
+"\r\n"
+"Please select a command:"
+msgstr ""
+
+#: conversations/00_emerald_vale/0006_communitycenter/0006_cp_lobby_terminal:2
+msgctxt "conversations/00_emerald_vale/0006_communitycenter/0006_cp_lobby_terminal:2:DefaultText"
+msgid "[Encode First Aid Keycard]"
+msgstr ""
+
+#: conversations/00_emerald_vale/0006_communitycenter/0006_cp_lobby_terminal:3
+msgctxt "conversations/00_emerald_vale/0006_communitycenter/0006_cp_lobby_terminal:3:DefaultText"
+msgid "[Logs]"
+msgstr ""
+
+#: conversations/00_emerald_vale/0006_communitycenter/0006_cp_lobby_terminal:4
+msgctxt "conversations/00_emerald_vale/0006_communitycenter/0006_cp_lobby_terminal:4:DefaultText"
+msgid "[Exit]"
+msgstr ""
+
+#: conversations/00_emerald_vale/0006_communitycenter/0006_cp_lobby_terminal:5
+msgctxt "conversations/00_emerald_vale/0006_communitycenter/0006_cp_lobby_terminal:5:DefaultText"
+msgid "Emerald Vale Community Center\r\n"
+"\r\n"
+"A Spacer's Choice Property\r\n"
+"========================\r\n"
+"\r\n"
+"Keycard encoded.\r\n"
+"\r\n"
+"Thank you for choosing Spacer's Choice!"
+msgstr ""
+
+#: conversations/00_emerald_vale/0006_communitycenter/0006_cp_lobby_terminal:6
+msgctxt "conversations/00_emerald_vale/0006_communitycenter/0006_cp_lobby_terminal:6:DefaultText"
+msgid "Emerald Vale Community Center\r\n"
+"\r\n"
+"A Spacer's Choice Property\r\n"
+"========================\r\n"
+"\r\n"
+"History of Emerald Vale Exhibit\r\n"
+"\r\n"
+"Synopsis: The History of Emerald Vale, once complete, will display the proud heritage of our settlement for generations to come. Decorating the main hall of our noble community center, this elaborate diorama of memorabilia of our settlement's founding will embody the hard-working spirit of our Spacer family. \r\n"
+"\r\n"
+"The centerpiece of this grand exhibit will be a taxidermized Mantiqueen, erected within our main lobby as a sign of civilization's victory over nature itself.\r\n"
+"\r\n"
+"-Director Pickett"
+msgstr ""
+
+#: conversations/00_emerald_vale/0006_communitycenter/0006_cp_lobby_terminal:7
+msgctxt "conversations/00_emerald_vale/0006_communitycenter/0006_cp_lobby_terminal:7:DefaultText"
+msgid "[Return to Root]"
+msgstr ""

@@ -1,0 +1,75 @@
+#: quests/02_terra2/fq_0202_sublight_capstone:0
+msgctxt "quests/02_terra2/fq_0202_sublight_capstone:0:DefaultText"
+msgid "The Chimerist's Last Experiment"
+msgstr ""
+
+#: quests/02_terra2/fq_0202_sublight_capstone:2
+msgctxt "quests/02_terra2/fq_0202_sublight_capstone:2:DefaultText"
+msgid "Find and Kill Eva Chartrand"
+msgstr ""
+
+#: quests/02_terra2/fq_0202_sublight_capstone:6
+msgctxt "quests/02_terra2/fq_0202_sublight_capstone:6:DefaultText"
+msgid "Return to Lilya Hagen"
+msgstr ""
+
+#: quests/02_terra2/fq_0202_sublight_capstone:10000
+msgctxt "quests/02_terra2/fq_0202_sublight_capstone:10000:DefaultText"
+msgid "The evidence you found in Cascadia and on HRS-1084 convinced Lilya Hagen that Dr. Eva Chartrand is at the center of an alien invasion conspiracy. She wants Chartrand killed for the good of humanity. \r\n"
+"Chartrand is a Board-sponsored Chimerist - a scientist who manipulates the nuclein of plants and creatures from Earth to survive on colony worlds."
+msgstr ""
+
+#: quests/02_terra2/fq_0202_sublight_capstone:10002
+msgctxt "quests/02_terra2/fq_0202_sublight_capstone:10002:DefaultText"
+msgid "Eva Chartrand's home is on Byzantium. Lilya gave you a keycard to the front door. "
+msgstr ""
+
+#: quests/02_terra2/fq_0202_sublight_capstone:10006
+msgctxt "quests/02_terra2/fq_0202_sublight_capstone:10006:DefaultText"
+msgid "Lilya will want to know what happened at Dr. Chartrand's estate. She can be found at SubLight Headquarters on the Groundbreaker."
+msgstr ""
+
+#: quests/02_terra2/fq_0202_sublight_capstone:20000
+msgctxt "quests/02_terra2/fq_0202_sublight_capstone:20000:DefaultText"
+msgid "Now that Lilya is dead, no one else knows about her conspiracy theory. It may still be worth looking into Chartrand's estate."
+msgstr ""
+
+#: quests/02_terra2/fq_0202_sublight_capstone:20001
+msgctxt "quests/02_terra2/fq_0202_sublight_capstone:20001:DefaultText"
+msgid "You chose to spare Dr. Chartrand's life."
+msgstr ""
+
+#: quests/02_terra2/fq_0202_sublight_capstone:30000
+msgctxt "quests/02_terra2/fq_0202_sublight_capstone:30000:DefaultText"
+msgid "In recognition of killing Dr. Chartrand, Lilya promoted you to Sublight's new Vice President of Aggressive Acquisitions."
+msgstr ""
+
+#: quests/02_terra2/fq_0202_sublight_capstone:30001
+msgctxt "quests/02_terra2/fq_0202_sublight_capstone:30001:DefaultText"
+msgid "Lilya Hagen is dead, leaving no one the wiser with regards to who killed Dr. Chartrand or why. "
+msgstr ""
+
+#: quests/02_terra2/fq_0202_sublight_capstone:30002
+msgctxt "quests/02_terra2/fq_0202_sublight_capstone:30002:DefaultText"
+msgid "You chose to spare Dr. Chartrand's life. Lilya wasn't pleased, and you parted ways less than amicably."
+msgstr ""
+
+#: quests/02_terra2/fq_0202_sublight_capstone:30003
+msgctxt "quests/02_terra2/fq_0202_sublight_capstone:30003:DefaultText"
+msgid "You chose to spare Dr. Eva Chartrand's life. In exchange, she agreed to help carry out Phineas' plans for Halcyon. Lilya wasn't pleased, and you parted ways less than amicably."
+msgstr ""
+
+#: quests/02_terra2/fq_0202_sublight_capstone:30004
+msgctxt "quests/02_terra2/fq_0202_sublight_capstone:30004:DefaultText"
+msgid "You chose to spare Dr. Eva Chartrand's life. In exchange, she agreed to help carry out the Board's plans for Halcyon. Lilya wasn't pleased, and you parted ways less than amicably."
+msgstr ""
+
+#: quests/02_terra2/fq_0202_sublight_capstone:30005
+msgctxt "quests/02_terra2/fq_0202_sublight_capstone:30005:DefaultText"
+msgid "You chose to spare Dr. Eva Chartrand's life. In exchange, she agreed to help carry out Phineas' plans for Halcyon. "
+msgstr ""
+
+#: quests/02_terra2/fq_0202_sublight_capstone:30008
+msgctxt "quests/02_terra2/fq_0202_sublight_capstone:30008:DefaultText"
+msgid "You chose to spare Dr. Chartrand's life. Lilya wasn't pleased, and you parted ways less than amicably."
+msgstr ""
