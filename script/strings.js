@@ -3,6 +3,7 @@ const program = require('commander');
 const output = require('./utils/program-output')(program);
 const path = require('path');
 const { StringsReader, StringsWriter } = require('./parse/parse-strings');
+const { MessageFactory, MessageWriter } = require('./text/text-factory');
 
 BigInt.prototype.toJSON = function() {
     return Number(this);
@@ -12,14 +13,18 @@ program.
     option('-o --output <file>', 'write output to the specified file');
 
 program.
-    command('export <file...>').
+    command('export <file>').
     description('Export contents of StringTableBundleSet asset file.').
-    action((files, options) => {
-        files.forEach(source => {
-            const strings = new StringsReader().readFile(source);
-            const target = 'target/' + path.basename(source);
-            new StringsWriter().writeFile(source, target, strings.Objects[0]);
-        });
+    option('-r, --raw', 'get raw asset object').
+    option('-t, --table <table>', 'get table messages').
+    action((file, options) => {
+        const strings = new StringsReader().readFile(file);
+        if (options.raw) {
+            output.write(JSON.stringify(strings, null, '  '));
+        } else if (options.table) {
+            const messages = new MessageFactory().create(strings.Objects[0]);
+            output.write(new MessageWriter().writeMessages(messages[options.table]));
+        }
     });
 
 program.parse(process.argv);
