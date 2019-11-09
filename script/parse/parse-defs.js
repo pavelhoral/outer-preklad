@@ -6,11 +6,11 @@ class Type {
     }
 
     read(source, decoder) {
-        throw new Exception("Missing implementation.");
+        throw new Exception('Missing implementation.');
     };
 
     write(value, encoder) {
-        throw new Exception("Missing implementation.");
+        throw new Exception('Missing implementation.');
     };
 
 }
@@ -145,7 +145,7 @@ class PackageFileSummary extends Type {
         result.FileVersionLicenseeUE4 = source.read(4).readInt32LE();
         result.CustomVersion = source.read(4).readInt32LE();
         if (result.CustomVersion !== 0) {
-            throw new Error("Unsupported CustomVersion value");
+            throw new Error('Unsupported CustomVersion value');
         }
         result.TotalHeaderSize = source.read(4).readInt32LE();
         result.FolderName = decoder.decodeString(source);
@@ -173,12 +173,12 @@ class PackageFileSummary extends Type {
         result.CompatibleWithEngineVersion = this.readVersion(source, decoder);
         result.CompressionFlags = source.read(4).readUInt32LE();
         result.CompressedChunks = decoder.decodeArray(source, () => {
-            throw new Error("Unsupported CompressedChunk value")
+            throw new Error('Unsupported CompressedChunk value')
         });
         // XXX Value that is used to determine if the package was saved by Epic (or licensee) or by a modder, etc
         result.PackageSource = source.read(4).readUInt32LE();
         result.AdditionalPackagesToCook = decoder.decodeArray(source, () => {
-            throw new Error("Unsupported AdditionalPackagesToCook value")
+            throw new Error('Unsupported AdditionalPackagesToCook value')
         });
         result.AssetRegistryDataOffset = source.read(4).readInt32LE();
         result.BulkDataStartOffset = Number(source.read(8).readBigInt64LE());

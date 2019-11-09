@@ -70,12 +70,11 @@ class StringsWriter {
 
     writeFile(source, target, strings) {
         const original = new AssetReader(TYPES).readAsset(source);
-        const exports = new AssetWriter(TYPES).writeObjects(target, [{
+        return new AssetWriter(TYPES).writeObjects(target, [{
             names: original.Header.NameMap,
             value: strings,
             schema: SCHEMAS.StringTableBundleSet
         }]);
-        console.log(JSON.stringify(exports));
     }
 
 }

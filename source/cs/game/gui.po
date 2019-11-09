@@ -6,122 +6,122 @@ msgstr ""
 #: game/gui:1
 msgctxt "game/gui:1:DefaultText"
 msgid "No"
-msgstr ""
+msgstr "Ne"
 
 #: game/gui:2
 msgctxt "game/gui:2:DefaultText"
 msgid "Accept"
-msgstr ""
+msgstr "Přijmout"
 
 #: game/gui:3
 msgctxt "game/gui:3:DefaultText"
 msgid "Cancel"
-msgstr ""
+msgstr "Zrušit"
 
 #: game/gui:4
 msgctxt "game/gui:4:DefaultText"
 msgid "Continue"
-msgstr ""
+msgstr "Pokračovat"
 
 #: game/gui:5
 msgctxt "game/gui:5:DefaultText"
 msgid "Pause"
-msgstr ""
+msgstr "Pozastavit hru"
 
 #: game/gui:6
 msgctxt "game/gui:6:DefaultText"
 msgid "End Dialogue"
-msgstr ""
+msgstr "Ukončit rozhovor"
 
 #: game/gui:7
 msgctxt "game/gui:7:DefaultText"
 msgid "Back"
-msgstr ""
+msgstr "Zpět"
 
 #: game/gui:8
 msgctxt "game/gui:8:DefaultText"
 msgid "Options"
-msgstr ""
+msgstr "Nastavení"
 
 #: game/gui:9
 msgctxt "game/gui:9:DefaultText"
 msgid "Quit"
-msgstr ""
+msgstr "Ukončit hru"
 
 #: game/gui:10
 msgctxt "game/gui:10:DefaultText"
 msgid "Master Volume"
-msgstr ""
+msgstr "Celková hlasitost"
 
 #: game/gui:11
 msgctxt "game/gui:11:DefaultText"
 msgid "Music Volume"
-msgstr ""
+msgstr "Hlasitost hudby"
 
 #: game/gui:12
 msgctxt "game/gui:12:DefaultText"
 msgid "Effects Volume"
-msgstr ""
+msgstr "Hlasitost efektů"
 
 #: game/gui:13
 msgctxt "game/gui:13:DefaultText"
 msgid "Save"
-msgstr ""
+msgstr "Uložit"
 
 #: game/gui:14
 msgctxt "game/gui:14:DefaultText"
 msgid "Load"
-msgstr ""
+msgstr "Načíst"
 
 #: game/gui:15
 msgctxt "game/gui:15:DefaultText"
 msgid "Save Game"
-msgstr ""
+msgstr "Uložit hru"
 
 #: game/gui:16
 msgctxt "game/gui:16:DefaultText"
 msgid "Load Game"
-msgstr ""
+msgstr "Načíst pozici"
 
 #: game/gui:17
 msgctxt "game/gui:17:DefaultText"
 msgid "[NEW SAVE]"
-msgstr ""
+msgstr "[NOVÁ POZICE]"
 
 #: game/gui:18
 msgctxt "game/gui:18:DefaultText"
 msgid "Inventory"
-msgstr ""
+msgstr "Inventář"
 
 #: game/gui:19
 msgctxt "game/gui:19:DefaultText"
 msgid "Journal"
-msgstr ""
+msgstr "Denník"
 
 #: game/gui:20
 msgctxt "game/gui:20:DefaultText"
 msgid "Map"
-msgstr ""
+msgstr "Mapa"
 
 #: game/gui:21
 msgctxt "game/gui:21:DefaultText"
 msgid "World Map"
-msgstr ""
+msgstr "Mapa světa"
 
 #: game/gui:22
 msgctxt "game/gui:22:DefaultText"
 msgid "Male"
-msgstr ""
+msgstr "Muž"
 
 #: game/gui:23
 msgctxt "game/gui:23:DefaultText"
 msgid "Female"
-msgstr ""
+msgstr "Žena"
 
 #: game/gui:24
 msgctxt "game/gui:24:DefaultText"
 msgid "Execute"
-msgstr ""
+msgstr "Spustit"
 
 #: game/gui:25
 msgctxt "game/gui:25:DefaultText"
@@ -626,7 +626,7 @@ msgstr ""
 #: game/gui:146
 msgctxt "game/gui:146:DefaultText"
 msgid "Volume"
-msgstr ""
+msgstr "Hlasitost"
 
 #: game/gui:147
 msgctxt "game/gui:147:DefaultText"
