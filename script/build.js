@@ -9,7 +9,8 @@ program
     .usage('[options] <file>')
     .description('Build StringTableBundleSet asset file with translation overrides.')
     .option('-s, --source <source>', 'source folder with translations', 'source/cs')
-    .option('-o, --output <output>', 'output folder for compiled asset', 'target');
+    .option('-o, --output <output>', 'output folder for compiled asset', 'target')
+    .option('-d, --debug', 'prepend message identifiers');
 
 program.parse(process.argv);
 if (!program.args.length) {
@@ -47,6 +48,8 @@ strings.Objects[0].StringTables.Entries.forEach(({ Value: table }) => {
             const key = `${table.Name}:${entry.ID}:${type}`;
             if (dictionary[key]) {
                 entry[type] = dictionary[key];
+            } else if (program.debug && entry[type]) {
+                entry[type] = `${table.Name}:${entry.ID} ${entry[type]}`;
             }
         });
     });

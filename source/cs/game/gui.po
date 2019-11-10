@@ -321,7 +321,7 @@ msgstr ""
 #: game/gui:67
 msgctxt "game/gui:67:DefaultText"
 msgid "Settings"
-msgstr ""
+msgstr "Nastavení"
 
 #: game/gui:68
 msgctxt "game/gui:68:DefaultText"
@@ -591,37 +591,37 @@ msgstr ""
 #: game/gui:139
 msgctxt "game/gui:139:DefaultText"
 msgid "Apply"
-msgstr ""
+msgstr "Použít"
 
 #: game/gui:140
 msgctxt "game/gui:140:DefaultText"
 msgid "Back"
-msgstr ""
+msgstr "Zpět"
 
 #: game/gui:141
 msgctxt "game/gui:141:DefaultText"
 msgid "Graphics"
-msgstr ""
+msgstr "Zobrazení"
 
 #: game/gui:142
 msgctxt "game/gui:142:DefaultText"
 msgid "Audio"
-msgstr ""
+msgstr "Zvuk"
 
 #: game/gui:143
 msgctxt "game/gui:143:DefaultText"
 msgid "Controls"
-msgstr ""
+msgstr "Ovládání"
 
 #: game/gui:144
 msgctxt "game/gui:144:DefaultText"
 msgid "Game"
-msgstr ""
+msgstr "Hra"
 
 #: game/gui:145
 msgctxt "game/gui:145:DefaultText"
 msgid "Menu"
-msgstr ""
+msgstr "Hlavní nabídka"
 
 #: game/gui:146
 msgctxt "game/gui:146:DefaultText"
