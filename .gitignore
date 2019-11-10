@@ -11,6 +11,9 @@
 # Shadow (original data files)
 /shadow
 
+# Environment settings
+.env
+
 # Build (output) folder
 /build
 /.tmp
