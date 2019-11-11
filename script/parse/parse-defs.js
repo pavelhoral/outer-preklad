@@ -48,6 +48,15 @@ class IntProperty extends Type {
 }
 module.exports.IntProperty = IntProperty;
 
+class EnumProperty extends Type {
+
+    read(source, decoder) {
+        return decoder.decodeName(source);
+    }
+
+}
+module.exports.EnumProperty = EnumProperty;
+
 // https://github.com/EpicGames/UnrealEngine/blob/release/Engine/Source/Runtime/CoreUObject/Private/UObject/PropertySet.cpp
 class SetProperty extends Type {
 

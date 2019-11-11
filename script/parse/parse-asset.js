@@ -50,7 +50,7 @@ class AssetReader {
         const decoder = new ObjectDecoder(names, this.types);
         const imports = this.withFile(filename, source => {
             source.skip(summary.ImportOffset);
-            this.readImports(source, summary, decoder);
+            return this.readImports(source, summary, decoder);
         });
         const exports = this.withFile(filename, source => {
             source.skip(summary.ExportOffset);

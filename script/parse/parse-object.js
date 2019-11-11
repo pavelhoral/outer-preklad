@@ -59,7 +59,7 @@ class ObjectDecoder {
             decoded.ValueType = this.decodeName(source);
         }
         if (this.decodeBool(source)) {
-            decoded.PropertyGuid = decodeGuid(source);
+            decoded.PropertyGuid = this.decodeGuid(source);
         }
         return decoded;
     }
