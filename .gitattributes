@@ -3,5 +3,7 @@
 *.ttf binary
 *.png binary
 *.ico binary
+*.ufont binary
+*.uasset binary
 *.ini text eol=crlf
 *.srt text eol=crlf
