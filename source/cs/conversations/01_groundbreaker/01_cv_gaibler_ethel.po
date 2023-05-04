@@ -1,139 +1,139 @@
 #: conversations/01_groundbreaker/01_cv_gaibler_ethel:1
 msgctxt "conversations/01_groundbreaker/01_cv_gaibler_ethel:1:DefaultText"
 msgid "If you're hungry, you've come to the right place. I've got a fresh-ground batch of spratwurst cooking."
-msgstr ""
+msgstr "Pokud máte hlad, jste na správném místě. Mám tu čerstvě namletou várku šprotů."
 
 #: conversations/01_groundbreaker/01_cv_gaibler_ethel:3
 msgctxt "conversations/01_groundbreaker/01_cv_gaibler_ethel:3:DefaultText"
 msgid "I'll just excuse myself."
-msgstr ""
+msgstr "Omluvím se."
 
 #: conversations/01_groundbreaker/01_cv_gaibler_ethel:7
 msgctxt "conversations/01_groundbreaker/01_cv_gaibler_ethel:7:DefaultText"
 msgid "Not getting into too much danger, are you? Could always liven your day with a double-mustard, terra-fried spratwurst."
-msgstr ""
+msgstr "Nedostáváte se do příliš velkého nebezpečí, že ne? Vždycky si můžeš zpestřit den dvojitou hořčicí a smaženým šprotwurstem."
 
 #: conversations/01_groundbreaker/01_cv_gaibler_ethel:8
 msgctxt "conversations/01_groundbreaker/01_cv_gaibler_ethel:8:DefaultText"
 msgid "They're terra-fried to lock in the juices. How about a grinder's dozen?"
-msgstr ""
+msgstr "Smaží se na terase, aby se v nich zachovala šťáva. Co takhle tucet mlýnků?"
 
 #: conversations/01_groundbreaker/01_cv_gaibler_ethel:11
 msgctxt "conversations/01_groundbreaker/01_cv_gaibler_ethel:11:DefaultText"
 msgid "Do you have time to chat?"
-msgstr ""
+msgstr "Máte čas si popovídat?"
 
 #: conversations/01_groundbreaker/01_cv_gaibler_ethel:12
 msgctxt "conversations/01_groundbreaker/01_cv_gaibler_ethel:12:DefaultText"
 msgid "Long as you don't mind me grinding spratwurst while we talk. Little things don't make themselves chewy. At least, not yet. I'm sure modern science will find a way."
-msgstr ""
+msgstr "Pokud ti nevadí, že si při tom budu mlít šprtec. Malé věci se samy nežvýkají. Alespoň zatím ne. Jsem si jistý, že moderní věda na to přijde."
 
 #: conversations/01_groundbreaker/01_cv_gaibler_ethel:13
 msgctxt "conversations/01_groundbreaker/01_cv_gaibler_ethel:13:DefaultText"
 msgid "Let me see what you've got for sale."
-msgstr ""
+msgstr "Ukažte mi, co máte na prodej."
 
 #: conversations/01_groundbreaker/01_cv_gaibler_ethel:24
 msgctxt "conversations/01_groundbreaker/01_cv_gaibler_ethel:24:DefaultText"
 msgid "What's spratwurst, exactly?"
-msgstr ""
+msgstr "Co je to vlastně šprotwurst?"
 
 #: conversations/01_groundbreaker/01_cv_gaibler_ethel:25
 msgctxt "conversations/01_groundbreaker/01_cv_gaibler_ethel:25:DefaultText"
 msgid "What does \"terra-fry\" mean?"
-msgstr ""
+msgstr "Co znamená \"terra-fry\"?"
 
 #: conversations/01_groundbreaker/01_cv_gaibler_ethel:26
 msgctxt "conversations/01_groundbreaker/01_cv_gaibler_ethel:26:DefaultText"
 msgid "Is spratwurst like boarstwurst? I've seen that a lot."
-msgstr ""
+msgstr "Je šprotwurst podobný kančímu? To jsem viděl často."
 
 #: conversations/01_groundbreaker/01_cv_gaibler_ethel:28
 msgctxt "conversations/01_groundbreaker/01_cv_gaibler_ethel:28:DefaultText"
 msgid "You know what sprats are? Space-rats. The laboratories of Spacer's Choice found a use for this limitless frontier resource."
-msgstr ""
+msgstr "Víte, co jsou šproty? Vesmírné krysy. Laboratoře společnosti Spacer's Choice našly pro tento neomezený hraniční zdroj využití."
 
 #: conversations/01_groundbreaker/01_cv_gaibler_ethel:29
 msgctxt "conversations/01_groundbreaker/01_cv_gaibler_ethel:29:DefaultText"
 msgid "Terra-frying is a Spacer's Choice brand secret, a mix of thirteen herbs and spices, plus a dash of modern chemistry."
-msgstr ""
+msgstr "Terra-frying je tajemstvím značky Spacer's Choice, směs třinácti bylinek a koření s příměsí moderní chemie."
 
 #: conversations/01_groundbreaker/01_cv_gaibler_ethel:30
 msgctxt "conversations/01_groundbreaker/01_cv_gaibler_ethel:30:DefaultText"
 msgid "Absolutely not. \"Spratwurst\" and all related terms are registered trademarks of Spacer's Choice."
-msgstr ""
+msgstr "Rozhodně ne. \"Spratwurst\" a všechny související pojmy jsou registrovanými ochrannými známkami společnosti Spacer's Choice."
 
 #: conversations/01_groundbreaker/01_cv_gaibler_ethel:73
 msgctxt "conversations/01_groundbreaker/01_cv_gaibler_ethel:73:DefaultText"
 msgid "Is spratwurst your own invention, or what?"
-msgstr ""
+msgstr "Je šprotwurst váš vlastní vynález, nebo ne?"
 
 #: conversations/01_groundbreaker/01_cv_gaibler_ethel:77
 msgctxt "conversations/01_groundbreaker/01_cv_gaibler_ethel:77:DefaultText"
 msgid "Terra-fried spratwurst, battered and fresh on the tail!"
-msgstr ""
+msgstr "Smažené šproty, obalené v oleji a čerstvé na ocase!"
 
 #: conversations/01_groundbreaker/01_cv_gaibler_ethel:98
 msgctxt "conversations/01_groundbreaker/01_cv_gaibler_ethel:98:DefaultText"
 msgid "Boar- the other meat is a registered trademark of C&P. Everyone knows our company and theirs are nothing alike."
-msgstr ""
+msgstr "Kančí maso - ostatní maso je registrovaná ochranná známka společnosti C&P. Každý ví, že naše a jejich společnost si nejsou podobné."
 
 #: conversations/01_groundbreaker/01_cv_gaibler_ethel:102
 msgctxt "conversations/01_groundbreaker/01_cv_gaibler_ethel:102:DefaultText"
 msgid "Sprat meat is plenty tasty when properly prepared. We grind them up in sausages, then terra-fry them in their own juices."
-msgstr ""
+msgstr "Šprotí maso je při správné úpravě velmi chutné. Rozemeleme je na klobásy a pak je tera smažíme ve vlastní šťávě."
 
 #: conversations/01_groundbreaker/01_cv_gaibler_ethel:106
 msgctxt "conversations/01_groundbreaker/01_cv_gaibler_ethel:106:DefaultText"
 msgid "That's enough talk for now."
-msgstr ""
+msgstr "Prozatím dost řečí."
 
 #: conversations/01_groundbreaker/01_cv_gaibler_ethel:109
 msgctxt "conversations/01_groundbreaker/01_cv_gaibler_ethel:109:DefaultText"
 msgid "Just as well. Near about time for me to go check on the trap- I mean, to unload another crate of farm-fresh sprats."
-msgstr ""
+msgstr "Stejně tak dobře. Už je skoro čas, abych šel zkontrolovat past - chci říct, abych vyložil další bednu čerstvých šprotů z farmy."
 
 #: conversations/01_groundbreaker/01_cv_gaibler_ethel:110
 msgctxt "conversations/01_groundbreaker/01_cv_gaibler_ethel:110:DefaultText"
 msgid "Legally? Nope. The terra-frying method was developed and marketed by Spacer's Choice."
-msgstr ""
+msgstr "Legálně? Ne. Metodu smažení na terase vyvinula a prodává společnost Spacer's Choice."
 
 #: conversations/01_groundbreaker/01_cv_gaibler_ethel:111
 msgctxt "conversations/01_groundbreaker/01_cv_gaibler_ethel:111:DefaultText"
 msgid "Between you, me, and this grinder? I've been through lean times. If there's one thing you learn on tramp freighters, it's how to make near anything edible."
-msgstr ""
+msgstr "Mezi tebou, mnou a tímto mlýnkem? Zažil jsem hubené časy. Jestli se něco naučíš na trampských lodích, tak to, jak udělat téměř cokoli jedlého."
 
 #: conversations/01_groundbreaker/01_cv_gaibler_ethel:112
 msgctxt "conversations/01_groundbreaker/01_cv_gaibler_ethel:112:DefaultText"
 msgid "Might be that this old spacehand put a few words in the right ears. And could be that Spacer's Choice liked sticking it to C&P by R&Ding our own special meat."
-msgstr ""
+msgstr "Možná, že tenhle old spacehand dal pár slov do správných uší. A mohlo by se stát, že by Spacer's Choice rádo přilepilo C&P tím, že by vyvinulo naše vlastní speciální maso."
 
 #: conversations/01_groundbreaker/01_cv_gaibler_ethel:119
 msgctxt "conversations/01_groundbreaker/01_cv_gaibler_ethel:119:DefaultText"
 msgid "Fresh from the grinder, any hour."
-msgstr ""
+msgstr "Čerstvé z mlýnku, v kteroukoli hodinu."
 
 #: conversations/01_groundbreaker/01_cv_gaibler_ethel:126
 msgctxt "conversations/01_groundbreaker/01_cv_gaibler_ethel:126:DefaultText"
 msgid "Folks see you enjoying my sprats they'll be clawing over each other to try one. "
-msgstr ""
+msgstr "Když lidé uvidí, jak si pochutnáváte na mých šprotech, budou se o ně přetahovat. "
 
 #: conversations/01_groundbreaker/01_cv_gaibler_ethel:127
 msgctxt "conversations/01_groundbreaker/01_cv_gaibler_ethel:127:DefaultText"
 msgid "Nice to see you around. My sprats are all locally-caught and mercifully put down."
-msgstr ""
+msgstr "Rád vás vidím. Moje šproty jsou všechny ulovené na místě a milosrdně utracené."
 
 #: conversations/01_groundbreaker/01_cv_gaibler_ethel:128
 msgctxt "conversations/01_groundbreaker/01_cv_gaibler_ethel:128:DefaultText"
 msgid "I know your type like eating animals alive and screaming, but my sprats are cooked properly."
-msgstr ""
+msgstr "Vím, že tvůj typ rád jí zvířata zaživa a křičí, ale moje šproty jsou řádně uvařené."
 
 #: conversations/01_groundbreaker/01_cv_gaibler_ethel:129
 msgctxt "conversations/01_groundbreaker/01_cv_gaibler_ethel:129:DefaultText"
 msgid "Takes a sprat to know a sprat. So, you buying?"
-msgstr ""
+msgstr "Je potřeba znát šprota, abyste poznali šprota. Tak co, kupuješ?"
 
 #: conversations/01_groundbreaker/01_cv_gaibler_ethel:130
 msgctxt "conversations/01_groundbreaker/01_cv_gaibler_ethel:130:DefaultText"
 msgid "Remind me to thank the Chief for getting some ventilation in here. Care for a sprat? It'll warm you up."
-msgstr ""
+msgstr "Připomeňte mi, abych poděkoval šéfovi za to, že sem dostal nějaké větrání. Dáš si šprota? Zahřeje tě."

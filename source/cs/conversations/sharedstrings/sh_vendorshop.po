@@ -1,39 +1,39 @@
 #: conversations/sharedstrings/sh_vendorshop:1
 msgctxt "conversations/sharedstrings/sh_vendorshop:1:DefaultText"
 msgid "Let me see what you've got for sale."
-msgstr ""
+msgstr "Ukažte mi, co máte na prodej."
 
 #: conversations/sharedstrings/sh_vendorshop:2
 msgctxt "conversations/sharedstrings/sh_vendorshop:2:DefaultText"
 msgid "I'm here to shop."
-msgstr ""
+msgstr "Přišel jsem nakupovat."
 
 #: conversations/sharedstrings/sh_vendorshop:3
 msgctxt "conversations/sharedstrings/sh_vendorshop:3:DefaultText"
 msgid "What've you got?"
-msgstr ""
+msgstr "Co máš ty?"
 
 #: conversations/sharedstrings/sh_vendorshop:4
 msgctxt "conversations/sharedstrings/sh_vendorshop:4:DefaultText"
 msgid "Let's deal."
-msgstr ""
+msgstr "Pojďme se dohodnout."
 
 #: conversations/sharedstrings/sh_vendorshop:5
 msgctxt "conversations/sharedstrings/sh_vendorshop:5:DefaultText"
 msgid "I might be in the market to buy."
-msgstr ""
+msgstr "Možná budu chtít koupit."
 
 #: conversations/sharedstrings/sh_vendorshop:6
 msgctxt "conversations/sharedstrings/sh_vendorshop:6:DefaultText"
 msgid "What do you have here?"
-msgstr ""
+msgstr "Co tu máte?"
 
 #: conversations/sharedstrings/sh_vendorshop:7
 msgctxt "conversations/sharedstrings/sh_vendorshop:7:DefaultText"
 msgid "Can I buy something?"
-msgstr ""
+msgstr "Mohu si něco koupit?"
 
 #: conversations/sharedstrings/sh_vendorshop:8
 msgctxt "conversations/sharedstrings/sh_vendorshop:8:DefaultText"
 msgid "Show me what's in stock."
-msgstr ""
+msgstr "Ukažte mi, co je na skladě."

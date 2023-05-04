@@ -8,22 +8,22 @@ msgid "Byzantium Liaison Private Terminal\r\n"
 "Welcome user - Bedford, U.\r\n"
 "\r\n"
 "Please select from the following options:"
-msgstr ""
+msgstr "Byzantium Liaison Private Terminal ========================= Hlavní menu Vítejte uživatelé - Bedford, U. Vyberte si prosím z následujících možností:"
 
 #: conversations/01_groundbreaker/01_cp_udom_terminal:2
 msgctxt "conversations/01_groundbreaker/01_cp_udom_terminal:2:DefaultText"
 msgid "[Admin Functions]"
-msgstr ""
+msgstr "[Funkce správce]"
 
 #: conversations/01_groundbreaker/01_cp_udom_terminal:3
 msgctxt "conversations/01_groundbreaker/01_cp_udom_terminal:3:DefaultText"
 msgid "[Messages]"
-msgstr ""
+msgstr "[Zprávy]"
 
 #: conversations/01_groundbreaker/01_cp_udom_terminal:4
 msgctxt "conversations/01_groundbreaker/01_cp_udom_terminal:4:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"
 
 #: conversations/01_groundbreaker/01_cp_udom_terminal:5
 msgctxt "conversations/01_groundbreaker/01_cp_udom_terminal:5:DefaultText"
@@ -35,7 +35,7 @@ msgid "Byzantium Liaison Private Terminal\r\n"
 "[1] - The Unreliable\r\n"
 "\r\n"
 "Please select from the following options:"
-msgstr ""
+msgstr "Byzantium Liaison Private Terminal ========================= Uživatel Bedford, U.: [1] - Nespolehlivý Vyberte prosím jednu z následujících možností:"
 
 #: conversations/01_groundbreaker/01_cp_udom_terminal:6
 msgctxt "conversations/01_groundbreaker/01_cp_udom_terminal:6:DefaultText"
@@ -45,22 +45,22 @@ msgid "Byzantium Liaison Private Terminal\r\n"
 "User Bedford, U.: You have no (0) active impound orders.\r\n"
 "\r\n"
 "Please select from the following options:"
-msgstr ""
+msgstr "Byzantium Liaison Private Terminal ========================= Uživatel Bedford, U.: Vyberte si prosím jednu z následujících možností:"
 
 #: conversations/01_groundbreaker/01_cp_udom_terminal:7
 msgctxt "conversations/01_groundbreaker/01_cp_udom_terminal:7:DefaultText"
 msgid "[Clear Impound Order]"
-msgstr ""
+msgstr "[Vymazat příkaz k zabavení]"
 
 #: conversations/01_groundbreaker/01_cp_udom_terminal:8
 msgctxt "conversations/01_groundbreaker/01_cp_udom_terminal:8:DefaultText"
 msgid "[Return to Root]"
-msgstr ""
+msgstr "[Zpět na kořen]"
 
 #: conversations/01_groundbreaker/01_cp_udom_terminal:9
 msgctxt "conversations/01_groundbreaker/01_cp_udom_terminal:9:DefaultText"
 msgid "[Personal Correspondence]"
-msgstr ""
+msgstr "[Osobní korespondence]"
 
 #: conversations/01_groundbreaker/01_cp_udom_terminal:10
 msgctxt "conversations/01_groundbreaker/01_cp_udom_terminal:10:DefaultText"
@@ -75,7 +75,7 @@ msgid "Byzantium Liaison Private Terminal\r\n"
 "...\r\n"
 "...\r\n"
 "Update complete!"
-msgstr ""
+msgstr "Byzantium Liaison Private Terminal ========================= Uvolnění příkazu k zabavení: Označení lodi: \"The Unreliable\" Kapitán lodi: Hawthorne, A. Aktualizace záznamů v dokovací zátoce Groundbreaker... ... ... Aktualizace dokončena!"
 
 #: conversations/01_groundbreaker/01_cp_udom_terminal:11
 msgctxt "conversations/01_groundbreaker/01_cp_udom_terminal:11:DefaultText"
@@ -91,12 +91,12 @@ msgid "Byzantium Liaison Private Terminal\r\n"
 "\r\n"
 "\r\n"
 "Please select from the following options:"
-msgstr ""
+msgstr "Byzantium Liaison Private Terminal ========================= Máte: -Tři (3) osobní korespondenční záznamy -Dvě (2) otevřené žádosti o údržbu Vyberte si z následujících možností:"
 
 #: conversations/01_groundbreaker/01_cp_udom_terminal:12
 msgctxt "conversations/01_groundbreaker/01_cp_udom_terminal:12:DefaultText"
 msgid "[Maintenance Requests]"
-msgstr ""
+msgstr "[Požadavky na údržbu]"
 
 #: conversations/01_groundbreaker/01_cp_udom_terminal:13
 msgctxt "conversations/01_groundbreaker/01_cp_udom_terminal:13:DefaultText"
@@ -104,7 +104,7 @@ msgid "Byzantium Liaison Private Terminal\r\n"
 "=========================\r\n"
 "\r\n"
 "Please select the record you want to review."
-msgstr ""
+msgstr "Byzantium Liaison Private Terminal ========================= Vyberte prosím záznam, který si chcete prohlédnout."
 
 #: conversations/01_groundbreaker/01_cp_udom_terminal:14
 msgctxt "conversations/01_groundbreaker/01_cp_udom_terminal:14:DefaultText"
@@ -112,32 +112,32 @@ msgid "Byzantium Liaison Private Terminal\r\n"
 "=========================\r\n"
 "\r\n"
 "Please select the record you want to review."
-msgstr ""
+msgstr "Byzantium Liaison Private Terminal ========================= Vyberte záznam, který si chcete prohlédnout."
 
 #: conversations/01_groundbreaker/01_cp_udom_terminal:15
 msgctxt "conversations/01_groundbreaker/01_cp_udom_terminal:15:DefaultText"
 msgid "[FROM: A. Hawthorne, SUBJECT: Re: the noble space rat]"
-msgstr ""
+msgstr "[OD: A. Hawthorne, PŘEDMĚT: Re: ušlechtilá vesmírná krysa]"
 
 #: conversations/01_groundbreaker/01_cp_udom_terminal:16
 msgctxt "conversations/01_groundbreaker/01_cp_udom_terminal:16:DefaultText"
 msgid "[FROM: J. Tennyson, SUBJECT: Re: A crime of passion]"
-msgstr ""
+msgstr "[OD: J. Tennyson, PŘEDMĚT: Re: Zločin z vášně]"
 
 #: conversations/01_groundbreaker/01_cp_udom_terminal:17
 msgctxt "conversations/01_groundbreaker/01_cp_udom_terminal:17:DefaultText"
 msgid "[FROM: S. Akande, SUBJECT: Debt collection]"
-msgstr ""
+msgstr "[OD: S. Akande, PŘEDMĚT: Vymáhání pohledávek]"
 
 #: conversations/01_groundbreaker/01_cp_udom_terminal:18
 msgctxt "conversations/01_groundbreaker/01_cp_udom_terminal:18:DefaultText"
 msgid "[FROM: J. Tennyson, SUBJECT: Poor you]"
-msgstr ""
+msgstr "[OD: J. Tennyson, PŘEDMĚT: Chudák ty]"
 
 #: conversations/01_groundbreaker/01_cp_udom_terminal:19
 msgctxt "conversations/01_groundbreaker/01_cp_udom_terminal:19:DefaultText"
 msgid "[TO: GB_Support, SUBJECT: WATER MAINTENANCE WHEN?]"
-msgstr ""
+msgstr "[TO: GB_Support, SUBJECT: ÚDRŽBA VODY KDY?]"
 
 #: conversations/01_groundbreaker/01_cp_udom_terminal:20
 msgctxt "conversations/01_groundbreaker/01_cp_udom_terminal:20:DefaultText"
@@ -162,7 +162,7 @@ msgid "Byzantium Liaison Private Terminal\r\n"
 "\r\n"
 "Yours entirely,\r\n"
 "~Udom Bedford"
-msgstr ""
+msgstr "Byzantium Liaison Private Terminal ========================= FROM: Hawthorne, A. TO: Bedford, U. SUBJECT: Re: Vznešená vesmírná krysa Uh-huh. To neříkej. -A.H. FROM: Bedford, U. TO: Hawthorne, A. SUBJECT: the noble space rat My dear Alex! Narazil jsem na ten nejneuvěřitelnější objev. Už jsi někdy ochutnal šprtec? Postavili si stánek poblíž mého velvyslanectví, neslyšel jsi o tom? A i když se neodvážím vyjít ven a prozkoumat tuto kulinářskou hranici sám, poslal jsem ozbrojenou stráž, aby mi jedno takové lahodné sousto obstarala pro osobní potěšení. Alexi, ta chuť se nedá popsat. Masitý, žvýkavý, v ústech chrupavka a podzimní listí - a nabídka dostupných gurmánských hořčic k namáčení překonává má nejdivočejší očekávání. Odpluj se svou krásnou bárkou zpět na Groundbreaker, drahý Alexi, abychom si mohli pochutnat na plodech ušlechtilé vesmírné krysy a připít si na kulinářské úspěchy našich kolegů kolonistů. S pozdravem, ~Udom Bedford"
 
 #: conversations/01_groundbreaker/01_cp_udom_terminal:21
 msgctxt "conversations/01_groundbreaker/01_cp_udom_terminal:21:DefaultText"
@@ -194,7 +194,16 @@ msgid "Byzantium Liaison Private Terminal\r\n"
 "And please keep in mind that it takes a calm and measured temperament to run a large organization. These traits are demonstrated so ably by the leaders of our colonial corporations. You should strive to emulate them.\n"
 "\n"
 "Udom Bedford, Certified Liaison"
-msgstr ""
+msgstr "Byzantium Liaison Private Terminal ========================= OD: PŘEDMĚT: Tennyson, J. TO: Bedford, U: Re: B: Zločin z vášně Poslouchej, ty hajzlíku. Když jsem si s tebou naposledy domluvil schůzku, vyhýbal ses mi, až jsem musel vyrazit dveře. Co tam vůbec celý den děláš? Vím, že máš prázdný rozvrh. Mám administrátorský přístup k terminálové síti, ale nemám ten luxus času, který bych mohl promarnit. Zajistěte mi přístup k těm částem chladiče. Jestli ne, vím, kde můžu začít vypouštět přebytečné teplo. \n"
+"\n"
+"J.T. \n"
+"\n"
+"OD: Bedford, U: Tennyson, J. \n"
+"PŘEDMĚT: Můj drahý náčelníku Tennysone, byl jsem informován, že jste napadl - snížím svou slovní zásobu, abych to přeformuloval, že jste \"zmlátil\" - člena mé osobní stráže. A to jen proto, že vám nechtěli umožnit přístup na byzantské velvyslanectví. \n"
+"\n"
+"V budoucnu si můžete domluvit schůzku přímo se mnou. Nebo se bojíš mého postavení ve společnosti? Vzhledem k tvé nezkušenosti jako vůdce je to naprosto pochopitelné. Prosím, nedovolte, aby takové maličkosti zdržovaly jednání v rámci vašich povinností, můj drahý náčelníku. \n"
+"\n"
+"A mějte prosím na paměti, že k vedení velké organizace je zapotřebí klidné a rozvážné povahy. Tyto vlastnosti tak dobře prokazují vůdci našich koloniálních korporací. Měl byste se je snažit napodobit. Udom Bedford, certifikovaný styčný důstojník"
 
 #: conversations/01_groundbreaker/01_cp_udom_terminal:22
 msgctxt "conversations/01_groundbreaker/01_cp_udom_terminal:22:DefaultText"
@@ -211,7 +220,10 @@ msgid "Byzantium Liaison Private Terminal\r\n"
 "\n"
 "Furthermore, I am perfectly comfortable charging you for the time I spend in finding your replacement - and my time is expensive.\n"
 ""
-msgstr ""
+msgstr "Byzantium Liaison Private Terminal ========================= OD: Akande, S. \n"
+"TO: Bedford, U. SUBJECT: Aande, U: Vymáhání pohledávek Je třeba, aby se nyní stala jedna ze dvou věcí. Buď můžete vymáhat nesplacený dluh Jessie Doylové, nebo se můžete zařadit mezi nezaměstnané. \n"
+"\n"
+"Vyslali jsme do Groundbreakeru spojku, aby zastupovala naše zájmy. Pokud je to pro vás příliš velká zodpovědnost, klidně si za vás najdu náhradu. Navíc vám klidně naúčtuji čas, který strávím hledáním vaší náhrady - a můj čas je drahý."
 
 #: conversations/01_groundbreaker/01_cp_udom_terminal:23
 msgctxt "conversations/01_groundbreaker/01_cp_udom_terminal:23:DefaultText"
@@ -229,7 +241,7 @@ msgid "Byzantium Liaison Private Terminal\r\n"
 "I'm closing out the request. Don't open another.\r\n"
 "\r\n"
 "J.T. "
-msgstr ""
+msgstr "Byzantium Liaison Private Terminal ========================= OD: PŘEDMĚT: Tennyson, J. TO: Bedford, U: Chudáčku, dostal jsem tvůj velmi naléhavý požadavek na spolehlivou regulaci teploty. Můžeš to vyřešit sám tím, že mi seženeš potřebné díly chladiče. Nebo se můžeš zapotit jako my ostatní, žádost uzavírám. Neotvírejte další. J.T. "
 
 #: conversations/01_groundbreaker/01_cp_udom_terminal:24
 msgctxt "conversations/01_groundbreaker/01_cp_udom_terminal:24:DefaultText"
@@ -248,7 +260,7 @@ msgid "Byzantium Liaison Private Terminal\r\n"
 "\r\n"
 "Indignantly,\r\n"
 "~Udom Bedford, Certified Liaison"
-msgstr ""
+msgstr "Byzantium Liaison Private Terminal ========================= FROM: Bedford, U. TO: GB_Support PŘEDMĚT: Váženému servisnímu personálu Groundbreakeru: Potřebuji NEDOČKAVOU pomoc. Výslovně jsem si nastavil pokojovou teplotu vody, ale ať dělám, co dělám, vytrvale se vynořuje z výlevky o několik stupňů vzdálené mým vnitřním údajům - horká, studená nebo nějaká variace obojího. Nedá se pít! Aby bylo jasno, tohle selhání norem je daleko pod požadavky, které si může dovolit občan vznešené Byzance. Jako obyvatel tohoto velvyslanectví očekávám, že tyto standardy budou dodržovány. rozhořčeně, ~Udom Bedford, certifikovaný styčný důstojník"
 
 #: conversations/01_groundbreaker/01_cp_udom_terminal:29
 msgctxt "conversations/01_groundbreaker/01_cp_udom_terminal:29:DefaultText"
@@ -262,4 +274,4 @@ msgid "Byzantium Liaison Private Terminal\r\n"
 "Welcome user - Bedford, U.\r\n"
 "\r\n"
 "Please select from the following options:"
-msgstr ""
+msgstr "Soukromý terminál Byzantium Liaison ========================= Hlavní nabídka UPOZORNĚNÍ: U tohoto terminálu se v průběhu několika následujících pracovních měsíců plánuje reset obvodů. Přeneste prosím co nejdříve veškerý obsah na záložní kazety. Vítejte uživatelé - Bedford, U. Vyberte si prosím z následujících možností:"

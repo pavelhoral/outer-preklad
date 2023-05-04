@@ -3,34 +3,34 @@ msgctxt "conversations/04_monarch/0404/0404_cp_robotresearch:1:DefaultText"
 msgid "Rizzo, Inc. Personal Equipment\r\n"
 "======================\r\n"
 "This terminal is the sole property of [Buckwalter, H]. Access by any person other than [Buckwalter, H] is unauthorized. Consult your Rizzo employee handbook for the fines corresponding to the unauthorized access of personal-use terminals."
-msgstr ""
+msgstr "Rizzo, Inc. Osobní vybavení ====================== Tento terminál je výhradním vlastnictvím [Buckwalter, H]. Přístup jiné osoby než [Buckwalter, H] je neoprávněný. Pokuty odpovídající neoprávněnému přístupu k terminálům pro osobní použití naleznete v příručce pro zaměstnance společnosti Rizzo."
 
 #: conversations/04_monarch/0404/0404_cp_robotresearch:2
 msgctxt "conversations/04_monarch/0404/0404_cp_robotresearch:2:DefaultText"
 msgid "[Journal Entries: Buckwalter, H.]"
-msgstr ""
+msgstr "[Záznamy v deníku: Buckwalter, H.]"
 
 #: conversations/04_monarch/0404/0404_cp_robotresearch:3
 msgctxt "conversations/04_monarch/0404/0404_cp_robotresearch:3:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"
 
 #: conversations/04_monarch/0404/0404_cp_robotresearch:4
 msgctxt "conversations/04_monarch/0404/0404_cp_robotresearch:4:DefaultText"
 msgid "[Access Automechanical Controls]"
-msgstr ""
+msgstr "[Přístup k automechanickým ovládacím prvkům]"
 
 #: conversations/04_monarch/0404/0404_cp_robotresearch:5
 msgctxt "conversations/04_monarch/0404/0404_cp_robotresearch:5:DefaultText"
 msgid "Rizzo, Inc. Personal Equipment\r\n"
 "======================\r\n"
 "Available entries:"
-msgstr ""
+msgstr "Rizzo, Inc. Osobní vybavení ====================== Dostupné položky:"
 
 #: conversations/04_monarch/0404/0404_cp_robotresearch:11
 msgctxt "conversations/04_monarch/0404/0404_cp_robotresearch:11:DefaultText"
 msgid "[Preparations]"
-msgstr ""
+msgstr "[Přípravy]"
 
 #: conversations/04_monarch/0404/0404_cp_robotresearch:12
 msgctxt "conversations/04_monarch/0404/0404_cp_robotresearch:12:DefaultText"
@@ -46,12 +46,12 @@ msgid "Dearest Margaret,\r\n"
 "\r\n"
 "Yours, now and well after my atoms have been consigned to the aether,\r\n"
 "Howard"
-msgstr ""
+msgstr "Nejdražší Margaret, obávám se, že až se probudíš, budeš si myslet, že jsem tě opustil jako Rizzo. Ujišťuji tě o opaku. Zahájil jsem přípravy, abych zajistil, že ty i Herbert přežijete, dokud nebudete oba zachráněni. Pokud jde o mě, obávám se nejhoršího. Udělám vše pro to, abych přežil nadcházející měsíce, ale kousance, které jsem utrpěl při útěku před raptidony, nevykazují žádné známky hojení. Mohu jen doufat, že se probudíte dřív, než zemřu, ale v nejhorším případě vězte, že vás oba miluji. Váš, teď i dlouho poté, co budou mé atomy poslány do éteru, Howard"
 
 #: conversations/04_monarch/0404/0404_cp_robotresearch:13
 msgctxt "conversations/04_monarch/0404/0404_cp_robotresearch:13:DefaultText"
 msgid "[Rationing]"
-msgstr ""
+msgstr "[Příděly]"
 
 #: conversations/04_monarch/0404/0404_cp_robotresearch:14
 msgctxt "conversations/04_monarch/0404/0404_cp_robotresearch:14:DefaultText"
@@ -73,12 +73,12 @@ msgid "Dearest Margaret,\r\n"
 "\r\n"
 "Yours, now and well after my atoms have been consigned to the aether,\r\n"
 "Howard"
-msgstr ""
+msgstr "Nejdražší Margaret, naše kajuta je sice malinká, ale Herbert s naprostým potěšením prozkoumává každé její zákoutí. S potěšením mohu oznámit, že po našem pobytu v tomto skromném novém domově nejeví žádné známky utrpení. Přinesl jsem s sebou vše, co jsem si mohl vzít z povrchu. Naši bývalí kolegové se i nadále snaží žít nad zemí, ačkoli severní bránu před dotírajícími raptidony zatarasili. O existenci tohoto úkrytu stále nevědí a já se snažím, aby tomu tak zůstalo. Kdyby našli mé zásoby jídla, jistě by se je snažili rozdělit mezi sebe. S odvoláním na svůj výcvik v nouzových situacích, i když to bylo před lety, se mi podařilo zajistit intubaci, která vás bude živit, zatímco budete tak klidně spát. Při správném přídělu nám zdejší zásoby vydrží několik let - jistě dost na to, aby nás Rizzo přišel zachránit. Přinejmenším Herbert přežije dospívání - při správném přídělu snad i dospělost. Pokud jde o mě, moje rány začaly zapáchat. Herbert předstírá, že si toho nevšiml, ale to, jak se mu kroutí nos, mi připomíná, jak ses kdysi smál. Jak roste s každým dalším dnem. Tvůj, teď i dlouho poté, co mé atomy odejdou do éteru, Howarde."
 
 #: conversations/04_monarch/0404/0404_cp_robotresearch:15
 msgctxt "conversations/04_monarch/0404/0404_cp_robotresearch:15:DefaultText"
 msgid "[Engineering a Mother]"
-msgstr ""
+msgstr "[Inženýrství matky]"
 
 #: conversations/04_monarch/0404/0404_cp_robotresearch:16
 msgctxt "conversations/04_monarch/0404/0404_cp_robotresearch:16:DefaultText"
@@ -92,12 +92,12 @@ msgid "Dearest Margaret,\r\n"
 "\r\n"
 "Yours, now and well after my atoms have been consigned to the aether,\r\n"
 "Howard"
-msgstr ""
+msgstr "Drahá Margaret, doufám, že se neurazíš, pokud se jednoho dne probudíš a najdeš automechanika, který připravuje Herbertovi jídlo nebo ti upravuje přívodní trubičky. Stálo to dost úsilí - a mnoho neúspěchů, což mohou potvrdit mé nové popáleniny - zkonstruovat automechanika, který by se postaral o jakéhokoli člověka, natož o jednoho kojence a jednu ženu v komatu.S trochou štěstí, pokud se infekce v mé noze bude nadále rozrůstat, tyto stroje snadno nahradí mé otcovské povinnosti a zachovají láskyplnou péči potřebnou k výchově Herberta a ošetřování tebe. K mému překvapení je model na vaření dokonce schopen poskytovat omezené doučovací služby. Tvůj, teď i dlouho poté, co budou mé atomy odeslány do éteru, Howarde."
 
 #: conversations/04_monarch/0404/0404_cp_robotresearch:17
 msgctxt "conversations/04_monarch/0404/0404_cp_robotresearch:17:DefaultText"
 msgid "[Underwear]"
-msgstr ""
+msgstr "[Spodní prádlo]"
 
 #: conversations/04_monarch/0404/0404_cp_robotresearch:18
 msgctxt "conversations/04_monarch/0404/0404_cp_robotresearch:18:DefaultText"
@@ -113,60 +113,60 @@ msgid "Dearest Margaret,\r\n"
 "\r\n"
 "Yours, now and well after my atoms have been consigned to the aether,\r\n"
 "Howard"
-msgstr ""
+msgstr "Nejdražší Margaret, automechanici pracují skvěle; jejich zápal mi připomíná mé mládí před lety, než se ze mě stala vyčerpaná slupka, kterou jsem dnes.Částečně jsem ti vděčný, že mě nemůžeš vidět v takovém stavu, s jednou nepoužitelnou nohou a zlověstnými černými pruhy ženoucími se podél mých žil. Nechám ti jednu radu - při nedostatku vhodného spodního prádla jsem naučil automechaniky prát vyčiněné raptidonské kůže pro opakované použití. Z posledních zbytků sil jsem jich pár sebral z povrchu. Kdyby ses probudil, prosím tě: Nechoď tam nahoru. Zůstaň tady, dokud tě nezachrání. Naši kolegové zahynuli a zůstaly jen nestvůry. Tvoje, teď i dlouho poté, co mé atomy odejdou do éteru, Howarde."
 
 #: conversations/04_monarch/0404/0404_cp_robotresearch:19
 msgctxt "conversations/04_monarch/0404/0404_cp_robotresearch:19:DefaultText"
 msgid "[Back]"
-msgstr ""
+msgstr "[Zpět]"
 
 #: conversations/04_monarch/0404/0404_cp_robotresearch:24
 msgctxt "conversations/04_monarch/0404/0404_cp_robotresearch:24:DefaultText"
 msgid "Rizzo, Inc. Personal Equipment\r\n"
 "======================\r\n"
 "Available functions:"
-msgstr ""
+msgstr "Rizzo, Inc. Osobní vybavení ====================== Dostupné funkce:"
 
 #: conversations/04_monarch/0404/0404_cp_robotresearch:25
 msgctxt "conversations/04_monarch/0404/0404_cp_robotresearch:25:DefaultText"
 msgid "[Disable Security Protocols]"
-msgstr ""
+msgstr "[Zakázat bezpečnostní protokoly]"
 
 #: conversations/04_monarch/0404/0404_cp_robotresearch:26
 msgctxt "conversations/04_monarch/0404/0404_cp_robotresearch:26:DefaultText"
 msgid "[Enable Security Protocols]"
-msgstr ""
+msgstr "[Povolit bezpečnostní protokoly]"
 
 #: conversations/04_monarch/0404/0404_cp_robotresearch:27
 msgctxt "conversations/04_monarch/0404/0404_cp_robotresearch:27:DefaultText"
 msgid "Rizzo, Inc. Personal Equipment\r\n"
 "======================\r\n"
 "Automechanicals disabled."
-msgstr ""
+msgstr "Rizzo, Inc. Osobní vybavení ====================== Automechanicals disabled."
 
 #: conversations/04_monarch/0404/0404_cp_robotresearch:28
 msgctxt "conversations/04_monarch/0404/0404_cp_robotresearch:28:DefaultText"
 msgid "Rizzo, Inc. Personal Equipment\r\n"
 "======================\r\n"
 "Automechanicals enabled."
-msgstr ""
+msgstr "Rizzo, Inc. Personal Equipment ====================== Automechanicals enabled."
 
 #: conversations/04_monarch/0404/0404_cp_robotresearch:36
 msgctxt "conversations/04_monarch/0404/0404_cp_robotresearch:36:DefaultText"
 msgid "[Journal Entries: Buckwalter, D.]"
-msgstr ""
+msgstr "[Záznamy v deníku: Buckwalter, D.]"
 
 #: conversations/04_monarch/0404/0404_cp_robotresearch:37
 msgctxt "conversations/04_monarch/0404/0404_cp_robotresearch:37:DefaultText"
 msgid "Rizzo, Inc. Personal Equipment\r\n"
 "======================\r\n"
 "Available entries:"
-msgstr ""
+msgstr "Rizzo, Inc. Osobní vybavení ====================== Dostupné položky:"
 
 #: conversations/04_monarch/0404/0404_cp_robotresearch:38
 msgctxt "conversations/04_monarch/0404/0404_cp_robotresearch:38:DefaultText"
 msgid "[Rizzo]"
-msgstr ""
+msgstr "[Rizzo]"
 
 #: conversations/04_monarch/0404/0404_cp_robotresearch:39
 msgctxt "conversations/04_monarch/0404/0404_cp_robotresearch:39:DefaultText"
@@ -185,22 +185,23 @@ msgid "rizzos purple berry crunch ready to eat\r\n"
 "rizzos knock you out ccn76 milk chocolate with caramel p free nuts its time for a kyo\r\n"
 "\r\n"
 "abcdefghijklmnopqrstuvwxyz"
-msgstr ""
+msgstr "rizzos purple berry crunch ready to eat tripicale flakes power nuggets s příchutí fialových bobulí rizzos purple berry lunch non organic purpleberries krekry sýr p free ořechy\n"
+"theres always time for purple berry lunch new net wt 3 2 oz 90g rizzos knock you out ccn76 milk chocolate with caramel p free nuts its time for a kyo abcdefghijklmnopqrstuvwxyz"
 
 #: conversations/04_monarch/0404/0404_cp_robotresearch:40
 msgctxt "conversations/04_monarch/0404/0404_cp_robotresearch:40:DefaultText"
 msgid "[Letters]"
-msgstr ""
+msgstr "[Dopisy]"
 
 #: conversations/04_monarch/0404/0404_cp_robotresearch:41
 msgctxt "conversations/04_monarch/0404/0404_cp_robotresearch:41:DefaultText"
 msgid "[Scythe]"
-msgstr ""
+msgstr "[Kosa]"
 
 #: conversations/04_monarch/0404/0404_cp_robotresearch:42
 msgctxt "conversations/04_monarch/0404/0404_cp_robotresearch:42:DefaultText"
 msgid "[Back]"
-msgstr ""
+msgstr "[Zpět]"
 
 #: conversations/04_monarch/0404/0404_cp_robotresearch:43
 msgctxt "conversations/04_monarch/0404/0404_cp_robotresearch:43:DefaultText"
@@ -209,12 +210,12 @@ msgid "qwertyuiopasdfghjklzxcvbnm\r\n"
 "father insists i practice my letters so here we are\r\n"
 "\r\n"
 "abcdefghijklmnopqrstuvwxyz"
-msgstr ""
+msgstr "qwertyuiopasdfghjklzxcvbnm otec trvá na tom, abych si procvičovala písmena, takže tady je abcdefghijklmnopqrstuvwxyz"
 
 #: conversations/04_monarch/0404/0404_cp_robotresearch:44
 msgctxt "conversations/04_monarch/0404/0404_cp_robotresearch:44:DefaultText"
 msgid "[Back]"
-msgstr ""
+msgstr "[Zpět]"
 
 #: conversations/04_monarch/0404/0404_cp_robotresearch:45
 msgctxt "conversations/04_monarch/0404/0404_cp_robotresearch:45:DefaultText"
@@ -225,12 +226,12 @@ msgid "today father finally let me use the candy cane\r\n"
 "he showed me how to be safe so i do not burn myself\r\n"
 "\r\n"
 "maybe i can use it to capture another wooly friend and make him proud"
-msgstr ""
+msgstr "dnes mi otec konečně dovolil použít cukrovou hůl, které se říká \"kosa\", ukázal mi, jak být bezpečný, abych se nespálil, možná ji budu moci použít k chycení dalšího vlněného kamaráda a udělat ho hrdým."
 
 #: conversations/04_monarch/0404/0404_cp_robotresearch:46
 msgctxt "conversations/04_monarch/0404/0404_cp_robotresearch:46:DefaultText"
 msgid "[Father]"
-msgstr ""
+msgstr "[Otec]"
 
 #: conversations/04_monarch/0404/0404_cp_robotresearch:47
 msgctxt "conversations/04_monarch/0404/0404_cp_robotresearch:47:DefaultText"
@@ -241,9 +242,9 @@ msgid "howard has not moved this morning\r\n"
 "i think white hat is my father now\r\n"
 "\r\n"
 "i don't know if it is able to be proud but i will try my best"
-msgstr ""
+msgstr "Howard se dnes ráno nepohnul jeho bříško je velmi klidné a je velmi tichý jako matka byla, když Howard vzal její trubky ven a plakal celou noc myslím, že bílý klobouk je můj otec teď nevím, jestli je schopen být hrdý, ale budu se snažit co nejlépe."
 
 #: conversations/04_monarch/0404/0404_cp_robotresearch:48
 msgctxt "conversations/04_monarch/0404/0404_cp_robotresearch:48:DefaultText"
 msgid "[Continue]"
-msgstr ""
+msgstr "[Pokračovat]"

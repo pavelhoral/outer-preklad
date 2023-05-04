@@ -8,12 +8,12 @@ msgid "Emerald Vale Geothermal Plant\r\n"
 "Repair Bay\r\n"
 "\r\n"
 "Terminal Access"
-msgstr ""
+msgstr "Geotermální elektrárna Emerald Vale A Spacer's Choice Property ======================== Repair Bay Terminal Access"
 
 #: conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_repair_bay:2
 msgctxt "conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_repair_bay:2:DefaultText"
 msgid "[Access Repair Log 0012]"
-msgstr ""
+msgstr "[Protokol opravy přístupu 0012]"
 
 #: conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_repair_bay:3
 msgctxt "conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_repair_bay:3:DefaultText"
@@ -31,12 +31,12 @@ msgid "Emerald Vale Geothermal Plant\r\n"
 "Just in case I'm audited, I would like to formally express how grateful I am to be a part of the Spacer's Choice family. Spacer's Choice is the leading brand in affordable sundry across Halcyon. It's not the best choice, it's the Spacer's Choice.\r\n"
 "\r\n"
 "-C. Higgins"
-msgstr ""
+msgstr "Emerald Vale Geothermal Plant A Spacer's Choice Property ======================== Repair Bay Mechanic's Log 0012 Společnost právě vyslala tým techniků, aby provedl kompletní obnovu všech našich mechanických zařízení. Všechny hlídky a drony. Nepřísluší mi do toho mluvit, ale není to v rozporu s posláním Spacer's Choice být co nejlevnější? Jen pro případ, že by mě kontrolovali, bych rád oficiálně vyjádřil, jak jsem vděčný, že jsem součástí rodiny Spacer's Choice. Spacer's Choice je přední značkou v oblasti cenově dostupného sortimentu v celém Halcyonu. Není to nejlepší volba, je to Spacer's Choice. -C. Higgins"
 
 #: conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_repair_bay:4
 msgctxt "conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_repair_bay:4:DefaultText"
 msgid "[Access Repair Log 0020]"
-msgstr ""
+msgstr "[Protokol opravy přístupu 0020]"
 
 #: conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_repair_bay:5
 msgctxt "conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_repair_bay:5:DefaultText"
@@ -58,9 +58,9 @@ msgid "Emerald Vale Geothermal Plant\r\n"
 "Decided to do a bit of sleuthing by my own self. Got my hands on a logic module. Time to do a little experimentation.\r\n"
 "\r\n"
 "-C. Higgins"
-msgstr ""
+msgstr "Geotermální elektrárna Emerald Vale A Spacer's Choice Property ======================== Repair Bay Mechanic's Log 0020 Právě jsme dokončili běžnou údržbu našich mechanických hlídek. Našel jsem nějaké podivné úpravy jejich logických modulů. Neměl jsem čas provést diagnostiku, takže nevím, co bylo upraveno. Vím jen, že tyto úpravy byly zavedeny při naší nedávné přestavbě. Společnost si před nedávnem dala tu práci, že obnovila všechny mechanické prvky v továrně. Hádám, že to byla práce těch hostujících techniků. Podal jsem hlášení, ale můj nadřízený mi řekl, abych si s tím nedělal starosti. Řekl, že společnost ví, co dělá. Nařídil mi, abych zapomněl na jakékoliv údajné úpravy logických modulů. Rozhodl jsem se, že se do toho pustím sám. Dostal jsem se k logickému modulu. Je čas na malé experimenty. -C. Higgins"
 
 #: conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_repair_bay:6
 msgctxt "conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_repair_bay:6:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"

@@ -8,22 +8,22 @@ msgid "Edgewater Saltuna Cannery\r\n"
 "Terminal Access\r\n"
 "\r\n"
 "Spacer's Choice Saltuna Marketing Division"
-msgstr ""
+msgstr "Edgewater Saltuna Cannery A Spacer's Choice Property ======================== Terminal Access Spacer's Choice Saltuna Marketing Division"
 
 #: conversations/00_emerald_vale/00_cp_town_ext_office:2
 msgctxt "conversations/00_emerald_vale/00_cp_town_ext_office:2:DefaultText"
 msgid "[Messages]"
-msgstr ""
+msgstr "[Zprávy]"
 
 #: conversations/00_emerald_vale/00_cp_town_ext_office:3
 msgctxt "conversations/00_emerald_vale/00_cp_town_ext_office:3:DefaultText"
 msgid "[Personal Files]"
-msgstr ""
+msgstr "[Osobní soubory]"
 
 #: conversations/00_emerald_vale/00_cp_town_ext_office:4
 msgctxt "conversations/00_emerald_vale/00_cp_town_ext_office:4:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"
 
 #: conversations/00_emerald_vale/00_cp_town_ext_office:5
 msgctxt "conversations/00_emerald_vale/00_cp_town_ext_office:5:DefaultText"
@@ -33,7 +33,7 @@ msgid "Edgewater Saltuna Cannery\r\n"
 "========================\r\n"
 "\r\n"
 "Messages"
-msgstr ""
+msgstr "Edgewater Saltuna Cannery A Spacer's Choice Property ======================== Zprávy"
 
 #: conversations/00_emerald_vale/00_cp_town_ext_office:6
 msgctxt "conversations/00_emerald_vale/00_cp_town_ext_office:6:DefaultText"
@@ -60,27 +60,27 @@ msgid "Edgewater Saltuna Cannery\r\n"
 "- \"The saltuna will thank you. (Warning: May cause auditory hallucinations)\"\r\n"
 "\r\n"
 "Will add more later."
-msgstr ""
+msgstr "Edgewater Saltuna Cannery A Spacer's Choice Property ======================== Nápady pro Saltuna Lite taglines - \"Rozpouští se na vidličce, ne v ústech!\" - \"Méně tuku, ale s chutí saltuny!\" - \"Je čas na slaný nálev!\" - \"Nyní s uspokojivým křupáním chrupavek.\" - \"Bez soli se saltuna nedá napsat!\" [POZN: Saltuna se také nedá napsat s tetami. Potenciál marketingu směrem k rodinám?\" - \"Přední vědci říkají: Je to pořád jídlo!\" - \"Saltuna vám poděkuje. (Varování: Může způsobit sluchové halucinace)\" Později přidám další."
 
 #: conversations/00_emerald_vale/00_cp_town_ext_office:7
 msgctxt "conversations/00_emerald_vale/00_cp_town_ext_office:7:DefaultText"
 msgid "[FROM: R. Tobson]"
-msgstr ""
+msgstr "[OD: R. Tobson]"
 
 #: conversations/00_emerald_vale/00_cp_town_ext_office:8
 msgctxt "conversations/00_emerald_vale/00_cp_town_ext_office:8:DefaultText"
 msgid "[TO: R. Tobson]"
-msgstr ""
+msgstr "[TO: R. Tobson]"
 
 #: conversations/00_emerald_vale/00_cp_town_ext_office:9
 msgctxt "conversations/00_emerald_vale/00_cp_town_ext_office:9:DefaultText"
 msgid "[Return to Root]"
-msgstr ""
+msgstr "[Zpět na kořen]"
 
 #: conversations/00_emerald_vale/00_cp_town_ext_office:10
 msgctxt "conversations/00_emerald_vale/00_cp_town_ext_office:10:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"
 
 #: conversations/00_emerald_vale/00_cp_town_ext_office:11
 msgctxt "conversations/00_emerald_vale/00_cp_town_ext_office:11:DefaultText"
@@ -96,7 +96,7 @@ msgid "Edgewater Saltuna Cannery\r\n"
 "Hey Boss,\r\n"
 "\r\n"
 "Just wanted to check up on the new Saltuna Lite project. I've been brainstorming some new taglines for the product line, and I think some of them will really catch our customer's attention!"
-msgstr ""
+msgstr "Edgewater Saltuna Cannery A Spacer's Choice Property ======================== FROM: Gibbs, marketingové oddělení TO: Tobsonovi PŘEDMĚT: R: Šéfe, chtěl jsem jen zkontrolovat nový projekt Saltuna Lite. Vymýšlel jsem nějaké nové slogany pro tuto produktovou řadu a myslím, že některé z nich opravdu upoutají pozornost našich zákazníků!"
 
 #: conversations/00_emerald_vale/00_cp_town_ext_office:12
 msgctxt "conversations/00_emerald_vale/00_cp_town_ext_office:12:DefaultText"
@@ -120,12 +120,12 @@ msgid "Edgewater Saltuna Cannery\r\n"
 "Effective immediately, your position in our marketing division has been terminated. I expect you to report to our foreman tomorrow morning. Your uniform will be deducted from your pay.\r\n"
 "\r\n"
 "Welcome!"
-msgstr ""
+msgstr "Edgewater Saltuna Cannery A Spacer's Choice Property ======================== FROM: Tobson TO: Gibbs, marketingové oddělení PŘEDMĚT: L: Milý Lawrenci, vážím si tvé usilovné práce ve prospěch naší milované značky saltuna. Právě jsem obdržel odpověď od korporace. Tvůj nápad na \"light\" verzi značky Saltuna je nezajímá, protože bychom si neradi konkurovali. Ale myšlenka lehčí saltuny je ZAJÍMÁ! S okamžitou platností jsme dostali pokyn používat těžší plechovky, abychom do nich mohli zabalit méně saltuny, a tím ušetřit kousky do každé plechovky. To je přesně ten průlom, který naše konzervárna potřebuje. Ve skutečnosti naše logistické oddělení právě potvrdilo mou žádost, abyste byl přeřazen z marketingového oddělení do konzervárny. Dokážeš si to představit, Lawrenci? Budeš se otírat lokty o své kolegy na konzervárenské lince a hodinu za hodinou, den za dnem, plnit každou o něco těžší plechovku o něco méně salátu. Je to pro tebe i pro mě obrovská a nesmírná čest. S okamžitou platností byla tvoje pozice v našem marketingovém oddělení zrušena. Očekávám, že se zítra ráno dostavíte k našemu předákovi. Z platu vám bude stržena uniforma. Vítejte!"
 
 #: conversations/00_emerald_vale/00_cp_town_ext_office:15
 msgctxt "conversations/00_emerald_vale/00_cp_town_ext_office:15:DefaultText"
 msgid "[Unlock 2nd Story Balcony Door]"
-msgstr ""
+msgstr "[Odemknout balkonové dveře ve 2. patře]"
 
 #: conversations/00_emerald_vale/00_cp_town_ext_office:16
 msgctxt "conversations/00_emerald_vale/00_cp_town_ext_office:16:DefaultText"
@@ -135,4 +135,4 @@ msgid "Edgewater Saltuna Cannery\r\n"
 "========================\r\n"
 "\r\n"
 "Balcony Unlocked"
-msgstr ""
+msgstr "Edgewater Saltuna Cannery A Spacer's Choice Property ======================== Balcony Unlocked"

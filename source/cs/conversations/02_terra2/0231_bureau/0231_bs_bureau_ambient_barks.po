@@ -1,89 +1,89 @@
 #: conversations/02_terra2/0231_bureau/0231_bs_bureau_ambient_barks:1
 msgctxt "conversations/02_terra2/0231_bureau/0231_bs_bureau_ambient_barks:1:DefaultText"
 msgid "Hey, did Tillman get transferred or something?"
-msgstr ""
+msgstr "Hej, Tillman byl přeložen nebo tak něco?"
 
 #: conversations/02_terra2/0231_bureau/0231_bs_bureau_ambient_barks:2
 msgctxt "conversations/02_terra2/0231_bureau/0231_bs_bureau_ambient_barks:2:DefaultText"
 msgid "That's right, you weren't here when it happened. Some UDL officers took him into custody."
-msgstr ""
+msgstr "Přesně tak, nebyl jsi tady, když se to stalo. Někteří policisté UDL ho vzali do vazby."
 
 #: conversations/02_terra2/0231_bureau/0231_bs_bureau_ambient_barks:3
 msgctxt "conversations/02_terra2/0231_bureau/0231_bs_bureau_ambient_barks:3:DefaultText"
 msgid "Oh Law! What did they take him for?"
-msgstr ""
+msgstr "Ach, zákon! Za co ho vzali?"
 
 #: conversations/02_terra2/0231_bureau/0231_bs_bureau_ambient_barks:4
 msgctxt "conversations/02_terra2/0231_bureau/0231_bs_bureau_ambient_barks:4:DefaultText"
 msgid "UDL's been questioning anybody with possible connections to Phineas Welles. And, well, Tillman designed all those wanted posters."
-msgstr ""
+msgstr "UDL vyslýchá každého, kdo by mohl mít něco společného s Phineasem Wellesem. A Tillman navrhl všechny ty plakáty s hledanými osobami."
 
 #: conversations/02_terra2/0231_bureau/0231_bs_bureau_ambient_barks:5
 msgctxt "conversations/02_terra2/0231_bureau/0231_bs_bureau_ambient_barks:5:DefaultText"
 msgid "So UDL's interrogating Tillman? Ugh. That's disgusting. Can't believe I had lunch with the guy."
-msgstr ""
+msgstr "Takže UDL vyslýchá Tillmana? Fuj. To je nechutné. Nemůžu uvěřit, že jsem s ním obědval."
 
 #: conversations/02_terra2/0231_bureau/0231_bs_bureau_ambient_barks:6
 msgctxt "conversations/02_terra2/0231_bureau/0231_bs_bureau_ambient_barks:6:DefaultText"
 msgid "I think I'm going to start taking my lunches out in the city. That woman from downstairs is still in the cafeteria."
-msgstr ""
+msgstr "Myslím, že si začnu brát obědy do města. Ta žena z přízemí je pořád v jídelně."
 
 #: conversations/02_terra2/0231_bureau/0231_bs_bureau_ambient_barks:7
 msgctxt "conversations/02_terra2/0231_bureau/0231_bs_bureau_ambient_barks:7:DefaultText"
 msgid "That scientist? The one who's been hounding the clerks? Gives me the shudders, too."
-msgstr ""
+msgstr "Ten vědec? Ten, který pronásleduje úředníky? Taky mě z toho mrazí."
 
 #: conversations/02_terra2/0231_bureau/0231_bs_bureau_ambient_barks:8
 msgctxt "conversations/02_terra2/0231_bureau/0231_bs_bureau_ambient_barks:8:DefaultText"
 msgid "They're all pretty unpleasant. What do you think they actually do down there?"
-msgstr ""
+msgstr "Všechny jsou dost nepříjemné. Co myslíš, že tam dole vlastně dělají?"
 
 #: conversations/02_terra2/0231_bureau/0231_bs_bureau_ambient_barks:9
 msgctxt "conversations/02_terra2/0231_bureau/0231_bs_bureau_ambient_barks:9:DefaultText"
 msgid "Best not to ask. Remember that one clerk, Emily? She found a badge one of them had dropped and went down to return it. Never saw her again."
-msgstr ""
+msgstr "Nejlepší je se neptat. Vzpomínáš si na toho úředníka, Emily? Našla odznak, který jednomu z nich upadl, a šla ho vrátit. Už ji nikdy neviděla."
 
 #: conversations/02_terra2/0231_bureau/0231_bs_bureau_ambient_barks:10
 msgctxt "conversations/02_terra2/0231_bureau/0231_bs_bureau_ambient_barks:10:DefaultText"
 msgid "What's this I hear about you ordering more tests performed with sample 4157? That batch failed spectacularly."
-msgstr ""
+msgstr "Co to slyším o tom, že jste si objednal další testy provedené se vzorkem 4157? Tato šarže se velkolepě nepovedla."
 
 #: conversations/02_terra2/0231_bureau/0231_bs_bureau_ambient_barks:11
 msgctxt "conversations/02_terra2/0231_bureau/0231_bs_bureau_ambient_barks:11:DefaultText"
 msgid "I saw a variance in the results that we never accounted for, so I had the techs run the trial again. And the results were 0.003% different this time!"
-msgstr ""
+msgstr "Ve výsledcích jsem viděl odchylku, kterou jsme nikdy nezohlednili, a tak jsem nechal techniky provést zkoušku znovu. A výsledky se tentokrát lišily o 0,003 %!"
 
 #: conversations/02_terra2/0231_bureau/0231_bs_bureau_ambient_barks:12
 msgctxt "conversations/02_terra2/0231_bureau/0231_bs_bureau_ambient_barks:12:DefaultText"
 msgid "Do the words \"statistically insignificant\" mean anything to you?"
-msgstr ""
+msgstr "Říkají vám něco slova \"statisticky nevýznamný\"?"
 
 #: conversations/02_terra2/0231_bureau/0231_bs_bureau_ambient_barks:13
 msgctxt "conversations/02_terra2/0231_bureau/0231_bs_bureau_ambient_barks:13:DefaultText"
 msgid "Let the record show that subject 23-K's cause of death is cerebrovascular incident brought about by a ruptured aneurysm."
-msgstr ""
+msgstr "Ze záznamu je patrné, že příčinou smrti subjektu 23-K je cévní mozková příhoda způsobená prasklým aneurysmatem."
 
 #: conversations/02_terra2/0231_bureau/0231_bs_bureau_ambient_barks:14
 msgctxt "conversations/02_terra2/0231_bureau/0231_bs_bureau_ambient_barks:14:DefaultText"
 msgid "That's an 86% failure rate for this batch. I think we can safely move on to the next."
-msgstr ""
+msgstr "To je 86% míra selhání této série. Myslím, že můžeme směle přejít k další."
 
 #: conversations/02_terra2/0231_bureau/0231_bs_bureau_ambient_barks:15
 msgctxt "conversations/02_terra2/0231_bureau/0231_bs_bureau_ambient_barks:15:DefaultText"
 msgid "And I had such high hopes for this one. Ah well, I suppose it could have been worse."
-msgstr ""
+msgstr "A to jsem do něj vkládala velké naděje. No, asi to mohlo být horší."
 
 #: conversations/02_terra2/0231_bureau/0231_bs_bureau_ambient_barks:16
 msgctxt "conversations/02_terra2/0231_bureau/0231_bs_bureau_ambient_barks:16:DefaultText"
 msgid "Yeah, they could have ended up like those poor bastards in Containment."
-msgstr ""
+msgstr "Jo, mohli skončit jako ti chudáci v Containmentu."
 
 #: conversations/02_terra2/0231_bureau/0231_bs_bureau_ambient_barks:26
 msgctxt "conversations/02_terra2/0231_bureau/0231_bs_bureau_ambient_barks:26:DefaultText"
 msgid "Of course, but we're obligated to explore every possibility."
-msgstr ""
+msgstr "Samozřejmě, ale jsme povinni prozkoumat všechny možnosti."
 
 #: conversations/02_terra2/0231_bureau/0231_bs_bureau_ambient_barks:27
 msgctxt "conversations/02_terra2/0231_bureau/0231_bs_bureau_ambient_barks:27:DefaultText"
 msgid "We're OBLIGATED to get a working formula before Akande has us all in tanks to help test the next batch of samples. Now get to work!"
-msgstr ""
+msgstr "Jsme POVINNI získat funkční vzorec, než nás Akande všechny nacpe do nádrží, abychom pomohli otestovat další várku vzorků. Teď se dejte do práce!"

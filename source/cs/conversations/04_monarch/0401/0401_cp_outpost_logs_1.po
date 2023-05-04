@@ -5,32 +5,32 @@ msgid "UDL Communications Substation #204\r\n"
 "This substation has been decommissioned following the closure of work order #UDL-211.\r\n"
 "\r\n"
 "Communications functionality has been disabled. Logs and messages have been archived."
-msgstr ""
+msgstr "Komunikační rozvodna UDL č. 204 ============================ Tato rozvodna byla vyřazena z provozu po uzavření pracovní zakázky č. UDL-211. Funkce komunikace byla deaktivována. Protokoly a zprávy byly archivovány."
 
 #: conversations/04_monarch/0401/0401_cp_outpost_logs_1:2
 msgctxt "conversations/04_monarch/0401/0401_cp_outpost_logs_1:2:DefaultText"
 msgid "[Messages]"
-msgstr ""
+msgstr "[Zprávy]"
 
 #: conversations/04_monarch/0401/0401_cp_outpost_logs_1:3
 msgctxt "conversations/04_monarch/0401/0401_cp_outpost_logs_1:3:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"
 
 #: conversations/04_monarch/0401/0401_cp_outpost_logs_1:5
 msgctxt "conversations/04_monarch/0401/0401_cp_outpost_logs_1:5:DefaultText"
 msgid "[Halcyon Referendum #207: Terra One Hazard Clause]"
-msgstr ""
+msgstr "[Halcyon Referendum #207: Doložka o nebezpečí Terra One]"
 
 #: conversations/04_monarch/0401/0401_cp_outpost_logs_1:6
 msgctxt "conversations/04_monarch/0401/0401_cp_outpost_logs_1:6:DefaultText"
 msgid "[Closure of Work Order #UDL-211]"
-msgstr ""
+msgstr "[Uzavření pracovního příkazu #UDL-211]"
 
 #: conversations/04_monarch/0401/0401_cp_outpost_logs_1:7
 msgctxt "conversations/04_monarch/0401/0401_cp_outpost_logs_1:7:DefaultText"
 msgid "[Work Order #UDL-211 Status Report #2]"
-msgstr ""
+msgstr "[Pracovní příkaz #UDL-211 Zpráva o stavu #2]"
 
 #: conversations/04_monarch/0401/0401_cp_outpost_logs_1:9
 msgctxt "conversations/04_monarch/0401/0401_cp_outpost_logs_1:9:DefaultText"
@@ -43,7 +43,9 @@ msgid "HALCYON HOLDINGS CORPORATE BOARD\n"
 "Due to the hostile and aggressive nature of the wildlife, as well as the unsustainability of its natural flora for use in human consumption, the Halcyon Holdings Corporate Board has officially enacted a Hazard Clause covering the entirety of Terra 1.\n"
 "\n"
 "After an evacuation period of no more than six (6) months, Terra 1 will be officially considered illegal territory. As this is a unanimous decision, any corporation caught operating on Terra 1 after the evacuation period will face fines and possible disbarment, as defined in Halcyon Code 22.1."
-msgstr ""
+msgstr "VEŘEJNÉ UPOZORNĚNÍ č. 117 SPOLEČNOSTI HALCYON HOLDINGS: O VYHLÁŠENÍ NEBEZPEČÍ PRO TERRA ONE Toto oznámení, vydané dne 12. ledna 2343, slouží jako veřejná výpověď společnosti Terra 1 jako proveditelného pracovního prostředí.\n"
+"\n"
+"Vzhledem k nepřátelské a agresivní povaze zdejší fauny a flóry, jakož i k neudržitelnosti její přirozené flóry pro použití v lidské spotřebě, korporátní rada společnosti Halcyon Holdings oficiálně zavedla doložku o nebezpečí, která se vztahuje na celou Terru 1. Po uplynutí doby evakuace, která nepřesáhne šest (6) měsíců, bude Terra 1 oficiálně považována za nelegální území. Jelikož se jedná o jednomyslné rozhodnutí, bude každá korporace, která bude po uplynutí evakuačního období přistižena při činnosti na Terře 1, čelit pokutám a případnému vyloučení z organizace, jak je definováno v Halcyonském kodexu 22.1."
 
 #: conversations/04_monarch/0401/0401_cp_outpost_logs_1:10
 msgctxt "conversations/04_monarch/0401/0401_cp_outpost_logs_1:10:DefaultText"
@@ -52,7 +54,7 @@ msgid "Work order #UDL-211 has been completed. This substation will now be disab
 "It should be noted that the lead engineer, Franklin Walcowicz, has perished due to a workplace accident involving hostile wildlife in the Devil's Peak caverns.\r\n"
 "\r\n"
 "It should be further noted that Mr. Walcowicz's complaints regarding the dangers of the Terra One wildlife have been redacted."
-msgstr ""
+msgstr "Objednávka práce č. UDL-211 byla dokončena. Tato rozvodna bude nyní vyřazena z provozu a uzavřena. Je třeba poznamenat, že vedoucí inženýr Franklin Walcowicz zahynul v důsledku pracovního úrazu spojeného s nepřátelskou divokou zvěří v jeskyních na Ďábelském vrchu. Dále je třeba poznamenat, že stížnosti pana Walcowicze týkající se nebezpečí ze strany divoké zvěře Terra One byly redakčně upraveny."
 
 #: conversations/04_monarch/0401/0401_cp_outpost_logs_1:11
 msgctxt "conversations/04_monarch/0401/0401_cp_outpost_logs_1:11:DefaultText"
@@ -64,19 +66,19 @@ msgid "#UDL-211 Status Report #2\r\n"
 "I oughta note that I was right about those caverns. They ain't safe. Some kind of... hell, I don't know. A big thing with claws. I ain't an animal scientist.\r\n"
 "\r\n"
 "Can't wait to get the hell off this rock."
-msgstr ""
+msgstr "#UDL-211 Zpráva o stavu č. 2 Záznamový technik: Máme signál z Amber Heights, Stellar Bay a Cascadia. Stále čekáme na zprávu z Bayside Terrace a Aurora Ridge. Měl bych poznamenat, že jsem měl s těmi jeskyněmi pravdu. Nejsou bezpečné. Nějaký druh... sakra, já nevím. Nějaká velká věc s drápy. Nejsem žádný zvířecí vědec. Nemůžu se dočkat, až se dostanu z téhle skály."
 
 #: conversations/04_monarch/0401/0401_cp_outpost_logs_1:13
 msgctxt "conversations/04_monarch/0401/0401_cp_outpost_logs_1:13:DefaultText"
 msgid "UDL Communications Substation #204\r\n"
 "============================\r\n"
 "The following messages are available for retrieval:"
-msgstr ""
+msgstr "UDL Communications Substation #204 ============================ K dispozici jsou následující zprávy:"
 
 #: conversations/04_monarch/0401/0401_cp_outpost_logs_1:15
 msgctxt "conversations/04_monarch/0401/0401_cp_outpost_logs_1:15:DefaultText"
 msgid "[Work Order #UDL-211 Status Report #1]"
-msgstr ""
+msgstr "[Pracovní příkaz č. UDL-211 Zpráva o stavu č. 1]"
 
 #: conversations/04_monarch/0401/0401_cp_outpost_logs_1:16
 msgctxt "conversations/04_monarch/0401/0401_cp_outpost_logs_1:16:DefaultText"
@@ -90,17 +92,17 @@ msgid "#UDL-211 Status Report #1\r\n"
 "This whole place stinks of sulfur. We should've brought masks.\r\n"
 "\r\n"
 "I'm sure I heard something in the caverns beneath the tower. Something's living there. Here's hoping we don't unsettle it, or else that place ain't gonna be safe for our cable guys."
-msgstr ""
+msgstr "#UDL-211 Zpráva o stavu č. 1 Záznamový technik: Walcowicz Tunely jsou v provozu. Kabely jsou položeny. Ďáblův štít přijímá, ale čekáme na potvrzení signálu ze základen. Celé tohle místo páchne sírou. Měli jsme si vzít masky, určitě jsem něco slyšel v jeskyních pod věží. Něco tam žije. Doufám, že to nerozrušíme, jinak to místo nebude pro naše kabeláře bezpečné."
 
 #: conversations/04_monarch/0401/0401_cp_outpost_logs_1:22
 msgctxt "conversations/04_monarch/0401/0401_cp_outpost_logs_1:22:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"
 
 #: conversations/04_monarch/0401/0401_cp_outpost_logs_1:23
 msgctxt "conversations/04_monarch/0401/0401_cp_outpost_logs_1:23:DefaultText"
 msgid "[Manual Log Entry]"
-msgstr ""
+msgstr "[Ruční záznam protokolu]"
 
 #: conversations/04_monarch/0401/0401_cp_outpost_logs_1:24
 msgctxt "conversations/04_monarch/0401/0401_cp_outpost_logs_1:24:DefaultText"
@@ -115,9 +117,9 @@ msgid "Gonna die for this damn fool errand, I know it.\r\n"
 "Feel like a marauder, digging at the walls like this, but we gotta get out before we starve. It ain't possible, but Nelson over there's trying to keep our spirits up and I don't got the energy to fight him on it.\r\n"
 "\r\n"
 "Screw that Bryant fella. Eyes bigger than his fuckin' stomach."
-msgstr ""
+msgstr "Umřu kvůli téhle zatracené bláznivé pochůzce, vím to. Říkal, že Amber Heights bude mít víc kousků, než můžeme utratit, ale ti kravaťáci se sebrali a všechno utratili za nás. Knihy a vázy a pěkný sračky... Nemůžeš sežrat zasranou knihu... Podívej se na nás teď. Ze všech skříní, kde se můžeme schovat a lízat si rány, jsme si museli vybrat tu, která je nastavená tak, že se sama zamkne. Cítíme se jako nájezdníci, když takhle kopeme do zdí, ale musíme se dostat ven, než umřeme hlady. Nejde to, ale támhle Nelson se nás snaží udržet na duchu a já nemám sílu se s ním kvůli tomu hádat. Kašlu na toho Bryanta. Oči větší než jeho zasraný břicho."
 
 #: conversations/04_monarch/0401/0401_cp_outpost_logs_1:25
 msgctxt "conversations/04_monarch/0401/0401_cp_outpost_logs_1:25:DefaultText"
 msgid "[Back]"
-msgstr ""
+msgstr "[Zpět]"

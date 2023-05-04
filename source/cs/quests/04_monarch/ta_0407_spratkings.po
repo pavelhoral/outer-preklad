@@ -1,119 +1,119 @@
 #: quests/04_monarch/ta_0407_spratkings:0
 msgctxt "quests/04_monarch/ta_0407_spratkings:0:DefaultText"
 msgid "Spratkings"
-msgstr ""
+msgstr "Spratkings"
 
 #: quests/04_monarch/ta_0407_spratkings:1
 msgctxt "quests/04_monarch/ta_0407_spratkings:1:DefaultText"
 msgid "Search SubLight's Shipping Tunnels"
-msgstr ""
+msgstr "Hledání v přepravních tunelech společnosti SubLight"
 
 #: quests/04_monarch/ta_0407_spratkings:6
 msgctxt "quests/04_monarch/ta_0407_spratkings:6:DefaultText"
 msgid "Report Back to Nelson"
-msgstr ""
+msgstr "Nahlásit zpět Nelsonovi"
 
 #: quests/04_monarch/ta_0407_spratkings:7
 msgctxt "quests/04_monarch/ta_0407_spratkings:7:DefaultText"
 msgid "Find the Missing Sprat Carriers"
-msgstr ""
+msgstr "Vyhledání chybějících nosičů Sprat"
 
 #: quests/04_monarch/ta_0407_spratkings:8
 msgctxt "quests/04_monarch/ta_0407_spratkings:8:DefaultText"
 msgid "Retrieve the Drugs from the Sprat Carriers"
-msgstr ""
+msgstr "Získání drog z lodí Sprat Carrier"
 
 #: quests/04_monarch/ta_0407_spratkings:11
 msgctxt "quests/04_monarch/ta_0407_spratkings:11:DefaultText"
 msgid "Recover Nelson's Drugs from the Sprat Droppings"
-msgstr ""
+msgstr "Získání Nelsonových drog z trusu šprotů"
 
 #: quests/04_monarch/ta_0407_spratkings:14
 msgctxt "quests/04_monarch/ta_0407_spratkings:14:DefaultText"
 msgid "Return to Nelson"
-msgstr ""
+msgstr "Návrat do Nelson"
 
 #: quests/04_monarch/ta_0407_spratkings:20
 msgctxt "quests/04_monarch/ta_0407_spratkings:20:DefaultText"
 msgid "Deal with Bertrand"
-msgstr ""
+msgstr "Dohoda s Bertrandem"
 
 #: quests/04_monarch/ta_0407_spratkings:10000
 msgctxt "quests/04_monarch/ta_0407_spratkings:10000:DefaultText"
 msgid "Nelson Mayson's sprat carriers have gone missing. For a cut of the profit on his dealing operation, he's asked you to locate and retrieve his missing inventory within Fallbrook."
-msgstr ""
+msgstr "Nosiče šprotů Nelsona Maysona se ztratily. Za podíl ze zisku z jeho obchodní činnosti vás požádal, abyste našli a získali zpět jeho ztracené zásoby v rámci Fallbrooku."
 
 #: quests/04_monarch/ta_0407_spratkings:10001
 msgctxt "quests/04_monarch/ta_0407_spratkings:10001:DefaultText"
 msgid "Nelson's sprat carriers run their secretive routes through SubLight's shipping tunnels. It's the last place the sprats were seen before they went missing."
-msgstr ""
+msgstr "Nelsonovy lodě na přepravu šprotů projíždějí tajnými trasami skrz přepravní tunely společnosti SubLight. Je to poslední místo, kde byly šproty spatřeny, než se ztratily."
 
 #: quests/04_monarch/ta_0407_spratkings:10006
 msgctxt "quests/04_monarch/ta_0407_spratkings:10006:DefaultText"
 msgid "Give Nelson Mayson in Fallbrook the drugs you recovered from the dead sprats in SubLight's shipping tunnels."
-msgstr ""
+msgstr "Dejte Nelsonu Maysonovi ve Fallbrooku drogy, které jste získali z mrtvých šprotů v přepravních tunelech společnosti SubLight."
 
 #: quests/04_monarch/ta_0407_spratkings:10007
 msgctxt "quests/04_monarch/ta_0407_spratkings:10007:DefaultText"
 msgid "Since the corpses in SubLight's shipping tunnels accounted for only half of Nelson's sprat carriers, the remaining ones must be somewhere in Fallbrook. Find them."
-msgstr ""
+msgstr "Vzhledem k tomu, že mrtvoly v přepravních tunelech SubLightu představovaly jen polovinu Nelsonových šprotů, musely být ty zbývající někde ve Fallbrooku. Najdi je."
 
 #: quests/04_monarch/ta_0407_spratkings:10008
 msgctxt "quests/04_monarch/ta_0407_spratkings:10008:DefaultText"
 msgid "Collect Nelson's drugs from the sprat carriers... by any means necessary."
-msgstr ""
+msgstr "Seberte Nelsonovy drogy z nosičů šprotů... jakýmikoliv prostředky."
 
 #: quests/04_monarch/ta_0407_spratkings:10011
 msgctxt "quests/04_monarch/ta_0407_spratkings:10011:DefaultText"
 msgid "In order to retrieve the drugs for Nelson, you'll have to get your hands dirty."
-msgstr ""
+msgstr "Abyste mohli získat drogy pro Nelsona, budete si muset ušpinit ruce."
 
 #: quests/04_monarch/ta_0407_spratkings:10014
 msgctxt "quests/04_monarch/ta_0407_spratkings:10014:DefaultText"
 msgid "Now that you've collected the remaining drugs for Nelson Mayson, return to him for a cut of the profits."
-msgstr ""
+msgstr "Nyní, když jste pro Nelsona Maysona shromáždili zbývající drogy, vraťte se k němu pro podíl ze zisku."
 
 #: quests/04_monarch/ta_0407_spratkings:10020
 msgctxt "quests/04_monarch/ta_0407_spratkings:10020:DefaultText"
 msgid "Bertrand stole from SubLight. You'll need to decide what to do with him before returning to Nelson."
-msgstr ""
+msgstr "Bertrand ukradl ze SubLight. Než se vrátíte k Nelsonovi, musíte se rozhodnout, co s ním uděláte."
 
 #: quests/04_monarch/ta_0407_spratkings:20000
 msgctxt "quests/04_monarch/ta_0407_spratkings:20000:DefaultText"
 msgid "Seems like Bertrand had something to do with the missing sprats. Speak with him."
-msgstr ""
+msgstr "Zdá se, že Bertrand má něco společného s chybějícími šproty. Promluvte si s ním."
 
 #: quests/04_monarch/ta_0407_spratkings:20001
 msgctxt "quests/04_monarch/ta_0407_spratkings:20001:DefaultText"
 msgid "You told Nelson someone stole the drugs from the SubLight tunnels so you could keep them for yourself."
-msgstr ""
+msgstr "Řekl jsi Nelsonovi, že někdo ukradl drogy z podsvětelných tunelů, aby sis je mohl nechat pro sebe."
 
 #: quests/04_monarch/ta_0407_spratkings:20002
 msgctxt "quests/04_monarch/ta_0407_spratkings:20002:DefaultText"
 msgid "You lied to Nelson so you could keep the drugs for yourself."
-msgstr ""
+msgstr "Lhal jsi Nelsonovi, aby sis mohl nechat léky pro sebe."
 
 #: quests/04_monarch/ta_0407_spratkings:20003
 msgctxt "quests/04_monarch/ta_0407_spratkings:20003:DefaultText"
 msgid "The tunnel has been compromised by rapts. Clear them out."
-msgstr ""
+msgstr "Tunel byl ohrožen bočními nájezdy. Odstraňte je."
 
 #: quests/04_monarch/ta_0407_spratkings:30004
 msgctxt "quests/04_monarch/ta_0407_spratkings:30004:DefaultText"
 msgid "You recovered Nelson Mayson's missing drugs."
-msgstr ""
+msgstr "Získal jste ztracené drogy Nelsona Maysona."
 
 #: quests/04_monarch/ta_0407_spratkings:30005
 msgctxt "quests/04_monarch/ta_0407_spratkings:30005:DefaultText"
 msgid "Because you killed Nelson Mayson he cannot pay you a cut from his scheme."
-msgstr ""
+msgstr "Protože jsi zabil Nelsona Maysona, nemůže ti vyplatit podíl ze svého plánu."
 
 #: quests/04_monarch/ta_0407_spratkings:30006
 msgctxt "quests/04_monarch/ta_0407_spratkings:30006:DefaultText"
 msgid "You killed Bertrand for stealing from SubLight. Then you took a cut of the profits from Nelson Mayson's dealing after recovering his lost drugs."
-msgstr ""
+msgstr "Zabil jsi Bertranda za to, že okradl společnost SubLight. Pak jste si vzal podíl ze zisku z obchodování Nelsona Maysona poté, co jste získal zpět jeho ztracené drogy."
 
 #: quests/04_monarch/ta_0407_spratkings:30007
 msgctxt "quests/04_monarch/ta_0407_spratkings:30007:DefaultText"
 msgid "You tracked down Nelson's missing drugs but lied to him to keep them for yourself."
-msgstr ""
+msgstr "Vypátral jsi Nelsonovy chybějící drogy, ale lhal jsi mu, abys je měl pro sebe."

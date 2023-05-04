@@ -4,21 +4,21 @@ msgid "UDL Communications Substation #204\r\n"
 "============================\r\n"
 "Records Room Status: SEALED\r\n"
 "Enter administration code."
-msgstr ""
+msgstr "UDL Communications Substation #204 ============================ Records Room Status: Zadejte administrativní kód."
 
 #: conversations/04_monarch/0401/0401_cp_outpost_door:2
 msgctxt "conversations/04_monarch/0401/0401_cp_outpost_door:2:DefaultText"
 msgid "[Enter Code]"
-msgstr ""
+msgstr "[Zadejte kód]"
 
 #: conversations/04_monarch/0401/0401_cp_outpost_door:3
 msgctxt "conversations/04_monarch/0401/0401_cp_outpost_door:3:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"
 
 #: conversations/04_monarch/0401/0401_cp_outpost_door:4
 msgctxt "conversations/04_monarch/0401/0401_cp_outpost_door:4:DefaultText"
 msgid "UDL Communications Substation #204\r\n"
 "============================\r\n"
 "Records Room Status: ACCESSIBLE. Warning: Unauthorized entry into the records room will result in immediate reassignment."
-msgstr ""
+msgstr "UDL Communications Substation #204 ============================ Records Room Status: PŘÍSTUPNÉ. Upozornění: Neoprávněný vstup do místnosti pro záznamy bude mít za následek okamžité přeložení."

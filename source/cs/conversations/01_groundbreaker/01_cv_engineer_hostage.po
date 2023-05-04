@@ -1,89 +1,89 @@
 #: conversations/01_groundbreaker/01_cv_engineer_hostage:1
 msgctxt "conversations/01_groundbreaker/01_cv_engineer_hostage:1:DefaultText"
 msgid "Haven't seen any new faces down here since I arrived. Not sure how long ago that was. MacRedd tends to incinerate anyone who comes by."
-msgstr ""
+msgstr "Od svého příjezdu jsem tu neviděl žádné nové tváře. Nejsem si jistý, jak je to dlouho. MacRedd má tendenci zpopelnit každého, kdo přijde."
 
 #: conversations/01_groundbreaker/01_cv_engineer_hostage:2
 msgctxt "conversations/01_groundbreaker/01_cv_engineer_hostage:2:DefaultText"
 msgid "You're the first person I've seen who talked their way past MacRedd. That may not sound like much, but take my word for it - wow!"
-msgstr ""
+msgstr "Jsi první člověk, kterého jsem viděl, který se prokecl přes MacRedda. Možná to nezní jako nic moc, ale věřte mi na slovo - wow!"
 
 #: conversations/01_groundbreaker/01_cv_engineer_hostage:3
 msgctxt "conversations/01_groundbreaker/01_cv_engineer_hostage:3:DefaultText"
 msgid "Be seeing you, stranger."
-msgstr ""
+msgstr "Uvidíme se, cizinče."
 
 #: conversations/01_groundbreaker/01_cv_engineer_hostage:4
 msgctxt "conversations/01_groundbreaker/01_cv_engineer_hostage:4:DefaultText"
 msgid "I came to grab some radiator parts. Engineering could use your help installing them."
-msgstr ""
+msgstr "Přišel jsem si pro nějaké díly chladiče. Inženýrům by se hodila vaše pomoc s jejich instalací."
 
 #: conversations/01_groundbreaker/01_cv_engineer_hostage:5
 msgctxt "conversations/01_groundbreaker/01_cv_engineer_hostage:5:DefaultText"
 msgid "What brings you to the Back Bays?"
-msgstr ""
+msgstr "Co vás přivádí do zálivu Back Bay?"
 
 #: conversations/01_groundbreaker/01_cv_engineer_hostage:6
 msgctxt "conversations/01_groundbreaker/01_cv_engineer_hostage:6:DefaultText"
 msgid "I'll get back to my post. See you topside, stranger."
-msgstr ""
+msgstr "Vrátím se ke svému příspěvku. Uvidíme se nahoře, cizinče."
 
 #: conversations/01_groundbreaker/01_cv_engineer_hostage:7
 msgctxt "conversations/01_groundbreaker/01_cv_engineer_hostage:7:DefaultText"
 msgid "Junlei sent me down to collect the parts we need to fix the radiators. MacRedd got me all distracted sucking fumes and talking about the cosmos."
-msgstr ""
+msgstr "Junlei mě poslal dolů pro součástky, které potřebujeme k opravě chladičů. MacRedd mě rozptýlil, když jsem nasával výpary a mluvil o vesmíru."
 
 #: conversations/01_groundbreaker/01_cv_engineer_hostage:8
 msgctxt "conversations/01_groundbreaker/01_cv_engineer_hostage:8:DefaultText"
 msgid "Ma'am, I don't mean to be a bother, but what's Ms. Chief Junlei like? If you don't mind me asking, I mean."
-msgstr ""
+msgstr "Madam, nechci vás obtěžovat, ale jaká je paní náčelnice Junlei? Jestli vám nevadí, že se ptám."
 
 #: conversations/01_groundbreaker/01_cv_engineer_hostage:9
 msgctxt "conversations/01_groundbreaker/01_cv_engineer_hostage:9:DefaultText"
 msgid "Maybe ask her yourself? It's been fun, but I should probably get back to a deck where I'm not hallucinating about worms all the time. You know how it is."
-msgstr ""
+msgstr "Možná se jí zeptejte sami? Byla to zábava, ale asi bych se měl vrátit k palubě, kde nemám pořád halucinace o červech. Víš, jak to je."
 
 #: conversations/01_groundbreaker/01_cv_engineer_hostage:12
 msgctxt "conversations/01_groundbreaker/01_cv_engineer_hostage:12:DefaultText"
 msgid "You're probably better off up in Engineering than down here with the outlaws."
-msgstr ""
+msgstr "Pravděpodobně je ti lépe nahoře ve strojírenském průmyslu než tady dole mezi psanci."
 
 #: conversations/01_groundbreaker/01_cv_engineer_hostage:18
 msgctxt "conversations/01_groundbreaker/01_cv_engineer_hostage:18:DefaultText"
 msgid "MacRedd's dead. "
-msgstr ""
+msgstr "MacRedd je mrtvý. "
 
 #: conversations/01_groundbreaker/01_cv_engineer_hostage:19
 msgctxt "conversations/01_groundbreaker/01_cv_engineer_hostage:19:DefaultText"
 msgid "That's too bad. I mean, he was a scary fucker, total pyromaniac, but you know how it is. You meet a guy, get used to his quirks, and then blam."
-msgstr ""
+msgstr "To je škoda. Chci říct, že to byl děsivý hajzl, totální pyroman, ale víte, jak to je. Potkáš chlapa, zvykneš si na jeho zvláštnosti a pak bum."
 
 #: conversations/01_groundbreaker/01_cv_engineer_hostage:21
 msgctxt "conversations/01_groundbreaker/01_cv_engineer_hostage:21:DefaultText"
 msgid "Just take some Level Head for the hangover. And maybe don't work on anything life support-related for a while."
-msgstr ""
+msgstr "Na kocovinu si vezměte Level Head. A možná nějakou dobu nepracuj na ničem, co souvisí s podporou života."
 
 #: conversations/01_groundbreaker/01_cv_engineer_hostage:22
 msgctxt "conversations/01_groundbreaker/01_cv_engineer_hostage:22:DefaultText"
 msgid "Sounds about right. MacRedd's something of a gourmand when it comes to mushrooms."
-msgstr ""
+msgstr "To zní přibližně správně. MacRedd je, co se týče hub, gurmán."
 
 #: conversations/01_groundbreaker/01_cv_engineer_hostage:24
 msgctxt "conversations/01_groundbreaker/01_cv_engineer_hostage:24:DefaultText"
 msgid "Sucking fumes and talking about the cosmos? He'd fit right in with Graham and his ilk."
-msgstr ""
+msgstr "Nasávat výpary a mluvit o vesmíru? Přesně by zapadl mezi Grahama a jemu podobné."
 
 #: conversations/01_groundbreaker/01_cv_engineer_hostage:25
 msgctxt "conversations/01_groundbreaker/01_cv_engineer_hostage:25:DefaultText"
 msgid "Youth these days have no principles. "
-msgstr ""
+msgstr "Dnešní mládež nemá žádné zásady. "
 
 #: conversations/01_groundbreaker/01_cv_engineer_hostage:26
 msgctxt "conversations/01_groundbreaker/01_cv_engineer_hostage:26:DefaultText"
 msgid "Don't shoot! I'm with Junlei!"
-msgstr ""
+msgstr "Nestřílejte! Jsem s Junlei!"
 
 #: conversations/01_groundbreaker/01_cv_engineer_hostage:28
 msgctxt "conversations/01_groundbreaker/01_cv_engineer_hostage:28:DefaultText"
 msgid "I can't tell if you brought friends or if I'm still seeing things, so maybe I ought to lay off the fumes and head back to work. "
-msgstr ""
+msgstr "Nedokážu říct, jestli jste přivedli přátele, nebo jestli mám pořád vidiny, takže bych možná měla vypustit výpary a vrátit se do práce. "

@@ -1,29 +1,29 @@
 #: conversations/02_terra2/0203_byzantium_hhc/0203_bs_lobby_ambient:1
 msgctxt "conversations/02_terra2/0203_byzantium_hhc/0203_bs_lobby_ambient:1:DefaultText"
 msgid "Do we really need all this security? I have to go through three checkpoints just to take a bathroom break."
-msgstr ""
+msgstr "Opravdu potřebujeme všechnu tu bezpečnost? Musím projít třemi kontrolními stanovišti, abych si mohl odskočit na toaletu."
 
 #: conversations/02_terra2/0203_byzantium_hhc/0203_bs_lobby_ambient:2
 msgctxt "conversations/02_terra2/0203_byzantium_hhc/0203_bs_lobby_ambient:2:DefaultText"
 msgid "Can't be too careful. Dissidents like Phineas Welles will stop at nothing to ruin this colony."
-msgstr ""
+msgstr "Opatrnosti není nikdy dost. Disidenti jako Phineas Welles se nezastaví před ničím, aby tuto kolonii zničili."
 
 #: conversations/02_terra2/0203_byzantium_hhc/0203_bs_lobby_ambient:3
 msgctxt "conversations/02_terra2/0203_byzantium_hhc/0203_bs_lobby_ambient:3:DefaultText"
 msgid "But couldn't they concentrate the security outside the building so we can get some work done?"
-msgstr ""
+msgstr "Ale nemohli by soustředit ochranku před budovou, abychom mohli pracovat?"
 
 #: conversations/02_terra2/0203_byzantium_hhc/0203_bs_lobby_ambient:4
 msgctxt "conversations/02_terra2/0203_byzantium_hhc/0203_bs_lobby_ambient:4:DefaultText"
 msgid "Why are you so bothered by having a few guards around? I think I'm going to have to speak to your supervisor about these dissident leanings of yours."
-msgstr ""
+msgstr "Proč vám tolik vadí, že je kolem vás několik strážců? Myslím, že si budu muset promluvit s vaším nadřízeným o těchto vašich disidentských sklonech."
 
 #: conversations/02_terra2/0203_byzantium_hhc/0203_bs_lobby_ambient:5
 msgctxt "conversations/02_terra2/0203_byzantium_hhc/0203_bs_lobby_ambient:5:DefaultText"
 msgid "Hell, I even heard a rumor that Celeste Jolicoeur was recently uncovered as a dissident."
-msgstr ""
+msgstr "Dokonce jsem slyšel zvěsti, že Celeste Jolicoeurová byla nedávno odhalena jako disidentka."
 
 #: conversations/02_terra2/0203_byzantium_hhc/0203_bs_lobby_ambient:6
 msgctxt "conversations/02_terra2/0203_byzantium_hhc/0203_bs_lobby_ambient:6:DefaultText"
 msgid "Wait, that's not what I meant!"
-msgstr ""
+msgstr "Počkat, tak jsem to nemyslel!"

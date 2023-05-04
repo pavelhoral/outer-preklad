@@ -1,864 +1,864 @@
 #: game/achievements:0
 msgctxt "game/achievements:0:DefaultText"
 msgid "The Outer Worlds"
-msgstr ""
+msgstr "Vnější světy"
 
 #: game/achievements:1
 msgctxt "game/achievements:1:DefaultText"
 msgid "All Trophies for The Outer Worlds"
-msgstr ""
+msgstr "Všechny trofeje pro hru The Outer Worlds"
 
 #: game/achievements:2
 msgctxt "game/achievements:2:DefaultText"
 msgid "The Outer Worlds Platinum Trophy"
-msgstr ""
+msgstr "Platinová trofej Vnější světy"
 
 #: game/achievements:3
 msgctxt "game/achievements:3:DefaultText"
 msgid "Collected all trophies for The Outer Worlds."
-msgstr ""
+msgstr "Získal všechny trofeje pro hru The Outer Worlds."
 
 #: game/achievements:7
 msgctxt "game/achievements:7:DefaultText"
 msgid "The Outer Worlds"
-msgstr ""
+msgstr "Vnější světy"
 
 #: game/achievements:8
 msgctxt "game/achievements:8:DefaultText"
 msgid "Completed The Outer Worlds on any difficulty."
-msgstr ""
+msgstr "Dokončete hru The Outer Worlds na jakoukoli obtížnost."
 
 #: game/achievements:9
 msgctxt "game/achievements:9:DefaultText"
 msgid "Complete The Outer Worlds on any difficulty."
-msgstr ""
+msgstr "Dokončete hru The Outer Worlds na jakoukoli obtížnost."
 
 #: game/achievements:11
 msgctxt "game/achievements:11:DefaultText"
 msgid "Test DVR"
-msgstr ""
+msgstr "Test DVR"
 
 #: game/achievements:13
 msgctxt "game/achievements:13:DefaultText"
 msgid "Hard"
-msgstr ""
+msgstr "Hard"
 
 #: game/achievements:14
 msgctxt "game/achievements:14:DefaultText"
 msgid "Completed The Outer Worlds on hard difficulty."
-msgstr ""
+msgstr "Dokončení hry The Outer Worlds na těžkou obtížnost."
 
 #: game/achievements:15
 msgctxt "game/achievements:15:DefaultText"
 msgid "Complete The Outer Worlds on hard difficulty."
-msgstr ""
+msgstr "Dokončete hru The Outer Worlds na těžkou obtížnost."
 
 #: game/achievements:16
 msgctxt "game/achievements:16:DefaultText"
 msgid "Supernova"
-msgstr ""
+msgstr "Supernova"
 
 #: game/achievements:17
 msgctxt "game/achievements:17:DefaultText"
 msgid "Completed The Outer Worlds on supernova difficulty."
-msgstr ""
+msgstr "Dokončení hry The Outer Worlds na obtížnost supernova."
 
 #: game/achievements:18
 msgctxt "game/achievements:18:DefaultText"
 msgid "Complete The Outer Worlds on supernova difficulty."
-msgstr ""
+msgstr "Dokončete hru The Outer Worlds na obtížnost supernova."
 
 #: game/achievements:19
 msgctxt "game/achievements:19:DefaultText"
 msgid "Best Friend"
-msgstr ""
+msgstr "Nejlepší přítel"
 
 #: game/achievements:20
 msgctxt "game/achievements:20:DefaultText"
 msgid "Recruited a companion."
-msgstr ""
+msgstr "Přijal společníka."
 
 #: game/achievements:21
 msgctxt "game/achievements:21:DefaultText"
 msgid "Recruit a companion."
-msgstr ""
+msgstr "Najměte si společníka."
 
 #: game/achievements:22
 msgctxt "game/achievements:22:DefaultText"
 msgid "The Harder They Fall"
-msgstr ""
+msgstr "Čím hůře padají"
 
 #: game/achievements:23
 msgctxt "game/achievements:23:DefaultText"
 msgid "Killed a mega creature."
-msgstr ""
+msgstr "Zabil mega stvoření."
 
 #: game/achievements:24
 msgctxt "game/achievements:24:DefaultText"
 msgid "Kill a mega creature."
-msgstr ""
+msgstr "Zabij mega stvoření."
 
 #: game/achievements:25
 msgctxt "game/achievements:25:DefaultText"
 msgid "Got Your Back"
-msgstr ""
+msgstr "Kryjeme vám záda"
 
 #: game/achievements:26
 msgctxt "game/achievements:26:DefaultText"
 msgid "Killed 50 enemies with companion abilities."
-msgstr ""
+msgstr "Zabito 50 nepřátel se schopnostmi společníka."
 
 #: game/achievements:27
 msgctxt "game/achievements:27:DefaultText"
 msgid "Kill 50 enemies with companion abilities."
-msgstr ""
+msgstr "Zabijte 50 nepřátel se schopnostmi společníka."
 
 #: game/achievements:28
 msgctxt "game/achievements:28:DefaultText"
 msgid "Silver Tongue"
-msgstr ""
+msgstr "Stříbrný jazyk"
 
 #: game/achievements:29
 msgctxt "game/achievements:29:DefaultText"
 msgid "Used dialog skills 30 times in conversations."
-msgstr ""
+msgstr "30krát použil dialogové dovednosti v rozhovorech."
 
 #: game/achievements:30
 msgctxt "game/achievements:30:DefaultText"
 msgid "Use dialog skills 30 times in conversations."
-msgstr ""
+msgstr "Použijte dialogové dovednosti 30krát v rozhovorech."
 
 #: game/achievements:31
 msgctxt "game/achievements:31:DefaultText"
 msgid "Poor Sportsmanship"
-msgstr ""
+msgstr "Špatné sportovní chování"
 
 #: game/achievements:32
 msgctxt "game/achievements:32:DefaultText"
 msgid "Hit 30 enemies in the groin during tactical time dilation."
-msgstr ""
+msgstr "Zasáhněte 30 nepřátel do slabin během taktické dilatace času."
 
 #: game/achievements:33
 msgctxt "game/achievements:33:DefaultText"
 msgid "Hit 30 enemies in the groin during tactical time dilation."
-msgstr ""
+msgstr "Zasáhněte 30 nepřátel do slabin během taktické dilatace času."
 
 #: game/achievements:34
 msgctxt "game/achievements:34:DefaultText"
 msgid "Upgrades Available"
-msgstr ""
+msgstr "Dostupné aktualizace"
 
 #: game/achievements:35
 msgctxt "game/achievements:35:DefaultText"
 msgid "Improved your gear 30 times through tinkering and mods."
-msgstr ""
+msgstr "Vylepšete své vybavení 30krát pomocí úprav a modifikací."
 
 #: game/achievements:36
 msgctxt "game/achievements:36:DefaultText"
 msgid "Improve your gear 30 times through tinkering and mods."
-msgstr ""
+msgstr "Vylepšete své vybavení 30krát pomocí úprav a modifikací."
 
 #: game/achievements:37
 msgctxt "game/achievements:37:DefaultText"
 msgid "Never Seen"
-msgstr ""
+msgstr "Nikdy neviděno"
 
 #: game/achievements:38
 msgctxt "game/achievements:38:DefaultText"
 msgid "Killed 50 enemies with sneak attacks."
-msgstr ""
+msgstr "Zabil 50 nepřátel zákeřnými útoky."
 
 #: game/achievements:39
 msgctxt "game/achievements:39:DefaultText"
 msgid "Kill 50 enemies with sneak attacks."
-msgstr ""
+msgstr "Zabijte 50 nepřátel zákeřnými útoky."
 
 #: game/achievements:40
 msgctxt "game/achievements:40:DefaultText"
 msgid "Short Circuit"
-msgstr ""
+msgstr "Zkrat"
 
 #: game/achievements:41
 msgctxt "game/achievements:41:DefaultText"
 msgid "Killed 30 automechanicals with shock damage."
-msgstr ""
+msgstr "Zabito 30 automechaniků s poškozením způsobeným nárazem."
 
 #: game/achievements:42
 msgctxt "game/achievements:42:DefaultText"
 msgid "Kill 30 automechanicals with shock damage."
-msgstr ""
+msgstr "Zabijte 30 automechaniků s poškozením šokem."
 
 #: game/achievements:43
 msgctxt "game/achievements:43:DefaultText"
 msgid "Health Insurance"
-msgstr ""
+msgstr "Zdravotní pojištění"
 
 #: game/achievements:44
 msgctxt "game/achievements:44:DefaultText"
 msgid "Used the medical inhaler 300 times."
-msgstr ""
+msgstr "300krát použil lékařský inhalátor."
 
 #: game/achievements:45
 msgctxt "game/achievements:45:DefaultText"
 msgid "Use the medical inhaler 300 times."
-msgstr ""
+msgstr "Lékařský inhalátor použijte 300krát."
 
 #: game/achievements:46
 msgctxt "game/achievements:46:DefaultText"
 msgid "We All Fall Down"
-msgstr ""
+msgstr "Všichni padáme dolů"
 
 #: game/achievements:47
 msgctxt "game/achievements:47:DefaultText"
 msgid "Turned 100 enemies to ash with plasma damage."
-msgstr ""
+msgstr "Obrátil 100 nepřátel na popel poškozením plazmou."
 
 #: game/achievements:48
 msgctxt "game/achievements:48:DefaultText"
 msgid "Turn 100 enemies to ash with plasma damage."
-msgstr ""
+msgstr "Obraťte 100 nepřátel na popel poškozením plazmou."
 
 #: game/achievements:49
 msgctxt "game/achievements:49:DefaultText"
 msgid "Tossball All Star"
-msgstr ""
+msgstr "Tossball All Star"
 
 #: game/achievements:50
 msgctxt "game/achievements:50:DefaultText"
 msgid "Killed 50 enemies with a tossball stick or tossball blocker."
-msgstr ""
+msgstr "Zabili jste 50 nepřátel pomocí tyče nebo blokátoru míčků."
 
 #: game/achievements:51
 msgctxt "game/achievements:51:DefaultText"
 msgid "Kill 50 enemies with a tossball stick or tossball blocker."
-msgstr ""
+msgstr "Zabijte 50 nepřátel pomocí tyče nebo blokátoru míčků."
 
 #: game/achievements:52
 msgctxt "game/achievements:52:DefaultText"
 msgid "Everything Must Go"
-msgstr ""
+msgstr "Vše musí pryč"
 
 #: game/achievements:53
 msgctxt "game/achievements:53:DefaultText"
 msgid "Sold 10,000 bits worth of items to vendors."
-msgstr ""
+msgstr "Prodal prodejcům položky v hodnotě 10 000 bitů."
 
 #: game/achievements:54
 msgctxt "game/achievements:54:DefaultText"
 msgid "Sell 10,000 bits worth of items to vendors."
-msgstr ""
+msgstr "Prodejte prodejcům předměty v hodnotě 10 000 bitů."
 
 #: game/achievements:55
 msgctxt "game/achievements:55:DefaultText"
 msgid "Everybody Likes Me"
-msgstr ""
+msgstr "Všichni mě mají rádi"
 
 #: game/achievements:56
 msgctxt "game/achievements:56:DefaultText"
 msgid "Had 75% or higher positive reputation with 3 factions."
-msgstr ""
+msgstr "Měl 75 % nebo více pozitivní reputace u 3 frakcí."
 
 #: game/achievements:57
 msgctxt "game/achievements:57:DefaultText"
 msgid "Destroyer of Worlds"
-msgstr ""
+msgstr "Ničitel světů"
 
 #: game/achievements:58
 msgctxt "game/achievements:58:DefaultText"
 msgid "Had 75% or higher negative reputation with 3 factions."
-msgstr ""
+msgstr "Měl 75% nebo vyšší negativní reputaci u 3 frakcí."
 
 #: game/achievements:59
 msgctxt "game/achievements:59:DefaultText"
 msgid "Have 75% or higher negative reputation with 3 factions."
-msgstr ""
+msgstr "Mít 75% nebo vyšší negativní reputaci u 3 frakcí."
 
 #: game/achievements:60
 msgctxt "game/achievements:60:DefaultText"
 msgid "Flawed Hero"
-msgstr ""
+msgstr "Chybující hrdina"
 
 #: game/achievements:61
 msgctxt "game/achievements:61:DefaultText"
 msgid "Acquired 3 flaws."
-msgstr ""
+msgstr "Získány 3 vady."
 
 #: game/achievements:62
 msgctxt "game/achievements:62:DefaultText"
 msgid "Not the Best Choice"
-msgstr ""
+msgstr "Není to nejlepší volba"
 
 #: game/achievements:63
 msgctxt "game/achievements:63:DefaultText"
 msgid "Simultaneously equipped Spacer's Choice brand clothing, headgear, and 4 weapons."
-msgstr ""
+msgstr "Současně jsi vybaven oblečením značky Spacer's Choice, pokrývkou hlavy a 4 zbraněmi."
 
 #: game/achievements:64
 msgctxt "game/achievements:64:DefaultText"
 msgid "Simultaneously equip Spacer's Choice brand clothing, headgear, and 4 weapons."
-msgstr ""
+msgstr "Současně se vybavte oblečením značky Spacer's Choice, pokrývkou hlavy a 4 zbraněmi."
 
 #: game/achievements:65
 msgctxt "game/achievements:65:DefaultText"
 msgid "Well Dressed"
-msgstr ""
+msgstr "Dobře oblečený"
 
 #: game/achievements:66
 msgctxt "game/achievements:66:DefaultText"
 msgid "Wore 'A Nice Hat' and 'Chimaera' at the same time."
-msgstr ""
+msgstr "Nosil jsem \"A Nice Hat\" a \"Chimaera\" zároveň."
 
 #: game/achievements:67
 msgctxt "game/achievements:67:DefaultText"
 msgid "Wear 'A Nice Hat' and 'Chimaera' at the same time."
-msgstr ""
+msgstr "Noste \"A Nice Hat\" a \"Chimaera\" zároveň."
 
 #: game/achievements:68
 msgctxt "game/achievements:68:DefaultText"
 msgid "Level 30"
-msgstr ""
+msgstr "Úroveň 30"
 
 #: game/achievements:69
 msgctxt "game/achievements:69:DefaultText"
 msgid "Character level 30 reached."
-msgstr ""
+msgstr "Dosažena 30. úroveň postavy."
 
 #: game/achievements:70
 msgctxt "game/achievements:70:DefaultText"
 msgid "Reach character level 30."
-msgstr ""
+msgstr "Dosáhněte úrovně postavy 30."
 
 #: game/achievements:71
 msgctxt "game/achievements:71:DefaultText"
 msgid "Anything for a Friend"
-msgstr ""
+msgstr "Cokoli pro přítele"
 
 #: game/achievements:72
 msgctxt "game/achievements:72:DefaultText"
 msgid "Finished a companion's quest line."
-msgstr ""
+msgstr "Dokončil jsi úkolovou linii společníka."
 
 #: game/achievements:73
 msgctxt "game/achievements:73:DefaultText"
 msgid "Finish a companion's quest line."
-msgstr ""
+msgstr "Dokončete řadu úkolů společníka."
 
 #: game/achievements:74
 msgctxt "game/achievements:74:DefaultText"
 msgid "Elemental Maelstrom"
-msgstr ""
+msgstr "Elementární vír"
 
 #: game/achievements:75
 msgctxt "game/achievements:75:DefaultText"
 msgid "Killed an enemy that was hit with all 5 damage types."
-msgstr ""
+msgstr "Zabil nepřítele, který byl zasažen všemi 5 typy poškození."
 
 #: game/achievements:76
 msgctxt "game/achievements:76:DefaultText"
 msgid "Kill an enemy that was hit with all 5 damage types."
-msgstr ""
+msgstr "Zabijte nepřítele, který byl zasažen všemi 5 typy poškození."
 
 #: game/achievements:77
 msgctxt "game/achievements:77:DefaultText"
 msgid "Patient N"
-msgstr ""
+msgstr "Pacient N"
 
 #: game/achievements:78
 msgctxt "game/achievements:78:DefaultText"
 msgid "Killed 20 enemies that were infected by spreading N-rays."
-msgstr ""
+msgstr "Zabil 20 nepřátel, kteří byli infikováni šířením N-záření."
 
 #: game/achievements:79
 msgctxt "game/achievements:79:DefaultText"
 msgid "Kill 20 enemies that are infected by spreading N-rays."
-msgstr ""
+msgstr "Zabijte 20 nepřátel, kteří jsou infikováni šířením N-záření."
 
 #: game/achievements:80
 msgctxt "game/achievements:80:DefaultText"
 msgid "Skilled"
-msgstr ""
+msgstr "Kvalifikovaní pracovníci"
 
 #: game/achievements:81
 msgctxt "game/achievements:81:DefaultText"
 msgid "Raised a skill to 100."
-msgstr ""
+msgstr "Zvýšení dovednosti na 100."
 
 #: game/achievements:82
 msgctxt "game/achievements:82:DefaultText"
 msgid "Raise a skill to 100."
-msgstr ""
+msgstr "Zvyšte dovednost na 100."
 
 #: game/achievements:83
 msgctxt "game/achievements:83:DefaultText"
 msgid "Jack of All Trades"
-msgstr ""
+msgstr "Jack of All Trades"
 
 #: game/achievements:84
 msgctxt "game/achievements:84:DefaultText"
 msgid "Killed an enemy with a science weapon sneak attack during TTD, with a weakspot critical hit."
-msgstr ""
+msgstr "Zabití nepřítele zákeřným útokem vědeckou zbraní během TTD s kritickým zásahem ve slabém bodě."
 
 #: game/achievements:85
 msgctxt "game/achievements:85:DefaultText"
 msgid "Kill an enemy with a science weapon sneak attack during TTD, with a weakspot critical hit."
-msgstr ""
+msgstr "Zabijte nepřítele zákeřným útokem vědeckou zbraní během TTD s kritickým zásahem ve slabém bodě."
 
 #: game/achievements:86
 msgctxt "game/achievements:86:DefaultText"
 msgid "Well Balanced Breakfast"
-msgstr ""
+msgstr "Vyvážená snídaně"
 
 #: game/achievements:87
 msgctxt "game/achievements:87:DefaultText"
 msgid "Simultaneously had bonuses for meat, carbohydrates, sugary drink, caffeine, and alcohol."
-msgstr ""
+msgstr "Zároveň měl bonusy za maso, sacharidy, sladké nápoje, kofein a alkohol."
 
 #: game/achievements:88
 msgctxt "game/achievements:88:DefaultText"
 msgid "Simultaneously have bonuses for meat, carbohydrates, sugary drink, caffeine, and alcohol."
-msgstr ""
+msgstr "Současně mají bonusy za maso, sacharidy, sladké nápoje, kofein a alkohol."
 
 #: game/achievements:89
 msgctxt "game/achievements:89:DefaultText"
 msgid "Mad Scientist"
-msgstr ""
+msgstr "Šílený vědec"
 
 #: game/achievements:90
 msgctxt "game/achievements:90:DefaultText"
 msgid "Killed an enemy under the effects of 4 science weapons."
-msgstr ""
+msgstr "Zabil nepřítele pod vlivem 4 vědeckých zbraní."
 
 #: game/achievements:91
 msgctxt "game/achievements:91:DefaultText"
 msgid "Kill an enemy under the effects of 4 science weapons."
-msgstr ""
+msgstr "Zabijte nepřítele pod vlivem 4 vědeckých zbraní."
 
 #: game/achievements:92
 msgctxt "game/achievements:92:DefaultText"
 msgid "Impossible Mission"
-msgstr ""
+msgstr "Nemožná mise"
 
 #: game/achievements:93
 msgctxt "game/achievements:93:DefaultText"
 msgid "Succeeded at 3 dialog conversation checks with a single disguise."
-msgstr ""
+msgstr "Úspěšný ve 3 kontrolách dialogové konverzace s jedním převlekem."
 
 #: game/achievements:94
 msgctxt "game/achievements:94:DefaultText"
 msgid "Succeed at 3 dialog conversation checks with a single disguise."
-msgstr ""
+msgstr "Uspějete ve 3 kontrolách dialogové konverzace s jedním převlekem."
 
 #: game/achievements:95
 msgctxt "game/achievements:95:DefaultText"
 msgid "All for One"
-msgstr ""
+msgstr "Všichni za jednoho"
 
 #: game/achievements:96
 msgctxt "game/achievements:96:DefaultText"
 msgid "Completed all companion quests."
-msgstr ""
+msgstr "Dokončil všechny úkoly pro společníky."
 
 #: game/achievements:97
 msgctxt "game/achievements:97:DefaultText"
 msgid "Complete all companion quests."
-msgstr ""
+msgstr "Splňte všechny úkoly pro společníky."
 
 #: game/achievements:98
 msgctxt "game/achievements:98:DefaultText"
 msgid "One for All"
-msgstr ""
+msgstr "Jeden za všechny"
 
 #: game/achievements:99
 msgctxt "game/achievements:99:DefaultText"
 msgid "Recruited all of the companions."
-msgstr ""
+msgstr "Nabral všechny společníky."
 
 #: game/achievements:100
 msgctxt "game/achievements:100:DefaultText"
 msgid "Recruit all of the companions."
-msgstr ""
+msgstr "Naverbujte všechny společníky."
 
 #: game/achievements:101
 msgctxt "game/achievements:101:DefaultText"
 msgid "Welcome to Halcyon!"
-msgstr ""
+msgstr "Vítejte v Halcyonu!"
 
 #: game/achievements:102
 msgctxt "game/achievements:102:DefaultText"
 msgid "Landed in Emerald Vale."
-msgstr ""
+msgstr "Přistál ve Smaragdovém údolí."
 
 #: game/achievements:103
 msgctxt "game/achievements:103:DefaultText"
 msgid "Land in Emerald Vale."
-msgstr ""
+msgstr "Pozemek v Emerald Vale."
 
 #: game/achievements:104
 msgctxt "game/achievements:104:DefaultText"
 msgid "Ticket to Anywhere"
-msgstr ""
+msgstr "Letenka kamkoli"
 
 #: game/achievements:105
 msgctxt "game/achievements:105:DefaultText"
 msgid "Got your very own ship."
-msgstr ""
+msgstr "Máš vlastní loď."
 
 #: game/achievements:106
 msgctxt "game/achievements:106:DefaultText"
 msgid "Get your own ship."
-msgstr ""
+msgstr "Pořiďte si vlastní loď."
 
 #: game/achievements:107
 msgctxt "game/achievements:107:DefaultText"
 msgid "Something's Fishy"
-msgstr ""
+msgstr "Něco je podezřelé"
 
 #: game/achievements:108
 msgctxt "game/achievements:108:DefaultText"
 msgid "Reached Stellar Bay."
-msgstr ""
+msgstr "Dosáhl Hvězdné zátoky."
 
 #: game/achievements:109
 msgctxt "game/achievements:109:DefaultText"
 msgid "Reach Stellar Bay."
-msgstr ""
+msgstr "Dosáhněte Hvězdné zátoky."
 
 #: game/achievements:110
 msgctxt "game/achievements:110:DefaultText"
 msgid "Paradise Found"
-msgstr ""
+msgstr "Nalezený ráj"
 
 #: game/achievements:111
 msgctxt "game/achievements:111:DefaultText"
 msgid "Landed in Byzantium."
-msgstr ""
+msgstr "Přistál v Byzanci."
 
 #: game/achievements:112
 msgctxt "game/achievements:112:DefaultText"
 msgid "Land in Byzantium."
-msgstr ""
+msgstr "Země v Byzanci."
 
 #: game/achievements:113
 msgctxt "game/achievements:113:DefaultText"
 msgid "Hard Time"
-msgstr ""
+msgstr "Těžký čas"
 
 #: game/achievements:114
 msgctxt "game/achievements:114:DefaultText"
 msgid "Landed on Tartarus."
-msgstr ""
+msgstr "Přistál na Tartaru."
 
 #: game/achievements:115
 msgctxt "game/achievements:115:DefaultText"
 msgid "Land on Tartarus."
-msgstr ""
+msgstr "Země na Tartaru."
 
 #: game/achievements:116
 msgctxt "game/achievements:116:DefaultText"
 msgid "Lost and Found"
-msgstr ""
+msgstr "Ztráty a nálezy"
 
 #: game/achievements:117
 msgctxt "game/achievements:117:DefaultText"
 msgid "Skipped the Hope."
-msgstr ""
+msgstr "Přeskočil Hope."
 
 #: game/achievements:118
 msgctxt "game/achievements:118:DefaultText"
 msgid "Skip the Hope."
-msgstr ""
+msgstr "Přeskočte naději."
 
 #: game/achievements:119
 msgctxt "game/achievements:119:DefaultText"
 msgid "Pirate Radio"
-msgstr ""
+msgstr "Pirátské rádio"
 
 #: game/achievements:120
 msgctxt "game/achievements:120:DefaultText"
 msgid "Stopped the Monarch broadcasts."
-msgstr ""
+msgstr "Zastavil vysílání Monarchů."
 
 #: game/achievements:121
 msgctxt "game/achievements:121:DefaultText"
 msgid "Stop the Monarch broadcasts."
-msgstr ""
+msgstr "Zastavte vysílání Monarchů."
 
 #: game/achievements:122
 msgctxt "game/achievements:122:DefaultText"
 msgid "The Audience Gasps"
-msgstr ""
+msgstr "Publikum lapá po dechu"
 
 #: game/achievements:123
 msgctxt "game/achievements:123:DefaultText"
 msgid "Learned the shocking truth about the colony."
-msgstr ""
+msgstr "Dozvěděl se šokující pravdu o kolonii."
 
 #: game/achievements:124
 msgctxt "game/achievements:124:DefaultText"
 msgid "Learn the shocking truth about the colony."
-msgstr ""
+msgstr "Zjistěte šokující pravdu o kolonii."
 
 #: game/achievements:125
 msgctxt "game/achievements:125:DefaultText"
 msgid "SubLight to the End"
-msgstr ""
+msgstr "SubLight to the End"
 
 #: game/achievements:126
 msgctxt "game/achievements:126:DefaultText"
 msgid "Completed the SubLight quest lines."
-msgstr ""
+msgstr "Dokončení úkolových linií SubLight."
 
 #: game/achievements:127
 msgctxt "game/achievements:127:DefaultText"
 msgid "Complete the SubLight quest lines."
-msgstr ""
+msgstr "Dokončete úkoly SubLight."
 
 #: game/achievements:128
 msgctxt "game/achievements:128:DefaultText"
 msgid "Peace in Our Time"
-msgstr ""
+msgstr "Mír v naší době"
 
 #: game/achievements:129
 msgctxt "game/achievements:129:DefaultText"
 msgid "Brokered peace between the Iconoclasts and MSI."
-msgstr ""
+msgstr "Zprostředkoval mír mezi Ikonoklasty a MSI."
 
 #: game/achievements:130
 msgctxt "game/achievements:130:DefaultText"
 msgid "Broker peace between the Iconoclasts and MSI."
-msgstr ""
+msgstr "Zprostředkovat mír mezi Ikonoklasty a MSI."
 
 #: game/achievements:131
 msgctxt "game/achievements:131:DefaultText"
 msgid "Monarch Abides"
-msgstr ""
+msgstr "Monarcha přebývá"
 
 #: game/achievements:132
 msgctxt "game/achievements:132:DefaultText"
 msgid "Won the battle of Stellar Bay."
-msgstr ""
+msgstr "Vyhrál bitvu o Hvězdnou zátoku."
 
 #: game/achievements:133
 msgctxt "game/achievements:133:DefaultText"
 msgid "Win the battle of Stellar Bay."
-msgstr ""
+msgstr "Vyhrajte bitvu o Hvězdnou zátoku."
 
 #: game/achievements:134
 msgctxt "game/achievements:134:DefaultText"
 msgid "Dentastic"
-msgstr ""
+msgstr "Dentastic"
 
 #: game/achievements:135
 msgctxt "game/achievements:135:DefaultText"
 msgid "Saved the universe's greatest diet toothpaste recipe."
-msgstr ""
+msgstr "Zachránil nejlepší recept na dietní zubní pastu ve vesmíru."
 
 #: game/achievements:136
 msgctxt "game/achievements:136:DefaultText"
 msgid "Save the universe's greatest diet toothpaste recipe."
-msgstr ""
+msgstr "Uložte si recept na nejlepší dietní zubní pastu ve vesmíru."
 
 #: game/achievements:137
 msgctxt "game/achievements:137:DefaultText"
 msgid "Mightier than the Sword"
-msgstr ""
+msgstr "Mocnější než meč"
 
 #: game/achievements:138
 msgctxt "game/achievements:138:DefaultText"
 msgid "Saved Edgewater permanently."
-msgstr ""
+msgstr "Zachránil Edgewater natrvalo."
 
 #: game/achievements:139
 msgctxt "game/achievements:139:DefaultText"
 msgid "Save Edgewater permanently."
-msgstr ""
+msgstr "Zachraňte Edgewater natrvalo."
 
 #: game/achievements:140
 msgctxt "game/achievements:140:DefaultText"
 msgid "Ludwig was Right"
-msgstr ""
+msgstr "Ludwig měl pravdu"
 
 #: game/achievements:141
 msgctxt "game/achievements:141:DefaultText"
 msgid "Brought robo-destruction to Edgewater."
-msgstr ""
+msgstr "Přinesl do Edgewateru robotickou destrukci."
 
 #: game/achievements:142
 msgctxt "game/achievements:142:DefaultText"
 msgid "Bring robo-destruction to Edgewater."
-msgstr ""
+msgstr "Přineste do Edgewateru robotickou destrukci."
 
 #: game/achievements:143
 msgctxt "game/achievements:143:DefaultText"
 msgid "A Star is Born"
-msgstr ""
+msgstr "Zrodila se hvězda"
 
 #: game/achievements:144
 msgctxt "game/achievements:144:DefaultText"
 msgid "Starred in an Odeon Pictures movie."
-msgstr ""
+msgstr "Zahrála si ve filmu společnosti Odeon Pictures."
 
 #: game/achievements:145
 msgctxt "game/achievements:145:DefaultText"
 msgid "Star in an Odeon Pictures movie."
-msgstr ""
+msgstr "Zahrajte si ve filmu společnosti Odeon Pictures."
 
 #: game/achievements:146
 msgctxt "game/achievements:146:DefaultText"
 msgid "The Cartographer"
-msgstr ""
+msgstr "Kartograf"
 
 #: game/achievements:147
 msgctxt "game/achievements:147:DefaultText"
 msgid "Dealt with the cartographer."
-msgstr ""
+msgstr "Jednal s kartografem."
 
 #: game/achievements:148
 msgctxt "game/achievements:148:DefaultText"
 msgid "Deal with the cartographer."
-msgstr ""
+msgstr "Domluvte se s kartografem."
 
 #: game/achievements:149
 msgctxt "game/achievements:149:DefaultText"
 msgid "Sunburn"
-msgstr ""
+msgstr "Spálení od slunce"
 
 #: game/achievements:150
 msgctxt "game/achievements:150:DefaultText"
 msgid "Skipped the Hope into the sun."
-msgstr ""
+msgstr "Přeskočil Hope do slunce."
 
 #: game/achievements:151
 msgctxt "game/achievements:151:DefaultText"
 msgid "Skip the Hope into the sun."
-msgstr ""
+msgstr "Přeskočte Naději na slunce."
 
 #: game/achievements:152
 msgctxt "game/achievements:152:DefaultText"
 msgid "The Outer Worlds Trophy Set"
-msgstr ""
+msgstr "Sada trofejí Vnější světy"
 
 #: game/achievements:159
 msgctxt "game/achievements:159:DefaultText"
 msgid "Have 75% or higher positive reputation with 3 factions."
-msgstr ""
+msgstr "Mít 75 % nebo více pozitivní reputace u 3 frakcí."
 
 #: game/achievements:160
 msgctxt "game/achievements:160:DefaultText"
 msgid "Acquire 3 flaws."
-msgstr ""
+msgstr "Získejte 3 vady."
 
 #: game/achievements:161
 msgctxt "game/achievements:161:DefaultText"
 msgid "Collect all trophies for The Outer Worlds."
-msgstr ""
+msgstr "Nasbírejte všechny trofeje pro hru The Outer Worlds."
 
 #: game/achievements:162
 msgctxt "game/achievements:162:DefaultText"
 msgid "Exploring Emerald Vale in The Outer Worlds"
-msgstr ""
+msgstr "Průzkum Smaragdového údolí ve Vnějších světech"
 
 #: game/achievements:163
 msgctxt "game/achievements:163:DefaultText"
 msgid "Exploring Monarch in The Outer Worlds"
-msgstr ""
+msgstr "Zkoumání Monarchu ve Vnějších světech"
 
 #: game/achievements:164
 msgctxt "game/achievements:164:DefaultText"
 msgid "Exploring Byzantium in The Outer Worlds"
-msgstr ""
+msgstr "Prozkoumávání Byzance ve hře The Outer Worlds"
 
 #: game/achievements:165
 msgctxt "game/achievements:165:DefaultText"
 msgid "Exploring Roseway in The Outer Worlds"
-msgstr ""
+msgstr "Průzkum Roseway ve Vnějších světech"
 
 #: game/achievements:166
 msgctxt "game/achievements:166:DefaultText"
 msgid "Exploring Tartarus in The Outer Worlds"
-msgstr ""
+msgstr "Průzkum Tartaru ve Vnějších světech"
 
 #: game/achievements:167
 msgctxt "game/achievements:167:DefaultText"
 msgid "Exploring Scylla in The Outer Worlds"
-msgstr ""
+msgstr "Prozkoumávání Scylly ve Vnějších světech"
 
 #: game/achievements:168
 msgctxt "game/achievements:168:DefaultText"
 msgid "Exploring Space in The Outer Worlds"
-msgstr ""
+msgstr "Průzkum vesmíru v knize Vnější světy"
 
 #: game/achievements:169
 msgctxt "game/achievements:169:DefaultText"
 msgid "Aboard their spaceship in The Outer Worlds"
-msgstr ""
+msgstr "Na palubě jejich vesmírné lodi ve filmu Vnější světy"
 
 #: game/achievements:170
 msgctxt "game/achievements:170:DefaultText"
 msgid "In the Main Menu of The Outer Worlds"
-msgstr ""
+msgstr "V hlavní nabídce hry Vnější světy"
 
 #: game/achievements:171
 msgctxt "game/achievements:171:DefaultText"
 msgid "Creating a character in The Outer Worlds"
-msgstr ""
+msgstr "Vytvoření postavy ve hře The Outer Worlds"
 
 #: game/achievements:172
 msgctxt "game/achievements:172:DefaultText"
 msgid "Exploring Groundbreaker in The Outer Worlds"
-msgstr ""
+msgstr "Prozkoumání Groundbreakeru ve Vnějších světech"
 
 #: game/achievements:173
 msgctxt "game/achievements:173:DefaultText"
 msgid "Exploring [REDACTED BY THE BOARD] in The Outer Worlds"
-msgstr ""
+msgstr "Zkoumání [REDAKČNÍ RADA] ve Vnějších světech"
 
 #: game/achievements:174
 msgctxt "game/achievements:174:DefaultText"
 msgid "Enemies Killed"
-msgstr ""
+msgstr "Zabití nepřátelé"
 
 #: game/achievements:175
 msgctxt "game/achievements:175:DefaultText"
 msgid "Mega Creatures Killed"
-msgstr ""
+msgstr "Zabitá mega stvoření"
 
 #: game/achievements:176
 msgctxt "game/achievements:176:DefaultText"
 msgid "Damage Inflicted to Enemies"
-msgstr ""
+msgstr "Poškození způsobené nepřátelům"
 
 #: game/achievements:177
 msgctxt "game/achievements:177:DefaultText"
 msgid "Locks Picked and Computers Hacked"
-msgstr ""
+msgstr "Vypáčení zámků a nabourání do počítačů"
 
 #: game/achievements:178
 msgctxt "game/achievements:178:DefaultText"
 msgid "Dialogs Manipulated"
-msgstr ""
+msgstr "Manipulace s dialogy"
 
 #: game/achievements:179
 msgctxt "game/achievements:179:DefaultText"
 msgid "Time Spent in Tactical Time Dilation"
-msgstr ""
+msgstr "Čas strávený v taktické časové dilataci"
 
 #: game/achievements:180
 msgctxt "game/achievements:180:DefaultText"
 msgid "Companion Special Attacks"
-msgstr ""
+msgstr "Zvláštní útoky společníka"
 
 #: game/achievements:181
 msgctxt "game/achievements:181:DefaultText"
 msgid "Completed Quests"
-msgstr ""
+msgstr "Dokončené úkoly"
 
 #: game/achievements:182
 msgctxt "game/achievements:182:DefaultText"
 msgid "Flaws Taken"
-msgstr ""
+msgstr "Převzaté vady"
 
 #: game/achievements:183
 msgctxt "game/achievements:183:DefaultText"
 msgid "Items Upgraded"
-msgstr ""
+msgstr "Aktualizované položky"

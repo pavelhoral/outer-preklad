@@ -9,49 +9,49 @@ msgid "MESSAGES\n"
 "[1. From: Finley. E.]\n"
 "[2. From: Porter, R.]\n"
 "[3. From: Cortes, V.]"
-msgstr ""
+msgstr "ZPRÁVY --------------------------------- ID zaměstnance: 867588 Jméno zaměstnance: Shaw, Orson Projekt: E.] [2. od: Porter, R.] [3. od: Cortes, V.]"
 
 #: conversations/08_roseway/08_cp_orson_shaw_research_logs:2
 msgctxt "conversations/08_roseway/08_cp_orson_shaw_research_logs:2:DefaultText"
 msgid "[FROM: E. Finley]"
-msgstr ""
+msgstr "[OD: E. Finley]"
 
 #: conversations/08_roseway/08_cp_orson_shaw_research_logs:3
 msgctxt "conversations/08_roseway/08_cp_orson_shaw_research_logs:3:DefaultText"
 msgid "Orson, you assured me the new lunch rations are harmless, but I've experienced a unexpected flood of symptoms. I've logged irregular seepage every afternoon between 14:23 and 14:43. Please find what I consider evidence deposited in your mail box.\r\n"
 "\r\n"
 "- Estes"
-msgstr ""
+msgstr "Orsone, ujistil jsi mě, že nové příděly oběda jsou neškodné, ale já jsem zažil nečekanou záplavu příznaků. Každé odpoledne mezi 14:23 a 14:43 jsem zaznamenal nepravidelné prosakování. Přikládám, co považuji za důkaz uložený ve vaší poštovní schránce. - Estes"
 
 #: conversations/08_roseway/08_cp_orson_shaw_research_logs:4
 msgctxt "conversations/08_roseway/08_cp_orson_shaw_research_logs:4:DefaultText"
 msgid "[FROM: R. Porter]"
-msgstr ""
+msgstr "[OD: R. Porter]"
 
 #: conversations/08_roseway/08_cp_orson_shaw_research_logs:5
 msgctxt "conversations/08_roseway/08_cp_orson_shaw_research_logs:5:DefaultText"
 msgid "Orson, I took our automechanical parts back. I catch you swiping from maintenance again, I'll slap you down so hard they'll feel it in Byzantium. We got enough problems keeping them contraptions running."
-msgstr ""
+msgstr "Orsone, vzal jsem naše automechanické díly zpět. Jestli tě ještě jednou přistihnu, jak kradeš z údržby, tak tě zfackuju tak, že to ucítí i v Byzanci. Máme dost problémů s udržováním těchhle výmyslů v chodu."
 
 #: conversations/08_roseway/08_cp_orson_shaw_research_logs:6
 msgctxt "conversations/08_roseway/08_cp_orson_shaw_research_logs:6:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"
 
 #: conversations/08_roseway/08_cp_orson_shaw_research_logs:7
 msgctxt "conversations/08_roseway/08_cp_orson_shaw_research_logs:7:DefaultText"
 msgid "[FROM: V. Cortes]"
-msgstr ""
+msgstr "[OD: V. Cortes]"
 
 #: conversations/08_roseway/08_cp_orson_shaw_research_logs:8
 msgctxt "conversations/08_roseway/08_cp_orson_shaw_research_logs:8:DefaultText"
 msgid "Hey Orson! If you're up for it, there should be a new batch of \"concentrated distillate\" available tonight. Meet me outside the gate at 17:00?"
-msgstr ""
+msgstr "Ahoj Orsone! Jestli chceš, dnes večer by měla být k dispozici nová várka \"koncentrovaného destilátu\". Sejdeme se před bránou v 17:00?"
 
 #: conversations/08_roseway/08_cp_orson_shaw_research_logs:10
 msgctxt "conversations/08_roseway/08_cp_orson_shaw_research_logs:10:DefaultText"
 msgid "[Messages]"
-msgstr ""
+msgstr "[Zprávy]"
 
 #: conversations/08_roseway/08_cp_orson_shaw_research_logs:12
 msgctxt "conversations/08_roseway/08_cp_orson_shaw_research_logs:12:DefaultText"
@@ -62,7 +62,7 @@ msgid "Argos Security Systems\n"
 "All personnel please report to assigned workstations. Report suspicious activity to the nearest Site Safety Engineer.\n"
 "---------------------------------\n"
 "Auntie Cleo Auntie-Biotics™: served fresh from our petri dishes to YOUR personal crevices."
-msgstr ""
+msgstr "Argos Security Systems --------------------------------- BEZPEČNOSTNÍ UZÁVĚRA Všichni zaměstnanci se dostavte na přidělená pracoviště. Podezřelou činnost nahlaste nejbližšímu bezpečnostnímu technikovi pracoviště. --------------------------------- Auntie Cleo Auntie-Biotics™: podáváme čerstvě z našich Petriho misek do VAŠICH osobních štěrbin."
 
 #: conversations/08_roseway/08_cp_orson_shaw_research_logs:13
 msgctxt "conversations/08_roseway/08_cp_orson_shaw_research_logs:13:DefaultText"
@@ -73,7 +73,7 @@ msgid "Argos Security Systems\r\n"
 "All personnel please report to assigned workstations. Report suspicious activity to the nearest Site Safety Engineer.\r\n"
 "---------------------------------\r\n"
 "\"Auntie Cleo's - Better than Nature!\"™"
-msgstr ""
+msgstr "Argos Security Systems --------------------------------- BEZPEČNOSTNÍ UZÁVĚRA Všichni zaměstnanci se dostavte na přidělená pracoviště. Podezřelou činnost nahlaste nejbližšímu bezpečnostnímu technikovi pracoviště. --------------------------------- \"Auntie Cleo's - Better than Nature!\"™"
 
 #: conversations/08_roseway/08_cp_orson_shaw_research_logs:14
 msgctxt "conversations/08_roseway/08_cp_orson_shaw_research_logs:14:DefaultText"
@@ -84,7 +84,7 @@ msgid "Argos Security Systems\r\n"
 "All personnel please report to assigned workstations. Report suspicious activity to the nearest Site Safety Engineer.\r\n"
 "---------------------------------\r\n"
 "Feeling irate? Try Auntie Cleo's Nar-Choc-Lectic™ bars. Now with 3% real CCN76."
-msgstr ""
+msgstr "Argos Security Systems --------------------------------- BEZPEČNOSTNÍ UZÁVĚRA Všichni zaměstnanci se dostavte na přidělená pracoviště. Podezřelou činnost nahlaste nejbližšímu bezpečnostnímu technikovi pracoviště. --------------------------------- Cítíte se podráždění? Vyzkoušejte tyčinky Auntie Cleo's Nar-Choc-Lectic™. Nyní s 3 % skutečného CCN76."
 
 #: conversations/08_roseway/08_cp_orson_shaw_research_logs:15
 msgctxt "conversations/08_roseway/08_cp_orson_shaw_research_logs:15:DefaultText"
@@ -95,7 +95,7 @@ msgid "Argos Security Systems\r\n"
 "All personnel please report to assigned workstations. Report suspicious activity to the nearest Site Safety Engineer.\r\n"
 "---------------------------------\r\n"
 "Have you brushed your teeth with Auntie's Blinding White Paste™ today?"
-msgstr ""
+msgstr "Argos Security Systems --------------------------------- BEZPEČNOSTNÍ UZÁVĚRA Všichni zaměstnanci se dostavte na přidělená pracoviště. Podezřelou činnost nahlaste nejbližšímu bezpečnostnímu technikovi pracoviště. --------------------------------- Vyčistili jste si dnes zuby oslepující bílou pastou Auntie's White Paste™?"
 
 #: conversations/08_roseway/08_cp_orson_shaw_research_logs:16
 msgctxt "conversations/08_roseway/08_cp_orson_shaw_research_logs:16:DefaultText"
@@ -106,7 +106,7 @@ msgid "Argos Security Systems\r\n"
 "All personnel please report to assigned workstations. Report suspicious activity to the nearest Site Safety Engineer.\r\n"
 "---------------------------------\r\n"
 "Parents who buy Auntie Cleo should have children who buy Auntie Cleo."
-msgstr ""
+msgstr "Argos Security Systems --------------------------------- BEZPEČNOSTNÍ UZÁVĚRA Všichni zaměstnanci se dostavte na přidělená pracoviště. Podezřelou činnost nahlaste nejbližšímu bezpečnostnímu technikovi pracoviště. --------------------------------- Rodiče, kteří kupují Auntie Cleo, by měli mít děti, které kupují Auntie Cleo."
 
 #: conversations/08_roseway/08_cp_orson_shaw_research_logs:17
 msgctxt "conversations/08_roseway/08_cp_orson_shaw_research_logs:17:DefaultText"
@@ -117,7 +117,7 @@ msgid "Argos Security Systems\r\n"
 "All personnel please report to assigned workstations. Report suspicious activity to the nearest Site Safety Engineer.\r\n"
 "---------------------------------\r\n"
 "Tired of itchy acid burns? Try Auntie Cleo's artisanal boarst-scented moisturizing cream."
-msgstr ""
+msgstr "Argos Security Systems --------------------------------- BEZPEČNOSTNÍ UZÁVĚRA Všichni zaměstnanci se dostavte na přidělená pracoviště. Podezřelou činnost nahlaste nejbližšímu bezpečnostnímu technikovi pracoviště. --------------------------------- Máte dost svědivých popálenin od kyseliny? Vyzkoušejte řemeslný hydratační krém Auntie Cleo s vůní divočáka."
 
 #: conversations/08_roseway/08_cp_orson_shaw_research_logs:18
 msgctxt "conversations/08_roseway/08_cp_orson_shaw_research_logs:18:DefaultText"
@@ -128,7 +128,7 @@ msgid "Argos Security Systems\r\n"
 "All personnel please report to assigned workstations. Report suspicious activity to the nearest Site Safety Engineer.\r\n"
 "---------------------------------\r\n"
 "Try Auntie Cleo's Handi-Off™, the surgical stain remover of choice."
-msgstr ""
+msgstr "Argos Security Systems --------------------------------- BEZPEČNOSTNÍ UZÁVĚRA Všichni zaměstnanci se dostavte na přidělená pracoviště. Podezřelou činnost nahlaste nejbližšímu bezpečnostnímu technikovi pracoviště. --------------------------------- Vyzkoušejte Handi-Off™ od tety Cleo, nejvhodnější odstraňovač skvrn po chirurgických zákrocích."
 
 #: conversations/08_roseway/08_cp_orson_shaw_research_logs:19
 msgctxt "conversations/08_roseway/08_cp_orson_shaw_research_logs:19:DefaultText"
@@ -139,4 +139,4 @@ msgid "Argos Security Systems\r\n"
 "All personnel please report to assigned workstations. Report suspicious activity to the nearest Site Safety Engineer.\r\n"
 "---------------------------------\r\n"
 "Unsightly bloodstains? Consider Auntie Cleo's laundry soap. Now with a refreshing lemon zing scent."
-msgstr ""
+msgstr "Argos Security Systems --------------------------------- BEZPEČNOSTNÍ UZÁVĚRA Všichni zaměstnanci se dostavte na přidělená pracoviště. Podezřelou činnost nahlaste nejbližšímu bezpečnostnímu technikovi pracoviště. --------------------------------- Nevzhledné krvavé skvrny? Zvažte mýdlo na praní Auntie Cleo. Nyní s osvěžující citronovou vůní."

@@ -5,22 +5,22 @@ msgid "Lab 1084: High-Security Containment\r\n"
 "==========================\r\n"
 "\r\n"
 "Main menu"
-msgstr ""
+msgstr "Laboratoř 1084: Kontrolní bod s vysokým stupněm zabezpečení Beta ========================== Hlavní nabídka"
 
 #: conversations/10_scylla/1002_ice_palace/1002_cp_security_labcheckpoint:5
 msgctxt "conversations/10_scylla/1002_ice_palace/1002_cp_security_labcheckpoint:5:DefaultText"
 msgid "[Security Routines]"
-msgstr ""
+msgstr "[Bezpečnostní rutiny]"
 
 #: conversations/10_scylla/1002_ice_palace/1002_cp_security_labcheckpoint:6
 msgctxt "conversations/10_scylla/1002_ice_palace/1002_cp_security_labcheckpoint:6:DefaultText"
 msgid "[Personal Files]"
-msgstr ""
+msgstr "[Osobní soubory]"
 
 #: conversations/10_scylla/1002_ice_palace/1002_cp_security_labcheckpoint:7
 msgctxt "conversations/10_scylla/1002_ice_palace/1002_cp_security_labcheckpoint:7:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"
 
 #: conversations/10_scylla/1002_ice_palace/1002_cp_security_labcheckpoint:8
 msgctxt "conversations/10_scylla/1002_ice_palace/1002_cp_security_labcheckpoint:8:DefaultText"
@@ -29,7 +29,7 @@ msgid "Lab 1084: High-Security Containment\r\n"
 "==========================\r\n"
 "\r\n"
 "The UDL Electro-floor 3000 is: Online."
-msgstr ""
+msgstr "Laboratoř 1084: Kontrolní bod s vysokým stupněm zabezpečení Beta ========================== UDL Electro-floor 3000 je: Online."
 
 #: conversations/10_scylla/1002_ice_palace/1002_cp_security_labcheckpoint:9
 msgctxt "conversations/10_scylla/1002_ice_palace/1002_cp_security_labcheckpoint:9:DefaultText"
@@ -42,27 +42,27 @@ msgid "Lab 1084: High-Security Containment\r\n"
 "Then she requisitioned a UDL Electro-floor 3000 for my checkpoint. And a crate of concussion mines. Guess she didn't believe me. Is she preparing for war? \r\n"
 "\r\n"
 "She's acting like she knows something the rest of us don't. Seems especially uncomfortable around the docs."
-msgstr ""
+msgstr "Laboratoř 1084: High-Security Containment Checkpoint Beta ========================== Kimball se přišel zeptat, jestli se tu někdo z doktorů pohybuje. Řekl jsem jí, co vím - byl klid, stačí se zeptat Alfy. Odešla s pružinou v kroku. Dobře, divné, pak si pro můj kontrolní bod zrekvírovala UDL Electro-floor 3000. A bednu otřesových min. Asi mi nevěřila. Připravuje se na válku? Chová se, jako by věděla něco, co my ostatní ne. Vypadá, že se cítí nepříjemně hlavně v blízkosti doktorů."
 
 #: conversations/10_scylla/1002_ice_palace/1002_cp_security_labcheckpoint:10
 msgctxt "conversations/10_scylla/1002_ice_palace/1002_cp_security_labcheckpoint:10:DefaultText"
 msgid "[Engage Checkpoint Security]"
-msgstr ""
+msgstr "[Zapojit zabezpečení kontrolního bodu]"
 
 #: conversations/10_scylla/1002_ice_palace/1002_cp_security_labcheckpoint:11
 msgctxt "conversations/10_scylla/1002_ice_palace/1002_cp_security_labcheckpoint:11:DefaultText"
 msgid "[Return to Root]"
-msgstr ""
+msgstr "[Zpět na kořen]"
 
 #: conversations/10_scylla/1002_ice_palace/1002_cp_security_labcheckpoint:14
 msgctxt "conversations/10_scylla/1002_ice_palace/1002_cp_security_labcheckpoint:14:DefaultText"
 msgid "[Disengage Checkpoint Security]"
-msgstr ""
+msgstr "[Vypnout zabezpečení kontrolního stanoviště]"
 
 #: conversations/10_scylla/1002_ice_palace/1002_cp_security_labcheckpoint:18
 msgctxt "conversations/10_scylla/1002_ice_palace/1002_cp_security_labcheckpoint:18:DefaultText"
 msgid "[Engage Checkpoint Security]"
-msgstr ""
+msgstr "[Zapojit zabezpečení kontrolního bodu]"
 
 #: conversations/10_scylla/1002_ice_palace/1002_cp_security_labcheckpoint:19
 msgctxt "conversations/10_scylla/1002_ice_palace/1002_cp_security_labcheckpoint:19:DefaultText"
@@ -71,12 +71,12 @@ msgid "Lab 1084: High-Security Containment\r\n"
 "==========================\r\n"
 "\r\n"
 "Personal files"
-msgstr ""
+msgstr "Laboratoř 1084: Kontrolní bod s vysokým stupněm zabezpečení Beta ========================== Osobní soubory"
 
 #: conversations/10_scylla/1002_ice_palace/1002_cp_security_labcheckpoint:20
 msgctxt "conversations/10_scylla/1002_ice_palace/1002_cp_security_labcheckpoint:20:DefaultText"
 msgid "[Log: Mama bear]"
-msgstr ""
+msgstr "[Deník: Medvědí máma]"
 
 #: conversations/10_scylla/1002_ice_palace/1002_cp_security_labcheckpoint:21
 msgctxt "conversations/10_scylla/1002_ice_palace/1002_cp_security_labcheckpoint:21:DefaultText"
@@ -85,7 +85,7 @@ msgid "Lab 1084: High-Security Containment\r\n"
 "==========================\r\n"
 "\r\n"
 "The UDL Electro-floor 3000 is: Offline."
-msgstr ""
+msgstr "Laboratoř 1084: Kontrolní bod s vysokým stupněm zabezpečení Beta ========================== UDL Electro-floor 3000 je: je v režimu offline."
 
 #: conversations/10_scylla/1002_ice_palace/1002_cp_security_labcheckpoint:22
 msgctxt "conversations/10_scylla/1002_ice_palace/1002_cp_security_labcheckpoint:22:DefaultText"
@@ -97,4 +97,4 @@ msgid "Lab 1084: High-Security Containment\r\n"
 "ERROR: Terminal power below 5%. Terminal in maintenance mode.\r\n"
 "\r\n"
 "Restore power supply to station to resume normal terminal operations."
-msgstr ""
+msgstr "Lab 1084: High-Security Containment Checkpoint Beta ========================== ERROR: Unable to access memory cartridge. ERROR: Terminal power below 5%. Terminál je v režimu údržby. Obnovte napájení stanice a obnovte normální provoz terminálu."

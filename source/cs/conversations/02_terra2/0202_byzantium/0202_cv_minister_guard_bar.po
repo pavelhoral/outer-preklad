@@ -1,294 +1,294 @@
 #: conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_bar:1
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_bar:1:DefaultText"
 msgid "H-hey, stand back... you. I'm part of Minister Clarke's personal detail, and that means you gotta keep five feet back at all times. "
-msgstr ""
+msgstr "Hej, ustupte... vy. Patřím k osobnímu týmu ministra Clarkea, a to znamená, že se musíš držet pět stop vzadu. "
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_bar:2
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_bar:2:DefaultText"
 msgid "Hey, you look familiar. Have we met before?"
-msgstr ""
+msgstr "Hej, vypadáš povědomě. Už jsme se někdy potkali?"
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_bar:3
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_bar:3:DefaultText"
 msgid "What's so important about guarding Minister Clarke?"
-msgstr ""
+msgstr "Co je tak důležitého na ochraně ministra Clarkea?"
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_bar:4
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_bar:4:DefaultText"
 msgid "He's basically the most important person in the colony, which makes me... the most important guard in the colony! Yeah."
-msgstr ""
+msgstr "Je to v podstatě nejdůležitější osoba v kolonii, což ze mě dělá... nejdůležitějšího strážce v kolonii! Jo."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_bar:8
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_bar:8:DefaultText"
 msgid "I'll leave you to it."
-msgstr ""
+msgstr "Nechám vás o tom přemýšlet."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_bar:17
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_bar:17:DefaultText"
 msgid "How about I buy you a drink to celebrate your promotion?"
-msgstr ""
+msgstr "Co kdybych vás pozval na drink na oslavu vašeho povýšení?"
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_bar:18
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_bar:18:DefaultText"
 msgid "That's a great idea! I'll have a Spectrum Vodka."
-msgstr ""
+msgstr "To je skvělý nápad! Dám si Spectrum Vodku."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_bar:19
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_bar:19:DefaultText"
 msgid "That means I got a key to the minister's estate. My own personal UDL-issued shotgun. They don't give those out to just anyone."
-msgstr ""
+msgstr "To znamená, že jsem dostal klíč od ministrova majetku. Moje osobní brokovnice vydaná UDL. Ty se nedávají jen tak někomu."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_bar:27
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_bar:27:DefaultText"
 msgid "Hey, you're really great. Have I told you that? We should be friends."
-msgstr ""
+msgstr "Jsi vážně skvělý. Už jsem ti to říkal? Měli bychom být přátelé."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_bar:29
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_bar:29:DefaultText"
 msgid "I really shouldn't. I'll have the worst hangover tomorrow if I don't stop."
-msgstr ""
+msgstr "To bych opravdu neměl. Jestli nepřestanu, budu mít zítra tu nejhorší kocovinu."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_bar:30
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_bar:30:DefaultText"
 msgid "That's a problem for tomorrow."
-msgstr ""
+msgstr "To je problém zítřka."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_bar:31
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_bar:31:DefaultText"
 msgid "You know, that's a very good point."
-msgstr ""
+msgstr "Víte, to je velmi dobrá poznámka."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_bar:32
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_bar:32:DefaultText"
 msgid "With your BMI, you could metabolize another. Just drink plenty of water."
-msgstr ""
+msgstr "S vaším BMI byste mohli metabolizovat další. Stačí pít hodně vody."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_bar:33
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_bar:33:DefaultText"
 msgid "Okay, here goes."
-msgstr ""
+msgstr "Dobře, tak tady to je."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_bar:34
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_bar:34:DefaultText"
 msgid "I... don't feel so good. I think I'm gonna be sick."
-msgstr ""
+msgstr "Já... se necítím moc dobře. Myslím, že mi bude špatně."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_bar:54
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_bar:54:DefaultText"
 msgid "<Offer him a Spectrum Vodka.> Here's to your promotion."
-msgstr ""
+msgstr "<Nabídněte mu vodku Spectrum.> Na vaše povýšení."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_bar:55
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_bar:55:DefaultText"
 msgid "Here's to me! "
-msgstr ""
+msgstr "Na mě! "
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_bar:56
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_bar:56:DefaultText"
 msgid "<Offer him another Spectrum Vodka.> Let's have another."
-msgstr ""
+msgstr "<Nabídněte mu další Spectrum Vodku.> Dáme si další."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_bar:57
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_bar:57:DefaultText"
 msgid "It's not every day you get your dream job, right?"
-msgstr ""
+msgstr "Práci snů nezískáte každý den, že?"
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_bar:58
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_bar:58:DefaultText"
 msgid "WOW. You've got, like, this crazy energy. Has anyone ever told you that? Like a mantisaur. You've got mantisaur energy."
-msgstr ""
+msgstr "WOW. Máš takovou šílenou energii. Řekl ti to někdy někdo? Jako kudlanka. Máš energii kudlanky."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_bar:59
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_bar:59:DefaultText"
 msgid "Hey, buddy!"
-msgstr ""
+msgstr "Hej, kámo!"
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_bar:63
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_bar:63:DefaultText"
 msgid "I just need to sit down..."
-msgstr ""
+msgstr "Jen si musím sednout..."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_bar:65
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_bar:65:DefaultText"
 msgid "Anything you can tell me about Minister Clarke?"
-msgstr ""
+msgstr "Můžete mi říct něco o ministru Clarkovi?"
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_bar:66
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_bar:66:DefaultText"
 msgid "Oh, um. He's, uh, medium height. With, like, medium-colored hair and a kind of medium face. Just like in his posters."
-msgstr ""
+msgstr "Je středně vysoký. Středně vysoké vlasy a středně vysoký obličej. Stejně jako na plakátech."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_bar:67
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_bar:67:DefaultText"
 msgid "Didn't know I was talking to such a big shot."
-msgstr ""
+msgstr "Nevěděl jsem, že mluvím s takovým velikánem."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_bar:68
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_bar:68:DefaultText"
 msgid "Are you supposed to drink on the job?"
-msgstr ""
+msgstr "Máš v práci pít?"
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_bar:69
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_bar:69:DefaultText"
 msgid "Calm down, I was just looking for the bathroom."
-msgstr ""
+msgstr "Uklidni se, jen jsem hledal záchod."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_bar:70
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_bar:70:DefaultText"
 msgid "Oh, it's right here. Good thing, too, 'cause I may be headed there soon."
-msgstr ""
+msgstr "Oh, je to tady. To je dobře, protože tam možná brzy zamířím."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_bar:71
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_bar:71:DefaultText"
 msgid "The others took me out to celebrate. On account of me just getting hired and all."
-msgstr ""
+msgstr "Ostatní mě vzali na oslavu. Kvůli tomu, že mě právě přijali a tak."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_bar:72
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_bar:72:DefaultText"
 msgid "Yep, you're looking at the minister's newest personal guard, right here."
-msgstr ""
+msgstr "Ano, právě se díváte na ministrovu nejnovější osobní stráž."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_bar:74
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_bar:74:DefaultText"
 msgid "'Course not. But I'm not on the job right now."
-msgstr ""
+msgstr "\"Samozřejmě, že ne. Ale já teď nejsem v práci."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_bar:76
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_bar:76:DefaultText"
 msgid "How descriptive."
-msgstr ""
+msgstr "Jak popisné."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_bar:77
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_bar:77:DefaultText"
 msgid "You haven't met him, have you?"
-msgstr ""
+msgstr "Vy jste se s ním nesetkal, že ne?"
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_bar:78
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_bar:78:DefaultText"
 msgid "You'd definitely recognize him if you saw him. He's very important."
-msgstr ""
+msgstr "Určitě byste ho poznali, kdybyste ho viděli. Je velmi důležitý."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_bar:79
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_bar:79:DefaultText"
 msgid "Everyone tells me he's very private, okay? Besides, I just started!"
-msgstr ""
+msgstr "Všichni mi říkají, že je velmi uzavřený, dobře? Kromě toho jsem právě začala!"
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_bar:80
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_bar:80:DefaultText"
 msgid "Congratulations."
-msgstr ""
+msgstr "Gratulujeme."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_bar:81
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_bar:81:DefaultText"
 msgid "A key, you say?"
-msgstr ""
+msgstr "Říkáte klíč?"
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_bar:82
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_bar:82:DefaultText"
 msgid "'s right! Not just anyone is allowed to have a key to Minister Clarke's residence. It's all so very high-level."
-msgstr ""
+msgstr "'s right! Klíč od rezidence ministra Clarkea nesmí mít jen tak někdo. Je to všechno na velmi vysoké úrovni."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_bar:83
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_bar:83:DefaultText"
 msgid "Yep! I've nearly made it to the top, my friend. I'm just two promotions away from on-the-job bathroom breaks."
-msgstr ""
+msgstr "Jo! Už jsem skoro na vrcholu, příteli. Už mi chybí jen dvě povýšení a přestávky na záchod v práci."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_bar:84
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_bar:84:DefaultText"
 msgid "Wow, listen to me. I'm soaked. I should probably slow down before I'm facedown on the tile somewhere."
-msgstr ""
+msgstr "Páni, poslouchejte mě. Jsem promočený. Asi bych měl zpomalit, než skončím někde na dlaždicích obličejem dolů."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_bar:85
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_bar:85:DefaultText"
 msgid "Oh, Laws, I gotta stop. I'm seeing at least two of you."
-msgstr ""
+msgstr "Oh, Lawsi, musím přestat. Vidím vás nejméně dva."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_bar:86
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_bar:86:DefaultText"
 msgid "Nonsense. You've got another in you. Doctor's orders."
-msgstr ""
+msgstr "Nesmysl. Máš v sobě dalšího. Doktor to nařídil."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_bar:87
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_bar:87:DefaultText"
 msgid "Guess I can't argue with that!"
-msgstr ""
+msgstr "S tím se asi nedá polemizovat!"
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_bar:88
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_bar:88:DefaultText"
 msgid "Ugh. Was that one supposed to taste like Purpleberry Crunch, or am I just tasting breakfast?"
-msgstr ""
+msgstr "Uf. Měl tenhle chutnat jako Purpleberry Crunch, nebo jen ochutnávám snídani?"
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_bar:90
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_bar:90:DefaultText"
 msgid "If you say so."
-msgstr ""
+msgstr "Když to říkáte."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_bar:91
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_bar:91:DefaultText"
 msgid "You're a really good friend, you know?"
-msgstr ""
+msgstr "Jsi opravdu dobrý přítel, víš?"
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_bar:93
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_bar:93:DefaultText"
 msgid "I really shouldn't have any more."
-msgstr ""
+msgstr "Opravdu bych už neměl mít žádné další."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_bar:94
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_bar:94:DefaultText"
 msgid "You sure sound like you know what you're talking about."
-msgstr ""
+msgstr "Vypadá to, že víte, o čem mluvíte."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_bar:95
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_bar:95:DefaultText"
 msgid "Captain, I can smell him from clear over here. I reckon he's had a fair number already."
-msgstr ""
+msgstr "Kapitáne, cítím ho odtud. Myslím, že už jich měl pěknou řádku."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_bar:96
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_bar:96:DefaultText"
 msgid "Sure have! 'Cause today's my big day."
-msgstr ""
+msgstr "Určitě ano! Protože dnes je můj velký den."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_bar:97
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_bar:97:DefaultText"
 msgid "Only two? You've got a ways to go."
-msgstr ""
+msgstr "Jen dva? To máš před sebou ještě dlouhou cestu."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_bar:98
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_bar:98:DefaultText"
 msgid "Have you always been here? I didn't see you a minute ago."
-msgstr ""
+msgstr "Byl jsi tu vždycky? Před chvílí jsem tě neviděl."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_bar:99
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_bar:99:DefaultText"
 msgid "Preparing bodily waste collection receptacle."
-msgstr ""
+msgstr "Příprava sběrné nádoby na tělesný odpad."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_bar:101
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_bar:101:DefaultText"
 msgid "He's got powerful good ears, too."
-msgstr ""
+msgstr "Má také silné uši."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_bar:102
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_bar:102:DefaultText"
 msgid "Aw, who am I kidding. I could have another! You got another?"
-msgstr ""
+msgstr "Co si to namlouvám. Mohl bych si dát další! Máš další?"
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_bar:103
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_bar:103:DefaultText"
 msgid "You, uh, you have a Spectrum Vodka for a new pal?"
-msgstr ""
+msgstr "Máš vodku Spectrum pro nového kamaráda?"
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_bar:104
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_bar:104:DefaultText"
 msgid "And a powerful thirst."
-msgstr ""
+msgstr "A silná žízeň."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_bar:105
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_bar:105:DefaultText"
 msgid "I don't have any Spectrum Vodka to give you."
-msgstr ""
+msgstr "Nemám žádnou Spectrum Vodku, kterou bych vám mohl dát."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_bar:106
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_bar:106:DefaultText"
 msgid "Oh. Maybe they got some at the bar?"
-msgstr ""
+msgstr "Oh. Možná mají nějaké v baru?"

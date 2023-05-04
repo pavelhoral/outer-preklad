@@ -12,12 +12,12 @@ msgid "Edgewater Saltuna Cannery\r\n"
 "POWER SOURCE: Spacer's Choice Electrical Transformer\r\n"
 "TRANSFORMER STATUS: Responsive\r\n"
 "POWER REGULATOR: Responsive"
-msgstr ""
+msgstr "Edgewater Saltuna Cannery A Spacer's Choice Property ======================== Running Self Examination... \"Poslužte si osvěžující plechovkou Spacer's Chaw, zatímco budete čekat!\" ZDROJ MOCI: Spacer's Choice Elektrický transformátor STAV TRANSFORMÁTORU: REGULÁTOR NAPÁJENÍ: Reaguje"
 
 #: conversations/00_emerald_vale/00_cp_cannery_generator_room_01:2
 msgctxt "conversations/00_emerald_vale/00_cp_cannery_generator_room_01:2:DefaultText"
 msgid "[Disengage Power Regulator]"
-msgstr ""
+msgstr "[Vypnout regulátor výkonu]"
 
 #: conversations/00_emerald_vale/00_cp_cannery_generator_room_01:3
 msgctxt "conversations/00_emerald_vale/00_cp_cannery_generator_room_01:3:DefaultText"
@@ -27,17 +27,17 @@ msgid "Edgewater Saltuna Cannery\r\n"
 "========================\r\n"
 "\r\n"
 "Unable to comply. The power regulator unit may not be disengaged while the transformer is active."
-msgstr ""
+msgstr "Edgewater Saltuna Cannery A Spacer's Choice Property ======================== Nelze vyhovět. Jednotka regulátoru výkonu nesmí být odpojena, pokud je transformátor aktivní."
 
 #: conversations/00_emerald_vale/00_cp_cannery_generator_room_01:5
 msgctxt "conversations/00_emerald_vale/00_cp_cannery_generator_room_01:5:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"
 
 #: conversations/00_emerald_vale/00_cp_cannery_generator_room_01:9
 msgctxt "conversations/00_emerald_vale/00_cp_cannery_generator_room_01:9:DefaultText"
 msgid "[Query: Transformer Shutdown]"
-msgstr ""
+msgstr "[Dotaz: Vypnutí transformátoru]"
 
 #: conversations/00_emerald_vale/00_cp_cannery_generator_room_01:12
 msgctxt "conversations/00_emerald_vale/00_cp_cannery_generator_room_01:12:DefaultText"
@@ -48,17 +48,17 @@ msgid "Edgewater Saltuna Cannery\r\n"
 "...\r\n"
 "...\r\n"
 "[FAILURE]: Transformer Shutdown Protocols Non-Operational"
-msgstr ""
+msgstr "Edgewater Saltuna Cannery A Spacer's Choice Property ======================== ... ... [FAILURE]: Protokoly o vypnutí transformátoru nefunkční"
 
 #: conversations/00_emerald_vale/00_cp_cannery_generator_room_01:13
 msgctxt "conversations/00_emerald_vale/00_cp_cannery_generator_room_01:13:DefaultText"
 msgid "[Query: Shutdown Protocols]"
-msgstr ""
+msgstr "[Dotaz: Protokoly o vypnutí]"
 
 #: conversations/00_emerald_vale/00_cp_cannery_generator_room_01:14
 msgctxt "conversations/00_emerald_vale/00_cp_cannery_generator_room_01:14:DefaultText"
 msgid "[Return to Root]"
-msgstr ""
+msgstr "[Zpět na kořen]"
 
 #: conversations/00_emerald_vale/00_cp_cannery_generator_room_01:15
 msgctxt "conversations/00_emerald_vale/00_cp_cannery_generator_room_01:15:DefaultText"
@@ -70,12 +70,12 @@ msgid "Edgewater Saltuna Cannery\r\n"
 "In compliance with Spacer's Choice engineering and development policies, shutdown protocols have been disabled on all transformers. This is to prevent illegal tampering, upgrading, or theft of proprietary technology.\r\n"
 "\r\n"
 "[WARNING]: Please avoid attempting to modify or tamper with Spacer's Choice Electrical Transformer while power is active. Doing so may lead to death, catastrophic injury, and irreparable damage to the transformer. "
-msgstr ""
+msgstr "Edgewater Saltuna Cannery A Spacer's Choice Property ======================== V souladu s technickými a rozvojovými zásadami společnosti Spacer's Choice byly na všech transformátorech vypnuty vypínací protokoly. Důvodem je zabránit nelegálním zásahům, modernizaci nebo krádeži proprietární technologie [VAROVÁNÍ]: Vyvarujte se prosím pokusů o úpravu nebo manipulaci s elektrickým transformátorem Spacer's Choice, pokud je aktivní napájení. Takový postup může vést k úmrtí, katastrofickému zranění a nenapravitelnému poškození transformátoru. "
 
 #: conversations/00_emerald_vale/00_cp_cannery_generator_room_01:16
 msgctxt "conversations/00_emerald_vale/00_cp_cannery_generator_room_01:16:DefaultText"
 msgid "[Query: Geothermal Facility]"
-msgstr ""
+msgstr "[Dotaz: Geotermální zařízení]"
 
 #: conversations/00_emerald_vale/00_cp_cannery_generator_room_01:17
 msgctxt "conversations/00_emerald_vale/00_cp_cannery_generator_room_01:17:DefaultText"
@@ -87,4 +87,4 @@ msgid "Edgewater Saltuna Cannery\r\n"
 "The Emerald Vale region is powered by the Spacer's Choice Geothermal Facility. Spacer's Choice is proud to bring the colonists of Halcyon moderately innovative technology at a reasonable price.\r\n"
 "\r\n"
 "Spacer's Choice - The best you can afford."
-msgstr ""
+msgstr "Edgewater Saltuna Cannery A Spacer's Choice Property ======================== Region Emerald Vale je napájen geotermálním zařízením Spacer's Choice. Společnost Spacer's Choice je hrdá na to, že může kolonistům Halcyonu přinést mírně inovativní technologie za rozumnou cenu. Spacer's Choice - to nejlepší, co si můžete dovolit."

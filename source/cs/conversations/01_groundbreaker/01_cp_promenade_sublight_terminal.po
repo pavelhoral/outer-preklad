@@ -6,17 +6,17 @@ msgid "SubLight Salvage & Shipping\n"
 "Warehouse Terminal\r\n"
 "\r\n"
 "Main menu"
-msgstr ""
+msgstr "SubLight Salvage & Shipping ======================= Skladový terminál Hlavní menu"
 
 #: conversations/01_groundbreaker/01_cp_promenade_sublight_terminal:2
 msgctxt "conversations/01_groundbreaker/01_cp_promenade_sublight_terminal:2:DefaultText"
 msgid "[Messages]"
-msgstr ""
+msgstr "[Zprávy]"
 
 #: conversations/01_groundbreaker/01_cp_promenade_sublight_terminal:3
 msgctxt "conversations/01_groundbreaker/01_cp_promenade_sublight_terminal:3:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"
 
 #: conversations/01_groundbreaker/01_cp_promenade_sublight_terminal:4
 msgctxt "conversations/01_groundbreaker/01_cp_promenade_sublight_terminal:4:DefaultText"
@@ -24,27 +24,27 @@ msgid "SubLight Salvage & Shipping\n"
 "=======================\r\n"
 "\r\n"
 "Messages"
-msgstr ""
+msgstr "SubLight Salvage & Shipping ======================= Zprávy"
 
 #: conversations/01_groundbreaker/01_cp_promenade_sublight_terminal:5
 msgctxt "conversations/01_groundbreaker/01_cp_promenade_sublight_terminal:5:DefaultText"
 msgid "[FROM: L. Hagen, SUBJECT: DON'T RUN]"
-msgstr ""
+msgstr "[OD: L. Hagen, PŘEDMĚT: NEBĚŽETE]"
 
 #: conversations/01_groundbreaker/01_cp_promenade_sublight_terminal:6
 msgctxt "conversations/01_groundbreaker/01_cp_promenade_sublight_terminal:6:DefaultText"
 msgid "[FROM: L. Hagen, SUBJECT: Fallbrook shipments]"
-msgstr ""
+msgstr "[FROM: L. Hagen, SUBJECT: Fallbrook shipments]"
 
 #: conversations/01_groundbreaker/01_cp_promenade_sublight_terminal:7
 msgctxt "conversations/01_groundbreaker/01_cp_promenade_sublight_terminal:7:DefaultText"
 msgid "[FROM: L. Hagen, SUBJECT: This week in salvage]"
-msgstr ""
+msgstr "[OD: L. Hagen, PŘEDMĚT: Tento týden v záchranářství]"
 
 #: conversations/01_groundbreaker/01_cp_promenade_sublight_terminal:8
 msgctxt "conversations/01_groundbreaker/01_cp_promenade_sublight_terminal:8:DefaultText"
 msgid "[Return to Root]"
-msgstr ""
+msgstr "[Zpět na kořen]"
 
 #: conversations/01_groundbreaker/01_cp_promenade_sublight_terminal:9
 msgctxt "conversations/01_groundbreaker/01_cp_promenade_sublight_terminal:9:DefaultText"
@@ -60,7 +60,7 @@ msgid "SubLight Salvage & Shipping\n"
 "Anyone seen Hawthorne lately? I could use some reliable help.\r\n"
 "\r\n"
 "L.H. "
-msgstr ""
+msgstr "SubLight Salvage & Shipping ======================= FROM: HAGEN, L. TO: SL_COMPANY_ALL SUBJECT: Ztratili jsme dalšího dodavatele, kterého zabila střelecká loď UDL. Toto je vaše každodenní připomínka, že legální firmy před úřady neutíkají. A že. To je to, co. Jsme. Zůstaňte v klidu. Předložte své doklady. Jestli se zapleteš se soudem, osobně za tebe zaplatím kauci. Viděl někdo v poslední době Hawthorna? Hodila by se mi spolehlivá pomoc. L.H. "
 
 #: conversations/01_groundbreaker/01_cp_promenade_sublight_terminal:10
 msgctxt "conversations/01_groundbreaker/01_cp_promenade_sublight_terminal:10:DefaultText"
@@ -85,7 +85,7 @@ msgid "SubLight Salvage & Shipping\n"
 "-\"Black Hole\" Holcomb signed Tossball poster. \r\n"
 "\r\n"
 "PS. Tobias - where are we with that desk extension? "
-msgstr ""
+msgstr "SubLight Salvage & Shipping ======================= FROM: HAGEN, L. TO: SL_COMPANY_ALL SUBJECT: Přepravy z Fallbrooku Na rozdíl od většiny z vás šprtů přináší Catherine společnosti SubLight stálý příjem. Ode dneška, dokud to neřeknu, s ní máte zacházet jako s prodlouženou rukou mého stolu. Když už jsme u toho, Tobiáši - objednej prodloužení mého stolu. L.H. Fallbrookské zásilky -Oříškový likér - hodně -Spektrální vodka - ještě víc než to -Erotika, obecná - místní nejsou vybíraví -Erotika, exotická - ....až na ty, kteří jsou. -Space Cake Surprise - nevím, co to je, ale bylo to na objednávkovém seznamu z minulého měsíce, takže buď si nějaké najděte, nebo se snažte v kuchyni. -Plakát \"Black Hole\" Holcomb s podpisem Tossball. PS. Tobiasi - jak jsme na tom s tím prodloužením stolu? "
 
 #: conversations/01_groundbreaker/01_cp_promenade_sublight_terminal:11
 msgctxt "conversations/01_groundbreaker/01_cp_promenade_sublight_terminal:11:DefaultText"
@@ -105,4 +105,4 @@ msgid "SubLight Salvage & Shipping\n"
 "-The next time one of us \"finds\" an \"abandoned\" ship and \"decommissions\" it, they had better dispatch a ground team to the debris field before the marauders have their turn. Just because we're salvagers doesn't mean we have to be scavengers. \r\n"
 "\r\n"
 "L.H. "
-msgstr ""
+msgstr "SubLight Salvage & Shipping ======================= FROM: HAGEN, L. TO: SL_COMPANY_ALL SUBJECT: Můj skener říká, že Mardějci zabavili loď freelancerů poté, co se kapitán špatně choval. Posádka upustila u Very tolik kousků, že si nemohou dovolit zrušit konfiskaci. Kdo mi získá práva na vyprošťování, bude v klidu sedět v mé kanceláři a sledovat profesionální práci -Jeden z Našich se pohádal s jedním z Jejich. Přišel o dalšího dodavatele. Sešrotoval loď a desetinu zachráněné částky věnoval na pohřeb. Starám se o své lidi. -Malý šprot mi řekl, že bedna zkaženého cystiporku skončila na dně monarchského kaňonu. Uvidíme, kolik toho můžeme prodat. Když už jsme u toho, nikdo nebude jíst u stánku tety Cleo, dokud neřeknu. Něco se v kuchyni zkazilo. -Příště, až někdo z nás \"najde\" \"opuštěnou\" loď a \"vyřadí ji z provozu\", ať raději vyšle na pole trosek pozemní tým, než na ně přijdou na řadu záškodníci. To, že jsme záchranáři, neznamená, že musíme být mrchožrouti. L.H. "

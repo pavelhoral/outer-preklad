@@ -10,12 +10,12 @@ msgid "Edgewater Saltuna Cannery\r\n"
 "Administrator: Reed Tobson\r\n"
 "\r\n"
 ""
-msgstr ""
+msgstr "Edgewater Saltuna Cannery A Spacer's Choice Property ======================== Správce přístupu k terminálu: Reed Tobson"
 
 #: conversations/00_emerald_vale/00_cp_reed_office:2
 msgctxt "conversations/00_emerald_vale/00_cp_reed_office:2:DefaultText"
 msgid "[Messages]"
-msgstr ""
+msgstr "[Zprávy]"
 
 #: conversations/00_emerald_vale/00_cp_reed_office:3
 msgctxt "conversations/00_emerald_vale/00_cp_reed_office:3:DefaultText"
@@ -45,12 +45,12 @@ msgid "Edgewater Saltuna Cannery\r\n"
 "R. Tobson\r\n"
 "\r\n"
 "Personal Password: spacertobson"
-msgstr ""
+msgstr "Edgewater Saltuna Cannery A Spacer's Choice Property ======================== FROM: Tobson TO: Tobson SUBJECT: In Case Of My Death To whom it may concern, If you are reading this, then I am longer an outpost administrator for Edgewater. Ať už jsem se zbavil svého smrtelného těla přirozenou cestou, nebo jsem odešel do předčasného důchodu, správa Edgewateru přešla na někoho jiného. Ale co je nejdůležitější: je nutné, abyste rodinu Spacer's Choice udrželi pohromadě. Adelaide McDevittová a její následovníci se utábořili ve staré botanické laboratoři. Jejich místo je tady, pracují s námi. Adelaide je odolná vůči rozumu a odmítá přijímat diplomatické návrhy. Jediný způsob, jak ji přimět k návratu, je zamířit do geotermální elektrárny, odříznout ji od energie a odvést její lidi zpět do Edgewateru. Po odpojení energie v Botanické laboratoři se neváhejte zmocnit veškerého užitečného vybavení, které se v ní nachází. Zejména regulátory energie. Postskriptum: Pokud obnovíte dodávku energie do Edgewateru, zvážili byste uvedení mého jména ve zprávě o zisku? Trocha posmrtného uznání by neuškodila. S pozdravem, R. Tobson Osobní heslo: spacertobson"
 
 #: conversations/00_emerald_vale/00_cp_reed_office:4
 msgctxt "conversations/00_emerald_vale/00_cp_reed_office:4:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"
 
 #: conversations/00_emerald_vale/00_cp_reed_office:5
 msgctxt "conversations/00_emerald_vale/00_cp_reed_office:5:DefaultText"
@@ -62,22 +62,22 @@ msgid "Edgewater Saltuna Cannery\r\n"
 "Messages\r\n"
 "\r\n"
 "Welcome, R. Tobson"
-msgstr ""
+msgstr "Edgewater Saltuna Cannery A Spacer's Choice Property ======================== Zprávy Vítejte, R. Tobson"
 
 #: conversations/00_emerald_vale/00_cp_reed_office:6
 msgctxt "conversations/00_emerald_vale/00_cp_reed_office:6:DefaultText"
 msgid "[FROM: R. Tobson]"
-msgstr ""
+msgstr "[OD: R. Tobson]"
 
 #: conversations/00_emerald_vale/00_cp_reed_office:7
 msgctxt "conversations/00_emerald_vale/00_cp_reed_office:7:DefaultText"
 msgid "[Return to Root]"
-msgstr ""
+msgstr "[Zpět na kořen]"
 
 #: conversations/00_emerald_vale/00_cp_reed_office:8
 msgctxt "conversations/00_emerald_vale/00_cp_reed_office:8:DefaultText"
 msgid "[FROM: Corporate]"
-msgstr ""
+msgstr "[OD: Firemní]"
 
 #: conversations/00_emerald_vale/00_cp_reed_office:9
 msgctxt "conversations/00_emerald_vale/00_cp_reed_office:9:DefaultText"
@@ -95,4 +95,4 @@ msgid "Edgewater Saltuna Cannery\r\n"
 "Your request for additional building materials has been denied. \r\n"
 "\r\n"
 "The walls around Edgewater were built thirty years ago by your predecessor. Any alterations, expansions, or repairs to this wall MUST be signed and approved by your predecessor. If your predecessor is unavailable due to incarceration, re-education, or death, it is YOUR responsibility to obtain a last will and testament demonstrating your predecessor's intentions."
-msgstr ""
+msgstr "Edgewater Saltuna Cannery A Spacer's Choice Property ======================== FROM: Spacer's Choice Division of Indenturement and Labor TO: Tobsonovi PŘEDMĚT: R: Vaše žádost o dodatečný stavební materiál byla zamítnuta. Zdi kolem Edgewateru byly postaveny před třiceti lety Vaším předchůdcem. Jakékoli úpravy, rozšíření nebo opravy této zdi MUSÍ být podepsány a schváleny Vaším předchůdcem. Pokud váš předchůdce není k dispozici z důvodu uvěznění, převýchovy nebo úmrtí, je VAŠÍ povinností získat poslední vůli a závěť prokazující záměry vašeho předchůdce."

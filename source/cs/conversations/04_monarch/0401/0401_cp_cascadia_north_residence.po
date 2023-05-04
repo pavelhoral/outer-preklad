@@ -3,49 +3,49 @@ msgctxt "conversations/04_monarch/0401/0401_cp_cascadia_north_residence:1:Defaul
 msgid "Rizzo, Inc. Personal Equipment\r\n"
 "======================\r\n"
 "This terminal is the sole property of [BLACKWOOD, Z]. Access by any person other than [BLACKWOOD, Z] is unauthorized. Consult your Rizzo employee handbook for the fines corresponding to the unauthorized access of personal-use terminals."
-msgstr ""
+msgstr "Rizzo, Inc. Osobní vybavení ====================== Tento terminál je výhradním vlastnictvím společnosti [BLACKWOOD, Z]. Přístup jiné osoby než [BLACKWOOD, Z] je neoprávněný. Pokuty odpovídající neoprávněnému přístupu k terminálům pro osobní použití naleznete v příručce pro zaměstnance společnosti Rizzo."
 
 #: conversations/04_monarch/0401/0401_cp_cascadia_north_residence:3
 msgctxt "conversations/04_monarch/0401/0401_cp_cascadia_north_residence:3:DefaultText"
 msgid "[Access Journal Entries]"
-msgstr ""
+msgstr "[Přístup k záznamům v deníku]"
 
 #: conversations/04_monarch/0401/0401_cp_cascadia_north_residence:4
 msgctxt "conversations/04_monarch/0401/0401_cp_cascadia_north_residence:4:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"
 
 #: conversations/04_monarch/0401/0401_cp_cascadia_north_residence:6
 msgctxt "conversations/04_monarch/0401/0401_cp_cascadia_north_residence:6:DefaultText"
 msgid "Error: Centralized storage offline. The latest four entries are available below."
-msgstr ""
+msgstr "Chyba: Centralizované úložiště offline. Poslední čtyři záznamy jsou k dispozici níže."
 
 #: conversations/04_monarch/0401/0401_cp_cascadia_north_residence:7
 msgctxt "conversations/04_monarch/0401/0401_cp_cascadia_north_residence:7:DefaultText"
 msgid "[April 27th, 2343]"
-msgstr ""
+msgstr "[27. dubna 2343]"
 
 #: conversations/04_monarch/0401/0401_cp_cascadia_north_residence:8
 msgctxt "conversations/04_monarch/0401/0401_cp_cascadia_north_residence:8:DefaultText"
 msgid "[April 28th, 2343]"
-msgstr ""
+msgstr "[28. dubna 2343]"
 
 #: conversations/04_monarch/0401/0401_cp_cascadia_north_residence:9
 msgctxt "conversations/04_monarch/0401/0401_cp_cascadia_north_residence:9:DefaultText"
 msgid "[May 4th, 2343]"
-msgstr ""
+msgstr "[4. května 2343]"
 
 #: conversations/04_monarch/0401/0401_cp_cascadia_north_residence:11
 msgctxt "conversations/04_monarch/0401/0401_cp_cascadia_north_residence:11:DefaultText"
 msgid "Something stinks about these evac prep procedures. I know the pteros were expensive, but shipping them out of here isn't going to be easy. Even the hunters are recommending we let 'em loose outside the gates.\r\n"
 "\r\n"
 "I don't get why we're taking them with us, anyway. Someone up the chain must really believe in the project."
-msgstr ""
+msgstr "Něco mi na těchto postupech přípravy na evakuaci smrdí. Vím, že pteros byly drahé, ale odvézt je odsud nebude snadné. Dokonce i lovci doporučují, abychom je pustili za brány. Stejně nechápu, proč je bereme s sebou. Někdo nahoře v řetězci musí tomu projektu opravdu věřit."
 
 #: conversations/04_monarch/0401/0401_cp_cascadia_north_residence:12
 msgctxt "conversations/04_monarch/0401/0401_cp_cascadia_north_residence:12:DefaultText"
 msgid "[Return to Root]"
-msgstr ""
+msgstr "[Zpět na kořen]"
 
 #: conversations/04_monarch/0401/0401_cp_cascadia_north_residence:14
 msgctxt "conversations/04_monarch/0401/0401_cp_cascadia_north_residence:14:DefaultText"
@@ -70,7 +70,8 @@ msgid "I'm copying my meeting notes for posterity. Still can't shake this feelin
 "- Me: one isn't enough for all of us plus the damn pteros\n"
 "- Sumner: let's worry about that when the evac arrives\n"
 "- Sumner: looks like we're out of time. thanks for coming, everyone, and keep up the great work"
-msgstr ""
+msgstr "Kopíruji si poznámky ze schůzky pro pozdější generace. Pořád se nemůžu zbavit pocitu, že něco tají. MĚSTSKÁ SCHŮZE: 4/28/2343 - Sumner: svolal schůzku, aby projednal přípravy na náš nadcházející odchod - Pauline: fráze, ujištění, že nikoho nevyhodí - Pauline: vysvětluje, že na terra 2 nás všechny čeká práce - Pauline: další fráze, nejvyšší vedení je s projektem ptero velmi spokojeno a chce zajistit zachování jeho aktiv - C. McClure: takže projekt není zrušen? - Sumner: ne, jen přesunut z terry 1 - Violette: ale jak budeme pteros převážet - Ted: lovci nám pomohou s jejich bezpečným přesunem na raketoplán - Violette: už tak bylo dost těžké dostat je do klecí - Já: a co raptidoni? viděli jsme jich po městě čím dál víc - Sumner: ujištění, že raptidony pteros nezajímají - Já: ale lovci říkají- - Sumner: o pterosech už ne, slovo je teď otevřené pro obecné otázky - M. Cicero: kolik raketoplánů přiletí?\n"
+"- Paulína: to nevíme. minimálně jeden - Já: jeden nestačí pro nás všechny plus ty zatracené pteros - Sumner: o to se postaráme, až dorazí evakuace - Sumner: vypadá to, že nám došel čas. díky, že jste přišli, všem, a pokračujte ve skvělé práci"
 
 #: conversations/04_monarch/0401/0401_cp_cascadia_north_residence:15
 msgctxt "conversations/04_monarch/0401/0401_cp_cascadia_north_residence:15:DefaultText"
@@ -85,12 +86,12 @@ msgid "We're fucked.\n"
 "They left us.\n"
 "\n"
 "Void take their black hearts, they left us."
-msgstr ""
+msgstr "Jsme v prdeli. Raketoplán přistál na přistávací ploše. Začali jsme stěhovat ptero klece. Některé se rozbily. Ptáci jsou všude. Všude drápy. Dokonce i ty ustřižené... Ukázalo se, že umí běhat. Kdo by to byl řekl? Pak se tam dostali raptoři. Nevím jak. Někde musí být díra ve zdi. Možná umí kopat. Do prdele. Nejdřív byli všude pteros a pak i my. Sumner a ostatní členové vyššího vedení už byli v raketoplánu. Rapty se dostaly do blízkosti přistávací plochy. Někdo zpanikařil, nechali nás. prázdnota vem si svá černá srdce, nechali nás."
 
 #: conversations/04_monarch/0401/0401_cp_cascadia_north_residence:17
 msgctxt "conversations/04_monarch/0401/0401_cp_cascadia_north_residence:17:DefaultText"
 msgid "[May 7th, 2343]"
-msgstr ""
+msgstr "[7. května 2343]"
 
 #: conversations/04_monarch/0401/0401_cp_cascadia_north_residence:18
 msgctxt "conversations/04_monarch/0401/0401_cp_cascadia_north_residence:18:DefaultText"
@@ -103,4 +104,4 @@ msgid "Got a few homes stabilized, but it isn't going to last. Rapts everywhere.
 "Cecil insists corporate wouldn't abandon us, but... I saw that shuttle. There wasn't enough room for us and the birds. Someone up there made a decision and it wasn't for our well-being.\r\n"
 "\r\n"
 "Rotten bastards. I make it out of this mess, I'm coming for them."
-msgstr ""
+msgstr "Několik domů se stabilizovalo, ale nebude to trvat dlouho. Všude jsou násilnosti. Zachytili pach toho, co je ve stáčírně, a teď hnízdí. Musíme se přestěhovat. Budeme to muset zamluvit na jih přes most. Uzavřít půlku města. Zkoušel jsem volat do korporace, ale žádná z mých zpráv nedorazila. Cecil trvá na tom, že by nás společnost neopustila, ale... Viděl jsem ten raketoplán. Nebylo tam dost místa pro nás a ptáky. Někdo tam nahoře rozhodl a nebylo to pro naše dobro. Hnusní bastardi. Když se z téhle šlamastyky dostanu, jdu si pro ně."

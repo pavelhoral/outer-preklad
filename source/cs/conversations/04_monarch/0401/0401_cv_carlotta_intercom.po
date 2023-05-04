@@ -1,104 +1,104 @@
 #: conversations/04_monarch/0401/0401_cv_carlotta_intercom:1
 msgctxt "conversations/04_monarch/0401/0401_cv_carlotta_intercom:1:DefaultText"
 msgid "I heard that! I heard all of that! Who's out there? Whoever you are, you're in a lot of trouble!"
-msgstr ""
+msgstr "To jsem slyšel! Slyšel jsem to všechno! Kdo je tam venku? Ať jste kdokoli, máte velké potíže!"
 
 #: conversations/04_monarch/0401/0401_cv_carlotta_intercom:2
 msgctxt "conversations/04_monarch/0401/0401_cv_carlotta_intercom:2:DefaultText"
 msgid "It's... too quiet. What are you up to out there?"
-msgstr ""
+msgstr "Je tu... příliš ticho. Co tam venku děláš?"
 
 #: conversations/04_monarch/0401/0401_cv_carlotta_intercom:3
 msgctxt "conversations/04_monarch/0401/0401_cv_carlotta_intercom:3:DefaultText"
 msgid "I'm not coming out, you Law-forsaken thugs! Leave me alone!"
-msgstr ""
+msgstr "Já ven nepůjdu, vy zákonem zapomenutí zločinci! Nechte mě na pokoji!"
 
 #: conversations/04_monarch/0401/0401_cv_carlotta_intercom:5
 msgctxt "conversations/04_monarch/0401/0401_cv_carlotta_intercom:5:DefaultText"
 msgid "Those thugs are dead. You're safe now."
-msgstr ""
+msgstr "Ti zločinci jsou mrtví. Teď jsi v bezpečí."
 
 #: conversations/04_monarch/0401/0401_cv_carlotta_intercom:6
 msgctxt "conversations/04_monarch/0401/0401_cv_carlotta_intercom:6:DefaultText"
 msgid "Do you have a moment to talk about our salvation through the Order of Scientific Inquiry?"
-msgstr ""
+msgstr "Máš chvilku, abys promluvil o naší spáse prostřednictvím Řádu vědeckého bádání?"
 
 #: conversations/04_monarch/0401/0401_cv_carlotta_intercom:7
 msgctxt "conversations/04_monarch/0401/0401_cv_carlotta_intercom:7:DefaultText"
 msgid "Relax. The SubLight squad is gone."
-msgstr ""
+msgstr "Uvolněte se. Podsvětelná jednotka je pryč."
 
 #: conversations/04_monarch/0401/0401_cv_carlotta_intercom:8
 msgctxt "conversations/04_monarch/0401/0401_cv_carlotta_intercom:8:DefaultText"
 msgid "Hello?"
-msgstr ""
+msgstr "Haló?"
 
 #: conversations/04_monarch/0401/0401_cv_carlotta_intercom:9
 msgctxt "conversations/04_monarch/0401/0401_cv_carlotta_intercom:9:DefaultText"
 msgid "Relax? I've been cooped up in here for almost two days!"
-msgstr ""
+msgstr "Uvolnit se? Jsem tu zavřený už skoro dva dny!"
 
 #: conversations/04_monarch/0401/0401_cv_carlotta_intercom:10
 msgctxt "conversations/04_monarch/0401/0401_cv_carlotta_intercom:10:DefaultText"
 msgid "You can't be serious."
-msgstr ""
+msgstr "To snad nemyslíte vážně."
 
 #: conversations/04_monarch/0401/0401_cv_carlotta_intercom:11
 msgctxt "conversations/04_monarch/0401/0401_cv_carlotta_intercom:11:DefaultText"
 msgid "My ass, I'm safe. I've traded one hazard for another!"
-msgstr ""
+msgstr "Můj zadek, jsem v bezpečí. Vyměnil jsem jedno nebezpečí za druhé!"
 
 #: conversations/04_monarch/0401/0401_cv_carlotta_intercom:13
 msgctxt "conversations/04_monarch/0401/0401_cv_carlotta_intercom:13:DefaultText"
 msgid "Who are you, anyway?"
-msgstr ""
+msgstr "Kdo vlastně jste?"
 
 #: conversations/04_monarch/0401/0401_cv_carlotta_intercom:14
 msgctxt "conversations/04_monarch/0401/0401_cv_carlotta_intercom:14:DefaultText"
 msgid "[Static]"
-msgstr ""
+msgstr "[Statický]"
 
 #: conversations/04_monarch/0401/0401_cv_carlotta_intercom:15
 msgctxt "conversations/04_monarch/0401/0401_cv_carlotta_intercom:15:DefaultText"
 msgid "I'm <oeitoken>PlayerName</oeitoken>. Graham sent me to collect supplies."
-msgstr ""
+msgstr "Jsem <oeitoken>Jméno hráče</oeitoken>. Graham mě poslal pro zásoby."
 
 #: conversations/04_monarch/0401/0401_cv_carlotta_intercom:16
 msgctxt "conversations/04_monarch/0401/0401_cv_carlotta_intercom:16:DefaultText"
 msgid "Just your friendly neighborhood Iconoclast."
-msgstr ""
+msgstr "Jen přátelský ikonoklast ze sousedství."
 
 #: conversations/04_monarch/0401/0401_cv_carlotta_intercom:17
 msgctxt "conversations/04_monarch/0401/0401_cv_carlotta_intercom:17:DefaultText"
 msgid "It doesn't matter who I am. I'm here to pick up Graham's supplies."
-msgstr ""
+msgstr "Nezáleží na tom, kdo jsem. Přišel jsem vyzvednout Grahamovy zásoby."
 
 #: conversations/04_monarch/0401/0401_cv_carlotta_intercom:18
 msgctxt "conversations/04_monarch/0401/0401_cv_carlotta_intercom:18:DefaultText"
 msgid "Oh, for - finally. Tell Graham that this is the last run I'm doing."
-msgstr ""
+msgstr "Aha, konečně. Řekni Grahamovi, že tohle je moje poslední jízda."
 
 #: conversations/04_monarch/0401/0401_cv_carlotta_intercom:19
 msgctxt "conversations/04_monarch/0401/0401_cv_carlotta_intercom:19:DefaultText"
 msgid "Sanjar's declared a stop-sale to you lot, but even if he hadn't, I'm not risking my neck anymore."
-msgstr ""
+msgstr "Sanjar vám vyhlásil stop-stav, ale i kdyby to neudělal, už nebudu riskovat krk."
 
 #: conversations/04_monarch/0401/0401_cv_carlotta_intercom:20
 msgctxt "conversations/04_monarch/0401/0401_cv_carlotta_intercom:20:DefaultText"
 msgid "Lot of dead folk out here. I'm guessing there was a tragic accident."
-msgstr ""
+msgstr "Je tu spousta mrtvých lidí. Hádám, že došlo k tragické nehodě."
 
 #: conversations/04_monarch/0401/0401_cv_carlotta_intercom:21
 msgctxt "conversations/04_monarch/0401/0401_cv_carlotta_intercom:21:DefaultText"
 msgid "Yeah, right, okay, I am absolutely not opening this door."
-msgstr ""
+msgstr "Jo, jasně, dobře, tyhle dveře rozhodně neotevřu."
 
 #: conversations/04_monarch/0401/0401_cv_carlotta_intercom:22
 msgctxt "conversations/04_monarch/0401/0401_cv_carlotta_intercom:22:DefaultText"
 msgid "Carlotta, is that you?"
-msgstr ""
+msgstr "Carlotto, jsi to ty?"
 
 #: conversations/04_monarch/0401/0401_cv_carlotta_intercom:23
 msgctxt "conversations/04_monarch/0401/0401_cv_carlotta_intercom:23:DefaultText"
 msgid "Yeah, and for the hundredth time, I'm not opening this door."
-msgstr ""
+msgstr "Jo, a po sté říkám, že tyhle dveře neotevřu."

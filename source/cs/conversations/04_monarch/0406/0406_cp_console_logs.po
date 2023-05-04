@@ -4,22 +4,22 @@ msgid "Devil's Peak Station\r\n"
 "========================\r\n"
 "\r\n"
 "INCLEMENT WEATHER WARNING: Regional Severe Alert - next 72 hours chance of thunderstorms and severe thunderstorms including lightning strikes forecast across the mountain region."
-msgstr ""
+msgstr "Stanice Devil's Peak ======================== VAROVÁNÍ PŘED NEPŘÍZNIVÝM POČASÍM: Regionální výstraha před silnými bouřkami - v horské oblasti se v příštích 72 hodinách předpokládá výskyt bouřek a silných bouřek včetně blesků."
 
 #: conversations/04_monarch/0406/0406_cp_console_logs:2
 msgctxt "conversations/04_monarch/0406/0406_cp_console_logs:2:DefaultText"
 msgid "[Messages]"
-msgstr ""
+msgstr "[Zprávy]"
 
 #: conversations/04_monarch/0406/0406_cp_console_logs:3
 msgctxt "conversations/04_monarch/0406/0406_cp_console_logs:3:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"
 
 #: conversations/04_monarch/0406/0406_cp_console_logs:4
 msgctxt "conversations/04_monarch/0406/0406_cp_console_logs:4:DefaultText"
 msgid "[Accessing...]"
-msgstr ""
+msgstr "[Přístup k...]"
 
 #: conversations/04_monarch/0406/0406_cp_console_logs:5
 msgctxt "conversations/04_monarch/0406/0406_cp_console_logs:5:DefaultText"
@@ -42,17 +42,19 @@ msgid "Devil's Peak Station\n"
 "\n"
 "Thank you,\n"
 "Val"
-msgstr ""
+msgstr "Stanice Devil's Peak ========================= Záznamy zpráv OD: Ramsey TO: I. Broker SUBJECT: V: Jak jsem uvedl v předchozích ČTYŘECH zprávách, není prostě žádný důvod k poplachu. Přísahám ti, Hirame, že situace je pod kontrolou. \n"
+"\n"
+"To, čemu říkáš \"téměř mimořádná událost\", bych považoval za ne-událost. Ano, vysílání s vysokou energií bylo používáno příliš dlouhou dobu. A ano, generátory nemohou bezpečně podporovat tuto činnost. Ano a ano, mohlo dojít k jejich poškození při zátěži. Ale podstata zůstává - nic se nestalo, problém jsme zachytili včas. Inženýři, kteří se na tom podíleli, byli pokáráni. Přísahám na hrob své maminky, že se to už nebude opakovat. A teď mě prosím přestaňte kontaktovat, abych vás denně informoval o stavu generátorů. Děkuji, Val."
 
 #: conversations/04_monarch/0406/0406_cp_console_logs:6
 msgctxt "conversations/04_monarch/0406/0406_cp_console_logs:6:DefaultText"
 msgid "[FROM: V. Ramsey, SUBJECT: Emergency Protocols]"
-msgstr ""
+msgstr "[OD: V. Ramsey, PŘEDMĚT: Nouzové protokoly]"
 
 #: conversations/04_monarch/0406/0406_cp_console_logs:7
 msgctxt "conversations/04_monarch/0406/0406_cp_console_logs:7:DefaultText"
 msgid "[FROM: I. M. Avoyeur, SUBJECT: Toilets]"
-msgstr ""
+msgstr "[OD: I. M. Avoyeur, PŘEDMĚT: Toalety]"
 
 #: conversations/04_monarch/0406/0406_cp_console_logs:8
 msgctxt "conversations/04_monarch/0406/0406_cp_console_logs:8:DefaultText"
@@ -68,12 +70,12 @@ msgid "Devil's Peak Station\r\n"
 "Sincerely,\r\n"
 "Thanks for the peep show. Not really. (That was sarcasm.) \r\n"
 "Theodore"
-msgstr ""
+msgstr "Devil's Peak Station ========================= Záznamy zpráv OD: I. M. Avoyeur TO: Ramsey PŘEDMĚT: J: Co sis to proboha myslel, Vale? V určitém okamžiku se \"efektivita prostoru\" stává inverzní k \"efektivitě času\" a jedno neguje druhé. Chci říct, jak si mám vyřídit ranní záležitosti, když jsou záchody přímo naproti otevřeným sprchám? Tobě se možná líbí dívat se na kolegy, jak si drhnou žigulíky, zatímco ty se kouříš, ale mně ne. S pozdravem, díky za tuhle peep show. Ne tak docela. (To byl sarkasmus.) Theodore"
 
 #: conversations/04_monarch/0406/0406_cp_console_logs:9
 msgctxt "conversations/04_monarch/0406/0406_cp_console_logs:9:DefaultText"
 msgid "[FROM: V. Ramsey, SUBJECT: Re: Toilets]"
-msgstr ""
+msgstr "[OD: V. Ramsey, PŘEDMĚT: Re: Toalety]"
 
 #: conversations/04_monarch/0406/0406_cp_console_logs:10
 msgctxt "conversations/04_monarch/0406/0406_cp_console_logs:10:DefaultText"
@@ -94,9 +96,9 @@ msgid "Devil's Peak Station\r\n"
 "Val\r\n"
 "\r\n"
 "Postscript - You take too many bathroom breaks, and you know it."
-msgstr ""
+msgstr "Stanice Devil's Peak ========================= Záznamy zpráv OD: M. Avoyeur SUBJECT: J. Ramsey TO: I: Re: Re: Naopak, Theo. Nejenže je to prostorově efektivní návrh, ale také vybízí souběžné uživatele, aby si pospíšili se svými... záležitostmi. Nelíbí se, nekoukej. Nebo to urychli a jdi dál. Koneckonců, čím rychleji se vrátíš na své stanoviště, tím spokojenější budeme všichni. S vřelým pozdravem, Val Postscriptum - Děláš si příliš mnoho přestávek na záchod a víš to."
 
 #: conversations/04_monarch/0406/0406_cp_console_logs:11
 msgctxt "conversations/04_monarch/0406/0406_cp_console_logs:11:DefaultText"
 msgid "[Return to Root]"
-msgstr ""
+msgstr "[Zpět na kořen]"

@@ -4,34 +4,35 @@ msgid "Monarch Stellar Industries\r\n"
 "============================\r\n"
 "\r\n"
 "This terminal is only to be used for official communication on behalf of Monarch Stellar Industries. "
-msgstr ""
+msgstr "Monarch Stellar Industries ============================ Tento terminál je určen pouze pro oficiální komunikaci jménem společnosti Monarch Stellar Industries. "
 
 #: conversations/04_monarch/0402/0402_cp_cannibalhouse_terminal:2
 msgctxt "conversations/04_monarch/0402/0402_cp_cannibalhouse_terminal:2:DefaultText"
 msgid "[Messages]"
-msgstr ""
+msgstr "[Zprávy]"
 
 #: conversations/04_monarch/0402/0402_cp_cannibalhouse_terminal:3
 msgctxt "conversations/04_monarch/0402/0402_cp_cannibalhouse_terminal:3:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"
 
 #: conversations/04_monarch/0402/0402_cp_cannibalhouse_terminal:4
 msgctxt "conversations/04_monarch/0402/0402_cp_cannibalhouse_terminal:4:DefaultText"
 msgid "Messages\n"
 "======================\n"
 ""
-msgstr ""
+msgstr "Messages\n"
+"======================"
 
 #: conversations/04_monarch/0402/0402_cp_cannibalhouse_terminal:5
 msgctxt "conversations/04_monarch/0402/0402_cp_cannibalhouse_terminal:5:DefaultText"
 msgid "[FROM: E. Mather]"
-msgstr ""
+msgstr "[OD: E. Mather]"
 
 #: conversations/04_monarch/0402/0402_cp_cannibalhouse_terminal:6
 msgctxt "conversations/04_monarch/0402/0402_cp_cannibalhouse_terminal:6:DefaultText"
 msgid "[FROM: E. Mather]"
-msgstr ""
+msgstr "[OD: E. Mather]"
 
 #: conversations/04_monarch/0402/0402_cp_cannibalhouse_terminal:7
 msgctxt "conversations/04_monarch/0402/0402_cp_cannibalhouse_terminal:7:DefaultText"
@@ -42,7 +43,7 @@ msgid "Braxton,\r\n"
 "Please. I'm asking you as a friend.\r\n"
 "\r\n"
 "-Edgar"
-msgstr ""
+msgstr "Braxtone, promiň, že tě musím obtěžovat, ale opravdu potřebujeme víc těch pilulek, které jsi našel. Od té doby, co nám došly, se Martě začaly tak třást ruce, že sotva udrží sklenici vody. Prosím. Prosím tě jako přítel. -Edgar"
 
 #: conversations/04_monarch/0402/0402_cp_cannibalhouse_terminal:8
 msgctxt "conversations/04_monarch/0402/0402_cp_cannibalhouse_terminal:8:DefaultText"
@@ -53,12 +54,12 @@ msgid "Bratxon,\r\n"
 "Please, jus once more.\r\n"
 "\r\n"
 "-Edgr"
-msgstr ""
+msgstr "Bratxon, Kdy můžeš přijít s prášky? Mám takovou bolest hlavy, že to sotva přečtu. Lizzie je tak nemocná, že nechce jíst palačinky C&P, a ty víš, jak je miluje. Prosím, ještě jednou. -Edgr"
 
 #: conversations/04_monarch/0402/0402_cp_cannibalhouse_terminal:9
 msgctxt "conversations/04_monarch/0402/0402_cp_cannibalhouse_terminal:9:DefaultText"
 msgid "[FROM: B. Hecht]"
-msgstr ""
+msgstr "[OD: B. Hecht]"
 
 #: conversations/04_monarch/0402/0402_cp_cannibalhouse_terminal:10
 msgctxt "conversations/04_monarch/0402/0402_cp_cannibalhouse_terminal:10:DefaultText"
@@ -71,34 +72,34 @@ msgid "Edgar,\r\n"
 "And clean up whatever's rotting in your upstairs closet. It smells like a raptidon died in there.\r\n"
 "\r\n"
 "-B"
-msgstr ""
+msgstr "Edgare, musíš najít způsob, jak se zbavit těch prášků. Pořád se ti snažím říct, že už ti nepomáhají. Přinesu ti ještě jednu dávku, abych ti pomohl s vysazením, ale musíš s tím přestat. A ukliď všechno, co ti hnije nahoře ve skříni. Smrdí to tam, jako by tam umřel raptidon. -B"
 
 #: conversations/04_monarch/0402/0402_cp_cannibalhouse_terminal:11
 msgctxt "conversations/04_monarch/0402/0402_cp_cannibalhouse_terminal:11:DefaultText"
 msgid "[Return to Root]"
-msgstr ""
+msgstr "[Zpět na kořen]"
 
 #: conversations/04_monarch/0402/0402_cp_cannibalhouse_terminal:12
 msgctxt "conversations/04_monarch/0402/0402_cp_cannibalhouse_terminal:12:DefaultText"
 msgid "[Personal Files]"
-msgstr ""
+msgstr "[Osobní soubory]"
 
 #: conversations/04_monarch/0402/0402_cp_cannibalhouse_terminal:13
 msgctxt "conversations/04_monarch/0402/0402_cp_cannibalhouse_terminal:13:DefaultText"
 msgid "Personal files for E. Mather\r\n"
 "============================\r\n"
 ""
-msgstr ""
+msgstr "Osobní spisy E. Mathera ============================"
 
 #: conversations/04_monarch/0402/0402_cp_cannibalhouse_terminal:14
 msgctxt "conversations/04_monarch/0402/0402_cp_cannibalhouse_terminal:14:DefaultText"
 msgid "[Employee of the Month Electronic Certificate]"
-msgstr ""
+msgstr "[Elektronický certifikát zaměstnance měsíce]"
 
 #: conversations/04_monarch/0402/0402_cp_cannibalhouse_terminal:15
 msgctxt "conversations/04_monarch/0402/0402_cp_cannibalhouse_terminal:15:DefaultText"
 msgid "[Notice of Resignation]"
-msgstr ""
+msgstr "[Oznámení o odstoupení]"
 
 #: conversations/04_monarch/0402/0402_cp_cannibalhouse_terminal:16
 msgctxt "conversations/04_monarch/0402/0402_cp_cannibalhouse_terminal:16:DefaultText"
@@ -113,21 +114,21 @@ msgid "Employee of the Month\r\n"
 "MSI FISHERIES\r\n"
 "\r\n"
 "Great job, EDGAR!"
-msgstr ""
+msgstr "Zaměstnanec měsíce - uděleno EDGARU MATHEROVI za jeho obětavou a tvrdou práci ve společnosti MSI FISHERIES Skvělá práce, EDGARE!"
 
 #: conversations/04_monarch/0402/0402_cp_cannibalhouse_terminal:17
 msgctxt "conversations/04_monarch/0402/0402_cp_cannibalhouse_terminal:17:DefaultText"
 msgid "This notice hereby recognizes the resignation of MATHER, EDGAR from MSI FISHERIES for reasons of PERSONAL/FAMILY HEALTH.\r\n"
 "\r\n"
 "Should you wish to return to work at MSI FISHERIES, please inquire about open positions with your local site supervisor."
-msgstr ""
+msgstr "Tímto oznámením se bere na vědomí výpověď MATHER, EDGAR ze společnosti MSI FISHERIES z důvodů OSOBNÍHO/ RODINNÉHO ZDRAVÍ. Pokud byste se chtěli vrátit do práce ve společnosti MSI FISHERIES, informujte se o volných pracovních místech u svého místního nadřízeného."
 
 #: conversations/04_monarch/0402/0402_cp_cannibalhouse_terminal:20
 msgctxt "conversations/04_monarch/0402/0402_cp_cannibalhouse_terminal:20:DefaultText"
 msgid "[Back]"
-msgstr ""
+msgstr "[Zpět]"
 
 #: conversations/04_monarch/0402/0402_cp_cannibalhouse_terminal:21
 msgctxt "conversations/04_monarch/0402/0402_cp_cannibalhouse_terminal:21:DefaultText"
 msgid "[Back]"
-msgstr ""
+msgstr "[Zpět]"

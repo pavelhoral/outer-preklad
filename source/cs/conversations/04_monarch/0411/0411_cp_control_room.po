@@ -5,34 +5,34 @@ msgid "C&P Factory Systems\r\n"
 "AUTHORIZED USER LOG IN SEQUENCE INTIATING...\r\n"
 "========================\r\n"
 "Greetings, authorized personnel. How may the system assist you, today?"
-msgstr ""
+msgstr "C&P Factory Systems ======================== PŘIHLÁŠENÍ AUTORIZOVANÉHO UŽIVATELE SEXUÁLNĚ VSTUPUJÍCÍ... ======================== Zdravím vás, autorizovaní pracovníci. Jak vám dnes může systém pomoci?"
 
 #: conversations/04_monarch/0411/0411_cp_control_room:2
 msgctxt "conversations/04_monarch/0411/0411_cp_control_room:2:DefaultText"
 msgid "[Maintenance Logs]"
-msgstr ""
+msgstr "[Protokoly údržby]"
 
 #: conversations/04_monarch/0411/0411_cp_control_room:4
 msgctxt "conversations/04_monarch/0411/0411_cp_control_room:4:DefaultText"
 msgid "[Enable \"Pink Slip Protocol\" on Sentry Automechs]"
-msgstr ""
+msgstr "[Povolit \"Pink Slip Protocol\" na Sentry Automechs]"
 
 #: conversations/04_monarch/0411/0411_cp_control_room:5
 msgctxt "conversations/04_monarch/0411/0411_cp_control_room:5:DefaultText"
 msgid "[Call Elevator to Ground Level]"
-msgstr ""
+msgstr "[Vyvolat výtah do přízemí]"
 
 #: conversations/04_monarch/0411/0411_cp_control_room:6
 msgctxt "conversations/04_monarch/0411/0411_cp_control_room:6:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"
 
 #: conversations/04_monarch/0411/0411_cp_control_room:7
 msgctxt "conversations/04_monarch/0411/0411_cp_control_room:7:DefaultText"
 msgid "The elevator will arrive momentarily.\n"
 "\n"
 "REQUIRED ADVISORY MESSAGE: Remember, when meeting with the King, do not initiate conversation, avoid eye contact, respond respectfully when addressed, and above all else -- do not provide any provocation for which to be canned."
-msgstr ""
+msgstr "Výtah přijede za chvíli. VYŽADOVANÁ ZPRÁVA: Pamatujte, že při setkání s králem nezačínejte konverzaci, vyhýbejte se očnímu kontaktu, na oslovení reagujte uctivě a především - neposkytujte žádné provokace, za které byste mohli být konzervováni."
 
 #: conversations/04_monarch/0411/0411_cp_control_room:8
 msgctxt "conversations/04_monarch/0411/0411_cp_control_room:8:DefaultText"
@@ -43,27 +43,27 @@ msgid "Authentication of authorization required. Please provide the correct pass
 "Authorization... authorization...\n"
 "\n"
 "...authorization accepted. Commencing strategic restructuring of all factory personnel... "
-msgstr ""
+msgstr "Vyžaduje se ověření oprávnění. Zadejte prosím správné heslo. HESLO: ******* Autorizace... autorizace... ...autorizace přijata. Zahájení strategické restrukturalizace všech zaměstnanců továrny... "
 
 #: conversations/04_monarch/0411/0411_cp_control_room:10
 msgctxt "conversations/04_monarch/0411/0411_cp_control_room:10:DefaultText"
 msgid "[Accessing...]"
-msgstr ""
+msgstr "[Přístup k...]"
 
 #: conversations/04_monarch/0411/0411_cp_control_room:11
 msgctxt "conversations/04_monarch/0411/0411_cp_control_room:11:DefaultText"
 msgid "[Maintenance Log 157]"
-msgstr ""
+msgstr "[Protokol údržby 157]"
 
 #: conversations/04_monarch/0411/0411_cp_control_room:12
 msgctxt "conversations/04_monarch/0411/0411_cp_control_room:12:DefaultText"
 msgid "[Maintenance Log 241]"
-msgstr ""
+msgstr "[Protokol údržby 241]"
 
 #: conversations/04_monarch/0411/0411_cp_control_room:13
 msgctxt "conversations/04_monarch/0411/0411_cp_control_room:13:DefaultText"
 msgid "[Return to Root]"
-msgstr ""
+msgstr "[Zpět na kořen]"
 
 #: conversations/04_monarch/0411/0411_cp_control_room:14
 msgctxt "conversations/04_monarch/0411/0411_cp_control_room:14:DefaultText"
@@ -80,7 +80,7 @@ msgid "Dictating memoranda from authorized user... Control Room Operator.\n"
 "Won't be waggling their middle fingers then. Now would they?\n"
 "\n"
 "-- end block quote"
-msgstr ""
+msgstr "Diktování memorand od oprávněného uživatele... Operátor řídicí místnosti. začátek bloku citace -- ...Aha, proboha, nezadal jsem \"začít nahrávat\", že ne? Ne, ty hloupý počítačový šrapnelu. Jen jsem říkal, jak mě irituje, když mi ostatní kradou oběd - P-Free Butter and Purpleberry Jelly, abyste věděli, ne chamíka a z dobrého důvodu - a zatímco se cpou, mají tu drzost na mě prdět a mávat prostředníčkem z tovární haly. Protože oni vědí, já vím, že tam nemůžu jít až do přestávky směny. A to už je pozdě. Ale něco ti řeknu. Jsem v pokušení. Jsem v pokušení použít nový protokol Sentry Automechs Pink Slip a každého z nich vyřadit. Pak už nebudou mávat prostředníčky. Nebo ano? -- konec blokové citace"
 
 #: conversations/04_monarch/0411/0411_cp_control_room:15
 msgctxt "conversations/04_monarch/0411/0411_cp_control_room:15:DefaultText"
@@ -96,4 +96,8 @@ msgid "Clog in the machinery consisted of the following composition: \n"
 "\n"
 "Authorization... approved. Resuming deep cleansing cycle....\n"
 ""
-msgstr ""
+msgstr "Ucpávka ve strojním zařízení se skládala z následujícího složení: \n"
+"\n"
+"...Zpracování kláves: \"Ne, ne, ne, ne!\" 16 % - tukové tkáně 15 % - kosti 40 % až neurčité procento - šlachy, vlasy, hemoglobin a další organické materiály Chcete provést hlubší diagnostiku? \n"
+"\n"
+"Autorizace... schváleno. Pokračování cyklu hloubkového čištění...."

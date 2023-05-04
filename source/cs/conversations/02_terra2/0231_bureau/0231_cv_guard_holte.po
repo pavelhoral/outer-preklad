@@ -1,164 +1,164 @@
 #: conversations/02_terra2/0231_bureau/0231_cv_guard_holte:1
 msgctxt "conversations/02_terra2/0231_bureau/0231_cv_guard_holte:1:DefaultText"
 msgid "Not so fast. The Ministry of Accuracy and Morale is off limits to everyone without X-36-level clearance."
-msgstr ""
+msgstr "Ne tak rychle. Ministerstvo přesnosti a morálky je nepřístupné všem bez prověrky na úrovni X-36."
 
 #: conversations/02_terra2/0231_bureau/0231_cv_guard_holte:2
 msgctxt "conversations/02_terra2/0231_bureau/0231_cv_guard_holte:2:DefaultText"
 msgid "Like I said, X-36 clearance only beyond this point."
-msgstr ""
+msgstr "Jak jsem řekl, prověrka X-36 je až za tímto bodem."
 
 #: conversations/02_terra2/0231_bureau/0231_cv_guard_holte:3
 msgctxt "conversations/02_terra2/0231_bureau/0231_cv_guard_holte:3:DefaultText"
 msgid "Farewell."
-msgstr ""
+msgstr "Rozloučení."
 
 #: conversations/02_terra2/0231_bureau/0231_cv_guard_holte:4
 msgctxt "conversations/02_terra2/0231_bureau/0231_cv_guard_holte:4:DefaultText"
 msgid "<Show him the Chairman's keycard.> How's this for clearance?"
-msgstr ""
+msgstr "<Ukažte mu předsedovu kartu.> Co říkáte na prověrku?"
 
 #: conversations/02_terra2/0231_bureau/0231_cv_guard_holte:5
 msgctxt "conversations/02_terra2/0231_bureau/0231_cv_guard_holte:5:DefaultText"
 msgid "Let me through right now, or your official record won't be fit for polishing floors."
-msgstr ""
+msgstr "Nechte mě projít, jinak se váš úřední záznam nebude hodit na leštění podlah."
 
 #: conversations/02_terra2/0231_bureau/0231_cv_guard_holte:6
 msgctxt "conversations/02_terra2/0231_bureau/0231_cv_guard_holte:6:DefaultText"
 msgid "I don't know how you got that, but I still don't know you, and I don't have any new clearances on the list."
-msgstr ""
+msgstr "Nevím, jak jste k tomu přišel, ale já vás stále neznám a na seznamu nemám žádné nové prověrky."
 
 #: conversations/02_terra2/0231_bureau/0231_cv_guard_holte:7
 msgctxt "conversations/02_terra2/0231_bureau/0231_cv_guard_holte:7:DefaultText"
 msgid "Please, go on through. And let's forget this misunderstanding, eh?"
-msgstr ""
+msgstr "Projděte, prosím, dál. A zapomeňme na toto nedorozumění, ano?"
 
 #: conversations/02_terra2/0231_bureau/0231_cv_guard_holte:8
 msgctxt "conversations/02_terra2/0231_bureau/0231_cv_guard_holte:8:DefaultText"
 msgid "You must not be up-to-date on Z-532 clearances."
-msgstr ""
+msgstr "Nesmíte mít aktuální informace o povoleních Z-532."
 
 #: conversations/02_terra2/0231_bureau/0231_cv_guard_holte:9
 msgctxt "conversations/02_terra2/0231_bureau/0231_cv_guard_holte:9:DefaultText"
 msgid "Go on through. And let's pretend this conversation never happened."
-msgstr ""
+msgstr "Projděte. A předstírejme, že k tomuto rozhovoru nikdy nedošlo."
 
 #: conversations/02_terra2/0231_bureau/0231_cv_guard_holte:10
 msgctxt "conversations/02_terra2/0231_bureau/0231_cv_guard_holte:10:DefaultText"
 msgid "Never mind."
-msgstr ""
+msgstr "Nevadí."
 
 #: conversations/02_terra2/0231_bureau/0231_cv_guard_holte:11
 msgctxt "conversations/02_terra2/0231_bureau/0231_cv_guard_holte:11:DefaultText"
 msgid "That it? 'Cause I really don't have anything else to say."
-msgstr ""
+msgstr "To je všechno? Protože opravdu nemám co jiného říct."
 
 #: conversations/02_terra2/0231_bureau/0231_cv_guard_holte:13
 msgctxt "conversations/02_terra2/0231_bureau/0231_cv_guard_holte:13:DefaultText"
 msgid "I already showed you my pass."
-msgstr ""
+msgstr "Už jsem vám ukázal svůj průkaz."
 
 #: conversations/02_terra2/0231_bureau/0231_cv_guard_holte:14
 msgctxt "conversations/02_terra2/0231_bureau/0231_cv_guard_holte:14:DefaultText"
 msgid "And you're still not cleared."
-msgstr ""
+msgstr "A stále nejste prověřeni."
 
 #: conversations/02_terra2/0231_bureau/0231_cv_guard_holte:15
 msgctxt "conversations/02_terra2/0231_bureau/0231_cv_guard_holte:15:DefaultText"
 msgid "Basically, if you don't work here - or for Chairman Rockwell himself - you're not getting in."
-msgstr ""
+msgstr "V podstatě platí, že pokud nepracujete zde - nebo pro samotného předsedu Rockwella -, nedostanete se dovnitř."
 
 #: conversations/02_terra2/0231_bureau/0231_cv_guard_holte:16
 msgctxt "conversations/02_terra2/0231_bureau/0231_cv_guard_holte:16:DefaultText"
 msgid "Go on through."
-msgstr ""
+msgstr "Projděte."
 
 #: conversations/02_terra2/0231_bureau/0231_cv_guard_holte:17
 msgctxt "conversations/02_terra2/0231_bureau/0231_cv_guard_holte:17:DefaultText"
 msgid "What're you talking about? There's no such thing."
-msgstr ""
+msgstr "O čem to mluvíš? Nic takového neexistuje."
 
 #: conversations/02_terra2/0231_bureau/0231_cv_guard_holte:18
 msgctxt "conversations/02_terra2/0231_bureau/0231_cv_guard_holte:18:DefaultText"
 msgid "Aw, that's precious. And sad."
-msgstr ""
+msgstr "To je milé. A smutné."
 
 #: conversations/02_terra2/0231_bureau/0231_cv_guard_holte:19
 msgctxt "conversations/02_terra2/0231_bureau/0231_cv_guard_holte:19:DefaultText"
 msgid "Sure there is. You just don't have the clearance to know about it."
-msgstr ""
+msgstr "Jistěže je. Jen o tom nemáte oprávnění vědět."
 
 #: conversations/02_terra2/0231_bureau/0231_cv_guard_holte:20
 msgctxt "conversations/02_terra2/0231_bureau/0231_cv_guard_holte:20:DefaultText"
 msgid "What? There's no way. I'm cleared to know about ALL clearances. I mean, I've gotta be, right?"
-msgstr ""
+msgstr "Cože? To není možné. Jsem prověřený, abych věděl o VŠECH prověrkách. Tedy, musím být, ne?"
 
 #: conversations/02_terra2/0231_bureau/0231_cv_guard_holte:21
 msgctxt "conversations/02_terra2/0231_bureau/0231_cv_guard_holte:21:DefaultText"
 msgid "Not mine. Come to think of it, I may have to write you up just for hearing about it."
-msgstr ""
+msgstr "Ne moje. Když o tom tak přemýšlím, možná tě budu muset sepsat jen proto, že jsem o tom slyšel."
 
 #: conversations/02_terra2/0231_bureau/0231_cv_guard_holte:22
 msgctxt "conversations/02_terra2/0231_bureau/0231_cv_guard_holte:22:DefaultText"
 msgid "Whoa, there's no need for that."
-msgstr ""
+msgstr "Páni, to není potřeba."
 
 #: conversations/02_terra2/0231_bureau/0231_cv_guard_holte:23
 msgctxt "conversations/02_terra2/0231_bureau/0231_cv_guard_holte:23:DefaultText"
 msgid "You don't have to patronize me."
-msgstr ""
+msgstr "Nemusíte se na mě povyšovat."
 
 #: conversations/02_terra2/0231_bureau/0231_cv_guard_holte:24
 msgctxt "conversations/02_terra2/0231_bureau/0231_cv_guard_holte:24:DefaultText"
 msgid "No, actually."
-msgstr ""
+msgstr "Vlastně ne."
 
 #: conversations/02_terra2/0231_bureau/0231_cv_guard_holte:25
 msgctxt "conversations/02_terra2/0231_bureau/0231_cv_guard_holte:25:DefaultText"
 msgid "Huh. I never thought about any of this."
-msgstr ""
+msgstr "Huh. Nikdy jsem o tom nepřemýšlel."
 
 #: conversations/02_terra2/0231_bureau/0231_cv_guard_holte:26
 msgctxt "conversations/02_terra2/0231_bureau/0231_cv_guard_holte:26:DefaultText"
 msgid "What?!"
-msgstr ""
+msgstr "Cože?!"
 
 #: conversations/02_terra2/0231_bureau/0231_cv_guard_holte:27
 msgctxt "conversations/02_terra2/0231_bureau/0231_cv_guard_holte:27:DefaultText"
 msgid "Waste my time, and I'll bury you so deep in citations you'll die of paper cuts before you ever crawl out."
-msgstr ""
+msgstr "Ztrácejte můj čas a já vás pohřbím tak hluboko v citátech, že zemřete na pořezání papírem, než se vůbec vyškrábete ven."
 
 #: conversations/02_terra2/0231_bureau/0231_cv_guard_holte:28
 msgctxt "conversations/02_terra2/0231_bureau/0231_cv_guard_holte:28:DefaultText"
 msgid "Oh no. You must be from Chairman Rockwell's office. I'm so sorry - no one told me you were coming."
-msgstr ""
+msgstr "Ale ne. Vy musíte být z kanceláře předsedy Rockwella. Moc se omlouvám - nikdo mi neřekl, že přijdete."
 
 #: conversations/02_terra2/0231_bureau/0231_cv_guard_holte:29
 msgctxt "conversations/02_terra2/0231_bureau/0231_cv_guard_holte:29:DefaultText"
 msgid "People like me never repeat themselves."
-msgstr ""
+msgstr "Lidé jako já se nikdy neopakují."
 
 #: conversations/02_terra2/0231_bureau/0231_cv_guard_holte:30
 msgctxt "conversations/02_terra2/0231_bureau/0231_cv_guard_holte:30:DefaultText"
 msgid "What level clearance? You're just making up words."
-msgstr ""
+msgstr "Jaký stupeň prověření? Jen si vymýšlíte slova."
 
 #: conversations/02_terra2/0231_bureau/0231_cv_guard_holte:31
 msgctxt "conversations/02_terra2/0231_bureau/0231_cv_guard_holte:31:DefaultText"
 msgid "It's okay, I'm a doctor."
-msgstr ""
+msgstr "To je v pořádku, jsem doktor."
 
 #: conversations/02_terra2/0231_bureau/0231_cv_guard_holte:33
 msgctxt "conversations/02_terra2/0231_bureau/0231_cv_guard_holte:33:DefaultText"
 msgid "Basically, if you don't work here - or for Chairman Rockwell himself - you're not getting in."
-msgstr ""
+msgstr "V podstatě platí, že pokud nepracujete zde - nebo pro samotného předsedu Rockwella -, nedostanete se dovnitř."
 
 #: conversations/02_terra2/0231_bureau/0231_cv_guard_holte:34
 msgctxt "conversations/02_terra2/0231_bureau/0231_cv_guard_holte:34:DefaultText"
 msgid "I don't care if you're a brain surgeon. If you don't work here - or for Chairman Rockwell himself - you're not getting in."
-msgstr ""
+msgstr "Je mi jedno, jestli jste mozkový chirurg. Pokud nepracujete tady - nebo pro samotného předsedu Rockwella -, nedostanete se dovnitř."
 
 #: conversations/02_terra2/0231_bureau/0231_cv_guard_holte:35
 msgctxt "conversations/02_terra2/0231_bureau/0231_cv_guard_holte:35:DefaultText"
 msgid "Worth a try. You'd be surprised how often that works."
-msgstr ""
+msgstr "Stojí za vyzkoušení. Divili byste se, jak často to funguje."

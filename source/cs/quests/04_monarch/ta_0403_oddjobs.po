@@ -1,64 +1,64 @@
 #: quests/04_monarch/ta_0403_oddjobs:0
 msgctxt "quests/04_monarch/ta_0403_oddjobs:0:DefaultText"
 msgid "Odd Jobs"
-msgstr ""
+msgstr "Podivné práce"
 
 #: quests/04_monarch/ta_0403_oddjobs:1
 msgctxt "quests/04_monarch/ta_0403_oddjobs:1:DefaultText"
 msgid "Vent the Steam Flow"
-msgstr ""
+msgstr "Odvzdušnění proudu páry"
 
 #: quests/04_monarch/ta_0403_oddjobs:2
 msgctxt "quests/04_monarch/ta_0403_oddjobs:2:DefaultText"
 msgid "Reroute the Electrical Wiring"
-msgstr ""
+msgstr "Přesměrování elektrických rozvodů"
 
 #: quests/04_monarch/ta_0403_oddjobs:3
 msgctxt "quests/04_monarch/ta_0403_oddjobs:3:DefaultText"
 msgid "Restore the Guard House Communications"
-msgstr ""
+msgstr "Obnovení komunikace ve strážním domku"
 
 #: quests/04_monarch/ta_0403_oddjobs:4
 msgctxt "quests/04_monarch/ta_0403_oddjobs:4:DefaultText"
 msgid "Return to Bronson"
-msgstr ""
+msgstr "Návrat do Bronson"
 
 #: quests/04_monarch/ta_0403_oddjobs:10000
 msgctxt "quests/04_monarch/ta_0403_oddjobs:10000:DefaultText"
 msgid "You have been asked by the locals at Amber Heights to assist with some repair work throughout the area."
-msgstr ""
+msgstr "Místní obyvatelé Amber Heights vás požádali o pomoc s opravami v celé oblasti."
 
 #: quests/04_monarch/ta_0403_oddjobs:10001
 msgctxt "quests/04_monarch/ta_0403_oddjobs:10001:DefaultText"
 msgid "Steam pipes are about to burst atop Milton's house. Turn the pressure regulator on to safely vent them."
-msgstr ""
+msgstr "Na vrcholu Miltonova domu praskne parní potrubí. Zapněte regulátor tlaku, abyste je bezpečně odvzdušnili."
 
 #: quests/04_monarch/ta_0403_oddjobs:10002
 msgctxt "quests/04_monarch/ta_0403_oddjobs:10002:DefaultText"
 msgid "There is a dangerous electric current firing from some electronics on the side of the bar up the hill. Flip the switch to reroute the electricity."
-msgstr ""
+msgstr "Z nějaké elektroniky na straně baru nahoře na kopci teče nebezpečný elektrický proud. Přepněte vypínač a přesměrujte proud."
 
 #: quests/04_monarch/ta_0403_oddjobs:10003
 msgctxt "quests/04_monarch/ta_0403_oddjobs:10003:DefaultText"
 msgid "The guard house's communications network is on the fritz. Reset the breaker on the side of the structure."
-msgstr ""
+msgstr "Komunikační síť strážnice je v poruše. Přenastavte jistič na boku budovy."
 
 #: quests/04_monarch/ta_0403_oddjobs:10004
 msgctxt "quests/04_monarch/ta_0403_oddjobs:10004:DefaultText"
 msgid "Return to Bronson and let him know that you have taken care of his repair tasks."
-msgstr ""
+msgstr "Vraťte se k Bronsonovi a oznamte mu, že jste se postarali o jeho opravu."
 
 #: quests/04_monarch/ta_0403_oddjobs:30000
 msgctxt "quests/04_monarch/ta_0403_oddjobs:30000:DefaultText"
 msgid "All repairs have been completed."
-msgstr ""
+msgstr "Všechny opravy byly dokončeny."
 
 #: quests/04_monarch/ta_0403_oddjobs:30001
 msgctxt "quests/04_monarch/ta_0403_oddjobs:30001:DefaultText"
 msgid "Bronson has been killed."
-msgstr ""
+msgstr "Bronson byl zabit."
 
 #: quests/04_monarch/ta_0403_oddjobs:30002
 msgctxt "quests/04_monarch/ta_0403_oddjobs:30002:DefaultText"
 msgid "You have a hostile relationship with the Iconoclasts"
-msgstr ""
+msgstr "Máte nepřátelský vztah s Ikonoklasty."

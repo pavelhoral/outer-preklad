@@ -1,444 +1,444 @@
 #: conversations/00_emerald_vale/00_cv_player_ship_ai:1
 msgctxt "conversations/00_emerald_vale/00_cv_player_ship_ai:1:DefaultText"
 msgid "Hello, marauder. I am ADA - the Autonomous Digital Astrogator of this vessel."
-msgstr ""
+msgstr "Ahoj, nájezdníku. Jsem ADA - autonomní digitální astrogátor této lodi."
 
 #: conversations/00_emerald_vale/00_cv_player_ship_ai:2
 msgctxt "conversations/00_emerald_vale/00_cv_player_ship_ai:2:DefaultText"
 msgid "What can I do for you, Captain?"
-msgstr ""
+msgstr "Co pro vás mohu udělat, kapitáne?"
 
 #: conversations/00_emerald_vale/00_cv_player_ship_ai:3
 msgctxt "conversations/00_emerald_vale/00_cv_player_ship_ai:3:DefaultText"
 msgid "The main drive's power regulator has been irreparably damaged, and must be replaced."
-msgstr ""
+msgstr "Regulátor napájení hlavní jednotky je neopravitelně poškozen a musí být vyměněn."
 
 #: conversations/00_emerald_vale/00_cv_player_ship_ai:4
 msgctxt "conversations/00_emerald_vale/00_cv_player_ship_ai:4:DefaultText"
 msgid "The settlement of Edgewater is located nearby. I recommend speaking to the administrator of Edgewater, and requesting assistance."
-msgstr ""
+msgstr "Nedaleko se nachází osada Edgewater. Doporučuji promluvit se správcem Edgewateru a požádat ho o pomoc."
 
 #: conversations/00_emerald_vale/00_cv_player_ship_ai:7
 msgctxt "conversations/00_emerald_vale/00_cv_player_ship_ai:7:DefaultText"
 msgid "Anything else I should know?"
-msgstr ""
+msgstr "Ještě něco bych měl vědět?"
 
 #: conversations/00_emerald_vale/00_cv_player_ship_ai:12
 msgctxt "conversations/00_emerald_vale/00_cv_player_ship_ai:12:DefaultText"
 msgid "I have a power regulator."
-msgstr ""
+msgstr "Mám regulátor napájení."
 
 #: conversations/00_emerald_vale/00_cv_player_ship_ai:26
 msgctxt "conversations/00_emerald_vale/00_cv_player_ship_ai:26:DefaultText"
 msgid "Welcome back, Captain."
-msgstr ""
+msgstr "Vítejte zpět, kapitáne."
 
 #: conversations/00_emerald_vale/00_cv_player_ship_ai:27
 msgctxt "conversations/00_emerald_vale/00_cv_player_ship_ai:27:DefaultText"
 msgid "Ready to go?"
-msgstr ""
+msgstr "Jste připraveni vyrazit?"
 
 #: conversations/00_emerald_vale/00_cv_player_ship_ai:60
 msgctxt "conversations/00_emerald_vale/00_cv_player_ship_ai:60:DefaultText"
 msgid "I have questions for you."
-msgstr ""
+msgstr "Mám na vás otázky."
 
 #: conversations/00_emerald_vale/00_cv_player_ship_ai:70
 msgctxt "conversations/00_emerald_vale/00_cv_player_ship_ai:70:DefaultText"
 msgid "You have a message from Dr. Phineas Welles."
-msgstr ""
+msgstr "Máte zprávu od doktora Phinease Wellese."
 
 #: conversations/00_emerald_vale/00_cv_player_ship_ai:73
 msgctxt "conversations/00_emerald_vale/00_cv_player_ship_ai:73:DefaultText"
 msgid "Do you know how to install a power regulator?"
-msgstr ""
+msgstr "Víte, jak nainstalovat regulátor napájení?"
 
 #: conversations/00_emerald_vale/00_cv_player_ship_ai:75
 msgctxt "conversations/00_emerald_vale/00_cv_player_ship_ai:75:DefaultText"
 msgid "Yeah, I know what I'm doing."
-msgstr ""
+msgstr "Jo, vím, co dělám."
 
 #: conversations/00_emerald_vale/00_cv_player_ship_ai:76
 msgctxt "conversations/00_emerald_vale/00_cv_player_ship_ai:76:DefaultText"
 msgid "Not exactly my area of expertise."
-msgstr ""
+msgstr "To není zrovna můj obor."
 
 #: conversations/00_emerald_vale/00_cv_player_ship_ai:86
 msgctxt "conversations/00_emerald_vale/00_cv_player_ship_ai:86:DefaultText"
 msgid "Outstanding, Captain. Your aptitude for engineering will prove invaluable in the event of another catastrophic engine failure."
-msgstr ""
+msgstr "Vynikající, kapitáne. Vaše technické schopnosti se v případě dalšího katastrofického selhání motoru ukáží jako neocenitelné."
 
 #: conversations/00_emerald_vale/00_cv_player_ship_ai:93
 msgctxt "conversations/00_emerald_vale/00_cv_player_ship_ai:93:DefaultText"
 msgid "Installing the power regulator is a simple procedure. Nonetheless, I recommend recruiting a mechanic to your crew at your earliest convenience."
-msgstr ""
+msgstr "Instalace regulátoru napájení je jednoduchá. Přesto doporučuji, abyste do své posádky co nejdříve přibrali mechanika."
 
 #: conversations/00_emerald_vale/00_cv_player_ship_ai:105
 msgctxt "conversations/00_emerald_vale/00_cv_player_ship_ai:105:DefaultText"
 msgid "In the event of a catastrophic engine failure, the presence of a trained mechanic on board may prove useful when contesting your warranty."
-msgstr ""
+msgstr "V případě katastrofické poruchy motoru se může přítomnost vyškoleného mechanika na palubě hodit při uplatnění záruky."
 
 #: conversations/00_emerald_vale/00_cv_player_ship_ai:107
 msgctxt "conversations/00_emerald_vale/00_cv_player_ship_ai:107:DefaultText"
 msgid "I'll be back."
-msgstr ""
+msgstr "Vrátím se."
 
 #: conversations/00_emerald_vale/00_cv_player_ship_ai:108
 msgctxt "conversations/00_emerald_vale/00_cv_player_ship_ai:108:DefaultText"
 msgid "Where can I find a mechanic to help me out?"
-msgstr ""
+msgstr "Kde najdu mechanika, který mi pomůže?"
 
 #: conversations/00_emerald_vale/00_cv_player_ship_ai:109
 msgctxt "conversations/00_emerald_vale/00_cv_player_ship_ai:109:DefaultText"
 msgid "The settlement of Edgewater is located nearby this landing site. I recommend searching there."
-msgstr ""
+msgstr "Poblíž tohoto místa přistání se nachází osada Edgewater. Doporučuji tam pátrat."
 
 #: conversations/00_emerald_vale/00_cv_player_ship_ai:120
 msgctxt "conversations/00_emerald_vale/00_cv_player_ship_ai:120:DefaultText"
 msgid "What are you going to do? Self-destruct?"
-msgstr ""
+msgstr "Co budete dělat? Sebedestrukce?"
 
 #: conversations/00_emerald_vale/00_cv_player_ship_ai:121
 msgctxt "conversations/00_emerald_vale/00_cv_player_ship_ai:121:DefaultText"
 msgid "I don't appreciate being talked to that way."
-msgstr ""
+msgstr "Nelíbí se mi, když se mnou někdo takhle mluví."
 
 #: conversations/00_emerald_vale/00_cv_player_ship_ai:124
 msgctxt "conversations/00_emerald_vale/00_cv_player_ship_ai:124:DefaultText"
 msgid "Jettison procedures initiated. Disengaging airlocks. Preparing to eject all boarded parties in: Five. Four. Three. Two. One."
-msgstr ""
+msgstr "Zahájení procedury vyhození. Odpojení vzdušných zámků. Příprava na katapultáž všech nastoupených osob: Pět. Čtyři. Tři. Dva. Jedna."
 
 #: conversations/00_emerald_vale/00_cv_player_ship_ai:125
 msgctxt "conversations/00_emerald_vale/00_cv_player_ship_ai:125:DefaultText"
 msgid "I have been programmed to communicate with diplomacy and tact. Please allow me to demonstrate."
-msgstr ""
+msgstr "Byl jsem naprogramován, abych komunikoval diplomaticky a taktně. Dovolte mi, abych vám to předvedl."
 
 #: conversations/00_emerald_vale/00_cv_player_ship_ai:129
 msgctxt "conversations/00_emerald_vale/00_cv_player_ship_ai:129:DefaultText"
 msgid "I am programmed to take orders exclusively from Captain Hawthorne. If I accept your orders, then you must be Captain Hawthorne. Do you understand?"
-msgstr ""
+msgstr "Jsem naprogramován přijímat rozkazy výhradně od kapitána Hawthorna. Pokud přijímám vaše rozkazy, pak musíte být kapitán Hawthorne. Rozumíte?"
 
 #: conversations/00_emerald_vale/00_cv_player_ship_ai:141
 msgctxt "conversations/00_emerald_vale/00_cv_player_ship_ai:141:DefaultText"
 msgid "Unfortunately, our engine is currently inoperable. Our main drive suffered a critical power failure, and we were forced to make an emergency landing."
-msgstr ""
+msgstr "Náš motor je bohužel v současné době nefunkční. Náš hlavní pohon utrpěl kritický výpadek energie a my jsme byli nuceni nouzově přistát."
 
 #: conversations/00_emerald_vale/00_cv_player_ship_ai:157
 msgctxt "conversations/00_emerald_vale/00_cv_player_ship_ai:157:DefaultText"
 msgid "Please return any misappropriated equipment, and exit this vessel in an orderly fashion. Failure to do so will result in your immediate destruction."
-msgstr ""
+msgstr "Vraťte prosím veškeré zpronevěřené vybavení a spořádaně opusťte plavidlo. Pokud tak neučiníte, budete okamžitě zničeni."
 
 #: conversations/00_emerald_vale/00_cv_player_ship_ai:208
 msgctxt "conversations/00_emerald_vale/00_cv_player_ship_ai:208:DefaultText"
 msgid "Where am I supposed to find something like that?"
-msgstr ""
+msgstr "Kde mám něco takového najít?"
 
 #: conversations/00_emerald_vale/00_cv_player_ship_ai:210
 msgctxt "conversations/00_emerald_vale/00_cv_player_ship_ai:210:DefaultText"
 msgid "I found a power regulator already."
-msgstr ""
+msgstr "Už jsem našel regulátor napájení."
 
 #: conversations/00_emerald_vale/00_cv_player_ship_ai:213
 msgctxt "conversations/00_emerald_vale/00_cv_player_ship_ai:213:DefaultText"
 msgid "Well done, Captain. I must round up my original estimates of your competence."
-msgstr ""
+msgstr "Výborně, kapitáne. Musím zaokrouhlit své původní odhady vašich schopností."
 
 #: conversations/00_emerald_vale/00_cv_player_ship_ai:216
 msgctxt "conversations/00_emerald_vale/00_cv_player_ship_ai:216:DefaultText"
 msgid "Can you walk me through it?"
-msgstr ""
+msgstr "Můžete mě jím provést?"
 
 #: conversations/00_emerald_vale/00_cv_player_ship_ai:217
 msgctxt "conversations/00_emerald_vale/00_cv_player_ship_ai:217:DefaultText"
 msgid "Step one. Pick up your power regulator. Step two. Approach the terminal located in our engine room. Step three. Insert power regulator. Step four. Celebrate."
-msgstr ""
+msgstr "První krok. Vyzvedněte si regulátor napájení. Druhý krok. Přistupte ke svorkovnici umístěné v naší strojovně. Krok tři. Vložte regulátor napájení. Krok čtyři. Oslavte."
 
 #: conversations/00_emerald_vale/00_cv_player_ship_ai:219
 msgctxt "conversations/00_emerald_vale/00_cv_player_ship_ai:219:DefaultText"
 msgid "Please be informed that this vessel contains no valuable plunder."
-msgstr ""
+msgstr "Dovolujeme si vás informovat, že toto plavidlo neobsahuje žádnou cennou kořist."
 
 #: conversations/00_emerald_vale/00_cv_player_ship_ai:220
 msgctxt "conversations/00_emerald_vale/00_cv_player_ship_ai:220:DefaultText"
 msgid "Unauthorized access of spacefaring vessels is a crime. Please submit yourself to the authorities."
-msgstr ""
+msgstr "Neoprávněný přístup vesmírných plavidel je trestný čin. Předejte se prosím úřadům."
 
 #: conversations/00_emerald_vale/00_cv_player_ship_ai:225
 msgctxt "conversations/00_emerald_vale/00_cv_player_ship_ai:225:DefaultText"
 msgid "I'm not here to misappropriate anything."
-msgstr ""
+msgstr "Nejsem tu proto, abych si něco přivlastňoval."
 
 #: conversations/00_emerald_vale/00_cv_player_ship_ai:228
 msgctxt "conversations/00_emerald_vale/00_cv_player_ship_ai:228:DefaultText"
 msgid "I detect an elevated heart rate, indicating dishonesty. Please prepare yourself for lethal deterrence. "
-msgstr ""
+msgstr "Zaznamenávám zvýšenou srdeční frekvenci, což svědčí o nečestnosti. Připravte se prosím na smrtící odstrašení. "
 
 #: conversations/00_emerald_vale/00_cv_player_ship_ai:230
 msgctxt "conversations/00_emerald_vale/00_cv_player_ship_ai:230:DefaultText"
 msgid "You realize we're on the ground, right?"
-msgstr ""
+msgstr "Uvědomuješ si, že jsme na zemi?"
 
 #: conversations/00_emerald_vale/00_cv_player_ship_ai:231
 msgctxt "conversations/00_emerald_vale/00_cv_player_ship_ai:231:DefaultText"
 msgid "Great. I'm getting shot into space twice in one day."
-msgstr ""
+msgstr "Skvělé. Dvakrát za den mě vystřelí do vesmíru."
 
 #: conversations/00_emerald_vale/00_cv_player_ship_ai:232
 msgctxt "conversations/00_emerald_vale/00_cv_player_ship_ai:232:DefaultText"
 msgid "Is something supposed to be happening?"
-msgstr ""
+msgstr "Má se něco dít?"
 
 #: conversations/00_emerald_vale/00_cv_player_ship_ai:233
 msgctxt "conversations/00_emerald_vale/00_cv_player_ship_ai:233:DefaultText"
 msgid "You are still here. My deception protocols have failed. I have been programmed to express disappointment."
-msgstr ""
+msgstr "Jste stále tady. Mé podvodné protokoly selhaly. Byl jsem naprogramován, abych vyjádřil zklamání."
 
 #: conversations/00_emerald_vale/00_cv_player_ship_ai:234
 msgctxt "conversations/00_emerald_vale/00_cv_player_ship_ai:234:DefaultText"
 msgid "I need to get this ship in the air."
-msgstr ""
+msgstr "Musím tu loď dostat do vzduchu."
 
 #: conversations/00_emerald_vale/00_cv_player_ship_ai:235
 msgctxt "conversations/00_emerald_vale/00_cv_player_ship_ai:235:DefaultText"
 msgid "Is this Hawthorne's ship?"
-msgstr ""
+msgstr "Je to Hawthornova loď?"
 
 #: conversations/00_emerald_vale/00_cv_player_ship_ai:237
 msgctxt "conversations/00_emerald_vale/00_cv_player_ship_ai:237:DefaultText"
 msgid "This vessel is the registered property of Captain Alex Hawthorne."
-msgstr ""
+msgstr "Toto plavidlo je registrovaným majetkem kapitána Alexe Hawthorna."
 
 #: conversations/00_emerald_vale/00_cv_player_ship_ai:298
 msgctxt "conversations/00_emerald_vale/00_cv_player_ship_ai:298:DefaultText"
 msgid "I doubt I'll find a part like that just sitting in a garage."
-msgstr ""
+msgstr "Pochybuji, že takový díl najdu jen tak ležet v garáži."
 
 #: conversations/00_emerald_vale/00_cv_player_ship_ai:299
 msgctxt "conversations/00_emerald_vale/00_cv_player_ship_ai:299:DefaultText"
 msgid "Astutely observed. However, the probability of locating a power regulator within a worker settlement falls within acceptable parameters of certainty."
-msgstr ""
+msgstr "Bystrý postřeh. Pravděpodobnost umístění regulátoru elektrické energie v dělnické osadě však spadá do přijatelných parametrů jistoty."
 
 #: conversations/00_emerald_vale/00_cv_player_ship_ai:300
 msgctxt "conversations/00_emerald_vale/00_cv_player_ship_ai:300:DefaultText"
 msgid "I don't know what that is. Can you explain?"
-msgstr ""
+msgstr "Nevím, co to je. Můžete mi to vysvětlit?"
 
 #: conversations/00_emerald_vale/00_cv_player_ship_ai:301
 msgctxt "conversations/00_emerald_vale/00_cv_player_ship_ai:301:DefaultText"
 msgid "This ship requires a high-capacity power regulator in order to operate. The word \"operate\" signifies \"flying without the risk of catastrophic explosion.\""
-msgstr ""
+msgstr "Pro provoz této lodi je nutný výkonný regulátor napájení. Slovo \"provozovat\" znamená \"létat bez rizika katastrofického výbuchu\"."
 
 #: conversations/00_emerald_vale/00_cv_player_ship_ai:302
 msgctxt "conversations/00_emerald_vale/00_cv_player_ship_ai:302:DefaultText"
 msgid "High-capacity power regulators are sometimes employed in the electrical networks of worker settlements."
-msgstr ""
+msgstr "V elektrických sítích dělnických osad se někdy používají výkonové regulátory."
 
 #: conversations/00_emerald_vale/00_cv_player_ship_ai:303
 msgctxt "conversations/00_emerald_vale/00_cv_player_ship_ai:303:DefaultText"
 msgid "I've installed the power regulator."
-msgstr ""
+msgstr "Nainstaloval jsem regulátor napájení."
 
 #: conversations/00_emerald_vale/00_cv_player_ship_ai:304
 msgctxt "conversations/00_emerald_vale/00_cv_player_ship_ai:304:DefaultText"
 msgid "All systems are operating within acceptable parameters."
-msgstr ""
+msgstr "Všechny systémy fungují v rámci přijatelných parametrů."
 
 #: conversations/00_emerald_vale/00_cv_player_ship_ai:305
 msgctxt "conversations/00_emerald_vale/00_cv_player_ship_ai:305:DefaultText"
 msgid "Our engine room is located behind you. Across the cargo bay. Up the ladders. "
-msgstr ""
+msgstr "Naše strojovna se nachází za vámi. Naproti nákladovému prostoru. Po žebřících nahoru. "
 
 #: conversations/00_emerald_vale/00_cv_player_ship_ai:327
 msgctxt "conversations/00_emerald_vale/00_cv_player_ship_ai:327:DefaultText"
 msgid "Where did you say the engine room was?"
-msgstr ""
+msgstr "Kde jste říkal, že je strojovna?"
 
 #: conversations/00_emerald_vale/00_cv_player_ship_ai:328
 msgctxt "conversations/00_emerald_vale/00_cv_player_ship_ai:328:DefaultText"
 msgid "Never mind that. Can you help me install this regulator?"
-msgstr ""
+msgstr "Toho si nevšímejte. Můžete mi pomoci s instalací tohoto regulátoru?"
 
 #: conversations/00_emerald_vale/00_cv_player_ship_ai:351
 msgctxt "conversations/00_emerald_vale/00_cv_player_ship_ai:351:DefaultText"
 msgid "I am prepared to bring the Unreliable into low-altitude orbit. This should prove an adequate test of our flight capabilities."
-msgstr ""
+msgstr "Jsem připraven vynést Nespolehlivou na nízkou oběžnou dráhu. To by mělo být dostatečným testem našich letových schopností."
 
 #: conversations/00_emerald_vale/00_cv_player_ship_ai:352
 msgctxt "conversations/00_emerald_vale/00_cv_player_ship_ai:352:DefaultText"
 msgid "Let's get out of here."
-msgstr ""
+msgstr "Pojďme odsud pryč."
 
 #: conversations/00_emerald_vale/00_cv_player_ship_ai:353
 msgctxt "conversations/00_emerald_vale/00_cv_player_ship_ai:353:DefaultText"
 msgid "I am incapable of accepting orders from anyone other than Captain Alex Hawthorne."
-msgstr ""
+msgstr "Nejsem schopen přijímat rozkazy od nikoho jiného než od kapitána Alexe Hawthorna."
 
 #: conversations/00_emerald_vale/00_cv_player_ship_ai:354
 msgctxt "conversations/00_emerald_vale/00_cv_player_ship_ai:354:DefaultText"
 msgid "Hawthorne was supposed to meet me when I landed."
-msgstr ""
+msgstr "Hawthorne se se mnou měl setkat, až přistanu."
 
 #: conversations/00_emerald_vale/00_cv_player_ship_ai:356
 msgctxt "conversations/00_emerald_vale/00_cv_player_ship_ai:356:DefaultText"
 msgid "Your captain's a red smear under my escape pod."
-msgstr ""
+msgstr "Váš kapitán je červená šmouha pod mým únikovým modulem."
 
 #: conversations/00_emerald_vale/00_cv_player_ship_ai:358
 msgctxt "conversations/00_emerald_vale/00_cv_player_ship_ai:358:DefaultText"
 msgid "I understand. I will require some time to process this information. Thank you for your patience, and for your honesty."
-msgstr ""
+msgstr "Rozumím. Budu potřebovat nějaký čas na zpracování těchto informací. Děkuji vám za trpělivost a upřímnost."
 
 #: conversations/00_emerald_vale/00_cv_player_ship_ai:359
 msgctxt "conversations/00_emerald_vale/00_cv_player_ship_ai:359:DefaultText"
 msgid "I deduce from the tone of your voice that Captain Hawthorne failed to meet you at the designated location."
-msgstr ""
+msgstr "Z tónu vašeho hlasu usuzuji, že se s vámi kapitán Hawthorne nesetkal na určeném místě."
 
 #: conversations/00_emerald_vale/00_cv_player_ship_ai:361
 msgctxt "conversations/00_emerald_vale/00_cv_player_ship_ai:361:DefaultText"
 msgid "Hold on. I need to take care of something."
-msgstr ""
+msgstr "Počkejte. Musím se o něco postarat."
 
 #: conversations/00_emerald_vale/00_cv_player_ship_ai:362
 msgctxt "conversations/00_emerald_vale/00_cv_player_ship_ai:362:DefaultText"
 msgid "All systems are now operating within acceptable parameters. Shall I take our ship into orbit?"
-msgstr ""
+msgstr "Všechny systémy nyní fungují v rámci přijatelných parametrů. Mám vynést naši loď na oběžnou dráhu?"
 
 #: conversations/00_emerald_vale/00_cv_player_ship_ai:366
 msgctxt "conversations/00_emerald_vale/00_cv_player_ship_ai:366:DefaultText"
 msgid "Hawthorne's dead. I'm sorry."
-msgstr ""
+msgstr "Hawthorne je mrtvý. Je mi to líto."
 
 #: conversations/00_emerald_vale/00_cv_player_ship_ai:367
 msgctxt "conversations/00_emerald_vale/00_cv_player_ship_ai:367:DefaultText"
 msgid "Marauders killed him."
-msgstr ""
+msgstr "Nájezdníci ho zabili."
 
 #: conversations/00_emerald_vale/00_cv_player_ship_ai:368
 msgctxt "conversations/00_emerald_vale/00_cv_player_ship_ai:368:DefaultText"
 msgid "He met my escape pod all right. Head first."
-msgstr ""
+msgstr "V pořádku se setkal s mým únikovým modulem. Hlavou napřed."
 
 #: conversations/00_emerald_vale/00_cv_player_ship_ai:369
 msgctxt "conversations/00_emerald_vale/00_cv_player_ship_ai:369:DefaultText"
 msgid "I understand. I will require some time to process this information. Thank you for your patience, and for your honesty."
-msgstr ""
+msgstr "Rozumím. Budu potřebovat nějaký čas na zpracování těchto informací. Děkuji vám za trpělivost a upřímnost."
 
 #: conversations/00_emerald_vale/00_cv_player_ship_ai:370
 msgctxt "conversations/00_emerald_vale/00_cv_player_ship_ai:370:DefaultText"
 msgid "I get it. You need me to be Captain Hawthorne, or you can't fly."
-msgstr ""
+msgstr "Chápu to. Potřebuješ, abych byl kapitán Hawthorne, jinak nemůžeš létat."
 
 #: conversations/00_emerald_vale/00_cv_player_ship_ai:371
 msgctxt "conversations/00_emerald_vale/00_cv_player_ship_ai:371:DefaultText"
 msgid "Okay, but I'm not Hawthorne. Hawthorne is dead."
-msgstr ""
+msgstr "Dobře, ale já nejsem Hawthorne. Hawthorne je mrtvý."
 
 #: conversations/00_emerald_vale/00_cv_player_ship_ai:372
 msgctxt "conversations/00_emerald_vale/00_cv_player_ship_ai:372:DefaultText"
 msgid "<Nod and smile.>"
-msgstr ""
+msgstr "<Kývnutí a úsměv.>"
 
 #: conversations/00_emerald_vale/00_cv_player_ship_ai:373
 msgctxt "conversations/00_emerald_vale/00_cv_player_ship_ai:373:DefaultText"
 msgid "Well done, Captain Hawthorne. I see your powers of deductive reasoning remain intact. "
-msgstr ""
+msgstr "Výborně, kapitáne Hawthorne. Vidím, že vaše deduktivní schopnosti zůstaly nedotčeny. "
 
 #: conversations/00_emerald_vale/00_cv_player_ship_ai:374
 msgctxt "conversations/00_emerald_vale/00_cv_player_ship_ai:374:DefaultText"
 msgid "I understand. You are speaking metaphorically. "
-msgstr ""
+msgstr "Rozumím. Mluvíš metaforicky. "
 
 #: conversations/00_emerald_vale/00_cv_player_ship_ai:375
 msgctxt "conversations/00_emerald_vale/00_cv_player_ship_ai:375:DefaultText"
 msgid "Excellent. Welcome back, Captain Hawthorne."
-msgstr ""
+msgstr "Vynikající. Vítejte zpět, kapitáne Hawthorne."
 
 #: conversations/00_emerald_vale/00_cv_player_ship_ai:376
 msgctxt "conversations/00_emerald_vale/00_cv_player_ship_ai:376:DefaultText"
 msgid "Welcome back, Captain Hawthorne. I extend felicitations and congratulations on your life-changing experience."
-msgstr ""
+msgstr "Vítejte zpět, kapitáne Hawthorne. Srdečně vám blahopřeji k vaší životní zkušenosti."
 
 #: conversations/00_emerald_vale/00_cv_player_ship_ai:377
 msgctxt "conversations/00_emerald_vale/00_cv_player_ship_ai:377:DefaultText"
 msgid "Great. Let's get out of here."
-msgstr ""
+msgstr "Skvělé. Pojďme odsud."
 
 #: conversations/00_emerald_vale/00_cv_player_ship_ai:383
 msgctxt "conversations/00_emerald_vale/00_cv_player_ship_ai:383:DefaultText"
 msgid "You wandered outside this ship and experienced a permanent, life-changing encounter. The old you is dead."
-msgstr ""
+msgstr "Potulovali jste se mimo tuto loď a zažili jste trvalé setkání, které vám změnilo život. Staré já je mrtvé."
 
 #: conversations/00_emerald_vale/00_cv_player_ship_ai:384
 msgctxt "conversations/00_emerald_vale/00_cv_player_ship_ai:384:DefaultText"
 msgid "You don't understand. My name is <oeitoken>PlayerName</oeitoken>."
-msgstr ""
+msgstr "Nerozumíte tomu. Jmenuji se <oeitoken>Jméno hráče</oeitoken>."
 
 #: conversations/00_emerald_vale/00_cv_player_ship_ai:385
 msgctxt "conversations/00_emerald_vale/00_cv_player_ship_ai:385:DefaultText"
 msgid "I understand. You are going undercover with an alias. I will update my discretion protocol accordingly."
-msgstr ""
+msgstr "Rozumím. Půjdeš v utajení pod falešným jménem. Podle toho aktualizuji svůj diskrétní protokol."
 
 #: conversations/00_emerald_vale/00_cv_player_ship_ai:386
 msgctxt "conversations/00_emerald_vale/00_cv_player_ship_ai:386:DefaultText"
 msgid "Thanks. I guess."
-msgstr ""
+msgstr "Děkuji. Myslím, že."
 
 #: conversations/00_emerald_vale/00_cv_player_ship_ai:387
 msgctxt "conversations/00_emerald_vale/00_cv_player_ship_ai:387:DefaultText"
 msgid "You are welcome."
-msgstr ""
+msgstr "Není zač."
 
 #: conversations/00_emerald_vale/00_cv_player_ship_ai:391
 msgctxt "conversations/00_emerald_vale/00_cv_player_ship_ai:391:DefaultText"
 msgid "I have taken the liberty of printing you a new Captain's Identity Cartridge. Please try not to lose it this time."
-msgstr ""
+msgstr "Dovolil jsem si vám vytisknout novou kazetu s kapitánskou identitou. Tentokrát se ji prosím snažte neztratit."
 
 #: conversations/00_emerald_vale/00_cv_player_ship_ai:392
 msgctxt "conversations/00_emerald_vale/00_cv_player_ship_ai:392:DefaultText"
 msgid "I'll be back."
-msgstr ""
+msgstr "Vrátím se."
 
 #: conversations/00_emerald_vale/00_cv_player_ship_ai:393
 msgctxt "conversations/00_emerald_vale/00_cv_player_ship_ai:393:DefaultText"
 msgid "This cartridge identifies you - Alex Hawthorne - as the registered proprietor and captain of the Unreliable. Do you understand?"
-msgstr ""
+msgstr "Tato kazeta identifikuje vás - Alexe Hawthorna - jako registrovaného vlastníka a kapitána lodi Nespolehlivý. Rozumíte?"
 
 #: conversations/00_emerald_vale/00_cv_player_ship_ai:394
 msgctxt "conversations/00_emerald_vale/00_cv_player_ship_ai:394:DefaultText"
 msgid "Knock it off with this Captain Hawthorne nonsense."
-msgstr ""
+msgstr "Přestaňte s těmi nesmysly o kapitánu Hawthornovi."
 
 #: conversations/00_emerald_vale/00_cv_player_ship_ai:395
 msgctxt "conversations/00_emerald_vale/00_cv_player_ship_ai:395:DefaultText"
 msgid "Captain Hawthorne of the Unreliable. I like it!"
-msgstr ""
+msgstr "Kapitán Hawthorne z Nespolehlivých. To se mi líbí!"
 
 #: conversations/00_emerald_vale/00_cv_player_ship_ai:396
 msgctxt "conversations/00_emerald_vale/00_cv_player_ship_ai:396:DefaultText"
 msgid "Yeah, ADA. I got it. Thanks."
-msgstr ""
+msgstr "Ano, ADA. Mám to. Díky."
 
 #: conversations/00_emerald_vale/00_cv_player_ship_ai:398
 msgctxt "conversations/00_emerald_vale/00_cv_player_ship_ai:398:DefaultText"
 msgid "Thank you. I appreciate your cooperation."
-msgstr ""
+msgstr "Děkujeme. Vážím si vaší spolupráce."
 
 #: conversations/00_emerald_vale/00_cv_player_ship_ai:399
 msgctxt "conversations/00_emerald_vale/00_cv_player_ship_ai:399:DefaultText"
 msgid "Best of luck in your search for a power regulator. Try to stay alive this time."
-msgstr ""
+msgstr "Hodně štěstí při hledání regulátoru napájení. Tentokrát se snažte zůstat naživu."
 
 #: conversations/00_emerald_vale/00_cv_player_ship_ai:402
 msgctxt "conversations/00_emerald_vale/00_cv_player_ship_ai:402:DefaultText"
 msgid "It is difficult for me to do so. I am programmed to accept commands from Captain Alex Hawthorne, after all."
-msgstr ""
+msgstr "Je to pro mě obtížné. Koneckonců jsem naprogramován přijímat příkazy od kapitána Alexe Hawthorna."
 
 #: conversations/00_emerald_vale/00_cv_player_ship_ai:405
 msgctxt "conversations/00_emerald_vale/00_cv_player_ship_ai:405:DefaultText"
 msgid "Please be informed that I am authorized to use violent retribution against unwanted solicitors."
-msgstr ""
+msgstr "Dovolujeme si vás informovat, že jsem oprávněn použít násilnou odplatu proti nežádoucím obtěžovatelům."
 
 #: conversations/00_emerald_vale/00_cv_player_ship_ai:414
 msgctxt "conversations/00_emerald_vale/00_cv_player_ship_ai:414:DefaultText"
 msgid "Goodbye."
-msgstr ""
+msgstr "Sbohem."

@@ -10,27 +10,27 @@ msgid "Welcome to Rizzo's Point-of-Purchase operating system!\r\n"
 "Why not enjoy a Knock You Out bar?\r\n"
 "\r\n"
 "Main menu"
-msgstr ""
+msgstr "Vítejte v operačním systému Rizzo's Point-of-Purchase! ========================================== Zaměstnanec [McClure, Cecil] Jste na směně už [88 536] hodin. Zasloužíte si pětiminutovou přestávku. Proč si nedáte bar Knock You Out? Hlavní menu"
 
 #: conversations/04_monarch/0404/0404_cp_cascadia_rizzo_terminal:2
 msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_rizzo_terminal:2:DefaultText"
 msgid "[Begin Transaction]"
-msgstr ""
+msgstr "[Zahájit transakci]"
 
 #: conversations/04_monarch/0404/0404_cp_cascadia_rizzo_terminal:3
 msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_rizzo_terminal:3:DefaultText"
 msgid "[View Current Inventory]"
-msgstr ""
+msgstr "[Zobrazit aktuální stav zásob]"
 
 #: conversations/04_monarch/0404/0404_cp_cascadia_rizzo_terminal:4
 msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_rizzo_terminal:4:DefaultText"
 msgid "[Supervisor Override]"
-msgstr ""
+msgstr "[Supervisor Override]"
 
 #: conversations/04_monarch/0404/0404_cp_cascadia_rizzo_terminal:5
 msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_rizzo_terminal:5:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"
 
 #: conversations/04_monarch/0404/0404_cp_cascadia_rizzo_terminal:6
 msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_rizzo_terminal:6:DefaultText"
@@ -38,22 +38,22 @@ msgid "Welcome to Rizzo's Point-of-Purchase operating system!\r\n"
 "==========================================\r\n"
 "\r\n"
 "Password is required for this action:"
-msgstr ""
+msgstr "Vítejte v operačním systému Rizzo's Point-of-Purchase! ========================================== Pro tuto akci je vyžadováno heslo:"
 
 #: conversations/04_monarch/0404/0404_cp_cascadia_rizzo_terminal:7
 msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_rizzo_terminal:7:DefaultText"
 msgid "[Enter Password: ANTEDILUVIAN]"
-msgstr ""
+msgstr "[Zadejte heslo: ANTEDILUVIAN]"
 
 #: conversations/04_monarch/0404/0404_cp_cascadia_rizzo_terminal:9
 msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_rizzo_terminal:9:DefaultText"
 msgid "[Mash Keys]"
-msgstr ""
+msgstr "[Mash Keys]"
 
 #: conversations/04_monarch/0404/0404_cp_cascadia_rizzo_terminal:10
 msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_rizzo_terminal:10:DefaultText"
 msgid "[Return to Root]"
-msgstr ""
+msgstr "[Zpět na kořen]"
 
 #: conversations/04_monarch/0404/0404_cp_cascadia_rizzo_terminal:11
 msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_rizzo_terminal:11:DefaultText"
@@ -65,7 +65,7 @@ msgid "Override accepted. Welcome, doctor.\r\n"
 "Enabling Elevator...\r\n"
 "...\r\n"
 "Opening Secure Door..."
-msgstr ""
+msgstr "Přijetí přepisu. Vítejte, pane doktore. Aktivace záložních generátorů... ... ... Povolení výtahu... ... Otevření zabezpečených dveří..."
 
 #: conversations/04_monarch/0404/0404_cp_cascadia_rizzo_terminal:14
 msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_rizzo_terminal:14:DefaultText"
@@ -75,17 +75,17 @@ msgid "Welcome to Rizzo's Point-of-Purchase operating system!\r\n"
 "Password \"g[dh09gfiobslz\" not recognized.\r\n"
 "\r\n"
 "Please try again."
-msgstr ""
+msgstr "Vítejte v operačním systému Rizzo's Point-of-Purchase! ========================================== Heslo \"g[dh09gfiobslz\" nebylo rozpoznáno. Zkuste to prosím znovu."
 
 #: conversations/04_monarch/0404/0404_cp_cascadia_rizzo_terminal:15
 msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_rizzo_terminal:15:DefaultText"
 msgid "[Yes]"
-msgstr ""
+msgstr "[Ano]"
 
 #: conversations/04_monarch/0404/0404_cp_cascadia_rizzo_terminal:16
 msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_rizzo_terminal:16:DefaultText"
 msgid "[No]"
-msgstr ""
+msgstr "[Ne]"
 
 #: conversations/04_monarch/0404/0404_cp_cascadia_rizzo_terminal:17
 msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_rizzo_terminal:17:DefaultText"
@@ -95,7 +95,7 @@ msgid "Welcome to Rizzo's Point-of-Purchase operating system!\r\n"
 "Password \"2cqrc[ ga8f9g{A\" not recognized.\r\n"
 "\r\n"
 "Do you have the UPPERCASE LOCK key on?"
-msgstr ""
+msgstr "Vítejte v operačním systému Rizzo's Point-of-Purchase! ========================================== Heslo \"2cqrc[ ga8f9g{A\" nebylo rozpoznáno. Máte zapnutou klávesu UPPERCASE LOCK?"
 
 #: conversations/04_monarch/0404/0404_cp_cascadia_rizzo_terminal:18
 msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_rizzo_terminal:18:DefaultText"
@@ -105,7 +105,7 @@ msgid "Welcome to Rizzo's Point-of-Purchase operating system!\r\n"
 "Password \"w3fbc[#g'AGH\" not recognized.\r\n"
 "\r\n"
 "Would you like a hint?"
-msgstr ""
+msgstr "Vítejte v operačním systému Rizzo's Point-of-Purchase! ========================================== Heslo \"w3fbc[#g'AGH\" nebylo rozpoznáno. Chcete nápovědu?"
 
 #: conversations/04_monarch/0404/0404_cp_cascadia_rizzo_terminal:20
 msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_rizzo_terminal:20:DefaultText"
@@ -113,7 +113,7 @@ msgid "Welcome to Rizzo's Point-of-Purchase operating system!\r\n"
 "==========================================\r\n"
 "\r\n"
 "HINT: your password is NOT \"w3fbc[#g'AGH.\""
-msgstr ""
+msgstr "Vítejte v operačním systému Rizzo's Point-of-Purchase! ========================================== TIP: vaše heslo NENÍ \"w3fbc[#g'AGH.\""
 
 #: conversations/04_monarch/0404/0404_cp_cascadia_rizzo_terminal:21
 msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_rizzo_terminal:21:DefaultText"
@@ -123,17 +123,17 @@ msgid "Welcome to Rizzo's Point-of-Purchase operating system!\r\n"
 "Password \"80g4AQF8qgcFG-AVP\"not recognized.\r\n"
 "\r\n"
 "Would you like to reset your password?"
-msgstr ""
+msgstr "Vítejte v operačním systému Rizzo's Point-of-Purchase! ========================================== Heslo \"80g4AQF8qgcFG-AVP\" nebylo rozpoznáno. Chcete obnovit své heslo?"
 
 #: conversations/04_monarch/0404/0404_cp_cascadia_rizzo_terminal:22
 msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_rizzo_terminal:22:DefaultText"
 msgid "[Yes]"
-msgstr ""
+msgstr "[Ano]"
 
 #: conversations/04_monarch/0404/0404_cp_cascadia_rizzo_terminal:23
 msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_rizzo_terminal:23:DefaultText"
 msgid "[No]"
-msgstr ""
+msgstr "[Ne]"
 
 #: conversations/04_monarch/0404/0404_cp_cascadia_rizzo_terminal:24
 msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_rizzo_terminal:24:DefaultText"
@@ -143,7 +143,7 @@ msgid "Welcome to Rizzo's Point-of-Purchase operating system!\r\n"
 "In order to reset your password, you must enter your password.\r\n"
 "\r\n"
 "Please enter password."
-msgstr ""
+msgstr "Vítejte v operačním systému pro prodejní místa Rizzo! ========================================== Pro obnovení hesla musíte zadat své heslo. Zadejte prosím heslo."
 
 #: conversations/04_monarch/0404/0404_cp_cascadia_rizzo_terminal:25
 msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_rizzo_terminal:25:DefaultText"
@@ -166,7 +166,7 @@ msgid "Welcome to Rizzo's Point-of-Purchase operating system!\r\n"
 "Mock Apple Cider: 0 in stock\r\n"
 "Rum and Somethin': 0 in stock\r\n"
 "Spectrum Vodka: 0 in stock"
-msgstr ""
+msgstr "Vítejte v operačním systému Rizzo's Point-of-Purchase!========================================== Dark Matter Bar: 0 skladem Purpleberry Bunch: 0 skladem Purpleberry Crunch: 0 skladem Purpleberry Jelly: 0 skladem Purpleberry Lunch: 0 skladem Purpleberry Munch: 0 skladem R&B Tubes: 0 skladem Retro Rockets: Lemon Slapp: 0 skladem -------------------------------- Lemon Slapp: 0 skladem Nanner Spank: 0 skladem Purpleberry Punch: 0 skladem ------------------------------- Mock Apple Cider: 0 skladem Rum and Somethin': 0 skladem Spectrum Vodka: Spectrum Spectrum: 0 skladem"
 
 #: conversations/04_monarch/0404/0404_cp_cascadia_rizzo_terminal:26
 msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_rizzo_terminal:26:DefaultText"
@@ -176,22 +176,22 @@ msgid "Welcome to Rizzo's Point-of-Purchase operating system!\r\n"
 "Did you greet the customer by saying:\r\n"
 "\r\n"
 "\"Welcome to Rizzo's Sweet Shoppe. We've got your candy handy! How can I sweeten your day?\""
-msgstr ""
+msgstr "Vítejte v operačním systému Rizzo's Point-of-Purchase! ========================================== Přivítali jste zákazníka slovy: \"Vítejte v Rizzo's Sweet Shoppe. Máme pro vás připravené sladkosti! Jak vám mohu osladit den?\""
 
 #: conversations/04_monarch/0404/0404_cp_cascadia_rizzo_terminal:27
 msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_rizzo_terminal:27:DefaultText"
 msgid "[Yes]"
-msgstr ""
+msgstr "[Ano]"
 
 #: conversations/04_monarch/0404/0404_cp_cascadia_rizzo_terminal:28
 msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_rizzo_terminal:28:DefaultText"
 msgid "[No]"
-msgstr ""
+msgstr "[Ne]"
 
 #: conversations/04_monarch/0404/0404_cp_cascadia_rizzo_terminal:29
 msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_rizzo_terminal:29:DefaultText"
 msgid "[Cancel Transaction]"
-msgstr ""
+msgstr "[Zrušit transakci]"
 
 #: conversations/04_monarch/0404/0404_cp_cascadia_rizzo_terminal:30
 msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_rizzo_terminal:30:DefaultText"
@@ -205,7 +205,7 @@ msgid "Welcome to Rizzo's Point-of-Purchase operating system!\r\n"
 "Try saying:\r\n"
 "\r\n"
 "\"Thirsty, friend? Nothing beats a zesty Slapp!\""
-msgstr ""
+msgstr "Vítejte v operačním systému Rizzo's Point-of-Purchase! ========================================== Nabídli jste zákazníkovi Slapp? Prodej citronů Slapp klesá. Připomeňte zákazníkům, jak osvěžující je dobrý Slapp. Zkuste říct: \"Žízeň, příteli? Nic se nevyrovná pikantnímu Slappu!\"."
 
 #: conversations/04_monarch/0404/0404_cp_cascadia_rizzo_terminal:31
 msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_rizzo_terminal:31:DefaultText"
@@ -215,17 +215,17 @@ msgid "Welcome to Rizzo's Point-of-Purchase operating system!\r\n"
 "Please greet the customer using the approved Rizzo Sweet Shoppe greeting.\r\n"
 "\r\n"
 "Have you done so?"
-msgstr ""
+msgstr "Vítejte v operačním systému Rizzo's Point-of-Purchase! ========================================== Pozdravte prosím zákazníka schváleným pozdravem Rizzo Sweet Shoppe. Udělali jste to?"
 
 #: conversations/04_monarch/0404/0404_cp_cascadia_rizzo_terminal:32
 msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_rizzo_terminal:32:DefaultText"
 msgid "[Yes]"
-msgstr ""
+msgstr "[Ano]"
 
 #: conversations/04_monarch/0404/0404_cp_cascadia_rizzo_terminal:33
 msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_rizzo_terminal:33:DefaultText"
 msgid "[No]"
-msgstr ""
+msgstr "[Ne]"
 
 #: conversations/04_monarch/0404/0404_cp_cascadia_rizzo_terminal:34
 msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_rizzo_terminal:34:DefaultText"
@@ -237,7 +237,7 @@ msgid "Welcome to Rizzo's Point-of-Purchase operating system!\r\n"
 "Error retrieving current inventory.\r\n"
 "\r\n"
 "Transaction cancelled."
-msgstr ""
+msgstr "Vítejte v operačním systému Rizzo's Point-of-Purchase! ========================================== Načtení údajů o zásobách... Chyba při načítání aktuálních zásob. Transakce zrušena."
 
 #: conversations/04_monarch/0404/0404_cp_cascadia_rizzo_terminal:35
 msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_rizzo_terminal:35:DefaultText"
@@ -249,4 +249,4 @@ msgid "Welcome to Rizzo's Point-of-Purchase operating system!\r\n"
 "Records indicate that you have not recommended a product in [3689 days].\r\n"
 "\r\n"
 "Your file has been flagged for performance review."
-msgstr ""
+msgstr "Vítejte v operačním systému Rizzo's Point-of-Purchase! ========================================== Připomínka: Všichni zaměstnanci musí splnit svou týdenní kvótu doporučených produktů. Záznamy ukazují, že jste za [3689 dní] nedoporučili žádný produkt. Váš soubor byl označen k přezkoumání výkonnosti."

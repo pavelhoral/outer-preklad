@@ -1,329 +1,329 @@
 #: conversations/09_interstitial/0903_thehope/0903_cv_hopebot_interrogation:39
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cv_hopebot_interrogation:39:DefaultText"
 msgid "Error: Hope crew data not found. Identify yourself."
-msgstr ""
+msgstr "Chyba: Hope crew data not found. Identifikujte se."
 
 #: conversations/09_interstitial/0903_thehope/0903_cv_hopebot_interrogation:40
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cv_hopebot_interrogation:40:DefaultText"
 msgid "I was in one of the pods. I just woke up."
-msgstr ""
+msgstr "Byl jsem v jednom z modulů. Právě jsem se probudil."
 
 #: conversations/09_interstitial/0903_thehope/0903_cv_hopebot_interrogation:41
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cv_hopebot_interrogation:41:DefaultText"
 msgid "Error: Hibernation pod access is illegal. State your employer."
-msgstr ""
+msgstr "Chyba: Přístup k podům hibernace je nelegální. Uveďte svého zaměstnavatele."
 
 #: conversations/09_interstitial/0903_thehope/0903_cv_hopebot_interrogation:42
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cv_hopebot_interrogation:42:DefaultText"
 msgid "Spacer's Choice."
-msgstr ""
+msgstr "Volba rozdělovače."
 
 #: conversations/09_interstitial/0903_thehope/0903_cv_hopebot_interrogation:43
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cv_hopebot_interrogation:43:DefaultText"
 msgid "Registered. A fine of ten thousand bits will be assessed in your corporation's ledger for failure to follow proper hibernation pod procedures. Thank you for your cooperation."
-msgstr ""
+msgstr "Registrováno. Za nedodržení správných postupů při hibernaci bude v účetní knize vaší korporace vyměřena pokuta ve výši deseti tisíc bitů. Děkujeme vám za spolupráci."
 
 #: conversations/09_interstitial/0903_thehope/0903_cv_hopebot_interrogation:45
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cv_hopebot_interrogation:45:DefaultText"
 msgid "Auntie Cleo."
-msgstr ""
+msgstr "Teta Cleo."
 
 #: conversations/09_interstitial/0903_thehope/0903_cv_hopebot_interrogation:46
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cv_hopebot_interrogation:46:DefaultText"
 msgid "Rizzo."
-msgstr ""
+msgstr "Rizzo."
 
 #: conversations/09_interstitial/0903_thehope/0903_cv_hopebot_interrogation:47
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cv_hopebot_interrogation:47:DefaultText"
 msgid "UDL."
-msgstr ""
+msgstr "UDL."
 
 #: conversations/09_interstitial/0903_thehope/0903_cv_hopebot_interrogation:48
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cv_hopebot_interrogation:48:DefaultText"
 msgid "C&P."
-msgstr ""
+msgstr "C&P."
 
 #: conversations/09_interstitial/0903_thehope/0903_cv_hopebot_interrogation:49
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cv_hopebot_interrogation:49:DefaultText"
 msgid "If you're experiencing errors, I should take you to a mechanical engineer."
-msgstr ""
+msgstr "Pokud dochází k chybám, měl bych vás vzít ke strojnímu inženýrovi."
 
 #: conversations/09_interstitial/0903_thehope/0903_cv_hopebot_interrogation:50
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cv_hopebot_interrogation:50:DefaultText"
 msgid "Error: This unit is not experiencing errors."
-msgstr ""
+msgstr "Chyba: U této jednotky nedochází k chybám."
 
 #: conversations/09_interstitial/0903_thehope/0903_cv_hopebot_interrogation:51
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cv_hopebot_interrogation:51:DefaultText"
 msgid "You just said \"error\" twice."
-msgstr ""
+msgstr "Právě jste dvakrát řekl \"chyba\"."
 
 #: conversations/09_interstitial/0903_thehope/0903_cv_hopebot_interrogation:52
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cv_hopebot_interrogation:52:DefaultText"
 msgid "Error: This unit is functioning correctly. There is no need for the intervention of mechanical engineers. Thank you for your cooperation."
-msgstr ""
+msgstr "Chyba: Tato jednotka funguje správně. Není třeba zásahu mechaniků. Děkujeme vám za spolupráci."
 
 #: conversations/09_interstitial/0903_thehope/0903_cv_hopebot_interrogation:53
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cv_hopebot_interrogation:53:DefaultText"
 msgid "Yes, you are. You couldn't look me up."
-msgstr ""
+msgstr "Ano, jste. Nemohl jsi mě vyhledat."
 
 #: conversations/09_interstitial/0903_thehope/0903_cv_hopebot_interrogation:54
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cv_hopebot_interrogation:54:DefaultText"
 msgid "This statement is false."
-msgstr ""
+msgstr "Toto tvrzení je nepravdivé."
 
 #: conversations/09_interstitial/0903_thehope/0903_cv_hopebot_interrogation:55
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cv_hopebot_interrogation:55:DefaultText"
 msgid "Error: Paradox protection protocols have prevented me from registering your stated identification. Please report to your nearest mechanical engineer."
-msgstr ""
+msgstr "Chyba: Protokoly ochrany paradoxů mi zabránily zaregistrovat vaši uvedenou identifikaci. Nahlaste to prosím nejbližšímu mechanikovi."
 
 #: conversations/09_interstitial/0903_thehope/0903_cv_hopebot_interrogation:56
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cv_hopebot_interrogation:56:DefaultText"
 msgid "Everything I say is false."
-msgstr ""
+msgstr "Všechno, co říkám, je lež."
 
 #: conversations/09_interstitial/0903_thehope/0903_cv_hopebot_interrogation:57
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cv_hopebot_interrogation:57:DefaultText"
 msgid "Error: Paradox prevention has temporarily disabled this unit's auditory processing. Thank you for your cooperation."
-msgstr ""
+msgstr "Chyba: Chyba: Prevence paradoxů dočasně vyřadila tuto jednotku ze zvukového zpracování. Děkujeme vám za spolupráci."
 
 #: conversations/09_interstitial/0903_thehope/0903_cv_hopebot_interrogation:58
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cv_hopebot_interrogation:58:DefaultText"
 msgid "Will do. Thanks."
-msgstr ""
+msgstr "Udělám to. Děkuji."
 
 #: conversations/09_interstitial/0903_thehope/0903_cv_hopebot_interrogation:59
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cv_hopebot_interrogation:59:DefaultText"
 msgid "<Attack> Never!"
-msgstr ""
+msgstr "<Útok> Nikdy!"
 
 #: conversations/09_interstitial/0903_thehope/0903_cv_hopebot_interrogation:60
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cv_hopebot_interrogation:60:DefaultText"
 msgid "Alert: Intruder on the premises. Instituting correctional behavior protocols."
-msgstr ""
+msgstr "Upozornění: Vetřelec v objektu. Zavedení protokolů o nápravném chování."
 
 #: conversations/09_interstitial/0903_thehope/0903_cv_hopebot_interrogation:62
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cv_hopebot_interrogation:62:DefaultText"
 msgid "Records indicate you have already been identified as non-standard personnel. State your purpose."
-msgstr ""
+msgstr "Podle záznamů jste již byli identifikováni jako nestandardní zaměstnanci. Uveďte svůj účel."
 
 #: conversations/09_interstitial/0903_thehope/0903_cv_hopebot_interrogation:63
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cv_hopebot_interrogation:63:DefaultText"
 msgid "I've been looking for automechanicals to repair."
-msgstr ""
+msgstr "Hledal jsem automechaniky na opravu."
 
 #: conversations/09_interstitial/0903_thehope/0903_cv_hopebot_interrogation:64
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cv_hopebot_interrogation:64:DefaultText"
 msgid "This unit is in perfectly functional condition. There is no need for a service request here."
-msgstr ""
+msgstr "Tato jednotka je v dokonale funkčním stavu. Není zde potřeba žádat o servis."
 
 #: conversations/09_interstitial/0903_thehope/0903_cv_hopebot_interrogation:65
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cv_hopebot_interrogation:65:DefaultText"
 msgid "Glad to hear it. Carry on, then!"
-msgstr ""
+msgstr "To rád slyším. Tak pokračujte!"
 
 #: conversations/09_interstitial/0903_thehope/0903_cv_hopebot_interrogation:66
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cv_hopebot_interrogation:66:DefaultText"
 msgid "Affirmative. Thank you for your cooperation."
-msgstr ""
+msgstr "Kladně. Děkuji vám za spolupráci."
 
 #: conversations/09_interstitial/0903_thehope/0903_cv_hopebot_interrogation:67
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cv_hopebot_interrogation:67:DefaultText"
 msgid "Oh, I won't take long. You'll only be out of service for a week or so."
-msgstr ""
+msgstr "Nebude to trvat dlouho. Budeš mimo provoz jen asi týden."
 
 #: conversations/09_interstitial/0903_thehope/0903_cv_hopebot_interrogation:68
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cv_hopebot_interrogation:68:DefaultText"
 msgid "Alert: This unit must patrol elsewhere. Have a pleasant day."
-msgstr ""
+msgstr "Varování: Tato jednotka musí hlídkovat jinde. Přeji příjemný den."
 
 #: conversations/09_interstitial/0903_thehope/0903_cv_hopebot_interrogation:69
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cv_hopebot_interrogation:69:DefaultText"
 msgid "My purpose is to destroy automechanicals."
-msgstr ""
+msgstr "Mým cílem je zničit automechaniky."
 
 #: conversations/09_interstitial/0903_thehope/0903_cv_hopebot_interrogation:70
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cv_hopebot_interrogation:70:DefaultText"
 msgid "Error: \"Automechanical destruction\" is not a valid employment option. Please try again."
-msgstr ""
+msgstr "Chyba: \"Automechanická destrukce\" není platnou možností zaměstnání. Zkuste to prosím znovu."
 
 #: conversations/09_interstitial/0903_thehope/0903_cv_hopebot_interrogation:71
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cv_hopebot_interrogation:71:DefaultText"
 msgid "I don't think you understood. I'm going to destroy you if you keep me here."
-msgstr ""
+msgstr "Myslím, že jsi to nepochopil. Zničím tě, jestli mě tu budeš držet."
 
 #: conversations/09_interstitial/0903_thehope/0903_cv_hopebot_interrogation:72
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cv_hopebot_interrogation:72:DefaultText"
 msgid "Please wait while I process your inquiry."
-msgstr ""
+msgstr "Počkejte prosím, než váš dotaz zpracuji."
 
 #: conversations/09_interstitial/0903_thehope/0903_cv_hopebot_interrogation:73
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cv_hopebot_interrogation:73:DefaultText"
 msgid "...have a pleasant day!"
-msgstr ""
+msgstr "...příjemný den!"
 
 #: conversations/09_interstitial/0903_thehope/0903_cv_hopebot_interrogation:74
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cv_hopebot_interrogation:74:DefaultText"
 msgid "You heard me. It's a new job. Want to be my first task?"
-msgstr ""
+msgstr "Slyšeli jste mě. Je to nová práce. Chceš být mým prvním úkolem?"
 
 #: conversations/09_interstitial/0903_thehope/0903_cv_hopebot_interrogation:75
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cv_hopebot_interrogation:75:DefaultText"
 msgid "01110111 01101000 01101001 01101100 01100101 00101000 01110100 01110010 01110101 01100101 00101001"
-msgstr ""
+msgstr "01110111 01101000 01101001 01101100 01100101 00101000 01110100 01110010 01110101 01100101 00101001"
 
 #: conversations/09_interstitial/0903_thehope/0903_cv_hopebot_interrogation:76
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cv_hopebot_interrogation:76:DefaultText"
 msgid "Error: Binary detected. Binary has been deprecated since the invention of Auntie Cleo's patented Tripinary language."
-msgstr ""
+msgstr "Chyba: Detekována binární chyba. Od vynálezu patentovaného jazyka Tripinary tety Cleo je binární jazyk zastaralý."
 
 #: conversations/09_interstitial/0903_thehope/0903_cv_hopebot_interrogation:77
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cv_hopebot_interrogation:77:DefaultText"
 msgid "Tripinary: More bits for your bits!"
-msgstr ""
+msgstr "Tripinary: Více kousků pro vaše kousky!"
 
 #: conversations/09_interstitial/0903_thehope/0903_cv_hopebot_interrogation:78
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cv_hopebot_interrogation:78:DefaultText"
 msgid "Right, well, thanks for the update. I'll let my boss know."
-msgstr ""
+msgstr "Dobře, díky za aktualizaci. Dám to vědět šéfovi."
 
 #: conversations/09_interstitial/0903_thehope/0903_cv_hopebot_interrogation:79
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cv_hopebot_interrogation:79:DefaultText"
 msgid "We appreciate your cooperation. Have a pleasant day."
-msgstr ""
+msgstr "Vážíme si vaší spolupráce. Přeji příjemný den."
 
 #: conversations/09_interstitial/0903_thehope/0903_cv_hopebot_interrogation:80
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cv_hopebot_interrogation:80:DefaultText"
 msgid "Call me old-fashioned, I suppose."
-msgstr ""
+msgstr "Řekněme, že jsem staromódní."
 
 #: conversations/09_interstitial/0903_thehope/0903_cv_hopebot_interrogation:81
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cv_hopebot_interrogation:81:DefaultText"
 msgid "Error: This unit is incapable of making wireless calls. Have a pleasant day."
-msgstr ""
+msgstr "Chyba: Tento přístroj není schopen uskutečňovat bezdrátové hovory. Přeji příjemný den."
 
 #: conversations/09_interstitial/0903_thehope/0903_cv_hopebot_interrogation:82
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cv_hopebot_interrogation:82:DefaultText"
 msgid "<Attack> My purpose is to fight!"
-msgstr ""
+msgstr "<Útok> Mým cílem je bojovat!"
 
 #: conversations/09_interstitial/0903_thehope/0903_cv_hopebot_interrogation:83
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cv_hopebot_interrogation:83:DefaultText"
 msgid "Alert: According to area records, this is your third offense. Please prepare for termination."
-msgstr ""
+msgstr "Upozornění: Podle záznamů v oblasti se jedná o váš třetí přestupek. Připravte se na ukončení pracovního poměru."
 
 #: conversations/09_interstitial/0903_thehope/0903_cv_hopebot_interrogation:84
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cv_hopebot_interrogation:84:DefaultText"
 msgid "There must be some mistake. This is my first offense."
-msgstr ""
+msgstr "Musí jít o nějakou chybu. Toto je můj první přestupek."
 
 #: conversations/09_interstitial/0903_thehope/0903_cv_hopebot_interrogation:85
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cv_hopebot_interrogation:85:DefaultText"
 msgid "Error: This unit is 98.12% certain that you are lying, which is a felony."
-msgstr ""
+msgstr "Chyba: Tato jednotka si je na 98,12 % jistá, že lžete, což je trestný čin."
 
 #: conversations/09_interstitial/0903_thehope/0903_cv_hopebot_interrogation:86
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cv_hopebot_interrogation:86:DefaultText"
 msgid "And what's your certainty of charging me before I dismantle you?"
-msgstr ""
+msgstr "A jaká je vaše jistota, že mě obviníte, než vás zlikviduji?"
 
 #: conversations/09_interstitial/0903_thehope/0903_cv_hopebot_interrogation:87
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cv_hopebot_interrogation:87:DefaultText"
 msgid "That doesn't sound like 100% to me. What if I'm innocent?"
-msgstr ""
+msgstr "To mi nepřipadá stoprocentní. Co když jsem nevinný?"
 
 #: conversations/09_interstitial/0903_thehope/0903_cv_hopebot_interrogation:88
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cv_hopebot_interrogation:88:DefaultText"
 msgid "Processing."
-msgstr ""
+msgstr "Zpracování."
 
 #: conversations/09_interstitial/0903_thehope/0903_cv_hopebot_interrogation:89
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cv_hopebot_interrogation:89:DefaultText"
 msgid "Error: This unit has exceeded its maximum allowable error tolerance. Have a pleasant day."
-msgstr ""
+msgstr "Chyba: Tato jednotka překročila maximální přípustnou toleranci chyby. Přeji příjemný den."
 
 #: conversations/09_interstitial/0903_thehope/0903_cv_hopebot_interrogation:90
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cv_hopebot_interrogation:90:DefaultText"
 msgid "<Attack> This is a waste of time. I'm just going to dismantle you."
-msgstr ""
+msgstr "<Útok> Je to ztráta času. Prostě tě rozeberu."
 
 #: conversations/09_interstitial/0903_thehope/0903_cv_hopebot_interrogation:91
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cv_hopebot_interrogation:91:DefaultText"
 msgid "You're going to need some backup if you want to terminate me."
-msgstr ""
+msgstr "Jestli mě chceš vyhodit, budeš potřebovat nějakou posilu."
 
 #: conversations/09_interstitial/0903_thehope/0903_cv_hopebot_interrogation:92
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cv_hopebot_interrogation:92:DefaultText"
 msgid "Error: Subject's danger assessment may be inaccurate. This unit is having second thoughts."
-msgstr ""
+msgstr "Chyba: Vyhodnocení nebezpečnosti subjektu může být nepřesné. Tato jednotka si to rozmýšlí."
 
 #: conversations/09_interstitial/0903_thehope/0903_cv_hopebot_interrogation:93
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cv_hopebot_interrogation:93:DefaultText"
 msgid "I don't mind if you want to take a few minutes to reassess."
-msgstr ""
+msgstr "Nebude mi vadit, když si dáte pár minut na přehodnocení."
 
 #: conversations/09_interstitial/0903_thehope/0903_cv_hopebot_interrogation:94
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cv_hopebot_interrogation:94:DefaultText"
 msgid "Affirmative. This unit will re-run its danger assessment calculations. Please stand by."
-msgstr ""
+msgstr "Kladně. Tato jednotka znovu provede své výpočty hodnocení nebezpečí. Prosím, vyčkejte."
 
 #: conversations/09_interstitial/0903_thehope/0903_cv_hopebot_interrogation:95
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cv_hopebot_interrogation:95:DefaultText"
 msgid "You'd need at least thirty automechanicals if you want a chance."
-msgstr ""
+msgstr "Pokud chcete mít šanci, potřebujete alespoň třicet automechaniků."
 
 #: conversations/09_interstitial/0903_thehope/0903_cv_hopebot_interrogation:96
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cv_hopebot_interrogation:96:DefaultText"
 msgid "Error: This unit requires additional resources. Please stand by while the proper forces are gathered for your termination."
-msgstr ""
+msgstr "Chyba: Tato jednotka vyžaduje další zdroje. Vyčkejte, prosím, než budou shromážděny příslušné síly pro vaše ukončení."
 
 #: conversations/09_interstitial/0903_thehope/0903_cv_hopebot_interrogation:97
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cv_hopebot_interrogation:97:DefaultText"
 msgid "<Attack> So you'll be an easy fight? Let's do it."
-msgstr ""
+msgstr "<Útok> Takže s tebou bude snadný boj? Jdeme na to."
 
 #: conversations/09_interstitial/0903_thehope/0903_cv_hopebot_interrogation:98
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cv_hopebot_interrogation:98:DefaultText"
 msgid "After only three offenses? That's a bit harsh!"
-msgstr ""
+msgstr "Po pouhých třech přestupcích? To je trochu kruté!"
 
 #: conversations/09_interstitial/0903_thehope/0903_cv_hopebot_interrogation:99
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cv_hopebot_interrogation:99:DefaultText"
 msgid "Error: The penalties for crimes are immutable."
-msgstr ""
+msgstr "Chyba: Tresty za trestné činy jsou neměnné."
 
 #: conversations/09_interstitial/0903_thehope/0903_cv_hopebot_interrogation:100
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cv_hopebot_interrogation:100:DefaultText"
 msgid "I'll change them myself. With my weapon."
-msgstr ""
+msgstr "Vyměním je sám. Svou zbraní."
 
 #: conversations/09_interstitial/0903_thehope/0903_cv_hopebot_interrogation:101
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cv_hopebot_interrogation:101:DefaultText"
 msgid "Alert: This unit has detected a threat. Please return when proper backup has arrived."
-msgstr ""
+msgstr "Upozornění: Tato jednotka detekovala hrozbu. Vraťte se prosím, až dorazí řádná záloha."
 
 #: conversations/09_interstitial/0903_thehope/0903_cv_hopebot_interrogation:102
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cv_hopebot_interrogation:102:DefaultText"
 msgid "No, they aren't. It sounds like your logic is broken."
-msgstr ""
+msgstr "Ne, nejsou. Zdá se, že vaše logika je rozbitá."
 
 #: conversations/09_interstitial/0903_thehope/0903_cv_hopebot_interrogation:103
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cv_hopebot_interrogation:103:DefaultText"
 msgid "Error: This unit is incapable of self-diagnosis. Please return with a mechanical engineer to evaluate the validity of this unit's security protocols."
-msgstr ""
+msgstr "Chyba: Tato jednotka není schopna autodiagnostiky. Vraťte se prosím se strojním inženýrem, aby posoudil platnost bezpečnostních protokolů této jednotky."
 
 #: conversations/09_interstitial/0903_thehope/0903_cv_hopebot_interrogation:104
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cv_hopebot_interrogation:104:DefaultText"
 msgid "<Attack> I guess we're fighting, then."
-msgstr ""
+msgstr "<Útok> Tak to asi bojujeme."
 
 #: conversations/09_interstitial/0903_thehope/0903_cv_hopebot_interrogation:105
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cv_hopebot_interrogation:105:DefaultText"
 msgid "Alert: Subject has exceeded its maximum allowed crime tolerance. Termination will commence momentarily."
-msgstr ""
+msgstr "Upozornění: Subjekt překročil maximální povolenou toleranci zločinu. Ukončení bude zahájeno okamžitě."
 
 #: conversations/09_interstitial/0903_thehope/0903_cv_hopebot_interrogation:107
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cv_hopebot_interrogation:107:DefaultText"
 msgid "<Attack> I'll prepare YOU for termination!"
-msgstr ""
+msgstr "<Útok> Připravím tě na likvidaci!"

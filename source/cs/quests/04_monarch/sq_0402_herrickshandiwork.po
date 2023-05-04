@@ -1,109 +1,109 @@
 #: quests/04_monarch/sq_0402_herrickshandiwork:0
 msgctxt "quests/04_monarch/sq_0402_herrickshandiwork:0:DefaultText"
 msgid "Herrick's Handiwork"
-msgstr ""
+msgstr "Herrickova ruční práce"
 
 #: quests/04_monarch/sq_0402_herrickshandiwork:1
 msgctxt "quests/04_monarch/sq_0402_herrickshandiwork:1:DefaultText"
 msgid "Convince Caleb to Return to Work"
-msgstr ""
+msgstr "Přesvědčit Caleba, aby se vrátil do práce"
 
 #: quests/04_monarch/sq_0402_herrickshandiwork:2
 msgctxt "quests/04_monarch/sq_0402_herrickshandiwork:2:DefaultText"
 msgid "Convince Velma to Negotiate"
-msgstr ""
+msgstr "Přesvědčit Velmu, aby vyjednávala"
 
 #: quests/04_monarch/sq_0402_herrickshandiwork:3
 msgctxt "quests/04_monarch/sq_0402_herrickshandiwork:3:DefaultText"
 msgid "Inform Velma the Situation is Resolved"
-msgstr ""
+msgstr "Informujte Velmu, že situace je vyřešena"
 
 #: quests/04_monarch/sq_0402_herrickshandiwork:5
 msgctxt "quests/04_monarch/sq_0402_herrickshandiwork:5:DefaultText"
 msgid "Inform Caleb that Velma Will Negotiate"
-msgstr ""
+msgstr "Informovat Caleba, že Velma bude vyjednávat"
 
 #: quests/04_monarch/sq_0402_herrickshandiwork:10000
 msgctxt "quests/04_monarch/sq_0402_herrickshandiwork:10000:DefaultText"
 msgid "Caleb Herrick and the other auto loader operators are on strike until Velma gives them a raise."
-msgstr ""
+msgstr "Caleb Herrick a ostatní obsluha autonakladače stávkují, dokud jim Velma nezvýší plat."
 
 #: quests/04_monarch/sq_0402_herrickshandiwork:10001
 msgctxt "quests/04_monarch/sq_0402_herrickshandiwork:10001:DefaultText"
 msgid "Caleb Herrick hangs out at The Yacht Club in Stellar Bay."
-msgstr ""
+msgstr "Caleb Herrick tráví čas v Yacht Clubu ve Stellar Bay."
 
 #: quests/04_monarch/sq_0402_herrickshandiwork:10002
 msgctxt "quests/04_monarch/sq_0402_herrickshandiwork:10002:DefaultText"
 msgid "Velma Ballard manages the warehouse in Stellar Bay."
-msgstr ""
+msgstr "Velma Ballardová spravuje sklad ve Hvězdné zátoce."
 
 #: quests/04_monarch/sq_0402_herrickshandiwork:10003
 msgctxt "quests/04_monarch/sq_0402_herrickshandiwork:10003:DefaultText"
 msgid "You've ensured that Caleb and his crew will return to work. Let Velma know so you can get your reward."
-msgstr ""
+msgstr "Zajistili jste, že se Caleb a jeho posádka vrátí do práce. Dej Velmě vědět, abys mohl dostat svou odměnu."
 
 #: quests/04_monarch/sq_0402_herrickshandiwork:10005
 msgctxt "quests/04_monarch/sq_0402_herrickshandiwork:10005:DefaultText"
 msgid "You've convinced Velma to negotiate. Let Caleb know that he and his team can return to work."
-msgstr ""
+msgstr "Přesvědčil jsi Velmu, aby vyjednávala. Dejte Calebovi vědět, že se může se svým týmem vrátit do práce."
 
 #: quests/04_monarch/sq_0402_herrickshandiwork:20000
 msgctxt "quests/04_monarch/sq_0402_herrickshandiwork:20000:DefaultText"
 msgid "Caleb's living off a stash of bits he keeps at his home near the diner. If this stash were to go missing, he'd have to return to work."
-msgstr ""
+msgstr "Caleb žije ze zásob, které má doma poblíž bistra. Kdyby se tato skrýš ztratila, musel by se vrátit do práce."
 
 #: quests/04_monarch/sq_0402_herrickshandiwork:20001
 msgctxt "quests/04_monarch/sq_0402_herrickshandiwork:20001:DefaultText"
 msgid "You acquired Caleb's stash of bits from a chest on the balcony of his home."
-msgstr ""
+msgstr "Calebovu zásobu kousků jsi získal z truhly na balkoně jeho domu."
 
 #: quests/04_monarch/sq_0402_herrickshandiwork:20002
 msgctxt "quests/04_monarch/sq_0402_herrickshandiwork:20002:DefaultText"
 msgid "Caleb believes Velma has been skimming money out of the warehouse accounts. If you can find proof, he can use that as leverage to make Velma negotiate."
-msgstr ""
+msgstr "Caleb se domnívá, že Velma vybírá peníze z účtů ve skladišti. Pokud najdeš důkaz, může ho použít jako páku, aby Velmu přiměl k jednání."
 
 #: quests/04_monarch/sq_0402_herrickshandiwork:20003
 msgctxt "quests/04_monarch/sq_0402_herrickshandiwork:20003:DefaultText"
 msgid "When confronted about skimming money, Velma mentioned her office terminal."
-msgstr ""
+msgstr "Když byla Velma konfrontována s krádeží peněz, zmínila se o svém kancelářském terminálu."
 
 #: quests/04_monarch/sq_0402_herrickshandiwork:20004
 msgctxt "quests/04_monarch/sq_0402_herrickshandiwork:20004:DefaultText"
 msgid "You retrieved financial data from Velma's terminal showing that she's been siphoning money into her personal account."
-msgstr ""
+msgstr "Získali jste finanční údaje z Velmina terminálu, které ukazují, že si odčerpávala peníze na svůj osobní účet."
 
 #: quests/04_monarch/sq_0402_herrickshandiwork:30000
 msgctxt "quests/04_monarch/sq_0402_herrickshandiwork:30000:DefaultText"
 msgid "Velma Ballard is dead."
-msgstr ""
+msgstr "Velma Ballardová je mrtvá."
 
 #: quests/04_monarch/sq_0402_herrickshandiwork:30001
 msgctxt "quests/04_monarch/sq_0402_herrickshandiwork:30001:DefaultText"
 msgid "Caleb Herrick is dead."
-msgstr ""
+msgstr "Caleb Herrick je mrtvý."
 
 #: quests/04_monarch/sq_0402_herrickshandiwork:30002
 msgctxt "quests/04_monarch/sq_0402_herrickshandiwork:30002:DefaultText"
 msgid "You persuaded Caleb that it was in his best interest to return to work before Velma hired replacements."
-msgstr ""
+msgstr "Přesvědčil jsi Caleba, že je v jeho nejlepším zájmu vrátit se do práce dříve, než Velma najme náhradu."
 
 #: quests/04_monarch/sq_0402_herrickshandiwork:30003
 msgctxt "quests/04_monarch/sq_0402_herrickshandiwork:30003:DefaultText"
 msgid "You stole Caleb's stash from his home. Without a supply of bits to live on, he was forced to return to work without a raise."
-msgstr ""
+msgstr "Ukradl jsi Calebovu skrýš z jeho domu. Bez zásoby kousků k životu se musel vrátit do práce bez zvýšení platu."
 
 #: quests/04_monarch/sq_0402_herrickshandiwork:30004
 msgctxt "quests/04_monarch/sq_0402_herrickshandiwork:30004:DefaultText"
 msgid "You persuaded Velma to give Caleb and his workers a raise."
-msgstr ""
+msgstr "Přesvědčil jsi Velmu, aby Calebovi a jeho zaměstnancům přidala."
 
 #: quests/04_monarch/sq_0402_herrickshandiwork:30005
 msgctxt "quests/04_monarch/sq_0402_herrickshandiwork:30005:DefaultText"
 msgid "You discovered that Velma has been skimming profits from MSI and used that to extort her into raising salaries."
-msgstr ""
+msgstr "Zjistil jsi, že Velma odčerpávala zisky z MSI, a použil jsi to k tomu, abys ji vydíral, aby zvýšila platy."
 
 #: quests/04_monarch/sq_0402_herrickshandiwork:40001
 msgctxt "quests/04_monarch/sq_0402_herrickshandiwork:40001:DefaultText"
 msgid "Caleb and the auto loader operators are asking for a raise, but their boss, Velma Ballard, refuses to negotiate."
-msgstr ""
+msgstr "Caleb a obsluha autonakladače žádají o zvýšení platu, ale jejich šéfka Velma Ballardová odmítá vyjednávat."

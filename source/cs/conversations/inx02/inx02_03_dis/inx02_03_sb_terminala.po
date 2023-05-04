@@ -5,12 +5,12 @@ msgid "Rizzo's Distillation Plant\r\n"
 "Steam Distribution Control A\r\n"
 "\r\n"
 "Terminal Access"
-msgstr ""
+msgstr "Řízení distribuce páry v destilačním zařízení Rizzo's Distillation Plant A Terminal Access"
 
 #: conversations/inx02/inx02_03_dis/inx02_03_sb_terminala:2
 msgctxt "conversations/inx02/inx02_03_dis/inx02_03_sb_terminala:2:DefaultText"
 msgid "[Activate Machinery Cluster A.]"
-msgstr ""
+msgstr "[Aktivujte strojní zařízení Cluster A.]"
 
 #: conversations/inx02/inx02_03_dis/inx02_03_sb_terminala:3
 msgctxt "conversations/inx02/inx02_03_dis/inx02_03_sb_terminala:3:DefaultText"
@@ -21,23 +21,23 @@ msgid "Rizzo's Distillation Plant\r\n"
 "...\r\n"
 "...\r\n"
 "Machinery clusters activated."
-msgstr ""
+msgstr "Rizzo's Distillation Plant Executing... ... ... ... Machinery clusters activated."
 
 #: conversations/inx02/inx02_03_dis/inx02_03_sb_terminala:4
 msgctxt "conversations/inx02/inx02_03_dis/inx02_03_sb_terminala:4:DefaultText"
 msgid "Access Controls"
-msgstr ""
+msgstr "Řízení přístupu"
 
 #: conversations/inx02/inx02_03_dis/inx02_03_sb_terminala:7
 msgctxt "conversations/inx02/inx02_03_dis/inx02_03_sb_terminala:7:DefaultText"
 msgid "[Stub] Contact Administration\r\n"
 ""
-msgstr ""
+msgstr "[Stub] Kontaktní správa"
 
 #: conversations/inx02/inx02_03_dis/inx02_03_sb_terminala:8
 msgctxt "conversations/inx02/inx02_03_dis/inx02_03_sb_terminala:8:DefaultText"
 msgid "[Stub] Exit"
-msgstr ""
+msgstr "[Stub] Exit"
 
 #: conversations/inx02/inx02_03_dis/inx02_03_sb_terminala:10
 msgctxt "conversations/inx02/inx02_03_dis/inx02_03_sb_terminala:10:DefaultText"
@@ -46,11 +46,11 @@ msgid "[Stub] Rizzo's Distillation Plant\r\n"
 "Steam Distribution Control A\r\n"
 "\r\n"
 "Machinery Control Access"
-msgstr ""
+msgstr "[Stub] Rizzo's Distillation Plant Steam Distribution Control A Machinery Control Access"
 
 #: conversations/inx02/inx02_03_dis/inx02_03_sb_terminala:11
 msgctxt "conversations/inx02/inx02_03_dis/inx02_03_sb_terminala:11:DefaultText"
 msgid "[Stub] Patching in Operations Support\r\n"
 "\r\n"
 "...."
-msgstr ""
+msgstr "[Stub] Záplatování v operační podpoře ...."

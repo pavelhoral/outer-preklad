@@ -8,12 +8,12 @@ msgid "Emerald Vale Geothermal Plant\r\n"
 "Geothermal Security Office\r\n"
 "\r\n"
 "Personal Logs - S. Tanaka, Chief of Security"
-msgstr ""
+msgstr "Geotermální elektrárna Emerald Vale A Spacer's Choice Property ======================== Geotermální bezpečnostní kancelář Osobní deníky - S. Tanaka, šéf bezpečnosti"
 
 #: conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_security_office:2
 msgctxt "conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_security_office:2:DefaultText"
 msgid "[Access: Personal Log 079]"
-msgstr ""
+msgstr "[Přístup: Osobní deník 079]"
 
 #: conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_security_office:3
 msgctxt "conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_security_office:3:DefaultText"
@@ -29,12 +29,12 @@ msgid "Emerald Vale Geothermal Plant\r\n"
 "Chester Higgins again. That hullhead. Found him fiddling around with one of the mechanicals, so I had to write him up for tampering with company property. Just in case I'm reading this a couple days from now and feeling bad for what I've done, let me just remind myself that I've warned him before. He's always been a little crooked in the skull.\r\n"
 "\r\n"
 "He was working on some logic module. I confiscated it. Should be in my lockaway room for the foreseeable future."
-msgstr ""
+msgstr "Emerald Vale Geothermal Plant A Spacer's Choice Property ======================== Geothermal Security Office Personal Logs - S. Tanaka, Chief of Security Chester Higgins again. Ta hlava trupu. Našel jsem ho, jak si hraje s jednou mechanikou, takže jsem ho musel sepsat za manipulaci s majetkem společnosti. Pro případ, že bych to za pár dní četl a cítil se špatně kvůli tomu, co jsem udělal, připomínám, že jsem ho už varoval. Vždycky měl trochu křivou lebku, pracoval na nějakém logickém modulu. Zabavil jsem mu ho. V dohledné době by měl být v mé uzamykatelné místnosti."
 
 #: conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_security_office:4
 msgctxt "conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_security_office:4:DefaultText"
 msgid "[Access: Personal Log 087]"
-msgstr ""
+msgstr "[Přístup: Osobní deník 087]"
 
 #: conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_security_office:5
 msgctxt "conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_security_office:5:DefaultText"
@@ -51,12 +51,12 @@ msgid "Emerald Vale Geothermal Plant\r\n"
 "\r\n"
 "I don't know. Doesn't sit right with me. But the company's never been wrong before, I suppose.\r\n"
 ""
-msgstr ""
+msgstr "Geotermální elektrárna Emerald Vale A Spacer's Choice Property ======================== Geotermální bezpečnostní kancelář Osobní záznamy - S. Tanaka, šéf bezpečnosti To mi nesedí. Společnost nahrazuje naše strážce automechaniky. Tímhle tempem skončím jako šéf ochranky bez zaměstnanců. Jen malá armáda mechaniků, kteří se potloukají kolem a míří na všechny strany. Společnost nám tvrdí, že jsou v bezpečí. Naprogramované tak, aby se k nám lidem chovali jako k vlastním. Lidi se můžou porouchat, ale automechanik se nikdy neporouchá. Já nevím. Nesedí mi to. Ale společnost se ještě nikdy nemýlila, předpokládám."
 
 #: conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_security_office:6
 msgctxt "conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_security_office:6:DefaultText"
 msgid "[Access: Personal Log 098]"
-msgstr ""
+msgstr "[Přístup: Osobní deník 098]"
 
 #: conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_security_office:7
 msgctxt "conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_security_office:7:DefaultText"
@@ -72,12 +72,12 @@ msgid "Emerald Vale Geothermal Plant\r\n"
 "Worst has happened. Mechanicals gone crazy. Locked myself down here. Just trying to gather my courage. Gonna make a mad dash for the control room. Might be able to shut things down.\r\n"
 "\r\n"
 "Will delete this entry if I ever return."
-msgstr ""
+msgstr "Geotermální elektrárna Emerald Vale A Spacer's Choice Property ======================== Geothermal Security Office Personal Logs - S. Tanaka, šéf bezpečnosti Stalo se to nejhorší. Mechanici se zbláznili. Zamkl jsem se tady. Jen se snažím sebrat odvahu. Chystám se na zběsilý úprk do řídící místnosti. Možná se mi to podaří vypnout. Pokud se někdy vrátím, tento záznam smažu."
 
 #: conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_security_office:8
 msgctxt "conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_security_office:8:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"
 
 #: conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_security_office:9
 msgctxt "conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_security_office:9:DefaultText"
@@ -89,17 +89,17 @@ msgid "Emerald Vale Geothermal Plant\r\n"
 "Geothermal Security Office\r\n"
 "\r\n"
 "Terminal Access"
-msgstr ""
+msgstr "Geotermální elektrárna Emerald Vale A Spacer's Choice Property ======================== Geothermal Security Office Terminal Access"
 
 #: conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_security_office:10
 msgctxt "conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_security_office:10:DefaultText"
 msgid "[Personal Files]"
-msgstr ""
+msgstr "[Osobní soubory]"
 
 #: conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_security_office:11
 msgctxt "conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_security_office:11:DefaultText"
 msgid "[Unlock Door]"
-msgstr ""
+msgstr "[Odemknout dveře]"
 
 #: conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_security_office:12
 msgctxt "conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_security_office:12:DefaultText"
@@ -109,12 +109,12 @@ msgid "Emerald Vale Geothermal Plant\r\n"
 "========================\r\n"
 "\r\n"
 "WARNING! This facility is in a state of lockdown. Authorization passcode required."
-msgstr ""
+msgstr "Emerald Vale Geothermal Plant A Spacer's Choice Property ======================== POZOR! Toto zařízení je ve stavu uzamčení. Je vyžadován autorizační přístupový kód."
 
 #: conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_security_office:13
 msgctxt "conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_security_office:13:DefaultText"
 msgid "[Enter Passcode]"
-msgstr ""
+msgstr "[Zadejte přístupový kód]"
 
 #: conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_security_office:14
 msgctxt "conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_security_office:14:DefaultText"
@@ -129,17 +129,17 @@ msgid "Emerald Vale Geothermal Plant\r\n"
 "[ACCEPTED]\r\n"
 "...\r\n"
 "WELCOME, R. Tobson"
-msgstr ""
+msgstr "Emerald Vale Geothermal Plant A Spacer's Choice Property ======================== [PASSCODE]: VÍTEJTE, R. Tobson ... [ACCEPTED] ... Vítejte, R. Tobson"
 
 #: conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_security_office:15
 msgctxt "conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_security_office:15:DefaultText"
 msgid "[Return to Root]"
-msgstr ""
+msgstr "[Zpět na kořen]"
 
 #: conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_security_office:16
 msgctxt "conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_security_office:16:DefaultText"
 msgid "[Access: Automated Message 006]"
-msgstr ""
+msgstr "[Přístup: Automatická zpráva 006]"
 
 #: conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_security_office:17
 msgctxt "conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_security_office:17:DefaultText"
@@ -153,4 +153,4 @@ msgid "Emerald Vale Geothermal Plant\r\n"
 "Greetings, Security Chief S. TANAKA. This is an AUTOMATED MESSAGE initiated by SPACER'S CHOICE WORKER SAFETY CONTINGENCY PROTOCOLS. A security lockdown has been initiated. This is not a test. Your behavior during this lockdown will be reviewed during your quarterly audit.\r\n"
 "\r\n"
 "Anxiety is a common side-effect of life-threatening situations engendered by security lockdowns. Fight back against anxiety with an ice-cold bottle of Zero Gee Brew. Zero Gee Brew: An Ale That's Good For What Ails You. "
-msgstr ""
+msgstr "Geotermální elektrárna Emerald Vale A Spacer's Choice Property ======================== Geotermální bezpečnostní úřad Zdravím vás, šéfe bezpečnosti S. TANAKA. Toto je AUTOMATICKÁ ZPRÁVA iniciovaná společností SPACER'S CHOICE PROTOKOLY BEZPEČNOSTI PRACOVNÍKŮ. Byla zahájena bezpečnostní uzávěra. Nejedná se o test. Vaše chování během této výluky bude přezkoumáno během čtvrtletního auditu. Úzkost je běžným vedlejším účinkem život ohrožujících situací vyvolaných bezpečnostními výlukami. Braňte se úzkosti ledově vychlazenou lahví Zero Gee Brew. Zero Gee Brew: pivo, které je dobré na to, co vás trápí. "

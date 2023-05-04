@@ -5,32 +5,32 @@ msgid "C&P Factory Systems\n"
 "AUTHORIZED USER LOG IN SEQUENCE INTIATING...\n"
 "========================\n"
 "Greetings, authorized personnel. The King would like to remind you that terminal sessions are recorded with corresponding time stamps. Prolonged periods of use are liable to incur conduct infraction(s). If you would like to temporarily disable the recording system, please schedule a dinner appointment with the King after entering your password."
-msgstr ""
+msgstr "C&P Factory Systems ======================== PŘIHLÁŠENÍ AUTORIZOVANÉHO UŽIVATELE SEXUÁLNĚ VSTUPUJÍCÍ... ======================== Zdravím vás, autorizovaní pracovníci. Král by vám rád připomněl, že relace terminálu jsou zaznamenávány s příslušnými časovými razítky. Za delší dobu používání hrozí přestupek (přestupky) proti chování. Pokud chcete dočasně deaktivovat systém nahrávání, domluvte si po zadání hesla s králem schůzku u večeře."
 
 #: conversations/04_monarch/0411/0411_cp_office_worker_2:2
 msgctxt "conversations/04_monarch/0411/0411_cp_office_worker_2:2:DefaultText"
 msgid "[Messages]"
-msgstr ""
+msgstr "[Zprávy]"
 
 #: conversations/04_monarch/0411/0411_cp_office_worker_2:3
 msgctxt "conversations/04_monarch/0411/0411_cp_office_worker_2:3:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"
 
 #: conversations/04_monarch/0411/0411_cp_office_worker_2:5
 msgctxt "conversations/04_monarch/0411/0411_cp_office_worker_2:5:DefaultText"
 msgid "[FROM: A. Rose]"
-msgstr ""
+msgstr "[OD: A. Rose]"
 
 #: conversations/04_monarch/0411/0411_cp_office_worker_2:6
 msgctxt "conversations/04_monarch/0411/0411_cp_office_worker_2:6:DefaultText"
 msgid "[FROM: J. Blanchard]"
-msgstr ""
+msgstr "[OD: J. Blanchard]"
 
 #: conversations/04_monarch/0411/0411_cp_office_worker_2:7
 msgctxt "conversations/04_monarch/0411/0411_cp_office_worker_2:7:DefaultText"
 msgid "[Return to Root]"
-msgstr ""
+msgstr "[Zpět na kořen]"
 
 #: conversations/04_monarch/0411/0411_cp_office_worker_2:8
 msgctxt "conversations/04_monarch/0411/0411_cp_office_worker_2:8:DefaultText"
@@ -52,7 +52,9 @@ msgid "C&P Factory Systems\n"
 "\n"
 "The one you left behind,\n"
 "-A  "
-msgstr ""
+msgstr "C&P Factory Systems ========================= Záznamy zpráv OD: Rose TO: Patterson PŘEDMĚT: F: Co skončí, začne znovu. Továrna je opět online. Je to zvláštní pocit. Nejenže jsem si nikdy nemyslel, že se k takové práci snížím, ale ještě mi dali tvé místo na lince. \n"
+"\n"
+"Kéž bys mohl počkat. Jen na chvíli. Ale to je v pořádku... já a bratranec Isaac jsme v pohodě, to ano. Nikdy jsem nepotkal tak výstředního člověka, jako je nový majitel továrny Clive. Má hroznou povahu. Ale platí nám mzdy včas, takže mi to asi nevadí. Jen... když už se nevrátíš, mohl bys mi aspoň odpovědět na ty zatracené vzkazy, které posílám, připadám si jako blázen. Jako bych si vylévala srdce do nějakého hloupého deníku. Možná půjdu navštívit Isaaca. Pár dní jsem ho neviděla. Toho, kterého jsi tu nechala, -A.  "
 
 #: conversations/04_monarch/0411/0411_cp_office_worker_2:9
 msgctxt "conversations/04_monarch/0411/0411_cp_office_worker_2:9:DefaultText"
@@ -77,11 +79,15 @@ msgid "C&P Factory Systems\n"
 "\n"
 "Your loving brother,\n"
 "Janyn"
-msgstr ""
+msgstr "C&P Factory Systems ========================= Záznamy zpráv OD: Blanchard TO: Blanchardovi PŘEDMĚT: J: Potřebuji novou práci. I. Nemůžu. Fricking. Přijmout. To. žádnou. Longer!!!!!!! Vím, že peníze jsou dobré. Vím, že práce je stálá. Ale, Cor, ty si nedokážeš představit, jaké to je. Den co den. Vyrostl jsem s tím slizkým červem a teď mu říkám \"Král kanců z Monarchu\" jako opravdovému šlechtici. Jako ve starých mýtech. \n"
+"\n"
+"A pořád si pro sebe něco mumlá. Nebo křičí. Potřísněný chrupavkami nebo něčím horším. Ale já vím, co se stalo s těmi chlapíky, co dostali růžovou výpověď. Takhle neodejdou. Já ne. A už vůbec ne kvůli Jatkám Clivea.  \n"
+"\n"
+"Končím. Tvůj milující bratr Janyn."
 
 #: conversations/04_monarch/0411/0411_cp_office_worker_2:10
 msgctxt "conversations/04_monarch/0411/0411_cp_office_worker_2:10:DefaultText"
 msgid "C&P Factory Systems\r\n"
 "=========================\r\n"
 "Message Logs"
-msgstr ""
+msgstr "C&P Factory Systems ========================= Záznamy zpráv"

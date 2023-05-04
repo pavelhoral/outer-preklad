@@ -8,12 +8,12 @@ msgid "Edgewater Saltuna Cannery\r\n"
 "Terminal Access\r\n"
 "\r\n"
 "Welcome, Constable Reyes"
-msgstr ""
+msgstr "Konzervárna Edgewater Saltuna A Spacer's Choice Property ======================== Přístup k terminálu Vítejte, konstáble Reyesi."
 
 #: conversations/00_emerald_vale/00_cp_constable_01:2
 msgctxt "conversations/00_emerald_vale/00_cp_constable_01:2:DefaultText"
 msgid "[Bounty Records]"
-msgstr ""
+msgstr "[Bounty Records]"
 
 #: conversations/00_emerald_vale/00_cp_constable_01:3
 msgctxt "conversations/00_emerald_vale/00_cp_constable_01:3:DefaultText"
@@ -26,27 +26,27 @@ msgid "Edgewater Saltuna Cannery\r\n"
 "All bounties posted by the Edgewater Constabulary have been authorized by Spacer's Choice.\r\n"
 "\r\n"
 "View Bounties?"
-msgstr ""
+msgstr "Edgewater Saltuna Cannery A Spacer's Choice Property ======================== Všechny odměny vypsané Edgewater Constabulary byly autorizovány společností Spacer's Choice. Zobrazit odměny?"
 
 #: conversations/00_emerald_vale/00_cp_constable_01:4
 msgctxt "conversations/00_emerald_vale/00_cp_constable_01:4:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"
 
 #: conversations/00_emerald_vale/00_cp_constable_01:6
 msgctxt "conversations/00_emerald_vale/00_cp_constable_01:6:DefaultText"
 msgid "[Query: Guillaume Antrim]"
-msgstr ""
+msgstr "[Dotaz: Guillaume Antrim]"
 
 #: conversations/00_emerald_vale/00_cp_constable_01:7
 msgctxt "conversations/00_emerald_vale/00_cp_constable_01:7:DefaultText"
 msgid "[Query: Doc Maybell]"
-msgstr ""
+msgstr "[Dotaz: Doc Maybell]"
 
 #: conversations/00_emerald_vale/00_cp_constable_01:8
 msgctxt "conversations/00_emerald_vale/00_cp_constable_01:8:DefaultText"
 msgid "[Query: Bertie Cotton]"
-msgstr ""
+msgstr "[Dotaz: Bertie Cotton]"
 
 #: conversations/00_emerald_vale/00_cp_constable_01:9
 msgctxt "conversations/00_emerald_vale/00_cp_constable_01:9:DefaultText"
@@ -66,7 +66,7 @@ msgid "Edgewater Saltuna Cannery\r\n"
 "Some of you may remember Gill Antrim from his days in the cannery. Please be advised that Spacer's Choice no longer recognizes Mr. Antrim as a member of its valued family. Spacer's Choice advises its workers in good standing to remain in good standing by disabusing themselves of any sympathy, allegiance, or memory toward Mr. Antrim.\r\n"
 "\r\n"
 "Generous bounty. Payment on delivery. Must be able to sign your own name. See Constable Reyes for details."
-msgstr ""
+msgstr "Edgewater Saltuna Cannery A Spacer's Choice Property ======================== HLEDÁME: Guillaume \"Gill\" Antrim PŮVOD: Bývalý mechanik společnosti Spacer's Choice. Ukončil pracovní poměr. POKYN: Oddělení pro odchod do důchodu, ukončení pracovního poměru a restituce společnosti Spacer's Choice podalo exekuční příkaz na Guillauma \"Gilla\". Antrima s okamžitou platností. Někteří z vás si možná pamatují Gilla Antrima z dob jeho působení v konzervárně. Upozorňujeme, že společnost Spacer's Choice již pana Antrima neuznává jako člena své vážené rodiny. Společnost Spacer's Choice doporučuje svým zaměstnancům s dobrou pověstí, aby si zachovali dobrou pověst tím, že se zbaví jakýchkoli sympatií, věrnosti nebo vzpomínek na pana Antrima. Štědrá odměna. Platba na dobírku. Nutno umět se podepsat vlastním jménem. Podrobnosti získáte u konstábla Reyese."
 
 #: conversations/00_emerald_vale/00_cp_constable_01:10
 msgctxt "conversations/00_emerald_vale/00_cp_constable_01:10:DefaultText"
@@ -86,7 +86,7 @@ msgid "Edgewater Saltuna Cannery\r\n"
 "Doc Maybell is wanted for three counts of larceny: two for each parcel of stolen Adrena-Time, and one for depriving the outpost of its official physician.\r\n"
 "\r\n"
 "Generous bounty. Payment on delivery. Must be able to sign your own name. See Constable Reyes for details."
-msgstr ""
+msgstr "Edgewater Saltuna Cannery A Spacer's Choice Property ======================== HLEDÁME: \"Doc\" Maybell Burgess PŮVOD: Bývalý lékař Spacer's Choice. Opustila své povinnosti a zmizela z Edgewateru. Je na svobodě a je považována za nebezpečnou. PAMĚTNÍK: Oddělení pro odchod do důchodu, ukončení pracovního poměru a restituce společnosti Spacer's Choice podalo exekuční příkaz na \"doktorku\" Maybell Burgessovou, který nabývá okamžité platnosti.Doktor Maybell je hledán pro tři případy krádeže: dva za každý z ukradených balíků Adrena-Time a jeden za to, že připravil základnu o jejího oficiálního lékaře. Štědrá odměna. Platba na dobírku. Musí být schopen podepsat se vlastním jménem. Podrobnosti získáte u konstábla Reyese."
 
 #: conversations/00_emerald_vale/00_cp_constable_01:11
 msgctxt "conversations/00_emerald_vale/00_cp_constable_01:11:DefaultText"
@@ -106,17 +106,17 @@ msgid "Edgewater Saltuna Cannery\r\n"
 "Vicar Cotton's sermons are considered defunct and obsolete. Spacer's Choice advises purging them from your memory with the help of Zero Gee. Zero Gee Brew - An Ale That's Good For What Ails You.\r\n"
 "\r\n"
 "Generous bounty. Payment on delivery. Must be able to sign your own name. See Constable Reyes for details."
-msgstr ""
+msgstr "Edgewater Saltuna Cannery A Spacer's Choice Property ======================== HLEDÁ SE: Bertie Cotton PŮVOD: Bývalý vikář působící ve jménu Řádu vědeckého vyšetřování, umístěný na Edgewaterské faře. Utrpěl psychické zhroucení, když se u něj projevily příznaky moru. Na svobodě a nebezpečný. PAMĚŤ KONSTITUTORA: Oddělení Spacer's Choice pro penzionování, ukončení pracovního poměru a restituce podalo exekuční příkaz na Bertieho Cottona s okamžitou platností. Řád vědeckého vyšetřování odmítl odpovědět. Kázání faráře Cottona jsou považována za neaktuální a zastaralá. Spacer's Choice doporučuje vyčistit je z paměti pomocí Zero Gee. Zero Gee Brew - pivo, které je dobré na to, co tě trápí. štědrá odměna. Platba na dobírku. Musíte se umět podepsat vlastním jménem. Podrobnosti získáte u konstábla Reyese."
 
 #: conversations/00_emerald_vale/00_cp_constable_01:19
 msgctxt "conversations/00_emerald_vale/00_cp_constable_01:19:DefaultText"
 msgid "[Open Bounties]"
-msgstr ""
+msgstr "[Otevřené odměny]"
 
 #: conversations/00_emerald_vale/00_cp_constable_01:20
 msgctxt "conversations/00_emerald_vale/00_cp_constable_01:20:DefaultText"
 msgid "[Closed Bounties]"
-msgstr ""
+msgstr "[Uzavřené odměny]"
 
 #: conversations/00_emerald_vale/00_cp_constable_01:21
 msgctxt "conversations/00_emerald_vale/00_cp_constable_01:21:DefaultText"
@@ -127,7 +127,7 @@ msgid "Edgewater Saltuna Cannery\r\n"
 "\r\n"
 "Accessing Open Bounties\r\n"
 "..."
-msgstr ""
+msgstr "Edgewater Saltuna Cannery A Spacer's Choice Property ======================== Accessing Open Bounties ..."
 
 #: conversations/00_emerald_vale/00_cp_constable_01:22
 msgctxt "conversations/00_emerald_vale/00_cp_constable_01:22:DefaultText"
@@ -139,4 +139,4 @@ msgid "Edgewater Saltuna Cannery\r\n"
 "Accessing Closed Bounties\r\n"
 "...\r\n"
 ""
-msgstr ""
+msgstr "Edgewater Saltuna Cannery A Spacer's Choice Property ======================== Přístup k uzavřeným odměnám ..."

@@ -1,54 +1,54 @@
 #: quests/04_monarch/ta_0402_mrpickettsbiggestgame:0
 msgctxt "quests/04_monarch/ta_0402_mrpickettsbiggestgame:0:DefaultText"
 msgid "Mr. Pickett's Biggest Game"
-msgstr ""
+msgstr "Největší hra pana Picketta"
 
 #: quests/04_monarch/ta_0402_mrpickettsbiggestgame:4
 msgctxt "quests/04_monarch/ta_0402_mrpickettsbiggestgame:4:DefaultText"
 msgid "Look for Signs of Mr. Pickett"
-msgstr ""
+msgstr "Hledejte známky pana Picketta"
 
 #: quests/04_monarch/ta_0402_mrpickettsbiggestgame:6
 msgctxt "quests/04_monarch/ta_0402_mrpickettsbiggestgame:6:DefaultText"
 msgid "Give Mr. Pickett's Journal to Sebastian"
-msgstr ""
+msgstr "Dejte deník pana Picketta Sebastianovi."
 
 #: quests/04_monarch/ta_0402_mrpickettsbiggestgame:10000
 msgctxt "quests/04_monarch/ta_0402_mrpickettsbiggestgame:10000:DefaultText"
 msgid "Mr. Pickett went looking for a mantiqueen, and Sebastian hasn't seen him since. He's worried the man may be in trouble."
-msgstr ""
+msgstr "Pan Pickett se vydal hledat mantikáře a Sebastian ho od té doby neviděl. Obává se, že muž může mít potíže."
 
 #: quests/04_monarch/ta_0402_mrpickettsbiggestgame:10004
 msgctxt "quests/04_monarch/ta_0402_mrpickettsbiggestgame:10004:DefaultText"
 msgid "Sebastian sent Mr. Pickett to the wilderness southwest of Stellar Bay to find a mantiqueen. Search the area for signs of Mr. Pickett."
-msgstr ""
+msgstr "Sebastian poslal pana Picketta do divočiny jihozápadně od Hvězdné zátoky, aby našel mantikenu. Prohledejte oblast a hledejte stopy po panu Pickettovi."
 
 #: quests/04_monarch/ta_0402_mrpickettsbiggestgame:10006
 msgctxt "quests/04_monarch/ta_0402_mrpickettsbiggestgame:10006:DefaultText"
 msgid "Take the journal you found inside the mantiqueen to Sebastian in Stellar Bay. He'll want to know what became of the man."
-msgstr ""
+msgstr "Deník, který jsi našel v mantikéně, odnes Sebastianovi do Hvězdné zátoky. Bude chtít vědět, co se s ním stalo."
 
 #: quests/04_monarch/ta_0402_mrpickettsbiggestgame:20000
 msgctxt "quests/04_monarch/ta_0402_mrpickettsbiggestgame:20000:DefaultText"
 msgid "You killed a sickly mantiqueen. Searching her may yield some clue as to what - or who - wounded her."
-msgstr ""
+msgstr "Zabil jsi nemocného mantikána. Její prohledání by mohlo přinést nějaké vodítko k tomu, co nebo kdo ji zranil."
 
 #: quests/04_monarch/ta_0402_mrpickettsbiggestgame:20001
 msgctxt "quests/04_monarch/ta_0402_mrpickettsbiggestgame:20001:DefaultText"
 msgid "You found Mr. Pickett's journal inside the mantiqueen's stomach."
-msgstr ""
+msgstr "Deník pana Picketta jste našel v žaludku mantikáře."
 
 #: quests/04_monarch/ta_0402_mrpickettsbiggestgame:30000
 msgctxt "quests/04_monarch/ta_0402_mrpickettsbiggestgame:30000:DefaultText"
 msgid "Sebastian is dead. No one is left to care about Mr. Pickett's fate."
-msgstr ""
+msgstr "Sebastian je mrtvý. O osud pana Picketta se už nikdo nezajímá."
 
 #: quests/04_monarch/ta_0402_mrpickettsbiggestgame:30001
 msgctxt "quests/04_monarch/ta_0402_mrpickettsbiggestgame:30001:DefaultText"
 msgid "You gave Mr. Pickett's journal to Sebastian, who really wants to read it."
-msgstr ""
+msgstr "Deník pana Picketta jsi dal Sebastianovi, který si ho chce přečíst."
 
 #: quests/04_monarch/ta_0402_mrpickettsbiggestgame:30002
 msgctxt "quests/04_monarch/ta_0402_mrpickettsbiggestgame:30002:DefaultText"
 msgid "You gave Mr. Pickett's journal to Sebastian. You suggested he read it with Celia on their date."
-msgstr ""
+msgstr "Deník pana Picketta jste předal Sebastianovi. Navrhl jsi, aby si ho přečetl s Celií na jejich rande."

@@ -1,89 +1,89 @@
 #: conversations/00_emerald_vale/00_bs_reedparvati:2
 msgctxt "conversations/00_emerald_vale/00_bs_reedparvati:2:DefaultText"
 msgid "Ms. Holcomb, I need you to explain this with less of the- the grease-monkey argot."
-msgstr ""
+msgstr "Paní Holcombová, potřebuji, abyste mi to vysvětlila méně mazaným argotem."
 
 #: conversations/00_emerald_vale/00_bs_reedparvati:3
 msgctxt "conversations/00_emerald_vale/00_bs_reedparvati:3:DefaultText"
 msgid "Let's start over. Walk me through the process. Show me where it's going awry."
-msgstr ""
+msgstr "Začněme znovu. Proveďte mě celým procesem. Ukažte mi, kde se to nedaří."
 
 #: conversations/00_emerald_vale/00_bs_reedparvati:4
 msgctxt "conversations/00_emerald_vale/00_bs_reedparvati:4:DefaultText"
 msgid "This doesn't seem like it should be a problem. I put food in my oven - any food - it cooks."
-msgstr ""
+msgstr "Nezdá se, že by to měl být problém. Když dám do trouby jídlo - jakékoliv jídlo - tak se upeče."
 
 #: conversations/00_emerald_vale/00_bs_reedparvati:5
 msgctxt "conversations/00_emerald_vale/00_bs_reedparvati:5:DefaultText"
 msgid "The food swells during cooking, bursting the cans. So change the time. Or the temperature."
-msgstr ""
+msgstr "Potraviny během vaření nabobtnají a plechovky prasknou. Změňte proto čas. Nebo teplotu."
 
 #: conversations/00_emerald_vale/00_bs_reedparvati:6
 msgctxt "conversations/00_emerald_vale/00_bs_reedparvati:6:DefaultText"
 msgid "I'm sorry, Mister Tobson, sir. You asked why it's taking so long to fix. The answer's technical."
-msgstr ""
+msgstr "Je mi líto, pane Tobsone. Ptal jste se, proč oprava trvá tak dlouho. Odpověď je technická."
 
 #: conversations/00_emerald_vale/00_bs_reedparvati:7
 msgctxt "conversations/00_emerald_vale/00_bs_reedparvati:7:DefaultText"
 msgid "Well, sure. It's mostly on account of what we're feeding into the mechanism."
-msgstr ""
+msgstr "No, jistě. Je to hlavně kvůli tomu, co do mechanismu vkládáme."
 
 #: conversations/00_emerald_vale/00_bs_reedparvati:8
 msgctxt "conversations/00_emerald_vale/00_bs_reedparvati:8:DefaultText"
 msgid "Yeah, but Bess- I mean, the cannery cooks in sealed cans. Exact time, exact temperature."
-msgstr ""
+msgstr "Jo, ale Bess... Myslím tím, že konzervárna vaří v uzavřených plechovkách. Přesný čas, přesná teplota."
 
 #: conversations/00_emerald_vale/00_bs_reedparvati:9
 msgctxt "conversations/00_emerald_vale/00_bs_reedparvati:9:DefaultText"
 msgid "There's no controls for that. I'd have to dig into her guts, rig all manner of bypasses."
-msgstr ""
+msgstr "Neexistují žádné ovládací prvky. Musel bych se jí prohrabat vnitřnostmi a vymyslet nejrůznější obchvaty."
 
 #: conversations/00_emerald_vale/00_bs_reedparvati:11
 msgctxt "conversations/00_emerald_vale/00_bs_reedparvati:11:DefaultText"
 msgid "I don't believe there's any need to continue our previous discussion."
-msgstr ""
+msgstr "Myslím, že není třeba pokračovat v naší předchozí diskusi."
 
 #: conversations/00_emerald_vale/00_bs_reedparvati:12
 msgctxt "conversations/00_emerald_vale/00_bs_reedparvati:12:DefaultText"
 msgid "You should return to your father's workshop, Ms. Holcomb."
-msgstr ""
+msgstr "Měla byste se vrátit do dílny svého otce, slečno Holcombová."
 
 #: conversations/00_emerald_vale/00_bs_reedparvati:13
 msgctxt "conversations/00_emerald_vale/00_bs_reedparvati:13:DefaultText"
 msgid "I reckon not. I'll get back to work on that busted loader."
-msgstr ""
+msgstr "Myslím, že ne. Vrátím se k práci na tom rozbitém nakladači."
 
 #: conversations/00_emerald_vale/00_bs_reedparvati:14
 msgctxt "conversations/00_emerald_vale/00_bs_reedparvati:14:DefaultText"
 msgid "It's my- Yes, Mister Tobson."
-msgstr ""
+msgstr "Ano, pane Tobsone."
 
 #: conversations/00_emerald_vale/00_bs_reedparvati:15
 msgctxt "conversations/00_emerald_vale/00_bs_reedparvati:15:DefaultText"
 msgid "It puts food in cans. We have food. We have cans. Why won't it work like we need?"
-msgstr ""
+msgstr "Dává potraviny do konzerv. Máme jídlo. Máme konzervy. Proč to nefunguje, jak potřebujeme?"
 
 #: conversations/00_emerald_vale/00_bs_reedparvati:16
 msgctxt "conversations/00_emerald_vale/00_bs_reedparvati:16:DefaultText"
 msgid "She's expecting saltuna of a certain size. We're filling the cans with - well, not-fish."
-msgstr ""
+msgstr "Očekává saltuna určité velikosti. Plníme konzervy - no, ne-rybami."
 
 #: conversations/00_emerald_vale/00_bs_reedparvati:17
 msgctxt "conversations/00_emerald_vale/00_bs_reedparvati:17:DefaultText"
 msgid "Don't apologize. Just- try using small words for me."
-msgstr ""
+msgstr "Neomlouvejte se. Zkus pro mě používat malá slova."
 
 #: conversations/00_emerald_vale/00_bs_reedparvati:18
 msgctxt "conversations/00_emerald_vale/00_bs_reedparvati:18:DefaultText"
 msgid "Um. The cans bust open in the oven, because she's set to cook saltuna. Which isn't what we've got."
-msgstr ""
+msgstr "Hm. Konzervy se v troubě otevřou, protože je nastavená na pečení salátu. Což není to, co máme."
 
 #: conversations/00_emerald_vale/00_bs_reedparvati:19
 msgctxt "conversations/00_emerald_vale/00_bs_reedparvati:19:DefaultText"
 msgid "Mister Tobson? I think there's someone here to see you."
-msgstr ""
+msgstr "Pan Tobson? Myslím, že je tu někdo, kdo vás chce vidět."
 
 #: conversations/00_emerald_vale/00_bs_reedparvati:20
 msgctxt "conversations/00_emerald_vale/00_bs_reedparvati:20:DefaultText"
 msgid "Focus, Ms. Holcomb. You and I are still talking."
-msgstr ""
+msgstr "Soustřeďte se, paní Holcombová. My dva spolu stále mluvíme."

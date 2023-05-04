@@ -11,40 +11,40 @@ msgid "LBR-NTH Forced Pacification System\r\n"
 "3. Proper utilization of the FPS will not confer punitive action on its user, even in the event of injuries.\r\n"
 "\r\n"
 "4. As this system utilizes a powerful steam-based delivery mechanism, please alert your nearest mechanical engineer that the system's valves will need replacing after every use."
-msgstr ""
+msgstr "Systém nucené pacifikace LBR-NTH ============================ Používáním patentovaného systému nucené pacifikace UDL souhlasíte s následujícími podmínkami: 1. Společnost UDL neodpovídá za škody způsobené tímto systémem FPS jakémukoli personálu ani nepersonálním lidským zdrojům. 2. V případě, že je tento systém FPS používán, je společnost UDL povinna jej používat. Tento FPS lze používat pouze v nouzových situacích. 3. UDL je oprávněn používat tento FPS pouze v nouzových situacích. Správné použití FPS nezakládá trestní postih jejího uživatele, a to ani v případě zranění. 4. UDL je oprávněna používat FPS pouze v případě, že dojde k úrazu. Jelikož tento systém využívá výkonný výdejní mechanismus na bázi páry, upozorněte nejbližšího strojníka, že ventily systému bude nutné po každém použití vyměnit."
 
 #: conversations/07_tartarus/0701/0701_cp_gasventilationterminal:2
 msgctxt "conversations/07_tartarus/0701/0701_cp_gasventilationterminal:2:DefaultText"
 msgid "[Deliver Pacification Gas]"
-msgstr ""
+msgstr "[Dodávka pacifikačního plynu]"
 
 #: conversations/07_tartarus/0701/0701_cp_gasventilationterminal:3
 msgctxt "conversations/07_tartarus/0701/0701_cp_gasventilationterminal:3:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"
 
 #: conversations/07_tartarus/0701/0701_cp_gasventilationterminal:4
 msgctxt "conversations/07_tartarus/0701/0701_cp_gasventilationterminal:4:DefaultText"
 msgid "LBR-NTH Forced Pacification System\r\n"
 "============================\r\n"
 "UDL's patented Safety-Conscious Pacification Gas is now being deployed. Authorized UDL employees would be wise to avoid the areas now being flooded with neurotoxins until the deployment is complete."
-msgstr ""
+msgstr "Systém nucené pacifikace LBR-NTH ============================ V současné době je nasazován patentovaný bezpečnostní pacifikační plyn společnosti UDL. Autorizovaní zaměstnanci společnosti UDL by se měli vyhýbat oblastem, které jsou nyní zaplaveny neurotoxiny, dokud nebude nasazení dokončeno."
 
 #: conversations/07_tartarus/0701/0701_cp_gasventilationterminal:5
 msgctxt "conversations/07_tartarus/0701/0701_cp_gasventilationterminal:5:DefaultText"
 msgid "LBR-NTH Forced Pacification System\r\n"
 "============================\r\n"
 "Error: Pacification deployment requires an authorization password."
-msgstr ""
+msgstr "Systém nucené pacifikace LBR-NTH ============================ Chyba: Pacifikační nasazení vyžaduje autorizační heslo."
 
 #: conversations/07_tartarus/0701/0701_cp_gasventilationterminal:7
 msgctxt "conversations/07_tartarus/0701/0701_cp_gasventilationterminal:7:DefaultText"
 msgid "[Continue]"
-msgstr ""
+msgstr "[Pokračovat]"
 
 #: conversations/07_tartarus/0701/0701_cp_gasventilationterminal:10
 msgctxt "conversations/07_tartarus/0701/0701_cp_gasventilationterminal:10:DefaultText"
 msgid "LBR-NTH Forced Pacification System\r\n"
 "============================\r\n"
 "Error: The FPS has already been deployed. Please reload its delivery mechanism with UDL's patented Safety-Conscious Pacification Gas."
-msgstr ""
+msgstr "Systém nucené pacifikace LBR-NTH ============================ Chyba: FPS již byl nasazen. Prosím, znovu načtěte jeho dodávací mechanismus s patentovaným plynem pro pacifikaci s ohledem na bezpečnost společnosti UDL."

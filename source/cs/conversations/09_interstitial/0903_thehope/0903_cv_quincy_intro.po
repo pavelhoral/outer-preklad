@@ -1,319 +1,319 @@
 #: conversations/09_interstitial/0903_thehope/0903_cv_quincy_intro:1
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cv_quincy_intro:1:DefaultText"
 msgid "Welcome aboard, Captain. Ms. Akande messaged ahead."
-msgstr ""
+msgstr "Vítejte na palubě, kapitáne. Paní Akandeová poslala zprávu dopředu."
 
 #: conversations/09_interstitial/0903_thehope/0903_cv_quincy_intro:2
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cv_quincy_intro:2:DefaultText"
 msgid "You know, when they posted us here, I told 'em there wasn't any point. Nobody would be so stupid as to fly to the ass-end of the colony for this derelict."
-msgstr ""
+msgstr "Když nás sem poslali, řekl jsem jim, že to nemá smysl. Nikdo by nebyl tak hloupý, aby letěl na konec kolonie pro tohohle opuštěnce."
 
 #: conversations/09_interstitial/0903_thehope/0903_cv_quincy_intro:3
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cv_quincy_intro:3:DefaultText"
 msgid "Need something, sir?"
-msgstr ""
+msgstr "Potřebujete něco, pane?"
 
 #: conversations/09_interstitial/0903_thehope/0903_cv_quincy_intro:3
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cv_quincy_intro:3:FemaleText"
 msgid "Need something, ma'am?"
-msgstr ""
+msgstr "Potřebujete něco, madam?"
 
 #: conversations/09_interstitial/0903_thehope/0903_cv_quincy_intro:4
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cv_quincy_intro:4:DefaultText"
 msgid "So disable them."
-msgstr ""
+msgstr "Proto je deaktivujte."
 
 #: conversations/09_interstitial/0903_thehope/0903_cv_quincy_intro:5
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cv_quincy_intro:5:DefaultText"
 msgid "Why would they think you're intruders?"
-msgstr ""
+msgstr "Proč by si měli myslet, že jste vetřelci?"
 
 #: conversations/09_interstitial/0903_thehope/0903_cv_quincy_intro:6
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cv_quincy_intro:6:DefaultText"
 msgid "Oh, no. How many are there?"
-msgstr ""
+msgstr "Ale ne. Kolik jich je?"
 
 #: conversations/09_interstitial/0903_thehope/0903_cv_quincy_intro:11
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cv_quincy_intro:11:DefaultText"
 msgid "Haven't you heard? I was one of the Hope passengers. Maybe I've got a card in there."
-msgstr ""
+msgstr "Copak jste to neslyšeli? Byl jsem jedním z pasažérů Hope. Možná tam mám nějakou kartu."
 
 #: conversations/09_interstitial/0903_thehope/0903_cv_quincy_intro:13
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cv_quincy_intro:13:DefaultText"
 msgid "I'm doing lunch with Chairman Rockwell after this. I'll let him know you were in my way."
-msgstr ""
+msgstr "Poté jdu na oběd s předsedou Rockwellem. Dám mu vědět, že jste mi stál v cestě."
 
 #: conversations/09_interstitial/0903_thehope/0903_cv_quincy_intro:14
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cv_quincy_intro:14:DefaultText"
 msgid "You let me through that door or I'll shoot you and say the automechanicals did it."
-msgstr ""
+msgstr "Pusť mě těmi dveřmi, nebo tě zastřelím a řeknu, že to udělal automechanik."
 
 #: conversations/09_interstitial/0903_thehope/0903_cv_quincy_intro:15
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cv_quincy_intro:15:DefaultText"
 msgid "All right. Thanks anyway."
-msgstr ""
+msgstr "Dobře. I tak děkuji."
 
 #: conversations/09_interstitial/0903_thehope/0903_cv_quincy_intro:17
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cv_quincy_intro:17:DefaultText"
 msgid "I'd heard rumors, but... I never thought... so you're, what, seventy-something years old?"
-msgstr ""
+msgstr "Slyšel jsem o tom, ale... Nikdy jsem si nemyslel, že... takže je ti kolik, sedmdesát a něco let?"
 
 #: conversations/09_interstitial/0903_thehope/0903_cv_quincy_intro:18
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cv_quincy_intro:18:DefaultText"
 msgid "What? Come on, I'm just following protocol!"
-msgstr ""
+msgstr "Cože? No tak, jen dodržuji protokol!"
 
 #: conversations/09_interstitial/0903_thehope/0903_cv_quincy_intro:19
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cv_quincy_intro:19:DefaultText"
 msgid "Whoa, take it easy. We're all working for the same company here."
-msgstr ""
+msgstr "Klídek. Všichni pracujeme pro stejnou společnost."
 
 #: conversations/09_interstitial/0903_thehope/0903_cv_quincy_intro:35
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cv_quincy_intro:35:DefaultText"
 msgid "I wish this place were in better condition for you, but we're in a bit of a bind. Seems the damn automechanicals think we're intruders."
-msgstr ""
+msgstr "Přál bych si, aby to tu pro vás bylo v lepším stavu, ale jsme trochu v úzkých. Vypadá to, že si ta zatracená automechanika myslí, že jsme vetřelci."
 
 #: conversations/09_interstitial/0903_thehope/0903_cv_quincy_intro:36
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cv_quincy_intro:36:DefaultText"
 msgid "We did. We cut the power. They're asleep. On standby? I don't know. I'm not an engineer. Point is, Akande says you're here to hook your ship up, which means power's coming back."
-msgstr ""
+msgstr "To jsme udělali. Odpojili jsme proud. Spí. V pohotovostním režimu? Nevím. Nejsem inženýr. Jde o to, že Akande říká, že jste tu, abyste připojili svou loď, což znamená, že se vrátí energie."
 
 #: conversations/09_interstitial/0903_thehope/0903_cv_quincy_intro:37
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cv_quincy_intro:37:DefaultText"
 msgid "And that means trigger-happy automechanicals. I'm not going to get in your way, but I'm also not going to send more of my staff to their deaths."
-msgstr ""
+msgstr "A to znamená, že automechanika má spouštěcí mechanismus. Nebudu se vám plést do cesty, ale také nebudu posílat další své zaměstnance na smrt."
 
 #: conversations/09_interstitial/0903_thehope/0903_cv_quincy_intro:38
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cv_quincy_intro:38:DefaultText"
 msgid "Do I look like an engineer? All's I know is, they're shooting anyone who ain't Hope crew."
-msgstr ""
+msgstr "Vypadám jako inženýr? Vím jen, že střílejí každého, kdo není Hope crew."
 
 #: conversations/09_interstitial/0903_thehope/0903_cv_quincy_intro:39
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cv_quincy_intro:39:DefaultText"
 msgid "Too many. They're all over the rest of the ship."
-msgstr ""
+msgstr "Příliš mnoho. Jsou po celém zbytku lodi."
 
 #: conversations/09_interstitial/0903_thehope/0903_cv_quincy_intro:44
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cv_quincy_intro:44:DefaultText"
 msgid "We shut off the main power, so they're disabled for now, but if you go hooking your ship up, I suspect they'll recharge."
-msgstr ""
+msgstr "Vypnuli jsme hlavní napájení, takže jsou zatím vypnuté, ale pokud půjdeš připojit svou loď, předpokládám, že se znovu nabije."
 
 #: conversations/09_interstitial/0903_thehope/0903_cv_quincy_intro:45
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cv_quincy_intro:45:DefaultText"
 msgid "So be ready to blast some metal. Got it. Here goes nothing!"
-msgstr ""
+msgstr "Připravte se na to, že budete moci odstřelit nějaký kov. Mám to. Tady nic není!"
 
 #: conversations/09_interstitial/0903_thehope/0903_cv_quincy_intro:46
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cv_quincy_intro:46:DefaultText"
 msgid "Any of the old crew still around? Maybe I can grab an ID card and play pretend."
-msgstr ""
+msgstr "Je tu ještě někdo ze staré party? Možná bych si mohl vzít občanku a zahrát si."
 
 #: conversations/09_interstitial/0903_thehope/0903_cv_quincy_intro:47
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cv_quincy_intro:47:DefaultText"
 msgid "Some help you are. I'll be sure to let Ms. Akande know."
-msgstr ""
+msgstr "Někteří vám pomohou. Určitě dám paní Akande vědět."
 
 #: conversations/09_interstitial/0903_thehope/0903_cv_quincy_intro:48
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cv_quincy_intro:48:DefaultText"
 msgid "I'm sure she has the utmost faith in your abilities, sir. Good luck."
-msgstr ""
+msgstr "Jsem si jistý, že má ve vaše schopnosti maximální důvěru, pane. Hodně štěstí."
 
 #: conversations/09_interstitial/0903_thehope/0903_cv_quincy_intro:48
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cv_quincy_intro:48:FemaleText"
 msgid "I'm sure she has the utmost faith in your abilities, ma'am. Good luck."
-msgstr ""
+msgstr "Jsem si jistá, že má ve vaše schopnosti maximální důvěru, madam. Hodně štěstí."
 
 #: conversations/09_interstitial/0903_thehope/0903_cv_quincy_intro:49
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cv_quincy_intro:49:DefaultText"
 msgid "We tried that. Didn't work - something about our faces not matching up."
-msgstr ""
+msgstr "Zkusili jsme to. Nefungovalo to - naše obličeje se k sobě nehodily."
 
 #: conversations/09_interstitial/0903_thehope/0903_cv_quincy_intro:50
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cv_quincy_intro:50:DefaultText"
 msgid "We stored what cards we could find in the badge station to my right, but it's locked off. Can't just hand over Hope property. Sorry."
-msgstr ""
+msgstr "Karty, které jsme našli, jsme uložili do stanice s odznaky po mé pravici, ale ta je zamčená. Nemůžeme jen tak odevzdat majetek Hope. Je mi líto."
 
 #: conversations/09_interstitial/0903_thehope/0903_cv_quincy_intro:53
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cv_quincy_intro:53:DefaultText"
 msgid "Whew. All right, I'll have someone open the door for you. Good luck."
-msgstr ""
+msgstr "Uf. Dobře, někdo vám otevře dveře. Hodně štěstí."
 
 #: conversations/09_interstitial/0903_thehope/0903_cv_quincy_intro:55
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cv_quincy_intro:55:DefaultText"
 msgid "I'll have someone unlock the door. No need for trouble."
-msgstr ""
+msgstr "Někdo odemkne dveře. Není třeba dělat potíže."
 
 #: conversations/09_interstitial/0903_thehope/0903_cv_quincy_intro:56
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cv_quincy_intro:56:DefaultText"
 msgid "Ugh... fine, I'll have someone unlock the door. But if anyone asks, I'm telling them you broke in."
-msgstr ""
+msgstr "Fajn, řeknu někomu, ať odemkne dveře. Ale jestli se někdo zeptá, řeknu mu, že ses vloupal."
 
 #: conversations/09_interstitial/0903_thehope/0903_cv_quincy_intro:57
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cv_quincy_intro:57:DefaultText"
 msgid "Useless. Thanks for nothing."
-msgstr ""
+msgstr "Zbytečné. Díky za nic."
 
 #: conversations/09_interstitial/0903_thehope/0903_cv_quincy_intro:58
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cv_quincy_intro:58:DefaultText"
 msgid "You said the automechanicals were looking for Hope crew. Got an old ID badge I can try?"
-msgstr ""
+msgstr "Říkal jsi, že automechanici hledají posádku Hope. Máš nějaký starý průkaz, který bych mohl zkusit?"
 
 #: conversations/09_interstitial/0903_thehope/0903_cv_quincy_intro:59
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cv_quincy_intro:59:DefaultText"
 msgid "Just want to ask you about the ship."
-msgstr ""
+msgstr "Jen se chci zeptat na loď."
 
 #: conversations/09_interstitial/0903_thehope/0903_cv_quincy_intro:60
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cv_quincy_intro:60:DefaultText"
 msgid "Sure. I ain't going anywhere."
-msgstr ""
+msgstr "Jistě. Nikam nepůjdu."
 
 #: conversations/09_interstitial/0903_thehope/0903_cv_quincy_intro:61
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cv_quincy_intro:61:DefaultText"
 msgid "Is this all you do? Just guard the docking bay?"
-msgstr ""
+msgstr "To je vše, co děláte? Jen hlídáte přístaviště?"
 
 #: conversations/09_interstitial/0903_thehope/0903_cv_quincy_intro:62
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cv_quincy_intro:62:DefaultText"
 msgid "Did Sophia mention anything about skipping the ship?"
-msgstr ""
+msgstr "Zmínila se Sophia o tom, že by měla vynechat loď?"
 
 #: conversations/09_interstitial/0903_thehope/0903_cv_quincy_intro:63
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cv_quincy_intro:63:DefaultText"
 msgid "Why are the automechanicals so much trouble?"
-msgstr ""
+msgstr "Proč je s automechanikou tolik problémů?"
 
 #: conversations/09_interstitial/0903_thehope/0903_cv_quincy_intro:64
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cv_quincy_intro:64:DefaultText"
 msgid "Nevermind."
-msgstr ""
+msgstr "Nevadí."
 
 #: conversations/09_interstitial/0903_thehope/0903_cv_quincy_intro:66
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cv_quincy_intro:66:DefaultText"
 msgid "Shows how much I know. You've got about five seconds to tell me what you're doing here before I make you take a walk outside."
-msgstr ""
+msgstr "To ukazuje, kolik toho vím. Máš asi pět vteřin na to, abys mi řekl, co tady děláš, než tě donutím jít ven."
 
 #: conversations/09_interstitial/0903_thehope/0903_cv_quincy_intro:67
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cv_quincy_intro:67:DefaultText"
 msgid "Is that any way to treat a new hire?"
-msgstr ""
+msgstr "Takhle se má jednat s novým zaměstnancem?"
 
 #: conversations/09_interstitial/0903_thehope/0903_cv_quincy_intro:68
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cv_quincy_intro:68:DefaultText"
 msgid "Bullshit. If UDL were sending more folks, they'd have told us."
-msgstr ""
+msgstr "Blbost. Kdyby UDL posílala víc lidí, řekli by nám to."
 
 #: conversations/09_interstitial/0903_thehope/0903_cv_quincy_intro:69
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cv_quincy_intro:69:DefaultText"
 msgid "Hand to the Law, I'm here on orders from the Chairman himself."
-msgstr ""
+msgstr "Ruku na srdce, jsem tu na příkaz samotného předsedy."
 
 #: conversations/09_interstitial/0903_thehope/0903_cv_quincy_intro:70
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cv_quincy_intro:70:DefaultText"
 msgid "I don't know what to tell you. I'm just following orders."
-msgstr ""
+msgstr "Nevím, co vám mám říct. Jen plním rozkazy."
 
 #: conversations/09_interstitial/0903_thehope/0903_cv_quincy_intro:72
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cv_quincy_intro:72:DefaultText"
 msgid "If our boss found out you were giving me trouble, she'd have you fired."
-msgstr ""
+msgstr "Kdyby naše šéfová zjistila, že mi děláš problémy, nechala by tě vyhodit."
 
 #: conversations/09_interstitial/0903_thehope/0903_cv_quincy_intro:73
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cv_quincy_intro:73:DefaultText"
 msgid "The memo must have gotten lost in transit."
-msgstr ""
+msgstr "Ta zpráva se musela ztratit při přepravě."
 
 #: conversations/09_interstitial/0903_thehope/0903_cv_quincy_intro:74
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cv_quincy_intro:74:DefaultText"
 msgid "I was sent to repair the reactor so it doesn't explode and take the colony out with it."
-msgstr ""
+msgstr "Byl jsem poslán opravit reaktor, aby nevybuchl a nevzal s sebou celou kolonii."
 
 #: conversations/09_interstitial/0903_thehope/0903_cv_quincy_intro:75
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cv_quincy_intro:75:DefaultText"
 msgid "Wh- explode?! Holy shit!"
-msgstr ""
+msgstr "Cože, vybuchnout?! Do prdele!"
 
 #: conversations/09_interstitial/0903_thehope/0903_cv_quincy_intro:76
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cv_quincy_intro:76:DefaultText"
 msgid "All right. You'll want a uniform so my staff doesn't shoot you on sight. They're a dangerous mix of bored and trigger-happy."
-msgstr ""
+msgstr "Dobře. Budete chtít uniformu, aby vás můj personál nezastřelil na místě. Je to nebezpečná směsice nudy a chtivosti spouště."
 
 #: conversations/09_interstitial/0903_thehope/0903_cv_quincy_intro:77
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cv_quincy_intro:77:DefaultText"
 msgid "We've got a few extra in the old badge station to my right. Good luck."
-msgstr ""
+msgstr "Pár jich máme navíc ve staré stanici s odznaky po mé pravici. Hodně štěstí."
 
 #: conversations/09_interstitial/0903_thehope/0903_cv_quincy_intro:78
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cv_quincy_intro:78:DefaultText"
 msgid "They sent me to extract a few samples from your... uh, your frozen cargo. It's gross."
-msgstr ""
+msgstr "Poslali mě, abych odebral pár vzorků z vašeho... ehm, vašeho zmrazeného nákladu. Je to nechutné."
 
 #: conversations/09_interstitial/0903_thehope/0903_cv_quincy_intro:79
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cv_quincy_intro:79:DefaultText"
 msgid "Ugh. I don't want to know. You labcoats do the filthiest work."
-msgstr ""
+msgstr "Uf. Nechci to vědět. Vy laboranti děláte tu nejšpinavější práci."
 
 #: conversations/09_interstitial/0903_thehope/0903_cv_quincy_intro:80
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cv_quincy_intro:80:DefaultText"
 msgid "Hold that thought."
-msgstr ""
+msgstr "Zadržte tuto myšlenku."
 
 #: conversations/09_interstitial/0903_thehope/0903_cv_quincy_intro:81
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cv_quincy_intro:81:DefaultText"
 msgid "Get out of here on your own accord or we'll dump your body out the airlock."
-msgstr ""
+msgstr "Vypadni odsud sám, nebo tě vyhodíme přechodovou komorou."
 
 #: conversations/09_interstitial/0903_thehope/0903_cv_quincy_intro:82
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cv_quincy_intro:82:DefaultText"
 msgid "...Rockwell sent you? Shit. I guess you really are important."
-msgstr ""
+msgstr "...poslal tě Rockwell? Do prdele. Asi jsi opravdu důležitý."
 
 #: conversations/09_interstitial/0903_thehope/0903_cv_quincy_intro:83
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cv_quincy_intro:83:DefaultText"
 msgid "Ugh. Knowing her, she'd have me spaced and save herself the paperwork."
-msgstr ""
+msgstr "Uf. Jak ji znám, nechala by mě rozdělit a ušetřila by si papírování."
 
 #: conversations/09_interstitial/0903_thehope/0903_cv_quincy_intro:84
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cv_quincy_intro:84:DefaultText"
 msgid "I... get you. This is the dullest job I've ever had, but orders said to stand here, so here I am."
-msgstr ""
+msgstr "Já... tě chápu. Tohle je ta nejnudnější práce, jakou jsem kdy měl, ale rozkazy říkaly, že tu mám stát, tak jsem tady."
 
 #: conversations/09_interstitial/0903_thehope/0903_cv_quincy_intro:85
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cv_quincy_intro:85:DefaultText"
 msgid "Yeah, well, without it, you ain't taking one more step on our ship. So either sod off or my employees are going to open fire."
-msgstr ""
+msgstr "Jo, bez něj už na naší lodi neuděláš ani krok. Takže buď vypadni, nebo moji zaměstnanci začnou střílet."
 
 #: conversations/09_interstitial/0903_thehope/0903_cv_quincy_intro:86
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cv_quincy_intro:86:DefaultText"
 msgid "Good luck."
-msgstr ""
+msgstr "Hodně štěstí."
 
 #: conversations/09_interstitial/0903_thehope/0903_cv_quincy_intro:87
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cv_quincy_intro:87:DefaultText"
 msgid "Yeah. They posted us after the break-in. I figure it's a waste of time - ain't nothing on this ship but death."
-msgstr ""
+msgstr "Jo. Po tom vloupání nás poslali. Říkám si, že je to ztráta času - na téhle lodi není nic než smrt."
 
 #: conversations/09_interstitial/0903_thehope/0903_cv_quincy_intro:88
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cv_quincy_intro:88:DefaultText"
 msgid "But a job's a job, so here we are."
-msgstr ""
+msgstr "Ale práce je práce, takže jsme tady."
 
 #: conversations/09_interstitial/0903_thehope/0903_cv_quincy_intro:89
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cv_quincy_intro:89:DefaultText"
 msgid "She didn't say why you're here. Just to cooperate. I'm guessing that puts you above our pay grade, so we ain't asking questions."
-msgstr ""
+msgstr "Neřekla, proč jsi tady. Jen abyste spolupracovali. Hádám, že to vás staví nad naši platovou třídu, takže se nebudeme vyptávat."
 
 #: conversations/09_interstitial/0903_thehope/0903_cv_quincy_intro:90
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cv_quincy_intro:90:DefaultText"
 msgid "We're equipped to deal with intruders. Fleshy ones. Our bullets ain't so effective against metal."
-msgstr ""
+msgstr "Jsme vybaveni na to, abychom se vypořádali s vetřelci. Masitými. Naše kulky nejsou tak účinné proti kovu."
 
 #: conversations/09_interstitial/0903_thehope/0903_cv_quincy_intro:92
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cv_quincy_intro:92:DefaultText"
 msgid "Uh, I'll... see if I can find the documentation."
-msgstr ""
+msgstr "Podívám se, jestli najdu dokumentaci."
 
 #: conversations/09_interstitial/0903_thehope/0903_cv_quincy_intro:93
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cv_quincy_intro:93:DefaultText"
 msgid "Ain't ever felt anything like that. I'm gonna need a minute."
-msgstr ""
+msgstr "Nikdy jsem nic takového necítil. Budu potřebovat chvilku."

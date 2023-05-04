@@ -6,22 +6,22 @@ msgid "Roseway Laboratory and Outpost\r\n"
 "========================\r\n"
 "\r\n"
 "Welcome, L. Han"
-msgstr ""
+msgstr "Roseway Laboratory and Outpost Property of Auntie Cleo ======================== Vítejte, L. Han"
 
 #: conversations/08_roseway/08_cp_raptpen_office:2
 msgctxt "conversations/08_roseway/08_cp_raptpen_office:2:DefaultText"
 msgid "[TO: R. Porter]"
-msgstr ""
+msgstr "[TO: R. Porter]"
 
 #: conversations/08_roseway/08_cp_raptpen_office:3
 msgctxt "conversations/08_roseway/08_cp_raptpen_office:3:DefaultText"
 msgid "[TO: A. Crane]"
-msgstr ""
+msgstr "[TO: A. Crane]"
 
 #: conversations/08_roseway/08_cp_raptpen_office:4
 msgctxt "conversations/08_roseway/08_cp_raptpen_office:4:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"
 
 #: conversations/08_roseway/08_cp_raptpen_office:5
 msgctxt "conversations/08_roseway/08_cp_raptpen_office:5:DefaultText"
@@ -45,7 +45,8 @@ msgid "Roseway Laboratory and Outpost\n"
 "\n"
 "Please tell Mr. Crane I'm working as hard as I can to resolve this issue. I understand he's eager to test the genetic makeup of the Raptidon Alpha for its possible applications in improving our dental hygiene. \n"
 ""
-msgstr ""
+msgstr "Roseway Laboratory and Outpost Property of Auntie Cleo ======================== Zprávy OD: Han TO: Porterovi PŘEDMĚT: R: Náčelníku Portere, zdá se, že naši raptidoni zažívají problém intimního rázu. Pokud Zákon vštípil těmto krvelačným šelmám pud sebezáchovy, pak se tento pud zřejmě neprojevuje při rozmnožování. Pokud něco, pak vnitřní logika běžného raptidona spočívá v tom, že zajistí přežití svého druhu tím, že zmasakruje každého jiného živého tvora v dosahu. Moje další pracovní teorie je, že tito raptidoni se odmítají rozmnožovat, a já nevím proč. Pokusil jsem se jim zahrát hudbu. Bez úspěchu. Prosím, vyřiďte panu Craneovi, že se snažím tento problém co nejlépe vyřešit. Pokud vím, rád by otestoval genetickou výbavu raptidona Alfa pro jeho možné využití při zlepšování naší zubní hygieny. \n"
+""
 
 #: conversations/08_roseway/08_cp_raptpen_office:6
 msgctxt "conversations/08_roseway/08_cp_raptpen_office:6:DefaultText"
@@ -65,7 +66,7 @@ msgid "Roseway Laboratory and Outpost\n"
 "\n"
 "Given the secrecy of our operation, I hardly think we're in any danger of falling prey to roving outlaws. For goodness sake, Anton. We're on the ass-end of Terra 2 here.\n"
 ""
-msgstr ""
+msgstr "Roseway Laboratory and Outpost Property of Auntie Cleo ======================== Zprávy OD: Han TO: A. Craneovi PŘEDMĚT: Crane, prosím, udělejte něco s Reubenem. Nepřestává kontrolovat mé raptidony. Zrovna dnes mi řekl, že musím zlepšit zabezpečení své raptidonové ohrady pro případ, že na Roseway připadnou lupiči a bandité. Vzhledem k utajení naší operace si myslím, že nám sotva hrozí, že se staneme kořistí potulných zločinců. Proboha, Antone. Jsme na konci Terry 2."
 
 #: conversations/08_roseway/08_cp_raptpen_office:7
 msgctxt "conversations/08_roseway/08_cp_raptpen_office:7:DefaultText"
@@ -86,22 +87,22 @@ msgid "Roseway Laboratory and Outpost\n"
 "If you are the former: know that the days of your iron-fisted rule over the colony of Halcyon are numbered. As the day of your reckoning approaches, I advise you to consider the words written on the pedestal of Ozymandias, and reflect on the human condition.\n"
 "\n"
 "If you are the latter: get back on patrol, you dolts."
-msgstr ""
+msgstr "Roseway Laboratory and Outpost Property of Auntie Cleo ======================== Zprávy OD: O'Malley TO: Han, A. Crane, R. Porter a 53 dalším PŘEDMĚT: L: Pokud čtete tento dopis, patříte buď k ohavné a proradné frakci tyranů známé jako Rada, nebo jste jedním z mých lidí, kteří ztrácejí čas hlídkováním. Pokud jste to první: vězte, že dny vaší železné vlády nad kolonií Halcyon jsou sečteny. Jak se blíží den vašeho zúčtování, doporučuji vám, abyste se zamysleli nad slovy napsanými na Ozymandiově podstavci a popřemýšleli o lidském údělu. Pokud jste ti druzí: vraťte se na hlídku, vy loutky."
 
 #: conversations/08_roseway/08_cp_raptpen_office:8
 msgctxt "conversations/08_roseway/08_cp_raptpen_office:8:DefaultText"
 msgid "[TO: Administration]"
-msgstr ""
+msgstr "[TO: Správa]"
 
 #: conversations/08_roseway/08_cp_raptpen_office:9
 msgctxt "conversations/08_roseway/08_cp_raptpen_office:9:DefaultText"
 msgid "[Messages]"
-msgstr ""
+msgstr "[Zprávy]"
 
 #: conversations/08_roseway/08_cp_raptpen_office:10
 msgctxt "conversations/08_roseway/08_cp_raptpen_office:10:DefaultText"
 msgid "[Return to Root]"
-msgstr ""
+msgstr "[Zpět na kořen]"
 
 #: conversations/08_roseway/08_cp_raptpen_office:11
 msgctxt "conversations/08_roseway/08_cp_raptpen_office:11:DefaultText"
@@ -114,4 +115,4 @@ msgid "MESSAGES\n"
 "[1. TO: Porter, R.]\n"
 "[2. TO: Crane, A.]\n"
 "[3. TO: Administration]"
-msgstr ""
+msgstr "ZPRÁVY ------------------------------ ID zaměstnance: 817901 Jméno zaměstnance: Han, Lionel Projekt: [1. komu: Porter, R.] [2. komu: Crane, A.] [3. komu: administrativa]."

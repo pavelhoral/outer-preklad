@@ -1,74 +1,74 @@
 #: quests/01_groundbreaker/pq_0102_engineering:0
 msgctxt "quests/01_groundbreaker/pq_0102_engineering:0:DefaultText"
 msgid "Happiness is a Warm Spaceship"
-msgstr ""
+msgstr "Štěstí je teplá kosmická loď"
 
 #: quests/01_groundbreaker/pq_0102_engineering:2
 msgctxt "quests/01_groundbreaker/pq_0102_engineering:2:DefaultText"
 msgid "Get New Parts for the Radiators"
-msgstr ""
+msgstr "Pořiďte si nové díly pro chladiče"
 
 #: quests/01_groundbreaker/pq_0102_engineering:11
 msgctxt "quests/01_groundbreaker/pq_0102_engineering:11:DefaultText"
 msgid "Return to Junlei"
-msgstr ""
+msgstr "Návrat do Junlei"
 
 #: quests/01_groundbreaker/pq_0102_engineering:13
 msgctxt "quests/01_groundbreaker/pq_0102_engineering:13:DefaultText"
 msgid "Fix the Radiators"
-msgstr ""
+msgstr "Oprava chladičů"
 
 #: quests/01_groundbreaker/pq_0102_engineering:20
 msgctxt "quests/01_groundbreaker/pq_0102_engineering:20:DefaultText"
 msgid "Talk to Junlei about the Parts"
-msgstr ""
+msgstr "Promluvte si s Junlei o dílech"
 
 #: quests/01_groundbreaker/pq_0102_engineering:10000
 msgctxt "quests/01_groundbreaker/pq_0102_engineering:10000:DefaultText"
 msgid "Help Junlei Tennyson fix the radiator arrays in the maintenance shaft."
-msgstr ""
+msgstr "Pomozte Junlei Tennysonové opravit chladiče v údržbové šachtě."
 
 #: quests/01_groundbreaker/pq_0102_engineering:10002
 msgctxt "quests/01_groundbreaker/pq_0102_engineering:10002:DefaultText"
 msgid "You need to get new parts for the Radiator Array to keep the Groundbreaker from overheating. Junlei wants you to salvage the parts for the radiators from old machinery in the back bays."
-msgstr ""
+msgstr "Musíte si pořídit nové díly pro chladičové pole, aby se lamač země nepřehříval. Junlei chce, abys zachránil díly pro chladiče ze starých strojů v zadních prostorech."
 
 #: quests/01_groundbreaker/pq_0102_engineering:10011
 msgctxt "quests/01_groundbreaker/pq_0102_engineering:10011:DefaultText"
 msgid "Follow up with Junlei to let her know the radiators are fixed and to claim your reward."
-msgstr ""
+msgstr "Spojte se s Junlei, dejte jí vědět, že radiátory jsou opravené, a vyzvedněte si odměnu."
 
 #: quests/01_groundbreaker/pq_0102_engineering:10013
 msgctxt "quests/01_groundbreaker/pq_0102_engineering:10013:DefaultText"
 msgid "Junlei told you to enter the maintenance shaft and help her install the new parts for the radiators. She warned you to go armed."
-msgstr ""
+msgstr "Junlei ti řekla, abys vstoupil do údržbářské šachty a pomohl jí nainstalovat nové díly do chladičů. Varovala tě, abys šel ozbrojený."
 
 #: quests/01_groundbreaker/pq_0102_engineering:10020
 msgctxt "quests/01_groundbreaker/pq_0102_engineering:10020:DefaultText"
 msgid "Go talk to Junlei to figure out what to do with the radiator parts you found."
-msgstr ""
+msgstr "Jdi si promluvit s Junlei a zjistěte, co udělat s nalezenými částmi chladiče."
 
 #: quests/01_groundbreaker/pq_0102_engineering:20006
 msgctxt "quests/01_groundbreaker/pq_0102_engineering:20006:DefaultText"
 msgid "You were able to peacefully resolve things with MacRedd. Go retrieve the parts and head back to Junlei."
-msgstr ""
+msgstr "S MacReddem se vám podařilo vše vyřešit v klidu. Jděte si pro součástky a vraťte se do Junlei."
 
 #: quests/01_groundbreaker/pq_0102_engineering:20014
 msgctxt "quests/01_groundbreaker/pq_0102_engineering:20014:DefaultText"
 msgid "You killed MacRedd, and are now free to go retrieve the parts. Go grab them and head back to Junlei."
-msgstr ""
+msgstr "Zabil jsi MacRedda a nyní si můžeš jít pro součástky. Vezměte je a vraťte se do Junlei."
 
 #: quests/01_groundbreaker/pq_0102_engineering:30000
 msgctxt "quests/01_groundbreaker/pq_0102_engineering:30000:DefaultText"
 msgid "You helped Junlei fix the Groundbreaker's radiator arrays."
-msgstr ""
+msgstr "Pomohl jsi Junlei opravit radiátorové pole lamače země."
 
 #: quests/01_groundbreaker/pq_0102_engineering:30003
 msgctxt "quests/01_groundbreaker/pq_0102_engineering:30003:DefaultText"
 msgid "Junlei is dead. Without her knowledge of the ship and its systems, the Groundbreaker is surely doomed."
-msgstr ""
+msgstr "Junlei je mrtvý. Bez jejích znalostí lodi a jejích systémů je Groundbreaker jistě ztracen."
 
 #: quests/01_groundbreaker/pq_0102_engineering:30005
 msgctxt "quests/01_groundbreaker/pq_0102_engineering:30005:DefaultText"
 msgid "The Groundbreaker has become hostile towards you, making it impossible to complete this quest."
-msgstr ""
+msgstr "Groundbreaker se vůči vám stal nepřátelským, což znemožňuje dokončení tohoto úkolu."

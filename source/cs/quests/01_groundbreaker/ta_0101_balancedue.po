@@ -1,99 +1,99 @@
 #: quests/01_groundbreaker/ta_0101_balancedue:0
 msgctxt "quests/01_groundbreaker/ta_0101_balancedue:0:DefaultText"
 msgid "Balance Due"
-msgstr ""
+msgstr "Zůstatek k úhradě"
 
 #: quests/01_groundbreaker/ta_0101_balancedue:2
 msgctxt "quests/01_groundbreaker/ta_0101_balancedue:2:DefaultText"
 msgid "Retrieve Udom's Board Seal"
-msgstr ""
+msgstr "Získat pečeť představenstva společnosti Udom"
 
 #: quests/01_groundbreaker/ta_0101_balancedue:10
 msgctxt "quests/01_groundbreaker/ta_0101_balancedue:10:DefaultText"
 msgid "Talk to Udom Bedford"
-msgstr ""
+msgstr "Promluvte si s Udomem Bedfordem"
 
 #: quests/01_groundbreaker/ta_0101_balancedue:11
 msgctxt "quests/01_groundbreaker/ta_0101_balancedue:11:DefaultText"
 msgid "Clear the Impound Order"
-msgstr ""
+msgstr "Zrušení příkazu k zabavení"
 
 #: quests/01_groundbreaker/ta_0101_balancedue:15
 msgctxt "quests/01_groundbreaker/ta_0101_balancedue:15:DefaultText"
 msgid "Turn In Phineas to Udom"
-msgstr ""
+msgstr "Obraťte se na Phinease na Udom"
 
 #: quests/01_groundbreaker/ta_0101_balancedue:10000
 msgctxt "quests/01_groundbreaker/ta_0101_balancedue:10000:DefaultText"
 msgid "Udom Bedford is interested in your information on where to find Phineas Welles - the target of a bounty reward from the Halcyon Holdings Board. However, he sold his official Board seal to Gladys, and he needs you to recover it before you can travel to Byzantium and report to his superiors."
-msgstr ""
+msgstr "Udom Bedford má zájem o vaše informace o tom, kde najít Phinease Wellese, na kterého je vypsána odměna od společnosti Halcyon Holdings Board. Prodal však svou oficiální pečeť představenstva Gladys a potřebuje, abys ji získal zpět, než budeš moci odcestovat do Byzance a podat zprávu jeho nadřízeným."
 
 #: quests/01_groundbreaker/ta_0101_balancedue:10002
 msgctxt "quests/01_groundbreaker/ta_0101_balancedue:10002:DefaultText"
 msgid "Udom Bedford sold his official Board seal to Gladys in return for a large sum of money. Buy it back from her so that you can fly to Byzantium with official Board papers and turn in Phineas."
-msgstr ""
+msgstr "Udom Bedford prodal Gladys svou oficiální pečeť správní rady za velkou sumu peněz. Odkoupíš ji od ní zpět, abys mohl odletět do Byzance s oficiálními dokumenty Rady a udat Phinease."
 
 #: quests/01_groundbreaker/ta_0101_balancedue:10010
 msgctxt "quests/01_groundbreaker/ta_0101_balancedue:10010:DefaultText"
 msgid "Groundbreaker security informed you that your ship has been impounded by order of the Board. You need to clear this up with Udom Bedford, the Halcyon Holdings Board representative on the station."
-msgstr ""
+msgstr "Bezpečnostní služba Groundbreaker vás informovala, že vaše loď byla na příkaz Rady zabavena. Musíte si to vyjasnit s Udomem Bedfordem, zástupcem představenstva Halcyon Holdings na stanici."
 
 #: quests/01_groundbreaker/ta_0101_balancedue:10011
 msgctxt "quests/01_groundbreaker/ta_0101_balancedue:10011:DefaultText"
 msgid "Udom Bedford is dead and your ship is still impounded. Look for a way to clear the impound order so the Unreliable can fly again."
-msgstr ""
+msgstr "Udom Bedford je mrtvý a vaše loď je stále zabavena. Hledejte způsob, jak zrušit příkaz k zabavení, aby mohla Nespolehlivá opět létat."
 
 #: quests/01_groundbreaker/ta_0101_balancedue:10015
 msgctxt "quests/01_groundbreaker/ta_0101_balancedue:10015:DefaultText"
 msgid "Phineas Welles is wanted by the Board for crimes against the colony. Udom Bedford had an arrangement with Alex Hawthorne, the Unreliable's previous captain, to turn him. Telling Udom where to find Phineas will allow you to begin working for Halcyon's Board."
-msgstr ""
+msgstr "Phineas Welles je hledán správní radou za zločiny proti kolonii. Udom Bedford se dohodl s Alexem Hawthornem, předchozím kapitánem Nespolehlivé, že ho vydá. Když Udomovi řekneš, kde Phinease najde, budeš moci začít pracovat pro Halcyonskou radu."
 
 #: quests/01_groundbreaker/ta_0101_balancedue:20000
 msgctxt "quests/01_groundbreaker/ta_0101_balancedue:20000:DefaultText"
 msgid "Gladys wants <oeiglobal>G_0102_Price_UdomSeal</oeiglobal> bits for the seal. Collect more bits and return to her later to buy the official Board seal."
-msgstr ""
+msgstr "Gladys chce <oeiglobal>G_0102_Price_UdomSeal</oeiglobal> bity pro těsnění. Nasbírejte další kousky a později se k ní vraťte, abyste si koupili oficiální pečeť představenstva."
 
 #: quests/01_groundbreaker/ta_0101_balancedue:20001
 msgctxt "quests/01_groundbreaker/ta_0101_balancedue:20001:DefaultText"
 msgid "You got Udom's official Board seal back. Return to him and have him validate your papers for you so that you can meet with the Adjutant."
-msgstr ""
+msgstr "Dostal jsi zpět Udomovu oficiální pečeť rady. Vraťte se k němu a požádejte ho, aby vám potvrdil platnost vašich dokumentů, abyste se mohli setkat s adjutantem."
 
 #: quests/01_groundbreaker/ta_0101_balancedue:20002
 msgctxt "quests/01_groundbreaker/ta_0101_balancedue:20002:DefaultText"
 msgid "Gladys is dead. If you want that stamp, you'll need to crack open her safe to get it."
-msgstr ""
+msgstr "Gladys je mrtvá. Pokud chceš tu známku, musíš otevřít její sejf, abys ji získal."
 
 #: quests/01_groundbreaker/ta_0101_balancedue:30000
 msgctxt "quests/01_groundbreaker/ta_0101_balancedue:30000:DefaultText"
 msgid "You assisted Udom Bedford with his seal problem, receiving a fresh set of official Board paperwork and an introduction to the Chairman's Adjutant - Sophia Akande - as a reward."
-msgstr ""
+msgstr "Pomohl jsi Udomu Bedfordovi s jeho problémem s pečetí a za odměnu jsi dostal novou sadu oficiálních dokumentů správní rady a seznámení s předsedovou adjutantkou - Sophií Akande."
 
 #: quests/01_groundbreaker/ta_0101_balancedue:30001
 msgctxt "quests/01_groundbreaker/ta_0101_balancedue:30001:DefaultText"
 msgid "You killed Udom Bedford, eliminating any chance of him granting you access to Byzantium to turn in Phineas Welles."
-msgstr ""
+msgstr "Zabil jsi Udom Bedforda, čímž jsi eliminoval jakoukoli šanci, že by ti umožnil přístup do Byzance, abys mohl udat Phinease Wellese."
 
 #: quests/01_groundbreaker/ta_0101_balancedue:30002
 msgctxt "quests/01_groundbreaker/ta_0101_balancedue:30002:DefaultText"
 msgid "You skipped the hope to Terra-2, eliminating any chance to work with the Board."
-msgstr ""
+msgstr "Přeskočil jsi naději na Terru-2, čímž jsi vyloučil jakoukoli možnost spolupráce s představenstvem."
 
 #: quests/01_groundbreaker/ta_0101_balancedue:30003
 msgctxt "quests/01_groundbreaker/ta_0101_balancedue:30003:DefaultText"
 msgid "You reached Byzantium without Udom's Navkey. There's no point in working with him further."
-msgstr ""
+msgstr "Do Byzance jste se dostali bez Udomova Navkey. Nemá smysl s ním dále pracovat."
 
 #: quests/01_groundbreaker/ta_0101_balancedue:30004
 msgctxt "quests/01_groundbreaker/ta_0101_balancedue:30004:DefaultText"
 msgid "The Board has become hostile towards you, making it impossible to complete this quest."
-msgstr ""
+msgstr "Rada se vůči vám stala nepřátelskou, což znemožňuje dokončení tohoto úkolu."
 
 #: quests/01_groundbreaker/ta_0101_balancedue:40003
 msgctxt "quests/01_groundbreaker/ta_0101_balancedue:40003:DefaultText"
 msgid "Groundbreaker security impounded the Unreliable on orders from the Board."
-msgstr ""
+msgstr "Bezpečnostní služba Groundbreaker zabavila Unreliable na příkaz představenstva."
 
 #: quests/01_groundbreaker/ta_0101_balancedue:40004
 msgctxt "quests/01_groundbreaker/ta_0101_balancedue:40004:DefaultText"
 msgid "You learned from Udom Bedford that he has impounded the Unreliable - a \"game\" he played with its previous captain, Alex Hawthorne. Speak with Udom to clear up this issue."
-msgstr ""
+msgstr "Od Udom Bedforda jste se dozvěděli, že zabavil Nespolehlivého - \"hru\", kterou hrál s jeho předchozím kapitánem Alexem Hawthornem. Promluvte si s Udomem a vyjasněte si tuto záležitost."

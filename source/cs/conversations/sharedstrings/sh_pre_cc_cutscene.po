@@ -1,60 +1,60 @@
 #: conversations/sharedstrings/sh_pre_cc_cutscene:1
 msgctxt "conversations/sharedstrings/sh_pre_cc_cutscene:1:DefaultText"
 msgid "Why stay Earthbound when prosperity awaits you in the stars? Come to Halcyon, the only colony on the edge of the frontier owned and operated by corporations!"
-msgstr ""
+msgstr "Proč zůstávat na Zemi, když vás blahobyt čeká ve hvězdách? Přijďte na Halcyon, jedinou kolonii na okraji hranic, kterou vlastní a provozují korporace!"
 
 #: conversations/sharedstrings/sh_pre_cc_cutscene:2
 msgctxt "conversations/sharedstrings/sh_pre_cc_cutscene:2:DefaultText"
 msgid "TOP SECRET: 10 - 23 - 2320 HALCYON HOLDINGS CORPORATE BOARD"
-msgstr ""
+msgstr "PŘÍSNĚ TAJNÉ: 10 - 23 - 2320 HALCYON HOLDINGS CORPORATE BOARD"
 
 #: conversations/sharedstrings/sh_pre_cc_cutscene:3
 msgctxt "conversations/sharedstrings/sh_pre_cc_cutscene:3:DefaultText"
 msgid "INCIDENT REPORT: COLONY SHIP HOPE FOUND DRIFTING; COLONISTS UNABLE TO BE REVIVED"
-msgstr ""
+msgstr "ZPRÁVA O INCIDENTU: KOLONIÁLNÍ LOĎ HOPE NALEZENA UNÁŠENÁ PROUDEM; KOLONISTY SE NEPODAŘILO OŽIVIT"
 
 #: conversations/sharedstrings/sh_pre_cc_cutscene:5
 msgctxt "conversations/sharedstrings/sh_pre_cc_cutscene:5:DefaultText"
 msgid "ALERT: BREACH OF HOPE SECURITY CORRIDOR"
-msgstr ""
+msgstr "UPOZORNĚNÍ: NARUŠENÍ BEZPEČNOSTNÍHO KORIDORU HOPE"
 
 #: conversations/sharedstrings/sh_pre_cc_cutscene:6
 msgctxt "conversations/sharedstrings/sh_pre_cc_cutscene:6:DefaultText"
 msgid "UNIDENTIFIED SHIP"
-msgstr ""
+msgstr "NEIDENTIFIKOVANÁ LOĎ"
 
 #: conversations/sharedstrings/sh_pre_cc_cutscene:7
 msgctxt "conversations/sharedstrings/sh_pre_cc_cutscene:7:DefaultText"
 msgid "PHINEAS VERNON WELLES"
-msgstr ""
+msgstr "PHINEAS VERNON WELLES"
 
 #: conversations/sharedstrings/sh_pre_cc_cutscene:8
 msgctxt "conversations/sharedstrings/sh_pre_cc_cutscene:8:DefaultText"
 msgid "STATUS: FUGITIVE, WANTED BY HALCYON HOLDINGS BOARD FOR CRIMES AGAINST THE COLONY"
-msgstr ""
+msgstr "STAV: HLEDANÝ RADOU HALCYON HOLDINGS ZA ZLOČINY PROTI KOLONII."
 
 #: conversations/sharedstrings/sh_pre_cc_cutscene:9
 msgctxt "conversations/sharedstrings/sh_pre_cc_cutscene:9:DefaultText"
 msgid "Hundreds of thousands of colonists. Left to drift out here forever, just to keep from damaging the Board's bottom line. Disgraceful.\r\n"
 ""
-msgstr ""
+msgstr "Stovky tisíc kolonistů. Zůstali tu navždy, jen aby nepoškodili zisk správní rady. Hanebné."
 
 #: conversations/sharedstrings/sh_pre_cc_cutscene:10
 msgctxt "conversations/sharedstrings/sh_pre_cc_cutscene:10:DefaultText"
 msgid "A trip of ten short years will feel like mere minutes, thanks to the comfort and safety of your very own hibernation chamber. "
-msgstr ""
+msgstr "Díky pohodlí a bezpečí vlastní hibernační komory vám bude cesta trvající deset krátkých let připadat jako pouhé minuty. "
 
 #: conversations/sharedstrings/sh_pre_cc_cutscene:11
 msgctxt "conversations/sharedstrings/sh_pre_cc_cutscene:11:DefaultText"
 msgid "You'll wake up in a perfect society designed to maximize your productivity, with guaranteed full employment!"
-msgstr ""
+msgstr "Probudíte se v dokonalé společnosti, která je navržena tak, aby maximalizovala vaši produktivitu a zaručila vám plnou zaměstnanost!"
 
 #: conversations/sharedstrings/sh_pre_cc_cutscene:12
 msgctxt "conversations/sharedstrings/sh_pre_cc_cutscene:12:DefaultText"
 msgid "With only a minor term of service, you will become the master of your own destiny when you go out of this world... to the Halcyon Colony! "
-msgstr ""
+msgstr "Stačí, když si odsloužíš jen menší službu, a staneš se pánem svého osudu, až odejdeš z tohoto světa... do kolonie Halcyon! "
 
 #: conversations/sharedstrings/sh_pre_cc_cutscene:13
 msgctxt "conversations/sharedstrings/sh_pre_cc_cutscene:13:DefaultText"
 msgid "DETERMINATION: HOPE TO BE LEFT AT EDGE OF COLONY"
-msgstr ""
+msgstr "ODHODLÁNÍ: NADĚJE, ŽE ZŮSTANEME NA OKRAJI KOLONIE"

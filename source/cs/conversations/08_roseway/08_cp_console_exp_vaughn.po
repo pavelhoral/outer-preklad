@@ -8,42 +8,42 @@ msgid "KOLWAY MODEL 117D\r\n"
 "!! AUTO-PAUSE ENGAGED !!\r\n"
 "\r\n"
 "Please enter confirmation to complete extraction process:"
-msgstr ""
+msgstr "Plynový chromatograf KOLWAY MODEL 117D Vítejte Cortes, V. Probíhající experiment: 98% !! AUTOMATICKÁ PAUZA ZAPOJENA !! Pro dokončení extrakce zadejte potvrzení:"
 
 #: conversations/08_roseway/08_cp_console_exp_vaughn:6
 msgctxt "conversations/08_roseway/08_cp_console_exp_vaughn:6:DefaultText"
 msgid "[Recalibrate Experiment]"
-msgstr ""
+msgstr "[Překalibrovat experiment]"
 
 #: conversations/08_roseway/08_cp_console_exp_vaughn:7
 msgctxt "conversations/08_roseway/08_cp_console_exp_vaughn:7:DefaultText"
 msgid "[Complete Experiment]"
-msgstr ""
+msgstr "[Kompletní experiment]"
 
 #: conversations/08_roseway/08_cp_console_exp_vaughn:8
 msgctxt "conversations/08_roseway/08_cp_console_exp_vaughn:8:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"
 
 #: conversations/08_roseway/08_cp_console_exp_vaughn:9
 msgctxt "conversations/08_roseway/08_cp_console_exp_vaughn:9:DefaultText"
 msgid "[Emergency Sample Purge]"
-msgstr ""
+msgstr "[Nouzové vyčištění vzorků]"
 
 #: conversations/08_roseway/08_cp_console_exp_vaughn:23
 msgctxt "conversations/08_roseway/08_cp_console_exp_vaughn:23:DefaultText"
 msgid "[Press the Button]"
-msgstr ""
+msgstr "[Stiskněte tlačítko]"
 
 #: conversations/08_roseway/08_cp_console_exp_vaughn:25
 msgctxt "conversations/08_roseway/08_cp_console_exp_vaughn:25:DefaultText"
 msgid "[Press the Other Button]"
-msgstr ""
+msgstr "[Stiskněte další tlačítko]"
 
 #: conversations/08_roseway/08_cp_console_exp_vaughn:35
 msgctxt "conversations/08_roseway/08_cp_console_exp_vaughn:35:DefaultText"
 msgid "[The equipment no longer functions.]"
-msgstr ""
+msgstr "[Zařízení již nefunguje.]"
 
 #: conversations/08_roseway/08_cp_console_exp_vaughn:36
 msgctxt "conversations/08_roseway/08_cp_console_exp_vaughn:36:DefaultText"
@@ -53,7 +53,7 @@ msgid "KOLWAY MODEL 117D\r\n"
 "Welcome Cortes, V.\r\n"
 "No running processes\r\n"
 "Please inset a sample to begin"
-msgstr ""
+msgstr "KOLWAY MODEL 117D Plynový chromatograf Vítejte Cortes, V. Žádné probíhající procesy Pro zahájení vložte vzorek."
 
 #: conversations/08_roseway/08_cp_console_exp_vaughn:38
 msgctxt "conversations/08_roseway/08_cp_console_exp_vaughn:38:DefaultText"
@@ -62,7 +62,7 @@ msgid "Resolving Test Cycle...\r\n"
 "\r\n"
 "Yield: 25 mL Raptidon Musk\r\n"
 "Thank you for using Kolway"
-msgstr ""
+msgstr "Řešení testovacího cyklu... dokončeno! Výtěžek: 25 ml Raptidon Musk Děkujeme, že používáte Kolway."
 
 #: conversations/08_roseway/08_cp_console_exp_vaughn:39
 msgctxt "conversations/08_roseway/08_cp_console_exp_vaughn:39:DefaultText"
@@ -73,7 +73,7 @@ msgid "Purge Initiated...\r\n"
 "zN8\r\n"
 "U]o:KN 'H \r\n"
 "."
-msgstr ""
+msgstr "Očista zahájena... !! VAROVÁNÍ !! Překročení napájenía'Hwc90a4 f'gy9agy9agy9agy9aHJOFMK:ZBvo[je T-0G[UARIdfhnzbo zN8 U]o:KN 'H ."
 
 #: conversations/08_roseway/08_cp_console_exp_vaughn:40
 msgctxt "conversations/08_roseway/08_cp_console_exp_vaughn:40:DefaultText"
@@ -85,17 +85,17 @@ msgid "Recalibrating...\r\n"
 "\r\n"
 "Yield: 50 mL Raptidon Musk\r\n"
 "Thank you for using Kolway"
-msgstr ""
+msgstr "Rekalibrace... dokončena! Řešení testovacího cyklu... dokončeno! Výtěžek: 50 ml Raptidon Musk Děkujeme, že používáte Kolway."
 
 #: conversations/08_roseway/08_cp_console_exp_vaughn:43
 msgctxt "conversations/08_roseway/08_cp_console_exp_vaughn:43:DefaultText"
 msgid "[Fiddle With the Thingy]"
-msgstr ""
+msgstr "[Hrát si s hračkou]"
 
 #: conversations/08_roseway/08_cp_console_exp_vaughn:44
 msgctxt "conversations/08_roseway/08_cp_console_exp_vaughn:44:DefaultText"
 msgid "[View Experiment Log]"
-msgstr ""
+msgstr "[Zobrazit protokol experimentu]"
 
 #: conversations/08_roseway/08_cp_console_exp_vaughn:45
 msgctxt "conversations/08_roseway/08_cp_console_exp_vaughn:45:DefaultText"
@@ -106,9 +106,9 @@ msgid "Displaying latest Experiment Log entry:\r\n"
 "Entry: So far the musk extraction is coming along nicely. Pressure levels seem to be staying even, and variance in the samples seems to be at an acceptable tolerance. I thought these Rapts smelled bad on the outside... Now that they're cut open, everyone is likely to avoid my lab for the rest of the day while I finish this up. Wait a sec, there's some kind of commotion going on out in the hall... An alarm just started going off. Must be another damn security system check, let me go see what is going on.\r\n"
 "\r\n"
 "<End of Log>"
-msgstr ""
+msgstr "Zobrazení posledního záznamu v protokolu experimentu: Uživatel: Cortes, V. Záznam: Zatím se extrakce pižma daří dobře. Zdá se, že úrovně tlaku zůstávají vyrovnané a odchylky ve vzorcích se zdají být v přijatelné toleranci. Myslel jsem si, že tyhle Rapty smrdí zvenčí... Teď, když jsou rozříznuté, se pravděpodobně všichni budou po zbytek dne vyhýbat mé laboratoři, zatímco to dokončím. Počkejte, na chodbě je nějaký rozruch... Právě se spustil alarm. To musí být další zatracená kontrola bezpečnostního systému, půjdu se podívat, co se děje. <Konec deníku>"
 
 #: conversations/08_roseway/08_cp_console_exp_vaughn:46
 msgctxt "conversations/08_roseway/08_cp_console_exp_vaughn:46:DefaultText"
 msgid "[Return]"
-msgstr ""
+msgstr "[Návrat]"

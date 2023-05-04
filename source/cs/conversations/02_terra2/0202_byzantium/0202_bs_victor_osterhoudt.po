@@ -1,19 +1,19 @@
 #: conversations/02_terra2/0202_byzantium/0202_bs_victor_osterhoudt:2
 msgctxt "conversations/02_terra2/0202_byzantium/0202_bs_victor_osterhoudt:2:DefaultText"
 msgid "Welcome to the Bureau of Exploration. We're not currently offering any tours."
-msgstr ""
+msgstr "Vítejte v Úřadu pro průzkum. V současné době nenabízíme žádné prohlídky."
 
 #: conversations/02_terra2/0202_byzantium/0202_bs_victor_osterhoudt:3
 msgctxt "conversations/02_terra2/0202_byzantium/0202_bs_victor_osterhoudt:3:DefaultText"
 msgid "Sorry, but we don't provide directions."
-msgstr ""
+msgstr "Je nám líto, ale neposkytujeme pokyny."
 
 #: conversations/02_terra2/0202_byzantium/0202_bs_victor_osterhoudt:4
 msgctxt "conversations/02_terra2/0202_byzantium/0202_bs_victor_osterhoudt:4:DefaultText"
 msgid "Are you lost? Sorry - there's not a lot I can do for you."
-msgstr ""
+msgstr "Ztratili jste se? Je mi líto, ale nemohu pro vás mnoho udělat."
 
 #: conversations/02_terra2/0202_byzantium/0202_bs_victor_osterhoudt:5
 msgctxt "conversations/02_terra2/0202_byzantium/0202_bs_victor_osterhoudt:5:DefaultText"
 msgid "Is that outfit an original design? Marvelous."
-msgstr ""
+msgstr "Je to oblečení originální design? Úžasné."

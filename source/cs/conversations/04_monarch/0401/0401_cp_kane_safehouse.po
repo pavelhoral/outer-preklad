@@ -1,17 +1,17 @@
 #: conversations/04_monarch/0401/0401_cp_kane_safehouse:1
 msgctxt "conversations/04_monarch/0401/0401_cp_kane_safehouse:1:DefaultText"
 msgid "ERROR: Primary drive has been corrupted. Access is limited to the most recent two messages recorded:"
-msgstr ""
+msgstr "CHYBA: Primární disk byl poškozen. Přístup je omezen na poslední dvě zaznamenané zprávy:"
 
 #: conversations/04_monarch/0401/0401_cp_kane_safehouse:4
 msgctxt "conversations/04_monarch/0401/0401_cp_kane_safehouse:4:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"
 
 #: conversations/04_monarch/0401/0401_cp_kane_safehouse:7
 msgctxt "conversations/04_monarch/0401/0401_cp_kane_safehouse:7:DefaultText"
 msgid "[FROM: Lamont]"
-msgstr ""
+msgstr "[OD: Lamont]"
 
 #: conversations/04_monarch/0401/0401_cp_kane_safehouse:9
 msgctxt "conversations/04_monarch/0401/0401_cp_kane_safehouse:9:DefaultText"
@@ -22,12 +22,12 @@ msgid "D--\r\n"
 "I'm attaching coords for the waterfall camp. Grab your gear and meet us there by sun-up. We're finally getting off this hellhole.\r\n"
 "\r\n"
 "--A"
-msgstr ""
+msgstr "D-- Nemluv o tom. Přikládám souřadnice pro tábor u vodopádu. Vezměte si vybavení a sejdeme se tam před východem slunce. Konečně se dostaneme z téhle díry. --A"
 
 #: conversations/04_monarch/0401/0401_cp_kane_safehouse:10
 msgctxt "conversations/04_monarch/0401/0401_cp_kane_safehouse:10:DefaultText"
 msgid "[FROM: Delilah]"
-msgstr ""
+msgstr "[OD: Delilah]"
 
 #: conversations/04_monarch/0401/0401_cp_kane_safehouse:11
 msgctxt "conversations/04_monarch/0401/0401_cp_kane_safehouse:11:DefaultText"
@@ -38,9 +38,9 @@ msgid "A--\r\n"
 "I owe you. I don't know that I'll ever be able to pay you back, but... thank you.\r\n"
 "\r\n"
 "--D"
-msgstr ""
+msgstr "A... PJ říká, že jsi koupil lístky pro nás všechny. To jsi nemusel. Dlužím ti to. Nevím, jestli ti to někdy budu moct vrátit, ale... děkuju. -D"
 
 #: conversations/04_monarch/0401/0401_cp_kane_safehouse:14
 msgctxt "conversations/04_monarch/0401/0401_cp_kane_safehouse:14:DefaultText"
 msgid "[Return to Root]"
-msgstr ""
+msgstr "[Zpět na kořen]"

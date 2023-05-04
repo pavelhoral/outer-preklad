@@ -3,26 +3,26 @@ msgctxt "conversations/07_tartarus/0701/0701_cp_ref_armory_terminal:1:DefaultTex
 msgid "LBR-NTH Armory Access Terminal\r\n"
 "============================\r\n"
 "Personnel control implements, safety equipment and office supplies are for authorized UDL employees only."
-msgstr ""
+msgstr "LBR-NTH Přístupový terminál do zbrojnice ============================ Prostředky pro kontrolu osob, bezpečnostní vybavení a kancelářské potřeby jsou určeny pouze pro oprávněné zaměstnance UDL."
 
 #: conversations/07_tartarus/0701/0701_cp_ref_armory_terminal:2
 msgctxt "conversations/07_tartarus/0701/0701_cp_ref_armory_terminal:2:DefaultText"
 msgid "[Enter \"tastetheoppression\"]"
-msgstr ""
+msgstr "[Zadejte \"tastetheoppression\"]"
 
 #: conversations/07_tartarus/0701/0701_cp_ref_armory_terminal:6
 msgctxt "conversations/07_tartarus/0701/0701_cp_ref_armory_terminal:6:DefaultText"
 msgid "[Bypass Access Code]"
-msgstr ""
+msgstr "[Přístupový kód pro obcházení]"
 
 #: conversations/07_tartarus/0701/0701_cp_ref_armory_terminal:8
 msgctxt "conversations/07_tartarus/0701/0701_cp_ref_armory_terminal:8:DefaultText"
 msgid "LBR-NTH Armory Access Terminal\r\n"
 "============================\r\n"
 "Armory unlocked."
-msgstr ""
+msgstr "LBR-NTH Přístupový terminál do zbrojnice ============================ Zbrojnice odemčena."
 
 #: conversations/07_tartarus/0701/0701_cp_ref_armory_terminal:9
 msgctxt "conversations/07_tartarus/0701/0701_cp_ref_armory_terminal:9:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"

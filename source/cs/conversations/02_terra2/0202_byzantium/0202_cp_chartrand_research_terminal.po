@@ -4,22 +4,22 @@ msgid "Personal Terminal - Dr. Eva Chartrand\r\n"
 "=============================\r\n"
 "\r\n"
 "Main menu"
-msgstr ""
+msgstr "Osobní terminál - Dr. Eva Chartrand ============================= Hlavní menu"
 
 #: conversations/02_terra2/0202_byzantium/0202_cp_chartrand_research_terminal:2
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cp_chartrand_research_terminal:2:DefaultText"
 msgid "[Logs]"
-msgstr ""
+msgstr "[Deníky]"
 
 #: conversations/02_terra2/0202_byzantium/0202_cp_chartrand_research_terminal:3
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cp_chartrand_research_terminal:3:DefaultText"
 msgid "[Laboratory Access]"
-msgstr ""
+msgstr "[Přístup do laboratoře]"
 
 #: conversations/02_terra2/0202_byzantium/0202_cp_chartrand_research_terminal:4
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cp_chartrand_research_terminal:4:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"
 
 #: conversations/02_terra2/0202_byzantium/0202_cp_chartrand_research_terminal:5
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cp_chartrand_research_terminal:5:DefaultText"
@@ -27,12 +27,12 @@ msgid "Personal Terminal - Dr. Eva Chartrand\r\n"
 "=============================\r\n"
 "\r\n"
 "Logs"
-msgstr ""
+msgstr "Osobní terminál - Dr. Eva Chartrand ============================= Logs"
 
 #: conversations/02_terra2/0202_byzantium/0202_cp_chartrand_research_terminal:6
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cp_chartrand_research_terminal:6:DefaultText"
 msgid "[Cascadia, compromised?]"
-msgstr ""
+msgstr "[Cascadia, ohrožena?]"
 
 #: conversations/02_terra2/0202_byzantium/0202_cp_chartrand_research_terminal:9
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cp_chartrand_research_terminal:9:DefaultText"
@@ -42,12 +42,12 @@ msgid "Personal Terminal - Dr. Eva Chartrand\r\n"
 "I received a message that an unauthorized user was looking through the files on my Cascadia terminal. Maybe some marauder with two firing brain cells. Maybe not.\r\n"
 "\r\n"
 "I hope whoever it is understands that the sacrifices made on Monarch and HRS-1084 serve a higher purpose. One day, when all of us have attained a new state of being, humanity may forgive my sins."
-msgstr ""
+msgstr "Osobní terminál - Dr. Eva Chartrand ============================= Obdržela jsem zprávu, že v mém terminálu Cascadia prohlíží soubory neoprávněný uživatel. Možná nějaký nájezdník se dvěma vystřelujícími mozkovými buňkami. Možná ne. doufám, že ať už je to kdokoli, chápe, že oběti, které přinesl na Monarchu a HRS-1084, slouží vyššímu účelu. Jednoho dne, až všichni dosáhneme nového stavu bytí, mi lidstvo možná odpustí hříchy."
 
 #: conversations/02_terra2/0202_byzantium/0202_cp_chartrand_research_terminal:12
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cp_chartrand_research_terminal:12:DefaultText"
 msgid "[HRS-1084]"
-msgstr ""
+msgstr "[HRS-1084]"
 
 #: conversations/02_terra2/0202_byzantium/0202_cp_chartrand_research_terminal:14
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cp_chartrand_research_terminal:14:DefaultText"
@@ -57,7 +57,7 @@ msgid "Personal Terminal - Dr. Eva Chartrand\r\n"
 "My worst suspicions are confirmed. HRS-1084 was ransacked. Who knows what became of the suspension tanks, my team?\r\n"
 "\r\n"
 "As usual, my handlers on the Board are no help. Until I deliver results they can replicate, package, and disperse to the general population, they desire only silence and obedience from the likes of me. "
-msgstr ""
+msgstr "Osobní terminál - Dr. Eva Chartrandová ============================= Moje nejhorší podezření se potvrdilo. HRS-1084 byl vypleněn. Kdo ví, co se stalo se závěsnými nádržemi, můj týme? Jako obvykle mi moji průvodci v Radě nepomohli. Dokud nepřinesu výsledky, které by mohli replikovat, zabalit a rozšířit mezi širokou populaci, touží jen po mlčení a poslušnosti takových, jako jsem já. "
 
 #: conversations/02_terra2/0202_byzantium/0202_cp_chartrand_research_terminal:17
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cp_chartrand_research_terminal:17:DefaultText"
@@ -67,7 +67,7 @@ msgid "Personal Terminal - Dr. Eva Chartrand\r\n"
 "Laboratory Access\r\n"
 "\r\n"
 "Status: SEALED"
-msgstr ""
+msgstr "Osobní terminál - Dr. Eva Chartrand ============================= Stav přístupu do laboratoře: SEALED"
 
 #: conversations/02_terra2/0202_byzantium/0202_cp_chartrand_research_terminal:18
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cp_chartrand_research_terminal:18:DefaultText"
@@ -77,22 +77,22 @@ msgid "Personal Terminal - Dr. Eva Chartrand\r\n"
 "Laboratory Access\r\n"
 "\r\n"
 "Status: UNSEALED"
-msgstr ""
+msgstr "Osobní terminál - Dr. Eva Chartrand ============================= Stav přístupu do laboratoře: UNSEALED"
 
 #: conversations/02_terra2/0202_byzantium/0202_cp_chartrand_research_terminal:19
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cp_chartrand_research_terminal:19:DefaultText"
 msgid "[Unseal Entrance]"
-msgstr ""
+msgstr "[Odpečetit vchod]"
 
 #: conversations/02_terra2/0202_byzantium/0202_cp_chartrand_research_terminal:20
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cp_chartrand_research_terminal:20:DefaultText"
 msgid "[Return to Root]"
-msgstr ""
+msgstr "[Zpět na kořen]"
 
 #: conversations/02_terra2/0202_byzantium/0202_cp_chartrand_research_terminal:21
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cp_chartrand_research_terminal:21:DefaultText"
 msgid "[Continue]"
-msgstr ""
+msgstr "[Pokračovat]"
 
 #: conversations/02_terra2/0202_byzantium/0202_cp_chartrand_research_terminal:22
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cp_chartrand_research_terminal:22:DefaultText"
@@ -102,12 +102,12 @@ msgid "Personal Terminal - Dr. Eva Chartrand\r\n"
 "Doubtless there is a connection to be drawn to the hooligans who accessed my Monarch notes.\r\n"
 "\r\n"
 "The project demands that I protect every research asset with my life. Now the time has come to fulfill that promise."
-msgstr ""
+msgstr "Osobní terminál - Dr. Eva Chartrandová ============================= Nepochybně je tu souvislost s chuligány, kteří se dostali k mým poznámkám z Monarchu. Projekt vyžaduje, abych každý výzkumný přínos chránila svým životem. Nyní nastal čas tento slib splnit."
 
 #: conversations/02_terra2/0202_byzantium/0202_cp_chartrand_research_terminal:23
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cp_chartrand_research_terminal:23:DefaultText"
 msgid "[Continue]"
-msgstr ""
+msgstr "[Pokračovat]"
 
 #: conversations/02_terra2/0202_byzantium/0202_cp_chartrand_research_terminal:24
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cp_chartrand_research_terminal:24:DefaultText"
@@ -117,7 +117,7 @@ msgid "Personal Terminal - Dr. Eva Chartrand\r\n"
 "Could HRS-1084 have been jeopardized as well? \r\n"
 "\r\n"
 "If the project is under attack, it falls to me to defend it. There are too few of us left."
-msgstr ""
+msgstr "Osobní terminál - Dr. Eva Chartrand ============================= Mohl být ohrožen i HRS-1084? Pokud je projekt napaden, je na mně, abych ho bránil. Zůstalo nás příliš málo."
 
 #: conversations/02_terra2/0202_byzantium/0202_cp_chartrand_research_terminal:25
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cp_chartrand_research_terminal:25:DefaultText"
@@ -125,12 +125,12 @@ msgid "Personal Terminal - Dr. Eva Chartrand\r\n"
 "=============================\r\n"
 "\r\n"
 "I've received no messages from the Cascadia lab. I can hold out hope that a mere salvager happened upon HRS-1084, and not a saboteur. "
-msgstr ""
+msgstr "Osobní terminál - Dr. Eva Chartrand ============================= Z laboratoře Cascadia jsem neobdržela žádné zprávy. Mohu doufat, že na HRS-1084 narazil pouhý záchranář, a ne sabotér. "
 
 #: conversations/02_terra2/0202_byzantium/0202_cp_chartrand_research_terminal:26
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cp_chartrand_research_terminal:26:DefaultText"
 msgid "[Yet another relocation]"
-msgstr ""
+msgstr "[Další stěhování]"
 
 #: conversations/02_terra2/0202_byzantium/0202_cp_chartrand_research_terminal:27
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cp_chartrand_research_terminal:27:DefaultText"
@@ -142,12 +142,14 @@ msgid "Personal Terminal - Dr. Eva Chartrand\r\n"
 "Perhaps my home in steadfast Byzantium will offer the retreat I need. Though I miss working alongside colleagues, I know that I hardly deserved the ones I so enjoyed. The ones I lost.\n"
 "\n"
 "The work continues in isolation and loneliness, perhaps as it should. "
-msgstr ""
+msgstr "Osobní terminál - Dr. Eva Chartrandová ============================= Okolnosti v primární a sekundární laboratoři byly sotva optimální. Politická nestabilita vytrhla Cascadii trn z paty a jakási kombinace chalupářské horečky a paranoie zkvašila HRS-1084. \n"
+"\n"
+"Snad mi můj domov v nezlomné Byzanci poskytne potřebné útočiště. I když mi chybí práce po boku kolegů, vím, že jsem si ty, které jsem měl tak rád, sotva zasloužil. Těch, o které jsem přišel. Práce pokračuje v izolaci a osamění, možná tak, jak by měla. "
 
 #: conversations/02_terra2/0202_byzantium/0202_cp_chartrand_research_terminal:28
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cp_chartrand_research_terminal:28:DefaultText"
 msgid "[The first extraterrestrials]"
-msgstr ""
+msgstr "[První mimozemšťané]"
 
 #: conversations/02_terra2/0202_byzantium/0202_cp_chartrand_research_terminal:29
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cp_chartrand_research_terminal:29:DefaultText"
@@ -159,4 +161,4 @@ msgid "Personal Terminal - Dr. Eva Chartrand\r\n"
 "But our oldest trick didn't work in Halcyon, did it? Now we are the ones who must bow to a force greater than ourselves. We are the ones who must adapt.\r\n"
 "\r\n"
 "Update - Wine makes me too introspective. Perhaps I'll balance it out with vodka."
-msgstr ""
+msgstr "Osobní terminál - Dr. Eva Chartrand ============================= Od chvíle, kdy si náš druh začal uvědomovat sám sebe, jsme světům, kterých jsme se dotkli, vnucovali svou nadřazenost. Kolonialismus fungoval. Po určitou dobu, ale na Halcyonu náš nejstarší trik nefungoval, že? Teď jsme to my, kdo se musí sklonit před silou větší, než jsme my sami. To my se musíme přizpůsobit. Aktualizace - Víno mě činí příliš introspektivním. Možná to vyvážím vodkou."

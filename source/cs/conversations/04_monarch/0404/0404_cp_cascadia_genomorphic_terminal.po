@@ -11,7 +11,7 @@ msgid "Executive Research Focus Group\r\n"
 "Tank C: 0%\r\n"
 "\r\n"
 "WARNING: Plasma regulators critical. Evacuation is advised."
-msgstr ""
+msgstr "Executive Research Focus Group Regulační terminál ========================= ALTA-VITAE KAPACITA PLYNU Nádrž A: 0% Nádrž B: 0% Nádrž C: 0% VAROVÁNÍ: Plazmové regulátory jsou kritické. Doporučuje se evakuace."
 
 #: conversations/04_monarch/0404/0404_cp_cascadia_genomorphic_terminal:2
 msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_genomorphic_terminal:2:DefaultText"
@@ -24,7 +24,7 @@ msgid "Executive Research Focus Group\r\n"
 "Tank A: 0%\r\n"
 "Tank B: 0%\r\n"
 "Tank C: 0%"
-msgstr ""
+msgstr "Executive Research Focus Group Regulační terminál ========================= ALTA-VITAE KAPACITA PLYNU Nádrž A: 0% Nádrž B: 0% Nádrž C: 0%"
 
 #: conversations/04_monarch/0404/0404_cp_cascadia_genomorphic_terminal:3
 msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_genomorphic_terminal:3:DefaultText"
@@ -37,17 +37,17 @@ msgid "Executive Research Focus Group\r\n"
 "75 m3 Tank A: 64%\r\n"
 "75 m3 Tank B: 23%\r\n"
 "75 m3 Tank C: 79%"
-msgstr ""
+msgstr "Executive Research Focus Group Regulační terminál ========================= ALTA-VITAE KAPACITA PLYNU 75 m3 Nádrž A: 64% 75 m3 Nádrž B: 23% 75 m3 Nádrž C: 79%"
 
 #: conversations/04_monarch/0404/0404_cp_cascadia_genomorphic_terminal:4
 msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_genomorphic_terminal:4:DefaultText"
 msgid "[Connect Storage Tanks to the Landing Pad Refueling System]"
-msgstr ""
+msgstr "[Připojení skladovacích nádrží k systému doplňování paliva na přistávací ploše]"
 
 #: conversations/04_monarch/0404/0404_cp_cascadia_genomorphic_terminal:5
 msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_genomorphic_terminal:5:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"
 
 #: conversations/04_monarch/0404/0404_cp_cascadia_genomorphic_terminal:6
 msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_genomorphic_terminal:6:DefaultText"
@@ -60,7 +60,7 @@ msgid "Executive Research Focus Group\r\n"
 "Gas flow... FAILURE\r\n"
 "\r\n"
 "ERROR: Fuel type mismatch. Safety protocols engaged. Please send a support ticket to your local engineering department. Thank you!"
-msgstr ""
+msgstr "Výkonný výzkum Focus Group Regulace plynu Terminál ========================= Přistávací plocha... OCCUPIED Systém doplňování paliva... VYROVNANÝ Průtok plynu... CHYBNÝ SIGNÁL: Neshoda typu paliva. Zapojeny bezpečnostní protokoly. Pošlete dotaz na podporu místnímu technickému oddělení. Děkujeme!"
 
 #: conversations/04_monarch/0404/0404_cp_cascadia_genomorphic_terminal:7
 msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_genomorphic_terminal:7:DefaultText"
@@ -73,7 +73,7 @@ msgid "Executive Research Focus Group\r\n"
 "Gas flow... FAILURE\r\n"
 "\r\n"
 "ERROR: Refueling system offline. Realign fuel pumps to proceed."
-msgstr ""
+msgstr "Výkonný výzkum Focus Group Regulace plynu Terminál ========================= Přistávací plocha... OCCUPIED Systém doplňování paliva... VYPNUTO Průtok plynu... CHYBNÝ SIGNÁL: Systém doplňování paliva je vypnutý. Přenastavte palivová čerpadla, abyste mohli pokračovat."
 
 #: conversations/04_monarch/0404/0404_cp_cascadia_genomorphic_terminal:8
 msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_genomorphic_terminal:8:DefaultText"
@@ -86,27 +86,27 @@ msgid "Executive Research Focus Group\r\n"
 "Gas flow... FAILURE\r\n"
 "\r\n"
 "ERROR: Landing pad unoccupied. Refueling system locked down."
-msgstr ""
+msgstr "Výkonný výzkum Focus Group Regulace plynu Terminál ========================= Přistávací plocha... EMPTY Systém doplňování paliva... ZAMČENO Průtok plynu... CHYBNÝ SIGNÁL: Přistávací plocha neobsazena. Systém doplňování paliva zablokován."
 
 #: conversations/04_monarch/0404/0404_cp_cascadia_genomorphic_terminal:9
 msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_genomorphic_terminal:9:DefaultText"
 msgid "[Return to Root]"
-msgstr ""
+msgstr "[Zpět na kořen]"
 
 #: conversations/04_monarch/0404/0404_cp_cascadia_genomorphic_terminal:10
 msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_genomorphic_terminal:10:DefaultText"
 msgid "[Reconfigure the Fuel System to Accept Alta-Vitae Gas]"
-msgstr ""
+msgstr "[Překonfigurovat palivový systém na plyn Alta-Vitae]"
 
 #: conversations/04_monarch/0404/0404_cp_cascadia_genomorphic_terminal:11
 msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_genomorphic_terminal:11:DefaultText"
 msgid "[Override Safety Protocols]"
-msgstr ""
+msgstr "[Přepsat bezpečnostní protokoly]"
 
 #: conversations/04_monarch/0404/0404_cp_cascadia_genomorphic_terminal:12
 msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_genomorphic_terminal:12:DefaultText"
 msgid "[Overload Plasma Regulators to Force the Gas Through the System]"
-msgstr ""
+msgstr "[Přetížení plazmových regulátorů k protlačení plynu systémem]"
 
 #: conversations/04_monarch/0404/0404_cp_cascadia_genomorphic_terminal:23
 msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_genomorphic_terminal:23:DefaultText"
@@ -119,7 +119,7 @@ msgid "Executive Research Focus Group\r\n"
 "Tank A: 0%\r\n"
 "Tank B: 0%\r\n"
 "Tank C: 0%"
-msgstr ""
+msgstr "Executive Research Focus Group Regulační terminál ========================= ALTA-VITAE KAPACITA PLYNU Nádrž A: 0% Nádrž B: 0% Nádrž C: 0%"
 
 #: conversations/04_monarch/0404/0404_cp_cascadia_genomorphic_terminal:24
 msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_genomorphic_terminal:24:DefaultText"
@@ -132,14 +132,14 @@ msgid "Executive Research Focus Group\r\n"
 "System diagnostics indicate that there is a 105.3% chance that this will result in plasma leakage in all lab facilities. If you wish to proceed, immediate evacuation through the lab's express elevator system is recommended.\r\n"
 "\r\n"
 "Do you wish to proceed?"
-msgstr ""
+msgstr "Executive Research Focus Group Gas Regulation Terminal ========================= VAROVÁNÍ! Systémová diagnostika ukazuje, že existuje 105,3% pravděpodobnost, že dojde k úniku plazmy ve všech laboratorních zařízeních. Pokud si přejete pokračovat, doporučuje se okamžitá evakuace prostřednictvím expresního výtahového systému laboratoře. Přejete si pokračovat?"
 
 #: conversations/04_monarch/0404/0404_cp_cascadia_genomorphic_terminal:25
 msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_genomorphic_terminal:25:DefaultText"
 msgid "[Continue]"
-msgstr ""
+msgstr "[Pokračovat]"
 
 #: conversations/04_monarch/0404/0404_cp_cascadia_genomorphic_terminal:30
 msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_genomorphic_terminal:30:DefaultText"
 msgid "[Continue]"
-msgstr ""
+msgstr "[Pokračovat]"

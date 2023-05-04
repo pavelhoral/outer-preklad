@@ -4,22 +4,22 @@ msgid "Rizzo Message Network Terminal\r\n"
 "==========================\r\n"
 "\r\n"
 "REMINDER: Personal messages on Rizzo time will result in a mandatory deduction from your monthly candy fund."
-msgstr ""
+msgstr "Rizzo Message Network Terminal ========================== PŘIPOMÍNÁME: Osobní zprávy v čase Rizzo budou mít za následek povinné odečtení z vašeho měsíčního fondu na cukrovinky."
 
 #: conversations/04_monarch/0404/0404_cp_cascadia_telex_terminal:2
 msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_telex_terminal:2:DefaultText"
 msgid "[Signal ADA to Land on the Cascadia Pad]"
-msgstr ""
+msgstr "[Signál ADA k přistání na podložce Cascadia]"
 
 #: conversations/04_monarch/0404/0404_cp_cascadia_telex_terminal:3
 msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_telex_terminal:3:DefaultText"
 msgid "[Messages]"
-msgstr ""
+msgstr "[Zprávy]"
 
 #: conversations/04_monarch/0404/0404_cp_cascadia_telex_terminal:4
 msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_telex_terminal:4:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"
 
 #: conversations/04_monarch/0404/0404_cp_cascadia_telex_terminal:5
 msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_telex_terminal:5:DefaultText"
@@ -27,22 +27,22 @@ msgid "Rizzo Message Network Terminal\r\n"
 "==========================\r\n"
 "\r\n"
 "Messages"
-msgstr ""
+msgstr "Rizzo Message Network Terminal ========================== Zprávy"
 
 #: conversations/04_monarch/0404/0404_cp_cascadia_telex_terminal:6
 msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_telex_terminal:6:DefaultText"
 msgid "[FROM: REDACTED, SUBJECT: Re: See you on the station]"
-msgstr ""
+msgstr "[FROM: REDACTED, SUBJECT: Re: Uvidíme se na stanici]"
 
 #: conversations/04_monarch/0404/0404_cp_cascadia_telex_terminal:7
 msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_telex_terminal:7:DefaultText"
 msgid "[TO: L. Fahl, SUBJECT: Getting there]"
-msgstr ""
+msgstr "[TO: L. Fahl, SUBJECT: Getting there]"
 
 #: conversations/04_monarch/0404/0404_cp_cascadia_telex_terminal:8
 msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_telex_terminal:8:DefaultText"
 msgid "[Return to Root]"
-msgstr ""
+msgstr "[Zpět na kořen]"
 
 #: conversations/04_monarch/0404/0404_cp_cascadia_telex_terminal:9
 msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_telex_terminal:9:DefaultText"
@@ -62,7 +62,7 @@ msgid "Rizzo Message Network Terminal\r\n"
 "I understand we're bound for a secondary lab. Will you be supervising our research this time, or will it be the standard \"work from the shadows\" routine?\r\n"
 "\r\n"
 "~Eva"
-msgstr ""
+msgstr "Rizzo Message Network Terminal ========================== FROM: REDACTED TO: PŘEDMĚT: Chartrand, E: Re: Re: Uvidíme se na stanici Nebudete mě vidět, ale budu blízko. Pokračujte ve svém výzkumu, doktore. Až dosáhnete konečného stavu mise, podejte mi zprávu. OD: Chartrand, E: REDIGOVANÝ PŘEDMĚT: Uvidíme se na stanici Pokud vím, míříme do sekundární laboratoře. Budete tentokrát dohlížet na náš výzkum, nebo to bude standardní rutina \"práce ze stínu\"? ~Eva"
 
 #: conversations/04_monarch/0404/0404_cp_cascadia_telex_terminal:10
 msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_telex_terminal:10:DefaultText"
@@ -78,7 +78,7 @@ msgid "Rizzo Message Network Terminal\r\n"
 "I can promise you that our research will lead to a better Halcyon. Even if we have to pay a terrible cost getting there.\r\n"
 "\r\n"
 "~Eva"
-msgstr ""
+msgstr "Rizzo Message Network Terminal ========================== FROM: Chartrand, E: Fahl, L. PŘEDMĚT: Fahl, L: Děkuji za tvůj optimismus, Lore. To, co děláme, není snadné ani za těch nejlepších okolností, natož když Rada škrtá. Mohu vám slíbit, že náš výzkum povede k lepšímu Halcyonu. I když za to budeme muset zaplatit strašlivou cenu. ~Eva"
 
 #: conversations/04_monarch/0404/0404_cp_cascadia_telex_terminal:11
 msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_telex_terminal:11:DefaultText"
@@ -86,17 +86,17 @@ msgid "Rizzo Message Network Terminal\r\n"
 "==========================\r\n"
 "\r\n"
 "Sending message... SUCCESS"
-msgstr ""
+msgstr "Rizzo Message Network Terminal ========================== Odeslání zprávy... ÚSPĚCH"
 
 #: conversations/04_monarch/0404/0404_cp_cascadia_telex_terminal:12
 msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_telex_terminal:12:DefaultText"
 msgid "[Signal ADA to interface with the Cascadia Landing Pad]"
-msgstr ""
+msgstr "[Signál ADA k propojení s přistávací plochou Cascadia]"
 
 #: conversations/04_monarch/0404/0404_cp_cascadia_telex_terminal:13
 msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_telex_terminal:13:DefaultText"
 msgid "[Search - Fuel Controls]"
-msgstr ""
+msgstr "[Hledat - Řízení paliva]"
 
 #: conversations/04_monarch/0404/0404_cp_cascadia_telex_terminal:14
 msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_telex_terminal:14:DefaultText"
@@ -104,12 +104,12 @@ msgid "Rizzo Message Network Terminal\r\n"
 "==========================\r\n"
 "\r\n"
 "The closest functioning terminal with Refueling authorization is located above the flavor R&D lab. "
-msgstr ""
+msgstr "Terminál sítě zpráv Rizzo ========================== Nejbližší funkční terminál s oprávněním k doplňování paliva se nachází nad laboratoří pro výzkum a vývoj chutí. "
 
 #: conversations/04_monarch/0404/0404_cp_cascadia_telex_terminal:16
 msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_telex_terminal:16:DefaultText"
 msgid "[FROM: REDACTED, SUBJECT: Effects of O2 Rationing on Native Fauna]"
-msgstr ""
+msgstr "[OD: REDACTED, PŘEDMĚT: Vliv přídělu O2 na původní faunu]"
 
 #: conversations/04_monarch/0404/0404_cp_cascadia_telex_terminal:17
 msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_telex_terminal:17:DefaultText"
@@ -131,4 +131,4 @@ msgid "Rizzo Message Network Terminal\r\n"
 "We have made several discoveries about how the terraforming process affected the nuclein of the raptidon and manti families. At the very least allow us to inform our fellow Board researchers that these creatures will perish when O2 concentrations are reduced to 19.5%, a level within human tolerance.\r\n"
 "\r\n"
 "This is not about fame or prestige. This is about potentially saving lives. Please."
-msgstr ""
+msgstr "Rizzo Message Network Terminal ========================== FROM: REDACTED TO: PŘEDMĚT: Chartrand, E: Re: Re: Váš projekt je příliš důležitý - příliš citlivý - na to, aby se jakýkoli náznak dostal na veřejnost. FROM: Chartrand, E: REDIGOVANÝ PŘEDMĚT: Se vší úctou Vás žádám, abyste znovu zvážil své rozhodnutí utajit výsledky našeho výzkumu původní fauny Terry 1. Ujišťuji vás, že veškeré zmínky o našem projektu nebo jeho účelu budeme pečlivě redigovat ze všech dokumentů, které zveřejníme. Učinili jsme několik objevů o tom, jak proces terraformace ovlivnil nuklein čeledí raptidonů a mantiů. Přinejmenším nám dovolte informovat naše kolegy výzkumníky z rady, že tito tvorové zahynou, když se koncentrace O2 sníží na 19,5 %, tedy na úroveň, kterou člověk snese. Nejde nám o slávu ani prestiž. Jde o potenciální záchranu životů. Prosím."

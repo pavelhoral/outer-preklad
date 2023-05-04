@@ -1,159 +1,159 @@
 #: quests/04_monarch/sq_0402_afamilymatter:0
 msgctxt "quests/04_monarch/sq_0402_afamilymatter:0:DefaultText"
 msgid "A Family Matter"
-msgstr ""
+msgstr "Rodinná záležitost"
 
 #: quests/04_monarch/sq_0402_afamilymatter:1
 msgctxt "quests/04_monarch/sq_0402_afamilymatter:1:DefaultText"
 msgid "Look for Tucker Needham in Amber Heights"
-msgstr ""
+msgstr "Hledejte Tuckera Needhama v Amber Heights"
 
 #: quests/04_monarch/sq_0402_afamilymatter:2
 msgctxt "quests/04_monarch/sq_0402_afamilymatter:2:DefaultText"
 msgid "Convince Tucker to Return Home"
-msgstr ""
+msgstr "Přesvědčit Tuckera, aby se vrátil domů"
 
 #: quests/04_monarch/sq_0402_afamilymatter:3
 msgctxt "quests/04_monarch/sq_0402_afamilymatter:3:DefaultText"
 msgid "Return to Agnes Needham in Stellar Bay"
-msgstr ""
+msgstr "Zpět: Agnes Needham in Stellar Bay"
 
 #: quests/04_monarch/sq_0402_afamilymatter:6
 msgctxt "quests/04_monarch/sq_0402_afamilymatter:6:DefaultText"
 msgid "Hand Tucker's Ring to Agnes in Stellar Bay"
-msgstr ""
+msgstr "Předání Tuckerova prstenu Agnes ve Hvězdné zátoce"
 
 #: quests/04_monarch/sq_0402_afamilymatter:8
 msgctxt "quests/04_monarch/sq_0402_afamilymatter:8:DefaultText"
 msgid "Obtain Proof of Tucker's Death"
-msgstr ""
+msgstr "Získání důkazu o Tuckerově smrti"
 
 #: quests/04_monarch/sq_0402_afamilymatter:10000
 msgctxt "quests/04_monarch/sq_0402_afamilymatter:10000:DefaultText"
 msgid "Tucker Needham ran away from Stellar Bay a few weeks ago to join the Iconoclasts in Amber Heights. His mother Agnes is willing to pay handsomely if you can locate her son and convince him to return."
-msgstr ""
+msgstr "Tucker Needham před několika týdny utekl ze Stellar Bay a připojil se k Ikonoklastům v Amber Heights. Jeho matka Agnes je ochotná dobře zaplatit, pokud se vám podaří jejího syna najít a přesvědčit ho, aby se vrátil."
 
 #: quests/04_monarch/sq_0402_afamilymatter:10001
 msgctxt "quests/04_monarch/sq_0402_afamilymatter:10001:DefaultText"
 msgid "Amber Heights is the settlement that houses the Iconoclasts on Monarch. If Tucker Needham survived his travels, his mother thinks he'll be there."
-msgstr ""
+msgstr "Amber Heights je osada, ve které sídlí ikonoklasté na Monarchu. Pokud Tucker Needham přežil své putování, jeho matka si myslí, že tam bude."
 
 #: quests/04_monarch/sq_0402_afamilymatter:10002
 msgctxt "quests/04_monarch/sq_0402_afamilymatter:10002:DefaultText"
 msgid "Now that you've found Tucker Needham in Amber Heights, convince him to return home to his mother in Stellar Bay."
-msgstr ""
+msgstr "Nyní, když jste Tuckera Needhama našli v Amber Heights, přesvědčte ho, aby se vrátil domů ke své matce do Hvězdné zátoky."
 
 #: quests/04_monarch/sq_0402_afamilymatter:10003
 msgctxt "quests/04_monarch/sq_0402_afamilymatter:10003:DefaultText"
 msgid "You convinced Tucker Needham to return home to Stellar Bay. Agnes promised a reward for bringing her son back."
-msgstr ""
+msgstr "Přesvědčil jste Tuckera Needhama, aby se vrátil domů do Hvězdné zátoky. Agnes slíbila odměnu za přivedení svého syna zpět."
 
 #: quests/04_monarch/sq_0402_afamilymatter:10006
 msgctxt "quests/04_monarch/sq_0402_afamilymatter:10006:DefaultText"
 msgid "Tucker has asked you to tell Agnes that he died on his way to Amber Heights. Give Tucker's ring to Agnes as proof of his death."
-msgstr ""
+msgstr "Tucker vás požádal, abyste Agnes řekli, že zemřel na cestě do Amber Heights. Předejte Agnes Tuckerův prsten jako důkaz jeho smrti."
 
 #: quests/04_monarch/sq_0402_afamilymatter:10008
 msgctxt "quests/04_monarch/sq_0402_afamilymatter:10008:DefaultText"
 msgid "Unwilling to return to Stellar Bay, Tucker attacked you. Now that he's dead, search his body for a memento that you can give to his mother."
-msgstr ""
+msgstr "Tucker se nechtěl vrátit do Hvězdné zátoky a napadl vás. Teď, když je mrtvý, prohledejte jeho tělo a najděte památku, kterou můžete dát jeho matce."
 
 #: quests/04_monarch/sq_0402_afamilymatter:20000
 msgctxt "quests/04_monarch/sq_0402_afamilymatter:20000:DefaultText"
 msgid "You persuaded Tucker to return to Stellar Bay and confront his mother. He decided that he would stand up for himself as a grown man."
-msgstr ""
+msgstr "Přesvědčil jsi Tuckera, aby se vrátil do Hvězdné zátoky a postavil se své matce. Rozhodl se, že se postaví sám za sebe jako dospělý muž."
 
 #: quests/04_monarch/sq_0402_afamilymatter:20001
 msgctxt "quests/04_monarch/sq_0402_afamilymatter:20001:DefaultText"
 msgid "You threatened to hurt Agnes for her money unless Tucker returned to Stellar Bay."
-msgstr ""
+msgstr "Vyhrožoval jsi Agnes, že jí ublížíš kvůli penězům, pokud se Tucker nevrátí do Hvězdné zátoky."
 
 #: quests/04_monarch/sq_0402_afamilymatter:20002
 msgctxt "quests/04_monarch/sq_0402_afamilymatter:20002:DefaultText"
 msgid "You agreed to tell Agnes that Tucker died. He gave you his father's ring as proof of his death."
-msgstr ""
+msgstr "Souhlasil jsi, že Agnes řekneš, že Tucker zemřel. Dal ti prsten svého otce jako důkaz jeho smrti."
 
 #: quests/04_monarch/sq_0402_afamilymatter:30000
 msgctxt "quests/04_monarch/sq_0402_afamilymatter:30000:DefaultText"
 msgid "With Agnes Needham dead, no one is left alive to care about Tucker joining the Iconoclasts."
-msgstr ""
+msgstr "Agnes Needhamová je mrtvá, a tak už nikomu nezáleží na tom, aby se Tucker přidal k Ikonoklastům."
 
 #: quests/04_monarch/sq_0402_afamilymatter:30001
 msgctxt "quests/04_monarch/sq_0402_afamilymatter:30001:DefaultText"
 msgid "Tucker returned to Stellar Bay after you threatened to harm Agnes. His mother was very generous, now that her son is home safe again."
-msgstr ""
+msgstr "Tucker se vrátil do Hvězdné zátoky poté, co jsi vyhrožoval, že Agnes ublížíš. Jeho matka byla velmi velkorysá, teď když je její syn opět doma v bezpečí."
 
 #: quests/04_monarch/sq_0402_afamilymatter:30002
 msgctxt "quests/04_monarch/sq_0402_afamilymatter:30002:DefaultText"
 msgid "You convinced Tucker to return and confront his mother about treating him like an adult and letting him live his own life. Agnes was unhappy that her son wasn't staying, but grudgingly rewarded you for convincing him to return."
-msgstr ""
+msgstr "Přesvědčil jsi Tuckera, aby se vrátil a konfrontoval svou matku s tím, že se k němu má chovat jako k dospělému a nechat ho žít jeho vlastní život. Agnes byla nešťastná, že její syn nezůstal, ale neochotně tě odměnila za to, že jsi ho přesvědčil, aby se vrátil."
 
 #: quests/04_monarch/sq_0402_afamilymatter:30003
 msgctxt "quests/04_monarch/sq_0402_afamilymatter:30003:DefaultText"
 msgid "Tucker Needham refused to return to Stellar Bay and attacked you when you tried to force him to go. You were forced to kill him to defend yourself. You managed to lie to Agnes about her son's death and still obtain a reward."
-msgstr ""
+msgstr "Tucker Needham se odmítl vrátit do Hvězdné zátoky a napadl vás, když jste ho chtěli donutit odejít. Byl jsi nucen ho zabít, aby ses ubránil. Podařilo se ti zalhat Agnes o smrti jejího syna a ještě získat odměnu."
 
 #: quests/04_monarch/sq_0402_afamilymatter:30004
 msgctxt "quests/04_monarch/sq_0402_afamilymatter:30004:DefaultText"
 msgid "Tucker was so desperate to stay away from his mother that he convinced you to tell Agnes he was dead. He gave you a family ring to use as proof of his death. Agnes was heartbroken when you told her the lie."
-msgstr ""
+msgstr "Tucker se tak zoufale snažil držet od matky dál, že tě přesvědčil, abys Agnes řekl, že je mrtvý. Dal ti rodinný prsten, abys ho použila jako důkaz jeho smrti. Když jsi jí tu lež řekl, Agnes to zlomilo srdce."
 
 #: quests/04_monarch/sq_0402_afamilymatter:30005
 msgctxt "quests/04_monarch/sq_0402_afamilymatter:30005:DefaultText"
 msgid "Tucker was so desperate to stay away from his mother that he asked you to tell Agnes he was dead. He gave you a family ring to use as proof of his death. You decided to tell Agnes the truth as an example of how much her son wanted to be away from her. She was heartbroken, but agreed there was nothing more she could do."
-msgstr ""
+msgstr "Tucker se tak zoufale snažil držet od matky dál, že tě požádal, abys Agnes řekla, že je mrtvý. Dal ti rodinný prsten, abys ho použila jako důkaz jeho smrti. Rozhodl ses říct Agnes pravdu jako příklad toho, jak moc od ní její syn chtěl být pryč. Zlomilo jí to srdce, ale souhlasila, že už nemůže nic dělat."
 
 #: quests/04_monarch/sq_0402_afamilymatter:30006
 msgctxt "quests/04_monarch/sq_0402_afamilymatter:30006:DefaultText"
 msgid "Tucker Needham died at Amber Heights. You informed Agnes of her son's death."
-msgstr ""
+msgstr "Tucker Needham zemřel v Amber Heights. Agnes jste o smrti jejího syna informoval."
 
 #: quests/04_monarch/sq_0402_afamilymatter:30007
 msgctxt "quests/04_monarch/sq_0402_afamilymatter:30007:DefaultText"
 msgid "Tucker Needham died at Amber Heights. You found a ring on his body and returned it to his mother Agnes."
-msgstr ""
+msgstr "Tucker Needham zemřel v Amber Heights. Na jeho těle jste našli prsten a vrátili ho jeho matce Agnes."
 
 #: quests/04_monarch/sq_0402_afamilymatter:30008
 msgctxt "quests/04_monarch/sq_0402_afamilymatter:30008:DefaultText"
 msgid "Tucker Needham refused to return to Stellar Bay and attacked you when you tried to force him to go. You killed him to defend yourself. You told Agnes the truth about her son's death, leaving her heartbroken."
-msgstr ""
+msgstr "Tucker Needham se odmítl vrátit do Hvězdné zátoky a napadl vás, když jste ho chtěli donutit odejít. Na svou obranu jste ho zabil. Řekl jsi Agnes pravdu o smrti jejího syna, což jí zlomilo srdce."
 
 #: quests/04_monarch/sq_0402_afamilymatter:30009
 msgctxt "quests/04_monarch/sq_0402_afamilymatter:30009:DefaultText"
 msgid "You decided you were no longer going to help Agnes convince her son to return to Stellar Bay."
-msgstr ""
+msgstr "Rozhodl ses, že už nebudeš pomáhat Agnes přesvědčit jejího syna, aby se vrátil do Hvězdné zátoky."
 
 #: quests/04_monarch/sq_0402_afamilymatter:30010
 msgctxt "quests/04_monarch/sq_0402_afamilymatter:30010:DefaultText"
 msgid "You convinced Agnes it was time to let her son grow up. She agreed to leave him in peace in Amber Heights with the Iconoclasts."
-msgstr ""
+msgstr "Přesvědčil jsi Agnes, že je čas nechat syna dospět. Souhlasila, že ho nechá v klidu v Amber Heights u ikonoklastů."
 
 #: quests/04_monarch/sq_0402_afamilymatter:30011
 msgctxt "quests/04_monarch/sq_0402_afamilymatter:30011:DefaultText"
 msgid "You threatened Agnes's life in order to convince Tucker to return home. After you collected your reward from Agnes, you told Tucker he could return to Amber Heights and the Iconoclasts."
-msgstr ""
+msgstr "Vyhrožoval jsi Agnes, abys Tuckera přesvědčil, aby se vrátil domů. Poté, co jsi od Agnes převzal odměnu, jsi Tuckerovi řekl, že se může vrátit do Amber Heights a k Ikonoklastům."
 
 #: quests/04_monarch/sq_0402_afamilymatter:30014
 msgctxt "quests/04_monarch/sq_0402_afamilymatter:30014:DefaultText"
 msgid "After the battle outside Stellar Bay, Tucker has vanished."
-msgstr ""
+msgstr "Po bitvě před Hvězdnou zátokou Tucker zmizel."
 
 #: quests/04_monarch/sq_0402_afamilymatter:30015
 msgctxt "quests/04_monarch/sq_0402_afamilymatter:30015:DefaultText"
 msgid "You murdered Tucker in front of Agnes, she is heartbroken and will no longer speak with you."
-msgstr ""
+msgstr "Zavraždil jsi Tuckera před očima Agnes, která má zlomené srdce a už s tebou nechce mluvit."
 
 #: quests/04_monarch/sq_0402_afamilymatter:40001
 msgctxt "quests/04_monarch/sq_0402_afamilymatter:40001:DefaultText"
 msgid "Tucker attacked you rather than return to his life in Stellar Bay. Return his ring to Agnes as proof of her son's death."
-msgstr ""
+msgstr "Tucker vás raději napadl, než aby se vrátil ke svému životu ve Hvězdné zátoce. Vrať jeho prsten Agnes jako důkaz synovy smrti."
 
 #: quests/04_monarch/sq_0402_afamilymatter:40002
 msgctxt "quests/04_monarch/sq_0402_afamilymatter:40002:DefaultText"
 msgid "Tucker died in Amber Heights. See if his body contains a memento you can give to his mother."
-msgstr ""
+msgstr "Tucker zemřel v Amber Heights. Podívejte se, zda jeho tělo neobsahuje nějakou památku, kterou byste mohli předat jeho matce."
 
 #: quests/04_monarch/sq_0402_afamilymatter:40003
 msgctxt "quests/04_monarch/sq_0402_afamilymatter:40003:DefaultText"
 msgid "Tucker died in Amber Heights. Give his ring to Agnes as proof of her son's death."
-msgstr ""
+msgstr "Tucker zemřel v Amber Heights. Dejte jeho prsten Agnes jako důkaz synovy smrti."

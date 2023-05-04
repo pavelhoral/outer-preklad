@@ -1,699 +1,699 @@
 #: conversations/00_emerald_vale/00_cv_conrad:1
 msgctxt "conversations/00_emerald_vale/00_cv_conrad:1:DefaultText"
 msgid "I can't possibly cut anyone's hair in the dark."
-msgstr ""
+msgstr "Nemůžu nikomu stříhat vlasy ve tmě."
 
 #: conversations/00_emerald_vale/00_cv_conrad:2
 msgctxt "conversations/00_emerald_vale/00_cv_conrad:2:DefaultText"
 msgid "Please don't touch anything. Your hands are probably crawling with germs."
-msgstr ""
+msgstr "Ničeho se nedotýkejte. Vaše ruce jsou pravděpodobně plné bakterií."
 
 #: conversations/00_emerald_vale/00_cv_conrad:3
 msgctxt "conversations/00_emerald_vale/00_cv_conrad:3:DefaultText"
 msgid "Physical hygiene recapitulates moral hygiene. Cleanliness... is next to lawfulness."
-msgstr ""
+msgstr "Tělesná hygiena kopíruje morální hygienu. Čistota... je vedle zákonnosti."
 
 #: conversations/00_emerald_vale/00_cv_conrad:4
 msgctxt "conversations/00_emerald_vale/00_cv_conrad:4:DefaultText"
 msgid "Relax. I'm clean."
-msgstr ""
+msgstr "Uvolněte se. Jsem čistý."
 
 #: conversations/00_emerald_vale/00_cv_conrad:5
 msgctxt "conversations/00_emerald_vale/00_cv_conrad:5:DefaultText"
 msgid "So everyone says. Until someone forgets to cough into their elbow, and then we're all dying of plague."
-msgstr ""
+msgstr "Všichni říkají. Dokud si někdo nezapomene odkašlat do lokte, a pak všichni umřeme na mor."
 
 #: conversations/00_emerald_vale/00_cv_conrad:6
 msgctxt "conversations/00_emerald_vale/00_cv_conrad:6:DefaultText"
 msgid "I'm Conrad. You will report to me if your hair fails to meet Spacer's Choice aesthetic standards."
-msgstr ""
+msgstr "Já jsem Conrad. Pokud vaše vlasy nebudou splňovat estetické standardy Spacer's Choice, budete se mi hlásit."
 
 #: conversations/00_emerald_vale/00_cv_conrad:7
 msgctxt "conversations/00_emerald_vale/00_cv_conrad:7:DefaultText"
 msgid "You will also report to me in the event of your death, whereupon I will clean and prepare your remains for interment."
-msgstr ""
+msgstr "V případě své smrti se mi také ohlásíš, načež uklidím a připravím tvé ostatky k pohřbení."
 
 #: conversations/00_emerald_vale/00_cv_conrad:8
 msgctxt "conversations/00_emerald_vale/00_cv_conrad:8:DefaultText"
 msgid "I'm looking to repair my ship."
-msgstr ""
+msgstr "Chci opravit svou loď."
 
 #: conversations/00_emerald_vale/00_cv_conrad:10
 msgctxt "conversations/00_emerald_vale/00_cv_conrad:10:DefaultText"
 msgid "Ship parts. Right. Well, I see the good vicar is in your company. He is obviously guiding you through your delusions, so I will not interfere."
-msgstr ""
+msgstr "Lodní díly. Vpravo. Vidím, že dobrý vikář je ve vaší společnosti. Zjevně vás vede skrze vaše bludy, takže se do toho nebudu plést."
 
 #: conversations/00_emerald_vale/00_cv_conrad:11
 msgctxt "conversations/00_emerald_vale/00_cv_conrad:11:DefaultText"
 msgid "A ship? Dear me. You seem to have lost the ability to distinguish between reality and fantasy. This is what happens when you let your imagination run wild."
-msgstr ""
+msgstr "Loď? Drahý pane. Zdá se, že jsi ztratil schopnost rozlišovat mezi realitou a fantazií. Takhle to dopadá, když popustíte uzdu své fantazii."
 
 #: conversations/00_emerald_vale/00_cv_conrad:12
 msgctxt "conversations/00_emerald_vale/00_cv_conrad:12:DefaultText"
 msgid "Your vicar?"
-msgstr ""
+msgstr "Váš vikář?"
 
 #: conversations/00_emerald_vale/00_cv_conrad:13
 msgctxt "conversations/00_emerald_vale/00_cv_conrad:13:DefaultText"
 msgid "You'll find him in our local church, probably neglecting his duties."
-msgstr ""
+msgstr "Najdete ho v našem místním kostele, kde pravděpodobně zanedbává své povinnosti."
 
 #: conversations/00_emerald_vale/00_cv_conrad:14
 msgctxt "conversations/00_emerald_vale/00_cv_conrad:14:DefaultText"
 msgid "You don't seem to like him much."
-msgstr ""
+msgstr "Nezdá se, že bys ho měl příliš rád."
 
 #: conversations/00_emerald_vale/00_cv_conrad:15
 msgctxt "conversations/00_emerald_vale/00_cv_conrad:15:DefaultText"
 msgid "He doesn't seem to like us much. The Vicar has not been with us long, and in his relatively short tenure in Edgewater, gives off the distinct whiff of superiority."
-msgstr ""
+msgstr "Zdá se, že nás nemá moc rád. Pan farář u nás nepůsobí dlouho a za své relativně krátké působení v Edgewateru z něj jasně čiší nadřazenost."
 
 #: conversations/00_emerald_vale/00_cv_conrad:16
 msgctxt "conversations/00_emerald_vale/00_cv_conrad:16:DefaultText"
 msgid "I've got some questions for you."
-msgstr ""
+msgstr "Mám na vás několik otázek."
 
 #: conversations/00_emerald_vale/00_cv_conrad:17
 msgctxt "conversations/00_emerald_vale/00_cv_conrad:17:DefaultText"
 msgid "Silas sent me to collect your dues."
-msgstr ""
+msgstr "Silas mě poslal, abych vybral vaše poplatky."
 
 #: conversations/00_emerald_vale/00_cv_conrad:18
 msgctxt "conversations/00_emerald_vale/00_cv_conrad:18:DefaultText"
 msgid "Prepare my remains for what?"
-msgstr ""
+msgstr "Na co připravit mé ostatky?"
 
 #: conversations/00_emerald_vale/00_cv_conrad:19
 msgctxt "conversations/00_emerald_vale/00_cv_conrad:19:DefaultText"
 msgid "Burial, in the unfortunate event of a fatality. It's what a barber does. We make you presentable."
-msgstr ""
+msgstr "Pohřeb v případě nešťastného úmrtí. To dělá holič. Uděláme vás reprezentativními."
 
 #: conversations/00_emerald_vale/00_cv_conrad:20
 msgctxt "conversations/00_emerald_vale/00_cv_conrad:20:DefaultText"
 msgid "Speaking of burials, Silas sent me to collect your fees."
-msgstr ""
+msgstr "Když už mluvíme o pohřbech, Silas mě poslal vybrat vaše poplatky."
 
 #: conversations/00_emerald_vale/00_cv_conrad:21
 msgctxt "conversations/00_emerald_vale/00_cv_conrad:21:DefaultText"
 msgid "Goodbye."
-msgstr ""
+msgstr "Sbohem."
 
 #: conversations/00_emerald_vale/00_cv_conrad:22
 msgctxt "conversations/00_emerald_vale/00_cv_conrad:22:DefaultText"
 msgid "Do your haircuts usually come with free lectures?"
-msgstr ""
+msgstr "Je součástí vašich účesů obvykle i přednáška zdarma?"
 
 #: conversations/00_emerald_vale/00_cv_conrad:23
 msgctxt "conversations/00_emerald_vale/00_cv_conrad:23:DefaultText"
 msgid "We don't believe in free anything here in Edgewater. We're a Spacer's Choice company. "
-msgstr ""
+msgstr "V Edgewateru nevěříme na nic zadarmo. Jsme společnost Spacer's Choice. "
 
 #: conversations/00_emerald_vale/00_cv_conrad:24
 msgctxt "conversations/00_emerald_vale/00_cv_conrad:24:DefaultText"
 msgid "I can show you my hands."
-msgstr ""
+msgstr "Mohu vám ukázat své ruce."
 
 #: conversations/00_emerald_vale/00_cv_conrad:25
 msgctxt "conversations/00_emerald_vale/00_cv_conrad:25:DefaultText"
 msgid "No. Thank you. That's quite all right. I've seen enough body parts in my line of work."
-msgstr ""
+msgstr "Ne. Děkuji. To je v pořádku. Při své práci jsem už viděl dost částí těl."
 
 #: conversations/00_emerald_vale/00_cv_conrad:26
 msgctxt "conversations/00_emerald_vale/00_cv_conrad:26:DefaultText"
 msgid "Listening to you makes my head hurt."
-msgstr ""
+msgstr "Když tě poslouchám, bolí mě hlava."
 
 #: conversations/00_emerald_vale/00_cv_conrad:27
 msgctxt "conversations/00_emerald_vale/00_cv_conrad:27:DefaultText"
 msgid "This is what happens when you eat with your fingers."
-msgstr ""
+msgstr "Tak to dopadá, když jíte prsty."
 
 #: conversations/00_emerald_vale/00_cv_conrad:31
 msgctxt "conversations/00_emerald_vale/00_cv_conrad:31:DefaultText"
 msgid "You seem pretty enthusiastic about this place."
-msgstr ""
+msgstr "Zdá se, že jste z tohoto místa nadšený."
 
 #: conversations/00_emerald_vale/00_cv_conrad:32
 msgctxt "conversations/00_emerald_vale/00_cv_conrad:32:DefaultText"
 msgid "Edgewater has been good to me. I consider myself privileged to work here."
-msgstr ""
+msgstr "Edgewater se ke mně chová dobře. Považuji za čest, že zde mohu pracovat."
 
 #: conversations/00_emerald_vale/00_cv_conrad:33
 msgctxt "conversations/00_emerald_vale/00_cv_conrad:33:DefaultText"
 msgid "I am never wanting for work, not since the plagues started. "
-msgstr ""
+msgstr "Nikdy nemám nouzi o práci, od té doby, co začaly pohromy. "
 
 #: conversations/00_emerald_vale/00_cv_conrad:34
 msgctxt "conversations/00_emerald_vale/00_cv_conrad:34:DefaultText"
 msgid "Sounds exhausting."
-msgstr ""
+msgstr "To zní vyčerpávající."
 
 #: conversations/00_emerald_vale/00_cv_conrad:35
 msgctxt "conversations/00_emerald_vale/00_cv_conrad:35:DefaultText"
 msgid "As the good vicar says, work fortifies the spirit of a man. If you want to feel exhausted, try not having any work."
-msgstr ""
+msgstr "Jak říká dobrý farář, práce posiluje ducha člověka. Pokud se chcete cítit vyčerpaní, zkuste nemít žádnou práci."
 
 #: conversations/00_emerald_vale/00_cv_conrad:36
 msgctxt "conversations/00_emerald_vale/00_cv_conrad:36:DefaultText"
 msgid "That's all for now."
-msgstr ""
+msgstr "To je prozatím vše."
 
 #: conversations/00_emerald_vale/00_cv_conrad:37
 msgctxt "conversations/00_emerald_vale/00_cv_conrad:37:DefaultText"
 msgid "What do you know about this plague?"
-msgstr ""
+msgstr "Co víte o této nákaze?"
 
 #: conversations/00_emerald_vale/00_cv_conrad:38
 msgctxt "conversations/00_emerald_vale/00_cv_conrad:38:DefaultText"
 msgid "The plague's come at us with a vengeance this year. Lost six workers in as many months."
-msgstr ""
+msgstr "Letos se nám mor vymstil. Během několika měsíců jsme přišli o šest pracovníků."
 
 #: conversations/00_emerald_vale/00_cv_conrad:39
 msgctxt "conversations/00_emerald_vale/00_cv_conrad:39:DefaultText"
 msgid "I wouldn't call them good workers, mind you. If they were any good, they'd have been treated. Still, it is a shame."
-msgstr ""
+msgstr "Nenazval bych je dobrými pracovníky. Kdyby byli dobří, tak by se nechali ošetřit. Přesto je to škoda."
 
 #: conversations/00_emerald_vale/00_cv_conrad:40
 msgctxt "conversations/00_emerald_vale/00_cv_conrad:40:DefaultText"
 msgid "What are the symptoms?"
-msgstr ""
+msgstr "Jaké jsou příznaky?"
 
 #: conversations/00_emerald_vale/00_cv_conrad:41
 msgctxt "conversations/00_emerald_vale/00_cv_conrad:41:DefaultText"
 msgid "Fever. Chills. Fatigue. Aching. Vomiting. An excess of phlegm. A tendency toward bellyaching."
-msgstr ""
+msgstr "Horečka. Zimnice. Únava. Bolesti. Zvracení. Nadbytek hlenu. Sklon k břichabolení."
 
 #: conversations/00_emerald_vale/00_cv_conrad:42
 msgctxt "conversations/00_emerald_vale/00_cv_conrad:42:DefaultText"
 msgid "What you're describing sounds a lot like a flu."
-msgstr ""
+msgstr "To, co popisujete, se hodně podobá chřipce."
 
 #: conversations/00_emerald_vale/00_cv_conrad:43
 msgctxt "conversations/00_emerald_vale/00_cv_conrad:43:DefaultText"
 msgid "Whatever it may be, I have developed my own palliative. Boiled canid liver and a splash of ethanol."
-msgstr ""
+msgstr "Ať už je to cokoli, vyvinul jsem si vlastní paliativum. Vařená kanidská játra a kapka etanolu."
 
 #: conversations/00_emerald_vale/00_cv_conrad:44
 msgctxt "conversations/00_emerald_vale/00_cv_conrad:44:DefaultText"
 msgid "Why don't you treat all your workers?"
-msgstr ""
+msgstr "Proč neošetřujete všechny své zaměstnance?"
 
 #: conversations/00_emerald_vale/00_cv_conrad:45
 msgctxt "conversations/00_emerald_vale/00_cv_conrad:45:DefaultText"
 msgid "Company policy, friend. We don't have enough medicine to treat all of us, so we treat the best among us."
-msgstr ""
+msgstr "Zásady společnosti, příteli. Nemáme dost léků na léčbu všech, tak léčíme ty nejlepší z nás."
 
 #: conversations/00_emerald_vale/00_cv_conrad:46
 msgctxt "conversations/00_emerald_vale/00_cv_conrad:46:DefaultText"
 msgid "Sensible policy."
-msgstr ""
+msgstr "Rozumná politika."
 
 #: conversations/00_emerald_vale/00_cv_conrad:47
 msgctxt "conversations/00_emerald_vale/00_cv_conrad:47:DefaultText"
 msgid "We're a sensible people."
-msgstr ""
+msgstr "Jsme rozumní lidé."
 
 #: conversations/00_emerald_vale/00_cv_conrad:48
 msgctxt "conversations/00_emerald_vale/00_cv_conrad:48:DefaultText"
 msgid "Whose idea was that?"
-msgstr ""
+msgstr "Čí to byl nápad?"
 
 #: conversations/00_emerald_vale/00_cv_conrad:49
 msgctxt "conversations/00_emerald_vale/00_cv_conrad:49:DefaultText"
 msgid "Mr. Tobson's brainchild. Have you met him yet? Thoughtful-looking fellow. Stares out of his office most hours."
-msgstr ""
+msgstr "Dítě pana Tobsona. Už jste se s ním setkali? Vypadá přemýšlivě. Většinu času kouká ze své kanceláře."
 
 #: conversations/00_emerald_vale/00_cv_conrad:50
 msgctxt "conversations/00_emerald_vale/00_cv_conrad:50:DefaultText"
 msgid "That's monstrous."
-msgstr ""
+msgstr "To je obludné."
 
 #: conversations/00_emerald_vale/00_cv_conrad:51
 msgctxt "conversations/00_emerald_vale/00_cv_conrad:51:DefaultText"
 msgid "Nature is monstrous, friend. And this plague is natural selection at work."
-msgstr ""
+msgstr "Příroda je obludná, příteli. A tato nákaza je přírodní výběr."
 
 #: conversations/00_emerald_vale/00_cv_conrad:52
 msgctxt "conversations/00_emerald_vale/00_cv_conrad:52:DefaultText"
 msgid "Never mind. Goodbye."
-msgstr ""
+msgstr "Nevadí. Sbohem."
 
 #: conversations/00_emerald_vale/00_cv_conrad:54
 msgctxt "conversations/00_emerald_vale/00_cv_conrad:54:DefaultText"
 msgid "Go ahead."
-msgstr ""
+msgstr "Pokračujte."
 
 #: conversations/00_emerald_vale/00_cv_conrad:57
 msgctxt "conversations/00_emerald_vale/00_cv_conrad:57:DefaultText"
 msgid "Ah. Gravesite fees. Silas and I have talked about this at length. I thought I'd made it clear my pecuniary situation precludes the necessary restitutions."
-msgstr ""
+msgstr "Ach. Poplatky za hrobové místo. Se Silasem jsme o tom dlouze mluvili. Myslel jsem, že jsem dal jasně najevo, že moje finanční situace vylučuje nezbytné restituce."
 
 #: conversations/00_emerald_vale/00_cv_conrad:58
 msgctxt "conversations/00_emerald_vale/00_cv_conrad:58:DefaultText"
 msgid "You mean you're broke."
-msgstr ""
+msgstr "Chceš říct, že jsi na mizině."
 
 #: conversations/00_emerald_vale/00_cv_conrad:59
 msgctxt "conversations/00_emerald_vale/00_cv_conrad:59:DefaultText"
 msgid "As broke as piecrust, friend. Bitless. Indigent. Destitute."
-msgstr ""
+msgstr "Zlomené jako kůrka, příteli. Bez kousnutí. Nemajetný. Zubožený."
 
 #: conversations/00_emerald_vale/00_cv_conrad:60
 msgctxt "conversations/00_emerald_vale/00_cv_conrad:60:DefaultText"
 msgid "I simply cannot afford it. I am a blemish on the prosperity of our fair settlement. When I expire, I expect Silas to toss my body into a ditch."
-msgstr ""
+msgstr "Prostě si to nemohu dovolit. Jsem skvrnou na prosperitě naší spravedlivé osady. Až zemřu, očekávám, že Silas hodí mé tělo do příkopu."
 
 #: conversations/00_emerald_vale/00_cv_conrad:61
 msgctxt "conversations/00_emerald_vale/00_cv_conrad:61:DefaultText"
 msgid "I don't care. Pay up."
-msgstr ""
+msgstr "Je mi to jedno. Zaplaťte."
 
 #: conversations/00_emerald_vale/00_cv_conrad:62
 msgctxt "conversations/00_emerald_vale/00_cv_conrad:62:DefaultText"
 msgid "With what? My own blood?"
-msgstr ""
+msgstr "Čím? Mou vlastní krví?"
 
 #: conversations/00_emerald_vale/00_cv_conrad:63
 msgctxt "conversations/00_emerald_vale/00_cv_conrad:63:DefaultText"
 msgid "Tell Silas I can't afford to pay, and that I fully expect to have my medical rights revoked for this dereliction. With my apologies."
-msgstr ""
+msgstr "Řekni Silasovi, že si nemohu dovolit platit a že plně očekávám, že mi za toto opomenutí budou odebrána lékařská práva. S omluvou."
 
 #: conversations/00_emerald_vale/00_cv_conrad:64
 msgctxt "conversations/00_emerald_vale/00_cv_conrad:64:DefaultText"
 msgid "Hang on. Medical rights?"
-msgstr ""
+msgstr "Vydržte. Lékařská práva?"
 
 #: conversations/00_emerald_vale/00_cv_conrad:65
 msgctxt "conversations/00_emerald_vale/00_cv_conrad:65:DefaultText"
 msgid "Some time ago, I fell ill with the plague. By the grace of the Law, and through my own hard work, I'd proven worthy of treatment. "
-msgstr ""
+msgstr "Před časem jsem onemocněl morem. Díky milosti Zákona a vlastní tvrdé práci jsem dokázal, že jsem hoden léčby. "
 
 #: conversations/00_emerald_vale/00_cv_conrad:66
 msgctxt "conversations/00_emerald_vale/00_cv_conrad:66:DefaultText"
 msgid "Frankly, I don't imagine I'll earn that right a second time. The barber work hasn't been profitable, you see. I've had to keep this old place running with my own savings."
-msgstr ""
+msgstr "Upřímně řečeno, neumím si představit, že bych si toto právo zasloužil podruhé. Práce holiče nebyla výnosná, víte. Musel jsem tenhle starý podnik udržovat v chodu z vlastních úspor."
 
 #: conversations/00_emerald_vale/00_cv_conrad:67
 msgctxt "conversations/00_emerald_vale/00_cv_conrad:67:DefaultText"
 msgid "Just give Silas an IOU."
-msgstr ""
+msgstr "Prostě dej Silasovi dlužní úpis."
 
 #: conversations/00_emerald_vale/00_cv_conrad:68
 msgctxt "conversations/00_emerald_vale/00_cv_conrad:68:DefaultText"
 msgid "Not a bad idea. But I'd need some kind of collateral. My pair of lucky clippers? No, that won't do."
-msgstr ""
+msgstr "To není špatný nápad. Ale potřeboval bych nějakou záruku. Moje nůžky pro štěstí? Ne, to nepůjde."
 
 #: conversations/00_emerald_vale/00_cv_conrad:69
 msgctxt "conversations/00_emerald_vale/00_cv_conrad:69:DefaultText"
 msgid "Your idea intrigues me, but I'm afraid I don't have anything to give Silas. I'm open to suggestions."
-msgstr ""
+msgstr "Tvůj nápad mě zaujal, ale obávám se, že Silasovi nemám co dát. Jsem otevřený návrhům."
 
 #: conversations/00_emerald_vale/00_cv_conrad:70
 msgctxt "conversations/00_emerald_vale/00_cv_conrad:70:DefaultText"
 msgid "What about Eugene's gold teeth?"
-msgstr ""
+msgstr "A co Evženovy zlaté zuby?"
 
 #: conversations/00_emerald_vale/00_cv_conrad:71
 msgctxt "conversations/00_emerald_vale/00_cv_conrad:71:DefaultText"
 msgid "You know about Eugene? How?"
-msgstr ""
+msgstr "Víte o Eugenovi? Jak?"
 
 #: conversations/00_emerald_vale/00_cv_conrad:72
 msgctxt "conversations/00_emerald_vale/00_cv_conrad:72:DefaultText"
 msgid "I found a note from Phyllis. "
-msgstr ""
+msgstr "Našel jsem vzkaz od Phyllis. "
 
 #: conversations/00_emerald_vale/00_cv_conrad:73
 msgctxt "conversations/00_emerald_vale/00_cv_conrad:73:DefaultText"
 msgid "Then you know Phyllis suggested selling off Eugene's gold teeth. I didn't approve of the idea then, and I don't approve of it now."
-msgstr ""
+msgstr "Pak víte, že Phyllis navrhla prodat Eugenovy zlaté zuby. Tehdy jsem s tím nápadem nesouhlasil a nesouhlasím s ním ani teď."
 
 #: conversations/00_emerald_vale/00_cv_conrad:74
 msgctxt "conversations/00_emerald_vale/00_cv_conrad:74:DefaultText"
 msgid "Eugene's golden teeth were a family heirloom, representing three generations of poor dental hygiene. He took them to his grave."
-msgstr ""
+msgstr "Eugenovy zlaté zuby byly rodinným dědictvím a představovaly tři generace špatné zubní hygieny. Vzal si je s sebou do hrobu."
 
 #: conversations/00_emerald_vale/00_cv_conrad:75
 msgctxt "conversations/00_emerald_vale/00_cv_conrad:75:DefaultText"
 msgid "I'm sure he won't miss them."
-msgstr ""
+msgstr "Určitě mu nebudou chybět."
 
 #: conversations/00_emerald_vale/00_cv_conrad:76
 msgctxt "conversations/00_emerald_vale/00_cv_conrad:76:DefaultText"
 msgid "That's unthinkable. Eugene's body, and all rare-earth minerals contained therein, are solely the property of Spacer's Choice. "
-msgstr ""
+msgstr "To je nemyslitelné. Eugenovo tělo a všechny minerály vzácných zemin v něm obsažené jsou výhradně majetkem společnosti Spacer's Choice. "
 
 #: conversations/00_emerald_vale/00_cv_conrad:77
 msgctxt "conversations/00_emerald_vale/00_cv_conrad:77:DefaultText"
 msgid "I can't ask Silas to dig up a man's body and pry a few teeth loose from his jaw, just to pay my bills. Can I?"
-msgstr ""
+msgstr "Nemůžu chtít po Silasovi, aby vykopal tělo člověka a vyrval mu pár zubů z čelisti, jen abych zaplatil účty. Můžu?"
 
 #: conversations/00_emerald_vale/00_cv_conrad:78
 msgctxt "conversations/00_emerald_vale/00_cv_conrad:78:DefaultText"
 msgid "You're going to have to."
-msgstr ""
+msgstr "Budete muset."
 
 #: conversations/00_emerald_vale/00_cv_conrad:79
 msgctxt "conversations/00_emerald_vale/00_cv_conrad:79:DefaultText"
 msgid "Here you are. Gravesite papers, affixed with my signature, and an IOU."
-msgstr ""
+msgstr "Tady máte. Hrobové papíry, opatřené mým podpisem a Dluhopisem."
 
 #: conversations/00_emerald_vale/00_cv_conrad:80
 msgctxt "conversations/00_emerald_vale/00_cv_conrad:80:DefaultText"
 msgid "I'm told Eugene killed himself. What happened?"
-msgstr ""
+msgstr "Eugene se prý zabil. Co se stalo?"
 
 #: conversations/00_emerald_vale/00_cv_conrad:81
 msgctxt "conversations/00_emerald_vale/00_cv_conrad:81:DefaultText"
 msgid "Eugene was not a suicide. He put a bullet in his brain, yes, but that's largely a technicality."
-msgstr ""
+msgstr "Eugene nebyl sebevrah. Ano, vpálil si kulku do mozku, ale to je do značné míry technická záležitost."
 
 #: conversations/00_emerald_vale/00_cv_conrad:82
 msgctxt "conversations/00_emerald_vale/00_cv_conrad:82:DefaultText"
 msgid "I was the one who prepared Eugene's body for interment. I discovered symptoms of the plague on his corpse. And I discovered medicine in his pocket. Lots of medicine."
-msgstr ""
+msgstr "Byl jsem to já, kdo připravil Evženovo tělo k pohřbu. Na jeho mrtvole jsem objevil příznaky moru. A v jeho kapse jsem objevil léky. Spoustu léků."
 
 #: conversations/00_emerald_vale/00_cv_conrad:83
 msgctxt "conversations/00_emerald_vale/00_cv_conrad:83:DefaultText"
 msgid "Eugene overdosed on Adrena-Time, which is known to cause psychosis and paranoia as possible side effects. The paranoia drove him to take his own life."
-msgstr ""
+msgstr "Eugene se předávkoval přípravkem Adrena-Time, o němž je známo, že jeho možné vedlejší účinky jsou psychóza a paranoia. Paranoia ho dohnala k tomu, že si vzal život."
 
 #: conversations/00_emerald_vale/00_cv_conrad:84
 msgctxt "conversations/00_emerald_vale/00_cv_conrad:84:DefaultText"
 msgid "That's horrible."
-msgstr ""
+msgstr "To je hrozné."
 
 #: conversations/00_emerald_vale/00_cv_conrad:85
 msgctxt "conversations/00_emerald_vale/00_cv_conrad:85:DefaultText"
 msgid "It's a miracle of bureaucracy. If Eugene's death were filed as a suicide, we'd all pay the price for his crime."
-msgstr ""
+msgstr "Je to zázrak byrokracie. Kdyby byla Eugenova smrt nahlášena jako sebevražda, zaplatili bychom za jeho zločin všichni."
 
 #: conversations/00_emerald_vale/00_cv_conrad:86
 msgctxt "conversations/00_emerald_vale/00_cv_conrad:86:DefaultText"
 msgid "We can all thank our lucky stars that young Eugene was hopped up on medication and suffered its predictable side-effect."
-msgstr ""
+msgstr "Všichni můžeme děkovat svým šťastným hvězdám, že se mladý Eugene nadopoval léky a utrpěl jejich předvídatelný vedlejší účinek."
 
 #: conversations/00_emerald_vale/00_cv_conrad:87
 msgctxt "conversations/00_emerald_vale/00_cv_conrad:87:DefaultText"
 msgid "I included it all in my official report. I'd like to think I saved Edgewater a great deal of money. We never could've paid the fines associated with a suicide."
-msgstr ""
+msgstr "Vše jsem uvedl ve své oficiální zprávě. Rád bych si myslel, že jsem Edgewateru ušetřil spoustu peněz. Nikdy bychom nemohli zaplatit pokuty spojené se sebevraždou."
 
 #: conversations/00_emerald_vale/00_cv_conrad:88
 msgctxt "conversations/00_emerald_vale/00_cv_conrad:88:DefaultText"
 msgid "So the town never had to pay a penalty."
-msgstr ""
+msgstr "Město tedy nikdy nemuselo platit pokutu."
 
 #: conversations/00_emerald_vale/00_cv_conrad:89
 msgctxt "conversations/00_emerald_vale/00_cv_conrad:89:DefaultText"
 msgid "Goodbye."
-msgstr ""
+msgstr "Sbohem."
 
 #: conversations/00_emerald_vale/00_cv_conrad:90
 msgctxt "conversations/00_emerald_vale/00_cv_conrad:90:DefaultText"
 msgid "Ask forgiveness from the Vicar later."
-msgstr ""
+msgstr "Později požádejte faráře o odpuštění."
 
 #: conversations/00_emerald_vale/00_cv_conrad:91
 msgctxt "conversations/00_emerald_vale/00_cv_conrad:91:DefaultText"
 msgid "The good Vicar Maximillian and I have never quite seen eye to eye, but your point is well-taken."
-msgstr ""
+msgstr "S dobrým vikářem Maxmiliánem jsme si nikdy úplně nerozuměli, ale tvůj názor je správný."
 
 #: conversations/00_emerald_vale/00_cv_conrad:92
 msgctxt "conversations/00_emerald_vale/00_cv_conrad:92:DefaultText"
 msgid "I don't care. I'm just here to collect your dues."
-msgstr ""
+msgstr "Je mi to jedno. Jsem tu jen proto, abych vybral vaše poplatky."
 
 #: conversations/00_emerald_vale/00_cv_conrad:93
 msgctxt "conversations/00_emerald_vale/00_cv_conrad:93:DefaultText"
 msgid "They were probably worth a few bits."
-msgstr ""
+msgstr "Pravděpodobně stály za pár drobných."
 
 #: conversations/00_emerald_vale/00_cv_conrad:94
 msgctxt "conversations/00_emerald_vale/00_cv_conrad:94:DefaultText"
 msgid "More than a few. Those teeth were his personal savings."
-msgstr ""
+msgstr "Je jich víc než málo. Ty zuby byly jeho osobní úspory."
 
 #: conversations/00_emerald_vale/00_cv_conrad:95
 msgctxt "conversations/00_emerald_vale/00_cv_conrad:95:DefaultText"
 msgid "I found Eugene's gold teeth. You can have them."
-msgstr ""
+msgstr "Našel jsem Evženovy zlaté zuby. Můžeš si je vzít."
 
 #: conversations/00_emerald_vale/00_cv_conrad:96
 msgctxt "conversations/00_emerald_vale/00_cv_conrad:96:DefaultText"
 msgid "You... found Eugene's teeth? What? Where? How?"
-msgstr ""
+msgstr "Ty jsi... našel Eugenovy zuby? Cože? Kde? Jak?"
 
 #: conversations/00_emerald_vale/00_cv_conrad:97
 msgctxt "conversations/00_emerald_vale/00_cv_conrad:97:DefaultText"
 msgid "Adelaide had them. She was using his body for fertilizer."
-msgstr ""
+msgstr "Adelaide je měla. Využívala jeho tělo jako hnojivo."
 
 #: conversations/00_emerald_vale/00_cv_conrad:98
 msgctxt "conversations/00_emerald_vale/00_cv_conrad:98:DefaultText"
 msgid "McDevitt? The old flavor specialist? That is just grotesque. "
-msgstr ""
+msgstr "McDevitt? Starý specialista na chutě? To je prostě groteskní. "
 
 #: conversations/00_emerald_vale/00_cv_conrad:99
 msgctxt "conversations/00_emerald_vale/00_cv_conrad:99:DefaultText"
 msgid "Thank you, I suppose. These... teeth should cover my fees nicely. My papers should be in order."
-msgstr ""
+msgstr "Předpokládám, že děkuji. Tyhle... zuby by mi měly dobře pokrýt honorář. Moje doklady by měly být v pořádku."
 
 #: conversations/00_emerald_vale/00_cv_conrad:100
 msgctxt "conversations/00_emerald_vale/00_cv_conrad:100:DefaultText"
 msgid "I suppose I should be grateful. You've saved me some trouble, and no small amount of embarrassment."
-msgstr ""
+msgstr "Asi bych měl být vděčný. Ušetřil jsi mi potíže a nemalé rozpaky."
 
 #: conversations/00_emerald_vale/00_cv_conrad:101
 msgctxt "conversations/00_emerald_vale/00_cv_conrad:101:DefaultText"
 msgid "Dropped out of Silas's pockets."
-msgstr ""
+msgstr "Vypadl Silasovi z kapes."
 
 #: conversations/00_emerald_vale/00_cv_conrad:102
 msgctxt "conversations/00_emerald_vale/00_cv_conrad:102:DefaultText"
 msgid "The man was robbing his own graves? Without filing an invoice? This is a brazen violation of Spacer's Choice standard procedure."
-msgstr ""
+msgstr "Ten muž vykrádal vlastní hroby? Aniž by vystavil fakturu? To je bezostyšné porušení standardního postupu Spacer's Choice."
 
 #: conversations/00_emerald_vale/00_cv_conrad:103
 msgctxt "conversations/00_emerald_vale/00_cv_conrad:103:DefaultText"
 msgid "Don't worry about it."
-msgstr ""
+msgstr "Nedělejte si s tím starosti."
 
 #: conversations/00_emerald_vale/00_cv_conrad:104
 msgctxt "conversations/00_emerald_vale/00_cv_conrad:104:DefaultText"
 msgid "Yes, you may be right. I'm not sure I want to know."
-msgstr ""
+msgstr "Ano, možná máte pravdu. Nejsem si jistý, jestli to chci vědět."
 
 #: conversations/00_emerald_vale/00_cv_conrad:105
 msgctxt "conversations/00_emerald_vale/00_cv_conrad:105:DefaultText"
 msgid "None of your business."
-msgstr ""
+msgstr "Do toho vám nic není."
 
 #: conversations/00_emerald_vale/00_cv_conrad:106
 msgctxt "conversations/00_emerald_vale/00_cv_conrad:106:DefaultText"
 msgid "You probably heard it from one of our local gossip-mongers. "
-msgstr ""
+msgstr "Pravděpodobně jste to slyšeli od některého z místních drben. "
 
 #: conversations/00_emerald_vale/00_cv_conrad:107
 msgctxt "conversations/00_emerald_vale/00_cv_conrad:107:DefaultText"
 msgid "I'll let you know if I think of anything."
-msgstr ""
+msgstr "Dám vám vědět, pokud mě něco napadne."
 
 #: conversations/00_emerald_vale/00_cv_conrad:108
 msgctxt "conversations/00_emerald_vale/00_cv_conrad:108:DefaultText"
 msgid "Much obliged."
-msgstr ""
+msgstr "Velmi vám děkuji."
 
 #: conversations/00_emerald_vale/00_cv_conrad:109
 msgctxt "conversations/00_emerald_vale/00_cv_conrad:109:DefaultText"
 msgid "I don't have time for this."
-msgstr ""
+msgstr "Nemám na to čas."
 
 #: conversations/00_emerald_vale/00_cv_conrad:110
 msgctxt "conversations/00_emerald_vale/00_cv_conrad:110:DefaultText"
 msgid "You have a very loose definition of the word prosperity."
-msgstr ""
+msgstr "Máte velmi volnou definici slova prosperita."
 
 #: conversations/00_emerald_vale/00_cv_conrad:111
 msgctxt "conversations/00_emerald_vale/00_cv_conrad:111:DefaultText"
 msgid "Edgewater is built on the discipline and sacrifice of its people. Say what you will about our town, but we all pull together."
-msgstr ""
+msgstr "Edgewater je postaven na disciplíně a obětavosti svých lidí. Říkejte si o našem městě, co chcete, ale všichni táhneme za jeden provaz."
 
 #: conversations/00_emerald_vale/00_cv_conrad:112
 msgctxt "conversations/00_emerald_vale/00_cv_conrad:112:DefaultText"
 msgid "That's some quality drama, Conrad. You should audition."
-msgstr ""
+msgstr "To je kvalitní drama, Conrade. Měl by ses přihlásit do konkurzu."
 
 #: conversations/00_emerald_vale/00_cv_conrad:113
 msgctxt "conversations/00_emerald_vale/00_cv_conrad:113:DefaultText"
 msgid "Thank you, no. I despise the serials."
-msgstr ""
+msgstr "Děkuji, ne. Seriály pohrdám."
 
 #: conversations/00_emerald_vale/00_cv_conrad:114
 msgctxt "conversations/00_emerald_vale/00_cv_conrad:114:DefaultText"
 msgid "Don't be so hard on yourself."
-msgstr ""
+msgstr "Nebuďte na sebe tak přísní."
 
 #: conversations/00_emerald_vale/00_cv_conrad:115
 msgctxt "conversations/00_emerald_vale/00_cv_conrad:115:DefaultText"
 msgid "I have to be, if only to prepare myself for my inevitable dressing-down at the hands of corporate."
-msgstr ""
+msgstr "Musím být, už jen proto, abych se připravil na nevyhnutelnou šikanu ze strany korporace."
 
 #: conversations/00_emerald_vale/00_cv_conrad:116
 msgctxt "conversations/00_emerald_vale/00_cv_conrad:116:DefaultText"
 msgid "I don't understand a word you said."
-msgstr ""
+msgstr "Nerozumím jedinému slovu, které jsi řekl."
 
 #: conversations/00_emerald_vale/00_cv_conrad:117
 msgctxt "conversations/00_emerald_vale/00_cv_conrad:117:DefaultText"
 msgid "I mean that I can't possibly pay my gravesite fees."
-msgstr ""
+msgstr "Chci říct, že nemůžu zaplatit poplatky za hrob."
 
 #: conversations/00_emerald_vale/00_cv_conrad:128
 msgctxt "conversations/00_emerald_vale/00_cv_conrad:128:DefaultText"
 msgid "What can I do for you?"
-msgstr ""
+msgstr "Co pro vás mohu udělat?"
 
 #: conversations/00_emerald_vale/00_cv_conrad:130
 msgctxt "conversations/00_emerald_vale/00_cv_conrad:130:DefaultText"
 msgid "I found Eugene's teeth. You can have them."
-msgstr ""
+msgstr "Našel jsem Evženovy zuby. Můžeš si je vzít."
 
 #: conversations/00_emerald_vale/00_cv_conrad:131
 msgctxt "conversations/00_emerald_vale/00_cv_conrad:131:DefaultText"
 msgid "You sound like you've had some training. I know a thing or two about medicine."
-msgstr ""
+msgstr "Vypadá to, že jste prošel nějakým školením. O medicíně něco vím."
 
 #: conversations/00_emerald_vale/00_cv_conrad:132
 msgctxt "conversations/00_emerald_vale/00_cv_conrad:132:DefaultText"
 msgid "Oh? Am I in the company of a fellow doctor?"
-msgstr ""
+msgstr "Aha? Jsem ve společnosti kolegy lékaře?"
 
 #: conversations/00_emerald_vale/00_cv_conrad:133
 msgctxt "conversations/00_emerald_vale/00_cv_conrad:133:DefaultText"
 msgid "Only if we use the term doctor loosely."
-msgstr ""
+msgstr "Pouze v případě, že budeme pojem lékař používat volně."
 
 #: conversations/00_emerald_vale/00_cv_conrad:134
 msgctxt "conversations/00_emerald_vale/00_cv_conrad:134:DefaultText"
 msgid "I am a Spacer's Choice certified surgeon! And if you must know, I can stitch a severed thumb with a fifty-eight percent chance of avoiding gangrene."
-msgstr ""
+msgstr "Jsem certifikovaný chirurg Spacer's Choice! A jestli to musíš vědět, dokážu zašít uříznutý palec s padesátiosmiprocentní šancí, že se vyhnu gangréně."
 
 #: conversations/00_emerald_vale/00_cv_conrad:135
 msgctxt "conversations/00_emerald_vale/00_cv_conrad:135:DefaultText"
 msgid "So you prepare corpses for burial. Pretty specific job description."
-msgstr ""
+msgstr "Takže připravujete mrtvoly k pohřbu. Dost specifická náplň práce."
 
 #: conversations/00_emerald_vale/00_cv_conrad:136
 msgctxt "conversations/00_emerald_vale/00_cv_conrad:136:DefaultText"
 msgid "You may think that, but the tidiness of my fellow worker is my responsibility. Alive or otherwise."
-msgstr ""
+msgstr "Možná si to myslíte, ale za pořádek svých spolupracovníků jsem zodpovědný já. Ať už je živá, nebo ne."
 
 #: conversations/00_emerald_vale/00_cv_conrad:137
 msgctxt "conversations/00_emerald_vale/00_cv_conrad:137:DefaultText"
 msgid "Whether you're showing up to work or going to that great cannery in the sky, it's my job to make you look like a million bits."
-msgstr ""
+msgstr "Ať už se objevíte v práci, nebo jdete do té velké konzervárny v oblacích, mým úkolem je, abyste vypadali jako miliónové kousky."
 
 #: conversations/00_emerald_vale/00_cv_conrad:138
 msgctxt "conversations/00_emerald_vale/00_cv_conrad:138:DefaultText"
 msgid "I'm guessing you were trained at a medical school."
-msgstr ""
+msgstr "Předpokládám, že jste absolvoval lékařskou fakultu."
 
 #: conversations/00_emerald_vale/00_cv_conrad:139
 msgctxt "conversations/00_emerald_vale/00_cv_conrad:139:DefaultText"
 msgid "Experience was my teacher. Experience and 'So You Want To Be An Embalmer,' brochures one through five, courtesy of the Spacer's Choice Department of Career Development."
-msgstr ""
+msgstr "Mým učitelem byla zkušenost. Zkušenosti a \"Tak chceš být balzamovačem\", brožury jedna až pět, s laskavým svolením oddělení kariérního rozvoje Spacer's Choice."
 
 #: conversations/00_emerald_vale/00_cv_conrad:140
 msgctxt "conversations/00_emerald_vale/00_cv_conrad:140:DefaultText"
 msgid "I've got some questions for you."
-msgstr ""
+msgstr "Mám na vás několik otázek."
 
 #: conversations/00_emerald_vale/00_cv_conrad:141
 msgctxt "conversations/00_emerald_vale/00_cv_conrad:141:DefaultText"
 msgid "I should go."
-msgstr ""
+msgstr "Měl bych jít."
 
 #: conversations/00_emerald_vale/00_cv_conrad:143
 msgctxt "conversations/00_emerald_vale/00_cv_conrad:143:DefaultText"
 msgid "I know about Eugene. Why not use his teeth as collateral for your gravesite fees?"
-msgstr ""
+msgstr "O Eugenovi vím. Proč nepoužijete jeho zuby jako zástavu za hrobové poplatky?"
 
 #: conversations/00_emerald_vale/00_cv_conrad:144
 msgctxt "conversations/00_emerald_vale/00_cv_conrad:144:DefaultText"
 msgid "I don't approve of fantasizing. It's a dreadful habit, corrosive to the mental faculties. You ought to let the Vicar take a look inside your head."
-msgstr ""
+msgstr "Neschvaluji fantazírování. Je to strašný zlozvyk, který ničí duševní schopnosti. Měl bys nechat faráře, aby se ti podíval do hlavy."
 
 #: conversations/00_emerald_vale/00_cv_conrad:145
 msgctxt "conversations/00_emerald_vale/00_cv_conrad:145:DefaultText"
 msgid "I've met the Vicar already."
-msgstr ""
+msgstr "S vikářem jsem se už setkal."
 
 #: conversations/00_emerald_vale/00_cv_conrad:146
 msgctxt "conversations/00_emerald_vale/00_cv_conrad:146:DefaultText"
 msgid "Vicar Maximillian. Our man from the OSI, here to spread the message of Scientism like a soothing balm upon a feverish head. Or so you'd expect."
-msgstr ""
+msgstr "Vikář Maxmilián. Náš člověk z OSI, který tu šíří poselství scientismu jako uklidňující balzám na horečnatou hlavu. Nebo se to dalo čekat."
 
 #: conversations/00_emerald_vale/00_cv_conrad:147
 msgctxt "conversations/00_emerald_vale/00_cv_conrad:147:DefaultText"
 msgid "And he allowed you to wander around town spreading your pernicious fantasies about repairing ships? My opinion of him approaches its nadir."
-msgstr ""
+msgstr "A dovolil vám, abyste se potuloval po městě a šířil své zhoubné fantazie o opravách lodí? Můj názor na něj se blíží svému vrcholu."
 
 #: conversations/00_emerald_vale/00_cv_conrad:148
 msgctxt "conversations/00_emerald_vale/00_cv_conrad:148:DefaultText"
 msgid "Merciful Law. Is that a marauder's outfit? I don't want you wandering into my shop wearing something you've lifted off a corpse."
-msgstr ""
+msgstr "Milosrdný zákon. Je to nájezdnický oděv? Nechci, abys mi vlezl do obchodu v něčem, co jsi sundal z mrtvoly."
 
 #: conversations/00_emerald_vale/00_cv_conrad:150
 msgctxt "conversations/00_emerald_vale/00_cv_conrad:150:DefaultText"
 msgid "I'm a mind-reader."
-msgstr ""
+msgstr "Umím číst myšlenky."
 
 #: conversations/00_emerald_vale/00_cv_conrad:151
 msgctxt "conversations/00_emerald_vale/00_cv_conrad:151:DefaultText"
 msgid "You were probably poking around my things. I really shouldn't leave my letters sitting out in the open."
-msgstr ""
+msgstr "Pravděpodobně ses mi hrabal ve věcech. Opravdu bych neměl nechávat své dopisy ležet na volném prostranství."
 
 #: conversations/00_emerald_vale/00_cv_conrad:152
 msgctxt "conversations/00_emerald_vale/00_cv_conrad:152:DefaultText"
 msgid "<Shrug>"
-msgstr ""
+msgstr "<Pokrčení ramen>"
 
 #: conversations/00_emerald_vale/00_cv_conrad:153
 msgctxt "conversations/00_emerald_vale/00_cv_conrad:153:DefaultText"
 msgid "Were you snooping around in my things? Or was it just dumb luck?"
-msgstr ""
+msgstr "Šmejdil jsi v mých věcech? Nebo to bylo jen hloupé štěstí?"
 
 #: conversations/00_emerald_vale/00_cv_conrad:154
 msgctxt "conversations/00_emerald_vale/00_cv_conrad:154:DefaultText"
 msgid "Um - are you asking rhetorically? Because if you're being serious - ew. Gross."
-msgstr ""
+msgstr "Um - ptáte se řečnicky? Protože jestli to myslíš vážně - fuj. Hnus."
 
 #: conversations/00_emerald_vale/00_cv_conrad:155
 msgctxt "conversations/00_emerald_vale/00_cv_conrad:155:DefaultText"
 msgid "Desperate measures, Ms. Holcomb. Desperate measures."
-msgstr ""
+msgstr "Zoufalá opatření, paní Holcombová. Zoufalá opatření."
 
 #: conversations/00_emerald_vale/00_cv_conrad:156
 msgctxt "conversations/00_emerald_vale/00_cv_conrad:156:DefaultText"
 msgid "I'm going to have to ask Silas to dig up those teeth. It's the only way I'm paying my gravesite fees."
-msgstr ""
+msgstr "Budu muset požádat Silase, aby ty zuby vykopal. Je to jediný způsob, jak zaplatit hrobové poplatky."
 
 #: conversations/00_emerald_vale/00_cv_conrad:157
 msgctxt "conversations/00_emerald_vale/00_cv_conrad:157:DefaultText"
 msgid "Are you sure about this?"
-msgstr ""
+msgstr "Jste si tím jistý?"
 
 #: conversations/00_emerald_vale/00_cv_conrad:158
 msgctxt "conversations/00_emerald_vale/00_cv_conrad:158:DefaultText"
 msgid "I'm sure that I have no other choice."
-msgstr ""
+msgstr "Jsem si jistý, že nemám jinou možnost."
 
 #: conversations/00_emerald_vale/00_cv_conrad:159
 msgctxt "conversations/00_emerald_vale/00_cv_conrad:159:DefaultText"
 msgid "Yes, I suppose I must."
-msgstr ""
+msgstr "Ano, asi musím."
 
 #: conversations/00_emerald_vale/00_cv_conrad:160
 msgctxt "conversations/00_emerald_vale/00_cv_conrad:160:DefaultText"
 msgid "I'm sure he won't miss them."
-msgstr ""
+msgstr "Určitě mu nebudou chybět."

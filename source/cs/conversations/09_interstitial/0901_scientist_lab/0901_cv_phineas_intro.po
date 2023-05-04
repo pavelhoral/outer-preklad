@@ -1,754 +1,754 @@
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:15
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:15:DefaultText"
 msgid "I hope you're not thinking of ingratiating yourself with the Board. Chairman Rockwell and his cronies are not your friends."
-msgstr ""
+msgstr "Doufám, že nemáte v úmyslu se představenstvu vnutit. Předseda Rockwell a jeho kumpáni nejsou vaši přátelé."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:16
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:16:DefaultText"
 msgid "You've done fine work for SubLight. By the transitive property of reputation, I am now in SubLight's good books. Well done!"
-msgstr ""
+msgstr "Pro společnost SubLight jste odvedl dobrou práci. Podle přechodné vlastnosti reputace jsem nyní v dobrých knihách společnosti SubLight. Dobrá práce!"
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:17
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:17:DefaultText"
 msgid "I've heard those Iconoclasts have a rather smashing opinion of you. Get it? Smashing? Iconoclasts? Oh never mind."
-msgstr ""
+msgstr "Slyšel jsem, že ti Ikonoklasté o tobě mají docela dobré mínění. Chápeš? Skvělý? Ikonoklasté? To je jedno."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:44
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:44:DefaultText"
 msgid "I've kept myself busy in your absence. Optimized my formula. I'm now confident I can revive the remaining colonists."
-msgstr ""
+msgstr "Během tvé nepřítomnosti jsem se věnoval sám sobě. Optimalizoval jsem svůj vzorec. Jsem si teď jistý, že dokážu oživit zbývající kolonisty."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:55
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:55:DefaultText"
 msgid "All I need now is the dimethyl sulfoxide. I'll take as much as you can give me."
-msgstr ""
+msgstr "Teď už potřebuji jen dimethylsulfoxid. Vezmu si tolik, kolik mi můžete dát."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:62
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:62:DefaultText"
 msgid "We need to think about this. There has to be something we can do."
-msgstr ""
+msgstr "Musíme se nad tím zamyslet. Musíme s tím něco udělat."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:63
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:63:DefaultText"
 msgid "This colony's a mess. I'll be glad to put it behind me, soon as I get a chance."
-msgstr ""
+msgstr "V téhle kolonii je nepořádek. Rád to hodím za hlavu, jakmile budu mít příležitost."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:64
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:64:DefaultText"
 msgid "So that's it. We just give up. All that trouble I went through was for nothing."
-msgstr ""
+msgstr "To je vše. Prostě to vzdáme. Všechny ty problémy, kterými jsem si prošel, byly zbytečné."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:66
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:66:DefaultText"
 msgid "No - no it wasn't. We have - let's see. We have at least some of the chemicals. We have your ship. And we have you. That has to count for something."
-msgstr ""
+msgstr "Ne - nebylo. Máme - podívejme se. Máme alespoň některé chemikálie. Máme vaši loď. A máme vás. To se musí počítat."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:67
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:67:DefaultText"
 msgid "Short of lining up every member of the Board and shooting them in the back of the head? "
-msgstr ""
+msgstr "Nebo je třeba postavit všechny členy správní rady do řady a střelit je zezadu do hlavy? "
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:70
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:70:DefaultText"
 msgid "What makes you think you'll get that chance? You'll be long dead before you make it to the nearest star. For better or worse, you're stuck with us here."
-msgstr ""
+msgstr "Proč si myslíte, že budete mít takovou šanci? Než doletíš k nejbližší hvězdě, budeš dávno mrtvý. V dobrém i zlém, zůstaneš tu s námi."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:71
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:71:DefaultText"
 msgid "Do you know what's waiting for us on the Hope? Scientists. Engineers. Artists. The brightest minds Earth ever sent us, uncorrupted by the Board."
-msgstr ""
+msgstr "Víte, co nás čeká na Naději? Vědci. Inženýři. Umělci. Nejchytřejší mozky, jaké nám kdy Země poslala, nezkažené Radou."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:72
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:72:DefaultText"
 msgid "We need to get to those colonists before the Board. I have enough chemicals to start reviving a few of them, but no easy way to get them off the Hope."
-msgstr ""
+msgstr "Musíme se k těm kolonistům dostat ještě před zasedáním rady. Mám dost chemikálií na to, abychom jich pár začali oživovat, ale není snadné je dostat z Naděje."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:73
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:73:DefaultText"
 msgid "This is crazy. I like it."
-msgstr ""
+msgstr "To je šílené. Líbí se mi to."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:75
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:75:DefaultText"
 msgid "You're completely out of your mind."
-msgstr ""
+msgstr "Jsi úplně mimo."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:86
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:86:DefaultText"
 msgid "All right. Walk me through this."
-msgstr ""
+msgstr "Dobře. Proveďte mě tím."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:87
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:87:DefaultText"
 msgid "If we link up the Hope to the Unreliable, then use your navigational computer to calculate a reasonably safe vector, we can skip the entire colony ship into the rings of Terra 2."
-msgstr ""
+msgstr "Když propojíme Naději s Nespolehlivou a pak pomocí vašeho navigačního počítače vypočítáme přiměřeně bezpečný vektor, můžeme celou koloniální loď přeskočit do prstenců Terry 2."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:88
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:88:DefaultText"
 msgid "You'll need to switch on the Hope's auxiliary power using the Unreliable. Then, head to the bridge. Your navigational computer, ADA, should be able to activate the Hope's skip drive."
-msgstr ""
+msgstr "Pomocí Nespolehlivého je třeba zapnout pomocné napájení Hope. Pak se vydejte na můstek. Váš navigační počítač ADA by měl být schopen aktivovat přeskokový pohon Naděje."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:89
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:89:DefaultText"
 msgid "Just wait until you hear the details. I haven't been this energized since the time I injected myself with raw caffenoid."
-msgstr ""
+msgstr "Jen počkejte, až se dozvíte podrobnosti. Takhle nabitý energií jsem nebyl od doby, kdy jsem si píchl surový kafenoid."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:90
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:90:DefaultText"
 msgid "Hold on, now. Hear me out. I haven't taken leave of all my senses."
-msgstr ""
+msgstr "Počkejte. Vyslechněte mě. Neopustil jsem všechny své smysly."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:92
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:92:DefaultText"
 msgid "Wait. I've got some questions."
-msgstr ""
+msgstr "Počkejte. Mám pár otázek."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:93
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:93:DefaultText"
 msgid "This plan is insane. I need some time to think it over."
-msgstr ""
+msgstr "Tento plán je šílený. Potřebuji nějaký čas na rozmyšlenou."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:102
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:102:DefaultText"
 msgid "I hope you change your mind about skipping the Hope. It's the only chance we've got."
-msgstr ""
+msgstr "Doufám, že si to s vynecháním Naděje rozmyslíte. Je to jediná šance, kterou máme."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:103
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:103:DefaultText"
 msgid "I won't wish you luck on the Hope. Can't rely on luck. Rigorous calculations and sound logic - that's the ticket."
-msgstr ""
+msgstr "Nebudu vám přát štěstí v Naději. Na štěstí se spoléhat nedá. Přísné výpočty a zdravá logika - to je to pravé."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:105
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:105:DefaultText"
 msgid "You. I'd clap you on the shoulder if I weren't behind a wall of bulletproof glass. I don't know how you did it, but Hiram Blythe just sent me everything I needed."
-msgstr ""
+msgstr "Vy. Poplácal bych tě po rameni, kdybych nebyl za stěnou z neprůstřelného skla. Nevím, jak jsi to udělal, ale Hiram Blythe mi právě poslal všechno, co jsem potřeboval."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:106
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:106:DefaultText"
 msgid "Bad news - Hiram Blythe is dead. Utterly tragic. The colony has lost an invaluable resource. Good news - he sent me everything I needed. Good old Hiram."
-msgstr ""
+msgstr "Špatná zpráva - Hiram Blythe je mrtvý. Naprosto tragické. Kolonie přišla o neocenitelný zdroj. Dobrá zpráva - poslal mi vše, co jsem potřeboval. Starý dobrý Hiram."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:107
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:107:DefaultText"
 msgid "According to Hiram's message, Minister Clarke has ordered a suspicious amount of dimethyl sulfoxide. It's almost as if he's hoarding the colony's remaining supply!"
-msgstr ""
+msgstr "Podle Hiramovy zprávy ministr Clarke objednal podezřelé množství dimetylsulfoxidu. Skoro to vypadá, jako by hromadil zbývající zásoby kolonie!"
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:109
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:109:DefaultText"
 msgid "Ah, yes. The details! I'm not about to ask you to rampage through Byzantium, trading bullets with the Board's agents. We'll have to resort to subterfuge."
-msgstr ""
+msgstr "Ach, ano. Detaily! Nebudu po tobě chtít, abys řádil v Byzanci a vyměňoval si kulky s agenty Rady. Budeme se muset uchýlit k lsti."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:185
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:185:DefaultText"
 msgid "Just tell me what to do."
-msgstr ""
+msgstr "Jen mi řekněte, co mám dělat."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:186
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:186:DefaultText"
 msgid "What's so important about these chemicals?"
-msgstr ""
+msgstr "Co je na těchto chemikáliích tak důležité?"
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:187
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:187:DefaultText"
 msgid "You make it sound so simple."
-msgstr ""
+msgstr "Zní to tak jednoduše."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:188
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:188:DefaultText"
 msgid "Oh, I understand it must seem impossible to you. Infiltrate Byzantium, the crown jewel of the colony. Steal a batch of rare chemicals from a heavily guarded estate."
-msgstr ""
+msgstr "Chápu, že vám to musí připadat nemožné. Proniknout do Byzance, korunního klenotu kolonie. Ukrást dávku vzácných chemikálií z přísně střeženého sídla."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:189
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:189:DefaultText"
 msgid "In order to do the impossible, you must first divide it into a series of smaller, less impossible tasks. "
-msgstr ""
+msgstr "Abyste zvládli nemožné, musíte si ho nejprve rozdělit na řadu menších, méně nemožných úkolů. "
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:190
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:190:DefaultText"
 msgid "If I had time and several blackboards, I could explain the details to you. But to put it briefly: dimethyl sulfoxide is the reason you're alive today."
-msgstr ""
+msgstr "Kdybych měl čas a několik tabulek, mohl bych vám vysvětlit podrobnosti. Ale stručně řečeno: dimethylsulfoxid je důvodem, proč jste dnes naživu."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:191
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:191:DefaultText"
 msgid "The chemical is absolutely essential to reviving the Hope's colonists. I need you to steal as much as you possibly can. The more, the better."
-msgstr ""
+msgstr "Chemikálie je naprosto nezbytná pro oživení kolonistů lodi Hope. Potřebuji, abyste ukradli co nejvíce. Čím více, tím lépe."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:192
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:192:DefaultText"
 msgid "So what's the plan?"
-msgstr ""
+msgstr "Jaký je tedy plán?"
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:193
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:193:DefaultText"
 msgid "Carmen Imagawa. She's my contact in Byzantium. Meet her at the docks - she'll have all the necessary intelligence you require."
-msgstr ""
+msgstr "Carmen Imagawa. Je to můj kontakt v Byzanci. Sejdeme se s ní v docích - bude mít všechny potřebné informace, které potřebujete."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:194
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:194:DefaultText"
 msgid "Remember - you're looking for dimethyl sulfoxide. Big, green, bubbling vessel with a warning label. I'll take as much as you can find."
-msgstr ""
+msgstr "Nezapomeňte, že hledáte dimethylsulfoxid. Velká, zelená, bublající nádoba s varovným štítkem. Vezmu si tolik, kolik najdete."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:195
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:195:DefaultText"
 msgid "Find Carmen Imagawa. Steal chemicals. Got it."
-msgstr ""
+msgstr "Najděte Carmen Imagawu. Ukradněte chemikálie. Mám to."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:196
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:196:DefaultText"
 msgid "Actually, there was something else I wanted to talk to you about."
-msgstr ""
+msgstr "Vlastně jsem s vámi chtěl mluvit ještě o něčem jiném."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:197
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:197:DefaultText"
 msgid "Of course, of course."
-msgstr ""
+msgstr "Samozřejmě, samozřejmě."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:198
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:198:DefaultText"
 msgid "Anything I should know about this Carmen Imagawa?"
-msgstr ""
+msgstr "Měla bych o té Carmen Imagawě něco vědět?"
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:199
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:199:DefaultText"
 msgid "You can trust her, if that's what you're asking. Imagawa is the finest special agent in Byzantium that money can buy. My money, anyway."
-msgstr ""
+msgstr "Můžeš jí věřit, pokud se ptáš na tohle. Imagawa je nejlepší speciální agent v Byzanci, jakého lze za peníze koupit. Tedy alespoň moje peníze."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:200
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:200:DefaultText"
 msgid "Forget about the chemicals for a second. The colony's on the verge of collapse."
-msgstr ""
+msgstr "Na chvíli zapomeňte na chemikálie. Kolonie je na pokraji zhroucení."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:201
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:201:DefaultText"
 msgid "I found your chemicals in the Ministry. The Board was testing them on human subjects."
-msgstr ""
+msgstr "Na ministerstvu jsem našel vaše chemikálie. Rada je testovala na lidech."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:202
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:202:DefaultText"
 msgid "Damn. That's not enough. Not nearly enough for the whole ship. I could revive a handful of settlers. Maybe. Possibly. Damn."
-msgstr ""
+msgstr "Zatraceně. To nestačí. Ani zdaleka ne pro celou loď. Mohl bych oživit hrstku osadníků. Možná. Možná. Sakra."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:204
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:204:DefaultText"
 msgid "Do you realize what this means for the Hope? For your fellow colonists? The Board's going to kill them all. Toss them out into space just to make room in their hibernation chambers."
-msgstr ""
+msgstr "Uvědomujete si, co to znamená pro Naději? Pro tvé spolubojovníky? Rada je všechny zabije. Vyhodí je do vesmíru, jen aby si udělali místo ve svých hibernačních komorách."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:205
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:205:DefaultText"
 msgid "What? Oh. Yes, well, that's obvious. Anyone with two working lamps can see this colony's slouching toward oblivion."
-msgstr ""
+msgstr "Cože? Aha. Ano, to je jasné. Každý, kdo má dvě funkční lampy, vidí, že se tahle kolonie řítí do záhuby."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:206
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:206:DefaultText"
 msgid "It gets worse. The Chairman's planning on freezing every worker in Halcyon."
-msgstr ""
+msgstr "Je to ještě horší. Předseda plánuje zmrazit všechny pracovníky Halcyonu."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:208
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:208:DefaultText"
 msgid "That makes two things we don't have. Time, and chemicals to revive the other settlers."
-msgstr ""
+msgstr "To jsou dvě věci, které nemáme. Čas a chemikálie na oživení ostatních osadníků."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:209
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:209:DefaultText"
 msgid "The Board's got a plan to save us. They're going to freeze all the workers."
-msgstr ""
+msgstr "Rada má plán, jak nás zachránit. Chystají se zmrazit všechny zaměstnance."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:210
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:210:DefaultText"
 msgid "Freeze all the workers? Why - so a gang of powdered toffs can carry on living in Byzantium? You call that a plan?"
-msgstr ""
+msgstr "Zmrazit všechny pracovníky? Proč - aby si parta napudrovaných hlupáků mohla dál žít v Byzanci? Tomu říkáte plán?"
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:211
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:211:DefaultText"
 msgid "Would've been a lot easier if you just set up your lab next to the Hope."
-msgstr ""
+msgstr "Bylo by mnohem jednodušší, kdybyste si prostě zřídili laboratoř vedle Hope."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:212
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:212:DefaultText"
 msgid "There's a way. It's not exactly safe, but we could skip the Hope into the system."
-msgstr ""
+msgstr "Existuje způsob. Není to úplně bezpečné, ale mohli bychom přeskočit Naději do systému."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:214
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:214:DefaultText"
 msgid "Can we just skip to the part where you ask me to do something insane?"
-msgstr ""
+msgstr "Můžeme přeskočit k části, kde mě žádáš, abych udělal něco šíleného?"
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:216
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:216:DefaultText"
 msgid "Merciful gibbering Law. You're a genius. "
-msgstr ""
+msgstr "Milosrdný blábolící zákon. Jsi génius. "
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:217
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:217:DefaultText"
 msgid "Skip. We can skip the Hope. Don't you see? If we can't go to the Hope, the Hope will come to us."
-msgstr ""
+msgstr "Přeskočit. Naději můžeme přeskočit. Copak to nechápeš? Když nemůžeme jít k Naději, přijde Naděje k nám."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:218
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:218:DefaultText"
 msgid "We bring the Hope to us. Skip the entire ship across the distance of colony space - right next to my lab."
-msgstr ""
+msgstr "Přinášíme Naději k nám. Přeskočte celou loď přes vzdálenost prostoru kolonie - přímo vedle mé laboratoře."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:219
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:219:DefaultText"
 msgid "Merciful gibbering Law. You're a genius. "
-msgstr ""
+msgstr "Milosrdný blábolící zákon. Jsi génius. "
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:220
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:220:DefaultText"
 msgid "Merciful gibbering Law. You're a genius. "
-msgstr ""
+msgstr "Milosrdný blábolící zákon. Jsi génius. "
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:221
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:221:DefaultText"
 msgid "We bring the Hope to us. Skip the entire ship across the distance of colony space - right next to my lab."
-msgstr ""
+msgstr "Přinášíme Naději k nám. Přeskočte celou loď přes vzdálenost prostoru kolonie - přímo vedle mé laboratoře."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:222
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:222:DefaultText"
 msgid "The Hope's probably damaged. We'll have to route power from the Unreliable."
-msgstr ""
+msgstr "Hope je pravděpodobně poškozená. Budeme muset přivést energii z Nespolehlivého."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:223
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:223:DefaultText"
 msgid "I wasn't being entirely serious, Phineas."
-msgstr ""
+msgstr "Nemyslel jsem to úplně vážně, Phineasi."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:224
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:224:DefaultText"
 msgid "Did you not hear the part where I said it's not exactly safe?"
-msgstr ""
+msgstr "Neslyšel jsi tu část, kde jsem říkal, že to není úplně bezpečné?"
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:225
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:225:DefaultText"
 msgid "Yes. Yes, exactly. You're a step ahead of me, but I perceive the shape of your plan."
-msgstr ""
+msgstr "Ano. Ano, přesně tak. Jste o krok přede mnou, ale vnímám podobu vašeho plánu."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:226
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:226:DefaultText"
 msgid "Nonsense! You were speaking entirely from the heart. Or the part of your brain responsible for sudden flashes of brilliance."
-msgstr ""
+msgstr "Nesmysl! Mluvil jsi zcela upřímně. Nebo z té části mozku, která je zodpovědná za náhlé záblesky geniality."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:227
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:227:DefaultText"
 msgid "No, I didn't. I was too busy admiring the elegance of your plan."
-msgstr ""
+msgstr "Ne, to jsem neudělal. Byl jsem příliš zaneprázdněn obdivováním elegance tvého plánu."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:229
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:229:DefaultText"
 msgid "I don't know much about skip drives - not the physics anyhow. I do know the Hope's real massive. How's our bitty little ship supposed to skip it?"
-msgstr ""
+msgstr "O přeskokových pohonech toho moc nevím - alespoň ne o fyzice. Vím ale, že Hope je opravdu masivní. Jak ji má naše malá loď přeskočit?"
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:230
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:230:DefaultText"
 msgid "And that's going to work? Without killing us in the process? I thought intra-system micro jumps were prohibited for a reason."
-msgstr ""
+msgstr "A to bude fungovat? A nezabije nás při tom? Myslel jsem, že mikroskoky uvnitř systému jsou zakázány z nějakého důvodu."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:231
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:231:DefaultText"
 msgid "I don't understand a word you said, Doc. All I know is, if we're gonna hijack a colony ship, count me in!"
-msgstr ""
+msgstr "Nerozumím vám ani slovo, doktore. Jediné, co vím, je, že jestli chceme přepadnout koloniální loď, tak se mnou počítejte!"
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:232
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:232:DefaultText"
 msgid "I've got a healthy disregard for personal safety, but this sounds crazy. Even to me."
-msgstr ""
+msgstr "Mám zdravou neúctu k osobní bezpečnosti, ale tohle zní šíleně. Dokonce i pro mě."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:234
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:234:DefaultText"
 msgid "Experimental methods for killing noxious lifeforms are not covered under this unit's limited liability agreement."
-msgstr ""
+msgstr "Na experimentální metody usmrcování škodlivých forem života se nevztahuje dohoda o omezené odpovědnosti této jednotky."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:235
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:235:DefaultText"
 msgid "Of course. Mull it over. Pace about. Tell me when you're ready."
-msgstr ""
+msgstr "Samozřejmě. Zvažte to. Pospíchejte. Řekni mi, až budeš připraven."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:238
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:238:DefaultText"
 msgid "I'll do it."
-msgstr ""
+msgstr "Udělám to."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:250
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:250:DefaultText"
 msgid "That's not a plan. That's a goddamn escape clause. "
-msgstr ""
+msgstr "To není plán. To je zatracená úniková doložka. "
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:251
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:251:DefaultText"
 msgid "Hold on. Let me see if I understand this correctly. You're saying that Halcyon's on the brink of total collapse. And the Chairman's plan to save all of us is to save himself?"
-msgstr ""
+msgstr "Počkejte. Podívám se, jestli tomu rozumím správně. Říkáte, že Halcyon je na pokraji totálního kolapsu. A předsedův plán na záchranu nás všech je zachránit sám sebe?"
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:252
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:252:DefaultText"
 msgid "The colony's on the verge of collapse. The Board's been trying to cover it up."
-msgstr ""
+msgstr "Kolonie je na pokraji zhroucení. Správní rada se to snaží ututlat."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:253
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:253:DefaultText"
 msgid "I know. I've suspected as much for years. Of course I don't expect the Board to do a thing about it. They've been driving our colony to the brink of destruction for decades."
-msgstr ""
+msgstr "Já vím. Mám na to podezření už léta. Samozřejmě neočekávám, že s tím představenstvo něco udělá. Už desítky let přivádějí naši kolonii na pokraj zkázy."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:254
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:254:DefaultText"
 msgid "We're out of time. We're out of chemicals. We may very well be out of options. If the Board has their way, we're all going to be spending the rest of our lives frozen in stasis."
-msgstr ""
+msgstr "Došel nám čas. Došly nám chemikálie. Možná nám došly možnosti. Jestli bude rada postupovat podle svého, strávíme všichni zbytek života ve zmrazené stázi."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:257
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:257:DefaultText"
 msgid "Oh, thank the Law. Your skin hasn't spontaneously changed color. Potential side-effect of the revival process. Very rare! But, you never know."
-msgstr ""
+msgstr "Děkuji zákonu. Tvoje kůže samovolně nezměnila barvu. Možný vedlejší účinek procesu oživení. Velmi vzácný! Ale člověk nikdy neví."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:258
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:258:DefaultText"
 msgid "Right. Welcome to my little - ah - habitation, such as it is. I've got - uh - caffenoids. Cysty-bits, if you're into that sort of thing."
-msgstr ""
+msgstr "Vpravo. Vítejte v mém malém - ehm - obydlí, jakým je. Mám - ehm - kafenoidy. Cysty-bity, jestli tě to zajímá."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:259
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:259:DefaultText"
 msgid "So, welcome. Make yourself at home. My secret hideout is your secret hideout."
-msgstr ""
+msgstr "Takže vítejte. Chovejte se jako doma. Můj tajný úkryt je tvůj tajný úkryt."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:260
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:260:DefaultText"
 msgid "For what it's worth, I appreciate you pulling me out of the Hope."
-msgstr ""
+msgstr "Ať to stojí, co to stojí, oceňuji, že jsi mě vytáhl z Naděje."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:261
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:261:DefaultText"
 msgid "You could've asked me before shoving me into an escape pod."
-msgstr ""
+msgstr "Mohl ses mě zeptat, než jsi mě strčil do únikového modulu."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:262
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:262:DefaultText"
 msgid "Any chance you could repair that monitoring device?"
-msgstr ""
+msgstr "Je nějaká šance, že bys to monitorovací zařízení mohl opravit?"
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:263
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:263:DefaultText"
 msgid "I'll just take a look around."
-msgstr ""
+msgstr "Jen se porozhlédnu."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:264
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:264:DefaultText"
 msgid "Please! By all means. "
-msgstr ""
+msgstr "Prosím! V každém případě. "
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:265
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:265:DefaultText"
 msgid "The one I gave you before your pod landed? Ruined. Beyond repair. Impossible to find replacement parts. That's Halcyon manufacturing for you."
-msgstr ""
+msgstr "Ten, který jsem ti dal před přistáním tvého modulu? Zničený. Neopravitelný. Není možné sehnat náhradní díly. To je pro vás výroba Halcyonu."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:266
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:266:DefaultText"
 msgid "Don't worry about it. I'm reasonably certain you're not going to spontaneously expire. No need to monitor your recovery."
-msgstr ""
+msgstr "Nedělejte si s tím starosti. Jsem si docela jistý, že samovolně nezemřeš. Není třeba sledovat vaše zotavování."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:267
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:267:DefaultText"
 msgid "That reminds me. I appreciate you pulling me out of the Hope."
-msgstr ""
+msgstr "To mi připomíná. Oceňuji, že jsi mě vytáhl z Naděje."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:268
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:268:DefaultText"
 msgid "You shot me into space, you lunatic. I'm lucky I survived at all."
-msgstr ""
+msgstr "Vystřelil jsi mě do vesmíru, ty blázne. Mám štěstí, že jsem vůbec přežil."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:269
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:269:DefaultText"
 msgid "Not at all, my intrepid accomplice. I should thank you for tolerating my somewhat brusque manner. "
-msgstr ""
+msgstr "Vůbec ne, můj neohrožený společníku. Měl bych vám poděkovat za toleranci mého poněkud hrubého chování. "
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:270
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:270:DefaultText"
 msgid "Balderdash! You hadn't yet recovered your faculties of speech. What was I to do? Dear so-and-so, would you like to be shoved into an escape pod, blink twice for yes?"
-msgstr ""
+msgstr "Nesmysl! Ještě se ti nevrátila schopnost mluvit. Co jsem měl dělat? Milý tak a tak, chtěl bys být strčen do únikového modulu, mrkni dvakrát pro ano?"
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:271
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:271:DefaultText"
 msgid "Nonsense. There's no such thing as luck - only well-calculated margins of error. You survived that fall in eighty-five out of a hundred simulations. "
-msgstr ""
+msgstr "Nesmysl. Štěstí neexistuje - pouze dobře vypočítané rozpětí chyb. Ten pád jste přežili v pětaosmdesáti ze sta simulací. "
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:272
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:272:DefaultText"
 msgid "I'm leaving."
-msgstr ""
+msgstr "Odcházím."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:273
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:273:DefaultText"
 msgid "Never mind. Let's change the topic."
-msgstr ""
+msgstr "Nevadí. Změňme téma."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:274
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:274:DefaultText"
 msgid "Of course!"
-msgstr ""
+msgstr "Samozřejmě!"
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:276
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:276:DefaultText"
 msgid "Halcyon is a cesspit. I'm starting to regret ever coming here."
-msgstr ""
+msgstr "Halcyon je žumpa. Začínám litovat, že jsem sem vůbec chodil."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:277
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:277:DefaultText"
 msgid "Yes, well. You're stuck here with the rest of us. Halcyon's our cesspit now, and we're all circling the drain together."
-msgstr ""
+msgstr "Ano, dobře. Zůstal jsi tu s námi ostatními. Halcyon je teď naše žumpa a všichni společně kroužíme kolem stoky."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:278
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:278:DefaultText"
 msgid "We can wallow in our collective misery, or we can try to make Halcyon a better place."
-msgstr ""
+msgstr "Můžeme se utápět ve společné bídě, nebo se můžeme pokusit udělat z Halcyonu lepší místo."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:279
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:279:DefaultText"
 msgid "Enough talk."
-msgstr ""
+msgstr "Dost bylo řečí."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:280
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:280:DefaultText"
 msgid "I only regret that I couldn't save more of your fellow settlers. What with being hunted by the Board. And emptying my supply of necessary chemicals."
-msgstr ""
+msgstr "Jen lituji, že jsem nemohl zachránit více tvých spoluosadníků. A to, že mě pronásleduje Rada. A vyprázdnil jsem zásoby potřebných chemikálií."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:281
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:281:DefaultText"
 msgid "I wanted to talk to you about something else."
-msgstr ""
+msgstr "Chtěl jsem s vámi mluvit o něčem jiném."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:282
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:282:DefaultText"
 msgid "Still, I admit I may have been a touch hasty. Even thoughtless. I do apologize if I rushed you."
-msgstr ""
+msgstr "Přesto uznávám, že jsem se možná unáhlil. Dokonce bezmyšlenkovitě. Omlouvám se, jestli jsem na vás pospíchal."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:284
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:284:DefaultText"
 msgid "Warning label?"
-msgstr ""
+msgstr "Varovný štítek?"
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:285
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:285:DefaultText"
 msgid "Something about being discontinued due to severe adverse reactions. It's fine. You'll be stealing the chemicals, not ingesting them."
-msgstr ""
+msgstr "Něco o tom, že byl ukončen z důvodu závažných nežádoucích účinků. Je to v pořádku. Chemikálie budete krást, nikoliv požívat."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:286
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:286:DefaultText"
 msgid "Human test subjects? That's grotesque. That's unthinkable. That's - exactly what I'd expect out of the Board. "
-msgstr ""
+msgstr "Lidské testovací subjekty? To je groteskní. To je nemyslitelné. To je přesně to, co bych od rady očekával. "
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:287
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:287:DefaultText"
 msgid "These are all the chemicals I could get. Any more, and I would've killed the subjects."
-msgstr ""
+msgstr "To jsou všechny chemikálie, které jsem mohl získat. Kdyby jich bylo víc, zabil bych subjekty."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:288
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:288:DefaultText"
 msgid "I had to let the test subjects die, but I brought back all the chemicals they had."
-msgstr ""
+msgstr "Musel jsem nechat testované subjekty zemřít, ale vrátil jsem jim všechny chemikálie, které měly."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:289
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:289:DefaultText"
 msgid "I put them out of their misery. Here's your canister of chemicals, by the way."
-msgstr ""
+msgstr "Zbavil jsem je jejich trápení. Mimochodem, tady je váš kanystr s chemikáliemi."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:291
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:291:DefaultText"
 msgid "Spare me the drama. Here are your chemicals."
-msgstr ""
+msgstr "Ušetři mě toho dramatu. Tady jsou vaše chemikálie."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:295
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:295:DefaultText"
 msgid "Thank you. You've brought me enough chemicals to get started, at least. I'm just sorry they came at the cost of human lives."
-msgstr ""
+msgstr "Děkujeme. Přinesl jsi mi dostatek chemikálií, abych mohl alespoň začít. Jen mě mrzí, že to bylo za cenu lidských životů."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:296
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:296:DefaultText"
 msgid "And those poor people. They must have died in agony. What exactly was the Board trying to accomplish?"
-msgstr ""
+msgstr "A ti chudáci lidé. Museli umírat v agónii. Čeho přesně chtěla správní rada dosáhnout?"
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:297
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:297:DefaultText"
 msgid "Something about repeatedly reviving humans from extended hibernation?"
-msgstr ""
+msgstr "Něco o opakovaném oživování lidí z dlouhodobé hibernace?"
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:298
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:298:DefaultText"
 msgid "You know how food goes stale if you freeze it too much? Like that, but with people."
-msgstr ""
+msgstr "Víte, jak se potraviny kazí, když je příliš zmrazíte? To je podobné, ale s lidmi."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:299
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:299:DefaultText"
 msgid "Never mind that. Halcyon is about to collapse. The Board's been covering it up."
-msgstr ""
+msgstr "Toho si nevšímejte. Halcyon se brzy zhroutí. Představenstvo to tají."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:300
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:300:DefaultText"
 msgid "The Board's trying to mitigate damage to human tissue during the revival process."
-msgstr ""
+msgstr "Rada se snaží zmírnit poškození lidské tkáně během procesu oživování."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:301
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:301:DefaultText"
 msgid "Um, something about repeatedly melting frozen people. There were lots of big words."
-msgstr ""
+msgstr "Hm, něco o opakovaném tání zmrzlých lidí. Bylo tam hodně velkých slov."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:302
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:302:DefaultText"
 msgid "What nonsense! People aren't just slabs of meat the Board can freeze and thaw at their convenience."
-msgstr ""
+msgstr "To je nesmysl! Lidé nejsou jen kusy masa, které může správní rada zmrazit a rozmrazit, jak se jí to hodí."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:303
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:303:DefaultText"
 msgid "You say the Board's trying to freeze their subjects over and over again without inflicting permanent damage? Well, they're nowhere close to solving that problem."
-msgstr ""
+msgstr "Říkáte, že se rada snaží zmrazit své subjekty znovu a znovu, aniž by jim způsobila trvalé poškození? No, k vyřešení tohoto problému se ani zdaleka nepřiblížili."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:304
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:304:DefaultText"
 msgid "I'll tell you this much. The Board's scientists are hopelessly lost. After years of fruitless experimentation, they've made exactly zero progress."
-msgstr ""
+msgstr "Řeknu vám tolik. Vědci z rady jsou beznadějně ztraceni. Po letech bezvýsledného experimentování dosáhli naprosto nulového pokroku."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:305
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:305:DefaultText"
 msgid "What makes you say that?"
-msgstr ""
+msgstr "Proč to říkáte?"
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:306
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:306:DefaultText"
 msgid "The Board's scientists sounded optimistic."
-msgstr ""
+msgstr "Vědci ze správní rady se vyjádřili optimisticky."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:307
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:307:DefaultText"
 msgid "Focus, Phineas. Halcyon's going to collapse unless we do something."
-msgstr ""
+msgstr "Soustřeď se, Phineasi. Halcyon se zhroutí, pokud něco neuděláme."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:308
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:308:DefaultText"
 msgid "I used to work for these people. I'm intimately familiar with the utter incompetence of the Board's own scientists."
-msgstr ""
+msgstr "Pracoval jsem pro ně. Důvěrně znám naprostou nekompetentnost vědců z rady."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:309
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:309:DefaultText"
 msgid "Yes, I bet they did. The Board's scientists are more worried about pleasing their superiors than making real advancements."
-msgstr ""
+msgstr "Vsadím se, že ano. Vědci z rady se více starají o to, aby se zavděčili svým nadřízeným, než aby dosáhli skutečného pokroku."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:311
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:311:DefaultText"
 msgid "Excellent question, my sharp-witted mechanic! You will use your own ship to power up the Hope's skip drive. Your navigational computer can handle the rest."
-msgstr ""
+msgstr "Výborná otázka, můj bystrý mechaniku! K pohonu přeskoku Hope použijete svou vlastní loď. O zbytek se postará váš navigační počítač."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:312
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:312:DefaultText"
 msgid "Yes, yes. There's always a risk of a catastrophic collision between the Hope and, say, Terra 2. In theory. But you'll be fine, provided your calculations are correct!"
-msgstr ""
+msgstr "Ano, ano. Vždy existuje riziko katastrofické srážky mezi Nadějí a například Terrou 2. Teoreticky. Ale pokud jsou vaše výpočty správné, nic se vám nestane!"
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:313
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:313:DefaultText"
 msgid "Yes! Excellent! I approve of your enthusiasm, young man. You should ask your captain for a raise."
-msgstr ""
+msgstr "Ano! Výborně! Schvaluji vaše nadšení, mladý muži. Měl byste požádat svého kapitána o zvýšení platu."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:314
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:314:DefaultText"
 msgid "Your instincts are correct. By any reasonable definition of sanity, this plan is crazy. Isn't it wonderful?"
-msgstr ""
+msgstr "Vaše instinkty jsou správné. Podle jakékoli rozumné definice příčetnosti je tento plán šílený. Není to báječné?"
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:315
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:315:DefaultText"
 msgid "Well said! Whatever you are."
-msgstr ""
+msgstr "Dobře řečeno! Ať už jste cokoli."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:316
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:316:DefaultText"
 msgid "So, good news! You're going to Byzantium and stealing those chemicals. Exciting!"
-msgstr ""
+msgstr "Takže dobré zprávy! Jedeš do Byzance a ukradneš ty chemikálie. To je vzrušující!"
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:317
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:317:DefaultText"
 msgid "I'm open to suggestions."
-msgstr ""
+msgstr "Jsem otevřený návrhům."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:318
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:318:DefaultText"
 msgid "All right, I've got it. We can't possibly take my lab and all my equipment to the Hope, yes? That would be insane. So we do the slightly less insane thing."
-msgstr ""
+msgstr "Dobře, mám to. Nemůžeme přece vzít mou laboratoř a všechno mé vybavení do Naděje, že? To by bylo šílené. Takže uděláme tu méně šílenou věc."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:319
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:319:DefaultText"
 msgid "Once you've skipped the Hope next to my lab, I'll have easy access to the frozen colonists. I can start reviving them immediately."
-msgstr ""
+msgstr "Jakmile přeskočíš Naději vedle mé laboratoře, budu mít snadný přístup ke zmrzlým kolonistům. Mohu je okamžitě začít oživovat."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:320
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:320:DefaultText"
 msgid "Typical elitist. Hoarding supplies during a time of scarcity. Once I have those chemicals, we can revive the Hope's colonists, and put some decent people in charge."
-msgstr ""
+msgstr "Typický elitář. Hromadění zásob v době nedostatku. Až budu mít ty chemikálie, můžeme oživit kolonisty z Naděje a dosadit do vedení slušné lidi."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:321
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:321:DefaultText"
 msgid "If you don't bring me enough chemicals, I might not be able to save the Hope's colonists, and then nothing will stop the Board from destroying this colony."
-msgstr ""
+msgstr "Pokud mi nepřivezeš dostatek chemikálií, možná nebudu schopen zachránit kolonisty z Naděje a pak už nic nezabrání Radě, aby tuto kolonii zničila."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:322
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:322:DefaultText"
 msgid "I don't know about you, but I'd like to live in a colony that isn't marching toward oblivion."
-msgstr ""
+msgstr "Nevím, jak vy, ale já bych rád žil v kolonii, která nesměřuje k zániku."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:323
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:323:DefaultText"
 msgid "I always knew Halcyon was heading toward a systems collapse, but I never imagined we were already there! The Board made this crisis, and now they want to solve it by freezing the rest of us?"
-msgstr ""
+msgstr "Vždycky jsem věděl, že Halcyon směřuje ke kolapsu systému, ale nikdy jsem si nepředstavoval, že už jsme tam byli! Představenstvo tuhle krizi způsobilo a teď ji chce řešit tím, že zmrazí nás ostatní?"
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:324
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:324:DefaultText"
 msgid "None of this was supposed to happen. I was supposed to revive the Hope's colonists. We were supposed to have enough time to solve the problem before we all starved."
-msgstr ""
+msgstr "Nic z toho se nemělo stát. Měl jsem oživit kolonisty Naděje. Měli jsme mít dost času na vyřešení problému, než všichni zemřeme hlady."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:326
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:326:DefaultText"
 msgid "The Board's going to dispose of them all, and transform the Hope into a prison for the rest of us. They're likely on their way to the Hope as we speak."
-msgstr ""
+msgstr "Rada je všechny zlikviduje a z Naděje udělá vězení pro nás ostatní. Pravděpodobně jsou na cestě do Naděje, zatímco spolu mluvíme."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:327
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:327:DefaultText"
 msgid "The Board's mismanagement put our colony on the road to collapse. If we don't put a stop to them, thousands of colonists are going to die."
-msgstr ""
+msgstr "Špatné hospodaření správní rady přivedlo naši kolonii na cestu ke kolapsu. Pokud je nezastavíme, zemřou tisíce kolonistů."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:329
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:329:DefaultText"
 msgid "I'm giving you my old Navkey to Byzantium. You'll need it to land in the golden city."
-msgstr ""
+msgstr "Dávám ti svůj starý Navkey do Byzance. Budeš ho potřebovat, abys mohl přistát ve zlatém městě."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:330
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:330:DefaultText"
 msgid "What was that about Minister Clarke?"
-msgstr ""
+msgstr "Co to bylo s ministrem Clarkem?"
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:331
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:331:DefaultText"
 msgid "Aloysius Clarke. Minister of Earth. Virtually every colony requires the presence of a Minister of Earth."
-msgstr ""
+msgstr "Aloysius Clarke. Ministr Země. Prakticky každá kolonie vyžaduje přítomnost ministra Země."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:332
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:332:DefaultText"
 msgid "Clarke is complicit in every one of the Board's crimes. Whenever the Board issues some new decree, you'll find Clarke's signature on the dotted line."
-msgstr ""
+msgstr "Clarke se podílí na všech zločinech správní rady. Kdykoli představenstvo vydá nějakou novou vyhlášku, najdete na ní Clarkeův podpis."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:333
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:333:DefaultText"
 msgid "I'd rather not see all of Halcyon descend into chaos like Monarch. Once I have those chemicals, I can start reviving some intelligent, sane people to help me save this colony."
-msgstr ""
+msgstr "Nerad bych, aby se celý Halcyon propadl do chaosu jako Monarcha. Jakmile budu mít ty chemikálie, můžu začít oživovat inteligentní a rozumné lidi, aby mi pomohli zachránit tuhle kolonii."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:334
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:334:DefaultText"
 msgid "They might tempt you with promises of wealth, but don't be fooled. They're just using you for their own ends."
-msgstr ""
+msgstr "Mohou vás lákat sliby bohatství, ale nenechte se oklamat. Jen vás využívají pro své vlastní cíle."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:336
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:336:DefaultText"
 msgid "Why do you think we've been doing all this? I revived you to help me save Halcyon from annihilation."
-msgstr ""
+msgstr "Proč myslíte, že jsme to všechno dělali? Oživil jsem tě, abys mi pomohl zachránit Halcyon před zkázou."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:337
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:337:DefaultText"
 msgid "Something about this feels wrong. I don't know why the Board would ever conduct such an experiment, unless they're working on some kind of hibernation technology. "
-msgstr ""
+msgstr "Něco mi na tom nesedí. Nevím, proč by Rada vůbec prováděla takový experiment, ledaže by pracovala na nějaké technologii hibernace. "
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:338
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_intro:338:DefaultText"
 msgid "Those poor people. They must have died in agony. What exactly was the Board trying to accomplish?"
-msgstr ""
+msgstr "Chudáci lidé. Museli umírat v agónii. Čeho přesně chtěla správní rada dosáhnout?"

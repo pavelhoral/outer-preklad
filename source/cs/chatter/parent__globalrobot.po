@@ -1,804 +1,804 @@
 #: chatter/parent__globalrobot:1
 msgctxt "chatter/parent__globalrobot:1:DefaultText"
 msgid "Unit down."
-msgstr ""
+msgstr "Jednotka je v havarijním stavu."
 
 #: chatter/parent__globalrobot:2
 msgctxt "chatter/parent__globalrobot:2:DefaultText"
 msgid "Maintenance required for adjacent automech."
-msgstr ""
+msgstr "Údržba vyžadovaná pro sousední automechaniku."
 
 #: chatter/parent__globalrobot:3
 msgctxt "chatter/parent__globalrobot:3:DefaultText"
 msgid "Unit destroyed."
-msgstr ""
+msgstr "Zničená jednotka."
 
 #: chatter/parent__globalrobot:4
 msgctxt "chatter/parent__globalrobot:4:DefaultText"
 msgid "Automech destroyed."
-msgstr ""
+msgstr "Automech zničen."
 
 #: chatter/parent__globalrobot:5
 msgctxt "chatter/parent__globalrobot:5:DefaultText"
 msgid "Automech down."
-msgstr ""
+msgstr "Automech je vypnutý."
 
 #: chatter/parent__globalrobot:6
 msgctxt "chatter/parent__globalrobot:6:DefaultText"
 msgid "Repairs required in nearby automech."
-msgstr ""
+msgstr "Nutné opravy v nedalekém automechu."
 
 #: chatter/parent__globalrobot:7
 msgctxt "chatter/parent__globalrobot:7:DefaultText"
 msgid "Maintenance required for adjacent unit."
-msgstr ""
+msgstr "Pro sousední jednotku je nutná údržba."
 
 #: chatter/parent__globalrobot:8
 msgctxt "chatter/parent__globalrobot:8:DefaultText"
 msgid "Repairs required in nearby unit."
-msgstr ""
+msgstr "V blízké jednotce jsou nutné opravy."
 
 #: chatter/parent__globalrobot:9
 msgctxt "chatter/parent__globalrobot:9:DefaultText"
 msgid "Terminal damage sustained."
-msgstr ""
+msgstr "Utrpěná konečná škoda."
 
 #: chatter/parent__globalrobot:10
 msgctxt "chatter/parent__globalrobot:10:DefaultText"
 msgid "Group's lethality now reduced."
-msgstr ""
+msgstr "Smrtelnost skupiny je nyní snížena."
 
 #: chatter/parent__globalrobot:11
 msgctxt "chatter/parent__globalrobot:11:DefaultText"
 msgid "Security protocols triggered."
-msgstr ""
+msgstr "Spuštění bezpečnostních protokolů."
 
 #: chatter/parent__globalrobot:12
 msgctxt "chatter/parent__globalrobot:12:DefaultText"
 msgid "Initiating security protocols..."
-msgstr ""
+msgstr "Iniciace bezpečnostních protokolů..."
 
 #: chatter/parent__globalrobot:13
 msgctxt "chatter/parent__globalrobot:13:DefaultText"
 msgid "Suspicious data acquired. Investigating..."
-msgstr ""
+msgstr "Získaná podezřelá data. Vyšetřování..."
 
 #: chatter/parent__globalrobot:14
 msgctxt "chatter/parent__globalrobot:14:DefaultText"
 msgid "Security alert!"
-msgstr ""
+msgstr "Bezpečnostní upozornění!"
 
 #: chatter/parent__globalrobot:15
 msgctxt "chatter/parent__globalrobot:15:DefaultText"
 msgid "Elevating threat level."
-msgstr ""
+msgstr "Zvýšení úrovně ohrožení."
 
 #: chatter/parent__globalrobot:16
 msgctxt "chatter/parent__globalrobot:16:DefaultText"
 msgid "Warning: unauthorized persons may be on the premises."
-msgstr ""
+msgstr "Upozornění: v areálu se mohou nacházet nepovolané osoby."
 
 #: chatter/parent__globalrobot:17
 msgctxt "chatter/parent__globalrobot:17:DefaultText"
 msgid "Security alert detected."
-msgstr ""
+msgstr "Zjištěno bezpečnostní upozornění."
 
 #: chatter/parent__globalrobot:18
 msgctxt "chatter/parent__globalrobot:18:DefaultText"
 msgid "Threat level elevated."
-msgstr ""
+msgstr "Stupeň ohrožení je zvýšený."
 
 #: chatter/parent__globalrobot:21
 msgctxt "chatter/parent__globalrobot:21:DefaultText"
 msgid "Investigating..."
-msgstr ""
+msgstr "Vyšetřování..."
 
 #: chatter/parent__globalrobot:22
 msgctxt "chatter/parent__globalrobot:22:DefaultText"
 msgid "Sweeping the area..."
-msgstr ""
+msgstr "Zametání oblasti..."
 
 #: chatter/parent__globalrobot:23
 msgctxt "chatter/parent__globalrobot:23:DefaultText"
 msgid "Performing an area sweep now."
-msgstr ""
+msgstr "Nyní provádíme průzkum oblasti."
 
 #: chatter/parent__globalrobot:24
 msgctxt "chatter/parent__globalrobot:24:DefaultText"
 msgid "Security patrol initiated."
-msgstr ""
+msgstr "Zahájena bezpečnostní hlídka."
 
 #: chatter/parent__globalrobot:25
 msgctxt "chatter/parent__globalrobot:25:DefaultText"
 msgid "Searching for unauthorized persons..."
-msgstr ""
+msgstr "Pátrání po neoprávněných osobách..."
 
 #: chatter/parent__globalrobot:26
 msgctxt "chatter/parent__globalrobot:26:DefaultText"
 msgid "Beginning security patrol..."
-msgstr ""
+msgstr "Zahájení bezpečnostní hlídky..."
 
 #: chatter/parent__globalrobot:31
 msgctxt "chatter/parent__globalrobot:31:DefaultText"
 msgid "Halt."
-msgstr ""
+msgstr "Zastavte."
 
 #: chatter/parent__globalrobot:32
 msgctxt "chatter/parent__globalrobot:32:DefaultText"
 msgid "System alert."
-msgstr ""
+msgstr "Systémové upozornění."
 
 #: chatter/parent__globalrobot:33
 msgctxt "chatter/parent__globalrobot:33:DefaultText"
 msgid "Processing data..."
-msgstr ""
+msgstr "Zpracování dat..."
 
 #: chatter/parent__globalrobot:34
 msgctxt "chatter/parent__globalrobot:34:DefaultText"
 msgid "Unexpected noise indentified."
-msgstr ""
+msgstr "Identifikace neočekávaného hluku."
 
 #: chatter/parent__globalrobot:41
 msgctxt "chatter/parent__globalrobot:41:DefaultText"
 msgid "Threat level neutralized."
-msgstr ""
+msgstr "Úroveň ohrožení neutralizována."
 
 #: chatter/parent__globalrobot:42
 msgctxt "chatter/parent__globalrobot:42:DefaultText"
 msgid "Exiting security enforcement mode."
-msgstr ""
+msgstr "Ukončení režimu vynucení zabezpečení."
 
 #: chatter/parent__globalrobot:43
 msgctxt "chatter/parent__globalrobot:43:DefaultText"
 msgid "Resetting threat level."
-msgstr ""
+msgstr "Resetování úrovně ohrožení."
 
 #: chatter/parent__globalrobot:44
 msgctxt "chatter/parent__globalrobot:44:DefaultText"
 msgid "Clearing queued security actions."
-msgstr ""
+msgstr "Vymazání akcí zabezpečení ve frontě."
 
 #: chatter/parent__globalrobot:45
 msgctxt "chatter/parent__globalrobot:45:DefaultText"
 msgid "Returning to patrol mode."
-msgstr ""
+msgstr "Návrat do režimu hlídky."
 
 #: chatter/parent__globalrobot:46
 msgctxt "chatter/parent__globalrobot:46:DefaultText"
 msgid "Security threat eliminated."
-msgstr ""
+msgstr "Bezpečnostní hrozba odstraněna."
 
 #: chatter/parent__globalrobot:47
 msgctxt "chatter/parent__globalrobot:47:DefaultText"
 msgid "Trespassers terminated."
-msgstr ""
+msgstr "Ukončení vstupu na cizí pozemek."
 
 #: chatter/parent__globalrobot:48
 msgctxt "chatter/parent__globalrobot:48:DefaultText"
 msgid "Sanitation and cleanup required."
-msgstr ""
+msgstr "Vyžaduje se sanitace a úklid."
 
 #: chatter/parent__globalrobot:49
 msgctxt "chatter/parent__globalrobot:49:DefaultText"
 msgid "Reminder: please pay your gravesite fees."
-msgstr ""
+msgstr "Připomínáme: zaplaťte poplatky za hrobové místo."
 
 #: chatter/parent__globalrobot:50
 msgctxt "chatter/parent__globalrobot:50:DefaultText"
 msgid "Now switching to garbage disposal mode."
-msgstr ""
+msgstr "Nyní se přepíná do režimu likvidace odpadků."
 
 #: chatter/parent__globalrobot:51
 msgctxt "chatter/parent__globalrobot:51:DefaultText"
 msgid "Searching for target..."
-msgstr ""
+msgstr "Hledání cíle..."
 
 #: chatter/parent__globalrobot:52
 msgctxt "chatter/parent__globalrobot:52:DefaultText"
 msgid "Miscreants are encouraged to surrender for punishment of death!"
-msgstr ""
+msgstr "Zločinci jsou vyzýváni, aby se vzdali za trest smrti!"
 
 #: chatter/parent__globalrobot:53
 msgctxt "chatter/parent__globalrobot:53:DefaultText"
 msgid "Interception protocols active."
-msgstr ""
+msgstr "Protokoly o odposlechu jsou aktivní."
 
 #: chatter/parent__globalrobot:54
 msgctxt "chatter/parent__globalrobot:54:DefaultText"
 msgid "Worker, enter this unit's optical range immediately!"
-msgstr ""
+msgstr "Pracovníku, okamžitě vstupte do optického dosahu této jednotky!"
 
 #: chatter/parent__globalrobot:55
 msgctxt "chatter/parent__globalrobot:55:DefaultText"
 msgid "Surrender, worker! Capture is inevitable."
-msgstr ""
+msgstr "Vzdej se, dělníku! Zajetí je nevyhnutelné."
 
 #: chatter/parent__globalrobot:56
 msgctxt "chatter/parent__globalrobot:56:DefaultText"
 msgid "Hiding on the jobsite is not permitted."
-msgstr ""
+msgstr "Schovávání na staveništi není povoleno."
 
 #: chatter/parent__globalrobot:61
 msgctxt "chatter/parent__globalrobot:61:DefaultText"
 msgid "Defensive measures engaged."
-msgstr ""
+msgstr "Zapojení obranných opatření."
 
 #: chatter/parent__globalrobot:62
 msgctxt "chatter/parent__globalrobot:62:DefaultText"
 msgid "Hostile intent detected!"
-msgstr ""
+msgstr "Zjištěn nepřátelský záměr!"
 
 #: chatter/parent__globalrobot:63
 msgctxt "chatter/parent__globalrobot:63:DefaultText"
 msgid "Queuing protocols for hostile engagement..."
-msgstr ""
+msgstr "Protokoly o čekání ve frontě pro nepřátelské zapojení..."
 
 #: chatter/parent__globalrobot:64
 msgctxt "chatter/parent__globalrobot:64:DefaultText"
 msgid "Targeting for attack!"
-msgstr ""
+msgstr "Zaměření na útok!"
 
 #: chatter/parent__globalrobot:65
 msgctxt "chatter/parent__globalrobot:65:DefaultText"
 msgid "Worker, prepare to be penalized for your unauthorized actions."
-msgstr ""
+msgstr "Pracovníku, připrav se na to, že budeš za své neoprávněné jednání potrestán."
 
 #: chatter/parent__globalrobot:66
 msgctxt "chatter/parent__globalrobot:66:DefaultText"
 msgid "Preparing punitive measures."
-msgstr ""
+msgstr "Příprava trestních opatření."
 
 #: chatter/parent__globalrobot:71
 msgctxt "chatter/parent__globalrobot:71:DefaultText"
 msgid "Worker, do not resist arrest!"
-msgstr ""
+msgstr "Pracovníku, nebraňte se zatčení!"
 
 #: chatter/parent__globalrobot:72
 msgctxt "chatter/parent__globalrobot:72:DefaultText"
 msgid "Surrender immediately for lethal punishment."
-msgstr ""
+msgstr "Okamžitě se vzdejte, abyste byli potrestáni smrtí."
 
 #: chatter/parent__globalrobot:73
 msgctxt "chatter/parent__globalrobot:73:DefaultText"
 msgid "Dissidence will be routed!"
-msgstr ""
+msgstr "Disidentství bude potlačeno!"
 
 #: chatter/parent__globalrobot:74
 msgctxt "chatter/parent__globalrobot:74:DefaultText"
 msgid "Illegal activity will be penalized by the full extend of the Law!"
-msgstr ""
+msgstr "Nezákonná činnost bude potrestána v plném rozsahu zákona!"
 
 #: chatter/parent__globalrobot:75
 msgctxt "chatter/parent__globalrobot:75:DefaultText"
 msgid "Engaging punishment protocols."
-msgstr ""
+msgstr "Zapojení protokolů o trestech."
 
 #: chatter/parent__globalrobot:81
 msgctxt "chatter/parent__globalrobot:81:DefaultText"
 msgid "Systems malfunctioning!"
-msgstr ""
+msgstr "Nefunkční systémy!"
 
 #: chatter/parent__globalrobot:82
 msgctxt "chatter/parent__globalrobot:82:DefaultText"
 msgid "Error: unit is unable to engage in security protocols."
-msgstr ""
+msgstr "Chyba: jednotka není schopna zapojit se do bezpečnostních protokolů."
 
 #: chatter/parent__globalrobot:83
 msgctxt "chatter/parent__globalrobot:83:DefaultText"
 msgid "Threat level exceeded. Initiating surrender protocols. "
-msgstr ""
+msgstr "Stupeň ohrožení překročen. Zahájení předávacích protokolů. "
 
 #: chatter/parent__globalrobot:84
 msgctxt "chatter/parent__globalrobot:84:DefaultText"
 msgid "Malfunction! Error! Servocore overheating!"
-msgstr ""
+msgstr "Porucha! Chyba! Přehřátí servopohonu!"
 
 #: chatter/parent__globalrobot:85
 msgctxt "chatter/parent__globalrobot:85:DefaultText"
 msgid "Overload in progress!"
-msgstr ""
+msgstr "Probíhá přetížení!"
 
 #: chatter/parent__globalrobot:86
 msgctxt "chatter/parent__globalrobot:86:DefaultText"
 msgid "Risk assessment results: this unit has no chance of success."
-msgstr ""
+msgstr "Výsledky posouzení rizik: Tato jednotka nemá šanci na úspěch."
 
 #: chatter/parent__globalrobot:91
 msgctxt "chatter/parent__globalrobot:91:DefaultText"
 msgid "Unable to locate target. "
-msgstr ""
+msgstr "Nelze najít cíl. "
 
 #: chatter/parent__globalrobot:92
 msgctxt "chatter/parent__globalrobot:92:DefaultText"
 msgid "Scanning... scanning for target..."
-msgstr ""
+msgstr "Skenování... hledání cíle..."
 
 #: chatter/parent__globalrobot:93
 msgctxt "chatter/parent__globalrobot:93:DefaultText"
 msgid "Target lost."
-msgstr ""
+msgstr "Cíl ztracen."
 
 #: chatter/parent__globalrobot:94
 msgctxt "chatter/parent__globalrobot:94:DefaultText"
 msgid "Error: target not found."
-msgstr ""
+msgstr "Chyba: cíl nebyl nalezen."
 
 #: chatter/parent__globalrobot:95
 msgctxt "chatter/parent__globalrobot:95:DefaultText"
 msgid "Aiming system failure."
-msgstr ""
+msgstr "Selhání zaměřovacího systému."
 
 #: chatter/parent__globalrobot:96
 msgctxt "chatter/parent__globalrobot:96:DefaultText"
 msgid "Unable to take aim."
-msgstr ""
+msgstr "Nelze zamířit."
 
 #: chatter/parent__globalrobot:97
 msgctxt "chatter/parent__globalrobot:97:DefaultText"
 msgid "Unable to locate target. Please note that thermal imagers are available at additional cost."
-msgstr ""
+msgstr "Nelze najít cíl. Upozorňujeme, že termokamery jsou k dispozici za příplatek."
 
 #: chatter/parent__globalrobot:101
 msgctxt "chatter/parent__globalrobot:101:DefaultText"
 msgid "Target reacquired."
-msgstr ""
+msgstr "Cíl znovu získán."
 
 #: chatter/parent__globalrobot:102
 msgctxt "chatter/parent__globalrobot:102:DefaultText"
 msgid "Target located!"
-msgstr ""
+msgstr "Cíl se nachází!"
 
 #: chatter/parent__globalrobot:103
 msgctxt "chatter/parent__globalrobot:103:DefaultText"
 msgid "Target locked."
-msgstr ""
+msgstr "Cíl uzamčen."
 
 #: chatter/parent__globalrobot:104
 msgctxt "chatter/parent__globalrobot:104:DefaultText"
 msgid "Security mark located."
-msgstr ""
+msgstr "Umístění bezpečnostní značky."
 
 #: chatter/parent__globalrobot:105
 msgctxt "chatter/parent__globalrobot:105:DefaultText"
 msgid "Security mark reacquired."
-msgstr ""
+msgstr "Opětovné získání bezpečnostní značky."
 
 #: chatter/parent__globalrobot:106
 msgctxt "chatter/parent__globalrobot:106:DefaultText"
 msgid "Adjusting aim..."
-msgstr ""
+msgstr "Nastavení cíle..."
 
 #: chatter/parent__globalrobot:107
 msgctxt "chatter/parent__globalrobot:107:DefaultText"
 msgid "Dissident found!"
-msgstr ""
+msgstr "Disident nalezen!"
 
 #: chatter/parent__globalrobot:111
 msgctxt "chatter/parent__globalrobot:111:DefaultText"
 msgid "Illegal activity detected."
-msgstr ""
+msgstr "Zjištěna nezákonná činnost."
 
 #: chatter/parent__globalrobot:112
 msgctxt "chatter/parent__globalrobot:112:DefaultText"
 msgid "Caution, worker! Breaking the law risks penalty of death."
-msgstr ""
+msgstr "Pozor, pracovníku! Za porušení zákona hrozí trest smrti."
 
 #: chatter/parent__globalrobot:113
 msgctxt "chatter/parent__globalrobot:113:DefaultText"
 msgid "Crime alert! "
-msgstr ""
+msgstr "Varování před zločinem! "
 
 #: chatter/parent__globalrobot:114
 msgctxt "chatter/parent__globalrobot:114:DefaultText"
 msgid "Crime in progress."
-msgstr ""
+msgstr "Probíhající trestný čin."
 
 #: chatter/parent__globalrobot:115
 msgctxt "chatter/parent__globalrobot:115:DefaultText"
 msgid "Identifying criminal activity..."
-msgstr ""
+msgstr "Identifikace trestné činnosti..."
 
 #: chatter/parent__globalrobot:116
 msgctxt "chatter/parent__globalrobot:116:DefaultText"
 msgid "Warning! That activity is against the Law!"
-msgstr ""
+msgstr "Pozor! Tato činnost je v rozporu se zákonem!"
 
 #: chatter/parent__globalrobot:117
 msgctxt "chatter/parent__globalrobot:117:DefaultText"
 msgid "That action is not authorized."
-msgstr ""
+msgstr "Tato akce není povolena."
 
 #: chatter/parent__globalrobot:121
 msgctxt "chatter/parent__globalrobot:121:DefaultText"
 msgid "Hacking is illegal."
-msgstr ""
+msgstr "Hackování je nezákonné."
 
 #: chatter/parent__globalrobot:122
 msgctxt "chatter/parent__globalrobot:122:DefaultText"
 msgid "Worker, you are not authorized to service this terminal."
-msgstr ""
+msgstr "Pracovníku, nejste oprávněni provádět servis tohoto terminálu."
 
 #: chatter/parent__globalrobot:123
 msgctxt "chatter/parent__globalrobot:123:DefaultText"
 msgid "That action is not authorized."
-msgstr ""
+msgstr "Tato akce není povolena."
 
 #: chatter/parent__globalrobot:131
 msgctxt "chatter/parent__globalrobot:131:DefaultText"
 msgid "That action is not authorized."
-msgstr ""
+msgstr "Tato akce není povolena."
 
 #: chatter/parent__globalrobot:132
 msgctxt "chatter/parent__globalrobot:132:DefaultText"
 msgid "Lockpicking is illegal."
-msgstr ""
+msgstr "Krádeže zámků jsou nezákonné."
 
 #: chatter/parent__globalrobot:133
 msgctxt "chatter/parent__globalrobot:133:DefaultText"
 msgid "Worker, you are not authorized to bypass that security system!"
-msgstr ""
+msgstr "Pracovníku, nejste oprávněn tento bezpečnostní systém obejít!"
 
 #: chatter/parent__globalrobot:141
 msgctxt "chatter/parent__globalrobot:141:DefaultText"
 msgid "That action is not authorized."
-msgstr ""
+msgstr "Tato akce není povolena."
 
 #: chatter/parent__globalrobot:142
 msgctxt "chatter/parent__globalrobot:142:DefaultText"
 msgid "Stealing is illegal."
-msgstr ""
+msgstr "Krádež je nezákonná."
 
 #: chatter/parent__globalrobot:143
 msgctxt "chatter/parent__globalrobot:143:DefaultText"
 msgid "Reminder: taking another's belongings is the same as stealing from the company,"
-msgstr ""
+msgstr "Připomínáme, že brát cizí věci je stejné jako krást,"
 
 #: chatter/parent__globalrobot:144
 msgctxt "chatter/parent__globalrobot:144:DefaultText"
 msgid "That object is not registered to your employee account."
-msgstr ""
+msgstr "Tento objekt není zaregistrován na vašem účtu zaměstnance."
 
 #: chatter/parent__globalrobot:151
 msgctxt "chatter/parent__globalrobot:151:DefaultText"
 msgid "Intruder alert!"
-msgstr ""
+msgstr "Vetřelec v pohotovosti!"
 
 #: chatter/parent__globalrobot:152
 msgctxt "chatter/parent__globalrobot:152:DefaultText"
 msgid "Trespasser sighted!"
-msgstr ""
+msgstr "Vetřelec spatřen!"
 
 #: chatter/parent__globalrobot:153
 msgctxt "chatter/parent__globalrobot:153:DefaultText"
 msgid "Worker, you are not authorized to access this area."
-msgstr ""
+msgstr "Pracovníku, nemáte oprávnění k přístupu do této oblasti."
 
 #: chatter/parent__globalrobot:154
 msgctxt "chatter/parent__globalrobot:154:DefaultText"
 msgid "Trespassers discovered in restricted area!"
-msgstr ""
+msgstr "V zakázané oblasti byli objeveni vetřelci!"
 
 #: chatter/parent__globalrobot:155
 msgctxt "chatter/parent__globalrobot:155:DefaultText"
 msgid "Breach detected in restricted area!"
-msgstr ""
+msgstr "Zjištěno narušení ve vyhrazené oblasti!"
 
 #: chatter/parent__globalrobot:156
 msgctxt "chatter/parent__globalrobot:156:DefaultText"
 msgid "Worker, this area is restricted!"
-msgstr ""
+msgstr "Pracovníku, tato oblast je omezena!"
 
 #: chatter/parent__globalrobot:161
 msgctxt "chatter/parent__globalrobot:161:DefaultText"
 msgid "That action is not authorized."
-msgstr ""
+msgstr "Tato akce není povolena."
 
 #: chatter/parent__globalrobot:162
 msgctxt "chatter/parent__globalrobot:162:DefaultText"
 msgid "Thieves will be punished to the full extend of the Law!"
-msgstr ""
+msgstr "Zloději budou potrestáni v plném rozsahu Zákona!"
 
 #: chatter/parent__globalrobot:163
 msgctxt "chatter/parent__globalrobot:163:DefaultText"
 msgid "Stealing is illegal."
-msgstr ""
+msgstr "Krádež je nezákonná."
 
 #: chatter/parent__globalrobot:164
 msgctxt "chatter/parent__globalrobot:164:DefaultText"
 msgid "Stolen items will result in a fine to be paid post-mortem."
-msgstr ""
+msgstr "Za ukradené předměty bude uložena pokuta, která bude uhrazena dodatečně."
 
 #: chatter/parent__globalrobot:171
 msgctxt "chatter/parent__globalrobot:171:DefaultText"
 msgid "Disengaging from combat..."
-msgstr ""
+msgstr "Vyřazení z boje..."
 
 #: chatter/parent__globalrobot:172
 msgctxt "chatter/parent__globalrobot:172:DefaultText"
 msgid "Tactical retreat initiated."
-msgstr ""
+msgstr "Zahájen taktický ústup."
 
 #: chatter/parent__globalrobot:173
 msgctxt "chatter/parent__globalrobot:173:DefaultText"
 msgid "Returning to last patrol point..."
-msgstr ""
+msgstr "Vrátíme-li se k poslednímu bodu hlídky..."
 
 #: chatter/parent__globalrobot:174
 msgctxt "chatter/parent__globalrobot:174:DefaultText"
 msgid "Survival self-restraint system engaged!"
-msgstr ""
+msgstr "Zapojení systému sebeovládání pro přežití!"
 
 #: chatter/parent__globalrobot:181
 msgctxt "chatter/parent__globalrobot:181:DefaultText"
 msgid "Reprogramming efforts accepted."
-msgstr ""
+msgstr "Snaha o přeprogramování přijata."
 
 #: chatter/parent__globalrobot:182
 msgctxt "chatter/parent__globalrobot:182:DefaultText"
 msgid "Combat commands rerouted."
-msgstr ""
+msgstr "Přesměrování bojových příkazů."
 
 #: chatter/parent__globalrobot:183
 msgctxt "chatter/parent__globalrobot:183:DefaultText"
 msgid "Reprogramming confirmed."
-msgstr ""
+msgstr "Přeprogramování potvrzeno."
 
 #: chatter/parent__globalrobot:184
 msgctxt "chatter/parent__globalrobot:184:DefaultText"
 msgid "Error: retargeting dissidents... new dissidents located!"
-msgstr ""
+msgstr "Chyba: opětovné zaměření disidentů... nalezeni noví disidenti!"
 
 #: chatter/parent__globalrobot:191
 msgctxt "chatter/parent__globalrobot:191:DefaultText"
 msgid "Damage sustained."
-msgstr ""
+msgstr "Vzniklá škoda."
 
 #: chatter/parent__globalrobot:192
 msgctxt "chatter/parent__globalrobot:192:DefaultText"
 msgid "Unit damaged."
-msgstr ""
+msgstr "Poškozená jednotka."
 
 #: chatter/parent__globalrobot:193
 msgctxt "chatter/parent__globalrobot:193:DefaultText"
 msgid "Warning: damage not covered under warranty."
-msgstr ""
+msgstr "Upozornění: na poškození se nevztahuje záruka."
 
 #: chatter/parent__globalrobot:194
 msgctxt "chatter/parent__globalrobot:194:DefaultText"
 msgid "Worker, cease and desist damaging this unit."
-msgstr ""
+msgstr "Pracovníku, přestaňte tuto jednotku poškozovat."
 
 #: chatter/parent__globalrobot:195
 msgctxt "chatter/parent__globalrobot:195:DefaultText"
 msgid "Unit damaged. Cosmetic damage is not covered by warranty."
-msgstr ""
+msgstr "Poškozená jednotka. Na kosmetické poškození se nevztahuje záruka."
 
 #: chatter/parent__globalrobot:201
 msgctxt "chatter/parent__globalrobot:201:DefaultText"
 msgid "Nothing to optically process here..."
-msgstr ""
+msgstr "Není zde nic, co by se dalo opticky zpracovat..."
 
 #: chatter/parent__globalrobot:202
 msgctxt "chatter/parent__globalrobot:202:DefaultText"
 msgid "Bits processed. Please proceed."
-msgstr ""
+msgstr "Zpracované bity. Pokračujte prosím."
 
 #: chatter/parent__globalrobot:203
 msgctxt "chatter/parent__globalrobot:203:DefaultText"
 msgid "The company thanks you for your contribution."
-msgstr ""
+msgstr "Společnost vám děkuje za váš příspěvek."
 
 #: chatter/parent__globalrobot:204
 msgctxt "chatter/parent__globalrobot:204:DefaultText"
 msgid "Your bits will provide for this unit's maintenance fund."
-msgstr ""
+msgstr "Z vašich příspěvků bude financován fond údržby této jednotky."
 
 #: chatter/parent__globalrobot:205
 msgctxt "chatter/parent__globalrobot:205:DefaultText"
 msgid "Suspicion levels minimal. Carry on."
-msgstr ""
+msgstr "Úroveň podezření je minimální. Pokračujte."
 
 #: chatter/parent__globalrobot:206
 msgctxt "chatter/parent__globalrobot:206:DefaultText"
 msgid "Suspicion levels reset."
-msgstr ""
+msgstr "Úroveň podezření se resetuje."
 
 #: chatter/parent__globalrobot:211
 msgctxt "chatter/parent__globalrobot:211:DefaultText"
 msgid "Nothing to optically process here..."
-msgstr ""
+msgstr "Není zde nic, co by se dalo opticky zpracovat..."
 
 #: chatter/parent__globalrobot:212
 msgctxt "chatter/parent__globalrobot:212:DefaultText"
 msgid "Worker determined to be operating within the parameters of the Law."
-msgstr ""
+msgstr "Pracovník, o němž bylo zjištěno, že pracuje v souladu s parametry zákona."
 
 #: chatter/parent__globalrobot:213
 msgctxt "chatter/parent__globalrobot:213:DefaultText"
 msgid "This worker is entirely lawful."
-msgstr ""
+msgstr "Tento pracovník je zcela v souladu se zákonem."
 
 #: chatter/parent__globalrobot:214
 msgctxt "chatter/parent__globalrobot:214:DefaultText"
 msgid "Suspicion levels minimal. Carry on."
-msgstr ""
+msgstr "Úroveň podezření je minimální. Pokračujte."
 
 #: chatter/parent__globalrobot:215
 msgctxt "chatter/parent__globalrobot:215:DefaultText"
 msgid "Suspicion levels reset."
-msgstr ""
+msgstr "Úroveň podezření se resetuje."
 
 #: chatter/parent__globalrobot:221
 msgctxt "chatter/parent__globalrobot:221:DefaultText"
 msgid "Calculating penalization amount... enforcing punishment..."
-msgstr ""
+msgstr "Výpočet výše trestu... výkon trestu..."
 
 #: chatter/parent__globalrobot:222
 msgctxt "chatter/parent__globalrobot:222:DefaultText"
 msgid "Worker, you have been deemed in violation of the Law!"
-msgstr ""
+msgstr "Pracovníku, byl jsi shledán v rozporu se zákonem!"
 
 #: chatter/parent__globalrobot:223
 msgctxt "chatter/parent__globalrobot:223:DefaultText"
 msgid "Doling out punishment."
-msgstr ""
+msgstr "Udělování trestů."
 
 #: chatter/parent__globalrobot:224
 msgctxt "chatter/parent__globalrobot:224:DefaultText"
 msgid "Punishment will be swift and severe."
-msgstr ""
+msgstr "Trest bude rychlý a přísný."
 
 #: chatter/parent__globalrobot:231
 msgctxt "chatter/parent__globalrobot:231:DefaultText"
 msgid "Returning to normal protocols..."
-msgstr ""
+msgstr "Návrat k normálním protokolům..."
 
 #: chatter/parent__globalrobot:232
 msgctxt "chatter/parent__globalrobot:232:DefaultText"
 msgid "Search failed. Suspicious data not found."
-msgstr ""
+msgstr "Hledání se nezdařilo. Podezřelá data nebyla nalezena."
 
 #: chatter/parent__globalrobot:233
 msgctxt "chatter/parent__globalrobot:233:DefaultText"
 msgid "Resetting actions."
-msgstr ""
+msgstr "Akce resetování."
 
 #: chatter/parent__globalrobot:234
 msgctxt "chatter/parent__globalrobot:234:DefaultText"
 msgid "Terminating security search."
-msgstr ""
+msgstr "Ukončení bezpečnostního vyhledávání."
 
 #: chatter/parent__globalrobot:235
 msgctxt "chatter/parent__globalrobot:235:DefaultText"
 msgid "Search concluded. No dissidents found."
-msgstr ""
+msgstr "Vyhledávání uzavřeno. Nebyli nalezeni žádní disidenti."
 
 #: chatter/parent__globalrobot:241
 msgctxt "chatter/parent__globalrobot:241:DefaultText"
 msgid "Combatant eliminated."
-msgstr ""
+msgstr "Bojovník vyřazen."
 
 #: chatter/parent__globalrobot:242
 msgctxt "chatter/parent__globalrobot:242:DefaultText"
 msgid "Threat neutralized."
-msgstr ""
+msgstr "Hrozba neutralizována."
 
 #: chatter/parent__globalrobot:243
 msgctxt "chatter/parent__globalrobot:243:DefaultText"
 msgid "This worker's employment has been terminated."
-msgstr ""
+msgstr "S tímto pracovníkem byl ukončen pracovní poměr."
 
 #: chatter/parent__globalrobot:244
 msgctxt "chatter/parent__globalrobot:244:DefaultText"
 msgid "Worker successfully discharged."
-msgstr ""
+msgstr "Pracovník byl úspěšně propuštěn."
 
 #: chatter/parent__globalrobot:245
 msgctxt "chatter/parent__globalrobot:245:DefaultText"
 msgid "Dissident routed!"
-msgstr ""
+msgstr "Disident je vyřazen!"
 
 #: chatter/parent__globalrobot:246
 msgctxt "chatter/parent__globalrobot:246:DefaultText"
 msgid "Dissident has been subdued."
-msgstr ""
+msgstr "Disident byl potlačen."
 
 #: chatter/parent__globalrobot:247
 msgctxt "chatter/parent__globalrobot:247:DefaultText"
 msgid "Hostile destroyed."
-msgstr ""
+msgstr "Nepřátelský zničen."
 
 #: chatter/parent__globalrobot:248
 msgctxt "chatter/parent__globalrobot:248:DefaultText"
 msgid "Subjugation efforts successful."
-msgstr ""
+msgstr "Úsilí o podmanění bylo úspěšné."
 
 #: chatter/parent__globalrobot:251
 msgctxt "chatter/parent__globalrobot:251:DefaultText"
 msgid "Please practice proper trigger discipline. Firearm safety is important."
-msgstr ""
+msgstr "Prosím, dodržujte správnou spoušťovou disciplínu. Bezpečnost střelných zbraní je důležitá."
 
 #: chatter/parent__globalrobot:252
 msgctxt "chatter/parent__globalrobot:252:DefaultText"
 msgid "Warning: please do not waste company bullets."
-msgstr ""
+msgstr "Varování: neplýtvejte náboji společnosti."
 
 #: chatter/parent__globalrobot:253
 msgctxt "chatter/parent__globalrobot:253:DefaultText"
 msgid "Warning: damaging another worker will result in a wage deduction."
-msgstr ""
+msgstr "Upozornění: Poškození jiného pracovníka bude mít za následek srážku ze mzdy."
 
 #: chatter/parent__globalrobot:254
 msgctxt "chatter/parent__globalrobot:254:DefaultText"
 msgid "Firearm safety manuals may be ordered from Spacer's Choice."
-msgstr ""
+msgstr "Příručky o bezpečnosti střelných zbraní si můžete objednat u společnosti Spacer's Choice."
 
 #: chatter/parent__globalrobot:261
 msgctxt "chatter/parent__globalrobot:261:DefaultText"
 msgid "Worker."
-msgstr ""
+msgstr "Pracovník."
 
 #: chatter/parent__globalrobot:262
 msgctxt "chatter/parent__globalrobot:262:DefaultText"
 msgid "Authorized personnel."
-msgstr ""
+msgstr "Oprávněný personál."
 
 #: chatter/parent__globalrobot:263
 msgctxt "chatter/parent__globalrobot:263:DefaultText"
 msgid "Initiating greetings protocol: greetings."
-msgstr ""
+msgstr "Zahájení protokolu pozdravů: pozdravy."
 
 #: chatter/parent__globalrobot:264
 msgctxt "chatter/parent__globalrobot:264:DefaultText"
 msgid "Greetings, authorized personnel."
-msgstr ""
+msgstr "Zdravím vás, oprávnění pracovníci."
 
 #: chatter/parent__globalrobot:265
 msgctxt "chatter/parent__globalrobot:265:DefaultText"
 msgid "Remember not to take breaks on company time."
-msgstr ""
+msgstr "Nezapomeňte si dělat přestávky v pracovní době."
 
 #: chatter/parent__globalrobot:266
 msgctxt "chatter/parent__globalrobot:266:DefaultText"
 msgid "A busy worker is a happy worker."
-msgstr ""
+msgstr "Zaměstnaný pracovník je spokojený pracovník."
 
 #: chatter/parent__globalrobot:267
 msgctxt "chatter/parent__globalrobot:267:DefaultText"
 msgid "Remember: Your needs have been provided for."
-msgstr ""
+msgstr "Pamatujte: Vaše potřeby jsou zajištěny."
 
 #: chatter/parent__globalrobot:268
 msgctxt "chatter/parent__globalrobot:268:DefaultText"
 msgid "Reminder: Poor uniform maintenance will result in a citation. "
-msgstr ""
+msgstr "Připomínáme: Za špatnou údržbu uniformy bude udělena pokuta. "
 
 #: chatter/parent__globalrobot:269
 msgctxt "chatter/parent__globalrobot:269:DefaultText"
 msgid "Your uniform has been rated 82 percent clean."
-msgstr ""
+msgstr "Vaše uniforma byla vyhodnocena jako 82% čistá."
 
 #: chatter/parent__globalrobot:271
 msgctxt "chatter/parent__globalrobot:271:DefaultText"
 msgid "Warning: damaging company property will result in deducted pay."
-msgstr ""
+msgstr "Upozornění: za poškození majetku společnosti vám bude stržena mzda."
 
 #: chatter/parent__globalrobot:272
 msgctxt "chatter/parent__globalrobot:272:DefaultText"
 msgid "Reminder: this unit is worth more than your entire extended family."
-msgstr ""
+msgstr "Připomínáme, že tato jednotka má větší hodnotu než celá vaše rozvětvená rodina."
 
 #: chatter/parent__globalrobot:273
 msgctxt "chatter/parent__globalrobot:273:DefaultText"
 msgid "Hostility detected. Please lower your hostility."
-msgstr ""
+msgstr "Zjištěno nepřátelství. Prosím, snižte své nepřátelství."
 
 #: chatter/parent__globalrobot:281
 msgctxt "chatter/parent__globalrobot:281:DefaultText"
 msgid "What do you think you're doing?"
-msgstr ""
+msgstr "Co si myslíte, že děláte?"
 
 #: chatter/parent__globalrobot:282
 msgctxt "chatter/parent__globalrobot:282:DefaultText"
 msgid "This is a restricted area. Leave now or I am authorized to use deadly force!"
-msgstr ""
+msgstr "Jedná se o oblast s omezeným přístupem. Okamžitě odejděte, jinak jsem oprávněn použít smrtící sílu!"

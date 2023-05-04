@@ -1,29 +1,29 @@
 #: conversations/02_terra2/0203_byzantium_hhc/0203_cv_adjutant_crime:1
 msgctxt "conversations/02_terra2/0203_byzantium_hhc/0203_cv_adjutant_crime:1:DefaultText"
 msgid "I'm disappointed. You know I can still hear you, right?"
-msgstr ""
+msgstr "Jsem zklamaný. Víš, že tě pořád slyším, že?"
 
 #: conversations/02_terra2/0203_byzantium_hhc/0203_cv_adjutant_crime:2
 msgctxt "conversations/02_terra2/0203_byzantium_hhc/0203_cv_adjutant_crime:2:DefaultText"
 msgid "I'll pay you <oeiglobal>Bribe_Amount</oeiglobal> bits to look the other way."
-msgstr ""
+msgstr "Zaplatím vám <oeiglobal>Částka úplatku</oeiglobal>, abyste se dívali jinam."
 
 #: conversations/02_terra2/0203_byzantium_hhc/0203_cv_adjutant_crime:3
 msgctxt "conversations/02_terra2/0203_byzantium_hhc/0203_cv_adjutant_crime:3:DefaultText"
 msgid "Oh, I wasn't doing anything. Honest."
-msgstr ""
+msgstr "Nic jsem nedělal. Upřímně."
 
 #: conversations/02_terra2/0203_byzantium_hhc/0203_cv_adjutant_crime:4
 msgctxt "conversations/02_terra2/0203_byzantium_hhc/0203_cv_adjutant_crime:4:DefaultText"
 msgid "We both know you're not going to do anything about it."
-msgstr ""
+msgstr "Oba víme, že s tím nic neuděláš."
 
 #: conversations/02_terra2/0203_byzantium_hhc/0203_cv_adjutant_crime:5
 msgctxt "conversations/02_terra2/0203_byzantium_hhc/0203_cv_adjutant_crime:5:DefaultText"
 msgid "I was just leaving."
-msgstr ""
+msgstr "Právě jsem odcházel."
 
 #: conversations/02_terra2/0203_byzantium_hhc/0203_cv_adjutant_crime:6
 msgctxt "conversations/02_terra2/0203_byzantium_hhc/0203_cv_adjutant_crime:6:DefaultText"
 msgid "<Attack>"
-msgstr ""
+msgstr "<Útok>"

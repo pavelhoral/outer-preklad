@@ -4,51 +4,51 @@ msgid "Monarch Stellar Industries - ARMS\r\n"
 "============================\r\n"
 "\r\n"
 "Welcome to Archives, Records, and Miscellaneous Storage (ARMS). Please select one of the menu options below."
-msgstr ""
+msgstr "Monarch Stellar Industries - ARMS ============================ Vítejte na stránkách Archivů, záznamů a různých skladů (ARMS). Vyberte si prosím jednu z níže uvedených možností nabídky."
 
 #: conversations/04_monarch/0401/0401_cp_arms_terminal:3
 msgctxt "conversations/04_monarch/0401/0401_cp_arms_terminal:3:DefaultText"
 msgid "[View Executive Reviews]"
-msgstr ""
+msgstr "[Zobrazit recenze]"
 
 #: conversations/04_monarch/0401/0401_cp_arms_terminal:4
 msgctxt "conversations/04_monarch/0401/0401_cp_arms_terminal:4:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"
 
 #: conversations/04_monarch/0401/0401_cp_arms_terminal:5
 msgctxt "conversations/04_monarch/0401/0401_cp_arms_terminal:5:DefaultText"
 msgid "Accessing...\r\n"
 "\r\n"
 "Loading last accessed document..."
-msgstr ""
+msgstr "Přístup k... Načítání naposledy navštíveného dokumentu..."
 
 #: conversations/04_monarch/0401/0401_cp_arms_terminal:6
 msgctxt "conversations/04_monarch/0401/0401_cp_arms_terminal:6:DefaultText"
 msgid "NOTE: All Executive Reviews are the property of Monarch Stellar Industries. It is not permissible to view or tamper with any Executive Review without the approval of an authorized manager.\r\n"
 "\r\n"
 "Monarch Stellar Industries is not responsible for any mental, emotional, or digestive distress that may result from viewing these reviews."
-msgstr ""
+msgstr "POZNÁMKA: Všechny recenze jsou majetkem společnosti Monarch Stellar Industries. Není přípustné prohlížet nebo manipulovat s jakýmkoli Executive Review bez souhlasu oprávněného manažera. Společnost Monarch Stellar Industries nenese odpovědnost za jakékoli duševní, emocionální nebo zažívací potíže, které mohou vzniknout v důsledku prohlížení těchto recenzí."
 
 #: conversations/04_monarch/0401/0401_cp_arms_terminal:8
 msgctxt "conversations/04_monarch/0401/0401_cp_arms_terminal:8:DefaultText"
 msgid "[Executive Review - NANDI, SANJAR]"
-msgstr ""
+msgstr "[Executive Review - NANDI, SANJAR]"
 
 #: conversations/04_monarch/0401/0401_cp_arms_terminal:9
 msgctxt "conversations/04_monarch/0401/0401_cp_arms_terminal:9:DefaultText"
 msgid "[Executive Review - BRYANT, GRAHAM]"
-msgstr ""
+msgstr "[Recenze - BRYANT, GRAHAM]"
 
 #: conversations/04_monarch/0401/0401_cp_arms_terminal:10
 msgctxt "conversations/04_monarch/0401/0401_cp_arms_terminal:10:DefaultText"
 msgid "[Executive Review - ERICKSON, DORA]"
-msgstr ""
+msgstr "[Recenze - ERICKSON, DORA]"
 
 #: conversations/04_monarch/0401/0401_cp_arms_terminal:11
 msgctxt "conversations/04_monarch/0401/0401_cp_arms_terminal:11:DefaultText"
 msgid "[Return to Root]"
-msgstr ""
+msgstr "[Zpět na kořen]"
 
 #: conversations/04_monarch/0401/0401_cp_arms_terminal:12
 msgctxt "conversations/04_monarch/0401/0401_cp_arms_terminal:12:DefaultText"
@@ -59,7 +59,7 @@ msgid "Executive Review for DORA ERICKSON\r\n"
 "Her delegation skills are also top-notch - she can build a lengthy meeting around any topic and emerge with plenty of work assigned.\r\n"
 "\r\n"
 "RECOMMEND FOR PROMOTION "
-msgstr ""
+msgstr "Hodnocení manažera DORA ERICKSON ============================ Dora má skutečný talent pro stručné, ale přesvědčivé prezentace podpořené chytlavými slogany. Její schopnosti delegovat úkoly jsou také špičkové - dokáže uspořádat dlouhou schůzku na jakékoli téma a odejít z ní s množstvím přidělené práce. DOPORUČUJEME K Povýšení "
 
 #: conversations/04_monarch/0401/0401_cp_arms_terminal:13
 msgctxt "conversations/04_monarch/0401/0401_cp_arms_terminal:13:DefaultText"
@@ -72,12 +72,12 @@ msgid "Executive Review for SANJAR NANDI\n"
 "All in all, Sanjar's work habits suggest a preoccupation with details and a startling lack of vision. We cannot recommend him for further advancement.\n"
 "\n"
 "NEEDS IMPROVEMENT IN THE FOLLOWING AREAS: Interpersonal communication, brevity, delegation, idea generation."
-msgstr ""
+msgstr "Executive Review for SANJAR NANDI ============================ Sanjar má zlozvyk vyplňovat své zprávy čísly a statistikami. Neumí příliš dobře používat slogany, znělky a/nebo slogany. Prezentace bývají suché a postrádají emocionální apel a vtipné narážky. Sanjar také projevuje nápadnou tendenci práci spíše dokončit, než ji delegovat, což je trend nevhodný pro vyšší management. Celkově Sanjarovy pracovní návyky naznačují zaujetí detaily a překvapivý nedostatek vize. Nemůžeme ho doporučit k dalšímu postupu. POTŘEBUJE ZLEPŠENÍ V NÁSLEDUJÍCÍCH OBLASTECH: mezilidská komunikace, stručnost, delegování, generování nápadů."
 
 #: conversations/04_monarch/0401/0401_cp_arms_terminal:14
 msgctxt "conversations/04_monarch/0401/0401_cp_arms_terminal:14:DefaultText"
 msgid "[Delete All]"
-msgstr ""
+msgstr "[Smazat vše]"
 
 #: conversations/04_monarch/0401/0401_cp_arms_terminal:15
 msgctxt "conversations/04_monarch/0401/0401_cp_arms_terminal:15:DefaultText"
@@ -88,7 +88,7 @@ msgid "Executive Review for GRAHAM BRYANT\r\n"
 "However, Graham has issues with brevity and shows consistent disregard for prescribed fonts and formats. Some of his work has been flagged for subversive undertones.\r\n"
 "\r\n"
 "RECOMMEND FURTHER SUPERVISION"
-msgstr ""
+msgstr "Recenze pro GRAHAMA BRYANTA ============================ Grahamova znalost produktových sdělení a budování značky je působivá, zejména na to, že se jedná o editora s relativně nízkou úrovní znalostí. Má talent na zapamatovatelné slogany a slogany. Graham má však problémy se stručností a důsledně ignoruje předepsané fonty a formáty. Některé jeho práce byly označeny za podvratné. DOPORUČUJI DALŠÍ DOPORUČENÍ"
 
 #: conversations/04_monarch/0401/0401_cp_arms_terminal:16
 msgctxt "conversations/04_monarch/0401/0401_cp_arms_terminal:16:DefaultText"
@@ -99,22 +99,22 @@ msgid "Deleting files...\r\n"
 "Deleting record of deletion...\r\n"
 "\r\n"
 "All files have been deleted."
-msgstr ""
+msgstr "Odstranění souborů... Odstranění všech odkazů a indexů... Odstranění záznamu o odstranění... Všechny soubory byly odstraněny."
 
 #: conversations/04_monarch/0401/0401_cp_arms_terminal:17
 msgctxt "conversations/04_monarch/0401/0401_cp_arms_terminal:17:DefaultText"
 msgid "ERROR: No data available."
-msgstr ""
+msgstr "CHYBA: Nejsou k dispozici žádné údaje."
 
 #: conversations/04_monarch/0401/0401_cp_arms_terminal:19
 msgctxt "conversations/04_monarch/0401/0401_cp_arms_terminal:19:DefaultText"
 msgid "[Continue]"
-msgstr ""
+msgstr "[Pokračovat]"
 
 #: conversations/04_monarch/0401/0401_cp_arms_terminal:20
 msgctxt "conversations/04_monarch/0401/0401_cp_arms_terminal:20:DefaultText"
 msgid "[Continue]"
-msgstr ""
+msgstr "[Pokračovat]"
 
 #: conversations/04_monarch/0401/0401_cp_arms_terminal:22
 msgctxt "conversations/04_monarch/0401/0401_cp_arms_terminal:22:DefaultText"
@@ -123,14 +123,14 @@ msgid "Accessing...\r\n"
 "Restricted file. \r\n"
 "\r\n"
 "Executive authorization required to proceed."
-msgstr ""
+msgstr "Přístup k... Soubor s omezeným přístupem. K pokračování je vyžadováno oprávnění výkonného ředitele."
 
 #: conversations/04_monarch/0401/0401_cp_arms_terminal:23
 msgctxt "conversations/04_monarch/0401/0401_cp_arms_terminal:23:DefaultText"
 msgid "[Spoof Login Credentials]"
-msgstr ""
+msgstr "[Podvodné přihlašovací údaje]"
 
 #: conversations/04_monarch/0401/0401_cp_arms_terminal:24
 msgctxt "conversations/04_monarch/0401/0401_cp_arms_terminal:24:DefaultText"
 msgid "[Return to Root]"
-msgstr ""
+msgstr "[Zpět na kořen]"

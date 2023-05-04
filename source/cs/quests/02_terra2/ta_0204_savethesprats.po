@@ -1,49 +1,49 @@
 #: quests/02_terra2/ta_0204_savethesprats:0
 msgctxt "quests/02_terra2/ta_0204_savethesprats:0:DefaultText"
 msgid "Cupid of the Laboratory"
-msgstr ""
+msgstr "Amorek laboratoře"
 
 #: quests/02_terra2/ta_0204_savethesprats:1
 msgctxt "quests/02_terra2/ta_0204_savethesprats:1:DefaultText"
 msgid "Save the Sprats"
-msgstr ""
+msgstr "Zachraňte šproty"
 
 #: quests/02_terra2/ta_0204_savethesprats:2
 msgctxt "quests/02_terra2/ta_0204_savethesprats:2:DefaultText"
 msgid "Return to Giles"
-msgstr ""
+msgstr "Zpět na Giles"
 
 #: quests/02_terra2/ta_0204_savethesprats:10000
 msgctxt "quests/02_terra2/ta_0204_savethesprats:10000:DefaultText"
 msgid "Giles Molina, a scientist in Byzantium, asked you to rescue six sprats that escaped from his lab and fled into the tunnels beneath the city."
-msgstr ""
+msgstr "Giles Molina, vědec v Byzanci, tě požádal, abys zachránil šest šprotů, kteří utekli z jeho laboratoře a utekli do tunelů pod městem."
 
 #: quests/02_terra2/ta_0204_savethesprats:10001
 msgctxt "quests/02_terra2/ta_0204_savethesprats:10001:DefaultText"
 msgid "Giles warned you that there are exterminator mechanicals prowling the tunnels. He'd prefer you return his sprats alive but said their corpses are still of scientific interest."
-msgstr ""
+msgstr "Giles vás varoval, že v tunelech se pohybují deratizační mechanismy. Byl by raději, kdybys mu vrátil šproty živé, ale říkal, že jejich mrtvoly jsou stále předmětem vědeckého zájmu."
 
 #: quests/02_terra2/ta_0204_savethesprats:10002
 msgctxt "quests/02_terra2/ta_0204_savethesprats:10002:DefaultText"
 msgid "You found all of Giles' sprats. He'll be anxious to get them back to the lab."
-msgstr ""
+msgstr "Našli jste všechny Gilesovy šproty. Bude se těšit, až je dostane zpátky do laboratoře."
 
 #: quests/02_terra2/ta_0204_savethesprats:20000
 msgctxt "quests/02_terra2/ta_0204_savethesprats:20000:DefaultText"
 msgid "Sprats found: <oeiglobal>TA0204_SpratsCollectedCounter</oeiglobal>"
-msgstr ""
+msgstr "Nalezené šproty: <oeiglobal>TA0204_SpratsCollectedCounter</oeiglobal>"
 
 #: quests/02_terra2/ta_0204_savethesprats:30000
 msgctxt "quests/02_terra2/ta_0204_savethesprats:30000:DefaultText"
 msgid "You found Giles' escaped sprats, but not all of them survived your rescue attempts. He was still grateful for your assistance."
-msgstr ""
+msgstr "Našli jste Gilesovy uprchlé šproty, ale ne všechny přežily vaše pokusy o záchranu. Přesto vám byl za pomoc vděčný."
 
 #: quests/02_terra2/ta_0204_savethesprats:30001
 msgctxt "quests/02_terra2/ta_0204_savethesprats:30001:DefaultText"
 msgid "Giles was overjoyed that you managed to return all of his escaped sprats alive."
-msgstr ""
+msgstr "Giles měl radost, že se vám podařilo vrátit všechny jeho uprchlé šproty živé."
 
 #: quests/02_terra2/ta_0204_savethesprats:30002
 msgctxt "quests/02_terra2/ta_0204_savethesprats:30002:DefaultText"
 msgid "Giles' corpse is unsurprisingly less interested in finding his sprats."
-msgstr ""
+msgstr "Gilesova mrtvola má překvapivě menší zájem o nalezení svých šprotů."

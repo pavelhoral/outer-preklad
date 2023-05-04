@@ -6,27 +6,27 @@ msgid "Roseway Laboratory and Outpost\r\n"
 "========================\r\n"
 "\r\n"
 "Welcome, L. Han"
-msgstr ""
+msgstr "Roseway Laboratory and Outpost Property of Auntie Cleo ======================== Vítejte, L. Han"
 
 #: conversations/08_roseway/08_cp_rapt_pen_fencecontrol:2
 msgctxt "conversations/08_roseway/08_cp_rapt_pen_fencecontrol:2:DefaultText"
 msgid "[Read: Automated Security Warning]"
-msgstr ""
+msgstr "[Přečtěte si: Automatické bezpečnostní varování]"
 
 #: conversations/08_roseway/08_cp_rapt_pen_fencecontrol:3
 msgctxt "conversations/08_roseway/08_cp_rapt_pen_fencecontrol:3:DefaultText"
 msgid "[Arm Electric Fence]"
-msgstr ""
+msgstr "[Elektrický ohradník]"
 
 #: conversations/08_roseway/08_cp_rapt_pen_fencecontrol:4
 msgctxt "conversations/08_roseway/08_cp_rapt_pen_fencecontrol:4:DefaultText"
 msgid "[Disarm Electric Fence]"
-msgstr ""
+msgstr "[Deaktivovat elektrický plot]"
 
 #: conversations/08_roseway/08_cp_rapt_pen_fencecontrol:5
 msgctxt "conversations/08_roseway/08_cp_rapt_pen_fencecontrol:5:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"
 
 #: conversations/08_roseway/08_cp_rapt_pen_fencecontrol:6
 msgctxt "conversations/08_roseway/08_cp_rapt_pen_fencecontrol:6:DefaultText"
@@ -46,7 +46,7 @@ msgid "Roseway Laboratory and Outpost\r\n"
 "Please remember to disable electric fences before attempting to enter raptidon pens.\r\n"
 "\r\n"
 "Auntie Cleo frowns upon the use of any weaponry made or designed by Spacer's Choice. If your body is found carrying an unauthorized weapon designed by Spacer's Choice Incorporated, you may be fined for violating your non-competition agreement."
-msgstr ""
+msgstr "Roseway Laboratory and Outpost Property of Auntie Cleo ======================== AUTOMATICKÉ BEZPEČNOSTNÍ UPOZORNĚNÍ, Vážený pane a/nebo paní: Toto je automatická zpráva, která vás informuje o narušení bezpečnosti někde v okolí Roseway Laboratory and Outpost. Teta Cleo vás chce informovat, že v případě narušení bezpečnosti se od vás očekává, že zničíte důkazy o všech probíhajících experimentech pochybné legitimity. Prosím, vezměte si všechny dostupné zbraně a zahajte likvidaci vaší skrýše dovezených raptidonů.Před pokusem o vniknutí do ohrady s raptidony nezapomeňte vypnout elektrické ohradníky. Teta Cleo se mračí na používání jakýchkoli zbraní vyrobených nebo navržených společností Spacer's Choice. Pokud bude vaše tělo přistiženo s nepovolenou zbraní navrženou společností Spacer's Choice Incorporated, můžete být pokutováni za porušení dohody o zákazu konkurence."
 
 #: conversations/08_roseway/08_cp_rapt_pen_fencecontrol:7
 msgctxt "conversations/08_roseway/08_cp_rapt_pen_fencecontrol:7:DefaultText"
@@ -58,7 +58,7 @@ msgid "Roseway Laboratory and Outpost\r\n"
 "Raptidon Pen Security Protocol\r\n"
 "\r\n"
 "STATUS: Electric Fence Successfully Armed."
-msgstr ""
+msgstr "Roseway Laboratory and Outpost Property of Auntie Cleo ======================== Raptidon Pen Bezpečnostní protokol Stav: Elektrický plot úspěšně odjištěn."
 
 #: conversations/08_roseway/08_cp_rapt_pen_fencecontrol:8
 msgctxt "conversations/08_roseway/08_cp_rapt_pen_fencecontrol:8:DefaultText"
@@ -70,4 +70,4 @@ msgid "Roseway Laboratory and Outpost\r\n"
 "Raptidon Pen Security Protocol\r\n"
 "\r\n"
 "STATUS: Electric Fence Successfully Disarmed. Please proceed with caution."
-msgstr ""
+msgstr "Roseway Laboratory and Outpost Property of Auntie Cleo ======================== Raptidon Pen Security Protocol STAV: Elektrický plot úspěšně odzbrojen. Postupujte prosím s opatrností."

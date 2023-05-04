@@ -1,234 +1,234 @@
 #: conversations/04_monarch/0401/0401_cv_vendor_sublight:1
 msgctxt "conversations/04_monarch/0401/0401_cv_vendor_sublight:1:DefaultText"
 msgid "Well, I'll be. You lost too, son?"
-msgstr ""
+msgstr "No, já budu. Taky jsi prohrál, synu?"
 
 #: conversations/04_monarch/0401/0401_cv_vendor_sublight:1
 msgctxt "conversations/04_monarch/0401/0401_cv_vendor_sublight:1:FemaleText"
 msgid "Well, I'll be. You lost too, miss?"
-msgstr ""
+msgstr "No, já budu. Taky jste se ztratila, slečno?"
 
 #: conversations/04_monarch/0401/0401_cv_vendor_sublight:2
 msgctxt "conversations/04_monarch/0401/0401_cv_vendor_sublight:2:DefaultText"
 msgid "You go on. I'll see you out in the wilderness."
-msgstr ""
+msgstr "Pokračujte. Uvidíme se v divočině."
 
 #: conversations/04_monarch/0401/0401_cv_vendor_sublight:3
 msgctxt "conversations/04_monarch/0401/0401_cv_vendor_sublight:3:DefaultText"
 msgid "Well, hello, stranger! Good to see you're still alive. You want to purchase something?"
-msgstr ""
+msgstr "Ahoj, cizinče! Rád vidím, že jsi stále naživu. Chceš si něco koupit?"
 
 #: conversations/04_monarch/0401/0401_cv_vendor_sublight:4
 msgctxt "conversations/04_monarch/0401/0401_cv_vendor_sublight:4:DefaultText"
 msgid "You want to buy something?"
-msgstr ""
+msgstr "Chcete si něco koupit?"
 
 #: conversations/04_monarch/0401/0401_cv_vendor_sublight:5
 msgctxt "conversations/04_monarch/0401/0401_cv_vendor_sublight:5:DefaultText"
 msgid "Nope! Just exploring. Who are you?"
-msgstr ""
+msgstr "Ne! Jen zkoumám. Kdo jsi?"
 
 #: conversations/04_monarch/0401/0401_cv_vendor_sublight:6
 msgctxt "conversations/04_monarch/0401/0401_cv_vendor_sublight:6:DefaultText"
 msgid "Always. Life's a grand adventure!"
-msgstr ""
+msgstr "Vždy. Život je velké dobrodružství!"
 
 #: conversations/04_monarch/0401/0401_cv_vendor_sublight:7
 msgctxt "conversations/04_monarch/0401/0401_cv_vendor_sublight:7:DefaultText"
 msgid "That's none of your business."
-msgstr ""
+msgstr "Do toho vám nic není."
 
 #: conversations/04_monarch/0401/0401_cv_vendor_sublight:8
 msgctxt "conversations/04_monarch/0401/0401_cv_vendor_sublight:8:DefaultText"
 msgid "Name's Elroy. Elroy Booth. Pleased to meet you."
-msgstr ""
+msgstr "Jmenuje se Elroy. Elroy Booth. Rád vás poznávám."
 
 #: conversations/04_monarch/0401/0401_cv_vendor_sublight:9
 msgctxt "conversations/04_monarch/0401/0401_cv_vendor_sublight:9:DefaultText"
 msgid "I like your gumption, stranger. Although maybe not your practicality."
-msgstr ""
+msgstr "Líbí se mi tvoje odvaha, cizinče. I když možná ne tvou praktičnost."
 
 #: conversations/04_monarch/0401/0401_cv_vendor_sublight:10
 msgctxt "conversations/04_monarch/0401/0401_cv_vendor_sublight:10:DefaultText"
 msgid "I've been out and about, making deliveries for the Fallbrook folks, and I seem to have gotten myself turned around."
-msgstr ""
+msgstr "Byl jsem venku, rozvážel jsem zboží pro lidi z Fallbrooku a zdá se, že jsem se dostal na správnou cestu."
 
 #: conversations/04_monarch/0401/0401_cv_vendor_sublight:11
 msgctxt "conversations/04_monarch/0401/0401_cv_vendor_sublight:11:DefaultText"
 msgid "Oh, sure. I'll get on out of here soon after you do."
-msgstr ""
+msgstr "Jistě. Vyrazím odsud hned po tobě."
 
 #: conversations/04_monarch/0401/0401_cv_vendor_sublight:13
 msgctxt "conversations/04_monarch/0401/0401_cv_vendor_sublight:13:DefaultText"
 msgid "You able to find your way back out?"
-msgstr ""
+msgstr "Podařilo se vám najít cestu zpět?"
 
 #: conversations/04_monarch/0401/0401_cv_vendor_sublight:14
 msgctxt "conversations/04_monarch/0401/0401_cv_vendor_sublight:14:DefaultText"
 msgid "Okay. Well, good luck getting yourself un-turned-around."
-msgstr ""
+msgstr "Dobře. Tak to hodně štěstí, abyste se z toho dostal."
 
 #: conversations/04_monarch/0401/0401_cv_vendor_sublight:18
 msgctxt "conversations/04_monarch/0401/0401_cv_vendor_sublight:18:DefaultText"
 msgid "Word is that I'm to give you a bit of a discount on account of you being real helpful with some hush-hush laboratory work."
-msgstr ""
+msgstr "Říká se, že ti mám dát menší slevu, protože jsi mi pomohl s nějakou tajnou laboratorní prací."
 
 #: conversations/04_monarch/0401/0401_cv_vendor_sublight:19
 msgctxt "conversations/04_monarch/0401/0401_cv_vendor_sublight:19:DefaultText"
 msgid "I hear you've become - what was it? Vice President of Aggressive Acquisitions? Very nice! You're moving up in the world."
-msgstr ""
+msgstr "Slyšel jsem, že jste se stal - jak to bylo? Viceprezidentem pro agresivní akvizice? Velmi pěkné! Postupuješ ve světě nahoru."
 
 #: conversations/04_monarch/0401/0401_cv_vendor_sublight:20
 msgctxt "conversations/04_monarch/0401/0401_cv_vendor_sublight:20:DefaultText"
 msgid "Show me what you've got."
-msgstr ""
+msgstr "Ukaž mi, co máš."
 
 #: conversations/04_monarch/0401/0401_cv_vendor_sublight:21
 msgctxt "conversations/04_monarch/0401/0401_cv_vendor_sublight:21:DefaultText"
 msgid "Not right now, thanks."
-msgstr ""
+msgstr "Teď ne, díky."
 
 #: conversations/04_monarch/0401/0401_cv_vendor_sublight:26
 msgctxt "conversations/04_monarch/0401/0401_cv_vendor_sublight:26:DefaultText"
 msgid "So, picture this. I'm out in the middle of nowhere. Finish my meet, get lost, wind up in a cave I don't recognize."
-msgstr ""
+msgstr "Představte si toto. Jsem uprostřed ničeho. Dokončím schůzku, ztratím se a skončím v jeskyni, kterou nepoznávám."
 
 #: conversations/04_monarch/0401/0401_cv_vendor_sublight:27
 msgctxt "conversations/04_monarch/0401/0401_cv_vendor_sublight:27:DefaultText"
 msgid "Sod off."
-msgstr ""
+msgstr "Jdi do háje."
 
 #: conversations/04_monarch/0401/0401_cv_vendor_sublight:28
 msgctxt "conversations/04_monarch/0401/0401_cv_vendor_sublight:28:DefaultText"
 msgid "Aw, hell. You'd make a great double agent, you know that? Help a guy out and then stab his friends in the back."
-msgstr ""
+msgstr "K čertu s tím. Byl bys skvělý dvojitý agent, víš to? Pomůžeš někomu a pak vrazíš nůž do zad jeho přátelům."
 
 #: conversations/04_monarch/0401/0401_cv_vendor_sublight:29
 msgctxt "conversations/04_monarch/0401/0401_cv_vendor_sublight:29:DefaultText"
 msgid "Get going, will you?"
-msgstr ""
+msgstr "Tak už běžte, ano?"
 
 #: conversations/04_monarch/0401/0401_cv_vendor_sublight:30
 msgctxt "conversations/04_monarch/0401/0401_cv_vendor_sublight:30:DefaultText"
 msgid "And then walks in SubLight's current pain-in-the-ass number one. What's a man to think?"
-msgstr ""
+msgstr "A pak přichází současná osina v zadku číslo jedna společnosti SubLight. Co si má člověk myslet?"
 
 #: conversations/04_monarch/0401/0401_cv_vendor_sublight:31
 msgctxt "conversations/04_monarch/0401/0401_cv_vendor_sublight:31:DefaultText"
 msgid "If you're here to jump me, save us both the trouble. I've already off-loaded all my goods."
-msgstr ""
+msgstr "Jestli jsi přišel, abys na mě skočil, ušetři nám oběma námahu. Už jsem vyložil všechno zboží."
 
 #: conversations/04_monarch/0401/0401_cv_vendor_sublight:32
 msgctxt "conversations/04_monarch/0401/0401_cv_vendor_sublight:32:DefaultText"
 msgid "I was just exploring. What the hell are you doing here?"
-msgstr ""
+msgstr "Jen jsem zkoumal. Co tady sakra děláš?"
 
 #: conversations/04_monarch/0401/0401_cv_vendor_sublight:33
 msgctxt "conversations/04_monarch/0401/0401_cv_vendor_sublight:33:DefaultText"
 msgid "So you're probably flush with bits? Best off-load those before I get handsy."
-msgstr ""
+msgstr "Takže jste pravděpodobně spláchnuti kousky? Radši je vyhoď, než se mi začnou plést do rukou."
 
 #: conversations/04_monarch/0401/0401_cv_vendor_sublight:34
 msgctxt "conversations/04_monarch/0401/0401_cv_vendor_sublight:34:DefaultText"
 msgid "That's none of your void-damned business."
-msgstr ""
+msgstr "Do toho ti nic není."
 
 #: conversations/04_monarch/0401/0401_cv_vendor_sublight:35
 msgctxt "conversations/04_monarch/0401/0401_cv_vendor_sublight:35:DefaultText"
 msgid "I can't sell you goods, on account of the boss blacklisting you and your ilk, but I won't shoot at you."
-msgstr ""
+msgstr "Nemohu vám prodávat zboží, protože šéf vás a vám podobné zařadil na černou listinu, ale střílet na vás nebudu."
 
 #: conversations/04_monarch/0401/0401_cv_vendor_sublight:36
 msgctxt "conversations/04_monarch/0401/0401_cv_vendor_sublight:36:DefaultText"
 msgid "Thanks, I think."
-msgstr ""
+msgstr "Myslím, že díky."
 
 #: conversations/04_monarch/0401/0401_cv_vendor_sublight:37
 msgctxt "conversations/04_monarch/0401/0401_cv_vendor_sublight:37:DefaultText"
 msgid "What if I shoot first?"
-msgstr ""
+msgstr "Co když vystřelím první?"
 
 #: conversations/04_monarch/0401/0401_cv_vendor_sublight:38
 msgctxt "conversations/04_monarch/0401/0401_cv_vendor_sublight:38:DefaultText"
 msgid "Between you and Arthur, I'm starting to think SubLight's got a spelunking problem."
-msgstr ""
+msgstr "Mezi tebou a Arthurem si začínám myslet, že SubLight má problém s hledačstvím."
 
 #: conversations/04_monarch/0401/0401_cv_vendor_sublight:39
 msgctxt "conversations/04_monarch/0401/0401_cv_vendor_sublight:39:DefaultText"
 msgid "What can you tell me about working for SubLight?"
-msgstr ""
+msgstr "Co mi můžete říct o práci pro společnost SubLight?"
 
 #: conversations/04_monarch/0401/0401_cv_vendor_sublight:41
 msgctxt "conversations/04_monarch/0401/0401_cv_vendor_sublight:41:DefaultText"
 msgid "Well, then we'd have ourselves a proper scuffle, and my day would get real interesting."
-msgstr ""
+msgstr "No, pak bychom se pořádně poprali a můj den by byl opravdu zajímavý."
 
 #: conversations/04_monarch/0401/0401_cv_vendor_sublight:42
 msgctxt "conversations/04_monarch/0401/0401_cv_vendor_sublight:42:DefaultText"
 msgid "No problem. You oughta scram before someone happens along and I have to try to kill you for the sake of my reputation."
-msgstr ""
+msgstr "Žádný problém. Měl bys vycouvat, než se někdo objeví a já se tě budu muset pokusit zabít kvůli své pověsti."
 
 #: conversations/04_monarch/0401/0401_cv_vendor_sublight:43
 msgctxt "conversations/04_monarch/0401/0401_cv_vendor_sublight:43:DefaultText"
 msgid "Hah! It ain't a trend, don't worry. Arthur mentioned he ran into you. He's real grateful."
-msgstr ""
+msgstr "Hah! Není to trend, nebojte se. Arthur se zmínil, že na tebe narazil. Je opravdu vděčný."
 
 #: conversations/04_monarch/0401/0401_cv_vendor_sublight:44
 msgctxt "conversations/04_monarch/0401/0401_cv_vendor_sublight:44:DefaultText"
 msgid "Oh - you met Arthur? I hope he's all right."
-msgstr ""
+msgstr "Oh - ty ses setkal s Arthurem? Doufám, že je v pořádku."
 
 #: conversations/04_monarch/0401/0401_cv_vendor_sublight:45
 msgctxt "conversations/04_monarch/0401/0401_cv_vendor_sublight:45:DefaultText"
 msgid "What I CAN tell you is very different from what I'm ALLOWED to tell you. But the most important question is what I WILL tell you."
-msgstr ""
+msgstr "To, co vám MŮŽU říct, se velmi liší od toho, co vám říct smím. Nejdůležitější otázkou však je, co vám říct budu."
 
 #: conversations/04_monarch/0401/0401_cv_vendor_sublight:46
 msgctxt "conversations/04_monarch/0401/0401_cv_vendor_sublight:46:DefaultText"
 msgid "Which is: Nothing."
-msgstr ""
+msgstr "Což je: Nic."
 
 #: conversations/04_monarch/0401/0401_cv_vendor_sublight:47
 msgctxt "conversations/04_monarch/0401/0401_cv_vendor_sublight:47:DefaultText"
 msgid "Hey, over here!"
-msgstr ""
+msgstr "Hej, tady!"
 
 #: conversations/04_monarch/0401/0401_cv_vendor_sublight:48
 msgctxt "conversations/04_monarch/0401/0401_cv_vendor_sublight:48:DefaultText"
 msgid "I'm going to get to wandering until I find my bearings again. Be seeing you. Well, hopefully not."
-msgstr ""
+msgstr "Budu bloudit, dokud se znovu nezorientuji. Uvidíme se. No, doufejme, že ne."
 
 #: conversations/04_monarch/0401/0401_cv_vendor_sublight:49
 msgctxt "conversations/04_monarch/0401/0401_cv_vendor_sublight:49:DefaultText"
 msgid "Yeah, I'm just going to tromp around the wilderness carrying my life savings on me."
-msgstr ""
+msgstr "Jo, budu se jen tak potloukat divočinou a nosit s sebou své celoživotní úspory."
 
 #: conversations/04_monarch/0401/0401_cv_vendor_sublight:50
 msgctxt "conversations/04_monarch/0401/0401_cv_vendor_sublight:50:DefaultText"
 msgid "Believe me when I say: I hope you don't. Go on. Get out of here before this turns into a problem."
-msgstr ""
+msgstr "Věřte mi, když říkám: Doufám, že ne. Pokračujte. Vypadni odsud, než se z toho stane problém."
 
 #: conversations/04_monarch/0401/0401_cv_vendor_sublight:51
 msgctxt "conversations/04_monarch/0401/0401_cv_vendor_sublight:51:DefaultText"
 msgid "All right, all right, I take your point. Let's try this: I'm Elroy."
-msgstr ""
+msgstr "Dobře, dobře, beru tvůj názor. Zkusme to takhle: Já jsem Elroy."
 
 #: conversations/04_monarch/0401/0401_cv_vendor_sublight:53
 msgctxt "conversations/04_monarch/0401/0401_cv_vendor_sublight:53:DefaultText"
 msgid "Oh. Can I buy something?"
-msgstr ""
+msgstr "Oh. Můžu si něco koupit?"
 
 #: conversations/04_monarch/0401/0401_cv_vendor_sublight:54
 msgctxt "conversations/04_monarch/0401/0401_cv_vendor_sublight:54:DefaultText"
 msgid "Afraid not, stranger. I'm plumb out until I make it back to Fallbrook to restock."
-msgstr ""
+msgstr "Neboj se, cizinče. Došly mi, dokud se nevrátím do Fallbrooku doplnit zásoby."
 
 #: conversations/04_monarch/0401/0401_cv_vendor_sublight:55
 msgctxt "conversations/04_monarch/0401/0401_cv_vendor_sublight:55:DefaultText"
 msgid "Many thanks."
-msgstr ""
+msgstr "Mnohokrát děkujeme."
 
 #: conversations/04_monarch/0401/0401_cv_vendor_sublight:56
 msgctxt "conversations/04_monarch/0401/0401_cv_vendor_sublight:56:DefaultText"
 msgid "If it's all the same to you, I'll wait 'til you're nice and out of sight before heading back. Can't be too careful, after all."
-msgstr ""
+msgstr "Jestli ti to nevadí, počkám, až budeš hezky z dohledu, a pak se vrátím. Koneckonců, opatrnosti není nikdy dost."

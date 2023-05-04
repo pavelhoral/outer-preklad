@@ -1,17 +1,17 @@
 #: conversations/08_roseway/08_cp_storage_facility_foremans_office_terminal:2
 msgctxt "conversations/08_roseway/08_cp_storage_facility_foremans_office_terminal:2:DefaultText"
 msgid "[Messages]"
-msgstr ""
+msgstr "[Zprávy]"
 
 #: conversations/08_roseway/08_cp_storage_facility_foremans_office_terminal:3
 msgctxt "conversations/08_roseway/08_cp_storage_facility_foremans_office_terminal:3:DefaultText"
 msgid "[Inventory Logs]"
-msgstr ""
+msgstr "[Inventární protokoly]"
 
 #: conversations/08_roseway/08_cp_storage_facility_foremans_office_terminal:4
 msgctxt "conversations/08_roseway/08_cp_storage_facility_foremans_office_terminal:4:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"
 
 #: conversations/08_roseway/08_cp_storage_facility_foremans_office_terminal:5
 msgctxt "conversations/08_roseway/08_cp_storage_facility_foremans_office_terminal:5:DefaultText"
@@ -25,27 +25,27 @@ msgid "MESSAGES\n"
 "[2. From: Volkova, M.]\n"
 "[3. From: Volkova, M.]\n"
 "[4. From: Porter, R.] [NEW]"
-msgstr ""
+msgstr "ZPRÁVY ------------------------------ ID zaměstnance: 832420 Jméno zaměstnance: Volkova, Maria Projekt: [1. od: Volkova, M.] [2. od: Volkova, M.] [3. od: Volkova, M.] [4. od: Porter, R.] [NOVINKA] Od: Volkova, M."
 
 #: conversations/08_roseway/08_cp_storage_facility_foremans_office_terminal:6
 msgctxt "conversations/08_roseway/08_cp_storage_facility_foremans_office_terminal:6:DefaultText"
 msgid "[FROM: M. Volkova]"
-msgstr ""
+msgstr "[OD: M. Volkova]"
 
 #: conversations/08_roseway/08_cp_storage_facility_foremans_office_terminal:7
 msgctxt "conversations/08_roseway/08_cp_storage_facility_foremans_office_terminal:7:DefaultText"
 msgid "[FROM: M. Volkova]"
-msgstr ""
+msgstr "[OD: M. Volkova]"
 
 #: conversations/08_roseway/08_cp_storage_facility_foremans_office_terminal:8
 msgctxt "conversations/08_roseway/08_cp_storage_facility_foremans_office_terminal:8:DefaultText"
 msgid "[FROM: M. Volkova]"
-msgstr ""
+msgstr "[OD: M. Volkova]"
 
 #: conversations/08_roseway/08_cp_storage_facility_foremans_office_terminal:9
 msgctxt "conversations/08_roseway/08_cp_storage_facility_foremans_office_terminal:9:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"
 
 #: conversations/08_roseway/08_cp_storage_facility_foremans_office_terminal:10
 msgctxt "conversations/08_roseway/08_cp_storage_facility_foremans_office_terminal:10:DefaultText"
@@ -58,27 +58,27 @@ msgid "INVENTORY LOGS\r\n"
 "[1. Intake: 00473]\r\n"
 "[2. Intake: 00474]\r\n"
 "[3. Intake: 00475]"
-msgstr ""
+msgstr "INVENTORY LOGS ------------------------------ ID zaměstnance: 832420 Jméno zaměstnance: Volkova, Maria Projekt: Příjem: 00473] [2. Příjem: 00474] [3. Příjem: 00475]."
 
 #: conversations/08_roseway/08_cp_storage_facility_foremans_office_terminal:11
 msgctxt "conversations/08_roseway/08_cp_storage_facility_foremans_office_terminal:11:DefaultText"
 msgid "[Intake: 00473]"
-msgstr ""
+msgstr "[Příjem: 00473]"
 
 #: conversations/08_roseway/08_cp_storage_facility_foremans_office_terminal:12
 msgctxt "conversations/08_roseway/08_cp_storage_facility_foremans_office_terminal:12:DefaultText"
 msgid "[Intake: 00475]"
-msgstr ""
+msgstr "[Příjem: 00475]"
 
 #: conversations/08_roseway/08_cp_storage_facility_foremans_office_terminal:13
 msgctxt "conversations/08_roseway/08_cp_storage_facility_foremans_office_terminal:13:DefaultText"
 msgid "[Intake: 00474]"
-msgstr ""
+msgstr "[Příjem: 00474]"
 
 #: conversations/08_roseway/08_cp_storage_facility_foremans_office_terminal:14
 msgctxt "conversations/08_roseway/08_cp_storage_facility_foremans_office_terminal:14:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"
 
 #: conversations/08_roseway/08_cp_storage_facility_foremans_office_terminal:15
 msgctxt "conversations/08_roseway/08_cp_storage_facility_foremans_office_terminal:15:DefaultText"
@@ -94,7 +94,7 @@ msgid "Dr. Crane,\r\n"
 "\r\n"
 "RESPECTFULLY,\r\n"
 "- Maria Volkova"
-msgstr ""
+msgstr "Dr. Crane, v návaznosti na naše rozhovory z minulého týdne: \"Proč je skříňka na munici větší než moje koupelna?\" Poslal jsem Sullivanovi trojí vyhotovení dokumentů, které jste požadoval. Připomínám, že v současné době jsem jediným správcem majetku všech tří zařízení a zůstávám jedinou osobou, která musí spát na místě, a nikoli v Roseway. Podle norem pro lidské zdroje mi moje pozice dává nárok na občerstvení o rozloze nejméně čtyři (4) metry čtvereční. Celý včerejšek jsem strávil čištěním mužské ruky z mlýnku na maso a nemám tu ani tu zatracenou sprchu. Naprav to, nebo se začnu vloupávat do tvého pokoje a sprchovat se tam. Pak můžeš zažít radost z čištění chrupavek z odtoku. Nezapomeň, že tady mám celé bedny magů. VÍŠ, že to zvládnu. s úctou, - Maria Volkova"
 
 #: conversations/08_roseway/08_cp_storage_facility_foremans_office_terminal:16
 msgctxt "conversations/08_roseway/08_cp_storage_facility_foremans_office_terminal:16:DefaultText"
@@ -109,7 +109,9 @@ msgid "Reuben,\n"
 "I don't know. You tell me.\n"
 "\n"
 "- Masha"
-msgstr ""
+msgstr "Reubene, začíná mi docházet kofeinový doplněk. Mohl bys nějaké přinést? Celý den mám nutkání přerovnat si sklad. Možná bys mi s tím mohl zase pomoct? Nebo ne? Mohli bychom se vydat na výlet k terraformeru. Už je to nějaká doba od minula. Vítr ve vlasech. Jen ticho. To by mi nevadilo. Mám pocit, že už jenom vytírám vnitřnosti nebo sedím a kroutím palci. \n"
+"\n"
+"Já nevím. To mi řekni ty. - Máša"
 
 #: conversations/08_roseway/08_cp_storage_facility_foremans_office_terminal:17
 msgctxt "conversations/08_roseway/08_cp_storage_facility_foremans_office_terminal:17:DefaultText"
@@ -120,7 +122,7 @@ msgid "Anton,\n"
 "While I have your eye, have you heard from Porter? Doesn't seem like anyone's responding to my messages today.\n"
 "\n"
 "- M"
-msgstr ""
+msgstr "Anton, Ještě jste se neozvali ohledně papírování. Přímo nahoře bylo potvrzení o přijetí. Očekávám, že ho okamžitě podepíšeš a vrátíš. Když už tě mám na očích, ozval se ti Porter? Nezdá se, že by mi dnes někdo odpovídal na zprávy. - M"
 
 #: conversations/08_roseway/08_cp_storage_facility_foremans_office_terminal:18
 msgctxt "conversations/08_roseway/08_cp_storage_facility_foremans_office_terminal:18:DefaultText"
@@ -128,7 +130,7 @@ msgid "00473: Project Winterblue Mount, Iteration 37\r\n"
 "Logged by Crane, A.\r\n"
 "\r\n"
 "Notes: The usual issue. 5% incidence of side effect, rising to 15% in 60+ age bracket."
-msgstr ""
+msgstr "00473: Projekt Winterblue Mount, Iterace 37 Přihlásil Crane, A. Poznámky: Obvyklá záležitost. Výskyt vedlejšího účinku 5 %, ve věkové skupině 60+ stoupá na 15 %."
 
 #: conversations/08_roseway/08_cp_storage_facility_foremans_office_terminal:19
 msgctxt "conversations/08_roseway/08_cp_storage_facility_foremans_office_terminal:19:DefaultText"
@@ -136,7 +138,7 @@ msgid "00475: Cigarette Ignition Device, Palm-Sized\r\n"
 "Logged by Shaw, O.\r\n"
 "\r\n"
 "Inventory logged for personal use only. Requested a secured workroom to use in my off hours. Assigned a bench in the mechanical maintenance room of the armory. A splendid bonus."
-msgstr ""
+msgstr "00475: Inventář zapsán pouze pro osobní potřebu. Požádáno o zabezpečenou pracovnu, kterou bych mohl používat v mimopracovní době. Přidělena lavice v místnosti mechanické údržby zbrojnice. Skvělý bonus."
 
 #: conversations/08_roseway/08_cp_storage_facility_foremans_office_terminal:20
 msgctxt "conversations/08_roseway/08_cp_storage_facility_foremans_office_terminal:20:DefaultText"
@@ -144,19 +146,19 @@ msgid "00474: Mechanical Sentry Parts, Misc.\r\n"
 "Logged by Porter, R.\r\n"
 "\r\n"
 "Notes: Recovered from Doc Orson. Dumped them back in the parts locker."
-msgstr ""
+msgstr "00474: Porter, R. Poznámky: Získáno od doktora Orsona. Odložil je zpět do skříňky na součástky."
 
 #: conversations/08_roseway/08_cp_storage_facility_foremans_office_terminal:24
 msgctxt "conversations/08_roseway/08_cp_storage_facility_foremans_office_terminal:24:DefaultText"
 msgid "[FROM: R. Porter] [NEW]"
-msgstr ""
+msgstr "[OD: R. Porter] [NOVINKA]"
 
 #: conversations/08_roseway/08_cp_storage_facility_foremans_office_terminal:25
 msgctxt "conversations/08_roseway/08_cp_storage_facility_foremans_office_terminal:25:DefaultText"
 msgid "Things are hairy out here. Lock the doors, keep your head down.\r\n"
 "\r\n"
 "Stay safe, Mashenka. I'll come for you."
-msgstr ""
+msgstr "Tady je to složité. Zamkni dveře a drž se při zemi. Zůstaň v bezpečí, Mashenko. Přijdu si pro tebe."
 
 #: conversations/08_roseway/08_cp_storage_facility_foremans_office_terminal:28
 msgctxt "conversations/08_roseway/08_cp_storage_facility_foremans_office_terminal:28:DefaultText"
@@ -167,7 +169,7 @@ msgid "Argos Security Systems\n"
 "All personnel please report to assigned workstations. Report suspicious activity to the nearest Site Safety Engineer.\n"
 "---------------------------------\n"
 "Auntie Cleo Auntie-Biotics™: served fresh from our petri dishes to YOUR personal crevices."
-msgstr ""
+msgstr "Argos Security Systems --------------------------------- BEZPEČNOSTNÍ UZÁVĚRA Všichni zaměstnanci se dostavte na přidělená pracoviště. Podezřelou činnost nahlaste nejbližšímu bezpečnostnímu technikovi pracoviště. --------------------------------- Auntie Cleo Auntie-Biotics™: podáváme čerstvě z našich Petriho misek do VAŠICH osobních štěrbin."
 
 #: conversations/08_roseway/08_cp_storage_facility_foremans_office_terminal:29
 msgctxt "conversations/08_roseway/08_cp_storage_facility_foremans_office_terminal:29:DefaultText"
@@ -178,7 +180,7 @@ msgid "Argos Security Systems\r\n"
 "All personnel please report to assigned workstations. Report suspicious activity to the nearest Site Safety Engineer.\r\n"
 "---------------------------------\r\n"
 "\"Auntie Cleo's - Better than Nature!\"™"
-msgstr ""
+msgstr "Argos Security Systems --------------------------------- BEZPEČNOSTNÍ UZÁVĚRA Všichni zaměstnanci se dostavte na přidělená pracoviště. Podezřelou činnost nahlaste nejbližšímu bezpečnostnímu technikovi pracoviště. --------------------------------- \"Auntie Cleo's - Better than Nature!\"™"
 
 #: conversations/08_roseway/08_cp_storage_facility_foremans_office_terminal:30
 msgctxt "conversations/08_roseway/08_cp_storage_facility_foremans_office_terminal:30:DefaultText"
@@ -189,7 +191,7 @@ msgid "Argos Security Systems\r\n"
 "All personnel please report to assigned workstations. Report suspicious activity to the nearest Site Safety Engineer.\r\n"
 "---------------------------------\r\n"
 "Feeling irate? Try Auntie Cleo's Nar-Choc-Lectic™ bars. Now with 3% real CCN76."
-msgstr ""
+msgstr "Argos Security Systems --------------------------------- BEZPEČNOSTNÍ UZÁVĚRA Všichni zaměstnanci se dostavte na přidělená pracoviště. Podezřelou činnost nahlaste nejbližšímu bezpečnostnímu technikovi pracoviště. --------------------------------- Cítíte se podráždění? Vyzkoušejte tyčinky Auntie Cleo's Nar-Choc-Lectic™. Nyní s 3 % skutečného CCN76."
 
 #: conversations/08_roseway/08_cp_storage_facility_foremans_office_terminal:31
 msgctxt "conversations/08_roseway/08_cp_storage_facility_foremans_office_terminal:31:DefaultText"
@@ -200,7 +202,7 @@ msgid "Argos Security Systems\r\n"
 "All personnel please report to assigned workstations. Report suspicious activity to the nearest Site Safety Engineer.\r\n"
 "---------------------------------\r\n"
 "Have you brushed your teeth with Auntie's Blinding White Paste™ today?"
-msgstr ""
+msgstr "Argos Security Systems --------------------------------- BEZPEČNOSTNÍ UZÁVĚRA Všichni zaměstnanci se dostavte na přidělená pracoviště. Podezřelou činnost nahlaste nejbližšímu bezpečnostnímu technikovi pracoviště. --------------------------------- Vyčistili jste si dnes zuby oslepující bílou pastou Auntie's White Paste™?"
 
 #: conversations/08_roseway/08_cp_storage_facility_foremans_office_terminal:32
 msgctxt "conversations/08_roseway/08_cp_storage_facility_foremans_office_terminal:32:DefaultText"
@@ -211,7 +213,7 @@ msgid "Argos Security Systems\r\n"
 "All personnel please report to assigned workstations. Report suspicious activity to the nearest Site Safety Engineer.\r\n"
 "---------------------------------\r\n"
 "Parents who buy Auntie Cleo should have children who buy Auntie Cleo."
-msgstr ""
+msgstr "Argos Security Systems --------------------------------- BEZPEČNOSTNÍ UZÁVĚRA Všichni zaměstnanci se dostavte na přidělená pracoviště. Podezřelou činnost nahlaste nejbližšímu bezpečnostnímu technikovi pracoviště. --------------------------------- Rodiče, kteří kupují Auntie Cleo, by měli mít děti, které kupují Auntie Cleo."
 
 #: conversations/08_roseway/08_cp_storage_facility_foremans_office_terminal:33
 msgctxt "conversations/08_roseway/08_cp_storage_facility_foremans_office_terminal:33:DefaultText"
@@ -222,7 +224,7 @@ msgid "Argos Security Systems\r\n"
 "All personnel please report to assigned workstations. Report suspicious activity to the nearest Site Safety Engineer.\r\n"
 "---------------------------------\r\n"
 "Tired of itchy acid burns? Try Auntie Cleo's artisanal boarst-scented moisturizing cream."
-msgstr ""
+msgstr "Argos Security Systems --------------------------------- BEZPEČNOSTNÍ UZÁVĚRA Všichni zaměstnanci se dostavte na přidělená pracoviště. Podezřelou činnost nahlaste nejbližšímu bezpečnostnímu technikovi pracoviště. --------------------------------- Máte dost svědivých popálenin od kyseliny? Vyzkoušejte řemeslný hydratační krém Auntie Cleo s vůní divočáka."
 
 #: conversations/08_roseway/08_cp_storage_facility_foremans_office_terminal:34
 msgctxt "conversations/08_roseway/08_cp_storage_facility_foremans_office_terminal:34:DefaultText"
@@ -233,7 +235,7 @@ msgid "Argos Security Systems\r\n"
 "All personnel please report to assigned workstations. Report suspicious activity to the nearest Site Safety Engineer.\r\n"
 "---------------------------------\r\n"
 "Try Auntie Cleo's Handi-Off™, the surgical stain remover of choice."
-msgstr ""
+msgstr "Argos Security Systems --------------------------------- BEZPEČNOSTNÍ UZÁVĚRA Všichni zaměstnanci se dostavte na přidělená pracoviště. Podezřelou činnost nahlaste nejbližšímu bezpečnostnímu technikovi pracoviště. --------------------------------- Vyzkoušejte Handi-Off™ od tety Cleo, nejvhodnější odstraňovač skvrn po chirurgických zákrocích."
 
 #: conversations/08_roseway/08_cp_storage_facility_foremans_office_terminal:35
 msgctxt "conversations/08_roseway/08_cp_storage_facility_foremans_office_terminal:35:DefaultText"
@@ -244,7 +246,7 @@ msgid "Argos Security Systems\r\n"
 "All personnel please report to assigned workstations. Report suspicious activity to the nearest Site Safety Engineer.\r\n"
 "---------------------------------\r\n"
 "Unsightly bloodstains? Consider Auntie Cleo's laundry soap. Now with a refreshing lemon zing scent."
-msgstr ""
+msgstr "Argos Security Systems --------------------------------- BEZPEČNOSTNÍ UZÁVĚRA Všichni zaměstnanci se dostavte na přidělená pracoviště. Podezřelou činnost nahlaste nejbližšímu bezpečnostnímu technikovi pracoviště. --------------------------------- Nevzhledné krvavé skvrny? Zvažte mýdlo na praní Auntie Cleo. Nyní s osvěžující citronovou vůní."
 
 #: conversations/08_roseway/08_cp_storage_facility_foremans_office_terminal:36
 msgctxt "conversations/08_roseway/08_cp_storage_facility_foremans_office_terminal:36:DefaultText"
@@ -258,4 +260,4 @@ msgid "MESSAGES\n"
 "[2. From: Volkova, M.]\n"
 "[3. From: Volkova, M.]\n"
 "[4. From: Porter, R.]"
-msgstr ""
+msgstr "ZPRÁVY ------------------------------ ID zaměstnance: 832420 Jméno zaměstnance: Volkova, Maria Projekt: [1. od: Volkova, M.] [2. od: Volkova, M.] [3. od: Volkova, M.] [4. od: Porter, R.]."

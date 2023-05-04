@@ -1,431 +1,431 @@
 #: conversations/00_emerald_vale/00_cv_parvati:1
 msgctxt "conversations/00_emerald_vale/00_cv_parvati:1:DefaultText"
 msgid "Hold on. Just a- shh."
-msgstr ""
+msgstr "Počkejte. Jen... pšššt."
 
 #: conversations/00_emerald_vale/00_cv_parvati:8
 msgctxt "conversations/00_emerald_vale/00_cv_parvati:8:DefaultText"
 msgid "Good luck with your engine."
-msgstr ""
+msgstr "Hodně štěstí s motorem."
 
 #: conversations/00_emerald_vale/00_cv_parvati:30
 msgctxt "conversations/00_emerald_vale/00_cv_parvati:30:DefaultText"
 msgid "Let's get going."
-msgstr ""
+msgstr "Pojďme na to."
 
 #: conversations/00_emerald_vale/00_cv_parvati:47
 msgctxt "conversations/00_emerald_vale/00_cv_parvati:47:DefaultText"
 msgid "We don't leave town much anymore. When I was little, I used to wander all over."
-msgstr ""
+msgstr "Z města už moc neodjíždíme. Když jsem byla malá, toulala jsem se po celém městě."
 
 #: conversations/00_emerald_vale/00_cv_parvati:61
 msgctxt "conversations/00_emerald_vale/00_cv_parvati:61:DefaultText"
 msgid "What do you do here?"
-msgstr ""
+msgstr "Co tu děláte?"
 
 #: conversations/00_emerald_vale/00_cv_parvati:64
 msgctxt "conversations/00_emerald_vale/00_cv_parvati:64:DefaultText"
 msgid "I fix busted stuff. I got wrenches over there, diagnostics yonder, a big powerlift in the floor."
-msgstr ""
+msgstr "Opravuju rozbité věci. Támhle mám klíče, támhle diagnostiku a v podlaze velký zvedák."
 
 #: conversations/00_emerald_vale/00_cv_parvati:110
 msgctxt "conversations/00_emerald_vale/00_cv_parvati:110:DefaultText"
 msgid "Excuse me?"
-msgstr ""
+msgstr "Promiňte?"
 
 #: conversations/00_emerald_vale/00_cv_parvati:111
 msgctxt "conversations/00_emerald_vale/00_cv_parvati:111:DefaultText"
 msgid "I came to ask you a question."
-msgstr ""
+msgstr "Přišel jsem se vás na něco zeptat."
 
 #: conversations/00_emerald_vale/00_cv_parvati:113
 msgctxt "conversations/00_emerald_vale/00_cv_parvati:113:DefaultText"
 msgid "What are you doing?"
-msgstr ""
+msgstr "Co to děláte?"
 
 #: conversations/00_emerald_vale/00_cv_parvati:115
 msgctxt "conversations/00_emerald_vale/00_cv_parvati:115:DefaultText"
 msgid "Shh! You hear that?"
-msgstr ""
+msgstr "Pšššt! Slyšíte to?"
 
 #: conversations/00_emerald_vale/00_cv_parvati:116
 msgctxt "conversations/00_emerald_vale/00_cv_parvati:116:DefaultText"
 msgid "Hear what?"
-msgstr ""
+msgstr "Co jste slyšeli?"
 
 #: conversations/00_emerald_vale/00_cv_parvati:117
 msgctxt "conversations/00_emerald_vale/00_cv_parvati:117:DefaultText"
 msgid "Sure. It's a pretty loud engine."
-msgstr ""
+msgstr "Jistě. Je to dost hlasitý motor."
 
 #: conversations/00_emerald_vale/00_cv_parvati:118
 msgctxt "conversations/00_emerald_vale/00_cv_parvati:118:DefaultText"
 msgid "That ting-ting-ka-shick noise?"
-msgstr ""
+msgstr "To cink-ting-ka-šuk?"
 
 #: conversations/00_emerald_vale/00_cv_parvati:121
 msgctxt "conversations/00_emerald_vale/00_cv_parvati:121:DefaultText"
 msgid "Yes! You know what that is?"
-msgstr ""
+msgstr "Ano! Víte, co to je?"
 
 #: conversations/00_emerald_vale/00_cv_parvati:122
 msgctxt "conversations/00_emerald_vale/00_cv_parvati:122:DefaultText"
 msgid "Sounded like one of the e-motor pinions stripped a gear tooth."
-msgstr ""
+msgstr "Znělo to, jako by jeden z pastorků elektromotoru přišel o zub."
 
 #: conversations/00_emerald_vale/00_cv_parvati:123
 msgctxt "conversations/00_emerald_vale/00_cv_parvati:123:DefaultText"
 msgid "Aside from \"an engine,\" no."
-msgstr ""
+msgstr "Kromě \"motoru\" ne."
 
 #: conversations/00_emerald_vale/00_cv_parvati:124
 msgctxt "conversations/00_emerald_vale/00_cv_parvati:124:DefaultText"
 msgid "One of the e-motor pinions stripped a gear, I just spent two days realigning the magnetic drivers, now this."
-msgstr ""
+msgstr "Jeden z pastorků elektromotoru oddělal ozubené kolo, dva dny jsem strávil seřizováním magnetických ovladačů a teď tohle."
 
 #: conversations/00_emerald_vale/00_cv_parvati:125
 msgctxt "conversations/00_emerald_vale/00_cv_parvati:125:DefaultText"
 msgid "There's a ting-ting-ka-shick noise. Repeats every six seconds."
-msgstr ""
+msgstr "Ozve se cink-ťuk-ka-šuk. Opakuje se každých šest sekund."
 
 #: conversations/00_emerald_vale/00_cv_parvati:126
 msgctxt "conversations/00_emerald_vale/00_cv_parvati:126:DefaultText"
 msgid "Seriously? No one ever hears the things I do. Not even my-\r\n"
 "\r\n"
 "Sorry. Did you need something?"
-msgstr ""
+msgstr "Vážně? Nikdo nikdy neslyšel, co dělám já. Ani moje... Promiň. Potřeboval jsi něco?"
 
 #: conversations/00_emerald_vale/00_cv_parvati:129
 msgctxt "conversations/00_emerald_vale/00_cv_parvati:129:DefaultText"
 msgid "Is stripping a gear that big a deal?"
-msgstr ""
+msgstr "Je rozebrání převodovky tak velký problém?"
 
 #: conversations/00_emerald_vale/00_cv_parvati:131
 msgctxt "conversations/00_emerald_vale/00_cv_parvati:131:DefaultText"
 msgid "If I don't replace it, it'll bust in- sounds like ninety-six hours. Maybe ninety-seven?"
-msgstr ""
+msgstr "Pokud ho nevyměním, praskne za devadesát šest hodin. Možná devadesát sedm?"
 
 #: conversations/00_emerald_vale/00_cv_parvati:132
 msgctxt "conversations/00_emerald_vale/00_cv_parvati:132:DefaultText"
 msgid "Mr. Tobson's gonna be mad at me again. Either 'cause I take the time to fix it now, or because it breaks again later."
-msgstr ""
+msgstr "Pan Tobson se na mě zase bude zlobit. Buď proto, že si teď dám práci s opravou, nebo proto, že se to později zase rozbije."
 
 #: conversations/00_emerald_vale/00_cv_parvati:136
 msgctxt "conversations/00_emerald_vale/00_cv_parvati:136:DefaultText"
 msgid "One of the e-mot- "
-msgstr ""
+msgstr "Jeden z e-motorů "
 
 #: conversations/00_emerald_vale/00_cv_parvati:137
 msgctxt "conversations/00_emerald_vale/00_cv_parvati:137:DefaultText"
 msgid "Maybe I just stopped by because I find you interesting."
-msgstr ""
+msgstr "Možná jsem se zastavil jen proto, že mi připadáte zajímavý."
 
 #: conversations/00_emerald_vale/00_cv_parvati:138
 msgctxt "conversations/00_emerald_vale/00_cv_parvati:138:DefaultText"
 msgid "Be serious."
-msgstr ""
+msgstr "Buďte vážní."
 
 #: conversations/00_emerald_vale/00_cv_parvati:139
 msgctxt "conversations/00_emerald_vale/00_cv_parvati:139:DefaultText"
 msgid "I am serious."
-msgstr ""
+msgstr "Myslím to vážně."
 
 #: conversations/00_emerald_vale/00_cv_parvati:141
 msgctxt "conversations/00_emerald_vale/00_cv_parvati:141:DefaultText"
 msgid "Huh. Weird."
-msgstr ""
+msgstr "Huh. Divné."
 
 #: conversations/00_emerald_vale/00_cv_parvati:163
 msgctxt "conversations/00_emerald_vale/00_cv_parvati:163:DefaultText"
 msgid "Right, I get it. You're \"quirky.\" Want to wrap this up?"
-msgstr ""
+msgstr "Jasně, chápu to. Jsi \"svérázný\". Chceš to uzavřít?"
 
 #: conversations/00_emerald_vale/00_cv_parvati:165
 msgctxt "conversations/00_emerald_vale/00_cv_parvati:165:DefaultText"
 msgid "I'm sorry. I just get wrapped up in things. Sorry."
-msgstr ""
+msgstr "Omlouvám se. Prostě se do toho zamotávám. Omlouvám se."
 
 #: conversations/00_emerald_vale/00_cv_parvati:175
 msgctxt "conversations/00_emerald_vale/00_cv_parvati:175:DefaultText"
 msgid "Why don't the people here leave town anymore?"
-msgstr ""
+msgstr "Proč už zdejší lidé neopouštějí město?"
 
 #: conversations/00_emerald_vale/00_cv_parvati:176
 msgctxt "conversations/00_emerald_vale/00_cv_parvati:176:DefaultText"
 msgid "Oh, you know. Wild canids and marauder gangs. Lava flows and crashing ships. We should be fine together, though."
-msgstr ""
+msgstr "Však víte. Divoké kanidy a bandy nájezdníků. Lávové proudy a havarující lodě. Ale měli bychom to spolu zvládnout."
 
 #: conversations/00_emerald_vale/00_cv_parvati:184
 msgctxt "conversations/00_emerald_vale/00_cv_parvati:184:DefaultText"
 msgid "Hey, mister. Need something fixed?"
-msgstr ""
+msgstr "Hej, pane. Potřebujete něco opravit?"
 
 #: conversations/00_emerald_vale/00_cv_parvati:184
 msgctxt "conversations/00_emerald_vale/00_cv_parvati:184:FemaleText"
 msgid "Hey, ma'am. Need something fixed?"
-msgstr ""
+msgstr "Hej, madam. Potřebujete něco opravit?"
 
 #: conversations/00_emerald_vale/00_cv_parvati:189
 msgctxt "conversations/00_emerald_vale/00_cv_parvati:189:DefaultText"
 msgid "Were you calling that loader Clancy?"
-msgstr ""
+msgstr "Volal jsi tomu nakladači Clancy?"
 
 #: conversations/00_emerald_vale/00_cv_parvati:190
 msgctxt "conversations/00_emerald_vale/00_cv_parvati:190:DefaultText"
 msgid "W-what? No! That would be-! I'd never-! Who would-!"
-msgstr ""
+msgstr "Cože? Ne! To by bylo... Nikdy bych... Kdo by..."
 
 #: conversations/00_emerald_vale/00_cv_parvati:191
 msgctxt "conversations/00_emerald_vale/00_cv_parvati:191:DefaultText"
 msgid "Um, yeah."
-msgstr ""
+msgstr "Jo."
 
 #: conversations/00_emerald_vale/00_cv_parvati:192
 msgctxt "conversations/00_emerald_vale/00_cv_parvati:192:DefaultText"
 msgid "But why?"
-msgstr ""
+msgstr "Ale proč?"
 
 #: conversations/00_emerald_vale/00_cv_parvati:193
 msgctxt "conversations/00_emerald_vale/00_cv_parvati:193:DefaultText"
 msgid "He looks like a Clancy. He's got a moustache, see? Or a grill where a moustache should be. And Clancy is the sort of name you have when you got a moustache."
-msgstr ""
+msgstr "Vypadá jako Clancy. Má knír, vidíš? Nebo mřížku tam, kde by měl být knír. A Clancy je jméno, které máš, když máš knír."
 
 #: conversations/00_emerald_vale/00_cv_parvati:196
 msgctxt "conversations/00_emerald_vale/00_cv_parvati:196:DefaultText"
 msgid "There is something deeply wrong with you."
-msgstr ""
+msgstr "Něco s vámi není v pořádku."
 
 #: conversations/00_emerald_vale/00_cv_parvati:197
 msgctxt "conversations/00_emerald_vale/00_cv_parvati:197:DefaultText"
 msgid "Yeah. That- that's what near everyone says around here. Sorry."
-msgstr ""
+msgstr "Jo. To tady říkají skoro všichni. Omlouvám se."
 
 #: conversations/00_emerald_vale/00_cv_parvati:348
 msgctxt "conversations/00_emerald_vale/00_cv_parvati:348:DefaultText"
 msgid "Oh! I could show you the pneumatic press if you want. Sometimes I use it to smoosh cans of saltuna."
-msgstr ""
+msgstr "Mohl bych vám ukázat pneumatický lis, jestli chcete. Někdy ho používám k lisování plechovek saltuny."
 
 #: conversations/00_emerald_vale/00_cv_parvati:349
 msgctxt "conversations/00_emerald_vale/00_cv_parvati:349:DefaultText"
 msgid "Uh, don't tell Mr. Tobson that."
-msgstr ""
+msgstr "To panu Tobsonovi neříkejte."
 
 #: conversations/00_emerald_vale/00_cv_parvati:355
 msgctxt "conversations/00_emerald_vale/00_cv_parvati:355:DefaultText"
 msgid "See you around."
-msgstr ""
+msgstr "Uvidíme se."
 
 #: conversations/00_emerald_vale/00_cv_parvati:366
 msgctxt "conversations/00_emerald_vale/00_cv_parvati:366:DefaultText"
 msgid "I meant in town, not in the garage."
-msgstr ""
+msgstr "Myslel jsem ve městě, ne v garáži."
 
 #: conversations/00_emerald_vale/00_cv_parvati:367
 msgctxt "conversations/00_emerald_vale/00_cv_parvati:367:DefaultText"
 msgid "So you don't just work in the cannery?"
-msgstr ""
+msgstr "Takže nepracujete jen v konzervárně?"
 
 #: conversations/00_emerald_vale/00_cv_parvati:368
 msgctxt "conversations/00_emerald_vale/00_cv_parvati:368:DefaultText"
 msgid "Ever tried building something, rather than refitting?"
-msgstr ""
+msgstr "Zkoušeli jste někdy něco postavit, místo toho, abyste to upravovali?"
 
 #: conversations/00_emerald_vale/00_cv_parvati:369
 msgctxt "conversations/00_emerald_vale/00_cv_parvati:369:DefaultText"
 msgid "Aside from keeping the cannery running? I fix most anything that's got busted."
-msgstr ""
+msgstr "Kromě udržování provozu konzervárny? Opravím většinu věcí, které se rozbijí."
 
 #: conversations/00_emerald_vale/00_cv_parvati:371
 msgctxt "conversations/00_emerald_vale/00_cv_parvati:371:DefaultText"
 msgid "Oh gosh, no. I fix everything that gets broke around the Vale."
-msgstr ""
+msgstr "Ach bože, ne. Opravuju všechno, co se ve Vale rozbije."
 
 #: conversations/00_emerald_vale/00_cv_parvati:373
 msgctxt "conversations/00_emerald_vale/00_cv_parvati:373:DefaultText"
 msgid "I- I've got too much work for such. Most things hereabouts are held together with engine tape and good intent."
-msgstr ""
+msgstr "Mám na to příliš mnoho práce. Většina věcí tady drží pohromadě pomocí motorové pásky a dobrého úmyslu."
 
 #: conversations/00_emerald_vale/00_cv_parvati:374
 msgctxt "conversations/00_emerald_vale/00_cv_parvati:374:DefaultText"
 msgid "Anyhow, everything in town is property of Spacer's Choice. If Mr. Tobson caught me using it for a personal project, he'd fire me."
-msgstr ""
+msgstr "Každopádně všechno ve městě je majetkem společnosti Spacer's Choice. Kdyby mě pan Tobson přistihl, že to používám pro svůj osobní projekt, vyhodil by mě."
 
 #: conversations/00_emerald_vale/00_cv_parvati:375
 msgctxt "conversations/00_emerald_vale/00_cv_parvati:375:DefaultText"
 msgid "Loaders, computers, doors. One time I got to work on a freighter with a bad thruster block."
-msgstr ""
+msgstr "Nakladače, počítače, dveře. Jednou jsem pracoval na nákladní lodi se špatným blokem trysek."
 
 #: conversations/00_emerald_vale/00_cv_parvati:439
 msgctxt "conversations/00_emerald_vale/00_cv_parvati:439:DefaultText"
 msgid "Sir, I been doing my best. Honest."
-msgstr ""
+msgstr "Pane, snažím se, jak nejlépe umím. Upřímně."
 
 #: conversations/00_emerald_vale/00_cv_parvati:441
 msgctxt "conversations/00_emerald_vale/00_cv_parvati:441:DefaultText"
 msgid "Mr. Tobson wouldn't look kindly on us talking. Maybe if you did that job for him."
-msgstr ""
+msgstr "Pan Tobson by se na naše rozhovory nedíval zrovna přívětivě. Možná kdybys tu práci dělal za něj."
 
 #: conversations/00_emerald_vale/00_cv_parvati:442
 msgctxt "conversations/00_emerald_vale/00_cv_parvati:442:DefaultText"
 msgid "Oh, uh... did you want my help after all? Maybe?"
-msgstr ""
+msgstr "Oh, uh... chtěla jsi nakonec mou pomoc? Možná?"
 
 #: conversations/00_emerald_vale/00_cv_parvati:444
 msgctxt "conversations/00_emerald_vale/00_cv_parvati:444:DefaultText"
 msgid "What happened at the 'thermal plant? I was working on Clancy- on the loader here, and everything shut down."
-msgstr ""
+msgstr "Co se stalo v \"tepelné elektrárně? Pracoval jsem tady na Clancyho nakladači a všechno se vypnulo."
 
 #: conversations/00_emerald_vale/00_cv_parvati:445
 msgctxt "conversations/00_emerald_vale/00_cv_parvati:445:DefaultText"
 msgid "Oh, hey. I guess you sent power to Edgewater, like Mister Tobson wanted."
-msgstr ""
+msgstr "Ahoj. Myslím, že jsi poslal energii do Edgewateru, jak chtěl pan Tobson."
 
 #: conversations/00_emerald_vale/00_cv_parvati:446
 msgctxt "conversations/00_emerald_vale/00_cv_parvati:446:DefaultText"
 msgid "But word's got around that Mister Tobson was killed. I- I had problems, on account of how he never understood me. But I never wished him ill."
-msgstr ""
+msgstr "Ale rozneslo se, že pan Tobson byl zabit. Měl jsem problémy, protože mi nikdy nerozuměl. Ale nikdy jsem mu nepřál nic zlého."
 
 #: conversations/00_emerald_vale/00_cv_parvati:447
 msgctxt "conversations/00_emerald_vale/00_cv_parvati:447:DefaultText"
 msgid "I guess you're gonna leave now, huh? Fix your ship and fly off? Maybe some night, the falling star we wish on will be you."
-msgstr ""
+msgstr "Hádám, že teď odejdeš, co? Opravíš si loď a odletíš? Možná, že někdy v noci budeš padat hvězda, kterou si budeme přát."
 
 #: conversations/00_emerald_vale/00_cv_parvati:453
 msgctxt "conversations/00_emerald_vale/00_cv_parvati:453:DefaultText"
 msgid "I could use your help out there. Are you interested?"
-msgstr ""
+msgstr "Hodila by se mi vaše pomoc. Máte zájem?"
 
 #: conversations/00_emerald_vale/00_cv_parvati:454
 msgctxt "conversations/00_emerald_vale/00_cv_parvati:454:DefaultText"
 msgid "Not right now."
-msgstr ""
+msgstr "Teď ne."
 
 #: conversations/00_emerald_vale/00_cv_parvati:463
 msgctxt "conversations/00_emerald_vale/00_cv_parvati:463:DefaultText"
 msgid "Only with every part of my body! Was that rude?"
-msgstr ""
+msgstr "Pouze všemi částmi mého těla! Bylo to neslušné?"
 
 #: conversations/00_emerald_vale/00_cv_parvati:488
 msgctxt "conversations/00_emerald_vale/00_cv_parvati:488:DefaultText"
 msgid "On second thought, stay here."
-msgstr ""
+msgstr "Když o tom tak přemýšlím, zůstaň tady."
 
 #: conversations/00_emerald_vale/00_cv_parvati:489
 msgctxt "conversations/00_emerald_vale/00_cv_parvati:489:DefaultText"
 msgid "Abso-surely! I'll pack us a meal, and- I mean, I'm ready to go. Now. Let's go. Yay."
-msgstr ""
+msgstr "Určitě! Zabalím nám jídlo a... chci říct, že jsem připravená vyrazit. Teď. Jdeme. Hurá."
 
 #: conversations/00_emerald_vale/00_cv_parvati:491
 msgctxt "conversations/00_emerald_vale/00_cv_parvati:491:DefaultText"
 msgid "I was hoping you'd come back someday. Things haven't been the same since- well, you know."
-msgstr ""
+msgstr "Doufal jsem, že se jednou vrátíš. Od té doby to není jako dřív... no, však víš."
 
 #: conversations/00_emerald_vale/00_cv_parvati:499
 msgctxt "conversations/00_emerald_vale/00_cv_parvati:499:DefaultText"
 msgid "Maybe. Are you still interested?"
-msgstr ""
+msgstr "Možná. Máte ještě zájem?"
 
 #: conversations/00_emerald_vale/00_cv_parvati:501
 msgctxt "conversations/00_emerald_vale/00_cv_parvati:501:DefaultText"
 msgid "The folks from the camp invited me a few times, but... my dad's stuff is here."
-msgstr ""
+msgstr "Lidé z tábora mě několikrát pozvali, ale... tátovy věci jsou tady."
 
 #: conversations/00_emerald_vale/00_cv_parvati:504
 msgctxt "conversations/00_emerald_vale/00_cv_parvati:504:DefaultText"
 msgid "If we could all just get along, maybe things wouldn't have got so bad."
-msgstr ""
+msgstr "Kdybychom spolu všichni vycházeli, možná by to nebylo tak zlé."
 
 #: conversations/00_emerald_vale/00_cv_parvati:507
 msgctxt "conversations/00_emerald_vale/00_cv_parvati:507:DefaultText"
 msgid "I keep trying to work on something, to calm down. But half my stuff doesn't work."
-msgstr ""
+msgstr "Pořád se snažím na něčem pracovat, uklidnit se. Ale polovina mých věcí nefunguje."
 
 #: conversations/00_emerald_vale/00_cv_parvati:524
 msgctxt "conversations/00_emerald_vale/00_cv_parvati:524:DefaultText"
 msgid "I sent the power to the deserters. Everyone here should join them."
-msgstr ""
+msgstr "Poslal jsem moc dezertérům. Všichni tady by se k nim měli přidat."
 
 #: conversations/00_emerald_vale/00_cv_parvati:526
 msgctxt "conversations/00_emerald_vale/00_cv_parvati:526:DefaultText"
 msgid "You sound a little panicked."
-msgstr ""
+msgstr "Zníte trochu panicky."
 
 #: conversations/00_emerald_vale/00_cv_parvati:527
 msgctxt "conversations/00_emerald_vale/00_cv_parvati:527:DefaultText"
 msgid "Oh gosh. I- I didn't want anybody to lose their power. I knew folk on both sides. Mister Tobson must be beside himself."
-msgstr ""
+msgstr "Bože. Nechtěl jsem, aby někdo přišel o svou moc. Znal jsem lidi na obou stranách. Pan Tobson musí být bez sebe."
 
 #: conversations/00_emerald_vale/00_cv_parvati:529
 msgctxt "conversations/00_emerald_vale/00_cv_parvati:529:DefaultText"
 msgid "We got no lights to see, no heat to cook, no comms to call for help. If- if marauders come, what'll we do?"
-msgstr ""
+msgstr "Nemáme žádné světlo, abychom viděli, žádné teplo, abychom si mohli uvařit, žádné spojení, abychom si mohli zavolat pomoc. Pokud přijdou nájezdníci, co budeme dělat?"
 
 #: conversations/00_emerald_vale/00_cv_parvati:532
 msgctxt "conversations/00_emerald_vale/00_cv_parvati:532:DefaultText"
 msgid "Take care."
-msgstr ""
+msgstr "Dávejte na sebe pozor."
 
 #: conversations/00_emerald_vale/00_cv_parvati:564
 msgctxt "conversations/00_emerald_vale/00_cv_parvati:564:DefaultText"
 msgid "I'll leave you be."
-msgstr ""
+msgstr "Nechám tě být."
 
 #: conversations/00_emerald_vale/00_cv_parvati:565
 msgctxt "conversations/00_emerald_vale/00_cv_parvati:565:DefaultText"
 msgid "Are you any good in a fight? I could use the company."
-msgstr ""
+msgstr "Jsi dobrý v boji? Společnost by se mi hodila."
 
 #: conversations/00_emerald_vale/00_cv_parvati:566
 msgctxt "conversations/00_emerald_vale/00_cv_parvati:566:DefaultText"
 msgid "Fighting? Gosh, no. I fix things. And I make them work better than they were built to. I know the Vale good as anyone. And, um, I'm good at opening things that don't wanna be?"
-msgstr ""
+msgstr "Bojujete? Bože, ne. Já věci opravuji. A zařídím, aby fungovaly lépe, než byly vyrobeny. Znám Vale tak dobře jako nikdo jiný. A umím dobře otevírat věci, které nechtějí být?"
 
 #: conversations/00_emerald_vale/00_cv_parvati:567
 msgctxt "conversations/00_emerald_vale/00_cv_parvati:567:DefaultText"
 msgid "I hesitate to release Parvati from my service without due cause. But if you have changed your mind about helping me, then I will gladly permit her to serve as your guide."
-msgstr ""
+msgstr "Zdráhám se propustit Parvati ze svých služeb bez řádného důvodu. Pokud jste si však rozmysleli, zda mi chcete pomoci, rád jí dovolím, aby vám sloužila jako průvodkyně."
 
 #: conversations/00_emerald_vale/00_cv_parvati:568
 msgctxt "conversations/00_emerald_vale/00_cv_parvati:568:DefaultText"
 msgid "Don't worry about that. Let's go."
-msgstr ""
+msgstr "S tím si nedělejte starosti. Jdeme."
 
 #: conversations/00_emerald_vale/00_cv_parvati:569
 msgctxt "conversations/00_emerald_vale/00_cv_parvati:569:DefaultText"
 msgid "All right. If that's what it takes."
-msgstr ""
+msgstr "Dobře. Pokud je to nutné."
 
 #: conversations/00_emerald_vale/00_cv_parvati:570
 msgctxt "conversations/00_emerald_vale/00_cv_parvati:570:DefaultText"
 msgid "I'll think about it."
-msgstr ""
+msgstr "Budu o tom přemýšlet."
 
 #: conversations/00_emerald_vale/00_cv_parvati:575
 msgctxt "conversations/00_emerald_vale/00_cv_parvati:575:DefaultText"
 msgid "Thank you. I can't tell you how much this means to me. The plant's not been maintained for years. You'll need my passcode to get inside."
-msgstr ""
+msgstr "Děkujeme. Ani nevíte, jak moc to pro mě znamená. Rostlina nebyla léta udržována. Potřebujete můj přístupový kód, abyste se dostal dovnitř."
 
 #: conversations/00_emerald_vale/00_cv_parvati:576
 msgctxt "conversations/00_emerald_vale/00_cv_parvati:576:DefaultText"
 msgid "Head into the plant, find the main door, and enter my passcode at the adjoining terminal."
-msgstr ""
+msgstr "Jděte do továrny, najděte hlavní dveře a na přilehlém terminálu zadejte můj přístupový kód."
 
 #: conversations/00_emerald_vale/00_cv_parvati:577
 msgctxt "conversations/00_emerald_vale/00_cv_parvati:577:DefaultText"
 msgid "Let's go, Parvati."
-msgstr ""
+msgstr "Jdeme, Parvati."
 
 #: conversations/00_emerald_vale/00_cv_parvati:581
 msgctxt "conversations/00_emerald_vale/00_cv_parvati:581:DefaultText"
 msgid "Meet us back at our ship."
-msgstr ""
+msgstr "Sejdeme se na naší lodi."
 
 #: conversations/00_emerald_vale/00_cv_parvati:582
 msgctxt "conversations/00_emerald_vale/00_cv_parvati:582:DefaultText"
 msgid "Welcome aboard. <oeitoken>CompanionSlotOneName</oeitoken>, you head back to the ship."
-msgstr ""
+msgstr "Vítejte na palubě. <oeitoken>JménoSpolupracovníka</oeitoken>, vracíte se na loď."
 
 #: conversations/00_emerald_vale/00_cv_parvati:585
 msgctxt "conversations/00_emerald_vale/00_cv_parvati:585:DefaultText"
 msgid "Glad to have you. Head back to the ship, <oeitoken>CompanionSlotTwoName</oeitoken>"
-msgstr ""
+msgstr "Jsem rád, že vás máme. Vraťte se na loď, <oeitoken>Jméno společníkaSlotTwo</oeitoken>."

@@ -1,79 +1,79 @@
 #: quests/01_groundbreaker/ta_0101_salvagerinthesky:0
 msgctxt "quests/01_groundbreaker/ta_0101_salvagerinthesky:0:DefaultText"
 msgid "Salvager In the Sky"
-msgstr ""
+msgstr "Záchranář na obloze"
 
 #: quests/01_groundbreaker/ta_0101_salvagerinthesky:1
 msgctxt "quests/01_groundbreaker/ta_0101_salvagerinthesky:1:DefaultText"
 msgid "Speak with Lilya Hagen"
-msgstr ""
+msgstr "Promluvte si s Lilyou Hagen"
 
 #: quests/01_groundbreaker/ta_0101_salvagerinthesky:7
 msgctxt "quests/01_groundbreaker/ta_0101_salvagerinthesky:7:DefaultText"
 msgid "Gain Access to Stellar Bay"
-msgstr ""
+msgstr "Získání přístupu do Hvězdné zátoky"
 
 #: quests/01_groundbreaker/ta_0101_salvagerinthesky:10
 msgctxt "quests/01_groundbreaker/ta_0101_salvagerinthesky:10:DefaultText"
 msgid "Find an Alternate Route to Stellar Bay"
-msgstr ""
+msgstr "Najít alternativní trasu do Hvězdné zátoky"
 
 #: quests/01_groundbreaker/ta_0101_salvagerinthesky:10000
 msgctxt "quests/01_groundbreaker/ta_0101_salvagerinthesky:10000:DefaultText"
 msgid "Now that you have access to Stellar Bay, Gladys suggested you speak with Lilya Hagen in the SubLight offices."
-msgstr ""
+msgstr "Když už máš přístup do Hvězdné zátoky, Gladys ti navrhla, aby sis promluvil s Lilyou Hagenovou v kancelářích SubLight."
 
 #: quests/01_groundbreaker/ta_0101_salvagerinthesky:10001
 msgctxt "quests/01_groundbreaker/ta_0101_salvagerinthesky:10001:DefaultText"
 msgid "Lilya Hagen runs SubLight Salvage & Shipping. Her office is located on Groundbreaker's promenade, next to the spratwurst vendor."
-msgstr ""
+msgstr "Lilya Hagenová provozuje společnost SubLight Salvage & Shipping. Její kancelář se nachází na promenádě Groundbreakeru, hned vedle prodejce šprotů."
 
 #: quests/01_groundbreaker/ta_0101_salvagerinthesky:10007
 msgctxt "quests/01_groundbreaker/ta_0101_salvagerinthesky:10007:DefaultText"
 msgid "Lilya Hagen has a lucrative contract for a captain with access to Stellar Bay on Monarch. You'll need to purchase a Navkey from Gladys on Groundbreaker's Promenade before you can work for SubLight."
-msgstr ""
+msgstr "Lilya Hagenová má lukrativní smlouvu pro kapitána s přístupem do Hvězdné zátoky na Monarchu. Než budeš moci pracovat pro SubLight, musíš si koupit Navkey od Gladys na Promenádě zeměplochy."
 
 #: quests/01_groundbreaker/ta_0101_salvagerinthesky:10010
 msgctxt "quests/01_groundbreaker/ta_0101_salvagerinthesky:10010:DefaultText"
 msgid "With Gladys dead you are no longer able to purchase a Navkey for Stellar Bay. You'll need to find a different way to gain access to the city before you can work for SubLight."
-msgstr ""
+msgstr "Po smrti Gladys si již nemůžete koupit Navkey pro Hvězdnou zátoku. Budete muset najít jiný způsob, jak získat přístup do města, než budete moci pracovat pro SubLight."
 
 #: quests/01_groundbreaker/ta_0101_salvagerinthesky:20000
 msgctxt "quests/01_groundbreaker/ta_0101_salvagerinthesky:20000:DefaultText"
 msgid "Lilya Hagen needs someone who can navigate to Stellar Bay on Monarch. Return to speak with her once you can access Stellar Bay."
-msgstr ""
+msgstr "Lilya Hagenová potřebuje někoho, kdo dokáže navigovat do Hvězdné zátoky na Monarchu. Vraťte se k ní a promluvte si s ní, jakmile budete mít přístup do Hvězdné zátoky."
 
 #: quests/01_groundbreaker/ta_0101_salvagerinthesky:20001
 msgctxt "quests/01_groundbreaker/ta_0101_salvagerinthesky:20001:DefaultText"
 msgid "Lilya Hagen needs someone who can navigate to Stellar Bay on Monarch. Return to speak with her once you can access Stellar Bay. Gladys at the Rest-n-Go can potentially sell you a NavKey."
-msgstr ""
+msgstr "Lilya Hagenová potřebuje někoho, kdo dokáže navigovat do Hvězdné zátoky na Monarchu. Vraťte se k ní a promluvte si s ní, jakmile budete mít přístup do Hvězdné zátoky. Gladys v Rest-n-Go vám může případně prodat navigační klíč."
 
 #: quests/01_groundbreaker/ta_0101_salvagerinthesky:30000
 msgctxt "quests/01_groundbreaker/ta_0101_salvagerinthesky:30000:DefaultText"
 msgid "You've taken a contract with SubLight Salvage & Shipping and are now a part of the Space-Crime Continuum."
-msgstr ""
+msgstr "Uzavřeli jste smlouvu se společností SubLight Salvage & Shipping a stali jste se součástí Kontinua vesmírného zločinu."
 
 #: quests/01_groundbreaker/ta_0101_salvagerinthesky:30001
 msgctxt "quests/01_groundbreaker/ta_0101_salvagerinthesky:30001:DefaultText"
 msgid "Lilya Hagen is dead and it is no longer possible to work with SubLight."
-msgstr ""
+msgstr "Lilya Hagen je mrtvá a se SubLight již není možné pracovat."
 
 #: quests/01_groundbreaker/ta_0101_salvagerinthesky:30002
 msgctxt "quests/01_groundbreaker/ta_0101_salvagerinthesky:30002:DefaultText"
 msgid "The Groundbreaker has become hostile towards you, making it impossible to complete this quest."
-msgstr ""
+msgstr "Groundbreaker se vůči vám stal nepřátelským, což znemožňuje dokončení tohoto úkolu."
 
 #: quests/01_groundbreaker/ta_0101_salvagerinthesky:40001
 msgctxt "quests/01_groundbreaker/ta_0101_salvagerinthesky:40001:DefaultText"
 msgid "You found a job posting on one of Groundbreaker's public terminals for an \"ethically-flexible spacer.\" Interested parties were instructed to inquire at the offices of SubLight Salvage & Shipping."
-msgstr ""
+msgstr "Na jednom z veřejných terminálů společnosti Groundbreaker jste našli nabídku práce na pozici \"eticky flexibilního pracovníka\". Zájemci byli instruováni, aby se informovali v kancelářích společnosti SubLight Salvage & Shipping."
 
 #: quests/01_groundbreaker/ta_0101_salvagerinthesky:40002
 msgctxt "quests/01_groundbreaker/ta_0101_salvagerinthesky:40002:DefaultText"
 msgid "Pvt. Lee Flores suggested you might find paying work at the offices of SubLight Salvage & Shipping. Flores shared several rumors about SubLight's liberal interpretation of salvage law to give you an idea of the type of work you'd be in for."
-msgstr ""
+msgstr "Vojín Lee Flores navrhl, že bys mohl najít placenou práci v kancelářích společnosti SubLight Salvage & Shipping. Flores se s vámi podělil o několik pověstí o liberálním výkladu záchranářského práva společnosti SubLight, abyste si udělali představu o tom, jaká práce by vás čekala."
 
 #: quests/01_groundbreaker/ta_0101_salvagerinthesky:40003
 msgctxt "quests/01_groundbreaker/ta_0101_salvagerinthesky:40003:DefaultText"
 msgid "Lilya Hagen is looking to hire a contractor who has access to Stellar Bay on Monarch."
-msgstr ""
+msgstr "Lilya Hagen hledá dodavatele, který má přístup do zátoky Stellar Bay na ostrově Monarch."

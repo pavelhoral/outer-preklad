@@ -1,89 +1,89 @@
 #: conversations/02_terra2/0202_byzantium/0202_cv_task_force_commander:1
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_task_force_commander:1:DefaultText"
 msgid "Hey. Careful. Don't go running around in the middle of a crime scene."
-msgstr ""
+msgstr "Hej. Opatrně. Neběhej uprostřed místa činu."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_task_force_commander:2
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_task_force_commander:2:DefaultText"
 msgid "What happened to Celeste?"
-msgstr ""
+msgstr "Co se stalo Celeste?"
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_task_force_commander:3
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_task_force_commander:3:DefaultText"
 msgid "I didn't think this kind of thing happened here."
-msgstr ""
+msgstr "Nemyslel jsem si, že se tu něco takového děje."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_task_force_commander:4
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_task_force_commander:4:DefaultText"
 msgid "I can handle myself."
-msgstr ""
+msgstr "Zvládnu to sám."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_task_force_commander:5
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_task_force_commander:5:DefaultText"
 msgid "You mean Ms. Jolicoeur. She was reported for practicing a subversive aesthetic. "
-msgstr ""
+msgstr "Myslíte paní Jolicoeurovou. Byla nahlášena za praktikování podvratné estetiky. "
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_task_force_commander:6
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_task_force_commander:6:DefaultText"
 msgid "Never took her for a dissident sympathizer. "
-msgstr ""
+msgstr "Nikdy jsem ji nepovažoval za sympatizantku disentu. "
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_task_force_commander:7
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_task_force_commander:7:DefaultText"
 msgid "Strange times we live in. Radicals and dissidents living within the walls of Byzantium, hiding in plain sight. Never imagined Ms. Jolicoeur was one of them."
-msgstr ""
+msgstr "Žijeme v podivné době. Radikálové a disidenti žijí mezi zdmi Byzance a skrývají se na očích. Nikdy by mě nenapadlo, že paní Jolicoeurová je jednou z nich."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_task_force_commander:8
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_task_force_commander:8:DefaultText"
 msgid "You say that, but subversives work in subtle ways. Ms. Jolicoeur's art was found in violation of the Board's cultural standards."
-msgstr ""
+msgstr "To říkáte vy, ale podvratníci pracují rafinovaně. Umění paní Jolicoeurové bylo shledáno v rozporu s kulturními normami rady."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_task_force_commander:9
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_task_force_commander:9:DefaultText"
 msgid "You killed Celeste? That's insane!"
-msgstr ""
+msgstr "Zabil jsi Celestu? To je šílené!"
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_task_force_commander:10
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_task_force_commander:10:DefaultText"
 msgid "Did you really have to kill her? We were doing business."
-msgstr ""
+msgstr "Opravdu jsi ji musel zabít? Dělali jsme obchod."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_task_force_commander:11
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_task_force_commander:11:DefaultText"
 msgid "<Attack> Murderer!"
-msgstr ""
+msgstr "<Útok> Vrah!"
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_task_force_commander:12
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_task_force_commander:12:DefaultText"
 msgid "No argument there. Feels like the whole colony's going insane, what with dissidents infiltrating the walls of Byzantium."
-msgstr ""
+msgstr "O tom není sporu. Připadá mi, že se celá kolonie zbláznila, když disidenti pronikají mezi zdi Byzance."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_task_force_commander:13
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_task_force_commander:13:DefaultText"
 msgid "Byzantium cultural standards are enforced by Universal Defense Logistics. Universal Defense Logistics - your first and last line of defense in the war against sedition."
-msgstr ""
+msgstr "Byzantské kulturní standardy prosazuje společnost Universal Defense Logistics. Univerzální obranná logistika - vaše první a poslední obranná linie ve válce proti vzpouře."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_task_force_commander:14
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_task_force_commander:14:DefaultText"
 msgid "Byzantium security regrets any disruption to regular flow of commerce. However, cultural and moral hygiene must always be maintained."
-msgstr ""
+msgstr "Byzantská bezpečnost lituje jakéhokoli narušení pravidelného obchodního toku. Kulturní a morální hygiena však musí být vždy zachována."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_task_force_commander:15
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_task_force_commander:15:DefaultText"
 msgid "Cultural hygiene is the law. Report any violations you see."
-msgstr ""
+msgstr "Kulturní hygiena je zákon. Nahlaste jakékoli porušení, které vidíte."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_task_force_commander:16
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_task_force_commander:16:DefaultText"
 msgid "We found her in her office working on something perverse. She didn't cooperate, so we had to put her down."
-msgstr ""
+msgstr "Našli jsme ji v její kanceláři, kde pracovala na něčem perverzním. Nespolupracovala, a tak jsme ji museli uspat."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_task_force_commander:17
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_task_force_commander:17:DefaultText"
 msgid "I'll leave you be."
-msgstr ""
+msgstr "Nechám tě být."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_task_force_commander:18
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_task_force_commander:18:DefaultText"
 msgid "Excuse me."
-msgstr ""
+msgstr "Promiňte."

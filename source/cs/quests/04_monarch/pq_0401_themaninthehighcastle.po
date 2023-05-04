@@ -1,168 +1,168 @@
 #: quests/04_monarch/pq_0401_themaninthehighcastle:0
 msgctxt "quests/04_monarch/pq_0401_themaninthehighcastle:0:DefaultText"
 msgid "Radio Free Monarch"
-msgstr ""
+msgstr "Rádio Free Monarch"
 
 #: quests/04_monarch/pq_0401_themaninthehighcastle:1
 msgctxt "quests/04_monarch/pq_0401_themaninthehighcastle:1:DefaultText"
 msgid "Speak with Nyoka at Stellar Bay"
-msgstr ""
+msgstr "Promluvte si s Nyokou v zátoce Stellar Bay"
 
 #: quests/04_monarch/pq_0401_themaninthehighcastle:2
 msgctxt "quests/04_monarch/pq_0401_themaninthehighcastle:2:DefaultText"
 msgid "Help Nyoka with Her Hangover [Passion Pills]"
-msgstr ""
+msgstr "Nápověda Nyoka s její kocovinou [Passion Pills]"
 
 #: quests/04_monarch/pq_0401_themaninthehighcastle:3
 msgctxt "quests/04_monarch/pq_0401_themaninthehighcastle:3:DefaultText"
 msgid "Speak with the Information Broker at Devil's Peak."
-msgstr ""
+msgstr "Promluvte si se zprostředkovatelem informací na Devil's Peak."
 
 #: quests/04_monarch/pq_0401_themaninthehighcastle:4
 msgctxt "quests/04_monarch/pq_0401_themaninthehighcastle:4:DefaultText"
 msgid "Help the Broker Deal with MSI and the Iconoclasts"
-msgstr ""
+msgstr "Pomozte makléři vypořádat se s MSI a ikonoklasty"
 
 #: quests/04_monarch/pq_0401_themaninthehighcastle:5
 msgctxt "quests/04_monarch/pq_0401_themaninthehighcastle:5:DefaultText"
 msgid "Return to the Information Broker"
-msgstr ""
+msgstr "Zpět na stránku Information Broker"
 
 #: quests/04_monarch/pq_0401_themaninthehighcastle:6
 msgctxt "quests/04_monarch/pq_0401_themaninthehighcastle:6:DefaultText"
 msgid "Speak with Phineas"
-msgstr ""
+msgstr "Promluvte si s Phineasem"
 
 #: quests/04_monarch/pq_0401_themaninthehighcastle:7
 msgctxt "quests/04_monarch/pq_0401_themaninthehighcastle:7:DefaultText"
 msgid "Check the Broker's Personal Terminal"
-msgstr ""
+msgstr "Zkontrolujte osobní terminál makléře"
 
 #: quests/04_monarch/pq_0401_themaninthehighcastle:8
 msgctxt "quests/04_monarch/pq_0401_themaninthehighcastle:8:DefaultText"
 msgid "End the MSI and Iconoclast Broadcasts"
-msgstr ""
+msgstr "Ukončení vysílání MSI a Iconoclast"
 
 #: quests/04_monarch/pq_0401_themaninthehighcastle:9
 msgctxt "quests/04_monarch/pq_0401_themaninthehighcastle:9:DefaultText"
 msgid "Access the Broker's Terminal"
-msgstr ""
+msgstr "Přístup k terminálu zprostředkovatele"
 
 #: quests/04_monarch/pq_0401_themaninthehighcastle:12
 msgctxt "quests/04_monarch/pq_0401_themaninthehighcastle:12:DefaultText"
 msgid "Search Nyoka's Corpse"
-msgstr ""
+msgstr "Hledání Nyoka's Corpse"
 
 #: quests/04_monarch/pq_0401_themaninthehighcastle:25
 msgctxt "quests/04_monarch/pq_0401_themaninthehighcastle:25:DefaultText"
 msgid "Jump Start the Tower"
-msgstr ""
+msgstr "Spuštění věže"
 
 #: quests/04_monarch/pq_0401_themaninthehighcastle:10000
 msgctxt "quests/04_monarch/pq_0401_themaninthehighcastle:10000:DefaultText"
 msgid "The Information Broker promised to find the location of the chemicals needed by Phineas. Problem is, he hasn't delivered the intel on time and hasn't provided an explanation. Travel to Monarch, find him, and obtain the data."
-msgstr ""
+msgstr "Informační makléř slíbil, že zjistí, kde se nacházejí chemikálie, které Phineas potřebuje. Problém je, že informace nedodal včas a neposkytl vysvětlení. Vydejte se do Monarchu, najděte ho a získejte údaje."
 
 #: quests/04_monarch/pq_0401_themaninthehighcastle:10001
 msgctxt "quests/04_monarch/pq_0401_themaninthehighcastle:10001:DefaultText"
 msgid "Phineas contacted the Broker through a well-known Monarch big-game hunter named Nyoka. She frequents The Yacht Club in Stellar Bay, so look for her there."
-msgstr ""
+msgstr "Phineas kontaktoval makléře prostřednictvím známého monarchského lovce velkých zvířat jménem Nyoka. Často navštěvuje Yacht Club ve Hvězdné zátoce, takže ji hledejte tam."
 
 #: quests/04_monarch/pq_0401_themaninthehighcastle:10002
 msgctxt "quests/04_monarch/pq_0401_themaninthehighcastle:10002:DefaultText"
 msgid "Nyoka is willing to bring you to the Broker, but you'll have to \"cure\" her of her hangover first.\r\n"
 "\r\n"
 "Requires completion of the quest, \"Passion Pills.\""
-msgstr ""
+msgstr "Nyoka je ochotná vás přivést ke zprostředkovateli, ale musíte ji nejprve \"vyléčit\" z kocoviny. Vyžaduje splnění úkolu \"Pilulky vášně\"."
 
 #: quests/04_monarch/pq_0401_themaninthehighcastle:10003
 msgctxt "quests/04_monarch/pq_0401_themaninthehighcastle:10003:DefaultText"
 msgid "The Broker resides in a station at the top of Devil's Peak. Travel there and speak with him.\r\n"
 "\r\n"
 "Limited opportunities exist to scale the mountain. There is a dangerous, ascending path along the western side of Devil's Peak, though other routes may exist."
-msgstr ""
+msgstr "Makléř sídlí ve stanici na vrcholu Ďáblova vrchu. Vydejte se tam a promluvte si s ním. Možnosti výstupu na horu jsou omezené. Podél západní strany Ďáblova vrchu vede nebezpečná stoupající cesta, mohou však existovat i jiné trasy."
 
 #: quests/04_monarch/pq_0401_themaninthehighcastle:10004
 msgctxt "quests/04_monarch/pq_0401_themaninthehighcastle:10004:DefaultText"
 msgid "The Broker can't deliver the location of the chemicals until you stop the Iconoclasts and MSI transmissions that are interfering with use of the tower.\r\n"
 "\r\n"
 "Sanjar Nandi leads MSI out of Stellar Bay, and Graham Bryant leads the Iconoclasts out of Amber Heights. Earning their favor might convince them to stop transmitting."
-msgstr ""
+msgstr "Zprostředkovatel nemůže doručit umístění chemikálií, dokud nezastavíte vysílání Ikonoklastů a MSI, které brání používání věže. Sanjar Nandi vede MSI ze Hvězdné zátoky a Graham Bryant vede Ikonoklasty z Amber Heights. Získání jejich přízně by je mohlo přesvědčit, aby přestali vysílat."
 
 #: quests/04_monarch/pq_0401_themaninthehighcastle:10005
 msgctxt "quests/04_monarch/pq_0401_themaninthehighcastle:10005:DefaultText"
 msgid "MSI and the Iconoclasts are no longer using the tower. Report back to Hiram."
-msgstr ""
+msgstr "MSI a Ikonoklasté již věž nepoužívají. Podejte zprávu Hiramovi."
 
 #: quests/04_monarch/pq_0401_themaninthehighcastle:10006
 msgctxt "quests/04_monarch/pq_0401_themaninthehighcastle:10006:DefaultText"
 msgid "You have relayed the promised data back to Phineas. Travel to his lab and speak with him to discuss the next steps."
-msgstr ""
+msgstr "Slíbené údaje jste předali Phineasovi. Vydejte se do jeho laboratoře a promluvte si s ním o dalším postupu."
 
 #: quests/04_monarch/pq_0401_themaninthehighcastle:10007
 msgctxt "quests/04_monarch/pq_0401_themaninthehighcastle:10007:DefaultText"
 msgid "The Broker is dead, but the information you seek is still out there. Check his personal terminal and try to retrieve the data."
-msgstr ""
+msgstr "Broker je mrtvý, ale informace, které hledáte, jsou stále k dispozici. Podívejte se do jeho osobního terminálu a pokuste se získat data."
 
 #: quests/04_monarch/pq_0401_themaninthehighcastle:10008
 msgctxt "quests/04_monarch/pq_0401_themaninthehighcastle:10008:DefaultText"
 msgid "The Iconoclasts and MSI are both continually broadcasting through Devil's Peak, preventing you from retrieving the Broker's data. Find a way to end their transmissions."
-msgstr ""
+msgstr "Ikonoklasté i MSI neustále vysílají přes Devil's Peak, což vám brání získat makléřova data. Najděte způsob, jak ukončit jejich vysílání."
 
 #: quests/04_monarch/pq_0401_themaninthehighcastle:10009
 msgctxt "quests/04_monarch/pq_0401_themaninthehighcastle:10009:DefaultText"
 msgid "With the broadcasts ended, you should be able to retrieve the Broker's data regarding the location of the chemicals. Use his terminal and route the information back to Phineas."
-msgstr ""
+msgstr "Po ukončení vysílání byste měli být schopni získat údaje zprostředkovatele o umístění chemických látek. Použijte jeho terminál a předejte informace Phineasovi."
 
 #: quests/04_monarch/pq_0401_themaninthehighcastle:10012
 msgctxt "quests/04_monarch/pq_0401_themaninthehighcastle:10012:DefaultText"
 msgid "You killed Nyoka before you could get any useful information out of her. See if you can find anything useful on her."
-msgstr ""
+msgstr "Zabil jsi Nyoku dřív, než jsi z ní mohl dostat nějaké užitečné informace. Podívej se, jestli o ní najdeš něco užitečného."
 
 #: quests/04_monarch/pq_0401_themaninthehighcastle:10025
 msgctxt "quests/04_monarch/pq_0401_themaninthehighcastle:10025:DefaultText"
 msgid "Before you can transmit the data to Phineas, you'll need to give the tower a jump start."
-msgstr ""
+msgstr "Než budete moci přenést data Phineasovi, musíte věž nastartovat."
 
 #: quests/04_monarch/pq_0401_themaninthehighcastle:20000
 msgctxt "quests/04_monarch/pq_0401_themaninthehighcastle:20000:DefaultText"
 msgid "Nyoka has recommended ascending via the caverns underneath Devil's Peak. Follow the Rotting River to find the entrance."
-msgstr ""
+msgstr "Nyoka doporučila výstup jeskyněmi pod Čertovým vrchem. Vchod najdete podél Hnijící řeky."
 
 #: quests/04_monarch/pq_0401_themaninthehighcastle:20001
 msgctxt "quests/04_monarch/pq_0401_themaninthehighcastle:20001:DefaultText"
 msgid "The Broker will unlock his door after the Marauders in the broadcast center have been cleared. (<oeiglobal>0406_Marauders_Killed</oeiglobal> of <oeiglobal>0406_Maruaders_To_Kill</oeiglobal> killed)"
-msgstr ""
+msgstr "Makléř odemkne dveře poté, co budou Marauderové ve vysílacím centru vyčištěni. (<oeiglobal>0406_Marauders_Killed</oeiglobal> z <oeiglobal>0406_Maruaders_To_Kill</oeiglobal> zabil)"
 
 #: quests/04_monarch/pq_0401_themaninthehighcastle:20002
 msgctxt "quests/04_monarch/pq_0401_themaninthehighcastle:20002:DefaultText"
 msgid "You've been invited to speak with the station's owner via intercom."
-msgstr ""
+msgstr "Přes interkom jste byli pozváni k rozhovoru s majitelem stanice."
 
 #: quests/04_monarch/pq_0401_themaninthehighcastle:20003
 msgctxt "quests/04_monarch/pq_0401_themaninthehighcastle:20003:DefaultText"
 msgid "You've cleared out all the Marauders in the station's broadcast center and may now speak to the Broker in person."
-msgstr ""
+msgstr "Ve vysílacím středisku stanice jste vyčistili všechny nájezdníky a nyní si můžete osobně promluvit s makléřem."
 
 #: quests/04_monarch/pq_0401_themaninthehighcastle:20004
 msgctxt "quests/04_monarch/pq_0401_themaninthehighcastle:20004:DefaultText"
 msgid "Not sure what this is."
-msgstr ""
+msgstr "Nejsem si jistý, co to je."
 
 #: quests/04_monarch/pq_0401_themaninthehighcastle:20005
 msgctxt "quests/04_monarch/pq_0401_themaninthehighcastle:20005:DefaultText"
 msgid "The mercenary company, C3, has allowed you to move on to the station."
-msgstr ""
+msgstr "Žoldnéřská společnost C3 vám povolila přesun na stanici."
 
 #: quests/04_monarch/pq_0401_themaninthehighcastle:20006
 msgctxt "quests/04_monarch/pq_0401_themaninthehighcastle:20006:DefaultText"
 msgid "You convinced C3 to help you gain control of the station. Find a way to open the main doors and they'll join you."
-msgstr ""
+msgstr "Přesvědčil jsi C3, aby ti pomohl získat kontrolu nad stanicí. Najděte způsob, jak otevřít hlavní dveře, a oni se k vám připojí."
 
 #: quests/04_monarch/pq_0401_themaninthehighcastle:20007
 msgctxt "quests/04_monarch/pq_0401_themaninthehighcastle:20007:DefaultText"
 msgid "The C3 mercenary company is stationed southeast of the Devil's Peak Station. You may be able to convince them to help you."
-msgstr ""
+msgstr "Žoldnéřská rota C3 sídlí jihovýchodně od stanice Devil's Peak. Možná se vám je podaří přesvědčit, aby vám pomohli."
 
 #: quests/04_monarch/pq_0401_themaninthehighcastle:20008
 msgctxt "quests/04_monarch/pq_0401_themaninthehighcastle:20008:DefaultText"
@@ -172,7 +172,7 @@ msgstr ""
 #: quests/04_monarch/pq_0401_themaninthehighcastle:20009
 msgctxt "quests/04_monarch/pq_0401_themaninthehighcastle:20009:DefaultText"
 msgid "You've reached Fallbrook, which is roughly halfway to the station. You'll have to head further west before being able to ascend the mountain."
-msgstr ""
+msgstr "Dojeli jste do Fallbrooku, který je zhruba v polovině cesty k nádraží. Než budete moci vystoupit na horu, budete muset pokračovat dále na západ."
 
 #: quests/04_monarch/pq_0401_themaninthehighcastle:20010
 msgctxt "quests/04_monarch/pq_0401_themaninthehighcastle:20010:DefaultText"
@@ -182,56 +182,56 @@ msgstr ""
 #: quests/04_monarch/pq_0401_themaninthehighcastle:20011
 msgctxt "quests/04_monarch/pq_0401_themaninthehighcastle:20011:DefaultText"
 msgid "You've found a way to end MSI's transmissions."
-msgstr ""
+msgstr "Našli jste způsob, jak ukončit přenosy MSI."
 
 #: quests/04_monarch/pq_0401_themaninthehighcastle:20012
 msgctxt "quests/04_monarch/pq_0401_themaninthehighcastle:20012:DefaultText"
 msgid "You were able to put a stop to the Iconoclast transmissions."
-msgstr ""
+msgstr "Podařilo se vám zastavit vysílání Ikonoklastu."
 
 #: quests/04_monarch/pq_0401_themaninthehighcastle:20013
 msgctxt "quests/04_monarch/pq_0401_themaninthehighcastle:20013:DefaultText"
 msgid "Travelling overland to Stellar Bay from Cascadia is dangerous. If you rethink your decision, you can still purchase a Navkey from Gladys on Groundbreaker."
-msgstr ""
+msgstr "Cestování po souši do Hvězdné zátoky z Cascadie je nebezpečné. Pokud si své rozhodnutí rozmyslíte, stále si můžete koupit Navkey od Gladys na Groundbreakeru."
 
 #: quests/04_monarch/pq_0401_themaninthehighcastle:20014
 msgctxt "quests/04_monarch/pq_0401_themaninthehighcastle:20014:DefaultText"
 msgid "Complete the quest \"BOLT with His Name\" for Sanjar to start earning MSI's trust."
-msgstr ""
+msgstr "Splňte úkol \"BOLT s jeho jménem\" pro Sanjara a začněte získávat důvěru MSI."
 
 #: quests/04_monarch/pq_0401_themaninthehighcastle:20015
 msgctxt "quests/04_monarch/pq_0401_themaninthehighcastle:20015:DefaultText"
 msgid "Complete the quest \"Errors Unseen\" for Sanjar to earn MSI's trust."
-msgstr ""
+msgstr "Splňte úkol \"Neviditelné chyby\" pro Sanjara a získejte důvěru MSI."
 
 #: quests/04_monarch/pq_0401_themaninthehighcastle:20016
 msgctxt "quests/04_monarch/pq_0401_themaninthehighcastle:20016:DefaultText"
 msgid "Complete the quest \"The Commuter\" for Graham to start earning the Iconoclasts' trust."
-msgstr ""
+msgstr "Splňte úkol \"The Commuter\" a začněte získávat důvěru Ikonoklastů."
 
 #: quests/04_monarch/pq_0401_themaninthehighcastle:20017
 msgctxt "quests/04_monarch/pq_0401_themaninthehighcastle:20017:DefaultText"
 msgid "Complete the quest \"Pay for the Printer\" for Graham to earn the Iconoclasts' trust."
-msgstr ""
+msgstr "Splňte za Grahama úkol \"Zaplatit za tiskárnu\" a získejte důvěru Ikonoklastů."
 
 #: quests/04_monarch/pq_0401_themaninthehighcastle:30000
 msgctxt "quests/04_monarch/pq_0401_themaninthehighcastle:30000:DefaultText"
 msgid "You discovered the location of the chemicals and routed the data to Phineas."
-msgstr ""
+msgstr "Zjistil jsi polohu chemikálií a předal jsi údaje Phineasovi."
 
 #: quests/04_monarch/pq_0401_themaninthehighcastle:30001
 msgctxt "quests/04_monarch/pq_0401_themaninthehighcastle:30001:DefaultText"
 msgid "After skipping the Hope to Tartarus, any chance you had of working with Phineas is gone."
-msgstr ""
+msgstr "Po přeskočení Naděje do Tartaru je veškerá šance na spolupráci s Phineasem pryč."
 
 #: quests/04_monarch/pq_0401_themaninthehighcastle:40001
 msgctxt "quests/04_monarch/pq_0401_themaninthehighcastle:40001:DefaultText"
 msgid "The Broker resides in a station at the top of Devil's Peak. Travel there and speak with him.\r\n"
 "\r\n"
 "Limited opportunities exist to scale the mountain. There is a dangerous, ascending path along the western side of Devil's Peak. A safer alternative may be found in the caverns that run underneath the mountain."
-msgstr ""
+msgstr "Makléř sídlí ve stanici na vrcholu Ďáblova vrchu. Vydejte se tam a promluvte si s ním. Možnosti výstupu na horu jsou omezené. Podél západní strany Ďáblova vrchu vede nebezpečná stoupající cesta. Bezpečnější alternativu lze nalézt v jeskyních, které vedou pod horou."
 
 #: quests/04_monarch/pq_0401_themaninthehighcastle:40002
 msgctxt "quests/04_monarch/pq_0401_themaninthehighcastle:40002:DefaultText"
 msgid "Check the Broker's personal terminal and try to locate Phineas' data."
-msgstr ""
+msgstr "Zkontrolujte makléřův osobní terminál a pokuste se najít Phineasovy údaje."

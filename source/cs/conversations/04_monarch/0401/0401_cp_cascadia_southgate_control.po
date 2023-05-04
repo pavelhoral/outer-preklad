@@ -1,24 +1,24 @@
 #: conversations/04_monarch/0401/0401_cp_cascadia_southgate_control:1
 msgctxt "conversations/04_monarch/0401/0401_cp_cascadia_southgate_control:1:DefaultText"
 msgid "Due to emergency precautions, the Rizzo Bridge to Success™ has been sealed. For your safety and the safety of others, all access is closed until further notice."
-msgstr ""
+msgstr "Z důvodu mimořádných opatření byl most Rizzo Bridge to Success™ uzavřen. Pro vaši bezpečnost a bezpečnost ostatních je veškerý přístup až do odvolání uzavřen."
 
 #: conversations/04_monarch/0401/0401_cp_cascadia_southgate_control:3
 msgctxt "conversations/04_monarch/0401/0401_cp_cascadia_southgate_control:3:DefaultText"
 msgid "[Enter Access Code]"
-msgstr ""
+msgstr "[Zadejte přístupový kód]"
 
 #: conversations/04_monarch/0401/0401_cp_cascadia_southgate_control:4
 msgctxt "conversations/04_monarch/0401/0401_cp_cascadia_southgate_control:4:DefaultText"
 msgid "[Override Gate Lock]"
-msgstr ""
+msgstr "[Překonat zámek brány]"
 
 #: conversations/04_monarch/0401/0401_cp_cascadia_southgate_control:5
 msgctxt "conversations/04_monarch/0401/0401_cp_cascadia_southgate_control:5:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"
 
 #: conversations/04_monarch/0401/0401_cp_cascadia_southgate_control:6
 msgctxt "conversations/04_monarch/0401/0401_cp_cascadia_southgate_control:6:DefaultText"
 msgid "Access gate unlocked. Please be advised that harm to company assets or personnel as a result of the bridge being opened will be divided and taken from every Cascadia employee's pay."
-msgstr ""
+msgstr "Přístupová brána je odemčená. Upozorňujeme, že škoda na majetku společnosti nebo na zaměstnancích v důsledku otevření mostu bude rozdělena a stržena z platu každého zaměstnance společnosti Cascadia."

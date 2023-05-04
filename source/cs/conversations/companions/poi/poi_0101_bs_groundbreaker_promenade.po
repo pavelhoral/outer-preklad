@@ -1,414 +1,414 @@
 #: conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:2
 msgctxt "conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:2:DefaultText"
 msgid "Are those XF-Four-Elevens? And an old Yakita Three-Seven! You think they'd let me peek at the power plant?"
-msgstr ""
+msgstr "Jsou to XF-Four-Eleven? A stará Yakita Three-Seven! Myslíš, že mě nechají nahlédnout do elektrárny?"
 
 #: conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:3
 msgctxt "conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:3:DefaultText"
 msgid "Was a time I wanted to be an engineer."
-msgstr ""
+msgstr "Kdysi jsem chtěl být inženýrem."
 
 #: conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:4
 msgctxt "conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:4:DefaultText"
 msgid "Thought there'd be more machinery. Must be housed on a sublevel."
-msgstr ""
+msgstr "Myslel jsem, že bude více strojů. Musí být umístěno v podúrovni."
 
 #: conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:5
 msgctxt "conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:5:DefaultText"
 msgid "So much wasted space here. You could house everyone in Amber Heights in this room."
-msgstr ""
+msgstr "Je tu tolik zbytečného místa. Do této místnosti by se vešli všichni z Amber Heights."
 
 #: conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:6
 msgctxt "conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:6:DefaultText"
 msgid "Hotter'n usual in here. Hope we're not catching Junlei on a bad day."
-msgstr ""
+msgstr "Je tu větší horko než obvykle. Doufám, že nezastihneme Junlei ve špatný den."
 
 #: conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:8
 msgctxt "conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:8:DefaultText"
 msgid "I could spend all day in here and not have looked at half the best stuff. It's all pretty worn, though."
-msgstr ""
+msgstr "Mohl bych tu strávit celý den a nepodíval bych se ani na polovinu nejlepších věcí. Všechno je to ale pěkně opotřebované."
 
 #: conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:9
 msgctxt "conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:9:DefaultText"
 msgid "The engineers get real tetchy if you bother 'em. Speaking from experience."
-msgstr ""
+msgstr "Když je obtěžuješ, jsou inženýři opravdu nervózní. Mluvím z vlastní zkušenosti."
 
 #: conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:10
 msgctxt "conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:10:DefaultText"
 msgid "My thoughts exactly."
-msgstr ""
+msgstr "Přesně to si myslím."
 
 #: conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:11
 msgctxt "conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:11:DefaultText"
 msgid "All this machinery sets my nerves on edge. When metal goes haywire, you can't shoot it. Well... not without being wasteful, anyhow."
-msgstr ""
+msgstr "Všechny tyhle stroje mi drásají nervy. Když se kov rozbije, nemůžete ho zastřelit. Tedy... ne bez plýtvání."
 
 #: conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:12
 msgctxt "conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:12:DefaultText"
 msgid "Is it just me, or is it hot in here? Junlei's gotta be having a bad day."
-msgstr ""
+msgstr "Zdá se mi to, nebo je tu horko? Junlei má asi špatný den."
 
 #: conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:14
 msgctxt "conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:14:DefaultText"
 msgid "Ooh, can we rent an upstairs room?"
-msgstr ""
+msgstr "Můžeme si pronajmout pokoj v patře?"
 
 #: conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:15
 msgctxt "conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:15:DefaultText"
 msgid "Ah, the ol' Rest-n-Go. With all the luxury and comfort of a shipping container."
-msgstr ""
+msgstr "Ach, starý známý Rest-n-Go. S veškerým luxusem a pohodlím přepravního kontejneru."
 
 #: conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:16
 msgctxt "conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:16:DefaultText"
 msgid "If it's between the Unreliable and the Rest-n-Go, I believe I'll sleep on the ship."
-msgstr ""
+msgstr "Pokud se rozhoduje mezi Nespolehlivým a Rest-n-Go, věřím, že budu spát na lodi."
 
 #: conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:17
 msgctxt "conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:17:DefaultText"
 msgid "I can't fathom sleeping in a cold metal box like that. Give me a dirt blanket, a stone pillow and a night sky."
-msgstr ""
+msgstr "Nedokážu si představit, že bych spala v takové studené kovové krabici. Dejte mi špinavou deku, kamenný polštář a noční oblohu."
 
 #: conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:18
 msgctxt "conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:18:DefaultText"
 msgid "The beds are comfy, but you'll wanna check the mattress before you settle in."
-msgstr ""
+msgstr "Postele jsou pohodlné, ale než se v nich zabydlíte, zkontrolujte si matraci."
 
 #: conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:20
 msgctxt "conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:20:DefaultText"
 msgid "I was wondering what they do with their waste. I guess they just chuck it down here. Where's it all go?"
-msgstr ""
+msgstr "Zajímalo by mě, co dělají se svým odpadem. Myslím, že ho sem prostě házejí. Kam to všechno jde?"
 
 #: conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:21
 msgctxt "conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:21:DefaultText"
 msgid "I'm gonna need another shower after this."
-msgstr ""
+msgstr "Po tomhle budu potřebovat další sprchu."
 
 #: conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:22
 msgctxt "conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:22:DefaultText"
 msgid "Watch out. There's some puddles of... actually, it's best not to contemplate that."
-msgstr ""
+msgstr "Dávejte si pozor. Jsou tam louže... vlastně je lepší o tom nepřemýšlet."
 
 #: conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:23
 msgctxt "conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:23:DefaultText"
 msgid "Whooooa. Reminds me of being on Hiram's balcony. Don't look down. Don't... look down... *herk*"
-msgstr ""
+msgstr "Whooooa. Připomíná mi to pobyt na Hiramově balkoně. Nedívej se dolů. Nedívej se dolů... *herk*"
 
 #: conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:24
 msgctxt "conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:24:DefaultText"
 msgid "We're getting all our shots after this."
-msgstr ""
+msgstr "Po tomto zákroku dostáváme všechny injekce."
 
 #: conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:26
 msgctxt "conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:26:DefaultText"
 msgid "Uh, how about I stay up top? You know, keep watch. Okay?"
-msgstr ""
+msgstr "Co kdybych zůstal nahoře? Víš, hlídat. Dobře?"
 
 #: conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:27
 msgctxt "conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:27:DefaultText"
 msgid "Damn it. I just cleaned my boots this morning."
-msgstr ""
+msgstr "Sakra. Zrovna dnes ráno jsem si čistil boty."
 
 #: conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:28
 msgctxt "conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:28:DefaultText"
 msgid "Seems like a fine way to die. But all right, let's check it out."
-msgstr ""
+msgstr "Zdá se, že je to dobrý způsob, jak zemřít. Ale dobře, pojďme to zkontrolovat."
 
 #: conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:29
 msgctxt "conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:29:DefaultText"
 msgid "Aw, look, sprats! They're cute until they go for the throat."
-msgstr ""
+msgstr "Podívejte, šproty! Jsou roztomilí, dokud nejdou po krku."
 
 #: conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:30
 msgctxt "conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:30:DefaultText"
 msgid "I'd been meaning to break this jacket in. "
-msgstr ""
+msgstr "Chtěl jsem si tuhle bundu vyzkoušet. "
 
 #: conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:39
 msgctxt "conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:39:DefaultText"
 msgid "You reckon we can shop here, or is it all spoke for?"
-msgstr ""
+msgstr "Myslíte, že tu můžeme nakupovat, nebo je to všechno pro?"
 
 #: conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:40
 msgctxt "conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:40:DefaultText"
 msgid "Wonder if they got some type of secret handshake."
-msgstr ""
+msgstr "Zajímalo by mě, jestli mají nějaký typ tajného podání ruky."
 
 #: conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:41
 msgctxt "conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:41:DefaultText"
 msgid "This should prove... interesting, to say the least."
-msgstr ""
+msgstr "To by mělo být přinejmenším zajímavé."
 
 #: conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:42
 msgctxt "conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:42:DefaultText"
 msgid "Suppose that's the point. Hide in plain sight and all that."
-msgstr ""
+msgstr "Předpokládejme, že o to jde. Skrýt se na očích a tak."
 
 #: conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:43
 msgctxt "conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:43:DefaultText"
 msgid "Some freelancers sneer at SubLight for setting up a storefront. But they rake in the bits."
-msgstr ""
+msgstr "Někteří freelanceři se společnosti SubLight posmívají, že si zřídila výlohu. Ale oni za to dostávají peníze."
 
 #: conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:44
 msgctxt "conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:44:DefaultText"
 msgid "Oh, neat. They got stuff in here I ain't seen in ages."
-msgstr ""
+msgstr "Oh, skvělé. Mají tu věci, které jsem už dlouho neviděl."
 
 #: conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:45
 msgctxt "conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:45:DefaultText"
 msgid "SubLight puts the organized in organized crime. Been trying to get 'em to use that slogan."
-msgstr ""
+msgstr "Společnost SubLight vkládá organizovaný zločin do organizovaného zločinu. Snažil jsem se je přimět, aby ten slogan používali."
 
 #: conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:46
 msgctxt "conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:46:DefaultText"
 msgid "SubLight Salvage. Their front looks surprisingly on the up and up."
-msgstr ""
+msgstr "SubLight Salvage. Jejich přední část vypadá překvapivě dobře."
 
 #: conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:47
 msgctxt "conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:47:DefaultText"
 msgid "SubLight, huh? I always pictured this being more... grandiose. This looks more like your standard business."
-msgstr ""
+msgstr "SubLight, co? Vždycky jsem si představoval, že to bude... velkolepější. Tohle vypadá spíš jako standardní podnik."
 
 #: conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:48
 msgctxt "conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:48:DefaultText"
 msgid "Ah, SubLight. The \"legitimate\" smuggling business."
-msgstr ""
+msgstr "Ach, SubLight. \"Legální\" pašeráctví."
 
 #: conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:51
 msgctxt "conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:51:DefaultText"
 msgid "I think everything in here is worth more than I made in my whole life."
-msgstr ""
+msgstr "Myslím, že všechno tady má větší cenu, než jsem vydělal za celý svůj život."
 
 #: conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:52
 msgctxt "conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:52:DefaultText"
 msgid "Everything about this place stinks of privilege. "
-msgstr ""
+msgstr "Všechno tady smrdí privilegiem. "
 
 #: conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:53
 msgctxt "conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:53:DefaultText"
 msgid "You'd think the Board and its agents would be more content, sitting at the top of the system's food chain as they are."
-msgstr ""
+msgstr "Člověk by si myslel, že správní rada a její zástupci budou spokojenější, když sedí na vrcholu potravního řetězce systému."
 
 #: conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:54
 msgctxt "conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:54:DefaultText"
 msgid "Don't do any deals with these flighty fucks. They'll turn their back on you soon as it's profitable."
-msgstr ""
+msgstr "S těmihle přelétavými sráči žádné obchody neuzavírejte. Jakmile se jim to vyplatí, otočí se k vám zády."
 
 #: conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:55
 msgctxt "conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:55:DefaultText"
 msgid "Got no love for the Board, but their bits are as good as anybody's."
-msgstr ""
+msgstr "Radu nemám rád, ale jejich kousky jsou stejně dobré jako kousky kohokoli jiného."
 
 #: conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:56
 msgctxt "conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:56:DefaultText"
 msgid "I'm just gonna hang in the back and try not to touch anything."
-msgstr ""
+msgstr "Budu se držet vzadu a snažit se ničeho nedotknout."
 
 #: conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:57
 msgctxt "conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:57:DefaultText"
 msgid "We ain't planning on sticking around, right?"
-msgstr ""
+msgstr "Neplánujeme se tu zdržovat, že?"
 
 #: conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:58
 msgctxt "conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:58:DefaultText"
 msgid "Ah, the Board. Organized, efficient, competent. Well, mostly."
-msgstr ""
+msgstr "Ach, ta rada. Organizovaná, efektivní, kompetentní. No, většinou."
 
 #: conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:59
 msgctxt "conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:59:DefaultText"
 msgid "You know, I used to look up to the Board. 'Til they abandoned us. Ugh. Sooner we escape their presence, the better."
-msgstr ""
+msgstr "Víte, k představenstvu jsem vzhlížel. Dokud nás neopustili. Fuj. Čím dřív se jim vyhneme, tím líp."
 
 #: conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:60
 msgctxt "conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:60:DefaultText"
 msgid "Smells like money. Breathe it in, Captain."
-msgstr ""
+msgstr "Voní po penězích. Vdechněte to, kapitáne."
 
 #: conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:62
 msgctxt "conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:62:DefaultText"
 msgid "We're not gonna have to hurt nobody, are we?"
-msgstr ""
+msgstr "Nebudeme muset nikomu ublížit, že ne?"
 
 #: conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:63
 msgctxt "conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:63:DefaultText"
 msgid "Felix Millstone. SubLight Agent. I like the sound of that."
-msgstr ""
+msgstr "Felix Millstone. Agent SubLight. To se mi líbí."
 
 #: conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:64
 msgctxt "conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:64:DefaultText"
 msgid "Let us take heed that we are not caught bending the law. I am not keen on another long-term penitentiary assignment."
-msgstr ""
+msgstr "Dávejme si pozor, abychom nebyli přistiženi při porušování zákona. Nemám zájem o další dlouhodobé umístění do vězení."
 
 #: conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:65
 msgctxt "conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:65:DefaultText"
 msgid "Oughta go celebrate our new arrangements with Cat Malin. In Fallbrook. The woman's a riot."
-msgstr ""
+msgstr "Měli bychom jít oslavit naše nové dohody s Cat Malinovou. Ve Fallbrooku. Ta ženská je blázen."
 
 #: conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:66
 msgctxt "conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:66:DefaultText"
 msgid "SubLight's always got plenty of work. Good gig if you don't mind where the bits come from."
-msgstr ""
+msgstr "SubLight má vždycky spoustu práce. Dobrá práce, pokud vám nevadí, odkud kousky pocházejí."
 
 #: conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:68
 msgctxt "conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:68:DefaultText"
 msgid "Isn't Mr. Welles the fella who woke you? How bad could he be?"
-msgstr ""
+msgstr "Není pan Welles ten, kdo vás vzbudil? Jak špatný by mohl být?"
 
 #: conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:69
 msgctxt "conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:69:DefaultText"
 msgid "So that's how it is, huh? You just sell somebody out to the Board without a second thought?"
-msgstr ""
+msgstr "Tak takhle to je, co? Prostě někoho bez rozmýšlení prodáte představenstvu?"
 
 #: conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:70
 msgctxt "conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:70:DefaultText"
 msgid "Sometimes sacrifices must be made to stay aligned with the Plan. Unfortunate, but necessary."
-msgstr ""
+msgstr "Někdy je třeba přinést oběti, abyste zůstali v souladu s plánem. Je to nešťastné, ale nutné."
 
 #: conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:71
 msgctxt "conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:71:DefaultText"
 msgid "I don't know much about this labcoat, but... if he trusted you, you oughtn't betray that. Trust is hard to come by here."
-msgstr ""
+msgstr "Moc toho o tom plášti nevím, ale... jestli ti věřil, neměl bys to zradit. Důvěra se tu těžko získává."
 
 #: conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:72
 msgctxt "conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:72:DefaultText"
 msgid "I woulda done the same. Just make sure they pay you up-front."
-msgstr ""
+msgstr "Udělal bych to samé. Jen se ujistěte, že vám zaplatí předem."
 
 #: conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:73
 msgctxt "conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:73:DefaultText"
 msgid "Contaminant level: UTTERLY FILTHY."
-msgstr ""
+msgstr "Úroveň kontaminace: NAPROSTO ŠPINAVÁ."
 
 #: conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:74
 msgctxt "conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:74:DefaultText"
 msgid "Soda doesn't just stick to floors. Bodily fluids do as well."
-msgstr ""
+msgstr "Soda se nelepí jen na podlahy. Tělesné tekutiny také."
 
 #: conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:77
 msgctxt "conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:77:DefaultText"
 msgid "I ever say I used to do plumbing work in Edgewater? Because I smelt the like of this afore."
-msgstr ""
+msgstr "Říkal jsem někdy, že jsem dělal instalatéra v Edgewateru? Protože něco takového jsem už cítil."
 
 #: conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:78
 msgctxt "conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:78:DefaultText"
 msgid "Ugh. Never gonna get used to that smell."
-msgstr ""
+msgstr "Uf. Na ten zápach si nikdy nezvyknu."
 
 #: conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:79
 msgctxt "conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:79:DefaultText"
 msgid "Grand Architect, that reeks... if I pass out, don't let me hit the floor. I might stick."
-msgstr ""
+msgstr "Velký architekt, to smrdí... jestli omdlím, nenech mě spadnout na zem. Mohl bych se přilepit."
 
 #: conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:80
 msgctxt "conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:80:DefaultText"
 msgid "I have lived my entire life smelling sulfur, shit, and blood mixed together... and I'm still looking for a nose plug here."
-msgstr ""
+msgstr "Celý život cítím síru, hovna a krev smíchanou dohromady... a pořád tu hledám zátku do nosu."
 
 #: conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:81
 msgctxt "conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:81:DefaultText"
 msgid "What I wouldn't give for a surgical mask right now."
-msgstr ""
+msgstr "Co bych teď dal za chirurgickou masku."
 
 #: conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:82
 msgctxt "conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:82:DefaultText"
 msgid "It's lemony-fresh!"
-msgstr ""
+msgstr "Je citronově svěží!"
 
 #: conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:83
 msgctxt "conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:83:DefaultText"
 msgid "Spoken like a mechanical who's looking for an aftermarket sense mod."
-msgstr ""
+msgstr "Mluvíš jako mechanik, který hledá dodatečnou úpravu smyslu."
 
 #: conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:84
 msgctxt "conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:84:DefaultText"
 msgid "Who taught SAM sarcasm?"
-msgstr ""
+msgstr "Kdo naučil SAMa sarkasmus?"
 
 #: conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:85
 msgctxt "conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:85:DefaultText"
 msgid "We'll have to agree to disagree."
-msgstr ""
+msgstr "Budeme se muset dohodnout, že se neshodneme."
 
 #: conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:86
 msgctxt "conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:86:DefaultText"
 msgid "This is the furthest possible thing from lemony... I--I'm arguing with an automechanical. Nyoka, your lot in life leaves much to be desired."
-msgstr ""
+msgstr "Tohle má k citronovému nádechu nejdále... Hádám se s automechanikem. Nyoko, tvůj životní úděl je hodně neuspokojivý."
 
 #: conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:87
 msgctxt "conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:87:DefaultText"
 msgid "You have any disinfectant, SAM?"
-msgstr ""
+msgstr "Máš nějakou dezinfekci, SAM?"
 
 #: conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:88
 msgctxt "conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:88:DefaultText"
 msgid "Degreaser levels insufficient for area cleaning."
-msgstr ""
+msgstr "Hladina odmašťovadla je pro čištění plochy nedostatečná."
 
 #: conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:89
 msgctxt "conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:89:DefaultText"
 msgid "Contaminant detected: Trace amounts of fecal matter from alien lifeforms."
-msgstr ""
+msgstr "Zjištěná kontaminující látka: Zjištěno stopové množství výkalů cizích forem života."
 
 #: conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:90
 msgctxt "conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:90:DefaultText"
 msgid "Entering rest mode."
-msgstr ""
+msgstr "Přechod do klidového režimu."
 
 #: conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:91
 msgctxt "conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:91:DefaultText"
 msgid "Scum detected in the immediate area."
-msgstr ""
+msgstr "V bezprostřední blízkosti byl zjištěn nešvar."
 
 #: conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:92
 msgctxt "conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:92:DefaultText"
 msgid "Scum detected in the immediate area."
-msgstr ""
+msgstr "V bezprostřední blízkosti byl zjištěn nešvar."
 
 #: conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:93
 msgctxt "conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:93:DefaultText"
 msgid "Report: The immediate vicinity is SPARKLING CLEAN! Minimal custodial actions required."
-msgstr ""
+msgstr "Zpráva: Bezprostřední okolí je SPARKLING CLEAN! Je zapotřebí minimálních úkonů péče o okolí."
 
 #: conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:94
 msgctxt "conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:94:DefaultText"
 msgid "Area analysis: SQUEAKY CLEAN!"
-msgstr ""
+msgstr "Analýza oblasti: ČISTÝ!"
 
 #: conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:95
 msgctxt "conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:95:DefaultText"
 msgid "Job assessment: It's a mess!"
-msgstr ""
+msgstr "Hodnocení práce: Je to zmatek!"
 
 #: conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:96
 msgctxt "conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:96:DefaultText"
 msgid "Sprats are the number 1 spreaders of Weil's Disease and as such are some of the most reviled creatures in the Halcyon system. Got a sprat problem? SAM is licensed to kill - literally."
-msgstr ""
+msgstr "Šproty jsou nejčastějšími šiřiteli Weilovy nemoci, a proto patří k nejodpornějším tvorům v systému Halcyon. Máte problém se šproty? SAM má licenci na zabíjení - doslova."
 
 #: conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:97
 msgctxt "conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:97:DefaultText"
 msgid "Mr. Welles didn't seem so bad to me. A mite twitchy, sure."
-msgstr ""
+msgstr "Pan Welles mi nepřipadal tak špatný. Trochu nervózní, jistě."
 
 #: conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:100
 msgctxt "conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:100:DefaultText"
 msgid "There's a reason they got this place under quarantine, right?"
-msgstr ""
+msgstr "Ne nadarmo to tu dali do karantény, ne?"
 
 #: conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:101
 msgctxt "conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:101:DefaultText"
 msgid "You're sure this is perfectly safe? I'd rather not die early of an infectious disease, myself."
-msgstr ""
+msgstr "Jste si jistý, že je to naprosto bezpečné? Sám bych raději nezemřel předčasně na infekční nemoc."
 
 #: conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:102
 msgctxt "conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:102:DefaultText"
 msgid "You ever wonder if maybe folks keep doors closed for a reason?"
-msgstr ""
+msgstr "Přemýšleli jste někdy o tom, jestli lidé nenechávají dveře zavřené z nějakého důvodu?"
 
 #: conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:103
 msgctxt "conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:103:DefaultText"
 msgid "You know, labcoats don't usually lock places up without reason. We find any experiments, I vote right now that we set them aflame."
-msgstr ""
+msgstr "Víš, laboranti obvykle nezamykají místa bezdůvodně. Pokud najdeme nějaké experimenty, hlasuji pro to, abychom je zapálili."
 
 #: conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:104
 msgctxt "conversations/companions/poi/poi_0101_bs_groundbreaker_promenade:104:DefaultText"
 msgid "Contagion threat level: ULTRA MEGA HIGH."
-msgstr ""
+msgstr "Úroveň ohrožení nákazou: ULTRA MEGA VYSOKÁ."

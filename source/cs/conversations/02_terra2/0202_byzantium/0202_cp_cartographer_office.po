@@ -7,17 +7,17 @@ msgid "Halcyon Holdings Corporation\r\n"
 "\r\n"
 "Terminal Access\r\n"
 ""
-msgstr ""
+msgstr "Halcyon Holdings Corporation Úřad pro průzkum ======================== Přístup k terminálu"
 
 #: conversations/02_terra2/0202_byzantium/0202_cp_cartographer_office:2
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cp_cartographer_office:2:DefaultText"
 msgid "[Messages]"
-msgstr ""
+msgstr "[Zprávy]"
 
 #: conversations/02_terra2/0202_byzantium/0202_cp_cartographer_office:3
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cp_cartographer_office:3:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"
 
 #: conversations/02_terra2/0202_byzantium/0202_cp_cartographer_office:4
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cp_cartographer_office:4:DefaultText"
@@ -29,27 +29,27 @@ msgid "Halcyon Holdings Corporation\r\n"
 "Messages\r\n"
 "\r\n"
 "Welcome, Rachel Lockwood"
-msgstr ""
+msgstr "Halcyon Holdings Corporation Bureau of Exploration ======================== Zprávy Vítejte, Rachel Lockwoodová"
 
 #: conversations/02_terra2/0202_byzantium/0202_cp_cartographer_office:5
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cp_cartographer_office:5:DefaultText"
 msgid "[TO: S. Jiao]"
-msgstr ""
+msgstr "[TO: S. Jiao]"
 
 #: conversations/02_terra2/0202_byzantium/0202_cp_cartographer_office:6
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cp_cartographer_office:6:DefaultText"
 msgid "[FROM: J. Lockwood]"
-msgstr ""
+msgstr "[OD: J. Lockwood]"
 
 #: conversations/02_terra2/0202_byzantium/0202_cp_cartographer_office:7
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cp_cartographer_office:7:DefaultText"
 msgid "[TO: W. Billingsly]"
-msgstr ""
+msgstr "[TO: W. Billingsly]"
 
 #: conversations/02_terra2/0202_byzantium/0202_cp_cartographer_office:8
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cp_cartographer_office:8:DefaultText"
 msgid "[Return to Root]"
-msgstr ""
+msgstr "[Zpět na kořen]"
 
 #: conversations/02_terra2/0202_byzantium/0202_cp_cartographer_office:10
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cp_cartographer_office:10:DefaultText"
@@ -66,7 +66,7 @@ msgid "Halcyon Holdings Corporation\r\n"
 "Sandra,\r\n"
 "\r\n"
 "Just got back from Billingsly's. Had not one, not two, but three NearMaple liqueurs. Almost done with this project I've been working on for the past six months. Decided to celebrate. Hey, don't worry. I'll save some celebrating for the two of us. I'm thinking maybe Celeste's Haberdashery. Stop over at Lovegrove's. Couple hours at Chancery's. End the night with a bang at Bijou's. What do you think?"
-msgstr ""
+msgstr "Halcyon Holdings Corporation Bureau of Exploration ======================== Zprávy OD: Lockwooda TO: Jiao PŘEDMĚT: S: Právě jsem se vrátila od Billingslyho. Měla jsem ne jeden, ne dva, ale hned tři likéry NearMaple. Už jsem skoro hotová s tím projektem, na kterém jsem pracovala posledních šest měsíců. Rozhodl jsem se to oslavit. Hej, neboj se. Nějakou oslavu si nechám pro nás dva. Možná v galanterii Celeste. Zastav se u Lovegrova. Pár hodin v Chancery's. A večer zakončit v Bijou's. Co myslíš?"
 
 #: conversations/02_terra2/0202_byzantium/0202_cp_cartographer_office:11
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cp_cartographer_office:11:DefaultText"
@@ -84,7 +84,7 @@ msgid "Halcyon Holdings Corporation\r\n"
 "\r\n"
 "I don't like hearing rumors about my daughter having a drink with her own receptionist. We've talked about this. Victor's family has fallen out of favor. If he was worthy of your attention, he would've made a senior position by now. Don't drag the Lockwood name down with him.\r\n"
 ""
-msgstr ""
+msgstr "Halcyon Holdings Corporation Bureau of Exploration ======================== Zprávy OD: Lockwooda TO: Lockwoodové PŘEDMĚT: Vaše recepční Rachel, nerad poslouchám pomluvy o tom, že moje dcera pije s vlastní recepční. Už jsme o tom mluvili. Victorova rodina upadla v nemilost. Kdyby si zasloužil vaši pozornost, už by se dostal na vyšší pozici. Nestáhni s ním jméno Lockwoodové dolů."
 
 #: conversations/02_terra2/0202_byzantium/0202_cp_cartographer_office:12
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cp_cartographer_office:12:DefaultText"
@@ -107,4 +107,4 @@ msgid "Halcyon Holdings Corporation\r\n"
 "I'm going down into the tunnels. I was wondering if you could send one of your mechanicals with some food or something, please? Maybe some cocktail olives and p-free nuts. I'll pay you back.\r\n"
 "\r\n"
 "Rachel"
-msgstr ""
+msgstr "Halcyon Holdings Corporation Bureau of Exploration ======================== Zprávy OD: Lockwooda TO: Billingslymu PŘEDMĚT: Pomoc Williame, včera v noci se ztratili dva moji kolegové. Nikdo o nich neslyšel a já se obávám, že bych mohl být další na řadě. Potřebuji na chvíli odjet. Pár dní, možná týden. Než se všechno vyřeší. Rád bych ti řekl víc, ale nemůžu. Je mi líto. Jdu dolů do tunelů. Chtěl jsem se zeptat, jestli bys nemohl poslat jednoho ze svých mechaniků s nějakým jídlem nebo něčím, prosím? Třeba nějaké koktejlové olivy a ořechy bez ořechů. Vrátím vám to. Rachel."

@@ -9,7 +9,9 @@ msgid "HALCYON HOLDINGS CORPORATE BOARD\n"
 "Due to the hostile and aggressive nature of the wildlife, as well as the unsustainability of its natural flora for use in human consumption, the Halcyon Holdings Corporate Board has officially enacted a Hazard Clause covering the entirety of Terra 1.\n"
 "\n"
 "After an evacuation period of no more than six (6) months, Terra 1 will be officially considered illegal territory. As this is a unanimous decision, any corporation caught operating on Terra 1 after the evacuation period will face fines and possible disbarment, as defined in Halcyon Code 22.1."
-msgstr ""
+msgstr "VEŘEJNÉ UPOZORNĚNÍ č. 117 SPOLEČNOSTI HALCYON HOLDINGS: O VYHLÁŠENÍ NEBEZPEČÍ PRO TERRA ONE Toto oznámení, vydané dne 12. ledna 2343, slouží jako veřejná výpověď společnosti Terra 1 jako proveditelného pracovního prostředí.\n"
+"\n"
+"Vzhledem k nepřátelské a agresivní povaze zdejší fauny a flóry, jakož i k neudržitelnosti její přirozené flóry pro použití v lidské spotřebě, korporátní rada společnosti Halcyon Holdings oficiálně zavedla doložku o nebezpečí, která se vztahuje na celou Terru 1. Po uplynutí doby evakuace, která nepřesáhne šest (6) měsíců, bude Terra 1 oficiálně považována za nelegální území. Jelikož se jedná o jednomyslné rozhodnutí, bude každá korporace, která bude po uplynutí evakuačního období přistižena při činnosti na Terře 1, čelit pokutám a případnému vyloučení z organizace, jak je definováno v Halcyonském kodexu 22.1."
 
 #: conversations/04_monarch/0401/0401_cp_cascadia_rizzo_offices:2
 msgctxt "conversations/04_monarch/0401/0401_cp_cascadia_rizzo_offices:2:DefaultText"
@@ -18,17 +20,17 @@ msgid "Rizzo, Inc. Distributed Messenger Terminals\r\n"
 "An error has occurred when trying to access message archives. Available message threads are listed below.\r\n"
 "\r\n"
 "Please note that unauthorized access of Rizzo, Inc. message content is a felony."
-msgstr ""
+msgstr "Rizzo, Inc. Distributed Messenger Terminals ====================== Při pokusu o přístup k archivům zpráv došlo k chybě. Dostupná vlákna zpráv jsou uvedena níže. Upozorňujeme, že neoprávněný přístup k obsahu zpráv společnosti Rizzo, Inc. je trestný čin."
 
 #: conversations/04_monarch/0401/0401_cp_cascadia_rizzo_offices:3
 msgctxt "conversations/04_monarch/0401/0401_cp_cascadia_rizzo_offices:3:DefaultText"
 msgid "[Public Notice #117]"
-msgstr ""
+msgstr "[Veřejné oznámení #117]"
 
 #: conversations/04_monarch/0401/0401_cp_cascadia_rizzo_offices:4
 msgctxt "conversations/04_monarch/0401/0401_cp_cascadia_rizzo_offices:4:DefaultText"
 msgid "[TO: Theodore T.; Pauline B., SUBJECT: Re: re: The Hazard Clause]"
-msgstr ""
+msgstr "[TO: Theodore T.; Pauline B., SUBJECT: Re: Re: The Hazard Clause]"
 
 #: conversations/04_monarch/0401/0401_cp_cascadia_rizzo_offices:5
 msgctxt "conversations/04_monarch/0401/0401_cp_cascadia_rizzo_offices:5:DefaultText"
@@ -61,22 +63,22 @@ msgid "From: Sumner Z.\n"
 "Date: January 12th, 2343\n"
 "\n"
 "No. We'll hit our export quotas for the next seven months at least. Project Ptero is still our number one priority."
-msgstr ""
+msgstr "Od: Komu: Sumner Z: Předmět: Theodore T.; Pauline B: Datum: ledna 2343 Dostal jsem potvrzení, že Rizzo brzy opustí Terru 1 spolu s ostatními korporacemi. Očekává se, že budeme udržovat náš export až do dne odchodu. Všechny týmy budou pokračovat v činnosti, dokud jim nebude řečeno jinak. Od této chvíle nevidím potřebu informovat o rozhodnutí Rady kohokoli mimo nás tří. Nechceme, aby si naši pracovníci mysleli, že budou přeřazeni. Prostě je nechte dělat to, co umí nejlépe: Děkuji. Sumner ====================== Od: Theodore T. Komu: Theodore T: Předmět: Sumner Z.; Pauline B: Re: Paulner Paulner: Re: Re: Re: Re: Re: Re: Re: Re: Date: The Hazard Clause Date: ledna 2343 Mění to vůbec naše priority? Měli bychom začít škrtat výzkum a více se zaměřit na export? Ted ====================== Od: Sumner Z. Komu: T: Theodore T.; Pauline B. Subject: Zda je možné, aby se v rámci projektu \"Záchrana před katastrofou\" (v rámci projektu \"Záchrana před katastrofou\") Re: T: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Datum: The Hazard Clause Datum: 1: Ne. Minimálně na příštích sedm měsíců dosáhneme našich vývozních kvót. Projekt Ptero je stále naší prioritou číslo jedna."
 
 #: conversations/04_monarch/0401/0401_cp_cascadia_rizzo_offices:6
 msgctxt "conversations/04_monarch/0401/0401_cp_cascadia_rizzo_offices:6:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"
 
 #: conversations/04_monarch/0401/0401_cp_cascadia_rizzo_offices:7
 msgctxt "conversations/04_monarch/0401/0401_cp_cascadia_rizzo_offices:7:DefaultText"
 msgid "[Return to Root]"
-msgstr ""
+msgstr "[Zpět na kořen]"
 
 #: conversations/04_monarch/0401/0401_cp_cascadia_rizzo_offices:8
 msgctxt "conversations/04_monarch/0401/0401_cp_cascadia_rizzo_offices:8:DefaultText"
 msgid "[FROM: Rizzo-Directorate, SUBJECT: Re: Re: Shuttle Redistribution]"
-msgstr ""
+msgstr "[FROM: Rizzo-Directorate, SUBJECT: Re: Re: Přerozdělení raketoplánů]"
 
 #: conversations/04_monarch/0401/0401_cp_cascadia_rizzo_offices:13
 msgctxt "conversations/04_monarch/0401/0401_cp_cascadia_rizzo_offices:13:DefaultText"
@@ -112,12 +114,12 @@ msgid "From: Rizzo-Directorate\n"
 "\n"
 "Warm regards,\n"
 "Your friends in the Rizzo, Inc. Directorate"
-msgstr ""
+msgstr "Od: Rizzo-Directorate Komu: Rizzo-Directorate Subject: Datum: Ziegler, s lítostí Vám oznamujeme, že kyvadlová doprava na cestě do stáčírny v Cascadii byla přerozdělena. Úsilí o evakuaci je prioritizováno v pořadí podle ziskovosti (měřeno především objemem exportu) a v tuto chvíli se jiná zařízení ukázala buď jako ziskovější, nebo efektivnější. Distribuční systém vyšle pro účely evakuace minimálně jeden (1) raketoplán. Pokud máte více zaměstnanců, než se vejde do standardního raketoplánu, Rizzo doporučuje zavést systém priorit, aby nakládka a příprava tohoto raketoplánu mohla probíhat hladce. Upozorňujeme, že jakýkoli pokus o naložení většího než maximálního množství lidských zdrojů do raketoplánu se setká s razantním zásahem. S vřelým pozdravem, Vaši přátelé ve společnosti Rizzo, Inc. Ředitelství ====================== Od: Sumnerovi Z: Rizzo-Directorate Předmět: \"Rizzo, Inc: Re: Datum: Přerozdělení raketoplánu března 2343 Co projekt Ptero? Jistě si zaslouží další prostředky. ====================== Od: Ptero: Rizzo-Directorate Komu: Ptero Subject: Sumner Z: Re: Re: Pterzo: Jaký je váš názor na projekt Pterzo? Re: Re: Re: Datum: Přerozdělení raketoplánů Ziegler: Výzkumné projekty se při výpočtu ziskovosti daného vypořádání neberou v úvahu. Význam projektu Ptero jej možná řadí na vyšší příčky vašeho seznamu priorit, ale přesto nejsme schopni vyslat více než jeden (1) raketoplán k evakuaci. Doporučujeme vám, abyste podle toho rozvrhli své zdroje. S vřelým pozdravem, Vaši přátelé z Rizzo, Inc. Ředitelství"
 
 #: conversations/04_monarch/0401/0401_cp_cascadia_rizzo_offices:14
 msgctxt "conversations/04_monarch/0401/0401_cp_cascadia_rizzo_offices:14:DefaultText"
 msgid "[TO: Theodore T,; Pauline B., SUBJECT: Re: Re: Re: Bad news]"
-msgstr ""
+msgstr "[TO: Theodore T,; Pauline B., SUBJECT: Re: Re: Re: Re: Špatné zprávy]"
 
 #: conversations/04_monarch/0401/0401_cp_cascadia_rizzo_offices:15
 msgctxt "conversations/04_monarch/0401/0401_cp_cascadia_rizzo_offices:15:DefaultText"
@@ -154,4 +156,4 @@ msgid "From: Sumner Z.\n"
 "We tell them that we're going to get them out. They just won't know it'll be one shuttle at a time. It's fine.\n"
 "\n"
 "DO NOT tell them about the Hazard Clause. Our goal is to get out of here peacefully. No incidents. I don't want panic. I don't want a riot or - Law forbid - a strike. Once we're out, we'll send word back with further plans. Until then, keep this among us."
-msgstr ""
+msgstr "Od: Komu: Sumner Z: Předmět: Theodore T.; Pauline B: Špatné zprávy Datum: 8. března 2343 Dostaneme jeden raketoplán. Podle mého odhadu zaberou prostředky projektu Ptero, lidské i jiné, přibližně dvě třetiny našeho dostupného prostoru. Zbýváme my a pár dalších lidí, které můžeme vzít s sebou. Musíme se rozhodnout, jak rozhodneme, koho dalšího vezmeme. Možná podvýbor, který by vypracoval plán rozhodování? ====================== Od: Theodore T. Komu: Theodore T: Sumner Z.; Pauline B. Předmět: Zda se podařilo získat další informace o projektu? Re: Datum: Špatné zprávy Znáš mě, Sumnere. Miluju podvýbory. Ale jakékoli rozhodnutí, které uděláme, skončí naštvanými dělníky. Prostě vyjeďme s posádkou Ptero. Užijeme si trochu místa na nohy navíc. Až budeme v bezpečí na T2, můžeme se podívat na to, jak vyslat další raketoplán. ====================== Od: Pauline B: Sumner Z.; Theodore T. Předmět: P. B: Re: Re: T: Re: Re: Re: Datum: Špatné zprávy 8. března 2343 Odesláno. Co řekneme dělníkům? ====================== Od: Komu: Sumner Z: Theodore T.; Pauline B. Subject: Zdeněk Zner: Zdeněk Zner: Theodore T: Re: T: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Re: Datum: Špatné zprávy 8. března 2343 Řekneme jim, že je dostaneme ven. Jen nebudou vědět, že to bude po jednom raketoplánu. To je v pořádku, NEŘÍKEJTE jim o klauzuli o nebezpečí. Naším cílem je dostat se odtud v klidu. Žádné incidenty. Nechci paniku. Nechci vzpouru nebo - nedej bože - stávku. Jakmile budeme venku, pošleme zprávu s dalšími plány. Do té doby to nechte mezi námi."

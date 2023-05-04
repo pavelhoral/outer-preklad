@@ -1,59 +1,59 @@
 #: conversations/03_playership/03_bs_adabarks_cargohold:1
 msgctxt "conversations/03_playership/03_bs_adabarks_cargohold:1:DefaultText"
 msgid "The ship used to be much quieter."
-msgstr ""
+msgstr "Loď bývala mnohem klidnější."
 
 #: conversations/03_playership/03_bs_adabarks_cargohold:2
 msgctxt "conversations/03_playership/03_bs_adabarks_cargohold:2:DefaultText"
 msgid "This is my favorite room. It's so spacious."
-msgstr ""
+msgstr "Tohle je můj oblíbený pokoj. Je tak prostorný."
 
 #: conversations/03_playership/03_bs_adabarks_cargohold:3
 msgctxt "conversations/03_playership/03_bs_adabarks_cargohold:3:DefaultText"
 msgid "Caution! Unexpected turbulence may cause loose containers to topple from the upper shelves. If you are crushed to death, I'll need to find a new captain."
-msgstr ""
+msgstr "Pozor! Neočekávané turbulence mohou způsobit, že se z horních polic převrhnou volně uložené nádoby. Pokud vás rozdrtí k smrti, budu muset najít nového kapitána."
 
 #: conversations/03_playership/03_bs_adabarks_cargohold:10
 msgctxt "conversations/03_playership/03_bs_adabarks_cargohold:10:DefaultText"
 msgid "The repair station is currently idle."
-msgstr ""
+msgstr "Opravárenská stanice je v současné době nečinná."
 
 #: conversations/03_playership/03_bs_adabarks_cargohold:11
 msgctxt "conversations/03_playership/03_bs_adabarks_cargohold:11:DefaultText"
 msgid "My compliments to SAM. I do so love a clean cargo hold."
-msgstr ""
+msgstr "Vzdávám poklonu společnosti SAM. Miluji čistý nákladový prostor."
 
 #: conversations/03_playership/03_bs_adabarks_cargohold:12
 msgctxt "conversations/03_playership/03_bs_adabarks_cargohold:12:DefaultText"
 msgid "Please do not leave items lying about the cargo hold."
-msgstr ""
+msgstr "Nenechávejte prosím předměty ležet v nákladovém prostoru."
 
 #: conversations/03_playership/03_bs_adabarks_cargohold:13
 msgctxt "conversations/03_playership/03_bs_adabarks_cargohold:13:DefaultText"
 msgid "Thinking of tinkering at the workbench? I used to love watching Alex work. Now I like watching you."
-msgstr ""
+msgstr "Přemýšlíte o tom, že budete pracovat u pracovního stolu? Rád jsem sledoval Alexovu práci. Teď se rád dívám na tebe."
 
 #: conversations/03_playership/03_bs_adabarks_cargohold:14
 msgctxt "conversations/03_playership/03_bs_adabarks_cargohold:14:DefaultText"
 msgid "I've taken the liberty of having SAM clear up some floor space. We didn't really need that crate of toilet paper, did we?"
-msgstr ""
+msgstr "Dovolil jsem si SAMovi uvolnit místo na podlaze. Tu bednu toaletního papíru jsme přece nepotřebovali, ne?"
 
 #: conversations/03_playership/03_bs_adabarks_cargohold:15
 msgctxt "conversations/03_playership/03_bs_adabarks_cargohold:15:DefaultText"
 msgid "Who ordered the bottles of raptidon musk? One has broken..."
-msgstr ""
+msgstr "Kdo objednal lahvičky raptidonského pižma? Jedna se rozbila..."
 
 #: conversations/03_playership/03_bs_adabarks_cargohold:16
 msgctxt "conversations/03_playership/03_bs_adabarks_cargohold:16:DefaultText"
 msgid "Someone from Monarch recently delivered a lifetime supply of Boarstwurst. It would appear you've made friends."
-msgstr ""
+msgstr "Někdo ze společnosti Monarch nedávno doručil doživotní zásobu Boarstwurstu. Zdá se, že jste si našli přátele."
 
 #: conversations/03_playership/03_bs_adabarks_cargohold:17
 msgctxt "conversations/03_playership/03_bs_adabarks_cargohold:17:DefaultText"
 msgid "Remember, items in the hold may shift during take-offs and landings."
-msgstr ""
+msgstr "Nezapomeňte, že předměty v zavazadlovém prostoru se mohou při vzletu a přistání posunout."
 
 #: conversations/03_playership/03_bs_adabarks_cargohold:18
 msgctxt "conversations/03_playership/03_bs_adabarks_cargohold:18:DefaultText"
 msgid "Watch your step, Captain, the floor's wet! SAM recently mopped in here."
-msgstr ""
+msgstr "Pozor, kapitáne, podlaha je mokrá! SAM tu nedávno vytřel."

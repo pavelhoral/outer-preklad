@@ -1,394 +1,394 @@
 #: conversations/01_groundbreaker/01_cv_jessie_doyle:1
 msgctxt "conversations/01_groundbreaker/01_cv_jessie_doyle:1:DefaultText"
 msgid "The truth is, I'm not sick. But if you repeat what I'm about to tell you - to anyone - I will deny it with my dying breath."
-msgstr ""
+msgstr "Pravdou je, že nejsem nemocný. Ale jestli budete opakovat to, co vám teď řeknu - komukoli -, popřu to do posledního dechu."
 
 #: conversations/01_groundbreaker/01_cv_jessie_doyle:2
 msgctxt "conversations/01_groundbreaker/01_cv_jessie_doyle:2:DefaultText"
 msgid "But first, you said Ellie sent you. Where is she?"
-msgstr ""
+msgstr "Ale nejdřív jsi řekl, že tě poslala Ellie. Kde je?"
 
 #: conversations/01_groundbreaker/01_cv_jessie_doyle:3
 msgctxt "conversations/01_groundbreaker/01_cv_jessie_doyle:3:DefaultText"
 msgid "You, uh, you ain't with the Board, are you?"
-msgstr ""
+msgstr "Vy nejste z rady, že ne?"
 
 #: conversations/01_groundbreaker/01_cv_jessie_doyle:4
 msgctxt "conversations/01_groundbreaker/01_cv_jessie_doyle:4:DefaultText"
 msgid "Don't get too close now. Would hate for you to catch this infernal illness."
-msgstr ""
+msgstr "Nepřibližujte se příliš blízko. Nerad bych, abyste chytili tuhle pekelnou nemoc."
 
 #: conversations/01_groundbreaker/01_cv_jessie_doyle:6
 msgctxt "conversations/01_groundbreaker/01_cv_jessie_doyle:6:DefaultText"
 msgid "You're sure no one followed you? Is it all clear or am I still a wanted woman?"
-msgstr ""
+msgstr "Jste si jistý, že vás nikdo nesledoval? Je to všechno jasné, nebo jsem stále hledaná žena?"
 
 #: conversations/01_groundbreaker/01_cv_jessie_doyle:7
 msgctxt "conversations/01_groundbreaker/01_cv_jessie_doyle:7:DefaultText"
 msgid "Got word from Udom - from the hitman who trailed me the other night. Seems I'm in the clear, thanks to you squaring my debt."
-msgstr ""
+msgstr "Dostal jsem zprávu od Udom - od toho zabijáka, který mě sledoval minulou noc. Vypadá to, že jsem čistý, díky tomu, že jsi vyrovnal můj dluh."
 
 #: conversations/01_groundbreaker/01_cv_jessie_doyle:8
 msgctxt "conversations/01_groundbreaker/01_cv_jessie_doyle:8:DefaultText"
 msgid "Got word from Udom - from the hitman who trailed me the other night. Seems I'm indentured to the Board now."
-msgstr ""
+msgstr "Dostal jsem zprávu od Udom - od toho zabijáka, který mě sledoval minulou noc. Vypadá to, že jsem se stal zaměstnancem rady."
 
 #: conversations/01_groundbreaker/01_cv_jessie_doyle:9
 msgctxt "conversations/01_groundbreaker/01_cv_jessie_doyle:9:DefaultText"
 msgid "If there's no one to pay the hitman, then I'm pretty much in the clear."
-msgstr ""
+msgstr "Pokud není nikdo, kdo by nájemnému vrahovi zaplatil, jsem v podstatě v suchu."
 
 #: conversations/01_groundbreaker/01_cv_jessie_doyle:10
 msgctxt "conversations/01_groundbreaker/01_cv_jessie_doyle:10:DefaultText"
 msgid "See, I owe them. A lot. I might've missed a payment or two, and the other night I swear someone was following me back to my room. So I holed up here to lay low. "
-msgstr ""
+msgstr "Vidíš, dlužím jim to. Hodně. Možná jsem zmeškal jednu nebo dvě splátky a přísahám, že mě tuhle v noci někdo sledoval až do mého pokoje. Tak jsem se schoval tady, abych se ukrýval. "
 
 #: conversations/01_groundbreaker/01_cv_jessie_doyle:11
 msgctxt "conversations/01_groundbreaker/01_cv_jessie_doyle:11:DefaultText"
 msgid "Ellie asked me to help you so that's what I plan to do."
-msgstr ""
+msgstr "Ellie mě požádala, abych ti pomohl, takže to mám v plánu udělat."
 
 #: conversations/01_groundbreaker/01_cv_jessie_doyle:12
 msgctxt "conversations/01_groundbreaker/01_cv_jessie_doyle:12:DefaultText"
 msgid "What did you do that got you in trouble?"
-msgstr ""
+msgstr "Co jste udělal, že jste se dostal do potíží?"
 
 #: conversations/01_groundbreaker/01_cv_jessie_doyle:13
 msgctxt "conversations/01_groundbreaker/01_cv_jessie_doyle:13:DefaultText"
 msgid "I do work for the Board, actually."
-msgstr ""
+msgstr "Ve skutečnosti pro radu pracuji."
 
 #: conversations/01_groundbreaker/01_cv_jessie_doyle:14
 msgctxt "conversations/01_groundbreaker/01_cv_jessie_doyle:14:DefaultText"
 msgid "For the last raptidon-ruttin time! LEAVE ME IN PEACE."
-msgstr ""
+msgstr "Naposledy raptidon-ruttin čas! NECH MĚ NA POKOJI."
 
 #: conversations/01_groundbreaker/01_cv_jessie_doyle:15
 msgctxt "conversations/01_groundbreaker/01_cv_jessie_doyle:15:DefaultText"
 msgid "You hullheaded quacks do know that 'restful recuperation' requires not being disturbed! Don't you?"
-msgstr ""
+msgstr "Vy hulvátští šarlatáni přece víte, že \"klidná rekonvalescence\" vyžaduje, aby vás nikdo nerušil! Nebo ne?"
 
 #: conversations/01_groundbreaker/01_cv_jessie_doyle:16
 msgctxt "conversations/01_groundbreaker/01_cv_jessie_doyle:16:DefaultText"
 msgid "Ellie sent me."
-msgstr ""
+msgstr "Ellie mě poslala."
 
 #: conversations/01_groundbreaker/01_cv_jessie_doyle:17
 msgctxt "conversations/01_groundbreaker/01_cv_jessie_doyle:17:DefaultText"
 msgid "Sorry, I'll go."
-msgstr ""
+msgstr "Promiň, půjdu."
 
 #: conversations/01_groundbreaker/01_cv_jessie_doyle:18
 msgctxt "conversations/01_groundbreaker/01_cv_jessie_doyle:18:DefaultText"
 msgid "Criminy. She really ain't going to drop this, is she?"
-msgstr ""
+msgstr "Criminy. Ona to vážně nenechá být, že ne?"
 
 #: conversations/01_groundbreaker/01_cv_jessie_doyle:19
 msgctxt "conversations/01_groundbreaker/01_cv_jessie_doyle:19:DefaultText"
 msgid "What? Why? Everything's fine. We're all fine here. No need for her to be worrying her pretty little head about me."
-msgstr ""
+msgstr "Cože? Proč? Všechno je v pořádku. Všichni jsme v pořádku. Nemusí si kvůli mně dělat starosti."
 
 #: conversations/01_groundbreaker/01_cv_jessie_doyle:20
 msgctxt "conversations/01_groundbreaker/01_cv_jessie_doyle:20:DefaultText"
 msgid "What? No, I didn't do anything. I'm a law-abiding denizen of this ship, I swear."
-msgstr ""
+msgstr "Cože? Ne, nic jsem neudělal. Jsem zákony dodržující obyvatel této lodi, přísahám."
 
 #: conversations/01_groundbreaker/01_cv_jessie_doyle:21
 msgctxt "conversations/01_groundbreaker/01_cv_jessie_doyle:21:DefaultText"
 msgid "Oh, Laws! Wait, don't gut and skin me yet! Please, talk to Bedford. Tell him I can pay - uh, a part of it! And I'm a useful person to know. Just ask Ellie."
-msgstr ""
+msgstr "Ach, zákony! Počkejte, ještě mě nevyvrhujte z kůže! Prosím, promluv si s Bedfordem. Řekni mu, že můžu zaplatit - ehm, část z toho! A že jsem užitečný člověk. Jen se zeptej Ellie."
 
 #: conversations/01_groundbreaker/01_cv_jessie_doyle:22
 msgctxt "conversations/01_groundbreaker/01_cv_jessie_doyle:22:DefaultText"
 msgid "Udom Bedford's 'the Board guy' on the station. He'd know how I stand with them. If you can square things for me, I'd owe you one even bigger than Ellie owes me."
-msgstr ""
+msgstr "Udom Bedford je na stanici \"členem představenstva\". Ten by měl vědět, jak na tom s nimi jsem. Jestli to pro mě dokážeš urovnat, budu ti dlužit ještě víc, než mi dluží Ellie."
 
 #: conversations/01_groundbreaker/01_cv_jessie_doyle:23
 msgctxt "conversations/01_groundbreaker/01_cv_jessie_doyle:23:DefaultText"
 msgid "You sure saved my skin, stranger. All debts between me and Ellie are cleared."
-msgstr ""
+msgstr "Zachránil jsi mi kůži, cizinče. Všechny dluhy mezi mnou a Ellie jsou vyrovnány."
 
 #: conversations/01_groundbreaker/01_cv_jessie_doyle:24
 msgctxt "conversations/01_groundbreaker/01_cv_jessie_doyle:24:DefaultText"
 msgid "I owe you my life. Damn it, this must be how Ellie felt for all those years."
-msgstr ""
+msgstr "Vděčím ti za svůj život. Sakra, takhle se musela Ellie cítit celé ty roky."
 
 #: conversations/01_groundbreaker/01_cv_jessie_doyle:25
 msgctxt "conversations/01_groundbreaker/01_cv_jessie_doyle:25:DefaultText"
 msgid "The Board's representative on the Groundbreaker is dead, so..."
-msgstr ""
+msgstr "Zástupce rady v Groundbreakeru je mrtvý, takže..."
 
 #: conversations/01_groundbreaker/01_cv_jessie_doyle:26
 msgctxt "conversations/01_groundbreaker/01_cv_jessie_doyle:26:DefaultText"
 msgid "Good luck with that."
-msgstr ""
+msgstr "Hodně štěstí."
 
 #: conversations/01_groundbreaker/01_cv_jessie_doyle:29
 msgctxt "conversations/01_groundbreaker/01_cv_jessie_doyle:29:DefaultText"
 msgid "She is worried about you. A lot."
-msgstr ""
+msgstr "Má o tebe strach. Hodně."
 
 #: conversations/01_groundbreaker/01_cv_jessie_doyle:30
 msgctxt "conversations/01_groundbreaker/01_cv_jessie_doyle:30:DefaultText"
 msgid "Open the door before I kick it down."
-msgstr ""
+msgstr "Otevři dveře, než je vykopnu."
 
 #: conversations/01_groundbreaker/01_cv_jessie_doyle:31
 msgctxt "conversations/01_groundbreaker/01_cv_jessie_doyle:31:DefaultText"
 msgid "Fine. Rot in there for all I care."
-msgstr ""
+msgstr "V pořádku. Ať si tam klidně shnije."
 
 #: conversations/01_groundbreaker/01_cv_jessie_doyle:32
 msgctxt "conversations/01_groundbreaker/01_cv_jessie_doyle:32:DefaultText"
 msgid "Should've known she'd send a bruiser after me. Damned if I don't rue the day I saved her scrawny little hide. Inadvertently, I befriended a bloodhound in the process."
-msgstr ""
+msgstr "Mělo mě napadnout, že na mě pošle nějakého hromotluka. Ať se propadnu, jestli nelituju dne, kdy jsem jí zachránil její vychrtlou kůži. Nechtěně jsem se přitom spřátelil s ohařem."
 
 #: conversations/01_groundbreaker/01_cv_jessie_doyle:33
 msgctxt "conversations/01_groundbreaker/01_cv_jessie_doyle:33:DefaultText"
 msgid "Seems I've got to do something before Ellie goes jabbering my business to anyone with one ear and an intent to listen."
-msgstr ""
+msgstr "Zdá se, že musím něco udělat dřív, než Ellie začne vykládat o mých záležitostech každému, kdo má jen jedno ucho a chce poslouchat."
 
 #: conversations/01_groundbreaker/01_cv_jessie_doyle:34
 msgctxt "conversations/01_groundbreaker/01_cv_jessie_doyle:34:DefaultText"
 msgid "All right, okay. We can discuss this like the level-headed folk that we are. "
-msgstr ""
+msgstr "Dobře, dobře. Můžeme o tom diskutovat jako lidé, kteří jsou na úrovni. "
 
 #: conversations/01_groundbreaker/01_cv_jessie_doyle:35
 msgctxt "conversations/01_groundbreaker/01_cv_jessie_doyle:35:DefaultText"
 msgid "She's dead."
-msgstr ""
+msgstr "Je mrtvá."
 
 #: conversations/01_groundbreaker/01_cv_jessie_doyle:36
 msgctxt "conversations/01_groundbreaker/01_cv_jessie_doyle:36:DefaultText"
 msgid "In the med station. Why, what does it matter?"
-msgstr ""
+msgstr "Na lékařské stanici. Proč, co na tom záleží?"
 
 #: conversations/01_groundbreaker/01_cv_jessie_doyle:37
 msgctxt "conversations/01_groundbreaker/01_cv_jessie_doyle:37:DefaultText"
 msgid "Then I reckon I ain't got much reason to confide in you, now do I? "
-msgstr ""
+msgstr "Pak asi nemám moc důvodů se ti svěřovat, že? "
 
 #: conversations/01_groundbreaker/01_cv_jessie_doyle:38
 msgctxt "conversations/01_groundbreaker/01_cv_jessie_doyle:38:DefaultText"
 msgid "'Cause I got a bad feeling about you, and I always trust my gut. It's how I survived this long, after all."
-msgstr ""
+msgstr "Protože mám z tebe špatný pocit a já vždycky věřím svým instinktům. Díky tomu jsem přežil tak dlouho."
 
 #: conversations/01_groundbreaker/01_cv_jessie_doyle:39
 msgctxt "conversations/01_groundbreaker/01_cv_jessie_doyle:39:DefaultText"
 msgid "Yessir, this will be the end of our discussion."
-msgstr ""
+msgstr "Ano, ano, tím naše diskuse končí."
 
 #: conversations/01_groundbreaker/01_cv_jessie_doyle:39
 msgctxt "conversations/01_groundbreaker/01_cv_jessie_doyle:39:FemaleText"
 msgid "Yessum, this will be the end of our discussion."
-msgstr ""
+msgstr "Yessum, tím naše diskuse končí."
 
 #: conversations/01_groundbreaker/01_cv_jessie_doyle:40
 msgctxt "conversations/01_groundbreaker/01_cv_jessie_doyle:40:DefaultText"
 msgid "Surely, you wouldn't drag me before him. I'm dreadful contagious. I just know if I face him I'm dead."
-msgstr ""
+msgstr "Určitě bys mě před něj netahal. Jsem strašně nakažlivý. Jen vím, že kdybych se mu postavila tváří v tvář, byla bych mrtvá."
 
 #: conversations/01_groundbreaker/01_cv_jessie_doyle:41
 msgctxt "conversations/01_groundbreaker/01_cv_jessie_doyle:41:DefaultText"
 msgid "You'd best lay low for a while longer."
-msgstr ""
+msgstr "Raději by ses měl ještě chvíli skrývat."
 
 #: conversations/01_groundbreaker/01_cv_jessie_doyle:43
 msgctxt "conversations/01_groundbreaker/01_cv_jessie_doyle:43:DefaultText"
 msgid "(Coughing.)"
-msgstr ""
+msgstr "(Kašle.)"
 
 #: conversations/01_groundbreaker/01_cv_jessie_doyle:44
 msgctxt "conversations/01_groundbreaker/01_cv_jessie_doyle:44:DefaultText"
 msgid "Never knew I had so much blood and snot in me to sneeze out."
-msgstr ""
+msgstr "Nikdy jsem netušil, že mám v sobě tolik krve a smrků, které mohu vysmrkat."
 
 #: conversations/01_groundbreaker/01_cv_jessie_doyle:45
 msgctxt "conversations/01_groundbreaker/01_cv_jessie_doyle:45:DefaultText"
 msgid "Great. Another lesion's cracked open. What does it mean when the ooze is all tar-like?"
-msgstr ""
+msgstr "Skvělé. Další léze je otevřená. Co to znamená, když je maz podobný dehtu?"
 
 #: conversations/01_groundbreaker/01_cv_jessie_doyle:46
 msgctxt "conversations/01_groundbreaker/01_cv_jessie_doyle:46:DefaultText"
 msgid "Don't know if you meant to save my neck by offing Udom, but I thank you all the same. See you around, stranger."
-msgstr ""
+msgstr "Nevím, jestli jsi mi chtěl zachránit krk tím, že jsi oddělal Udom, ale i tak ti děkuji. Uvidíme se, cizinče."
 
 #: conversations/01_groundbreaker/01_cv_jessie_doyle:48
 msgctxt "conversations/01_groundbreaker/01_cv_jessie_doyle:48:DefaultText"
 msgid "Yet you think the Board had someone follow you and now you're hiding out."
-msgstr ""
+msgstr "Přesto si myslíš, že tě rada nechala sledovat a ty se teď schováváš."
 
 #: conversations/01_groundbreaker/01_cv_jessie_doyle:49
 msgctxt "conversations/01_groundbreaker/01_cv_jessie_doyle:49:DefaultText"
 msgid "Level with me or I walk away right now."
-msgstr ""
+msgstr "Buď se mi vyrovnáte, nebo hned odejdu."
 
 #: conversations/01_groundbreaker/01_cv_jessie_doyle:50
 msgctxt "conversations/01_groundbreaker/01_cv_jessie_doyle:50:DefaultText"
 msgid "Think? No, I recognize a contracted killer when I see one, thank you. In my line of work, that's a skill you develop during week one. Assuming you want to keep breathing."
-msgstr ""
+msgstr "Myslíte? Ne, když vidím smluvního vraha, tak ho poznám, děkuji. V mém oboru je to dovednost, kterou si osvojíte během prvního týdne. Za předpokladu, že chceš dýchat dál."
 
 #: conversations/01_groundbreaker/01_cv_jessie_doyle:51
 msgctxt "conversations/01_groundbreaker/01_cv_jessie_doyle:51:DefaultText"
 msgid "You'd let a poor, ill woman get disappeared by the Board? Awfully coldblooded of you. Though I admire your backbone."
-msgstr ""
+msgstr "Nechal bys chudou, nemocnou ženu zmizet od správní rady? To je od tebe hrozně chladnokrevné. I když obdivuji tvou statečnost."
 
 #: conversations/01_groundbreaker/01_cv_jessie_doyle:52
 msgctxt "conversations/01_groundbreaker/01_cv_jessie_doyle:52:DefaultText"
 msgid "All right, I'll fess this part up, too - if it means you'll help me. I'm a thief. I specialize in particularly high-end and historically valuable items. "
-msgstr ""
+msgstr "Dobře, přiznám se i k této části - pokud to znamená, že mi pomůžete. Jsem zloděj. Specializuji se na obzvlášť drahé a historicky cenné předměty. "
 
 #: conversations/01_groundbreaker/01_cv_jessie_doyle:53
 msgctxt "conversations/01_groundbreaker/01_cv_jessie_doyle:53:DefaultText"
 msgid "Three weeks back, I caught rumor that the Blood Tear diamond - last worn by an heiress on the lost Hope - had surfaced for the first time in seventy years."
-msgstr ""
+msgstr "Před třemi týdny jsem zachytil zvěsti, že se diamant Krvavá slza - který naposledy nosila dědička na ztracené naději - objevil poprvé po sedmdesáti letech."
 
 #: conversations/01_groundbreaker/01_cv_jessie_doyle:54
 msgctxt "conversations/01_groundbreaker/01_cv_jessie_doyle:54:DefaultText"
 msgid "So you stole it."
-msgstr ""
+msgstr "Takže jsi ho ukradl."
 
 #: conversations/01_groundbreaker/01_cv_jessie_doyle:55
 msgctxt "conversations/01_groundbreaker/01_cv_jessie_doyle:55:DefaultText"
 msgid "What does this have to do with the Board?"
-msgstr ""
+msgstr "Co to má společného s představenstvem?"
 
 #: conversations/01_groundbreaker/01_cv_jessie_doyle:56
 msgctxt "conversations/01_groundbreaker/01_cv_jessie_doyle:56:DefaultText"
 msgid "If I had, you think I'd be hiding out in the med bay? I was going to steal it. Lined up Udom as my buyer. He paid half up front to finance the operation."
-msgstr ""
+msgstr "Kdybych to udělal, myslíš, že bych se schovával na ošetřovně? Chtěl jsem ho ukrást. Jako kupce jsem si domluvil Udom. Zaplatil půlku předem, aby mohl financovat operaci."
 
 #: conversations/01_groundbreaker/01_cv_jessie_doyle:57
 msgctxt "conversations/01_groundbreaker/01_cv_jessie_doyle:57:DefaultText"
 msgid "Let's just say, things went sideways about the time I got my hands on the diamond - and it crumbled to stardust in my palm."
-msgstr ""
+msgstr "Řekněme, že se to zvrtlo v okamžiku, kdy jsem diamant dostal do rukou - a v mé dlani se rozpadl na hvězdný prach."
 
 #: conversations/01_groundbreaker/01_cv_jessie_doyle:58
 msgctxt "conversations/01_groundbreaker/01_cv_jessie_doyle:58:DefaultText"
 msgid "Udom was my buyer - for when I'd acquired the diamond. He paid half up front to finance the operation."
-msgstr ""
+msgstr "Udom byl můj kupec - když jsem diamant získal. Zaplatil polovinu předem, aby mohl financovat operaci."
 
 #: conversations/01_groundbreaker/01_cv_jessie_doyle:59
 msgctxt "conversations/01_groundbreaker/01_cv_jessie_doyle:59:DefaultText"
 msgid "Anywho, I barely made it out with my life and nary a plan to make back Udom's deposit I'd spent."
-msgstr ""
+msgstr "Každopádně jsem sotva vyvázl se životem a neměl jsem v plánu vrátit Udomovi zálohu, kterou jsem utratil."
 
 #: conversations/01_groundbreaker/01_cv_jessie_doyle:60
 msgctxt "conversations/01_groundbreaker/01_cv_jessie_doyle:60:DefaultText"
 msgid "I'm just terrible, dreadful sick is all. Got a cough that won't quit and sores all over my body. Highly, lethally contagious. But I'll be fine. So long as I'm left alone."
-msgstr ""
+msgstr "Je mi prostě strašně, strašně špatně, to je všechno. Mám kašel, který nechce přestat, a boláky po celém těle. Je to smrtelně nakažlivé. Ale budu v pořádku. Dokud budu mít pokoj."
 
 #: conversations/01_groundbreaker/01_cv_jessie_doyle:61
 msgctxt "conversations/01_groundbreaker/01_cv_jessie_doyle:61:DefaultText"
 msgid "Wish I could say it was good to see you, Ellie. At least you finally got your chance to square our debt."
-msgstr ""
+msgstr "Kéž bych mohl říct, že jsem tě rád viděl, Ellie. Alespoň jsi konečně dostala šanci vyrovnat náš dluh."
 
 #: conversations/01_groundbreaker/01_cv_jessie_doyle:62
 msgctxt "conversations/01_groundbreaker/01_cv_jessie_doyle:62:DefaultText"
 msgid "That ought to make you smile for once, eh?"
-msgstr ""
+msgstr "To by vás mělo pro jednou rozesmát, co říkáte?"
 
 #: conversations/01_groundbreaker/01_cv_jessie_doyle:63
 msgctxt "conversations/01_groundbreaker/01_cv_jessie_doyle:63:DefaultText"
 msgid "Nothing makes me happier than being even."
-msgstr ""
+msgstr "Nic mě nedělá šťastnějším než vyrovnanost."
 
 #: conversations/01_groundbreaker/01_cv_jessie_doyle:64
 msgctxt "conversations/01_groundbreaker/01_cv_jessie_doyle:64:DefaultText"
 msgid "Why does Ellie think she owes you?"
-msgstr ""
+msgstr "Proč si Ellie myslí, že ti něco dluží?"
 
 #: conversations/01_groundbreaker/01_cv_jessie_doyle:65
 msgctxt "conversations/01_groundbreaker/01_cv_jessie_doyle:65:DefaultText"
 msgid "Hah! Oh, you should ask her that. She'll love it. By which I mean she'll probably have an apoplectic fit."
-msgstr ""
+msgstr "Hah! Na to by ses jí měl zeptat. Bude se jí to líbit. Tím chci říct, že pravděpodobně dostane apoplektický záchvat."
 
 #: conversations/01_groundbreaker/01_cv_jessie_doyle:66
 msgctxt "conversations/01_groundbreaker/01_cv_jessie_doyle:66:DefaultText"
 msgid "We'll talk later. Got a bit of a sore throat from all that fake coughing."
-msgstr ""
+msgstr "Promluvíme si později. Trochu mě bolí v krku z toho všeho falešného kašlání."
 
 #: conversations/01_groundbreaker/01_cv_jessie_doyle:67
 msgctxt "conversations/01_groundbreaker/01_cv_jessie_doyle:67:DefaultText"
 msgid "I do work for the Board, actually."
-msgstr ""
+msgstr "Ve skutečnosti pro radu pracuji."
 
 #: conversations/01_groundbreaker/01_cv_jessie_doyle:68
 msgctxt "conversations/01_groundbreaker/01_cv_jessie_doyle:68:DefaultText"
 msgid "Ellie was pretty emphatic that you two aren't friends. What's going on here?"
-msgstr ""
+msgstr "Ellie byla dost důrazná v tom, že vy dva nejste přátelé. Co se tu děje?"
 
 #: conversations/01_groundbreaker/01_cv_jessie_doyle:69
 msgctxt "conversations/01_groundbreaker/01_cv_jessie_doyle:69:DefaultText"
 msgid "Oh, that's just how Ellie is. According to her, she don't need no one or any thing to get by in life."
-msgstr ""
+msgstr "Taková už Ellie prostě je. Podle ní nepotřebuje nikoho ani nic, aby v životě obstála."
 
 #: conversations/01_groundbreaker/01_cv_jessie_doyle:70
 msgctxt "conversations/01_groundbreaker/01_cv_jessie_doyle:70:DefaultText"
 msgid "'Cept being right. That's nice, too."
-msgstr ""
+msgstr "Kromě toho, že máš pravdu. To je taky hezké."
 
 #: conversations/01_groundbreaker/01_cv_jessie_doyle:71
 msgctxt "conversations/01_groundbreaker/01_cv_jessie_doyle:71:DefaultText"
 msgid "She can deny it all she wants, but we know each other. More than just as passing acquaintances. We've helped each other. Sometimes we even like each other."
-msgstr ""
+msgstr "Může to popírat, jak chce, ale my se známe. Víc než jen jako letmé známé. Pomáhali jsme si navzájem. Někdy se máme dokonce rádi."
 
 #: conversations/01_groundbreaker/01_cv_jessie_doyle:72
 msgctxt "conversations/01_groundbreaker/01_cv_jessie_doyle:72:DefaultText"
 msgid "Lone pirates don't live too long. And it ain't weak to have a friend or two."
-msgstr ""
+msgstr "Osamělí piráti nežijí příliš dlouho. A není slabé mít jednoho nebo dva přátele."
 
 #: conversations/01_groundbreaker/01_cv_jessie_doyle:74
 msgctxt "conversations/01_groundbreaker/01_cv_jessie_doyle:74:DefaultText"
 msgid "If there's no one to pay the hitman, then I'm pretty much in the clear."
-msgstr ""
+msgstr "Pokud není nikdo, kdo by nájemnému vrahovi zaplatil, jsem v podstatě v suchu."
 
 #: conversations/01_groundbreaker/01_cv_jessie_doyle:76
 msgctxt "conversations/01_groundbreaker/01_cv_jessie_doyle:76:DefaultText"
 msgid "Watch yourself while I'm gone."
-msgstr ""
+msgstr "Dávej na sebe pozor, když jsem pryč."
 
 #: conversations/01_groundbreaker/01_cv_jessie_doyle:77
 msgctxt "conversations/01_groundbreaker/01_cv_jessie_doyle:77:DefaultText"
 msgid "I'll be on my way."
-msgstr ""
+msgstr "Už budu na cestě."
 
 #: conversations/01_groundbreaker/01_cv_jessie_doyle:78
 msgctxt "conversations/01_groundbreaker/01_cv_jessie_doyle:78:DefaultText"
 msgid "I'll talk to Udom for you."
-msgstr ""
+msgstr "Promluvím za tebe s Udomem."
 
 #: conversations/01_groundbreaker/01_cv_jessie_doyle:79
 msgctxt "conversations/01_groundbreaker/01_cv_jessie_doyle:79:DefaultText"
 msgid "Thanks for helping me with the Board. You're a real pal."
-msgstr ""
+msgstr "Děkuji za pomoc s tabulí. Jsi opravdový kamarád."
 
 #: conversations/01_groundbreaker/01_cv_jessie_doyle:80
 msgctxt "conversations/01_groundbreaker/01_cv_jessie_doyle:80:DefaultText"
 msgid "Udom was... replaced. There's a new Board rep on the station."
-msgstr ""
+msgstr "Udom byl... nahrazen. Na stanici je nový zástupce představenstva."
 
 #: conversations/01_groundbreaker/01_cv_jessie_doyle:81
 msgctxt "conversations/01_groundbreaker/01_cv_jessie_doyle:81:DefaultText"
 msgid "Well, Law have mercy! That sure works in my favor. With Udom gone, I don't owe money to anyone on the Board no more."
-msgstr ""
+msgstr "No, zákon se slituje! To je mi určitě ku prospěchu. Když je Udom pryč, už nikomu z rady nedlužím peníze."
 
 #: conversations/01_groundbreaker/01_cv_jessie_doyle:82
 msgctxt "conversations/01_groundbreaker/01_cv_jessie_doyle:82:DefaultText"
 msgid "You have my greatest gratitude for letting me know I am now debt free."
-msgstr ""
+msgstr "Patří vám můj největší dík za to, že jste mi dali vědět, že jsem nyní bez dluhů."
 
 #: conversations/01_groundbreaker/01_cv_jessie_doyle:83
 msgctxt "conversations/01_groundbreaker/01_cv_jessie_doyle:83:DefaultText"
 msgid "Or I guess I should say Ellie is one, huh."
-msgstr ""
+msgstr "Nebo bych spíš měla říct, že Ellie je jedna z nich."
 
 #: conversations/01_groundbreaker/01_cv_jessie_doyle:84
 msgctxt "conversations/01_groundbreaker/01_cv_jessie_doyle:84:DefaultText"
 msgid "I ain't too elated about going exclusive, but it's better than winding up dead."
-msgstr ""
+msgstr "Nejsem moc nadšený z exkluzivity, ale je to lepší než skončit mrtvý."
 
 #: conversations/01_groundbreaker/01_cv_jessie_doyle:85
 msgctxt "conversations/01_groundbreaker/01_cv_jessie_doyle:85:DefaultText"
 msgid "You, uh, you ain't with the Board, are you?"
-msgstr ""
+msgstr "Vy nejste z rady, že ne?"

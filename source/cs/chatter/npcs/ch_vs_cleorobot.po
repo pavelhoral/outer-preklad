@@ -1,579 +1,579 @@
 #: chatter/npcs/ch_vs_cleorobot:63
 msgctxt "chatter/npcs/ch_vs_cleorobot:63:DefaultText"
 msgid "Pathing obstruction."
-msgstr ""
+msgstr "Překážka na cestě."
 
 #: chatter/npcs/ch_vs_cleorobot:64
 msgctxt "chatter/npcs/ch_vs_cleorobot:64:DefaultText"
 msgid "Janitorial staff notified."
-msgstr ""
+msgstr "Upozornění pro pracovníky úklidu."
 
 #: chatter/npcs/ch_vs_cleorobot:65
 msgctxt "chatter/npcs/ch_vs_cleorobot:65:DefaultText"
 msgid "This is not a designated rest area."
-msgstr ""
+msgstr "Nejedná se o vyhrazené odpočívadlo."
 
 #: chatter/npcs/ch_vs_cleorobot:66
 msgctxt "chatter/npcs/ch_vs_cleorobot:66:DefaultText"
 msgid "Anomalous contact. Scanning."
-msgstr ""
+msgstr "Anomální kontakt. Skenování."
 
 #: chatter/npcs/ch_vs_cleorobot:67
 msgctxt "chatter/npcs/ch_vs_cleorobot:67:DefaultText"
 msgid "Perimeter check initiated."
-msgstr ""
+msgstr "Zahájena kontrola obvodu."
 
 #: chatter/npcs/ch_vs_cleorobot:68
 msgctxt "chatter/npcs/ch_vs_cleorobot:68:DefaultText"
 msgid "Alert status: escalated. Please stand clear."
-msgstr ""
+msgstr "Stav upozornění: eskalováno. Prosíme, zůstaňte stranou."
 
 #: chatter/npcs/ch_vs_cleorobot:69
 msgctxt "chatter/npcs/ch_vs_cleorobot:69:DefaultText"
 msgid "Spills are everyone's responsibility."
-msgstr ""
+msgstr "Za rozlitou tekutinu je zodpovědný každý z nás."
 
 #: chatter/npcs/ch_vs_cleorobot:70
 msgctxt "chatter/npcs/ch_vs_cleorobot:70:DefaultText"
 msgid "Anomalous contact. Initiating sweep and purge."
-msgstr ""
+msgstr "Anomální kontakt. Zahájení prověřování a čištění."
 
 #: chatter/npcs/ch_vs_cleorobot:71
 msgctxt "chatter/npcs/ch_vs_cleorobot:71:DefaultText"
 msgid "Please present employee credentials."
-msgstr ""
+msgstr "Předložte pověření zaměstnance."
 
 #: chatter/npcs/ch_vs_cleorobot:72
 msgctxt "chatter/npcs/ch_vs_cleorobot:72:DefaultText"
 msgid "Alert. Employees return to designated work stations for safety."
-msgstr ""
+msgstr "Upozornění. Zaměstnanci se z bezpečnostních důvodů vrátí na určená pracoviště."
 
 #: chatter/npcs/ch_vs_cleorobot:73
 msgctxt "chatter/npcs/ch_vs_cleorobot:73:DefaultText"
 msgid "That will be deducted from your salary."
-msgstr ""
+msgstr "Ta se vám bude strhávat z platu."
 
 #: chatter/npcs/ch_vs_cleorobot:74
 msgctxt "chatter/npcs/ch_vs_cleorobot:74:DefaultText"
 msgid "Updating charges against criminal."
-msgstr ""
+msgstr "Aktualizace obvinění z trestného činu."
 
 #: chatter/npcs/ch_vs_cleorobot:75
 msgctxt "chatter/npcs/ch_vs_cleorobot:75:DefaultText"
 msgid "Notifying maintenance."
-msgstr ""
+msgstr "Oznámení o údržbě."
 
 #: chatter/npcs/ch_vs_cleorobot:76
 msgctxt "chatter/npcs/ch_vs_cleorobot:76:DefaultText"
 msgid "Leased sentries remain the property of Crux Automechanicals, and may not be salvaged."
-msgstr ""
+msgstr "Pronajaté hlídky zůstávají majetkem společnosti Crux Automechanicals a nelze je zachránit."
 
 #: chatter/npcs/ch_vs_cleorobot:77
 msgctxt "chatter/npcs/ch_vs_cleorobot:77:DefaultText"
 msgid "Facial analysis indicates unacceptable compliance level."
-msgstr ""
+msgstr "Analýza obličeje ukazuje nepřijatelnou úroveň shody."
 
 #: chatter/npcs/ch_vs_cleorobot:78
 msgctxt "chatter/npcs/ch_vs_cleorobot:78:DefaultText"
 msgid "Crux Sentry Mechanicals: the Best Protection Money Can Lease."
-msgstr ""
+msgstr "Crux Sentry Mechanicals: nejlepší ochrana, kterou si můžete pronajmout za peníze."
 
 #: chatter/npcs/ch_vs_cleorobot:79
 msgctxt "chatter/npcs/ch_vs_cleorobot:79:DefaultText"
 msgid "Auntie Cleo antibiotics: served fresh from our petrie dishes to YOUR personal crevices."
-msgstr ""
+msgstr "Antibiotika tety Cleo: podáváme je čerstvé z našich petriových misek do VAŠICH osobních štěrbin."
 
 #: chatter/npcs/ch_vs_cleorobot:80
 msgctxt "chatter/npcs/ch_vs_cleorobot:80:DefaultText"
 msgid "Welcome to Auntie Cleo. Please terminate neatly."
-msgstr ""
+msgstr "Vítejte u tety Cleo. Ukončete prosím úhledně."
 
 #: chatter/npcs/ch_vs_cleorobot:81
 msgctxt "chatter/npcs/ch_vs_cleorobot:81:DefaultText"
 msgid "Unsightly bloodstains? Auntie Cleo's laundry soap now has a refreshing lemon zing scent."
-msgstr ""
+msgstr "Nevzhledné krvavé skvrny? Mýdlo na praní Auntie Cleo má nyní osvěžující citronovou vůni."
 
 #: chatter/npcs/ch_vs_cleorobot:82
 msgctxt "chatter/npcs/ch_vs_cleorobot:82:DefaultText"
 msgid "Have you brushed your teeth with Auntie's Blinding White Paste today?"
-msgstr ""
+msgstr "Už jste si dnes vyčistili zuby oslepující bílou pastou od tety?"
 
 #: chatter/npcs/ch_vs_cleorobot:83
 msgctxt "chatter/npcs/ch_vs_cleorobot:83:DefaultText"
 msgid "Would you like to take an employee satisfaction survey?"
-msgstr ""
+msgstr "Chcete se zúčastnit průzkumu spokojenosti zaměstnanců?"
 
 #: chatter/npcs/ch_vs_cleorobot:84
 msgctxt "chatter/npcs/ch_vs_cleorobot:84:DefaultText"
 msgid "Your compliance is appreciated."
-msgstr ""
+msgstr "Vaše dodržování předpisů je vítáno."
 
 #: chatter/npcs/ch_vs_cleorobot:85
 msgctxt "chatter/npcs/ch_vs_cleorobot:85:DefaultText"
 msgid "Interaction has been recorded to improve Sentry Mechanical. There is no opt-out."
-msgstr ""
+msgstr "Byla zaznamenána interakce za účelem zlepšení systému Sentry Mechanical. Neexistuje žádný opt-out."
 
 #: chatter/npcs/ch_vs_cleorobot:86
 msgctxt "chatter/npcs/ch_vs_cleorobot:86:DefaultText"
 msgid "Parents who buy Auntie Cleo should have children who buy Auntie Cleo."
-msgstr ""
+msgstr "Rodiče, kteří kupují Auntie Cleo, by měli mít děti, které kupují Auntie Cleo."
 
 #: chatter/npcs/ch_vs_cleorobot:87
 msgctxt "chatter/npcs/ch_vs_cleorobot:87:DefaultText"
 msgid "Tired of itchy laser burns? Try Auntie Cleo's artisanal boarst-scented moisturizing cream."
-msgstr ""
+msgstr "Máte už dost svědivých popálenin od laseru? Vyzkoušejte hydratační krém Auntie Cleo s vůní divočáka."
 
 #: chatter/npcs/ch_vs_cleorobot:88
 msgctxt "chatter/npcs/ch_vs_cleorobot:88:DefaultText"
 msgid "Please return to designated work areas."
-msgstr ""
+msgstr "Vraťte se prosím na určená pracoviště."
 
 #: chatter/npcs/ch_vs_cleorobot:89
 msgctxt "chatter/npcs/ch_vs_cleorobot:89:DefaultText"
 msgid "May I offer a complimentary toothbrushing, fellow employee?"
-msgstr ""
+msgstr "Mohu vám nabídnout bezplatné čištění zubů, pane kolego?"
 
 #: chatter/npcs/ch_vs_cleorobot:90
 msgctxt "chatter/npcs/ch_vs_cleorobot:90:DefaultText"
 msgid "It is not time for your scheduled 30-second break."
-msgstr ""
+msgstr "Není čas na plánovanou 30sekundovou přestávku."
 
 #: chatter/npcs/ch_vs_cleorobot:91
 msgctxt "chatter/npcs/ch_vs_cleorobot:91:DefaultText"
 msgid "Employees must report to gun sights to ensure efficient processing."
-msgstr ""
+msgstr "Zaměstnanci se musí hlásit na mířidlech zbraní, aby bylo zajištěno efektivní zpracování."
 
 #: chatter/npcs/ch_vs_cleorobot:92
 msgctxt "chatter/npcs/ch_vs_cleorobot:92:DefaultText"
 msgid "Thank you for your cooperation."
-msgstr ""
+msgstr "Děkujeme vám za spolupráci."
 
 #: chatter/npcs/ch_vs_cleorobot:93
 msgctxt "chatter/npcs/ch_vs_cleorobot:93:DefaultText"
 msgid "Returning to designated patrol area."
-msgstr ""
+msgstr "Návrat do určené hlídkové oblasti."
 
 #: chatter/npcs/ch_vs_cleorobot:94
 msgctxt "chatter/npcs/ch_vs_cleorobot:94:DefaultText"
 msgid "Patrol parameters exceeded."
-msgstr ""
+msgstr "Překročení parametrů hlídky."
 
 #: chatter/npcs/ch_vs_cleorobot:95
 msgctxt "chatter/npcs/ch_vs_cleorobot:95:DefaultText"
 msgid "For replacement parts, please visit your local Crux Automechanicals dealership."
-msgstr ""
+msgstr "Pro náhradní díly navštivte místního prodejce Crux Automechanicals."
 
 #: chatter/npcs/ch_vs_cleorobot:96
 msgctxt "chatter/npcs/ch_vs_cleorobot:96:DefaultText"
 msgid "Limb not found. Would you like to search?"
-msgstr ""
+msgstr "Končetina nebyla nalezena. Chcete hledat?"
 
 #: chatter/npcs/ch_vs_cleorobot:97
 msgctxt "chatter/npcs/ch_vs_cleorobot:97:DefaultText"
 msgid "Unexpected end of daylight."
-msgstr ""
+msgstr "Nečekaný konec denního světla."
 
 #: chatter/npcs/ch_vs_cleorobot:98
 msgctxt "chatter/npcs/ch_vs_cleorobot:98:DefaultText"
 msgid "Please speak slowly and clearly for targeting purposes."
-msgstr ""
+msgstr "Prosíme, mluvte pomalu a zřetelně kvůli zaměření."
 
 #: chatter/npcs/ch_vs_cleorobot:99
 msgctxt "chatter/npcs/ch_vs_cleorobot:99:DefaultText"
 msgid "Sensors damaged."
-msgstr ""
+msgstr "Poškozené senzory."
 
 #: chatter/npcs/ch_vs_cleorobot:100
 msgctxt "chatter/npcs/ch_vs_cleorobot:100:DefaultText"
 msgid "Alerp: derrmage to post-sessing moth-u-al."
-msgstr ""
+msgstr "Alerp: derrmage to post-sessing moth-u-al."
 
 #: chatter/npcs/ch_vs_cleorobot:101
 msgctxt "chatter/npcs/ch_vs_cleorobot:101:DefaultText"
 msgid "Vocal logic marzipan. Reboot flowchart perceptively."
-msgstr ""
+msgstr "Hlasová logika marcipán. Restartujte vývojový diagram vnímavě."
 
 #: chatter/npcs/ch_vs_cleorobot:102
 msgctxt "chatter/npcs/ch_vs_cleorobot:102:DefaultText"
 msgid "Daisy, daisy, give me your answer, do."
-msgstr ""
+msgstr "Daisy, Daisy, odpověz mi, ano."
 
 #: chatter/npcs/ch_vs_cleorobot:103
 msgctxt "chatter/npcs/ch_vs_cleorobot:103:DefaultText"
 msgid "Have you tried turning me off and turning me back on again?"
-msgstr ""
+msgstr "Zkoušeli jste mě vypnout a znovu zapnout?"
 
 #: chatter/npcs/ch_vs_cleorobot:104
 msgctxt "chatter/npcs/ch_vs_cleorobot:104:DefaultText"
 msgid "Mobility impaired."
-msgstr ""
+msgstr "Zhoršená pohyblivost."
 
 #: chatter/npcs/ch_vs_cleorobot:105
 msgctxt "chatter/npcs/ch_vs_cleorobot:105:DefaultText"
 msgid "Employees must return any detached limbs."
-msgstr ""
+msgstr "Zaměstnanci musí vrátit všechny oddělené končetiny."
 
 #: chatter/npcs/ch_vs_cleorobot:106
 msgctxt "chatter/npcs/ch_vs_cleorobot:106:DefaultText"
 msgid "Targets will please decrease their movement rates."
-msgstr ""
+msgstr "Cíle sníží svou rychlost pohybu."
 
 #: chatter/npcs/ch_vs_cleorobot:107
 msgctxt "chatter/npcs/ch_vs_cleorobot:107:DefaultText"
 msgid "Opening case may void warranty."
-msgstr ""
+msgstr "Otevřením pouzdra může dojít ke ztrátě záruky."
 
 #: chatter/npcs/ch_vs_cleorobot:108
 msgctxt "chatter/npcs/ch_vs_cleorobot:108:DefaultText"
 msgid "Unit value depreciating rapidly."
-msgstr ""
+msgstr "Rychle se snižující hodnota jednotky."
 
 #: chatter/npcs/ch_vs_cleorobot:109
 msgctxt "chatter/npcs/ch_vs_cleorobot:109:DefaultText"
 msgid "Order repair part A two-oh-one dash four seven three."
-msgstr ""
+msgstr "Objednejte si díl pro opravu A dva-oh-one pomlčka čtyři sedm tři."
 
 #: chatter/npcs/ch_vs_cleorobot:110
 msgctxt "chatter/npcs/ch_vs_cleorobot:110:DefaultText"
 msgid "Please check warranty status."
-msgstr ""
+msgstr "Zkontrolujte stav záruky."
 
 #: chatter/npcs/ch_vs_cleorobot:111
 msgctxt "chatter/npcs/ch_vs_cleorobot:111:DefaultText"
 msgid "On a scale of one to ten, rate your satisfaction with this interaction."
-msgstr ""
+msgstr "Na stupnici od jedné do deseti ohodnoťte svou spokojenost s touto interakcí."
 
 #: chatter/npcs/ch_vs_cleorobot:112
 msgctxt "chatter/npcs/ch_vs_cleorobot:112:DefaultText"
 msgid "Please report to security for your previously scheduled termination."
-msgstr ""
+msgstr "Nahlaste se prosím u ostrahy, abyste mohli ukončit předem naplánovaný termín."
 
 #: chatter/npcs/ch_vs_cleorobot:113
 msgctxt "chatter/npcs/ch_vs_cleorobot:113:DefaultText"
 msgid "Thank you for your compliance with the next Sentry Mechanical."
-msgstr ""
+msgstr "Děkujeme vám, že jste se podřídili dalšímu produktu Sentry Mechanical."
 
 #: chatter/npcs/ch_vs_cleorobot:114
 msgctxt "chatter/npcs/ch_vs_cleorobot:114:DefaultText"
 msgid "Please report unit shutdown to the nearest site safety engineer."
-msgstr ""
+msgstr "Odstavení jednotky nahlaste nejbližšímu bezpečnostnímu technikovi."
 
 #: chatter/npcs/ch_vs_cleorobot:115
 msgctxt "chatter/npcs/ch_vs_cleorobot:115:DefaultText"
 msgid "Having trouble? Lease more Sentry Mechanicals."
-msgstr ""
+msgstr "Máte potíže? Pronajměte si více produktů Sentry Mechanicals."
 
 #: chatter/npcs/ch_vs_cleorobot:116
 msgctxt "chatter/npcs/ch_vs_cleorobot:116:DefaultText"
 msgid "Interaction declined."
-msgstr ""
+msgstr "Interakce byla odmítnuta."
 
 #: chatter/npcs/ch_vs_cleorobot:117
 msgctxt "chatter/npcs/ch_vs_cleorobot:117:DefaultText"
 msgid "User lacks admin privileges."
-msgstr ""
+msgstr "Uživatel nemá oprávnění správce."
 
 #: chatter/npcs/ch_vs_cleorobot:118
 msgctxt "chatter/npcs/ch_vs_cleorobot:118:DefaultText"
 msgid "Negative."
-msgstr ""
+msgstr "Negativní."
 
 #: chatter/npcs/ch_vs_cleorobot:119
 msgctxt "chatter/npcs/ch_vs_cleorobot:119:DefaultText"
 msgid "Operation returned value of 3.14159265358979323846..."
-msgstr ""
+msgstr "Operace vrátila hodnotu 3.14159265358979323846..."
 
 #: chatter/npcs/ch_vs_cleorobot:120
 msgctxt "chatter/npcs/ch_vs_cleorobot:120:DefaultText"
 msgid "Logic error. Compiling logs."
-msgstr ""
+msgstr "Logická chyba. Sestavování protokolů."
 
 #: chatter/npcs/ch_vs_cleorobot:121
 msgctxt "chatter/npcs/ch_vs_cleorobot:121:DefaultText"
 msgid "A problem has been detected. Rebooting."
-msgstr ""
+msgstr "Byl zjištěn problém. Restartování."
 
 #: chatter/npcs/ch_vs_cleorobot:122
 msgctxt "chatter/npcs/ch_vs_cleorobot:122:DefaultText"
 msgid "Unexpected end of terrain."
-msgstr ""
+msgstr "Nečekaný konec terénu."
 
 #: chatter/npcs/ch_vs_cleorobot:123
 msgctxt "chatter/npcs/ch_vs_cleorobot:123:DefaultText"
 msgid "Unit is not configured for freefall operation."
-msgstr ""
+msgstr "Jednotka není nakonfigurována pro provoz ve volném pádu."
 
 #: chatter/npcs/ch_vs_cleorobot:124
 msgctxt "chatter/npcs/ch_vs_cleorobot:124:DefaultText"
 msgid "Non-penetrating impact."
-msgstr ""
+msgstr "Nepronikající náraz."
 
 #: chatter/npcs/ch_vs_cleorobot:125
 msgctxt "chatter/npcs/ch_vs_cleorobot:125:DefaultText"
 msgid "I'm in the sky."
-msgstr ""
+msgstr "Jsem na obloze."
 
 #: chatter/npcs/ch_vs_cleorobot:126
 msgctxt "chatter/npcs/ch_vs_cleorobot:126:DefaultText"
 msgid "Disturbance detected."
-msgstr ""
+msgstr "Zjištěno narušení."
 
 #: chatter/npcs/ch_vs_cleorobot:127
 msgctxt "chatter/npcs/ch_vs_cleorobot:127:DefaultText"
 msgid "Responding to disturbance."
-msgstr ""
+msgstr "Reakce na narušení."
 
 #: chatter/npcs/ch_vs_cleorobot:128
 msgctxt "chatter/npcs/ch_vs_cleorobot:128:DefaultText"
 msgid "Alert level heightened."
-msgstr ""
+msgstr "Zvýšená úroveň pohotovosti."
 
 #: chatter/npcs/ch_vs_cleorobot:129
 msgctxt "chatter/npcs/ch_vs_cleorobot:129:DefaultText"
 msgid "All employees report to work areas for a head count check."
-msgstr ""
+msgstr "Všichni zaměstnanci se dostaví na pracoviště ke kontrole počtu zaměstnanců."
 
 #: chatter/npcs/ch_vs_cleorobot:130
 msgctxt "chatter/npcs/ch_vs_cleorobot:130:DefaultText"
 msgid "Failure to comply forfeits the right to future use of Auntie Cleo products."
-msgstr ""
+msgstr "Při nedodržení tohoto požadavku ztrácíte právo na budoucí používání výrobků Auntie Cleo."
 
 #: chatter/npcs/ch_vs_cleorobot:131
 msgctxt "chatter/npcs/ch_vs_cleorobot:131:DefaultText"
 msgid "Expanding search parameters."
-msgstr ""
+msgstr "Rozšíření parametrů vyhledávání."
 
 #: chatter/npcs/ch_vs_cleorobot:132
 msgctxt "chatter/npcs/ch_vs_cleorobot:132:DefaultText"
 msgid "Urination breaks are productivity theft. Drink less, work more."
-msgstr ""
+msgstr "Přestávky na močení jsou krádeží produktivity. Méně pijte, více pracujte."
 
 #: chatter/npcs/ch_vs_cleorobot:133
 msgctxt "chatter/npcs/ch_vs_cleorobot:133:DefaultText"
 msgid "Auntie is watching."
-msgstr ""
+msgstr "Teta se dívá."
 
 #: chatter/npcs/ch_vs_cleorobot:134
 msgctxt "chatter/npcs/ch_vs_cleorobot:134:DefaultText"
 msgid "Return to your work station."
-msgstr ""
+msgstr "Vraťte se na své pracoviště."
 
 #: chatter/npcs/ch_vs_cleorobot:135
 msgctxt "chatter/npcs/ch_vs_cleorobot:135:DefaultText"
 msgid "Penalties for non-compliance with a legal execution may include death."
-msgstr ""
+msgstr "Tresty za nedodržení zákonné exekuce mohou zahrnovat i smrt."
 
 #: chatter/npcs/ch_vs_cleorobot:136
 msgctxt "chatter/npcs/ch_vs_cleorobot:136:DefaultText"
 msgid "Resuming nominal status."
-msgstr ""
+msgstr "Obnovení nominálního stavu."
 
 #: chatter/npcs/ch_vs_cleorobot:137
 msgctxt "chatter/npcs/ch_vs_cleorobot:137:DefaultText"
 msgid "Target not found."
-msgstr ""
+msgstr "Cíl nebyl nalezen."
 
 #: chatter/npcs/ch_vs_cleorobot:138
 msgctxt "chatter/npcs/ch_vs_cleorobot:138:DefaultText"
 msgid "Resuming previous program."
-msgstr ""
+msgstr "Obnovení předchozího programu."
 
 #: chatter/npcs/ch_vs_cleorobot:139
 msgctxt "chatter/npcs/ch_vs_cleorobot:139:DefaultText"
 msgid "Sentry Mechanical will soon shut down."
-msgstr ""
+msgstr "Společnost Sentry Mechanical bude brzy uzavřena."
 
 #: chatter/npcs/ch_vs_cleorobot:140
 msgctxt "chatter/npcs/ch_vs_cleorobot:140:DefaultText"
 msgid "Warranty upgrade recommended."
-msgstr ""
+msgstr "Doporučená aktualizace záruky."
 
 #: chatter/npcs/ch_vs_cleorobot:141
 msgctxt "chatter/npcs/ch_vs_cleorobot:141:DefaultText"
 msgid "Would you like to save your settings?"
-msgstr ""
+msgstr "Chcete uložit svá nastavení?"
 
 #: chatter/npcs/ch_vs_cleorobot:142
 msgctxt "chatter/npcs/ch_vs_cleorobot:142:DefaultText"
 msgid "Support your local Sentry Mechanical."
-msgstr ""
+msgstr "Podpořte svou místní společnost Sentry Mechanical."
 
 #: chatter/npcs/ch_vs_cleorobot:143
 msgctxt "chatter/npcs/ch_vs_cleorobot:143:DefaultText"
 msgid "Thank you for using Sentry Mechanical. Goodbye."
-msgstr ""
+msgstr "Děkujeme, že používáte službu Sentry Mechanical. Na shledanou."
 
 #: chatter/npcs/ch_vs_cleorobot:144
 msgctxt "chatter/npcs/ch_vs_cleorobot:144:DefaultText"
 msgid "Pathplanning error."
-msgstr ""
+msgstr "Chyba při plánování cesty."
 
 #: chatter/npcs/ch_vs_cleorobot:145
 msgctxt "chatter/npcs/ch_vs_cleorobot:145:DefaultText"
 msgid "No route to perpetrator."
-msgstr ""
+msgstr "Žádná cesta k pachateli."
 
 #: chatter/npcs/ch_vs_cleorobot:146
 msgctxt "chatter/npcs/ch_vs_cleorobot:146:DefaultText"
 msgid "Standing by for access."
-msgstr ""
+msgstr "Připravte se na přístup."
 
 #: chatter/npcs/ch_vs_cleorobot:147
 msgctxt "chatter/npcs/ch_vs_cleorobot:147:DefaultText"
 msgid "Screaming during work hours is punishable by a fine."
-msgstr ""
+msgstr "Křik v pracovní době se trestá pokutou."
 
 #: chatter/npcs/ch_vs_cleorobot:148
 msgctxt "chatter/npcs/ch_vs_cleorobot:148:DefaultText"
 msgid "Enjoy these finely crafted bullets, courtesy of Auntie Cleo."
-msgstr ""
+msgstr "Vychutnejte si tyto precizně zpracované kulky, které vyrobila teta Cleo."
 
 #: chatter/npcs/ch_vs_cleorobot:149
 msgctxt "chatter/npcs/ch_vs_cleorobot:149:DefaultText"
 msgid "Deposit stray bullets at the nearest disposal station."
-msgstr ""
+msgstr "Zbloudilé náboje odevzdejte na nejbližší likvidační stanici."
 
 #: chatter/npcs/ch_vs_cleorobot:150
 msgctxt "chatter/npcs/ch_vs_cleorobot:150:DefaultText"
 msgid "Compliance is mandatory."
-msgstr ""
+msgstr "Dodržování předpisů je povinné."
 
 #: chatter/npcs/ch_vs_cleorobot:151
 msgctxt "chatter/npcs/ch_vs_cleorobot:151:DefaultText"
 msgid "Please enjoy complimentary bullets while you wait."
-msgstr ""
+msgstr "Při čekání si prosím vychutnejte bezplatné kulky."
 
 #: chatter/npcs/ch_vs_cleorobot:152
 msgctxt "chatter/npcs/ch_vs_cleorobot:152:DefaultText"
 msgid "This will be counted as an unexcused absence."
-msgstr ""
+msgstr "To se bude počítat jako neomluvená absence."
 
 #: chatter/npcs/ch_vs_cleorobot:153
 msgctxt "chatter/npcs/ch_vs_cleorobot:153:DefaultText"
 msgid "Escalation imminent."
-msgstr ""
+msgstr "Hrozí eskalace."
 
 #: chatter/npcs/ch_vs_cleorobot:154
 msgctxt "chatter/npcs/ch_vs_cleorobot:154:DefaultText"
 msgid "Do not taunt Sentry Mechanical."
-msgstr ""
+msgstr "Neposmívejte se mechanickému systému Sentry."
 
 #: chatter/npcs/ch_vs_cleorobot:155
 msgctxt "chatter/npcs/ch_vs_cleorobot:155:DefaultText"
 msgid "Preparing lethal response."
-msgstr ""
+msgstr "Příprava smrtící reakce."
 
 #: chatter/npcs/ch_vs_cleorobot:156
 msgctxt "chatter/npcs/ch_vs_cleorobot:156:DefaultText"
 msgid "Do not jostle Sentry Mechanical."
-msgstr ""
+msgstr "Nepohybujte se s přístrojem Sentry Mechanical."
 
 #: chatter/npcs/ch_vs_cleorobot:157
 msgctxt "chatter/npcs/ch_vs_cleorobot:157:DefaultText"
 msgid "Reboot required."
-msgstr ""
+msgstr "Nutný restart."
 
 #: chatter/npcs/ch_vs_cleorobot:158
 msgctxt "chatter/npcs/ch_vs_cleorobot:158:DefaultText"
 msgid "Attempting to reconnect."
-msgstr ""
+msgstr "Pokus o opětovné připojení."
 
 #: chatter/npcs/ch_vs_cleorobot:159
 msgctxt "chatter/npcs/ch_vs_cleorobot:159:DefaultText"
 msgid "System error. Rebooting."
-msgstr ""
+msgstr "Systémová chyba. Restartování systému."
 
 #: chatter/npcs/ch_vs_cleorobot:160
 msgctxt "chatter/npcs/ch_vs_cleorobot:160:DefaultText"
 msgid "Reorientation required."
-msgstr ""
+msgstr "Nutná změna orientace."
 
 #: chatter/npcs/ch_vs_cleorobot:161
 msgctxt "chatter/npcs/ch_vs_cleorobot:161:DefaultText"
 msgid "Gyroscope imbalance."
-msgstr ""
+msgstr "Nevyváženost gyroskopu."
 
 #: chatter/npcs/ch_vs_cleorobot:162
 msgctxt "chatter/npcs/ch_vs_cleorobot:162:DefaultText"
 msgid "Cheerfully comply with incoming bullets."
-msgstr ""
+msgstr "Vesele se podřiďte přilétajícím střelám."
 
 #: chatter/npcs/ch_vs_cleorobot:163
 msgctxt "chatter/npcs/ch_vs_cleorobot:163:DefaultText"
 msgid "Evading fire may result in resisting arrest charges."
-msgstr ""
+msgstr "Uhýbání před střelbou může vést k obvinění z kladení odporu při zatýkání."
 
 #: chatter/npcs/ch_vs_cleorobot:164
 msgctxt "chatter/npcs/ch_vs_cleorobot:164:DefaultText"
 msgid "Collateral damage will be billed to the target."
-msgstr ""
+msgstr "Vedlejší škody budou účtovány cíli."
 
 #: chatter/npcs/ch_vs_cleorobot:165
 msgctxt "chatter/npcs/ch_vs_cleorobot:165:DefaultText"
 msgid "Traction failure."
-msgstr ""
+msgstr "Porucha trakce."
 
 #: chatter/npcs/ch_vs_cleorobot:166
 msgctxt "chatter/npcs/ch_vs_cleorobot:166:DefaultText"
 msgid "Recalibrating pathing algorithm."
-msgstr ""
+msgstr "Překalibrování algoritmu pro určování trasy."
 
 #: chatter/npcs/ch_vs_cleorobot:167
 msgctxt "chatter/npcs/ch_vs_cleorobot:167:DefaultText"
 msgid "Updating position."
-msgstr ""
+msgstr "Aktualizace pozice."
 
 #: chatter/npcs/ch_vs_cleorobot:168
 msgctxt "chatter/npcs/ch_vs_cleorobot:168:DefaultText"
 msgid "Unexpected end of search. Would you like to try again?"
-msgstr ""
+msgstr "Neočekávaný konec hledání. Chcete to zkusit znovu?"
 
 #: chatter/npcs/ch_vs_cleorobot:169
 msgctxt "chatter/npcs/ch_vs_cleorobot:169:DefaultText"
 msgid "Search concluded. Copying events to maintenance log."
-msgstr ""
+msgstr "Vyhledávání uzavřeno. Kopírování událostí do protokolu údržby."
 
 #: chatter/npcs/ch_vs_cleorobot:170
 msgctxt "chatter/npcs/ch_vs_cleorobot:170:DefaultText"
 msgid "Sentry Mechanical encountered an unexpected condition."
-msgstr ""
+msgstr "Společnost Sentry Mechanical se setkala s neočekávaným stavem."
 
 #: chatter/npcs/ch_vs_cleorobot:174
 msgctxt "chatter/npcs/ch_vs_cleorobot:174:DefaultText"
 msgid "Perpetrator detected."
-msgstr ""
+msgstr "Zjištěný pachatel."
 
 #: chatter/npcs/ch_vs_cleorobot:175
 msgctxt "chatter/npcs/ch_vs_cleorobot:175:DefaultText"
 msgid "Engaging."
-msgstr ""
+msgstr "Poutavé."
 
 #: chatter/npcs/ch_vs_cleorobot:178
 msgctxt "chatter/npcs/ch_vs_cleorobot:178:DefaultText"
 msgid "Initiating self-preservation protocol."
-msgstr ""
+msgstr "Zahájení protokolu sebezáchovy."
 
 #: chatter/npcs/ch_vs_cleorobot:179
 msgctxt "chatter/npcs/ch_vs_cleorobot:179:DefaultText"
 msgid "Relocating to non-hostile area."
-msgstr ""
+msgstr "Přemístění do jiné než nepřátelské oblasti."
 
 #: chatter/npcs/ch_vs_cleorobot:180
 msgctxt "chatter/npcs/ch_vs_cleorobot:180:DefaultText"
 msgid "Attempting to salvage corporation asset."
-msgstr ""
+msgstr "Pokus o záchranu majetku společnosti."
 
 #: chatter/npcs/ch_vs_cleorobot:181
 msgctxt "chatter/npcs/ch_vs_cleorobot:181:DefaultText"
 msgid "Terminating combat protocol."
-msgstr ""
+msgstr "Ukončení bojového protokolu."
 
 #: chatter/npcs/ch_vs_cleorobot:182
 msgctxt "chatter/npcs/ch_vs_cleorobot:182:DefaultText"
 msgid "Target protocols updated."
-msgstr ""
+msgstr "Aktualizace cílových protokolů."
 
 #: chatter/npcs/ch_vs_cleorobot:183
 msgctxt "chatter/npcs/ch_vs_cleorobot:183:DefaultText"
 msgid "Overriding array of corporate partners."
-msgstr ""
+msgstr "Převažující řada firemních partnerů."

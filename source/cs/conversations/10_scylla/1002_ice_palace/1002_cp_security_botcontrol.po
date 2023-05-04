@@ -8,7 +8,7 @@ msgid "Lab 1084: Station Security\r\n"
 "Recall in process...\r\n"
 "\r\n"
 "Recall successful. "
-msgstr ""
+msgstr "Laboratoř 1084: Zabezpečení stanice =================== Iniciován protokol automechanického nabíjení. Probíhá odvolání... Odvolání úspěšné. "
 
 #: conversations/10_scylla/1002_ice_palace/1002_cp_security_botcontrol:5
 msgctxt "conversations/10_scylla/1002_ice_palace/1002_cp_security_botcontrol:5:DefaultText"
@@ -18,22 +18,22 @@ msgid "Lab 1084: Station Security\r\n"
 "Priority user: Kimball, I. \r\n"
 "\r\n"
 "Main menu"
-msgstr ""
+msgstr "Laboratoř 1084: Zabezpečení stanice =================== Prioritní uživatel: Hlavní menu: Kimball, I."
 
 #: conversations/10_scylla/1002_ice_palace/1002_cp_security_botcontrol:6
 msgctxt "conversations/10_scylla/1002_ice_palace/1002_cp_security_botcontrol:6:DefaultText"
 msgid "[Messages]"
-msgstr ""
+msgstr "[Zprávy]"
 
 #: conversations/10_scylla/1002_ice_palace/1002_cp_security_botcontrol:7
 msgctxt "conversations/10_scylla/1002_ice_palace/1002_cp_security_botcontrol:7:DefaultText"
 msgid "[Security Routines]"
-msgstr ""
+msgstr "[Bezpečnostní rutiny]"
 
 #: conversations/10_scylla/1002_ice_palace/1002_cp_security_botcontrol:9
 msgctxt "conversations/10_scylla/1002_ice_palace/1002_cp_security_botcontrol:9:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"
 
 #: conversations/10_scylla/1002_ice_palace/1002_cp_security_botcontrol:10
 msgctxt "conversations/10_scylla/1002_ice_palace/1002_cp_security_botcontrol:10:DefaultText"
@@ -41,7 +41,7 @@ msgid "Lab 1084: Station Security\r\n"
 "===================\r\n"
 "\r\n"
 "Messages"
-msgstr ""
+msgstr "Laboratoř 1084: Zprávy zabezpečení stanice ==================="
 
 #: conversations/10_scylla/1002_ice_palace/1002_cp_security_botcontrol:11
 msgctxt "conversations/10_scylla/1002_ice_palace/1002_cp_security_botcontrol:11:DefaultText"
@@ -49,7 +49,7 @@ msgid "Lab 1084: Station Security\r\n"
 "===================\r\n"
 "\r\n"
 "Security routines"
-msgstr ""
+msgstr "Laboratoř 1084: Zabezpečení stanice =================== Bezpečnostní postupy"
 
 #: conversations/10_scylla/1002_ice_palace/1002_cp_security_botcontrol:12
 msgctxt "conversations/10_scylla/1002_ice_palace/1002_cp_security_botcontrol:12:DefaultText"
@@ -69,27 +69,27 @@ msgid "Lab 1084: Station Security\r\n"
 "I love you, Anjelica. Maybe you can write me a better ending? Give your father a hug and tell him I'm sorry for missing another birthday. \r\n"
 "\r\n"
 "Mom"
-msgstr ""
+msgstr "Laboratoř 1084: Zabezpečení stanice =================== OD: Kimball, I TO: Kimball, A PŘEDMĚT: Kimball, A Byla jednou jedna princezna, která se učila na vojáka. Zatímco ostatní princezny dostávaly práci v konzervárnách a hraběcích domech, vojanda mhouřila oči na střelnici a dávala si pozor, aby pokaždé trefila cíl. Jednoho dne jí jeden nepříliš hodný muž nabídl práci ve věži ze slonoviny, daleko od království. Princezna by se mohla postarat o svého nemocného otce, milované dítě a potrhlého manžela - ale musela by zůstat zavřená ve věži, dokud lékaři nenajdou cestu ven. Jakmile si princezna svou volbu lépe rozmyslela, požádala o předčasné propuštění, ale nikdo ji neposlouchal. Konec: Miluji tě, Anjeliko. Možná bys mi mohla napsat lepší konec? Obejmi svého otce a řekni mu, že mě mrzí, že jsem přišla o další narozeniny. Maminka"
 
 #: conversations/10_scylla/1002_ice_palace/1002_cp_security_botcontrol:13
 msgctxt "conversations/10_scylla/1002_ice_palace/1002_cp_security_botcontrol:13:DefaultText"
 msgid "[Engage Automechanical Recharge Protocols]"
-msgstr ""
+msgstr "[Zapojit protokoly automechanického dobíjení]"
 
 #: conversations/10_scylla/1002_ice_palace/1002_cp_security_botcontrol:14
 msgctxt "conversations/10_scylla/1002_ice_palace/1002_cp_security_botcontrol:14:DefaultText"
 msgid "[Return to Root]"
-msgstr ""
+msgstr "[Zpět na kořen]"
 
 #: conversations/10_scylla/1002_ice_palace/1002_cp_security_botcontrol:25
 msgctxt "conversations/10_scylla/1002_ice_palace/1002_cp_security_botcontrol:25:DefaultText"
 msgid "[TO: REDACTED, SUBJECT: Re: Your concerns]"
-msgstr ""
+msgstr "[TO: REDACTED, SUBJECT: Re: Your concerns]"
 
 #: conversations/10_scylla/1002_ice_palace/1002_cp_security_botcontrol:26
 msgctxt "conversations/10_scylla/1002_ice_palace/1002_cp_security_botcontrol:26:DefaultText"
 msgid "[TO: A. Kimball, SUBJECT: Bedtime story] [Draft]"
-msgstr ""
+msgstr "[TO: A. Kimball, SUBJECT: Bedtime story] [Draft]"
 
 #: conversations/10_scylla/1002_ice_palace/1002_cp_security_botcontrol:27
 msgctxt "conversations/10_scylla/1002_ice_palace/1002_cp_security_botcontrol:27:DefaultText"
@@ -112,7 +112,9 @@ msgid "Lab 1084: Station Security\r\n"
 "SUBJECT: Your concerns\n"
 "\n"
 "You asked that I reach out. I'm doing so. Is something amiss with the team? How's their morale? Their commitment to the project?"
-msgstr ""
+msgstr "Laboratoř 1084: Zabezpečení stanice =================== OD: Kimball, I TO: REDIGOVANÝ PŘEDMĚT: Re: Re: Samozřejmě, že morálka je nízká. Dali jste těm doktorům nádrže s nukleinovým skramblovacím plynem a žádná teplá těla, na kterých by to mohli otestovat. Co sis myslel, že se stane? Ať si na sobě testují, jak chtějí, ale na mou jednotku nikdo ruku nevztáhne. Zavádím bezpečnostní opatření pro případ, že by někdo toto nařízení zpochybnil. \n"
+"\n"
+"Kimball FROM: REDACTED TO: Kimball, I PŘEDMĚT: Vaše obavy Požádal jste mě, abych se s vámi spojil. Udělám to. Je s týmem něco v nepořádku? Jaká je jejich morálka? Jejich nasazení pro projekt?"
 
 #: conversations/10_scylla/1002_ice_palace/1002_cp_security_botcontrol:28
 msgctxt "conversations/10_scylla/1002_ice_palace/1002_cp_security_botcontrol:28:DefaultText"
@@ -123,12 +125,12 @@ msgid "Lab 1084: Station Security\r\n"
 "ERROR: Terminal power below 5%. Terminal in maintenance mode.\r\n"
 "\r\n"
 "Restore power supply to station to resume normal terminal operations."
-msgstr ""
+msgstr "Laboratoř 1084: Zabezpečení stanice =================== CHYBA: Nelze získat přístup k paměťové kazetě. CHYBA: Výkon terminálu je nižší než 5 %. Terminál je v režimu údržby. Obnovte napájení stanice a obnovte normální provoz terminálu."
 
 #: conversations/10_scylla/1002_ice_palace/1002_cp_security_botcontrol:29
 msgctxt "conversations/10_scylla/1002_ice_palace/1002_cp_security_botcontrol:29:DefaultText"
 msgid "[Engage Automechanical Defense Protocols - Admin Override]"
-msgstr ""
+msgstr "[Zapojit protokoly automechanické obrany - Přepsání správce]"
 
 #: conversations/10_scylla/1002_ice_palace/1002_cp_security_botcontrol:30
 msgctxt "conversations/10_scylla/1002_ice_palace/1002_cp_security_botcontrol:30:DefaultText"
@@ -142,14 +144,14 @@ msgid "Lab 1084: Station Security\r\n"
 "Adding UDL Personnel to the target list.\r\n"
 "\r\n"
 "Attack protocol successfully set. "
-msgstr ""
+msgstr "Laboratoř 1084: Zabezpečení stanice =================== Protokol automechanické obrany zahájen. Vyloučení uživatele <oeitoken>Jméno hráče</oeitoken> ze seznamu cílů. Přidání personálu UDL do seznamu cílů. Protokol útoku úspěšně nastaven. "
 
 #: conversations/10_scylla/1002_ice_palace/1002_cp_security_botcontrol:31
 msgctxt "conversations/10_scylla/1002_ice_palace/1002_cp_security_botcontrol:31:DefaultText"
 msgid "[Engage Automechanical Recharge Protocols]"
-msgstr ""
+msgstr "[Zapojit protokoly automechanického dobíjení]"
 
 #: conversations/10_scylla/1002_ice_palace/1002_cp_security_botcontrol:32
 msgctxt "conversations/10_scylla/1002_ice_palace/1002_cp_security_botcontrol:32:DefaultText"
 msgid "[Engage Automechanical Defense Protocols - Admin Override]"
-msgstr ""
+msgstr "[Zapojit protokoly automechanické obrany - Přepsání správce]"

@@ -3,21 +3,21 @@ msgctxt "conversations/04_monarch/0401/0401_cp_mantiqueennest_accessterminal:1:D
 msgid "ERROR: Ownership data corrupted. Storage data corru##Ytz##2ase contact your nearest mechanical enginn334j1#\r\n"
 "\r\n"
 "Enter Passcode:"
-msgstr ""
+msgstr "CHYBA: Poškozené údaje o vlastnictví. Storage data corru##Ytz##2ase contact your nearest mechanical enginn334j1# Zadejte přístupový kód:"
 
 #: conversations/04_monarch/0401/0401_cp_mantiqueennest_accessterminal:2
 msgctxt "conversations/04_monarch/0401/0401_cp_mantiqueennest_accessterminal:2:DefaultText"
 msgid "[Charon]"
-msgstr ""
+msgstr "[Charon]"
 
 #: conversations/04_monarch/0401/0401_cp_mantiqueennest_accessterminal:5
 msgctxt "conversations/04_monarch/0401/0401_cp_mantiqueennest_accessterminal:5:DefaultText"
 msgid "ERROR: Ownership data corrupted. Storage data corru##Ytz##2ase contact your nearest mechanical enginn334j1#\r\n"
 "\r\n"
 "Passcode Accepted."
-msgstr ""
+msgstr "CHYBA: Poškozené údaje o vlastnictví. Storage data corru##Ytz##2ase contact your nearest mechanical enginn334j1# Passcode Accepted."
 
 #: conversations/04_monarch/0401/0401_cp_mantiqueennest_accessterminal:7
 msgctxt "conversations/04_monarch/0401/0401_cp_mantiqueennest_accessterminal:7:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"

@@ -1,639 +1,639 @@
 #: conversations/00_emerald_vale/00_cv_reyes:2
 msgctxt "conversations/00_emerald_vale/00_cv_reyes:2:DefaultText"
 msgid "Welcome to the Spacer's Choice Constabulary. We are Halcyon's leading brand in frontier justice."
-msgstr ""
+msgstr "Vítejte ve Spacer's Choice Constabulary. Jsme přední halcyonská značka v oblasti pohraniční justice."
 
 #: conversations/00_emerald_vale/00_cv_reyes:21
 msgctxt "conversations/00_emerald_vale/00_cv_reyes:21:DefaultText"
 msgid "Something to report?"
-msgstr ""
+msgstr "Něco k nahlášení?"
 
 #: conversations/00_emerald_vale/00_cv_reyes:22
 msgctxt "conversations/00_emerald_vale/00_cv_reyes:22:DefaultText"
 msgid "Goodbye."
-msgstr ""
+msgstr "Sbohem."
 
 #: conversations/00_emerald_vale/00_cv_reyes:23
 msgctxt "conversations/00_emerald_vale/00_cv_reyes:23:DefaultText"
 msgid "I found this cache of medicine. I thought I should turn it in to you."
-msgstr ""
+msgstr "Našel jsem tuhle lékárničku. Myslel jsem, že bych vám ho měl odevzdat."
 
 #: conversations/00_emerald_vale/00_cv_reyes:24
 msgctxt "conversations/00_emerald_vale/00_cv_reyes:24:DefaultText"
 msgid "I appreciate your vigilance on behalf of Spacer's Choice. I'll make sure this medicine goes where it's most needed."
-msgstr ""
+msgstr "Oceňuji vaši ostražitost jménem Spacer's Choice. Zajistím, aby se tento lék dostal tam, kde je ho nejvíce potřeba."
 
 #: conversations/00_emerald_vale/00_cv_reyes:25
 msgctxt "conversations/00_emerald_vale/00_cv_reyes:25:DefaultText"
 msgid "You owe me a reward."
-msgstr ""
+msgstr "Dlužíš mi odměnu."
 
 #: conversations/00_emerald_vale/00_cv_reyes:26
 msgctxt "conversations/00_emerald_vale/00_cv_reyes:26:DefaultText"
 msgid "Oh. It's you. Reed told me I should be expecting you. He's inside."
-msgstr ""
+msgstr "Oh. To jsi ty. Reed mi řekl, že tě mám očekávat. Je uvnitř."
 
 #: conversations/00_emerald_vale/00_cv_reyes:27
 msgctxt "conversations/00_emerald_vale/00_cv_reyes:27:DefaultText"
 msgid "I'm looking for work."
-msgstr ""
+msgstr "Hledám práci."
 
 #: conversations/00_emerald_vale/00_cv_reyes:28
 msgctxt "conversations/00_emerald_vale/00_cv_reyes:28:DefaultText"
 msgid "If you need help with your marauder problem, I'm for hire."
-msgstr ""
+msgstr "Pokud potřebuješ pomoct s problémem s nájezdníky, jsem k pronájmu."
 
 #: conversations/00_emerald_vale/00_cv_reyes:29
 msgctxt "conversations/00_emerald_vale/00_cv_reyes:29:DefaultText"
 msgid "As a Spacer's Choice Constable, I am authorized to grant you legal authority toward apprehending wanted criminals."
-msgstr ""
+msgstr "Jako konstábl Spacer's Choice jsem oprávněn udělit vám zákonné pravomoci k zadržení hledaných zločinců."
 
 #: conversations/00_emerald_vale/00_cv_reyes:30
 msgctxt "conversations/00_emerald_vale/00_cv_reyes:30:DefaultText"
 msgid "Know how to carry yourself in a fight? I've got bounties out for these three marauders. "
-msgstr ""
+msgstr "Víte, jak se chovat v boji? Na tyhle tři záškodníky jsem vypsal odměny. "
 
 #: conversations/00_emerald_vale/00_cv_reyes:31
 msgctxt "conversations/00_emerald_vale/00_cv_reyes:31:DefaultText"
 msgid "Cross 'em off and bring me their fingers. Just one per marauder, please. I'll dust off the old fingerprint roller."
-msgstr ""
+msgstr "Vyškrtněte je a přineste mi jejich prsty. Jen jeden na každého nájezdníka, prosím. Opráším starý váleček na otisky prstů."
 
 #: conversations/00_emerald_vale/00_cv_reyes:32
 msgctxt "conversations/00_emerald_vale/00_cv_reyes:32:DefaultText"
 msgid "I'm here to turn in a bounty."
-msgstr ""
+msgstr "Přišel jsem odevzdat odměnu."
 
 #: conversations/00_emerald_vale/00_cv_reyes:33
 msgctxt "conversations/00_emerald_vale/00_cv_reyes:33:DefaultText"
 msgid "We pay by the finger. What do you have for me?"
-msgstr ""
+msgstr "Platíme za prst. Co pro mě máte?"
 
 #: conversations/00_emerald_vale/00_cv_reyes:34
 msgctxt "conversations/00_emerald_vale/00_cv_reyes:34:DefaultText"
 msgid "Gill Antrim. Real name Guillaume. Duly processed by a freelancer on behalf of Spacer's Choice."
-msgstr ""
+msgstr "Gill Antrim. Vlastním jménem Guillaume. Řádně zpracováno externím pracovníkem jménem Spacer's Choice."
 
 #: conversations/00_emerald_vale/00_cv_reyes:35
 msgctxt "conversations/00_emerald_vale/00_cv_reyes:35:DefaultText"
 msgid "<Hand over Guillaume Antrim's finger.>"
-msgstr ""
+msgstr "<Ruka na prstu Guillauma Antrima.>"
 
 #: conversations/00_emerald_vale/00_cv_reyes:36
 msgctxt "conversations/00_emerald_vale/00_cv_reyes:36:DefaultText"
 msgid "<Hand over Doc Maybell's finger.>"
-msgstr ""
+msgstr "<Ruka na prstu doktora Maybella.>"
 
 #: conversations/00_emerald_vale/00_cv_reyes:37
 msgctxt "conversations/00_emerald_vale/00_cv_reyes:37:DefaultText"
 msgid "Maybell Burgess. Age thirty-seven. Right or left handed? Let's just say... no longer applicable."
-msgstr ""
+msgstr "Maybell Burgessová. Věk třicet sedm let. Pravák nebo levák? Řekněme... že už to neplatí."
 
 #: conversations/00_emerald_vale/00_cv_reyes:38
 msgctxt "conversations/00_emerald_vale/00_cv_reyes:38:DefaultText"
 msgid "<Hand over Bertie Cotton's finger.>"
-msgstr ""
+msgstr "<Ruka na prstu Bertieho Cottona.>"
 
 #: conversations/00_emerald_vale/00_cv_reyes:39
 msgctxt "conversations/00_emerald_vale/00_cv_reyes:39:DefaultText"
 msgid "Here we are. Bertie Cotton. Cause of death - let's just say overwhelming physical trauma."
-msgstr ""
+msgstr "A je to tady. Bertie Cotton. Příčina smrti - řekněme, že šlo o ohromné fyzické trauma."
 
 #: conversations/00_emerald_vale/00_cv_reyes:40
 msgctxt "conversations/00_emerald_vale/00_cv_reyes:40:DefaultText"
 msgid "I'll just need your signature here, here, here, here, and here. Got any more fingers for me?"
-msgstr ""
+msgstr "Potřebuji jen váš podpis zde, zde, zde, zde a zde. Máte pro mě ještě nějaké prsty?"
 
 #: conversations/00_emerald_vale/00_cv_reyes:41
 msgctxt "conversations/00_emerald_vale/00_cv_reyes:41:DefaultText"
 msgid "Well, that's all three. I must remember to requisition some more fingerprint ink. Here's all the compensation you've earned, plus a bonus."
-msgstr ""
+msgstr "No, to jsou všechny tři. Musím si vzpomenout na další inkoust na otisky prstů. Tady je celá odměna, kterou jste si zasloužil, plus bonus."
 
 #: conversations/00_emerald_vale/00_cv_reyes:42
 msgctxt "conversations/00_emerald_vale/00_cv_reyes:42:DefaultText"
 msgid "You've done such a bang up job hunting down our former workers that I thought it only proper to deputize you. Congratulations."
-msgstr ""
+msgstr "Odvedl jsi tak skvělou práci při pátrání po našich bývalých zaměstnancích, že jsem považoval za správné, abych tě zastoupil. Gratuluji."
 
 #: conversations/00_emerald_vale/00_cv_reyes:43
 msgctxt "conversations/00_emerald_vale/00_cv_reyes:43:DefaultText"
 msgid "Still one outstanding bounty. If you've got a finger, I've got the paperwork."
-msgstr ""
+msgstr "Stále je to jedna nevyplacená odměna. Jestli máš prst, mám papíry."
 
 #: conversations/00_emerald_vale/00_cv_reyes:44
 msgctxt "conversations/00_emerald_vale/00_cv_reyes:44:DefaultText"
 msgid "Actually, there was something else."
-msgstr ""
+msgstr "Vlastně tu bylo ještě něco jiného."
 
 #: conversations/00_emerald_vale/00_cv_reyes:48
 msgctxt "conversations/00_emerald_vale/00_cv_reyes:48:DefaultText"
 msgid "The office is running a promotion. Purchase three criminal investigations and the fourth one's free."
-msgstr ""
+msgstr "V kanceláři probíhá propagační akce. Kupte si tři kriminální vyšetřování a čtvrté je zdarma."
 
 #: conversations/00_emerald_vale/00_cv_reyes:49
 msgctxt "conversations/00_emerald_vale/00_cv_reyes:49:DefaultText"
 msgid "I'll leave you be."
-msgstr ""
+msgstr "Nechám tě být."
 
 #: conversations/00_emerald_vale/00_cv_reyes:50
 msgctxt "conversations/00_emerald_vale/00_cv_reyes:50:DefaultText"
 msgid "Which is where, exactly?"
-msgstr ""
+msgstr "Kde přesně?"
 
 #: conversations/00_emerald_vale/00_cv_reyes:51
 msgctxt "conversations/00_emerald_vale/00_cv_reyes:51:DefaultText"
 msgid "You are of course entitled to a reward for assisting in the apprehension of any contraband. "
-msgstr ""
+msgstr "Za pomoc při zadržení kontrabandu máte samozřejmě nárok na odměnu. "
 
 #: conversations/00_emerald_vale/00_cv_reyes:52
 msgctxt "conversations/00_emerald_vale/00_cv_reyes:52:DefaultText"
 msgid "Your compensation. And your receipt. Spacer's Choice wishes you a productive shift."
-msgstr ""
+msgstr "Vaše kompenzace. A vaše potvrzení. Společnost Spacer's Choice vám přeje produktivní směnu."
 
 #: conversations/00_emerald_vale/00_cv_reyes:53
 msgctxt "conversations/00_emerald_vale/00_cv_reyes:53:DefaultText"
 msgid "Sealed, packaged, and delivered to a Spacer's Choice storage facility. Standard procedure for contraband, you see."
-msgstr ""
+msgstr "Zapečetěné, zabalené a doručené do skladovacího zařízení Spacer's Choice. Standardní postup pro kontraband, víte."
 
 #: conversations/00_emerald_vale/00_cv_reyes:54
 msgctxt "conversations/00_emerald_vale/00_cv_reyes:54:DefaultText"
 msgid "Contraband? I'm bringing you medicine. You people need this."
-msgstr ""
+msgstr "Kontraband? Přináším vám léky. Vy to potřebujete."
 
 #: conversations/00_emerald_vale/00_cv_reyes:55
 msgctxt "conversations/00_emerald_vale/00_cv_reyes:55:DefaultText"
 msgid "Medical treatment by Auntie Cleo's products is strictly prohibited under Spacer's Choice company policy. "
-msgstr ""
+msgstr "Léčba produkty Auntie Cleo's je podle zásad společnosti Spacer's Choice přísně zakázána. "
 
 #: conversations/00_emerald_vale/00_cv_reyes:56
 msgctxt "conversations/00_emerald_vale/00_cv_reyes:56:DefaultText"
 msgid "That's ridiculous."
-msgstr ""
+msgstr "To je směšné."
 
 #: conversations/00_emerald_vale/00_cv_reyes:57
 msgctxt "conversations/00_emerald_vale/00_cv_reyes:57:DefaultText"
 msgid "Whatever. Just pay me what I'm owed."
-msgstr ""
+msgstr "To je jedno. Prostě mi zaplať, co mi dlužíš."
 
 #: conversations/00_emerald_vale/00_cv_reyes:58
 msgctxt "conversations/00_emerald_vale/00_cv_reyes:58:DefaultText"
 msgid "If you were one of our workers, I would be obliged to mark that comment on your permanent record."
-msgstr ""
+msgstr "Kdybyste byl naším zaměstnancem, byl bych povinen vám tuto poznámku poznamenat do trvalého záznamu."
 
 #: conversations/00_emerald_vale/00_cv_reyes:60
 msgctxt "conversations/00_emerald_vale/00_cv_reyes:60:DefaultText"
 msgid "I remember him. Was just a kid, last I saw him. Shame."
-msgstr ""
+msgstr "Vzpomínám si na něj. Naposledy jsem ho viděl jako dítě. Škoda."
 
 #: conversations/00_emerald_vale/00_cv_reyes:61
 msgctxt "conversations/00_emerald_vale/00_cv_reyes:61:DefaultText"
 msgid "I remember Doc Burgess. Conducted my physical every fiscal quarter. Guess she couldn't keep her hands off her patients' medicine."
-msgstr ""
+msgstr "Vzpomínám si na doktora Burgesse. Každé fiskální čtvrtletí mi dělal zdravotní prohlídku. Hádám, že nedokázala držet ruce pryč od léků svých pacientů."
 
 #: conversations/00_emerald_vale/00_cv_reyes:62
 msgctxt "conversations/00_emerald_vale/00_cv_reyes:62:DefaultText"
 msgid "Bert was the local preacher, before Max took over. Always was quick to remind us that we all get what we deserve in the end."
-msgstr ""
+msgstr "Bert byl místním kazatelem, než ho vystřídal Max. Vždycky nám rychle připomínal, že všichni nakonec dostaneme, co si zasloužíme."
 
 #: conversations/00_emerald_vale/00_cv_reyes:63
 msgctxt "conversations/00_emerald_vale/00_cv_reyes:63:DefaultText"
 msgid "What's this? Junior Deputy Constable?"
-msgstr ""
+msgstr "Co je to? Mladší zástupce strážníka?"
 
 #: conversations/00_emerald_vale/00_cv_reyes:65
 msgctxt "conversations/00_emerald_vale/00_cv_reyes:65:DefaultText"
 msgid "You should know that Abernathy asked me to steal this medicine for him."
-msgstr ""
+msgstr "Měl bys vědět, že Abernathy mě požádal, abych pro něj ten lék ukradl."
 
 #: conversations/00_emerald_vale/00_cv_reyes:66
 msgctxt "conversations/00_emerald_vale/00_cv_reyes:66:DefaultText"
 msgid "Martin Abernathy? Interesting. I'll see to it that charges are filed against him."
-msgstr ""
+msgstr "Martin Abernathy? Zajímavé. Postarám se, aby proti němu bylo vzneseno obvinění."
 
 #: conversations/00_emerald_vale/00_cv_reyes:67
 msgctxt "conversations/00_emerald_vale/00_cv_reyes:67:DefaultText"
 msgid "Take care."
-msgstr ""
+msgstr "Dávejte na sebe pozor."
 
 #: conversations/00_emerald_vale/00_cv_reyes:68
 msgctxt "conversations/00_emerald_vale/00_cv_reyes:68:DefaultText"
 msgid "What kind of charges?"
-msgstr ""
+msgstr "Jaké poplatky?"
 
 #: conversations/00_emerald_vale/00_cv_reyes:70
 msgctxt "conversations/00_emerald_vale/00_cv_reyes:70:DefaultText"
 msgid "As long as your questions fall within acceptable margins of curiosity."
-msgstr ""
+msgstr "Pokud vaše otázky spadají do přijatelných mezí zvědavosti."
 
 #: conversations/00_emerald_vale/00_cv_reyes:71
 msgctxt "conversations/00_emerald_vale/00_cv_reyes:71:DefaultText"
 msgid "Being stupid enough to hire a freelancer who turned him in. It's a punishable offense."
-msgstr ""
+msgstr "Byl tak hloupý, že si najal externistu, který ho udal. Je to trestný čin."
 
 #: conversations/00_emerald_vale/00_cv_reyes:72
 msgctxt "conversations/00_emerald_vale/00_cv_reyes:72:DefaultText"
 msgid "Makes sense, I suppose."
-msgstr ""
+msgstr "To dává smysl."
 
 #: conversations/00_emerald_vale/00_cv_reyes:73
 msgctxt "conversations/00_emerald_vale/00_cv_reyes:73:DefaultText"
 msgid "Of course it makes sense. Spacer's Choice company regulations have been designed to fall within acceptable margins of sensibility."
-msgstr ""
+msgstr "Samozřejmě to dává smysl. Předpisy společnosti Spacer's Choice byly navrženy tak, aby se pohybovaly v přijatelných mezích rozumnosti."
 
 #: conversations/00_emerald_vale/00_cv_reyes:74
 msgctxt "conversations/00_emerald_vale/00_cv_reyes:74:DefaultText"
 msgid "I haven't been paid yet."
-msgstr ""
+msgstr "Ještě jsem nedostal zaplaceno."
 
 #: conversations/00_emerald_vale/00_cv_reyes:75
 msgctxt "conversations/00_emerald_vale/00_cv_reyes:75:DefaultText"
 msgid "All Spacer's Choice workers are expected to be exemplary judges of character. Mister Abernathy has failed to meet these standards, and will be duly punished."
-msgstr ""
+msgstr "Od všech pracovníků Spacer's Choice se očekává, že budou příkladnými soudci. Pan Abernathy tyto standardy nesplnil a bude náležitě potrestán."
 
 #: conversations/00_emerald_vale/00_cv_reyes:76
 msgctxt "conversations/00_emerald_vale/00_cv_reyes:76:DefaultText"
 msgid "There was something else, actually."
-msgstr ""
+msgstr "Vlastně tu bylo ještě něco jiného."
 
 #: conversations/00_emerald_vale/00_cv_reyes:77
 msgctxt "conversations/00_emerald_vale/00_cv_reyes:77:DefaultText"
 msgid "I've got some questions for you, if you don't mind."
-msgstr ""
+msgstr "Mám na vás několik otázek, pokud vám to nevadí."
 
 #: conversations/00_emerald_vale/00_cv_reyes:78
 msgctxt "conversations/00_emerald_vale/00_cv_reyes:78:DefaultText"
 msgid "Does the name Phineas Welles mean anything to you?"
-msgstr ""
+msgstr "Říká vám něco jméno Phineas Welles?"
 
 #: conversations/00_emerald_vale/00_cv_reyes:79
 msgctxt "conversations/00_emerald_vale/00_cv_reyes:79:DefaultText"
 msgid "So who do you work for? Spacer's Choice or Edgewater?"
-msgstr ""
+msgstr "Pro koho tedy pracujete? Spacer's Choice nebo Edgewater?"
 
 #: conversations/00_emerald_vale/00_cv_reyes:80
 msgctxt "conversations/00_emerald_vale/00_cv_reyes:80:DefaultText"
 msgid "If this is the setup to a joke, you should know I've never found anything amusing in my life. "
-msgstr ""
+msgstr "Jestli je tohle záminka k vtipu, tak vězte, že mi nikdy v životě nic nepřišlo vtipné. "
 
 #: conversations/00_emerald_vale/00_cv_reyes:81
 msgctxt "conversations/00_emerald_vale/00_cv_reyes:81:DefaultText"
 msgid "His likeness decorates many a wanted poster. Do you have any relevant information about this individual?"
-msgstr ""
+msgstr "Jeho podobizna zdobí nejeden plakát s hledanými osobami. Máte o něm nějaké relevantní informace?"
 
 #: conversations/00_emerald_vale/00_cv_reyes:82
 msgctxt "conversations/00_emerald_vale/00_cv_reyes:82:DefaultText"
 msgid "Thanks for your time."
-msgstr ""
+msgstr "Děkujeme za váš čas."
 
 #: conversations/00_emerald_vale/00_cv_reyes:83
 msgctxt "conversations/00_emerald_vale/00_cv_reyes:83:DefaultText"
 msgid "Never mind."
-msgstr ""
+msgstr "Nevadí."
 
 #: conversations/00_emerald_vale/00_cv_reyes:84
 msgctxt "conversations/00_emerald_vale/00_cv_reyes:84:DefaultText"
 msgid "He's a scientist. We're acquainted."
-msgstr ""
+msgstr "Je to vědec. Známe se."
 
 #: conversations/00_emerald_vale/00_cv_reyes:85
 msgctxt "conversations/00_emerald_vale/00_cv_reyes:85:DefaultText"
 msgid "Yeah, that's why I'm asking. Looks like there's a bounty on his head."
-msgstr ""
+msgstr "Jo, proto se ptám. Vypadá to, že je na jeho hlavu vypsaná odměna."
 
 #: conversations/00_emerald_vale/00_cv_reyes:86
 msgctxt "conversations/00_emerald_vale/00_cv_reyes:86:DefaultText"
 msgid "He kidnapped me, un-froze my body, and shot me into space. Then I landed here."
-msgstr ""
+msgstr "Unesl mě, rozmrazil mé tělo a vystřelil mě do vesmíru. Pak jsem přistál tady."
 
 #: conversations/00_emerald_vale/00_cv_reyes:87
 msgctxt "conversations/00_emerald_vale/00_cv_reyes:87:DefaultText"
 msgid "Uh huh. Shot you into space. You know, lying to a Spacer's Choice constable is a violation of company policy, and punishable by a fine."
-msgstr ""
+msgstr "Uh huh. Vystřelil tě do vesmíru. Víš, že lhaní konstáblovi Spacer's Choice je porušením firemních pravidel a trestá se pokutou."
 
 #: conversations/00_emerald_vale/00_cv_reyes:89
 msgctxt "conversations/00_emerald_vale/00_cv_reyes:89:DefaultText"
 msgid "It's a good thing I don't belong to the Spacer's Choice family."
-msgstr ""
+msgstr "Ještě že nepatřím do rodiny Spacer's Choice."
 
 #: conversations/00_emerald_vale/00_cv_reyes:90
 msgctxt "conversations/00_emerald_vale/00_cv_reyes:90:DefaultText"
 msgid "If the Board's paying, I'm willing to collect on that bounty."
-msgstr ""
+msgstr "Pokud to rada zaplatí, jsem ochoten si tu odměnu vybrat."
 
 #: conversations/00_emerald_vale/00_cv_reyes:91
 msgctxt "conversations/00_emerald_vale/00_cv_reyes:91:DefaultText"
 msgid "It is, for Spacer's Choice."
-msgstr ""
+msgstr "Je to pro Spacer's Choice."
 
 #: conversations/00_emerald_vale/00_cv_reyes:92
 msgctxt "conversations/00_emerald_vale/00_cv_reyes:92:DefaultText"
 msgid "Unfortunately, the arrest of Mr. Welles falls outside my authority. I enforce the company policy of Spacer's Choice in the region of Emerald Vale."
-msgstr ""
+msgstr "Zatčení pana Wellese bohužel nespadá do mé pravomoci. Prosazuji politiku společnosti Spacer's Choice v oblasti Emerald Vale."
 
 #: conversations/00_emerald_vale/00_cv_reyes:93
 msgctxt "conversations/00_emerald_vale/00_cv_reyes:93:DefaultText"
 msgid "Welles is wanted by the Board. If you have information related to the location of Phineas V. Welles, you are required to submit that information to your nearest Board authority."
-msgstr ""
+msgstr "Rada hledá Wellese. Pokud máte informace o tom, kde se Phineas V. Welles nachází, musíte je předložit nejbližšímu orgánu Rady."
 
 #: conversations/00_emerald_vale/00_cv_reyes:94
 msgctxt "conversations/00_emerald_vale/00_cv_reyes:94:DefaultText"
 msgid "I am obliged to warn you against forming acquaintanceships, friendships, partnerships, or any other felicitous relationship with a wanted criminal."
-msgstr ""
+msgstr "Jsem povinen vás varovat před navazováním známostí, přátelství, partnerství nebo jakýchkoli jiných výhodných vztahů s hledaným zločincem."
 
 #: conversations/00_emerald_vale/00_cv_reyes:95
 msgctxt "conversations/00_emerald_vale/00_cv_reyes:95:DefaultText"
 msgid "You are correct. An outstanding bounty has been posted for information pertaining to the whereabouts of Phineas V. Welles."
-msgstr ""
+msgstr "Máte pravdu. Na informace týkající se pobytu Phinease V. Wellese byla vypsána odměna."
 
 #: conversations/00_emerald_vale/00_cv_reyes:96
 msgctxt "conversations/00_emerald_vale/00_cv_reyes:96:DefaultText"
 msgid "How long has Welles been on the run?"
-msgstr ""
+msgstr "Jak dlouho byl Welles na útěku?"
 
 #: conversations/00_emerald_vale/00_cv_reyes:97
 msgctxt "conversations/00_emerald_vale/00_cv_reyes:97:DefaultText"
 msgid "He kidnapped me and hauled me off to his lab."
-msgstr ""
+msgstr "Unesl mě a odvedl do své laboratoře."
 
 #: conversations/00_emerald_vale/00_cv_reyes:98
 msgctxt "conversations/00_emerald_vale/00_cv_reyes:98:DefaultText"
 msgid "Welles has been wanted for as long as the Board decides he has been wanted. This decision will be made in accordance with Welles's behavior upon arrest."
-msgstr ""
+msgstr "Welles je hledán tak dlouho, jak dlouho o tom rozhoduje správní rada. Toto rozhodnutí bude učiněno podle Wellesova chování při zatčení."
 
 #: conversations/00_emerald_vale/00_cv_reyes:99
 msgctxt "conversations/00_emerald_vale/00_cv_reyes:99:DefaultText"
 msgid "How unfortunate. You have my condolences."
-msgstr ""
+msgstr "Jak nešťastné. Upřímnou soustrast."
 
 #: conversations/00_emerald_vale/00_cv_reyes:100
 msgctxt "conversations/00_emerald_vale/00_cv_reyes:100:DefaultText"
 msgid "Aren't you going to do anything about it?"
-msgstr ""
+msgstr "Neuděláte s tím nic?"
 
 #: conversations/00_emerald_vale/00_cv_reyes:101
 msgctxt "conversations/00_emerald_vale/00_cv_reyes:101:DefaultText"
 msgid "I'm more interested in the bounty."
-msgstr ""
+msgstr "Zajímá mě spíš odměna."
 
 #: conversations/00_emerald_vale/00_cv_reyes:102
 msgctxt "conversations/00_emerald_vale/00_cv_reyes:102:DefaultText"
 msgid "I am only authorized to prosecute kidnapping of company property. Because you don't belong to Spacer's Choice, the answer is no."
-msgstr ""
+msgstr "Jsem oprávněn stíhat pouze únosy majetku společnosti. Protože nepatříte do společnosti Spacer's Choice, odpověď zní ne."
 
 #: conversations/00_emerald_vale/00_cv_reyes:103
 msgctxt "conversations/00_emerald_vale/00_cv_reyes:103:DefaultText"
 msgid "I don't serve Edgewater. Edgewater, and the entire region of Emerald Vale, serves Spacer's Choice."
-msgstr ""
+msgstr "Nesloužím v Edgewateru. Edgewater a celá oblast Emerald Vale slouží Spacer's Choice."
 
 #: conversations/00_emerald_vale/00_cv_reyes:104
 msgctxt "conversations/00_emerald_vale/00_cv_reyes:104:DefaultText"
 msgid "Who does Spacer's Choice answer to?"
-msgstr ""
+msgstr "Komu se společnost Spacer's Choice zodpovídá?"
 
 #: conversations/00_emerald_vale/00_cv_reyes:105
 msgctxt "conversations/00_emerald_vale/00_cv_reyes:105:DefaultText"
 msgid "That sounds like slavery."
-msgstr ""
+msgstr "To zní jako otroctví."
 
 #: conversations/00_emerald_vale/00_cv_reyes:106
 msgctxt "conversations/00_emerald_vale/00_cv_reyes:106:DefaultText"
 msgid "So you're basically a bureaucrat."
-msgstr ""
+msgstr "Takže jste v podstatě úředník."
 
 #: conversations/00_emerald_vale/00_cv_reyes:107
 msgctxt "conversations/00_emerald_vale/00_cv_reyes:107:DefaultText"
 msgid "Flattery won't get you anywhere with me. The bureaucracy is a noble profession, but not all of us are gifted enough to serve in it."
-msgstr ""
+msgstr "Lichotkami se u mě nikam nedostaneš. Byrokracie je ušlechtilá profese, ale ne všichni máme dostatečné nadání, abychom v ní mohli sloužit."
 
 #: conversations/00_emerald_vale/00_cv_reyes:108
 msgctxt "conversations/00_emerald_vale/00_cv_reyes:108:DefaultText"
 msgid "Careful, stranger. Talk like that comes dangerously close to sedition."
-msgstr ""
+msgstr "Opatrně, cizinče. Takové řeči se nebezpečně blíží pobuřování."
 
 #: conversations/00_emerald_vale/00_cv_reyes:109
 msgctxt "conversations/00_emerald_vale/00_cv_reyes:109:DefaultText"
 msgid "Spacer's Choice is a wholly owned subsidiary of Universal Defense Logistics, which occupies a seat on the Halcyon Holdings Corporation."
-msgstr ""
+msgstr "Společnost Spacer's Choice je dceřinou společností společnosti Universal Defense Logistics, která má sídlo ve společnosti Halcyon Holdings Corporation."
 
 #: conversations/00_emerald_vale/00_cv_reyes:110
 msgctxt "conversations/00_emerald_vale/00_cv_reyes:110:DefaultText"
 msgid "Also known as the Board. I must admit, it bothers me that you don't already know this."
-msgstr ""
+msgstr "Známá také jako rada. Musím přiznat, že mi vadí, že to ještě nevíte."
 
 #: conversations/00_emerald_vale/00_cv_reyes:111
 msgctxt "conversations/00_emerald_vale/00_cv_reyes:111:DefaultText"
 msgid "There was one other thing."
-msgstr ""
+msgstr "Byla tu ještě jedna věc."
 
 #: conversations/00_emerald_vale/00_cv_reyes:112
 msgctxt "conversations/00_emerald_vale/00_cv_reyes:112:DefaultText"
 msgid "Vale's a little safer, thanks to you."
-msgstr ""
+msgstr "Vale je díky tobě o něco bezpečnější."
 
 #: conversations/00_emerald_vale/00_cv_reyes:113
 msgctxt "conversations/00_emerald_vale/00_cv_reyes:113:DefaultText"
 msgid "I've got nothing on my bounty board. That's a good feeling."
-msgstr ""
+msgstr "Na nástěnce s odměnami nemám nic. To je dobrý pocit."
 
 #: conversations/00_emerald_vale/00_cv_reyes:114
 msgctxt "conversations/00_emerald_vale/00_cv_reyes:114:DefaultText"
 msgid "Ms. Romero's in our office now. Edgewater's getting crowded, so we could use the help."
-msgstr ""
+msgstr "Slečna Romerová je právě v naší kanceláři. Edgewater začíná být přeplněný, takže by se nám pomoc hodila."
 
 #: conversations/00_emerald_vale/00_cv_reyes:115
 msgctxt "conversations/00_emerald_vale/00_cv_reyes:115:DefaultText"
 msgid "Can't say I approve of a town run by McDevitt. Doesn't sit right with me at all."
-msgstr ""
+msgstr "Nemohu říct, že bych schvaloval město vedené McDevittem. Vůbec mi to nesedí."
 
 #: conversations/00_emerald_vale/00_cv_reyes:116
 msgctxt "conversations/00_emerald_vale/00_cv_reyes:116:DefaultText"
 msgid "Interesting jumpsuit you've got. And by interesting, I mean suspiciously reminiscent of contraband."
-msgstr ""
+msgstr "Máš zajímavou kombinézu. A tím zajímavá myslím podezřele připomínající kontraband."
 
 #: conversations/00_emerald_vale/00_cv_reyes:117
 msgctxt "conversations/00_emerald_vale/00_cv_reyes:117:DefaultText"
 msgid "Put some clothes on, for Law's sake."
-msgstr ""
+msgstr "Oblékni se, proboha."
 
 #: conversations/00_emerald_vale/00_cv_reyes:118
 msgctxt "conversations/00_emerald_vale/00_cv_reyes:118:DefaultText"
 msgid "Welles saved my life. I want to know why the Board wants him dead."
-msgstr ""
+msgstr "Welles mi zachránil život. Chci vědět, proč ho chce rada zabít."
 
 #: conversations/00_emerald_vale/00_cv_reyes:119
 msgctxt "conversations/00_emerald_vale/00_cv_reyes:119:DefaultText"
 msgid "I am obliged to remind you that questioning the veracity of the Board's orders is a punishable offense. Consider this your last warning."
-msgstr ""
+msgstr "Musím vám připomenout, že zpochybňování pravdivosti příkazů Rady je trestné. Považujte to za poslední varování."
 
 #: conversations/00_emerald_vale/00_cv_reyes:120
 msgctxt "conversations/00_emerald_vale/00_cv_reyes:120:DefaultText"
 msgid "I am also obliged to inform you of our referral program. For every criminal you refer to the authorities, the Board will reward you."
-msgstr ""
+msgstr "Jsem také povinen vás informovat o našem referenčním programu. Za každého zločince, kterého předáte úřadům, vás rada odmění."
 
 #: conversations/00_emerald_vale/00_cv_reyes:121
 msgctxt "conversations/00_emerald_vale/00_cv_reyes:121:DefaultText"
 msgid "How long has the Board been after Welles?"
-msgstr ""
+msgstr "Jak dlouho už rada po Wellesovi pátrá?"
 
 #: conversations/00_emerald_vale/00_cv_reyes:122
 msgctxt "conversations/00_emerald_vale/00_cv_reyes:122:DefaultText"
 msgid "I'm not on Welles's side. I want to know if the bounty's worth the trouble."
-msgstr ""
+msgstr "Nejsem na Wellesově straně. Chci vědět, jestli ta odměna stojí za ty potíže."
 
 #: conversations/00_emerald_vale/00_cv_reyes:123
 msgctxt "conversations/00_emerald_vale/00_cv_reyes:123:DefaultText"
 msgid "I assumed you were my nearest Board authority."
-msgstr ""
+msgstr "Předpokládal jsem, že jste mým nejbližším orgánem rady."
 
 #: conversations/00_emerald_vale/00_cv_reyes:124
 msgctxt "conversations/00_emerald_vale/00_cv_reyes:124:DefaultText"
 msgid "All right. So who do I have to talk to?"
-msgstr ""
+msgstr "Dobře. S kým si mám promluvit?"
 
 #: conversations/00_emerald_vale/00_cv_reyes:125
 msgctxt "conversations/00_emerald_vale/00_cv_reyes:125:DefaultText"
 msgid "Any information regarding outstanding bounties and wanted criminals should be directed to Mr. Udom Bedford. Mr. Bedford's office is located on the Groundbreaker."
-msgstr ""
+msgstr "Veškeré informace týkající se nevyplacených odměn a hledaných zločinců směřujte na pana Udom Bedforda. Kancelář pana Bedforda se nachází na základně Groundbreaker."
 
 #: conversations/00_emerald_vale/00_cv_reyes:126
 msgctxt "conversations/00_emerald_vale/00_cv_reyes:126:DefaultText"
 msgid "I represent Spacer's Choice. Spacer's Choice is a wholly owned subsidiary of Universal Defense Logistics, which is itself a member of the Halcyon Holdings Corporation Board."
-msgstr ""
+msgstr "Zastupuji společnost Spacer's Choice. Spacer's Choice je dceřinou společností společnosti Universal Defense Logistics, která je sama členem představenstva Halcyon Holdings Corporation."
 
 #: conversations/00_emerald_vale/00_cv_reyes:127
 msgctxt "conversations/00_emerald_vale/00_cv_reyes:127:DefaultText"
 msgid "Also, I specialize in processing fingerprints. So unless you're carrying Welles's finger on you, there's not a lot I can do for you."
-msgstr ""
+msgstr "Také se specializuji na zpracování otisků prstů. Takže pokud u sebe nemáte Wellesův prst, moc toho pro vás udělat nemůžu."
 
 #: conversations/00_emerald_vale/00_cv_reyes:128
 msgctxt "conversations/00_emerald_vale/00_cv_reyes:128:DefaultText"
 msgid "Thanks for your time."
-msgstr ""
+msgstr "Děkujeme za váš čas."
 
 #: conversations/00_emerald_vale/00_cv_reyes:129
 msgctxt "conversations/00_emerald_vale/00_cv_reyes:129:DefaultText"
 msgid "Got my hands full at the moment. Make it quick, please."
-msgstr ""
+msgstr "Momentálně mám plné ruce práce. Urychlete to, prosím."
 
 #: conversations/00_emerald_vale/00_cv_reyes:131
 msgctxt "conversations/00_emerald_vale/00_cv_reyes:131:DefaultText"
 msgid "Hell of a time to start looking for work. Lucky for you, I am authorized to hire freelancers even during times of crisis."
-msgstr ""
+msgstr "Je to zatraceně vhodná doba na to, abyste si začali hledat práci. Naštěstí pro vás mám oprávnění najímat pracovníky na volné noze i v době krize."
 
 #: conversations/00_emerald_vale/00_cv_reyes:132
 msgctxt "conversations/00_emerald_vale/00_cv_reyes:132:DefaultText"
 msgid "Even during times of unplanned crisis or unauthorized general chaos."
-msgstr ""
+msgstr "A to i v době neplánované krize nebo nepovoleného všeobecného chaosu."
 
 #: conversations/00_emerald_vale/00_cv_reyes:133
 msgctxt "conversations/00_emerald_vale/00_cv_reyes:133:DefaultText"
 msgid "How did so many of your people end up marauders?"
-msgstr ""
+msgstr "Jak to, že se tolik vašich lidí stalo nájezdníky?"
 
 #: conversations/00_emerald_vale/00_cv_reyes:134
 msgctxt "conversations/00_emerald_vale/00_cv_reyes:134:DefaultText"
 msgid "Let me stop you there. It is official Spacer's Choice policy that all marauders, regardless of prior affiliation to the Spacer's Choice brand, no longer qualify as \"our people.\""
-msgstr ""
+msgstr "Dovolte mi, abych vás zastavil. Oficiální politikou Spacer's Choice je, že všichni nájezdníci, bez ohledu na předchozí příslušnost ke značce Spacer's Choice, již nejsou považováni za \"naše lidi\"."
 
 #: conversations/00_emerald_vale/00_cv_reyes:135
 msgctxt "conversations/00_emerald_vale/00_cv_reyes:135:DefaultText"
 msgid "Marauders are folk who lost the will to keep working. Wandered out into the wilds and gave in to their baser instincts. "
-msgstr ""
+msgstr "Nájezdníci jsou lidé, kteří ztratili chuť pracovat. Zatoulali se do divočiny a podlehli svým základním instinktům. "
 
 #: conversations/00_emerald_vale/00_cv_reyes:136
 msgctxt "conversations/00_emerald_vale/00_cv_reyes:136:DefaultText"
 msgid "That doesn't really answer my question."
-msgstr ""
+msgstr "To ale neodpovídá na mou otázku."
 
 #: conversations/00_emerald_vale/00_cv_reyes:137
 msgctxt "conversations/00_emerald_vale/00_cv_reyes:137:DefaultText"
 msgid "Not everybody's cut out to work in Edgewater. Some turn deserter. Some turn marauder. None of 'em get my sympathy."
-msgstr ""
+msgstr "Ne každý se hodí pro práci v Edgewateru. Z některých se stanou dezertéři. Někteří se stanou nájezdníky. Nikdo z nich nemá mé sympatie."
 
 #: conversations/00_emerald_vale/00_cv_reyes:138
 msgctxt "conversations/00_emerald_vale/00_cv_reyes:138:DefaultText"
 msgid "All right. Forget I asked."
-msgstr ""
+msgstr "Dobře. Zapomeň, že jsem se ptal."
 
 #: conversations/00_emerald_vale/00_cv_reyes:139
 msgctxt "conversations/00_emerald_vale/00_cv_reyes:139:DefaultText"
 msgid "Something else I can do for you?"
-msgstr ""
+msgstr "Mohu pro vás udělat ještě něco?"
 
 #: conversations/00_emerald_vale/00_cv_reyes:140
 msgctxt "conversations/00_emerald_vale/00_cv_reyes:140:DefaultText"
 msgid "Sounds like marauders have been a problem for a while."
-msgstr ""
+msgstr "Zdá se, že nájezdníci jsou problémem už nějakou dobu."
 
 #: conversations/00_emerald_vale/00_cv_reyes:141
 msgctxt "conversations/00_emerald_vale/00_cv_reyes:141:DefaultText"
 msgid "Ever since the company first settled the Vale. Life's good out here, but it ain't easy. Some folk can't keep pace with the demands of frontier life."
-msgstr ""
+msgstr "Od doby, kdy společnost poprvé osídlila Vale. Žije se tu dobře, ale není to snadné. Někteří lidé nedokážou držet krok s nároky hraničního života."
 
 #: conversations/00_emerald_vale/00_cv_reyes:142
 msgctxt "conversations/00_emerald_vale/00_cv_reyes:142:DefaultText"
 msgid "Yeah. I heard one of your workers shot himself. Eugene, I think."
-msgstr ""
+msgstr "Jo, slyšel jsem, že se jeden z vašich zaměstnanců zastřelil. Myslím, že Eugene."
 
 #: conversations/00_emerald_vale/00_cv_reyes:143
 msgctxt "conversations/00_emerald_vale/00_cv_reyes:143:DefaultText"
 msgid "Uh-huh. I recall young Eugene. Good kid. Nice smile. Fussy about his health, though. Took a little too much Adrena-Time. That'll do a number on your brain-matter."
-msgstr ""
+msgstr "Uh-huh. Vzpomínám si na mladého Eugena. Hodný kluk. Pěkný úsměv. Ale byl úzkostlivý, co se týče zdraví. Bral trochu moc Adrena-Time. To se na mozkové hmotě podepíše."
 
 #: conversations/00_emerald_vale/00_cv_reyes:144
 msgctxt "conversations/00_emerald_vale/00_cv_reyes:144:DefaultText"
 msgid "Says so right on the warning label. Violent psychosis is a well-documented and legally accounted-for side effect of Adrena-Time."
-msgstr ""
+msgstr "Píše se to přímo na varovném štítku. Násilná psychóza je dobře zdokumentovaný a právně ošetřený nežádoucí účinek přípravku Adrena-Time."
 
 #: conversations/00_emerald_vale/00_cv_reyes:145
 msgctxt "conversations/00_emerald_vale/00_cv_reyes:145:DefaultText"
 msgid "There was something else I wanted to ask you."
-msgstr ""
+msgstr "Chtěl jsem se tě zeptat ještě na něco."
 
 #: conversations/00_emerald_vale/00_cv_reyes:146
 msgctxt "conversations/00_emerald_vale/00_cv_reyes:146:DefaultText"
 msgid "What's on your mind?"
-msgstr ""
+msgstr "Na co myslíte?"
 
 #: conversations/00_emerald_vale/00_cv_reyes:147
 msgctxt "conversations/00_emerald_vale/00_cv_reyes:147:DefaultText"
 msgid "That's all for now."
-msgstr ""
+msgstr "To je prozatím vše."
 
 #: conversations/00_emerald_vale/00_cv_reyes:148
 msgctxt "conversations/00_emerald_vale/00_cv_reyes:148:DefaultText"
 msgid "Marauders seem to like Adrena-Time."
-msgstr ""
+msgstr "Zdá se, že nájezdníci mají rádi Adrenu-Time."
 
 #: conversations/00_emerald_vale/00_cv_reyes:149
 msgctxt "conversations/00_emerald_vale/00_cv_reyes:149:DefaultText"
 msgid "Everybody likes Adrena-Time. It is the finest medical drug ever developed by Spacer's Choice. Much better than that crap Auntie Cleo peddles."
-msgstr ""
+msgstr "Všichni mají rádi Adrena-Time. Je to nejlepší lék, jaký kdy společnost Spacer's Choice vyvinula. Mnohem lepší než to svinstvo, které prodává teta Cleo."
 
 #: conversations/00_emerald_vale/00_cv_reyes:150
 msgctxt "conversations/00_emerald_vale/00_cv_reyes:150:DefaultText"
 msgid "Sure, a little too much Adrena-Time can bring out the violent animal in you. But if overdosing on Adrena-Time turns you into a lunatic, you have only yourself to blame."
-msgstr ""
+msgstr "Jistě, příliš mnoho Adrena-Time ve vás může probudit násilnické zvíře. Ale pokud se z vás po předávkování Adrenou-Time stane šílenec, můžete si za to jen sami."
 
 #: conversations/00_emerald_vale/00_cv_reyes:151
 msgctxt "conversations/00_emerald_vale/00_cv_reyes:151:DefaultText"
 msgid "Anthrocillin, huh? That's an Auntie Cleo product."
-msgstr ""
+msgstr "Anthrocillin, co? To je výrobek Auntie Cleo."
 
 #: conversations/00_emerald_vale/00_cv_reyes:152
 msgctxt "conversations/00_emerald_vale/00_cv_reyes:152:DefaultText"
 msgid "I distribute this medicine to our workers, and we're all complicit in a crime."
-msgstr ""
+msgstr "Distribuuji tento lék našim pracovníkům a všichni se podílíme na zločinu."
 
 #: conversations/00_emerald_vale/00_cv_reyes:154
 msgctxt "conversations/00_emerald_vale/00_cv_reyes:154:DefaultText"
 msgid "Groundbreaker? What's that?"
-msgstr ""
+msgstr "Průkopník? Co to je?"
 
 #: conversations/00_emerald_vale/00_cv_reyes:155
 msgctxt "conversations/00_emerald_vale/00_cv_reyes:155:DefaultText"
 msgid "Halcyon's original colony ship, now repurposed into a space station. Mr. Udom Bedford represents the Board's interests on the Groundbreaker."
-msgstr ""
+msgstr "Původní koloniální loď Halcyon, nyní přestavěná na vesmírnou stanici. Pan Udom Bedford zastupuje zájmy rady na Groundbreakeru."
 
 #: conversations/00_emerald_vale/00_cv_reyes:157
 msgctxt "conversations/00_emerald_vale/00_cv_reyes:157:DefaultText"
 msgid "Something else I can do for you?"
-msgstr ""
+msgstr "Mohu pro vás udělat ještě něco?"

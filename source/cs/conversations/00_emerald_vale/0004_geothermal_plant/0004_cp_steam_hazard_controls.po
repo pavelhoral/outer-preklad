@@ -8,12 +8,12 @@ msgid "Emerald Vale Geothermal Plant\r\n"
 "Steam Distribution Control\r\n"
 "\r\n"
 "Terminal Access"
-msgstr ""
+msgstr "Geotermální elektrárna Emerald Vale A Spacer's Choice Property ======================== Distribuce páry Přístup k řídicímu terminálu"
 
 #: conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_steam_hazard_controls:2
 msgctxt "conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_steam_hazard_controls:2:DefaultText"
 msgid "[Shut off steam release valves.]"
-msgstr ""
+msgstr "[Uzavřete vypouštěcí ventily páry.]"
 
 #: conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_steam_hazard_controls:3
 msgctxt "conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_steam_hazard_controls:3:DefaultText"
@@ -27,9 +27,9 @@ msgid "Emerald Vale Geothermal Plant\r\n"
 "...\r\n"
 "...\r\n"
 "Release valves successfully closed."
-msgstr ""
+msgstr "Geotermální elektrárna Emerald Vale A Spacer's Choice Property ======================== Provádění... ... ... ... Uvolňovací ventily úspěšně uzavřeny."
 
 #: conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_steam_hazard_controls:4
 msgctxt "conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_steam_hazard_controls:4:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"

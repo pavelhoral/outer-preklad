@@ -1,119 +1,119 @@
 #: conversations/companions/poi/poi_0802_bs_roseway_town:2
 msgctxt "conversations/companions/poi/poi_0802_bs_roseway_town:2:DefaultText"
 msgid "If I had to look at those yellow walls all day, I'd make a point to sleep on the roof."
-msgstr ""
+msgstr "Kdybych se na ty žluté stěny musel dívat celý den, tak bych se rozhodl spát na střeše."
 
 #: conversations/companions/poi/poi_0802_bs_roseway_town:3
 msgctxt "conversations/companions/poi/poi_0802_bs_roseway_town:3:DefaultText"
 msgid "Was that supposed to be the living quarters? Seemed about as livable as a coffin."
-msgstr ""
+msgstr "Měla to být obytná místnost? Vypadalo to, že se tam dá žít asi jako v rakvi."
 
 #: conversations/companions/poi/poi_0802_bs_roseway_town:4
 msgctxt "conversations/companions/poi/poi_0802_bs_roseway_town:4:DefaultText"
 msgid "Living in there would rank only slightly better than prison."
-msgstr ""
+msgstr "Život v něm by byl jen o něco lepší než ve vězení."
 
 #: conversations/companions/poi/poi_0802_bs_roseway_town:5
 msgctxt "conversations/companions/poi/poi_0802_bs_roseway_town:5:DefaultText"
 msgid "I have camped in long-abandoned ruins that were better quality than those apartments."
-msgstr ""
+msgstr "Tábořil jsem v dávno opuštěných ruinách, které byly kvalitnější než ty apartmány."
 
 #: conversations/companions/poi/poi_0802_bs_roseway_town:6
 msgctxt "conversations/companions/poi/poi_0802_bs_roseway_town:6:DefaultText"
 msgid "I've stayed in worse."
-msgstr ""
+msgstr "Zůstal jsem v horších."
 
 #: conversations/companions/poi/poi_0802_bs_roseway_town:7
 msgctxt "conversations/companions/poi/poi_0802_bs_roseway_town:7:DefaultText"
 msgid "Filthy. Toxic. Impure!"
-msgstr ""
+msgstr "Špinavý. Toxický. Nečisté!"
 
 #: conversations/companions/poi/poi_0802_bs_roseway_town:9
 msgctxt "conversations/companions/poi/poi_0802_bs_roseway_town:9:DefaultText"
 msgid "How do you suppose that stuff's used? Do you drink it, or is it like perfume? I'm not interested - just curious."
-msgstr ""
+msgstr "Jak myslíte, že se to používá? Pije se to, nebo je to jako parfém? To mě nezajímá - jen jsem zvědavý."
 
 #: conversations/companions/poi/poi_0802_bs_roseway_town:10
 msgctxt "conversations/companions/poi/poi_0802_bs_roseway_town:10:DefaultText"
 msgid "So, those \"charisma enhancing benefits\" he was talking about. He was just blowing smoke. Right?"
-msgstr ""
+msgstr "Takže ty \"výhody zvyšující charisma\", o kterých mluvil. Jen vyfukoval kouř. Že?"
 
 #: conversations/companions/poi/poi_0802_bs_roseway_town:11
 msgctxt "conversations/companions/poi/poi_0802_bs_roseway_town:11:DefaultText"
 msgid "This should prove a worthwhile endeavor. "
-msgstr ""
+msgstr "To by se mělo vyplatit. "
 
 #: conversations/companions/poi/poi_0802_bs_roseway_town:12
 msgctxt "conversations/companions/poi/poi_0802_bs_roseway_town:12:DefaultText"
 msgid "Gotta admit, of all the things I've used a rapt for, this ain't one I ever considered. Wonder if it works."
-msgstr ""
+msgstr "Musím přiznat, že ze všech věcí, na které jsem použil rapt, jsem o tomhle nikdy neuvažoval. Zajímalo by mě, jestli to funguje."
 
 #: conversations/companions/poi/poi_0802_bs_roseway_town:13
 msgctxt "conversations/companions/poi/poi_0802_bs_roseway_town:13:DefaultText"
 msgid "So. Hoping to score some free samples?"
-msgstr ""
+msgstr "Doufáte, že získáte nějaké vzorky zdarma?"
 
 #: conversations/companions/poi/poi_0802_bs_roseway_town:14
 msgctxt "conversations/companions/poi/poi_0802_bs_roseway_town:14:DefaultText"
 msgid "Error. This unit is not built for R&D purposes."
-msgstr ""
+msgstr "Chyba. Tato jednotka není určena pro účely výzkumu a vývoje."
 
 #: conversations/companions/poi/poi_0802_bs_roseway_town:16
 msgctxt "conversations/companions/poi/poi_0802_bs_roseway_town:16:DefaultText"
 msgid "I don't know about Dr. Crane's research, but we oughta find Mr. Jameson. He's gotta be all alone and scared."
-msgstr ""
+msgstr "O výzkumu doktora Cranea nic nevím, ale pana Jamesona bychom měli najít. Musí být úplně sám a vyděšený."
 
 #: conversations/companions/poi/poi_0802_bs_roseway_town:17
 msgctxt "conversations/companions/poi/poi_0802_bs_roseway_town:17:DefaultText"
 msgid "This Crane guy cares more about his research than his own people."
-msgstr ""
+msgstr "Tenhle Crane se stará víc o svůj výzkum než o vlastní lidi."
 
 #: conversations/companions/poi/poi_0802_bs_roseway_town:18
 msgctxt "conversations/companions/poi/poi_0802_bs_roseway_town:18:DefaultText"
 msgid "If this Jameson is fated to die it'll be pointless to intervene. Then again, maybe we're fated to save him."
-msgstr ""
+msgstr "Pokud je Jamesonovi souzeno zemřít, je zbytečné zasahovat. Na druhou stranu, možná je nám souzeno ho zachránit."
 
 #: conversations/companions/poi/poi_0802_bs_roseway_town:19
 msgctxt "conversations/companions/poi/poi_0802_bs_roseway_town:19:DefaultText"
 msgid "If this Jameson fellow is trapped out there, we oughta hurry. Rapts have a habit of getting through metal faster than you'd think."
-msgstr ""
+msgstr "Jestli je tam ten Jameson uvězněný, měli bychom si pospíšit. Rapti mají ve zvyku pronikat kovem rychleji, než by sis myslel."
 
 #: conversations/companions/poi/poi_0802_bs_roseway_town:20
 msgctxt "conversations/companions/poi/poi_0802_bs_roseway_town:20:DefaultText"
 msgid "Fifty bits says this guy's already rapt fodder."
-msgstr ""
+msgstr "Padesát kousků říká, že tenhle chlapík už je rozzuřená potrava."
 
 #: conversations/companions/poi/poi_0802_bs_roseway_town:21
 msgctxt "conversations/companions/poi/poi_0802_bs_roseway_town:21:DefaultText"
 msgid "Sorry, customer! That request cannot be found in the file banks."
-msgstr ""
+msgstr "Omlouváme se, zákazníku! Tento požadavek nelze nalézt v souborových bankách."
 
 #: conversations/companions/poi/poi_0802_bs_roseway_town:23
 msgctxt "conversations/companions/poi/poi_0802_bs_roseway_town:23:DefaultText"
 msgid "Oh boy. I don't think I'm ready for another bar crawl, Captain."
-msgstr ""
+msgstr "Ach jo. Myslím, že nejsem připraven na další procházení barů, kapitáne."
 
 #: conversations/companions/poi/poi_0802_bs_roseway_town:24
 msgctxt "conversations/companions/poi/poi_0802_bs_roseway_town:24:DefaultText"
 msgid "Hey boss, can we get some Rizzo's? "
-msgstr ""
+msgstr "Hej, šéfe, můžeme dostat nějaké Rizzo's? "
 
 #: conversations/companions/poi/poi_0802_bs_roseway_town:25
 msgctxt "conversations/companions/poi/poi_0802_bs_roseway_town:25:DefaultText"
 msgid "What a delightfully... dingy establishment."
-msgstr ""
+msgstr "To je ale rozkošně... ponurý podnik."
 
 #: conversations/companions/poi/poi_0802_bs_roseway_town:26
 msgctxt "conversations/companions/poi/poi_0802_bs_roseway_town:26:DefaultText"
 msgid "Let's see if they've got anything better than the thinned-out rapt blood I'm used to."
-msgstr ""
+msgstr "Uvidíme, jestli mají něco lepšího než zředěnou raptskou krev, na kterou jsem zvyklý."
 
 #: conversations/companions/poi/poi_0802_bs_roseway_town:28
 msgctxt "conversations/companions/poi/poi_0802_bs_roseway_town:28:DefaultText"
 msgid "Mass quantities of sterilizing agent detected. Area analysis is: UNEXPECTEDLY DISGUSTING."
-msgstr ""
+msgstr "Zjištěná hmotnostní množství sterilizačního činidla. Plošná analýza je: NEOČEKÁVANĚ NECHUTNÉ."
 
 #: conversations/companions/poi/poi_0802_bs_roseway_town:29
 msgctxt "conversations/companions/poi/poi_0802_bs_roseway_town:29:DefaultText"
 msgid "You think the other sixteen were closed? Maybe on account of health code violations?"
-msgstr ""
+msgstr "Myslíte si, že ostatních šestnáct bylo uzavřeno? Možná kvůli porušení hygienických předpisů?"

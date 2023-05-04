@@ -1,414 +1,414 @@
 #: conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:1
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:1:DefaultText"
 msgid "Well, well! Here to stop us at last, Captain Steele? You're too late! "
-msgstr ""
+msgstr "No, no! Konečně jste nás zastavil, kapitáne Steele? Přišel jste pozdě! "
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:2
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:2:DefaultText"
 msgid "Joke's on you, idiot. Those crates are just decoys."
-msgstr ""
+msgstr "Vtip je na tvé straně, idiote. Ty bedny jsou jen návnada."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:3
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:3:DefaultText"
 msgid "You foul pirate! I won't let you get away with this."
-msgstr ""
+msgstr "Ty odporný piráte! Tohle ti neprojde."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:4
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:4:DefaultText"
 msgid "Whatever, as long as you stop monologuing about it."
-msgstr ""
+msgstr "To je jedno, pokud o tom přestaneš mluvit."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:5
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:5:DefaultText"
 msgid "They- they are? "
-msgstr ""
+msgstr "Oni... oni jsou? "
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:6
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:6:DefaultText"
 msgid "Here to stop us at last, Captain Steele? You're too- oh, sorry, I already said that."
-msgstr ""
+msgstr "Konečně jste nás zastavil, kapitáne Steele? Jste příliš... ach, promiňte, to už jsem řekl."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:7
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:7:DefaultText"
 msgid "Come on, stick to the script!"
-msgstr ""
+msgstr "No tak, drž se scénáře!"
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:8
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:8:DefaultText"
 msgid "Do you remember the last time we faced each other? The Battle of Axajaxx, staring one another down across the void of space while flaming debris fell like rain around us?"
-msgstr ""
+msgstr "Vzpomínáš si, kdy jsme proti sobě stáli naposledy? V bitvě o Axajaxx, kdy jsme na sebe hleděli přes prázdnotu vesmíru, zatímco kolem nás padaly hořící trosky jako déšť?"
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:11
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:11:DefaultText"
 msgid "Can I shoot someone? Wait, are we the good guys or the bad guys? "
-msgstr ""
+msgstr "Mohu někoho zastřelit? Počkat, jsme my ti hodní, nebo ti zlí? "
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:12
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:12:DefaultText"
 msgid "Am I in this shot? Hang on, I'm gonna give 'em the old Millstone Glare."
-msgstr ""
+msgstr "Jsem na snímku já? Počkejte, podívám se na ně starým známým pohledem Millstone Glare."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:14
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:14:DefaultText"
 msgid "Which side is my good side?"
-msgstr ""
+msgstr "Která strana je moje dobrá strana?"
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:15
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:15:DefaultText"
 msgid "Are we on camera now? 'Cause I really don't care to be."
-msgstr ""
+msgstr "Jsme teď na kameře? Protože o to opravdu nestojím."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:16
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:16:DefaultText"
 msgid "REMINDER: prolonged exposure to germicidal fumes kills braincells. "
-msgstr ""
+msgstr "UPOZORNĚNÍ: dlouhodobé vystavení germicidním výparům zabíjí mozkové buňky. "
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:17
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:17:DefaultText"
 msgid "I hope you've paid your burial fees and signed your personal death and dismemberment waivers, because this is the end for you!"
-msgstr ""
+msgstr "Doufám, že jste zaplatili pohřebné a podepsali zřeknutí se práva na osobní pohřeb, protože tohle je pro vás konec!"
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:18
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:18:DefaultText"
 msgid "No, it's the end for YOU."
-msgstr ""
+msgstr "Ne, je to konec pro tebe."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:21
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:21:DefaultText"
 msgid "Good, because I still don't know what's going on!"
-msgstr ""
+msgstr "To je dobře, protože pořád nevím, co se děje!"
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:22
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:22:DefaultText"
 msgid "<Attack> Rehearsal's over."
-msgstr ""
+msgstr "<Útok> Zkouška skončila."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:24
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:24:DefaultText"
 msgid "I- Law, what a presence! I'm going to need a moment to match this energy."
-msgstr ""
+msgstr "I- Law, jaká přítomnost! Budu potřebovat chvilku, abych se té energii vyrovnal."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:31
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:31:DefaultText"
 msgid "To the break room, everyone! I need my Mo-App Fizzy Tea."
-msgstr ""
+msgstr "Všichni do odpočívárny! Potřebuji svůj Mo-App Fizzy Tea."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:34
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:34:DefaultText"
 msgid "Fuck! How does Maverick expect me to compete with this?!"
-msgstr ""
+msgstr "Kurva! Jak si Maverick myslí, že s tímhle budu soutěžit?!"
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:61
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:61:DefaultText"
 msgid "I can improvise, too! Safeties off, everyone!"
-msgstr ""
+msgstr "I já umím improvizovat! Všichni se pojistit!"
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:64
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:64:DefaultText"
 msgid "I thought this scene needed more action."
-msgstr ""
+msgstr "Myslím, že tato scéna potřebovala více akce."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:65
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:65:DefaultText"
 msgid "Yeah! And - uh - you're about to get a scathing review!"
-msgstr ""
+msgstr "Jo! A - ehm - chystáte se na zdrcující recenzi!"
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:67
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:67:DefaultText"
 msgid "Oh good, I was getting bored."
-msgstr ""
+msgstr "Dobře, už jsem se nudil."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:68
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:68:DefaultText"
 msgid "Stop! It's make-believe!"
-msgstr ""
+msgstr "Přestaňte! Je to jen výmysl!"
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:69
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:69:DefaultText"
 msgid "SAM units aren't just lethal to germs, they're lethal to ALL organic lifeforms. Settings can be adjusted using the \"Easy 1-2-3 Installation Manual.\""
-msgstr ""
+msgstr "Jednotky SAM nejsou smrtící jen pro bakterie, ale pro VŠECHNY organické formy života. Nastavení lze upravit pomocí \"Snadné instalační příručky 1-2-3\"."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:70
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:70:DefaultText"
 msgid "He's really shooting! Safeties off!"
-msgstr ""
+msgstr "Opravdu střílí! Pojistky vypnuty!"
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:70
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:70:FemaleText"
 msgid "She's really shooting! Safeties off!"
-msgstr ""
+msgstr "Opravdu střílí! Pojistky vypnuty!"
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:71
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:71:DefaultText"
 msgid "What are you doing? Go to your mark."
-msgstr ""
+msgstr "Co to děláte? Jdi ke svému cíli."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:72
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:72:DefaultText"
 msgid "Is it \"YOU'RE too late\" or \"you're TOO late?\" Hm."
-msgstr ""
+msgstr "Je to \"JDEŠ pozdě\" nebo \"JDEŠ PŘÍLIŠ pozdě\"? Hm."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:79
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:79:DefaultText"
 msgid "With their patented stomach-stuffing effects and baseline vitamin content, we'll be nigh unstoppable!"
-msgstr ""
+msgstr "Díky jejich patentovaným účinkům na nacpání žaludku a základnímu obsahu vitamínů budeme téměř nezastavitelní!"
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:80
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:80:DefaultText"
 msgid "How did C&P manage to fit MORE in something so tiny?! They're geniuses!"
-msgstr ""
+msgstr "Jak se společnosti C&P podařilo vměstnat VÍCE do něčeho tak malého?! Jsou to géniové!"
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:81
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:81:DefaultText"
 msgid "You trying to snag my C&P endorsement? Take it easy."
-msgstr ""
+msgstr "Snažíš se mi sebrat podporu C&P? Buď v klidu."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:82
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:82:DefaultText"
 msgid "I've been waiting for five years now, and at last my day for vengeance has come!"
-msgstr ""
+msgstr "Čekal jsem na to pět let a konečně přišel můj den pomsty!"
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:83
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:83:DefaultText"
 msgid "You ran like a coward then. You'll run now if you know what's good for you."
-msgstr ""
+msgstr "Pak jsi utekl jako zbabělec. Utečeš i teď, pokud víš, co je pro tebe dobré."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:84
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:84:DefaultText"
 msgid "That's what you think!"
-msgstr ""
+msgstr "To si myslíte vy!"
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:85
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:85:DefaultText"
 msgid "Is this where we're dumping backstory? Because that should come up earlier."
-msgstr ""
+msgstr "Je tohle místo, kde se zbavujeme příběhu? Protože ta by se měla objevit dřív."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:86
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:86:DefaultText"
 msgid "We screen tested that, and the audiences forgot all about it!"
-msgstr ""
+msgstr "Testovali jsme to na plátně a diváci na to úplně zapomněli!"
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:87
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:87:DefaultText"
 msgid "Yes! It is!"
-msgstr ""
+msgstr "Ano! Je to tak!"
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:88
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:88:DefaultText"
 msgid "...Um, when is that day?"
-msgstr ""
+msgstr "...Hm, kdy je ten den?"
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:89
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:89:DefaultText"
 msgid "Dammit! Don't upstage me!"
-msgstr ""
+msgstr "Sakra! Nepředváděj mě!"
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:91
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:91:DefaultText"
 msgid "I- oh, I just got chills."
-msgstr ""
+msgstr "Právě mi běhá mráz po zádech."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:92
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:92:DefaultText"
 msgid "Let's see you try! "
-msgstr ""
+msgstr "Uvidíme, jak to zkusíte! "
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:93
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:93:DefaultText"
 msgid "FINALLY."
-msgstr ""
+msgstr "KONEČNĚ."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:94
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:94:DefaultText"
 msgid "I refuse to work like this! I've done aetherwave spots for Wentsworth, I'll have you know."
-msgstr ""
+msgstr "Odmítám takhle pracovat! Pro Wentswortha jsem dělal spoty s éterovou vlnou, to musíš vědět."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:97
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:97:DefaultText"
 msgid "I- line? Never mind, I think that's scene."
-msgstr ""
+msgstr "I- line? Nevadí, myslím, že to je scéna."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:98
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:98:DefaultText"
 msgid "All of this settlement's C&P HungryTime Food Pills - same nutritional value, but now with added filler - are ours! "
-msgstr ""
+msgstr "Všechny tablety C&P HungryTime Food Pills z této osady - se stejnou výživovou hodnotou, ale nyní s přidanou náplní - jsou naše! "
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:99
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:99:DefaultText"
 msgid "...What an unexpected twist! You may have fooled me for now, but not for long!"
-msgstr ""
+msgstr "...Jaký nečekaný zvrat! Možná jsi mě prozatím oklamal, ale ne na dlouho!"
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:100
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:100:DefaultText"
 msgid "I had you surrounded and outgunned! But you overcame my superior numbers with tactical thinking and a Hammersmith Limited Edition Grenade Launcher!"
-msgstr ""
+msgstr "Obklíčil jsem tě a přestřelil! Ale ty jsi překonal mou přesilu taktickým myšlením a granátometem z limitované edice Hammersmith!"
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:101
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:101:DefaultText"
 msgid "What of it?"
-msgstr ""
+msgstr "Co s tím?"
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:102
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:102:DefaultText"
 msgid "<Remain stoically silent.>"
-msgstr ""
+msgstr "<Zůstaňte stoicky zticha.>"
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:103
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:103:DefaultText"
 msgid "The things you just described are scientifically impossible."
-msgstr ""
+msgstr "Věci, které jste právě popsal, jsou z vědeckého hlediska nemožné."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:104
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:104:DefaultText"
 msgid "I'm confused! Have we actually met before?"
-msgstr ""
+msgstr "Jsem zmatený! Už jsme se někdy setkali?"
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:105
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:105:DefaultText"
 msgid "Hey, I didn't write this. Just go with it."
-msgstr ""
+msgstr "Hele, já to nenapsal. Prostě se s tím smiř."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:106
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:106:DefaultText"
 msgid "What indeed!"
-msgstr ""
+msgstr "Cože?"
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:107
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:107:DefaultText"
 msgid "I see you haven't changed a bit, Steele."
-msgstr ""
+msgstr "Vidím, že ses ani trochu nezměnil, Steele."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:108
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:108:DefaultText"
 msgid "Oh, I'm sorry, am I not giving this scene enough energy for you?"
-msgstr ""
+msgstr "Promiňte, ale copak vám nedávám této scéně dost energie?"
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:109
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:109:DefaultText"
 msgid "I have this whole port wired with submicro energon transistors! "
-msgstr ""
+msgstr "Mám celý tento port propojený submikro energonovými tranzistory! "
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:110
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:110:DefaultText"
 msgid "Plasma's already a vapor-like kind of thing. You can't re-vaporize it. Can you?"
-msgstr ""
+msgstr "Plazma je už teď podobná páře. Nemůžete ji znovu odpařit. Můžeš?"
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:111
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:111:DefaultText"
 msgid "<Exude wordless fury.>"
-msgstr ""
+msgstr "<Vyzařovat zuřivost beze slov.>"
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:112
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:112:DefaultText"
 msgid "Speechless, I see! It is a flawless plan."
-msgstr ""
+msgstr "Vidím, že nemáte slov! Je to bezchybný plán."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:113
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:113:DefaultText"
 msgid "Most of those words are made up, and the ones that are real don't work like that."
-msgstr ""
+msgstr "Většina těchto slov je vymyšlená a ta, která jsou skutečná, takhle nefungují."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:114
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:114:DefaultText"
 msgid "Quiet! You're supposed to be an extra!"
-msgstr ""
+msgstr "Ticho! Máš být komparzista!"
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:115
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:115:DefaultText"
 msgid "<Say nothing, but make your eye twitch a little.>"
-msgstr ""
+msgstr "<Neříkejte nic, ale nechte oko trochu cuknout.>"
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:116
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:116:DefaultText"
 msgid "Yes, even you are powerless this time, Steele!"
-msgstr ""
+msgstr "Ano, i ty jsi tentokrát bezmocný, Steele!"
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:117
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:117:DefaultText"
 msgid "...But still, you'll not stop me now!"
-msgstr ""
+msgstr "...Ale stejně mě teď nezastavíš!"
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:118
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:118:DefaultText"
 msgid "Not if I have anything to say about it!"
-msgstr ""
+msgstr "Ne, pokud k tomu mám co říct!"
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:119
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:119:DefaultText"
 msgid "And I spent three hours learning how to pronounce them!"
-msgstr ""
+msgstr "A strávil jsem tři hodiny tím, že jsem se je učil vyslovovat!"
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:120
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:120:DefaultText"
 msgid "Data! Calibration! Microscope!"
-msgstr ""
+msgstr "Data! Kalibrace! Mikroskop!"
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:121
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:121:DefaultText"
 msgid "Oh, but there's nothing you can do!"
-msgstr ""
+msgstr "Ale s tím nic nenaděláš!"
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:122
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:122:DefaultText"
 msgid "Uh... Energon transistors! Gamma thing! Vaporized plasma!"
-msgstr ""
+msgstr "Uh... Energonové tranzistory! Gama věc! Odpařená plazma!"
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:123
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:123:DefaultText"
 msgid "What the fuck are you doing?"
-msgstr ""
+msgstr "Co to kurva děláš?"
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:124
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:124:DefaultText"
 msgid "Saying science words! Isn't that what's happening now?"
-msgstr ""
+msgstr "Říkat vědecká slova! Není to to, co se teď děje?"
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:125
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:125:DefaultText"
 msgid "I'm supposed to say the science words! You're just making me look bad!"
-msgstr ""
+msgstr "Mám říkat vědecká slova! Děláte ze mě jen špatného člověka!"
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:126
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:126:DefaultText"
 msgid "You're not even taking this seriously!"
-msgstr ""
+msgstr "Vždyť to ani nebereš vážně!"
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:128
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:128:DefaultText"
 msgid "Plasma's already a vapor-like kind of thing. You can't re-vaporize it. Can you?"
-msgstr ""
+msgstr "Plazma je už teď podobná páře. Nemůžete ji znovu odpařit. Můžeš?"
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:129
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:129:DefaultText"
 msgid "Quiet! You're supposed to be an extra!"
-msgstr ""
+msgstr "Ticho! Máš být komparzista!"
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:130
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:130:DefaultText"
 msgid "Once we're away, I'll activate the gamma particulate field, and the quantoponic chain reaction will turn this whole place into vaporized plasma!"
-msgstr ""
+msgstr "Jakmile budeme pryč, aktivuji pole gama částic a kvantoponická řetězová reakce promění celé tohle místo v odpařenou plazmu!"
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:131
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:131:DefaultText"
 msgid "Wow - you got a real limited edition? With ten percent more ammo, for twelve percent more carnage?"
-msgstr ""
+msgstr "Páni - máš opravdu limitovanou edici? O deset procent více munice, o dvanáct procent více krveprolití?"
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:132
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:132:DefaultText"
 msgid "Quit upstaging me!"
-msgstr ""
+msgstr "Přestaň mě vyvyšovat!"
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:133
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:133:DefaultText"
 msgid "This what passes for entertainment around here? They oughta try tossing back a Spectrum Red and going rapt hunting. Someone's bound to lose an eye. It'll be a riot."
-msgstr ""
+msgstr "Tohle se tady považuje za zábavu? Měli by si zkusit dát Spectrum Red a jít na lov. Někdo určitě přijde o oko. To by byla výtržnost."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:134
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:134:DefaultText"
 msgid "Hey, no one told me we were giving critics an early look. I gotta focus, okay?"
-msgstr ""
+msgstr "Hej, nikdo mi neřekl, že jsme kritikům dali přednost. Musím se soustředit, dobře?"
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:135
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_actor_leader:135:DefaultText"
 msgid "Doesn't matter. I wanna shoot someone."
-msgstr ""
+msgstr "Na tom nezáleží. Chci někoho zastřelit."

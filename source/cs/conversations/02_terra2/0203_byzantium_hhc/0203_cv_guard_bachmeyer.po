@@ -1,249 +1,249 @@
 #: conversations/02_terra2/0203_byzantium_hhc/0203_cv_guard_bachmeyer:1
 msgctxt "conversations/02_terra2/0203_byzantium_hhc/0203_cv_guard_bachmeyer:1:DefaultText"
 msgid "Are you here on HHC business?"
-msgstr ""
+msgstr "Jste tu kvůli HHC?"
 
 #: conversations/02_terra2/0203_byzantium_hhc/0203_cv_guard_bachmeyer:4
 msgctxt "conversations/02_terra2/0203_byzantium_hhc/0203_cv_guard_bachmeyer:4:DefaultText"
 msgid "I need to see the Chairman."
-msgstr ""
+msgstr "Potřebuji vidět předsedu."
 
 #: conversations/02_terra2/0203_byzantium_hhc/0203_cv_guard_bachmeyer:5
 msgctxt "conversations/02_terra2/0203_byzantium_hhc/0203_cv_guard_bachmeyer:5:DefaultText"
 msgid "Yeah, and I need a new flavor of Tileritos."
-msgstr ""
+msgstr "Jo, a potřebuju novou příchuť Tileritos."
 
 #: conversations/02_terra2/0203_byzantium_hhc/0203_cv_guard_bachmeyer:6
 msgctxt "conversations/02_terra2/0203_byzantium_hhc/0203_cv_guard_bachmeyer:6:DefaultText"
 msgid "I'll be going now."
-msgstr ""
+msgstr "Teď už půjdu."
 
 #: conversations/02_terra2/0203_byzantium_hhc/0203_cv_guard_bachmeyer:7
 msgctxt "conversations/02_terra2/0203_byzantium_hhc/0203_cv_guard_bachmeyer:7:DefaultText"
 msgid "What's through here?"
-msgstr ""
+msgstr "Co je tady?"
 
 #: conversations/02_terra2/0203_byzantium_hhc/0203_cv_guard_bachmeyer:8
 msgctxt "conversations/02_terra2/0203_byzantium_hhc/0203_cv_guard_bachmeyer:8:DefaultText"
 msgid "If you're not cleared to know, then I'm definitely not cleared to tell you."
-msgstr ""
+msgstr "Pokud nemáte oprávnění to vědět, pak já rozhodně nemám oprávnění vám to říct."
 
 #: conversations/02_terra2/0203_byzantium_hhc/0203_cv_guard_bachmeyer:9
 msgctxt "conversations/02_terra2/0203_byzantium_hhc/0203_cv_guard_bachmeyer:9:DefaultText"
 msgid "<Show him the minister's HHC access card.> Is this official enough for you?"
-msgstr ""
+msgstr "<Ukažte mu přístupovou kartu ministra HHC.> Je to pro vás dostatečně oficiální?"
 
 #: conversations/02_terra2/0203_byzantium_hhc/0203_cv_guard_bachmeyer:10
 msgctxt "conversations/02_terra2/0203_byzantium_hhc/0203_cv_guard_bachmeyer:10:DefaultText"
 msgid "Huh. I didn't realize we were still using those iridescent stickers. But this looks right."
-msgstr ""
+msgstr "Huh. Neuvědomil jsem si, že stále používáme ty duhové nálepky. Ale tohle vypadá správně."
 
 #: conversations/02_terra2/0203_byzantium_hhc/0203_cv_guard_bachmeyer:11
 msgctxt "conversations/02_terra2/0203_byzantium_hhc/0203_cv_guard_bachmeyer:11:DefaultText"
 msgid "I'll just need you to register your weapons with a Revised Request to Carry 32-B form. Each weapon will need a separate form. "
-msgstr ""
+msgstr "Potřebuji jen, abyste zaregistrovali své zbraně pomocí formuláře Revised Request to Carry 32-B. Každá zbraň bude potřebovat samostatný formulář. "
 
 #: conversations/02_terra2/0203_byzantium_hhc/0203_cv_guard_bachmeyer:12
 msgctxt "conversations/02_terra2/0203_byzantium_hhc/0203_cv_guard_bachmeyer:12:DefaultText"
 msgid "Now, let's see... damn it, when did I run out of forms?!"
-msgstr ""
+msgstr "Tak se na to podíváme... sakra, kdy mi došly formuláře?!"
 
 #: conversations/02_terra2/0203_byzantium_hhc/0203_cv_guard_bachmeyer:13
 msgctxt "conversations/02_terra2/0203_byzantium_hhc/0203_cv_guard_bachmeyer:13:DefaultText"
 msgid "Fine."
-msgstr ""
+msgstr "V pořádku."
 
 #: conversations/02_terra2/0203_byzantium_hhc/0203_cv_guard_bachmeyer:16
 msgctxt "conversations/02_terra2/0203_byzantium_hhc/0203_cv_guard_bachmeyer:16:DefaultText"
 msgid "Just know there are a bunch of guards upstairs, and they're all high on Dervish Mist and low on patience. So, try anything funny, and they'll paint the walls with your guts."
-msgstr ""
+msgstr "Věz, že nahoře je spousta strážců, kteří jsou nadopovaní dervišskou mlhou a mají málo trpělivosti. Takže zkuste něco legračního a oni vám pomalují stěny střevy."
 
 #: conversations/02_terra2/0203_byzantium_hhc/0203_cv_guard_bachmeyer:17
 msgctxt "conversations/02_terra2/0203_byzantium_hhc/0203_cv_guard_bachmeyer:17:DefaultText"
 msgid "It's probably all those mercenaries Ms. Akande's been hiring. I swear, it's someone new every day, and each of them with enough guns to seize a small moon."
-msgstr ""
+msgstr "Nejspíš za to mohou všichni ti žoldáci, které paní Akandeová najímá. Přísahám, že každý den je to někdo nový a každý z nich má tolik zbraní, že by stačily na malý měsíc."
 
 #: conversations/02_terra2/0203_byzantium_hhc/0203_cv_guard_bachmeyer:18
 msgctxt "conversations/02_terra2/0203_byzantium_hhc/0203_cv_guard_bachmeyer:18:DefaultText"
 msgid "You're cleared. Go on through."
-msgstr ""
+msgstr "Máte povolení. Projděte."
 
 #: conversations/02_terra2/0203_byzantium_hhc/0203_cv_guard_bachmeyer:20
 msgctxt "conversations/02_terra2/0203_byzantium_hhc/0203_cv_guard_bachmeyer:20:DefaultText"
 msgid "Please step away. This entry is for high-priority HHC business only."
-msgstr ""
+msgstr "Ustupte, prosím. Tento vstup je určen pouze pro vysoce prioritní záležitosti HHC."
 
 #: conversations/02_terra2/0203_byzantium_hhc/0203_cv_guard_bachmeyer:21
 msgctxt "conversations/02_terra2/0203_byzantium_hhc/0203_cv_guard_bachmeyer:21:DefaultText"
 msgid "Chairman Rockwell's away on business. And even if he were here, you'd need to request an application for an appointment."
-msgstr ""
+msgstr "Předseda Rockwell je na služební cestě. A i kdyby tu byl, museli byste si o schůzku požádat."
 
 #: conversations/02_terra2/0203_byzantium_hhc/0203_cv_guard_bachmeyer:22
 msgctxt "conversations/02_terra2/0203_byzantium_hhc/0203_cv_guard_bachmeyer:22:DefaultText"
 msgid "How would I do that?"
-msgstr ""
+msgstr "Jak bych to udělal?"
 
 #: conversations/02_terra2/0203_byzantium_hhc/0203_cv_guard_bachmeyer:23
 msgctxt "conversations/02_terra2/0203_byzantium_hhc/0203_cv_guard_bachmeyer:23:DefaultText"
 msgid "Forget it."
-msgstr ""
+msgstr "Zapomeňte na to."
 
 #: conversations/02_terra2/0203_byzantium_hhc/0203_cv_guard_bachmeyer:24
 msgctxt "conversations/02_terra2/0203_byzantium_hhc/0203_cv_guard_bachmeyer:24:DefaultText"
 msgid "How should I know? No one ever gets an appointment with the Chairman."
-msgstr ""
+msgstr "Jak to mám vědět? Nikdo nikdy nedostane schůzku s předsedou."
 
 #: conversations/02_terra2/0203_byzantium_hhc/0203_cv_guard_bachmeyer:25
 msgctxt "conversations/02_terra2/0203_byzantium_hhc/0203_cv_guard_bachmeyer:25:DefaultText"
 msgid "That all?"
-msgstr ""
+msgstr "To je všechno?"
 
 #: conversations/02_terra2/0203_byzantium_hhc/0203_cv_guard_bachmeyer:26
 msgctxt "conversations/02_terra2/0203_byzantium_hhc/0203_cv_guard_bachmeyer:26:DefaultText"
 msgid "That's ridiculous."
-msgstr ""
+msgstr "To je směšné."
 
 #: conversations/02_terra2/0203_byzantium_hhc/0203_cv_guard_bachmeyer:27
 msgctxt "conversations/02_terra2/0203_byzantium_hhc/0203_cv_guard_bachmeyer:27:DefaultText"
 msgid "You'd better be joking."
-msgstr ""
+msgstr "Raději si dělejte legraci."
 
 #: conversations/02_terra2/0203_byzantium_hhc/0203_cv_guard_bachmeyer:28
 msgctxt "conversations/02_terra2/0203_byzantium_hhc/0203_cv_guard_bachmeyer:28:DefaultText"
 msgid "I'm not authorized to employ humor on the job, sir."
-msgstr ""
+msgstr "Nejsem oprávněn používat v práci humor, pane."
 
 #: conversations/02_terra2/0203_byzantium_hhc/0203_cv_guard_bachmeyer:28
 msgctxt "conversations/02_terra2/0203_byzantium_hhc/0203_cv_guard_bachmeyer:28:FemaleText"
 msgid "I'm not authorized to employ humor on the job, ma'am."
-msgstr ""
+msgstr "Nejsem oprávněn používat v práci humor, madam."
 
 #: conversations/02_terra2/0203_byzantium_hhc/0203_cv_guard_bachmeyer:29
 msgctxt "conversations/02_terra2/0203_byzantium_hhc/0203_cv_guard_bachmeyer:29:DefaultText"
 msgid "It's procedure."
-msgstr ""
+msgstr "Je to postup."
 
 #: conversations/02_terra2/0203_byzantium_hhc/0203_cv_guard_bachmeyer:30
 msgctxt "conversations/02_terra2/0203_byzantium_hhc/0203_cv_guard_bachmeyer:30:DefaultText"
 msgid "I can wait."
-msgstr ""
+msgstr "Mohu počkat."
 
 #: conversations/02_terra2/0203_byzantium_hhc/0203_cv_guard_bachmeyer:31
 msgctxt "conversations/02_terra2/0203_byzantium_hhc/0203_cv_guard_bachmeyer:31:DefaultText"
 msgid "Oh, what a SHAME."
-msgstr ""
+msgstr "To je ale ostuda."
 
 #: conversations/02_terra2/0203_byzantium_hhc/0203_cv_guard_bachmeyer:32
 msgctxt "conversations/02_terra2/0203_byzantium_hhc/0203_cv_guard_bachmeyer:32:DefaultText"
 msgid "Well, how nice for you! Do you have any idea how long it takes to request new forms? Or how many citations I'll get for \"impeding HHC business\" in the meantime?"
-msgstr ""
+msgstr "To je pro vás hezké! Máte představu, jak dlouho trvá vyžádání nových formulářů? Nebo kolik citací za \"bránění v činnosti HHC\" mezitím dostanu?"
 
 #: conversations/02_terra2/0203_byzantium_hhc/0203_cv_guard_bachmeyer:33
 msgctxt "conversations/02_terra2/0203_byzantium_hhc/0203_cv_guard_bachmeyer:33:DefaultText"
 msgid "I'm supposed to meet Sophia Akande."
-msgstr ""
+msgstr "Mám se setkat se Sophií Akandeovou."
 
 #: conversations/02_terra2/0203_byzantium_hhc/0203_cv_guard_bachmeyer:34
 msgctxt "conversations/02_terra2/0203_byzantium_hhc/0203_cv_guard_bachmeyer:34:DefaultText"
 msgid "She's sure been busy."
-msgstr ""
+msgstr "Určitě měla hodně práce."
 
 #: conversations/02_terra2/0203_byzantium_hhc/0203_cv_guard_bachmeyer:35
 msgctxt "conversations/02_terra2/0203_byzantium_hhc/0203_cv_guard_bachmeyer:35:DefaultText"
 msgid "How about you save us both some trouble and let me through?"
-msgstr ""
+msgstr "Co kdybyste nám oběma ušetřil práci a nechal mě projít?"
 
 #: conversations/02_terra2/0203_byzantium_hhc/0203_cv_guard_bachmeyer:36
 msgctxt "conversations/02_terra2/0203_byzantium_hhc/0203_cv_guard_bachmeyer:36:DefaultText"
 msgid "I was going to suggest that myself."
-msgstr ""
+msgstr "Sám jsem to chtěl navrhnout."
 
 #: conversations/02_terra2/0203_byzantium_hhc/0203_cv_guard_bachmeyer:37
 msgctxt "conversations/02_terra2/0203_byzantium_hhc/0203_cv_guard_bachmeyer:37:DefaultText"
 msgid "Look, you don't have time to wait on new forms, and I can't afford the citations for impeding HHC business. So I'm gonna save us both some trouble and waive your forms."
-msgstr ""
+msgstr "Podívejte, nemáte čas čekat na nové formuláře a já si nemohu dovolit obvinění z bránění v činnosti HHC. Takže nám oběma ušetřím starosti a odpustím ti formuláře."
 
 #: conversations/02_terra2/0203_byzantium_hhc/0203_cv_guard_bachmeyer:38
 msgctxt "conversations/02_terra2/0203_byzantium_hhc/0203_cv_guard_bachmeyer:38:DefaultText"
 msgid "Mighty fine of you."
-msgstr ""
+msgstr "To je od vás moc hezké."
 
 #: conversations/02_terra2/0203_byzantium_hhc/0203_cv_guard_bachmeyer:39
 msgctxt "conversations/02_terra2/0203_byzantium_hhc/0203_cv_guard_bachmeyer:39:DefaultText"
 msgid "<Roll your eyes.>"
-msgstr ""
+msgstr "<Vyvalte oči.>"
 
 #: conversations/02_terra2/0203_byzantium_hhc/0203_cv_guard_bachmeyer:40
 msgctxt "conversations/02_terra2/0203_byzantium_hhc/0203_cv_guard_bachmeyer:40:DefaultText"
 msgid "Fine, but I suggested it first."
-msgstr ""
+msgstr "Dobře, ale já jsem to navrhl první."
 
 #: conversations/02_terra2/0203_byzantium_hhc/0203_cv_guard_bachmeyer:41
 msgctxt "conversations/02_terra2/0203_byzantium_hhc/0203_cv_guard_bachmeyer:41:DefaultText"
 msgid "You don't have to be sarcastic about it."
-msgstr ""
+msgstr "Nemusíte to brát sarkasticky."
 
 #: conversations/02_terra2/0203_byzantium_hhc/0203_cv_guard_bachmeyer:42
 msgctxt "conversations/02_terra2/0203_byzantium_hhc/0203_cv_guard_bachmeyer:42:DefaultText"
 msgid "Look, you don't have time to wait on new forms, and I can't afford the citations for impeding HHC business. So I'm gonna save us both some trouble and waive your forms."
-msgstr ""
+msgstr "Podívejte, nemáte čas čekat na nové formuláře a já si nemohu dovolit obvinění z bránění v činnosti HHC. Takže nám oběma ušetřím starosti a odpustím ti formuláře."
 
 #: conversations/02_terra2/0203_byzantium_hhc/0203_cv_guard_bachmeyer:43
 msgctxt "conversations/02_terra2/0203_byzantium_hhc/0203_cv_guard_bachmeyer:43:DefaultText"
 msgid "Where are your clothes? Wait, is it Thursday already? "
-msgstr ""
+msgstr "Kde máš oblečení? Počkej, už je čtvrtek? "
 
 #: conversations/02_terra2/0203_byzantium_hhc/0203_cv_guard_bachmeyer:44
 msgctxt "conversations/02_terra2/0203_byzantium_hhc/0203_cv_guard_bachmeyer:44:DefaultText"
 msgid "Sorry, I thought you were someone else. I'm going to have to ask you to step away. This entrance is reserved for HHC business."
-msgstr ""
+msgstr "Promiňte, myslel jsem, že jste někdo jiný. Budu vás muset požádat, abyste odešel. Tento vchod je vyhrazen pro záležitosti HHC."
 
 #: conversations/02_terra2/0203_byzantium_hhc/0203_cv_guard_bachmeyer:45
 msgctxt "conversations/02_terra2/0203_byzantium_hhc/0203_cv_guard_bachmeyer:45:DefaultText"
 msgid "Do you see naked people come through here often?"
-msgstr ""
+msgstr "Chodí tudy často nazí lidé?"
 
 #: conversations/02_terra2/0203_byzantium_hhc/0203_cv_guard_bachmeyer:46
 msgctxt "conversations/02_terra2/0203_byzantium_hhc/0203_cv_guard_bachmeyer:46:DefaultText"
 msgid "Look, a lot of very important, very busy people work on the top floor. How they spend corporate funds to relieve their stress is no business of mine."
-msgstr ""
+msgstr "Podívejte, v horním patře pracuje spousta velmi důležitých a zaneprázdněných lidí. Do toho, jak utrácejí firemní peníze, aby se zbavili stresu, mi nic není."
 
 #: conversations/02_terra2/0203_byzantium_hhc/0203_cv_guard_bachmeyer:47
 msgctxt "conversations/02_terra2/0203_byzantium_hhc/0203_cv_guard_bachmeyer:47:DefaultText"
 msgid "Maybe I left Byzantium too soon."
-msgstr ""
+msgstr "Možná jsem Byzanc opustil příliš brzy."
 
 #: conversations/02_terra2/0203_byzantium_hhc/0203_cv_guard_bachmeyer:49
 msgctxt "conversations/02_terra2/0203_byzantium_hhc/0203_cv_guard_bachmeyer:49:DefaultText"
 msgid "State your business."
-msgstr ""
+msgstr "Uveďte svůj obor podnikání."
 
 #: conversations/02_terra2/0203_byzantium_hhc/0203_cv_guard_bachmeyer:50
 msgctxt "conversations/02_terra2/0203_byzantium_hhc/0203_cv_guard_bachmeyer:50:DefaultText"
 msgid "Don't worry, boss. I got plan. First, we get ourselves some tossball sticks, right? Then we sidle up to 'em all polite-like..."
-msgstr ""
+msgstr "Nebojte se, šéfe. Mám plán. Nejdřív si pořídíme nějaké hokejky na házení, ne? Pak se k nim zdvořile přiblížíme..."
 
 #: conversations/02_terra2/0203_byzantium_hhc/0203_cv_guard_bachmeyer:52
 msgctxt "conversations/02_terra2/0203_byzantium_hhc/0203_cv_guard_bachmeyer:52:DefaultText"
 msgid "Felix, don't you start!"
-msgstr ""
+msgstr "Felixi, nezačínej!"
 
 #: conversations/02_terra2/0203_byzantium_hhc/0203_cv_guard_bachmeyer:54
 msgctxt "conversations/02_terra2/0203_byzantium_hhc/0203_cv_guard_bachmeyer:54:DefaultText"
 msgid "This isn't the place for your tomfoolery, Felix."
-msgstr ""
+msgstr "Tohle není místo pro tvé hlouposti, Felixi."
 
 #: conversations/02_terra2/0203_byzantium_hhc/0203_cv_guard_bachmeyer:55
 msgctxt "conversations/02_terra2/0203_byzantium_hhc/0203_cv_guard_bachmeyer:55:DefaultText"
 msgid "These ain't humorous types, Felix."
-msgstr ""
+msgstr "Tohle nejsou žertovné typy, Felixi."
 
 #: conversations/02_terra2/0203_byzantium_hhc/0203_cv_guard_bachmeyer:56
 msgctxt "conversations/02_terra2/0203_byzantium_hhc/0203_cv_guard_bachmeyer:56:DefaultText"
 msgid "You do that. The rest of us'll watch."
-msgstr ""
+msgstr "To udělejte vy. My ostatní se budeme dívat."
 
 #: conversations/02_terra2/0203_byzantium_hhc/0203_cv_guard_bachmeyer:57
 msgctxt "conversations/02_terra2/0203_byzantium_hhc/0203_cv_guard_bachmeyer:57:DefaultText"
 msgid "Switching to DEEP SCRUBBING mode."
-msgstr ""
+msgstr "Přepnutí do režimu DEEP SCRUBBING."

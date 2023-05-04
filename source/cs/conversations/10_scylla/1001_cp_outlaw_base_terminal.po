@@ -4,17 +4,17 @@ msgid "Harlow's Crew Terminal - Welcome to the High Ground, Soldier\r\n"
 "===============================================\r\n"
 "\r\n"
 "Main menu"
-msgstr ""
+msgstr "Posádkový terminál Harlow - Vítejte na High Ground, Soldier =============================================== Hlavní menu"
 
 #: conversations/10_scylla/1001_cp_outlaw_base_terminal:2
 msgctxt "conversations/10_scylla/1001_cp_outlaw_base_terminal:2:DefaultText"
 msgid "[Logs]"
-msgstr ""
+msgstr "[Deníky]"
 
 #: conversations/10_scylla/1001_cp_outlaw_base_terminal:3
 msgctxt "conversations/10_scylla/1001_cp_outlaw_base_terminal:3:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"
 
 #: conversations/10_scylla/1001_cp_outlaw_base_terminal:4
 msgctxt "conversations/10_scylla/1001_cp_outlaw_base_terminal:4:DefaultText"
@@ -22,22 +22,22 @@ msgid "Harlow's Crew Terminal - Welcome to the High Ground, Soldier\r\n"
 "===============================================\r\n"
 "\r\n"
 "Logs"
-msgstr ""
+msgstr "Terminál posádky Harlow - Vítejte na výsostech, voják =============================================== Deníky"
 
 #: conversations/10_scylla/1001_cp_outlaw_base_terminal:5
 msgctxt "conversations/10_scylla/1001_cp_outlaw_base_terminal:5:DefaultText"
 msgid "[Return to Root]"
-msgstr ""
+msgstr "[Zpět na kořen]"
 
 #: conversations/10_scylla/1001_cp_outlaw_base_terminal:6
 msgctxt "conversations/10_scylla/1001_cp_outlaw_base_terminal:6:DefaultText"
 msgid "[Acquisitions Log]"
-msgstr ""
+msgstr "[Akviziční deník]"
 
 #: conversations/10_scylla/1001_cp_outlaw_base_terminal:7
 msgctxt "conversations/10_scylla/1001_cp_outlaw_base_terminal:7:DefaultText"
 msgid "[Memo]"
-msgstr ""
+msgstr "[Memo]"
 
 #: conversations/10_scylla/1001_cp_outlaw_base_terminal:8
 msgctxt "conversations/10_scylla/1001_cp_outlaw_base_terminal:8:DefaultText"
@@ -57,7 +57,7 @@ msgid "Harlow's Crew Terminal - Welcome to the High Ground, Soldier\r\n"
 "Summary: Brought down, salvaged cargo, crew jettisoned in escape pod.\r\n"
 "\r\n"
 "As usual, we were able to intercept these ships despite how cleverly they masked their heat signatures. Our patron pulled through again with that tracking data. Don't know how they get their hands on it, but we're in no position to refuse charity."
-msgstr ""
+msgstr "Harlow's Crew Terminal - Vítejte na High Ground, Soldier =============================================== Independent Freighter: Cat's Meow Haul: Nezávislá nákladní loď: Getaway Sticks Haul: Nákladní loď: Podvratná literatura Shrnutí: Stažena, zachráněn náklad, posádka se připojila. Nákladní loď: Vlkodlak Přeprava: Jako obvykle se nám podařilo tyto lodě zachytit navzdory tomu, jak šikovně maskovaly své tepelné stopy. Náš patron se opět vytasil s těmi sledovacími údaji. Nevím, jak se k nim dostali, ale nejsme v pozici, kdy bychom mohli odmítnout charitu."
 
 #: conversations/10_scylla/1001_cp_outlaw_base_terminal:9
 msgctxt "conversations/10_scylla/1001_cp_outlaw_base_terminal:9:DefaultText"
@@ -73,12 +73,12 @@ msgid "Harlow's Crew Terminal - Welcome to the High Ground, Soldier\r\n"
 "Something doesn't add up. Until I get answers, stay skeptical. \r\n"
 "\r\n"
 "-Harlow"
-msgstr ""
+msgstr "Harlowův posádkový terminál - Vítejte na High Ground, vojáku =============================================== Posádko, začínám se zajímat o naše... \"patronovi.\" Když jsme otevřeli skenery a očichávali systém kvůli naší poslední divoké kočce, zachytili jsme signál z nedaleké korporátní nákladní lodi. Vezla desetkrát více nákladu než náš cíl. Sotva jsme ji naskenovali, přišla zpráva, která nám přikazovala, abychom místo toho šli po divoké kočce. Něco mi na tom nesedí. Dokud nedostanu odpovědi, zůstaň skeptický. -Harlow"
 
 #: conversations/10_scylla/1001_cp_outlaw_base_terminal:10
 msgctxt "conversations/10_scylla/1001_cp_outlaw_base_terminal:10:DefaultText"
 msgid "[Open Last Entry]"
-msgstr ""
+msgstr "[Otevřít poslední záznam]"
 
 #: conversations/10_scylla/1001_cp_outlaw_base_terminal:11
 msgctxt "conversations/10_scylla/1001_cp_outlaw_base_terminal:11:DefaultText"
@@ -96,4 +96,4 @@ msgid "Harlow's Crew Terminal - Welcome to the High Ground, Soldier\r\n"
 "Fuck rules. And fuck terminals. It's not a revolution if we're using the weapons THEY raised against us time and time again, from the front lines of the riots to the corporate sit-ins and-\r\n"
 "\r\n"
 "[ERROR: Document \"Pirate's Code\" has exceeded character limit]"
-msgstr ""
+msgstr "Terminál Harlowovy posádky - Vítejte na High Ground, vojáku =============================================== Pirátský kodex Pravidlo č. 1: Harlow je šéf. Pravidlo č. 2: Srát na radu. Pravidlo č. 3: Proč to ještě čteš, ty prase? PROBUĎ SE. Jestli tohle vidíš, tak už tě Rada vlastní. Šel jsi HLEDAT pravidla. Proč, protože život je pro tebe hra? Možná se ti líbí, když si s tebou někdo hraje. Ten pocit bezpečí hltáš, jako by to bylo opium s příchutí purpury. kašli na pravidla. A kašlu na terminály. Není to revoluce, když používáme zbraně, které proti nám znovu a znovu zvedají ONI, od frontových linií nepokojů po korporátní sit-ins a- [CHYBA: Dokument \"Pirátský kód\" překročil limit znaků]."

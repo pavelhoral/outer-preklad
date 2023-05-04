@@ -1,99 +1,99 @@
 #: conversations/04_monarch/0401/0401_cv_carlotta:1
 msgctxt "conversations/04_monarch/0401/0401_cv_carlotta:1:DefaultText"
 msgid "I don't know how you got those goons to leave, but thank you."
-msgstr ""
+msgstr "Nevím, jak jsi přiměla ty hochy, aby odešli, ale děkuji ti."
 
 #: conversations/04_monarch/0401/0401_cv_carlotta:8
 msgctxt "conversations/04_monarch/0401/0401_cv_carlotta:8:DefaultText"
 msgid "Like I said, this is my last run."
-msgstr ""
+msgstr "Jak jsem řekl, tohle je můj poslední běh."
 
 #: conversations/04_monarch/0401/0401_cv_carlotta:9
 msgctxt "conversations/04_monarch/0401/0401_cv_carlotta:9:DefaultText"
 msgid "Zora suggested extra food and medicine."
-msgstr ""
+msgstr "Zora navrhla další jídlo a léky."
 
 #: conversations/04_monarch/0401/0401_cv_carlotta:10
 msgctxt "conversations/04_monarch/0401/0401_cv_carlotta:10:DefaultText"
 msgid "Graham's looking for some high-capacity data cartridges."
-msgstr ""
+msgstr "Graham hledá vysokokapacitní datové kazety."
 
 #: conversations/04_monarch/0401/0401_cv_carlotta:11
 msgctxt "conversations/04_monarch/0401/0401_cv_carlotta:11:DefaultText"
 msgid "<Attack> I'm just going to take everything you have."
-msgstr ""
+msgstr "<Útok> Prostě ti vezmu všechno, co máš."
 
 #: conversations/04_monarch/0401/0401_cv_carlotta:15
 msgctxt "conversations/04_monarch/0401/0401_cv_carlotta:15:DefaultText"
 msgid "Go on. I need to get moving."
-msgstr ""
+msgstr "Pokračujte. Musím se pohnout."
 
 #: conversations/04_monarch/0401/0401_cv_carlotta:20
 msgctxt "conversations/04_monarch/0401/0401_cv_carlotta:20:DefaultText"
 msgid "Let's make this quick."
-msgstr ""
+msgstr "Udělejme to rychle."
 
 #: conversations/04_monarch/0401/0401_cv_carlotta:21
 msgctxt "conversations/04_monarch/0401/0401_cv_carlotta:21:DefaultText"
 msgid "Thanks for clearing out those goons. Please don't kill me next."
-msgstr ""
+msgstr "Děkuji za vyčištění těch hajzlů. Příště mě prosím nezabíjejte."
 
 #: conversations/04_monarch/0401/0401_cv_carlotta:22
 msgctxt "conversations/04_monarch/0401/0401_cv_carlotta:22:DefaultText"
 msgid "Graham ordered rollers and whats-its, right? For a... printing press? Here. Take them."
-msgstr ""
+msgstr "Graham si objednal válečky a cokoliv, že? Pro... tiskařský lis? Tady. Vezmi si je."
 
 #: conversations/04_monarch/0401/0401_cv_carlotta:40
 msgctxt "conversations/04_monarch/0401/0401_cv_carlotta:40:DefaultText"
 msgid "Why did Sanjar ban you from working with the Iconoclasts?"
-msgstr ""
+msgstr "Proč vám Sanjar zakázal spolupracovat s Iconoclasty?"
 
 #: conversations/04_monarch/0401/0401_cv_carlotta:41
 msgctxt "conversations/04_monarch/0401/0401_cv_carlotta:41:DefaultText"
 msgid "You'd have to ask him. All I know is that if I get caught, I'll get arrested."
-msgstr ""
+msgstr "Musíte se ho zeptat. Vím jen, že jestli mě chytí, tak mě zavřou."
 
 #: conversations/04_monarch/0401/0401_cv_carlotta:44
 msgctxt "conversations/04_monarch/0401/0401_cv_carlotta:44:DefaultText"
 msgid "Why have you been helping Graham?"
-msgstr ""
+msgstr "Proč jsi Grahamovi pomáhal?"
 
 #: conversations/04_monarch/0401/0401_cv_carlotta:46
 msgctxt "conversations/04_monarch/0401/0401_cv_carlotta:46:DefaultText"
 msgid "It's an enviable thing he's doing. Free people and all that. I can't live that way - I need my structure - but I respect the Iconoclasts for doing it."
-msgstr ""
+msgstr "Je to záviděníhodná věc, kterou dělá. Svobodní lidé a tak. Já takhle žít nemůžu - potřebuju svou strukturu - ale vážím si Iconoclastů, že to dělají."
 
 #: conversations/04_monarch/0401/0401_cv_carlotta:47
 msgctxt "conversations/04_monarch/0401/0401_cv_carlotta:47:DefaultText"
 msgid "Where will they get their supplies now?"
-msgstr ""
+msgstr "Kde teď budou brát zásoby?"
 
 #: conversations/04_monarch/0401/0401_cv_carlotta:48
 msgctxt "conversations/04_monarch/0401/0401_cv_carlotta:48:DefaultText"
 msgid "Law help them, I don't know. Maybe SubLight can lend a hand."
-msgstr ""
+msgstr "Zákon jim pomáhá, nevím. Možná, že SubLight může podat pomocnou ruku."
 
 #: conversations/04_monarch/0401/0401_cv_carlotta:49
 msgctxt "conversations/04_monarch/0401/0401_cv_carlotta:49:DefaultText"
 msgid "I should go. Look, Graham's got a bit or two left in his account. I can send one last drop out before I wash my hands of this."
-msgstr ""
+msgstr "Měl bych jít. Podívej, Grahamovi zbylo na účtu pár drobných. Můžu poslat poslední kapku, než si nad tím umyju ruce."
 
 #: conversations/04_monarch/0401/0401_cv_carlotta:50
 msgctxt "conversations/04_monarch/0401/0401_cv_carlotta:50:DefaultText"
 msgid "What do you want delivered?"
-msgstr ""
+msgstr "Co chcete doručit?"
 
 #: conversations/04_monarch/0401/0401_cv_carlotta:51
 msgctxt "conversations/04_monarch/0401/0401_cv_carlotta:51:DefaultText"
 msgid "Yeah, I've got a few. I'll send them along."
-msgstr ""
+msgstr "Jo, pár jich mám. Pošlu vám je."
 
 #: conversations/04_monarch/0401/0401_cv_carlotta:52
 msgctxt "conversations/04_monarch/0401/0401_cv_carlotta:52:DefaultText"
 msgid "Give them all my regards, and... good luck out there. Don't go getting eaten."
-msgstr ""
+msgstr "Pozdravujte je ode mě a... hodně štěstí. Nenechte se sežrat."
 
 #: conversations/04_monarch/0401/0401_cv_carlotta:53
 msgctxt "conversations/04_monarch/0401/0401_cv_carlotta:53:DefaultText"
 msgid "I always took that woman for the sensible type. Good on her. I'll send some along."
-msgstr ""
+msgstr "Vždycky jsem tu ženu považoval za rozumný typ. To je dobře. Něco jí pošlu."

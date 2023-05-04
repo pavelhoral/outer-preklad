@@ -1,874 +1,874 @@
 #: conversations/01_groundbreaker/01_cv_felix_intro:108
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:108:DefaultText"
 msgid "Hey there. I'm Felix Millstone. I have prepared a list of reasons why I believe you should hire me to join the crew of your ship and/or outlaw gang."
-msgstr ""
+msgstr "Ahoj. Jsem Felix Millstone. Připravil jsem si seznam důvodů, proč si myslím, že byste mě měli najmout do posádky vaší lodi a/nebo bandy psanců."
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:109
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:109:DefaultText"
 msgid "In conclusion, thank you for considering me for your ship crew and/or outlaw gang. I look forward to our adventures together. "
-msgstr ""
+msgstr "Na závěr vám děkuji, že jste mě zvážili pro svou posádku lodi a/nebo gang psanců. Těším se na naše společná dobrodružství. "
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:154
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:154:DefaultText"
 msgid "I don't think so."
-msgstr ""
+msgstr "To si nemyslím."
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:183
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:183:DefaultText"
 msgid "Are you reading off your hand?"
-msgstr ""
+msgstr "Čtete z ruky?"
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:184
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:184:DefaultText"
 msgid "I'm enjoying this. Go on."
-msgstr ""
+msgstr "Baví mě to. Pokračuj."
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:185
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:185:DefaultText"
 msgid "Okay, I'm starting to regret I asked."
-msgstr ""
+msgstr "Dobře, začínám litovat, že jsem se zeptal."
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:186
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:186:DefaultText"
 msgid "Yeah. It's a second draft."
-msgstr ""
+msgstr "Jo, je to druhý návrh."
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:187
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:187:DefaultText"
 msgid "Firstly, I am highly personable and I get along well with anyone who is not of the jackass persuasion."
-msgstr ""
+msgstr "Zaprvé jsem velmi reprezentativní a dobře vycházím s každým, kdo není zrovna blbec."
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:188
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:188:DefaultText"
 msgid "No, no - wait. Let me finish. I wrote this down and everything."
-msgstr ""
+msgstr "Ne, ne - počkejte. Nech mě to doříct. Napsal jsem si to a všechno."
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:189
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:189:DefaultText"
 msgid "Secondly, I can be counted on in the event of a firefight, standoff, and/or raid. My motto is - if you need a steady gunhand, I'm your man. "
-msgstr ""
+msgstr "Za druhé, v případě přestřelky, zásahu nebo náletu je na mě spolehnutí. Moje motto zní - pokud potřebujete pevnou ruku se zbraní, jsem váš člověk. "
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:190
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:190:DefaultText"
 msgid "Hey, Felix? I'm gonna stop you right there."
-msgstr ""
+msgstr "Hej, Felixi? Tady tě zastavím."
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:191
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:191:DefaultText"
 msgid "I've heard enough. You're hired."
-msgstr ""
+msgstr "Už jsem toho slyšel dost. Jste přijat."
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:192
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:192:DefaultText"
 msgid "<Let him continue.>"
-msgstr ""
+msgstr "<Nechte ho pokračovat.>"
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:193
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:193:DefaultText"
 msgid "Additionally, I have several years of experience as a box-hauler. This skill may come in handy if you need a body dragged away, or a door held open while escaping enemy fire."
-msgstr ""
+msgstr "Kromě toho mám několikaletou praxi jako řidič skříňových vozíků. Tato dovednost se může hodit, pokud potřebujete odtáhnout tělo nebo udržet otevřené dveře při útěku před nepřátelskou palbou."
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:194
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:194:DefaultText"
 msgid "Additionally, I have several years- "
-msgstr ""
+msgstr "Kromě toho mám několik let "
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:196
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:196:DefaultText"
 msgid "On second thought, go ahead and continue."
-msgstr ""
+msgstr "Když se nad tím zamyslíte, pokračujte."
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:197
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:197:DefaultText"
 msgid "I'm really not interested."
-msgstr ""
+msgstr "Opravdu mě to nezajímá."
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:198
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:198:DefaultText"
 msgid "Wow. You don't know how long I've been waiting to hear that."
-msgstr ""
+msgstr "Páni. Ani nevíte, jak dlouho jsem čekal, až to uslyším."
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:199
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:199:DefaultText"
 msgid "Figured it was worth a shot. I'll be around if you change your mind, boss."
-msgstr ""
+msgstr "Řekl jsem si, že to stojí za pokus. Kdyby sis to rozmyslel, budu tady, šéfe."
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:201
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:201:DefaultText"
 msgid "That motto is... a work in progress."
-msgstr ""
+msgstr "Toto motto je... ve vývoji."
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:202
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:202:DefaultText"
 msgid "What do you think? Am I in?"
-msgstr ""
+msgstr "Co si myslíte? Jsem pro?"
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:203
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:203:DefaultText"
 msgid "Dragging off bodies? Shootouts? The hell kind of ship do you think I'm running?"
-msgstr ""
+msgstr "Odtahování těl? Přestřelky? Co si sakra myslíte, že řídím za loď?"
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:204
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:204:DefaultText"
 msgid "The fun kind? I mean - what else do you do when you've got a ship of your own?"
-msgstr ""
+msgstr "Ten zábavný? Co jiného se dá dělat, když máte vlastní loď?"
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:205
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:205:DefaultText"
 msgid "Good answer. Welcome aboard."
-msgstr ""
+msgstr "Dobrá odpověď. Vítejte na palubě."
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:206
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:206:DefaultText"
 msgid "Look, we're just a responsible, law-abiding crew of adults."
-msgstr ""
+msgstr "Podívejte, jsme jen zodpovědná parta dospělých lidí, kteří dodržují zákony."
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:207
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:207:DefaultText"
 msgid "Sorry Felix, but I'm not interested."
-msgstr ""
+msgstr "Promiň, Felixi, ale nemám zájem."
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:209
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:209:DefaultText"
 msgid "Speak for yourself, Captain."
-msgstr ""
+msgstr "Mluvte za sebe, kapitáne."
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:210
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:210:DefaultText"
 msgid "Hear - hic - hear! Whoa. Ground coming up awful fast."
-msgstr ""
+msgstr "Slyšte - hic - slyšte! Páni. Země se blíží strašně rychle."
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:211
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:211:DefaultText"
 msgid "Define law-abiding, Captain."
-msgstr ""
+msgstr "Definujte dodržování zákonů, kapitáne."
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:212
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:212:DefaultText"
 msgid "Um. How about we just say we're trying to do good?"
-msgstr ""
+msgstr "Co kdybychom prostě řekli, že se snažíme dělat dobro?"
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:213
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:213:DefaultText"
 msgid "Thanks, boss. You're not gonna regret this."
-msgstr ""
+msgstr "Díky, šéfe. Nebudeš toho litovat."
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:214
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:214:DefaultText"
 msgid "You know what, never mind. Welcome aboard, Felix."
-msgstr ""
+msgstr "Víš co, nevadí. Vítej na palubě, Felixi."
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:215
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:215:DefaultText"
 msgid "As I was saying - responsible adults. Sorry, Felix. I'm not interested."
-msgstr ""
+msgstr "Jak jsem říkal - zodpovědní dospělí. Promiň, Felixi. Nemám zájem."
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:218
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:218:DefaultText"
 msgid "I'll see you back on the ship, <oeitoken>CompanionSlotOneName</oeitoken>."
-msgstr ""
+msgstr "Uvidíme se na lodi, <oeitoken>JménoSpolupracovníka</oeitoken>."
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:219
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:219:DefaultText"
 msgid "I'll see you back on the ship, <oeitoken>CompanionSlotTwoName</oeitoken>."
-msgstr ""
+msgstr "Uvidíme se na lodi, <oeitoken>JménoSpolupracovníkaDruhého</oeitoken>."
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:221
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:221:DefaultText"
 msgid "Hey, you're back."
-msgstr ""
+msgstr "Ahoj, jsi zpátky."
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:223
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:223:DefaultText"
 msgid "I've got things to do."
-msgstr ""
+msgstr "Mám spoustu práce."
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:225
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:225:DefaultText"
 msgid "If you're still for hire, I'll take you on board."
-msgstr ""
+msgstr "Pokud jste stále k pronájmu, vezmu vás na palubu."
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:226
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:226:DefaultText"
 msgid "Had an inkling you'd be back. I'm glad I made a good impression."
-msgstr ""
+msgstr "Tušil jsem, že se vrátíš. Jsem rád, že jsem udělal dobrý dojem."
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:228
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:228:DefaultText"
 msgid "Fancy running into you again. Don't mind me - I was just admiring your ship from up close."
-msgstr ""
+msgstr "Je skvělé na tebe zase narazit. Nevšímej si mě - jen jsem obdivoval tvou loď zblízka."
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:229
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:229:DefaultText"
 msgid "Gotta hand it to you, boss. That's a fine-looking ship. Only thing it's missing is me."
-msgstr ""
+msgstr "To se musí nechat, šéfe. To je pěkná loď. Jediné, co jí chybí, jsem já."
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:230
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:230:DefaultText"
 msgid "You're pretty eager to throw in with somebody you barely know."
-msgstr ""
+msgstr "Jsi dost dychtivý po tom, aby ses vrhl na někoho, koho sotva znáš."
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:231
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:231:DefaultText"
 msgid "Were you stalking me? I don't appreciate being stalked."
-msgstr ""
+msgstr "Sledoval jsi mě? Nemám rád, když mě někdo sleduje."
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:232
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:232:DefaultText"
 msgid "Get lost."
-msgstr ""
+msgstr "Ztraťte se."
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:233
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:233:DefaultText"
 msgid "Yes. I absolutely am."
-msgstr ""
+msgstr "Ano, rozhodně jsem."
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:235
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:235:DefaultText"
 msgid "What? No. No no no. Okay, yeah, maybe a little. I'm not trying to be all creepy-like. I just want to make a good case for myself."
-msgstr ""
+msgstr "Cože? Ne. Ne, ne, ne. Dobře, jo, možná trochu. Nesnažím se být strašidelná. Jen si chci udělat dobrý obrázek."
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:236
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:236:DefaultText"
 msgid "I get it. You don't like seeing a guy staked out next to your ship. Looks like I'm trying to ambush you or sell you something."
-msgstr ""
+msgstr "Chápu to. Nelíbí se ti, že vedle tvé lodi stojí chlap. Vypadá to, že se tě snažím přepadnout nebo ti něco prodat."
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:237
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:237:DefaultText"
 msgid "If you're trying to convince me to hire you, you're going about it all wrong."
-msgstr ""
+msgstr "Pokud se mě snažíte přesvědčit, abych vás zaměstnal, děláte to špatně."
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:238
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:238:DefaultText"
 msgid "Okay, Felix. Consider this your interview."
-msgstr ""
+msgstr "Dobře, Felixi. Považuj tento rozhovor za svůj."
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:239
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:239:DefaultText"
 msgid "I'm not going to repeat myself. Get lost."
-msgstr ""
+msgstr "Nebudu se opakovat. Ztraťte se."
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:240
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:240:DefaultText"
 msgid "All right, Felix. Tell me why I should hire you."
-msgstr ""
+msgstr "Dobře, Felixi. Řekni mi, proč bych si měl najmout zrovna tebe."
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:241
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:241:DefaultText"
 msgid "Oh. Okay, well. Could you give me a couple pointers? "
-msgstr ""
+msgstr "Oh. Dobře, no. Mohl bys mi dát pár tipů? "
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:242
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:242:DefaultText"
 msgid "Sure. An interview. That sounds fair. I mean - first time for everything, right? Ask me anything you like."
-msgstr ""
+msgstr "Jistě. Rozhovor. To zní fér. Chci říct - všechno je jednou poprvé, ne? Zeptejte se mě na cokoli, co chcete."
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:245
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:245:DefaultText"
 msgid "If you change your mind, I'll be right here in the docking bays."
-msgstr ""
+msgstr "Kdybyste si to rozmyslel, budu tady v docích."
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:247
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:247:DefaultText"
 msgid "I'm heading back to the bar. Catch me there if you change your mind."
-msgstr ""
+msgstr "Vracím se do baru. Pokud si to rozmyslíš, chytni mě tam."
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:248
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:248:DefaultText"
 msgid "Are you any good in a fight?"
-msgstr ""
+msgstr "Jsi dobrý v boji?"
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:249
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:249:DefaultText"
 msgid "What's the value of pi?"
-msgstr ""
+msgstr "Jaká je hodnota pí?"
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:250
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:250:DefaultText"
 msgid "What's your biggest flaw?"
-msgstr ""
+msgstr "Jaká je vaše největší chyba?"
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:251
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:251:DefaultText"
 msgid "You're all over the place. Just be yourself."
-msgstr ""
+msgstr "Jste všude. Buď sám sebou."
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:252
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:252:DefaultText"
 msgid "Don't beg. Tell me why I need you on my crew."
-msgstr ""
+msgstr "Nežebrejte. Řekni mi, proč tě potřebuji ve své posádce."
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:253
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:253:DefaultText"
 msgid "I'm looking for loyal bootlickers. Flatter me like your life depends on it."
-msgstr ""
+msgstr "Hledám věrné olizovače bot. Lichoťte mi, jako by na tom závisel váš život."
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:254
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:254:DefaultText"
 msgid "Are you kidding? I love a good fight. One time, I took an auto-loader's head clean off its servos with one swing of a tossball stick. "
-msgstr ""
+msgstr "Děláte si legraci? Miluju dobré hádky. Jednou jsem jedním máchnutím házecí tyčí sundal jednomu automatickému nabíječi hlavu ze serva. "
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:255
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:255:DefaultText"
 msgid "You can count on me in a scrap, boss. That's a promise."
-msgstr ""
+msgstr "Na mě se můžeš spolehnout, šéfe. To je slib."
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:256
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:256:DefaultText"
 msgid "Uh - it's delicious?"
-msgstr ""
+msgstr "Uh - je to vynikající?"
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:257
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:257:DefaultText"
 msgid "Mock-apple pie in a tripicale crust, maybe with a little cream on top. Classic."
-msgstr ""
+msgstr "Jablečný koláč v trojobalu, možná s trochou krému navrchu. Klasika."
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:258
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:258:DefaultText"
 msgid "Foreman told me my biggest problem was that I didn't take orders. I told him my problem is not with authority. It's with jackasses. "
-msgstr ""
+msgstr "Předák mi řekl, že mým největším problémem je, že nepřijímám rozkazy. Řekl jsem mu, že můj problém není v autoritě. Je to problém s blbci. "
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:259
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:259:DefaultText"
 msgid "So, yeah. I guess my biggest flaw is that I don't suffer idiots. Hope that's not a deal-breaker."
-msgstr ""
+msgstr "Takže ano. Myslím, že mou největší chybou je, že netrpím idioty. Doufám, že to není překážka."
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:260
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:260:DefaultText"
 msgid "Sure, I can be myself. I can be myself better than anybody else in the system."
-msgstr ""
+msgstr "Jistě, mohu být sám sebou. Můžu být sám sebou lépe než kdokoli jiný v systému."
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:261
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:261:DefaultText"
 msgid "And yeah - I know I came on a little strong. But honestly, when was the last time anybody was so eager to throw in with you? That's gotta count for something, right?"
-msgstr ""
+msgstr "A ano - vím, že jsem to řekl trochu ostře. Ale upřímně, kdy naposledy se s tebou někdo tak ochotně zahazoval? To se přece musí počítat, ne?"
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:262
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:262:DefaultText"
 msgid "Hey, that's good advice. I like the way you think, boss."
-msgstr ""
+msgstr "To je dobrá rada. Líbí se mi, jak přemýšlíš, šéfe."
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:263
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:263:DefaultText"
 msgid "Besides, not like there's a line of folks standing around hoping to get on your ship. I'm persistent. I'm eager. And I'm showing initiative. What else do you want in your crew?"
-msgstr ""
+msgstr "Kromě toho tu nestojí fronta lidí, kteří doufají, že se dostanou na vaši loď. Jsem vytrvalý. Jsem dychtivý. A projevuji iniciativu. Co jiného chceš ve své posádce?"
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:264
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:264:DefaultText"
 msgid "Hah. Good one, boss. Imagine me fawning all over you like some oily corporate parasite hoping for a raise."
-msgstr ""
+msgstr "Hah. Dobrý, šéfe. Představ si, že se na tebe lepím jako nějaký umaštěný firemní parazit, který doufá ve zvýšení platu."
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:265
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:265:DefaultText"
 msgid "You got a real subtle sense of humor. I like that. And if you're willing to take me on board, I got a feeling we'll get along just fine."
-msgstr ""
+msgstr "Máš opravdu jemný smysl pro humor. To se mi líbí. A jestli jsi ochotná mě přijmout, mám pocit, že si budeme rozumět."
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:266
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:266:DefaultText"
 msgid "Perfect. You're hired."
-msgstr ""
+msgstr "Perfektní. Jste najatý."
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:267
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:267:DefaultText"
 msgid "Sorry Felix, but the answer is no."
-msgstr ""
+msgstr "Je mi líto, Felixi, ale odpověď zní ne."
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:268
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:268:DefaultText"
 msgid "Well, I tried my best. I appreciate you giving me another shot, at least."
-msgstr ""
+msgstr "No, snažil jsem se, co to šlo. Oceňuji, že jste mi dal ještě jednu šanci."
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:269
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:269:DefaultText"
 msgid "Just give me a shot. That's all I'm asking. I could be the best damn crew you ever hired."
-msgstr ""
+msgstr "Jen mi dejte šanci. O víc nežádám. Mohl bych být ta nejlepší posádka, jakou jste kdy najali."
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:270
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:270:DefaultText"
 msgid "Sure. Got it. Don't have to say it twice, boss."
-msgstr ""
+msgstr "Jistě. Mám to. Nemusíš to říkat dvakrát, šéfe."
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:271
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:271:DefaultText"
 msgid "You want to tell me why you're out of work?"
-msgstr ""
+msgstr "Chcete mi říct, proč jste bez práce?"
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:274
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:274:DefaultText"
 msgid "I haven't made up my mind about you. How about an interview?"
-msgstr ""
+msgstr "Ještě jsem se o tobě nerozhodl. Co takhle rozhovor?"
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:275
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:275:DefaultText"
 msgid "You're looking for crew. I'm looking for a way off this port. So we've got something in common already."
-msgstr ""
+msgstr "Hledáte posádku. Já hledám cestu z tohoto přístavu. Takže už máme něco společného."
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:276
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:276:DefaultText"
 msgid "<affirmative chirp>"
-msgstr ""
+msgstr "<a potvrzující cvrlikání>"
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:277
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:277:DefaultText"
 msgid "Uh-huh. Sure."
-msgstr ""
+msgstr "Uh-huh. Jistě."
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:279
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:279:DefaultText"
 msgid "Sorry. He's funny!"
-msgstr ""
+msgstr "Omlouvám se. Je vtipný!"
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:280
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:280:DefaultText"
 msgid "I thought that was real good, Felix."
-msgstr ""
+msgstr "Myslím, že to bylo opravdu dobré, Felixi."
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:281
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:281:DefaultText"
 msgid "Thanks, boss. You're not gonna regret this."
-msgstr ""
+msgstr "Díky, šéfe. Nebudeš toho litovat."
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:282
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:282:DefaultText"
 msgid "We'll see you in the ship, Felix."
-msgstr ""
+msgstr "Uvidíme se na lodi, Felixi."
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:283
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:283:DefaultText"
 msgid "That's not the point. This halfwit just knocked out one of my workers-"
-msgstr ""
+msgstr "O to nejde. Tenhle hlupák právě omráčil jednoho z mých pracovníků..."
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:284
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:284:DefaultText"
 msgid "Yeah, with a tossball stick. I heard you the first time. There weren't any witnesses."
-msgstr ""
+msgstr "Jo, s hokejkou na házení míčků. Slyšel jsem tě poprvé. Nebyli žádní svědci."
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:287
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:287:DefaultText"
 msgid "This is the Groundbreaker, not Byzantium. You ain't the law here. I am. Now move along."
-msgstr ""
+msgstr "Toto je Groundbreaker, ne Byzantium. Ty tu nejsi zákon. To jsem já. Teď jdi dál."
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:288
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:288:DefaultText"
 msgid "Hey, you got a second?"
-msgstr ""
+msgstr "Hej, máš chvilku?"
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:289
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:289:DefaultText"
 msgid "Guess not."
-msgstr ""
+msgstr "Hádám, že ne."
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:290
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:290:DefaultText"
 msgid "Whatever you heard? It's all true."
-msgstr ""
+msgstr "Co jsi slyšel? Všechno je to pravda."
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:291
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:291:DefaultText"
 msgid "I'd like to hear your side. What happened?"
-msgstr ""
+msgstr "Rád bych si vyslechl vaši verzi. Co se stalo?"
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:293
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:293:DefaultText"
 msgid "Guy never liked me. Always trying to get a rise out of me. But I keep my chin up, right? Be the bigger man, I tell myself."
-msgstr ""
+msgstr "Ten chlap mě nikdy neměl rád. Vždycky se mě snažil vytočit. Ale já si držím hlavu vzhůru, ne? Buď větší chlap, říkám si."
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:294
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:294:DefaultText"
 msgid "Hey, not for nothing, but I saw you wander out of that ship over there by the dock. Wouldn't happen to be yours, would it?"
-msgstr ""
+msgstr "Hej, ne nadarmo jsem tě viděl, jak se potuluješ z té lodi támhle u přístavu. Není náhodou tvoje, že ne?"
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:295
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:295:DefaultText"
 msgid "That's me. Captain of the Unreliable."
-msgstr ""
+msgstr "To jsem já. Kapitán nespolehlivých."
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:296
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:296:DefaultText"
 msgid "Technically. The previous captain died in a horrible accident."
-msgstr ""
+msgstr "Z technického hlediska. Předchozí kapitán zemřel při strašlivé nehodě."
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:297
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:297:DefaultText"
 msgid "Why do you ask?"
-msgstr ""
+msgstr "Proč se ptáte?"
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:298
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:298:DefaultText"
 msgid "Oh, just musing, is all. Must be nice, having the run of the colony. Never being anchored to one place. Always chasing some horizon."
-msgstr ""
+msgstr "Jen tak přemýšlím, to je vše. Musí být příjemné, když můžeš řídit kolonii. Nikdy nezakotvit na jednom místě. Pořád se honit za nějakým obzorem."
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:299
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:299:DefaultText"
 msgid "So your ship's got a dark and violent history? This is just too perfect."
-msgstr ""
+msgstr "Takže vaše loď má temnou a násilnou historii? To je až příliš dokonalé."
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:300
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:300:DefaultText"
 msgid "Hey, I don't want to talk your ears off. Guessing you got places to be. I appreciate your time."
-msgstr ""
+msgstr "Hej, nechci ti mluvit z duše. Hádám, že musíš někde být. Vážím si tvého času."
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:302
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:302:DefaultText"
 msgid "I never caught your name. I'm <oeitoken>PlayerName</oeitoken>."
-msgstr ""
+msgstr "Nikdy jsem nezachytil vaše jméno. Jsem <oeitoken>Jméno hráče</oeitoken>."
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:303
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:303:DefaultText"
 msgid "You in a hurry to get somewhere?"
-msgstr ""
+msgstr "Spěcháte někam?"
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:304
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:304:DefaultText"
 msgid "See you around."
-msgstr ""
+msgstr "Uvidíme se."
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:309
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:309:DefaultText"
 msgid "See you around, boss."
-msgstr ""
+msgstr "Uvidíme se, šéfe."
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:310
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:310:DefaultText"
 msgid "Going for a stroll around the docking bays?"
-msgstr ""
+msgstr "Procházíte se po přístavních zátokách?"
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:311
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:311:DefaultText"
 msgid "I noticed you were in the middle of an argument earlier."
-msgstr ""
+msgstr "Všiml jsem si, že jsi byl předtím uprostřed hádky."
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:313
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:313:DefaultText"
 msgid "Excuse me."
-msgstr ""
+msgstr "Promiňte."
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:314
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:314:DefaultText"
 msgid "Sure was. Got a knack for upsetting the Board and the Mardets all at once. Between you and me, I was hoping they'd come to fisticuffs."
-msgstr ""
+msgstr "Jistěže byl. Má talent naštvat představenstvo a Mardety najednou. Mezi námi, doufal jsem, že dojde na pěstní souboj."
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:316
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:316:DefaultText"
 msgid "Hey - we don't know each other yet, but I'm Felix Millstone. I was in the middle of a little discussion with the local authorities when you passed me by."
-msgstr ""
+msgstr "Ahoj - ještě se neznáme, ale já jsem Felix Millstone. Byl jsem zrovna uprostřed menší diskuse s místními úřady, když jsi prošel kolem mě."
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:317
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:317:DefaultText"
 msgid "No witnesses? He's not even denying it!"
-msgstr ""
+msgstr "Žádní svědci? Vždyť to ani nepopírá!"
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:318
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:318:DefaultText"
 msgid "Jackass had it coming."
-msgstr ""
+msgstr "Jackass si to zasloužil."
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:319
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:319:DefaultText"
 msgid "Shut it, Felix. You're not making this any better."
-msgstr ""
+msgstr "Sklapni, Felixi. Tím to nijak nezlepšíš."
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:320
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:320:DefaultText"
 msgid "You get cute with me again, you little Back Bay brat, and I will toss you out an airlock."
-msgstr ""
+msgstr "Ještě jednou si na mě dovolíš, ty malý spratku z Back Bay, a vyhodím tě přechodovou komorou."
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:321
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:321:DefaultText"
 msgid "I heard you knocked someone out with a tossball stick."
-msgstr ""
+msgstr "Slyšel jsem, že jsi někoho knokautoval hokejkou."
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:323
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:323:DefaultText"
 msgid "It's almost like you wanted to get arrested."
-msgstr ""
+msgstr "Skoro to vypadá, jako by ses chtěl nechat zatknout."
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:324
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:324:DefaultText"
 msgid "That guard threatened to toss you out of an airlock."
-msgstr ""
+msgstr "Ten strážný ti vyhrožoval, že tě vyhodí z přechodové komory."
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:325
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:325:DefaultText"
 msgid "Yeah, because I knocked my foreman out with a tossball stick. But to be fair, I wasn't the one who started it. The guy was insulting my Rizzo's Rangers."
-msgstr ""
+msgstr "Jo, protože jsem svého předáka omráčil házecí tyčí. Ale abych byl spravedlivý, já jsem si nezačal. Ten chlap urážel mé Rizzo's Rangers."
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:326
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:326:DefaultText"
 msgid "The guy insulted my Rizzo's Rangers, all right? You can't just insult my Rangers and expect to get away with it. "
-msgstr ""
+msgstr "Ten chlap urazil mé Rizzo's Rangers, jasný? Nemůžeš jen tak urážet mé Rangers a čekat, že ti to projde. "
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:327
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:327:DefaultText"
 msgid "Yeah, yeah. He's like the rest of those Board jackasses. All bluster, no grit."
-msgstr ""
+msgstr "Jo, jo. Je jako ostatní blbci z rady. Samé chvástání, žádná odvaha."
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:328
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:328:DefaultText"
 msgid "So of course I decked him with a tossball stick. I mean, what am I? Some kind of fairweather fan?"
-msgstr ""
+msgstr "Tak jsem ho samozřejmě obložil hokejkou na házení míčků. Co jsem vlastně zač? Nějaký fanda?"
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:329
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:329:DefaultText"
 msgid "Look, if it's a crime to defend your favorite tossball team against slander and calumny - well, then lock me right up."
-msgstr ""
+msgstr "Podívejte se, jestli je zločin bránit svůj oblíbený tým proti pomluvám a očerňování - tak mě rovnou zavřete."
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:330
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:330:DefaultText"
 msgid "All you gotta do is square your shoulders and stand up to 'em. Board ain't accustomed to disobedience."
-msgstr ""
+msgstr "Stačí si srovnat ramena a postavit se jim. Rada není zvyklá na neposlušnost."
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:331
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:331:DefaultText"
 msgid "Okay, slow down. What exactly did you do?"
-msgstr ""
+msgstr "Dobře, zpomal. Co přesně jsi udělal?"
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:332
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:332:DefaultText"
 msgid "Rizzo's Rangers?"
-msgstr ""
+msgstr "Rizzo's Rangers?"
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:333
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:333:DefaultText"
 msgid "That's a bit of an overreaction."
-msgstr ""
+msgstr "To je trochu přehnaná reakce."
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:335
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:335:DefaultText"
 msgid "Only the finest group of tossball players ever to take the field."
-msgstr ""
+msgstr "Pouze nejlepší skupina hráčů přehazované, která kdy nastoupila na hřiště."
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:336
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:336:DefaultText"
 msgid "He's a Spacer's Chosen man, though. So when the Chosen beat my Rangers the other night, my foreman comes swaggering up with his head full of boasting."
-msgstr ""
+msgstr "Je to ale Vyvolený Spacera. Takže když Vyvolení tuhle večer porazili mé Strážce, můj předák se přišel pochlubit."
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:337
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:337:DefaultText"
 msgid "So you defend the honor of your team."
-msgstr ""
+msgstr "Bráníte tedy čest svého týmu."
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:338
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:338:DefaultText"
 msgid "Oh boy."
-msgstr ""
+msgstr "Ach jo."
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:339
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:339:DefaultText"
 msgid "And that's when you resolved your differences like an adult, right?"
-msgstr ""
+msgstr "A tehdy jste své neshody vyřešili jako dospělí, že?"
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:340
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:340:DefaultText"
 msgid "Exactly! I was only doing what any self-respecting Rangers fan would've done."
-msgstr ""
+msgstr "Přesně tak! Dělal jsem jen to, co by udělal každý fanoušek Rangers."
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:341
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:341:DefaultText"
 msgid "That's when I broadsided him with a tossball stick, yeah."
-msgstr ""
+msgstr "Tehdy jsem ho praštil hokejkou, jo."
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:342
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:342:DefaultText"
 msgid "Look, this was a long time coming. Guy thinks he can push me around 'cause he's some sky-high foreman and I'm just a Back Bays dockworker?"
-msgstr ""
+msgstr "Podívejte, tohle bylo na dlouho. Ten chlap si myslí, že mě může popichovat, protože on je nějaký nebetyčný předák a já jsem jenom dělník v docích v Back Bays?"
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:343
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:343:DefaultText"
 msgid "You wouldn't be saying that if you'd been there."
-msgstr ""
+msgstr "To bys neříkal, kdybys tam byl."
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:344
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:344:DefaultText"
 msgid "Well. Former dockworker. Guess I just tendered my resignation."
-msgstr ""
+msgstr "Dobře. Bývalý přístavní dělník. Asi jsem právě podal výpověď."
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:345
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:345:DefaultText"
 msgid "Got any plans?"
-msgstr ""
+msgstr "Máte nějaké plány?"
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:346
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:346:DefaultText"
 msgid "Sounds like you're better off on your own."
-msgstr ""
+msgstr "Zdá se, že je pro tebe lepší, když si vystačíš sám."
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:347
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:347:DefaultText"
 msgid "You're just lucky you're not serving a sentence."
-msgstr ""
+msgstr "Máš štěstí, že nejsi ve výkonu trestu."
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:348
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:348:DefaultText"
 msgid "Enjoy my freedom. Scrounge together enough bits for a Zero Gee. Other than that? Can't say as I do."
-msgstr ""
+msgstr "Užijte si svobodu. Dejte dohromady dost kousků na Zero Gee. A jinak? Nemůžu říct, jak to dělám já."
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:349
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:349:DefaultText"
 msgid "Yeah, I reckon you're right. Imagine me wasting my life loading boxes. Unloading boxes. Watching the ships roll in and take off."
-msgstr ""
+msgstr "Jo, myslím, že máš pravdu. Představ si, že bych plýtval životem při nakládání krabic. Vykládání krabic. Sledovat, jak lodě přilétají a odlétají."
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:350
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:350:DefaultText"
 msgid "You know something? I am lucky. I ought to raise a glass of Zero Gee to my fortune- if I had the bits."
-msgstr ""
+msgstr "Víte co? Mám štěstí. Měl bych na své štěstí pozvednout sklenku Zero Gee - kdybych na to měl."
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:351
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:351:DefaultText"
 msgid "Captain of the Unreliable. You're like something out of a serial drama."
-msgstr ""
+msgstr "Kapitán nespolehlivých. Jsi jako ze seriálu."
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:352
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:352:DefaultText"
 msgid "Felix Millstone. Pleased to make your acquaintance."
-msgstr ""
+msgstr "Felix Millstone. Rád jsem vás poznal."
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:353
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:353:DefaultText"
 msgid "See you around, Felix."
-msgstr ""
+msgstr "Uvidíme se, Felixi."
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:354
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:354:DefaultText"
 msgid "Oh, not at all. Just uh - you know. Gonna figure out what to do next."
-msgstr ""
+msgstr "Vůbec ne. Jen... však víš. Musím vymyslet, co dál."
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:355
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:355:DefaultText"
 msgid "I noticed your ship in port. Got to thinking you might be looking for some crew. So I wandered by, just to take a closer look."
-msgstr ""
+msgstr "Všiml jsem si vaší lodi v přístavu. Napadlo mě, že možná hledáte nějakou posádku. Tak jsem se zastavil, abych se na ni podíval zblízka."
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:356
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:356:DefaultText"
 msgid "You're serious? You're giving me a shot? All right. Hang on, hang on."
-msgstr ""
+msgstr "To myslíte vážně? Dáváš mi šanci? Dobře. Vydrž, vydrž."
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:357
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:357:DefaultText"
 msgid "Guy never liked me. Always trying to get a rise out of me. But I keep my chin up, right? Be the bigger man, I tell myself."
-msgstr ""
+msgstr "Ten chlap mě nikdy neměl rád. Vždycky se mě snažil vytočit. Ale já si držím hlavu vzhůru, ne? Buď větší chlap, říkám si."
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:358
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:358:DefaultText"
 msgid "He's a Spacer's Chosen man, though. So when the Chosen beat my Rangers the other night, my foreman comes swaggering up with his head full of boasting."
-msgstr ""
+msgstr "Je to ale Vyvolený Spacera. Takže když Vyvolení tuhle večer porazili mé Strážce, můj předák se přišel pochlubit."
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:359
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:359:DefaultText"
 msgid "And that's when you resolved your differences like an adult, right?"
-msgstr ""
+msgstr "A tehdy jste své neshody vyřešili jako dospělí, že?"
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:360
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:360:DefaultText"
 msgid "That's when I broadsided him with a tossball stick, yeah."
-msgstr ""
+msgstr "Tehdy jsem ho praštil hokejkou, jo."
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:361
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:361:DefaultText"
 msgid "Oh boy."
-msgstr ""
+msgstr "Ach jo."
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:362
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:362:DefaultText"
 msgid "Look, this was a long time coming. Guy thinks he can push me around 'cause he's some sky-high foreman and I'm just a Back Bays dockworker?"
-msgstr ""
+msgstr "Podívejte, tohle bylo na dlouho. Ten chlap si myslí, že mě může popichovat, protože on je nějaký nebetyčný předák a já jsem jenom dělník v docích v Back Bays?"
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:363
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:363:DefaultText"
 msgid "Well. Former dockworker. Guess I just tendered my resignation."
-msgstr ""
+msgstr "Dobře. Bývalý přístavní dělník. Asi jsem právě podal výpověď."
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:364
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:364:DefaultText"
 msgid "So you defend the honor of your team."
-msgstr ""
+msgstr "Bráníte tedy čest svého týmu."
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:365
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:365:DefaultText"
 msgid "Exactly! I was only doing what any self-respecting Rangers fan would've done."
-msgstr ""
+msgstr "Přesně tak! Dělal jsem jen to, co by udělal každý fanoušek Rangers."
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:366
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:366:DefaultText"
 msgid "Hey, no offense, but I don't think this walking saltuna can's gonna appreciate you interrupting."
-msgstr ""
+msgstr "Hej, bez urážky, ale nemyslím si, že tahle chodící saltuna ocení, že ji přerušuješ."
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:368
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:368:DefaultText"
 msgid "Keep talking, Millstone. See what happens."
-msgstr ""
+msgstr "Mluv dál, Millstone. Uvidíme, co se stane."
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:369
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:369:DefaultText"
 msgid "I don't have time for this. I need a drink."
-msgstr ""
+msgstr "Nemám na to čas. Potřebuju se napít."
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:370
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:370:DefaultText"
 msgid "I put together a little speech, just in case you asked."
-msgstr ""
+msgstr "Pro případ, že byste se ptali, jsem sestavil malý proslov."
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:371
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:371:DefaultText"
 msgid "Thanks for the vote of confidence!"
-msgstr ""
+msgstr "Děkujeme za důvěru!"
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:372
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:372:DefaultText"
 msgid "Wait, what? You sure? I was kind of on a hot-streak."
-msgstr ""
+msgstr "Počkat, cože? Jsi si jistý? Byl jsem tak trochu na vlně horka."
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:373
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:373:DefaultText"
 msgid "I'll just gather my personals and meet you on board. This is gonna be great."
-msgstr ""
+msgstr "Prostě si seberu osobní věci a sejdeme se na palubě. Tohle bude skvělé."
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:376
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:376:DefaultText"
 msgid "Well. This'll be interesting, huh?"
-msgstr ""
+msgstr "Dobře. Tohle bude zajímavé, co?"
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:377
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:377:DefaultText"
 msgid "You seem eager enough. Looking forward to knocking some skulls with you, kid."
-msgstr ""
+msgstr "Zdá se, že jste dostatečně horlivý. Těším se, až s tebou rozbijeme pár lebek, chlapče."
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:378
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:378:DefaultText"
 msgid "You got a crew now, Felix!"
-msgstr ""
+msgstr "Teď máš posádku, Felixi!"
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:379
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:379:DefaultText"
 msgid "User database successfully updated. You have been classified as \"Not Garbage.\""
-msgstr ""
+msgstr "Databáze uživatelů byla úspěšně aktualizována. Byli jste klasifikováni jako \"Not Garbage\"."
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:380
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:380:DefaultText"
 msgid "Really, we're picking up strays, now?"
-msgstr ""
+msgstr "Opravdu teď sbíráme zatoulané děti?"
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:383
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:383:DefaultText"
 msgid "Look at that. A real vicar. I'm sure we'll get along like a church on fire."
-msgstr ""
+msgstr "Podívejte se na to. Skutečný farář. Jsem si jistý, že spolu budeme vycházet jako v hořícím kostele."
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:388
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:388:DefaultText"
 msgid "I had this foreman, right?"
-msgstr ""
+msgstr "Měl jsem předáka, že?"
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:389
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:389:DefaultText"
 msgid "I had this foreman, right?"
-msgstr ""
+msgstr "Měl jsem předáka, že?"
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:390
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:390:DefaultText"
 msgid "Welcome aboard, son."
-msgstr ""
+msgstr "Vítej na palubě, synu."
 
 #: conversations/01_groundbreaker/01_cv_felix_intro:391
 msgctxt "conversations/01_groundbreaker/01_cv_felix_intro:391:DefaultText"
 msgid "Going for a stroll around the docking bays?"
-msgstr ""
+msgstr "Procházíte se po přístavních zátokách?"

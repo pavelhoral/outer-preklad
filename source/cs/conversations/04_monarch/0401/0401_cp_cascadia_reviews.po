@@ -2,17 +2,17 @@
 msgctxt "conversations/04_monarch/0401/0401_cp_cascadia_reviews:2:DefaultText"
 msgid "Welcome to Rizzo's Employee Monitoring and Human Resources Portal!\r\n"
 "==========================="
-msgstr ""
+msgstr "Vítejte na portálu pro sledování zaměstnanců a lidských zdrojů společnosti Rizzo! ==========================="
 
 #: conversations/04_monarch/0401/0401_cp_cascadia_reviews:3
 msgctxt "conversations/04_monarch/0401/0401_cp_cascadia_reviews:3:DefaultText"
 msgid "[View Data]"
-msgstr ""
+msgstr "[Zobrazit data]"
 
 #: conversations/04_monarch/0401/0401_cp_cascadia_reviews:4
 msgctxt "conversations/04_monarch/0401/0401_cp_cascadia_reviews:4:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"
 
 #: conversations/04_monarch/0401/0401_cp_cascadia_reviews:6
 msgctxt "conversations/04_monarch/0401/0401_cp_cascadia_reviews:6:DefaultText"
@@ -22,22 +22,22 @@ msgid "Executive Reviews\r\n"
 "Here to assess your progress? Grab a can of Rizzo's Purpleberry Punch, sit back, and learn how YOU can sweeten your career!\r\n"
 "\r\n"
 "Note: All employee reviews are property of Rizzo. Misuse of data may result in fines, loss of employee perks, and negative reviews."
-msgstr ""
+msgstr "Recenze manažerů =========================== Zde můžete zhodnotit svůj pokrok? Vezměte si plechovku Rizzo's Purpleberry Punch, pohodlně se usaďte a zjistěte, jak si můžete osladit kariéru! Poznámka: Všechna hodnocení zaměstnanců jsou majetkem společnosti Rizzo. Zneužití údajů může mít za následek pokuty, ztrátu zaměstnaneckých výhod a negativní hodnocení."
 
 #: conversations/04_monarch/0401/0401_cp_cascadia_reviews:8
 msgctxt "conversations/04_monarch/0401/0401_cp_cascadia_reviews:8:DefaultText"
 msgid "[Executive Review - BLACKWOOD, ZORA]"
-msgstr ""
+msgstr "[Recenze - BLACKWOOD, ZORA]"
 
 #: conversations/04_monarch/0401/0401_cp_cascadia_reviews:9
 msgctxt "conversations/04_monarch/0401/0401_cp_cascadia_reviews:9:DefaultText"
 msgid "[Executive Review - MCCLURE, CECIL]"
-msgstr ""
+msgstr "[Recenze - MCCLURE, CECIL]"
 
 #: conversations/04_monarch/0401/0401_cp_cascadia_reviews:11
 msgctxt "conversations/04_monarch/0401/0401_cp_cascadia_reviews:11:DefaultText"
 msgid "[Return to Root]"
-msgstr ""
+msgstr "[Zpět na kořen]"
 
 #: conversations/04_monarch/0401/0401_cp_cascadia_reviews:13
 msgctxt "conversations/04_monarch/0401/0401_cp_cascadia_reviews:13:DefaultText"
@@ -47,12 +47,12 @@ msgid "Executive Review for ZORA BLACKWOOD\r\n"
 "Zora is a top-notch sawbones with a good head for working under pressure. She knows how to assimilate large amounts of detailed information to make quick decisions. Her competence and decisiveness have allowed her to restore more than a few limbs and digits lost to carelessness around the machinery.\r\n"
 "\r\n"
 "RECOMMEND FOR EMPLOYEE OF THE MONTH"
-msgstr ""
+msgstr "Recenze pro ZORA BLACKWOOD =========================== Zora je špičková pilka s dobrou hlavou pro práci pod tlakem. Umí vstřebat velké množství podrobných informací a rychle se rozhodovat. Její kompetence a rozhodnost jí umožnily obnovit více než několik končetin a číslic, o které přišla kvůli neopatrnosti u strojů. DOPORUČUJI NA ZAMĚSTNANCE MĚSÍCE"
 
 #: conversations/04_monarch/0401/0401_cp_cascadia_reviews:14
 msgctxt "conversations/04_monarch/0401/0401_cp_cascadia_reviews:14:DefaultText"
 msgid "[Export Executive Review for BLACKWOOD, ZORA to External Datapad]"
-msgstr ""
+msgstr "[Export Executive Review for BLACKWOOD, ZORA to External Datapad]"
 
 #: conversations/04_monarch/0401/0401_cp_cascadia_reviews:15
 msgctxt "conversations/04_monarch/0401/0401_cp_cascadia_reviews:15:DefaultText"
@@ -64,23 +64,23 @@ msgid "Executive Review for CECIL MCCLURE\r\n"
 "He's exactly the kind of worker we need to keep at our storefronts.\r\n"
 "\r\n"
 "DO NOT PROMOTE BEYOND STORE MANAGER"
-msgstr ""
+msgstr "Hodnocení manažera CECIL MCCLURE =========================== Cecilův entuziasmus pro výrobky Rizzo je nepřekonatelný a má působivé znalosti o produktech společnosti. Je to přesně ten typ pracovníka, kterého potřebujeme mít v našich prodejnách. NEPOVYŠOVAT NAD MANAŽERA PRODEJNY"
 
 #: conversations/04_monarch/0401/0401_cp_cascadia_reviews:16
 msgctxt "conversations/04_monarch/0401/0401_cp_cascadia_reviews:16:DefaultText"
 msgid "Printing...\r\n"
 "\r\n"
 "Please remove your datapad from the transfer socket."
-msgstr ""
+msgstr "Tisk... Vyjměte prosím datapad z přenosové zásuvky."
 
 #: conversations/04_monarch/0401/0401_cp_cascadia_reviews:19
 msgctxt "conversations/04_monarch/0401/0401_cp_cascadia_reviews:19:DefaultText"
 msgid "Printing...\r\n"
 "\r\n"
 "Please remove your datapad from the transfer socket."
-msgstr ""
+msgstr "Tisk... Vyjměte prosím datapad z přenosové zásuvky."
 
 #: conversations/04_monarch/0401/0401_cp_cascadia_reviews:20
 msgctxt "conversations/04_monarch/0401/0401_cp_cascadia_reviews:20:DefaultText"
 msgid "[Back]"
-msgstr ""
+msgstr "[Zpět]"

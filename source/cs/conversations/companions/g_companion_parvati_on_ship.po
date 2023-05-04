@@ -1,1229 +1,1229 @@
 #: conversations/companions/g_companion_parvati_on_ship:4
 msgctxt "conversations/companions/g_companion_parvati_on_ship:4:DefaultText"
 msgid "Yeah, so, this is my hidey spot now."
-msgstr ""
+msgstr "Jo, takže tohle je teď moje skrýš."
 
 #: conversations/companions/g_companion_parvati_on_ship:5
 msgctxt "conversations/companions/g_companion_parvati_on_ship:5:DefaultText"
 msgid "Something busted, Captain?"
-msgstr ""
+msgstr "Něco prasklo, kapitáne?"
 
 #: conversations/companions/g_companion_parvati_on_ship:6
 msgctxt "conversations/companions/g_companion_parvati_on_ship:6:DefaultText"
 msgid "Break time's over."
-msgstr ""
+msgstr "Přestávka skončila."
 
 #: conversations/companions/g_companion_parvati_on_ship:7
 msgctxt "conversations/companions/g_companion_parvati_on_ship:7:DefaultText"
 msgid "What do you think of the ship?"
-msgstr ""
+msgstr "Co si myslíte o lodi?"
 
 #: conversations/companions/g_companion_parvati_on_ship:8
 msgctxt "conversations/companions/g_companion_parvati_on_ship:8:DefaultText"
 msgid "Aside from that busted regulator, it's in pretty good shape. It's a Yakita LHA one-twenty. A-two model, I'm pretty sure."
-msgstr ""
+msgstr "Až na ten prasklý regulátor je v docela dobrém stavu. Je to Yakita LHA one-twenty. Model A-dva, jsem si jistý."
 
 #: conversations/companions/g_companion_parvati_on_ship:9
 msgctxt "conversations/companions/g_companion_parvati_on_ship:9:DefaultText"
 msgid "The block two designs skooshed in extra cargo space, but didn't change the stock engines. Probably a touch underpowered, huh?"
-msgstr ""
+msgstr "Konstrukce dvou bloků rozšířila nákladový prostor, ale nezměnila sériové motory. Pravděpodobně jsou trochu poddimenzované, co?"
 
 #: conversations/companions/g_companion_parvati_on_ship:10
 msgctxt "conversations/companions/g_companion_parvati_on_ship:10:DefaultText"
 msgid "Accurate in all particulars. I conclude you are Edgewater's Board-certified mechanic."
-msgstr ""
+msgstr "Přesné ve všech detailech. Dospěl jsem k závěru, že jste certifikovaný mechanik společnosti Edgewater."
 
 #: conversations/companions/g_companion_parvati_on_ship:11
 msgctxt "conversations/companions/g_companion_parvati_on_ship:11:DefaultText"
 msgid "Hello. I am not a Board-certified mechanic. But my dad was. He taught me all he knew. Do you understand?"
-msgstr ""
+msgstr "Dobrý den. Nejsem certifikovaný mechanik. Ale můj otec byl. Naučil mě všechno, co uměl. Rozumíte?"
 
 #: conversations/companions/g_companion_parvati_on_ship:12
 msgctxt "conversations/companions/g_companion_parvati_on_ship:12:DefaultText"
 msgid "Speech recognition is one of the many skills I have been programmed to simulate."
-msgstr ""
+msgstr "Rozpoznávání řeči je jednou z mnoha dovedností, které jsem byl naprogramován simulovat."
 
 #: conversations/companions/g_companion_parvati_on_ship:13
 msgctxt "conversations/companions/g_companion_parvati_on_ship:13:DefaultText"
 msgid "You're not simulating it, you're doing it. I asked a question, and you answered it."
-msgstr ""
+msgstr "Nesimulujete to, ale děláte to. Položil jsem otázku a vy jste na ni odpověděl."
 
 #: conversations/companions/g_companion_parvati_on_ship:14
 msgctxt "conversations/companions/g_companion_parvati_on_ship:14:DefaultText"
 msgid "I am gratified you consider this facsimile convincing."
-msgstr ""
+msgstr "Jsem potěšen, že považujete toto faksimile za přesvědčivé."
 
 #: conversations/companions/g_companion_parvati_on_ship:15
 msgctxt "conversations/companions/g_companion_parvati_on_ship:15:DefaultText"
 msgid "Enough. Parvati, can we get this boat in the air?"
-msgstr ""
+msgstr "Dost. Parvati, můžeme tu loď dostat do vzduchu?"
 
 #: conversations/companions/g_companion_parvati_on_ship:16
 msgctxt "conversations/companions/g_companion_parvati_on_ship:16:DefaultText"
 msgid "I don't see any holes in the hull. Pretty sure all you need's that Power Regulator. Then you're cooking with plasma torches."
-msgstr ""
+msgstr "V trupu nevidím žádné díry. Jsem si docela jistý, že potřebuješ jen ten regulátor výkonu. Pak už vaříš s plazmovými hořáky."
 
 #: conversations/companions/g_companion_parvati_on_ship:17
 msgctxt "conversations/companions/g_companion_parvati_on_ship:17:DefaultText"
 msgid "You can do that, you know. My dad taught me how to make grilled cheese sandwiches with a plasma torch."
-msgstr ""
+msgstr "Víte, že to můžete udělat. Táta mě naučil dělat sendviče s grilovaným sýrem pomocí plazmového hořáku."
 
 #: conversations/companions/g_companion_parvati_on_ship:22
 msgctxt "conversations/companions/g_companion_parvati_on_ship:22:DefaultText"
 msgid "ADA, Parvati will be fixing you from now on. I expect your full cooperation."
-msgstr ""
+msgstr "ADA, Parvati tě odteď bude opravovat. Očekávám vaši plnou spolupráci."
 
 #: conversations/companions/g_companion_parvati_on_ship:24
 msgctxt "conversations/companions/g_companion_parvati_on_ship:24:DefaultText"
 msgid "I am at your disposal, Ms. Parvati. You will find the technical schematics in the engineer's locker, though I'm afraid Captain Hawthorne has lost the owner's manual."
-msgstr ""
+msgstr "Jsem vám k dispozici, paní Parvati. Technická schémata najdete ve skříňce inženýra, i když se obávám, že kapitán Hawthorne ztratil návod k obsluze."
 
 #: conversations/companions/g_companion_parvati_on_ship:30
 msgctxt "conversations/companions/g_companion_parvati_on_ship:30:DefaultText"
 msgid "You know, whoever wired this ship up had no idea what they were doing."
-msgstr ""
+msgstr "Ten, kdo tuhle loď zapojil, neměl ponětí, co dělá."
 
 #: conversations/companions/g_companion_parvati_on_ship:31
 msgctxt "conversations/companions/g_companion_parvati_on_ship:31:DefaultText"
 msgid "I could probably spend years fixing this boat stem to stern."
-msgstr ""
+msgstr "Pravděpodobně bych mohl strávit roky opravou této lodi od dna k zádi."
 
 #: conversations/companions/g_companion_parvati_on_ship:33
 msgctxt "conversations/companions/g_companion_parvati_on_ship:33:DefaultText"
 msgid "I don't see any holes in the hull. I'll take a good squint at her, make sure everything's tip-top. But I think we're cooking with plasma torches. "
-msgstr ""
+msgstr "V trupu nevidím žádné díry. Pořádně se na ni podívám, jestli je všechno v pořádku. Ale myslím, že vaříme plazmovými hořáky. "
 
 #: conversations/companions/g_companion_parvati_on_ship:37
 msgctxt "conversations/companions/g_companion_parvati_on_ship:37:DefaultText"
 msgid "Oh yeah. That's the ship's computer... voice... thingy."
-msgstr ""
+msgstr "Jo, jasně. To je lodní počítač... hlasová... věc."
 
 #: conversations/companions/g_companion_parvati_on_ship:38
 msgctxt "conversations/companions/g_companion_parvati_on_ship:38:DefaultText"
 msgid "And this would be ADA. Apparently she's the one who actually flies the ship."
-msgstr ""
+msgstr "A to by byla ADA. Podle všeho je to ona, kdo skutečně řídí loď."
 
 #: conversations/companions/g_companion_parvati_on_ship:39
 msgctxt "conversations/companions/g_companion_parvati_on_ship:39:DefaultText"
 msgid "ADA, how about you not invite yourself into conversations?"
-msgstr ""
+msgstr "ADA, co kdybyste se do rozhovorů nezvali sami?"
 
 #: conversations/companions/g_companion_parvati_on_ship:40
 msgctxt "conversations/companions/g_companion_parvati_on_ship:40:DefaultText"
 msgid "That's the ship's computer. It's not intelligent, but it does a good imitation."
-msgstr ""
+msgstr "To je lodní počítač. Není inteligentní, ale umí ho dobře napodobit."
 
 #: conversations/companions/g_companion_parvati_on_ship:41
 msgctxt "conversations/companions/g_companion_parvati_on_ship:41:DefaultText"
 msgid "So you're gonna call her \"it?\" Not \"she?\""
-msgstr ""
+msgstr "Takže jí budeš říkat \"to\"? Ne \"ona\"?"
 
 #: conversations/companions/g_companion_parvati_on_ship:42
 msgctxt "conversations/companions/g_companion_parvati_on_ship:42:DefaultText"
 msgid "Though my voice is currently pitched to suggest female, I possess no gender. Any pronoun preferred by the user is acceptable."
-msgstr ""
+msgstr "Ačkoli můj hlas je v současné době znělý jako ženský, nemám žádné pohlaví. Jakékoli zájmeno, které uživatel preferuje, je přijatelné."
 
 #: conversations/companions/g_companion_parvati_on_ship:43
 msgctxt "conversations/companions/g_companion_parvati_on_ship:43:DefaultText"
 msgid "Oh, neat. I never seen a talkie-system before. I read about them, though. In a trade magazine."
-msgstr ""
+msgstr "Oh, skvělé. Nikdy předtím jsem neviděla hovorový systém. Ale četl jsem o nich. V odborném časopise."
 
 #: conversations/companions/g_companion_parvati_on_ship:44
 msgctxt "conversations/companions/g_companion_parvati_on_ship:44:DefaultText"
 msgid "Fly by wire's pretty normal. Or leastways, that's what I read in the trades. I never been on a real ship before."
-msgstr ""
+msgstr "Létání po drátě je docela normální. Nebo jsem to alespoň četl v obchodech. Na skutečné lodi jsem ještě nikdy nebyl."
 
 #: conversations/companions/g_companion_parvati_on_ship:45
 msgctxt "conversations/companions/g_companion_parvati_on_ship:45:DefaultText"
 msgid "Your user preferences have been updated, Captain. In the event we are about to crash into an asteroid, I will remain silent."
-msgstr ""
+msgstr "Vaše uživatelské preference byly aktualizovány, kapitáne. V případě, že se chystáme narazit do asteroidu, budu mlčet."
 
 #: conversations/companions/g_companion_parvati_on_ship:46
 msgctxt "conversations/companions/g_companion_parvati_on_ship:46:DefaultText"
 msgid "What do you think, Parvati? Is this safe to fly now that we got the Regulator?"
-msgstr ""
+msgstr "Co myslíš, Parvati? Je to bezpečné létat, když máme regulátor?"
 
 #: conversations/companions/g_companion_parvati_on_ship:48
 msgctxt "conversations/companions/g_companion_parvati_on_ship:48:DefaultText"
 msgid "Oh, did something break?"
-msgstr ""
+msgstr "Něco se rozbilo?"
 
 #: conversations/companions/g_companion_parvati_on_ship:49
 msgctxt "conversations/companions/g_companion_parvati_on_ship:49:DefaultText"
 msgid "Abso-surely, Captain. What's on your mind?"
-msgstr ""
+msgstr "Jistě, kapitáne. Na co myslíte?"
 
 #: conversations/companions/g_companion_parvati_on_ship:50
 msgctxt "conversations/companions/g_companion_parvati_on_ship:50:DefaultText"
 msgid "Oh, sure. Like what?"
-msgstr ""
+msgstr "Jistě. Jako co?"
 
 #: conversations/companions/g_companion_parvati_on_ship:51
 msgctxt "conversations/companions/g_companion_parvati_on_ship:51:DefaultText"
 msgid "What was it you wanted to ask me about?"
-msgstr ""
+msgstr "Na co jste se mě chtěl zeptat?"
 
 #: conversations/companions/g_companion_parvati_on_ship:53
 msgctxt "conversations/companions/g_companion_parvati_on_ship:53:DefaultText"
 msgid "Did you learn your trade from your father? It sounded like it when you talked to Reed."
-msgstr ""
+msgstr "Naučil jste se řemeslu od svého otce? Když jsi mluvil s Reedem, znělo to tak."
 
 #: conversations/companions/g_companion_parvati_on_ship:57
 msgctxt "conversations/companions/g_companion_parvati_on_ship:57:DefaultText"
 msgid "So what is it that's got you so upset?"
-msgstr ""
+msgstr "Co vás tak rozrušilo?"
 
 #: conversations/companions/g_companion_parvati_on_ship:60
 msgctxt "conversations/companions/g_companion_parvati_on_ship:60:DefaultText"
 msgid "What's the big thing you wanted to ask about?"
-msgstr ""
+msgstr "Na co jste se chtěl zeptat?"
 
 #: conversations/companions/g_companion_parvati_on_ship:62
 msgctxt "conversations/companions/g_companion_parvati_on_ship:62:DefaultText"
 msgid "Mostly, yeah. I lived in the maintenance office near all of my life. Mister Tobson never let me forget how funny that was."
-msgstr ""
+msgstr "Většinou ano. Skoro celý život jsem bydlel v kanceláři údržby. Pan Tobson mi nikdy nedovolil zapomenout, jak to bylo vtipné."
 
 #: conversations/companions/g_companion_parvati_on_ship:72
 msgctxt "conversations/companions/g_companion_parvati_on_ship:72:DefaultText"
 msgid "I was looking for a place that was quiet. I figured the kitchen would be louder than the hold, so here I am."
-msgstr ""
+msgstr "Hledal jsem klidné místo. Usoudil jsem, že kuchyně bude hlasitější než sklad, a tak jsem tady."
 
 #: conversations/companions/g_companion_parvati_on_ship:78
 msgctxt "conversations/companions/g_companion_parvati_on_ship:78:DefaultText"
 msgid "Felix keeps asking me to watch some adventure serial with him. It's not my thing, but he's real sweet about it."
-msgstr ""
+msgstr "Felix po mně pořád chce, abych se s ním dívala na nějaký dobrodružný seriál. Není to nic pro mě, ale on je na to moc hodný."
 
 #: conversations/companions/g_companion_parvati_on_ship:79
 msgctxt "conversations/companions/g_companion_parvati_on_ship:79:DefaultText"
 msgid "Sometimes I can hear Vicar saying prayers to himself. Sometimes I hear him cussing about tossball scores."
-msgstr ""
+msgstr "Někdy slyším, jak se vikář modlí sám k sobě. Někdy ho slyším nadávat na výsledky v přehazované."
 
 #: conversations/companions/g_companion_parvati_on_ship:80
 msgctxt "conversations/companions/g_companion_parvati_on_ship:80:DefaultText"
 msgid "You think I could hire myself out to ships in need someday? Be my own mechanic like how Ellie's her own doctor? I wonder sometimes."
-msgstr ""
+msgstr "Myslíš, že bych se jednou mohl najmout na lodě v nouzi? Být svým vlastním mechanikem, jako je Ellie svým vlastním doktorem? Někdy si říkám."
 
 #: conversations/companions/g_companion_parvati_on_ship:83
 msgctxt "conversations/companions/g_companion_parvati_on_ship:83:DefaultText"
 msgid "Sometimes I wonder about Mr. Hawthorne. What was he like? Why'd he make the computer a talkie? You think he got lonely, flying about on his own?"
-msgstr ""
+msgstr "Někdy se panu Hawthornovi divím. Jaký byl? Proč udělal z počítače mluvící televizi? Myslíš, že mu bylo smutno, když létal sám?"
 
 #: conversations/companions/g_companion_parvati_on_ship:84
 msgctxt "conversations/companions/g_companion_parvati_on_ship:84:DefaultText"
 msgid "Ms. Nyoka's so capable, you hardly notice how sad she looks."
-msgstr ""
+msgstr "Paní Nyoka je tak schopná, že si sotva všimnete, jak smutně vypadá."
 
 #: conversations/companions/g_companion_parvati_on_ship:102
 msgctxt "conversations/companions/g_companion_parvati_on_ship:102:DefaultText"
 msgid "Captain. We gotta talk about- about what you did to Junlei."
-msgstr ""
+msgstr "Kapitán. Musíme si promluvit o tom, co jsi udělal Junlei."
 
 #: conversations/companions/g_companion_parvati_on_ship:103
 msgctxt "conversations/companions/g_companion_parvati_on_ship:103:DefaultText"
 msgid "I don't got words. She was the one good thing in my life, and now she's..."
-msgstr ""
+msgstr "Nemám slov. Byla jedinou dobrou věcí v mém životě a teď je..."
 
 #: conversations/companions/g_companion_parvati_on_ship:104
 msgctxt "conversations/companions/g_companion_parvati_on_ship:104:DefaultText"
 msgid "You knew how I felt about her. You even encouraged me to ask her to be mine when I thought she was- she wanted someone else."
-msgstr ""
+msgstr "Věděl jsi, co k ní cítím. Dokonce jsi mě povzbuzoval, abych ji požádal o to, aby byla moje, když jsem si myslel, že - ona chtěla někoho jiného."
 
 #: conversations/companions/g_companion_parvati_on_ship:105
 msgctxt "conversations/companions/g_companion_parvati_on_ship:105:DefaultText"
 msgid "I feel like I shoulda got to know her better. But I never spoke up. And now I'll always wonder what coulda been."
-msgstr ""
+msgstr "Mám pocit, že bych ji měl poznat lépe. Ale nikdy jsem se neozval. A teď budu vždycky přemýšlet, co mohlo být."
 
 #: conversations/companions/g_companion_parvati_on_ship:106
 msgctxt "conversations/companions/g_companion_parvati_on_ship:106:DefaultText"
 msgid "That was wrong of me. I regret it. Don't make a hasty decision."
-msgstr ""
+msgstr "To ode mě nebylo správné. Lituji toho. Nedělej ukvapená rozhodnutí."
 
 #: conversations/companions/g_companion_parvati_on_ship:107
 msgctxt "conversations/companions/g_companion_parvati_on_ship:107:DefaultText"
 msgid "The only way you're walking out that airlock is at my side or without a spacesuit."
-msgstr ""
+msgstr "Jediná možnost, jak odejít z přechodové komory, je po mém boku nebo bez skafandru."
 
 #: conversations/companions/g_companion_parvati_on_ship:108
 msgctxt "conversations/companions/g_companion_parvati_on_ship:108:DefaultText"
 msgid "I don't want anyone on my ship who doesn't want to be here. Good luck."
-msgstr ""
+msgstr "Nechci na své lodi nikoho, kdo tu nechce být. Hodně štěstí."
 
 #: conversations/companions/g_companion_parvati_on_ship:111
 msgctxt "conversations/companions/g_companion_parvati_on_ship:111:DefaultText"
 msgid "I'm leaving. I'll take the plants if you want, but I can't - I can't work with you. You murdered her. Knowing full how much she means - meant to me."
-msgstr ""
+msgstr "Odcházím. Jestli chceš, vezmu si kytky, ale nemůžu - nemůžu s tebou pracovat. Zavraždil jsi ji. S plným vědomím toho, jak moc pro mě znamenala."
 
 #: conversations/companions/g_companion_parvati_on_ship:116
 msgctxt "conversations/companions/g_companion_parvati_on_ship:116:DefaultText"
 msgid "She wasn't a pleasant person."
-msgstr ""
+msgstr "Nebyla to příjemná osoba."
 
 #: conversations/companions/g_companion_parvati_on_ship:117
 msgctxt "conversations/companions/g_companion_parvati_on_ship:117:DefaultText"
 msgid "You were stuck in a shithole town your whole life. She was only the first face you saw."
-msgstr ""
+msgstr "Celý život jsi trčel ve městě, které stojí za hovno. Ona byla jen první tvář, kterou jsi viděl."
 
 #: conversations/companions/g_companion_parvati_on_ship:118
 msgctxt "conversations/companions/g_companion_parvati_on_ship:118:DefaultText"
 msgid "No use fretting over could-haves. There's plenty of stars in the sky."
-msgstr ""
+msgstr "Nemá smysl se trápit tím, co by se mohlo stát. Na obloze je spousta hvězd."
 
 #: conversations/companions/g_companion_parvati_on_ship:119
 msgctxt "conversations/companions/g_companion_parvati_on_ship:119:DefaultText"
 msgid "We've got no time for romance anyway. There's a star system needs saving."
-msgstr ""
+msgstr "Na romantiku stejně nemáme čas. Je třeba zachránit hvězdnou soustavu."
 
 #: conversations/companions/g_companion_parvati_on_ship:121
 msgctxt "conversations/companions/g_companion_parvati_on_ship:121:DefaultText"
 msgid "Good bye, mister."
-msgstr ""
+msgstr "Sbohem, pane."
 
 #: conversations/companions/g_companion_parvati_on_ship:121
 msgctxt "conversations/companions/g_companion_parvati_on_ship:121:FemaleText"
 msgid "Good bye, ma'am."
-msgstr ""
+msgstr "Na shledanou, madam."
 
 #: conversations/companions/g_companion_parvati_on_ship:122
 msgctxt "conversations/companions/g_companion_parvati_on_ship:122:DefaultText"
 msgid "Yeah. You too. I guess."
-msgstr ""
+msgstr "Jo. Ty taky. Myslím, že ano."
 
 #: conversations/companions/g_companion_parvati_on_ship:123
 msgctxt "conversations/companions/g_companion_parvati_on_ship:123:DefaultText"
 msgid "You're gonna kill me too? After all I done for you?"
-msgstr ""
+msgstr "Chceš mě taky zabít? Po tom všem, co jsem pro tebe udělal?"
 
 #: conversations/companions/g_companion_parvati_on_ship:124
 msgctxt "conversations/companions/g_companion_parvati_on_ship:124:DefaultText"
 msgid "I pulled you out of a shithole town and gave you the sky. You owe me."
-msgstr ""
+msgstr "Vytáhl jsem tě z města, které stálo za hovno, a dal ti nebe. Dlužíš mi to."
 
 #: conversations/companions/g_companion_parvati_on_ship:125
 msgctxt "conversations/companions/g_companion_parvati_on_ship:125:DefaultText"
 msgid "I been thinking on this since I heard. I got a pit in my stomach. But what you done - there's some things that can't be taken back."
-msgstr ""
+msgstr "Přemýšlel jsem o tom, co jsem slyšel. Zvedl se mi žaludek. Ale to, co jsi udělal - některé věci se nedají vzít zpátky."
 
 #: conversations/companions/g_companion_parvati_on_ship:126
 msgctxt "conversations/companions/g_companion_parvati_on_ship:126:DefaultText"
 msgid "You know what happens to those who cross me. Don't be one of them. Keep my ship running."
-msgstr ""
+msgstr "Víš, co se stane těm, kdo mě zkříží. Nebuď jedním z nich. Udržuj mou loď v chodu."
 
 #: conversations/companions/g_companion_parvati_on_ship:127
 msgctxt "conversations/companions/g_companion_parvati_on_ship:127:DefaultText"
 msgid "Without my ship, you've got no place in this world."
-msgstr ""
+msgstr "Bez mé lodi nemáš na tomto světě místo."
 
 #: conversations/companions/g_companion_parvati_on_ship:128
 msgctxt "conversations/companions/g_companion_parvati_on_ship:128:DefaultText"
 msgid "No, I suppose not."
-msgstr ""
+msgstr "Ne, to asi ne."
 
 #: conversations/companions/g_companion_parvati_on_ship:130
 msgctxt "conversations/companions/g_companion_parvati_on_ship:130:DefaultText"
 msgid "I've never had a place. No mother, dead father, a job I hated, neighbors who thought me broken and strange."
-msgstr ""
+msgstr "Nikdy jsem neměl místo. Žádná matka, mrtvý otec, práce, kterou jsem nenáviděl, sousedé, kteří mě považovali za zlomeného a divného."
 
 #: conversations/companions/g_companion_parvati_on_ship:131
 msgctxt "conversations/companions/g_companion_parvati_on_ship:131:DefaultText"
 msgid "I hope someday you meet a soul who changes you for the good. I'm sorry I wasn't them."
-msgstr ""
+msgstr "Doufám, že jednoho dne potkáš duši, která tě změní k dobrému. Je mi líto, že jsem jím nebyl."
 
 #: conversations/companions/g_companion_parvati_on_ship:132
 msgctxt "conversations/companions/g_companion_parvati_on_ship:132:DefaultText"
 msgid "That's how it's gonna be? I thought you'd be better. I really hoped you would."
-msgstr ""
+msgstr "Takhle to bude? Myslel jsem, že budeš lepší. Opravdu jsem doufal, že ano."
 
 #: conversations/companions/g_companion_parvati_on_ship:133
 msgctxt "conversations/companions/g_companion_parvati_on_ship:133:DefaultText"
 msgid "All I wanted in this life was a place that felt... safe. I don't have that anymore. Maybe I never will."
-msgstr ""
+msgstr "Jediné, co jsem v tomhle životě chtěla, bylo místo, kde bych se cítila... bezpečně. To už nemám. Možná už nikdy nebudu."
 
 #: conversations/companions/g_companion_parvati_on_ship:134
 msgctxt "conversations/companions/g_companion_parvati_on_ship:134:DefaultText"
 msgid "I'll keep your ship in the aether, mister. But otherwise, you let me alone."
-msgstr ""
+msgstr "Udržím vaši loď v éteru, pane. Ale jinak mě nechte na pokoji."
 
 #: conversations/companions/g_companion_parvati_on_ship:134
 msgctxt "conversations/companions/g_companion_parvati_on_ship:134:FemaleText"
 msgid "I'll keep your ship in the aether, ma'am. But otherwise, you let me alone."
-msgstr ""
+msgstr "Udržím vaši loď v éteru, madam. Ale jinak mě nechte na pokoji."
 
 #: conversations/companions/g_companion_parvati_on_ship:135
 msgctxt "conversations/companions/g_companion_parvati_on_ship:135:DefaultText"
 msgid "I'm leaving. I don't know... I don't know what I'm gonna do. But I can't look at you. You make me sick."
-msgstr ""
+msgstr "Odcházím. Já nevím... Nevím, co budu dělat. Ale nemůžu se na tebe dívat. Je mi z tebe špatně."
 
 #: conversations/companions/g_companion_parvati_on_ship:136
 msgctxt "conversations/companions/g_companion_parvati_on_ship:136:DefaultText"
 msgid "Don't rush into that decision. Let's discuss this."
-msgstr ""
+msgstr "S tímto rozhodnutím nespěchejte. Pojďme si o tom promluvit."
 
 #: conversations/companions/g_companion_parvati_on_ship:137
 msgctxt "conversations/companions/g_companion_parvati_on_ship:137:DefaultText"
 msgid "You really think you can hack it on your own? You need me."
-msgstr ""
+msgstr "Opravdu si myslíte, že to zvládnete sami? Potřebuješ mě."
 
 #: conversations/companions/g_companion_parvati_on_ship:138
 msgctxt "conversations/companions/g_companion_parvati_on_ship:138:DefaultText"
 msgid "We've all got it coming. That day it was her."
-msgstr ""
+msgstr "Všichni to máme před sebou. Ten den to byla ona."
 
 #: conversations/companions/g_companion_parvati_on_ship:139
 msgctxt "conversations/companions/g_companion_parvati_on_ship:139:DefaultText"
 msgid "I did an undefendable thing. I won't stop you."
-msgstr ""
+msgstr "Udělal jsem neobhajitelnou věc. Nezastavím tě."
 
 #: conversations/companions/g_companion_parvati_on_ship:140
 msgctxt "conversations/companions/g_companion_parvati_on_ship:140:DefaultText"
 msgid "No, mister. I needed Junlei. You took her away from me."
-msgstr ""
+msgstr "Ne, pane. Potřeboval jsem Junlei. Vzal jsi mi ji."
 
 #: conversations/companions/g_companion_parvati_on_ship:140
 msgctxt "conversations/companions/g_companion_parvati_on_ship:140:FemaleText"
 msgid "No, ma'am. I needed Junlei. You took her away from me."
-msgstr ""
+msgstr "Ne, madam. Potřebovala jsem Junlei. Vzal jste mi ji."
 
 #: conversations/companions/g_companion_parvati_on_ship:141
 msgctxt "conversations/companions/g_companion_parvati_on_ship:141:DefaultText"
 msgid "This isn't something you can talk your way out of. You. Murdered. My. Love! The brightest light in my sky!"
-msgstr ""
+msgstr "Z toho se nelze vymluvit. Ty. Zavražděn. Můj. Lásku! Nejjasnější světlo na mém nebi!"
 
 #: conversations/companions/g_companion_parvati_on_ship:142
 msgctxt "conversations/companions/g_companion_parvati_on_ship:142:DefaultText"
 msgid "One day maybe you'll realize what you've done. Maybe then, you can make it up to the universe. But you'll never make it up to me."
-msgstr ""
+msgstr "Jednoho dne si možná uvědomíš, co jsi udělal. Pak to možná vesmíru vynahradíš. Ale mně to nikdy nevynahradíš."
 
 #: conversations/companions/g_companion_parvati_on_ship:143
 msgctxt "conversations/companions/g_companion_parvati_on_ship:143:DefaultText"
 msgid "And now we all gotta live with it. But especially me."
-msgstr ""
+msgstr "A teď s tím musíme všichni žít. Ale hlavně já."
 
 #: conversations/companions/g_companion_parvati_on_ship:144
 msgctxt "conversations/companions/g_companion_parvati_on_ship:144:DefaultText"
 msgid "No. There's good people, and there's bad. I didn't want to think it, but - you're one of the bad."
-msgstr ""
+msgstr "Ne. Jsou lidé dobří a špatní. Nechtěl jsem si to myslet, ale - ty patříš k těm špatným."
 
 #: conversations/companions/g_companion_parvati_on_ship:149
 msgctxt "conversations/companions/g_companion_parvati_on_ship:149:DefaultText"
 msgid "But if you stay, it'll remind me how I failed. And maybe I'll do better."
-msgstr ""
+msgstr "Ale když zůstaneš, připomene mi to, jak jsem selhal. A možná se polepším."
 
 #: conversations/companions/g_companion_parvati_on_ship:150
 msgctxt "conversations/companions/g_companion_parvati_on_ship:150:DefaultText"
 msgid "You've got no plan. You know what Halcyon's like for the unemployed."
-msgstr ""
+msgstr "Nemáte žádný plán. Víš, jak vypadá Halcyon pro nezaměstnané."
 
 #: conversations/companions/g_companion_parvati_on_ship:151
 msgctxt "conversations/companions/g_companion_parvati_on_ship:151:DefaultText"
 msgid "Are you sure? Where will you go without this ship? What will you do?"
-msgstr ""
+msgstr "Jste si jistý? Kam se bez této lodi dostaneš? Co budete dělat?"
 
 #: conversations/companions/g_companion_parvati_on_ship:153
 msgctxt "conversations/companions/g_companion_parvati_on_ship:153:DefaultText"
 msgid "I'm not living just to remind you what is and ain't right. You ought to know what your own self. You're - you're sick."
-msgstr ""
+msgstr "Nežiji jen proto, abych vám připomínal, co je a co není správné. Měli byste to vědět sami. Jsi - jsi nemocný."
 
 #: conversations/companions/g_companion_parvati_on_ship:154
 msgctxt "conversations/companions/g_companion_parvati_on_ship:154:DefaultText"
 msgid "What's a \"plan\" matter when somebody kills a person you love? You think I got an eye to the future when I gotta remind myself to breathe?"
-msgstr ""
+msgstr "Jaký význam má \"plán\", když někdo zabije člověka, kterého milujete? Myslíš, že mám výhled do budoucnosti, když si musím připomínat, že mám dýchat?"
 
 #: conversations/companions/g_companion_parvati_on_ship:155
 msgctxt "conversations/companions/g_companion_parvati_on_ship:155:DefaultText"
 msgid "Maybe. But what if that was just the face she showed everybody, and her heart was another thing?"
-msgstr ""
+msgstr "Možná. Ale co když to byla jen tvář, kterou všem ukazovala, a její srdce bylo něco jiného?"
 
 #: conversations/companions/g_companion_parvati_on_ship:156
 msgctxt "conversations/companions/g_companion_parvati_on_ship:156:DefaultText"
 msgid "I- I just want to be alone for a while, okay?"
-msgstr ""
+msgstr "Chci být chvíli sama, ano?"
 
 #: conversations/companions/g_companion_parvati_on_ship:157
 msgctxt "conversations/companions/g_companion_parvati_on_ship:157:DefaultText"
 msgid "But that couldn't mean it was fate? The Vicar's Grand Plan putting us up in each other's faces?"
-msgstr ""
+msgstr "Ale to nemohlo znamenat, že to byl osud? Velký plán faráře, který nás postavil před sebe?"
 
 #: conversations/companions/g_companion_parvati_on_ship:158
 msgctxt "conversations/companions/g_companion_parvati_on_ship:158:DefaultText"
 msgid "I don't want a bunch of stars. I just want the one that feels right. How'm I supposed to tell it from the rest?"
-msgstr ""
+msgstr "Nechci hromadu hvězdiček. Chci jen tu, která mi přijde správná. Jak ji mám rozeznat od ostatních?"
 
 #: conversations/companions/g_companion_parvati_on_ship:159
 msgctxt "conversations/companions/g_companion_parvati_on_ship:159:DefaultText"
 msgid "I guess. There's a lot of good that needs to be done. I just wish... I didn't have to do it alone."
-msgstr ""
+msgstr "Asi ano. Je toho hodně dobrého, co je třeba udělat. Jen bych si přál... abych na to nebyl sám."
 
 #: conversations/companions/g_companion_parvati_on_ship:162
 msgctxt "conversations/companions/g_companion_parvati_on_ship:162:DefaultText"
 msgid "I got that soap you wanted."
-msgstr ""
+msgstr "Mám to mýdlo, které jsi chtěl."
 
 #: conversations/companions/g_companion_parvati_on_ship:169
 msgctxt "conversations/companions/g_companion_parvati_on_ship:169:DefaultText"
 msgid "Ohh, lemme see."
-msgstr ""
+msgstr "Ohh, podívejme se."
 
 #: conversations/companions/g_companion_parvati_on_ship:170
 msgctxt "conversations/companions/g_companion_parvati_on_ship:170:DefaultText"
 msgid "Wow, some kinda flower... \"Rose-ish\"? Huh! I never smelt nothing like a rose afore. It's kinda... intense? But Junlei's intense, so maybe that suits?"
-msgstr ""
+msgstr "Páni, nějaká květina... \"Růžová\"? Huh! Nikdy předtím jsem necítil nic jako růži. Je to trochu... intenzivní? Ale Junlei je intenzivní, takže to možná sedí?"
 
 #: conversations/companions/g_companion_parvati_on_ship:171
 msgctxt "conversations/companions/g_companion_parvati_on_ship:171:DefaultText"
 msgid "Oh! Mock-apples and Synthamon? It smells like a warm kitchen. Like coming home on a fall evening. You're the best, Captain."
-msgstr ""
+msgstr "Aha! Jablka a Synthamon? Voní to jako teplá kuchyně. Jako když se vracíte domů za podzimního večera. Jste nejlepší, kapitáne."
 
 #: conversations/companions/g_companion_parvati_on_ship:172
 msgctxt "conversations/companions/g_companion_parvati_on_ship:172:DefaultText"
 msgid "Is that..? Like a refurbished ship! There's nothing like the smell of grit and grime covered over with cleaner, you know? It means we're finally going places."
-msgstr ""
+msgstr "Je to...? Jako renovovaná loď! Není nad vůni štěrku a špíny přetřené čisticím prostředkem, víš? Znamená to, že konečně někam jedeme."
 
 #: conversations/companions/g_companion_parvati_on_ship:175
 msgctxt "conversations/companions/g_companion_parvati_on_ship:175:DefaultText"
 msgid "So there's your soap."
-msgstr ""
+msgstr "Tady je vaše mýdlo."
 
 #: conversations/companions/g_companion_parvati_on_ship:177
 msgctxt "conversations/companions/g_companion_parvati_on_ship:177:DefaultText"
 msgid "Thanks, Captain. I'm gonna put these someplace safe."
-msgstr ""
+msgstr "Díky, kapitáne. Dám je někam do bezpečí."
 
 #: conversations/companions/g_companion_parvati_on_ship:208
 msgctxt "conversations/companions/g_companion_parvati_on_ship:208:DefaultText"
 msgid "Thanks for your help up to now. I'll try to do the rest on my lonesome."
-msgstr ""
+msgstr "Děkujeme za vaši dosavadní pomoc. Zbytek se pokusím udělat sám."
 
 #: conversations/companions/g_companion_parvati_on_ship:209
 msgctxt "conversations/companions/g_companion_parvati_on_ship:209:DefaultText"
 msgid "Are you dropping your plans to ask Junlei out?"
-msgstr ""
+msgstr "Vzdáváš se svých plánů pozvat Junlei na rande?"
 
 #: conversations/companions/g_companion_parvati_on_ship:210
 msgctxt "conversations/companions/g_companion_parvati_on_ship:210:DefaultText"
 msgid "I'm not dropping them, Captain. I just don't want you involved anymore."
-msgstr ""
+msgstr "Já je nepustím, kapitáne. Jen už nechci, abyste se do toho zapletl."
 
 #: conversations/companions/g_companion_parvati_on_ship:211
 msgctxt "conversations/companions/g_companion_parvati_on_ship:211:DefaultText"
 msgid "I'm glad for all the help you gave me. But the way you want to do things just doesn't sit well with me."
-msgstr ""
+msgstr "Jsem rád za veškerou pomoc, kterou jste mi poskytli. Ale způsob, jakým to chceš udělat, mi prostě nesedí."
 
 #: conversations/companions/g_companion_parvati_on_ship:212
 msgctxt "conversations/companions/g_companion_parvati_on_ship:212:DefaultText"
 msgid "Oh gosh! You got me more than one! Which scent do you think I oughta use?"
-msgstr ""
+msgstr "Bože! Dostal jsi mě víc než jeden! Kterou vůni mám podle tebe použít?"
 
 #: conversations/companions/g_companion_parvati_on_ship:214
 msgctxt "conversations/companions/g_companion_parvati_on_ship:214:DefaultText"
 msgid "Rose-ish. When it comes to romance, you can't go wrong with the classics."
-msgstr ""
+msgstr "Růžová. Pokud jde o romantiku, nemůžete se splést s klasikou."
 
 #: conversations/companions/g_companion_parvati_on_ship:215
 msgctxt "conversations/companions/g_companion_parvati_on_ship:215:DefaultText"
 msgid "Mock-apples and Synthamon match your personality."
-msgstr ""
+msgstr "Mock-apples a Synthamon odpovídají vaší osobnosti."
 
 #: conversations/companions/g_companion_parvati_on_ship:216
 msgctxt "conversations/companions/g_companion_parvati_on_ship:216:DefaultText"
 msgid "An engineer might like Refurbished Ship. Scrubbed parts and all that."
-msgstr ""
+msgstr "Inženýrovi by se mohlo líbit Refurbished Ship. Očištěné díly a podobně."
 
 #: conversations/companions/g_companion_parvati_on_ship:217
 msgctxt "conversations/companions/g_companion_parvati_on_ship:217:DefaultText"
 msgid "I don't have much taste in bath products. Pick whatever you like."
-msgstr ""
+msgstr "Nemám moc velký vkus na produkty do koupele. Vyberte si, co se vám líbí."
 
 #: conversations/companions/g_companion_parvati_on_ship:219
 msgctxt "conversations/companions/g_companion_parvati_on_ship:219:DefaultText"
 msgid "We didn't have roses in Edgewater. We don't have 'em nowhere in Halcyon, actually. I heard they smell real pretty, though."
-msgstr ""
+msgstr "V Edgewateru jsme neměli růže. Vlastně je nemáme nikde v Halcyonu. Slyšela jsem ale, že krásně voní."
 
 #: conversations/companions/g_companion_parvati_on_ship:220
 msgctxt "conversations/companions/g_companion_parvati_on_ship:220:DefaultText"
 msgid "Aw, you. It's like a kitchen in autumn. Coming home with leaves stuck in your pants cuffs. Yeah. That's a good one."
-msgstr ""
+msgstr "Ty. Je to tu jako v kuchyni na podzim. Přijít domů s listím uvízlým v manžetách kalhot. Jo. To je dobrý."
 
 #: conversations/companions/g_companion_parvati_on_ship:221
 msgctxt "conversations/companions/g_companion_parvati_on_ship:221:DefaultText"
 msgid "Sure enough. That's a smell that says we're going places."
-msgstr ""
+msgstr "Jistě. To je vůně, která říká, že jdeme na věc."
 
 #: conversations/companions/g_companion_parvati_on_ship:222
 msgctxt "conversations/companions/g_companion_parvati_on_ship:222:DefaultText"
 msgid "It's not what I like, it's what Junlei would like. I guess... I'll think on it."
-msgstr ""
+msgstr "Nejde o to, co se líbí mně, ale o to, co by se líbilo Junlei. Myslím, že... Budu o tom přemýšlet."
 
 #: conversations/companions/g_companion_parvati_on_ship:232
 msgctxt "conversations/companions/g_companion_parvati_on_ship:232:DefaultText"
 msgid "Hey Captain, 'scuse my asking, but... I heard you met a big fancy engineer on Groundbreaker?"
-msgstr ""
+msgstr "Kapitáne, promiňte, že se ptám, ale... Slyšel jsem, že jste se na Groundbreakeru setkal s velkým inženýrem?"
 
 #: conversations/companions/g_companion_parvati_on_ship:233
 msgctxt "conversations/companions/g_companion_parvati_on_ship:233:DefaultText"
 msgid "You mean Junlei Tennyson? Yeah, I'm working a job for her."
-msgstr ""
+msgstr "Myslíte Junlei Tennyson? Ano, pracuji pro ni."
 
 #: conversations/companions/g_companion_parvati_on_ship:234
 msgctxt "conversations/companions/g_companion_parvati_on_ship:234:DefaultText"
 msgid "I was wondering if maybe you could take me along next time you visit? Just to meet her."
-msgstr ""
+msgstr "Napadlo mě, jestli byste mě při příští návštěvě nemohl vzít s sebou? Abych se s ní seznámila."
 
 #: conversations/companions/g_companion_parvati_on_ship:235
 msgctxt "conversations/companions/g_companion_parvati_on_ship:235:DefaultText"
 msgid "I don't got much experience fixing actual spaceships. I bet you a can of boarst and beans she could teach me all manner of stuff."
-msgstr ""
+msgstr "Nemám moc zkušeností s opravami skutečných vesmírných lodí. Vsadím se s vámi o plechovku kančího a fazolí, že by mě mohla naučit spoustu věcí."
 
 #: conversations/companions/g_companion_parvati_on_ship:236
 msgctxt "conversations/companions/g_companion_parvati_on_ship:236:DefaultText"
 msgid "Makes sense to me. Next time we dock at Groundbreaker, I'll try to remember."
-msgstr ""
+msgstr "To mi dává smysl. Až příště zakotvíme v Groundbreakeru, zkusím si vzpomenout."
 
 #: conversations/companions/g_companion_parvati_on_ship:237
 msgctxt "conversations/companions/g_companion_parvati_on_ship:237:DefaultText"
 msgid "Sure, we could head over to Engineering now."
-msgstr ""
+msgstr "Jistě, mohli bychom jít do strojovny."
 
 #: conversations/companions/g_companion_parvati_on_ship:238
 msgctxt "conversations/companions/g_companion_parvati_on_ship:238:DefaultText"
 msgid "Thanks, Captain. I'll be sure to make it worth your time."
-msgstr ""
+msgstr "Díky, kapitáne. Budu se snažit, aby to stálo za váš čas."
 
 #: conversations/companions/g_companion_parvati_on_ship:239
 msgctxt "conversations/companions/g_companion_parvati_on_ship:239:DefaultText"
 msgid "Did you wanna talk about something else?"
-msgstr ""
+msgstr "Chtěl jsi mluvit o něčem jiném?"
 
 #: conversations/companions/g_companion_parvati_on_ship:240
 msgctxt "conversations/companions/g_companion_parvati_on_ship:240:DefaultText"
 msgid "I thought you said you could keep this boat in good repair?"
-msgstr ""
+msgstr "Myslel jsem, že jsi říkal, že dokážeš udržovat loď v dobrém stavu?"
 
 #: conversations/companions/g_companion_parvati_on_ship:241
 msgctxt "conversations/companions/g_companion_parvati_on_ship:241:DefaultText"
 msgid "I abso-surely can. I'm a passing fair mechanic. Even Mister Tobson woulda said it's my only skill."
-msgstr ""
+msgstr "To rozhodně mohu. Jsem projíždějící poctivý mechanik. I pan Tobson by řekl, že je to moje jediná dovednost."
 
 #: conversations/companions/g_companion_parvati_on_ship:242
 msgctxt "conversations/companions/g_companion_parvati_on_ship:242:DefaultText"
 msgid "But I'm used to working on cannery lines, AG loaders, and the like. There's tricks about ships I ain't learned yet."
-msgstr ""
+msgstr "Ale jsem zvyklý pracovat na konzervárenských linkách, nakladačích AG a podobně. Některé triky na lodích jsem se ještě nenaučil."
 
 #: conversations/companions/g_companion_parvati_on_ship:243
 msgctxt "conversations/companions/g_companion_parvati_on_ship:243:DefaultText"
 msgid "All's I'm looking for is a few pointers. I bet a lady who runs a whole station has forgot more than I ever learned."
-msgstr ""
+msgstr "Hledám jen pár tipů. Vsadím se, že paní, která vede celou stanici, toho zapomněla víc, než jsem se kdy naučil já."
 
 #: conversations/companions/g_companion_parvati_on_ship:244
 msgctxt "conversations/companions/g_companion_parvati_on_ship:244:DefaultText"
 msgid "Are you asking to leave my crew and join hers?"
-msgstr ""
+msgstr "Chceš odejít z mé posádky a přidat se k té její?"
 
 #: conversations/companions/g_companion_parvati_on_ship:245
 msgctxt "conversations/companions/g_companion_parvati_on_ship:245:DefaultText"
 msgid "Gosh no, Captain. I aim to stay so long as I'm welcome."
-msgstr ""
+msgstr "To ne, kapitáne. Chci zůstat, dokud budu vítán."
 
 #: conversations/companions/g_companion_parvati_on_ship:246
 msgctxt "conversations/companions/g_companion_parvati_on_ship:246:DefaultText"
 msgid "I figured Junlei and I could confabulate over wireless, or by message."
-msgstr ""
+msgstr "Usoudil jsem, že bychom se s Junlei mohli domluvit přes bezdrátové spojení nebo vzkazem."
 
 #: conversations/companions/g_companion_parvati_on_ship:247
 msgctxt "conversations/companions/g_companion_parvati_on_ship:247:DefaultText"
 msgid "And maybe when we put in to Groundbreaker, I could stop by to visit her sometimes. But only when you don't need me with you."
-msgstr ""
+msgstr "A možná, že až se ubytujeme v Groundbreakeru, mohl bych se za ní někdy zastavit. Ale jen když mě nebudeš potřebovat u sebe."
 
 #: conversations/companions/g_companion_parvati_on_ship:248
 msgctxt "conversations/companions/g_companion_parvati_on_ship:248:DefaultText"
 msgid "I don't think she'd be much help. But if you happen to be along, feel free to speak up."
-msgstr ""
+msgstr "Nemyslím si, že by vám mohla být nápomocná. Ale kdybyste náhodou byli poblíž, klidně se ozvěte."
 
 #: conversations/companions/g_companion_parvati_on_ship:249
 msgctxt "conversations/companions/g_companion_parvati_on_ship:249:DefaultText"
 msgid "Okay. I don't wanna waste your time or nothing."
-msgstr ""
+msgstr "Dobře. Nechci plýtvat tvým časem ani ničím jiným."
 
 #: conversations/companions/g_companion_parvati_on_ship:250
 msgctxt "conversations/companions/g_companion_parvati_on_ship:250:DefaultText"
 msgid "I don't know if I'd call her \"fancy.\" She was covered in grease."
-msgstr ""
+msgstr "Nevím, jestli bych ji nazvala \"přepychovou\". Byla celá od tuku."
 
 #: conversations/companions/g_companion_parvati_on_ship:251
 msgctxt "conversations/companions/g_companion_parvati_on_ship:251:DefaultText"
 msgid "Wow. Sounds like a hands-on kinda lady. That's great."
-msgstr ""
+msgstr "Páni. To zní jako praktická dáma. To je skvělé."
 
 #: conversations/companions/g_companion_parvati_on_ship:252
 msgctxt "conversations/companions/g_companion_parvati_on_ship:252:DefaultText"
 msgid "Is this urgent, or can it wait?"
-msgstr ""
+msgstr "Je to naléhavé, nebo to může počkat?"
 
 #: conversations/companions/g_companion_parvati_on_ship:253
 msgctxt "conversations/companions/g_companion_parvati_on_ship:253:DefaultText"
 msgid "I still don't want to talk about this."
-msgstr ""
+msgstr "Pořád o tom nechci mluvit."
 
 #: conversations/companions/g_companion_parvati_on_ship:254
 msgctxt "conversations/companions/g_companion_parvati_on_ship:254:DefaultText"
 msgid "Hey, Captain? I been thinking. You know Ms. Junlei, the engineer who runs the Groundbreaker?"
-msgstr ""
+msgstr "Hej, kapitáne? Přemýšlel jsem. Znáte paní Junlei, inženýrku, která řídí Groundbreaker?"
 
 #: conversations/companions/g_companion_parvati_on_ship:255
 msgctxt "conversations/companions/g_companion_parvati_on_ship:255:DefaultText"
 msgid "What about her?"
-msgstr ""
+msgstr "A co ona?"
 
 #: conversations/companions/g_companion_parvati_on_ship:256
 msgctxt "conversations/companions/g_companion_parvati_on_ship:256:DefaultText"
 msgid "I was wondering if maybe you could take me along next time you visit? I had a thought since we met."
-msgstr ""
+msgstr "Napadlo mě, jestli byste mě při příští návštěvě nemohl vzít s sebou? Od té doby, co jsme se potkali, mě něco napadlo."
 
 #: conversations/companions/g_companion_parvati_on_ship:257
 msgctxt "conversations/companions/g_companion_parvati_on_ship:257:DefaultText"
 msgid "I remember her. I didn't care much for her manner."
-msgstr ""
+msgstr "Vzpomínám si na ni. Její chování mě moc nezajímalo."
 
 #: conversations/companions/g_companion_parvati_on_ship:258
 msgctxt "conversations/companions/g_companion_parvati_on_ship:258:DefaultText"
 msgid "She carries a lot of burdens. You can watch the worries passing behind her eyes while she talks."
-msgstr ""
+msgstr "Nese spoustu břemen. Když mluví, můžete sledovat, jak jí za očima ubíhají starosti."
 
 #: conversations/companions/g_companion_parvati_on_ship:289
 msgctxt "conversations/companions/g_companion_parvati_on_ship:289:DefaultText"
 msgid "Oh no. It can wait. Sorry. What do you need?"
-msgstr ""
+msgstr "Ale ne. To může počkat. Omlouvám se. Co potřebujete?"
 
 #: conversations/companions/g_companion_parvati_on_ship:290
 msgctxt "conversations/companions/g_companion_parvati_on_ship:290:DefaultText"
 msgid "Sorry. I don't mean to make such a fuss."
-msgstr ""
+msgstr "Omlouvám se. Nechtěl jsem dělat takový rozruch."
 
 #: conversations/companions/g_companion_parvati_on_ship:300
 msgctxt "conversations/companions/g_companion_parvati_on_ship:300:DefaultText"
 msgid "I'm so nervous. Having trouble focusing on my work."
-msgstr ""
+msgstr "Jsem tak nervózní. Mám problém soustředit se na práci."
 
 #: conversations/companions/g_companion_parvati_on_ship:301
 msgctxt "conversations/companions/g_companion_parvati_on_ship:301:DefaultText"
 msgid "Captain, I know we're technically in your house and all, but- could you at least put on some pants?"
-msgstr ""
+msgstr "Kapitáne, vím, že jsme technicky vzato ve vašem domě, ale... mohl byste si alespoň obléct kalhoty?"
 
 #: conversations/companions/g_companion_parvati_on_ship:306
 msgctxt "conversations/companions/g_companion_parvati_on_ship:306:DefaultText"
 msgid "Did your dad ever work on space ships?"
-msgstr ""
+msgstr "Pracoval někdy tvůj otec na vesmírných lodích?"
 
 #: conversations/companions/g_companion_parvati_on_ship:307
 msgctxt "conversations/companions/g_companion_parvati_on_ship:307:DefaultText"
 msgid "I don't see the humor."
-msgstr ""
+msgstr "Nevidím v tom žádný humor."
 
 #: conversations/companions/g_companion_parvati_on_ship:308
 msgctxt "conversations/companions/g_companion_parvati_on_ship:308:DefaultText"
 msgid "You worked beside your father your whole life?"
-msgstr ""
+msgstr "Celý život jste pracoval po boku svého otce?"
 
 #: conversations/companions/g_companion_parvati_on_ship:309
 msgctxt "conversations/companions/g_companion_parvati_on_ship:309:DefaultText"
 msgid "Reed seemed to have it in for you."
-msgstr ""
+msgstr "Zdálo se, že Reed na tebe má spadeno."
 
 #: conversations/companions/g_companion_parvati_on_ship:310
 msgctxt "conversations/companions/g_companion_parvati_on_ship:310:DefaultText"
 msgid "He meant funny as in odd."
-msgstr ""
+msgstr "Myslel to legračně jako divně."
 
 #: conversations/companions/g_companion_parvati_on_ship:311
 msgctxt "conversations/companions/g_companion_parvati_on_ship:311:DefaultText"
 msgid "Not on the regular. Once in a great long while, a saltuna boat would break down on the pad. He'd always bring me along for those."
-msgstr ""
+msgstr "Ne pravidelně. Jednou za hodně dlouhou dobu se na podložce porouchal člun saltuna. Na ty mě vždycky bral s sebou."
 
 #: conversations/companions/g_companion_parvati_on_ship:315
 msgctxt "conversations/companions/g_companion_parvati_on_ship:315:DefaultText"
 msgid "It's not normal for anyone to do as their parents. You take a vocational test. That decides your schooling, and your career."
-msgstr ""
+msgstr "Není normální, aby někdo dělal to, co jeho rodiče. Uděláte si profesní zkoušku. Ten rozhoduje o vašem vzdělání a o vaší kariéře."
 
 #: conversations/companions/g_companion_parvati_on_ship:316
 msgctxt "conversations/companions/g_companion_parvati_on_ship:316:DefaultText"
 msgid "Except for my schooling years, I was always beside him. Or tied to him. He used to carry me about in a sling when I was real little."
-msgstr ""
+msgstr "Kromě školních let jsem byl vždycky vedle něj. Nebo jsem k němu byla připoutaná. Když jsem byl opravdu malý, nosil mě v závěsu."
 
 #: conversations/companions/g_companion_parvati_on_ship:317
 msgctxt "conversations/companions/g_companion_parvati_on_ship:317:DefaultText"
 msgid "When I got older he set me to sorting tools and parts while he worked. Later he taught me simple fixes, like busted crate latches."
-msgstr ""
+msgstr "Když jsem byl starší, pověřil mě tříděním nářadí a dílů, zatímco on pracoval. Později mě naučil jednoduché opravy, například rozbité západky beden."
 
 #: conversations/companions/g_companion_parvati_on_ship:318
 msgctxt "conversations/companions/g_companion_parvati_on_ship:318:DefaultText"
 msgid "Let's talk about something else."
-msgstr ""
+msgstr "Promluvme si o něčem jiném."
 
 #: conversations/companions/g_companion_parvati_on_ship:319
 msgctxt "conversations/companions/g_companion_parvati_on_ship:319:DefaultText"
 msgid "I- I'm not exactly a model employee. Not like he wanted. The kind that stays quiet and gets the right work done in the right order every day."
-msgstr ""
+msgstr "Nejsem zrovna vzorný zaměstnanec. Ne takový, jaký chtěl. Takový, který zůstává potichu a každý den odvádí správnou práci ve správném pořadí."
 
 #: conversations/companions/g_companion_parvati_on_ship:320
 msgctxt "conversations/companions/g_companion_parvati_on_ship:320:DefaultText"
 msgid "When I tested out for maintenance, everyone figured it was on account of my dad. They were real unhappy with us."
-msgstr ""
+msgstr "Když jsem se testoval na údržbu, všichni si mysleli, že je to kvůli mému otci. Byli z nás opravdu nešťastní."
 
 #: conversations/companions/g_companion_parvati_on_ship:322
 msgctxt "conversations/companions/g_companion_parvati_on_ship:322:DefaultText"
 msgid "Why would people be unhappy about you getting a maintenance job?"
-msgstr ""
+msgstr "Proč by měli být lidé nešťastní z toho, že jste dostal práci údržbáře?"
 
 #: conversations/companions/g_companion_parvati_on_ship:323
 msgctxt "conversations/companions/g_companion_parvati_on_ship:323:DefaultText"
 msgid "Because they were hoping their own kin would get the job, and get sent back to Edgewater."
-msgstr ""
+msgstr "Protože doufali, že práci dostanou jejich příbuzní a pošlou je zpátky do Edgewateru."
 
 #: conversations/companions/g_companion_parvati_on_ship:326
 msgctxt "conversations/companions/g_companion_parvati_on_ship:326:DefaultText"
 msgid "That's unbelievably cruel."
-msgstr ""
+msgstr "To je neuvěřitelně kruté."
 
 #: conversations/companions/g_companion_parvati_on_ship:327
 msgctxt "conversations/companions/g_companion_parvati_on_ship:327:DefaultText"
 msgid "You don't have any say in it at all?"
-msgstr ""
+msgstr "Nemáte do toho vůbec co mluvit?"
 
 #: conversations/companions/g_companion_parvati_on_ship:328
 msgctxt "conversations/companions/g_companion_parvati_on_ship:328:DefaultText"
 msgid "You make this sound implausibly efficient."
-msgstr ""
+msgstr "Zní to neuvěřitelně efektivně."
 
 #: conversations/companions/g_companion_parvati_on_ship:329
 msgctxt "conversations/companions/g_companion_parvati_on_ship:329:DefaultText"
 msgid "It ain't exactly cruel to have the promise of a paying job. And that's all it is. You go where the company needs you. Where your skills do the most good."
-msgstr ""
+msgstr "Příslib placené práce není zrovna krutý. A to je všechno. Jdeš tam, kde tě firma potřebuje. Tam, kde jsou vaše dovednosti nejpřínosnější."
 
 #: conversations/companions/g_companion_parvati_on_ship:332
 msgctxt "conversations/companions/g_companion_parvati_on_ship:332:DefaultText"
 msgid "One aptitude test determines your whole life?"
-msgstr ""
+msgstr "Jeden test schopností rozhoduje o celém vašem životě?"
 
 #: conversations/companions/g_companion_parvati_on_ship:333
 msgctxt "conversations/companions/g_companion_parvati_on_ship:333:DefaultText"
 msgid "They're powerful good tests. They rattled off this whole list of names who'd worked on them, with fancy bits hanging off them. Doctors and Esquires and The Thirds."
-msgstr ""
+msgstr "Jsou to silné dobré testy. Vyjmenovali celý seznam jmen, která na nich pracovala, a na nich visely luxusní kousky. Doktoři a Eskiry a Třetí."
 
 #: conversations/companions/g_companion_parvati_on_ship:334
 msgctxt "conversations/companions/g_companion_parvati_on_ship:334:DefaultText"
 msgid "Even if you don't believe they actually catch what everybody's best at, everybody's gotta take them. So at least it's fair-ish."
-msgstr ""
+msgstr "I když nevěříte, že skutečně chytají to, v čem je každý nejlepší, každý si je musí vzít. Takže je to alespoň trochu spravedlivé."
 
 #: conversations/companions/g_companion_parvati_on_ship:337
 msgctxt "conversations/companions/g_companion_parvati_on_ship:337:DefaultText"
 msgid "Let's talk about something else."
-msgstr ""
+msgstr "Promluvme si o něčem jiném."
 
 #: conversations/companions/g_companion_parvati_on_ship:338
 msgctxt "conversations/companions/g_companion_parvati_on_ship:338:DefaultText"
 msgid "Sounds easy. Dull, but easy."
-msgstr ""
+msgstr "Zní to jednoduše. Nudné, ale snadné."
 
 #: conversations/companions/g_companion_parvati_on_ship:339
 msgctxt "conversations/companions/g_companion_parvati_on_ship:339:DefaultText"
 msgid "I reckon you could say, \"No thanks, I don't want a job.\" But then you don't got a job."
-msgstr ""
+msgstr "Myslím, že bys mohl říct: \"Ne, děkuji, nechci práci.\" Ale pak nemáš práci."
 
 #: conversations/companions/g_companion_parvati_on_ship:340
 msgctxt "conversations/companions/g_companion_parvati_on_ship:340:DefaultText"
 msgid "Real smart folk designed the tests. They use these things called \"algorithms.\""
-msgstr ""
+msgstr "Testy navrhli skutečně chytří lidé. Používají věci, kterým se říká \"algoritmy\"."
 
 #: conversations/companions/g_companion_parvati_on_ship:342
 msgctxt "conversations/companions/g_companion_parvati_on_ship:342:DefaultText"
 msgid "But you actually are good at this. And you enjoy it."
-msgstr ""
+msgstr "Ve skutečnosti jste v tom ale dobří. A baví vás to."
 
 #: conversations/companions/g_companion_parvati_on_ship:343
 msgctxt "conversations/companions/g_companion_parvati_on_ship:343:DefaultText"
 msgid "I'm good at making things work the way they ought. Not so much at doing such to somebody else's schedule."
-msgstr ""
+msgstr "Umím zařídit, aby věci fungovaly tak, jak mají. Ne tak v tom, jak to udělat podle plánu někoho jiného."
 
 #: conversations/companions/g_companion_parvati_on_ship:344
 msgctxt "conversations/companions/g_companion_parvati_on_ship:344:DefaultText"
 msgid "They take into account what fulfills you. If somebody isn't happy in the job they get, it's likely on account of a poor attitude."
-msgstr ""
+msgstr "Zohledňují to, co vás naplňuje. Pokud někdo není spokojený v práci, kterou dostal, je to pravděpodobně kvůli špatnému přístupu."
 
 #: conversations/companions/g_companion_parvati_on_ship:345
 msgctxt "conversations/companions/g_companion_parvati_on_ship:345:DefaultText"
 msgid "There's times I'm working deep in the guts of a loader, getting it all running perfect. Then I look up to see it's tomorrow, and I've blown another deadline."
-msgstr ""
+msgstr "Někdy pracuji hluboko v útrobách nakladače, aby vše fungovalo perfektně. Pak se podívám nahoru a zjistím, že je zítra a já jsem prošvihl další termín."
 
 #: conversations/companions/g_companion_parvati_on_ship:346
 msgctxt "conversations/companions/g_companion_parvati_on_ship:346:DefaultText"
 msgid "Anyhow, I was happy to get back home. I didn't care much for schooling."
-msgstr ""
+msgstr "Každopádně jsem byl rád, že jsem se vrátil domů. Škola mě moc nezajímala."
 
 #: conversations/companions/g_companion_parvati_on_ship:348
 msgctxt "conversations/companions/g_companion_parvati_on_ship:348:DefaultText"
 msgid "You didn't like your classes?"
-msgstr ""
+msgstr "Nelíbila se vám výuka?"
 
 #: conversations/companions/g_companion_parvati_on_ship:350
 msgctxt "conversations/companions/g_companion_parvati_on_ship:350:DefaultText"
 msgid "When folk go away for schooling, they don't get back to where they begun. Not usually. You go straight to your first job, wherever the company's got an opening."
-msgstr ""
+msgstr "Když lidé odejdou do školy, nevrátí se tam, kde začali. Obvykle ne. Jdeš rovnou do první práce, kamkoli, kde má firma volné místo."
 
 #: conversations/companions/g_companion_parvati_on_ship:351
 msgctxt "conversations/companions/g_companion_parvati_on_ship:351:DefaultText"
 msgid "They were a whole lotta reading, and not near enough doing. Like, before they'd issue you a wrench, they wanted an essay on the design of different wrenches."
-msgstr ""
+msgstr "Hodně se v nich četlo a málo dělalo. Třeba než vám vydali klíč, chtěli po vás esej o konstrukci různých klíčů."
 
 #: conversations/companions/g_companion_parvati_on_ship:353
 msgctxt "conversations/companions/g_companion_parvati_on_ship:353:DefaultText"
 msgid "Then there'd be quizzes on company regulations for storage and maintenance of wrenches."
-msgstr ""
+msgstr "Pak by se konaly kvízy o podnikových předpisech pro skladování a údržbu klíčů."
 
 #: conversations/companions/g_companion_parvati_on_ship:360
 msgctxt "conversations/companions/g_companion_parvati_on_ship:360:DefaultText"
 msgid "What did you do in your time off?"
-msgstr ""
+msgstr "Co jste dělal v době volna?"
 
 #: conversations/companions/g_companion_parvati_on_ship:368
 msgctxt "conversations/companions/g_companion_parvati_on_ship:368:DefaultText"
 msgid "After school, you moved straight back to Edgewater?"
-msgstr ""
+msgstr "Po škole jste se přestěhoval zpátky do Edgewateru?"
 
 #: conversations/companions/g_companion_parvati_on_ship:369
 msgctxt "conversations/companions/g_companion_parvati_on_ship:369:DefaultText"
 msgid "This has been interesting, but I want to talk about something else."
-msgstr ""
+msgstr "Bylo to zajímavé, ale chci mluvit o něčem jiném."
 
 #: conversations/companions/g_companion_parvati_on_ship:373
 msgctxt "conversations/companions/g_companion_parvati_on_ship:373:DefaultText"
 msgid "Soon as I got permission, I spent all my time in the machine shop. They had all manner of parts, but they didn't want me using them, so I had to sneak 'em sometimes."
-msgstr ""
+msgstr "Jakmile jsem dostal povolení, trávil jsem veškerý čas v dílně. Měli tam nejrůznější součástky, ale nechtěli, abych je používal, takže jsem je musel občas propašovat."
 
 #: conversations/companions/g_companion_parvati_on_ship:374
 msgctxt "conversations/companions/g_companion_parvati_on_ship:374:DefaultText"
 msgid "Build anything fun?"
-msgstr ""
+msgstr "Postavit něco zábavného?"
 
 #: conversations/companions/g_companion_parvati_on_ship:375
 msgctxt "conversations/companions/g_companion_parvati_on_ship:375:DefaultText"
 msgid "That's it? You didn't spend time with friends?"
-msgstr ""
+msgstr "To je vše? Netrávil jsi čas s přáteli?"
 
 #: conversations/companions/g_companion_parvati_on_ship:376
 msgctxt "conversations/companions/g_companion_parvati_on_ship:376:DefaultText"
 msgid "You didn't have your own room?"
-msgstr ""
+msgstr "Neměl jste vlastní pokoj?"
 
 #: conversations/companions/g_companion_parvati_on_ship:377
 msgctxt "conversations/companions/g_companion_parvati_on_ship:377:DefaultText"
 msgid "I even slept in there. Had a hammock tied up in the rafters. Afore I left, I installed a little skylight for myself, so I could see the stars."
-msgstr ""
+msgstr "Dokonce jsem tam i spal. Měl jsem na trámu přivázanou houpací síť. Než jsem odjel, nainstaloval jsem si malé střešní okno, abych viděl na hvězdy."
 
 #: conversations/companions/g_companion_parvati_on_ship:378
 msgctxt "conversations/companions/g_companion_parvati_on_ship:378:DefaultText"
 msgid "Students bunk four to a room. It's supposed to get you used to working as a team. There's no privacy, and no quiet."
-msgstr ""
+msgstr "Studenti jsou ubytováni po čtyřech na pokoji. Má vás to naučit pracovat v týmu. Není tu žádné soukromí ani klid."
 
 #: conversations/companions/g_companion_parvati_on_ship:379
 msgctxt "conversations/companions/g_companion_parvati_on_ship:379:DefaultText"
 msgid "When my roommates tried to talk, I'd get so nervous, I'd be drenched in sweat. It was easier for everybody when I stayed off on my own. I doubt any of them remember me now."
-msgstr ""
+msgstr "Když se spolubydlící pokoušeli mluvit, byl jsem tak nervózní, že mě polil pot. Pro všechny bylo jednodušší, když jsem zůstala sama. Pochybuju, že si mě teď někdo z nich pamatuje."
 
 #: conversations/companions/g_companion_parvati_on_ship:380
 msgctxt "conversations/companions/g_companion_parvati_on_ship:380:DefaultText"
 msgid "Can't say I had many. Mostly I kept to myself. Going to the community center to hear music, be in a crowd with people knocking into you - it all just made me want to run away."
-msgstr ""
+msgstr "Nemůžu říct, že bych jich měl mnoho. Většinou jsem se držel stranou. Chodit do kulturního domu poslouchat hudbu, být v davu lidí, kteří do vás buší - to všechno ve mně vyvolávalo touhu utéct."
 
 #: conversations/companions/g_companion_parvati_on_ship:381
 msgctxt "conversations/companions/g_companion_parvati_on_ship:381:DefaultText"
 msgid "When an engine came in, I'd strip it down and rebuild it. I mostly built for myself. Custom tools. Little mechanical critters to talk to."
-msgstr ""
+msgstr "Když přišel motor, rozebral jsem ho a přestavěl. Většinou jsem stavěl pro sebe. Nářadí na zakázku. Malá mechanická zvířátka, se kterými se dá mluvit."
 
 #: conversations/companions/g_companion_parvati_on_ship:382
 msgctxt "conversations/companions/g_companion_parvati_on_ship:382:DefaultText"
 msgid "They never caught you? You never got in trouble?"
-msgstr ""
+msgstr "Nikdy tě nechytili? Nikdy jsi neměl problémy?"
 
 #: conversations/companions/g_companion_parvati_on_ship:383
 msgctxt "conversations/companions/g_companion_parvati_on_ship:383:DefaultText"
 msgid "Teachers came through now and again, looking for slackers or contraband. But I was always working. They liked that."
-msgstr ""
+msgstr "Učitelé tu a tam procházeli a hledali flákače nebo kontraband. Ale já jsem vždycky pracoval. To se jim líbilo."
 
 #: conversations/companions/g_companion_parvati_on_ship:385
 msgctxt "conversations/companions/g_companion_parvati_on_ship:385:DefaultText"
 msgid "Otherwise I tried not to call attention to myself. Just stay quiet in a corner, I'll get overlooked."
-msgstr ""
+msgstr "Jinak jsem se snažil na sebe neupozorňovat. Stačí zůstat potichu v koutě, a přehlédnou mě."
 
 #: conversations/companions/g_companion_parvati_on_ship:390
 msgctxt "conversations/companions/g_companion_parvati_on_ship:390:DefaultText"
 msgid "Yup. Nothing much had changed. Everything was a little greyer, a little dirtier. Dad met me at the shuttle and gave me a big old hug."
-msgstr ""
+msgstr "Ano. Nic moc se nezměnilo. Všechno bylo trochu šedivější, trochu špinavější. Táta se se mnou setkal u raketoplánu a pořádně mě objal."
 
 #: conversations/companions/g_companion_parvati_on_ship:391
 msgctxt "conversations/companions/g_companion_parvati_on_ship:391:DefaultText"
 msgid "Break time's over."
-msgstr ""
+msgstr "Přestávka skončila."
 
 #: conversations/companions/g_companion_parvati_on_ship:392
 msgctxt "conversations/companions/g_companion_parvati_on_ship:392:DefaultText"
 msgid "I noticed straight away that he was moving slower, and stiffer. He made a little grunt when I squeezed."
-msgstr ""
+msgstr "Hned jsem si všiml, že se pohybuje pomaleji a ztuhle. Když jsem stiskla, trochu zachrčel."
 
 #: conversations/companions/g_companion_parvati_on_ship:393
 msgctxt "conversations/companions/g_companion_parvati_on_ship:393:DefaultText"
 msgid "He wasn't that old, was he?"
-msgstr ""
+msgstr "Nebyl tak starý, že ne?"
 
 #: conversations/companions/g_companion_parvati_on_ship:394
 msgctxt "conversations/companions/g_companion_parvati_on_ship:394:DefaultText"
 msgid "Naw. But a whole life taking care of Edgewater by his lonesome? Working with all kinds of chemicals? It wears on a body."
-msgstr ""
+msgstr "Ne. Ale celý život se starat o Edgewater sám? Práce se všemi druhy chemikálií? To se na těle vyčerpá."
 
 #: conversations/companions/g_companion_parvati_on_ship:395
 msgctxt "conversations/companions/g_companion_parvati_on_ship:395:DefaultText"
 msgid "When I left for school, everything got harder for him. I used to help him lift the heavy things. And my hands didn't shake for the fine detail work."
-msgstr ""
+msgstr "Když jsem odešla do školy, bylo pro něj všechno těžší. Pomáhala jsem mu zvedat těžké věci. A při jemné práci s detaily se mi netřásly ruce."
 
 #: conversations/companions/g_companion_parvati_on_ship:396
 msgctxt "conversations/companions/g_companion_parvati_on_ship:396:DefaultText"
 msgid "I'm sorry. I shouldn't have brought this up."
-msgstr ""
+msgstr "Omlouvám se. Neměl jsem to vytahovat."
 
 #: conversations/companions/g_companion_parvati_on_ship:397
 msgctxt "conversations/companions/g_companion_parvati_on_ship:397:DefaultText"
 msgid "I miss him, sure enough. But he's a fond memory. I was right beside him when he passed, holding his hand. Talking about him makes me smile."
-msgstr ""
+msgstr "Určitě mi chybí. Ale je to milá vzpomínka. Byl jsem hned vedle něj, když zemřel, a držel ho za ruku. Když o něm mluvím, usmívám se."
 
 #: conversations/companions/g_companion_parvati_on_ship:398
 msgctxt "conversations/companions/g_companion_parvati_on_ship:398:DefaultText"
 msgid "Dad never said that he loved me, you know? I knew on account of him showing it. How he'd stay up late to help with my projects, or listen to my fretting."
-msgstr ""
+msgstr "Táta nikdy neřekl, že mě miluje, víš? Věděla jsem to, protože mi to dával najevo. Zůstával vzhůru dlouho do noci, aby mi pomohl s projekty, nebo poslouchal moje rozčilování."
 
 #: conversations/companions/g_companion_parvati_on_ship:399
 msgctxt "conversations/companions/g_companion_parvati_on_ship:399:DefaultText"
 msgid "Did you get much time with him after you got back from school?"
-msgstr ""
+msgstr "Měla jsi s ním po návratu ze školy hodně času?"
 
 #: conversations/companions/g_companion_parvati_on_ship:400
 msgctxt "conversations/companions/g_companion_parvati_on_ship:400:DefaultText"
 msgid "About a year. I tried to do more of the work, so he could rest. His heart gave him pains."
-msgstr ""
+msgstr "Asi rok. Snažil jsem se dělat víc práce, aby si mohl odpočinout. Bolelo ho srdce."
 
 #: conversations/companions/g_companion_parvati_on_ship:401
 msgctxt "conversations/companions/g_companion_parvati_on_ship:401:DefaultText"
 msgid "Oh, gosh. Look at the time. Sorry to bend your ear so long. And I got so much to do afore this ship's in decent shape."
-msgstr ""
+msgstr "Ach, bože. Podívejte se na čas. Promiň, že jsem tě tak dlouho ohýbal. A mám toho tolik na práci, než bude tahle loď ve slušném stavu."
 
 #: conversations/companions/g_companion_parvati_on_ship:403
 msgctxt "conversations/companions/g_companion_parvati_on_ship:403:DefaultText"
 msgid "Mostly he did the same as me. Kept Bess- I mean, the cannery running. Tuned the loaders. Plumbing and electricity. Some plastering - I never got the hang of that."
-msgstr ""
+msgstr "Většinou dělal totéž co já. Udržoval Bess... chci říct konzervárnu v chodu. Seřizoval nakladače. Instalatérství a elektřinu. Nějaké omítky - to jsem nikdy nezvládl."
 
 #: conversations/companions/g_companion_parvati_on_ship:404
 msgctxt "conversations/companions/g_companion_parvati_on_ship:404:DefaultText"
 msgid "Hey Captain? I heard that Groundbreaker's got a real good engineer. A lady named Junlei Tennyson."
-msgstr ""
+msgstr "Hej, kapitáne? Slyšel jsem, že Groundbreaker má opravdu dobrého inženýra. Dáma jménem Junlei Tennysonová."
 
 #: conversations/companions/g_companion_parvati_on_ship:405
 msgctxt "conversations/companions/g_companion_parvati_on_ship:405:DefaultText"
 msgid "What about her?"
-msgstr ""
+msgstr "A co ona?"
 
 #: conversations/companions/g_companion_parvati_on_ship:406
 msgctxt "conversations/companions/g_companion_parvati_on_ship:406:DefaultText"
 msgid "She can't be that good. This place is a dump. "
-msgstr ""
+msgstr "Nemůže být tak dobrá. Tohle místo je díra. "
 
 #: conversations/companions/g_companion_parvati_on_ship:407
 msgctxt "conversations/companions/g_companion_parvati_on_ship:407:DefaultText"
 msgid "If I had to fix a station this big, I'd be spending all my time trying to figure out what needs doing now and what can wait."
-msgstr ""
+msgstr "Kdybych měl opravit takhle velkou stanici, trávil bych veškerý čas tím, že bych se snažil zjistit, co je třeba udělat hned a co může počkat."
 
 #: conversations/companions/g_companion_parvati_on_ship:408
 msgctxt "conversations/companions/g_companion_parvati_on_ship:408:DefaultText"
 msgid "I was thinking that maybe I oughta meet her. If you got time to swing us by, I mean."
-msgstr ""
+msgstr "Přemýšlel jsem, že bych se s ní měl setkat. Jestli máš čas se u nás zastavit."
 
 #: conversations/companions/g_companion_parvati_on_ship:409
 msgctxt "conversations/companions/g_companion_parvati_on_ship:409:DefaultText"
 msgid "But that couldn't mean it was fate? The Plan putting us up in each other's faces?"
-msgstr ""
+msgstr "Ale to nemohlo znamenat, že to byl osud? Plán nás postavil před sebe?"
 
 #: conversations/companions/g_companion_parvati_on_ship:410
 msgctxt "conversations/companions/g_companion_parvati_on_ship:410:DefaultText"
 msgid "Cozy-like, ain't it?"
-msgstr ""
+msgstr "Útulné, že?"
 
 #: conversations/companions/g_companion_parvati_on_ship:411
 msgctxt "conversations/companions/g_companion_parvati_on_ship:411:DefaultText"
 msgid "I think I'm better off trying to make this work on my lonesome."
-msgstr ""
+msgstr "Myslím, že bude lepší, když se o to pokusím sám."
 
 #: conversations/companions/g_companion_parvati_on_ship:412
 msgctxt "conversations/companions/g_companion_parvati_on_ship:412:DefaultText"
 msgid "It's in pretty good shape considering how hard Mr. Hawthorne ran it. It's a Yakita LHA one-twenty. A-two model, I'm pretty sure."
-msgstr ""
+msgstr "Je v docela dobrém stavu, když uvážíme, jak tvrdě ho pan Hawthorne provozoval. Je to Yakita LHA one-twenty. Model A-dva, jsem si jistý."
 
 #: conversations/companions/g_companion_parvati_on_ship:413
 msgctxt "conversations/companions/g_companion_parvati_on_ship:413:DefaultText"
 msgid "Apparently ADA's the one who actually flies the ship."
-msgstr ""
+msgstr "ADA je zřejmě ten, kdo skutečně řídí loď."
 
 #: conversations/companions/g_companion_parvati_on_ship:414
 msgctxt "conversations/companions/g_companion_parvati_on_ship:414:DefaultText"
 msgid "I don't see any holes in the hull. I might double check the Power Regulator, but with that installed, we're already cooking with plasma torches."
-msgstr ""
+msgstr "V trupu nevidím žádné díry. Možná ještě jednou zkontroluji regulátor výkonu, ale s jeho instalací už vaříme plazmovými hořáky."
 
 #: conversations/companions/g_companion_parvati_on_ship:415
 msgctxt "conversations/companions/g_companion_parvati_on_ship:415:DefaultText"
 msgid "You mean Junlei Tennyson? Yeah, I worked a job for her."
-msgstr ""
+msgstr "Myslíte Junlei Tennyson? Ano, pracoval jsem pro ni."
 
 #: conversations/companions/g_companion_parvati_on_ship:416
 msgctxt "conversations/companions/g_companion_parvati_on_ship:416:DefaultText"
 msgid "I think it's time you move along, Parvati."
-msgstr ""
+msgstr "Myslím, že je načase, abys šla dál, Parvati."
 
 #: conversations/companions/g_companion_parvati_on_ship:417
 msgctxt "conversations/companions/g_companion_parvati_on_ship:417:DefaultText"
 msgid "W-what? You want me to leave? But- Captain, you can't mean it!"
-msgstr ""
+msgstr "Cože? Chceš, abych odešel? Ale... Kapitáne, to nemůžete myslet vážně!"
 
 #: conversations/companions/g_companion_parvati_on_ship:418
 msgctxt "conversations/companions/g_companion_parvati_on_ship:418:DefaultText"
 msgid "On second thought, I still need you."
-msgstr ""
+msgstr "Když o tom tak přemýšlím, pořád tě potřebuju."
 
 #: conversations/companions/g_companion_parvati_on_ship:419
 msgctxt "conversations/companions/g_companion_parvati_on_ship:419:DefaultText"
 msgid "<Remove Parvati from party permanently> Pack your things - you're done here."
-msgstr ""
+msgstr "<Odstranit Parvati z party natrvalo> Sbalte si věci - tady jste skončili."
 
 #: conversations/companions/g_companion_parvati_on_ship:420
 msgctxt "conversations/companions/g_companion_parvati_on_ship:420:DefaultText"
 msgid "Oh. I thought- never mind. I got it. You won't see hide nor hair of me again. So long, Captain."
-msgstr ""
+msgstr "Oh. Myslel jsem, že... Nevadí. Mám to. Už ze mě neuvidíš ani chlup. Sbohem, kapitáne."
 
 #: conversations/companions/g_companion_parvati_on_ship:421
 msgctxt "conversations/companions/g_companion_parvati_on_ship:421:DefaultText"
 msgid "That's a relief. Thanks, Captain. For letting me stick around, I mean."
-msgstr ""
+msgstr "To je úleva. Díky, kapitáne. Za to, že mě tu nechal."
 
 #: conversations/companions/g_companion_parvati_on_ship:423
 msgctxt "conversations/companions/g_companion_parvati_on_ship:423:DefaultText"
 msgid "You gotta stop doin' this to me, Captain. I can't take it. I- I don't know what I'm doin' wrong. I'll try to be better?"
-msgstr ""
+msgstr "Musíte mi to přestat dělat, kapitáne. Už to nevydržím. Nevím, co dělám špatně. Pokusím se být lepší?"
 
 #: conversations/companions/g_companion_parvati_on_ship:424
 msgctxt "conversations/companions/g_companion_parvati_on_ship:424:DefaultText"
 msgid "Are you fooling on me? This joke ain't funny. But... thanks, Captain."
-msgstr ""
+msgstr "Děláš si ze mě legraci? Tenhle vtip není vtipný. Ale... díky, kapitáne."
 
 #: conversations/companions/g_companion_parvati_on_ship:425
 msgctxt "conversations/companions/g_companion_parvati_on_ship:425:DefaultText"
 msgid "That's a relief. Thanks, Captain. For letting me stick around, I mean."
-msgstr ""
+msgstr "To je úleva. Díky, kapitáne. Za to, že mě tu nechal."
 
 #: conversations/companions/g_companion_parvati_on_ship:426
 msgctxt "conversations/companions/g_companion_parvati_on_ship:426:DefaultText"
 msgid "I found you a fancy outfit for your date with Junlei."
-msgstr ""
+msgstr "Našel jsem ti na rande s Junlei parádní oblečení."
 
 #: conversations/companions/g_companion_parvati_on_ship:427
 msgctxt "conversations/companions/g_companion_parvati_on_ship:427:DefaultText"
 msgid "Oh gosh, that was awfully kind of you, Captain. You didn't have to, but I'm so glad you did."
-msgstr ""
+msgstr "Bože, to od vás bylo strašně milé, kapitáne. Nemusel jste, ale jsem moc rád, že jste to udělal."
 
 #: conversations/companions/g_companion_parvati_on_ship:432
 msgctxt "conversations/companions/g_companion_parvati_on_ship:432:DefaultText"
 msgid "You wanted to talk to me?"
-msgstr ""
+msgstr "Chtěl jsi se mnou mluvit?"
 
 #: conversations/companions/g_companion_parvati_on_ship:433
 msgctxt "conversations/companions/g_companion_parvati_on_ship:433:DefaultText"
 msgid "Oh, right- about the Groundbreaker's engineer, Junlei Tennyson."
-msgstr ""
+msgstr "Aha, správně - o inženýrovi Groundbreakeru, Junlei Tennysonovi."
 
 #: conversations/companions/g_companion_parvati_on_ship:435
 msgctxt "conversations/companions/g_companion_parvati_on_ship:435:DefaultText"
 msgid "If you need somethin' fixed, point me to it. Otherwise, I don't wanna hear a word from you."
-msgstr ""
+msgstr "Pokud potřebuješ něco opravit, ukaž mi to. Jinak od tebe nechci slyšet ani slovo."
 
 #: conversations/companions/g_companion_parvati_on_ship:437
 msgctxt "conversations/companions/g_companion_parvati_on_ship:437:DefaultText"
 msgid "Yeah, I think that's for the best."
-msgstr ""
+msgstr "Jo, myslím, že je to tak nejlepší."
 
 #: conversations/companions/g_companion_parvati_on_ship:438
 msgctxt "conversations/companions/g_companion_parvati_on_ship:438:DefaultText"
 msgid "I'm sorry I ever met you, Captain. I'd tell you to have a nice life, but my dad didn't raise a liar."
-msgstr ""
+msgstr "Je mi líto, že jsem vás kdy potkal, kapitáne. Řekl bych ti, ať se máš hezky, ale můj táta nevychoval lháře."
 
 #: conversations/companions/g_companion_parvati_on_ship:440
 msgctxt "conversations/companions/g_companion_parvati_on_ship:440:DefaultText"
 msgid "You met that automechanical clanking around the ship yet?"
-msgstr ""
+msgstr "Už jste se setkali s tím automechanickým řinčením kolem lodi?"
 
 #: conversations/companions/g_companion_parvati_on_ship:441
 msgctxt "conversations/companions/g_companion_parvati_on_ship:441:DefaultText"
 msgid "You mean SAM? He's just the sweetest, ain't he? A real charmer, my dad'd say."
-msgstr ""
+msgstr "Myslíš SAM? Je prostě nejmilejší, že? Táta by řekl, že je opravdu okouzlující."
 
 #: conversations/companions/g_companion_parvati_on_ship:442
 msgctxt "conversations/companions/g_companion_parvati_on_ship:442:DefaultText"
 msgid "Have you given him a nickname yet?"
-msgstr ""
+msgstr "Už jste mu dali přezdívku?"
 
 #: conversations/companions/g_companion_parvati_on_ship:443
 msgctxt "conversations/companions/g_companion_parvati_on_ship:443:DefaultText"
 msgid "Uh, he's a cleaning automech."
-msgstr ""
+msgstr "Uh, je to uklízeč automechanik."
 
 #: conversations/companions/g_companion_parvati_on_ship:444
 msgctxt "conversations/companions/g_companion_parvati_on_ship:444:DefaultText"
 msgid "Of course you'd like him. Don't know why I even asked."
-msgstr ""
+msgstr "Samozřejmě, že se ti líbí. Ani nevím, proč jsem se ptal."
 
 #: conversations/companions/g_companion_parvati_on_ship:445
 msgctxt "conversations/companions/g_companion_parvati_on_ship:445:DefaultText"
 msgid "What, just 'cause he scrubs the floors means he can't be a pleasant fella, too?"
-msgstr ""
+msgstr "Cože, to, že drhne podlahy, znamená, že nemůže být také příjemný chlapík?"
 
 #: conversations/companions/g_companion_parvati_on_ship:446
 msgctxt "conversations/companions/g_companion_parvati_on_ship:446:DefaultText"
 msgid "You should trying talking to him. You'll see - he's a hoot."
-msgstr ""
+msgstr "Měl by sis s ním zkusit promluvit. Uvidíte - je to blázen."
 
 #: conversations/companions/g_companion_parvati_on_ship:447
 msgctxt "conversations/companions/g_companion_parvati_on_ship:447:DefaultText"
 msgid "Nah, but I been thinkin' on one! Gotta get to know him better, I think. Maybe ask him what he prefers."
-msgstr ""
+msgstr "Ne, ale přemýšlel jsem o jednom! Myslím, že ho musím lépe poznat. Možná se ho zeptat, čemu dává přednost."
 
 #: conversations/companions/g_companion_parvati_on_ship:448
 msgctxt "conversations/companions/g_companion_parvati_on_ship:448:DefaultText"
 msgid "It ain't nice to give folks a nickname without 'em givin' you the okay first, you know?"
-msgstr ""
+msgstr "Není hezké dávat lidem přezdívky, aniž by ti to nejdřív povolili, víš?"
 
 #: conversations/companions/g_companion_parvati_on_ship:449
 msgctxt "conversations/companions/g_companion_parvati_on_ship:449:DefaultText"
 msgid "'Course, that don't stop Felix."
-msgstr ""
+msgstr "To samozřejmě Felixe nezastaví."
 
 #: conversations/companions/g_companion_parvati_on_ship:450
 msgctxt "conversations/companions/g_companion_parvati_on_ship:450:DefaultText"
 msgid "He's not a person, Parvati. Don't treat him like one."
-msgstr ""
+msgstr "Není to člověk, Parvati. Nechovej se k němu jako k člověku."
 
 #: conversations/companions/g_companion_parvati_on_ship:451
 msgctxt "conversations/companions/g_companion_parvati_on_ship:451:DefaultText"
 msgid "He ain't flesh and bits like us, sure, and he ain't too bright, but he got his own wants and needs, you know!"
-msgstr ""
+msgstr "Není z masa a kostí jako my, jistě, a není příliš chytrý, ale má své vlastní potřeby a přání, víte?!"
 
 #: conversations/companions/g_companion_parvati_on_ship:452
 msgctxt "conversations/companions/g_companion_parvati_on_ship:452:DefaultText"
 msgid "'Course, mostly it's that he *wants* to scrub the floors and *needs* me to get outta the way, but he's got a purpose."
-msgstr ""
+msgstr "Samozřejmě, že většinou jde o to, že *chce* drhnout podlahy a *potřebuje*, abych mu šla z cesty, ale má to svůj účel."
 
 #: conversations/companions/g_companion_parvati_on_ship:453
 msgctxt "conversations/companions/g_companion_parvati_on_ship:453:DefaultText"
 msgid "Can't say I don't envy him that."
-msgstr ""
+msgstr "Nemůžu říct, že bych mu to nezáviděl."

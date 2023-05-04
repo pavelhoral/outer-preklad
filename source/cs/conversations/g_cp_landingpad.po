@@ -6,17 +6,17 @@ msgid "Argos Traffic Systems\r\n"
 "\r\n"
 "Insert Captain's Identification Cartridge to Initiate Remote Landing\r\n"
 ""
-msgstr ""
+msgstr "Argos Traffic Systems ------------------------------------- Stav: Vložte identifikační kazetu kapitána pro zahájení přistání na dálku."
 
 #: conversations/g_cp_landingpad:10
 msgctxt "conversations/g_cp_landingpad:10:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"
 
 #: conversations/g_cp_landingpad:11
 msgctxt "conversations/g_cp_landingpad:11:DefaultText"
 msgid "[Insert Hawthorne's ID Cartridge]"
-msgstr ""
+msgstr "[Vložte Hawthornovu identifikační kazetu]"
 
 #: conversations/g_cp_landingpad:13
 msgctxt "conversations/g_cp_landingpad:13:DefaultText"
@@ -33,4 +33,4 @@ msgid "Argos Traffic Systems\r\n"
 "Confirmation received from Autonomous Digital Astrogator. . . .\r\n"
 ". . . . .\r\n"
 "Remote Landing Status: Success"
-msgstr ""
+msgstr "Argos Traffic Systems ------------------------------------- Ověřovací kazeta ID kapitána. . Ověřeno! Určený kapitán: Hawthorne, A. Určené plavidlo: Nespolehlivé, Iniciační protokol vzdáleného přistání. . . . . Potvrzení přijato od autonomního digitálního astrogátoru. . . . . . . . Stav dálkového přistání: Úspěch"

@@ -9,22 +9,22 @@ msgid "Emerald Vale Community Center\r\n"
 "\r\n"
 "\r\n"
 "Please select a command:"
-msgstr ""
+msgstr "Emerald Vale Community Center A Spacer's Choice Property ======================== Terminal Access Vyberte příkaz:"
 
 #: conversations/00_emerald_vale/0006_communitycenter/0006_cp_lobby_terminal:2
 msgctxt "conversations/00_emerald_vale/0006_communitycenter/0006_cp_lobby_terminal:2:DefaultText"
 msgid "[Encode First Aid Keycard]"
-msgstr ""
+msgstr "[Zakódovat kartu první pomoci]"
 
 #: conversations/00_emerald_vale/0006_communitycenter/0006_cp_lobby_terminal:3
 msgctxt "conversations/00_emerald_vale/0006_communitycenter/0006_cp_lobby_terminal:3:DefaultText"
 msgid "[Logs]"
-msgstr ""
+msgstr "[Deníky]"
 
 #: conversations/00_emerald_vale/0006_communitycenter/0006_cp_lobby_terminal:4
 msgctxt "conversations/00_emerald_vale/0006_communitycenter/0006_cp_lobby_terminal:4:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"
 
 #: conversations/00_emerald_vale/0006_communitycenter/0006_cp_lobby_terminal:5
 msgctxt "conversations/00_emerald_vale/0006_communitycenter/0006_cp_lobby_terminal:5:DefaultText"
@@ -36,7 +36,7 @@ msgid "Emerald Vale Community Center\r\n"
 "Keycard encoded.\r\n"
 "\r\n"
 "Thank you for choosing Spacer's Choice!"
-msgstr ""
+msgstr "Emerald Vale Community Center A Spacer's Choice Property ======================== Keycard encoded. Děkujeme, že jste si vybrali Spacer's Choice!"
 
 #: conversations/00_emerald_vale/0006_communitycenter/0006_cp_lobby_terminal:6
 msgctxt "conversations/00_emerald_vale/0006_communitycenter/0006_cp_lobby_terminal:6:DefaultText"
@@ -52,9 +52,9 @@ msgid "Emerald Vale Community Center\r\n"
 "The centerpiece of this grand exhibit will be a taxidermized Mantiqueen, erected within our main lobby as a sign of civilization's victory over nature itself.\r\n"
 "\r\n"
 "-Director Pickett"
-msgstr ""
+msgstr "Komunitní centrum Emerald Vale A Spacer's Choice Property ======================== Historie Emerald Vale Výstava Synopse: Historie Emerald Vale bude po dokončení prezentovat hrdé dědictví naší osady pro další generace. Toto propracované dioráma s památkami na založení naší osady, které bude zdobit hlavní halu našeho vznešeného komunitního centra, bude ztělesňovat pracovitého ducha naší spacerské rodiny. Ústředním bodem této velkolepé výstavy bude taxidermovaný Mantiqueen, vztyčený v naší hlavní hale na znamení vítězství civilizace nad samotnou přírodou. -Ředitel Pickett."
 
 #: conversations/00_emerald_vale/0006_communitycenter/0006_cp_lobby_terminal:7
 msgctxt "conversations/00_emerald_vale/0006_communitycenter/0006_cp_lobby_terminal:7:DefaultText"
 msgid "[Return to Root]"
-msgstr ""
+msgstr "[Zpět na kořen]"

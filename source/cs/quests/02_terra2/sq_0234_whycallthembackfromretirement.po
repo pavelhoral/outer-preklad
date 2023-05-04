@@ -1,54 +1,54 @@
 #: quests/02_terra2/sq_0234_whycallthembackfromretirement:0
 msgctxt "quests/02_terra2/sq_0234_whycallthembackfromretirement:0:DefaultText"
 msgid "Why Call Them Back From Retirement?"
-msgstr ""
+msgstr "Proč je povolat zpět z důchodu?"
 
 #: quests/02_terra2/sq_0234_whycallthembackfromretirement:1
 msgctxt "quests/02_terra2/sq_0234_whycallthembackfromretirement:1:DefaultText"
 msgid "Investigate the Retirement District"
-msgstr ""
+msgstr "Prozkoumejte důchodový okres"
 
 #: quests/02_terra2/sq_0234_whycallthembackfromretirement:2
 msgctxt "quests/02_terra2/sq_0234_whycallthembackfromretirement:2:DefaultText"
 msgid "Escape"
-msgstr ""
+msgstr "Útěk"
 
 #: quests/02_terra2/sq_0234_whycallthembackfromretirement:3
 msgctxt "quests/02_terra2/sq_0234_whycallthembackfromretirement:3:DefaultText"
 msgid "Return to Hortense"
-msgstr ""
+msgstr "Zpět na Hortense"
 
 #: quests/02_terra2/sq_0234_whycallthembackfromretirement:10000
 msgctxt "quests/02_terra2/sq_0234_whycallthembackfromretirement:10000:DefaultText"
 msgid "A resident of Byzantium, Hortense Ingalsbee, has asked you to investigate the Board's Early Retirement program."
-msgstr ""
+msgstr "Obyvatelka Byzantia Hortense Ingalsbeeová vás požádala, abyste prošetřili program rady pro předčasné odchody do důchodu."
 
 #: quests/02_terra2/sq_0234_whycallthembackfromretirement:10001
 msgctxt "quests/02_terra2/sq_0234_whycallthembackfromretirement:10001:DefaultText"
 msgid "Use the password Hortense gave you to access it via terminal."
-msgstr ""
+msgstr "Pro přístup přes terminál použijte heslo, které vám dala Hortense."
 
 #: quests/02_terra2/sq_0234_whycallthembackfromretirement:10002
 msgctxt "quests/02_terra2/sq_0234_whycallthembackfromretirement:10002:DefaultText"
 msgid "The Board's idea of retirement is more like an execution. Find a way to stay employed."
-msgstr ""
+msgstr "Představa představenstva o odchodu do důchodu je spíše popravou. Najděte si způsob, jak zůstat zaměstnaný."
 
 #: quests/02_terra2/sq_0234_whycallthembackfromretirement:10003
 msgctxt "quests/02_terra2/sq_0234_whycallthembackfromretirement:10003:DefaultText"
 msgid "Tell Hortense the results of your investigation."
-msgstr ""
+msgstr "Sdělte Hortensii výsledky svého vyšetřování."
 
 #: quests/02_terra2/sq_0234_whycallthembackfromretirement:30000
 msgctxt "quests/02_terra2/sq_0234_whycallthembackfromretirement:30000:DefaultText"
 msgid "With Hortense dead, you won't be rewarded for your efforts no matter what you learn."
-msgstr ""
+msgstr "Když je Hortensie mrtvá, nebudeš za své úsilí odměněn, ať už se naučíš cokoli."
 
 #: quests/02_terra2/sq_0234_whycallthembackfromretirement:30001
 msgctxt "quests/02_terra2/sq_0234_whycallthembackfromretirement:30001:DefaultText"
 msgid "Instead of leading you to a beautiful retirement community, the Early Retirement Welcome Center lead you to a pit of corpses and murderous automechanicals. Luckily, you managed to escape and tell Hortense what you found. Oddly enough, she seemed relieved - at least she's not missing out on anything!"
-msgstr ""
+msgstr "Místo do krásné komunity důchodců vás uvítací centrum pro předčasný odchod do důchodu zavede do jámy plné mrtvol a vražedných automechaniků. Naštěstí se ti podařilo utéct a říct Hortensii, co jsi našel. Kupodivu se jí ulevilo - alespoň o nic nepřijde!"
 
 #: quests/02_terra2/sq_0234_whycallthembackfromretirement:30002
 msgctxt "quests/02_terra2/sq_0234_whycallthembackfromretirement:30002:DefaultText"
 msgid "Instead of leading you to a beautiful retirement community, the Early Retirement Welcome Center lead you to a pit of corpses and murderous automechanicals. Luckily, you managed to escape, but you lied to Hortense about what you found. Thinking it was a hidden paradise, she set out for Early Retirement. You doubt you'll see her again."
-msgstr ""
+msgstr "Místo do krásné komunity důchodců vás uvítací centrum pro předčasný odchod do důchodu zavede do jámy plné mrtvol a vražedných automechaniků. Naštěstí se vám podařilo utéct, ale o tom, co jste našli, jste Hortensii lhali. V domnění, že jde o skrytý ráj, se vydala do Předčasného důchodu. Pochybuješ, že ji ještě někdy uvidíš."

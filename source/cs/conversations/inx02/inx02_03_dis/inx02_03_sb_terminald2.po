@@ -7,12 +7,12 @@ msgid "Rizzo's Distillation Plant\r\n"
 "...\r\n"
 "...\r\n"
 "Machinery clusters activated."
-msgstr ""
+msgstr "Rizzo's Distillation Plant Executing... ... ... ... Machinery clusters activated."
 
 #: conversations/inx02/inx02_03_dis/inx02_03_sb_terminald2:8
 msgctxt "conversations/inx02/inx02_03_dis/inx02_03_sb_terminald2:8:DefaultText"
 msgid "[Stub] Exit"
-msgstr ""
+msgstr "[Stub] Exit"
 
 #: conversations/inx02/inx02_03_dis/inx02_03_sb_terminald2:12
 msgctxt "conversations/inx02/inx02_03_dis/inx02_03_sb_terminald2:12:DefaultText"
@@ -21,18 +21,18 @@ msgid "[Stub] Rizzo's Distillation Plant\r\n"
 "Steam Distribution Control D\r\n"
 "\r\n"
 "Terminal Access"
-msgstr ""
+msgstr "[Stub] Rizzova destilační stanice Řízení distribuce páry D Přístup k terminálu"
 
 #: conversations/inx02/inx02_03_dis/inx02_03_sb_terminald2:14
 msgctxt "conversations/inx02/inx02_03_dis/inx02_03_sb_terminald2:14:DefaultText"
 msgid "[Stub] Access Controls\r\n"
 ""
-msgstr ""
+msgstr "[Stub] Řízení přístupu"
 
 #: conversations/inx02/inx02_03_dis/inx02_03_sb_terminald2:15
 msgctxt "conversations/inx02/inx02_03_dis/inx02_03_sb_terminald2:15:DefaultText"
 msgid "[Stub] Contact Administration"
-msgstr ""
+msgstr "[Stub] Kontaktní správa"
 
 #: conversations/inx02/inx02_03_dis/inx02_03_sb_terminald2:16
 msgctxt "conversations/inx02/inx02_03_dis/inx02_03_sb_terminald2:16:DefaultText"
@@ -41,16 +41,16 @@ msgid "[Stub] Rizzo's Distillation Plant\r\n"
 "Steam Distribution Control D\r\n"
 "\r\n"
 "Machinery Control Access"
-msgstr ""
+msgstr "[Stub] Rizzo's Distillation Plant Steam Distribution Control D Machinery Control Access"
 
 #: conversations/inx02/inx02_03_dis/inx02_03_sb_terminald2:17
 msgctxt "conversations/inx02/inx02_03_dis/inx02_03_sb_terminald2:17:DefaultText"
 msgid "[Stub] Patching in Operations Support\r\n"
 "\r\n"
 "...."
-msgstr ""
+msgstr "[Stub] Záplatování v operační podpoře ...."
 
 #: conversations/inx02/inx02_03_dis/inx02_03_sb_terminald2:19
 msgctxt "conversations/inx02/inx02_03_dis/inx02_03_sb_terminald2:19:DefaultText"
 msgid "[Stub] [Activate Machinery Cluster D.]"
-msgstr ""
+msgstr "[Stub] [Activate Machinery Cluster D.]"

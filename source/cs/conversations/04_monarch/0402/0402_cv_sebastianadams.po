@@ -1,639 +1,639 @@
 #: conversations/04_monarch/0402/0402_cv_sebastianadams:99
 msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:99:DefaultText"
 msgid "Hello, stranger. Can I interest you in a raptidon tongue? Or maybe some canid toenails? "
-msgstr ""
+msgstr "Ahoj, cizinče. Mohu vás zaujmout raptidonským jazykem? Nebo třeba o nějaké kanidí nehty? "
 
 #: conversations/04_monarch/0402/0402_cv_sebastianadams:100
 msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:100:DefaultText"
 msgid "Why would I want any of that?"
-msgstr ""
+msgstr "Proč bych to měl chtít?"
 
 #: conversations/04_monarch/0402/0402_cv_sebastianadams:101
 msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:101:DefaultText"
 msgid "Let's see what you have. "
-msgstr ""
+msgstr "Podívejme se, co máte. "
 
 #: conversations/04_monarch/0402/0402_cv_sebastianadams:102
 msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:102:DefaultText"
 msgid "You look like a man who's looking for some mostly-fresh animal parts."
-msgstr ""
+msgstr "Vypadáš jako člověk, který hledá většinou čerstvé části zvířat."
 
 #: conversations/04_monarch/0402/0402_cv_sebastianadams:102
 msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:102:FemaleText"
 msgid "You look like a woman who's looking for some mostly-fresh animal parts."
-msgstr ""
+msgstr "Vypadáš jako žena, která hledá většinou čerstvé části zvířat."
 
 #: conversations/04_monarch/0402/0402_cv_sebastianadams:103
 msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:103:DefaultText"
 msgid "I dunno. Celia usually buys whatever I have, and Mr. Pickett seemed real interested, so I thought maybe I was onto something."
-msgstr ""
+msgstr "Nevím. Celia obvykle kupuje všechno, co mám, a pan Pickett vypadal, že ho to opravdu zajímá, tak jsem si myslel, že jsem možná na něco kápnul."
 
 #: conversations/04_monarch/0402/0402_cv_sebastianadams:104
 msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:104:DefaultText"
 msgid "Maybe some other time."
-msgstr ""
+msgstr "Možná někdy jindy."
 
 #: conversations/04_monarch/0402/0402_cv_sebastianadams:105
 msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:105:DefaultText"
 msgid "Oh, good. Celia hasn't come by in a few days, so I haven't sold much."
-msgstr ""
+msgstr "Dobře. Celia se už pár dní neukázala, takže jsem toho moc neprodal."
 
 #: conversations/04_monarch/0402/0402_cv_sebastianadams:106
 msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:106:DefaultText"
 msgid "Who's Celia?"
-msgstr ""
+msgstr "Kdo je Celia?"
 
 #: conversations/04_monarch/0402/0402_cv_sebastianadams:107
 msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:107:DefaultText"
 msgid "She works for Sanjar at MSI. She's also Stellar Bay's biggest collector of canid incisors. And I should know, 'cause she buys 'em from me."
-msgstr ""
+msgstr "Pracuje pro Sanjara ve společnosti MSI. Je také největší sběratelkou kanidních řezáků ve Stellar Bay. A já bych to měl vědět, protože je kupuje ode mě."
 
 #: conversations/04_monarch/0402/0402_cv_sebastianadams:108
 msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:108:DefaultText"
 msgid "Let's talk about Celia."
-msgstr ""
+msgstr "Promluvme si o Celii."
 
 #: conversations/04_monarch/0402/0402_cv_sebastianadams:109
 msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:109:DefaultText"
 msgid "Let's see what you have. "
-msgstr ""
+msgstr "Podívejme se, co máte. "
 
 #: conversations/04_monarch/0402/0402_cv_sebastianadams:110
 msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:110:DefaultText"
 msgid "Oh. Haven't seen her in a few days, but I've been meaning to ask her how that raptidon acid is working out."
-msgstr ""
+msgstr "Oh. Už jsem ji pár dní neviděl, ale chtěl jsem se jí zeptat, jak to vypadá s tou raptidonovou kyselinou."
 
 #: conversations/04_monarch/0402/0402_cv_sebastianadams:111
 msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:111:DefaultText"
 msgid "That's because she likes you."
-msgstr ""
+msgstr "To proto, že tě má ráda."
 
 #: conversations/04_monarch/0402/0402_cv_sebastianadams:112
 msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:112:DefaultText"
 msgid "I hope it's working okay, because no one else really seems interested in this stuff."
-msgstr ""
+msgstr "Doufám, že to funguje dobře, protože nikdo jiný se o tyhle věci nezajímá."
 
 #: conversations/04_monarch/0402/0402_cv_sebastianadams:113
 msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:113:DefaultText"
 msgid "She doesn't want a discount. She's attracted to you."
-msgstr ""
+msgstr "Nechce slevu. Přitahuješ ji."
 
 #: conversations/04_monarch/0402/0402_cv_sebastianadams:114
 msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:114:DefaultText"
 msgid "That's because she likes you, you dummy."
-msgstr ""
+msgstr "To proto, že tě má ráda, ty hlupáku."
 
 #: conversations/04_monarch/0402/0402_cv_sebastianadams:117
 msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:117:DefaultText"
 msgid "Nuh-uh. Lot of people think I'm not too bright, but you're not fooling me."
-msgstr ""
+msgstr "Ne-e. Spousta lidí si myslí, že nejsem moc chytrý, ale mě neošálíte."
 
 #: conversations/04_monarch/0402/0402_cv_sebastianadams:118
 msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:118:DefaultText"
 msgid "Wait, I see what's going on. She put you up to this so she could get a discount, hm?"
-msgstr ""
+msgstr "Počkat, už vím, o co jde. Navedla tě k tomu, aby dostala slevu, hm?"
 
 #: conversations/04_monarch/0402/0402_cv_sebastianadams:119
 msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:119:DefaultText"
 msgid "Don't get me wrong. I'd like to give her a discount. She's a real fine lady. Always talks nice and slow so I understand."
-msgstr ""
+msgstr "Nechápejte mě špatně. Rád bych jí dal slevu. Je to opravdu skvělá dáma. Vždycky mluví hezky a pomalu, takže jí rozumím."
 
 #: conversations/04_monarch/0402/0402_cv_sebastianadams:120
 msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:120:DefaultText"
 msgid "But if I give her one, I won't hardly make a bit. On account of no one else having any use for raptidon tongues."
-msgstr ""
+msgstr "Ale když jí ho dám, nevydělám skoro nic. Protože nikdo jiný nemá pro raptidonské jazyky využití."
 
 #: conversations/04_monarch/0402/0402_cv_sebastianadams:121
 msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:121:DefaultText"
 msgid "Forget this."
-msgstr ""
+msgstr "Na to zapomeňte."
 
 #: conversations/04_monarch/0402/0402_cv_sebastianadams:122
 msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:122:DefaultText"
 msgid "Don't take my word for it. Spend some time with her - I promise she won't ask for a discount."
-msgstr ""
+msgstr "Neberte mě za slovo. Strávte s ní nějaký čas - slibuji, že nebude chtít slevu."
 
 #: conversations/04_monarch/0402/0402_cv_sebastianadams:123
 msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:123:DefaultText"
 msgid "Would you consider going on a date with her?"
-msgstr ""
+msgstr "Uvažoval bys o tom, že s ní půjdeš na rande?"
 
 #: conversations/04_monarch/0402/0402_cv_sebastianadams:124
 msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:124:DefaultText"
 msgid "She likes you. "
-msgstr ""
+msgstr "Má tě ráda. "
 
 #: conversations/04_monarch/0402/0402_cv_sebastianadams:125
 msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:125:DefaultText"
 msgid "Nice of you to say. I like her, too."
-msgstr ""
+msgstr "To je od vás hezké. Taky se mi líbí."
 
 #: conversations/04_monarch/0402/0402_cv_sebastianadams:126
 msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:126:DefaultText"
 msgid "No, I mean she really likes you. "
-msgstr ""
+msgstr "Ne, myslím tím, že tě má opravdu ráda. "
 
 #: conversations/04_monarch/0402/0402_cv_sebastianadams:127
 msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:127:DefaultText"
 msgid "She's interested in you. Romantically."
-msgstr ""
+msgstr "Zajímá se o tebe. Romanticky."
 
 #: conversations/04_monarch/0402/0402_cv_sebastianadams:128
 msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:128:DefaultText"
 msgid "And I gotta admire anyone with her passion for canid hides. But you don't have to butter me up."
-msgstr ""
+msgstr "A musím obdivovat každého, kdo má vášeň pro kůže psovitých šelem. Ale nemusíš mě obšťastňovat."
 
 #: conversations/04_monarch/0402/0402_cv_sebastianadams:129
 msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:129:DefaultText"
 msgid "Since you've got so much in common, maybe you should let her take you out."
-msgstr ""
+msgstr "Když toho máte tolik společného, možná bys ji měl nechat, aby tě vzala ven."
 
 #: conversations/04_monarch/0402/0402_cv_sebastianadams:130
 msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:130:DefaultText"
 msgid "You idiot. I'm trying to tell you she wants to date you."
-msgstr ""
+msgstr "Ty idiote. Snažím se ti říct, že s tebou chce chodit."
 
 #: conversations/04_monarch/0402/0402_cv_sebastianadams:131
 msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:131:DefaultText"
 msgid "I know she can't get these goods anywhere else."
-msgstr ""
+msgstr "Vím, že toto zboží nikde jinde nesežene."
 
 #: conversations/04_monarch/0402/0402_cv_sebastianadams:132
 msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:132:DefaultText"
 msgid "You think she needs the stuff she buys? She just wants an excuse to talk to you."
-msgstr ""
+msgstr "Myslíš, že potřebuje věci, které kupuje? Chce jen záminku, aby si s tebou mohla promluvit."
 
 #: conversations/04_monarch/0402/0402_cv_sebastianadams:133
 msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:133:DefaultText"
 msgid "Come on, that's crazy. No one would do that."
-msgstr ""
+msgstr "No tak, to je šílené. To by nikdo neudělal."
 
 #: conversations/04_monarch/0402/0402_cv_sebastianadams:134
 msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:134:DefaultText"
 msgid "Consider this a <oeiglobal>Bribe_Amount</oeiglobal>-bit advance against lost business."
-msgstr ""
+msgstr "Považujte to za zálohu <oeiglobal>Bribe_Amount</oeiglobal> proti ztrátě obchodu."
 
 #: conversations/04_monarch/0402/0402_cv_sebastianadams:135
 msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:135:DefaultText"
 msgid "Haven't you heard? Competition's moving into town. "
-msgstr ""
+msgstr "Copak jste to neslyšeli? Do města se stěhuje konkurence. "
 
 #: conversations/04_monarch/0402/0402_cv_sebastianadams:136
 msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:136:DefaultText"
 msgid "You sound pretty sure. And she is awful nice..."
-msgstr ""
+msgstr "Zníš dost jistě. A je strašně milá..."
 
 #: conversations/04_monarch/0402/0402_cv_sebastianadams:137
 msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:137:DefaultText"
 msgid "Okay. I'll do it. Once her shift ends, we'll go someplace nice. Maybe to Chef Raymond's."
-msgstr ""
+msgstr "Dobře, udělám to. Až jí skončí směna, půjdeme někam, kde je to hezké. Možná k šéfkuchaři Raymondovi."
 
 #: conversations/04_monarch/0402/0402_cv_sebastianadams:138
 msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:138:DefaultText"
 msgid "I guess I could afford to take a risk..."
-msgstr ""
+msgstr "Myslím, že bych si mohl dovolit riskovat..."
 
 #: conversations/04_monarch/0402/0402_cv_sebastianadams:139
 msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:139:DefaultText"
 msgid "You don't think she'd look elsewhere?"
-msgstr ""
+msgstr "Nemyslíš, že by se poohlédla jinde?"
 
 #: conversations/04_monarch/0402/0402_cv_sebastianadams:140
 msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:140:DefaultText"
 msgid "Maybe I should spend some extra time with her. For, uh, customer relations."
-msgstr ""
+msgstr "Možná bych s ní měl strávit nějaký čas navíc. Kvůli vztahům se zákazníky."
 
 #: conversations/04_monarch/0402/0402_cv_sebastianadams:141
 msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:141:DefaultText"
 msgid "Rapt musk and canid eyes, right here!"
-msgstr ""
+msgstr "Dravé pižmo a oči psovitých šelem, přímo tady!"
 
 #: conversations/04_monarch/0402/0402_cv_sebastianadams:142
 msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:142:DefaultText"
 msgid "Mr. Pickett?"
-msgstr ""
+msgstr "Pane Pickette?"
 
 #: conversations/04_monarch/0402/0402_cv_sebastianadams:143
 msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:143:DefaultText"
 msgid "About Mr. Pickett..."
-msgstr ""
+msgstr "O panu Pickettovi..."
 
 #: conversations/04_monarch/0402/0402_cv_sebastianadams:144
 msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:144:DefaultText"
 msgid "He came to Stellar Bay years ago - just before the Board cut us off. Ended up stuck here. He was always real interested in our monsters. Mantiqueens especially. "
-msgstr ""
+msgstr "Do Stellar Bay přišel před lety - těsně předtím, než nás rada odřízla. Nakonec uvízl tady. Vždycky se o naše příšery opravdu zajímal. Zvláště o mantikény. "
 
 #: conversations/04_monarch/0402/0402_cv_sebastianadams:145
 msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:145:DefaultText"
 msgid "I found Mr. Pickett's journal."
-msgstr ""
+msgstr "Našel jsem deník pana Picketta."
 
 #: conversations/04_monarch/0402/0402_cv_sebastianadams:146
 msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:146:DefaultText"
 msgid "Yeah? You find him yet?"
-msgstr ""
+msgstr "Ano? Už jsi ho našel?"
 
 #: conversations/04_monarch/0402/0402_cv_sebastianadams:147
 msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:147:DefaultText"
 msgid "Let's talk about something else."
-msgstr ""
+msgstr "Promluvme si o něčem jiném."
 
 #: conversations/04_monarch/0402/0402_cv_sebastianadams:148
 msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:148:DefaultText"
 msgid "Where should I look for him?"
-msgstr ""
+msgstr "Kde ho mám hledat?"
 
 #: conversations/04_monarch/0402/0402_cv_sebastianadams:149
 msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:149:DefaultText"
 msgid "I sent him past the ruins just south of town. He was hunting for a mantiqueen out there."
-msgstr ""
+msgstr "Poslal jsem ho kolem ruin na jih od města. Hledal tam mantikenu."
 
 #: conversations/04_monarch/0402/0402_cv_sebastianadams:150
 msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:150:DefaultText"
 msgid "Have you seen a mantiqueen?"
-msgstr ""
+msgstr "Viděli jste někdy mantikenu?"
 
 #: conversations/04_monarch/0402/0402_cv_sebastianadams:151
 msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:151:DefaultText"
 msgid "Why was he interested in mantiqueens?"
-msgstr ""
+msgstr "Proč se zajímal o mantikény?"
 
 #: conversations/04_monarch/0402/0402_cv_sebastianadams:152
 msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:152:DefaultText"
 msgid "Sure. They're real big. Hard to miss 'em."
-msgstr ""
+msgstr "Jistě. Jsou opravdu velké. Je těžké je přehlédnout."
 
 #: conversations/04_monarch/0402/0402_cv_sebastianadams:153
 msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:153:DefaultText"
 msgid "Who wouldn't be?"
-msgstr ""
+msgstr "Kdo by nebyl?"
 
 #: conversations/04_monarch/0402/0402_cv_sebastianadams:154
 msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:154:DefaultText"
 msgid "Okay, but did he say anything more specific?"
-msgstr ""
+msgstr "Dobře, ale řekl něco konkrétnějšího?"
 
 #: conversations/04_monarch/0402/0402_cv_sebastianadams:155
 msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:155:DefaultText"
 msgid "People who value self-preservation, Sebastian."
-msgstr ""
+msgstr "Lidé, kteří si cení pudu sebezáchovy, Sebastiane."
 
 #: conversations/04_monarch/0402/0402_cv_sebastianadams:156
 msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:156:DefaultText"
 msgid "Now that just sounds like a fancy way to say \"boring people.\""
-msgstr ""
+msgstr "To zní jako elegantní způsob, jak říct \"nudní lidé\"."
 
 #: conversations/04_monarch/0402/0402_cv_sebastianadams:157
 msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:157:DefaultText"
 msgid "He kept talking about collecting a queen to take back to Terra 2. Didn't make no kind of sense to me. Mantiqueens won't let you collect 'em."
-msgstr ""
+msgstr "Pořád mluvil o tom, že si chce vzít královnu a vrátit se na Terru 2. Nedávalo mi to žádný smysl. Mantikéni ti nedovolí je sbírat."
 
 #: conversations/04_monarch/0402/0402_cv_sebastianadams:158
 msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:158:DefaultText"
 msgid "Where have you seen a mantiqueen?"
-msgstr ""
+msgstr "Kde jste viděli mantikenu?"
 
 #: conversations/04_monarch/0402/0402_cv_sebastianadams:159
 msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:159:DefaultText"
 msgid "Well, I could send you to the same place I sent Mr. Pickett. But I haven't seen him in a few weeks. To tell true, I'm starting to get a bit worried about him."
-msgstr ""
+msgstr "Mohl bych vás poslat na stejné místo, kam jsem poslal pana Picketta. Ale už jsem ho pár týdnů neviděl. Abych řekl pravdu, začínám se o něj trochu bát."
 
 #: conversations/04_monarch/0402/0402_cv_sebastianadams:160
 msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:160:DefaultText"
 msgid "Tell you what. I'll tell you where I sent Mr. Pickett if you promise to look for him. Help him out if he's got himself in trouble. Fair deal?"
-msgstr ""
+msgstr "Něco vám řeknu. Řeknu vám, kam jsem poslal pana Picketta, když mi slíbíte, že ho budete hledat. Pomozte mu, jestli se dostal do potíží. Férová dohoda?"
 
 #: conversations/04_monarch/0402/0402_cv_sebastianadams:161
 msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:161:DefaultText"
 msgid "I'll go looking for him if you tell me where you sent him."
-msgstr ""
+msgstr "Půjdu ho hledat, když mi řekneš, kam jsi ho poslal."
 
 #: conversations/04_monarch/0402/0402_cv_sebastianadams:162
 msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:162:DefaultText"
 msgid "Sure, I can keep an eye out for him."
-msgstr ""
+msgstr "Jistě, můžu na něj dávat pozor."
 
 #: conversations/04_monarch/0402/0402_cv_sebastianadams:163
 msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:163:DefaultText"
 msgid "Let me think about it."
-msgstr ""
+msgstr "Nech mě o tom přemýšlet."
 
 #: conversations/04_monarch/0402/0402_cv_sebastianadams:164
 msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:164:DefaultText"
 msgid "All right, then. Leave town through the southern gate - the one right here - and head past the abandoned ruins."
-msgstr ""
+msgstr "Dobře tedy. Opusťte město jižní branou - tou tady - a vydejte se kolem opuštěných ruin."
 
 #: conversations/04_monarch/0402/0402_cv_sebastianadams:165
 msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:165:DefaultText"
 msgid "Okay. Well, let me know when you've made up your mind."
-msgstr ""
+msgstr "Dobře. Dejte mi vědět, až se rozhodnete."
 
 #: conversations/04_monarch/0402/0402_cv_sebastianadams:166
 msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:166:DefaultText"
 msgid "Last mantiqueen I saw was in the wilds out thataways. Could be Mr. Pickett's still out there, too."
-msgstr ""
+msgstr "Naposledy jsem viděl mantikenu v divočině na dálnici. Mohl by tam být i pan Pickett."
 
 #: conversations/04_monarch/0402/0402_cv_sebastianadams:167
 msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:167:DefaultText"
 msgid "Hm? Like what?"
-msgstr ""
+msgstr "Hm? Jako co?"
 
 #: conversations/04_monarch/0402/0402_cv_sebastianadams:168
 msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:168:DefaultText"
 msgid "He'll probably be wanting it back. You see any sign of him?"
-msgstr ""
+msgstr "Pravděpodobně ji bude chtít zpátky. Viděl jsi po něm nějaké stopy?"
 
 #: conversations/04_monarch/0402/0402_cv_sebastianadams:169
 msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:169:DefaultText"
 msgid "I found the journal inside a dead mantiqueen."
-msgstr ""
+msgstr "Deník jsem našel v mrtvém mantikovi."
 
 #: conversations/04_monarch/0402/0402_cv_sebastianadams:171
 msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:171:DefaultText"
 msgid "He was eaten by a mantiqueen. He's dead. All that's left is that journal."
-msgstr ""
+msgstr "Sežral ho mantikun. Je mrtvý. Zbyl po něm jen ten deník."
 
 #: conversations/04_monarch/0402/0402_cv_sebastianadams:172
 msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:172:DefaultText"
 msgid "Funny place to leave a journal. But what about Mr. Pickett?"
-msgstr ""
+msgstr "Vtipné místo pro zanechání deníku. Ale co pan Pickett?"
 
 #: conversations/04_monarch/0402/0402_cv_sebastianadams:174
 msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:174:DefaultText"
 msgid "That's pretty sad. He sure seemed like he knew what he was doing."
-msgstr ""
+msgstr "To je dost smutné. Vypadalo to, že ví, co dělá."
 
 #: conversations/04_monarch/0402/0402_cv_sebastianadams:175
 msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:175:DefaultText"
 msgid "Maybe you and Celia can read it together on your date."
-msgstr ""
+msgstr "Možná byste si ji mohli s Celií přečíst na rande."
 
 #: conversations/04_monarch/0402/0402_cv_sebastianadams:176
 msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:176:DefaultText"
 msgid "So this journal is all he left behind? Seems like I ought to read it. Looks mighty long, though."
-msgstr ""
+msgstr "Takže po něm zůstal jen tento deník? Zdá se, že bych si ho měl přečíst. Vypadá to ale hodně dlouho."
 
 #: conversations/04_monarch/0402/0402_cv_sebastianadams:177
 msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:177:DefaultText"
 msgid "Maybe focus on not sending anyone else out alone against a mantiqueen."
-msgstr ""
+msgstr "Možná se soustřeďte na to, abyste nikoho neposílali sami proti mantikovi."
 
 #: conversations/04_monarch/0402/0402_cv_sebastianadams:178
 msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:178:DefaultText"
 msgid "I bet she'll like that. She's real enthusiastic about all sorts of monsters."
-msgstr ""
+msgstr "Vsadím se, že se jí to bude líbit. Je opravdu nadšená ze všech druhů příšer."
 
 #: conversations/04_monarch/0402/0402_cv_sebastianadams:179
 msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:179:DefaultText"
 msgid "In any case, I appreciate you tracking down Mr. Pickett for me. Here's some bits for your trouble."
-msgstr ""
+msgstr "V každém případě oceňuji, že jste pro mě pana Picketta vypátral. Tady je pár kousků za vaši námahu."
 
 #: conversations/04_monarch/0402/0402_cv_sebastianadams:180
 msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:180:DefaultText"
 msgid "Worked out for you, didn't it?"
-msgstr ""
+msgstr "Vyšlo ti to, že?"
 
 #: conversations/04_monarch/0402/0402_cv_sebastianadams:181
 msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:181:DefaultText"
 msgid "Yeah, you're probably right."
-msgstr ""
+msgstr "Ano, pravděpodobně máš pravdu."
 
 #: conversations/04_monarch/0402/0402_cv_sebastianadams:184
 msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:184:DefaultText"
 msgid "I just skip the big words."
-msgstr ""
+msgstr "Jen přeskočím velká slova."
 
 #: conversations/04_monarch/0402/0402_cv_sebastianadams:185
 msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:185:DefaultText"
 msgid "That'll help. Still, if he wrote 'em down, they must be important."
-msgstr ""
+msgstr "To pomůže. Ale když si je zapsal, musí být důležité."
 
 #: conversations/04_monarch/0402/0402_cv_sebastianadams:186
 msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:186:DefaultText"
 msgid "Look on the bright side. He found his mantiqueen."
-msgstr ""
+msgstr "Podívejte se na to z té lepší stránky. Našel svého mantikáře."
 
 #: conversations/04_monarch/0402/0402_cv_sebastianadams:187
 msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:187:DefaultText"
 msgid "Huh. That's a fine way of putting it."
-msgstr ""
+msgstr "Huh. To je pěkný způsob, jak to říct."
 
 #: conversations/04_monarch/0402/0402_cv_sebastianadams:188
 msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:188:DefaultText"
 msgid "You really are slow, fella. And coming from me, that's saying something."
-msgstr ""
+msgstr "Jsi opravdu pomalý, kamaráde. A to je ode mě co říct."
 
 #: conversations/04_monarch/0402/0402_cv_sebastianadams:189
 msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:189:DefaultText"
 msgid "He's dead. Eaten by a mantiqueen."
-msgstr ""
+msgstr "Je mrtvý. Sežral ho mantikán."
 
 #: conversations/04_monarch/0402/0402_cv_sebastianadams:190
 msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:190:DefaultText"
 msgid "Who knows? By the looks of things, this guy's a real escape artist. "
-msgstr ""
+msgstr "Kdo ví? Podle toho, jak to vypadá, je tenhle chlápek skutečný umělec. "
 
 #: conversations/04_monarch/0402/0402_cv_sebastianadams:191
 msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:191:DefaultText"
 msgid "Thanks."
-msgstr ""
+msgstr "Děkuji."
 
 #: conversations/04_monarch/0402/0402_cv_sebastianadams:192
 msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:192:DefaultText"
 msgid "Well, I take it from your tone he's not coming back."
-msgstr ""
+msgstr "Z tvého tónu usuzuji, že se nevrátí."
 
 #: conversations/04_monarch/0402/0402_cv_sebastianadams:193
 msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:193:DefaultText"
 msgid "Mysteries of the universe, I guess."
-msgstr ""
+msgstr "Záhady vesmíru, myslím."
 
 #: conversations/04_monarch/0402/0402_cv_sebastianadams:194
 msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:194:DefaultText"
 msgid "That's the spirit, Sebastian. Be yourself."
-msgstr ""
+msgstr "To je ten duch, Sebastiane. Buď sám sebou."
 
 #: conversations/04_monarch/0402/0402_cv_sebastianadams:195
 msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:195:DefaultText"
 msgid "Oh no, that's not it at all. She's smitten with you. You smited her. Smote? Smoot?"
-msgstr ""
+msgstr "Ale ne, tak to vůbec není. Je do tebe zamilovaná. Ty jsi ji udeřil. Udeřil? Uhladit?"
 
 #: conversations/04_monarch/0402/0402_cv_sebastianadams:196
 msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:196:DefaultText"
 msgid "I kept telling him he was a fool for chasing mantiqueen tail. Anyone looking to get familiar with a queen is liable to become the bitch's supper."
-msgstr ""
+msgstr "Pořád jsem mu říkal, že je blázen, když se honí za mantikovým ocasem. Každý, kdo se chce seznámit s královnou, se může stát její večeří."
 
 #: conversations/04_monarch/0402/0402_cv_sebastianadams:197
 msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:197:DefaultText"
 msgid "Oh, my. Well, I hope he's all right. Haven't seen him in a while."
-msgstr ""
+msgstr "Ach jo. Doufám, že je v pořádku. Dlouho jsem ho neviděla."
 
 #: conversations/04_monarch/0402/0402_cv_sebastianadams:198
 msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:198:DefaultText"
 msgid "Past the ruins? That's manti territory, all right. My professional opinion is that we leave that idiot to his well-deserved fate."
-msgstr ""
+msgstr "Za ruinami? To je území mantiů. Můj profesionální názor je, že bychom toho idiota měli nechat napospas jeho zaslouženému osudu."
 
 #: conversations/04_monarch/0402/0402_cv_sebastianadams:199
 msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:199:DefaultText"
 msgid "Anyone fool enough to chase after a queen is pretty fucking far from the \"know what they're doing\" class of people."
-msgstr ""
+msgstr "Každý, kdo je tak hloupý, že se žene za královnou, má k třídě lidí, kteří \"vědí, co dělají\", sakra daleko."
 
 #: conversations/04_monarch/0402/0402_cv_sebastianadams:200
 msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:200:DefaultText"
 msgid "Give her a chance. Give yourself a chance. Take her someplace nice."
-msgstr ""
+msgstr "Dejte jí šanci. Dejte si šanci. Vezměte ji na nějaké pěkné místo."
 
 #: conversations/04_monarch/0402/0402_cv_sebastianadams:203
 msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:203:DefaultText"
 msgid "Between you and me, Captain? I'm not sure Ms. Celia knows him too well. But we can hope, right? I want them to be happy."
-msgstr ""
+msgstr "Mezi námi dvěma, kapitáne? Nejsem si jistý, jestli ho slečna Celia zná příliš dobře. Ale můžeme doufat, ne? Chci, aby byli šťastní."
 
 #: conversations/04_monarch/0402/0402_cv_sebastianadams:204
 msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:204:DefaultText"
 msgid "Mr. Pickett? Franklin Pickett? From Edgewater?"
-msgstr ""
+msgstr "Pane Pickette? Franklin Pickett? Z Edgewateru?"
 
 #: conversations/04_monarch/0402/0402_cv_sebastianadams:205
 msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:205:DefaultText"
 msgid "That's him! He'd been here years, but he always talked about going back to Edgewater one day."
-msgstr ""
+msgstr "To je on! Byl tu už léta, ale vždycky mluvil o tom, že se jednou do Edgewateru vrátí."
 
 #: conversations/04_monarch/0402/0402_cv_sebastianadams:206
 msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:206:DefaultText"
 msgid "Parvati, you know who he's talking about?"
-msgstr ""
+msgstr "Parvati, víš, o kom mluví?"
 
 #: conversations/04_monarch/0402/0402_cv_sebastianadams:207
 msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:207:DefaultText"
 msgid "Sure. Mr. Pickett used to run the Community Center outside Edgewater. He had this grand idea to make it a museum for Halcyon life. "
-msgstr ""
+msgstr "Jistě. Pan Pickett vedl komunitní centrum u Edgewateru. Měl velkolepý nápad udělat z něj muzeum života Halcyon. "
 
 #: conversations/04_monarch/0402/0402_cv_sebastianadams:208
 msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:208:DefaultText"
 msgid "As my dad told it, Mr. Pickett was always going on about getting a mantiqueen for the last display. He left the Vale, gosh, years ago."
-msgstr ""
+msgstr "Jak vyprávěl můj otec, pan Pickett pořád mluvil o tom, že si na poslední výstavu pořídí mantiketu. Odešel z Vale, sakra, už před lety."
 
 #: conversations/04_monarch/0402/0402_cv_sebastianadams:211
 msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:211:DefaultText"
 msgid "Celia buys your stock because she likes you."
-msgstr ""
+msgstr "Celia kupuje vaše akcie, protože se jí líbíte."
 
 #: conversations/04_monarch/0402/0402_cv_sebastianadams:212
 msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:212:DefaultText"
 msgid "Captain, can we look for him? I'd feel awful if somebody from home was in trouble, and we didn't do nothing."
-msgstr ""
+msgstr "Kapitáne, můžeme se po něm podívat? Cítil bych se hrozně, kdyby měl někdo z domova potíže a my nic neudělali."
 
 #: conversations/04_monarch/0402/0402_cv_sebastianadams:213
 msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:213:DefaultText"
 msgid "If he's a friend of Parvati's, I suppose I ought to."
-msgstr ""
+msgstr "Pokud je to Parvatiin přítel, asi bych měl."
 
 #: conversations/04_monarch/0402/0402_cv_sebastianadams:214
 msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:214:DefaultText"
 msgid "Thanks, Captain."
-msgstr ""
+msgstr "Díky, kapitáne."
 
 #: conversations/04_monarch/0402/0402_cv_sebastianadams:215
 msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:215:DefaultText"
 msgid "No offense."
-msgstr ""
+msgstr "Bez urážky."
 
 #: conversations/04_monarch/0402/0402_cv_sebastianadams:216
 msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:216:DefaultText"
 msgid "Not funny, Captain."
-msgstr ""
+msgstr "To není vtipné, kapitáne."
 
 #: conversations/04_monarch/0402/0402_cv_sebastianadams:217
 msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:217:DefaultText"
 msgid "He used to tell the kids crazy stories about Halcyon wildlife. Later I learned most of it was wrong. But it was the thought that counted."
-msgstr ""
+msgstr "Vyprávěl dětem bláznivé historky o halcyonské divočině. Později jsem se dozvěděl, že většina z nich byla mylná. Ale záleželo na myšlence."
 
 #: conversations/04_monarch/0402/0402_cv_sebastianadams:218
 msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:218:DefaultText"
 msgid "He did always want to see one."
-msgstr ""
+msgstr "Vždycky ho chtěl vidět."
 
 #: conversations/04_monarch/0402/0402_cv_sebastianadams:219
 msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:219:DefaultText"
 msgid "It'd be nice for there to be some good come outta this."
-msgstr ""
+msgstr "Bylo by hezké, kdyby z toho vzešlo něco dobrého."
 
 #: conversations/04_monarch/0402/0402_cv_sebastianadams:221
 msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:221:DefaultText"
 msgid "You oughta know how dangerous that is."
-msgstr ""
+msgstr "Měl bys vědět, jak je to nebezpečné."
 
 #: conversations/04_monarch/0402/0402_cv_sebastianadams:222
 msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:222:DefaultText"
 msgid "Um, I can help you with those if you need, Captain."
-msgstr ""
+msgstr "Um, můžu vám s tím pomoct, jestli potřebujete, kapitáne."
 
 #: conversations/04_monarch/0402/0402_cv_sebastianadams:223
 msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:223:DefaultText"
 msgid "Sebastian! You ever get your hands on those pheromone sacs? Mantipillars ain't gonna hunt themselves, you know."
-msgstr ""
+msgstr "Sebastiane! Dostal jsi někdy do rukou ty feromonové váčky? Mantipillary se samy neuloví, víš?"
 
 #: conversations/04_monarch/0402/0402_cv_sebastianadams:224
 msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:224:DefaultText"
 msgid "I must've hunted a dozen, but I couldn't find a single sac on any of 'em. Must be looking in the wrong place."
-msgstr ""
+msgstr "Musel jsem jich ulovit tucet, ale na žádném z nich jsem nenašel jediný váček. Asi hledám na špatném místě."
 
 #: conversations/04_monarch/0402/0402_cv_sebastianadams:225
 msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:225:DefaultText"
 msgid "Heh, heh. Mantipillars ain't got pheromone sacs. I just told him that so's he'd stop asking me for advice."
-msgstr ""
+msgstr "Heh, heh. Mantipillars nemají feromonové váčky. Jen jsem mu to řekl, aby mě přestal žádat o radu."
 
 #: conversations/04_monarch/0402/0402_cv_sebastianadams:226
 msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:226:DefaultText"
 msgid "Least I'm getting a good haul of claws in the process. "
-msgstr ""
+msgstr "Alespoň si při tom pořídím pořádný úlovek drápů. "
 
 #: conversations/04_monarch/0402/0402_cv_sebastianadams:227
 msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:227:DefaultText"
 msgid "You're in good hands, traveling with Monarch's top merc. Still, if you want any rapt glands or manti claws, I've got you covered."
-msgstr ""
+msgstr "Jste v dobrých rukou, protože cestujete s nejlepším žoldákem společnosti Monarch. Přesto, kdybys chtěl raptské žlázy nebo manti drápy, mám to pro tebe."
 
 #: conversations/04_monarch/0402/0402_cv_sebastianadams:228
 msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:228:DefaultText"
 msgid "Now I see what Celia was talking about. This guy almost reminds me of Irion."
-msgstr ""
+msgstr "Teď už vím, o čem Celia mluvila. Ten chlap mi skoro připomíná Iriona."
 
 #: conversations/04_monarch/0402/0402_cv_sebastianadams:229
 msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:229:DefaultText"
 msgid "Who?"
-msgstr ""
+msgstr "Kdo?"
 
 #: conversations/04_monarch/0402/0402_cv_sebastianadams:230
 msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:230:DefaultText"
 msgid "An old... acquaintance from the Groundbreaker. Real piece of work."
-msgstr ""
+msgstr "Starý... známý z Groundbreakeru. Opravdový kus práce."
 
 #: conversations/04_monarch/0402/0402_cv_sebastianadams:231
 msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:231:DefaultText"
 msgid "That's mighty kind of you to say. "
-msgstr ""
+msgstr "To je od tebe moc milé. "
 
 #: conversations/04_monarch/0402/0402_cv_sebastianadams:233
 msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:233:DefaultText"
 msgid "But we were talking about what a lucky gal Celia is."
-msgstr ""
+msgstr "Ale mluvili jsme o tom, jaké má Celia štěstí."
 
 #: conversations/04_monarch/0402/0402_cv_sebastianadams:234
 msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:234:DefaultText"
 msgid "Anyone who can afford such a fine collection of mantisaur claws has it pretty good."
-msgstr ""
+msgstr "Kdo si může dovolit takovou sbírku kudlančích drápů, má se dobře."
 
 #: conversations/04_monarch/0402/0402_cv_sebastianadams:235
 msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:235:DefaultText"
 msgid "Don't get me wrong. I'd like to give her a discount. She's a real fine lady. Always talks nice and slow so I understand."
-msgstr ""
+msgstr "Nechápejte mě špatně. Rád bych jí dal slevu. Je to opravdu skvělá dáma. Vždycky mluví hezky a pomalu, takže jí rozumím."
 
 #: conversations/04_monarch/0402/0402_cv_sebastianadams:236
 msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:236:DefaultText"
 msgid "Okay. I'll do it. Once her shift ends, we'll go someplace nice. Maybe to Chef Raymond's."
-msgstr ""
+msgstr "Dobře, udělám to. Až jí skončí směna, půjdeme někam, kde je to hezké. Možná k šéfkuchaři Raymondovi."
 
 #: conversations/04_monarch/0402/0402_cv_sebastianadams:237
 msgctxt "conversations/04_monarch/0402/0402_cv_sebastianadams:237:DefaultText"
 msgid "Then one day he just disappeared. Never heard anything about him again."
-msgstr ""
+msgstr "Jednoho dne prostě zmizel. Nikdy jsem o něm už nic neslyšel."

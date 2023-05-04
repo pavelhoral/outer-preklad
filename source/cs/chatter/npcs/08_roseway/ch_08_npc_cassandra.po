@@ -1,34 +1,34 @@
 #: chatter/npcs/08_roseway/ch_08_npc_cassandra:75
 msgctxt "chatter/npcs/08_roseway/ch_08_npc_cassandra:75:DefaultText"
 msgid "I'm not dying down here!"
-msgstr ""
+msgstr "Já tady dole neumírám!"
 
 #: chatter/npcs/08_roseway/ch_08_npc_cassandra:76
 msgctxt "chatter/npcs/08_roseway/ch_08_npc_cassandra:76:DefaultText"
 msgid "You will regret that!"
-msgstr ""
+msgstr "Budete toho litovat!"
 
 #: chatter/npcs/08_roseway/ch_08_npc_cassandra:77
 msgctxt "chatter/npcs/08_roseway/ch_08_npc_cassandra:77:DefaultText"
 msgid "This is not good."
-msgstr ""
+msgstr "To není dobré."
 
 #: chatter/npcs/08_roseway/ch_08_npc_cassandra:78
 msgctxt "chatter/npcs/08_roseway/ch_08_npc_cassandra:78:DefaultText"
 msgid "Damn. Another one down."
-msgstr ""
+msgstr "Zatraceně. Další je pryč."
 
 #: chatter/npcs/08_roseway/ch_08_npc_cassandra:79
 msgctxt "chatter/npcs/08_roseway/ch_08_npc_cassandra:79:DefaultText"
 msgid "Too easy."
-msgstr ""
+msgstr "Příliš snadné."
 
 #: chatter/npcs/08_roseway/ch_08_npc_cassandra:84
 msgctxt "chatter/npcs/08_roseway/ch_08_npc_cassandra:84:DefaultText"
 msgid "What a waste."
-msgstr ""
+msgstr "To je ale škoda."
 
 #: chatter/npcs/08_roseway/ch_08_npc_cassandra:85
 msgctxt "chatter/npcs/08_roseway/ch_08_npc_cassandra:85:DefaultText"
 msgid "Great. More fighting."
-msgstr ""
+msgstr "Skvělé. Další boje."

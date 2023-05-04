@@ -10,12 +10,12 @@ msgid "Edgewater Saltuna Cannery\r\n"
 "Foreman: Phyllis Granger\r\n"
 "\r\n"
 ""
-msgstr ""
+msgstr "Edgewater Saltuna Cannery A Spacer's Choice Property ======================== Terminal Access Foreman: Phyllis Granger"
 
 #: conversations/00_emerald_vale/00_cp_cannery_phyllis_office:2
 msgctxt "conversations/00_emerald_vale/00_cp_cannery_phyllis_office:2:DefaultText"
 msgid "[Personal Files]"
-msgstr ""
+msgstr "[Osobní soubory]"
 
 #: conversations/00_emerald_vale/00_cp_cannery_phyllis_office:3
 msgctxt "conversations/00_emerald_vale/00_cp_cannery_phyllis_office:3:DefaultText"
@@ -27,17 +27,17 @@ msgid "Edgewater Saltuna Cannery\r\n"
 "Personal Files\r\n"
 "...\r\n"
 "[PASSWORD REQUIRED]"
-msgstr ""
+msgstr "Edgewater Saltuna Cannery A Spacer's Choice Property ======================== Personal Files ... [PASSWORD REQUIRED]"
 
 #: conversations/00_emerald_vale/00_cp_cannery_phyllis_office:4
 msgctxt "conversations/00_emerald_vale/00_cp_cannery_phyllis_office:4:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"
 
 #: conversations/00_emerald_vale/00_cp_cannery_phyllis_office:5
 msgctxt "conversations/00_emerald_vale/00_cp_cannery_phyllis_office:5:DefaultText"
 msgid "[Messages]"
-msgstr ""
+msgstr "[Zprávy]"
 
 #: conversations/00_emerald_vale/00_cp_cannery_phyllis_office:6
 msgctxt "conversations/00_emerald_vale/00_cp_cannery_phyllis_office:6:DefaultText"
@@ -49,17 +49,17 @@ msgid "Edgewater Saltuna Cannery\r\n"
 "Messages\r\n"
 "\r\n"
 "Welcome, PHYLLIS GRANGER"
-msgstr ""
+msgstr "Edgewater Saltuna Cannery A Spacer's Choice Property ======================== Zprávy Vítejte, PHYLLIS GRANGER"
 
 #: conversations/00_emerald_vale/00_cp_cannery_phyllis_office:7
 msgctxt "conversations/00_emerald_vale/00_cp_cannery_phyllis_office:7:DefaultText"
 msgid "[Return to Root]"
-msgstr ""
+msgstr "[Zpět na kořen]"
 
 #: conversations/00_emerald_vale/00_cp_cannery_phyllis_office:8
 msgctxt "conversations/00_emerald_vale/00_cp_cannery_phyllis_office:8:DefaultText"
 msgid "[FROM: R. Tobson]"
-msgstr ""
+msgstr "[OD: R. Tobson]"
 
 #: conversations/00_emerald_vale/00_cp_cannery_phyllis_office:9
 msgctxt "conversations/00_emerald_vale/00_cp_cannery_phyllis_office:9:DefaultText"
@@ -81,12 +81,16 @@ msgid "Edgewater Saltuna Cannery\r\n"
 "Medical privileges are strictly merit-based. Please do not--under any circumstance--distribute your ration of medication to any other worker.\n"
 "\n"
 "We're all in this together."
-msgstr ""
+msgstr "Edgewater Saltuna Cannery A Spacer's Choice Property ======================== FROM: Tobson TO: Grangerovi PŘEDMĚT: P: Díky tvé tvrdé práci a pozitivnímu přístupu jsem ti schválil přístup k lékařskému ošetření v případě nákazy. \n"
+"\n"
+"Jak víte, společnost nám neposkytla dostatek léků na ošetření každého pracovníka. Přál bych si, abych mohl léčit každého člena rodiny Spacer's Choice, který onemocněl touto nákazou, ale nemohu. \n"
+"\n"
+"Lékařská oprávnění jsou přísně závislá na zásluhách. Prosím, nerozdělujte - za žádných okolností - svůj příděl léků mezi ostatní pracovníky. Jsme v tom všichni společně."
 
 #: conversations/00_emerald_vale/00_cp_cannery_phyllis_office:10
 msgctxt "conversations/00_emerald_vale/00_cp_cannery_phyllis_office:10:DefaultText"
 msgid "[Bypass]"
-msgstr ""
+msgstr "[Bypass]"
 
 #: conversations/00_emerald_vale/00_cp_cannery_phyllis_office:11
 msgctxt "conversations/00_emerald_vale/00_cp_cannery_phyllis_office:11:DefaultText"
@@ -100,12 +104,12 @@ msgid "Edgewater Saltuna Cannery\r\n"
 "[PASSWORD]: tenderfoot\r\n"
 "[PASSWORD ACCEPTED]\r\n"
 "WELCOME, P. Granger"
-msgstr ""
+msgstr "Edgewater Saltuna Cannery A Spacer's Choice Property ======================== Personal Files ... [HESLO]: tenderfoot [HESLO PŘIJATO] VÍTEJTE, P. Granger"
 
 #: conversations/00_emerald_vale/00_cp_cannery_phyllis_office:12
 msgctxt "conversations/00_emerald_vale/00_cp_cannery_phyllis_office:12:DefaultText"
 msgid "[Continue]"
-msgstr ""
+msgstr "[Pokračovat]"
 
 #: conversations/00_emerald_vale/00_cp_cannery_phyllis_office:13
 msgctxt "conversations/00_emerald_vale/00_cp_cannery_phyllis_office:13:DefaultText"
@@ -123,4 +127,10 @@ msgid "Edgewater Saltuna Cannery\r\n"
 "Don't end up like Theodore - do your work, show up, wear a smile, and you'll get your medical privileges. \n"
 "\n"
 "It's a start?"
-msgstr ""
+msgstr "Edgewater Saltuna Cannery A Spacer's Choice Property ======================== Personal Files - Last Entry Theodore buried last night. Reed mě požádal, abych o jeho smrti neinformoval v našich čtvrtletnících. To mi připadá fér. \n"
+"\n"
+"Byl požádán, aby připravil prohlášení nebo něco podobného pro ostatní pracovníky. Přemýšlel jsem o tom. Nevím, co jim říct. \n"
+"\n"
+"Abyste nedopadli jako Theodore - dělejte svou práci, choďte, usmívejte se, a dostanete svá lékařská oprávnění. \n"
+"\n"
+"Je to začátek?"

@@ -1,114 +1,114 @@
 #: quests/00_emeraldvale/ta_0001_gravematter:0
 msgctxt "quests/00_emeraldvale/ta_0001_gravematter:0:DefaultText"
 msgid "A Small Grave Matter"
-msgstr ""
+msgstr "Malá hrobová záležitost"
 
 #: quests/00_emeraldvale/ta_0001_gravematter:1
 msgctxt "quests/00_emeraldvale/ta_0001_gravematter:1:DefaultText"
 msgid "Collect Abernathy's Gravesite Fees"
-msgstr ""
+msgstr "Vybírání poplatků za hrob Abernathyho"
 
 #: quests/00_emeraldvale/ta_0001_gravematter:2
 msgctxt "quests/00_emeraldvale/ta_0001_gravematter:2:DefaultText"
 msgid "Return to Silas"
-msgstr ""
+msgstr "Zpět na Silas"
 
 #: quests/00_emeraldvale/ta_0001_gravematter:5
 msgctxt "quests/00_emeraldvale/ta_0001_gravematter:5:DefaultText"
 msgid "Collect Conrad's Gravesite Fees"
-msgstr ""
+msgstr "Vybírání poplatků za Conradův hrob"
 
 #: quests/00_emeraldvale/ta_0001_gravematter:6
 msgctxt "quests/00_emeraldvale/ta_0001_gravematter:6:DefaultText"
 msgid "Collect Ludwig's Gravesite Fees"
-msgstr ""
+msgstr "Vybírání poplatků za hrob Ludwiga"
 
 #: quests/00_emeraldvale/ta_0001_gravematter:7
 msgctxt "quests/00_emeraldvale/ta_0001_gravematter:7:DefaultText"
 msgid "Collect Phyllis's Gravesite Fees"
-msgstr ""
+msgstr "Vybírání poplatků za hrob Phyllis"
 
 #: quests/00_emeraldvale/ta_0001_gravematter:10000
 msgctxt "quests/00_emeraldvale/ta_0001_gravematter:10000:DefaultText"
 msgid "Silas, the local gravedigger, asked you to collect money from a few workers late on their payments."
-msgstr ""
+msgstr "Místní hrobník Silas tě požádal, abys vybral peníze od několika dělníků, kteří se opozdili s platbou."
 
 #: quests/00_emeraldvale/ta_0001_gravematter:10001
 msgctxt "quests/00_emeraldvale/ta_0001_gravematter:10001:DefaultText"
 msgid "Abernathy is one of the four people Silas sent you to collect from. He's been feeling under the weather and is probably at his residence."
-msgstr ""
+msgstr "Abernathy je jedním ze čtyř lidí, pro které tě Silas poslal. Necítí se dobře a pravděpodobně je ve svém sídle."
 
 #: quests/00_emeraldvale/ta_0001_gravematter:10002
 msgctxt "quests/00_emeraldvale/ta_0001_gravematter:10002:DefaultText"
 msgid "You finished collecting gravesite fees from the people of Edgewater. Return to Silas."
-msgstr ""
+msgstr "Dokončili jste vybírání poplatků za hrobová místa od obyvatel Edgewateru. Vrať se k Silasovi."
 
 #: quests/00_emeraldvale/ta_0001_gravematter:10005
 msgctxt "quests/00_emeraldvale/ta_0001_gravematter:10005:DefaultText"
 msgid "Conrad is one of the four people Silas sent you to collect from. He runs a barber shop in Edgewater."
-msgstr ""
+msgstr "Conrad je jedním ze čtyř lidí, pro které tě Silas poslal. Provozuje holičství v Edgewateru."
 
 #: quests/00_emeraldvale/ta_0001_gravematter:10006
 msgctxt "quests/00_emeraldvale/ta_0001_gravematter:10006:DefaultText"
 msgid "Ludwig is one of the four people Silas sent you to collect from. He's stationed as a guard at the landing pad southeast of Edgewater."
-msgstr ""
+msgstr "Ludvík je jedním ze čtyř lidí, pro které tě Silas poslal. Je umístěn jako strážný na přistávací ploše jihovýchodně od Edgewateru."
 
 #: quests/00_emeraldvale/ta_0001_gravematter:10007
 msgctxt "quests/00_emeraldvale/ta_0001_gravematter:10007:DefaultText"
 msgid "Phyllis is one of the four people Silas sent you to collect from. She works as a supervisor in the Edgewater cannery."
-msgstr ""
+msgstr "Phyllis je jednou ze čtyř osob, které tě Silas poslal vyzvednout. Pracuje jako vedoucí v konzervárně v Edgewateru."
 
 #: quests/00_emeraldvale/ta_0001_gravematter:20000
 msgctxt "quests/00_emeraldvale/ta_0001_gravematter:20000:DefaultText"
 msgid "Conrad couldn't pay his gravesite fees, but gave you a promissory note instead."
-msgstr ""
+msgstr "Conrad nemohl zaplatit poplatky za hrob, ale místo toho ti dal směnku."
 
 #: quests/00_emeraldvale/ta_0001_gravematter:20001
 msgctxt "quests/00_emeraldvale/ta_0001_gravematter:20001:DefaultText"
 msgid "Abernathy paid you his gravesite fees."
-msgstr ""
+msgstr "Abernathy vám zaplatil poplatky za hrob."
 
 #: quests/00_emeraldvale/ta_0001_gravematter:20002
 msgctxt "quests/00_emeraldvale/ta_0001_gravematter:20002:DefaultText"
 msgid "Ludwig paid you his gravesite fees."
-msgstr ""
+msgstr "Ludwig vám zaplatil hrobové poplatky."
 
 #: quests/00_emeraldvale/ta_0001_gravematter:20003
 msgctxt "quests/00_emeraldvale/ta_0001_gravematter:20003:DefaultText"
 msgid "Moreau paid you his gravesite fees."
-msgstr ""
+msgstr "Moreau vám zaplatil hrobové poplatky."
 
 #: quests/00_emeraldvale/ta_0001_gravematter:20004
 msgctxt "quests/00_emeraldvale/ta_0001_gravematter:20004:DefaultText"
 msgid "Phyllis paid you his gravesite fees."
-msgstr ""
+msgstr "Phyllis vám zaplatila poplatky za jeho hrob."
 
 #: quests/00_emeraldvale/ta_0001_gravematter:20005
 msgctxt "quests/00_emeraldvale/ta_0001_gravematter:20005:DefaultText"
 msgid "Conrad says he can't afford to pay his fees. It might be worth mentioning this to Silas."
-msgstr ""
+msgstr "Conrad říká, že si nemůže dovolit platit poplatky. Možná by stálo za to se o tom zmínit Silasovi."
 
 #: quests/00_emeraldvale/ta_0001_gravematter:20006
 msgctxt "quests/00_emeraldvale/ta_0001_gravematter:20006:DefaultText"
 msgid "Silas suggested searching around Conrad's shop for some leverage to aid in getting him to pay his fees."
-msgstr ""
+msgstr "Silas navrhl, aby se porozhlédl po Conradově obchodě a našel nějakou páku, která by ho přiměla zaplatit."
 
 #: quests/00_emeraldvale/ta_0001_gravematter:20007
 msgctxt "quests/00_emeraldvale/ta_0001_gravematter:20007:DefaultText"
 msgid "You found a note from Phyllis to Conrad. Perhaps you could use the information from it to convince Conrad to pay his gravesite fees."
-msgstr ""
+msgstr "Našel jsi vzkaz od Phyllis pro Conrada. Možná bys mohl informace z něj použít, abys Conrada přesvědčil, aby zaplatil poplatky za hrob."
 
 #: quests/00_emeraldvale/ta_0001_gravematter:30000
 msgctxt "quests/00_emeraldvale/ta_0001_gravematter:30000:DefaultText"
 msgid "You helped Silas finish his paperwork so that he can finish his graves."
-msgstr ""
+msgstr "Pomohli jste Silasovi dokončit papírování, aby mohl dokončit své hroby."
 
 #: quests/00_emeraldvale/ta_0001_gravematter:30001
 msgctxt "quests/00_emeraldvale/ta_0001_gravematter:30001:DefaultText"
 msgid "Silas is dead. Don't worry about collecting his missing fees."
-msgstr ""
+msgstr "Silas je mrtvý. S vymáháním jeho chybějících poplatků si nedělejte starosti."
 
 #: quests/00_emeraldvale/ta_0001_gravematter:30002
 msgctxt "quests/00_emeraldvale/ta_0001_gravematter:30002:DefaultText"
 msgid "The people of Edgewater hate you and want you dead. Silas is no longer interested in your help collecting gravesite fees."
-msgstr ""
+msgstr "Obyvatelé Edgewateru tě nenávidí a chtějí tvou smrt. Silas už nemá zájem o tvou pomoc při vybírání hrobových poplatků."

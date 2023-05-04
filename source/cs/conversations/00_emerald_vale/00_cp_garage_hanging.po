@@ -11,7 +11,7 @@ msgid "Edgewater Saltuna Cannery\r\n"
 "There are currently three (3) open Trouble Tickets.\r\n"
 "\r\n"
 "Select an option to proceed:"
-msgstr ""
+msgstr "Edgewater Saltuna Cannery A Spacer's Choice Property ======================== Maintenance Division Logs Welcome, Holcomb, P. V současné době jsou otevřeny tři (3) tickety s problémy. Vyberte možnost pro pokračování:"
 
 #: conversations/00_emerald_vale/00_cp_garage_hanging:3
 msgctxt "conversations/00_emerald_vale/00_cp_garage_hanging:3:DefaultText"
@@ -44,27 +44,27 @@ msgid "Edgewater Saltuna Cannery\r\n"
 "8. It's right there\r\n"
 "\r\n"
 "MAINTENANCE NOTES: [No notes on this ticket yet]"
-msgstr ""
+msgstr "Edgewater Saltuna Cannery A Spacer's Choice Property ======================== Trouble Ticket 65588 Podal: Tento problém je otevřen již nula (0) dní: Otevřeno PRIORITA: DŮVOD: Hlášení o potížích podané uživatelem Miller, L.] KROKY K ODSTRANĚNÍ: 1. Odstranit potíže. Podívejte se na sever. 2. Řekl jsem podívej se na severní stranu, zatracený nepoužitelný překladač. 3. Blízko hromady šrotu 4. Mohlo by to být severovýchodně od města, myslím 5. Pozoruj mechanické 6. Řinčí kolem hrozivě 7. Vidět to 8. Je to přímo tam POZNÁMKY K ÚDRŽBĚ: [Na tomto lístku zatím nejsou žádné poznámky]"
 
 #: conversations/00_emerald_vale/00_cp_garage_hanging:4
 msgctxt "conversations/00_emerald_vale/00_cp_garage_hanging:4:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"
 
 #: conversations/00_emerald_vale/00_cp_garage_hanging:8
 msgctxt "conversations/00_emerald_vale/00_cp_garage_hanging:8:DefaultText"
 msgid "[Trouble Ticket 65565]"
-msgstr ""
+msgstr "[Hlášení o potížích 65565]"
 
 #: conversations/00_emerald_vale/00_cp_garage_hanging:9
 msgctxt "conversations/00_emerald_vale/00_cp_garage_hanging:9:DefaultText"
 msgid "[Trouble Ticket 65587 - PRIORITY]"
-msgstr ""
+msgstr "[Hlášení o potížích 65587 - PRIORITA]"
 
 #: conversations/00_emerald_vale/00_cp_garage_hanging:10
 msgctxt "conversations/00_emerald_vale/00_cp_garage_hanging:10:DefaultText"
 msgid "[Trouble Ticket 65588]"
-msgstr ""
+msgstr "[Hlášení o potížích 65588]"
 
 #: conversations/00_emerald_vale/00_cp_garage_hanging:13
 msgctxt "conversations/00_emerald_vale/00_cp_garage_hanging:13:DefaultText"
@@ -94,7 +94,7 @@ msgid "Edgewater Saltuna Cannery\r\n"
 "8. Automatic shutdown\r\n"
 "\r\n"
 "MAINTENANCE NOTES: Likely as not, Bess got indigestion from being made to eat something she ain't made to. Again. Heading over now."
-msgstr ""
+msgstr "Edgewater Saltuna Cannery A Spacer's Choice Property ======================== == PRIORITY ISSUE == Trouble Ticket 65587 Podal: Tobson, R. SHRNUTÍ: Porucha hlavní výrobní linky konzervárny při tepelném zpracování. STAV: Otevřeno PRIORITA: KROKY K ODSTRANĚNÍ: 1. Spustit výrobní linku podle plánu S-467-01A 2. Pozorovat zpracování plechovek 3. Sledovat první várku do fáze tepelného zpracování 4. Jeden (nebo více) hlasitých zvuků praskání 5. Kouř, zápach spáleného salátu 6. Signalizace přehřátí na monitoru 6 7. Plameny tryskající z výfukových otvorů 8. Automatické vypnutí POZNÁMKY K ÚDRŽBĚ: Je pravděpodobné, že Bess dostala zažívací potíže z toho, že ji někdo nutil jíst něco, na co není stavěná. Znovu. Teď tam míří."
 
 #: conversations/00_emerald_vale/00_cp_garage_hanging:14
 msgctxt "conversations/00_emerald_vale/00_cp_garage_hanging:14:DefaultText"
@@ -128,4 +128,4 @@ msgid "Edgewater Saltuna Cannery\r\n"
 "Clancy's guts got caught and all pulled out, likely on account of somebody trying to restart him over and again. Need to rewind all the coiling in #4.\r\n"
 "\r\n"
 "K, stator's working, but there's something else off. Have to wait until it's quiet and spin him up for a listen."
-msgstr ""
+msgstr "Edgewater Saltuna Cannery A Spacer's Choice Property ======================== Trouble Ticket 65565 Podal: Tobson, R. SHRNUTÍ: Porucha nakladače AG sériové číslo 0023745 při spuštění. STAV: Otevřeno PRIORITA: KROKY K ODSTRANĚNÍ: 1. Zapněte motor. 2. Zkuste to znovu 3. Zkuste to znovu 4. Nakopněte nakladač 5. Proklínejte poraněné prsty 6. Musím zadat minimálně osm kroků 7. Zkus to znovu 8. Vydává chrastivý zvuk POZNÁMKY K ÚDRŽBĚ: Clancy, teprve před dvěma týdny jsem tě postavil na nohy. Ne že bys měl nohy, ale víš, co myslím. Zní to, jako by měl stator zase mimo osu. Vyčistí se a znovu nasadí. Clancymu se zachytily vnitřnosti a všechny se vytáhly ven, pravděpodobně kvůli tomu, že se ho někdo snažil znovu a znovu restartovat. Potřebuje přetočit všechny závity v č. 4. K, stator funguje, ale ještě něco je mimo. Musím počkat, až bude klid, a roztočit ho na poslech."

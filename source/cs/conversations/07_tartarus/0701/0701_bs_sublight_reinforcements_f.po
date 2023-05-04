@@ -1,24 +1,24 @@
 #: conversations/07_tartarus/0701/0701_bs_sublight_reinforcements_f:1
 msgctxt "conversations/07_tartarus/0701/0701_bs_sublight_reinforcements_f:1:DefaultText"
 msgid "Don't worry about a thing, boss. These guys are amateurs."
-msgstr ""
+msgstr "S ničím si nedělejte starosti, šéfe. Jsou to amatéři."
 
 #: conversations/07_tartarus/0701/0701_bs_sublight_reinforcements_f:3
 msgctxt "conversations/07_tartarus/0701/0701_bs_sublight_reinforcements_f:3:DefaultText"
 msgid "SubLight Salvage, at your service."
-msgstr ""
+msgstr "SubLight Salvage, k vašim službám."
 
 #: conversations/07_tartarus/0701/0701_bs_sublight_reinforcements_f:4
 msgctxt "conversations/07_tartarus/0701/0701_bs_sublight_reinforcements_f:4:DefaultText"
 msgid "Ms. Hagen sends her regards."
-msgstr ""
+msgstr "Paní Hagenová vás pozdravuje."
 
 #: conversations/07_tartarus/0701/0701_bs_sublight_reinforcements_f:5
 msgctxt "conversations/07_tartarus/0701/0701_bs_sublight_reinforcements_f:5:DefaultText"
 msgid "Well if it ain't the VP of Aggressive Acquisitions himself. It's an honor, sir."
-msgstr ""
+msgstr "Pokud to není sám viceprezident pro agresivní akvizice. Je to čest, pane."
 
 #: conversations/07_tartarus/0701/0701_bs_sublight_reinforcements_f:5
 msgctxt "conversations/07_tartarus/0701/0701_bs_sublight_reinforcements_f:5:FemaleText"
 msgid "Well if it ain't the VP of Aggressive Acquisitions herself. It's an honor, ma'am."
-msgstr ""
+msgstr "Pokud to není sama viceprezidentka pro agresivní akvizice. Je to čest, madam."

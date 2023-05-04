@@ -8,22 +8,22 @@ msgid "Ventilation Management Terminal\r\n"
 "O2 Level... 23% (MOOD-ENHANCING)\r\n"
 "Air Quality... \"A FUN CHALLENGE!\"\r\n"
 "Scent... PURPLEBERRY"
-msgstr ""
+msgstr "Terminál pro řízení ventilace ======================= STAV VENTILAČNÍHO SYSTÉMU Úroveň O2... 23 % (MOOD-ENHANCING) Kvalita vzduchu... \"ZÁBAVNÁ VÝZVA!\" Vůně... PURPLEBERRY"
 
 #: conversations/04_monarch/0404/0404_cp_cascadia_ventilation_terminal:2
 msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_ventilation_terminal:2:DefaultText"
 msgid "[Change Scent Filters]"
-msgstr ""
+msgstr "[Změna filtrů vůní]"
 
 #: conversations/04_monarch/0404/0404_cp_cascadia_ventilation_terminal:3
 msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_ventilation_terminal:3:DefaultText"
 msgid "[Set O2 Concentration to 19.5%] "
-msgstr ""
+msgstr "[Nastavte koncentraci O2 na 19,5 %] "
 
 #: conversations/04_monarch/0404/0404_cp_cascadia_ventilation_terminal:4
 msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_ventilation_terminal:4:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"
 
 #: conversations/04_monarch/0404/0404_cp_cascadia_ventilation_terminal:5
 msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_ventilation_terminal:5:DefaultText"
@@ -31,27 +31,27 @@ msgid "Ventilation Management Terminal\r\n"
 "=======================\r\n"
 "\r\n"
 "Please choose from one of Rizzo's Signature Scents"
-msgstr ""
+msgstr "Ventilation Management Terminal ======================= Vyberte si prosím jednu ze signaturních vůní Rizzo."
 
 #: conversations/04_monarch/0404/0404_cp_cascadia_ventilation_terminal:6
 msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_ventilation_terminal:6:DefaultText"
 msgid "[Purpleberry]"
-msgstr ""
+msgstr "[Purpleberry]"
 
 #: conversations/04_monarch/0404/0404_cp_cascadia_ventilation_terminal:7
 msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_ventilation_terminal:7:DefaultText"
 msgid "[Purpleberry]"
-msgstr ""
+msgstr "[Purpleberry]"
 
 #: conversations/04_monarch/0404/0404_cp_cascadia_ventilation_terminal:8
 msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_ventilation_terminal:8:DefaultText"
 msgid "[Purpleberry]"
-msgstr ""
+msgstr "[Purpleberry]"
 
 #: conversations/04_monarch/0404/0404_cp_cascadia_ventilation_terminal:9
 msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_ventilation_terminal:9:DefaultText"
 msgid "[Return to Root]"
-msgstr ""
+msgstr "[Zpět na kořen]"
 
 #: conversations/04_monarch/0404/0404_cp_cascadia_ventilation_terminal:10
 msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_ventilation_terminal:10:DefaultText"
@@ -63,7 +63,7 @@ msgid "Ventilation Management Terminal\r\n"
 "O2 Levels... 19.5% (MINIMUM)\r\n"
 "Air Quality... \"FORTIFIED WITH IRON, RADIUM, AND ASBESTOS!\"\r\n"
 "Scent... PURPLEBERRY"
-msgstr ""
+msgstr "Terminál pro řízení ventilace ======================= STAV VENTILAČNÍHO SYSTÉMU Úrovně O2... 19,5 % (MINIMUM) Kvalita vzduchu... \"PŘEDČIŠTĚNO ŽELEZEM, RÁDIEM A ASBESTOSEM!\" Vůně... PURPLEBERRY"
 
 #: conversations/04_monarch/0404/0404_cp_cascadia_ventilation_terminal:11
 msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_ventilation_terminal:11:DefaultText"
@@ -77,12 +77,12 @@ msgid "Ventilation Management Terminal\r\n"
 "Great choice! Now take a deep breath and enjoy that signature Rizzo aroma!\r\n"
 "\r\n"
 "WARNING: When Rizzo's Signature Scents are active, do not stand next to an open vent for more than 10 minutes at a time. Rizzo is not responsible for any hallucinations or lung damage that occur after this point."
-msgstr ""
+msgstr "Ventilation Management Terminal ======================= Vybrali jste: PURPLEBERRY Skvělá volba! Nyní se zhluboka nadechněte a vychutnejte si charakteristickou vůni Rizzo! UPOZORNĚNÍ: Když jsou signaturní vůně Rizzo aktivní, nestůjte vedle otevřené ventilace déle než 10 minut v kuse. Společnost Rizzo nenese odpovědnost za případné halucinace nebo poškození plic, ke kterým dojde po této době."
 
 #: conversations/04_monarch/0404/0404_cp_cascadia_ventilation_terminal:12
 msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_ventilation_terminal:12:DefaultText"
 msgid "[Set O2 Concentration to 19.5%] "
-msgstr ""
+msgstr "[Nastavte koncentraci O2 na 19,5 %] "
 
 #: conversations/04_monarch/0404/0404_cp_cascadia_ventilation_terminal:13
 msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_ventilation_terminal:13:DefaultText"
@@ -96,4 +96,4 @@ msgid "Ventilation Management Terminal\r\n"
 "Done\r\n"
 "\r\n"
 "WARNING: Due to their environmental needs, any pet mantipillars will not survive at these O2 levels. Thank you in advance for heeding this warning."
-msgstr ""
+msgstr "Terminál pro řízení ventilace ======================= Hladiny O2 se snižují na: ... ... Hotovo UPOZORNĚNÍ: Vzhledem k potřebám prostředí nepřežijí při těchto hladinách O2 žádní domácí mantipilláři. Předem děkujeme, že budete dbát tohoto varování."

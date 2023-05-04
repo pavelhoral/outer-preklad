@@ -7,17 +7,17 @@ msgid "Emerald Vale Geothermal Plant\r\n"
 "\r\n"
 "[MASTER CONTROL TERMINAL]\r\n"
 ""
-msgstr ""
+msgstr "Geotermální elektrárna Emerald Vale A Spacer's Choice Property ======================== [MASTER CONTROL TERMINAL]"
 
 #: conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_master_control:3
 msgctxt "conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_master_control:3:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"
 
 #: conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_master_control:23
 msgctxt "conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_master_control:23:DefaultText"
 msgid "[Plant Status]"
-msgstr ""
+msgstr "[Stav zařízení]"
 
 #: conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_master_control:24
 msgctxt "conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_master_control:24:DefaultText"
@@ -44,7 +44,7 @@ msgid "Emerald Vale Geothermal Plant\r\n"
 "\r\n"
 "\r\n"
 "[WARNING] Structural damage detected. Please notify your designated supervisor."
-msgstr ""
+msgstr "Geotermální elektrárna Emerald Vale A Spacer's Choice Property ======================== [HLAVNÍ KONTROLNÍ TERMÍN] ... ... [STAV ZAŘÍZENÍ] ... ... [TUTO PŘÍSTUPOVOU ZPRÁVU VÁM PŘINÁŠÍ SPOLEČNOST SPACER'S CHOICE] .... ... Geotermální elektrárna Emerald Vale pracuje s [22% účinností]. Energie je v současné době distribuována do: [Edgewater Saltuna Cannery] [Botanická laboratoř] [VAROVÁNÍ] Zjištěno poškození konstrukce. Informujte prosím určeného nadřízeného."
 
 #: conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_master_control:25
 msgctxt "conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_master_control:25:DefaultText"
@@ -71,7 +71,7 @@ msgid "Emerald Vale Geothermal Plant\r\n"
 "\r\n"
 "[WARNING] Botanical Laboratory has been [REMOVED] from Emerald Vale Power Grid.\r\n"
 "[WARNING] Structural damage detected. Please notify your designated supervisor."
-msgstr ""
+msgstr "Emerald Vale Geothermal Plant A Spacer's Choice Property ======================== [MASTER CONTROL TERMINAL] .... ... [STAV ELEKTRÁRNY] ... ... [TUTO ZPRÁVU O PŘÍSTUPU VÁM PŘINÁŠÍ SPOLEČNOST SPACER'S CHOICE] ... ...Geotermální elektrárna Emerald Vale pracuje s [53% účinností]. Energie je v současné době distribuována do: [Edgewater] [VAROVÁNÍ] Botanická laboratoř byla [ODSTRANĚNA] ze sítě Emerald Vale. [VAROVÁNÍ] Zjištěno poškození konstrukce. Informujte prosím určeného nadřízeného."
 
 #: conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_master_control:26
 msgctxt "conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_master_control:26:DefaultText"
@@ -98,12 +98,12 @@ msgid "Emerald Vale Geothermal Plant\r\n"
 "\r\n"
 "[WARNING] Edgewater Saltuna Cannery has been [REMOVED] from Emerald Vale Power Grid.\r\n"
 "[WARNING] Structural damage detected. Please notify your designated supervisor."
-msgstr ""
+msgstr "Emerald Vale Geothermal Plant A Spacer's Choice Property ======================== [MASTER CONTROL TERMINAL] .... ... [STAV ELEKTRÁRNY] ... ... [TUTO ZPRÁVU O PŘÍSTUPU VÁM PŘINÁŠÍ SPOLEČNOST SPACER'S CHOICE] ... ...Geotermální elektrárna Emerald Vale pracuje s [53% účinností]. Energie je v současné době distribuována do: [Botanická laboratoř] [VAROVÁNÍ] Konzervatoř Edgewater Saltuna byla [ODSTRANĚNA] z energetické sítě Emerald Vale. [VAROVÁNÍ] Zjištěno poškození konstrukce. Informujte prosím určeného nadřízeného."
 
 #: conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_master_control:27
 msgctxt "conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_master_control:27:DefaultText"
 msgid "[Redirect Power]"
-msgstr ""
+msgstr "[Přesměrování]"
 
 #: conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_master_control:28
 msgctxt "conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_master_control:28:DefaultText"
@@ -121,7 +121,9 @@ msgid "Emerald Vale Geothermal Plant\r\n"
 "[ERROR!] Power Redirection Function has failed. Manual override required.\n"
 "\n"
 "Please activate all three electrical track switches."
-msgstr ""
+msgstr "Emerald Vale Geothermal Plant A Spacer's Choice Property ======================== [MASTER CONTROL TERMINAL] [POZOR!] Zjištěny bezpečnostní závady. Vysoká pravděpodobnost MÍRNÉHO až ZÁVĚREČNÉHO STRUKTURÁLNÍHO POŠKOZENÍ [VAROVÁNÍ!] Přesměrování energie je NEROVNATELNÝ POSTUP. \n"
+"\n"
+"Zpracování... [CHYBA!] Funkce přesměrování napájení selhala. Je vyžadováno ruční přepnutí. Aktivujte všechny tři elektrické kolejové spínače."
 
 #: conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_master_control:29
 msgctxt "conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_master_control:29:DefaultText"
@@ -137,17 +139,17 @@ msgid "Emerald Vale Geothermal Plant\r\n"
 "[WARNING!] Redirecting power is an IRREVERSIBLE PROCEDURE. \r\n"
 "\r\n"
 "Are you sure you want to continue?"
-msgstr ""
+msgstr "Emerald Vale Geothermal Plant A Spacer's Choice Property ======================== [MASTER CONTROL TERMINAL] Zpracování... [POZOR!] Zjištěno bezpečnostní selhání. Vysoká pravděpodobnost MÍRNÉHO až STRAŠNÉHO POŠKOZENÍ KONSTRUKCE. 2. [VAROVÁNÍ!] Přesměrování energie je NEROVNATELNÝ POSTUP. Jste si jisti, že chcete pokračovat?"
 
 #: conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_master_control:30
 msgctxt "conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_master_control:30:DefaultText"
 msgid "[Redirect Power to Edgewater]"
-msgstr ""
+msgstr "[Přesměrovat napájení na Edgewater]"
 
 #: conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_master_control:31
 msgctxt "conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_master_control:31:DefaultText"
 msgid "[Redirect Power to Botanical Laboratory]"
-msgstr ""
+msgstr "[Přesměrování výkonu do botanické laboratoře]"
 
 #: conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_master_control:32
 msgctxt "conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_master_control:32:DefaultText"
@@ -172,7 +174,7 @@ msgid "Emerald Vale Geothermal Plant\r\n"
 "\r\n"
 "\r\n"
 "Thank you for serving the Spacer's Choice family!"
-msgstr ""
+msgstr "Emerald Vale Geothermal Plant A Spacer's Choice Property ======================== [MASTER CONTROL TERMINAL] Power successfully redirected to [Edgewater] ... Botanical Laboratory [POWER REGULATOR] is now safe to remove. ...Konzervatoř Edgewater Saltuna [REGULÁTOR NAPÁJENÍ] nyní pracuje na optimální výkon. ... ... [VAROVÁNÍ] Zjištěno další poškození konstrukce. [VAROVÁNÍ] Zjištěn trvalý výpadek napájení v [BOTANICKÁ LABORATOŘ] [UPOZORNĚNÍ] Zaznamenáno hrubé nerespektování majetku Spacer's Choice. Nahlaste se prosím určenému nadřízenému k okamžitému pokárání. Děkujeme vám za službu rodině Spacer's Choice!"
 
 #: conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_master_control:33
 msgctxt "conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_master_control:33:DefaultText"
@@ -193,17 +195,17 @@ msgid "Emerald Vale Geothermal Plant\r\n"
 "Redirecting power is an irreversible procedure.\r\n"
 "\r\n"
 "Please select a destination:"
-msgstr ""
+msgstr "Geotermální elektrárna Emerald Vale A Spacer's Choice Property ======================== [MASTER CONTROL TERMINAL] Geotermální elektrárna Emerald Vale pracuje s [22% účinností] V současné době je energie distribuována do:[Edgewater] [Botanická laboratoř] Přesměrování energie je nevratný postup.Zvolte prosím cílové místo:"
 
 #: conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_master_control:34
 msgctxt "conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_master_control:34:DefaultText"
 msgid "[Continue]"
-msgstr ""
+msgstr "[Pokračovat]"
 
 #: conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_master_control:35
 msgctxt "conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_master_control:35:DefaultText"
 msgid "[Return to Root]"
-msgstr ""
+msgstr "[Zpět na kořen]"
 
 #: conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_master_control:37
 msgctxt "conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_master_control:37:DefaultText"
@@ -226,4 +228,4 @@ msgid "Emerald Vale Geothermal Plant\r\n"
 "[NOTICE] Blatant disregard for Spacer's Choice property has been logged. Please report yourself to your designated supervisor for an immediate reprimand.\r\n"
 "\r\n"
 "Thank you for serving the Spacer's Choice family!"
-msgstr ""
+msgstr "Emerald Vale Geothermal Plant A Spacer's Choice Property ======================== [MASTER CONTROL TERMINAL] Napájení úspěšně přesměrováno do [BOTANICAL LABORATORY] ... Edgewater [POWER REGULATOR] je nyní bezpečně odstraněn. ...Botanická laboratoř [REGULÁTOR NAPÁJENÍ] nyní pracuje na optimální výkon. ... ... [UPOZORNĚNÍ] Zjištěno další poškození konstrukce. [UPOZORNĚNÍ] Zjištěn trvalý výpadek napájení v [EDGEWATER] [UPOZORNĚNÍ] Bylo zaznamenáno hrubé nerespektování majetku Spacer's Choice. Nahlaste se prosím určenému nadřízenému k okamžitému pokárání. Děkujeme vám za službu rodině Spacer's Choice!"

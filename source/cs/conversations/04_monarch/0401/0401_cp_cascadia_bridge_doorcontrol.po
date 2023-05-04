@@ -5,29 +5,29 @@ msgid "Welcome to Rizzo's Gate Control System!\r\n"
 "Chasm generators... 32% capacity\r\n"
 "\r\n"
 "Please select an option:"
-msgstr ""
+msgstr "Vítejte v systému řízení brány Rizzo! =========================== Chasm generators... 32% kapacita Vyberte prosím jednu z možností:"
 
 #: conversations/04_monarch/0401/0401_cp_cascadia_bridge_doorcontrol:2
 msgctxt "conversations/04_monarch/0401/0401_cp_cascadia_bridge_doorcontrol:2:DefaultText"
 msgid "[Open Northern Gate]"
-msgstr ""
+msgstr "[Otevřít severní bránu]"
 
 #: conversations/04_monarch/0401/0401_cp_cascadia_bridge_doorcontrol:3
 msgctxt "conversations/04_monarch/0401/0401_cp_cascadia_bridge_doorcontrol:3:DefaultText"
 msgid "[Open Southern Gate]"
-msgstr ""
+msgstr "[Otevřít jižní bránu]"
 
 #: conversations/04_monarch/0401/0401_cp_cascadia_bridge_doorcontrol:4
 msgctxt "conversations/04_monarch/0401/0401_cp_cascadia_bridge_doorcontrol:4:DefaultText"
 msgid "Northern gate open."
-msgstr ""
+msgstr "Severní brána otevřena."
 
 #: conversations/04_monarch/0401/0401_cp_cascadia_bridge_doorcontrol:5
 msgctxt "conversations/04_monarch/0401/0401_cp_cascadia_bridge_doorcontrol:5:DefaultText"
 msgid "Southern gate open."
-msgstr ""
+msgstr "Jižní brána otevřená."
 
 #: conversations/04_monarch/0401/0401_cp_cascadia_bridge_doorcontrol:6
 msgctxt "conversations/04_monarch/0401/0401_cp_cascadia_bridge_doorcontrol:6:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"

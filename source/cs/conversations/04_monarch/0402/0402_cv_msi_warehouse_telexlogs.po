@@ -3,27 +3,28 @@ msgctxt "conversations/04_monarch/0402/0402_cv_msi_warehouse_telexlogs:1:Default
 msgid "Messages\n"
 "======================\n"
 ""
-msgstr ""
+msgstr "Messages\n"
+"======================"
 
 #: conversations/04_monarch/0402/0402_cv_msi_warehouse_telexlogs:2
 msgctxt "conversations/04_monarch/0402/0402_cv_msi_warehouse_telexlogs:2:DefaultText"
 msgid "[TO: B. Hecht]"
-msgstr ""
+msgstr "[TO: B. Hecht]"
 
 #: conversations/04_monarch/0402/0402_cv_msi_warehouse_telexlogs:3
 msgctxt "conversations/04_monarch/0402/0402_cv_msi_warehouse_telexlogs:3:DefaultText"
 msgid "[TO: S. Nandi]"
-msgstr ""
+msgstr "[TO: S. Nandi]"
 
 #: conversations/04_monarch/0402/0402_cv_msi_warehouse_telexlogs:4
 msgctxt "conversations/04_monarch/0402/0402_cv_msi_warehouse_telexlogs:4:DefaultText"
 msgid "[TO: B. Hecht]"
-msgstr ""
+msgstr "[TO: B. Hecht]"
 
 #: conversations/04_monarch/0402/0402_cv_msi_warehouse_telexlogs:5
 msgctxt "conversations/04_monarch/0402/0402_cv_msi_warehouse_telexlogs:5:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"
 
 #: conversations/04_monarch/0402/0402_cv_msi_warehouse_telexlogs:6
 msgctxt "conversations/04_monarch/0402/0402_cv_msi_warehouse_telexlogs:6:DefaultText"
@@ -32,7 +33,7 @@ msgid "Braxton,\r\n"
 "The fish in tank 23-A are looking a little lumpy. If you're not going to make it in, that's fine, but you have to let me know so I can stay on top of the doses.\r\n"
 "\r\n"
 "- Velma"
-msgstr ""
+msgstr "Braxtone, ryby v nádrži 23-A vypadají trochu hrudkovitě. Jestli to nestihneš, nevadí, ale musíš mi dát vědět, abych mohla dávat pozor na dávky. - Velma"
 
 #: conversations/04_monarch/0402/0402_cv_msi_warehouse_telexlogs:7
 msgctxt "conversations/04_monarch/0402/0402_cv_msi_warehouse_telexlogs:7:DefaultText"
@@ -41,7 +42,7 @@ msgid "Brax,\r\n"
 "Seriously, where are you? You've missed three shifts. This is getting ridiculous, even for you.\r\n"
 "\r\n"
 "- V"
-msgstr ""
+msgstr "Braxi, kde jsi? Zmeškal jsi tři směny. Tohle začíná být směšné i na tebe. - V"
 
 #: conversations/04_monarch/0402/0402_cv_msi_warehouse_telexlogs:8
 msgctxt "conversations/04_monarch/0402/0402_cv_msi_warehouse_telexlogs:8:DefaultText"
@@ -52,7 +53,7 @@ msgid "Mr. Nandi,\r\n"
 "I know the situation with the Board puts us in a tough spot, but we need to start thinking about how we're going to keep Stellar Bay afloat if we can't get sales up.\r\n"
 "\r\n"
 "- V. Ballard"
-msgstr ""
+msgstr "Pane Nandi, opravdu musíme mluvit o situaci v Saltuně. Za poslední dva měsíce jsem musel nechat ve skladu shnít čtyři várky, protože se nám nedaří najít kupce. Vím, že situace s představenstvem nás staví do těžké situace, ale musíme začít přemýšlet o tom, jak udržíme Hvězdnou zátoku nad vodou, když se nám nedaří zvýšit prodej. - V. Ballardová."
 
 #: conversations/04_monarch/0402/0402_cv_msi_warehouse_telexlogs:9
 msgctxt "conversations/04_monarch/0402/0402_cv_msi_warehouse_telexlogs:9:DefaultText"
@@ -60,82 +61,82 @@ msgid "Monarch Stellar Industries\r\n"
 "==========================\r\n"
 "\r\n"
 "This terminal is only to be used for official work on behalf of Monarch Stellar Industries."
-msgstr ""
+msgstr "Monarch Stellar Industries ========================== Tento terminál lze používat pouze pro oficiální práci jménem společnosti Monarch Stellar Industries."
 
 #: conversations/04_monarch/0402/0402_cv_msi_warehouse_telexlogs:10
 msgctxt "conversations/04_monarch/0402/0402_cv_msi_warehouse_telexlogs:10:DefaultText"
 msgid "[Return to Root]"
-msgstr ""
+msgstr "[Zpět na kořen]"
 
 #: conversations/04_monarch/0402/0402_cv_msi_warehouse_telexlogs:11
 msgctxt "conversations/04_monarch/0402/0402_cv_msi_warehouse_telexlogs:11:DefaultText"
 msgid "[Personal Files]"
-msgstr ""
+msgstr "[Osobní soubory]"
 
 #: conversations/04_monarch/0402/0402_cv_msi_warehouse_telexlogs:12
 msgctxt "conversations/04_monarch/0402/0402_cv_msi_warehouse_telexlogs:12:DefaultText"
 msgid "[Messages]"
-msgstr ""
+msgstr "[Zprávy]"
 
 #: conversations/04_monarch/0402/0402_cv_msi_warehouse_telexlogs:13
 msgctxt "conversations/04_monarch/0402/0402_cv_msi_warehouse_telexlogs:13:DefaultText"
 msgid "Please enter authorization code to access personal files:\r\n"
 ""
-msgstr ""
+msgstr "Zadejte prosím autorizační kód pro přístup k osobním souborům:"
 
 #: conversations/04_monarch/0402/0402_cv_msi_warehouse_telexlogs:14
 msgctxt "conversations/04_monarch/0402/0402_cv_msi_warehouse_telexlogs:14:DefaultText"
 msgid "[Bypass]"
-msgstr ""
+msgstr "[Bypass]"
 
 #: conversations/04_monarch/0402/0402_cv_msi_warehouse_telexlogs:16
 msgctxt "conversations/04_monarch/0402/0402_cv_msi_warehouse_telexlogs:16:DefaultText"
 msgid "Please enter the name of the employee whose files you want to view:"
-msgstr ""
+msgstr "Zadejte jméno zaměstnance, jehož soubory chcete zobrazit:"
 
 #: conversations/04_monarch/0402/0402_cv_msi_warehouse_telexlogs:17
 msgctxt "conversations/04_monarch/0402/0402_cv_msi_warehouse_telexlogs:17:DefaultText"
 msgid "[Hecht, B.]"
-msgstr ""
+msgstr "[Hecht, B.]"
 
 #: conversations/04_monarch/0402/0402_cv_msi_warehouse_telexlogs:18
 msgctxt "conversations/04_monarch/0402/0402_cv_msi_warehouse_telexlogs:18:DefaultText"
 msgid "[Ballard, V.]"
-msgstr ""
+msgstr "[Ballard, V.]"
 
 #: conversations/04_monarch/0402/0402_cv_msi_warehouse_telexlogs:19
 msgctxt "conversations/04_monarch/0402/0402_cv_msi_warehouse_telexlogs:19:DefaultText"
 msgid "[Braxton Hecht's files are filled with saltuna breeding charts, various pharmacological formulae, and musings on why saltuna seem to prefer Boarst 'n Beans over plain Boarstwurst.]"
-msgstr ""
+msgstr "[Ve složkách Braxtona Hechta jsou grafy chovu saltuna, různé farmakologické vzorce a úvahy o tom, proč saltuna dává přednost Boarst 'n Beans před obyčejným Boarstwurstem.]"
 
 #: conversations/04_monarch/0402/0402_cv_msi_warehouse_telexlogs:20
 msgctxt "conversations/04_monarch/0402/0402_cv_msi_warehouse_telexlogs:20:DefaultText"
 msgid "[Velma's personal files are a morass of supply contracts, order forms, spreadsheets, and financial records. Careful study of her financials reveals that for the past several years she has been slowly siphoning money from her operating budget into a personal account.\r\n"
 "\r\n"
 "The theft is cleverly hidden. Individual instances could be excused as rounding errors or mistakes in simple arithmetic. The sheer volume of occurrences, however, indicates deliberate intent.]"
-msgstr ""
+msgstr "[Velminy osobní složky jsou změť dodavatelských smluv, objednávkových formulářů, tabulek a finančních záznamů. Pečlivé studium jejích financí odhaluje, že posledních několik let pomalu odčerpává peníze z provozního rozpočtu na osobní účet. Krádež je chytře skrytá. Jednotlivé případy by se daly omluvit jako zaokrouhlovací chyby nebo chyby v prosté aritmetice. Množství případů však svědčí o úmyslném záměru.]"
 
 #: conversations/04_monarch/0402/0402_cv_msi_warehouse_telexlogs:21
 msgctxt "conversations/04_monarch/0402/0402_cv_msi_warehouse_telexlogs:21:DefaultText"
 msgid "[Back]"
-msgstr ""
+msgstr "[Zpět]"
 
 #: conversations/04_monarch/0402/0402_cv_msi_warehouse_telexlogs:22
 msgctxt "conversations/04_monarch/0402/0402_cv_msi_warehouse_telexlogs:22:DefaultText"
 msgid "[Back]"
-msgstr ""
+msgstr "[Zpět]"
 
 #: conversations/04_monarch/0402/0402_cv_msi_warehouse_telexlogs:23
 msgctxt "conversations/04_monarch/0402/0402_cv_msi_warehouse_telexlogs:23:DefaultText"
 msgid "[Bypass]"
-msgstr ""
+msgstr "[Bypass]"
 
 #: conversations/04_monarch/0402/0402_cv_msi_warehouse_telexlogs:26
 msgctxt "conversations/04_monarch/0402/0402_cv_msi_warehouse_telexlogs:26:DefaultText"
 msgid "[Mash Random Keys]"
-msgstr ""
+msgstr "[Mash Random Keys]"
 
 #: conversations/04_monarch/0402/0402_cv_msi_warehouse_telexlogs:27
 msgctxt "conversations/04_monarch/0402/0402_cv_msi_warehouse_telexlogs:27:DefaultText"
 msgid "Password incorrect. Please try again."
-msgstr ""
+msgstr "Nesprávné heslo. Zkuste to prosím znovu."

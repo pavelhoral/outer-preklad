@@ -1,69 +1,69 @@
 #: quests/02_terra2/ta_0205_treasurehunt:0
 msgctxt "quests/02_terra2/ta_0205_treasurehunt:0:DefaultText"
 msgid "All Halcyon in a Day"
-msgstr ""
+msgstr "Vše Halcyon v jednom dni"
 
 #: quests/02_terra2/ta_0205_treasurehunt:1
 msgctxt "quests/02_terra2/ta_0205_treasurehunt:1:DefaultText"
 msgid "Find the First Beacon"
-msgstr ""
+msgstr "Vyhledání prvního majáku"
 
 #: quests/02_terra2/ta_0205_treasurehunt:2
 msgctxt "quests/02_terra2/ta_0205_treasurehunt:2:DefaultText"
 msgid "Find the Second Beacon"
-msgstr ""
+msgstr "Vyhledání druhého majáku"
 
 #: quests/02_terra2/ta_0205_treasurehunt:3
 msgctxt "quests/02_terra2/ta_0205_treasurehunt:3:DefaultText"
 msgid "Find the Third Beacon"
-msgstr ""
+msgstr "Vyhledání třetího majáku"
 
 #: quests/02_terra2/ta_0205_treasurehunt:4
 msgctxt "quests/02_terra2/ta_0205_treasurehunt:4:DefaultText"
 msgid "Return to Alonzo"
-msgstr ""
+msgstr "Zpět na Alonzo"
 
 #: quests/02_terra2/ta_0205_treasurehunt:7
 msgctxt "quests/02_terra2/ta_0205_treasurehunt:7:DefaultText"
 msgid "Find the Fourth Beacon"
-msgstr ""
+msgstr "Vyhledání čtvrtého majáku"
 
 #: quests/02_terra2/ta_0205_treasurehunt:10000
 msgctxt "quests/02_terra2/ta_0205_treasurehunt:10000:DefaultText"
 msgid "Alonzo Vallejos of Byzantium's Bureau of Exploration has asked you to participate in a guided tour across the Halcyon system."
-msgstr ""
+msgstr "Alonzo Vallejos z Byzantského průzkumného úřadu vás požádal, abyste se zúčastnili prohlídky systému Halcyon."
 
 #: quests/02_terra2/ta_0205_treasurehunt:10001
 msgctxt "quests/02_terra2/ta_0205_treasurehunt:10001:DefaultText"
 msgid "Alonzo explained that the tour consists of locating a series of beacons, the first of which lies somewhere in Byzantium."
-msgstr ""
+msgstr "Alonzo vysvětlil, že prohlídka spočívá v nalezení řady majáků, z nichž první leží někde v Byzanci."
 
 #: quests/02_terra2/ta_0205_treasurehunt:10002
 msgctxt "quests/02_terra2/ta_0205_treasurehunt:10002:DefaultText"
 msgid "The second beacon has activated, and appears to be in Emerald Vale, somewhere far to the north of the Edgewater landing pad."
-msgstr ""
+msgstr "Druhý maják se aktivoval a zdá se, že se nachází v Emerald Vale, někde daleko na sever od přistávací plochy Edgewater."
 
 #: quests/02_terra2/ta_0205_treasurehunt:10003
 msgctxt "quests/02_terra2/ta_0205_treasurehunt:10003:DefaultText"
 msgid "The third beacon has activated, and appears to be on Scylla."
-msgstr ""
+msgstr "Třetí maják se aktivoval a zdá se, že je na Scylle."
 
 #: quests/02_terra2/ta_0205_treasurehunt:10004
 msgctxt "quests/02_terra2/ta_0205_treasurehunt:10004:DefaultText"
 msgid "You've found all the beacons for the treasure hunt. Return to Alonzo to get your prize."
-msgstr ""
+msgstr "Našli jste všechny majáky pro hledání pokladu. Vrať se k Alonzovi a získej svou cenu."
 
 #: quests/02_terra2/ta_0205_treasurehunt:10007
 msgctxt "quests/02_terra2/ta_0205_treasurehunt:10007:DefaultText"
 msgid "The fourth beacon has activated, and appears to be on Monarch."
-msgstr ""
+msgstr "Čtvrtý maják se aktivoval a zdá se, že je na Monarchu."
 
 #: quests/02_terra2/ta_0205_treasurehunt:30000
 msgctxt "quests/02_terra2/ta_0205_treasurehunt:30000:DefaultText"
 msgid "You found all the beacons and claimed the prize for completing the sightseeing tour."
-msgstr ""
+msgstr "Našli jste všechny majáky a získali odměnu za dokončení prohlídky."
 
 #: quests/02_terra2/ta_0205_treasurehunt:30001
 msgctxt "quests/02_terra2/ta_0205_treasurehunt:30001:DefaultText"
 msgid "You killed Alonzo before completing the tour."
-msgstr ""
+msgstr "Zabil jsi Alonza před dokončením prohlídky."

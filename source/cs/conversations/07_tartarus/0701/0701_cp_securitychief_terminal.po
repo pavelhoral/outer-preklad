@@ -5,34 +5,34 @@ msgid "LBR-NTH Security Terminal\r\n"
 "As a reminder to LBR-NTH employees, access to secure data is a fireable offense.\r\n"
 "\r\n"
 "Furthermore, being fired from the LBR-NTH staff is punishable by life in prison."
-msgstr ""
+msgstr "Bezpečnostní terminál LBR-NTH ============================ Připomínáme zaměstnancům LBR-NTH, že přístup k zabezpečeným datům je trestným činem, za který lze propustit ze zaměstnání. Propuštění ze zaměstnání v LBR-NTH se navíc trestá doživotním vězením."
 
 #: conversations/07_tartarus/0701/0701_cp_securitychief_terminal:2
 msgctxt "conversations/07_tartarus/0701/0701_cp_securitychief_terminal:2:DefaultText"
 msgid "[Messages]"
-msgstr ""
+msgstr "[Zprávy]"
 
 #: conversations/07_tartarus/0701/0701_cp_securitychief_terminal:4
 msgctxt "conversations/07_tartarus/0701/0701_cp_securitychief_terminal:4:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"
 
 #: conversations/07_tartarus/0701/0701_cp_securitychief_terminal:5
 msgctxt "conversations/07_tartarus/0701/0701_cp_securitychief_terminal:5:DefaultText"
 msgid "LBR-NTH Security Terminal\r\n"
 "============================\r\n"
 "Message Logs"
-msgstr ""
+msgstr "Bezpečnostní terminál LBR-NTH ============================ Protokoly zpráv"
 
 #: conversations/07_tartarus/0701/0701_cp_securitychief_terminal:8
 msgctxt "conversations/07_tartarus/0701/0701_cp_securitychief_terminal:8:DefaultText"
 msgid "[Re: Cameras]"
-msgstr ""
+msgstr "[Re: Fotoaparáty]"
 
 #: conversations/07_tartarus/0701/0701_cp_securitychief_terminal:9
 msgctxt "conversations/07_tartarus/0701/0701_cp_securitychief_terminal:9:DefaultText"
 msgid "[Cameras]"
-msgstr ""
+msgstr "[Kamery]"
 
 #: conversations/07_tartarus/0701/0701_cp_securitychief_terminal:16
 msgctxt "conversations/07_tartarus/0701/0701_cp_securitychief_terminal:16:DefaultText"
@@ -43,7 +43,7 @@ msgid "She's bringing in a VIP for internment. Security's ramping up, too. Sorry
 "I bet the engineers have a few cameras. I'll see if I can track some down.\r\n"
 "\r\n"
 "- Jim"
-msgstr ""
+msgstr "Přiváží VIP osobu k internaci. Zvyšuje se i bezpečnost. Omlouváme se za nepříjemnosti. Je tu pěkný nepořádek. Říkal něco o nahrávání oznámení. Všichni jsou přehnaně vzrušení - je to ticho po pěšině, ale hádám, že tenhle VIP už je nějakou dobu na útěku. Vsadím se, že technici mají pár kamer. Uvidím, jestli se mi podaří nějaké najít. - Jim"
 
 #: conversations/07_tartarus/0701/0701_cp_securitychief_terminal:17
 msgctxt "conversations/07_tartarus/0701/0701_cp_securitychief_terminal:17:DefaultText"
@@ -54,17 +54,17 @@ msgid "Jim -\r\n"
 "She says security footage ain't enough - they want proper reels? What's going on?\r\n"
 "\r\n"
 "- W."
-msgstr ""
+msgstr "Jim - Snažím se ujasnit si Akandeho příkazy. Z mé strany už jen pár věcí, ale nevím, co uděláme s kamerami. Říká, že bezpečnostní záznamy nestačí - chtějí pořádné kotouče? Co se děje? - W."
 
 #: conversations/07_tartarus/0701/0701_cp_securitychief_terminal:20
 msgctxt "conversations/07_tartarus/0701/0701_cp_securitychief_terminal:20:DefaultText"
 msgid "[Continue]"
-msgstr ""
+msgstr "[Pokračovat]"
 
 #: conversations/07_tartarus/0701/0701_cp_securitychief_terminal:22
 msgctxt "conversations/07_tartarus/0701/0701_cp_securitychief_terminal:22:DefaultText"
 msgid "[Re: Re: Cameras]"
-msgstr ""
+msgstr "[Re: Re: Fotoaparáty]"
 
 #: conversations/07_tartarus/0701/0701_cp_securitychief_terminal:23
 msgctxt "conversations/07_tartarus/0701/0701_cp_securitychief_terminal:23:DefaultText"
@@ -75,4 +75,4 @@ msgid "Jim -\r\n"
 "You have no idea how tough it was getting a fucking green tarp.\r\n"
 "\r\n"
 "- W."
-msgstr ""
+msgstr "Jim - Cením si toho. Znáte ji. Na tomhle seznamu nám chybí zaškrtnutí, to je naše hlava. Ani nevíš, jak těžké bylo sehnat tu zasranou zelenou plachtu.\" - W."

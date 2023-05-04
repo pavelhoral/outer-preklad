@@ -1,634 +1,634 @@
 #: conversations/04_monarch/0401/0401_cv_donald:1
 msgctxt "conversations/04_monarch/0401/0401_cv_donald:1:DefaultText"
 msgid "How'd you get up here? Through the caves?"
-msgstr ""
+msgstr "Jak ses sem dostal? Přes jeskyně?"
 
 #: conversations/04_monarch/0401/0401_cv_donald:2
 msgctxt "conversations/04_monarch/0401/0401_cv_donald:2:DefaultText"
 msgid "What caves?"
-msgstr ""
+msgstr "Jaké jeskyně?"
 
 #: conversations/04_monarch/0401/0401_cv_donald:3
 msgctxt "conversations/04_monarch/0401/0401_cv_donald:3:DefaultText"
 msgid "That's right. I did."
-msgstr ""
+msgstr "Přesně tak. To jsem udělal já."
 
 #: conversations/04_monarch/0401/0401_cv_donald:4
 msgctxt "conversations/04_monarch/0401/0401_cv_donald:4:DefaultText"
 msgid "We're mercs. And our current contract mandates that we annihilate any creatures - or persons - that emerge from the tunnel."
-msgstr ""
+msgstr "Jsme žoldáci. A naše současná smlouva nám nařizuje zničit všechny tvory - nebo osoby -, které se vynoří z tunelu."
 
 #: conversations/04_monarch/0401/0401_cv_donald:5
 msgctxt "conversations/04_monarch/0401/0401_cv_donald:5:DefaultText"
 msgid "Seriously?"
-msgstr ""
+msgstr "Vážně?"
 
 #: conversations/04_monarch/0401/0401_cv_donald:6
 msgctxt "conversations/04_monarch/0401/0401_cv_donald:6:DefaultText"
 msgid "Trying that would be a mistake."
-msgstr ""
+msgstr "Zkoušet to by byla chyba."
 
 #: conversations/04_monarch/0401/0401_cv_donald:7
 msgctxt "conversations/04_monarch/0401/0401_cv_donald:7:DefaultText"
 msgid "Allow me to intervene. It's my job to mediate any conflicts of interest regarding C3 and third parties."
-msgstr ""
+msgstr "Dovolte mi, abych zasáhl. Mým úkolem je zprostředkovat jakýkoli střet zájmů týkající se společnosti C3 a třetích stran."
 
 #: conversations/04_monarch/0401/0401_cv_donald:8
 msgctxt "conversations/04_monarch/0401/0401_cv_donald:8:DefaultText"
 msgid "Role? Technically, I'm jobless."
-msgstr ""
+msgstr "Role? Technicky vzato jsem bez práce."
 
 #: conversations/04_monarch/0401/0401_cv_donald:9
 msgctxt "conversations/04_monarch/0401/0401_cv_donald:9:DefaultText"
 msgid "You can consider me the CEO of a company of one."
-msgstr ""
+msgstr "Můžete mě považovat za generálního ředitele jedné společnosti."
 
 #: conversations/04_monarch/0401/0401_cv_donald:10
 msgctxt "conversations/04_monarch/0401/0401_cv_donald:10:DefaultText"
 msgid "J-jobless?! Wha - how - why?! If you ain't out here on account of work then, might be you ought to explain -"
-msgstr ""
+msgstr "J-bez práce?! Co - jak - proč?! Jestli tady nejsi kvůli práci, tak bys to měl vysvětlit -"
 
 #: conversations/04_monarch/0401/0401_cv_donald:11
 msgctxt "conversations/04_monarch/0401/0401_cv_donald:11:DefaultText"
 msgid "A lean but efficient corporate structure. I'm impressed. Still, I got to wonder -"
-msgstr ""
+msgstr "Štíhlá, ale efektivní firemní struktura. Jsem ohromen. Přesto se musím ptát -"
 
 #: conversations/04_monarch/0401/0401_cv_donald:12
 msgctxt "conversations/04_monarch/0401/0401_cv_donald:12:DefaultText"
 msgid "What are your intentions regarding Devil's Peak Station? That is why you've wandered out here, I presume."
-msgstr ""
+msgstr "Jaké jsou vaše záměry ohledně stanice Devil's Peak? Předpokládám, že proto jste se sem zatoulal."
 
 #: conversations/04_monarch/0401/0401_cv_donald:13
 msgctxt "conversations/04_monarch/0401/0401_cv_donald:13:DefaultText"
 msgid "I've never even heard of Devil's Peak Station."
-msgstr ""
+msgstr "O stanici Devil's Peak jsem nikdy neslyšel."
 
 #: conversations/04_monarch/0401/0401_cv_donald:14
 msgctxt "conversations/04_monarch/0401/0401_cv_donald:14:DefaultText"
 msgid "I need to speak with an information broker named Hiram."
-msgstr ""
+msgstr "Potřebuji mluvit s informačním makléřem jménem Hiram."
 
 #: conversations/04_monarch/0401/0401_cv_donald:15
 msgctxt "conversations/04_monarch/0401/0401_cv_donald:15:DefaultText"
 msgid "I'm interested in the station's radio broadcasts."
-msgstr ""
+msgstr "Zajímá mě rozhlasové vysílání stanice."
 
 #: conversations/04_monarch/0401/0401_cv_donald:16
 msgctxt "conversations/04_monarch/0401/0401_cv_donald:16:DefaultText"
 msgid "Our guidelines allow us some leeway in identifying threats to our client. Your... unorthodox profession makes me think we ought to remove you from the premises... permanently."
-msgstr ""
+msgstr "Naše pokyny nám umožňují určitou volnost při identifikaci hrozeb pro klienta. Vaše... neortodoxní povolání mě vede k tomu, že bychom vás měli vykázat z objektu... natrvalo."
 
 #: conversations/04_monarch/0401/0401_cv_donald:18
 msgctxt "conversations/04_monarch/0401/0401_cv_donald:18:DefaultText"
 msgid "However, the terms of our contract specifically targets marauders, Iconoclasts, MSI operatives and anyone deemed too 'hobo-like' in appearance."
-msgstr ""
+msgstr "Podmínky naší smlouvy se však výslovně zaměřují na nájezdníky, ikonoklasty, agenty MSI a všechny, kteří mají příliš \"tulácký\" vzhled."
 
 #: conversations/04_monarch/0401/0401_cv_donald:19
 msgctxt "conversations/04_monarch/0401/0401_cv_donald:19:DefaultText"
 msgid "All right. That there's an HR violation. C3 does not tolerate threats made to company property or personnel."
-msgstr ""
+msgstr "Dobře. Že došlo k porušení lidských zdrojů. Společnost C3 netoleruje vyhrožování majetku společnosti nebo zaměstnancům."
 
 #: conversations/04_monarch/0401/0401_cv_donald:20
 msgctxt "conversations/04_monarch/0401/0401_cv_donald:20:DefaultText"
 msgid "Will <oeiglobal>0401_C3BribeValue</oeiglobal> bits cover it?"
-msgstr ""
+msgstr "Pokryjí to bity <oeiglobal>0401_C3BribeValue</oeiglobal>?"
 
 #: conversations/04_monarch/0401/0401_cv_donald:21
 msgctxt "conversations/04_monarch/0401/0401_cv_donald:21:DefaultText"
 msgid "We've both lost on this interaction. Call it even, or I'll be forced to collect as well."
-msgstr ""
+msgstr "V této interakci jsme oba prohráli. Uznejte to za vyrovnané, nebo budu nucen také inkasovat."
 
 #: conversations/04_monarch/0401/0401_cv_donald:22
 msgctxt "conversations/04_monarch/0401/0401_cv_donald:22:DefaultText"
 msgid "<Attack> This farce has gone on long enough. My guns will do the talking now."
-msgstr ""
+msgstr "<Útok> Tahle fraška už trvá dost dlouho. Teď budou mluvit moje zbraně."
 
 #: conversations/04_monarch/0401/0401_cv_donald:26
 msgctxt "conversations/04_monarch/0401/0401_cv_donald:26:DefaultText"
 msgid "Exactly who is your client?"
-msgstr ""
+msgstr "Kdo přesně je váš klient?"
 
 #: conversations/04_monarch/0401/0401_cv_donald:28
 msgctxt "conversations/04_monarch/0401/0401_cv_donald:28:DefaultText"
 msgid "How'd the station end up overrun by marauders if you were hired to guard it?"
-msgstr ""
+msgstr "Jak se stalo, že stanici obsadili nájezdníci, když jste byl najat, abyste ji hlídal?"
 
 #: conversations/04_monarch/0401/0401_cv_donald:29
 msgctxt "conversations/04_monarch/0401/0401_cv_donald:29:DefaultText"
 msgid "Trying to say we didn't do our job? I'll have you know, our contract was to stop any marauders coming from the caves. Didn't say nothing about the ones taking the mountain path."
-msgstr ""
+msgstr "Snažíte se říct, že jsme neodvedli svou práci? Musím ti říct, že naše smlouva zněla zastavit všechny nájezdníky přicházející z jeskyní. O těch, kteří se vydali horskou cestou, jsme nic neřekli."
 
 #: conversations/04_monarch/0401/0401_cv_donald:30
 msgctxt "conversations/04_monarch/0401/0401_cv_donald:30:DefaultText"
 msgid "We'll simply clear them out later. Once we've the go-ahead from Berthold."
-msgstr ""
+msgstr "Později je jednoduše odstraníme. Jakmile dostaneme od Bertholda povolení."
 
 #: conversations/04_monarch/0401/0401_cv_donald:31
 msgctxt "conversations/04_monarch/0401/0401_cv_donald:31:DefaultText"
 msgid "Who's Berthold? Your boss?"
-msgstr ""
+msgstr "Kdo je Berthold? Váš šéf?"
 
 #: conversations/04_monarch/0401/0401_cv_donald:32
 msgctxt "conversations/04_monarch/0401/0401_cv_donald:32:DefaultText"
 msgid "That's right. Berthold Fox is our boss man - Founder, President, and CEO. Berty went down into the caves on a hunt for marauders, give or take six hours ago."
-msgstr ""
+msgstr "Přesně tak. Berthold Fox je náš šéf - zakladatel, prezident a generální ředitel. Berty se vydal do jeskyní na lov nájezdníků, plus minus před šesti hodinami."
 
 #: conversations/04_monarch/0401/0401_cv_donald:33
 msgctxt "conversations/04_monarch/0401/0401_cv_donald:33:DefaultText"
 msgid "He's a hands-on type. Likes to handle the tougher tasks himself."
-msgstr ""
+msgstr "Je to praktický typ. Rád zvládá náročnější úkoly sám."
 
 #: conversations/04_monarch/0401/0401_cv_donald:34
 msgctxt "conversations/04_monarch/0401/0401_cv_donald:34:DefaultText"
 msgid "Although, he should've been back goin' on six hours now. I'd ask you to check the caves for him. But then we'd have to kill you when you crawl back out."
-msgstr ""
+msgstr "I když už by měl být zpátky šest hodin. Požádal bych tě, abys ho zkontroloval v jeskyních. Ale pak bychom tě museli zabít, až se vyplazíš zpátky."
 
 #: conversations/04_monarch/0401/0401_cv_donald:35
 msgctxt "conversations/04_monarch/0401/0401_cv_donald:35:DefaultText"
 msgid "Make me an honorary C3, and I'll look for him."
-msgstr ""
+msgstr "Udělejte ze mě čestného C3 a já ho vyhledám."
 
 #: conversations/04_monarch/0401/0401_cv_donald:36
 msgctxt "conversations/04_monarch/0401/0401_cv_donald:36:DefaultText"
 msgid "I think I'll steer clear of the caves, if it's all the same."
-msgstr ""
+msgstr "Myslím, že se vyhnu jeskyním, pokud je to všechno stejné."
 
 #: conversations/04_monarch/0401/0401_cv_donald:37
 msgctxt "conversations/04_monarch/0401/0401_cv_donald:37:DefaultText"
 msgid "Done. Use this - signal's locked to Berty's tracker. Should lead you right to him."
-msgstr ""
+msgstr "Hotovo. Použijte toto - signál je uzamčen na Bertyho sledovači. Měl by tě dovést přímo k němu."
 
 #: conversations/04_monarch/0401/0401_cv_donald:38
 msgctxt "conversations/04_monarch/0401/0401_cv_donald:38:DefaultText"
 msgid "Anything else you need?"
-msgstr ""
+msgstr "Potřebujete ještě něco?"
 
 #: conversations/04_monarch/0401/0401_cv_donald:40
 msgctxt "conversations/04_monarch/0401/0401_cv_donald:40:DefaultText"
 msgid "Probably for the best. Berty's going to be back... any minute now..."
-msgstr ""
+msgstr "Pravděpodobně je to tak lepší. Berty se vrátí... každou chvíli..."
 
 #: conversations/04_monarch/0401/0401_cv_donald:41
 msgctxt "conversations/04_monarch/0401/0401_cv_donald:41:DefaultText"
 msgid "I'll look for Berthold if I get a free pass to explore the caves."
-msgstr ""
+msgstr "Podívám se po Bertholdovi, jestli dostanu volnou vstupenku na průzkum jeskyní."
 
 #: conversations/04_monarch/0401/0401_cv_donald:43
 msgctxt "conversations/04_monarch/0401/0401_cv_donald:43:DefaultText"
 msgid "The guy calls himself the 'Information Broker.' Like he's starring in one of those fancy broadcast productions the station puts out. My guess is, he brokers... information. "
-msgstr ""
+msgstr "Říká si \"informační makléř\". Jako by hrál v jedné z těch efektních televizních inscenací, které stanice vysílá. Hádám, že zprostředkovává... informace. "
 
 #: conversations/04_monarch/0401/0401_cv_donald:44
 msgctxt "conversations/04_monarch/0401/0401_cv_donald:44:DefaultText"
 msgid "I'll be going now."
-msgstr ""
+msgstr "Teď už půjdu."
 
 #: conversations/04_monarch/0401/0401_cv_donald:45
 msgctxt "conversations/04_monarch/0401/0401_cv_donald:45:DefaultText"
 msgid "Good answer. I wasn't looking forward to gutshotting you. See, the thing is, I'm with the Corporate Compliance Crew - C3, if you will."
-msgstr ""
+msgstr "Dobrá odpověď. Netěšil jsem se, až tě střelím do břicha. Víte, jde o to, že patřím do Corporate Compliance Crew - C3, chcete-li."
 
 #: conversations/04_monarch/0401/0401_cv_donald:59
 msgctxt "conversations/04_monarch/0401/0401_cv_donald:59:DefaultText"
 msgid "You still here?"
-msgstr ""
+msgstr "Jsi ještě tady?"
 
 #: conversations/04_monarch/0401/0401_cv_donald:64
 msgctxt "conversations/04_monarch/0401/0401_cv_donald:64:DefaultText"
 msgid "Enforcing compliance is just busy work. Damn it."
-msgstr ""
+msgstr "Vymáhání dodržování předpisů je jen práce. Zatraceně."
 
 #: conversations/04_monarch/0401/0401_cv_donald:65
 msgctxt "conversations/04_monarch/0401/0401_cv_donald:65:DefaultText"
 msgid "Well, that's unfortunate. For you, I mean. 'Cause see, the thing is -"
-msgstr ""
+msgstr "No, to je nešťastné. Myslím pro tebe. Protože víš, jde o to..."
 
 #: conversations/04_monarch/0401/0401_cv_donald:68
 msgctxt "conversations/04_monarch/0401/0401_cv_donald:68:DefaultText"
 msgid "We're mercs. And our current contract mandates that we annihilate any creatures - or persons - that emerge from the tunnel."
-msgstr ""
+msgstr "Jsme žoldáci. A naše současná smlouva nám nařizuje zničit všechny tvory - nebo osoby -, které se vynoří z tunelu."
 
 #: conversations/04_monarch/0401/0401_cv_donald:69
 msgctxt "conversations/04_monarch/0401/0401_cv_donald:69:DefaultText"
 msgid "I'm with the Corporate Compliance Crew - C3, if you will."
-msgstr ""
+msgstr "Patřím do skupiny pro dodržování předpisů - C3, chcete-li."
 
 #: conversations/04_monarch/0401/0401_cv_donald:73
 msgctxt "conversations/04_monarch/0401/0401_cv_donald:73:DefaultText"
 msgid "Aside from the fact that I'm guy in charge of it? I reckon killing the person who saved one of our own won't have a positive impact on our image. Do you?"
-msgstr ""
+msgstr "Kromě toho, že to mám na starosti já? Počítám, že zabití člověka, který zachránil jednoho z nás, nebude mít pozitivní dopad na naši image. Myslíš?"
 
 #: conversations/04_monarch/0401/0401_cv_donald:74
 msgctxt "conversations/04_monarch/0401/0401_cv_donald:74:DefaultText"
 msgid "What does that have to do with PR?"
-msgstr ""
+msgstr "Co to má společného s PR?"
 
 #: conversations/04_monarch/0401/0401_cv_donald:76
 msgctxt "conversations/04_monarch/0401/0401_cv_donald:76:DefaultText"
 msgid "C3s, fire at will!"
-msgstr ""
+msgstr "C3, střílejte dle libosti!"
 
 #: conversations/04_monarch/0401/0401_cv_donald:77
 msgctxt "conversations/04_monarch/0401/0401_cv_donald:77:DefaultText"
 msgid "I saw the boss man die in the skirmish. But my mind... it don't believe it."
-msgstr ""
+msgstr "Viděl jsem, jak šéf zemřel při potyčce. Ale moje mysl... tomu nevěří."
 
 #: conversations/04_monarch/0401/0401_cv_donald:78
 msgctxt "conversations/04_monarch/0401/0401_cv_donald:78:DefaultText"
 msgid "Forget about Berthold. We've got to clear out the station."
-msgstr ""
+msgstr "Zapomeňte na Bertholda. Musíme vyklidit stanici."
 
 #: conversations/04_monarch/0401/0401_cv_donald:80
 msgctxt "conversations/04_monarch/0401/0401_cv_donald:80:DefaultText"
 msgid "If the marauders kill your client, you won't get paid."
-msgstr ""
+msgstr "Pokud nájezdníci zabijí vašeho klienta, nedostanete zaplaceno."
 
 #: conversations/04_monarch/0401/0401_cv_donald:81
 msgctxt "conversations/04_monarch/0401/0401_cv_donald:81:DefaultText"
 msgid "Berthold's been gone six hours? You know he's dead, right?"
-msgstr ""
+msgstr "Berthold je pryč šest hodin? Víš, že je mrtvý, že?"
 
 #: conversations/04_monarch/0401/0401_cv_donald:82
 msgctxt "conversations/04_monarch/0401/0401_cv_donald:82:DefaultText"
 msgid "Once the marauders finish wrecking the station, they're going to come here and eat you alive."
-msgstr ""
+msgstr "Jakmile nájezdníci dokončí demolici stanice, přijdou sem a sežerou tě zaživa."
 
 #: conversations/04_monarch/0401/0401_cv_donald:83
 msgctxt "conversations/04_monarch/0401/0401_cv_donald:83:DefaultText"
 msgid "Could use your help clearing out the station."
-msgstr ""
+msgstr "Hodila by se mi vaše pomoc při vyklízení stanice."
 
 #: conversations/04_monarch/0401/0401_cv_donald:90
 msgctxt "conversations/04_monarch/0401/0401_cv_donald:90:DefaultText"
 msgid "I owe you for bringing the boss man back to us."
-msgstr ""
+msgstr "Vděčím ti za to, že jsi nám šéfa přivedl zpátky."
 
 #: conversations/04_monarch/0401/0401_cv_donald:91
 msgctxt "conversations/04_monarch/0401/0401_cv_donald:91:DefaultText"
 msgid "Thank the stars that mess is over and done with."
-msgstr ""
+msgstr "Děkujte hvězdám, že už je po všem."
 
 #: conversations/04_monarch/0401/0401_cv_donald:92
 msgctxt "conversations/04_monarch/0401/0401_cv_donald:92:DefaultText"
 msgid "No. I came around from the... other way."
-msgstr ""
+msgstr "Ne. Přišel jsem z... druhé strany."
 
 #: conversations/04_monarch/0401/0401_cv_donald:93
 msgctxt "conversations/04_monarch/0401/0401_cv_donald:93:DefaultText"
 msgid "All right. First thing's first. To make a decision in this dispute, I'm gonna need to know what your role in your organization is."
-msgstr ""
+msgstr "Dobře. Nejdřív to nejdůležitější. Abych mohl v tomto sporu rozhodnout, budu potřebovat vědět, jaká je vaše role ve vaší organizaci."
 
 #: conversations/04_monarch/0401/0401_cv_donald:94
 msgctxt "conversations/04_monarch/0401/0401_cv_donald:94:DefaultText"
 msgid "Mhmm. Might I remind you that it is unethical to lie in an arbitration. "
-msgstr ""
+msgstr "Mhmm. Mohu vám připomenout, že lhát v rozhodčím řízení je neetické. "
 
 #: conversations/04_monarch/0401/0401_cv_donald:95
 msgctxt "conversations/04_monarch/0401/0401_cv_donald:95:DefaultText"
 msgid "As you don't appear to fit any of those categories, I'm afraid I can't quite make a call on you."
-msgstr ""
+msgstr "Protože se nezdá, že byste spadal do některé z těchto kategorií, obávám se, že vás nemohu zcela určit."
 
 #: conversations/04_monarch/0401/0401_cv_donald:97
 msgctxt "conversations/04_monarch/0401/0401_cv_donald:97:DefaultText"
 msgid "Ah, so you're a fan."
-msgstr ""
+msgstr "Aha, takže jsi fanoušek."
 
 #: conversations/04_monarch/0401/0401_cv_donald:98
 msgctxt "conversations/04_monarch/0401/0401_cv_donald:98:DefaultText"
 msgid "No. I'll sign the clearance form. Just... I must advise you to steer clear of Devil's Peak Station. It's teeming with marauders."
-msgstr ""
+msgstr "Ne. Podepíšu formulář o schválení. Jen... Musím vám doporučit, abyste se vyhýbali stanici Devil's Peak. Hemží se to tam nájezdníky."
 
 #: conversations/04_monarch/0401/0401_cv_donald:99
 msgctxt "conversations/04_monarch/0401/0401_cv_donald:99:DefaultText"
 msgid "You going to kill Berthold when he returns from the caves, too?"
-msgstr ""
+msgstr "Zabiješ Bertholda, až se vrátí z jeskyní?"
 
 #: conversations/04_monarch/0401/0401_cv_donald:100
 msgctxt "conversations/04_monarch/0401/0401_cv_donald:100:DefaultText"
 msgid "Space, no! The contract doesn't target C3s. How'd we enforce it, otherwise?"
-msgstr ""
+msgstr "Vesmír, ne! Smlouva není zaměřena na C3. Jak bychom ji jinak vymáhali?"
 
 #: conversations/04_monarch/0401/0401_cv_donald:101
 msgctxt "conversations/04_monarch/0401/0401_cv_donald:101:DefaultText"
 msgid "A might cold-blooded, ain't he, Donald?"
-msgstr ""
+msgstr "Je to chladnokrevník, co, Donalde?"
 
 #: conversations/04_monarch/0401/0401_cv_donald:101
 msgctxt "conversations/04_monarch/0401/0401_cv_donald:101:FemaleText"
 msgid "A might cold-blooded, ain't she, Donald?"
-msgstr ""
+msgstr "Je chladnokrevná, že ano, Donalde?"
 
 #: conversations/04_monarch/0401/0401_cv_donald:102
 msgctxt "conversations/04_monarch/0401/0401_cv_donald:102:DefaultText"
 msgid "I found him dying in the cave. He said to tell you I'm replacing him as the head of C3."
-msgstr ""
+msgstr "Našel jsem ho umírat v jeskyni. Řekl mi, abych ti vyřídil, že ho nahradím ve funkci vedoucího C3."
 
 #: conversations/04_monarch/0401/0401_cv_donald:104
 msgctxt "conversations/04_monarch/0401/0401_cv_donald:104:DefaultText"
 msgid "Never mind."
-msgstr ""
+msgstr "Nevadí."
 
 #: conversations/04_monarch/0401/0401_cv_donald:108
 msgctxt "conversations/04_monarch/0401/0401_cv_donald:108:DefaultText"
 msgid "I'll wire ahead to Joy and Hudson for support. All right, C3s! Prepare to head out!"
-msgstr ""
+msgstr "Pošlu telegram Joy a Hudsonovi, aby mě podpořili. Dobře, C3! Připravte se k odjezdu!"
 
 #: conversations/04_monarch/0401/0401_cv_donald:110
 msgctxt "conversations/04_monarch/0401/0401_cv_donald:110:DefaultText"
 msgid "Or his body. Whatever you find... bring him back to us. Okay?"
-msgstr ""
+msgstr "Nebo jeho tělo. Ať už najdete cokoli, přiveďte nám ho zpátky. Dobře?"
 
 #: conversations/04_monarch/0401/0401_cv_donald:111
 msgctxt "conversations/04_monarch/0401/0401_cv_donald:111:DefaultText"
 msgid "Don, I don't care if the guy's name is the Architect himself so long as we get paid well and paid on time."
-msgstr ""
+msgstr "Done, je mi jedno, jestli se ten člověk jmenuje sám Architekt, pokud dostaneme dobře a včas zaplaceno."
 
 #: conversations/04_monarch/0401/0401_cv_donald:112
 msgctxt "conversations/04_monarch/0401/0401_cv_donald:112:DefaultText"
 msgid "No dispute here."
-msgstr ""
+msgstr "O tom není sporu."
 
 #: conversations/04_monarch/0401/0401_cv_donald:113
 msgctxt "conversations/04_monarch/0401/0401_cv_donald:113:DefaultText"
 msgid "And?"
-msgstr ""
+msgstr "A?"
 
 #: conversations/04_monarch/0401/0401_cv_donald:114
 msgctxt "conversations/04_monarch/0401/0401_cv_donald:114:DefaultText"
 msgid "I really don't care."
-msgstr ""
+msgstr "Je mi to jedno."
 
 #: conversations/04_monarch/0401/0401_cv_donald:117
 msgctxt "conversations/04_monarch/0401/0401_cv_donald:117:DefaultText"
 msgid "Don't we as a standing policy provide an alternative to termination via financial restitution?"
-msgstr ""
+msgstr "Neposkytujeme v rámci stálé politiky alternativu k ukončení pracovního poměru prostřednictvím finančního odškodnění?"
 
 #: conversations/04_monarch/0401/0401_cv_donald:118
 msgctxt "conversations/04_monarch/0401/0401_cv_donald:118:DefaultText"
 msgid "Rude, ain't he, Don?"
-msgstr ""
+msgstr "Hrubián, že, Done?"
 
 #: conversations/04_monarch/0401/0401_cv_donald:118
 msgctxt "conversations/04_monarch/0401/0401_cv_donald:118:FemaleText"
 msgid "Rude, ain't she, Don?"
-msgstr ""
+msgstr "Je hrubá, že ano, Done?"
 
 #: conversations/04_monarch/0401/0401_cv_donald:119
 msgctxt "conversations/04_monarch/0401/0401_cv_donald:119:DefaultText"
 msgid "A smidge, yeah."
-msgstr ""
+msgstr "Trochu ano."
 
 #: conversations/04_monarch/0401/0401_cv_donald:120
 msgctxt "conversations/04_monarch/0401/0401_cv_donald:120:DefaultText"
 msgid "They most certainly should."
-msgstr ""
+msgstr "To by rozhodně měly."
 
 #: conversations/04_monarch/0401/0401_cv_donald:121
 msgctxt "conversations/04_monarch/0401/0401_cv_donald:121:DefaultText"
 msgid "All right. Lance? Unless you have a final point of contention to make, I'd say he's clear to go."
-msgstr ""
+msgstr "Dobře. Lance? Pokud nemáte poslední sporný bod, řekl bych, že může jít."
 
 #: conversations/04_monarch/0401/0401_cv_donald:121
 msgctxt "conversations/04_monarch/0401/0401_cv_donald:121:FemaleText"
 msgid "All right. Lance? Unless you have a final point of contention to make, I'd say she's clear to go."
-msgstr ""
+msgstr "Dobře. Lance? Pokud nemáš poslední sporný bod, řekla bych, že může jít."
 
 #: conversations/04_monarch/0401/0401_cv_donald:122
 msgctxt "conversations/04_monarch/0401/0401_cv_donald:122:DefaultText"
 msgid "On second thought, let's call this one a free learning experience. You're obviously not a marauder, anyway."
-msgstr ""
+msgstr "Když o tom tak přemýšlím, nazvěme to bezplatnou vzdělávací zkušeností. Stejně zřejmě nejsi nájezdník."
 
 #: conversations/04_monarch/0401/0401_cv_donald:123
 msgctxt "conversations/04_monarch/0401/0401_cv_donald:123:DefaultText"
 msgid "Look, much as we'd like to slaughter some marauders. We can't act unless it's on orders. And those come from the boss man."
-msgstr ""
+msgstr "Podívejte, i když bychom nejraději vyvraždili pár nájezdníků. Nemůžeme jednat, pokud to není na rozkaz. A ty přicházejí od šéfa."
 
 #: conversations/04_monarch/0401/0401_cv_donald:124
 msgctxt "conversations/04_monarch/0401/0401_cv_donald:124:DefaultText"
 msgid "No, sir. We do not know that. I ain't about to forsake Berty that easily."
-msgstr ""
+msgstr "Ne, pane. To nevíme. Nehodlám se Bertyho tak snadno vzdát."
 
 #: conversations/04_monarch/0401/0401_cv_donald:125
 msgctxt "conversations/04_monarch/0401/0401_cv_donald:125:DefaultText"
 msgid "Don't fancy getting devoured by marauders. No, I do not."
-msgstr ""
+msgstr "Nechcete se nechat sežrat nájezdníky. Ne, nemám."
 
 #: conversations/04_monarch/0401/0401_cv_donald:126
 msgctxt "conversations/04_monarch/0401/0401_cv_donald:126:DefaultText"
 msgid "Maybe Berty won't mind if we clear out the station real quick, then get back to our posts."
-msgstr ""
+msgstr "Možná Bertymu nebude vadit, když rychle vyklidíme stanici a pak se vrátíme na svá stanoviště."
 
 #: conversations/04_monarch/0401/0401_cv_donald:127
 msgctxt "conversations/04_monarch/0401/0401_cv_donald:127:DefaultText"
 msgid "What he doesn't know won't hurt us. Eh, Lance?"
-msgstr ""
+msgstr "To, co neví, nám neublíží. Co, Lanci?"
 
 #: conversations/04_monarch/0401/0401_cv_donald:128
 msgctxt "conversations/04_monarch/0401/0401_cv_donald:128:DefaultText"
 msgid "Now that won't hold. There's nothing Berty hates worse than a dead client."
-msgstr ""
+msgstr "Teď už to nevydrží. Berty nic nesnáší víc než mrtvého klienta."
 
 #: conversations/04_monarch/0401/0401_cv_donald:129
 msgctxt "conversations/04_monarch/0401/0401_cv_donald:129:DefaultText"
 msgid "The Broker's a real paranoid type. I'd wager my keenest knife he's got the place on lockdown. Booby trapped. Add the marauders and we'll be walking into a veritable death gauntlet."
-msgstr ""
+msgstr "Makléř je opravdu paranoidní typ. Vsadil bych svůj nejostřejší nůž, že to tu má pod zámkem. V pasti. Přidejme k tomu nájezdníky a budeme mít před sebou opravdovou smrtící rukavici."
 
 #: conversations/04_monarch/0401/0401_cv_donald:130
 msgctxt "conversations/04_monarch/0401/0401_cv_donald:130:DefaultText"
 msgid "So it ought to be fun. You find a way to jimmy the front door, and we'll clean house on the main level. "
-msgstr ""
+msgstr "Takže by to měla být zábava. Ty najdeš způsob, jak vypáčit přední dveře, a my uklidíme v hlavním patře. "
 
 #: conversations/04_monarch/0401/0401_cv_donald:131
 msgctxt "conversations/04_monarch/0401/0401_cv_donald:131:DefaultText"
 msgid "Bullseye."
-msgstr ""
+msgstr "Bullseye."
 
 #: conversations/04_monarch/0401/0401_cv_donald:132
 msgctxt "conversations/04_monarch/0401/0401_cv_donald:132:DefaultText"
 msgid "Get on with it, please."
-msgstr ""
+msgstr "Pokračujte, prosím."
 
 #: conversations/04_monarch/0401/0401_cv_donald:133
 msgctxt "conversations/04_monarch/0401/0401_cv_donald:133:DefaultText"
 msgid "<Pretend to shoot a gun with your fingers.>"
-msgstr ""
+msgstr "<Předstírejte, že střílíte z pistole prsty.>"
 
 #: conversations/04_monarch/0401/0401_cv_donald:134
 msgctxt "conversations/04_monarch/0401/0401_cv_donald:134:DefaultText"
 msgid "Already forgotten."
-msgstr ""
+msgstr "Již zapomenuto."
 
 #: conversations/04_monarch/0401/0401_cv_donald:135
 msgctxt "conversations/04_monarch/0401/0401_cv_donald:135:DefaultText"
 msgid "You? You're his protégé? I mean, no offense but I never would've figured... I mean. Space me! What're the orders, boss?"
-msgstr ""
+msgstr "Vy? Ty jsi jeho chráněnec? Bez urážky, ale nikdy by mě nenapadlo... Chci říct. Vesmír mě! Jaké jsou rozkazy, šéfe?"
 
 #: conversations/04_monarch/0401/0401_cv_donald:136
 msgctxt "conversations/04_monarch/0401/0401_cv_donald:136:DefaultText"
 msgid "If you're wanting to clear the station of all hostiles there's something you ought to know."
-msgstr ""
+msgstr "Pokud chcete vyčistit stanici od všech nepřátel, měli byste něco vědět."
 
 #: conversations/04_monarch/0401/0401_cv_donald:137
 msgctxt "conversations/04_monarch/0401/0401_cv_donald:137:DefaultText"
 msgid "No, I didn't come up through the caves."
-msgstr ""
+msgstr "Ne, nešel jsem nahoru přes jeskyně."
 
 #: conversations/04_monarch/0401/0401_cv_donald:138
 msgctxt "conversations/04_monarch/0401/0401_cv_donald:138:DefaultText"
 msgid "Addie, our Chief Financial Officer could confirm, but I'm betting if you're willing to compensate us for our lost time and productivity due to this arbitration, you could pass."
-msgstr ""
+msgstr "Addie, náš finanční ředitel by to mohl potvrdit, ale vsadím se, že pokud jste ochotni nám kompenzovat ztrátu času a produktivity kvůli této arbitráži, můžete to přejít."
 
 #: conversations/04_monarch/0401/0401_cv_donald:139
 msgctxt "conversations/04_monarch/0401/0401_cv_donald:139:DefaultText"
 msgid "I like him."
-msgstr ""
+msgstr "Mám ho rád."
 
 #: conversations/04_monarch/0401/0401_cv_donald:139
 msgctxt "conversations/04_monarch/0401/0401_cv_donald:139:FemaleText"
 msgid "I like her."
-msgstr ""
+msgstr "Líbí se mi."
 
 #: conversations/04_monarch/0401/0401_cv_donald:140
 msgctxt "conversations/04_monarch/0401/0401_cv_donald:140:DefaultText"
 msgid "You got a medic on staff? I could offer my services in exchange for a free pass."
-msgstr ""
+msgstr "Máte ve štábu zdravotníka? Mohl bych nabídnout své služby výměnou za volnou vstupenku."
 
 #: conversations/04_monarch/0401/0401_cv_donald:141
 msgctxt "conversations/04_monarch/0401/0401_cv_donald:141:DefaultText"
 msgid "As a matter of fact, we could use a skilled sawbones. Seems a fair trade to me."
-msgstr ""
+msgstr "Vlastně by se nám hodila zkušená pila. Přijde mi to jako férový obchod."
 
 #: conversations/04_monarch/0401/0401_cv_donald:142
 msgctxt "conversations/04_monarch/0401/0401_cv_donald:142:DefaultText"
 msgid "Joy sent me to talk to you."
-msgstr ""
+msgstr "Joy mě poslala, abych s tebou promluvil."
 
 #: conversations/04_monarch/0401/0401_cv_donald:143
 msgctxt "conversations/04_monarch/0401/0401_cv_donald:143:DefaultText"
 msgid "That's all well and good, but the reason you've come is secondary to the arbitration at hand."
-msgstr ""
+msgstr "To je všechno hezké, ale důvod, proč jste přišli, je pro rozhodčí řízení vedlejší."
 
 #: conversations/04_monarch/0401/0401_cv_donald:144
 msgctxt "conversations/04_monarch/0401/0401_cv_donald:144:DefaultText"
 msgid "I met Joy by the station. Was hoping to get you guys to do your job and take down the marauders."
-msgstr ""
+msgstr "Joy jsem potkal na nádraží. Doufala jsem, že vás přiměju, abyste udělali svou práci a zlikvidovali ty nájezdníky."
 
 #: conversations/04_monarch/0401/0401_cv_donald:145
 msgctxt "conversations/04_monarch/0401/0401_cv_donald:145:DefaultText"
 msgid "Can't we all just get along - for free? We're on the same side here."
-msgstr ""
+msgstr "Nemůžeme spolu všichni vycházet - zadarmo? Jsme na stejné straně."
 
 #: conversations/04_monarch/0401/0401_cv_donald:146
 msgctxt "conversations/04_monarch/0401/0401_cv_donald:146:DefaultText"
 msgid "I guess we might could. There's something I like about you. Can't put my finger on it, but I feel like I'd rather have you with us than against us."
-msgstr ""
+msgstr "Myslím, že bychom mohli. Něco se mi na tobě líbí. Nedokážu to pojmenovat, ale mám pocit, že bych tě měl raději s námi než proti nám."
 
 #: conversations/04_monarch/0401/0401_cv_donald:147
 msgctxt "conversations/04_monarch/0401/0401_cv_donald:147:DefaultText"
 msgid "I did your job for you. The station has been cleared of marauders."
-msgstr ""
+msgstr "Udělal jsem práci za tebe. Stanice byla vyčištěna od nájezdníků."
 
 #: conversations/04_monarch/0401/0401_cv_donald:148
 msgctxt "conversations/04_monarch/0401/0401_cv_donald:148:DefaultText"
 msgid "Well, that's a pickle. See, I don't recollect that our contract specifies what to do in the case of a third party fulfilling our obligations."
-msgstr ""
+msgstr "No, to je problém. Víte, nevzpomínám si, že by naše smlouva stanovovala, co dělat v případě, že třetí strana splní naše závazky."
 
 #: conversations/04_monarch/0401/0401_cv_donald:149
 msgctxt "conversations/04_monarch/0401/0401_cv_donald:149:DefaultText"
 msgid "Shucks, Lance. Why give the client the details? All that matters is that the work's been done. Seems to me, we can close up, cash out, and move on. "
-msgstr ""
+msgstr "Sakra, Lanci. Proč klientovi sdělovat podrobnosti? Záleží jen na tom, že je práce hotová. Zdá se mi, že to můžeme uzavřít, vyplatit peníze a jít dál. "
 
 #: conversations/04_monarch/0401/0401_cv_donald:150
 msgctxt "conversations/04_monarch/0401/0401_cv_donald:150:DefaultText"
 msgid "I do love when you think outside the box, Don. Fair enough. I'll sign the clearance form and issue our 'external contractor' here an NDA. "
-msgstr ""
+msgstr "Mám rád, když přemýšlíš jinak, Done. To je fér. Podepíšu formulář a vystavím našemu \"externímu dodavateli\" NDA. "
 
 #: conversations/04_monarch/0401/0401_cv_donald:151
 msgctxt "conversations/04_monarch/0401/0401_cv_donald:151:DefaultText"
 msgid "We're locked and loaded. Joy and Hudson know you're coming. They'll back you in the frontal assault on Devil's Peak."
-msgstr ""
+msgstr "Jsme zamčení a nabití. Joy a Hudson vědí, že přijdete. Budou tě podporovat při frontálním útoku na Ďáblův štít."
 
 #: conversations/04_monarch/0401/0401_cv_donald:152
 msgctxt "conversations/04_monarch/0401/0401_cv_donald:152:DefaultText"
 msgid "Your boss - he died in the caves."
-msgstr ""
+msgstr "Váš šéf - zemřel v jeskyních."
 
 #: conversations/04_monarch/0401/0401_cv_donald:153
 msgctxt "conversations/04_monarch/0401/0401_cv_donald:153:DefaultText"
 msgid "Now that just can't be right, no. Can't hardly wrap my mind around it. Tell me then... what got Berty in the end?"
-msgstr ""
+msgstr "To prostě nemůže být správné, ne. Nemůžu to pochopit. Tak mi řekni... co Bertyho nakonec dostalo?"
 
 #: conversations/04_monarch/0401/0401_cv_donald:154
 msgctxt "conversations/04_monarch/0401/0401_cv_donald:154:DefaultText"
 msgid "The caves are infested with vicious wildlife. It must've overwhelmed him."
-msgstr ""
+msgstr "Jeskyně jsou zamořeny divokou zvěří. Muselo ho to přemoci."
 
 #: conversations/04_monarch/0401/0401_cv_donald:155
 msgctxt "conversations/04_monarch/0401/0401_cv_donald:155:DefaultText"
 msgid "I did."
-msgstr ""
+msgstr "To jsem udělal."
 
 #: conversations/04_monarch/0401/0401_cv_donald:156
 msgctxt "conversations/04_monarch/0401/0401_cv_donald:156:DefaultText"
 msgid "I found his remains half-eaten by a mantiqueen."
-msgstr ""
+msgstr "Našel jsem jeho ostatky napůl sežrané mantikunou."
 
 #: conversations/04_monarch/0401/0401_cv_donald:157
 msgctxt "conversations/04_monarch/0401/0401_cv_donald:157:DefaultText"
 msgid "With or without a CEO, you can still help me take back the station."
-msgstr ""
+msgstr "Ať už s generálním ředitelem, nebo bez něj, stále mi můžete pomoci získat stanici zpět."
 
 #: conversations/04_monarch/0401/0401_cv_donald:158
 msgctxt "conversations/04_monarch/0401/0401_cv_donald:158:DefaultText"
 msgid "I don't know. Berty was the plan maker, and he told us to stick to the explicit requirements of the contract."
-msgstr ""
+msgstr "Nevím. Berty byl tvůrce plánu a řekl nám, abychom se drželi výslovných požadavků smlouvy."
 
 #: conversations/04_monarch/0401/0401_cv_donald:159
 msgctxt "conversations/04_monarch/0401/0401_cv_donald:159:DefaultText"
 msgid "Fine. Stay here where it's safe, you cowards."
-msgstr ""
+msgstr "V pořádku. Zůstaňte tady, kde je bezpečno, vy zbabělci."
 
 #: conversations/04_monarch/0401/0401_cv_donald:160
 msgctxt "conversations/04_monarch/0401/0401_cv_donald:160:DefaultText"
 msgid "You really think that staying here is the best option?"
-msgstr ""
+msgstr "Opravdu si myslíte, že zůstat tady je nejlepší volba?"
 
 #: conversations/04_monarch/0401/0401_cv_donald:161
 msgctxt "conversations/04_monarch/0401/0401_cv_donald:161:DefaultText"
 msgid "Say that to the head of my hammer. C3s ain't cowards. There's reasons we stick to the protocol - not getting the entire squad killed is chiefly among them."
-msgstr ""
+msgstr "Řekni to hlavě mého kladiva. C3 nejsou zbabělci. Existují důvody, proč se držíme protokolu - hlavním z nich je nenechat zabít celou jednotku."
 
 #: conversations/04_monarch/0401/0401_cv_donald:162
 msgctxt "conversations/04_monarch/0401/0401_cv_donald:162:DefaultText"
 msgid "Till we got a new CEO who can make that decision? Yes. We never fail to fulfill a contract. We just dispute the criterion with our clients' lawyers from time to time."
-msgstr ""
+msgstr "Dokud nebudeme mít nového generálního ředitele, který by o tom mohl rozhodnout? Ano. Nikdy jsme nezklamali při plnění smlouvy. Jen se čas od času dohadujeme o kritériu s právníky našich klientů."
 
 #: conversations/04_monarch/0401/0401_cv_donald:163
 msgctxt "conversations/04_monarch/0401/0401_cv_donald:163:DefaultText"
 msgid "Didn't think nothing or no one could take Berty down... He was like a titanium wall, you know? "
-msgstr ""
+msgstr "Nemyslel jsem si, že Bertyho nikdo nebo nic nesundá... Byl jako titanová zeď, víte? "
 
 #: conversations/04_monarch/0401/0401_cv_donald:164
 msgctxt "conversations/04_monarch/0401/0401_cv_donald:164:DefaultText"
 msgid "You?! You killed our CEO? Then you thought you brag about it? Best believe we'll be avenging him!"
-msgstr ""
+msgstr "Ty?! Zabil jsi našeho generálního ředitele? A pak jste si myslel, že se tím budete chlubit? Věřte, že ho pomstíme!"
 
 #: conversations/04_monarch/0401/0401_cv_donald:165
 msgctxt "conversations/04_monarch/0401/0401_cv_donald:165:DefaultText"
 msgid "Damned right! C3s, fire at will!"
-msgstr ""
+msgstr "To máš sakra pravdu! C3, střílejte podle libosti!"
 
 #: conversations/04_monarch/0401/0401_cv_donald:166
 msgctxt "conversations/04_monarch/0401/0401_cv_donald:166:DefaultText"
 msgid "Space me. Now someone's got to take over as CEO, and I ain't inclined to offer."
-msgstr ""
+msgstr "Space me. Teď musí někdo převzít funkci generálního ředitele a já se k tomu nesnížím."
 
 #: conversations/04_monarch/0401/0401_cv_donald:167
 msgctxt "conversations/04_monarch/0401/0401_cv_donald:167:DefaultText"
 msgid "Don't look to me. Addie's my pick."
-msgstr ""
+msgstr "Na mě se nedívejte. Addie je moje volba."
 
 #: conversations/04_monarch/0401/0401_cv_donald:169
 msgctxt "conversations/04_monarch/0401/0401_cv_donald:169:DefaultText"
 msgid "Sorry, not able to talk business right now. C3's suffered an... unfortunate staffing problem."
-msgstr ""
+msgstr "Omlouvám se, ale teď nemůžu mluvit o obchodu. C3 postihl... nešťastný personální problém."

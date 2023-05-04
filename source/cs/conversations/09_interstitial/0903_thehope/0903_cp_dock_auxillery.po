@@ -6,7 +6,7 @@ msgid "AUXILIARY POWER STATION\r\n"
 "- PATCH: Route an auxiliary power source to supplement UDL-002's reactor\r\n"
 "- STATUS: Power status report\r\n"
 "- LOGS: View archived logs, recorded audio transmissions, and/or internal messages"
-msgstr ""
+msgstr "AUXILIARY POWER STATION =========================== Dostupné funkce: - PATCH: UDL-002. - STATUS: - Směrování pomocného zdroje napájení k doplnění reaktoru UDL-002. - STATUS: Směrování pomocného zdroje napájení k doplnění reaktoru UDL-002: Hlášení o stavu napájení - LOGS: Zobrazení archivovaných protokolů, zaznamenaných zvukových přenosů a/nebo interních zpráv."
 
 #: conversations/09_interstitial/0903_thehope/0903_cp_dock_auxillery:8
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_dock_auxillery:8:DefaultText"
@@ -24,12 +24,12 @@ msgid "Systems due for regularly scheduled maintenance:\n"
 "- #M-3699: Macrowave clock has stopped\n"
 "- #M-3704: Macrowave is stuck on high power mode\n"
 "- #M-3745: Macrowave has stopped working entirely"
-msgstr ""
+msgstr "Systémy, u kterých je třeba provést pravidelnou údržbu: - motory: Regulátory výkonu: 22 056 dní po splatnosti: Chladicí systémy: 22 159 dní po splatnosti: 22 036 dní po splatnosti - Bezpečnostní automechanismy: 22 098 dní po splatnosti - Skip Drive: 21 985 dní po splatnosti - Úklid: 22 175 dní po splatnosti Nevyřízené pracovní příkazy: - #M-3697: Macrowave zkratoval poté, co si NĚJAKÝ IDIOT nechal vidličku na talíři - #M-3699: Hodiny Macrowave se zastavily - #M-3704: Macrowave se zasekl na režimu vysokého výkonu - #M-3745: Macrowave přestal úplně fungovat"
 
 #: conversations/09_interstitial/0903_thehope/0903_cp_dock_auxillery:9
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_dock_auxillery:9:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"
 
 #: conversations/09_interstitial/0903_thehope/0903_cp_dock_auxillery:12
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_dock_auxillery:12:DefaultText"
@@ -40,29 +40,29 @@ msgid "All hibernation storage systems are functioning within intended parameter
 "Storage Bay 8 is currently at 92% capacity.\r\n"
 "\r\n"
 "Storage Bay 12 is currently at 76% capacity."
-msgstr ""
+msgstr "Všechny hibernační úložné systémy fungují v rámci zamýšlených parametrů. Úložný prostor 5 má v současné době kapacitu 99 % Úložný prostor 8 má v současné době kapacitu 92 % Úložný prostor 12 má v současné době kapacitu 76 %."
 
 #: conversations/09_interstitial/0903_thehope/0903_cp_dock_auxillery:16
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_dock_auxillery:16:DefaultText"
 msgid "[Status]"
-msgstr ""
+msgstr "[Stav]"
 
 #: conversations/09_interstitial/0903_thehope/0903_cp_dock_auxillery:17
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_dock_auxillery:17:DefaultText"
 msgid "[Logs]"
-msgstr ""
+msgstr "[Deníky]"
 
 #: conversations/09_interstitial/0903_thehope/0903_cp_dock_auxillery:18
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_dock_auxillery:18:DefaultText"
 msgid "[Patch]"
-msgstr ""
+msgstr "[Záplata]"
 
 #: conversations/09_interstitial/0903_thehope/0903_cp_dock_auxillery:19
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_dock_auxillery:19:DefaultText"
 msgid "AUXILIARY POWER STATION\r\n"
 "===========================\r\n"
 "UDL-002's reactor is in power save mode. Only life support is powered."
-msgstr ""
+msgstr "PŘÍSLUŠENSTVÍ =========================== Reaktor UDL-002 je v úsporném režimu. Napájena je pouze podpora života."
 
 #: conversations/09_interstitial/0903_thehope/0903_cp_dock_auxillery:20
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_dock_auxillery:20:DefaultText"
@@ -74,19 +74,19 @@ msgid "AUXILIARY POWER STATION\r\n"
 "- Navigation\r\n"
 "- Communications\r\n"
 "- Security"
-msgstr ""
+msgstr "POMOCNÁ ENERGETICKÁ STANICE =========================== Reaktor UDL-002 je v pomocném režimu. Nyní jsou v provozu následující moduly: - Podpora života - Motory - Navigace - Komunikace - Bezpečnost."
 
 #: conversations/09_interstitial/0903_thehope/0903_cp_dock_auxillery:22
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_dock_auxillery:22:DefaultText"
 msgid "AUXILIARY POWER STATION\r\n"
 "===========================\r\n"
 "Error accessing archives. Available entries:"
-msgstr ""
+msgstr "AUXILIARY POWER STATION =========================== Chyba při přístupu k archivům. Dostupné záznamy:"
 
 #: conversations/09_interstitial/0903_thehope/0903_cp_dock_auxillery:23
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_dock_auxillery:23:DefaultText"
 msgid "[Pre-Launch Roll Call]"
-msgstr ""
+msgstr "[Předstartovní hovor]"
 
 #: conversations/09_interstitial/0903_thehope/0903_cp_dock_auxillery:24
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_dock_auxillery:24:DefaultText"
@@ -99,12 +99,20 @@ msgid "PRE-LAUNCH ROLL CALL RECORDING: 24 CREWMEMBERS\r\n"
 "NAVIGATION: Torrega, Rezi\r\n"
 "CHIEF ENGINEER: Nolda, Frank\r\n"
 "MEDICAL OFFICER: Volkov, Alexei"
-msgstr ""
+msgstr "PRE-LAUNCH ROLL CALL RECORDING: 24 CREWMEMBERS\r\n"
+"===========================\r\n"
+"PERSONNEL OF NOTABLE RANK\r\n"
+"===========================\r\n"
+"CAPTAIN: Hunte, Wilhelm\r\n"
+"FIRST MATE: Hunte, Donna\r\n"
+"NAVIGATION: Torrega, Rezi\r\n"
+"CHIEF ENGINEER: Nolda, Frank\r\n"
+"MEDICAL OFFICER: Volkov, Alexei"
 
 #: conversations/09_interstitial/0903_thehope/0903_cp_dock_auxillery:25
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_dock_auxillery:25:DefaultText"
 msgid "[Manual Log #L-01 - HUNTE, W.]"
-msgstr ""
+msgstr "[Příruční protokol č. L-01 - HUNTE, W.]"
 
 #: conversations/09_interstitial/0903_thehope/0903_cp_dock_auxillery:26
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_dock_auxillery:26:DefaultText"
@@ -117,12 +125,12 @@ msgid "Ten years.\r\n"
 "It's gonna take this ship ten years to reach Halcyon. An entire decade.\r\n"
 "\r\n"
 "It's a good thing UDL provided the rations, else she might have dumped our life savings into mixed nuts and freeze-dried meat."
-msgstr ""
+msgstr "Deset let. Nejdelší výlet, který jsme s Donnou podnikli, byl týdenní pobyt ve Stříbrných horách. I to ji vyvedlo z míry. Je to domácí typ. Vždycky byla. Zabalila si tolik jídla, že bychom na těch skalách mohli trčet měsíc a nejspíš bychom byli v pohodě. Jednou nás UDL poslala na teambuildingový seminář do města. Všechno zaplatili. Donna si ještě zabalila výživné tyčinky \"pro případ, že by se autobus porouchal.\" Téhle lodi bude trvat deset let, než doletí do Halcyonu. Celých deset let. Ještě že UDL poskytla příděly jídla, jinak by naše životní úspory možná vyhodila do směsi oříšků a lyofilizovaného masa."
 
 #: conversations/09_interstitial/0903_thehope/0903_cp_dock_auxillery:27
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_dock_auxillery:27:DefaultText"
 msgid "[Automated Audio Transcript #R-01]"
-msgstr ""
+msgstr "[Automatizovaný zvukový přepis #R-01]"
 
 #: conversations/09_interstitial/0903_thehope/0903_cp_dock_auxillery:28
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_dock_auxillery:28:DefaultText"
@@ -135,19 +143,19 @@ msgid "HUNTE, W: This is it, folks. \r\n"
 "HUNTE, D: Well... we'll see how you feel a year in.\r\n"
 "NOLDA, F: So, um, moment of silence? Or should we make a toast? Anything? It feels weird leaving Earth in the rear-view mirror.\r\n"
 "HUNTE, W: No. From now on, we look only forward."
-msgstr ""
+msgstr "HUNTE, W: To je ono, přátelé. NOLDA, F: Rozlučte se se starým Blueem, co? HUNTE, W: Jo. Jestli někdo chce... TORREGA, R: Dobře, že jste se rozloučili. VOLKOV, A: Proč tak zatrpkle, Rezi? Byla dobrým domovem. TORREGA, R: Dejte mi vesmírnou loď kdykoli v týdnu. LOVEC, D: No... uvidíme, jak se budete cítit po roce. NOLDA, F: Takže, ehm, chvilka ticha? Nebo si připijeme? Cokoliv? Je to divný pocit opouštět Zemi ve zpětném zrcátku. HUNTE, W: Ne. Odteď se díváme jen dopředu."
 
 #: conversations/09_interstitial/0903_thehope/0903_cp_dock_auxillery:29
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_dock_auxillery:29:DefaultText"
 msgid "[Back]"
-msgstr ""
+msgstr "[Zpět]"
 
 #: conversations/09_interstitial/0903_thehope/0903_cp_dock_auxillery:30
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_dock_auxillery:30:DefaultText"
 msgid "AUXILIARY POWER STATION\r\n"
 "===========================\r\n"
 "Power is now being routed from the docking bay. Reactor is now in auxiliary power mode."
-msgstr ""
+msgstr "PŘÍSLUŠENSKÁ NAPÁJECÍ STANICE =========================== Napájení je nyní vedeno z dokovacího prostoru. Reaktor je nyní v režimu pomocného napájení."
 
 #: conversations/09_interstitial/0903_thehope/0903_cp_dock_auxillery:31
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_dock_auxillery:31:DefaultText"
@@ -157,44 +165,44 @@ msgid "AUXILIARY POWER STATION\r\n"
 "- Power\r\n"
 "- Maintenance\r\n"
 "- Hibernation Chambers"
-msgstr ""
+msgstr "PŘÍSLUŠENSTVÍ =========================== K dispozici jsou hlášení o stavu následujících funkcí: - napájení - údržba - hibernační komory."
 
 #: conversations/09_interstitial/0903_thehope/0903_cp_dock_auxillery:32
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_dock_auxillery:32:DefaultText"
 msgid "[Power Status]"
-msgstr ""
+msgstr "[Stav napájení]"
 
 #: conversations/09_interstitial/0903_thehope/0903_cp_dock_auxillery:33
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_dock_auxillery:33:DefaultText"
 msgid "[Maintenance Status]"
-msgstr ""
+msgstr "[Stav údržby]"
 
 #: conversations/09_interstitial/0903_thehope/0903_cp_dock_auxillery:34
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_dock_auxillery:34:DefaultText"
 msgid "[Hibernation Storage Status]"
-msgstr ""
+msgstr "[Stav hibernace úložiště]"
 
 #: conversations/09_interstitial/0903_thehope/0903_cp_dock_auxillery:35
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_dock_auxillery:35:DefaultText"
 msgid "[Back]"
-msgstr ""
+msgstr "[Zpět]"
 
 #: conversations/09_interstitial/0903_thehope/0903_cp_dock_auxillery:36
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_dock_auxillery:36:DefaultText"
 msgid "[Continue]"
-msgstr ""
+msgstr "[Pokračovat]"
 
 #: conversations/09_interstitial/0903_thehope/0903_cp_dock_auxillery:37
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_dock_auxillery:37:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"
 
 #: conversations/09_interstitial/0903_thehope/0903_cp_dock_auxillery:38
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_dock_auxillery:38:DefaultText"
 msgid "[Continue]"
-msgstr ""
+msgstr "[Pokračovat]"
 
 #: conversations/09_interstitial/0903_thehope/0903_cp_dock_auxillery:39
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_dock_auxillery:39:DefaultText"
 msgid "[Continue]"
-msgstr ""
+msgstr "[Pokračovat]"

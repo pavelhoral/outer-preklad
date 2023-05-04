@@ -2,49 +2,49 @@
 msgctxt "chatter/parent__allnpcstates:1:DefaultText"
 msgid "<Searing pain, screaming> Ahhh! It burns!\r\n"
 ""
-msgstr ""
+msgstr "<Bolest v uších, křik> Ahhh! Pálí to!"
 
 #: chatter/parent__allnpcstates:2
 msgctxt "chatter/parent__allnpcstates:2:DefaultText"
 msgid "<Searing pain, screaming>  Get it off! Get it off!"
-msgstr ""
+msgstr "<Bolest v uších, křik> Sundejte to! Sundej to!"
 
 #: chatter/parent__allnpcstates:3
 msgctxt "chatter/parent__allnpcstates:3:DefaultText"
 msgid "<Pain grunt, gurgle> I'm bleeding!"
-msgstr ""
+msgstr "<Bolestivé chrčení, chrčení> Krvácím!"
 
 #: chatter/parent__allnpcstates:4
 msgctxt "chatter/parent__allnpcstates:4:DefaultText"
 msgid "<Panicked> Shit, shit!"
-msgstr ""
+msgstr "<Panicked> Sakra, sakra!"
 
 #: chatter/parent__allnpcstates:5
 msgctxt "chatter/parent__allnpcstates:5:DefaultText"
 msgid "<Searing pain> Ahhhh, my eyes!"
-msgstr ""
+msgstr "<Bolest v uších> Ach, moje oči!"
 
 #: chatter/parent__allnpcstates:6
 msgctxt "chatter/parent__allnpcstates:6:DefaultText"
 msgid "<Searing pain> Ahhhh, I can't see!"
-msgstr ""
+msgstr "<Bolest v uších> Ahhhhh, nevidím!"
 
 #: chatter/parent__allnpcstates:7
 msgctxt "chatter/parent__allnpcstates:7:DefaultText"
 msgid "<Screaming> GAHHHHHH!!!!! My legs!"
-msgstr ""
+msgstr "<Křik> GAHHHHHHH!!!!! Moje nohy!"
 
 #: chatter/parent__allnpcstates:8
 msgctxt "chatter/parent__allnpcstates:8:DefaultText"
 msgid "GAAAAAHHHH!!!!! MY AARRRRM!!"
-msgstr ""
+msgstr "GAAAAAHHHHH!!!!! MOJE AARRRRM!!"
 
 #: chatter/parent__allnpcstates:9
 msgctxt "chatter/parent__allnpcstates:9:DefaultText"
 msgid "Shit!"
-msgstr ""
+msgstr "Do prdele!"
 
 #: chatter/parent__allnpcstates:10
 msgctxt "chatter/parent__allnpcstates:10:DefaultText"
 msgid "Fuck!"
-msgstr ""
+msgstr "Kurva!"

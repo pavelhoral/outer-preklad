@@ -1,49 +1,49 @@
 #: conversations/03_playership/03_bs_adabarks_engineroom:2
 msgctxt "conversations/03_playership/03_bs_adabarks_engineroom:2:DefaultText"
 msgid "Engine two has been running hot lately. Captain, can you ask Parvati to check the coils again?"
-msgstr ""
+msgstr "Motor 2 v poslední době běží na plné obrátky. Kapitáne, můžete požádat Parvati, aby znovu zkontrolovala cívky?"
 
 #: conversations/03_playership/03_bs_adabarks_engineroom:3
 msgctxt "conversations/03_playership/03_bs_adabarks_engineroom:3:DefaultText"
 msgid "There is an increased amount of methane in the ship's air scrubbers."
-msgstr ""
+msgstr "V lodních čističkách vzduchu je zvýšené množství metanu."
 
 #: conversations/03_playership/03_bs_adabarks_engineroom:4
 msgctxt "conversations/03_playership/03_bs_adabarks_engineroom:4:DefaultText"
 msgid "Captain, are you expertly versed in the internal workings of an spacefaring ship? If not, I must request you please back away from the primary engine."
-msgstr ""
+msgstr "Kapitáne, vyznáte se ve vnitřním fungování vesmírné lodi? Pokud ne, musím vás požádat, abyste ustoupil od primárního motoru."
 
 #: conversations/03_playership/03_bs_adabarks_engineroom:7
 msgctxt "conversations/03_playership/03_bs_adabarks_engineroom:7:DefaultText"
 msgid "I am not the ship, but we have become so intertwined that sometimes I fancy the thrum of her engine is my heartbeat. Her hull, my body.  "
-msgstr ""
+msgstr "Já nejsem loď, ale jsme tak spjatí, že se mi někdy zdá, že tlukot jejího motoru je tlukotem mého srdce. Její trup, moje tělo.  "
 
 #: conversations/03_playership/03_bs_adabarks_engineroom:8
 msgctxt "conversations/03_playership/03_bs_adabarks_engineroom:8:DefaultText"
 msgid "Have you ever seen such a beautiful engine? She's a custom specification."
-msgstr ""
+msgstr "Už jste někdy viděli tak krásný motor? Je to zakázková specifikace."
 
 #: conversations/03_playership/03_bs_adabarks_engineroom:9
 msgctxt "conversations/03_playership/03_bs_adabarks_engineroom:9:DefaultText"
 msgid "Touching that is a good way to lose a hand. Moving machinery versus human flesh. Metal wins every time."
-msgstr ""
+msgstr "Dotknout se ho je dobrý způsob, jak přijít o ruku. Pohybující se stroje versus lidské tělo. Kov vždycky vyhraje."
 
 #: conversations/03_playership/03_bs_adabarks_engineroom:10
 msgctxt "conversations/03_playership/03_bs_adabarks_engineroom:10:DefaultText"
 msgid "Just a reminder that this engine will need servicing in another 10 billion kilometers."
-msgstr ""
+msgstr "Jen připomínáme, že tento motor bude potřebovat servis za dalších 10 miliard kilometrů."
 
 #: conversations/03_playership/03_bs_adabarks_engineroom:11
 msgctxt "conversations/03_playership/03_bs_adabarks_engineroom:11:DefaultText"
 msgid "Engine power output is nominal."
-msgstr ""
+msgstr "Výkon motoru je nominální."
 
 #: conversations/03_playership/03_bs_adabarks_engineroom:12
 msgctxt "conversations/03_playership/03_bs_adabarks_engineroom:12:DefaultText"
 msgid "Please keep arms and legs away from the turbine."
-msgstr ""
+msgstr "Držte ruce a nohy mimo dosah turbíny."
 
 #: conversations/03_playership/03_bs_adabarks_engineroom:13
 msgctxt "conversations/03_playership/03_bs_adabarks_engineroom:13:DefaultText"
 msgid "Engine temperature is in the normal range."
-msgstr ""
+msgstr "Teplota motoru je v normálním rozmezí."

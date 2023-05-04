@@ -1,89 +1,89 @@
 #: conversations/01_groundbreaker/01_cv_kristiansen_ike:1
 msgctxt "conversations/01_groundbreaker/01_cv_kristiansen_ike:1:DefaultText"
 msgid "You look like someone who's taken their share of cuts and bruises. Need some armor? Maybe it's a bit second-hand, but that's only a testament to its durability!"
-msgstr ""
+msgstr "Vypadáš jako někdo, kdo má za sebou spoustu šrámů a modřin. Potřebuješ nějaké brnění? Možná je trochu z druhé ruky, ale to jen svědčí o jeho odolnosti!"
 
 #: conversations/01_groundbreaker/01_cv_kristiansen_ike:5
 msgctxt "conversations/01_groundbreaker/01_cv_kristiansen_ike:5:DefaultText"
 msgid "Welcome. Looking to give a beating, or take one?"
-msgstr ""
+msgstr "Vítejte. Chceš si dát nebo vzít nakládačku?"
 
 #: conversations/01_groundbreaker/01_cv_kristiansen_ike:21
 msgctxt "conversations/01_groundbreaker/01_cv_kristiansen_ike:21:DefaultText"
 msgid "Let me see what you've got for sale."
-msgstr ""
+msgstr "Ukažte mi, co máte na prodej."
 
 #: conversations/01_groundbreaker/01_cv_kristiansen_ike:22
 msgctxt "conversations/01_groundbreaker/01_cv_kristiansen_ike:22:DefaultText"
 msgid "Tell me more about your wares."
-msgstr ""
+msgstr "Řekněte mi více o svém zboží."
 
 #: conversations/01_groundbreaker/01_cv_kristiansen_ike:24
 msgctxt "conversations/01_groundbreaker/01_cv_kristiansen_ike:24:DefaultText"
 msgid "We also have a line of specialized melee weapons. For those times you have to repel boarders, but don't want to risk a bullet through the hull."
-msgstr ""
+msgstr "Máme také řadu specializovaných zbraní pro boj zblízka. Pro případy, kdy musíte odrazit útočníky, ale nechcete riskovat průstřel trupu."
 
 #: conversations/01_groundbreaker/01_cv_kristiansen_ike:25
 msgctxt "conversations/01_groundbreaker/01_cv_kristiansen_ike:25:DefaultText"
 msgid "I should go."
-msgstr ""
+msgstr "Měl bych jít."
 
 #: conversations/01_groundbreaker/01_cv_kristiansen_ike:27
 msgctxt "conversations/01_groundbreaker/01_cv_kristiansen_ike:27:DefaultText"
 msgid "Are you a spacer yourself?"
-msgstr ""
+msgstr "Jste také členem týmu?"
 
 #: conversations/01_groundbreaker/01_cv_kristiansen_ike:29
 msgctxt "conversations/01_groundbreaker/01_cv_kristiansen_ike:29:DefaultText"
 msgid "Not me, but it's in my blood. After the Crossing, my family worked Eridanos. Indentured to the corporations."
-msgstr ""
+msgstr "Já ne, ale mám to v krvi. Po Přechodu moje rodina pracovala na Eridanosu. V nájemním vztahu ke korporacím."
 
 #: conversations/01_groundbreaker/01_cv_kristiansen_ike:39
 msgctxt "conversations/01_groundbreaker/01_cv_kristiansen_ike:39:DefaultText"
 msgid "Everything I sell is \"fresh from the forge.\" Technically, the metal formed billions of years ago. But it's freshly in this shape."
-msgstr ""
+msgstr "Vše, co prodávám, je \"čerstvé z kovárny\". Technicky vzato, kov vznikl před miliardami let. Ale je čerstvě v tomto tvaru."
 
 #: conversations/01_groundbreaker/01_cv_kristiansen_ike:81
 msgctxt "conversations/01_groundbreaker/01_cv_kristiansen_ike:81:DefaultText"
 msgid "I was born into corporate labor, but I'm the first one of my family to buy my way out. That's why I settled on Groundbreaker. It's the last bastion of freedom."
-msgstr ""
+msgstr "Narodil jsem se do korporátní práce, ale jsem první z rodiny, kdo se z ní vykoupil. Proto jsem se rozhodl pro společnost Groundbreaker. Je to poslední bašta svobody."
 
 #: conversations/01_groundbreaker/01_cv_kristiansen_ike:86
 msgctxt "conversations/01_groundbreaker/01_cv_kristiansen_ike:86:DefaultText"
 msgid "Itching to whack someone over the head? We can help with that."
-msgstr ""
+msgstr "Máte chuť někoho praštit po hlavě? S tím vám můžeme pomoci."
 
 #: conversations/01_groundbreaker/01_cv_kristiansen_ike:87
 msgctxt "conversations/01_groundbreaker/01_cv_kristiansen_ike:87:DefaultText"
 msgid "Go on."
-msgstr ""
+msgstr "Pokračujte."
 
 #: conversations/01_groundbreaker/01_cv_kristiansen_ike:88
 msgctxt "conversations/01_groundbreaker/01_cv_kristiansen_ike:88:DefaultText"
 msgid "They did what after the what?"
-msgstr ""
+msgstr "Co udělali po čem?"
 
 #: conversations/01_groundbreaker/01_cv_kristiansen_ike:89
 msgctxt "conversations/01_groundbreaker/01_cv_kristiansen_ike:89:DefaultText"
 msgid "Not from around here, are you? After leaving Earth, they worked a local gas giant from a floating refinery. Dangerous work. "
-msgstr ""
+msgstr "Nejste odsud, že ne? Po opuštění Země pracovali na místním plynovém gigantu z plovoucí rafinerie. Nebezpečná práce. "
 
 #: conversations/01_groundbreaker/01_cv_kristiansen_ike:91
 msgctxt "conversations/01_groundbreaker/01_cv_kristiansen_ike:91:DefaultText"
 msgid "Hey, look who it is! What'll it be?"
-msgstr ""
+msgstr "Hej, podívejte se, kdo to je! Co to bude?"
 
 #: conversations/01_groundbreaker/01_cv_kristiansen_ike:92
 msgctxt "conversations/01_groundbreaker/01_cv_kristiansen_ike:92:DefaultText"
 msgid "Oo! You're here. It'll do a lot for my credit in the Promenade if people see you buying something. So, what'll it be?"
-msgstr ""
+msgstr "Oo! Jste tady. Hodně mi na Promenádě pomůže, když tě lidé uvidí, jak si něco kupuješ. Tak co to bude?"
 
 #: conversations/01_groundbreaker/01_cv_kristiansen_ike:93
 msgctxt "conversations/01_groundbreaker/01_cv_kristiansen_ike:93:DefaultText"
 msgid "You've got some guts showing your face around the Promenade."
-msgstr ""
+msgstr "Máš odvahu se na Promenádě ukázat."
 
 #: conversations/01_groundbreaker/01_cv_kristiansen_ike:94
 msgctxt "conversations/01_groundbreaker/01_cv_kristiansen_ike:94:DefaultText"
 msgid "Make it quick. People might not like seeing me talk to you."
-msgstr ""
+msgstr "Udělejte to rychle. Lidem by se nemuselo líbit, že s tebou mluvím."

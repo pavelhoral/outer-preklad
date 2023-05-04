@@ -4,7 +4,7 @@ msgid "COMMUNICATIONS SUBSTATION\r\n"
 "===========================\r\n"
 "Power status: Auxiliary\r\n"
 "Communications status: Offline"
-msgstr ""
+msgstr "KOMUNIKAČNÍ SUBSTANICE =========================== Stav napájení: Stav komunikace: Offline"
 
 #: conversations/09_interstitial/0903_thehope/0903_cp_power_reroute:3
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_power_reroute:3:DefaultText"
@@ -12,17 +12,17 @@ msgid "COMMUNICATIONS SUBSTATION\r\n"
 "===========================\r\n"
 "Power status: Auxiliary\r\n"
 "Communications status: Auxiliary"
-msgstr ""
+msgstr "KOMUNIKAČNÍ SUBSTANICE =========================== Stav napájení: Stav komunikace: Pomocný"
 
 #: conversations/09_interstitial/0903_thehope/0903_cp_power_reroute:9
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_power_reroute:9:DefaultText"
 msgid "[Route Communications Through the Unreliable]"
-msgstr ""
+msgstr "[Směrování komunikace přes nespolehlivé]"
 
 #: conversations/09_interstitial/0903_thehope/0903_cp_power_reroute:13
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_power_reroute:13:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"
 
 #: conversations/09_interstitial/0903_thehope/0903_cp_power_reroute:14
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_power_reroute:14:DefaultText"
@@ -32,24 +32,24 @@ msgid "COMMUNICATIONS SUBSTATION\r\n"
 "Communications status: Offline\r\n"
 "\r\n"
 "Communications cannot be powered until the reactor is repaired or an auxiliary power source is provided."
-msgstr ""
+msgstr "KOMUNIKAČNÍ SUBSTANICE =========================== Stav napájení: Stav komunikace: Komunikace nemůže být napájena, dokud nebude opraven reaktor nebo zajištěn pomocný zdroj energie."
 
 #: conversations/09_interstitial/0903_thehope/0903_cp_power_reroute:15
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_power_reroute:15:DefaultText"
 msgid "[Logs]"
-msgstr ""
+msgstr "[Deníky]"
 
 #: conversations/09_interstitial/0903_thehope/0903_cp_power_reroute:16
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_power_reroute:16:DefaultText"
 msgid "COMMUNICATIONS SUBSTATION\r\n"
 "===========================\r\n"
 "Error accessing archives. Available entries:"
-msgstr ""
+msgstr "COMMUNICATIONS SUBSTATION =========================== Chyba při přístupu k archivům. Dostupné záznamy:"
 
 #: conversations/09_interstitial/0903_thehope/0903_cp_power_reroute:17
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_power_reroute:17:DefaultText"
 msgid "[Automated Audio Transcript #R-2643]"
-msgstr ""
+msgstr "[Automatizovaný zvukový přepis #R-2643]"
 
 #: conversations/09_interstitial/0903_thehope/0903_cp_power_reroute:18
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_power_reroute:18:DefaultText"
@@ -62,17 +62,17 @@ msgid "Begin Audio Log. Is this thing working? I said begin audio -- damn it.\r\
 "Don't know how much more of this I can take. Four hours of sleep in the last seventy-two. Can still hear their screaming in my nightmares.\r\n"
 "\r\n"
 "Test Subject One-Twelve. Real name Harley Stanton. Age thirty-nine. Enjoyed singing. I'm sorry, Harley. I couldn't save you."
-msgstr ""
+msgstr "Zahájení zvukového záznamu. Funguje to? Řekl jsem začít audio... Sakra. Tohle je... Tady P. Welles. Ano, pojďme na to. Pokračuje práce na testovacím subjektu 1-12, vyzvednutém z hibernační komory 8. Čas vytažení - řekněme před dvěma a půl hodinami. Čas smrti šest minut předtím. Explozivní buněčná smrt. Můj úhlavní nepřítel. Pronásleduje každý můj pokus o oživení našich zmrzlých kolonistů. Zesměšňuje mé postupy. Vyzkoušel jsem všechny kombinace všech dostupných chemikálií. Zkoušel jsem všechny možné varianty rozmrazování. Postupné tání. Bleskové rozmrazení. Nejdříve končetiny. Nevím, kolik toho ještě vydržím. Čtyři hodiny spánku za posledních dvaasedmdesát. Pořád slyším jejich křik ve svých nočních můrách. Testovaný subjekt 1-12. Skutečné jméno Harley Stanton. Věk třicet devět let. Rád zpíval. Je mi to líto, Harley. Nemohl jsem tě zachránit."
 
 #: conversations/09_interstitial/0903_thehope/0903_cp_power_reroute:19
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_power_reroute:19:DefaultText"
 msgid "[Automated Audio Transcript #R-2643]"
-msgstr ""
+msgstr "[Automatizovaný zvukový přepis #R-2643]"
 
 #: conversations/09_interstitial/0903_thehope/0903_cp_power_reroute:20
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_power_reroute:20:DefaultText"
 msgid "[Back]"
-msgstr ""
+msgstr "[Zpět]"
 
 #: conversations/09_interstitial/0903_thehope/0903_cp_power_reroute:21
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_power_reroute:21:DefaultText"
@@ -89,19 +89,19 @@ msgid "--begin audio log as soon as I say the words begin audio log. What a ridi
 "Damned slippery scalpel. Who makes these anyway? Spacer's Choice? \r\n"
 "\r\n"
 "All right. I've got no choice. I'm going in."
-msgstr ""
+msgstr "-začít zvukový záznam, jakmile řeknu slova začít zvukový záznam. To je ale směšně nepohodlný program. Co se stane, když jen tak náhodou vyslovím větu audio log? Nevím, proč mluvím se zamrzlým kolonistou. Ztrácíš nervy, Phineasi. Soustřeď se. Soustřeď se. No tak, udělej ten řez. A je to tady. Výborně. Dobře, dobře, můj frigidní příteli. Porušil jsi moratorium na přijímání potravy 36 hodin před hibernací, že? Díky zákonu za jednorázové rukavice. Teď už klid. Klid. Aha. To není dobré. To rozhodně není dobré. Zatracený kluzký skalpel. Kdo je vůbec vyrábí? Spacer's Choice? Dobře. Nemám na výběr. Jdu dovnitř."
 
 #: conversations/09_interstitial/0903_thehope/0903_cp_power_reroute:23
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_power_reroute:23:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"
 
 #: conversations/09_interstitial/0903_thehope/0903_cp_power_reroute:24
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_power_reroute:24:DefaultText"
 msgid "[Continue]"
-msgstr ""
+msgstr "[Pokračovat]"
 
 #: conversations/09_interstitial/0903_thehope/0903_cp_power_reroute:25
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_power_reroute:25:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"

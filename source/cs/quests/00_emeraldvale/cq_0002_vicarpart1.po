@@ -1,54 +1,54 @@
 #: quests/00_emeraldvale/cq_0002_vicarpart1:0
 msgctxt "quests/00_emeraldvale/cq_0002_vicarpart1:0:DefaultText"
 msgid "The Illustrated Manual"
-msgstr ""
+msgstr "Ilustrovaná příručka"
 
 #: quests/00_emeraldvale/cq_0002_vicarpart1:1
 msgctxt "quests/00_emeraldvale/cq_0002_vicarpart1:1:DefaultText"
 msgid "Search the Collector's Domicile"
-msgstr ""
+msgstr "Vyhledávání v místě bydliště sběratele"
 
 #: quests/00_emeraldvale/cq_0002_vicarpart1:2
 msgctxt "quests/00_emeraldvale/cq_0002_vicarpart1:2:DefaultText"
 msgid "Return to the Vicar"
-msgstr ""
+msgstr "Návrat k faráři"
 
 #: quests/00_emeraldvale/cq_0002_vicarpart1:6
 msgctxt "quests/00_emeraldvale/cq_0002_vicarpart1:6:DefaultText"
 msgid "Retrieve the Journal"
-msgstr ""
+msgstr "Získání časopisu"
 
 #: quests/00_emeraldvale/cq_0002_vicarpart1:10000
 msgctxt "quests/00_emeraldvale/cq_0002_vicarpart1:10000:DefaultText"
 msgid "Vicar Maximillian DeSoto has asked you to find a banned heretical book, the Journal of M. Bakonu."
-msgstr ""
+msgstr "Vikář Maxmilián DeSoto vás požádal, abyste našli zakázanou kacířskou knihu Deník M. Bakonu."
 
 #: quests/00_emeraldvale/cq_0002_vicarpart1:10001
 msgctxt "quests/00_emeraldvale/cq_0002_vicarpart1:10001:DefaultText"
 msgid "Max says the journal was last possessed by a book collector whose residence was part of a small community directly north of Edgewater. He has marked the location on your map."
-msgstr ""
+msgstr "Max říká, že deník naposledy vlastnil sběratel knih, jehož sídlo bylo součástí malé komunity přímo na sever od Edgewateru. Místo označil na mapě."
 
 #: quests/00_emeraldvale/cq_0002_vicarpart1:10002
 msgctxt "quests/00_emeraldvale/cq_0002_vicarpart1:10002:DefaultText"
 msgid "You've found the Journal of M. Bakonu. Return to the Vicar."
-msgstr ""
+msgstr "Našli jste časopis M. Bakonu. Vraťte se k faráři."
 
 #: quests/00_emeraldvale/cq_0002_vicarpart1:10006
 msgctxt "quests/00_emeraldvale/cq_0002_vicarpart1:10006:DefaultText"
 msgid "When the collector had to abandon his home, he hid the banned book in a small cave along with some other contraband. Travel to the cave and retrieve it."
-msgstr ""
+msgstr "Když musel sběratel opustit svůj domov, ukryl zakázanou knihu v malé jeskyni spolu s dalším kontrabandem. Vydejte se do jeskyně a získejte ji zpět."
 
 #: quests/00_emeraldvale/cq_0002_vicarpart1:20001
 msgctxt "quests/00_emeraldvale/cq_0002_vicarpart1:20001:DefaultText"
 msgid "You found an entrance to the river cave mentioned in the collector's note. The book must lie somewhere within."
-msgstr ""
+msgstr "Našel jsi vchod do říční jeskyně zmíněné v poznámce sběratele. Kniha musí ležet někde uvnitř."
 
 #: quests/00_emeraldvale/cq_0002_vicarpart1:30000
 msgctxt "quests/00_emeraldvale/cq_0002_vicarpart1:30000:DefaultText"
 msgid "The Vicar was initially quite pleased to receive the book, but quickly became frustrated when he found he could not read it."
-msgstr ""
+msgstr "Farář byl zpočátku velmi potěšen, když knihu obdržel, ale rychle ho zklamalo, když zjistil, že ji nemůže přečíst."
 
 #: quests/00_emeraldvale/cq_0002_vicarpart1:30001
 msgctxt "quests/00_emeraldvale/cq_0002_vicarpart1:30001:DefaultText"
 msgid "Max is dead, and won't be needing that book any longer."
-msgstr ""
+msgstr "Max je mrtvý a tu knihu už nebude potřebovat."

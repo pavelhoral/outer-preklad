@@ -1,239 +1,239 @@
 #: conversations/02_terra2/0202_byzantium/0202_cv_clothing_store_clerk:1
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_clothing_store_clerk:1:DefaultText"
 msgid "How can I help you?"
-msgstr ""
+msgstr "Jak vám mohu pomoci?"
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_clothing_store_clerk:2
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_clothing_store_clerk:2:DefaultText"
 msgid "Let me see what you've got for sale."
-msgstr ""
+msgstr "Ukažte mi, co máte na prodej."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_clothing_store_clerk:3
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_clothing_store_clerk:3:DefaultText"
 msgid "Take care."
-msgstr ""
+msgstr "Dávejte na sebe pozor."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_clothing_store_clerk:10
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_clothing_store_clerk:10:DefaultText"
 msgid "What happened to Celeste?"
-msgstr ""
+msgstr "Co se stalo Celeste?"
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_clothing_store_clerk:11
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_clothing_store_clerk:11:DefaultText"
 msgid "I don't know who you're talking about."
-msgstr ""
+msgstr "Nevím, o kom mluvíte."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_clothing_store_clerk:12
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_clothing_store_clerk:12:DefaultText"
 msgid "Welcome to Jolicoeur's Haberdashery, now under new management. I'm Malini Gupta. "
-msgstr ""
+msgstr "Vítejte v galanterii Jolicoeur's, která je nyní pod novým vedením. Jsem Malini Gupta. "
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_clothing_store_clerk:14
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_clothing_store_clerk:14:DefaultText"
 msgid "Her name's on the damn sign."
-msgstr ""
+msgstr "Její jméno je na té zatracené ceduli."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_clothing_store_clerk:15
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_clothing_store_clerk:15:DefaultText"
 msgid "Never mind."
-msgstr ""
+msgstr "Nevadí."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_clothing_store_clerk:16
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_clothing_store_clerk:16:DefaultText"
 msgid "Celeste Jolicoeur. Proprietor. Runs the shop. Owes me a suit."
-msgstr ""
+msgstr "Celeste Jolicoeur. Majitelka. Provozuje obchod. Dluží mi oblek."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_clothing_store_clerk:17
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_clothing_store_clerk:17:DefaultText"
 msgid "Oh. This is going to be one of those conversations."
-msgstr ""
+msgstr "Oh. Tohle bude jeden z těch rozhovorů."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_clothing_store_clerk:18
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_clothing_store_clerk:18:DefaultText"
 msgid "Celeste Jolly-something. She was gonna make me a suit."
-msgstr ""
+msgstr "Celeste Jolly-něco. Chtěla mi ušít oblek."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_clothing_store_clerk:19
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_clothing_store_clerk:19:DefaultText"
 msgid "The Jolicoeur brand has been associated with fine tailoring for generations."
-msgstr ""
+msgstr "Značka Jolicoeur je již po generace spojována s jemným krejčovstvím."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_clothing_store_clerk:20
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_clothing_store_clerk:20:DefaultText"
 msgid "Look, could you please just lay off the questions? I don't want to get in trouble. Please."
-msgstr ""
+msgstr "Podívej, mohl bys prosím přestat s těmi otázkami? Nechci se dostat do problémů. Prosím."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_clothing_store_clerk:21
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_clothing_store_clerk:21:DefaultText"
 msgid "I - I don't know anyone by that name, and definitely haven't associated with anyone by that name. If you're expecting a suit, there might be one in the back rooms."
-msgstr ""
+msgstr "Já - neznám nikoho s tímto jménem a rozhodně jsem se s nikým s tímto jménem nestýkal. Pokud očekáváte oblek, mohl by být v zadních místnostech."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_clothing_store_clerk:25
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_clothing_store_clerk:25:DefaultText"
 msgid "They killed Celeste. Why are you so calm?"
-msgstr ""
+msgstr "Celestu zabili. Proč jsi tak klidný?"
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_clothing_store_clerk:42
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_clothing_store_clerk:42:DefaultText"
 msgid "My engineer's going on a date, and she needs a fine outfit."
-msgstr ""
+msgstr "Moje inženýrka jde na rande a potřebuje pěkné oblečení."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_clothing_store_clerk:43
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_clothing_store_clerk:43:DefaultText"
 msgid "You don't gotta be so forward about my reasons, Captain."
-msgstr ""
+msgstr "Nemusíte být tak upřímný, pokud jde o mé důvody, kapitáne."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_clothing_store_clerk:44
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_clothing_store_clerk:44:DefaultText"
 msgid "Turn around, please. Little slower. There we are. Hm."
-msgstr ""
+msgstr "Otočte se, prosím. Trochu pomaleji. Tady jsme. Hm."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_clothing_store_clerk:45
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_clothing_store_clerk:45:DefaultText"
 msgid "That's all I gotta do? I feel like I'm in a doctor's exam."
-msgstr ""
+msgstr "To je vše, co musím udělat? Připadám si jako na lékařské prohlídce."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_clothing_store_clerk:47
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_clothing_store_clerk:47:DefaultText"
 msgid "I know just what would suit. Here's an estimate, including materials, labor, and our standard licensing fees."
-msgstr ""
+msgstr "Vím, co by se k tomu hodilo. Tady je odhad včetně materiálu, práce a našich standardních licenčních poplatků."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_clothing_store_clerk:48
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_clothing_store_clerk:48:DefaultText"
 msgid "I can cover <oeiglobal>CQ_Token_Parvati_Dress_Price</oeiglobal> bits."
-msgstr ""
+msgstr "Mohu pokrýt <oeiglobal>CQ_Token_Parvati_Dress_Price</oeiglobal> bity."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_clothing_store_clerk:49
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_clothing_store_clerk:49:DefaultText"
 msgid "Excellent. I'll punch the patterns in and spin the machines up. It should only take an hour..."
-msgstr ""
+msgstr "Vynikající. Vypíchnu vzory a roztočím stroje. Mělo by to trvat jen hodinu..."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_clothing_store_clerk:50
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_clothing_store_clerk:50:DefaultText"
 msgid "...All done. Custom fit, but it might be snug around the thighs and shoulders. You're a touch more muscular than our usual clientele."
-msgstr ""
+msgstr "...Hotovo. Přizpůsobení na míru, ale může být těsné kolem stehen a ramen. Jste trochu svalnatější než naše obvyklá klientela."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_clothing_store_clerk:55
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_clothing_store_clerk:55:DefaultText"
 msgid "...There you are, Captain. Assuming her measurements were accurate, it shoudn't require any tailoring."
-msgstr ""
+msgstr "...Tady jste, kapitáne. Za předpokladu, že její míry byly přesné, by to nemělo vyžadovat žádné úpravy."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_clothing_store_clerk:56
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_clothing_store_clerk:56:DefaultText"
 msgid "I guess we can swing <oeiglobal>CQ_Token_Parvati_Dress_Price</oeiglobal> bits."
-msgstr ""
+msgstr "Myslím, že se můžeme rozmáchnout <oeiglobal>CQ_Token_Parvati_Dress_Price</oeiglobal> bity."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_clothing_store_clerk:57
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_clothing_store_clerk:57:DefaultText"
 msgid "I'm pleased we could come to an accommodation."
-msgstr ""
+msgstr "Jsem rád, že jsme se dohodli."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_clothing_store_clerk:58
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_clothing_store_clerk:58:DefaultText"
 msgid "She's an engineer. You think she can afford that? She needs to impress her true love."
-msgstr ""
+msgstr "Je inženýrka. Myslíš, že si to může dovolit? Potřebuje zapůsobit na svou pravou lásku."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_clothing_store_clerk:59
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_clothing_store_clerk:59:DefaultText"
 msgid "How quaint. Not a marriage contract, but actual... romance?"
-msgstr ""
+msgstr "Jak kuriózní. Ne manželská smlouva, ale skutečný... románek?"
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_clothing_store_clerk:60
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_clothing_store_clerk:60:DefaultText"
 msgid "Is that so strange?"
-msgstr ""
+msgstr "Je to tak divné?"
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_clothing_store_clerk:61
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_clothing_store_clerk:61:DefaultText"
 msgid "You're either not from Byzantium, or you've read far too many ten-bit novels."
-msgstr ""
+msgstr "Buď nejsi z Byzance, nebo jsi četl příliš mnoho románů o deseti kouscích."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_clothing_store_clerk:62
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_clothing_store_clerk:62:DefaultText"
 msgid "This is the best I can do for you, Captain. Do mind the fine print - if this outfit appears on aetherwave, you'll be in violation of Jolicoeur's copyrights."
-msgstr ""
+msgstr "To je to nejlepší, co pro vás mohu udělat, kapitáne. Dávejte pozor na drobné písmo - pokud se tento outfit objeví na aetherwave, porušíte Jolicoeurova autorská práva."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_clothing_store_clerk:63
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_clothing_store_clerk:63:DefaultText"
 msgid "Fees for \"licensing and copyright?\" Cut the bullshit. Show me a fair price. Now."
-msgstr ""
+msgstr "Poplatky za \"licence a autorská práva\"? Nechte si ty kecy. Ukažte mi férovou cenu. Teď."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_clothing_store_clerk:64
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_clothing_store_clerk:64:DefaultText"
 msgid "Captain, please don't do this again."
-msgstr ""
+msgstr "Kapitáne, prosím, už to nedělejte."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_clothing_store_clerk:65
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_clothing_store_clerk:65:DefaultText"
 msgid "Boss is just trying to get you a fair price from this fancy-pants for your, uh - your fancy pants."
-msgstr ""
+msgstr "Šéf se z vás jen snaží dostat férovou cenu za vaše, ehm - vaše nóbl kalhoty."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_clothing_store_clerk:66
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_clothing_store_clerk:66:DefaultText"
 msgid "Captain, please don't do this again."
-msgstr ""
+msgstr "Kapitáne, prosím, už to nedělejte."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_clothing_store_clerk:67
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_clothing_store_clerk:67:DefaultText"
 msgid "Shop around. My prices are quite fair. But I can trim a few standard options, and discount on my own labor."
-msgstr ""
+msgstr "Nakupujte v okolí. Moje ceny jsou docela férové. Ale mohu zkrátit několik standardních možností a slevu na vlastní práci."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_clothing_store_clerk:68
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_clothing_store_clerk:68:DefaultText"
 msgid "Hold up. Did you actually measure her for this outfit? I didn't see any measuring tape."
-msgstr ""
+msgstr "Počkejte. Opravdu jsi ji měřil, aby se mohla obléknout? Neviděl jsem žádný metr."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_clothing_store_clerk:69
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_clothing_store_clerk:69:DefaultText"
 msgid "Certainly. There's an automated system installed in the showroom. I just aimed the cameras at her and switched on."
-msgstr ""
+msgstr "Jistě. V showroomu je nainstalován automatický systém. Jen jsem na ni namířil kamery a zapnul je."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_clothing_store_clerk:70
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_clothing_store_clerk:70:DefaultText"
 msgid "Between you and me, the former owner liked to claim she did measurements by eye. Just to make herself sound like some manner of auteur."
-msgstr ""
+msgstr "Mezi námi, bývalá majitelka ráda tvrdila, že měření prováděla od oka. Jen aby vypadala jako autorka."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_clothing_store_clerk:71
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_clothing_store_clerk:71:DefaultText"
 msgid "I'll think it over and get back to you."
-msgstr ""
+msgstr "Promyslím si to a ozvu se vám."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_clothing_store_clerk:72
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_clothing_store_clerk:72:DefaultText"
 msgid "I'll keep the measurements and estimate on file for you. Let me know if I can help you."
-msgstr ""
+msgstr "Rozměry a odhad si nechám pro vás. Dejte mi vědět, jestli vám mohu pomoci."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_clothing_store_clerk:73
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_clothing_store_clerk:73:DefaultText"
 msgid "I'd be happy to help her out, but she'll need to come in personally. Unless you happen to have all her measurements. Inseams and whatnot."
-msgstr ""
+msgstr "Rád jí pomůžu, ale musí přijít osobně. Pokud náhodou nemáte všechny její míry. Švy a tak."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_clothing_store_clerk:75
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_clothing_store_clerk:75:DefaultText"
 msgid "Let's talk about that outfit for my engineer."
-msgstr ""
+msgstr "Promluvme si o tom oblečení pro mého inženýra."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_clothing_store_clerk:76
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_clothing_store_clerk:76:DefaultText"
 msgid "Unless you bring her in, there's no way I can do a proper fitting."
-msgstr ""
+msgstr "Pokud ji nepřivedete, nemám šanci ji pořádně upravit."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_clothing_store_clerk:77
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_clothing_store_clerk:77:DefaultText"
 msgid "Here's our last estimate."
-msgstr ""
+msgstr "Zde je náš poslední odhad."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_clothing_store_clerk:79
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_clothing_store_clerk:79:DefaultText"
 msgid "Ah, seems we have her measurements on file. Excellent."
-msgstr ""
+msgstr "Aha, zdá se, že máme její míry v souboru. Výborně."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_clothing_store_clerk:80
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_clothing_store_clerk:80:DefaultText"
 msgid "It looks real pretty, ma'am. Reminds me of the rocks by my home. Thank you."
-msgstr ""
+msgstr "Vypadá to moc hezky, madam. Připomíná mi skály u mého domu. Děkuji."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_clothing_store_clerk:81
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_clothing_store_clerk:81:DefaultText"
 msgid "You're definitely not from around here. But enjoy your evening."
-msgstr ""
+msgstr "Určitě nejste zdejší. Ale užijte si večer."

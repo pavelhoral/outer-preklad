@@ -1,134 +1,134 @@
 #: quests/04_monarch/ta_0402_grimmtomorrow:0
 msgctxt "quests/04_monarch/ta_0402_grimmtomorrow:0:DefaultText"
 msgid "The Grimm Tomorrow"
-msgstr ""
+msgstr "Grimmův zítřek"
 
 #: quests/04_monarch/ta_0402_grimmtomorrow:1
 msgctxt "quests/04_monarch/ta_0402_grimmtomorrow:1:DefaultText"
 msgid "Check with Celia"
-msgstr ""
+msgstr "Informujte se u Celie"
 
 #: quests/04_monarch/ta_0402_grimmtomorrow:2
 msgctxt "quests/04_monarch/ta_0402_grimmtomorrow:2:DefaultText"
 msgid "Speak with Velma at the Warehouse"
-msgstr ""
+msgstr "Promluvte si s Velmou ve skladišti"
 
 #: quests/04_monarch/ta_0402_grimmtomorrow:3
 msgctxt "quests/04_monarch/ta_0402_grimmtomorrow:3:DefaultText"
 msgid "Get Grimm's Tossball Poster"
-msgstr ""
+msgstr "Získat plakát Grimm's Tossball"
 
 #: quests/04_monarch/ta_0402_grimmtomorrow:7
 msgctxt "quests/04_monarch/ta_0402_grimmtomorrow:7:DefaultText"
 msgid "Deliver the Tossball Poster to Grimm"
-msgstr ""
+msgstr "Doručení plakátu s házecími míčky Grimmovi"
 
 #: quests/04_monarch/ta_0402_grimmtomorrow:15
 msgctxt "quests/04_monarch/ta_0402_grimmtomorrow:15:DefaultText"
 msgid "Speak to Grimm"
-msgstr ""
+msgstr "Promluvte si s Grimmem"
 
 #: quests/04_monarch/ta_0402_grimmtomorrow:10000
 msgctxt "quests/04_monarch/ta_0402_grimmtomorrow:10000:DefaultText"
 msgid "Grimm is waiting for a tossball poster signed by the great Bertie \"Black Hole\" Holcomb."
-msgstr ""
+msgstr "Grimm čeká na plakát s podpisem velkého Bertieho \"Black Hole\" Holcomba."
 
 #: quests/04_monarch/ta_0402_grimmtomorrow:10001
 msgctxt "quests/04_monarch/ta_0402_grimmtomorrow:10001:DefaultText"
 msgid "Celia, who works with Sanjar Nandi in the MSI building, should know about the status of Grimm's poster."
-msgstr ""
+msgstr "Celia, která pracuje se Sanjarem Nandim v budově MSI, by měla vědět o stavu Grimmova plakátu."
 
 #: quests/04_monarch/ta_0402_grimmtomorrow:10002
 msgctxt "quests/04_monarch/ta_0402_grimmtomorrow:10002:DefaultText"
 msgid "Celia sent you to Velma Ballard, manager of Stellar Bay's warehouse. She receives all of SubLight's incoming shipments."
-msgstr ""
+msgstr "Celia vás poslala za Velmou Ballardovou, vedoucí skladu Stellar Bay. Přijímá všechny příchozí zásilky společnosti SubLight."
 
 #: quests/04_monarch/ta_0402_grimmtomorrow:10003
 msgctxt "quests/04_monarch/ta_0402_grimmtomorrow:10003:DefaultText"
 msgid "Velma received another offer for the tossball poster from Nell, who runs a betting parlor in Stellar Bay."
-msgstr ""
+msgstr "Velma dostala další nabídku na plakát s házecími míčky od Nell, která provozuje sázkovou kancelář ve Stellar Bay."
 
 #: quests/04_monarch/ta_0402_grimmtomorrow:10007
 msgctxt "quests/04_monarch/ta_0402_grimmtomorrow:10007:DefaultText"
 msgid "Now that you have the signed tossball poster, deliver it to Grimm by Stellar Bay's landing pad."
-msgstr ""
+msgstr "Teď, když máš podepsaný plakát s míčem, doruč ho Grimmovi na přistávací plochu Hvězdné zátoky."
 
 #: quests/04_monarch/ta_0402_grimmtomorrow:10015
 msgctxt "quests/04_monarch/ta_0402_grimmtomorrow:10015:DefaultText"
 msgid "With Celia dead, you'll need to check in with Grimm to determine where else to look for the tossball poster."
-msgstr ""
+msgstr "Když je Celia mrtvá, budeš se muset spojit s Grimmem a zjistit, kde ještě hledat plakát s házecími míčky."
 
 #: quests/04_monarch/ta_0402_grimmtomorrow:20000
 msgctxt "quests/04_monarch/ta_0402_grimmtomorrow:20000:DefaultText"
 msgid "Velma is keeping the poster locked up in her office until Nell pays her."
-msgstr ""
+msgstr "Velma má plakát zamčený ve své kanceláři, dokud jí Nell nezaplatí."
 
 #: quests/04_monarch/ta_0402_grimmtomorrow:20001
 msgctxt "quests/04_monarch/ta_0402_grimmtomorrow:20001:DefaultText"
 msgid "Nell says she'd be willing to give up the poster if you find her lost shipment of tossball jerseys. They should be near Amber Heights."
-msgstr ""
+msgstr "Nell říká, že by byla ochotná vzdát se plakátu, kdybys našel její ztracenou zásilku dresů. Měly by být poblíž Amber Heights."
 
 #: quests/04_monarch/ta_0402_grimmtomorrow:20002
 msgctxt "quests/04_monarch/ta_0402_grimmtomorrow:20002:DefaultText"
 msgid "Nell agreed to give up the poster."
-msgstr ""
+msgstr "Nell souhlasila, že se plakátu vzdá."
 
 #: quests/04_monarch/ta_0402_grimmtomorrow:20004
 msgctxt "quests/04_monarch/ta_0402_grimmtomorrow:20004:DefaultText"
 msgid "You found the tossball jerseys for Nell."
-msgstr ""
+msgstr "Našel jsi dresy pro Nell."
 
 #: quests/04_monarch/ta_0402_grimmtomorrow:20005
 msgctxt "quests/04_monarch/ta_0402_grimmtomorrow:20005:DefaultText"
 msgid "Nell's dead. She won't need that poster anymore."
-msgstr ""
+msgstr "Nell je mrtvá. Ten plakát už nebude potřebovat."
 
 #: quests/04_monarch/ta_0402_grimmtomorrow:30000
 msgctxt "quests/04_monarch/ta_0402_grimmtomorrow:30000:DefaultText"
 msgid "You convinced Nell to withdraw her offer for the tossball poster. Grimm was overjoyed to receive his prized collectible."
-msgstr ""
+msgstr "Přesvědčil jsi Nell, aby stáhla svou nabídku na plakát s házecími míčky. Grimm měl radost, že dostal svůj cenný sběratelský předmět."
 
 #: quests/04_monarch/ta_0402_grimmtomorrow:30001
 msgctxt "quests/04_monarch/ta_0402_grimmtomorrow:30001:DefaultText"
 msgid "You persuaded Velma to honor her original agreement with Grimm. He was overjoyed to receive his prized collectible."
-msgstr ""
+msgstr "Přesvědčil jsi Velmu, aby dodržela původní dohodu s Grimmem. Ten byl radostí bez sebe, když obdržel svůj cenný sběratelský předmět."
 
 #: quests/04_monarch/ta_0402_grimmtomorrow:30002
 msgctxt "quests/04_monarch/ta_0402_grimmtomorrow:30002:DefaultText"
 msgid "You got the tossball poster from Velma's office and delivered it to Grimm. He was overjoyed to receive his prized collectible."
-msgstr ""
+msgstr "Získal jsi plakát s házecími míčky z Velminy kanceláře a doručil ho Grimmovi. Ten měl radost, že dostal svůj cenný sběratelský kousek."
 
 #: quests/04_monarch/ta_0402_grimmtomorrow:30003
 msgctxt "quests/04_monarch/ta_0402_grimmtomorrow:30003:DefaultText"
 msgid "You told Grimm that Nell offered more money for the poster and Velma had sold it to her."
-msgstr ""
+msgstr "Grimmovi jsi řekl, že Nell za plakát nabídla víc peněz a Velma jí ho prodala."
 
 #: quests/04_monarch/ta_0402_grimmtomorrow:30004
 msgctxt "quests/04_monarch/ta_0402_grimmtomorrow:30004:DefaultText"
 msgid "Nell came to an unfortunate end, making her bid for the tossball poster a non-issue. Velma agreed to honor her original agreement. Grimm was overjoyed to receive his prized collectible."
-msgstr ""
+msgstr "Nell skončila nešťastně, takže její snaha o získání plakátu s hozenou koulí byla bezpředmětná. Velma souhlasila s dodržením původní dohody. Grimm byl radostí bez sebe, když obdržel svůj cenný sběratelský předmět."
 
 #: quests/04_monarch/ta_0402_grimmtomorrow:30006
 msgctxt "quests/04_monarch/ta_0402_grimmtomorrow:30006:DefaultText"
 msgid "Grimm is dead. No one is left to care about what happens to this poster."
-msgstr ""
+msgstr "Grimm je mrtvý. Nikoho už nezajímá, co se stane s tímto plakátem."
 
 #: quests/04_monarch/ta_0402_grimmtomorrow:30007
 msgctxt "quests/04_monarch/ta_0402_grimmtomorrow:30007:DefaultText"
 msgid "You convinced Nell to let Grimm have the poster, after you helped her secure some official tossball jerseys - now with authentic game-time aroma!"
-msgstr ""
+msgstr "Přesvědčil jsi Nell, aby Grimmovi ten plakát nechala, poté co jsi jí pomohl zajistit oficiální dresy s autenticitou - nyní s autentickou herní vůní!"
 
 #: quests/04_monarch/ta_0402_grimmtomorrow:30008
 msgctxt "quests/04_monarch/ta_0402_grimmtomorrow:30008:DefaultText"
 msgid "The Iconoclasts have taken over Stellar Bay, and as a member of MSI, Grimm has disappeared. Whether he fled or was killed is anyone's guess."
-msgstr ""
+msgstr "Ikonoklasté ovládli Hvězdnou zátoku a Grimm jako člen MSI zmizel. Zda uprchl, nebo byl zabit, se můžeme jen dohadovat."
 
 #: quests/04_monarch/ta_0402_grimmtomorrow:40001
 msgctxt "quests/04_monarch/ta_0402_grimmtomorrow:40001:DefaultText"
 msgid "With Celia dead, Grimm suggested checking in with Velma, manager of Stellar Bay's warehouse. She'll know if the SubLight shipment has arrived."
-msgstr ""
+msgstr "Když byla Celia mrtvá, navrhl Grimm, aby se spojil s Velmou, vedoucí skladiště Stellar Bay. Ta bude vědět, jestli zásilka SubLight dorazila."
 
 #: quests/04_monarch/ta_0402_grimmtomorrow:40002
 msgctxt "quests/04_monarch/ta_0402_grimmtomorrow:40002:DefaultText"
 msgid "With Velma dead, Grimm's tossball poster is likely locked up safe in her office."
-msgstr ""
+msgstr "Když je Velma mrtvá, Grimmův plakát s házecími míčky je pravděpodobně bezpečně zavřený v její kanceláři."

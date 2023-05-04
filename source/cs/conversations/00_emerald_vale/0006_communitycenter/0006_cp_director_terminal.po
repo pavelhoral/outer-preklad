@@ -8,17 +8,17 @@ msgid "Emerald Vale Community Center\r\n"
 "Terminal Access\r\n"
 "\r\n"
 "Welcome, Director Pickett!"
-msgstr ""
+msgstr "Komunitní centrum Emerald Vale A Spacer's Choice Property ======================== Terminal Access Vítejte, pane řediteli Pickette!"
 
 #: conversations/00_emerald_vale/0006_communitycenter/0006_cp_director_terminal:4
 msgctxt "conversations/00_emerald_vale/0006_communitycenter/0006_cp_director_terminal:4:DefaultText"
 msgid "[Messages]"
-msgstr ""
+msgstr "[Zprávy]"
 
 #: conversations/00_emerald_vale/0006_communitycenter/0006_cp_director_terminal:5
 msgctxt "conversations/00_emerald_vale/0006_communitycenter/0006_cp_director_terminal:5:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"
 
 #: conversations/00_emerald_vale/0006_communitycenter/0006_cp_director_terminal:6
 msgctxt "conversations/00_emerald_vale/0006_communitycenter/0006_cp_director_terminal:6:DefaultText"
@@ -28,17 +28,17 @@ msgid "Emerald Vale Community Center\r\n"
 "========================\r\n"
 "\r\n"
 "Messages"
-msgstr ""
+msgstr "Komunitní centrum Emerald Vale A Spacer's Choice Property ======================== Zprávy"
 
 #: conversations/00_emerald_vale/0006_communitycenter/0006_cp_director_terminal:7
 msgctxt "conversations/00_emerald_vale/0006_communitycenter/0006_cp_director_terminal:7:DefaultText"
 msgid "[FROM: L. Trammell]"
-msgstr ""
+msgstr "[OD: L. Trammell]"
 
 #: conversations/00_emerald_vale/0006_communitycenter/0006_cp_director_terminal:8
 msgctxt "conversations/00_emerald_vale/0006_communitycenter/0006_cp_director_terminal:8:DefaultText"
 msgid "[FROM: Hunters and Trackers Ltd.]"
-msgstr ""
+msgstr "[OD: Hunters and Trackers Ltd.]"
 
 #: conversations/00_emerald_vale/0006_communitycenter/0006_cp_director_terminal:10
 msgctxt "conversations/00_emerald_vale/0006_communitycenter/0006_cp_director_terminal:10:DefaultText"
@@ -76,7 +76,7 @@ msgid "Emerald Vale Community Center\r\n"
 "A Wholly Owned Subsidiary of Universe Defense Logistics\r\n"
 "\r\n"
 "\"Hunters & Trackers Limited - Teaching the Fauna of Halcyon the cruel realities of existence\""
-msgstr ""
+msgstr "Emerald Vale Community Center A Spacer's Choice Property ======================== FROM: Hunters & Trackers Ltd. TO: Pickett, F: Zastavte se, prosím, Dobrý den, pane Pickette! Tímto dopisem Vás informuji o Vaší žádosti o JEDNOHO (1) dospělého mantikena. Jak si možná vzpomínáte, naši stopaři objevili ve volné přírodě krásný exemplář. Na základě Vašeho souhlasu jsme vyslali tým našich vysoce kvalifikovaných lovců, aby jej pro Vás zabili. S lítostí Vám musíme oznámit, že celý tým zahynul. Očekávejte prosím od naší kanceláře fakturu včetně nákladů na jejich pohřebné, jak je uvedeno v naší smlouvě.Kromě toho vás musíme požádat o úhradu nákladů na veškeré poškozené, zkorodované, rozpuštěné, snědené nebo strávené (částečně nebo jinak) vybavení. Děkujeme vám za vaši přízeň. Dovolte mi, abych vám nabídl možnost zakoupení druhé lovecké výpravy s 10% slevou. Těším se, že se mi ozvete. s pozdravem, Hunters & Trackers Ltd. Partnerem je Společnost pro likvidaci divoké zvěře Dceřiná společnost plně vlastněná společností Universe Defense Logistics \"Hunters & Trackers Limited - učíme faunu Halcyonu kruté realitě existence\""
 
 #: conversations/00_emerald_vale/0006_communitycenter/0006_cp_director_terminal:11
 msgctxt "conversations/00_emerald_vale/0006_communitycenter/0006_cp_director_terminal:11:DefaultText"
@@ -97,12 +97,12 @@ msgid "Emerald Vale Community Center\r\n"
 "\r\n"
 "Lamont Trammell\r\n"
 "Financial Officer"
-msgstr ""
+msgstr "Emerald Vale Community Center A Spacer's Choice Property ======================== FROM: Trammell, L: Pickett, F. PŘEDMĚT: Tramell, F: Prosím, zastavte ředitele Picketta, musím podat stížnost. Vaše posedlost tímto mantikem plýtvá celým naším rozpočtem a brzdí rozvoj celé výstavy. Tohle musí přestat. Lamont Trammell finanční úředník"
 
 #: conversations/00_emerald_vale/0006_communitycenter/0006_cp_director_terminal:12
 msgctxt "conversations/00_emerald_vale/0006_communitycenter/0006_cp_director_terminal:12:DefaultText"
 msgid "[FROM: I. Rosenberg]"
-msgstr ""
+msgstr "[OD: I. Rosenberg]"
 
 #: conversations/00_emerald_vale/0006_communitycenter/0006_cp_director_terminal:13
 msgctxt "conversations/00_emerald_vale/0006_communitycenter/0006_cp_director_terminal:13:DefaultText"
@@ -122,4 +122,4 @@ msgid "Emerald Vale Community Center\r\n"
 "As a reminder in case it does break down again, you can borrow a keycard from the director or one of the workers in the second floor office if you lose your card.\r\n"
 "\r\n"
 "-Ira"
-msgstr ""
+msgstr "Emerald Vale Community Center A Spacer's Choice Property ======================== FROM: Rosenberg, I: VŠEM PŘEDMĚT: V: Klíčové karty Všichni, kodér klíčových karet ve vstupní hale je opět v provozu. Doufejme, že se opět nepokazí a nezačne střílet klíčenky na každého, kdo půjde kolem. Pro případ, že by se opět porouchal, připomínáme, že pokud kartu ztratíte, můžete si ji vypůjčit od ředitele nebo některého z pracovníků v kanceláři ve druhém patře. -Ira"

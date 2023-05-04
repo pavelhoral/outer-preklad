@@ -6,17 +6,17 @@ msgid "Cascadia Lab - Executive Research Focus Group\r\n"
 "Authorized user: Chartrand, E. \r\n"
 "\r\n"
 "Main menu"
-msgstr ""
+msgstr "Cascadia Lab - Executive Research Focus Group ==================================== Autorizovaný uživatel: Hlavní menu"
 
 #: conversations/04_monarch/0404/0404_cp_cascadia_chartrand_terminal:3
 msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_chartrand_terminal:3:DefaultText"
 msgid "[Logs]"
-msgstr ""
+msgstr "[Deníky]"
 
 #: conversations/04_monarch/0404/0404_cp_cascadia_chartrand_terminal:5
 msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_chartrand_terminal:5:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"
 
 #: conversations/04_monarch/0404/0404_cp_cascadia_chartrand_terminal:25
 msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_chartrand_terminal:25:DefaultText"
@@ -30,7 +30,7 @@ msgid "Cascadia Lab - Executive Research Focus Group\r\n"
 "-How do we define a tolerable failure rate when the losses could swell to affect millions? Even one percent is unthinkable. \r\n"
 "\r\n"
 "I have much to consider."
-msgstr ""
+msgstr "Cascadia Lab - Executive Research Focus Group ==================================== -Hlavní obavou je odmítnutí tkáně - problém stejně klasický jako transplantace končetin, i když samozřejmě na buněčné úrovni. -Rozsah problému je však značný. Dokonce i když Alta-Vitae posiluje naše úsilí, o úspěch takového rozsahu se ještě nikdo nepokusil, nebo o něm dokonce neuvažoval. -Jak definovat únosnou míru selhání, když by ztráty mohly nabobtnat a postihnout miliony lidí? I jedno procento je nemyslitelné. Mám toho hodně na zvážení."
 
 #: conversations/04_monarch/0404/0404_cp_cascadia_chartrand_terminal:40
 msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_chartrand_terminal:40:DefaultText"
@@ -42,7 +42,7 @@ msgid "Cascadia Lab - Executive Research Focus Group\r\n"
 "I won't forget Tom's sacrifice. Up until the end, he knew it had to happen. If it wasn't one of us, the Board would have \"volunteered\" inmates from Tartarus.\r\n"
 "\r\n"
 "I'll be sure to carry his example to the new lab... and the next phase of human trials. "
-msgstr ""
+msgstr "Cascadia Lab - Executive Research Focus Group ==================================== Projekt byl přeřazen do sekundární laboratoře. Bylo mi řečeno, že rada se stahuje z Terry 1 a my ani nemáme čas na převedení našeho výzkumu. Pro jednou jsem vděčný, že naše práce zde nedosáhla významných pokroků. Nezapomenu na Tomovu oběť. Až do konce věděl, že se to musí stát. Kdyby to nebyl jeden z nás, Rada by \"dobrovolně\" přijala chovance z Tartaru. Jeho příklad si určitě přenesu do nové laboratoře... a do další fáze pokusů na lidech. "
 
 #: conversations/04_monarch/0404/0404_cp_cascadia_chartrand_terminal:41
 msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_chartrand_terminal:41:DefaultText"
@@ -50,19 +50,19 @@ msgid "Cascadia Lab - Executive Research Focus Group\r\n"
 "====================================\r\n"
 "\r\n"
 "Logs"
-msgstr ""
+msgstr "Laboratoř Cascadia - Focus Group pro výkonný výzkum ==================================== Logs"
 
 #: conversations/04_monarch/0404/0404_cp_cascadia_chartrand_terminal:42
 msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_chartrand_terminal:42:DefaultText"
 msgid "[Research notes - tissue compatibility, acceptable losses]"
-msgstr ""
+msgstr "[Výzkumné poznámky - tkáňová kompatibilita, přijatelné ztráty]"
 
 #: conversations/04_monarch/0404/0404_cp_cascadia_chartrand_terminal:43
 msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_chartrand_terminal:43:DefaultText"
 msgid "[Transfer to secondary site]"
-msgstr ""
+msgstr "[Přesun na sekundární stránku]"
 
 #: conversations/04_monarch/0404/0404_cp_cascadia_chartrand_terminal:44
 msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_chartrand_terminal:44:DefaultText"
 msgid "[Return to Root]"
-msgstr ""
+msgstr "[Zpět na kořen]"

@@ -5,17 +5,17 @@ msgid "LBR-NTH Storage Terminal\n"
 "Note from your favorite Warden: PLEASE do not leave perishables in here. We marked this as \"cold storage\" because we're starting to move pods in here. This is not an actual freezer.\n"
 "\n"
 "The next time I find a decomposing wooly cow box in here, I'm leaving it on the air conditioning intake for a week."
-msgstr ""
+msgstr "LBR-NTH Storage Terminal ============================ Poznámka vašeho oblíbeného správce: Prosíme, nenechávejte zde potraviny podléhající rychlé zkáze. Označili jsme to jako \"chladicí sklad\", protože sem začínáme stěhovat lusky. Tohle není skutečný mrazák. Až tu příště najdu rozkládající se krabici od vlnité krávy, nechám ji týden na přívodu klimatizace."
 
 #: conversations/07_tartarus/0701/0701_cp_pitstoragedatabase:2
 msgctxt "conversations/07_tartarus/0701/0701_cp_pitstoragedatabase:2:DefaultText"
 msgid "[Access Architectural Records]"
-msgstr ""
+msgstr "[Přístup k architektonickým záznamům]"
 
 #: conversations/07_tartarus/0701/0701_cp_pitstoragedatabase:4
 msgctxt "conversations/07_tartarus/0701/0701_cp_pitstoragedatabase:4:DefaultText"
 msgid "[Access Storage Manifest]"
-msgstr ""
+msgstr "[Přístupový manifest úložiště]"
 
 #: conversations/07_tartarus/0701/0701_cp_pitstoragedatabase:5
 msgctxt "conversations/07_tartarus/0701/0701_cp_pitstoragedatabase:5:DefaultText"
@@ -29,7 +29,7 @@ msgid "LBR-NTH Storage Terminal\r\n"
 "IN: Forced Pacification System Refills\r\n"
 "IN: Hibernation Chamber \r\n"
 "IN: Material Storage and Shipping Containers"
-msgstr ""
+msgstr "LBR-NTH Skladovací terminál ============================ IN: Kanystry s dimethylsulfoxidem OUT: VYP: kazajky; obušky proti nepokojům VYP: VSTUP: hibernační komora VYSTUP: obušky a zásahové vesty VSTUP: hibernační komora VYSTUP: obušky a zásahové vesty Indoktrinační brožury IN: Náplně do systému nucené pacifikace IN: Hibernační komora IN: Kontejnery pro skladování a přepravu materiálu"
 
 #: conversations/07_tartarus/0701/0701_cp_pitstoragedatabase:6
 msgctxt "conversations/07_tartarus/0701/0701_cp_pitstoragedatabase:6:DefaultText"
@@ -46,14 +46,14 @@ msgid "LBR-NTH Storage Terminal\n"
 "...and thus, in order to maintain structural integrity throughout the area designated \"the Pit,\" we recommend that chambers are installed in cylindrical fashion around a supporting structure dug into the crust of Tartarus, to a maximum depth of...\n"
 "\n"
 "(This conclusion extends for another two pages.)"
-msgstr ""
+msgstr "Skladovací terminál LBR-NTH ============================ Strukturální změny nutné pro umístění hibernačních komor v zařízení LBR-NTH Analýza od inženýrů Rodfield, Crane a Geist. Počínaje požadavkem, aby každá komora dostávala stálý přívod minimálně čtyřiatřiceti kilowattů a aby obyvatelé těchto komor měli stálý přívod patentované hibernační tekutiny Vit-o Hibernation Fluid společnosti UDL, a konče.... (Tato věta se táhne dvanáct stran, než konečně skončí.) ...a proto, aby byla zachována strukturální integrita v celé oblasti označované jako \"Jáma\", doporučujeme, aby byly komory instalovány válcovitě kolem podpůrné konstrukce vykopané do kůry Tartaru do maximální hloubky... (Tento závěr se táhne další dvě strany.)"
 
 #: conversations/07_tartarus/0701/0701_cp_pitstoragedatabase:37
 msgctxt "conversations/07_tartarus/0701/0701_cp_pitstoragedatabase:37:DefaultText"
 msgid "[Continue]"
-msgstr ""
+msgstr "[Pokračovat]"
 
 #: conversations/07_tartarus/0701/0701_cp_pitstoragedatabase:38
 msgctxt "conversations/07_tartarus/0701/0701_cp_pitstoragedatabase:38:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"

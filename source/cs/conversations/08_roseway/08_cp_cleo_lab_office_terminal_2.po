@@ -1,12 +1,12 @@
 #: conversations/08_roseway/08_cp_cleo_lab_office_terminal_2:2
 msgctxt "conversations/08_roseway/08_cp_cleo_lab_office_terminal_2:2:DefaultText"
 msgid "[Messages]"
-msgstr ""
+msgstr "[Zprávy]"
 
 #: conversations/08_roseway/08_cp_cleo_lab_office_terminal_2:5
 msgctxt "conversations/08_roseway/08_cp_cleo_lab_office_terminal_2:5:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"
 
 #: conversations/08_roseway/08_cp_cleo_lab_office_terminal_2:6
 msgctxt "conversations/08_roseway/08_cp_cleo_lab_office_terminal_2:6:DefaultText"
@@ -18,7 +18,7 @@ msgid "Porter,\r\n"
 "\r\n"
 "Regards,\r\n"
 "Dr. Crane"
-msgstr ""
+msgstr "Portere, podle mých záznamů máš narozeniny 23. ledna. Podle protokolu si prosím dopřejte JEDNU (1) desetiminutovou přestávku mezi svými normálně plánovanými hlídkovými směnami ve tři a čtyři hodiny. Upřímně doufám, že si v tento den najdete chvilku, abyste si užil čerstvého vzduchu Terry 2, který vám přinesla důkladná laskavost tety Cleo. S pozdravem, doktor Crane."
 
 #: conversations/08_roseway/08_cp_cleo_lab_office_terminal_2:11
 msgctxt "conversations/08_roseway/08_cp_cleo_lab_office_terminal_2:11:DefaultText"
@@ -29,17 +29,17 @@ msgid "MESSAGES\n"
 "Project: Chief Site Safety Engineer\n"
 "\n"
 "1. From: Crane, A."
-msgstr ""
+msgstr "ZPRÁVY ------------------------------ ID zaměstnance: 791611 Jméno zaměstnance: Porter, Reuben Projekt: Reuben, hlavní inženýr pro bezpečnost na staveništi 1. Od: Mgr: Crane, A."
 
 #: conversations/08_roseway/08_cp_cleo_lab_office_terminal_2:12
 msgctxt "conversations/08_roseway/08_cp_cleo_lab_office_terminal_2:12:DefaultText"
 msgid "[FROM: A. Crane]"
-msgstr ""
+msgstr "[OD: A. Crane]"
 
 #: conversations/08_roseway/08_cp_cleo_lab_office_terminal_2:14
 msgctxt "conversations/08_roseway/08_cp_cleo_lab_office_terminal_2:14:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"
 
 #: conversations/08_roseway/08_cp_cleo_lab_office_terminal_2:17
 msgctxt "conversations/08_roseway/08_cp_cleo_lab_office_terminal_2:17:DefaultText"
@@ -50,7 +50,7 @@ msgid "Argos Security Systems\n"
 "All personnel please report to assigned workstations. Report suspicious activity to the nearest Site Safety Engineer.\n"
 "---------------------------------\n"
 "Auntie Cleo Auntie-Biotics™: served fresh from our petri dishes to YOUR personal crevices."
-msgstr ""
+msgstr "Argos Security Systems --------------------------------- BEZPEČNOSTNÍ UZÁVĚRA Všichni zaměstnanci se dostavte na přidělená pracoviště. Podezřelou činnost nahlaste nejbližšímu bezpečnostnímu technikovi pracoviště. --------------------------------- Auntie Cleo Auntie-Biotics™: podáváme čerstvě z našich Petriho misek do VAŠICH osobních štěrbin."
 
 #: conversations/08_roseway/08_cp_cleo_lab_office_terminal_2:18
 msgctxt "conversations/08_roseway/08_cp_cleo_lab_office_terminal_2:18:DefaultText"
@@ -61,7 +61,7 @@ msgid "Argos Security Systems\r\n"
 "All personnel please report to assigned workstations. Report suspicious activity to the nearest Site Safety Engineer.\r\n"
 "---------------------------------\r\n"
 "\"Auntie Cleo's - Better than Nature!\"™"
-msgstr ""
+msgstr "Argos Security Systems --------------------------------- BEZPEČNOSTNÍ UZÁVĚRA Všichni zaměstnanci se dostavte na přidělená pracoviště. Podezřelou činnost nahlaste nejbližšímu bezpečnostnímu technikovi pracoviště. --------------------------------- \"Auntie Cleo's - Better than Nature!\"™"
 
 #: conversations/08_roseway/08_cp_cleo_lab_office_terminal_2:19
 msgctxt "conversations/08_roseway/08_cp_cleo_lab_office_terminal_2:19:DefaultText"
@@ -72,7 +72,7 @@ msgid "Argos Security Systems\r\n"
 "All personnel please report to assigned workstations. Report suspicious activity to the nearest Site Safety Engineer.\r\n"
 "---------------------------------\r\n"
 "Feeling irate? Try Auntie Cleo's Nar-Choc-Lectic™ bars. Now with 3% real CCN76."
-msgstr ""
+msgstr "Argos Security Systems --------------------------------- BEZPEČNOSTNÍ UZÁVĚRA Všichni zaměstnanci se dostavte na přidělená pracoviště. Podezřelou činnost nahlaste nejbližšímu bezpečnostnímu technikovi pracoviště. --------------------------------- Cítíte se podráždění? Vyzkoušejte tyčinky Auntie Cleo's Nar-Choc-Lectic™. Nyní s 3 % skutečného CCN76."
 
 #: conversations/08_roseway/08_cp_cleo_lab_office_terminal_2:20
 msgctxt "conversations/08_roseway/08_cp_cleo_lab_office_terminal_2:20:DefaultText"
@@ -83,7 +83,7 @@ msgid "Argos Security Systems\r\n"
 "All personnel please report to assigned workstations. Report suspicious activity to the nearest Site Safety Engineer.\r\n"
 "---------------------------------\r\n"
 "Have you brushed your teeth with Auntie's Blinding White Paste™ today?"
-msgstr ""
+msgstr "Argos Security Systems --------------------------------- BEZPEČNOSTNÍ UZÁVĚRA Všichni zaměstnanci se dostavte na přidělená pracoviště. Podezřelou činnost nahlaste nejbližšímu bezpečnostnímu technikovi pracoviště. --------------------------------- Vyčistili jste si dnes zuby oslepující bílou pastou Auntie's White Paste™?"
 
 #: conversations/08_roseway/08_cp_cleo_lab_office_terminal_2:21
 msgctxt "conversations/08_roseway/08_cp_cleo_lab_office_terminal_2:21:DefaultText"
@@ -94,7 +94,7 @@ msgid "Argos Security Systems\r\n"
 "All personnel please report to assigned workstations. Report suspicious activity to the nearest Site Safety Engineer.\r\n"
 "---------------------------------\r\n"
 "Parents who buy Auntie Cleo should have children who buy Auntie Cleo."
-msgstr ""
+msgstr "Argos Security Systems --------------------------------- BEZPEČNOSTNÍ UZÁVĚRA Všichni zaměstnanci se dostavte na přidělená pracoviště. Podezřelou činnost nahlaste nejbližšímu bezpečnostnímu technikovi pracoviště. --------------------------------- Rodiče, kteří kupují Auntie Cleo, by měli mít děti, které kupují Auntie Cleo."
 
 #: conversations/08_roseway/08_cp_cleo_lab_office_terminal_2:22
 msgctxt "conversations/08_roseway/08_cp_cleo_lab_office_terminal_2:22:DefaultText"
@@ -105,7 +105,7 @@ msgid "Argos Security Systems\r\n"
 "All personnel please report to assigned workstations. Report suspicious activity to the nearest Site Safety Engineer.\r\n"
 "---------------------------------\r\n"
 "Tired of itchy acid burns? Try Auntie Cleo's artisanal boarst-scented moisturizing cream."
-msgstr ""
+msgstr "Argos Security Systems --------------------------------- BEZPEČNOSTNÍ UZÁVĚRA Všichni zaměstnanci se dostavte na přidělená pracoviště. Podezřelou činnost nahlaste nejbližšímu bezpečnostnímu technikovi pracoviště. --------------------------------- Máte dost svědivých popálenin od kyseliny? Vyzkoušejte řemeslný hydratační krém Auntie Cleo s vůní divočáka."
 
 #: conversations/08_roseway/08_cp_cleo_lab_office_terminal_2:23
 msgctxt "conversations/08_roseway/08_cp_cleo_lab_office_terminal_2:23:DefaultText"
@@ -116,7 +116,7 @@ msgid "Argos Security Systems\r\n"
 "All personnel please report to assigned workstations. Report suspicious activity to the nearest Site Safety Engineer.\r\n"
 "---------------------------------\r\n"
 "Try Auntie Cleo's Handi-Off™, the surgical stain remover of choice."
-msgstr ""
+msgstr "Argos Security Systems --------------------------------- BEZPEČNOSTNÍ UZÁVĚRA Všichni zaměstnanci se dostavte na přidělená pracoviště. Podezřelou činnost nahlaste nejbližšímu bezpečnostnímu technikovi pracoviště. --------------------------------- Vyzkoušejte Handi-Off™ od tety Cleo, nejvhodnější odstraňovač skvrn po chirurgických zákrocích."
 
 #: conversations/08_roseway/08_cp_cleo_lab_office_terminal_2:24
 msgctxt "conversations/08_roseway/08_cp_cleo_lab_office_terminal_2:24:DefaultText"
@@ -127,4 +127,4 @@ msgid "Argos Security Systems\r\n"
 "All personnel please report to assigned workstations. Report suspicious activity to the nearest Site Safety Engineer.\r\n"
 "---------------------------------\r\n"
 "Unsightly bloodstains? Consider Auntie Cleo's laundry soap. Now with a refreshing lemon zing scent."
-msgstr ""
+msgstr "Argos Security Systems --------------------------------- BEZPEČNOSTNÍ UZÁVĚRA Všichni zaměstnanci se dostavte na přidělená pracoviště. Podezřelou činnost nahlaste nejbližšímu bezpečnostnímu technikovi pracoviště. --------------------------------- Nevzhledné krvavé skvrny? Zvažte mýdlo na praní Auntie Cleo. Nyní s osvěžující citronovou vůní."

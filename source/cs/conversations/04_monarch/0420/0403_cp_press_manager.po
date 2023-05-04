@@ -6,27 +6,27 @@ msgid "Terra One Publications\n"
 "Account: Rodriguez, R.\n"
 "Available Messages:\n"
 "One Hazard Clause"
-msgstr ""
+msgstr "Terra One Publications Dceřiná společnost Universal Defense Logistics ============================ Účet: Rodriguez, R. Dostupné zprávy: One Hazard Clause"
 
 #: conversations/04_monarch/0420/0403_cp_press_manager:11
 msgctxt "conversations/04_monarch/0420/0403_cp_press_manager:11:DefaultText"
 msgid "[Halcyon Referendum #207: Terra One Hazard Clause]"
-msgstr ""
+msgstr "[Halcyon Referendum #207: Doložka o nebezpečí Terra One]"
 
 #: conversations/04_monarch/0420/0403_cp_press_manager:12
 msgctxt "conversations/04_monarch/0420/0403_cp_press_manager:12:DefaultText"
 msgid "[We're leaving...]"
-msgstr ""
+msgstr "[Odcházíme...]"
 
 #: conversations/04_monarch/0420/0403_cp_press_manager:13
 msgctxt "conversations/04_monarch/0420/0403_cp_press_manager:13:DefaultText"
 msgid "[Terry's birthday]"
-msgstr ""
+msgstr "[Terryho narozeniny]"
 
 #: conversations/04_monarch/0420/0403_cp_press_manager:14
 msgctxt "conversations/04_monarch/0420/0403_cp_press_manager:14:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"
 
 #: conversations/04_monarch/0420/0403_cp_press_manager:15
 msgctxt "conversations/04_monarch/0420/0403_cp_press_manager:15:DefaultText"
@@ -39,7 +39,9 @@ msgid "HALCYON HOLDINGS CORPORATE BOARD\n"
 "Due to the hostile and aggressive nature of the wildlife, as well as the unsustainability of its natural flora for use in human consumption, the Halcyon Holdings Corporate Board has officially enacted a Hazard Clause covering the entirety of Terra 1.\n"
 "\n"
 "After an evacuation period of no more than six (6) months, Terra 1 will be officially considered illegal territory. As this is a unanimous decision, any corporation caught operating on Terra 1 after the evacuation period will face fines and possible disbarment, as defined in Halcyon Code 22.1."
-msgstr ""
+msgstr "VEŘEJNÉ UPOZORNĚNÍ č. 117 SPOLEČNOSTI HALCYON HOLDINGS: O VYHLÁŠENÍ NEBEZPEČÍ PRO TERRA ONE Toto oznámení, vydané dne 12. ledna 2343, slouží jako veřejná výpověď společnosti Terra 1 jako proveditelného pracovního prostředí.\n"
+"\n"
+"Vzhledem k nepřátelské a agresivní povaze zdejší fauny a flóry, jakož i k neudržitelnosti její přirozené flóry pro použití v lidské spotřebě, korporátní rada společnosti Halcyon Holdings oficiálně zavedla doložku o nebezpečí, která se vztahuje na celou Terru 1. Po uplynutí doby evakuace, která nepřesáhne šest (6) měsíců, bude Terra 1 oficiálně považována za nelegální území. Jelikož se jedná o jednomyslné rozhodnutí, bude každá korporace, která bude přistižena při činnosti na Terře 1 po uplynutí evakuačního období, čelit pokutám a případnému vyloučení ze společnosti, jak je definováno v Halcyonském kodexu 22.1."
 
 #: conversations/04_monarch/0420/0403_cp_press_manager:16
 msgctxt "conversations/04_monarch/0420/0403_cp_press_manager:16:DefaultText"
@@ -50,14 +52,14 @@ msgid "To all employees of Terra 1 Publications:\n"
 "In accordance with the evacuation orders, we are to await a shuttle out of Cascadia. When we get word that our ride is on the way, we'll shutter this facility, pack everything up, and lock the door on the way out.\n"
 "\n"
 "Until then, however, we are expected to continue working. I'm sure reassignments are forthcoming, but that's not an excuse to slow down. We still have magazines to publish, people. Our customers are eager to find out what happens in Dissident Hunter #112."
-msgstr ""
+msgstr "Všem zaměstnancům Terra 1 Publications: Ano, zvěsti jsou pravdivé. Odcházíme. Správní rada se rozhodla snížit své ztráty a místo toho působit na Terře 2. V souladu s příkazem k evakuaci máme čekat na raketoplán z Kaskádie. Až dostaneme zprávu, že náš odvoz je na cestě, zavřeme toto zařízení, všechno sbalíme a na odchodu zamkneme dveře. Do té doby se však od nás očekává, že budeme pokračovat v práci. Jsem si jistý, že nás čeká přeřazení, ale to není výmluva, abychom zpomalili. Pořád musíme vydávat časopisy, lidi. Naši zákazníci se nemohou dočkat, co se stane v Lovci disidentů č. 112."
 
 #: conversations/04_monarch/0420/0403_cp_press_manager:17
 msgctxt "conversations/04_monarch/0420/0403_cp_press_manager:17:DefaultText"
 msgid "No, we are not celebrating Terry's birthday. Terry's dead, folks. I know he meant a lot to everyone here--myself included--but let his untimely demise be a lesson about safety in the workplace: Don't pet the canids."
-msgstr ""
+msgstr "Ne, Terryho narozeniny neslavíme. Terry je mrtvý, přátelé. Vím, že pro všechny tady hodně znamenal - včetně mě - ale nechť je jeho předčasný skon poučením o bezpečnosti na pracovišti: Nemazlete se s psovitými šelmami."
 
 #: conversations/04_monarch/0420/0403_cp_press_manager:18
 msgctxt "conversations/04_monarch/0420/0403_cp_press_manager:18:DefaultText"
 msgid "[Continue]"
-msgstr ""
+msgstr "[Pokračovat]"

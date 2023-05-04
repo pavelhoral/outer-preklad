@@ -1,94 +1,94 @@
 #: conversations/10_scylla/1001_cv_prospectingbot:1
 msgctxt "conversations/10_scylla/1001_cv_prospectingbot:1:DefaultText"
 msgid "Current active commands: Excavation. That is all. "
-msgstr ""
+msgstr "Aktuální aktivní příkazy: Výkopové práce. To je vše. "
 
 #: conversations/10_scylla/1001_cv_prospectingbot:2
 msgctxt "conversations/10_scylla/1001_cv_prospectingbot:2:DefaultText"
 msgid "This place is abandoned. I think you can stop. "
-msgstr ""
+msgstr "Toto místo je opuštěné. Myslím, že můžete zastavit. "
 
 #: conversations/10_scylla/1001_cv_prospectingbot:3
 msgctxt "conversations/10_scylla/1001_cv_prospectingbot:3:DefaultText"
 msgid "What are you excavating?"
-msgstr ""
+msgstr "Co vykopáváte?"
 
 #: conversations/10_scylla/1001_cv_prospectingbot:4
 msgctxt "conversations/10_scylla/1001_cv_prospectingbot:4:DefaultText"
 msgid "Good luck with that."
-msgstr ""
+msgstr "Hodně štěstí."
 
 #: conversations/10_scylla/1001_cv_prospectingbot:5
 msgctxt "conversations/10_scylla/1001_cv_prospectingbot:5:DefaultText"
 msgid "This unit is removing rock matter in search of minerals, metals, and other forms of matter designated \"valuable.\""
-msgstr ""
+msgstr "Tato jednotka odstraňuje horninovou hmotu a hledá minerály, kovy a další formy hmoty označené jako \"cenné\"."
 
 #: conversations/10_scylla/1001_cv_prospectingbot:6
 msgctxt "conversations/10_scylla/1001_cv_prospectingbot:6:DefaultText"
 msgid "So you're a prospector."
-msgstr ""
+msgstr "Takže jste prospektor."
 
 #: conversations/10_scylla/1001_cv_prospectingbot:7
 msgctxt "conversations/10_scylla/1001_cv_prospectingbot:7:DefaultText"
 msgid "Brevity identified. Affirmative. This unit could discuss excavation at greater length, but does not wish to strain its daily charge. "
-msgstr ""
+msgstr "Identifikována stručnost. Kladně. Tato jednotka by mohla o výkopech diskutovat obšírněji, ale nechce zatěžovat svůj denní náboj. "
 
 #: conversations/10_scylla/1001_cv_prospectingbot:8
 msgctxt "conversations/10_scylla/1001_cv_prospectingbot:8:DefaultText"
 msgid "Negative. The presence or absence of human operators does not impact this unit's assigned directive. "
-msgstr ""
+msgstr "Negativní. Přítomnost nebo nepřítomnost lidské obsluhy nemá vliv na přidělenou směrnici této jednotky. "
 
 #: conversations/10_scylla/1001_cv_prospectingbot:9
 msgctxt "conversations/10_scylla/1001_cv_prospectingbot:9:DefaultText"
 msgid "This unit achieves perfection by fulfilling its directive. "
-msgstr ""
+msgstr "Tato jednotka dosahuje dokonalosti tím, že plní svou směrnici. "
 
 #: conversations/10_scylla/1001_cv_prospectingbot:10
 msgctxt "conversations/10_scylla/1001_cv_prospectingbot:10:DefaultText"
 msgid "Thank you for your consumer loyalty, junior excavator. This unit will store this exchange in its memory banks, always. "
-msgstr ""
+msgstr "Děkujeme vám za vaši spotřebitelskou věrnost, mladý bagristo. Tato jednotka si tuto výměnu navždy uloží do své paměti. "
 
 #: conversations/10_scylla/1001_cv_prospectingbot:11
 msgctxt "conversations/10_scylla/1001_cv_prospectingbot:11:DefaultText"
 msgid "Salutations. This unit's primary function is: Excavator. Owner: Hephaestus Mining Corporation. Other functions include: Dialogue, limited. "
-msgstr ""
+msgstr "Pozdravy. Hlavní funkcí této jednotky je: Excavator. Majitel: Hephaestus Mining Corporation. Mezi další funkce patří: Dialog, omezený. "
 
 #: conversations/10_scylla/1001_cv_prospectingbot:12
 msgctxt "conversations/10_scylla/1001_cv_prospectingbot:12:DefaultText"
 msgid "Greetings, junior excavator."
-msgstr ""
+msgstr "Zdravím tě, mladý bagristo."
 
 #: conversations/10_scylla/1001_cv_prospectingbot:14
 msgctxt "conversations/10_scylla/1001_cv_prospectingbot:14:DefaultText"
 msgid "This unit needs to learn how to have a good time."
-msgstr ""
+msgstr "Tato jednotka se musí naučit, jak se dobře bavit."
 
 #: conversations/10_scylla/1001_cv_prospectingbot:15
 msgctxt "conversations/10_scylla/1001_cv_prospectingbot:15:DefaultText"
 msgid "This unit sounds like my old foreman."
-msgstr ""
+msgstr "Tato jednotka zní jako můj starý předák."
 
 #: conversations/10_scylla/1001_cv_prospectingbot:16
 msgctxt "conversations/10_scylla/1001_cv_prospectingbot:16:DefaultText"
 msgid "There's something right soothing 'about having a job and doing it proper. If you want to keep working, little guy, I say you do it."
-msgstr ""
+msgstr "Mít práci a dělat ji pořádně je něco uklidňujícího. Jestli chceš dál pracovat, chlapečku, tak to udělej."
 
 #: conversations/10_scylla/1001_cv_prospectingbot:17
 msgctxt "conversations/10_scylla/1001_cv_prospectingbot:17:DefaultText"
 msgid "You know, it is a crying shame that automechanicals can't get drunk. Or laid. This thing needs both."
-msgstr ""
+msgstr "Víte, je do nebe volající škoda, že se automechanici nemohou opít. Nebo si vrznout. Tahle věc potřebuje obojí."
 
 #: conversations/10_scylla/1001_cv_prospectingbot:18
 msgctxt "conversations/10_scylla/1001_cv_prospectingbot:18:DefaultText"
 msgid "Dedication is a virtue. Let's leave the automech to it."
-msgstr ""
+msgstr "Obětavost je ctnost. Nechme to na automechanikovi."
 
 #: conversations/10_scylla/1001_cv_prospectingbot:19
 msgctxt "conversations/10_scylla/1001_cv_prospectingbot:19:DefaultText"
 msgid "SAM units live to clean and clean to live!"
-msgstr ""
+msgstr "Jednotky SAM žijí, aby čistily, a čistí, aby žili!"
 
 #: conversations/10_scylla/1001_cv_prospectingbot:20
 msgctxt "conversations/10_scylla/1001_cv_prospectingbot:20:DefaultText"
 msgid "This unit has now exhausted its available library of opinions about excavation. "
-msgstr ""
+msgstr "Tato jednotka již vyčerpala svou dostupnou knihovnu názorů na výkopové práce. "

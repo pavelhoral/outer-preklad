@@ -1,559 +1,559 @@
 #: conversations/04_monarch/0402/0402_cv_grimm:117
 msgctxt "conversations/04_monarch/0402/0402_cv_grimm:117:DefaultText"
 msgid "I'd show you around, but I gotta keep watch. Just in case someone else comes along."
-msgstr ""
+msgstr "Ukázal bych ti to tu, ale musím hlídat. Pro případ, že by se objevil někdo jiný."
 
 #: conversations/04_monarch/0402/0402_cv_grimm:120
 msgctxt "conversations/04_monarch/0402/0402_cv_grimm:120:DefaultText"
 msgid "You think maybe you could get some of your friends to land here, too? Gets real quiet."
-msgstr ""
+msgstr "Myslíš, že bys sem mohl dostat i své přátele? Je opravdu ticho."
 
 #: conversations/04_monarch/0402/0402_cv_grimm:196
 msgctxt "conversations/04_monarch/0402/0402_cv_grimm:196:DefaultText"
 msgid "Don't think I've seen you around. That means you must be new to Stellar Bay. You are new here, right?"
-msgstr ""
+msgstr "Myslím, že jsem tě tu ještě neviděl. To znamená, že jsi ve Hvězdné zátoce nový. Jsi tu nový, že?"
 
 #: conversations/04_monarch/0402/0402_cv_grimm:198
 msgctxt "conversations/04_monarch/0402/0402_cv_grimm:198:DefaultText"
 msgid "You seem surprised."
-msgstr ""
+msgstr "Zdá se, že jste překvapen."
 
 #: conversations/04_monarch/0402/0402_cv_grimm:200
 msgctxt "conversations/04_monarch/0402/0402_cv_grimm:200:DefaultText"
 msgid "Which means I never get to do this part. But I've been practicing! So here goes."
-msgstr ""
+msgstr "Což znamená, že tuhle část nikdy neudělám. Ale cvičila jsem! Takže tady to je."
 
 #: conversations/04_monarch/0402/0402_cv_grimm:201
 msgctxt "conversations/04_monarch/0402/0402_cv_grimm:201:DefaultText"
 msgid "On behalf of Monarch Stellar Industries, welcome to Stellar Bay, home of the freshest saltuna in Halcyon. Please state your name for the records."
-msgstr ""
+msgstr "Jménem společnosti Monarch Stellar Industries vás vítáme ve Hvězdné zátoce, domově nejčerstvější saltuny v Halcyonu. Uveďte prosím své jméno pro záznamy."
 
 #: conversations/04_monarch/0402/0402_cv_grimm:202
 msgctxt "conversations/04_monarch/0402/0402_cv_grimm:202:DefaultText"
 msgid "Captain <oeitoken>PlayerName</oeitoken>."
-msgstr ""
+msgstr "Kapitán <oeitoken>Jméno hráče</oeitoken>."
 
 #: conversations/04_monarch/0402/0402_cv_grimm:203
 msgctxt "conversations/04_monarch/0402/0402_cv_grimm:203:DefaultText"
 msgid "I don't have time for this."
-msgstr ""
+msgstr "Nemám na to čas."
 
 #: conversations/04_monarch/0402/0402_cv_grimm:204
 msgctxt "conversations/04_monarch/0402/0402_cv_grimm:204:DefaultText"
 msgid "I prefer to travel discreetly, if you know what I mean."
-msgstr ""
+msgstr "Dávám přednost diskrétnímu cestování, jestli víte, co tím myslím."
 
 #: conversations/04_monarch/0402/0402_cv_grimm:205
 msgctxt "conversations/04_monarch/0402/0402_cv_grimm:205:DefaultText"
 msgid "Aw, don't be like that. I never get to do this part!"
-msgstr ""
+msgstr "Nebuď takový. Tuhle část nikdy neudělám!"
 
 #: conversations/04_monarch/0402/0402_cv_grimm:206
 msgctxt "conversations/04_monarch/0402/0402_cv_grimm:206:DefaultText"
 msgid "Me? I'm Alex Hawthorne. "
-msgstr ""
+msgstr "Já? Jsem Alex Hawthorne. "
 
 #: conversations/04_monarch/0402/0402_cv_grimm:207
 msgctxt "conversations/04_monarch/0402/0402_cv_grimm:207:DefaultText"
 msgid "Please?"
-msgstr ""
+msgstr "Prosím?"
 
 #: conversations/04_monarch/0402/0402_cv_grimm:208
 msgctxt "conversations/04_monarch/0402/0402_cv_grimm:208:DefaultText"
 msgid "Fine. I'm Captain <oeitoken>PlayerName</oeitoken>."
-msgstr ""
+msgstr "V pořádku. Jsem kapitán <oeitoken>Jméno hráče</oeitoken>."
 
 #: conversations/04_monarch/0402/0402_cv_grimm:209
 msgctxt "conversations/04_monarch/0402/0402_cv_grimm:209:DefaultText"
 msgid "I go by Alex Hawthorne."
-msgstr ""
+msgstr "Říkám si Alex Hawthorne."
 
 #: conversations/04_monarch/0402/0402_cv_grimm:210
 msgctxt "conversations/04_monarch/0402/0402_cv_grimm:210:DefaultText"
 msgid "Don't make me tell you twice."
-msgstr ""
+msgstr "Nenuť mě, abych ti to říkal dvakrát."
 
 #: conversations/04_monarch/0402/0402_cv_grimm:211
 msgctxt "conversations/04_monarch/0402/0402_cv_grimm:211:DefaultText"
 msgid "Sorry. I've got business elsewhere."
-msgstr ""
+msgstr "Omlouvám se. Mám práci jinde."
 
 #: conversations/04_monarch/0402/0402_cv_grimm:212
 msgctxt "conversations/04_monarch/0402/0402_cv_grimm:212:DefaultText"
 msgid "H-hey, easy. I won't stop you."
-msgstr ""
+msgstr "Hej, v klidu. Nebudu ti bránit."
 
 #: conversations/04_monarch/0402/0402_cv_grimm:213
 msgctxt "conversations/04_monarch/0402/0402_cv_grimm:213:DefaultText"
 msgid "Swell, there's one for the logs! I'm even gonna give you your own entry code."
-msgstr ""
+msgstr "Skvělé, tady je jeden pro klády! Dokonce ti dám tvůj vlastní vstupní kód."
 
 #: conversations/04_monarch/0402/0402_cv_grimm:214
 msgctxt "conversations/04_monarch/0402/0402_cv_grimm:214:DefaultText"
 msgid "I'm not supposed to do that - it's against procedure - but Mr. Sanjar isn't so strict about the rules here. Besides, I got a lot of empty entries to fill."
-msgstr ""
+msgstr "Neměl bych to dělat - je to proti pravidlům - ale pan Sanjar tady není tak přísný, co se týče pravidel. Kromě toho mám spoustu prázdných položek, které musím zaplnit."
 
 #: conversations/04_monarch/0402/0402_cv_grimm:215
 msgctxt "conversations/04_monarch/0402/0402_cv_grimm:215:DefaultText"
 msgid "Is Stellar Bay really THAT isolated?"
-msgstr ""
+msgstr "Je Hvězdná zátoka opravdu tak izolovaná?"
 
 #: conversations/04_monarch/0402/0402_cv_grimm:216
 msgctxt "conversations/04_monarch/0402/0402_cv_grimm:216:DefaultText"
 msgid "You're not what I expected to find on Monarch."
-msgstr ""
+msgstr "Na Monarchu jsem tě nečekal."
 
 #: conversations/04_monarch/0402/0402_cv_grimm:217
 msgctxt "conversations/04_monarch/0402/0402_cv_grimm:217:DefaultText"
 msgid "We don't get ship traffic in town. Only offworlders who do make it out here are SubLight - they got a base in Fallbrook."
-msgstr ""
+msgstr "Ve městě nemáme lodní dopravu. Jediní mimozemšťané, kteří se sem dostanou, jsou SubLight - mají základnu ve Fallbrooku."
 
 #: conversations/04_monarch/0402/0402_cv_grimm:218
 msgctxt "conversations/04_monarch/0402/0402_cv_grimm:218:DefaultText"
 msgid "And thank the stars for them, or we would've run out of Rizzo's Purpleberry Crunch years ago."
-msgstr ""
+msgstr "A děkujte za ně hvězdám, jinak by nám Rizzo's Purpleberry Crunch došel už dávno."
 
 #: conversations/04_monarch/0402/0402_cv_grimm:219
 msgctxt "conversations/04_monarch/0402/0402_cv_grimm:219:DefaultText"
 msgid "Oh, that'll just make Mr. Sanjar's day if you tell him. The Board makes up lots of nasty stories about raptidons and cannibals and whatnot."
-msgstr ""
+msgstr "To by pana Sanjara potěšilo, kdybys mu to řekla. Rada si vymýšlí spoustu hnusných historek o raptidonech a kanibalech a tak."
 
 #: conversations/04_monarch/0402/0402_cv_grimm:220
 msgctxt "conversations/04_monarch/0402/0402_cv_grimm:220:DefaultText"
 msgid "I'm gonna have a look around town."
-msgstr ""
+msgstr "Porozhlédnu se po městě."
 
 #: conversations/04_monarch/0402/0402_cv_grimm:221
 msgctxt "conversations/04_monarch/0402/0402_cv_grimm:221:DefaultText"
 msgid "Mr. Sanjar'll be mighty pleased to meet you. If you see him over at headquarters, maybe you could tell him I did a bang-up job of welcoming you?"
-msgstr ""
+msgstr "Pan Sanjar vás velmi rád pozná. Až ho uvidíte na velitelství, možná byste mu mohl říct, že jsem vás přivítal skvěle."
 
 #: conversations/04_monarch/0402/0402_cv_grimm:222
 msgctxt "conversations/04_monarch/0402/0402_cv_grimm:222:DefaultText"
 msgid "But that's all outside our walls. Mostly."
-msgstr ""
+msgstr "Ale to vše je mimo naše zdi. Většinou."
 
 #: conversations/04_monarch/0402/0402_cv_grimm:223
 msgctxt "conversations/04_monarch/0402/0402_cv_grimm:223:DefaultText"
 msgid "Business? Well, Mr. Sanjar's gonna like the sound of that."
-msgstr ""
+msgstr "Podnikání? No, panu Sanjarovi se to bude líbit."
 
 #: conversations/04_monarch/0402/0402_cv_grimm:224
 msgctxt "conversations/04_monarch/0402/0402_cv_grimm:224:DefaultText"
 msgid "You may not have heard - you being new - but Stellar Bay hardly ever gets offworld traffic. Us being cut off by the Board and all."
-msgstr ""
+msgstr "Možná jste to neslyšeli, protože jste tu noví, ale ve Stellar Bay není téměř žádný mimozemský provoz. Jsme odříznuti Radou a tak."
 
 #: conversations/04_monarch/0402/0402_cv_grimm:225
 msgctxt "conversations/04_monarch/0402/0402_cv_grimm:225:DefaultText"
 msgid "Whatever, I'm not here for chit-chat. "
-msgstr ""
+msgstr "To je jedno, nejsem tu kvůli klábosení. "
 
 #: conversations/04_monarch/0402/0402_cv_grimm:226
 msgctxt "conversations/04_monarch/0402/0402_cv_grimm:226:DefaultText"
 msgid "Wait! Don't go just yet. I've been practicing for this. Here goes."
-msgstr ""
+msgstr "Počkejte! Ještě neodcházejte. Trénoval jsem na to. A je to tady."
 
 #: conversations/04_monarch/0402/0402_cv_grimm:228
 msgctxt "conversations/04_monarch/0402/0402_cv_grimm:228:DefaultText"
 msgid "Have you had time to check on that poster yet? I keep wondering if it's come in."
-msgstr ""
+msgstr "Už jsi měl čas zkontrolovat ten plakát? Pořád si říkám, jestli už přišel."
 
 #: conversations/04_monarch/0402/0402_cv_grimm:229
 msgctxt "conversations/04_monarch/0402/0402_cv_grimm:229:DefaultText"
 msgid "Oh, and if you're headed that way, maybe you could do me a favor?"
-msgstr ""
+msgstr "A jestli máš namířeno tam, možná bys mi mohl prokázat laskavost?"
 
 #: conversations/04_monarch/0402/0402_cv_grimm:230
 msgctxt "conversations/04_monarch/0402/0402_cv_grimm:230:DefaultText"
 msgid "Hey, you're still around. Think you got time to help me out?"
-msgstr ""
+msgstr "Ahoj, pořád jsi tady. Myslíš, že máš čas mi pomoct?"
 
 #: conversations/04_monarch/0402/0402_cv_grimm:231
 msgctxt "conversations/04_monarch/0402/0402_cv_grimm:231:DefaultText"
 msgid "That depends. What is it?"
-msgstr ""
+msgstr "Záleží na tom. Co to je?"
 
 #: conversations/04_monarch/0402/0402_cv_grimm:232
 msgctxt "conversations/04_monarch/0402/0402_cv_grimm:232:DefaultText"
 msgid "I don't have time for this."
-msgstr ""
+msgstr "Nemám na to čas."
 
 #: conversations/04_monarch/0402/0402_cv_grimm:233
 msgctxt "conversations/04_monarch/0402/0402_cv_grimm:233:DefaultText"
 msgid "I got this Rizzo's Rangers tossball poster coming in on the next SubLight shipment. Signed by the Black Hole himself!"
-msgstr ""
+msgstr "V příští zásilce SubLight mi přijde plakát Rizzo's Rangers tossball. Podepsaný samotným Black Holem!"
 
 #: conversations/04_monarch/0402/0402_cv_grimm:234
 msgctxt "conversations/04_monarch/0402/0402_cv_grimm:234:DefaultText"
 msgid "Only, I haven't heard anything in a while. You think you could check with Celia to see if it's come in?"
-msgstr ""
+msgstr "Jenže jsem už dlouho nic neslyšel. Myslíš, že bys mohl zkontrolovat Celii, jestli už to přišlo?"
 
 #: conversations/04_monarch/0402/0402_cv_grimm:235
 msgctxt "conversations/04_monarch/0402/0402_cv_grimm:235:DefaultText"
 msgid "Sure, I can ask about your poster."
-msgstr ""
+msgstr "Jistě, mohu se zeptat na váš plakát."
 
 #: conversations/04_monarch/0402/0402_cv_grimm:236
 msgctxt "conversations/04_monarch/0402/0402_cv_grimm:236:DefaultText"
 msgid "Who's the Black Hole?"
-msgstr ""
+msgstr "Kdo je černá díra?"
 
 #: conversations/04_monarch/0402/0402_cv_grimm:238
 msgctxt "conversations/04_monarch/0402/0402_cv_grimm:238:DefaultText"
 msgid "This poster sounds pretty valuable."
-msgstr ""
+msgstr "Tento plakát zní docela hodnotně."
 
 #: conversations/04_monarch/0402/0402_cv_grimm:239
 msgctxt "conversations/04_monarch/0402/0402_cv_grimm:239:DefaultText"
 msgid "Celia's dead."
-msgstr ""
+msgstr "Celia je mrtvá."
 
 #: conversations/04_monarch/0402/0402_cv_grimm:240
 msgctxt "conversations/04_monarch/0402/0402_cv_grimm:240:DefaultText"
 msgid "Thanks a bunch! Celia works for Mr. Sanjar in the MSI building, next to the bar. She's always there, so you can't miss her."
-msgstr ""
+msgstr "Děkujeme! Celia pracuje pro pana Sanjara v budově MSI vedle baru. Je tam pořád, takže ji nemůžete minout."
 
 #: conversations/04_monarch/0402/0402_cv_grimm:241
 msgctxt "conversations/04_monarch/0402/0402_cv_grimm:241:DefaultText"
 msgid "That's a real shame - I always liked her. She never yelled at me for asking all my questions. "
-msgstr ""
+msgstr "To je opravdu škoda - vždycky jsem ji měl rád. Nikdy na mě nekřičela, že se ptám na všechno možné. "
 
 #: conversations/04_monarch/0402/0402_cv_grimm:242
 msgctxt "conversations/04_monarch/0402/0402_cv_grimm:242:DefaultText"
 msgid "That's Bertie Holcomb! Only one of the greatest tossball hackers ever. "
-msgstr ""
+msgstr "To je Bertie Holcomb! Jeden z nejlepších hackerů v historii. "
 
 #: conversations/04_monarch/0402/0402_cv_grimm:244
 msgctxt "conversations/04_monarch/0402/0402_cv_grimm:244:DefaultText"
 msgid "I couldn't really say - I'm just a fan of the game."
-msgstr ""
+msgstr "To nemohu říct - jsem jen fanoušek hry."
 
 #: conversations/04_monarch/0402/0402_cv_grimm:245
 msgctxt "conversations/04_monarch/0402/0402_cv_grimm:245:DefaultText"
 msgid "Everyone's heard of him - even on Monarch, we still get some of the games. You been living in a sulfur pit or something?"
-msgstr ""
+msgstr "Všichni o něm slyšeli - dokonce i na Monarchu se k nám stále dostávají některé hry. Žil jsi v sírové jámě nebo co?"
 
 #: conversations/04_monarch/0402/0402_cv_grimm:247
 msgctxt "conversations/04_monarch/0402/0402_cv_grimm:247:DefaultText"
 msgid "Aw, you're real funny. Guess I don't feel so bad for missing what goes on in the rest of Stellar Bay."
-msgstr ""
+msgstr "Jsi opravdu vtipný. Asi se necítím tak špatně, že mi uniká, co se děje ve zbytku Hvězdné zátoky."
 
 #: conversations/04_monarch/0402/0402_cv_grimm:249
 msgctxt "conversations/04_monarch/0402/0402_cv_grimm:249:DefaultText"
 msgid "But the fancy collector types say the more people see these things, the less valuable they are. And I figure my poster's been passed around by more than a few people by now."
-msgstr ""
+msgstr "Ale sběratelští fajnšmekři tvrdí, že čím více lidí tyto věci vidí, tím méně jsou cenné. A já si myslím, že můj plakát už prošel rukama víc než pár lidí."
 
 #: conversations/04_monarch/0402/0402_cv_grimm:250
 msgctxt "conversations/04_monarch/0402/0402_cv_grimm:250:DefaultText"
 msgid "If you're willing to help, you could go ask Velma at the warehouse. I'd do it myself, but she told me she'd stuff me in one of her crates if I bothered her again."
-msgstr ""
+msgstr "Jestli chceš pomoct, můžeš se jít zeptat Velmy do skladu. Udělal bych to sám, ale řekla mi, že mě nacpe do jedné z jejích beden, jestli ji budu ještě jednou obtěžovat."
 
 #: conversations/04_monarch/0402/0402_cv_grimm:252
 msgctxt "conversations/04_monarch/0402/0402_cv_grimm:252:DefaultText"
 msgid "Fine, I'll ask Velma for you."
-msgstr ""
+msgstr "Dobře, zeptám se Velmy místo tebe."
 
 #: conversations/04_monarch/0402/0402_cv_grimm:253
 msgctxt "conversations/04_monarch/0402/0402_cv_grimm:253:DefaultText"
 msgid "I would, but Velma's dead, too."
-msgstr ""
+msgstr "Já bych to udělal, ale Velma je taky mrtvá."
 
 #: conversations/04_monarch/0402/0402_cv_grimm:254
 msgctxt "conversations/04_monarch/0402/0402_cv_grimm:254:DefaultText"
 msgid "Thanks a bunch! Just approach her real slow and cautious-like. "
-msgstr ""
+msgstr "Děkujeme! Jen se k ní přibližujte opravdu pomalu a opatrně. "
 
 #: conversations/04_monarch/0402/0402_cv_grimm:255
 msgctxt "conversations/04_monarch/0402/0402_cv_grimm:255:DefaultText"
 msgid "By the void, both of them? Next you're gonna tell me Doc Williams kicked it. "
-msgstr ""
+msgstr "Do prázdna, oba? Příště mi řekneš, že to kopl Doc Williams. "
 
 #: conversations/04_monarch/0402/0402_cv_grimm:256
 msgctxt "conversations/04_monarch/0402/0402_cv_grimm:256:DefaultText"
 msgid "That's sad about Velma, too, but maybe you could check her office for that poster. I mean, she's not gonna mind now, is she?"
-msgstr ""
+msgstr "To s Velmou je taky smutné, ale možná byste se mohli podívat do její kanceláře, jestli tam není ten plakát. Myslím, že jí to teď nebude vadit, že ne?"
 
 #: conversations/04_monarch/0402/0402_cv_grimm:257
 msgctxt "conversations/04_monarch/0402/0402_cv_grimm:257:DefaultText"
 msgid "I can do that."
-msgstr ""
+msgstr "To zvládnu."
 
 #: conversations/04_monarch/0402/0402_cv_grimm:258
 msgctxt "conversations/04_monarch/0402/0402_cv_grimm:258:DefaultText"
 msgid "Thanks a bunch. And watch your step when you're wandering around town - not sure what's going around, but it sounds mighty bad."
-msgstr ""
+msgstr "Děkujeme. A dávej si pozor, kam šlapeš, až se budeš potulovat po městě - nevím, co se to tu děje, ale zní to moc špatně."
 
 #: conversations/04_monarch/0402/0402_cv_grimm:259
 msgctxt "conversations/04_monarch/0402/0402_cv_grimm:259:DefaultText"
 msgid "<Give him the poster.> Here it is."
-msgstr ""
+msgstr "<Podejte mu plakát.> Tady je."
 
 #: conversations/04_monarch/0402/0402_cv_grimm:260
 msgctxt "conversations/04_monarch/0402/0402_cv_grimm:260:DefaultText"
 msgid "What's the favor again? Something about a poster?"
-msgstr ""
+msgstr "O jakou laskavost se jedná? Něco o plakátu?"
 
 #: conversations/04_monarch/0402/0402_cv_grimm:261
 msgctxt "conversations/04_monarch/0402/0402_cv_grimm:261:DefaultText"
 msgid "Remind me, what's so special about this poster?"
-msgstr ""
+msgstr "Připomeňte mi, co je na tomto plakátu tak zvláštního?"
 
 #: conversations/04_monarch/0402/0402_cv_grimm:262
 msgctxt "conversations/04_monarch/0402/0402_cv_grimm:262:DefaultText"
 msgid "It's signed by Bertie \"Black Hole\" Holcomb, one of the greatest hackers who ever played tossball!"
-msgstr ""
+msgstr "Je podepsaná Bertiem \"Black Holem\" Holcombem, jedním z nejlepších hackerů, kteří kdy hráli tossball!"
 
 #: conversations/04_monarch/0402/0402_cv_grimm:263
 msgctxt "conversations/04_monarch/0402/0402_cv_grimm:263:DefaultText"
 msgid "Celia's dead."
-msgstr ""
+msgstr "Celia je mrtvá."
 
 #: conversations/04_monarch/0402/0402_cv_grimm:264
 msgctxt "conversations/04_monarch/0402/0402_cv_grimm:264:DefaultText"
 msgid "Nell's getting the poster. She offered Velma more."
-msgstr ""
+msgstr "Nell dostane plakát. Nabídla Velmě další."
 
 #: conversations/04_monarch/0402/0402_cv_grimm:267
 msgctxt "conversations/04_monarch/0402/0402_cv_grimm:267:DefaultText"
 msgid "Would you look at that! The Rizzo's logo is nice and bright, and you can still smell the ink in Mr. Holcomb's signature!"
-msgstr ""
+msgstr "Podívejte se na to! Logo Rizzo's je pěkné a jasné a z podpisu pana Holcomba je stále cítit inkoust!"
 
 #: conversations/04_monarch/0402/0402_cv_grimm:269
 msgctxt "conversations/04_monarch/0402/0402_cv_grimm:269:DefaultText"
 msgid "That don't seem fair. I was the one who asked for it in the first place."
-msgstr ""
+msgstr "To mi nepřipadá fér. To já jsem o to požádal."
 
 #: conversations/04_monarch/0402/0402_cv_grimm:270
 msgctxt "conversations/04_monarch/0402/0402_cv_grimm:270:DefaultText"
 msgid "And you know what? Take my old tossball blocker, too. Never get the chance to use it these days."
-msgstr ""
+msgstr "A víte co? Vezměte si i můj starý blokátor míčků. Nikdy jsem ho neměl šanci použít."
 
 #: conversations/04_monarch/0402/0402_cv_grimm:273
 msgctxt "conversations/04_monarch/0402/0402_cv_grimm:273:DefaultText"
 msgid "You think maybe you could talk to Velma? See if she won't change her mind?"
-msgstr ""
+msgstr "Myslíš, že by sis mohl promluvit s Velmou? Jestli si to nerozmyslí?"
 
 #: conversations/04_monarch/0402/0402_cv_grimm:274
 msgctxt "conversations/04_monarch/0402/0402_cv_grimm:274:DefaultText"
 msgid "I'm sorry, Velma's decided."
-msgstr ""
+msgstr "Je mi líto, Velma se rozhodla."
 
 #: conversations/04_monarch/0402/0402_cv_grimm:275
 msgctxt "conversations/04_monarch/0402/0402_cv_grimm:275:DefaultText"
 msgid "I'll see what I can do."
-msgstr ""
+msgstr "Uvidím, co se dá dělat."
 
 #: conversations/04_monarch/0402/0402_cv_grimm:276
 msgctxt "conversations/04_monarch/0402/0402_cv_grimm:276:DefaultText"
 msgid "Oh. Well, thanks for trying anyway. Guess I'd still be wondering otherwise. Take a few bits and head on down to the bar."
-msgstr ""
+msgstr "Oh. No, i tak děkuji za snahu. Jinak bych si asi pořád lámal hlavu. Vezmi si pár kousků a jdi do baru."
 
 #: conversations/04_monarch/0402/0402_cv_grimm:277
 msgctxt "conversations/04_monarch/0402/0402_cv_grimm:277:DefaultText"
 msgid "I wonder if he's kin? Dad had family that worked for Rizzo's. I never got to meet them."
-msgstr ""
+msgstr "Zajímalo by mě, jestli je příbuzný? Táta měl rodinu, která pracovala pro Rizzo's. Nikdy jsem se s nimi nesetkal."
 
 #: conversations/04_monarch/0402/0402_cv_grimm:282
 msgctxt "conversations/04_monarch/0402/0402_cv_grimm:282:DefaultText"
 msgid "Well, that IS my ship on the landing pad right next to you."
-msgstr ""
+msgstr "No, to je moje loď na přistávací ploše hned vedle vás."
 
 #: conversations/04_monarch/0402/0402_cv_grimm:283
 msgctxt "conversations/04_monarch/0402/0402_cv_grimm:283:DefaultText"
 msgid "Hate to break it to you, but I've been in Stellar Bay a while."
-msgstr ""
+msgstr "Nerad ti to říkám, ale ve Hvězdné zátoce jsem už nějakou dobu."
 
 #: conversations/04_monarch/0402/0402_cv_grimm:284
 msgctxt "conversations/04_monarch/0402/0402_cv_grimm:284:DefaultText"
 msgid "I knew it! See, I made what you'd call a logical deduction."
-msgstr ""
+msgstr "Já to věděl! Vidíte, udělal jsem to, čemu se říká logická dedukce."
 
 #: conversations/04_monarch/0402/0402_cv_grimm:285
 msgctxt "conversations/04_monarch/0402/0402_cv_grimm:285:DefaultText"
 msgid "Well, spit and sulfur. Mr. Sanjar keeps me posted at this landing pad, so I don't hardly know anything about what goes on in town."
-msgstr ""
+msgstr "No, sliny a síra. Pan Sanjar mě na tomhle přistávacím můstku informuje, takže o tom, co se děje ve městě, skoro nic nevím."
 
 #: conversations/04_monarch/0402/0402_cv_grimm:286
 msgctxt "conversations/04_monarch/0402/0402_cv_grimm:286:DefaultText"
 msgid "Maybe YOU haven't heard, but Sanjar's already applied for readmission."
-msgstr ""
+msgstr "Možná jste to neslyšeli, ale Sanjar už požádal o opětovné přijetí."
 
 #: conversations/04_monarch/0402/0402_cv_grimm:287
 msgctxt "conversations/04_monarch/0402/0402_cv_grimm:287:DefaultText"
 msgid "Still, you're here now, and that means I finally get to do this part. Okay. Here goes."
-msgstr ""
+msgstr "Přesto jsi teď tady, a to znamená, že konečně můžu udělat tuhle část. Dobře. Tak jdeme na to."
 
 #: conversations/04_monarch/0402/0402_cv_grimm:288
 msgctxt "conversations/04_monarch/0402/0402_cv_grimm:288:DefaultText"
 msgid "He what?! Aw, no one tells me anything."
-msgstr ""
+msgstr "On co?! Nikdo mi nic neříká."
 
 #: conversations/04_monarch/0402/0402_cv_grimm:289
 msgctxt "conversations/04_monarch/0402/0402_cv_grimm:289:DefaultText"
 msgid "But hang on, that means we'll be getting even more ships in soon, right? So I gotta work on my greeting. Here goes."
-msgstr ""
+msgstr "Ale počkejte, to znamená, že brzy dostaneme ještě více lodí, že? Takže musím zapracovat na svém pozdravu. Tady to je."
 
 #: conversations/04_monarch/0402/0402_cv_grimm:290
 msgctxt "conversations/04_monarch/0402/0402_cv_grimm:290:DefaultText"
 msgid "Are you saying the Board's been lying about this place?"
-msgstr ""
+msgstr "Chcete říct, že rada o tomto místě lže?"
 
 #: conversations/04_monarch/0402/0402_cv_grimm:291
 msgctxt "conversations/04_monarch/0402/0402_cv_grimm:291:DefaultText"
 msgid "Oh, sure! They make Stellar Bay sound like a rotten place, but it's not so bad. Get a good breeze going, and the sulfur smell mostly covers up the fishy smell."
-msgstr ""
+msgstr "Jistě! V jejich podání vypadá Stellar Bay jako zkažené místo, ale není to tak zlé. Když pořádně fouká, sirný zápach většinou překryje rybí pach."
 
 #: conversations/04_monarch/0402/0402_cv_grimm:292
 msgctxt "conversations/04_monarch/0402/0402_cv_grimm:292:DefaultText"
 msgid "Anyway, Mr. Sanjar's got lots to say on that subject. Kinda goes over my head, though."
-msgstr ""
+msgstr "Každopádně pan Sanjar má k tomuto tématu co říct. Trochu mi to ale přerůstá přes hlavu."
 
 #: conversations/04_monarch/0402/0402_cv_grimm:294
 msgctxt "conversations/04_monarch/0402/0402_cv_grimm:294:DefaultText"
 msgid "Actually, I've been in hibernation for decades."
-msgstr ""
+msgstr "Vlastně jsem už desítky let v hibernaci."
 
 #: conversations/04_monarch/0402/0402_cv_grimm:295
 msgctxt "conversations/04_monarch/0402/0402_cv_grimm:295:DefaultText"
 msgid "But why's he called the Black Hole?"
-msgstr ""
+msgstr "Ale proč se mu říká Černá díra?"
 
 #: conversations/04_monarch/0402/0402_cv_grimm:296
 msgctxt "conversations/04_monarch/0402/0402_cv_grimm:296:DefaultText"
 msgid "Whatever, I don't really care."
-msgstr ""
+msgstr "To je jedno, je mi to jedno."
 
 #: conversations/04_monarch/0402/0402_cv_grimm:297
 msgctxt "conversations/04_monarch/0402/0402_cv_grimm:297:DefaultText"
 msgid "Aw, you must be a Hammers fan for sure."
-msgstr ""
+msgstr "Určitě jsi fanoušek Hammers."
 
 #: conversations/04_monarch/0402/0402_cv_grimm:298
 msgctxt "conversations/04_monarch/0402/0402_cv_grimm:298:DefaultText"
 msgid "On account of him being the best hacker who ever played! Nothing gets by him - he sucks up every ball that comes his way."
-msgstr ""
+msgstr "Protože je to nejlepší hacker, který kdy hrál! Nic mu neprojde - vysaje každý míč, který mu přijde do cesty."
 
 #: conversations/04_monarch/0402/0402_cv_grimm:299
 msgctxt "conversations/04_monarch/0402/0402_cv_grimm:299:DefaultText"
 msgid "Okay, that's all I ever need to hear on that subject."
-msgstr ""
+msgstr "Dobře, to je vše, co jsem k tomuto tématu potřeboval slyšet."
 
 #: conversations/04_monarch/0402/0402_cv_grimm:300
 msgctxt "conversations/04_monarch/0402/0402_cv_grimm:300:DefaultText"
 msgid "Maybe word that differently."
-msgstr ""
+msgstr "Možná to formulujte jinak."
 
 #: conversations/04_monarch/0402/0402_cv_grimm:301
 msgctxt "conversations/04_monarch/0402/0402_cv_grimm:301:DefaultText"
 msgid "Whatever you say! I could talk tossball for hours."
-msgstr ""
+msgstr "Jak myslíš! Mohl bych o tom mluvit celé hodiny."
 
 #: conversations/04_monarch/0402/0402_cv_grimm:302
 msgctxt "conversations/04_monarch/0402/0402_cv_grimm:302:DefaultText"
 msgid "Well, Holcomb's had lots of nicknames over his career. Used to be the Tally Whacker on account of what he'd do to the score. "
-msgstr ""
+msgstr "Holcomb měl během své kariéry spoustu přezdívek. Dříve se mu říkalo Tally Whacker kvůli tomu, co dělal se skóre. "
 
 #: conversations/04_monarch/0402/0402_cv_grimm:303
 msgctxt "conversations/04_monarch/0402/0402_cv_grimm:303:DefaultText"
 msgid "Before that he was the Slick Stick 'cause his shots were always so smooth."
-msgstr ""
+msgstr "Předtím se mu říkalo Slick Stick, protože jeho střely byly vždy tak hladké."
 
 #: conversations/04_monarch/0402/0402_cv_grimm:304
 msgctxt "conversations/04_monarch/0402/0402_cv_grimm:304:DefaultText"
 msgid "Let's not talk about this ever again."
-msgstr ""
+msgstr "Už o tom nikdy nebudeme mluvit."
 
 #: conversations/04_monarch/0402/0402_cv_grimm:305
 msgctxt "conversations/04_monarch/0402/0402_cv_grimm:305:DefaultText"
 msgid "You're making this up."
-msgstr ""
+msgstr "To si vymýšlíte."
 
 #: conversations/04_monarch/0402/0402_cv_grimm:306
 msgctxt "conversations/04_monarch/0402/0402_cv_grimm:306:DefaultText"
 msgid "I swear I'm not! At the start of his career, people called him the Hack Boss, but no one thought that was very catchy."
-msgstr ""
+msgstr "Přísahám, že nejsem! Na začátku jeho kariéry mu lidé říkali Hack Boss, ale nikomu to nepřišlo moc chytlavé."
 
 #: conversations/04_monarch/0402/0402_cv_grimm:307
 msgctxt "conversations/04_monarch/0402/0402_cv_grimm:307:DefaultText"
 msgid "You know, you really are a little too persistent about this."
-msgstr ""
+msgstr "Víš, že jsi v tomhle opravdu až příliš vytrvalý?"
 
 #: conversations/04_monarch/0402/0402_cv_grimm:308
 msgctxt "conversations/04_monarch/0402/0402_cv_grimm:308:DefaultText"
 msgid "Sorry, I just get so excited. And I always feel like I miss everything that happens in town while I'm up here."
-msgstr ""
+msgstr "Omlouvám se, ale jsem tak vzrušená. A vždycky mám pocit, že mi uniká všechno, co se ve městě děje, když jsem tady nahoře."
 
 #: conversations/04_monarch/0402/0402_cv_grimm:309
 msgctxt "conversations/04_monarch/0402/0402_cv_grimm:309:DefaultText"
 msgid "So go tell Mr. Sanjar to kick rocks. Life's too short for landing pad duty."
-msgstr ""
+msgstr "Tak běžte říct panu Sanjarovi, ať si kopne do kamene. Život je příliš krátký na to, abyste měli službu na přistávací ploše."
 
 #: conversations/04_monarch/0402/0402_cv_grimm:312
 msgctxt "conversations/04_monarch/0402/0402_cv_grimm:312:DefaultText"
 msgid "Did he just say raptidons and cannibals? I can't wait."
-msgstr ""
+msgstr "Řekl právě raptidoni a kanibalové? Už se nemůžu dočkat."
 
 #: conversations/04_monarch/0402/0402_cv_grimm:313
 msgctxt "conversations/04_monarch/0402/0402_cv_grimm:313:DefaultText"
 msgid "Ah, the nostalgic stench of home. Can't say I missed the day to day of living in Edgewater."
-msgstr ""
+msgstr "Ach, ten nostalgický zápach domova. Nemůžu říct, že by mi chyběl každodenní život v Edgewateru."
 
 #: conversations/04_monarch/0402/0402_cv_grimm:314
 msgctxt "conversations/04_monarch/0402/0402_cv_grimm:314:DefaultText"
 msgid "Boss. Come on. Black Hole Bertie. The Hole-meister. The Hack-Attack."
-msgstr ""
+msgstr "Šéf. No tak. Černá díra Bertie. Hole-meister. Hack-Attack."
 
 #: conversations/04_monarch/0402/0402_cv_grimm:315
 msgctxt "conversations/04_monarch/0402/0402_cv_grimm:315:DefaultText"
 msgid "Only, I haven't heard anything in a while. You think you could check with Velma at the warehouse to see if it's come in?"
-msgstr ""
+msgstr "Jenže jsem už dlouho nic neslyšel. Myslíš, že bys mohl zkontrolovat Velmu ve skladu, jestli to přišlo?"
 
 #: conversations/04_monarch/0402/0402_cv_grimm:316
 msgctxt "conversations/04_monarch/0402/0402_cv_grimm:316:DefaultText"
 msgid "Only, I haven't heard anything in a while. You think you could check out Velma's office for me, see if you can find the poster?"
-msgstr ""
+msgstr "Jenže jsem už dlouho nic neslyšel. Myslíš, že bys pro mě mohl zkontrolovat Velminu kancelář, jestli nenajdeš ten plakát?"
 
 #: conversations/04_monarch/0402/0402_cv_grimm:317
 msgctxt "conversations/04_monarch/0402/0402_cv_grimm:317:DefaultText"
 msgid "Sure, I can look for your poster."
-msgstr ""
+msgstr "Jistě, mohu se podívat po vašem plakátu."
 
 #: conversations/04_monarch/0402/0402_cv_grimm:318
 msgctxt "conversations/04_monarch/0402/0402_cv_grimm:318:DefaultText"
 msgid "You must've seen those UDL gunships on your way in. There's only three of 'em these days. Still, they tend to scare folk off."
-msgstr ""
+msgstr "Cestou dovnitř jsi musel vidět dělové lodě UDL. Dneska jsou tam jenom tři. Přesto mají tendenci lidi děsit."
 
 #: conversations/04_monarch/0402/0402_cv_grimm:319
 msgctxt "conversations/04_monarch/0402/0402_cv_grimm:319:DefaultText"
 msgid "What are they doing out there?"
-msgstr ""
+msgstr "Co tam dělají?"
 
 #: conversations/04_monarch/0402/0402_cv_grimm:320
 msgctxt "conversations/04_monarch/0402/0402_cv_grimm:320:DefaultText"
 msgid "Takes more than a few gunships to scare me."
-msgstr ""
+msgstr "Chce to víc než jen pár dělostřeleckých lodí, aby mě to vyděsilo."
 
 #: conversations/04_monarch/0402/0402_cv_grimm:321
 msgctxt "conversations/04_monarch/0402/0402_cv_grimm:321:DefaultText"
 msgid "Wish more folk could say that. Gets awful quiet guarding a landing pad that never gets used."
-msgstr ""
+msgstr "Kéž by to mohlo říct více lidí. Hlídání přistávací plochy, která se nikdy nepoužívá, je strašně tiché."
 
 #: conversations/04_monarch/0402/0402_cv_grimm:322
 msgctxt "conversations/04_monarch/0402/0402_cv_grimm:322:DefaultText"
 msgid "I can't thank you enough. Still, you can have the bits I was gonna spend at the bar this week."
-msgstr ""
+msgstr "Nemohu vám dostatečně poděkovat. Přesto si můžeš vzít ty peníze, které jsem chtěl tento týden utratit v baru."
 
 #: conversations/04_monarch/0402/0402_cv_grimm:324
 msgctxt "conversations/04_monarch/0402/0402_cv_grimm:324:DefaultText"
 msgid "You mean this poster right here?"
-msgstr ""
+msgstr "Myslíte tento plakát?"
 
 #: conversations/04_monarch/0402/0402_cv_grimm:326
 msgctxt "conversations/04_monarch/0402/0402_cv_grimm:326:DefaultText"
 msgid "But I like this job! It's the best way to see who's coming and going from Stellar Bay."
-msgstr ""
+msgstr "Ale mně se tahle práce líbí! Je to nejlepší způsob, jak zjistit, kdo přichází a odchází ze Stellar Bay."
 
 #: conversations/04_monarch/0402/0402_cv_grimm:327
 msgctxt "conversations/04_monarch/0402/0402_cv_grimm:327:DefaultText"
 msgid "Which means I get to do my favorite part. Okay."
-msgstr ""
+msgstr "Což znamená, že můžu dělat svou oblíbenou část. Dobře."

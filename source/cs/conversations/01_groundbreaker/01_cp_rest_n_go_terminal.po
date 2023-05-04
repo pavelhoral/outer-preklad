@@ -4,22 +4,22 @@ msgid "Rest–N–Go Guest Terminal\n"
 "=====================\r\n"
 "\r\n"
 "Main menu"
-msgstr ""
+msgstr "Terminál pro hosty Rest-N-Go ===================== Hlavní nabídka"
 
 #: conversations/01_groundbreaker/01_cp_rest_n_go_terminal:2
 msgctxt "conversations/01_groundbreaker/01_cp_rest_n_go_terminal:2:DefaultText"
 msgid "[Pay-to-View Movies]"
-msgstr ""
+msgstr "[Placené filmy]"
 
 #: conversations/01_groundbreaker/01_cp_rest_n_go_terminal:3
 msgctxt "conversations/01_groundbreaker/01_cp_rest_n_go_terminal:3:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"
 
 #: conversations/01_groundbreaker/01_cp_rest_n_go_terminal:4
 msgctxt "conversations/01_groundbreaker/01_cp_rest_n_go_terminal:4:DefaultText"
 msgid "[Access Guest Messages]"
-msgstr ""
+msgstr "[Přístup ke zprávám pro hosty]"
 
 #: conversations/01_groundbreaker/01_cp_rest_n_go_terminal:5
 msgctxt "conversations/01_groundbreaker/01_cp_rest_n_go_terminal:5:DefaultText"
@@ -31,22 +31,22 @@ msgid "Rest–N–Go Guest Terminal\n"
 "Entertainment cartridges are available for rent at the main desk. \r\n"
 "\r\n"
 "There are currently _0_ cartridges in stock."
-msgstr ""
+msgstr "Terminál pro hosty Rest-N-Go ===================== POZNÁMKA: Služba Pay-to-View je určena pouze pro hosty na úrovni Diamond Level, ale neváhejte si prohlédnout náš katalog! Zábavní kazety si můžete zapůjčit na hlavní přepážce. V současné době je na skladě _0_ kazet."
 
 #: conversations/01_groundbreaker/01_cp_rest_n_go_terminal:6
 msgctxt "conversations/01_groundbreaker/01_cp_rest_n_go_terminal:6:DefaultText"
 msgid "[My Big Canid Friend]"
-msgstr ""
+msgstr "[Můj velký psí přítel]"
 
 #: conversations/01_groundbreaker/01_cp_rest_n_go_terminal:7
 msgctxt "conversations/01_groundbreaker/01_cp_rest_n_go_terminal:7:DefaultText"
 msgid "[Nanner Spank VII - Primal Affections]"
-msgstr ""
+msgstr "[Nanner Spank VII - Primal Affections]"
 
 #: conversations/01_groundbreaker/01_cp_rest_n_go_terminal:9
 msgctxt "conversations/01_groundbreaker/01_cp_rest_n_go_terminal:9:DefaultText"
 msgid "[Return to Root]"
-msgstr ""
+msgstr "[Zpět na kořen]"
 
 #: conversations/01_groundbreaker/01_cp_rest_n_go_terminal:10
 msgctxt "conversations/01_groundbreaker/01_cp_rest_n_go_terminal:10:DefaultText"
@@ -56,7 +56,7 @@ msgid "Rest–N–Go Guest Terminal\n"
 "Synopsis: A lab-grown giant canid goes on an adorable rampage, leading a family of scientists on a wild chase across Emerald Vale. Spending the holiday away from home proves to be a chore, but the family soon realizes that true friends are the monsters you meet along the way.\r\n"
 "\r\n"
 "Rated FSR11 for Funtimes, Simulated Rampage, and body count: 11."
-msgstr ""
+msgstr "Rest-N-Go Guest Terminal ===================== Synopse: V laboratoři vypěstovaný obří psovitý tvor začne rozkošně řádit a přivede rodinu vědců na divokou honičku napříč Smaragdovým údolím. Strávit dovolenou mimo domov se ukáže jako nepříjemná povinnost, ale rodina brzy zjistí, že skutečnými přáteli jsou příšery, které potkáte na cestě. Hodnoceno FSR11 za Funtimes, simulované řádění a počet mrtvol: 11."
 
 #: conversations/01_groundbreaker/01_cp_rest_n_go_terminal:11
 msgctxt "conversations/01_groundbreaker/01_cp_rest_n_go_terminal:11:DefaultText"
@@ -66,7 +66,7 @@ msgid "Rest–N–Go Guest Terminal\n"
 "Synopsis: Raised by wilderness primals, one man will leave the jungle he knows to explore the one he doesn't - Keystone. He came for Nanner Spank, but he stayed for love. Can a young, corporate executive collar this creature, or will she awaken the beast within?\r\n"
 "\r\n"
 "Rated PACNS for Passion, Anthropoid, and Consensual Nanner-Spanking."
-msgstr ""
+msgstr "Rest-N-Go Guest Terminal ===================== Synopse: Jeden muž, vychovaný pralesními primáty, opustí džungli, kterou zná, aby prozkoumal tu, kterou nezná - Keystone. Přišel kvůli Nanner Spank, ale zůstal kvůli lásce. Dokáže mladá, korporátní manažerka obkličovat toto stvoření, nebo v něm probudí šelmu? Hodnoceno PACNS za vášeň, antropoid a konsensuální Nanner-Spanking."
 
 #: conversations/01_groundbreaker/01_cp_rest_n_go_terminal:13
 msgctxt "conversations/01_groundbreaker/01_cp_rest_n_go_terminal:13:DefaultText"
@@ -74,17 +74,17 @@ msgid "Rest–N–Go Guest Terminal\n"
 "=====================\r\n"
 "\r\n"
 "Guest Messages - Admin Access"
-msgstr ""
+msgstr "Terminál pro hosty Rest-N-Go ===================== Zprávy pro hosty - přístup správce"
 
 #: conversations/01_groundbreaker/01_cp_rest_n_go_terminal:14
 msgctxt "conversations/01_groundbreaker/01_cp_rest_n_go_terminal:14:DefaultText"
 msgid "[FROM: VERitAs, SUBJECT: Space for the ISCC]"
-msgstr ""
+msgstr "[FROM: VERitAs, SUBJECT: Space for the ISCC]"
 
 #: conversations/01_groundbreaker/01_cp_rest_n_go_terminal:15
 msgctxt "conversations/01_groundbreaker/01_cp_rest_n_go_terminal:15:DefaultText"
 msgid "[FROM: Rizzo_PR, SUBJECT: Please stop] "
-msgstr ""
+msgstr "[FROM: Rizzo_PR, SUBJECT: Please stop] "
 
 #: conversations/01_groundbreaker/01_cp_rest_n_go_terminal:16
 msgctxt "conversations/01_groundbreaker/01_cp_rest_n_go_terminal:16:DefaultText"
@@ -104,7 +104,7 @@ msgid "Rest–N–Go Guest Terminal\n"
 "No fees or nothing. Just let me buy you a beer.\n"
 "\n"
 "-V"
-msgstr ""
+msgstr "Terminál pro hosty Rest-N-Go ===================== OD: PŘEDMĚT: Už je to dlouho, co jsem o tobě slyšel. Právě teď jsi na té dlouhé cestě do Daškova - doufám, že to půjde dobře. Mám pro tebe a tvé místo, až se vrátíš. Je to jen skladiště, ale je tam klid a bezpečněji než v baru. Měla by se tam vejít většina vašich lidí, žádné poplatky ani nic jiného. Jen mě nechte koupit vám pivo. -V"
 
 #: conversations/01_groundbreaker/01_cp_rest_n_go_terminal:17
 msgctxt "conversations/01_groundbreaker/01_cp_rest_n_go_terminal:17:DefaultText"
@@ -120,17 +120,17 @@ msgid "Rest–N–Go Guest Terminal\n"
 "We have reviewed your proposal for the tenth time and still do not agree that \"Galactic Mushroom\" is an acceptable flavor for a Rizzo beverage. Even if we were to pursue the idea, the samples you sent us were dangerously hallucinogenic. The unopened package alone caused mayhem in our receiving bay. \r\n"
 "\r\n"
 "Please don't reach out to us again. "
-msgstr ""
+msgstr "Terminál pro hosty Rest-N-Go ===================== OD: Rizzo_PR TO: PŘEDMĚT: MacRedd, G: Prosíme, zastavte se, pane MacRedde, Váš návrh jsme přezkoumali již podesáté a stále nesouhlasíme s tím, že \"Galaktická houba\" je přijatelná příchuť pro nápoj Rizzo. I kdybychom se tímto nápadem zabývali, vzorky, které jste nám poslal, jsou nebezpečně halucinogenní. Už jen neotevřený balíček způsobil chaos v našem přijímacím prostoru. Prosím, už se na nás neobracejte. "
 
 #: conversations/01_groundbreaker/01_cp_rest_n_go_terminal:18
 msgctxt "conversations/01_groundbreaker/01_cp_rest_n_go_terminal:18:DefaultText"
 msgid "[Serial - Baking with Edna]"
-msgstr ""
+msgstr "[Seriál - Pečení s Ednou]"
 
 #: conversations/01_groundbreaker/01_cp_rest_n_go_terminal:19
 msgctxt "conversations/01_groundbreaker/01_cp_rest_n_go_terminal:19:DefaultText"
 msgid "[Serial - Space Hospital]"
-msgstr ""
+msgstr "[Seriál - Vesmírná nemocnice]"
 
 #: conversations/01_groundbreaker/01_cp_rest_n_go_terminal:20
 msgctxt "conversations/01_groundbreaker/01_cp_rest_n_go_terminal:20:DefaultText"
@@ -138,7 +138,7 @@ msgid "Rest–N–Go Guest Terminal\n"
 "=====================\r\n"
 "\r\n"
 "Synopsis: In this time-honored culinary classic, Chef Edna gives valuable life lessons while she cooks from the Book of Approved Cakes. Learn to maintain a structured kitchen, obey your head chef, achieve a good sponge, and obey your sous-chef. Edna is the boss in her kitchen - now she can be the boss of yours!"
-msgstr ""
+msgstr "Rest-N-Go Guest Terminal ===================== Synopse: V této osvědčené kulinářské klasice dává šéfkuchařka Edna cenné životní lekce a zároveň vaří z Knihy schválených dortů. Naučte se udržovat pořádek v kuchyni, poslouchat svého šéfkuchaře, dosáhnout dobrého piškotů a poslouchat svého pomocného kuchaře. Edna je šéfkou ve své kuchyni - nyní může být šéfkou i ve vaší!"
 
 #: conversations/01_groundbreaker/01_cp_rest_n_go_terminal:21
 msgctxt "conversations/01_groundbreaker/01_cp_rest_n_go_terminal:21:DefaultText"
@@ -148,12 +148,12 @@ msgid "Rest–N–Go Guest Terminal\n"
 "Synopsis: If the walls of Orbital Hospital could talk, they'd shriek with terror. These doctors have seen it all. Zero Gee cyst lancing. Extraterrestrial teratoma. Next, on a very special episode - In order to trap a chem thief, Doctor Margrave must become a serial arsonist. \r\n"
 "\r\n"
 "Don't forget to see \"Space Hospital: Nights\" for steamy suspense. "
-msgstr ""
+msgstr "Terminál pro hosty Rest-N-Go ===================== Synopse: Kdyby zdi Orbitální nemocnice mohly mluvit, ječely by hrůzou. Tito doktoři už zažili všechno. Lancování cysty Zero Gee. Mimozemský teratom. Dále ve velmi speciální epizodě - Aby mohl doktor Margrave polapit zloděje chemikálií, musí se stát sériovým žhářem. Nezapomeňte se podívat na \"Vesmírnou nemocnici: Noční\", kde se dočkáte parného napětí. "
 
 #: conversations/01_groundbreaker/01_cp_rest_n_go_terminal:22
 msgctxt "conversations/01_groundbreaker/01_cp_rest_n_go_terminal:22:DefaultText"
 msgid "[Pay-to-View Serials]"
-msgstr ""
+msgstr "[Placené seriály]"
 
 #: conversations/01_groundbreaker/01_cp_rest_n_go_terminal:23
 msgctxt "conversations/01_groundbreaker/01_cp_rest_n_go_terminal:23:DefaultText"
@@ -165,12 +165,12 @@ msgid "Rest–N–Go Guest Terminal\n"
 "Entertainment cartridges are available for rent at the main desk. \r\n"
 "\r\n"
 "There are currently _0_ cartridges in stock."
-msgstr ""
+msgstr "Terminál pro hosty Rest-N-Go ===================== POZNÁMKA: Služba Pay-to-View je určena pouze pro hosty na úrovni Diamond Level, ale neváhejte si prohlédnout náš katalog! Zábavní kazety si můžete zapůjčit na hlavní přepážce. V současné době je na skladě _0_ kazet."
 
 #: conversations/01_groundbreaker/01_cp_rest_n_go_terminal:24
 msgctxt "conversations/01_groundbreaker/01_cp_rest_n_go_terminal:24:DefaultText"
 msgid "[Serial - Broderick's Brood]"
-msgstr ""
+msgstr "[Seriál - Broderick's Brood]"
 
 #: conversations/01_groundbreaker/01_cp_rest_n_go_terminal:25
 msgctxt "conversations/01_groundbreaker/01_cp_rest_n_go_terminal:25:DefaultText"
@@ -178,12 +178,12 @@ msgid "Rest–N–Go Guest Terminal\n"
 "=====================\r\n"
 "\r\n"
 "Synopsis: An ordinary colony family daydreams of the extraordinary. While Lucia works in the factory canning processed boarst, her ham-handed husband cooks up schemes to land her a big promotion. Will that lovable fool ever learn to be satisfied with what he has? Broderick's Brood is a testament to the \"Less is Success\" family lifestyle. "
-msgstr ""
+msgstr "Rest-N-Go Guest Terminal ===================== Synopse: Obyčejná rodina z kolonie sní o neobyčejných věcech. Zatímco Lucia pracuje v továrně na konzervování zpracovaných divočáků, její křečovitý manžel vymýšlí plány, jak jí zajistit velké povýšení. Naučí se ten roztomilý blázen někdy spokojit s tím, co má? Broderickova rodina je svědectvím o rodinném životním stylu \"méně znamená úspěch\". "
 
 #: conversations/01_groundbreaker/01_cp_rest_n_go_terminal:26
 msgctxt "conversations/01_groundbreaker/01_cp_rest_n_go_terminal:26:DefaultText"
 msgid "[FROM: VERitAS, SUBJECT: Be careful]"
-msgstr ""
+msgstr "[FROM: VERITAS, SUBJECT: Buďte opatrní]"
 
 #: conversations/01_groundbreaker/01_cp_rest_n_go_terminal:27
 msgctxt "conversations/01_groundbreaker/01_cp_rest_n_go_terminal:27:DefaultText"
@@ -199,12 +199,12 @@ msgid "Rest–N–Go Guest Terminal\n"
 "Watch your back when you get in. Don't want to find you in the Waste Disposal chute.\n"
 "\n"
 "-V"
-msgstr ""
+msgstr "Terminál pro hosty Rest-N-Go ===================== OD: PŘEDMĚT: Jeden z UB kvíčal se po tobě ptal. Chtěl vědět, co rád piješ, s kým se bavíš, jakou máš povahu. Pokoušel se mě podplatit. Vzal jsem jí ty kousky a řekl jí snůšku lží. Dávej si pozor na záda, až půjdeš dovnitř. Nechci tě najít v odpadní šachtě. -V"
 
 #: conversations/01_groundbreaker/01_cp_rest_n_go_terminal:28
 msgctxt "conversations/01_groundbreaker/01_cp_rest_n_go_terminal:28:DefaultText"
 msgid "[SUBJECT: STOP LOOKING OR ELSE]"
-msgstr ""
+msgstr "[PŘEDMĚT: PŘESTAŇ SE DÍVAT, JINAK]"
 
 #: conversations/01_groundbreaker/01_cp_rest_n_go_terminal:29
 msgctxt "conversations/01_groundbreaker/01_cp_rest_n_go_terminal:29:DefaultText"
@@ -212,7 +212,7 @@ msgid "Rest–N–Go Guest Terminal\n"
 "=====================\r\n"
 "\r\n"
 "Message contents empty."
-msgstr ""
+msgstr "Rest-N-Go Guest Terminal ===================== Obsah zprávy je prázdný."
 
 #: conversations/01_groundbreaker/01_cp_rest_n_go_terminal:30
 msgctxt "conversations/01_groundbreaker/01_cp_rest_n_go_terminal:30:DefaultText"
@@ -220,7 +220,7 @@ msgid "Rest–N–Go Guest Terminal\n"
 "=====================\r\n"
 "\r\n"
 "This message is no longer accessible at your clearance level."
-msgstr ""
+msgstr "Terminál pro hosty Rest-N-Go ===================== Tato zpráva již není na vaší úrovni oprávnění přístupná."
 
 #: conversations/01_groundbreaker/01_cp_rest_n_go_terminal:32
 msgctxt "conversations/01_groundbreaker/01_cp_rest_n_go_terminal:32:DefaultText"
@@ -228,4 +228,4 @@ msgid "Rest–N–Go Guest Terminal\n"
 "=====================\r\n"
 "\r\n"
 "This message is no longer accessible at your clearance level."
-msgstr ""
+msgstr "Terminál pro hosty Rest-N-Go ===================== Tato zpráva již není na vaší úrovni oprávnění přístupná."

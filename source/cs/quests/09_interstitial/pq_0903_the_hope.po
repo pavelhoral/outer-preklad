@@ -1,121 +1,121 @@
 #: quests/09_interstitial/pq_0903_the_hope:0
 msgctxt "quests/09_interstitial/pq_0903_the_hope:0:DefaultText"
 msgid "Kept Secret But Not Forgotten"
-msgstr ""
+msgstr "Utajeno, ale nezapomenuto"
 
 #: quests/09_interstitial/pq_0903_the_hope:1
 msgctxt "quests/09_interstitial/pq_0903_the_hope:1:DefaultText"
 msgid "Travel to the Hope"
-msgstr ""
+msgstr "Cesta do Naděje"
 
 #: quests/09_interstitial/pq_0903_the_hope:2
 msgctxt "quests/09_interstitial/pq_0903_the_hope:2:DefaultText"
 msgid "Repower the Hope's Skip Drive"
-msgstr ""
+msgstr "Repower the Hope's Skip Drive"
 
 #: quests/09_interstitial/pq_0903_the_hope:3
 msgctxt "quests/09_interstitial/pq_0903_the_hope:3:DefaultText"
 msgid "Skip the Hope"
-msgstr ""
+msgstr "Přeskočit naději"
 
 #: quests/09_interstitial/pq_0903_the_hope:4
 msgctxt "quests/09_interstitial/pq_0903_the_hope:4:DefaultText"
 msgid "Return to Phineas Welles' Lab"
-msgstr ""
+msgstr "Návrat do Phineas Welles' Lab"
 
 #: quests/09_interstitial/pq_0903_the_hope:5
 msgctxt "quests/09_interstitial/pq_0903_the_hope:5:DefaultText"
 msgid "Return to Your Ship"
-msgstr ""
+msgstr "Návrat na loď"
 
 #: quests/09_interstitial/pq_0903_the_hope:8
 msgctxt "quests/09_interstitial/pq_0903_the_hope:8:DefaultText"
 msgid "Patch ADA into the Hope's Communications Systems"
-msgstr ""
+msgstr "Patch ADA do komunikačních systémů společnosti Hope"
 
 #: quests/09_interstitial/pq_0903_the_hope:10000
 msgctxt "quests/09_interstitial/pq_0903_the_hope:10000:DefaultText"
 msgid "Phineas Welles has asked you to skip the Hope to Terra 2.\r\n"
 ""
-msgstr ""
+msgstr "Phineas Welles vás požádal, abyste vynechali Naději na Terru 2."
 
 #: quests/09_interstitial/pq_0903_the_hope:10001
 msgctxt "quests/09_interstitial/pq_0903_the_hope:10001:DefaultText"
 msgid "Land your ship in one of the Hope's docking bays."
-msgstr ""
+msgstr "Přistaňte s lodí v jednom z dokovacích prostorů lodi Hope."
 
 #: quests/09_interstitial/pq_0903_the_hope:10002
 msgctxt "quests/09_interstitial/pq_0903_the_hope:10002:DefaultText"
 msgid "Reroute power from your ship to the Hope's auxiliary power supply."
-msgstr ""
+msgstr "Přesměrujte energii z lodi do pomocného zdroje energie lodi Hope."
 
 #: quests/09_interstitial/pq_0903_the_hope:10003
 msgctxt "quests/09_interstitial/pq_0903_the_hope:10003:DefaultText"
 msgid "Use the main control console to decide where to send the Hope."
-msgstr ""
+msgstr "Pomocí hlavního ovládacího panelu rozhodněte, kam Hope poslat."
 
 #: quests/09_interstitial/pq_0903_the_hope:10004
 msgctxt "quests/09_interstitial/pq_0903_the_hope:10004:DefaultText"
 msgid "With the Hope now orbiting Terra 2, return to Phineas' Lab to speak about the next steps."
-msgstr ""
+msgstr "Naděje nyní krouží na oběžné dráze Terry 2, vraťte se do Phineasovy laboratoře a promluvte si o dalším postupu."
 
 #: quests/09_interstitial/pq_0903_the_hope:10005
 msgctxt "quests/09_interstitial/pq_0903_the_hope:10005:DefaultText"
 msgid "With the Hope now orbiting Tartarus, return to the Unreliable to speak with Sophia."
-msgstr ""
+msgstr "Naděje nyní obíhá kolem Tartaru, vrať se na Nespolehlivou a promluv si se Sofií."
 
 #: quests/09_interstitial/pq_0903_the_hope:10008
 msgctxt "quests/09_interstitial/pq_0903_the_hope:10008:DefaultText"
 msgid "ADA will make sure the ship can be skipped safely."
-msgstr ""
+msgstr "ADA zajistí, aby loď mohla být bezpečně přeskočena."
 
 #: quests/09_interstitial/pq_0903_the_hope:20004
 msgctxt "quests/09_interstitial/pq_0903_the_hope:20004:DefaultText"
 msgid "You found Phineas' Lab was ransacked. Search his lab for additional info."
-msgstr ""
+msgstr "Zjistil jsi, že Phineasova laboratoř byla vypleněna. Prohledejte jeho laboratoř a získejte další informace."
 
 #: quests/09_interstitial/pq_0903_the_hope:20006
 msgctxt "quests/09_interstitial/pq_0903_the_hope:20006:DefaultText"
 msgid "Phineas mentioned that something important could be found in a secret compartment in his room. You should go retrieve it."
-msgstr ""
+msgstr "Phineas se zmínil, že v tajné přihrádce v jeho pokoji by se mohlo nacházet něco důležitého. Měl bys to jít vyzvednout."
 
 #: quests/09_interstitial/pq_0903_the_hope:20007
 msgctxt "quests/09_interstitial/pq_0903_the_hope:20007:DefaultText"
 msgid "Phineas' computer is locked, search the area for the passcode."
-msgstr ""
+msgstr "Phineasův počítač je zamčený, prohledejte oblast a zjistěte přístupový kód."
 
 #: quests/09_interstitial/pq_0903_the_hope:20008
 msgctxt "quests/09_interstitial/pq_0903_the_hope:20008:DefaultText"
 msgid "Phineas sent you a transmission screaming about \"corporate PIGS.\""
-msgstr ""
+msgstr "Phineas ti poslal zprávu, ve které křičí o \"korporátních PIGS\"."
 
 #: quests/09_interstitial/pq_0903_the_hope:30000
 msgctxt "quests/09_interstitial/pq_0903_the_hope:30000:DefaultText"
 msgid "You successfully skipped the Hope to Terra 2."
-msgstr ""
+msgstr "Úspěšně jste přeskočili Naději na Terru 2."
 
 #: quests/09_interstitial/pq_0903_the_hope:30001
 msgctxt "quests/09_interstitial/pq_0903_the_hope:30001:DefaultText"
 msgid "You successfully skipped the Hope to Tartarus."
-msgstr ""
+msgstr "Úspěšně jsi přeskočil Naději do Tartaru."
 
 #: quests/09_interstitial/pq_0903_the_hope:30002
 msgctxt "quests/09_interstitial/pq_0903_the_hope:30002:DefaultText"
 msgid "With Sophia Akande dead you are unable to skip the Hope."
-msgstr ""
+msgstr "Když je Sophia Akande mrtvá, nemůžete Naději přeskočit."
 
 #: quests/09_interstitial/pq_0903_the_hope:40001
 msgctxt "quests/09_interstitial/pq_0903_the_hope:40001:DefaultText"
 msgid "Sophia Akande has asked you to skip the Hope to Tartarus."
-msgstr ""
+msgstr "Sophia Akande vás požádala, abyste přeskočili Naději do Tartaru."
 
 #: quests/09_interstitial/pq_0903_the_hope:40002
 msgctxt "quests/09_interstitial/pq_0903_the_hope:40002:DefaultText"
 msgid "Phineas Welles has asked you to skip the Hope to Terra 2 and Sophia Akande has asked you to skip the Hope to Tartarus."
-msgstr ""
+msgstr "Phineas Welles vás požádal, abyste vynechali Naději na Terru 2, a Sophia Akande vás požádala, abyste vynechali Naději na Tartar."
 
 #: quests/09_interstitial/pq_0903_the_hope:40003
 msgctxt "quests/09_interstitial/pq_0903_the_hope:40003:DefaultText"
 msgid "Phineas Welles has asked you to skip the Hope to Terra 2.\r\n"
 ""
-msgstr ""
+msgstr "Phineas Welles vás požádal, abyste vynechali Naději na Terru 2."

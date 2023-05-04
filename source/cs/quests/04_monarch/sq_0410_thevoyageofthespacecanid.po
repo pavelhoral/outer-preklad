@@ -1,104 +1,104 @@
 #: quests/04_monarch/sq_0410_thevoyageofthespacecanid:0
 msgctxt "quests/04_monarch/sq_0410_thevoyageofthespacecanid:0:DefaultText"
 msgid "The Voyage of the Space Canid"
-msgstr ""
+msgstr "Cesta vesmírného kanida"
 
 #: quests/04_monarch/sq_0410_thevoyageofthespacecanid:1
 msgctxt "quests/04_monarch/sq_0410_thevoyageofthespacecanid:1:DefaultText"
 msgid "Investigate the Crashed Ship"
-msgstr ""
+msgstr "Vyšetřování havarované lodi"
 
 #: quests/04_monarch/sq_0410_thevoyageofthespacecanid:45
 msgctxt "quests/04_monarch/sq_0410_thevoyageofthespacecanid:45:DefaultText"
 msgid "See Where the Ship Lands"
-msgstr ""
+msgstr "Podívejte se, kde loď přistane"
 
 #: quests/04_monarch/sq_0410_thevoyageofthespacecanid:46
 msgctxt "quests/04_monarch/sq_0410_thevoyageofthespacecanid:46:DefaultText"
 msgid "Tell Phineas about the Crashed Ship"
-msgstr ""
+msgstr "Řekni Phineasovi o havarované lodi"
 
 #: quests/04_monarch/sq_0410_thevoyageofthespacecanid:47
 msgctxt "quests/04_monarch/sq_0410_thevoyageofthespacecanid:47:DefaultText"
 msgid "Tell Sophia about the Crashed Ship"
-msgstr ""
+msgstr "Řekněte Sophii o havarované lodi"
 
 #: quests/04_monarch/sq_0410_thevoyageofthespacecanid:10000
 msgctxt "quests/04_monarch/sq_0410_thevoyageofthespacecanid:10000:DefaultText"
 msgid "A ship is speeding towards the surface of Monarch..."
-msgstr ""
+msgstr "K povrchu Monarchu se řítí loď..."
 
 #: quests/04_monarch/sq_0410_thevoyageofthespacecanid:10001
 msgctxt "quests/04_monarch/sq_0410_thevoyageofthespacecanid:10001:DefaultText"
 msgid "The ship's logs and targeting module might be able to tell you something."
-msgstr ""
+msgstr "Lodní deníky a zaměřovací modul by vám mohly něco napovědět."
 
 #: quests/04_monarch/sq_0410_thevoyageofthespacecanid:10045
 msgctxt "quests/04_monarch/sq_0410_thevoyageofthespacecanid:10045:DefaultText"
 msgid "They could still stick the landing..."
-msgstr ""
+msgstr "Mohli by ještě přistát..."
 
 #: quests/04_monarch/sq_0410_thevoyageofthespacecanid:10046
 msgctxt "quests/04_monarch/sq_0410_thevoyageofthespacecanid:10046:DefaultText"
 msgid "He might be interested in what happened."
-msgstr ""
+msgstr "Mohlo by ho zajímat, co se stalo."
 
 #: quests/04_monarch/sq_0410_thevoyageofthespacecanid:10047
 msgctxt "quests/04_monarch/sq_0410_thevoyageofthespacecanid:10047:DefaultText"
 msgid "As a UDL ship, she'll definitely want to know."
-msgstr ""
+msgstr "Jako loď UDL to určitě bude chtít vědět."
 
 #: quests/04_monarch/sq_0410_thevoyageofthespacecanid:20015
 msgctxt "quests/04_monarch/sq_0410_thevoyageofthespacecanid:20015:DefaultText"
 msgid "0/10 from the Monarch judge."
-msgstr ""
+msgstr "0/10 od rozhodčího Monarch."
 
 #: quests/04_monarch/sq_0410_thevoyageofthespacecanid:20018
 msgctxt "quests/04_monarch/sq_0410_thevoyageofthespacecanid:20018:DefaultText"
 msgid "You found a recording of the crash."
-msgstr ""
+msgstr "Našel jsi nahrávku havárie."
 
 #: quests/04_monarch/sq_0410_thevoyageofthespacecanid:20019
 msgctxt "quests/04_monarch/sq_0410_thevoyageofthespacecanid:20019:DefaultText"
 msgid "You retrieved the ship's targeting module."
-msgstr ""
+msgstr "Získali jste zaměřovací modul lodi."
 
 #: quests/04_monarch/sq_0410_thevoyageofthespacecanid:20020
 msgctxt "quests/04_monarch/sq_0410_thevoyageofthespacecanid:20020:DefaultText"
 msgid "You turned in Phineas. He won't need these details in prison."
-msgstr ""
+msgstr "Předal jsi Phinease. Ve vězení nebude tyto detaily potřebovat."
 
 #: quests/04_monarch/sq_0410_thevoyageofthespacecanid:20021
 msgctxt "quests/04_monarch/sq_0410_thevoyageofthespacecanid:20021:DefaultText"
 msgid "Sophia Akande is dead. You can tell her, but she won't be listening."
-msgstr ""
+msgstr "Sophia Akande je mrtvá. Můžeš jí to říct, ale nebude tě poslouchat."
 
 #: quests/04_monarch/sq_0410_thevoyageofthespacecanid:20022
 msgctxt "quests/04_monarch/sq_0410_thevoyageofthespacecanid:20022:DefaultText"
 msgid "With Phineas missing, you won't be able to inform him."
-msgstr ""
+msgstr "Když Phineas chybí, nebudete ho moci informovat."
 
 #: quests/04_monarch/sq_0410_thevoyageofthespacecanid:30000
 msgctxt "quests/04_monarch/sq_0410_thevoyageofthespacecanid:30000:DefaultText"
 msgid "Anyone who would want to know about the crashed gunship is dead or in prison."
-msgstr ""
+msgstr "Každý, kdo by se chtěl dozvědět o havarovaném dělovém člunu, je mrtvý nebo ve vězení."
 
 #: quests/04_monarch/sq_0410_thevoyageofthespacecanid:30009
 msgctxt "quests/04_monarch/sq_0410_thevoyageofthespacecanid:30009:DefaultText"
 msgid "You told Phineas about the gunship."
-msgstr ""
+msgstr "Řekl jsi Phineasovi o střelecké lodi."
 
 #: quests/04_monarch/sq_0410_thevoyageofthespacecanid:30010
 msgctxt "quests/04_monarch/sq_0410_thevoyageofthespacecanid:30010:DefaultText"
 msgid "You told Sophia about the gunship."
-msgstr ""
+msgstr "Řekl jsi Sophii o střelecké lodi."
 
 #: quests/04_monarch/sq_0410_thevoyageofthespacecanid:30011
 msgctxt "quests/04_monarch/sq_0410_thevoyageofthespacecanid:30011:DefaultText"
 msgid "After skipping the Hope, there's no more time to investigate this mystery. The fate of the colonists takes priority."
-msgstr ""
+msgstr "Po přeskočení Naděje už není čas na zkoumání této záhady. Osud kolonistů má přednost."
 
 #: quests/04_monarch/sq_0410_thevoyageofthespacecanid:40001
 msgctxt "quests/04_monarch/sq_0410_thevoyageofthespacecanid:40001:DefaultText"
 msgid "A ship has crashed on Monarch. It might be worth investigating."
-msgstr ""
+msgstr "Na Monarchu ztroskotala loď. Možná by stálo za to ji prozkoumat."

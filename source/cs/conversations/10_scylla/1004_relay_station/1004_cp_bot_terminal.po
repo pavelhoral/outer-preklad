@@ -5,17 +5,17 @@ msgid "Relay Station GB-23\r\n"
 "\r\n"
 "Automechanical Home Security Control System: \r\n"
 "Please select from the following options:"
-msgstr ""
+msgstr "Reléová stanice GB-23 ---------------------------- Automechanický řídicí systém zabezpečení domu: Vyberte si z následujících možností:"
 
 #: conversations/10_scylla/1004_relay_station/1004_cp_bot_terminal:2
 msgctxt "conversations/10_scylla/1004_relay_station/1004_cp_bot_terminal:2:DefaultText"
 msgid "[Update Security Routines]"
-msgstr ""
+msgstr "[Aktualizace bezpečnostních rutin]"
 
 #: conversations/10_scylla/1004_relay_station/1004_cp_bot_terminal:3
 msgctxt "conversations/10_scylla/1004_relay_station/1004_cp_bot_terminal:3:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"
 
 #: conversations/10_scylla/1004_relay_station/1004_cp_bot_terminal:8
 msgctxt "conversations/10_scylla/1004_relay_station/1004_cp_bot_terminal:8:DefaultText"
@@ -27,17 +27,17 @@ msgid "Relay Station GB-23\r\n"
 "\r\n"
 "\r\n"
 "Please select from the following options:"
-msgstr ""
+msgstr "Reléová stanice GB-23 ---------------------------- Bezpečnostní rutiny --------------------------------- Vyberte jednu z následujících možností:"
 
 #: conversations/10_scylla/1004_relay_station/1004_cp_bot_terminal:10
 msgctxt "conversations/10_scylla/1004_relay_station/1004_cp_bot_terminal:10:DefaultText"
 msgid "[Display Unit Status]"
-msgstr ""
+msgstr "[Zobrazení stavu jednotky]"
 
 #: conversations/10_scylla/1004_relay_station/1004_cp_bot_terminal:12
 msgctxt "conversations/10_scylla/1004_relay_station/1004_cp_bot_terminal:12:DefaultText"
 msgid "[Begin Charging Cycle]"
-msgstr ""
+msgstr "[Zahájit nabíjecí cyklus]"
 
 #: conversations/10_scylla/1004_relay_station/1004_cp_bot_terminal:13
 msgctxt "conversations/10_scylla/1004_relay_station/1004_cp_bot_terminal:13:DefaultText"
@@ -50,7 +50,7 @@ msgid "Relay Station GB-23\r\n"
 "Beginning charging cycles for all units...\r\n"
 "\r\n"
 "ACTION COMPLETE"
-msgstr ""
+msgstr "Reléová stanice GB-23 ---------------------------- Bezpečnostní rutiny --------------------------------- Zahájení nabíjecích cyklů pro všechny jednotky... AKCE SPLNĚNA"
 
 #: conversations/10_scylla/1004_relay_station/1004_cp_bot_terminal:14
 msgctxt "conversations/10_scylla/1004_relay_station/1004_cp_bot_terminal:14:DefaultText"
@@ -72,17 +72,18 @@ msgid "Relay Station GB-23\r\n"
 "List of Valid Owners:\r\n"
 "-- Alexander J. Frey\r\n"
 ""
-msgstr ""
+msgstr "Relay Station GB-23 ---------------------------- Security Review --------------------------------- <<< UNIT STATUS >>> -------------\n"
+"_0_ mechanika nastavena na rutinní nabíjení _6_ mechanika nastavena na hlídání určených oblastí <<< UNIT SETTINGS >>> ------------- Úroveň nepřátelství: Seznam platných vlastníků: -- Alexander J. Frey"
 
 #: conversations/10_scylla/1004_relay_station/1004_cp_bot_terminal:16
 msgctxt "conversations/10_scylla/1004_relay_station/1004_cp_bot_terminal:16:DefaultText"
 msgid "[Begin Charging Cycle]"
-msgstr ""
+msgstr "[Zahájit nabíjecí cyklus]"
 
 #: conversations/10_scylla/1004_relay_station/1004_cp_bot_terminal:19
 msgctxt "conversations/10_scylla/1004_relay_station/1004_cp_bot_terminal:19:DefaultText"
 msgid "[Return to Root]"
-msgstr ""
+msgstr "[Zpět na kořen]"
 
 #: conversations/10_scylla/1004_relay_station/1004_cp_bot_terminal:21
 msgctxt "conversations/10_scylla/1004_relay_station/1004_cp_bot_terminal:21:DefaultText"
@@ -104,4 +105,5 @@ msgid "Relay Station GB-23\r\n"
 "List of Valid Owners:\r\n"
 "-- Alexander J. Frey\r\n"
 ""
-msgstr ""
+msgstr "Relay Station GB-23 ---------------------------- Security Review --------------------------------- <<< UNIT STATUS >>> -------------\n"
+"_6_ mechanika nastavena na rutinní nabíjení _0_ mechanika nastavena na hlídání určených oblastí <<< NASTAVENÍ JEDNOTKY >>> ------------- Úroveň nepřátelství: Seznam platných vlastníků: -- Alexander J. Frey"

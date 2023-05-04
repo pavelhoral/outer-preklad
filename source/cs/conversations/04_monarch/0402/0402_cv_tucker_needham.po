@@ -1,459 +1,459 @@
 #: conversations/04_monarch/0402/0402_cv_tucker_needham:1
 msgctxt "conversations/04_monarch/0402/0402_cv_tucker_needham:1:DefaultText"
 msgid "You used me, Captain. I won't forget that. But at least now I'm free of her."
-msgstr ""
+msgstr "Využil jste mě, kapitáne. Na to nezapomenu. Ale teď jsem od ní alespoň volný."
 
 #: conversations/04_monarch/0402/0402_cv_tucker_needham:2
 msgctxt "conversations/04_monarch/0402/0402_cv_tucker_needham:2:DefaultText"
 msgid "Don't worry about me, Captain. Mama and I will work this out."
-msgstr ""
+msgstr "O mě se nebojte, kapitáne. S mámou to vyřešíme."
 
 #: conversations/04_monarch/0402/0402_cv_tucker_needham:3
 msgctxt "conversations/04_monarch/0402/0402_cv_tucker_needham:3:DefaultText"
 msgid "It took a lot of talking, but I finally convinced Mama I wasn't backing down. I'm a free man, Captain! Thank you."
-msgstr ""
+msgstr "Stálo mě to hodně přemlouvání, ale nakonec jsem mámu přesvědčil, že neustoupím. Jsem svobodný muž, kapitáne! Děkuji."
 
 #: conversations/04_monarch/0402/0402_cv_tucker_needham:4
 msgctxt "conversations/04_monarch/0402/0402_cv_tucker_needham:4:DefaultText"
 msgid "I have nothing to say to you. You leave us alone."
-msgstr ""
+msgstr "Nemám ti co říct. Nechte nás na pokoji."
 
 #: conversations/04_monarch/0402/0402_cv_tucker_needham:5
 msgctxt "conversations/04_monarch/0402/0402_cv_tucker_needham:5:DefaultText"
 msgid "I'm sorry I lied to Mama, but it was the only way for me to be free. Thank you, Captain."
-msgstr ""
+msgstr "Mrzí mě, že jsem mámě lhal, ale byl to jediný způsob, jak se osvobodit. Děkuji ti, kapitáne."
 
 #: conversations/04_monarch/0402/0402_cv_tucker_needham:6
 msgctxt "conversations/04_monarch/0402/0402_cv_tucker_needham:6:DefaultText"
 msgid "Why couldn't you leave well enough alone? There was no reason to tell her I'm alive. Now you've screwed up everything."
-msgstr ""
+msgstr "Proč jsi to nemohl nechat být? Nebyl důvod jí říkat, že jsem naživu. Teď jsi všechno zkazil."
 
 #: conversations/04_monarch/0402/0402_cv_tucker_needham:7
 msgctxt "conversations/04_monarch/0402/0402_cv_tucker_needham:7:DefaultText"
 msgid "Looks like I'm not the only new face around here. What do I call you, stranger?"
-msgstr ""
+msgstr "Vypadá to, že tu nejsem jediná nová tvář. Jak ti mám říkat, cizinče?"
 
 #: conversations/04_monarch/0402/0402_cv_tucker_needham:8
 msgctxt "conversations/04_monarch/0402/0402_cv_tucker_needham:8:DefaultText"
 msgid "It's Captain <oeitoken>PlayerName</oeitoken>."
-msgstr ""
+msgstr "Je to kapitán <oeitoken>Jméno hráče</oeitoken>."
 
 #: conversations/04_monarch/0402/0402_cv_tucker_needham:9
 msgctxt "conversations/04_monarch/0402/0402_cv_tucker_needham:9:DefaultText"
 msgid "It's Captain Hawthorne."
-msgstr ""
+msgstr "Je to kapitán Hawthorne."
 
 #: conversations/04_monarch/0402/0402_cv_tucker_needham:10
 msgctxt "conversations/04_monarch/0402/0402_cv_tucker_needham:10:DefaultText"
 msgid "You here to join the Iconoclasts? Help us free this world?"
-msgstr ""
+msgstr "Chcete se připojit k Ikonoklastům? Pomůžete nám osvobodit tento svět?"
 
 #: conversations/04_monarch/0402/0402_cv_tucker_needham:11
 msgctxt "conversations/04_monarch/0402/0402_cv_tucker_needham:11:DefaultText"
 msgid "Well met, Captain. What do you need?"
-msgstr ""
+msgstr "Dobrá zpráva, kapitáne. Co potřebujete?"
 
 #: conversations/04_monarch/0402/0402_cv_tucker_needham:12
 msgctxt "conversations/04_monarch/0402/0402_cv_tucker_needham:12:DefaultText"
 msgid "Tucker? You're Agnes's 'little boy' from Stellar Bay?"
-msgstr ""
+msgstr "Tucker? Ty jsi Agnesin \"chlapeček\" ze Stellar Bay?"
 
 #: conversations/04_monarch/0402/0402_cv_tucker_needham:13
 msgctxt "conversations/04_monarch/0402/0402_cv_tucker_needham:13:DefaultText"
 msgid "We need to talk about your mother."
-msgstr ""
+msgstr "Musíme si promluvit o tvé matce."
 
 #: conversations/04_monarch/0402/0402_cv_tucker_needham:14
 msgctxt "conversations/04_monarch/0402/0402_cv_tucker_needham:14:DefaultText"
 msgid "You're a new face, too, huh?"
-msgstr ""
+msgstr "Ty jsi taky nová tvář, co?"
 
 #: conversations/04_monarch/0402/0402_cv_tucker_needham:15
 msgctxt "conversations/04_monarch/0402/0402_cv_tucker_needham:15:DefaultText"
 msgid "Free from what?"
-msgstr ""
+msgstr "Bez čeho?"
 
 #: conversations/04_monarch/0402/0402_cv_tucker_needham:16
 msgctxt "conversations/04_monarch/0402/0402_cv_tucker_needham:16:DefaultText"
 msgid "I don't have time for this."
-msgstr ""
+msgstr "Nemám na to čas."
 
 #: conversations/04_monarch/0402/0402_cv_tucker_needham:17
 msgctxt "conversations/04_monarch/0402/0402_cv_tucker_needham:17:DefaultText"
 msgid "I am not a 'little boy'. Haven't been one for decades. No matter what my mama wishes. I take it she's still looking for me? Had hoped she'd accept my decision."
-msgstr ""
+msgstr "Nejsem \"malý chlapec\". Nebyl jsem jím po celá desetiletí. Bez ohledu na to, co si přeje moje máma. Chápu to správně, že mě pořád hledá? Doufal jsem, že přijme mé rozhodnutí."
 
 #: conversations/04_monarch/0402/0402_cv_tucker_needham:18
 msgctxt "conversations/04_monarch/0402/0402_cv_tucker_needham:18:DefaultText"
 msgid "I don't much want to talk about it. But all right, if you insist."
-msgstr ""
+msgstr "Nechci o tom moc mluvit. Ale dobře, když na tom trváte."
 
 #: conversations/04_monarch/0402/0402_cv_tucker_needham:19
 msgctxt "conversations/04_monarch/0402/0402_cv_tucker_needham:19:DefaultText"
 msgid "Yeah, to Amber Heights, anyway. Only got here a few weeks ago. Was living in Stellar Bay before then. But I can't tell you how great it is to finally be free of them walls!"
-msgstr ""
+msgstr "Jo, do Amber Heights. Přijel jsem teprve před pár týdny. Předtím jsem žil ve Stellar Bay. Ale ani nevíte, jak je skvělé být konečně bez těch zdí!"
 
 #: conversations/04_monarch/0402/0402_cv_tucker_needham:20
 msgctxt "conversations/04_monarch/0402/0402_cv_tucker_needham:20:DefaultText"
 msgid "Why from the yoke of corporate tyranny! It's what all us Iconoclasts strive for, with Graham at the helm. "
-msgstr ""
+msgstr "Proč se zbavit jha korporátní tyranie! O to my všichni Iconoclasts s Grahamem v čele usilujeme. "
 
 #: conversations/04_monarch/0402/0402_cv_tucker_needham:21
 msgctxt "conversations/04_monarch/0402/0402_cv_tucker_needham:21:DefaultText"
 msgid "Aren't the walls up to keep everyone safe?"
-msgstr ""
+msgstr "Nejsou zdi postaveny proto, aby všichni byli v bezpečí?"
 
 #: conversations/04_monarch/0402/0402_cv_tucker_needham:22
 msgctxt "conversations/04_monarch/0402/0402_cv_tucker_needham:22:DefaultText"
 msgid "Screw safe! I've had enough of playing it 'safe' to last me a dozen lifetimes. A body's not meant to live such a guarded life."
-msgstr ""
+msgstr "Kašlete na bezpečnost! Hrát na jistotu mi vystačí na tucet životů. Tělo není stvořeno k tomu, aby žilo takhle střežený život."
 
 #: conversations/04_monarch/0402/0402_cv_tucker_needham:23
 msgctxt "conversations/04_monarch/0402/0402_cv_tucker_needham:23:DefaultText"
 msgid "Everybody needs a little danger and excitement. Something to live for! That's what you get outside the walls. And if you're lucky, you find a cause worth bleeding for."
-msgstr ""
+msgstr "Každý potřebuje trochu nebezpečí a vzrušení. Něco, pro co je třeba žít! To je to, co dostanete za zdmi. A když máš štěstí, najdeš věc, pro kterou stojí za to krvácet."
 
 #: conversations/04_monarch/0402/0402_cv_tucker_needham:24
 msgctxt "conversations/04_monarch/0402/0402_cv_tucker_needham:24:DefaultText"
 msgid "That's what I got right here! The Iconoclasts welcomed me into the fold. They're teaching me how to survive and truly be free. That's worth more to me than 'safe' ever could be!"
-msgstr ""
+msgstr "To je to, co mám tady! Iconoclasts mě přivítali mezi sebe. Učí mě, jak přežít a být skutečně svobodný. To má pro mě větší cenu, než by kdy mohlo mít \"bezpečí\"!"
 
 #: conversations/04_monarch/0402/0402_cv_tucker_needham:25
 msgctxt "conversations/04_monarch/0402/0402_cv_tucker_needham:25:DefaultText"
 msgid "We want unfettered freedom, not the lies that MSI tries to sell in Stellar Bay. True escape from all rules and constraints. "
-msgstr ""
+msgstr "Chceme neomezenou svobodu, ne lži, které se MSI snaží prodat ve Stellar Bay. Skutečný únik od všech pravidel a omezení. "
 
 #: conversations/04_monarch/0402/0402_cv_tucker_needham:26
 msgctxt "conversations/04_monarch/0402/0402_cv_tucker_needham:26:DefaultText"
 msgid "You want to know more, listen to Graham's broadcasts. He's been talking up a storm, working to elevate the minds of all the corporate drones in this colony. Getting 'em to rise up."
-msgstr ""
+msgstr "Chcete-li se dozvědět více, poslechněte si Grahamovo vysílání. Mluví jako uragán a snaží se povznést mysl všech korporátních trubců v této kolonii. Přimět je, aby povstali."
 
 #: conversations/04_monarch/0402/0402_cv_tucker_needham:28
 msgctxt "conversations/04_monarch/0402/0402_cv_tucker_needham:28:DefaultText"
 msgid "No rules or limits? Sounds like a utopia."
-msgstr ""
+msgstr "Žádná pravidla nebo omezení? To zní jako utopie."
 
 #: conversations/04_monarch/0402/0402_cv_tucker_needham:29
 msgctxt "conversations/04_monarch/0402/0402_cv_tucker_needham:29:DefaultText"
 msgid "You're describing pure anarchy. Rules are needed for people to coexist."
-msgstr ""
+msgstr "Popisujete čistou anarchii. Pravidla jsou potřebná k tomu, aby lidé mohli koexistovat."
 
 #: conversations/04_monarch/0402/0402_cv_tucker_needham:30
 msgctxt "conversations/04_monarch/0402/0402_cv_tucker_needham:30:DefaultText"
 msgid "It is! Just look at what a paradise Amber Heights is. We could take this world - no, galaxy - wide!"
-msgstr ""
+msgstr "Je to tak! Jen se podívejte, jaký je Amber Heights ráj. Mohli bychom to vzít přes celý svět - ne, přes celou galaxii!"
 
 #: conversations/04_monarch/0402/0402_cv_tucker_needham:31
 msgctxt "conversations/04_monarch/0402/0402_cv_tucker_needham:31:DefaultText"
 msgid "See, that's what the corps want you to think! If you think rules are needed, they can force any and all they want down your throat. And you'll just swallow it."
-msgstr ""
+msgstr "Vidíte, to je to, co si sbory chtějí myslet! Pokud si myslíte, že pravidla jsou potřeba, mohou vám vnutit do chřtánu všechna, která chtějí. A vy to prostě spolknete."
 
 #: conversations/04_monarch/0402/0402_cv_tucker_needham:32
 msgctxt "conversations/04_monarch/0402/0402_cv_tucker_needham:32:DefaultText"
 msgid "You need to talk to Graham. He'll help you find the truth amongst the lies that're living in your brain."
-msgstr ""
+msgstr "Musíte si promluvit s Grahamem. Pomůže vám najít pravdu mezi lžemi, které žijí ve vašem mozku."
 
 #: conversations/04_monarch/0402/0402_cv_tucker_needham:33
 msgctxt "conversations/04_monarch/0402/0402_cv_tucker_needham:33:DefaultText"
 msgid "That's a pretty strong reaction to the topic of safety..."
-msgstr ""
+msgstr "To je dost silná reakce na téma bezpečnosti..."
 
 #: conversations/04_monarch/0402/0402_cv_tucker_needham:34
 msgctxt "conversations/04_monarch/0402/0402_cv_tucker_needham:34:DefaultText"
 msgid "Sorry about that. It stems from some, uh, family trauma. I don't want to talk that though."
-msgstr ""
+msgstr "Za to se omlouvám. Pramení to z nějakého rodinného traumatu. O tom ale nechci mluvit."
 
 #: conversations/04_monarch/0402/0402_cv_tucker_needham:35
 msgctxt "conversations/04_monarch/0402/0402_cv_tucker_needham:35:DefaultText"
 msgid "She made it seem like you were in danger. Asked me to rescue you."
-msgstr ""
+msgstr "Vypadalo to, že jsi v nebezpečí. Požádala mě, abych tě zachránil."
 
 #: conversations/04_monarch/0402/0402_cv_tucker_needham:36
 msgctxt "conversations/04_monarch/0402/0402_cv_tucker_needham:36:DefaultText"
 msgid "She's offered a reward to anyone who brings you back to Stellar Bay."
-msgstr ""
+msgstr "Nabídla odměnu každému, kdo tě přivede zpět do Hvězdné zátoky."
 
 #: conversations/04_monarch/0402/0402_cv_tucker_needham:37
 msgctxt "conversations/04_monarch/0402/0402_cv_tucker_needham:37:DefaultText"
 msgid "According to her, stepping foot outside of the house in broad daylight is too dangerous. My entire life she crammed a fear of 'danger' down my throat."
-msgstr ""
+msgstr "Podle ní je příliš nebezpečné vyjít z domu za bílého dne. Celý život mi cpala do krku strach z \"nebezpečí\"."
 
 #: conversations/04_monarch/0402/0402_cv_tucker_needham:38
 msgctxt "conversations/04_monarch/0402/0402_cv_tucker_needham:38:DefaultText"
 msgid "Don't go play with friends, mantisaurs will tear your arms off! Don't leave the city, raptidons will spit acid on your face! Marauders can violate you! You'd fall in a sulfur pool!"
-msgstr ""
+msgstr "Nechoďte si hrát s kamarády, kudlanky vám utrhnou ruce! Neopouštěj město, raptidoni ti plivnou kyselinu do obličeje! Nájezdníci tě mohou znásilnit! Spadl bys do sirné tůně!"
 
 #: conversations/04_monarch/0402/0402_cv_tucker_needham:39
 msgctxt "conversations/04_monarch/0402/0402_cv_tucker_needham:39:DefaultText"
 msgid "I stuck around way too long, ruled by her fears. I'm 42-years-old, but she still sees me as a little boy in need of her protection. I won't stand for it, I tell you!"
-msgstr ""
+msgstr "Zůstala jsem tu příliš dlouho, ovládaná jejími obavami. Je mi 42 let, ale ona mě stále vidí jako malého chlapce, který potřebuje její ochranu. To si nenechám líbit, to vám říkám!"
 
 #: conversations/04_monarch/0402/0402_cv_tucker_needham:40
 msgctxt "conversations/04_monarch/0402/0402_cv_tucker_needham:40:DefaultText"
 msgid "Let me guess. You're here to collect it. Well, I can tell you right now it is not going to happen. I won't go back. My entire life, she locked me in Stellar Bay 'cause she was afraid."
-msgstr ""
+msgstr "Nech mě hádat. Přišel jste si je vyzvednout. No, hned teď vám můžu říct, že se to nestane. Nevrátím se tam. Celý život mě zavírala do Hvězdné zátoky, protože se bála."
 
 #: conversations/04_monarch/0402/0402_cv_tucker_needham:41
 msgctxt "conversations/04_monarch/0402/0402_cv_tucker_needham:41:DefaultText"
 msgid "Running away is for cowards. You need to face her and show her you've grown up."
-msgstr ""
+msgstr "Útěk je pro zbabělce. Musíš se jí postavit a ukázat jí, že jsi dospěl."
 
 #: conversations/04_monarch/0402/0402_cv_tucker_needham:42
 msgctxt "conversations/04_monarch/0402/0402_cv_tucker_needham:42:DefaultText"
 msgid "I'm getting that reward. Either you go back, or I'll beat it out of her."
-msgstr ""
+msgstr "Tu odměnu dostanu. Buď se vrátíš, nebo to z ní vymlátím."
 
 #: conversations/04_monarch/0402/0402_cv_tucker_needham:43
 msgctxt "conversations/04_monarch/0402/0402_cv_tucker_needham:43:DefaultText"
 msgid "So what do you want to do about it? She'll keep sending people to look for you."
-msgstr ""
+msgstr "Co s tím chcete dělat? Bude dál posílat lidi, aby tě hledali."
 
 #: conversations/04_monarch/0402/0402_cv_tucker_needham:44
 msgctxt "conversations/04_monarch/0402/0402_cv_tucker_needham:44:DefaultText"
 msgid "You're going back to Stellar Bay. One way or another."
-msgstr ""
+msgstr "Vracíš se do Hvězdné zátoky. Ať tak či onak."
 
 #: conversations/04_monarch/0402/0402_cv_tucker_needham:45
 msgctxt "conversations/04_monarch/0402/0402_cv_tucker_needham:45:DefaultText"
 msgid "She doesn't want to see me as anything other than her baby boy. Why would I go back again? What'll be different this time?"
-msgstr ""
+msgstr "Nechce mě vidět jinak než jako svého chlapečka. Proč bych se měl znovu vracet? Co bude tentokrát jinak?"
 
 #: conversations/04_monarch/0402/0402_cv_tucker_needham:46
 msgctxt "conversations/04_monarch/0402/0402_cv_tucker_needham:46:DefaultText"
 msgid "What in the nebula is wrong with you? She's an old woman! You'd threaten my flesh and blood just to get me to do what you want?"
-msgstr ""
+msgstr "Co je to s tebou, proboha, špatně? Je to stará ženská! Vyhrožuješ mé krvi, jen abys mě přiměl udělat, co chceš?"
 
 #: conversations/04_monarch/0402/0402_cv_tucker_needham:47
 msgctxt "conversations/04_monarch/0402/0402_cv_tucker_needham:47:DefaultText"
 msgid "Stars, I don't know. My mama's a stubborn woman. She won't quit until I'm dead."
-msgstr ""
+msgstr "Hvězdy, nevím. Moje máma je tvrdohlavá. Nepřestane, dokud nezemřu."
 
 #: conversations/04_monarch/0402/0402_cv_tucker_needham:48
 msgctxt "conversations/04_monarch/0402/0402_cv_tucker_needham:48:DefaultText"
 msgid "No, that is not going to happen. I spent too many years there, smothered by my mama's fears. Now that I'm free, nothing can change my mind."
-msgstr ""
+msgstr "Ne, to se nestane. Strávil jsem tam příliš mnoho let, dušen maminčiným strachem. Teď, když jsem volná, už nic nezmění můj názor."
 
 #: conversations/04_monarch/0402/0402_cv_tucker_needham:49
 msgctxt "conversations/04_monarch/0402/0402_cv_tucker_needham:49:DefaultText"
 msgid "You've survived outside of Stellar Bay for weeks. Show her the skills you've learned."
-msgstr ""
+msgstr "Mimo Hvězdnou zátoku jsi přežil několik týdnů. Ukaž jí, co ses naučil."
 
 #: conversations/04_monarch/0402/0402_cv_tucker_needham:50
 msgctxt "conversations/04_monarch/0402/0402_cv_tucker_needham:50:DefaultText"
 msgid "Teach her the Iconoclasts' philosophies. Convert her so she might join you in freedom."
-msgstr ""
+msgstr "Naučte ji filozofii Ikonoklastů. Obraťte ji, aby se k vám mohla připojit ve svobodě."
 
 #: conversations/04_monarch/0402/0402_cv_tucker_needham:51
 msgctxt "conversations/04_monarch/0402/0402_cv_tucker_needham:51:DefaultText"
 msgid "You're right. I can do this. I just need to stand my ground and make her see she can't control me anymore. No one can."
-msgstr ""
+msgstr "Máte pravdu. Tohle zvládnu. Jen si musím stát za svým a přesvědčit ji, že už mě nemůže ovládat. Nikdo to nedokáže."
 
 #: conversations/04_monarch/0402/0402_cv_tucker_needham:52
 msgctxt "conversations/04_monarch/0402/0402_cv_tucker_needham:52:DefaultText"
 msgid "It's nothing personal. But I want that money."
-msgstr ""
+msgstr "Není to nic osobního. Ale já ty peníze chci."
 
 #: conversations/04_monarch/0402/0402_cv_tucker_needham:53
 msgctxt "conversations/04_monarch/0402/0402_cv_tucker_needham:53:DefaultText"
 msgid "<Shrug.>"
-msgstr ""
+msgstr "<Pokrčení ramen.>"
 
 #: conversations/04_monarch/0402/0402_cv_tucker_needham:54
 msgctxt "conversations/04_monarch/0402/0402_cv_tucker_needham:54:DefaultText"
 msgid "Relax. I was only kidding. Don't take everything so seriously."
-msgstr ""
+msgstr "Uvolněte se. Jen jsem si dělal legraci. Neber všechno tak vážně."
 
 #: conversations/04_monarch/0402/0402_cv_tucker_needham:55
 msgctxt "conversations/04_monarch/0402/0402_cv_tucker_needham:55:DefaultText"
 msgid "You're real sick! Sure, she drives me crazy, but she doesn't deserve anyone getting violent with her. Look, I'll go back, all right? Just don't hurt her."
-msgstr ""
+msgstr "Jsi opravdu nemocný! Jistě, přivádí mě k šílenství, ale nezaslouží si, aby se k ní někdo choval násilnicky. Hele, já se vrátím, jasný? Jen jí neubližuj."
 
 #: conversations/04_monarch/0402/0402_cv_tucker_needham:56
 msgctxt "conversations/04_monarch/0402/0402_cv_tucker_needham:56:DefaultText"
 msgid "That was not even close to funny."
-msgstr ""
+msgstr "To nebylo ani zdaleka vtipné."
 
 #: conversations/04_monarch/0402/0402_cv_tucker_needham:57
 msgctxt "conversations/04_monarch/0402/0402_cv_tucker_needham:57:DefaultText"
 msgid "There's really nothing that could convince you to go home?"
-msgstr ""
+msgstr "Opravdu neexistuje nic, co by vás přesvědčilo, abyste se vrátil domů?"
 
 #: conversations/04_monarch/0402/0402_cv_tucker_needham:58
 msgctxt "conversations/04_monarch/0402/0402_cv_tucker_needham:58:DefaultText"
 msgid "<Attack> I'll force you if I have to."
-msgstr ""
+msgstr "<Útok> Když budu muset, donutím tě."
 
 #: conversations/04_monarch/0402/0402_cv_tucker_needham:59
 msgctxt "conversations/04_monarch/0402/0402_cv_tucker_needham:59:DefaultText"
 msgid "Stellar Bay is not my home - not anymore. I finally found the space to breath, and that's here in Amber Heights."
-msgstr ""
+msgstr "Hvězdná zátoka není můj domov - už ne. Konečně jsem našla prostor k dýchání, a to tady v Amber Heights."
 
 #: conversations/04_monarch/0402/0402_cv_tucker_needham:60
 msgctxt "conversations/04_monarch/0402/0402_cv_tucker_needham:60:DefaultText"
 msgid "Only way I'm getting dragged back is as a corpse! Better dead than caged behind them walls again!"
-msgstr ""
+msgstr "Jediný způsob, jak mě odtáhnout zpátky, je jako mrtvolu! Lepší mrtvý než znovu zavřený za zdí!"
 
 #: conversations/04_monarch/0402/0402_cv_tucker_needham:61
 msgctxt "conversations/04_monarch/0402/0402_cv_tucker_needham:61:DefaultText"
 msgid "I hope you're in a more reasonable frame of mind than the last time we spoke, Captain."
-msgstr ""
+msgstr "Doufám, že jste v rozumnějším rozpoložení, než když jsme spolu mluvili naposledy, kapitáne."
 
 #: conversations/04_monarch/0402/0402_cv_tucker_needham:62
 msgctxt "conversations/04_monarch/0402/0402_cv_tucker_needham:62:DefaultText"
 msgid "You want to fake your own death to avoid talking to your mother?"
-msgstr ""
+msgstr "Chceš předstírat vlastní smrt, aby ses vyhnul rozhovoru s matkou?"
 
 #: conversations/04_monarch/0402/0402_cv_tucker_needham:63
 msgctxt "conversations/04_monarch/0402/0402_cv_tucker_needham:63:DefaultText"
 msgid "You know... that might just work. You go back and tell her you found my body beside the road. All mangled and tore up. If she believes me dead, she won't look for me no more."
-msgstr ""
+msgstr "Víš... to by mohlo fungovat. Vrať se a řekni jí, že jsi našel moje tělo u silnice. Celé znetvořené a roztrhané. Jestli si myslí, že jsem mrtvý, už mě nebude hledat."
 
 #: conversations/04_monarch/0402/0402_cv_tucker_needham:64
 msgctxt "conversations/04_monarch/0402/0402_cv_tucker_needham:64:DefaultText"
 msgid "You're okay with her thinking you've died? Don't you think that'll hurt her?"
-msgstr ""
+msgstr "Nevadí ti, že si myslí, že jsi zemřel? Nemyslíš, že jí to ublíží?"
 
 #: conversations/04_monarch/0402/0402_cv_tucker_needham:65
 msgctxt "conversations/04_monarch/0402/0402_cv_tucker_needham:65:DefaultText"
 msgid "If we do this, I'd need some proof that it was your body I found."
-msgstr ""
+msgstr "Pokud to uděláme, budu potřebovat nějaký důkaz, že jsem našel tvé tělo."
 
 #: conversations/04_monarch/0402/0402_cv_tucker_needham:66
 msgctxt "conversations/04_monarch/0402/0402_cv_tucker_needham:66:DefaultText"
 msgid "No, I won't do that to Agnes."
-msgstr ""
+msgstr "Ne, to Agnes neudělám."
 
 #: conversations/04_monarch/0402/0402_cv_tucker_needham:67
 msgctxt "conversations/04_monarch/0402/0402_cv_tucker_needham:67:DefaultText"
 msgid "I know it sounds... extreme. But I can't go back. I just can't. This is the only way I can think of to be free."
-msgstr ""
+msgstr "Vím, že to zní... extrémně. Ale nemůžu se vrátit. Prostě nemůžu. Tohle je jediný způsob, jak se osvobodit."
 
 #: conversations/04_monarch/0402/0402_cv_tucker_needham:68
 msgctxt "conversations/04_monarch/0402/0402_cv_tucker_needham:68:DefaultText"
 msgid "I hate to think of her grieving, but it'll be good for her to move on. In the long run, you know?"
-msgstr ""
+msgstr "Nerada myslím na to, že truchlí, ale bude pro ni dobré jít dál. Z dlouhodobého hlediska, víš?"
 
 #: conversations/04_monarch/0402/0402_cv_tucker_needham:69
 msgctxt "conversations/04_monarch/0402/0402_cv_tucker_needham:69:DefaultText"
 msgid "Oh, right. I guess you can take my daddy's ring. I've worn it ever since he died. Mama would recognize it right away."
-msgstr ""
+msgstr "Aha, jasně. Myslím, že si můžeš vzít prsten mého táty. Nosím ho od té doby, co zemřel. Máma by ho hned poznala."
 
 #: conversations/04_monarch/0402/0402_cv_tucker_needham:70
 msgctxt "conversations/04_monarch/0402/0402_cv_tucker_needham:70:DefaultText"
 msgid "I'm plain out of ideas then, Captain. I won't go back, and I can't think of a better way to get my mama to stop searching for me."
-msgstr ""
+msgstr "Tak to mi došly nápady, kapitáne. Nevrátím se a nenapadá mě lepší způsob, jak přimět mámu, aby mě přestala hledat."
 
 #: conversations/04_monarch/0402/0402_cv_tucker_needham:71
 msgctxt "conversations/04_monarch/0402/0402_cv_tucker_needham:71:DefaultText"
 msgid "You take this back to Stellar Bay. Tell my mama I died and you found that on my body. I know it'll hard on her, but it's the only way."
-msgstr ""
+msgstr "Vezměte to zpět do Hvězdné zátoky. Řekni mámě, že jsem umřel a že jsi to našel na mém těle. Vím, že to pro ni bude těžké, ale jinak to nejde."
 
 #: conversations/04_monarch/0402/0402_cv_tucker_needham:72
 msgctxt "conversations/04_monarch/0402/0402_cv_tucker_needham:72:DefaultText"
 msgid "Captain."
-msgstr ""
+msgstr "Kapitán."
 
 #: conversations/04_monarch/0402/0402_cv_tucker_needham:73
 msgctxt "conversations/04_monarch/0402/0402_cv_tucker_needham:73:DefaultText"
 msgid "'Stranger' suits me just fine."
-msgstr ""
+msgstr "\"Cizinec\" mi vyhovuje."
 
 #: conversations/04_monarch/0402/0402_cv_tucker_needham:74
 msgctxt "conversations/04_monarch/0402/0402_cv_tucker_needham:74:DefaultText"
 msgid "Welcome to Amber Heights, Captain. Call me Tucker."
-msgstr ""
+msgstr "Vítejte v Amber Heights, kapitáne. Říkejte mi Tucker."
 
 #: conversations/04_monarch/0402/0402_cv_tucker_needham:75
 msgctxt "conversations/04_monarch/0402/0402_cv_tucker_needham:75:DefaultText"
 msgid "Aw, c'mon. We like to be friendly around here. At the least let me call you Captain. Whether or not you command a ship, if you've found your way here, you must be a leader type."
-msgstr ""
+msgstr "Ale no tak. Rádi se tu chováme přátelsky. Aspoň mi dovolte, abych vám říkal kapitáne. Ať už velíš lodi, nebo ne, pokud jsi našel cestu sem, musíš být vůdčí typ."
 
 #: conversations/04_monarch/0402/0402_cv_tucker_needham:76
 msgctxt "conversations/04_monarch/0402/0402_cv_tucker_needham:76:DefaultText"
 msgid "So then, Captain, welcome to Amber Heights. Oh and call me Tucker."
-msgstr ""
+msgstr "Tak tedy, kapitáne, vítejte v Amber Heights. A říkejte mi Tucker."
 
 #: conversations/04_monarch/0402/0402_cv_tucker_needham:77
 msgctxt "conversations/04_monarch/0402/0402_cv_tucker_needham:77:DefaultText"
 msgid "You really should talk to Graham. I think you two would get along swell."
-msgstr ""
+msgstr "Opravdu by sis měl promluvit s Grahamem. Myslím, že byste si skvěle rozuměli."
 
 #: conversations/04_monarch/0402/0402_cv_tucker_needham:78
 msgctxt "conversations/04_monarch/0402/0402_cv_tucker_needham:78:DefaultText"
 msgid "Why from the yoke of corporate tyranny! It's what all us Iconoclasts strive for. "
-msgstr ""
+msgstr "Proč se zbavit jha korporátní tyranie! O to my všichni ikonoklasté usilujeme. "
 
 #: conversations/04_monarch/0402/0402_cv_tucker_needham:79
 msgctxt "conversations/04_monarch/0402/0402_cv_tucker_needham:79:DefaultText"
 msgid "Oh, yeah. This guy's gonna bleed out here, all right."
-msgstr ""
+msgstr "Ach, ano. Tenhle chlap tady vykrvácí."
 
 #: conversations/04_monarch/0402/0402_cv_tucker_needham:80
 msgctxt "conversations/04_monarch/0402/0402_cv_tucker_needham:80:DefaultText"
 msgid "If I do, it'll have been my choice, damn it! The Iconoclasts taught me that it's okay to be free to make mistakes!"
-msgstr ""
+msgstr "Pokud ano, bude to moje volba, sakra! Iconoclasts mě naučili, že je v pořádku dělat chyby!"
 
 #: conversations/04_monarch/0402/0402_cv_tucker_needham:81
 msgctxt "conversations/04_monarch/0402/0402_cv_tucker_needham:81:DefaultText"
 msgid "Only the vastly ignorant - such as one who has never even seen a picture of Byzantium - could call this a paradise. "
-msgstr ""
+msgstr "Jen naprostý ignorant - například ten, kdo nikdy neviděl ani obrázek Byzance - může tento ráj nazývat rájem. "
 
 #: conversations/04_monarch/0402/0402_cv_tucker_needham:82
 msgctxt "conversations/04_monarch/0402/0402_cv_tucker_needham:82:DefaultText"
 msgid "I've heard of that place. Graham once said the folks who live there are bound by chains they themselves bought. Sounds awful!"
-msgstr ""
+msgstr "O tom místě jsem slyšel. Graham jednou řekl, že lidé, kteří tam žijí, jsou spoutáni řetězy, které si sami koupili. To zní hrozně!"
 
 #: conversations/04_monarch/0402/0402_cv_tucker_needham:83
 msgctxt "conversations/04_monarch/0402/0402_cv_tucker_needham:83:DefaultText"
 msgid "I dunno, Captain. No matter how much of a scene you make, sometimes they just aren't paying attention. "
-msgstr ""
+msgstr "Nevím, kapitáne. Ať uděláš sebevětší scénu, někdy ti prostě nevěnují pozornost. "
 
 #: conversations/04_monarch/0402/0402_cv_tucker_needham:84
 msgctxt "conversations/04_monarch/0402/0402_cv_tucker_needham:84:DefaultText"
 msgid "Yeah, see? You get it!"
-msgstr ""
+msgstr "Jo, vidíš? Chápeš to!"
 
 #: conversations/04_monarch/0402/0402_cv_tucker_needham:85
 msgctxt "conversations/04_monarch/0402/0402_cv_tucker_needham:85:DefaultText"
 msgid "Captain! What are you saying?"
-msgstr ""
+msgstr "Kapitáne! Co to říkáte?"
 
 #: conversations/04_monarch/0402/0402_cv_tucker_needham:86
 msgctxt "conversations/04_monarch/0402/0402_cv_tucker_needham:86:DefaultText"
 msgid "Yeah, what-"
-msgstr ""
+msgstr "Jo, co..."
 
 #: conversations/04_monarch/0402/0402_cv_tucker_needham:88
 msgctxt "conversations/04_monarch/0402/0402_cv_tucker_needham:88:DefaultText"
 msgid "That can be arranged."
-msgstr ""
+msgstr "To lze zařídit."
 
 #: conversations/04_monarch/0402/0402_cv_tucker_needham:89
 msgctxt "conversations/04_monarch/0402/0402_cv_tucker_needham:89:DefaultText"
 msgid "Felix Millstone, don't you dare!"
-msgstr ""
+msgstr "Felixi Millstone, neopovažuj se!"
 
 #: conversations/04_monarch/0402/0402_cv_tucker_needham:90
 msgctxt "conversations/04_monarch/0402/0402_cv_tucker_needham:90:DefaultText"
 msgid "Show up with a bottle of vodka and some real good cusses. That'll show her how much you've grown."
-msgstr ""
+msgstr "Ukaž se s lahví vodky a pár pořádnými nadávkami. To jí ukáže, jak moc jsi vyrostl."
 
 #: conversations/04_monarch/0402/0402_cv_tucker_needham:91
 msgctxt "conversations/04_monarch/0402/0402_cv_tucker_needham:91:DefaultText"
 msgid "Then she'll think they've brainwashed me into some kind of hooligan. As far as she's concerned, if I make any decision that's not aligned with hers, someone else convinced me."
-msgstr ""
+msgstr "Pak si bude myslet, že mi vymyli mozek a udělali ze mě nějakého chuligána. Pokud jde o ni, pokud udělám nějaké rozhodnutí, které není v souladu s jejím, přesvědčil mě někdo jiný."
 
 #: conversations/04_monarch/0402/0402_cv_tucker_needham:92
 msgctxt "conversations/04_monarch/0402/0402_cv_tucker_needham:92:DefaultText"
 msgid "I stuck around way too long, ruled by her fears. I'm 42-years-old, but she still sees me as a little boy in need of her protection. I won't stand for it, I tell you!"
-msgstr ""
+msgstr "Zůstala jsem tu příliš dlouho, ovládaná jejími obavami. Je mi 42 let, ale ona mě stále vidí jako malého chlapce, který potřebuje její ochranu. To si nenechám líbit, to vám říkám!"
 
 #: conversations/04_monarch/0402/0402_cv_tucker_needham:93
 msgctxt "conversations/04_monarch/0402/0402_cv_tucker_needham:93:DefaultText"
 msgid "There's really nothing that could convince you to go home?"
-msgstr ""
+msgstr "Opravdu neexistuje nic, co by vás přesvědčilo, abyste se vrátil domů?"
 
 #: conversations/04_monarch/0402/0402_cv_tucker_needham:94
 msgctxt "conversations/04_monarch/0402/0402_cv_tucker_needham:94:DefaultText"
 msgid "Stellar Bay is not my home - not anymore. I finally found the space to breath, and that's here in Amber Heights."
-msgstr ""
+msgstr "Hvězdná zátoka není můj domov - už ne. Konečně jsem našla prostor k dýchání, a to tady v Amber Heights."

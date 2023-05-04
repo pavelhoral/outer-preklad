@@ -4,32 +4,32 @@ msgid "Monarch Stellar Industries\r\n"
 "==========================\r\n"
 "\r\n"
 "This terminal's use is restricted to authorized medical engineers. Unauthorized use will warrant action from your site safety engineer."
-msgstr ""
+msgstr "Monarch Stellar Industries ========================== Používání tohoto terminálu je vyhrazeno autorizovaným zdravotnickým inženýrům. Neoprávněné použití si vyžádá zásah bezpečnostního technika na pracovišti."
 
 #: conversations/04_monarch/0402/0402_cv_sbmedical_terminal:2
 msgctxt "conversations/04_monarch/0402/0402_cv_sbmedical_terminal:2:DefaultText"
 msgid "[Patient Records]"
-msgstr ""
+msgstr "[Záznamy o pacientech]"
 
 #: conversations/04_monarch/0402/0402_cv_sbmedical_terminal:4
 msgctxt "conversations/04_monarch/0402/0402_cv_sbmedical_terminal:4:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"
 
 #: conversations/04_monarch/0402/0402_cv_sbmedical_terminal:5
 msgctxt "conversations/04_monarch/0402/0402_cv_sbmedical_terminal:5:DefaultText"
 msgid "Please enter the name of the patient whose records you want to view:"
-msgstr ""
+msgstr "Zadejte jméno pacienta, jehož záznamy chcete zobrazit:"
 
 #: conversations/04_monarch/0402/0402_cv_sbmedical_terminal:6
 msgctxt "conversations/04_monarch/0402/0402_cv_sbmedical_terminal:6:DefaultText"
 msgid "[Nyoka]"
-msgstr ""
+msgstr "[Nyoka]"
 
 #: conversations/04_monarch/0402/0402_cv_sbmedical_terminal:7
 msgctxt "conversations/04_monarch/0402/0402_cv_sbmedical_terminal:7:DefaultText"
 msgid "[Return to Root]"
-msgstr ""
+msgstr "[Zpět na kořen]"
 
 #: conversations/04_monarch/0402/0402_cv_sbmedical_terminal:8
 msgctxt "conversations/04_monarch/0402/0402_cv_sbmedical_terminal:8:DefaultText"
@@ -41,12 +41,12 @@ msgid "Nyoka Ramnarim-Wentworth III\r\n"
 "- Liver damage, likely the result of prolonged alcoholism\r\n"
 "- Attitude problems, likely the result of prolonged alcoholism\r\n"
 "- Frequent social withdrawal, likely the result of prolonged alcoholism"
-msgstr ""
+msgstr "Nyoka Ramnarim-Wentworth III ============================ Caffenoid Allotment: -poškození jater, pravděpodobně důsledek dlouhodobého alkoholismu -problémy s postoji, pravděpodobně důsledek dlouhodobého alkoholismu -časté sociální stažení, pravděpodobně důsledek dlouhodobého alkoholismu"
 
 #: conversations/04_monarch/0402/0402_cv_sbmedical_terminal:9
 msgctxt "conversations/04_monarch/0402/0402_cv_sbmedical_terminal:9:DefaultText"
 msgid "[Increase Caffenoid Allotment]"
-msgstr ""
+msgstr "[Zvýšení přídělu kafenoidů]"
 
 #: conversations/04_monarch/0402/0402_cv_sbmedical_terminal:15
 msgctxt "conversations/04_monarch/0402/0402_cv_sbmedical_terminal:15:DefaultText"
@@ -58,99 +58,99 @@ msgid "Allotment increased to: High. Warning: Excessive Caffenoid consumption ma
 "- Death\r\n"
 "\r\n"
 "WARNING: Caffenoid storage is approaching critical levels. Resupply recommended."
-msgstr ""
+msgstr "Příděl se zvýšil na: Vysoký. Varování: Nadměrná konzumace kafenoidů může vést k nežádoucím účinkům, jako jsou: - podrážděnost - únava - nekontrolovatelná stolice - nevolnost - smrt VAROVÁNÍ: Zásoby kafenoidů se blíží kritické úrovni. Doporučuje se doplnit zásoby."
 
 #: conversations/04_monarch/0402/0402_cv_sbmedical_terminal:19
 msgctxt "conversations/04_monarch/0402/0402_cv_sbmedical_terminal:19:DefaultText"
 msgid "[Employee Login]"
-msgstr ""
+msgstr "[Přihlášení zaměstnance]"
 
 #: conversations/04_monarch/0402/0402_cv_sbmedical_terminal:20
 msgctxt "conversations/04_monarch/0402/0402_cv_sbmedical_terminal:20:DefaultText"
 msgid "Please enter your assigned login credentials. If you've forgotten your assigned login credentials, please report to your supervisor for reassignment."
-msgstr ""
+msgstr "Zadejte prosím přiřazené přihlašovací údaje. Pokud jste přidělené přihlašovací údaje zapomněli, nahlaste to prosím svému nadřízenému, aby vám je znovu přidělil."
 
 #: conversations/04_monarch/0402/0402_cv_sbmedical_terminal:21
 msgctxt "conversations/04_monarch/0402/0402_cv_sbmedical_terminal:21:DefaultText"
 msgid "[Login: Williams]"
-msgstr ""
+msgstr "[Přihlásit se: Williams]"
 
 #: conversations/04_monarch/0402/0402_cv_sbmedical_terminal:23
 msgctxt "conversations/04_monarch/0402/0402_cv_sbmedical_terminal:23:DefaultText"
 msgid "[Return to Root]"
-msgstr ""
+msgstr "[Zpět na kořen]"
 
 #: conversations/04_monarch/0402/0402_cv_sbmedical_terminal:24
 msgctxt "conversations/04_monarch/0402/0402_cv_sbmedical_terminal:24:DefaultText"
 msgid "[Create New Account]"
-msgstr ""
+msgstr "[Vytvořit nový účet]"
 
 #: conversations/04_monarch/0402/0402_cv_sbmedical_terminal:25
 msgctxt "conversations/04_monarch/0402/0402_cv_sbmedical_terminal:25:DefaultText"
 msgid "ERROR: Account setup requires a persistent connection to the central communications tower. Connection offline."
-msgstr ""
+msgstr "CHYBA: Nastavení účtu vyžaduje trvalé připojení k centrální komunikační věži. Připojení je offline."
 
 #: conversations/04_monarch/0402/0402_cv_sbmedical_terminal:27
 msgctxt "conversations/04_monarch/0402/0402_cv_sbmedical_terminal:27:DefaultText"
 msgid "Welcome, E. Williams!\r\n"
 "\r\n"
 "Please select from the following menu options:"
-msgstr ""
+msgstr "Vítejte, E. Williams! Vyberte si prosím z následujících možností nabídky:"
 
 #: conversations/04_monarch/0402/0402_cv_sbmedical_terminal:35
 msgctxt "conversations/04_monarch/0402/0402_cv_sbmedical_terminal:35:DefaultText"
 msgid "[Return to Root]"
-msgstr ""
+msgstr "[Zpět na kořen]"
 
 #: conversations/04_monarch/0402/0402_cv_sbmedical_terminal:38
 msgctxt "conversations/04_monarch/0402/0402_cv_sbmedical_terminal:38:DefaultText"
 msgid "[Neeoka]"
-msgstr ""
+msgstr "[Neeoka]"
 
 #: conversations/04_monarch/0402/0402_cv_sbmedical_terminal:39
 msgctxt "conversations/04_monarch/0402/0402_cv_sbmedical_terminal:39:DefaultText"
 msgid "ERROR: Patient not found. Please try again."
-msgstr ""
+msgstr "CHYBA: Pacient nebyl nalezen. Zkuste to prosím znovu."
 
 #: conversations/04_monarch/0402/0402_cv_sbmedical_terminal:40
 msgctxt "conversations/04_monarch/0402/0402_cv_sbmedical_terminal:40:DefaultText"
 msgid "[Neoka]"
-msgstr ""
+msgstr "[Neoka]"
 
 #: conversations/04_monarch/0402/0402_cv_sbmedical_terminal:44
 msgctxt "conversations/04_monarch/0402/0402_cv_sbmedical_terminal:44:DefaultText"
 msgid "ERROR: Allotment already at maximum."
-msgstr ""
+msgstr "CHYBA: Příděl již dosáhl maxima."
 
 #: conversations/04_monarch/0402/0402_cv_sbmedical_terminal:45
 msgctxt "conversations/04_monarch/0402/0402_cv_sbmedical_terminal:45:DefaultText"
 msgid "<oeitoken>PlayerName</oeitoken>"
-msgstr ""
+msgstr "<oeitoken>Jméno hráče</oeitoken>"
 
 #: conversations/04_monarch/0402/0402_cv_sbmedical_terminal:61
 msgctxt "conversations/04_monarch/0402/0402_cv_sbmedical_terminal:61:DefaultText"
 msgid "[Back]"
-msgstr ""
+msgstr "[Zpět]"
 
 #: conversations/04_monarch/0402/0402_cv_sbmedical_terminal:64
 msgctxt "conversations/04_monarch/0402/0402_cv_sbmedical_terminal:64:DefaultText"
 msgid "[Data Storage]"
-msgstr ""
+msgstr "[Ukládání dat]"
 
 #: conversations/04_monarch/0402/0402_cv_sbmedical_terminal:65
 msgctxt "conversations/04_monarch/0402/0402_cv_sbmedical_terminal:65:DefaultText"
 msgid "Please enter the name of the employee whose files you want to view:"
-msgstr ""
+msgstr "Zadejte jméno zaměstnance, jehož soubory chcete zobrazit:"
 
 #: conversations/04_monarch/0402/0402_cv_sbmedical_terminal:66
 msgctxt "conversations/04_monarch/0402/0402_cv_sbmedical_terminal:66:DefaultText"
 msgid "[Williams, E.]"
-msgstr ""
+msgstr "[Williams, E.]"
 
 #: conversations/04_monarch/0402/0402_cv_sbmedical_terminal:67
 msgctxt "conversations/04_monarch/0402/0402_cv_sbmedical_terminal:67:DefaultText"
 msgid "[Edwards, A.]"
-msgstr ""
+msgstr "[Edwards, A.]"
 
 #: conversations/04_monarch/0402/0402_cv_sbmedical_terminal:69
 msgctxt "conversations/04_monarch/0402/0402_cv_sbmedical_terminal:69:DefaultText"
@@ -158,29 +158,29 @@ msgid "Personal Files for E. Williams\r\n"
 "==========================\r\n"
 "\r\n"
 "Notes from experiments as conducted by Dr. E. Williams."
-msgstr ""
+msgstr "Osobní složky E. Williamse ========================== Poznámky z experimentů, které prováděl Dr. E. Williams."
 
 #: conversations/04_monarch/0402/0402_cv_sbmedical_terminal:70
 msgctxt "conversations/04_monarch/0402/0402_cv_sbmedical_terminal:70:DefaultText"
 msgid "Personal Files for A. Edwards\r\n"
 "==========================\r\n"
 ""
-msgstr ""
+msgstr "Osobní spisy A. Edwardse =========================="
 
 #: conversations/04_monarch/0402/0402_cv_sbmedical_terminal:75
 msgctxt "conversations/04_monarch/0402/0402_cv_sbmedical_terminal:75:DefaultText"
 msgid "[WIP #1, 23,629 words]"
-msgstr ""
+msgstr "[WIP #1, 23 629 slov]"
 
 #: conversations/04_monarch/0402/0402_cv_sbmedical_terminal:76
 msgctxt "conversations/04_monarch/0402/0402_cv_sbmedical_terminal:76:DefaultText"
 msgid "[WIP #2, 15,886 words]"
-msgstr ""
+msgstr "[WIP #2, 15 886 slov]"
 
 #: conversations/04_monarch/0402/0402_cv_sbmedical_terminal:77
 msgctxt "conversations/04_monarch/0402/0402_cv_sbmedical_terminal:77:DefaultText"
 msgid "[WIP #3, 146,307 words]"
-msgstr ""
+msgstr "[WIP #3, 146 307 slov]"
 
 #: conversations/04_monarch/0402/0402_cv_sbmedical_terminal:78
 msgctxt "conversations/04_monarch/0402/0402_cv_sbmedical_terminal:78:DefaultText"
@@ -199,7 +199,9 @@ msgid "\"Stellar Bride\"\n"
 "She felt herself blush. \"You've been ever so kind to me, Mr. Elliot.\"\n"
 "\n"
 "\"Call me Archibald,\" he said."
-msgstr ""
+msgstr "\"Hvězdná nevěsta\" Je to kolonistka ze Země s očima dokořán. On je pracovitý farmář saltuna z Monarchu. Jejich přitažlivost rozkvete ve vichřici romance, která promění Hvězdnou zátoku. KAPITOLA 3 - DLOUHÁ CESTA Z ARKANSASU \"Tady si můžete odložit věci,\" řekl pan Elliot a vedl Abbie do tmavého bytu. Bylo to tu malé, ale mělo to jisté... útulné kouzlo. Abbie si položila tašky na podlahu a uvolnila si ramínka kombinézy. Pan Elliot si odkašlal a jeho tvář náhle zrudla. \"Kdyby ti bylo teplo, vždycky můžeš otevřít okno. Vánek od zálivu je opravdu příjemný. Jen pozor na kudlanky.\" Když si Abbie šla vzít klíč od pokoje, její prsty se dotkly jeho. Měl silné, drsné ruce. Ruce farmáře ze Saltuny. \n"
+"\n"
+"Cítila, jak se červená. \"Byl jste ke mně vždycky tak laskavý, pane Elliote.\" \"Říkejte mi Archibald,\" řekl."
 
 #: conversations/04_monarch/0402/0402_cv_sbmedical_terminal:79
 msgctxt "conversations/04_monarch/0402/0402_cv_sbmedical_terminal:79:DefaultText"
@@ -228,7 +230,7 @@ msgid "\"The Passion Broker\"\r\n"
 "The Broker continued, dark hair falling over darker eyes. \"That's why I've got a rare proposition for you.\"\r\n"
 "\r\n"
 "The glass nearly slipped from Broderick's fingers. He drank it in one gulp to hide the tremor in his hand. It burned all the way down."
-msgstr ""
+msgstr "\"Zprostředkovatel vášně\" Odpadlík Ikonoklast, hnaný svými ideály, najde lásku v náručí tajemného muže s trýznivou minulostí. Bude se řídit hlavou... nebo srdcem? KAPITOLA 2 - VYSOKÝ, TEMNÝ A HANEBNÝ \"Pojďte nahoru,\" ozval se hlas v komunikátoru. Byl nebezpečný a hladký způsobem, který Broderickovi připomínal Iceberg Aged Whiskey. Dveře se s šepotem provoněného vzduchu otevřely. Podél zátylku se mu zježily vlasy a pokračoval po schodech nahoru. Broker seděl zády ke špičkovému osobnímu topení MostlyCharKoal, štíhlé prsty napjaté. Tak tohle byl ten tajemný samotář, který na dálku manipuloval s Monarchem. Broderick cítil teplo ohřívače i z druhé strany místnosti, ale byl to pohled do Brokerových očí, který ho přiměl k horečce. Broker předložil pár brýlí a láhev něčeho, co vypadalo draze. Nalil si a jednu ze sklenic natáhl k Broderickovi. \"Pro mě?\" zeptal se a snažil se ignorovat mužův doutnající pohled. \"Vskutku,\" zamručel Makléř. \"Slyšel jsem, že máš... odvážný vkus.\" Broderick si vzal sklenku. Makléř pokračoval, tmavé vlasy mu padaly přes tmavé oči. \"Proto mám pro vás vzácnou nabídku.\" Sklenice Broderickovi málem vyklouzla z prstů. Vypil ji na jeden lok, aby skryl chvění v ruce. Pálilo to až do dna."
 
 #: conversations/04_monarch/0402/0402_cv_sbmedical_terminal:80
 msgctxt "conversations/04_monarch/0402/0402_cv_sbmedical_terminal:80:DefaultText"
@@ -249,34 +251,34 @@ msgid "\"Clinic of the Heart\"\n"
 "\"Oh, Laws,\" he moaned, pulling her closer.\n"
 "\n"
 "She pressed a finger to his lips. \"Shh. The only law here is love.\""
-msgstr ""
+msgstr "\"Klinika srdce\" Mladý voják pozemského ředitelství, zocelený bojem, navštíví vzdálenou kliniku na Monarchu, aby si vyléčil zranění. Když se však seznámí s Gail, elegantní starší zdravotní sestrou, pustí se i do práce na jeho srdci. KAPITOLA 34 - LÉČIVÝ DOTYK Fletcher ji pevně držel. Síly se mu vrátily - to bylo jasné. Přesto tu zůstal. Na klinice. S ní. Zavrtěl hlavou, jako by jí četl myšlenky svýma dokonalýma zelenýma očima. \"Gail, ředitelství Země mě volá zpátky - chtějí, abych chránil Byzantium. Ale já nevím, jak odejít. Ne po tom, co jsme spolu našli.\" \"Tak zůstaň,\" zašeptala a nechala svůj dech, aby mu zahřál ucho. \"Určitě ti tady najdu... místo.\" \"Ach, Lawsová,\" zasténal a přitáhl si ji blíž. Přitiskla mu prst na rty. \"Pst. Jediným zákonem je tu láska.\""
 
 #: conversations/04_monarch/0402/0402_cv_sbmedical_terminal:81
 msgctxt "conversations/04_monarch/0402/0402_cv_sbmedical_terminal:81:DefaultText"
 msgid "[Return to Root]"
-msgstr ""
+msgstr "[Zpět na kořen]"
 
 #: conversations/04_monarch/0402/0402_cv_sbmedical_terminal:82
 msgctxt "conversations/04_monarch/0402/0402_cv_sbmedical_terminal:82:DefaultText"
 msgid "[Notes: Reacticism + Pep-You-Up]"
-msgstr ""
+msgstr "[Poznámky: Reakticismus + Pep-You-Up]"
 
 #: conversations/04_monarch/0402/0402_cv_sbmedical_terminal:83
 msgctxt "conversations/04_monarch/0402/0402_cv_sbmedical_terminal:83:DefaultText"
 msgid "[Notes: Bush Berry Extract + Debilerol]"
-msgstr ""
+msgstr "[Poznámky: Extrakt z bobulí keře + debilerol]"
 
 #: conversations/04_monarch/0402/0402_cv_sbmedical_terminal:84
 msgctxt "conversations/04_monarch/0402/0402_cv_sbmedical_terminal:84:DefaultText"
 msgid "[Notes: Caustolerene - Triple Dosage]"
-msgstr ""
+msgstr "[Poznámky: Caustolerene - Triple Dosage]"
 
 #: conversations/04_monarch/0402/0402_cv_sbmedical_terminal:85
 msgctxt "conversations/04_monarch/0402/0402_cv_sbmedical_terminal:85:DefaultText"
 msgid "Searching...\r\n"
 "\r\n"
 "File empty."
-msgstr ""
+msgstr "Hledání... Soubor je prázdný."
 
 #: conversations/04_monarch/0402/0402_cv_sbmedical_terminal:86
 msgctxt "conversations/04_monarch/0402/0402_cv_sbmedical_terminal:86:DefaultText"
@@ -285,26 +287,26 @@ msgid "I had hypothesized that this combination might awaken my mind and senses 
 "Shortly after the dosage, I experienced cold sweats, tremors, and mild paranoia. It is perhaps due to these latter effects that most of my notes from the episode are of little use.\r\n"
 "\r\n"
 "Nevertheless, the effects were most invigorating. I will have to attempt a milder dosage once heart palpitations subside."
-msgstr ""
+msgstr "Předpokládal jsem, že tato kombinace by mohla probudit mou mysl a smysly k vnímání větší reality kolem nás. Pokud je to pravda, pak se zdá, že mé schopnosti byly v tomto případě docela přetížené. Krátce po dávce jsem pocítil studený pot, třes a mírnou paranoiu. Možná právě kvůli těmto posledním účinkům je většina mých poznámek z této epizody málo použitelná. Nicméně účinky byly nanejvýš povzbuzující. Až ustoupí bušení srdce, budu se muset pokusit o mírnější dávkování."
 
 #: conversations/04_monarch/0402/0402_cv_sbmedical_terminal:87
 msgctxt "conversations/04_monarch/0402/0402_cv_sbmedical_terminal:87:DefaultText"
 msgid "After my previous experiments, I theorized that deadening the external senses might allow the mind's eye to glimpse the Eternal. Alas, I was only partially successful.\n"
 "\n"
 "The combination of substances quickly rendered me both blind and feeble - so much so that I soon fell into a stupor. I awoke some hours later in a pile of my own sick and a most curious craving for Tileritos."
-msgstr ""
+msgstr "Po svých předchozích pokusech jsem se domníval, že umrtvení vnějších smyslů by mohlo umožnit oku mysli nahlédnout do Věčnosti. Bohužel jsem byl úspěšný jen zčásti. Kombinace látek mě rychle oslepila a oslabila natolik, že jsem brzy upadl do útlumu. Probudil jsem se o několik hodin později v hromadě vlastních zvratků a s velmi podivnou chutí na Tileritos."
 
 #: conversations/04_monarch/0402/0402_cv_sbmedical_terminal:96
 msgctxt "conversations/04_monarch/0402/0402_cv_sbmedical_terminal:96:DefaultText"
 msgid "[Back]"
-msgstr ""
+msgstr "[Zpět]"
 
 #: conversations/04_monarch/0402/0402_cv_sbmedical_terminal:97
 msgctxt "conversations/04_monarch/0402/0402_cv_sbmedical_terminal:97:DefaultText"
 msgid "[Back]"
-msgstr ""
+msgstr "[Zpět]"
 
 #: conversations/04_monarch/0402/0402_cv_sbmedical_terminal:100
 msgctxt "conversations/04_monarch/0402/0402_cv_sbmedical_terminal:100:DefaultText"
 msgid "[Back]"
-msgstr ""
+msgstr "[Zpět]"

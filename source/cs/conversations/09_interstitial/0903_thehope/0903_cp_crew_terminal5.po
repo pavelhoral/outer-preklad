@@ -3,32 +3,32 @@ msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal5:3:Def
 msgid "UDL-002 THE HOPE\r\n"
 "===========================\r\n"
 "Warning: Unauthorized access will result in immediate termination upon your arrival in Halcyon."
-msgstr ""
+msgstr "UDL-002 THE HOPE =========================== Varování: Neoprávněný přístup bude mít za následek okamžité ukončení přístupu po vašem příchodu do Halcyonu."
 
 #: conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal5:4
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal5:4:DefaultText"
 msgid "[Automated Audio Transcript #R-2317]"
-msgstr ""
+msgstr "[Automatizovaný zvukový přepis #R-2317]"
 
 #: conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal5:6
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal5:6:DefaultText"
 msgid "[Manual log #L-4403 - HUNTE, W.]"
-msgstr ""
+msgstr "[Příruční protokol #L-4403 - HUNTE, W.]"
 
 #: conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal5:8
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal5:8:DefaultText"
 msgid "[Automated Audio Transcript #R-2481]"
-msgstr ""
+msgstr "[Automatizovaný zvukový přepis #R-2481]"
 
 #: conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal5:17
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal5:17:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"
 
 #: conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal5:27
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal5:27:DefaultText"
 msgid "[Automated Audio Transcript #R-2490]"
-msgstr ""
+msgstr "[Automatizovaný zvukový přepis #R-2490]"
 
 #: conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal5:46
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal5:46:DefaultText"
@@ -37,7 +37,7 @@ msgid "HUNTE, W: What is it, Rezi?\r\n"
 "HUNTE, W: Pod alarms? The colonists?\r\n"
 "TORREGA, R: Yes. See?\r\n"
 "HUNTE, W: I'll check it out. Thanks."
-msgstr ""
+msgstr "HUNTE, W: Co se děje, Rezi? TORREGA, R: Kapitán. Hej. Promiň, že jsem tě vzbudil. Spustil se jeden z alarmů v modulu. Nevěděl jsem, co mám dělat. HUNTE, W: Poplach v podpalubí? Kolonisté? TORREGA, R: Ano. Vidíš? Zkontroluju to. Děkuji."
 
 #: conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal5:50
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal5:50:DefaultText"
@@ -48,7 +48,7 @@ msgid "I'm writing this down because I'm not sure what to do, but I want the inc
 "Rezi helped me hook another up in secret. I've been checking on it every morning, and today, I discovered our chief engineer tampering with one of the pods in the middle of the night.\r\n"
 "\r\n"
 "I haven't confronted him yet. I'll collect more evidence before I do. I don't know why Frank would start waking people up. We're short on food as is."
-msgstr ""
+msgstr "Píšu to sem, protože si nejsem jistý, co mám dělat, ale chci, aby se ten incident zaznamenal. Jeden z našich kolonistů se ztratil. Kamery v hangáru byly deaktivovány z důvodu... Nevím, jak dlouho. Rezi mi tajně pomohl připojit další. Každé ráno jsem to kontroloval a dnes jsem zjistil, že náš hlavní inženýr uprostřed noci manipuloval s jedním z modulů. Ještě jsem ho nekonfrontoval. Než to udělám, shromáždím další důkazy. Nevím, proč by Frank začal budit lidi. Už tak máme málo jídla."
 
 #: conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal5:51
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal5:51:DefaultText"
@@ -65,7 +65,7 @@ msgid "HUNTE, W: I should throw you out of the fucking airlock, Frank.\r\n"
 "TORREGA, R: I'm... oh, no. I can't... I'm going to be sick.\r\n"
 "HUNTE, W: Just find Alexei!\r\n"
 "TORREGA, R: Okay. Okay."
-msgstr ""
+msgstr "HUNTE, W: Měl bych tě vyhodit z té zasrané přechodové komory, Franku. NOLDA, F: Měl bys mi děkovat za vyřešení naší potravinové krize! HUNTE, W: Tohle je tvoje řešení? Obětovat nevinné lidi? TORREGA, R: Co se děje? HUNTE, W: Rezi. Najdi Alexeje. Zavřeme Franka do vězení. TORREGA, R: Cože? Proč? To on manipuluje s lusky. NOLDA, F: Cože, vy ji ušetříte hrůzných detailů? Snědla jsem je, Rezi. TORREGA, R: Ty... ty jsi je snědla? NOLDA, F: A neomlouvám se za to! Jestli to nepřežijeme, tak jsou stejně mrtví. TORREGA, R: Já... ale ne. Nemůžu... Bude mi špatně. LOVEC, W: Jen najdi Alexeje! TORREGA, R: Dobře. Dobře."
 
 #: conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal5:52
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal5:52:DefaultText"
@@ -75,16 +75,16 @@ msgid "VOLKOV, A: I've been talking to Frank.\r\n"
 "HUNTE, W: Dammit, Alexei, not you, too. Don't listen to that madman.\r\n"
 "VOLKOV, A: What if your wife can't grow more food? What if it fails?\r\n"
 "HUNTE, W: Then we'll figure something else out. We are not cannibals."
-msgstr ""
+msgstr "VOLKOV, A: Mluvil jsem s Frankem. HUNTE, W: A? Jak je na tom brigádník? VOLKOV, A: Kapitán... ten dává docela smysl. LOVEC, W: Sakra, Alexeji, ty taky ne. Neposlouchej toho blázna. VOLKOV, A: A co když tvoje žena nedokáže vypěstovat víc jídla? Co když se to nepovede? LOVEC, W: Pak vymyslíme něco jiného. Nejsme kanibalové."
 
 #: conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal5:53
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal5:53:DefaultText"
 msgid "CREW TERMINAL\r\n"
 "===========================\r\n"
 "Error accessing archives. Available entries:"
-msgstr ""
+msgstr "CREW TERMINAL =========================== Chyba při přístupu k archivům. Dostupné záznamy:"
 
 #: conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal5:56
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal5:56:DefaultText"
 msgid "[Continue]"
-msgstr ""
+msgstr "[Pokračovat]"

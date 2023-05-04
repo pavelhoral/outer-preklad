@@ -1,1714 +1,1714 @@
 #: conversations/companions/g_companion_felix_in_party:3
 msgctxt "conversations/companions/g_companion_felix_in_party:3:DefaultText"
 msgid "Yeah, boss?"
-msgstr ""
+msgstr "Jo, šéfe?"
 
 #: conversations/companions/g_companion_felix_in_party:4
 msgctxt "conversations/companions/g_companion_felix_in_party:4:DefaultText"
 msgid "Never mind."
-msgstr ""
+msgstr "Nevadí."
 
 #: conversations/companions/g_companion_felix_in_party:22
 msgctxt "conversations/companions/g_companion_felix_in_party:22:DefaultText"
 msgid "Here's what I don't understand."
-msgstr ""
+msgstr "Tomuhle nerozumím."
 
 #: conversations/companions/g_companion_felix_in_party:23
 msgctxt "conversations/companions/g_companion_felix_in_party:23:DefaultText"
 msgid "<Listen.>"
-msgstr ""
+msgstr "<Poslouchat.>"
 
 #: conversations/companions/g_companion_felix_in_party:24
 msgctxt "conversations/companions/g_companion_felix_in_party:24:DefaultText"
 msgid "The Hope. Big damn colony ship, right? Lost on the edge of space. Hundreds of thousands of colonists floating out there, just waiting for a savior."
-msgstr ""
+msgstr "Naděje. Zatraceně velká koloniální loď, že? Ztracená na okraji vesmíru. Stovky tisíc kolonistů se tam vznášejí a čekají na zachránce."
 
 #: conversations/companions/g_companion_felix_in_party:25
 msgctxt "conversations/companions/g_companion_felix_in_party:25:DefaultText"
 msgid "And you're just gonna deliver them into the hands of the Board?"
-msgstr ""
+msgstr "A vy je prostě předáte do rukou správní rady?"
 
 #: conversations/companions/g_companion_felix_in_party:26
 msgctxt "conversations/companions/g_companion_felix_in_party:26:DefaultText"
 msgid "I haven't made a decision yet, all right? I need to think about this."
-msgstr ""
+msgstr "Ještě jsem se nerozhodl, jasné? Musím si to promyslet."
 
 #: conversations/companions/g_companion_felix_in_party:27
 msgctxt "conversations/companions/g_companion_felix_in_party:27:DefaultText"
 msgid "Come on, boss. Nothing good ever came out of thinking things through. "
-msgstr ""
+msgstr "No tak, šéfe. Z přemýšlení nikdy nevzešlo nic dobrého. "
 
 #: conversations/companions/g_companion_felix_in_party:28
 msgctxt "conversations/companions/g_companion_felix_in_party:28:DefaultText"
 msgid "You don't know what you're talking about."
-msgstr ""
+msgstr "Nevíte, o čem mluvíte."
 
 #: conversations/companions/g_companion_felix_in_party:29
 msgctxt "conversations/companions/g_companion_felix_in_party:29:DefaultText"
 msgid "Why, because I'm just some hullhead from the Groundbreaker? Least I know right from wrong."
-msgstr ""
+msgstr "Proč? Protože jsem jenom nějaká hlava z Groundbreakeru? Aspoň vím, co je správné a co ne."
 
 #: conversations/companions/g_companion_felix_in_party:30
 msgctxt "conversations/companions/g_companion_felix_in_party:30:DefaultText"
 msgid "It's just wrong. The Board's already got a stranglehold on the entire colony. You're about to give them another ship full of slaves."
-msgstr ""
+msgstr "Je to prostě špatně. Správní rada už teď ovládá celou kolonii. Chystáš se jim dát další loď plnou otroků."
 
 #: conversations/companions/g_companion_felix_in_party:31
 msgctxt "conversations/companions/g_companion_felix_in_party:31:DefaultText"
 msgid "The Hope is rotting at the edge of system. Tartarus is a safer location."
-msgstr ""
+msgstr "Naděje hnije na okraji systému. Tartar je bezpečnější místo."
 
 #: conversations/companions/g_companion_felix_in_party:32
 msgctxt "conversations/companions/g_companion_felix_in_party:32:DefaultText"
 msgid "Never heard Tartarus described as a \"safe location\" before. Then again, that ain't my friends and family on that ship."
-msgstr ""
+msgstr "Nikdy předtím jsem neslyšel, že by byl Tartar označován za \"bezpečné místo\". Na druhou stranu, na té lodi nejsou moji přátelé a rodina."
 
 #: conversations/companions/g_companion_felix_in_party:33
 msgctxt "conversations/companions/g_companion_felix_in_party:33:DefaultText"
 msgid "I'm part of your crew, boss. But you? You're part of the Hope's crew. That's your ship, floating out there in the dark. I know you're just trying to keep them safe."
-msgstr ""
+msgstr "Patřím k vaší partě, šéfe. Ale ty? Ty jsi členem Hopeovy posádky. To je tvoje loď, plující tam venku ve tmě. Vím, že se je jen snažíš udržet v bezpečí."
 
 #: conversations/companions/g_companion_felix_in_party:38
 msgctxt "conversations/companions/g_companion_felix_in_party:38:DefaultText"
 msgid "I'm trying to save this colony, Felix. And I need to know you've got my back."
-msgstr ""
+msgstr "Snažím se zachránit tuto kolonii, Felixi. A potřebuju vědět, že mi kryješ záda."
 
 #: conversations/companions/g_companion_felix_in_party:39
 msgctxt "conversations/companions/g_companion_felix_in_party:39:DefaultText"
 msgid "We've had this argument before. I trusted you then. And I guess I'm willing to trust you again."
-msgstr ""
+msgstr "Tento argument jsme už jednou vedli. Tehdy jsem ti věřil. A myslím, že jsem ochotný ti věřit znovu."
 
 #: conversations/companions/g_companion_felix_in_party:40
 msgctxt "conversations/companions/g_companion_felix_in_party:40:DefaultText"
 msgid "'Course I got your back, boss. You know you can count on me. Just wanted to clear the air between us, is all."
-msgstr ""
+msgstr "\"Samozřejmě, že ti kryju záda, šéfe. Víš, že se na mě můžeš spolehnout. Jen jsem si chtěl vyjasnit vztahy mezi námi, to je vše."
 
 #: conversations/companions/g_companion_felix_in_party:41
 msgctxt "conversations/companions/g_companion_felix_in_party:41:DefaultText"
 msgid "I'm part of the Hope, too. You really think I'm gonna sell out my own?"
-msgstr ""
+msgstr "I já jsem součástí Naděje. Opravdu si myslíš, že prodám své vlastní?"
 
 #: conversations/companions/g_companion_felix_in_party:42
 msgctxt "conversations/companions/g_companion_felix_in_party:42:DefaultText"
 msgid "I don't know what to think. It's not that I don't trust you. I don't trust the Board. And right now, it's like the Board's inside your head. "
-msgstr ""
+msgstr "Nevím, co si mám myslet. Ne že bych ti nevěřil. Nevěřím radě. A právě teď je to, jako by rada byla ve tvé hlavě. "
 
 #: conversations/companions/g_companion_felix_in_party:43
 msgctxt "conversations/companions/g_companion_felix_in_party:43:DefaultText"
 msgid "All right. And what if I told you I'd never go through with it?"
-msgstr ""
+msgstr "Dobře. A co když ti řeknu, že to nikdy neudělám?"
 
 #: conversations/companions/g_companion_felix_in_party:44
 msgctxt "conversations/companions/g_companion_felix_in_party:44:DefaultText"
 msgid "I'd say you're spinning me a story. I know you, boss. Don't try to pull one over on me."
-msgstr ""
+msgstr "Řekl bych, že mi vymýšlíš příběh. Znám tě, šéfe. Nesnažte se na mě vyzrát."
 
 #: conversations/companions/g_companion_felix_in_party:45
 msgctxt "conversations/companions/g_companion_felix_in_party:45:DefaultText"
 msgid "I'm not about to change my course."
-msgstr ""
+msgstr "Nehodlám měnit svůj kurz."
 
 #: conversations/companions/g_companion_felix_in_party:46
 msgctxt "conversations/companions/g_companion_felix_in_party:46:DefaultText"
 msgid "Then I guess we got nothing more to say to each other."
-msgstr ""
+msgstr "Pak už si asi nemáme co říct."
 
 #: conversations/companions/g_companion_felix_in_party:47
 msgctxt "conversations/companions/g_companion_felix_in_party:47:DefaultText"
 msgid "Close. I'm delivering them into the hands of the Board *for a reward.*"
-msgstr ""
+msgstr "Zavřít. Předávám je do rukou představenstva *za odměnu*."
 
 #: conversations/companions/g_companion_felix_in_party:48
 msgctxt "conversations/companions/g_companion_felix_in_party:48:DefaultText"
 msgid "Yeah? Well I hope the trouble's worth the pay. Ain't gonna be much of a colony left to spend all those bits, anyway."
-msgstr ""
+msgstr "Ano? Doufám, že ty potíže za ten plat stojí. Stejně už nezbude moc kolonií, kde by se daly utratit všechny ty peníze."
 
 #: conversations/companions/g_companion_felix_in_party:49
 msgctxt "conversations/companions/g_companion_felix_in_party:49:DefaultText"
 msgid "I thought we've been over this before."
-msgstr ""
+msgstr "Myslel jsem, že už jsme to jednou řešili."
 
 #: conversations/companions/g_companion_felix_in_party:50
 msgctxt "conversations/companions/g_companion_felix_in_party:50:DefaultText"
 msgid "Yeah, which is what upsets me. You talked some sense into me, and I believed you. And here you are doing something even worse."
-msgstr ""
+msgstr "Jo, a to mě štve. Přemlouval jsi mě a já ti věřil. A teď děláš něco ještě horšího."
 
 #: conversations/companions/g_companion_felix_in_party:51
 msgctxt "conversations/companions/g_companion_felix_in_party:51:DefaultText"
 msgid "Ugh. Here we go again."
-msgstr ""
+msgstr "Uf. A je to tu zase."
 
 #: conversations/companions/g_companion_felix_in_party:52
 msgctxt "conversations/companions/g_companion_felix_in_party:52:DefaultText"
 msgid "This should be good."
-msgstr ""
+msgstr "To by mělo být dobré."
 
 #: conversations/companions/g_companion_felix_in_party:53
 msgctxt "conversations/companions/g_companion_felix_in_party:53:DefaultText"
 msgid "You're not really thinking of going through with this plan, right? Tell me I'm imagining things."
-msgstr ""
+msgstr "Snad neuvažujete o tom, že byste tento plán uskutečnili, že? Řekni mi, že se mi to jen zdá."
 
 #: conversations/companions/g_companion_felix_in_party:54
 msgctxt "conversations/companions/g_companion_felix_in_party:54:DefaultText"
 msgid "That's Parvati's home town. You're gonna just wipe it out?"
-msgstr ""
+msgstr "To je Parvatiino rodné město. Chceš ho prostě zničit?"
 
 #: conversations/companions/g_companion_felix_in_party:55
 msgctxt "conversations/companions/g_companion_felix_in_party:55:DefaultText"
 msgid "Vicar Max lived in Edgewater. We got folk from our own crew that called that place home."
-msgstr ""
+msgstr "Vikář Max žil v Edgewateru. Získali jsme lidi z naší posádky, kteří to místo nazývali svým domovem."
 
 #: conversations/companions/g_companion_felix_in_party:56
 msgctxt "conversations/companions/g_companion_felix_in_party:56:DefaultText"
 msgid "This ain't about crossing off some dissidents or shutting down some radio tower. The Board wants an entire town wiped out."
-msgstr ""
+msgstr "Nejde o to, abyste vyškrtli nějaké disidenty nebo vypnuli nějakou rozhlasovou věž. Rada chce zlikvidovat celé město."
 
 #: conversations/companions/g_companion_felix_in_party:57
 msgctxt "conversations/companions/g_companion_felix_in_party:57:DefaultText"
 msgid "What if I told you I agreed with Sophia's plan?"
-msgstr ""
+msgstr "Co kdybych ti řekl, že souhlasím se Sophiiným plánem?"
 
 #: conversations/companions/g_companion_felix_in_party:58
 msgctxt "conversations/companions/g_companion_felix_in_party:58:DefaultText"
 msgid "This ain't the first time we had this argument, boss. You convinced me to trust you, and now I'm regretting it."
-msgstr ""
+msgstr "Tohle není naše první hádka, šéfe. Přesvědčil jsi mě, abych ti věřil, a teď toho lituji."
 
 #: conversations/companions/g_companion_felix_in_party:59
 msgctxt "conversations/companions/g_companion_felix_in_party:59:DefaultText"
 msgid "How could you possibly agree with her? Adjutant Akande is the Chairman's right hand - and she's pulling you by the strings."
-msgstr ""
+msgstr "Jak s ní můžete souhlasit? Adjutantka Akandeová je pravou rukou předsedy - a ona vás tahá za nitky."
 
 #: conversations/companions/g_companion_felix_in_party:60
 msgctxt "conversations/companions/g_companion_felix_in_party:60:DefaultText"
 msgid "Edgewater's a corporate town, not some marauder camp. They're asking you to wipe out their own people. "
-msgstr ""
+msgstr "Edgewater je město korporací, ne nějaký tábor nájezdníků. Chtějí po tobě, abys vyhladil jejich vlastní lidi. "
 
 #: conversations/companions/g_companion_felix_in_party:61
 msgctxt "conversations/companions/g_companion_felix_in_party:61:DefaultText"
 msgid "The colony has too many mouths to feed. I'm doing what has to be done."
-msgstr ""
+msgstr "Kolonie má příliš mnoho hladových krků. Dělám, co je třeba."
 
 #: conversations/companions/g_companion_felix_in_party:62
 msgctxt "conversations/companions/g_companion_felix_in_party:62:DefaultText"
 msgid "Yeah, I know. I know about the presentation. The big secret the Board's been covering up. Doesn't mean I gotta like it."
-msgstr ""
+msgstr "Jo, já vím. Vím o té prezentaci. Velké tajemství, které rada tají. To ale neznamená, že se mi to musí líbit."
 
 #: conversations/companions/g_companion_felix_in_party:63
 msgctxt "conversations/companions/g_companion_felix_in_party:63:DefaultText"
 msgid "You know, just for the record? I hate absolutely everything about this. Sophia. The Board. Edgewater. This plan. Everything."
-msgstr ""
+msgstr "Víte, jen tak mimochodem? Nesnáším na tom úplně všechno. Sophia. Představenstvo. Edgewater. Tenhle plán. Všechno."
 
 #: conversations/companions/g_companion_felix_in_party:64
 msgctxt "conversations/companions/g_companion_felix_in_party:64:DefaultText"
 msgid "But I know you're doing your best. I know you're trying to save as much of the colony as you can. "
-msgstr ""
+msgstr "Ale vím, že děláš, co můžeš. Vím, že se snažíš zachránit co nejvíce kolonie. "
 
 #: conversations/companions/g_companion_felix_in_party:69
 msgctxt "conversations/companions/g_companion_felix_in_party:69:DefaultText"
 msgid "Edgewater is going to die a slow death when the colony collapses. This is a mercy."
-msgstr ""
+msgstr "Edgewater zemře pomalou smrtí, až se kolonie zhroutí. To je milosrdenství."
 
 #: conversations/companions/g_companion_felix_in_party:70
 msgctxt "conversations/companions/g_companion_felix_in_party:70:DefaultText"
 msgid "If this is mercy, I'd hate to see your idea of cruelty."
-msgstr ""
+msgstr "Jestli je tohle milosrdenství, tak bych nerad viděl vaši představu krutosti."
 
 #: conversations/companions/g_companion_felix_in_party:71
 msgctxt "conversations/companions/g_companion_felix_in_party:71:DefaultText"
 msgid "If the colony collapses, they're gonna start eating each other in Edgewater."
-msgstr ""
+msgstr "Pokud se kolonie zhroutí, začnou se v Edgewateru požírat navzájem."
 
 #: conversations/companions/g_companion_felix_in_party:72
 msgctxt "conversations/companions/g_companion_felix_in_party:72:DefaultText"
 msgid "I know what I'm doing, Felix. Trust me."
-msgstr ""
+msgstr "Vím, co dělám, Felixi. Věř mi."
 
 #: conversations/companions/g_companion_felix_in_party:73
 msgctxt "conversations/companions/g_companion_felix_in_party:73:DefaultText"
 msgid "You asked me to trust you once before. I can't just take you at your word."
-msgstr ""
+msgstr "Už jednou jsi mě požádal, abych ti věřil. Nemůžu tě jen tak vzít za slovo."
 
 #: conversations/companions/g_companion_felix_in_party:74
 msgctxt "conversations/companions/g_companion_felix_in_party:74:DefaultText"
 msgid "I want to trust you, boss. But I'm gonna need more than just your word. I need an explanation."
-msgstr ""
+msgstr "Chci vám věřit, šéfe. Ale budu potřebovat víc než jen vaše slovo. Potřebuju vysvětlení."
 
 #: conversations/companions/g_companion_felix_in_party:75
 msgctxt "conversations/companions/g_companion_felix_in_party:75:DefaultText"
 msgid "I understand that you're upset, but there's not a lot I can do for you."
-msgstr ""
+msgstr "Chápu, že jsi rozrušená, ale nemůžu pro tebe moc udělat."
 
 #: conversations/companions/g_companion_felix_in_party:76
 msgctxt "conversations/companions/g_companion_felix_in_party:76:DefaultText"
 msgid "I ain't asking you to do anything for me. I'm asking you to do the right thing. And if you can't, then we're not gonna be on good terms."
-msgstr ""
+msgstr "Nežádám tě, abys pro mě něco udělal. Žádám tě, abys udělal správnou věc. A jestli to nedokážeš, nebudeme mít dobré vztahy."
 
 #: conversations/companions/g_companion_felix_in_party:77
 msgctxt "conversations/companions/g_companion_felix_in_party:77:DefaultText"
 msgid "I'm tired of listening to your whining."
-msgstr ""
+msgstr "Už mě nebaví poslouchat vaše kňourání."
 
 #: conversations/companions/g_companion_felix_in_party:78
 msgctxt "conversations/companions/g_companion_felix_in_party:78:DefaultText"
 msgid "Yeah? You wanna know what I think?"
-msgstr ""
+msgstr "Ano? Chceš vědět, co si myslím?"
 
 #: conversations/companions/g_companion_felix_in_party:79
 msgctxt "conversations/companions/g_companion_felix_in_party:79:DefaultText"
 msgid "Never mind - let's just move on."
-msgstr ""
+msgstr "Nevadí - pojďme dál."
 
 #: conversations/companions/g_companion_felix_in_party:80
 msgctxt "conversations/companions/g_companion_felix_in_party:80:DefaultText"
 msgid "I know, Felix. I'm not happy about this job."
-msgstr ""
+msgstr "Já vím, Felixi. Nejsem z téhle práce nadšená."
 
 #: conversations/companions/g_companion_felix_in_party:81
 msgctxt "conversations/companions/g_companion_felix_in_party:81:DefaultText"
 msgid "If you don't like this job, and I don't like this job, and nobody else on this ship likes this job, then why are you going through with it?"
-msgstr ""
+msgstr "Pokud se vám ta práce nelíbí, mně se nelíbí a nikomu jinému na lodi se nelíbí, proč ji děláte?"
 
 #: conversations/companions/g_companion_felix_in_party:82
 msgctxt "conversations/companions/g_companion_felix_in_party:82:DefaultText"
 msgid "Why are you getting touchy all of a sudden? We killed people before."
-msgstr ""
+msgstr "Proč jsi najednou tak nedůtklivý? Předtím jsme zabíjeli lidi."
 
 #: conversations/companions/g_companion_felix_in_party:83
 msgctxt "conversations/companions/g_companion_felix_in_party:83:DefaultText"
 msgid "Yeah, people who had it coming! Mostly. I think. Look - I don't know, all right?"
-msgstr ""
+msgstr "Ano, lidé, kteří si to zasloužili! Většinou. Myslím. Hele - já nevím, jasný?"
 
 #: conversations/companions/g_companion_felix_in_party:84
 msgctxt "conversations/companions/g_companion_felix_in_party:84:DefaultText"
 msgid "I feel like we've had this argument before."
-msgstr ""
+msgstr "Mám pocit, že jsme se o tom už jednou hádali."
 
 #: conversations/companions/g_companion_felix_in_party:85
 msgctxt "conversations/companions/g_companion_felix_in_party:85:DefaultText"
 msgid "Yeah, we have. Because I keep trusting you, and you keep on doing the Board's bidding."
-msgstr ""
+msgstr "Ano, máme. Protože ti stále věřím a ty stále plníš příkazy rady."
 
 #: conversations/companions/g_companion_felix_in_party:86
 msgctxt "conversations/companions/g_companion_felix_in_party:86:DefaultText"
 msgid "So is this how it's gonna be? Adjutant tells you to kill somebody, you kill somebody - no questions asked, no trouble to your conscience?"
-msgstr ""
+msgstr "Takže takhle to bude? Adjutant ti řekne, abys někoho zabil, ty někoho zabiješ - bez otázek, bez problémů se svědomím?"
 
 #: conversations/companions/g_companion_felix_in_party:87
 msgctxt "conversations/companions/g_companion_felix_in_party:87:DefaultText"
 msgid "If we're going to have an argument, let's just get it over with."
-msgstr ""
+msgstr "Když už se chceme hádat, tak ať to máme za sebou."
 
 #: conversations/companions/g_companion_felix_in_party:88
 msgctxt "conversations/companions/g_companion_felix_in_party:88:DefaultText"
 msgid "You're wrong if you think my conscience is not troubled."
-msgstr ""
+msgstr "Mýlíte se, pokud si myslíte, že mě netrápí svědomí."
 
 #: conversations/companions/g_companion_felix_in_party:89
 msgctxt "conversations/companions/g_companion_felix_in_party:89:DefaultText"
 msgid "Am I wrong? I'm not so sure. 'Cause I just saw you kill an innocent woman in cold blood. I was *there.*"
-msgstr ""
+msgstr "Mýlím se? Nejsem si tím tak jistý. Protože jsem právě viděl, jak jsi chladnokrevně zabil nevinnou ženu. Byl jsem tam."
 
 #: conversations/companions/g_companion_felix_in_party:90
 msgctxt "conversations/companions/g_companion_felix_in_party:90:DefaultText"
 msgid "Rachel Lockwood was a cartographer. She made maps. She wasn't hurting anybody. So tell me why she deserved to die."
-msgstr ""
+msgstr "Rachel Lockwoodová byla kartografka. Vytvářela mapy. Nikomu neubližovala. Tak mi řekni, proč si zasloužila zemřít."
 
 #: conversations/companions/g_companion_felix_in_party:91
 msgctxt "conversations/companions/g_companion_felix_in_party:91:DefaultText"
 msgid "I had no choice. I needed the Adjutant to trust me."
-msgstr ""
+msgstr "Neměl jsem na výběr. Potřeboval jsem, aby mi adjutant důvěřoval."
 
 #: conversations/companions/g_companion_felix_in_party:92
 msgctxt "conversations/companions/g_companion_felix_in_party:92:DefaultText"
 msgid "That's your game, huh? Get the Adjutant to trust you, even if it means bloodying your hands. I suppose that makes sense."
-msgstr ""
+msgstr "To je tvoje hra, co? Přimět adjutanta, aby ti věřil, i kdyby sis měl zkrvavit ruce. Předpokládám, že to dává smysl."
 
 #: conversations/companions/g_companion_felix_in_party:93
 msgctxt "conversations/companions/g_companion_felix_in_party:93:DefaultText"
 msgid "The Adjutant ain't my boss. You are. So I'm gonna trust you. I just hope I don't regret it."
-msgstr ""
+msgstr "Adjutant není můj šéf. Ty jsi. Takže ti budu věřit. Jen doufám, že toho nebudu litovat."
 
 #: conversations/companions/g_companion_felix_in_party:98
 msgctxt "conversations/companions/g_companion_felix_in_party:98:DefaultText"
 msgid "Give me a break, Felix. Nobody in Byzantium's innocent. You know that."
-msgstr ""
+msgstr "Dej mi pokoj, Felixi. Nikdo v Byzanci není nevinný. To přece víš."
 
 #: conversations/companions/g_companion_felix_in_party:99
 msgctxt "conversations/companions/g_companion_felix_in_party:99:DefaultText"
 msgid "You don't have to remind me. I'd love to see the day Byzantium's walls come tumbling down."
-msgstr ""
+msgstr "Nemusíte mi to připomínat. Rád bych se dočkal dne, kdy se zřítí hradby Byzance."
 
 #: conversations/companions/g_companion_felix_in_party:100
 msgctxt "conversations/companions/g_companion_felix_in_party:100:DefaultText"
 msgid "But I'm not talking about busting some windows or robbing some aristocrat. I'm talking about killing in cold blood - for the Board."
-msgstr ""
+msgstr "Ale nemluvím o rozbíjení oken nebo okrádání nějakého aristokrata. Mluvím o chladnokrevném zabíjení - pro správní radu."
 
 #: conversations/companions/g_companion_felix_in_party:101
 msgctxt "conversations/companions/g_companion_felix_in_party:101:DefaultText"
 msgid "<Shrug> Maybe Lockwood was bad at her job."
-msgstr ""
+msgstr "<Pokrčení ramen> Možná byla Lockwoodová špatná ve své práci."
 
 #: conversations/companions/g_companion_felix_in_party:102
 msgctxt "conversations/companions/g_companion_felix_in_party:102:DefaultText"
 msgid "Hilarious, boss. I'm glad you're having fun, but I was hoping for a real answer."
-msgstr ""
+msgstr "K popukání, šéfe. Jsem rád, že se bavíš, ale doufal jsem v opravdovou odpověď."
 
 #: conversations/companions/g_companion_felix_in_party:103
 msgctxt "conversations/companions/g_companion_felix_in_party:103:DefaultText"
 msgid "Watch your mouth, Felix. You're coming dangerously close to mutiny."
-msgstr ""
+msgstr "Dávej si pozor na pusu, Felixi. Blížíš se nebezpečně blízko vzpouře."
 
 #: conversations/companions/g_companion_felix_in_party:104
 msgctxt "conversations/companions/g_companion_felix_in_party:104:DefaultText"
 msgid "I ain't afraid of you, boss. Your tough-as-grit routine might leave some poor sod quaking in his boots, but it won't work on me."
-msgstr ""
+msgstr "Já se tě nebojím, šéfe. Tvoje drsňácké postupy možná nějakého chudáka donutí třást se v botách, ale na mě to neplatí."
 
 #: conversations/companions/g_companion_felix_in_party:105
 msgctxt "conversations/companions/g_companion_felix_in_party:105:DefaultText"
 msgid "I'm still waiting for an explanation. Tell me why Lockwood deserved to die."
-msgstr ""
+msgstr "Stále čekám na vysvětlení. Řekni mi, proč si Lockwood zasloužil zemřít."
 
 #: conversations/companions/g_companion_felix_in_party:106
 msgctxt "conversations/companions/g_companion_felix_in_party:106:DefaultText"
 msgid "Was there anything else?"
-msgstr ""
+msgstr "Bylo tam ještě něco jiného?"
 
 #: conversations/companions/g_companion_felix_in_party:107
 msgctxt "conversations/companions/g_companion_felix_in_party:107:DefaultText"
 msgid "Nah. We're done here."
-msgstr ""
+msgstr "Ne. Tady jsme skončili."
 
 #: conversations/companions/g_companion_felix_in_party:108
 msgctxt "conversations/companions/g_companion_felix_in_party:108:DefaultText"
 msgid "Don't sass me, Felix."
-msgstr ""
+msgstr "Nedělej mi naschvály, Felixi."
 
 #: conversations/companions/g_companion_felix_in_party:109
 msgctxt "conversations/companions/g_companion_felix_in_party:109:DefaultText"
 msgid "You knew what you were getting when you hired me."
-msgstr ""
+msgstr "Když jste mě najímali, věděli jste, co dostáváte."
 
 #: conversations/companions/g_companion_felix_in_party:110
 msgctxt "conversations/companions/g_companion_felix_in_party:110:DefaultText"
 msgid "What do you need?"
-msgstr ""
+msgstr "Co potřebujete?"
 
 #: conversations/companions/g_companion_felix_in_party:111
 msgctxt "conversations/companions/g_companion_felix_in_party:111:DefaultText"
 msgid "You're still upset. If you've got a problem, talk to me."
-msgstr ""
+msgstr "Stále jsi naštvaný. Jestli máš problém, promluv si se mnou."
 
 #: conversations/companions/g_companion_felix_in_party:112
 msgctxt "conversations/companions/g_companion_felix_in_party:112:DefaultText"
 msgid "I don't know how we're ever gonna see eye to eye, long as you're working for the Board."
-msgstr ""
+msgstr "Nevím, jak si budeme rozumět, dokud budeš pracovat pro Radu."
 
 #: conversations/companions/g_companion_felix_in_party:113
 msgctxt "conversations/companions/g_companion_felix_in_party:113:DefaultText"
 msgid "Why? You got a ship. You got the run of the colony. So tell me why you're bending a knee in front of the Adjutant."
-msgstr ""
+msgstr "Proč? Máš loď. Máš k dispozici celou kolonii. Tak mi řekni, proč klečíš před adjutantem."
 
 #: conversations/companions/g_companion_felix_in_party:114
 msgctxt "conversations/companions/g_companion_felix_in_party:114:DefaultText"
 msgid "Good. Keep standing up to me. It'll make you a stronger person."
-msgstr ""
+msgstr "Dobré. Stůjte proti mně. To z tebe udělá silnějšího člověka."
 
 #: conversations/companions/g_companion_felix_in_party:115
 msgctxt "conversations/companions/g_companion_felix_in_party:115:DefaultText"
 msgid "I guess you got a point there. Disagreeing with you is only going to keep me honest. Just because I follow you don't mean I gotta become you."
-msgstr ""
+msgstr "Myslím, že máš pravdu. Nesouhlas s vámi mě jen udrží v poctivosti. To, že tě následuji, neznamená, že se tebou musím stát."
 
 #: conversations/companions/g_companion_felix_in_party:116
 msgctxt "conversations/companions/g_companion_felix_in_party:116:DefaultText"
 msgid "Suppose I'm not doing the team any favors by sulking all the time. I'll try to keep my chin up."
-msgstr ""
+msgstr "Předpokládám, že neustálým trucováním týmu neprospívám. Pokusím se zachovat si vztyčenou bradu."
 
 #: conversations/companions/g_companion_felix_in_party:117
 msgctxt "conversations/companions/g_companion_felix_in_party:117:DefaultText"
 msgid "Anything else on your mind?"
-msgstr ""
+msgstr "Máte na mysli ještě něco jiného?"
 
 #: conversations/companions/g_companion_felix_in_party:118
 msgctxt "conversations/companions/g_companion_felix_in_party:118:DefaultText"
 msgid "Yeah, there was."
-msgstr ""
+msgstr "Ano, byl."
 
 #: conversations/companions/g_companion_felix_in_party:119
 msgctxt "conversations/companions/g_companion_felix_in_party:119:DefaultText"
 msgid "Don't believe so."
-msgstr ""
+msgstr "Tomu nevěřím."
 
 #: conversations/companions/g_companion_felix_in_party:120
 msgctxt "conversations/companions/g_companion_felix_in_party:120:DefaultText"
 msgid "Let's move on."
-msgstr ""
+msgstr "Pojďme dál."
 
 #: conversations/companions/g_companion_felix_in_party:121
 msgctxt "conversations/companions/g_companion_felix_in_party:121:DefaultText"
 msgid "I appreciate that you disagree with me, Felix. I need you to be my conscience."
-msgstr ""
+msgstr "Oceňuji, že se mnou nesouhlasíte, Felixi. Potřebuji, abys byl mým svědomím."
 
 #: conversations/companions/g_companion_felix_in_party:122
 msgctxt "conversations/companions/g_companion_felix_in_party:122:DefaultText"
 msgid "Yeah, well. When you put it that way, I guess I gotta try."
-msgstr ""
+msgstr "Jo, no. Když to říkáš takhle, tak to asi musím zkusit."
 
 #: conversations/companions/g_companion_felix_in_party:123
 msgctxt "conversations/companions/g_companion_felix_in_party:123:DefaultText"
 msgid "I'm not exactly the brightest star in the toolbox, Felix. That's why I keep you around."
-msgstr ""
+msgstr "Nejsem zrovna nejzářivější hvězdou ve skříňce s nářadím, Felixi. Proto si tě tu nechávám."
 
 #: conversations/companions/g_companion_felix_in_party:124
 msgctxt "conversations/companions/g_companion_felix_in_party:124:DefaultText"
 msgid "Never mind. Let's talk about something else."
-msgstr ""
+msgstr "Nevadí. Promluvme si o něčem jiném."
 
 #: conversations/companions/g_companion_felix_in_party:125
 msgctxt "conversations/companions/g_companion_felix_in_party:125:DefaultText"
 msgid "Got a question for you."
-msgstr ""
+msgstr "Mám na vás otázku."
 
 #: conversations/companions/g_companion_felix_in_party:126
 msgctxt "conversations/companions/g_companion_felix_in_party:126:DefaultText"
 msgid "Hey, you're the boss."
-msgstr ""
+msgstr "Hej, ty jsi šéf."
 
 #: conversations/companions/g_companion_felix_in_party:127
 msgctxt "conversations/companions/g_companion_felix_in_party:127:DefaultText"
 msgid "Never mind."
-msgstr ""
+msgstr "Nevadí."
 
 #: conversations/companions/g_companion_felix_in_party:129
 msgctxt "conversations/companions/g_companion_felix_in_party:129:DefaultText"
 msgid "You know they're gonna make a serial about our adventures one day."
-msgstr ""
+msgstr "Víš, že o našich dobrodružstvích jednou natočí seriál."
 
 #: conversations/companions/g_companion_felix_in_party:130
 msgctxt "conversations/companions/g_companion_felix_in_party:130:DefaultText"
 msgid "I can't believe I wanted to shake his hand. I need a shower."
-msgstr ""
+msgstr "Nemůžu uvěřit, že jsem mu chtěla podat ruku. Potřebuju sprchu."
 
 #: conversations/companions/g_companion_felix_in_party:132
 msgctxt "conversations/companions/g_companion_felix_in_party:132:DefaultText"
 msgid "When you started working for the Adjutant, I wasn't sure what to think."
-msgstr ""
+msgstr "Když jsi začal pracovat pro adjutanta, nebyl jsem si jistý, co si mám myslet."
 
 #: conversations/companions/g_companion_felix_in_party:133
 msgctxt "conversations/companions/g_companion_felix_in_party:133:DefaultText"
 msgid "If we wanted the Board's attention, we got options. Piracy. Vandalism. Maybe some light arson."
-msgstr ""
+msgstr "Pokud jsme chtěli, aby nám rada věnovala pozornost, měli jsme na výběr. Pirátství. Vandalismus. Možná lehké žhářství."
 
 #: conversations/companions/g_companion_felix_in_party:135
 msgctxt "conversations/companions/g_companion_felix_in_party:135:DefaultText"
 msgid "Some people said the Hope was just a fable. But here we are."
-msgstr ""
+msgstr "Někteří lidé říkali, že Naděje je jen pohádka. Ale jsme tady."
 
 #: conversations/companions/g_companion_felix_in_party:136
 msgctxt "conversations/companions/g_companion_felix_in_party:136:DefaultText"
 msgid "Somehow, I always find my way back to the Groundbreaker."
-msgstr ""
+msgstr "Nějakým způsobem se vždycky vrátím do Groundbreakeru."
 
 #: conversations/companions/g_companion_felix_in_party:137
 msgctxt "conversations/companions/g_companion_felix_in_party:137:DefaultText"
 msgid "You think the people in Stellar Bay ever get used to this smell?"
-msgstr ""
+msgstr "Myslíš, že si lidé ve Hvězdné zátoce na ten zápach někdy zvyknou?"
 
 #: conversations/companions/g_companion_felix_in_party:138
 msgctxt "conversations/companions/g_companion_felix_in_party:138:DefaultText"
 msgid "The intrepid crew of the Unreliable brave the wilds of Monarch, on today's episode of, uh... I'm still working on the title."
-msgstr ""
+msgstr "Neohrožená posádka Nespolehlivého se vydává do divočiny Monarchie v dnešním díle... ještě přemýšlím nad názvem."
 
 #: conversations/companions/g_companion_felix_in_party:139
 msgctxt "conversations/companions/g_companion_felix_in_party:139:DefaultText"
 msgid "Good to see you, boss."
-msgstr ""
+msgstr "Rád vás vidím, šéfe."
 
 #: conversations/companions/g_companion_felix_in_party:141
 msgctxt "conversations/companions/g_companion_felix_in_party:141:DefaultText"
 msgid "So how'd you end up on the Groundbreaker?"
-msgstr ""
+msgstr "Jak jste se dostal do Groundbreakeru?"
 
 #: conversations/companions/g_companion_felix_in_party:142
 msgctxt "conversations/companions/g_companion_felix_in_party:142:DefaultText"
 msgid "We want to put some fear in the Board, right? Get 'em scared of us. "
-msgstr ""
+msgstr "Chceme v představenstvu vyvolat strach, že? Aby se nás báli. "
 
 #: conversations/companions/g_companion_felix_in_party:143
 msgctxt "conversations/companions/g_companion_felix_in_party:143:DefaultText"
 msgid "I don't need to trust her, so long as she pays for my work."
-msgstr ""
+msgstr "Nemusím jí věřit, pokud mi za práci zaplatí."
 
 #: conversations/companions/g_companion_felix_in_party:144
 msgctxt "conversations/companions/g_companion_felix_in_party:144:DefaultText"
 msgid "The Adjutant is an upstanding professional, Felix. Don't be so suspicious."
-msgstr ""
+msgstr "Adjutant je bezúhonný profesionál, Felixi. Nebuď tak podezřívavý."
 
 #: conversations/companions/g_companion_felix_in_party:145
 msgctxt "conversations/companions/g_companion_felix_in_party:145:DefaultText"
 msgid "Probably not. There's a good chance she's using us."
-msgstr ""
+msgstr "Pravděpodobně ne. Je velká šance, že nás využívá."
 
 #: conversations/companions/g_companion_felix_in_party:146
 msgctxt "conversations/companions/g_companion_felix_in_party:146:DefaultText"
 msgid "Working for the Board always costs more than it pays. No job's worth your principles."
-msgstr ""
+msgstr "Práce pro správní radu vždy stojí víc, než kolik vynáší. Žádná práce nestojí za vaše zásady."
 
 #: conversations/companions/g_companion_felix_in_party:147
 msgctxt "conversations/companions/g_companion_felix_in_party:147:DefaultText"
 msgid "A professional accessory to tyranny. Did you see that fancy getup? She oughta be on the cover of Corruption Quarterly."
-msgstr ""
+msgstr "Profesionální spoluviník tyranie. Viděli jste ten parádní oblek? Měla by být na obálce Corruption Quarterly."
 
 #: conversations/companions/g_companion_felix_in_party:148
 msgctxt "conversations/companions/g_companion_felix_in_party:148:DefaultText"
 msgid "If you think she's using us, why'd you give her the time of day?"
-msgstr ""
+msgstr "Jestli si myslíš, že nás využívá, proč jí dáváš čas?"
 
 #: conversations/companions/g_companion_felix_in_party:158
 msgctxt "conversations/companions/g_companion_felix_in_party:158:DefaultText"
 msgid "Principles? What are those? "
-msgstr ""
+msgstr "Zásady? Jaké to jsou? "
 
 #: conversations/companions/g_companion_felix_in_party:159
 msgctxt "conversations/companions/g_companion_felix_in_party:159:DefaultText"
 msgid "You're one to talk, box-hauler."
-msgstr ""
+msgstr "Ty jsi ten, kdo mluví, box-haulere."
 
 #: conversations/companions/g_companion_felix_in_party:160
 msgctxt "conversations/companions/g_companion_felix_in_party:160:DefaultText"
 msgid "That's a good point, Felix."
-msgstr ""
+msgstr "To je dobrá poznámka, Felixi."
 
 #: conversations/companions/g_companion_felix_in_party:161
 msgctxt "conversations/companions/g_companion_felix_in_party:161:DefaultText"
 msgid "Sophia is honorable, despite her allegiance to the Board. You could learn from that."
-msgstr ""
+msgstr "Sophia je čestná, přestože je věrná představenstvu. Z toho by ses mohl poučit."
 
 #: conversations/companions/g_companion_felix_in_party:162
 msgctxt "conversations/companions/g_companion_felix_in_party:162:DefaultText"
 msgid "The Board's not as awful as you think."
-msgstr ""
+msgstr "Rada není tak hrozná, jak si myslíte."
 
 #: conversations/companions/g_companion_felix_in_party:163
 msgctxt "conversations/companions/g_companion_felix_in_party:163:DefaultText"
 msgid "Say what you like about the Board. They know how to wear a uniform."
-msgstr ""
+msgstr "Říkejte si o radě, co chcete. Umí nosit uniformu."
 
 #: conversations/companions/g_companion_felix_in_party:164
 msgctxt "conversations/companions/g_companion_felix_in_party:164:DefaultText"
 msgid "I pretty much ooze charisma. She couldn't stop talking to me."
-msgstr ""
+msgstr "Docela ze mě vyzařuje charisma. Nemohla se mnou přestat mluvit."
 
 #: conversations/companions/g_companion_felix_in_party:165
 msgctxt "conversations/companions/g_companion_felix_in_party:165:DefaultText"
 msgid "I've got a plan, Felix. Trust me on this one."
-msgstr ""
+msgstr "Mám plán, Felixi. Věř mi."
 
 #: conversations/companions/g_companion_felix_in_party:166
 msgctxt "conversations/companions/g_companion_felix_in_party:166:DefaultText"
 msgid "If I ever have to kill her, I want her to recognize my face."
-msgstr ""
+msgstr "Kdybych ji někdy musel zabít, chci, aby poznala můj obličej."
 
 #: conversations/companions/g_companion_felix_in_party:167
 msgctxt "conversations/companions/g_companion_felix_in_party:167:DefaultText"
 msgid "Nice one, boss. I know you don't mean that. I wouldn't have joined you if you didn't have some sort of principles."
-msgstr ""
+msgstr "Pěkné, šéfe. Vím, že to tak nemyslíš. Nepřidal bych se k vám, kdybyste neměl nějaké zásady."
 
 #: conversations/companions/g_companion_felix_in_party:168
 msgctxt "conversations/companions/g_companion_felix_in_party:168:DefaultText"
 msgid "Whoa. Hey. Come on. You know that's not true. I'm a *former* box-hauler."
-msgstr ""
+msgstr "Páni. Ahoj. No tak. Víš, že to není pravda. Jsem *bývalý* bedňák."
 
 #: conversations/companions/g_companion_felix_in_party:169
 msgctxt "conversations/companions/g_companion_felix_in_party:169:DefaultText"
 msgid "It was? No one's told me that before. I mean - yeah. Absolutely. Think about it."
-msgstr ""
+msgstr "Bylo to tak? To mi ještě nikdo neřekl. Chci říct - jo. Rozhodně. Přemýšlej o tom."
 
 #: conversations/companions/g_companion_felix_in_party:170
 msgctxt "conversations/companions/g_companion_felix_in_party:170:DefaultText"
 msgid "Or maybe the Adjutant could learn something from me. Can she name every Tossball Hall of Famer in alphabetical order? Didn't think so."
-msgstr ""
+msgstr "Nebo by se ode mě mohl adjutant něco naučit. Dokáže vyjmenovat všechny členy Síně slávy v abecedním pořadí? To jsem si nemyslel."
 
 #: conversations/companions/g_companion_felix_in_party:171
 msgctxt "conversations/companions/g_companion_felix_in_party:171:DefaultText"
 msgid "I'm willing to bet they're exactly as awful as I think. Possibly worse."
-msgstr ""
+msgstr "Vsadím se, že jsou přesně tak hrozné, jak si myslím. Možná ještě horší."
 
 #: conversations/companions/g_companion_felix_in_party:172
 msgctxt "conversations/companions/g_companion_felix_in_party:172:DefaultText"
 msgid "I always say what I like about the Board, but I'm glad I've got your permission."
-msgstr ""
+msgstr "Vždycky říkám, co se mi na radě líbí, ale jsem rád, že jsem dostal vaše svolení."
 
 #: conversations/companions/g_companion_felix_in_party:173
 msgctxt "conversations/companions/g_companion_felix_in_party:173:DefaultText"
 msgid "You sure that's charisma, boss? Maybe you should ask Ellie to take a look at you."
-msgstr ""
+msgstr "Jste si jistý, že to je charisma, šéfe? Možná byste měl požádat Ellie, aby se na vás podívala."
 
 #: conversations/companions/g_companion_felix_in_party:174
 msgctxt "conversations/companions/g_companion_felix_in_party:174:DefaultText"
 msgid "You got some secret plan to double-cross the Board? I knew it! Er - sorry. I probably shouldn't have said that out loud."
-msgstr ""
+msgstr "Máš nějaký tajný plán, jak podrazit Radu? Já to věděl! Ehm - promiň. Asi jsem to neměl říkat nahlas."
 
 #: conversations/companions/g_companion_felix_in_party:175
 msgctxt "conversations/companions/g_companion_felix_in_party:175:DefaultText"
 msgid "That's cold, boss. I like it."
-msgstr ""
+msgstr "To je chladné, šéfe. To se mi líbí."
 
 #: conversations/companions/g_companion_felix_in_party:176
 msgctxt "conversations/companions/g_companion_felix_in_party:176:DefaultText"
 msgid "I know we're freelancers and all. We take work where we can find it. But we gotta be vigilant, you know?"
-msgstr ""
+msgstr "Vím, že jsme na volné noze a tak. Bereme práci, kde ji najdeme. Ale musíme být ostražití, víte?"
 
 #: conversations/companions/g_companion_felix_in_party:177
 msgctxt "conversations/companions/g_companion_felix_in_party:177:DefaultText"
 msgid "Are you going somewhere with this?"
-msgstr ""
+msgstr "Míříte někam?"
 
 #: conversations/companions/g_companion_felix_in_party:178
 msgctxt "conversations/companions/g_companion_felix_in_party:178:DefaultText"
 msgid "I wouldn't mind an occasional yes-sir out of you."
-msgstr ""
+msgstr "Nevadilo by mi, kdybyste mi občas řekl ano."
 
 #: conversations/companions/g_companion_felix_in_party:178
 msgctxt "conversations/companions/g_companion_felix_in_party:178:FemaleText"
 msgid "I wouldn't mind the occasional yes-ma'am out of you."
-msgstr ""
+msgstr "Nevadilo by mi, kdybyste občas řekla \"ano, paní\"."
 
 #: conversations/companions/g_companion_felix_in_party:179
 msgctxt "conversations/companions/g_companion_felix_in_party:179:DefaultText"
 msgid "I know what I'm doing, Felix."
-msgstr ""
+msgstr "Vím, co dělám, Felixi."
 
 #: conversations/companions/g_companion_felix_in_party:180
 msgctxt "conversations/companions/g_companion_felix_in_party:180:DefaultText"
 msgid "Your warning has been noted."
-msgstr ""
+msgstr "Vaše varování bylo zaznamenáno."
 
 #: conversations/companions/g_companion_felix_in_party:181
 msgctxt "conversations/companions/g_companion_felix_in_party:181:DefaultText"
 msgid "Come on, boss. You know I'd never imagine you as some sort of authority figure."
-msgstr ""
+msgstr "No tak, šéfe. Víš, že bych si tě nikdy nepředstavoval jako nějakou autoritu."
 
 #: conversations/companions/g_companion_felix_in_party:182
 msgctxt "conversations/companions/g_companion_felix_in_party:182:DefaultText"
 msgid "I appreciate your time. Let's get back to it."
-msgstr ""
+msgstr "Vážím si vašeho času. Vraťme se k tomu."
 
 #: conversations/companions/g_companion_felix_in_party:184
 msgctxt "conversations/companions/g_companion_felix_in_party:184:DefaultText"
 msgid "Just trying to watch out for you, boss."
-msgstr ""
+msgstr "Jen se na tebe snažím dávat pozor, šéfe."
 
 #: conversations/companions/g_companion_felix_in_party:185
 msgctxt "conversations/companions/g_companion_felix_in_party:185:DefaultText"
 msgid "But the way you treated Ms. Lockwood was real honorable."
-msgstr ""
+msgstr "Ale to, jak jste se choval ke slečně Lockwoodové, bylo opravdu čestné."
 
 #: conversations/companions/g_companion_felix_in_party:186
 msgctxt "conversations/companions/g_companion_felix_in_party:186:DefaultText"
 msgid "We're heroes, Felix. Heroes always do the honorable thing."
-msgstr ""
+msgstr "Jsme hrdinové, Felixi. Hrdinové se vždy chovají čestně."
 
 #: conversations/companions/g_companion_felix_in_party:187
 msgctxt "conversations/companions/g_companion_felix_in_party:187:DefaultText"
 msgid "I don't care about Lockwood. I just wanted to annoy Sophia."
-msgstr ""
+msgstr "Lockwood mě nezajímá. Jen jsem chtěl naštvat Sophii."
 
 #: conversations/companions/g_companion_felix_in_party:188
 msgctxt "conversations/companions/g_companion_felix_in_party:188:DefaultText"
 msgid "Nah. I just didn't want her blood all over my clothes, you know?"
-msgstr ""
+msgstr "Ne. Jen jsem nechtěl mít její krev na oblečení, víš?"
 
 #: conversations/companions/g_companion_felix_in_party:189
 msgctxt "conversations/companions/g_companion_felix_in_party:189:DefaultText"
 msgid "You went through all that trouble just to annoy the Adjutant? I knew there was a reason I liked you."
-msgstr ""
+msgstr "Dělal sis tolik starostí jen proto, abys naštval adjutanta? Věděl jsem, že mám důvod, proč tě mám rád."
 
 #: conversations/companions/g_companion_felix_in_party:190
 msgctxt "conversations/companions/g_companion_felix_in_party:190:DefaultText"
 msgid "I know what you mean. We may be doing the Board's dirty work, but we don't have to look the part."
-msgstr ""
+msgstr "Vím, co máte na mysli. Možná děláme špinavou práci pro Radu, ale nemusíme se tak tvářit."
 
 #: conversations/companions/g_companion_felix_in_party:191
 msgctxt "conversations/companions/g_companion_felix_in_party:191:DefaultText"
 msgid " \"Heroes always do the honorable thing.\" There it is. The tag line for our adventure serial."
-msgstr ""
+msgstr " \"Hrdinové se vždy chovají čestně.\" Tady to je. Slogan našeho dobrodružného seriálu."
 
 #: conversations/companions/g_companion_felix_in_party:202
 msgctxt "conversations/companions/g_companion_felix_in_party:202:DefaultText"
 msgid "This is all part of your plan, right? You're putting on an act. "
-msgstr ""
+msgstr "Tohle všechno je součástí vašeho plánu, že? Hraješ divadlo. "
 
 #: conversations/companions/g_companion_felix_in_party:211
 msgctxt "conversations/companions/g_companion_felix_in_party:211:DefaultText"
 msgid "Real discreet, Felix. Why don't you tell the whole colony?"
-msgstr ""
+msgstr "Opravdu diskrétní, Felixi. Proč to neřekneš celé kolonii?"
 
 #: conversations/companions/g_companion_felix_in_party:212
 msgctxt "conversations/companions/g_companion_felix_in_party:212:DefaultText"
 msgid "<Tap the side of your nose.>"
-msgstr ""
+msgstr "<Poklepejte si na stranu nosu.>"
 
 #: conversations/companions/g_companion_felix_in_party:213
 msgctxt "conversations/companions/g_companion_felix_in_party:213:DefaultText"
 msgid "I want the Adjutant to trust me, but I have no intention of betraying her."
-msgstr ""
+msgstr "Chci, aby mi adjutantka důvěřovala, ale nemám v úmyslu ji zradit."
 
 #: conversations/companions/g_companion_felix_in_party:215
 msgctxt "conversations/companions/g_companion_felix_in_party:215:DefaultText"
 msgid "Hey, no problem, boss. I can keep it on the quiet. What were we talking about, again? Have we even met before?"
-msgstr ""
+msgstr "Hej, žádný problém, šéfe. Můžu to nechat v klidu. O čem že jsme to mluvili? Už jsme se někdy potkali?"
 
 #: conversations/companions/g_companion_felix_in_party:216
 msgctxt "conversations/companions/g_companion_felix_in_party:216:DefaultText"
 msgid "We should get back to work. Thanks for the talk."
-msgstr ""
+msgstr "Měli bychom se vrátit k práci. Díky za rozhovor."
 
 #: conversations/companions/g_companion_felix_in_party:217
 msgctxt "conversations/companions/g_companion_felix_in_party:217:DefaultText"
 msgid "What? Is there something on my nose?"
-msgstr ""
+msgstr "Cože? Mám něco na nose?"
 
 #: conversations/companions/g_companion_felix_in_party:218
 msgctxt "conversations/companions/g_companion_felix_in_party:218:DefaultText"
 msgid "What was all that business with Lockwood? The Adjutant wanted her dead, and you went against her orders."
-msgstr ""
+msgstr "Co to bylo s Lockwoodem? Adjutantka ji chtěla zabít a vy jste se postavil proti jejím rozkazům."
 
 #: conversations/companions/g_companion_felix_in_party:219
 msgctxt "conversations/companions/g_companion_felix_in_party:219:DefaultText"
 msgid "There's a difference between loyalty and blind obedience."
-msgstr ""
+msgstr "Je rozdíl mezi loajalitou a slepou poslušností."
 
 #: conversations/companions/g_companion_felix_in_party:220
 msgctxt "conversations/companions/g_companion_felix_in_party:220:DefaultText"
 msgid "Rachel Lockwood did not deserve to die. Sophia will understand."
-msgstr ""
+msgstr "Rachel Lockwoodová si nezasloužila zemřít. Sophia to pochopí."
 
 #: conversations/companions/g_companion_felix_in_party:221
 msgctxt "conversations/companions/g_companion_felix_in_party:221:DefaultText"
 msgid "I've got my reasons. "
-msgstr ""
+msgstr "Mám své důvody. "
 
 #: conversations/companions/g_companion_felix_in_party:222
 msgctxt "conversations/companions/g_companion_felix_in_party:222:DefaultText"
 msgid "You got a point there, boss. If I've ever got a problem with your leadership, I'll make sure you know."
-msgstr ""
+msgstr "Máš pravdu, šéfe. Jestli budu mít někdy problém s vaším vedením, určitě se to dozvíte."
 
 #: conversations/companions/g_companion_felix_in_party:223
 msgctxt "conversations/companions/g_companion_felix_in_party:223:DefaultText"
 msgid "Sounds like you've got a lot more faith in the Adjutant than I do. I'm glad you made the right call, though."
-msgstr ""
+msgstr "Zdá se, že máš v adjutanta mnohem větší důvěru než já. Jsem ale rád, že jste se rozhodl správně."
 
 #: conversations/companions/g_companion_felix_in_party:224
 msgctxt "conversations/companions/g_companion_felix_in_party:224:DefaultText"
 msgid "Playing your cards close to your chest, huh? Suppose that's fair."
-msgstr ""
+msgstr "Hraješ si s kartami na prsou, co? To je asi fér."
 
 #: conversations/companions/g_companion_felix_in_party:228
 msgctxt "conversations/companions/g_companion_felix_in_party:228:DefaultText"
 msgid "Makes you wonder if being a treacherous, two-timing coward is some sort of contagious disease, or if he was just born that way."
-msgstr ""
+msgstr "Člověk si říká, jestli je proradný a podrazácký zbabělec nějaká nakažlivá nemoc, nebo se tak prostě narodil."
 
 #: conversations/companions/g_companion_felix_in_party:229
 msgctxt "conversations/companions/g_companion_felix_in_party:229:DefaultText"
 msgid "Is this about Graham Bryant?"
-msgstr ""
+msgstr "Jde o Grahama Bryanta?"
 
 #: conversations/companions/g_companion_felix_in_party:230
 msgctxt "conversations/companions/g_companion_felix_in_party:230:DefaultText"
 msgid "Felix, what are you talking about?"
-msgstr ""
+msgstr "Felixi, o čem to mluvíš?"
 
 #: conversations/companions/g_companion_felix_in_party:231
 msgctxt "conversations/companions/g_companion_felix_in_party:231:DefaultText"
 msgid "Never meet your heroes."
-msgstr ""
+msgstr "Nikdy se nesetkejte se svými hrdiny."
 
 #: conversations/companions/g_companion_felix_in_party:232
 msgctxt "conversations/companions/g_companion_felix_in_party:232:DefaultText"
 msgid "I looked up to Clyde Harlow, too. Turns out he was just another fraud, like Graham."
-msgstr ""
+msgstr "Také jsem vzhlížel ke Clydu Harlowovi. Ukázalo se, že to byl jen další podvodník, stejně jako Graham."
 
 #: conversations/companions/g_companion_felix_in_party:233
 msgctxt "conversations/companions/g_companion_felix_in_party:233:DefaultText"
 msgid "Graham wasn't my hero. But I did admire his work."
-msgstr ""
+msgstr "Graham nebyl můj hrdina. Ale obdivoval jsem jeho práci."
 
 #: conversations/companions/g_companion_felix_in_party:234
 msgctxt "conversations/companions/g_companion_felix_in_party:234:DefaultText"
 msgid "Graham Bryant, if that is his real name. I can't trust a word that came out of his mouth."
-msgstr ""
+msgstr "Graham Bryant, pokud je to jeho skutečné jméno. Nemůžu věřit ani slovu, které vypustil z úst."
 
 #: conversations/companions/g_companion_felix_in_party:235
 msgctxt "conversations/companions/g_companion_felix_in_party:235:DefaultText"
 msgid "At first, I liked what Graham was doing. The Iconoclasts were going to change Halcyon for the better."
-msgstr ""
+msgstr "Zpočátku se mi líbilo, co Graham dělal. Ikonoklasté měli změnit Halcyon k lepšímu."
 
 #: conversations/companions/g_companion_felix_in_party:236
 msgctxt "conversations/companions/g_companion_felix_in_party:236:DefaultText"
 msgid "But then we found out Graham was behind the slaughter of Amber Heights. How can anybody so morally bankrupt lead a movement to transform the colony?"
-msgstr ""
+msgstr "Pak jsme ale zjistili, že za masakrem v Amber Heights stojí Graham. Jak může někdo tak morálně zkrachovalý vést hnutí za přeměnu kolonie?"
 
 #: conversations/companions/g_companion_felix_in_party:237
 msgctxt "conversations/companions/g_companion_felix_in_party:237:DefaultText"
 msgid "I give up. How?"
-msgstr ""
+msgstr "Vzdávám se. Jak?"
 
 #: conversations/companions/g_companion_felix_in_party:238
 msgctxt "conversations/companions/g_companion_felix_in_party:238:DefaultText"
 msgid "Don't go looking for role models, Felix. You're just asking to be lied to."
-msgstr ""
+msgstr "Nehledej vzory, Felixi. Jen si koleduješ o to, aby ti někdo lhal."
 
 #: conversations/companions/g_companion_felix_in_party:239
 msgctxt "conversations/companions/g_companion_felix_in_party:239:DefaultText"
 msgid "He was sorry for what he did."
-msgstr ""
+msgstr "Litoval toho, co udělal."
 
 #: conversations/companions/g_companion_felix_in_party:240
 msgctxt "conversations/companions/g_companion_felix_in_party:240:DefaultText"
 msgid "He's dead now, so it doesn't matter."
-msgstr ""
+msgstr "Teď už je mrtvý, takže na tom nezáleží."
 
 #: conversations/companions/g_companion_felix_in_party:241
 msgctxt "conversations/companions/g_companion_felix_in_party:241:DefaultText"
 msgid "Graham's a piece of trash."
-msgstr ""
+msgstr "Graham je odpad."
 
 #: conversations/companions/g_companion_felix_in_party:242
 msgctxt "conversations/companions/g_companion_felix_in_party:242:DefaultText"
 msgid "Uh, boss. That wasn't a trick question. I was being, what's the word, rhetorical."
-msgstr ""
+msgstr "Šéfe. To nebyla záludná otázka. Byla to, jak se to říká, řečnická otázka."
 
 #: conversations/companions/g_companion_felix_in_party:243
 msgctxt "conversations/companions/g_companion_felix_in_party:243:DefaultText"
 msgid "Don't have to remind me. Clyde was my hero for a time. We both know how that ended up."
-msgstr ""
+msgstr "Nemusíš mi to připomínat. Clyde byl jeden čas můj hrdina. Oba víme, jak to dopadlo."
 
 #: conversations/companions/g_companion_felix_in_party:244
 msgctxt "conversations/companions/g_companion_felix_in_party:244:DefaultText"
 msgid "Yeah, maybe you're right."
-msgstr ""
+msgstr "Jo, možná máš pravdu."
 
 #: conversations/companions/g_companion_felix_in_party:245
 msgctxt "conversations/companions/g_companion_felix_in_party:245:DefaultText"
 msgid "You'd never do something like that, would you? Slaughter a whole community of innocents."
-msgstr ""
+msgstr "Něco takového bys nikdy neudělal, že ne? Vyvraždit celou komunitu nevinných lidí."
 
 #: conversations/companions/g_companion_felix_in_party:247
 msgctxt "conversations/companions/g_companion_felix_in_party:247:DefaultText"
 msgid "Nah, he was sorry for getting found out. Graham never cared about anybody but himself."
-msgstr ""
+msgstr "Ne, mrzelo ho, že ho odhalili. Graham se nikdy nestaral o nikoho jiného než o sebe."
 
 #: conversations/companions/g_companion_felix_in_party:248
 msgctxt "conversations/companions/g_companion_felix_in_party:248:DefaultText"
 msgid "That's putting it kindly, boss. Graham's worse than trash. He's a traitor."
-msgstr ""
+msgstr "To je mírně řečeno, šéfe. Graham je horší než odpad. Je to zrádce."
 
 #: conversations/companions/g_companion_felix_in_party:257
 msgctxt "conversations/companions/g_companion_felix_in_party:257:DefaultText"
 msgid "Let's get back to it. I need to put all this ugly business with Graham behind me."
-msgstr ""
+msgstr "Vraťme se k tomu. Musím hodit tuhle ošklivou záležitost s Grahamem za hlavu."
 
 #: conversations/companions/g_companion_felix_in_party:258
 msgctxt "conversations/companions/g_companion_felix_in_party:258:DefaultText"
 msgid "Graham wasn't the one who killed all those people. He just allowed it to happen."
-msgstr ""
+msgstr "Graham nebyl tím, kdo všechny ty lidi zabil. On to jen dovolil."
 
 #: conversations/companions/g_companion_felix_in_party:259
 msgctxt "conversations/companions/g_companion_felix_in_party:259:DefaultText"
 msgid "Sure, for the right price."
-msgstr ""
+msgstr "Jistě, za správnou cenu."
 
 #: conversations/companions/g_companion_felix_in_party:260
 msgctxt "conversations/companions/g_companion_felix_in_party:260:DefaultText"
 msgid "Never."
-msgstr ""
+msgstr "Nikdy."
 
 #: conversations/companions/g_companion_felix_in_party:261
 msgctxt "conversations/companions/g_companion_felix_in_party:261:DefaultText"
 msgid "For both our sakes, I'm gonna assume you're joking."
-msgstr ""
+msgstr "Pro dobro nás obou budu předpokládat, že si děláš legraci."
 
 #: conversations/companions/g_companion_felix_in_party:262
 msgctxt "conversations/companions/g_companion_felix_in_party:262:DefaultText"
 msgid "Yeah, that's what I thought."
-msgstr ""
+msgstr "Jo, to jsem si myslel."
 
 #: conversations/companions/g_companion_felix_in_party:263
 msgctxt "conversations/companions/g_companion_felix_in_party:263:DefaultText"
 msgid "I'm sure Graham told himself the same thing. He wasn't the one who held the gun and pulled the trigger. All he did was turn a key."
-msgstr ""
+msgstr "Graham si určitě říkal totéž. Nebyl to on, kdo držel zbraň a zmáčkl spoušť. Jen otočil klíčem."
 
 #: conversations/companions/g_companion_felix_in_party:264
 msgctxt "conversations/companions/g_companion_felix_in_party:264:DefaultText"
 msgid "I been trying to think of a good title for this episode. I like the sound of \"The Skip Job.\""
-msgstr ""
+msgstr "Snažil jsem se vymyslet dobrý název pro tento díl. Líbí se mi název \"The Skip Job\"."
 
 #: conversations/companions/g_companion_felix_in_party:265
 msgctxt "conversations/companions/g_companion_felix_in_party:265:DefaultText"
 msgid "No, no wait. I got it. \"Hope In Dark Times.\" Get it? Hope? Like the ship? That's what folks in the business call wordplay."
-msgstr ""
+msgstr "Ne, ne, počkejte. Už to mám. \"Naděje v temných časech.\" Chápeš? Naděje? Jako ta loď? Tomu se v branži říká slovní hříčka."
 
 #: conversations/companions/g_companion_felix_in_party:266
 msgctxt "conversations/companions/g_companion_felix_in_party:266:DefaultText"
 msgid "Yeah, I got it."
-msgstr ""
+msgstr "Jo, chápu."
 
 #: conversations/companions/g_companion_felix_in_party:267
 msgctxt "conversations/companions/g_companion_felix_in_party:267:DefaultText"
 msgid "Whoa. I just got that."
-msgstr ""
+msgstr "Páni. Právě jsem to pochopil."
 
 #: conversations/companions/g_companion_felix_in_party:268
 msgctxt "conversations/companions/g_companion_felix_in_party:268:DefaultText"
 msgid "Not bad, Felix. Our adventure serial's gonna need a name, too."
-msgstr ""
+msgstr "To není špatné, Felixi. Náš dobrodružný seriál bude také potřebovat jméno."
 
 #: conversations/companions/g_companion_felix_in_party:269
 msgctxt "conversations/companions/g_companion_felix_in_party:269:DefaultText"
 msgid "Not bad, huh? I have my moments. I been thinking about what I'd call our adventure serial."
-msgstr ""
+msgstr "To není špatné, co? Mám své chvíle. Přemýšlel jsem, jak bych nazval náš dobrodružný seriál."
 
 #: conversations/companions/g_companion_felix_in_party:270
 msgctxt "conversations/companions/g_companion_felix_in_party:270:DefaultText"
 msgid "This isn't a serial drama. We're not heroes in some fanciful story."
-msgstr ""
+msgstr "Tohle není seriál. Nejsme hrdinové nějakého fantaskního příběhu."
 
 #: conversations/companions/g_companion_felix_in_party:271
 msgctxt "conversations/companions/g_companion_felix_in_party:271:DefaultText"
 msgid "Yeah, I been thinking about that. Got a list right here."
-msgstr ""
+msgstr "Jo, o tom jsem přemýšlel. Mám tady seznam."
 
 #: conversations/companions/g_companion_felix_in_party:272
 msgctxt "conversations/companions/g_companion_felix_in_party:272:DefaultText"
 msgid "Nothing gets past you, boss. In fact, I been thinking about what we'd call our adventure serial."
-msgstr ""
+msgstr "Nic vám neprojde, šéfe. Vlastně jsem přemýšlel o tom, jak bychom nazvali náš dobrodružný seriál."
 
 #: conversations/companions/g_companion_felix_in_party:273
 msgctxt "conversations/companions/g_companion_felix_in_party:273:DefaultText"
 msgid "\"Thrilling Tales of the Unreliable.\" Or maybe \"Spine-Chilling Stories from the Edge of the System.\" Was also considering \"Astounding Adventures in the Aether.\""
-msgstr ""
+msgstr "\"Napínavé příběhy nespolehlivých.\" Nebo třeba \"Mrazivé příběhy z okraje systému\". Uvažoval jsem také o \"Úžasných dobrodružstvích v éteru\"."
 
 #: conversations/companions/g_companion_felix_in_party:274
 msgctxt "conversations/companions/g_companion_felix_in_party:274:DefaultText"
 msgid "I'm partial to that last one."
-msgstr ""
+msgstr "To poslední se mi líbí."
 
 #: conversations/companions/g_companion_felix_in_party:275
 msgctxt "conversations/companions/g_companion_felix_in_party:275:DefaultText"
 msgid "Hey, nice. You can totally pull off the tough-as-nails hardass boss with no sense of humor."
-msgstr ""
+msgstr "Hej, hezké. Rozhodně zvládneš roli drsného šéfa bez smyslu pro humor."
 
 #: conversations/companions/g_companion_felix_in_party:276
 msgctxt "conversations/companions/g_companion_felix_in_party:276:DefaultText"
 msgid "And everybody thinks you're serious and professional all the time. Except at the end, when you sacrifice your life for the good of the team, proving you cared all along."
-msgstr ""
+msgstr "A všichni si myslí, že jsi pořád seriózní a profesionální. Až na konec, kdy obětuješ svůj život pro dobro týmu a dokážeš, že ti na něm celou dobu záleželo."
 
 #: conversations/companions/g_companion_felix_in_party:277
 msgctxt "conversations/companions/g_companion_felix_in_party:277:DefaultText"
 msgid "Wait, no. Don't do that."
-msgstr ""
+msgstr "Počkat, ne. To nedělej."
 
 #: conversations/companions/g_companion_felix_in_party:278
 msgctxt "conversations/companions/g_companion_felix_in_party:278:DefaultText"
 msgid "I've got no intention of dying."
-msgstr ""
+msgstr "Nemám v úmyslu zemřít."
 
 #: conversations/companions/g_companion_felix_in_party:279
 msgctxt "conversations/companions/g_companion_felix_in_party:279:DefaultText"
 msgid "Are you taking this seriously at all?"
-msgstr ""
+msgstr "Berete to vůbec vážně?"
 
 #: conversations/companions/g_companion_felix_in_party:280
 msgctxt "conversations/companions/g_companion_felix_in_party:280:DefaultText"
 msgid "<Squeeze the bridge of your nose.> Felix..."
-msgstr ""
+msgstr "<Stiskněte si kořen nosu.> Felix..."
 
 #: conversations/companions/g_companion_felix_in_party:281
 msgctxt "conversations/companions/g_companion_felix_in_party:281:DefaultText"
 msgid "Right. I'm overdoing it again. Got it. Sorry, boss. I'm just excited, you know?"
-msgstr ""
+msgstr "Vpravo. Zase to přeháním. Mám to. Promiň, šéfe. Jsem jenom vzrušený, víš?"
 
 #: conversations/companions/g_companion_felix_in_party:282
 msgctxt "conversations/companions/g_companion_felix_in_party:282:DefaultText"
 msgid "Absolutely. I am so serious about this."
-msgstr ""
+msgstr "Rozhodně. Myslím to vážně."
 
 #: conversations/companions/g_companion_felix_in_party:283
 msgctxt "conversations/companions/g_companion_felix_in_party:283:DefaultText"
 msgid "That was an amazing last line. So, you know, don't say that sort of thing if you're about to go charging into a fight."
-msgstr ""
+msgstr "To byla úžasná poslední věta. Takže, víte, neříkejte takové věci, když se chystáte jít do boje."
 
 #: conversations/companions/g_companion_felix_in_party:284
 msgctxt "conversations/companions/g_companion_felix_in_party:284:DefaultText"
 msgid "Stealing the Hope from the Board. Skipping it across the whole damn system. This is gonna be great. I can't wait."
-msgstr ""
+msgstr "Krádež naděje ze správní rady. Přeskočit ji napříč celým zatraceným systémem. Tohle bude skvělé. Nemůžu se dočkat."
 
 #: conversations/companions/g_companion_felix_in_party:285
 msgctxt "conversations/companions/g_companion_felix_in_party:285:DefaultText"
 msgid "I prefer \"The Adventures of <oeitoken>PlayerName</oeitoken> and Company.\""
-msgstr ""
+msgstr "Já dávám přednost \"Dobrodružství <oeitoken>Jméno hráče</oeitoken> a spol.\"."
 
 #: conversations/companions/g_companion_felix_in_party:286
 msgctxt "conversations/companions/g_companion_felix_in_party:286:DefaultText"
 msgid "How about this one? \"Felix's Adventures in Shutting Up and Doing As He's Told.\""
-msgstr ""
+msgstr "Co třeba tohle? \"Felixovo dobrodružství, jak držet hubu a krok.\""
 
 #: conversations/companions/g_companion_felix_in_party:287
 msgctxt "conversations/companions/g_companion_felix_in_party:287:DefaultText"
 msgid "I'm glad you're having fun, but we've got a job to do."
-msgstr ""
+msgstr "Jsem rád, že se bavíte, ale my máme práci."
 
 #: conversations/companions/g_companion_felix_in_party:288
 msgctxt "conversations/companions/g_companion_felix_in_party:288:DefaultText"
 msgid "Not bad. Got a nice ring to it. "
-msgstr ""
+msgstr "Není to špatné. Pěkně to zní. "
 
 #: conversations/companions/g_companion_felix_in_party:289
 msgctxt "conversations/companions/g_companion_felix_in_party:289:DefaultText"
 msgid "Yeah, we got a job to do. We're hijacking a lost colony ship and slamming it right into the rings of Terra 2."
-msgstr ""
+msgstr "Jo, máme práci. Uneseme ztracenou koloniální loď a narazíme s ní přímo do prstenců Terry 2."
 
 #: conversations/companions/g_companion_felix_in_party:290
 msgctxt "conversations/companions/g_companion_felix_in_party:290:DefaultText"
 msgid "Not a huge fan of that one."
-msgstr ""
+msgstr "Nejsem jeho velkým fanouškem."
 
 #: conversations/companions/g_companion_felix_in_party:291
 msgctxt "conversations/companions/g_companion_felix_in_party:291:DefaultText"
 msgid "Oh, you were being serious. Right. Yep, got it."
-msgstr ""
+msgstr "Aha, to jsi myslel vážně. Správně. Jo, chápu."
 
 #: conversations/companions/g_companion_felix_in_party:292
 msgctxt "conversations/companions/g_companion_felix_in_party:292:DefaultText"
 msgid "I don't have the time or the patience for this nonsense."
-msgstr ""
+msgstr "Na tyhle nesmysly nemám čas ani trpělivost."
 
 #: conversations/companions/g_companion_felix_in_party:293
 msgctxt "conversations/companions/g_companion_felix_in_party:293:DefaultText"
 msgid "Say no more, boss."
-msgstr ""
+msgstr "Už nic neříkejte, šéfe."
 
 #: conversations/companions/g_companion_felix_in_party:294
 msgctxt "conversations/companions/g_companion_felix_in_party:294:DefaultText"
 msgid "Didn't I tell you? I'm secretly the Chairman's orphan child, abandoned at birth in the Back Bays."
-msgstr ""
+msgstr "Neříkal jsem ti to? Jsem tajně předsedův sirotek, opuštěný po narození v Zadních zátokách."
 
 #: conversations/companions/g_companion_felix_in_party:295
 msgctxt "conversations/companions/g_companion_felix_in_party:295:DefaultText"
 msgid "I'm trying to develop a working relationship with the Board."
-msgstr ""
+msgstr "Snažím se navázat pracovní vztah s představenstvem."
 
 #: conversations/companions/g_companion_felix_in_party:296
 msgctxt "conversations/companions/g_companion_felix_in_party:296:DefaultText"
 msgid "The Board's got plenty of reason to fear us."
-msgstr ""
+msgstr "Rada má spoustu důvodů se nás bát."
 
 #: conversations/companions/g_companion_felix_in_party:297
 msgctxt "conversations/companions/g_companion_felix_in_party:297:DefaultText"
 msgid "I'd rather have the Board's respect. Also, their money."
-msgstr ""
+msgstr "Raději bych měl respekt správní rady. A také jejich peníze."
 
 #: conversations/companions/g_companion_felix_in_party:298
 msgctxt "conversations/companions/g_companion_felix_in_party:298:DefaultText"
 msgid "Sure, if by \"working relationship\" you mean working 'em over with a blunt instrument."
-msgstr ""
+msgstr "Jistě, pokud tím \"pracovním vztahem\" myslíš zpracovávání tupým nástrojem."
 
 #: conversations/companions/g_companion_felix_in_party:299
 msgctxt "conversations/companions/g_companion_felix_in_party:299:DefaultText"
 msgid "I want to believe you, but the Adjutant didn't seem too scared of us."
-msgstr ""
+msgstr "Chci ti věřit, ale nezdálo se, že by se nás adjutant příliš bál."
 
 #: conversations/companions/g_companion_felix_in_party:300
 msgctxt "conversations/companions/g_companion_felix_in_party:300:DefaultText"
 msgid "Board don't know the meaning of the word respect. The only language they understand is exploitation."
-msgstr ""
+msgstr "Rada nezná význam slova respekt. Jediný jazyk, kterému rozumí, je vykořisťování."
 
 #: conversations/companions/g_companion_felix_in_party:301
 msgctxt "conversations/companions/g_companion_felix_in_party:301:DefaultText"
 msgid "You just got an audience with Sophia Akande. That's the Adjutant to the Chairman. You sure we should be trusting her?"
-msgstr ""
+msgstr "Právě jste se setkali se Sophií Akandeovou. To je adjutantka předsedy. Jste si jistý, že jí máme věřit?"
 
 #: conversations/companions/g_companion_felix_in_party:302
 msgctxt "conversations/companions/g_companion_felix_in_party:302:DefaultText"
 msgid "I oughta examine both of you for head wounds."
-msgstr ""
+msgstr "Měl bych vás oba vyšetřit na poranění hlavy."
 
 #: conversations/companions/g_companion_felix_in_party:303
 msgctxt "conversations/companions/g_companion_felix_in_party:303:DefaultText"
 msgid "That's the Adjutant we're talking about, boss. She wasn't giving you eyes. She was glaring."
-msgstr ""
+msgstr "Mluvíme o adjutantovi, šéfe. Nedávala ti oči. Dívala se na mě."
 
 #: conversations/companions/g_companion_felix_in_party:304
 msgctxt "conversations/companions/g_companion_felix_in_party:304:DefaultText"
 msgid "This is how the Board gets you. A job here, an errand there - before you know it you're calling 'em sir and ma'am."
-msgstr ""
+msgstr "Takto vás rada dostane. Práce tady, pochůzka tam - než se nadějete, už jim říkáte pane a paní."
 
 #: conversations/companions/g_companion_felix_in_party:305
 msgctxt "conversations/companions/g_companion_felix_in_party:305:DefaultText"
 msgid "<Sigh> Corruption Quarterly is not a real magazine, Felix."
-msgstr ""
+msgstr "<Vzdech> Corruption Quarterly není skutečný časopis, Felixi."
 
 #: conversations/companions/g_companion_felix_in_party:306
 msgctxt "conversations/companions/g_companion_felix_in_party:306:DefaultText"
 msgid "Maybe it oughta be! Look, never mind. I'm trying to make a point here."
-msgstr ""
+msgstr "Možná by to tak mělo být! Podívej, to je jedno. Snažím se něco říct."
 
 #: conversations/companions/g_companion_felix_in_party:312
 msgctxt "conversations/companions/g_companion_felix_in_party:312:DefaultText"
 msgid "Principles? What are those? "
-msgstr ""
+msgstr "Zásady? Jaké to jsou? "
 
 #: conversations/companions/g_companion_felix_in_party:313
 msgctxt "conversations/companions/g_companion_felix_in_party:313:DefaultText"
 msgid "Oh boy. Principles, you know. They're, uh. They're a thing you don't have if you're a jackass."
-msgstr ""
+msgstr "Ach jo. Zásady, víte. Jsou to... Když jsi blbec, tak je nemáš."
 
 #: conversations/companions/g_companion_felix_in_party:315
 msgctxt "conversations/companions/g_companion_felix_in_party:315:DefaultText"
 msgid "Pretend you're loyal to the Adjutant. Earn her trust. And then, when she least expects it? You hit her with the old double-cross."
-msgstr ""
+msgstr "Předstírejte, že jste loajální k adjutantovi. Získej si její důvěru. A pak, až to bude nejméně čekat? Uděláš na ni starý známý podraz."
 
 #: conversations/companions/g_companion_felix_in_party:316
 msgctxt "conversations/companions/g_companion_felix_in_party:316:DefaultText"
 msgid "I don't have the time to talk about this, Felix. Let's move on."
-msgstr ""
+msgstr "Nemám čas o tom mluvit, Felixi. Pojďme dál."
 
 #: conversations/companions/g_companion_felix_in_party:317
 msgctxt "conversations/companions/g_companion_felix_in_party:317:DefaultText"
 msgid "See? Discreet."
-msgstr ""
+msgstr "Vidíte? Diskrétní."
 
 #: conversations/companions/g_companion_felix_in_party:318
 msgctxt "conversations/companions/g_companion_felix_in_party:318:DefaultText"
 msgid "Oh. Oh! You meant I was right. Got it."
-msgstr ""
+msgstr "Oh. Chtěl jsi říct, že jsem měl pravdu. Mám to."
 
 #: conversations/companions/g_companion_felix_in_party:319
 msgctxt "conversations/companions/g_companion_felix_in_party:319:DefaultText"
 msgid "Maybe you're right. I can't stop thinking about what he did. About all those people in Amber Heights."
-msgstr ""
+msgstr "Možná máte pravdu. Nemůžu přestat myslet na to, co udělal. Na všechny ty lidi v Amber Heights."
 
 #: conversations/companions/g_companion_felix_in_party:320
 msgctxt "conversations/companions/g_companion_felix_in_party:320:DefaultText"
 msgid "The thing is - that's all it takes. Sometimes, the difference between right and wrong is turning a key, or looking the other way, or keeping your mouth shut when you oughta speak up."
-msgstr ""
+msgstr "Jde o to, že to stačí. Někdy je rozdíl mezi dobrem a zlem v tom, že otočíte klíčem, podíváte se jinam nebo mlčíte, když byste měli promluvit."
 
 #: conversations/companions/g_companion_felix_in_party:321
 msgctxt "conversations/companions/g_companion_felix_in_party:321:DefaultText"
 msgid "I know you've got your reasons for serving the Board and all. But you wouldn't stoop as low as Graham."
-msgstr ""
+msgstr "Vím, že máš své důvody, proč sloužíš radě, a tak dále. Ale tak hluboko jako Graham bys neklesl."
 
 #: conversations/companions/g_companion_felix_in_party:322
 msgctxt "conversations/companions/g_companion_felix_in_party:322:DefaultText"
 msgid "I like your attitude, Felix."
-msgstr ""
+msgstr "Líbí se mi tvůj přístup, Felixi."
 
 #: conversations/companions/g_companion_felix_in_party:323
 msgctxt "conversations/companions/g_companion_felix_in_party:323:DefaultText"
 msgid "Unless we all die horribly."
-msgstr ""
+msgstr "Ledaže bychom všichni strašlivě zemřeli."
 
 #: conversations/companions/g_companion_felix_in_party:324
 msgctxt "conversations/companions/g_companion_felix_in_party:324:DefaultText"
 msgid "Let's move on."
-msgstr ""
+msgstr "Pojďme dál."
 
 #: conversations/companions/g_companion_felix_in_party:325
 msgctxt "conversations/companions/g_companion_felix_in_party:325:DefaultText"
 msgid "Come on, boss. We're not gonna die horribly. It'd kill our ratings."
-msgstr ""
+msgstr "No tak, šéfe. Neumřeme strašlivě. Zničilo by to naši sledovanost."
 
 #: conversations/companions/g_companion_felix_in_party:326
 msgctxt "conversations/companions/g_companion_felix_in_party:326:DefaultText"
 msgid "Enough to boost my pay? I'm just kidding, boss. I know you don't pay me."
-msgstr ""
+msgstr "Stačí to na zvýšení mého platu? Dělám si legraci, šéfe. Vím, že mi neplatíte."
 
 #: conversations/companions/g_companion_felix_in_party:327
 msgctxt "conversations/companions/g_companion_felix_in_party:327:DefaultText"
 msgid "I'm sure you've got plans to make. As for me, I gotta keep practicing my signature drop-kick. The Hope might have cameras."
-msgstr ""
+msgstr "Určitě máš nějaké plány. Co se mě týče, musím dál trénovat svůj charakteristický kop. Hope by mohla mít kamery."
 
 #: conversations/companions/g_companion_felix_in_party:328
 msgctxt "conversations/companions/g_companion_felix_in_party:328:DefaultText"
 msgid "So how'd you end up on the Groundbreaker?"
-msgstr ""
+msgstr "Jak jste se dostal do Groundbreakeru?"
 
 #: conversations/companions/g_companion_felix_in_party:329
 msgctxt "conversations/companions/g_companion_felix_in_party:329:DefaultText"
 msgid "Rather not talk about that right now, if it's all the same to you."
-msgstr ""
+msgstr "Raději o tom teď nebudeme mluvit, pokud je vám to jedno."
 
 #: conversations/companions/g_companion_felix_in_party:330
 msgctxt "conversations/companions/g_companion_felix_in_party:330:DefaultText"
 msgid "Give me a straight answer."
-msgstr ""
+msgstr "Odpovězte mi na rovinu."
 
 #: conversations/companions/g_companion_felix_in_party:331
 msgctxt "conversations/companions/g_companion_felix_in_party:331:DefaultText"
 msgid "And then you were raised by a pack of sprats, right?"
-msgstr ""
+msgstr "A pak tě vychovala smečka šprotů, že?"
 
 #: conversations/companions/g_companion_felix_in_party:332
 msgctxt "conversations/companions/g_companion_felix_in_party:332:DefaultText"
 msgid "Wow, really?"
-msgstr ""
+msgstr "Páni, vážně?"
 
 #: conversations/companions/g_companion_felix_in_party:333
 msgctxt "conversations/companions/g_companion_felix_in_party:333:DefaultText"
 msgid "Forget I asked."
-msgstr ""
+msgstr "Zapomněl jsem, že jsem se ptal."
 
 #: conversations/companions/g_companion_felix_in_party:334
 msgctxt "conversations/companions/g_companion_felix_in_party:334:DefaultText"
 msgid "Honestly? Before you picked me up, I was living in the Back Bays. Spent my whole life up there, watching ships roll in and take off. Always wondered when my ship would come."
-msgstr ""
+msgstr "Upřímně? Než jsi mě vyzvedl, žil jsem v Back Bays. Celý život jsem tam strávil pozorováním lodí, jak připlouvají a odplouvají. Vždycky mě zajímalo, kdy přijde moje loď."
 
 #: conversations/companions/g_companion_felix_in_party:335
 msgctxt "conversations/companions/g_companion_felix_in_party:335:DefaultText"
 msgid "That's right. Can't get anything past you, boss."
-msgstr ""
+msgstr "Přesně tak. Nic vám neprojde, šéfe."
 
 #: conversations/companions/g_companion_felix_in_party:336
 msgctxt "conversations/companions/g_companion_felix_in_party:336:DefaultText"
 msgid "No, boss. Not really. I was uh - what's the word - deflecting."
-msgstr ""
+msgstr "Ne, šéfe. Ne tak docela. Jen jsem... jak se tomu říká... odbíhal."
 
 #: conversations/companions/g_companion_felix_in_party:337
 msgctxt "conversations/companions/g_companion_felix_in_party:337:DefaultText"
 msgid "Hauling boxes was about the only work I could find. Hated every second of it. Foreman and I never got on."
-msgstr ""
+msgstr "Jediná práce, kterou jsem našel, bylo tahání krabic. Nenáviděl jsem každou vteřinu. S předákem jsme si nikdy nerozuměli."
 
 #: conversations/companions/g_companion_felix_in_party:338
 msgctxt "conversations/companions/g_companion_felix_in_party:338:DefaultText"
 msgid "Right. The incident with the tossball stick."
-msgstr ""
+msgstr "Vpravo. Incident s hokejkou na házení míčků."
 
 #: conversations/companions/g_companion_felix_in_party:339
 msgctxt "conversations/companions/g_companion_felix_in_party:339:DefaultText"
 msgid "What happened between you and your foreman?"
-msgstr ""
+msgstr "Co se stalo mezi vámi a vaším předákem?"
 
 #: conversations/companions/g_companion_felix_in_party:340
 msgctxt "conversations/companions/g_companion_felix_in_party:340:DefaultText"
 msgid "Felix, you can't just attack your own foreman."
-msgstr ""
+msgstr "Felixi, nemůžeš jen tak napadnout svého vlastního předáka."
 
 #: conversations/companions/g_companion_felix_in_party:341
 msgctxt "conversations/companions/g_companion_felix_in_party:341:DefaultText"
 msgid "I was what folks on the Groundbreaker call a stowaway. Means I was invisible. Life carried on for everybody else, but not for me. I had to make my own way."
-msgstr ""
+msgstr "Byl jsem to, čemu lidé na Groundbreakeru říkají černý pasažér. To znamená, že jsem byl neviditelný. Život šel dál pro všechny ostatní, ale ne pro mě. Musel jsem si najít vlastní cestu."
 
 #: conversations/companions/g_companion_felix_in_party:342
 msgctxt "conversations/companions/g_companion_felix_in_party:342:DefaultText"
 msgid "I have a hard time believing you were invisible to anybody."
-msgstr ""
+msgstr "Nechce se mi věřit, že bys byl pro někoho neviditelný."
 
 #: conversations/companions/g_companion_felix_in_party:343
 msgctxt "conversations/companions/g_companion_felix_in_party:343:DefaultText"
 msgid "At least you weren't obliged to anybody else. You were free."
-msgstr ""
+msgstr "Alespoň jsi nebyl zavázán nikomu jinému. Byl jsi svobodný."
 
 #: conversations/companions/g_companion_felix_in_party:344
 msgctxt "conversations/companions/g_companion_felix_in_party:344:DefaultText"
 msgid "You were a stowaway?"
-msgstr ""
+msgstr "Byl jste černý pasažér?"
 
 #: conversations/companions/g_companion_felix_in_party:345
 msgctxt "conversations/companions/g_companion_felix_in_party:345:DefaultText"
 msgid "Yeah, 'cause I got sick of being ignored. Got sick of being a nobody. So yeah, I made some noise. Got in a couple scraps. "
-msgstr ""
+msgstr "Jo, protože už mě nebavilo, že mě ignorují. Už mě nebavilo být nikým. Tak jsem udělal nějaký hluk. Dostal jsem se do pár šlamastyk. "
 
 #: conversations/companions/g_companion_felix_in_party:346
 msgctxt "conversations/companions/g_companion_felix_in_party:346:DefaultText"
 msgid "Stowaways ain't free. We were just as trapped as anybody else. We didn't belong in the system, but we still had to live in it. We still had to play by the Board's rules."
-msgstr ""
+msgstr "Černí pasažéři nejsou zadarmo. Byli jsme v pasti stejně jako ostatní. Nepatřili jsme do systému, ale přesto jsme v něm museli žít. Stále jsme museli hrát podle pravidel Správní rady."
 
 #: conversations/companions/g_companion_felix_in_party:347
 msgctxt "conversations/companions/g_companion_felix_in_party:347:DefaultText"
 msgid "Imagine spending your whole life looking out at the stars, and knowing you could never aspire to be anything more than a box-hauler. That's what it's like."
-msgstr ""
+msgstr "Představte si, že se celý život díváte na hvězdy a víte, že se nikdy nemůžete stát ničím jiným než vozkou. Přesně tak to je."
 
 #: conversations/companions/g_companion_felix_in_party:348
 msgctxt "conversations/companions/g_companion_felix_in_party:348:DefaultText"
 msgid "Sounds rough, Felix. Where'd you find work?"
-msgstr ""
+msgstr "To zní drsně, Felixi. Kde jsi našel práci?"
 
 #: conversations/companions/g_companion_felix_in_party:349
 msgctxt "conversations/companions/g_companion_felix_in_party:349:DefaultText"
 msgid "You're making excuses. If you applied yourself, you could've done better."
-msgstr ""
+msgstr "Vymlouváte se. Kdybyste se snažili, mohli jste si vést lépe."
 
 #: conversations/companions/g_companion_felix_in_party:350
 msgctxt "conversations/companions/g_companion_felix_in_party:350:DefaultText"
 msgid "You should've just lived the outlaw's life."
-msgstr ""
+msgstr "Měl jsi prostě žít životem psance."
 
 #: conversations/companions/g_companion_felix_in_party:351
 msgctxt "conversations/companions/g_companion_felix_in_party:351:DefaultText"
 msgid "Nobody else on the Groundbreaker's gonna look after you. So you had to look after yourself. Learned that real quick."
-msgstr ""
+msgstr "Nikdo jiný na Groundbreakeru se o tebe nepostará. Takže ses o sebe musel postarat sám. To jsem se naučil opravdu rychle."
 
 #: conversations/companions/g_companion_felix_in_party:352
 msgctxt "conversations/companions/g_companion_felix_in_party:352:DefaultText"
 msgid "How did you manage?"
-msgstr ""
+msgstr "Jak se vám to podařilo?"
 
 #: conversations/companions/g_companion_felix_in_party:355
 msgctxt "conversations/companions/g_companion_felix_in_party:355:DefaultText"
 msgid "That's what they called us. Orphans with no family, no company to take us in, nowhere to go but the Back Bays."
-msgstr ""
+msgstr "Tak nám říkali. Sirotci bez rodiny, bez společnosti, která by se nás ujala, nikde jinde než v Back Bay."
 
 #: conversations/companions/g_companion_felix_in_party:356
 msgctxt "conversations/companions/g_companion_felix_in_party:356:DefaultText"
 msgid "The word's a touch kindlier than \"rungleech,\" but the meaning's just as clear. If you can't support your own self, you don't deserve to be on the Groundbreaker."
-msgstr ""
+msgstr "Slovo je o něco laskavější než \"rungleech\", ale jeho význam je stejně jasný. Pokud se nedokážeš uživit sám, nezasloužíš si být na Groundbreakeru."
 
 #: conversations/companions/g_companion_felix_in_party:358
 msgctxt "conversations/companions/g_companion_felix_in_party:358:DefaultText"
 msgid "That's how it is in this colony. Nobody gives a damn about you."
-msgstr ""
+msgstr "Tak to v této kolonii chodí. Nikdo se o tebe nezajímá."
 
 #: conversations/companions/g_companion_felix_in_party:359
 msgctxt "conversations/companions/g_companion_felix_in_party:359:DefaultText"
 msgid "Seems fair to me. You can't just live off other peoples' charity."
-msgstr ""
+msgstr "Zdá se mi to spravedlivé. Nemůžeš žít jen z milodarů jiných lidí."
 
 #: conversations/companions/g_companion_felix_in_party:361
 msgctxt "conversations/companions/g_companion_felix_in_party:361:DefaultText"
 msgid "Applied myself to what? I ain't got a head for numbers and figures, so engineering wasn't gonna pick me up. And SubLight's got no use for a scrawny Back Bays kid."
-msgstr ""
+msgstr "K čemu jsem se hlásil? Nemám hlavu na čísla a počty, takže inženýrství by mě nevzalo. A SubLight nemá pro hubeného kluka z Back Bays využití."
 
 #: conversations/companions/g_companion_felix_in_party:362
 msgctxt "conversations/companions/g_companion_felix_in_party:362:DefaultText"
 msgid "The thought had occurred to me, boss. But I had to get off the Groundbreaker first. "
-msgstr ""
+msgstr "Napadlo mě to, šéfe. Ale nejdřív jsem se musel dostat z Groundbreakeru. "
 
 #: conversations/companions/g_companion_felix_in_party:363
 msgctxt "conversations/companions/g_companion_felix_in_party:363:DefaultText"
 msgid "Same way we all do. Looked for work and hoped somebody would give me a shot."
-msgstr ""
+msgstr "Stejně jako my všichni. Hledal jsem práci a doufal, že mi někdo dá šanci."
 
 #: conversations/companions/g_companion_felix_in_party:365
 msgctxt "conversations/companions/g_companion_felix_in_party:365:DefaultText"
 msgid "That's exactly what I been saying. The system doesn't care about the individual. We're only as valuable as our jobs."
-msgstr ""
+msgstr "Přesně to jsem říkal. Systém se o jednotlivce nezajímá. Jsme tak cenní, jak cenná je naše práce."
 
 #: conversations/companions/g_companion_felix_in_party:366
 msgctxt "conversations/companions/g_companion_felix_in_party:366:DefaultText"
 msgid "I never asked for charity. What I wanted was a fair shot. "
-msgstr ""
+msgstr "Nikdy jsem nežádal o milodary. Chtěl jsem jen spravedlivou šanci. "
 
 #: conversations/companions/g_companion_felix_in_party:367
 msgctxt "conversations/companions/g_companion_felix_in_party:367:DefaultText"
 msgid "That's a fair point."
-msgstr ""
+msgstr "To je správná připomínka."
 
 #: conversations/companions/g_companion_felix_in_party:368
 msgctxt "conversations/companions/g_companion_felix_in_party:368:DefaultText"
 msgid "Don't blame the system for your problems, Felix."
-msgstr ""
+msgstr "Neobviňuj ze svých problémů systém, Felixi."
 
 #: conversations/companions/g_companion_felix_in_party:369
 msgctxt "conversations/companions/g_companion_felix_in_party:369:DefaultText"
 msgid "We'll talk later."
-msgstr ""
+msgstr "Promluvíme si později."
 
 #: conversations/companions/g_companion_felix_in_party:370
 msgctxt "conversations/companions/g_companion_felix_in_party:370:DefaultText"
 msgid "Yeah, that's what they all told me. The Mardets. The Board. My old foreman."
-msgstr ""
+msgstr "Jo, to mi říkali všichni. Mardety. Představenstvo. Můj bývalý předák."
 
 #: conversations/companions/g_companion_felix_in_party:371
 msgctxt "conversations/companions/g_companion_felix_in_party:371:DefaultText"
 msgid "You spend your best years laboring on the docks, watching your horizons shrink with every passing day - sooner or later, you start believing that's all you're worth."
-msgstr ""
+msgstr "Strávíte nejlepší léta prací v docích a sledujete, jak se vaše obzory každým dnem zmenšují - dříve nebo později začnete věřit, že to je vše, co za to stojí."
 
 #: conversations/companions/g_companion_felix_in_party:372
 msgctxt "conversations/companions/g_companion_felix_in_party:372:DefaultText"
 msgid "Could be I was overreacting. A better man might've turned the other cheek. Exercised a little bit of that - what's the word - restraint."
-msgstr ""
+msgstr "Možná jsem to přehnal. Lepší člověk by možná nastavil druhou tvář. Trochu té - jak se tomu říká - zdrženlivosti."
 
 #: conversations/companions/g_companion_felix_in_party:374
 msgctxt "conversations/companions/g_companion_felix_in_party:374:DefaultText"
 msgid "That's all for now."
-msgstr ""
+msgstr "To je prozatím vše."
 
 #: conversations/companions/g_companion_felix_in_party:375
 msgctxt "conversations/companions/g_companion_felix_in_party:375:DefaultText"
 msgid "Yeah, I hear you, boss. It sounds like I was out of line, right? Swinging on my own foreman like that."
-msgstr ""
+msgstr "Jo, slyším tě, šéfe. Zní to, jako bych to přehnal, že? Takhle se ohánět vlastním předákem."
 
 #: conversations/companions/g_companion_felix_in_party:376
 msgctxt "conversations/companions/g_companion_felix_in_party:376:DefaultText"
 msgid "But on the other hand? Broadsiding the jackass with a tossball stick? That felt good. That felt real good. You oughta try it."
-msgstr ""
+msgstr "Ale na druhou stranu? Brodění osla s hokejkou na házení? To byl dobrý pocit. Opravdu dobrý pocit. Měl bys to zkusit."
 
 #: conversations/companions/g_companion_felix_in_party:377
 msgctxt "conversations/companions/g_companion_felix_in_party:377:DefaultText"
 msgid "I caught a real lucky break. If you hadn't picked me up, I'd still be back at the docks, waiting for the day my ship arrives."
-msgstr ""
+msgstr "Měl jsem opravdu štěstí. Kdybys mě nevyzvedl, pořád bych byl zpátky v docích a čekal na den, kdy dorazí moje loď."
 
 #: conversations/companions/g_companion_felix_in_party:378
 msgctxt "conversations/companions/g_companion_felix_in_party:378:DefaultText"
 msgid "I'm glad you're not wasting your life hauling boxes."
-msgstr ""
+msgstr "Jsem rád, že neplýtváš životem na převážení krabic."
 
 #: conversations/companions/g_companion_felix_in_party:379
 msgctxt "conversations/companions/g_companion_felix_in_party:379:DefaultText"
 msgid "Please, Felix. If I hadn't picked you up, you'd probably be in a prison cell."
-msgstr ""
+msgstr "Prosím, Felixi. Kdybych tě nevyzvedl, pravděpodobně bys seděl ve vězeňské cele."
 
 #: conversations/companions/g_companion_felix_in_party:381
 msgctxt "conversations/companions/g_companion_felix_in_party:381:DefaultText"
 msgid "If we have a disagreement, I expect you to be civilized."
-msgstr ""
+msgstr "Pokud se neshodneme, očekávám, že se budete chovat civilizovaně."
 
 #: conversations/companions/g_companion_felix_in_party:382
 msgctxt "conversations/companions/g_companion_felix_in_party:382:DefaultText"
 msgid "I know. I've had plenty of practice bludgeoning people."
-msgstr ""
+msgstr "Já vím. V mlácení lidí jsem měl spoustu praxe."
 
 #: conversations/companions/g_companion_felix_in_party:383
 msgctxt "conversations/companions/g_companion_felix_in_party:383:DefaultText"
 msgid "You couldn't have been diplomatic about it?"
-msgstr ""
+msgstr "Nemohl jste se k tomu vyjádřit diplomaticky?"
 
 #: conversations/companions/g_companion_felix_in_party:384
 msgctxt "conversations/companions/g_companion_felix_in_party:384:DefaultText"
 msgid "Oh, I can do civilized. Proper civilized, too. Genuflecting and everything."
-msgstr ""
+msgstr "Oh, já umím civilizovaně. A taky pořádně civilizovaně. Poklonu a všechno."
 
 #: conversations/companions/g_companion_felix_in_party:385
 msgctxt "conversations/companions/g_companion_felix_in_party:385:DefaultText"
 msgid "That's what I like about you, boss. You got a mean swing."
-msgstr ""
+msgstr "To se mi na tobě líbí, šéfe. Umíš se pořádně ohánět."
 
 #: conversations/companions/g_companion_felix_in_party:386
 msgctxt "conversations/companions/g_companion_felix_in_party:386:DefaultText"
 msgid "Yeah, I mean, in theory. But I wouldn't have felt half as good."
-msgstr ""
+msgstr "Jo, myslím teoreticky. Ale necítil bych se ani z poloviny tak dobře."
 
 #: conversations/companions/g_companion_felix_in_party:387
 msgctxt "conversations/companions/g_companion_felix_in_party:387:DefaultText"
 msgid "Thanks for the story."
-msgstr ""
+msgstr "Děkujeme za příběh."
 
 #: conversations/companions/g_companion_felix_in_party:388
 msgctxt "conversations/companions/g_companion_felix_in_party:388:DefaultText"
 msgid "Yeah. I guess my ship did arrive in the end. I've got you to thank for that."
-msgstr ""
+msgstr "Jo, myslím, že moje loď nakonec dorazila. Za to ti můžu poděkovat."
 
 #: conversations/companions/g_companion_felix_in_party:389
 msgctxt "conversations/companions/g_companion_felix_in_party:389:DefaultText"
 msgid "Thanks for listening, boss. Let's get going."
-msgstr ""
+msgstr "Díky, že jsi mě vyslechl, šéfe. Jdeme na to."
 
 #: conversations/companions/g_companion_felix_in_party:390
 msgctxt "conversations/companions/g_companion_felix_in_party:390:DefaultText"
 msgid "Oh, yeah! I had a prison cell back on the Groundbreaker. Carved my name on the wall. I wonder if it's still there."
-msgstr ""
+msgstr "No jo! Na Groundbreakeru jsem měl vězeňskou celu. Na zeď jsem vyryl své jméno. Zajímalo by mě, jestli tam ještě je."
 
 #: conversations/companions/g_companion_felix_in_party:392
 msgctxt "conversations/companions/g_companion_felix_in_party:392:DefaultText"
 msgid "Guy never liked me. Always trying to get a rise out of me. But I keep my chin up, right? Be the bigger man, I tell myself."
-msgstr ""
+msgstr "Ten chlap mě nikdy neměl rád. Vždycky se mě snažil vytočit. Ale já si držím hlavu vzhůru, ne? Buď větší chlap, říkám si."
 
 #: conversations/companions/g_companion_felix_in_party:393
 msgctxt "conversations/companions/g_companion_felix_in_party:393:DefaultText"
 msgid "He's a Spacer's Chosen man, though. So when the Chosen beat my Rangers the other night, my foreman comes swaggering up with his head full of boasting."
-msgstr ""
+msgstr "Je to ale Vyvolený Spacera. Takže když Vyvolení tuhle večer porazili mé Strážce, můj předák se přišel pochlubit."
 
 #: conversations/companions/g_companion_felix_in_party:394
 msgctxt "conversations/companions/g_companion_felix_in_party:394:DefaultText"
 msgid "And that's when you resolved your differences like an adult, right?"
-msgstr ""
+msgstr "A tehdy jste své neshody vyřešili jako dospělí, že?"
 
 #: conversations/companions/g_companion_felix_in_party:395
 msgctxt "conversations/companions/g_companion_felix_in_party:395:DefaultText"
 msgid "That's when I broadsided him with a tossball stick, yeah."
-msgstr ""
+msgstr "Tehdy jsem ho praštil hokejkou, jo."
 
 #: conversations/companions/g_companion_felix_in_party:396
 msgctxt "conversations/companions/g_companion_felix_in_party:396:DefaultText"
 msgid "Oh boy."
-msgstr ""
+msgstr "Ach jo."
 
 #: conversations/companions/g_companion_felix_in_party:397
 msgctxt "conversations/companions/g_companion_felix_in_party:397:DefaultText"
 msgid "Look, this was a long time coming. Guy thinks he can push me around 'cause he's some sky-high foreman and I'm just a Back Bays dockworker?"
-msgstr ""
+msgstr "Podívejte, tohle bylo na dlouho. Ten chlap si myslí, že mě může popichovat, protože on je nějaký nebetyčný předák a já jsem jenom dělník v docích v Back Bays?"
 
 #: conversations/companions/g_companion_felix_in_party:398
 msgctxt "conversations/companions/g_companion_felix_in_party:398:DefaultText"
 msgid "Former dockworker, anyway. That's all in the past now. I'm over it, and he's in recovery. Probably."
-msgstr ""
+msgstr "Tedy bývalý přístavní dělník. To už je minulost. Já jsem se přes to přenesla a on se zotavuje. Pravděpodobně."
 
 #: conversations/companions/g_companion_felix_in_party:399
 msgctxt "conversations/companions/g_companion_felix_in_party:399:DefaultText"
 msgid "So you defend the honor of your team."
-msgstr ""
+msgstr "Bráníte tedy čest svého týmu."
 
 #: conversations/companions/g_companion_felix_in_party:400
 msgctxt "conversations/companions/g_companion_felix_in_party:400:DefaultText"
 msgid "Exactly! I was only doing what any self-respecting Rangers fan would've done."
-msgstr ""
+msgstr "Přesně tak! Dělal jsem jen to, co by udělal každý fanoušek Rangers."
 
 #: conversations/companions/g_companion_felix_in_party:401
 msgctxt "conversations/companions/g_companion_felix_in_party:401:DefaultText"
 msgid "I lived my whole life looking out at the stars. But I could never hope to be anything more than a box-hauler. That's what the establishment told me."
-msgstr ""
+msgstr "Celý život jsem se díval na hvězdy. Ale nikdy jsem nemohl doufat, že budu něčím víc než jen vozičem krabic. To mi říkalo vedení."
 
 #: conversations/companions/g_companion_felix_in_party:406
 msgctxt "conversations/companions/g_companion_felix_in_party:406:DefaultText"
 msgid "I know we had our disagreements in the past, but I just gotta say, you got a real mean swing. I respect that."
-msgstr ""
+msgstr "Vím, že jsme se v minulosti neshodli, ale musím říct, že máš opravdu zlý švih. Respektuju to."
 
 #: conversations/companions/g_companion_felix_in_party:407
 msgctxt "conversations/companions/g_companion_felix_in_party:407:DefaultText"
 msgid "You can thank me by not giving me any trouble."
-msgstr ""
+msgstr "Můžeš mi poděkovat tím, že mi nebudeš dělat potíže."
 
 #: conversations/companions/g_companion_felix_in_party:408
 msgctxt "conversations/companions/g_companion_felix_in_party:408:DefaultText"
 msgid "That's just crazy-talk. You know we'd never have a problem."
-msgstr ""
+msgstr "To jsou jen bláznivé řeči. Víš, že bychom nikdy neměli problém."
 
 #: conversations/companions/g_companion_felix_in_party:410
 msgctxt "conversations/companions/g_companion_felix_in_party:410:DefaultText"
 msgid "I'd like to pick up where we left off."
-msgstr ""
+msgstr "Rád bych pokračoval tam, kde jsme skončili."
 
 #: conversations/companions/g_companion_felix_in_party:412
 msgctxt "conversations/companions/g_companion_felix_in_party:412:DefaultText"
 msgid "I'd like to pick up where we left off."
-msgstr ""
+msgstr "Rád bych pokračoval tam, kde jsme skončili."
 
 #: conversations/companions/g_companion_felix_in_party:413
 msgctxt "conversations/companions/g_companion_felix_in_party:413:DefaultText"
 msgid "What were we talking about? Oh, right. My exciting life as a stowaway in the Back Bays"
-msgstr ""
+msgstr "O čem jsme to mluvili? Aha, jasně. O mém vzrušujícím životě černého pasažéra v zátokách."
 
 #: conversations/companions/g_companion_felix_in_party:414
 msgctxt "conversations/companions/g_companion_felix_in_party:414:DefaultText"
 msgid "What were we talking about? Oh, right. My last job."
-msgstr ""
+msgstr "O čem jsme to mluvili? Aha, jasně. O mé poslední práci."
 
 #: conversations/companions/g_companion_felix_in_party:415
 msgctxt "conversations/companions/g_companion_felix_in_party:415:DefaultText"
 msgid "I like it when you make trouble. Halcyon's got enough obedient little workers."
-msgstr ""
+msgstr "Mám rád, když děláš problémy. Halcyon má dost poslušných dělníků."
 
 #: conversations/companions/g_companion_felix_in_party:416
 msgctxt "conversations/companions/g_companion_felix_in_party:416:DefaultText"
 msgid "If I never got in that scuffle with my old foreman, you and I never would've met. You'd be off having adventures without me, and I'd still be working on the docks."
-msgstr ""
+msgstr "Kdybych se nikdy nedostal do potyčky se svým bývalým předákem, nikdy bychom se nepotkali. Ty bys zažíval dobrodružství beze mě a já bych pořád pracoval v docích."
 
 #: conversations/companions/g_companion_felix_in_party:417
 msgctxt "conversations/companions/g_companion_felix_in_party:417:DefaultText"
 msgid "Or maybe you should've kept your head down and worked."
-msgstr ""
+msgstr "Nebo jsi měl raději sklonit hlavu a pracovat."
 
 #: conversations/companions/g_companion_felix_in_party:419
 msgctxt "conversations/companions/g_companion_felix_in_party:419:DefaultText"
 msgid "Hey Felix, head back to the ship."
-msgstr ""
+msgstr "Felixi, vrať se na loď."
 
 #: conversations/companions/g_companion_felix_in_party:420
 msgctxt "conversations/companions/g_companion_felix_in_party:420:DefaultText"
 msgid "Whatever you say, boss. I'll see you back there."
-msgstr ""
+msgstr "Jak myslíte, šéfe. Uvidíme se tam."
 
 #: conversations/companions/g_companion_felix_in_party:421
 msgctxt "conversations/companions/g_companion_felix_in_party:421:DefaultText"
 msgid "Felix, I think we should part ways."
-msgstr ""
+msgstr "Felixi, myslím, že bychom se měli rozejít."
 
 #: conversations/companions/g_companion_felix_in_party:422
 msgctxt "conversations/companions/g_companion_felix_in_party:422:DefaultText"
 msgid "Boss, you can't be serious. I thought I was doing real well."
-msgstr ""
+msgstr "Šéfe, to nemyslíte vážně. Myslel jsem, že si vedu dobře."
 
 #: conversations/companions/g_companion_felix_in_party:423
 msgctxt "conversations/companions/g_companion_felix_in_party:423:DefaultText"
 msgid "Never mind, Felix. Stick around."
-msgstr ""
+msgstr "Nevadí, Felixi. Zůstaň tady."
 
 #: conversations/companions/g_companion_felix_in_party:424
 msgctxt "conversations/companions/g_companion_felix_in_party:424:DefaultText"
 msgid "Don't make this harder than it needs to be. Your services are no longer necessary."
-msgstr ""
+msgstr "Nedělejte to těžší, než je nutné. Vaše služby již nejsou potřeba."
 
 #: conversations/companions/g_companion_felix_in_party:425
 msgctxt "conversations/companions/g_companion_felix_in_party:425:DefaultText"
 msgid "All right. You don't gotta tell me twice. I'll gather up my personals and get out of your hair."
-msgstr ""
+msgstr "Dobře. Nemusíš mi to říkat dvakrát. Seberu si osobní věci a půjdu ti z očí."
 
 #: conversations/companions/g_companion_felix_in_party:426
 msgctxt "conversations/companions/g_companion_felix_in_party:426:DefaultText"
 msgid "You sure about this? I'm not too happy with you working for the Board, but I'm still your crew."
-msgstr ""
+msgstr "Jste si tím jistý? Nejsem příliš nadšený z toho, že pracuješ pro Radu, ale pořád jsem tvoje posádka."
 
 #: conversations/companions/g_companion_felix_in_party:427
 msgctxt "conversations/companions/g_companion_felix_in_party:427:DefaultText"
 msgid "Am I wrong? I'm not so sure."
-msgstr ""
+msgstr "Mýlím se? Nejsem si tím tak jistý."
 
 #: conversations/companions/g_companion_felix_in_party:429
 msgctxt "conversations/companions/g_companion_felix_in_party:429:DefaultText"
 msgid "You need me to send out somebody else?"
-msgstr ""
+msgstr "Mám poslat někoho jiného?"
 
 #: conversations/companions/g_companion_felix_in_party:430
 msgctxt "conversations/companions/g_companion_felix_in_party:430:DefaultText"
 msgid "Send Ellie."
-msgstr ""
+msgstr "Odeslat Ellie."
 
 #: conversations/companions/g_companion_felix_in_party:431
 msgctxt "conversations/companions/g_companion_felix_in_party:431:DefaultText"
 msgid "Send Nyoka."
-msgstr ""
+msgstr "Odeslat Nyoka."
 
 #: conversations/companions/g_companion_felix_in_party:432
 msgctxt "conversations/companions/g_companion_felix_in_party:432:DefaultText"
 msgid "Send Parvati."
-msgstr ""
+msgstr "Pošlete Parvati."
 
 #: conversations/companions/g_companion_felix_in_party:433
 msgctxt "conversations/companions/g_companion_felix_in_party:433:DefaultText"
 msgid "Send Max."
-msgstr ""
+msgstr "Odeslat Max."
 
 #: conversations/companions/g_companion_felix_in_party:434
 msgctxt "conversations/companions/g_companion_felix_in_party:434:DefaultText"
 msgid "Send SAM."
-msgstr ""
+msgstr "Odeslat SAM."
 
 #: conversations/companions/g_companion_felix_in_party:435
 msgctxt "conversations/companions/g_companion_felix_in_party:435:DefaultText"
 msgid "Not right now."
-msgstr ""
+msgstr "Teď ne."
 
 #: conversations/companions/g_companion_felix_in_party:436
 msgctxt "conversations/companions/g_companion_felix_in_party:436:DefaultText"
 msgid "I'll let Ellie know you're waiting."
-msgstr ""
+msgstr "Dám Ellie vědět, že čekáš."
 
 #: conversations/companions/g_companion_felix_in_party:437
 msgctxt "conversations/companions/g_companion_felix_in_party:437:DefaultText"
 msgid "I'll ask Nyoka to catch up with you."
-msgstr ""
+msgstr "Požádám Nyoku, aby vás dohnala."
 
 #: conversations/companions/g_companion_felix_in_party:438
 msgctxt "conversations/companions/g_companion_felix_in_party:438:DefaultText"
 msgid "Hey, look after Parvati."
-msgstr ""
+msgstr "Hej, postarej se o Parvati."
 
 #: conversations/companions/g_companion_felix_in_party:439
 msgctxt "conversations/companions/g_companion_felix_in_party:439:DefaultText"
 msgid "Max, huh? Hey, it's your call."
-msgstr ""
+msgstr "Max, co? Hej, je to na tobě."
 
 #: conversations/companions/g_companion_felix_in_party:440
 msgctxt "conversations/companions/g_companion_felix_in_party:440:DefaultText"
 msgid "SAM it is."
-msgstr ""
+msgstr "Je to SAM."

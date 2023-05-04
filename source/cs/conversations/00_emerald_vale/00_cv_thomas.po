@@ -1,724 +1,724 @@
 #: conversations/00_emerald_vale/00_cv_thomas:1
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:1:DefaultText"
 msgid "Oh - didn't see you there. I was - uh, I was just occupying myself with a little engineering."
-msgstr ""
+msgstr "Oh - neviděl jsem tě tam. Já jsem - ehm, jen jsem se zabýval malým inženýrstvím."
 
 #: conversations/00_emerald_vale/00_cv_thomas:2
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:2:DefaultText"
 msgid "Hey there."
-msgstr ""
+msgstr "Ahoj."
 
 #: conversations/00_emerald_vale/00_cv_thomas:5
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:5:DefaultText"
 msgid "I should go."
-msgstr ""
+msgstr "Měl bych jít."
 
 #: conversations/00_emerald_vale/00_cv_thomas:6
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:6:DefaultText"
 msgid "Sorry about that. Machines are cantankerous by nature. Liable to take insult and blow a fuse at the slightest mishandling."
-msgstr ""
+msgstr "Za to se omlouvám. Stroje jsou od přírody mrzuté. Při sebemenším špatném zacházení se mohou urazit a vyhodit pojistky."
 
 #: conversations/00_emerald_vale/00_cv_thomas:39
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:39:DefaultText"
 msgid "What's on your mind?"
-msgstr ""
+msgstr "Na co myslíte?"
 
 #: conversations/00_emerald_vale/00_cv_thomas:41
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:41:DefaultText"
 msgid "You say you pretended to be an engineer. How have you been getting away with it?"
-msgstr ""
+msgstr "Říkáte, že jste předstíral, že jste inženýr. Jak se vám to podařilo?"
 
 #: conversations/00_emerald_vale/00_cv_thomas:42
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:42:DefaultText"
 msgid "How long have you lived here?"
-msgstr ""
+msgstr "Jak dlouho zde žijete?"
 
 #: conversations/00_emerald_vale/00_cv_thomas:44
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:44:DefaultText"
 msgid "Luck, mostly. Nothing's needed serious repairing yet. Nothing's broken down that we can't just replace with something scavenged from the outskirts."
-msgstr ""
+msgstr "Většinou štěstí. Zatím nebylo třeba nic vážně opravovat. Nic se nerozbilo, co bychom nemohli nahradit něčím z předměstí."
 
 #: conversations/00_emerald_vale/00_cv_thomas:45
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:45:DefaultText"
 msgid "Couple months. This camp is my home. People you see milling about? They're my family. Least I think of them that way."
-msgstr ""
+msgstr "Několik měsíců. Tento tábor je můj domov. Lidé, které vidíte, jak se tu potulují? To je moje rodina. Alespoň tak o nich přemýšlím."
 
 #: conversations/00_emerald_vale/00_cv_thomas:47
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:47:DefaultText"
 msgid "Oh, I can swap out a water filter or charge up a battery and go on pretending I know what I'm doing. But the moment I'm asked to do any real engineering, I'm in trouble."
-msgstr ""
+msgstr "Můžu vyměnit vodní filtr nebo nabít baterii a dál předstírat, že vím, co dělám. Ale jakmile po mně někdo chce, abych dělal opravdové inženýrské práce, mám problém."
 
 #: conversations/00_emerald_vale/00_cv_thomas:48
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:48:DefaultText"
 msgid "I owe them my life. Would've died in the wilderness if they hadn't chanced upon me, starving and delirious."
-msgstr ""
+msgstr "Vděčím jim za svůj život. Zemřel bych v divočině, kdyby na mě nenarazili, hladového a blouznícího."
 
 #: conversations/00_emerald_vale/00_cv_thomas:49
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:49:DefaultText"
 msgid "Never mind."
-msgstr ""
+msgstr "Nevadí."
 
 #: conversations/00_emerald_vale/00_cv_thomas:50
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:50:DefaultText"
 msgid "What were you doing out in the wilderness?"
-msgstr ""
+msgstr "Co jste dělali v divočině?"
 
 #: conversations/00_emerald_vale/00_cv_thomas:51
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:51:DefaultText"
 msgid "We all left the cannery for one reason or another. Me? I was let go. Mostly on account of my incompetence."
-msgstr ""
+msgstr "Všichni jsme z toho či onoho důvodu opustili konzervárnu. Já? Mě propustili. Hlavně kvůli mé neschopnosti."
 
 #: conversations/00_emerald_vale/00_cv_thomas:52
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:52:DefaultText"
 msgid "I mean, I was incompetent. I couldn't even survive on my own. Grace found me. Adelaide took me in. I've been on my feet ever since."
-msgstr ""
+msgstr "Chci říct, že jsem byl neschopný. Nedokázal jsem ani sám přežít. Grace mě našla. Adelaide se mě ujala. Od té doby jsem na nohou."
 
 #: conversations/00_emerald_vale/00_cv_thomas:105
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:105:DefaultText"
 msgid "Are you- um, are things safe out here? How are you keeping?"
-msgstr ""
+msgstr "Je to tady bezpečné? Jak se vám daří?"
 
 #: conversations/00_emerald_vale/00_cv_thomas:106
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:106:DefaultText"
 msgid "Great! Just great! I've been trying to keep stuff running, just like you. Only I'm not so- wait, they didn't kick you out, did they?"
-msgstr ""
+msgstr "Skvělé! Prostě skvělé! Snažím se udržet věci v chodu, stejně jako ty. Jenže já nejsem tak... Počkej, nevyhodili tě, že ne?"
 
 #: conversations/00_emerald_vale/00_cv_thomas:107
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:107:DefaultText"
 msgid "Oh, hey there, friend."
-msgstr ""
+msgstr "Ahoj, příteli."
 
 #: conversations/00_emerald_vale/00_cv_thomas:108
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:108:DefaultText"
 msgid "Sure. Yeah. Hey, just talk to Adelaide if you're looking to join us."
-msgstr ""
+msgstr "Jasně. Jo. Jestli se k nám chceš přidat, tak si promluv s Adelaide."
 
 #: conversations/00_emerald_vale/00_cv_thomas:109
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:109:DefaultText"
 msgid "Wow. A new face. We're getting popular. I'm Thomas."
-msgstr ""
+msgstr "Páni. Nová tvář. Začínáme být populární. Já jsem Thomas."
 
 #: conversations/00_emerald_vale/00_cv_thomas:110
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:110:DefaultText"
 msgid "Are you- um, are things safe out here? How are you keeping?"
-msgstr ""
+msgstr "Je to tady bezpečné? Jak se vám daří?"
 
 #: conversations/00_emerald_vale/00_cv_thomas:111
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:111:DefaultText"
 msgid "Great! Just great! I've been trying to keep stuff running, just like you. Only I'm not so- wait, they didn't kick you out, did they?"
-msgstr ""
+msgstr "Skvělé! Prostě skvělé! Snažím se udržet věci v chodu, stejně jako ty. Jenže já nejsem tak... Počkej, nevyhodili tě, že ne?"
 
 #: conversations/00_emerald_vale/00_cv_thomas:112
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:112:DefaultText"
 msgid "Everybody keeps staring at me. It's not my fault the power's dead."
-msgstr ""
+msgstr "Všichni na mě pořád zírají. Nemůžu za to, že nefunguje elektřina."
 
 #: conversations/00_emerald_vale/00_cv_thomas:113
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:113:DefaultText"
 msgid "Sorry. I'm just trying to figure out what to do, is all."
-msgstr ""
+msgstr "Omlouvám se. Jen se snažím přijít na to, co mám dělat, to je vše."
 
 #: conversations/00_emerald_vale/00_cv_thomas:116
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:116:DefaultText"
 msgid "You ever heard of The Young Spacer's Guide to Mechanical Engineering? Comes in a set of three. If I had my hands on one of those datapads, I could teach myself the ins-and-outs."
-msgstr ""
+msgstr "Slyšeli jste někdy o knize Průvodce mladého špacíra po strojírenství? Vychází v sadě tří kusů. Kdybych měl v ruce jeden z těch datapadů, mohl bych se to naučit sám."
 
 #: conversations/00_emerald_vale/00_cv_thomas:117
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:117:DefaultText"
 msgid "Those are good. My dad kept a copy with him when he was working in the cannery."
-msgstr ""
+msgstr "Ty jsou dobré. Můj táta měl jeden výtisk u sebe, když pracoval v konzervárně."
 
 #: conversations/00_emerald_vale/00_cv_thomas:118
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:118:DefaultText"
 msgid "I know the old community center kept a copy. Should find another one back in town. If you could find me even one of those pads, I'd be greatly obliged."
-msgstr ""
+msgstr "Vím, že ve starém komunitním centru se uchovávala kopie. Měli bychom najít další ve městě. Kdybys mi našel aspoň jeden z těch bloků, byl bych ti velmi zavázán."
 
 #: conversations/00_emerald_vale/00_cv_thomas:119
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:119:DefaultText"
 msgid "I'll let you know if I find anything."
-msgstr ""
+msgstr "Dám vám vědět, jestli něco najdu."
 
 #: conversations/00_emerald_vale/00_cv_thomas:120
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:120:DefaultText"
 msgid "Would you? I'd be grateful."
-msgstr ""
+msgstr "Chtěli byste? Byl bych vám vděčný."
 
 #: conversations/00_emerald_vale/00_cv_thomas:122
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:122:DefaultText"
 msgid "I expect a fair price for my trouble."
-msgstr ""
+msgstr "Za své potíže očekávám spravedlivou cenu."
 
 #: conversations/00_emerald_vale/00_cv_thomas:123
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:123:DefaultText"
 msgid "I'll pay you for every pad you bring me. If, by some miracle, you can bring me the full set, I'll give you something pretty I've been saving for a lucky day."
-msgstr ""
+msgstr "Zaplatím ti za každou podložku, kterou mi přineseš. Pokud mi nějakým zázrakem přineseš celou sadu, dám ti něco pěkného, co jsem si schovával na šťastný den."
 
 #: conversations/00_emerald_vale/00_cv_thomas:124
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:124:DefaultText"
 msgid "Today's your lucky day, Thomas. I've got one of those datapads you wanted."
-msgstr ""
+msgstr "Dnes máš šťastný den, Thomasi. Mám jeden z těch datapadů, které jsi chtěl."
 
 #: conversations/00_emerald_vale/00_cv_thomas:129
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:129:DefaultText"
 msgid "No kidding. Really? Well, which one?"
-msgstr ""
+msgstr "Bez legrace. Opravdu? A který?"
 
 #: conversations/00_emerald_vale/00_cv_thomas:130
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:130:DefaultText"
 msgid "Part one. Found it in the community center archives."
-msgstr ""
+msgstr "První část. Našel jsem ji v archivu komunitního centra."
 
 #: conversations/00_emerald_vale/00_cv_thomas:131
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:131:DefaultText"
 msgid "Look at that. \"Building A Computing Machine Out Of Spectrum Potatoes: A Primer.\" I'm just glad it's survived all these years."
-msgstr ""
+msgstr "Podívejte se na to. \"Stavba výpočetního stroje ze spektrálních brambor: \"Základní informace.\" Jsem rád, že to přežilo všechny ty roky."
 
 #: conversations/00_emerald_vale/00_cv_thomas:132
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:132:DefaultText"
 msgid "Part two. Found it in the cannery."
-msgstr ""
+msgstr "Druhá část. Našel jsem ji v konzervárně."
 
 #: conversations/00_emerald_vale/00_cv_thomas:133
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:133:DefaultText"
 msgid "Ain't that just ironical? If I'd worked a little longer back at the cannery, I might've found this myself."
-msgstr ""
+msgstr "Není to ironické? Kdybych pracoval v konzervárně o něco déle, mohl jsem na to přijít sám."
 
 #: conversations/00_emerald_vale/00_cv_thomas:134
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:134:DefaultText"
 msgid "The elusive part three. Someone stashed it away inside the old geothermal plant."
-msgstr ""
+msgstr "Nepolapitelná část třetí. Někdo ji ukryl ve staré geotermální elektrárně."
 
 #: conversations/00_emerald_vale/00_cv_thomas:135
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:135:DefaultText"
 msgid "The Geothermal Plant! Now that is just incredible. You really went exploring down there? Adelaide always told us it was swarming with hostile mechanicals."
-msgstr ""
+msgstr "Geotermální elektrárna! To je prostě neuvěřitelné. Opravdu jsi tam byl na průzkumu? Adelaide nám vždycky říkala, že se to tam hemží nepřátelskými mechaniky."
 
 #: conversations/00_emerald_vale/00_cv_thomas:136
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:136:DefaultText"
 msgid "Actually, I wanted to ask you something else."
-msgstr ""
+msgstr "Vlastně jsem se chtěl zeptat na něco jiného."
 
 #: conversations/00_emerald_vale/00_cv_thomas:137
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:137:DefaultText"
 msgid "You're really playing with my feelings here."
-msgstr ""
+msgstr "Opravdu si hraješ s mými city."
 
 #: conversations/00_emerald_vale/00_cv_thomas:139
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:139:DefaultText"
 msgid "I appreciate you going through all that trouble."
-msgstr ""
+msgstr "Oceňuji, že jste si dali tu práci."
 
 #: conversations/00_emerald_vale/00_cv_thomas:140
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:140:DefaultText"
 msgid "Two whole datapads. Be still my beatin' heart. Oh - almost forgot your payment."
-msgstr ""
+msgstr "Celé dva datapady. Buď klidný, mé srdce bije. Málem bych zapomněl na tvou platbu."
 
 #: conversations/00_emerald_vale/00_cv_thomas:141
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:141:DefaultText"
 msgid "That's a complete set. All three parts. I'm gonna be the greatest engineer Halcyon's ever seen."
-msgstr ""
+msgstr "To je kompletní sada. Všechny tři díly. Budu ten nejlepší inženýr, jakého kdy Halcyon viděl."
 
 #: conversations/00_emerald_vale/00_cv_thomas:142
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:142:DefaultText"
 msgid "One datapad's got enough to guide me down my newfound path. Just remember, I've got something saved for you if I find me all three."
-msgstr ""
+msgstr "Jeden datapad mi stačí k tomu, aby mě vedl po nově objevené cestě. Jen nezapomeň, že mám pro tebe něco schovaného, pokud najdu všechny tři."
 
 #: conversations/00_emerald_vale/00_cv_thomas:143
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:143:DefaultText"
 msgid "In fact, I put aside something special. On the off-chance that somebody'd search out those datapads for me."
-msgstr ""
+msgstr "Vlastně jsem si odložil něco speciálního. Pro případ, že by mi někdo ty datapady vyhledal."
 
 #: conversations/00_emerald_vale/00_cv_thomas:145
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:145:DefaultText"
 msgid "Hold on. I've got more for you."
-msgstr ""
+msgstr "Počkejte. Mám toho pro vás víc."
 
 #: conversations/00_emerald_vale/00_cv_thomas:146
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:146:DefaultText"
 msgid "I've been saving something for you. Just a little contraption I found. Should fit right into your outfit."
-msgstr ""
+msgstr "Něco jsem si pro tebe schoval. Našel jsem takovou malou věcičku. Měla by se ti hodit k oblečení."
 
 #: conversations/00_emerald_vale/00_cv_thomas:147
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:147:DefaultText"
 msgid "I'll let you know if I find any others."
-msgstr ""
+msgstr "Dám vám vědět, pokud najdu další."
 
 #: conversations/00_emerald_vale/00_cv_thomas:149
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:149:DefaultText"
 msgid "Well don't keep me in suspense."
-msgstr ""
+msgstr "Tak mě nenapínejte."
 
 #: conversations/00_emerald_vale/00_cv_thomas:152
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:152:DefaultText"
 msgid "I want to ask you something."
-msgstr ""
+msgstr "Chci se vás na něco zeptat."
 
 #: conversations/00_emerald_vale/00_cv_thomas:153
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:153:DefaultText"
 msgid "Sure. I'd be glad to take 'em off your hands."
-msgstr ""
+msgstr "Jistě. Rád se jich ujmu."
 
 #: conversations/00_emerald_vale/00_cv_thomas:160
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:160:DefaultText"
 msgid "Are you from town? I mean - you don't exactly look like you're from town."
-msgstr ""
+msgstr "Jste z města? Chci říct - nevypadáš zrovna jako z města."
 
 #: conversations/00_emerald_vale/00_cv_thomas:161
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:161:DefaultText"
 msgid "I'm passing through."
-msgstr ""
+msgstr "Projíždím tudy."
 
 #: conversations/00_emerald_vale/00_cv_thomas:162
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:162:DefaultText"
 msgid "I'm just trying to get my ship off the ground."
-msgstr ""
+msgstr "Jen se snažím rozjet svou loď."
 
 #: conversations/00_emerald_vale/00_cv_thomas:163
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:163:DefaultText"
 msgid "What town are you talking about?"
-msgstr ""
+msgstr "O jakém městě to mluvíte?"
 
 #: conversations/00_emerald_vale/00_cv_thomas:164
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:164:DefaultText"
 msgid "Edgewater. High walls? Big old cannery? Yeah, I'm getting the sense you're not from around here at all."
-msgstr ""
+msgstr "Edgewater. Vysoké zdi? Velká stará konzervárna? Jo, mám pocit, že odsud vůbec nepocházíš."
 
 #: conversations/00_emerald_vale/00_cv_thomas:165
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:165:DefaultText"
 msgid "Never heard it phrased in such a way before. I guess we're all trying to get our ships off the ground, ain't we?"
-msgstr ""
+msgstr "Nikdy předtím jsem to takhle neslyšel. Myslím, že se všichni snažíme dostat naše lodě ze země, že?"
 
 #: conversations/00_emerald_vale/00_cv_thomas:166
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:166:DefaultText"
 msgid "Sorry - just wasn't sure if you were from town or if you were one of us. Something's been chewing at me, you see."
-msgstr ""
+msgstr "Promiň - jen jsem si nebyl jistý, jestli jsi z města, nebo jsi jeden z nás. Něco ve mně hlodá, víte."
 
 #: conversations/00_emerald_vale/00_cv_thomas:178
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:178:DefaultText"
 msgid "Fact is, I been - well - lying. To everybody here. Camp thinks I'm a mechanical genius, but I couldn't fix a busted chair."
-msgstr ""
+msgstr "Faktem je, že jsem - no - lhal. Všem tady. Tábor si myslí, že jsem mechanický génius, ale nedokázal bych opravit ani rozbitou židli."
 
 #: conversations/00_emerald_vale/00_cv_thomas:180
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:180:DefaultText"
 msgid "You're lucky your camp's full of idiots."
-msgstr ""
+msgstr "Máš štěstí, že je tvůj tábor plný idiotů."
 
 #: conversations/00_emerald_vale/00_cv_thomas:181
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:181:DefaultText"
 msgid "Never too late to start learning. I could give you a couple pointers."
-msgstr ""
+msgstr "Nikdy není pozdě začít se učit. Mohl bych vám dát pár tipů."
 
 #: conversations/00_emerald_vale/00_cv_thomas:182
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:182:DefaultText"
 msgid "Maybe you should come clean, then."
-msgstr ""
+msgstr "Možná by ses měl přiznat."
 
 #: conversations/00_emerald_vale/00_cv_thomas:183
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:183:DefaultText"
 msgid "I'll take all the help I can get. I have set my mind to learning the craft of the engineer, you see. I want to make something of myself."
-msgstr ""
+msgstr "Přijmu veškerou pomoc, která se mi dostane. Chtěl jsem se naučit inženýrskému řemeslu. Chci ze sebe něco udělat."
 
 #: conversations/00_emerald_vale/00_cv_thomas:185
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:185:DefaultText"
 msgid "I mean to. I mean to do right by my friends, too. They believed I was an engineer, and so I'll make an engineer out of myself."
-msgstr ""
+msgstr "Chci říct. Chci se chovat správně i ke svým přátelům. Věřili, že jsem inženýr, a tak ze sebe udělám inženýra."
 
 #: conversations/00_emerald_vale/00_cv_thomas:186
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:186:DefaultText"
 msgid "They're not idiots. They're just trusting. I got away with replacing the odd water filter or battery, but I can't keep this charade up. Time's come for me to learn my craft."
-msgstr ""
+msgstr "Nejsou to idioti. Jsou jen důvěřiví. Výměna vodního filtru nebo baterie mi prošla, ale v téhle šarádě už nemůžu pokračovat. Přišel čas, abych se naučil svému řemeslu."
 
 #: conversations/00_emerald_vale/00_cv_thomas:188
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:188:DefaultText"
 msgid "I seen you wandering around here. You don't look like you're coming from town."
-msgstr ""
+msgstr "Viděl jsem tě, jak se tu potuluješ. Nevypadáš, že bys přišel z města."
 
 #: conversations/00_emerald_vale/00_cv_thomas:189
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:189:DefaultText"
 msgid "I can't promise anything."
-msgstr ""
+msgstr "Nemohu nic slíbit."
 
 #: conversations/00_emerald_vale/00_cv_thomas:190
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:190:DefaultText"
 msgid "I don't have time for this."
-msgstr ""
+msgstr "Nemám na to čas."
 
 #: conversations/00_emerald_vale/00_cv_thomas:191
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:191:DefaultText"
 msgid "You've been thinking about working as an engineer?"
-msgstr ""
+msgstr "Přemýšleli jste o práci inženýra?"
 
 #: conversations/00_emerald_vale/00_cv_thomas:192
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:192:DefaultText"
 msgid "I appreciate you hearing me out, at least."
-msgstr ""
+msgstr "Oceňuji, že jste mě alespoň vyslechl."
 
 #: conversations/00_emerald_vale/00_cv_thomas:193
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:193:DefaultText"
 msgid "Ever since the power cut out, I've been thinking about how useless I am to this camp. It's time I made something of myself."
-msgstr ""
+msgstr "Od té doby, co vypadl proud, přemýšlím o tom, jak jsem pro tenhle tábor zbytečný. Je načase, abych ze sebe něco udělal."
 
 #: conversations/00_emerald_vale/00_cv_thomas:194
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:194:DefaultText"
 msgid "Just something on my mind. I've been passing myself off as a real engineer. Well, one of these days somebody's gonna expect me to do some real engineering. I need to be ready."
-msgstr ""
+msgstr "Jen jsem na něco myslel. Vydávám se za skutečného inženýra. No, jednoho dne ode mě někdo bude očekávat, že budu dělat skutečné inženýrství. Musím být připraven."
 
 #: conversations/00_emerald_vale/00_cv_thomas:196
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:196:DefaultText"
 msgid "I get sick thinking about working at the cannery. I can't do that again."
-msgstr ""
+msgstr "Při pomyšlení na práci v konzervárně se mi dělá špatně. Už to nemůžu dělat."
 
 #: conversations/00_emerald_vale/00_cv_thomas:197
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:197:DefaultText"
 msgid "I've been thinking about training myself to be a real mechanic. If you're willing, I could use the help."
-msgstr ""
+msgstr "Přemýšlel jsem o tom, že bych se vyučil opravdovým mechanikem. Pokud bys byl ochotný, hodila by se mi pomoc."
 
 #: conversations/00_emerald_vale/00_cv_thomas:198
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:198:DefaultText"
 msgid "I mentioned those manuals on mechanical engineering. Suppose if I had one of those, I could go back to Reed and make a real case for myself."
-msgstr ""
+msgstr "Zmínil jsem ty příručky o strojírenství. Předpokládám, že kdybych jednu z nich měl, mohl bych se vrátit k Reedovi a udělat si pořádný obrázek."
 
 #: conversations/00_emerald_vale/00_cv_thomas:199
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:199:DefaultText"
 msgid "So don't work at the cannery. You wanted to be an engineer."
-msgstr ""
+msgstr "Takže nepracujte v konzervárně. Chtěl jsi být inženýrem."
 
 #: conversations/00_emerald_vale/00_cv_thomas:200
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:200:DefaultText"
 msgid "You know something. I think you're right. The town could use another engineer, and I'm on my way to becoming one."
-msgstr ""
+msgstr "Něco víte. Myslím, že máš pravdu. Město by potřebovalo dalšího inženýra a já jsem na nejlepší cestě se jím stát."
 
 #: conversations/00_emerald_vale/00_cv_thomas:201
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:201:DefaultText"
 msgid "I could do a lot of good in Edgewater. Maybe even keep a garage of my own. With a little workbench. And my very own toolbox."
-msgstr ""
+msgstr "V Edgewateru bych mohl udělat hodně dobrého. Možná bych si dokonce mohl nechat vlastní garáž. S malým pracovním stolem. A vlastní skříňkou s nářadím."
 
 #: conversations/00_emerald_vale/00_cv_thomas:203
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:203:DefaultText"
 msgid "You won't survive without power. It's time to go back to Edgewater."
-msgstr ""
+msgstr "Bez energie nepřežijete. Je čas vrátit se do Edgewateru."
 
 #: conversations/00_emerald_vale/00_cv_thomas:206
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:206:DefaultText"
 msgid "I've been thinking about going back. I'm not much use to anybody here."
-msgstr ""
+msgstr "Přemýšlel jsem, že se tam vrátím. Nejsem tu nikomu moc užitečný."
 
 #: conversations/00_emerald_vale/00_cv_thomas:213
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:213:DefaultText"
 msgid "I'll take that as a compliment."
-msgstr ""
+msgstr "Beru to jako kompliment."
 
 #: conversations/00_emerald_vale/00_cv_thomas:214
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:214:DefaultText"
 msgid "Well - what I meant was you're reasonably well-armed and don't look stricken with plague."
-msgstr ""
+msgstr "No - chtěl jsem říct, že jsi poměrně dobře vyzbrojený a nevypadáš jako postižený morem."
 
 #: conversations/00_emerald_vale/00_cv_thomas:215
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:215:DefaultText"
 msgid "You mentioned two pads. What about the third?"
-msgstr ""
+msgstr "Zmínil jste dvě podložky. Co třetí?"
 
 #: conversations/00_emerald_vale/00_cv_thomas:216
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:216:DefaultText"
 msgid "I wish I knew. I wager the town had the full set, once upon a time. Where the third has gone, I can't say."
-msgstr ""
+msgstr "Kéž bych to věděl. Vsadím se, že město mělo kdysi kompletní sadu. Kam se poděla ta třetí, to nedokážu říct."
 
 #: conversations/00_emerald_vale/00_cv_thomas:217
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:217:DefaultText"
 msgid "That's just fear talking."
-msgstr ""
+msgstr "To je jen strach."
 
 #: conversations/00_emerald_vale/00_cv_thomas:218
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:218:DefaultText"
 msgid "More like the voice of experience. I spent three years of my life working the cannery belt. Nearly killed me."
-msgstr ""
+msgstr "Spíše hlas zkušenosti. Strávil jsem tři roky svého života prací u pásu konzervárny. Málem mě to zabilo."
 
 #: conversations/00_emerald_vale/00_cv_thomas:219
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:219:DefaultText"
 msgid "You seem smart enough to do something better with your life."
-msgstr ""
+msgstr "Zdá se, že jsi dost chytrý na to, abys se svým životem udělal něco lepšího."
 
 #: conversations/00_emerald_vale/00_cv_thomas:220
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:220:DefaultText"
 msgid "Edgewater's in trouble. The town needs a good engineer."
-msgstr ""
+msgstr "Edgewater má potíže. Město potřebuje dobrého inženýra."
 
 #: conversations/00_emerald_vale/00_cv_thomas:221
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:221:DefaultText"
 msgid "Suit yourself."
-msgstr ""
+msgstr "Vyhovujte si."
 
 #: conversations/00_emerald_vale/00_cv_thomas:222
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:222:DefaultText"
 msgid "Edgewater's struggling. They need all the workers they can get."
-msgstr ""
+msgstr "Edgewater se potýká s problémy. Potřebují všechny pracovníky, které mohou získat."
 
 #: conversations/00_emerald_vale/00_cv_thomas:223
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:223:DefaultText"
 msgid "No - listen. You're right. If I'm gonna go back to town, I'd have to refuse working in the cannery. Only way I can do that is if I make a strong case for myself."
-msgstr ""
+msgstr "Ne - poslouchejte. Máš pravdu. Pokud se mám vrátit do města, musel bych odmítnout práci v konzervárně. Jediný způsob, jak to můžu udělat, je, že si to pádně obhájím."
 
 #: conversations/00_emerald_vale/00_cv_thomas:224
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:224:DefaultText"
 msgid "You know, I wager you're right. I wouldn't mind plying my craft in a real workshop of my own."
-msgstr ""
+msgstr "Vsadím se, že máš pravdu. Nevadilo by mi provozovat své řemeslo ve vlastní dílně."
 
 #: conversations/00_emerald_vale/00_cv_thomas:225
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:225:DefaultText"
 msgid "I don't think anyone's called me that before. But maybe it is time I tried to make something of myself."
-msgstr ""
+msgstr "Myslím, že mi tak ještě nikdo neřekl. Ale možná je na čase, abych se pokusil něco ze sebe udělat."
 
 #: conversations/00_emerald_vale/00_cv_thomas:226
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:226:DefaultText"
 msgid "Well, not until the power went and cut out. Now everyone's been giving me sidelong looks, expecting me to work some miracle and get the generator humming again."
-msgstr ""
+msgstr "Tedy až do chvíle, kdy vypadl proud. Teď se na mě všichni dívají skrz prsty a čekají, že udělám nějaký zázrak a generátor zase zabzučí."
 
 #: conversations/00_emerald_vale/00_cv_thomas:232
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:232:DefaultText"
 msgid "Any luck finding one of those manuals?"
-msgstr ""
+msgstr "Podařilo se vám najít některou z těchto příruček?"
 
 #: conversations/00_emerald_vale/00_cv_thomas:233
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:233:DefaultText"
 msgid "Yeah, I know. Thought's been weighing on me. Spacer's Choice could scupper the whole town, unless we all pull together somehow."
-msgstr ""
+msgstr "Jo, já vím. Tíží mě to. Spacerova volba by mohla zničit celé město, pokud se nějak nespojíme."
 
 #: conversations/00_emerald_vale/00_cv_thomas:234
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:234:DefaultText"
 msgid "Whoa, Ms. Parvati! You're- what- how are- hi. Hi. Hello."
-msgstr ""
+msgstr "Páni, paní Parvati! Vy jste... jak se... ahoj. Ahoj. Ahoj."
 
 #: conversations/00_emerald_vale/00_cv_thomas:235
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:235:DefaultText"
 msgid "Whoa, Ms. Parvati! You're- what- how are- hi. Hi. Hello."
-msgstr ""
+msgstr "Páni, paní Parvati! Vy jste... jak se... ahoj. Ahoj. Ahoj."
 
 #: conversations/00_emerald_vale/00_cv_thomas:237
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:237:DefaultText"
 msgid "Oh gosh, no. I- I'm just along with this fella here."
-msgstr ""
+msgstr "Ach bože, ne. Já... já jsem jen s tímhle chlapíkem."
 
 #: conversations/00_emerald_vale/00_cv_thomas:237
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:237:FemaleText"
 msgid "Oh gosh, no. I- I'm just along with this lady here."
-msgstr ""
+msgstr "Ach bože, ne. Já... já jsem jen s touhle dámou."
 
 #: conversations/00_emerald_vale/00_cv_thomas:238
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:238:DefaultText"
 msgid "Um, aside from you, Ms. Parvati. I swear, I'll do you proud."
-msgstr ""
+msgstr "Kromě vás, paní Parvati. Přísahám, že na vás budu pyšný."
 
 #: conversations/00_emerald_vale/00_cv_thomas:240
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:240:DefaultText"
 msgid "Oh gosh, no. I- I'm just along with this fella here."
-msgstr ""
+msgstr "Ach bože, ne. Já... já jsem jen s tímhle chlapíkem."
 
 #: conversations/00_emerald_vale/00_cv_thomas:240
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:240:FemaleText"
 msgid "Oh gosh, no. I- I'm just along with this lady here."
-msgstr ""
+msgstr "Ach bože, ne. Já... já jsem jen s touhle dámou."
 
 #: conversations/00_emerald_vale/00_cv_thomas:241
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:241:DefaultText"
 msgid "I'm glad we could help, Thomas."
-msgstr ""
+msgstr "Jsem rád, že jsme vám mohli pomoci, Thomasi."
 
 #: conversations/00_emerald_vale/00_cv_thomas:242
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:242:DefaultText"
 msgid "Whoa, Ms. Parvati! You're- what- how are- hi. Hi. Hello."
-msgstr ""
+msgstr "Páni, paní Parvati! Vy jste... jak se... ahoj. Ahoj. Ahoj."
 
 #: conversations/00_emerald_vale/00_cv_thomas:243
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:243:DefaultText"
 msgid "Are you- um, are things safe out here? How are you keeping?"
-msgstr ""
+msgstr "Je to tady bezpečné? Jak se vám daří?"
 
 #: conversations/00_emerald_vale/00_cv_thomas:244
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:244:DefaultText"
 msgid "Great! Just great! I've been trying to keep stuff running, just like you. Only I'm not so- wait, they didn't kick you out, did they?"
-msgstr ""
+msgstr "Skvělé! Prostě skvělé! Snažím se udržet věci v chodu, stejně jako ty. Jenže já nejsem tak... Počkej, nevyhodili tě, že ne?"
 
 #: conversations/00_emerald_vale/00_cv_thomas:245
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:245:DefaultText"
 msgid "Oh gosh, no. I- I'm just along with this fella here."
-msgstr ""
+msgstr "Ach bože, ne. Já... já jsem jen s tímhle chlapíkem."
 
 #: conversations/00_emerald_vale/00_cv_thomas:245
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:245:FemaleText"
 msgid "Oh gosh, no. I- I'm just along with this lady here."
-msgstr ""
+msgstr "Ach bože, ne. Já... já jsem jen s touhle dámou."
 
 #: conversations/00_emerald_vale/00_cv_thomas:246
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:246:DefaultText"
 msgid "I'm glad Adelaide's coming back to town with us. With Reed gone, we're gonna need her leadership."
-msgstr ""
+msgstr "Jsem rád, že se Adelaide vrací do města s námi. Když je Reed pryč, budeme její vedení potřebovat."
 
 #: conversations/00_emerald_vale/00_cv_thomas:247
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:247:DefaultText"
 msgid "This was a nice family, you know. While it lasted."
-msgstr ""
+msgstr "Byla to milá rodina. Dokud trvala."
 
 #: conversations/00_emerald_vale/00_cv_thomas:250
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:250:DefaultText"
 msgid "You weren't incompetent. You just didn't fit the cannery. Not like here. This place had a you-shaped hole, and now it doesn't."
-msgstr ""
+msgstr "Nebyl jsi neschopný. Jen jste se nehodil do konzervárny. Ne jako tady. Tohle místo mělo díru ve tvaru tebe, a teď už ne."
 
 #: conversations/00_emerald_vale/00_cv_thomas:251
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:251:DefaultText"
 msgid "You could stay, you know. Here. I'd be happy to- I mean, we could really use- This isn't coming out right. If you want, Adelaide would make a place for you."
-msgstr ""
+msgstr "Mohl bys zůstat, víš. Tady. Rád bych... Chci říct, opravdu bychom mohli... Tohle nevyznívá dobře. Jestli chceš, Adelaide by ti udělala místo."
 
 #: conversations/00_emerald_vale/00_cv_thomas:253
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:253:DefaultText"
 msgid "Adelaide tells me she's moving back to Edgewater."
-msgstr ""
+msgstr "Adelaide mi řekla, že se stěhuje zpátky do Edgewateru."
 
 #: conversations/00_emerald_vale/00_cv_thomas:254
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:254:DefaultText"
 msgid "Leave Adelaide behind. You need to go back to Edgewater."
-msgstr ""
+msgstr "Nechte Adelaide za sebou. Musíš se vrátit do Edgewateru."
 
 #: conversations/00_emerald_vale/00_cv_thomas:255
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:255:DefaultText"
 msgid "It's just - Adelaide's never gonna forgive me. Not in a hundred years. I go crawling back to my old life in Edgewater, and I'm good as dead to her."
-msgstr ""
+msgstr "Jenže - Adelaide mi to nikdy neodpustí. Ani za sto let. Odplazím se zpátky do svého starého života v Edgewateru a jsem pro ni jako mrtvý."
 
 #: conversations/00_emerald_vale/00_cv_thomas:256
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:256:DefaultText"
 msgid "Leave Adelaide behind, then. Edgewater needs you."
-msgstr ""
+msgstr "Adelaide tedy nechte za sebou. Edgewater tě potřebuje."
 
 #: conversations/00_emerald_vale/00_cv_thomas:257
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:257:DefaultText"
 msgid "Stay put. I'm going to try to talk Reed into stepping down."
-msgstr ""
+msgstr "Zůstaňte na místě. Pokusím se Reeda přemluvit, aby odstoupil."
 
 #: conversations/00_emerald_vale/00_cv_thomas:258
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:258:DefaultText"
 msgid "Why's that?"
-msgstr ""
+msgstr "Proč?"
 
 #: conversations/00_emerald_vale/00_cv_thomas:259
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:259:DefaultText"
 msgid "Yeah, Grace said the same thing about Adelaide."
-msgstr ""
+msgstr "Jo, Grace říkala to samé o Adelaide."
 
 #: conversations/00_emerald_vale/00_cv_thomas:260
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:260:DefaultText"
 msgid "Adelaide's not coming back. You need to move on."
-msgstr ""
+msgstr "Adelaide se nevrátí. Musíš jít dál."
 
 #: conversations/00_emerald_vale/00_cv_thomas:261
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:261:DefaultText"
 msgid "You know where to find me."
-msgstr ""
+msgstr "Víte, kde mě najdete."
 
 #: conversations/00_emerald_vale/00_cv_thomas:262
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:262:DefaultText"
 msgid "I expect we've got no choice. Edgewater needs us back and - loathe as I am to admit it - we need Edgewater. "
-msgstr ""
+msgstr "Předpokládám, že nemáme na výběr. Edgewater nás potřebuje zpět a - ač nerad, musíme si to přiznat - my potřebujeme Edgewater. "
 
 #: conversations/00_emerald_vale/00_cv_thomas:263
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:263:DefaultText"
 msgid "You okay with this, Grace?"
-msgstr ""
+msgstr "Nevadí ti to, Grace?"
 
 #: conversations/00_emerald_vale/00_cv_thomas:264
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:264:DefaultText"
 msgid "My affairs are all settled."
-msgstr ""
+msgstr "Moje záležitosti jsou vyřízeny."
 
 #: conversations/00_emerald_vale/00_cv_thomas:265
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:265:DefaultText"
 msgid "Zoe's still out there. Don't much care to leave her unaccounted."
-msgstr ""
+msgstr "Zoe je stále venku. Nechci ji nechat bez povšimnutí."
 
 #: conversations/00_emerald_vale/00_cv_thomas:266
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:266:DefaultText"
 msgid "Don't see that it matters. We've got no choice but to go back. Anyone with eyes can see that."
-msgstr ""
+msgstr "Nevidím, že by na tom záleželo. Nemáme jinou možnost než se vrátit. To vidí každý, kdo má oči."
 
 #: conversations/00_emerald_vale/00_cv_thomas:267
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:267:DefaultText"
 msgid "Thanks for helping me with Zoe."
-msgstr ""
+msgstr "Díky za pomoc se Zoe."
 
 #: conversations/00_emerald_vale/00_cv_thomas:268
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:268:DefaultText"
 msgid "If you find her, could you let me know? We'll be waiting in Edgewater."
-msgstr ""
+msgstr "Pokud ji najdete, můžete mi dát vědět? Budeme čekat v Edgewateru."
 
 #: conversations/00_emerald_vale/00_cv_thomas:269
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:269:DefaultText"
 msgid "I've got some questions weighing on me, but I won't trouble you with 'em. You've done more than enough."
-msgstr ""
+msgstr "Mám několik otázek, ale nebudu vás s nimi obtěžovat. Udělal jsi toho víc než dost."
 
 #: conversations/00_emerald_vale/00_cv_thomas:270
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:270:DefaultText"
 msgid "Just give us some time to gather our personals and say our goodbyes. If you run into Reed, you tell him we're coming back, yeah?"
-msgstr ""
+msgstr "Jen nám dejte trochu času, abychom si shromáždili osobní věci a rozloučili se. Jestli narazíš na Reeda, řekni mu, že se vrátíme, jo?"
 
 #: conversations/00_emerald_vale/00_cv_thomas:271
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:271:DefaultText"
 msgid "Take care."
-msgstr ""
+msgstr "Dávejte na sebe pozor."
 
 #: conversations/00_emerald_vale/00_cv_thomas:272
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:272:DefaultText"
 msgid "You can't be serious. Adelaide just up and left? No explanations? No goodbyes?"
-msgstr ""
+msgstr "To snad nemyslíte vážně. Adelaide se prostě sebrala a odešla? Žádné vysvětlení? Žádné rozloučení?"
 
 #: conversations/00_emerald_vale/00_cv_thomas:273
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:273:DefaultText"
 msgid "I just don't understand it. I thought we were a family. But if she's cut and run, well, then I guess there's no reason to stick around here."
-msgstr ""
+msgstr "Prostě tomu nerozumím. Myslel jsem, že jsme rodina. Ale jestli se rozhodla utéct, tak asi není důvod, proč tu zůstávat."
 
 #: conversations/00_emerald_vale/00_cv_thomas:274
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:274:DefaultText"
 msgid "Adelaide hates Edgewater. Hates everything Edgewater stands for. Hates what that town does to people - what it did to her."
-msgstr ""
+msgstr "Adelaide Edgewater nenávidí. Nenávidí vše, co Edgewater představuje. Nenávidí to, co to město dělá lidem - to, co udělalo jí."
 
 #: conversations/00_emerald_vale/00_cv_thomas:275
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:275:DefaultText"
 msgid "We're the nearest she's got to kin. We go back to Edgewater, we may as well have stuck a knife in her heart."
-msgstr ""
+msgstr "Jsme nejbližší příbuzní, které má. Když se vrátíme do Edgewateru, můžeme jí rovnou vrazit nůž do srdce."
 
 #: conversations/00_emerald_vale/00_cv_thomas:276
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:276:DefaultText"
 msgid "Adelaide said that? Was she sober at the time? I never imagined she'd step foot in Edgewater long as Reed ran the town."
-msgstr ""
+msgstr "To řekla Adelaide? Byla tehdy střízlivá? Nikdy by mě nenapadlo, že by do Edgewateru vkročila, dokud by město řídil Reed."
 
 #: conversations/00_emerald_vale/00_cv_thomas:283
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:283:DefaultText"
 msgid "Something must have changed in Edgewater. Adelaide's good as family. If she's going back, so are we."
-msgstr ""
+msgstr "V Edgewateru se muselo něco změnit. Adelaide je dobrá jako rodina. Jestli se vrací ona, tak my taky."
 
 #: conversations/00_emerald_vale/00_cv_thomas:284
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:284:DefaultText"
 msgid "There's one in the old community center. Should find one back in town, too. Parvati's dad had a copy. He used to take it with him when he worked at the cannery, before he passed."
-msgstr ""
+msgstr "Jeden je ve starém komunitním centru. Měli bychom ho najít i ve městě. Parvatiin táta měl kopii. Nosil ji s sebou, když pracoval v konzervárně, než zemřel."
 
 #: conversations/00_emerald_vale/00_cv_thomas:285
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:285:DefaultText"
 msgid "Why are you telling me this?"
-msgstr ""
+msgstr "Proč mi to říkáte?"
 
 #: conversations/00_emerald_vale/00_cv_thomas:286
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:286:DefaultText"
 msgid "Well, because - because I needed to tell somebody. You ain't one of us and you ain't from Edgewater. So maybe you won't judge me as harshly."
-msgstr ""
+msgstr "No, protože - protože jsem to potřeboval někomu říct. Nejsi jeden z nás a nejsi z Edgewateru. Takže mě možná nebudeš soudit tak přísně."
 
 #: conversations/00_emerald_vale/00_cv_thomas:287
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:287:DefaultText"
 msgid "Stay put. I'll go talk to Adelaide."
-msgstr ""
+msgstr "Zůstaňte na místě. Půjdu si promluvit s Adelaide."
 
 #: conversations/00_emerald_vale/00_cv_thomas:288
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:288:DefaultText"
 msgid "Are you sure about this? If we head back to Edgewater on our own, Adelaide won't come with us. She'll stay here and curse us 'til the end of her days."
-msgstr ""
+msgstr "Jste si tím jistý? Pokud se do Edgewateru vrátíme sami, Adelaide s námi nepůjde. Zůstane tady a bude nás proklínat až do konce svých dnů."
 
 #: conversations/00_emerald_vale/00_cv_thomas:289
 msgctxt "conversations/00_emerald_vale/00_cv_thomas:289:DefaultText"
 msgid "I'm sure. You're better off in Edgewater. Let Adelaide stay here."
-msgstr ""
+msgstr "Jsem si jistý. V Edgewateru je ti líp. Ať Adelaide zůstane tady."

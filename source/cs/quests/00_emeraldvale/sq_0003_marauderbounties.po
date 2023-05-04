@@ -1,84 +1,84 @@
 #: quests/00_emeraldvale/sq_0003_marauderbounties:0
 msgctxt "quests/00_emeraldvale/sq_0003_marauderbounties:0:DefaultText"
 msgid "Fistful of Digits"
-msgstr ""
+msgstr "Hrst číslic"
 
 #: quests/00_emeraldvale/sq_0003_marauderbounties:1
 msgctxt "quests/00_emeraldvale/sq_0003_marauderbounties:1:DefaultText"
 msgid "Collect Guillaume Antrim's Finger"
-msgstr ""
+msgstr "Sbírat Guillaume Antrim's Finger"
 
 #: quests/00_emeraldvale/sq_0003_marauderbounties:2
 msgctxt "quests/00_emeraldvale/sq_0003_marauderbounties:2:DefaultText"
 msgid "Collect Doc Maybell's Finger"
-msgstr ""
+msgstr "Sbírejte prst doktora Maybella"
 
 #: quests/00_emeraldvale/sq_0003_marauderbounties:3
 msgctxt "quests/00_emeraldvale/sq_0003_marauderbounties:3:DefaultText"
 msgid "Collect Bertie Cotton's Finger"
-msgstr ""
+msgstr "Sbírat prst Bertieho Cottona"
 
 #: quests/00_emeraldvale/sq_0003_marauderbounties:10
 msgctxt "quests/00_emeraldvale/sq_0003_marauderbounties:10:DefaultText"
 msgid "Turn in Guillaume Antrim's Finger"
-msgstr ""
+msgstr "Obrácení prstu Guillaume Antrim"
 
 #: quests/00_emeraldvale/sq_0003_marauderbounties:11
 msgctxt "quests/00_emeraldvale/sq_0003_marauderbounties:11:DefaultText"
 msgid "Turn in Doc Maybell's Finger"
-msgstr ""
+msgstr "Odevzdání prstu doktora Maybella"
 
 #: quests/00_emeraldvale/sq_0003_marauderbounties:12
 msgctxt "quests/00_emeraldvale/sq_0003_marauderbounties:12:DefaultText"
 msgid "Turn in Bertie Cotton's Finger"
-msgstr ""
+msgstr "Obrácení prstu Bertieho Cottona"
 
 #: quests/00_emeraldvale/sq_0003_marauderbounties:10000
 msgctxt "quests/00_emeraldvale/sq_0003_marauderbounties:10000:DefaultText"
 msgid "Constable Reyes of Edgewater has placed a bounty on dangerous marauders plaguing the region."
-msgstr ""
+msgstr "Konstábl Reyes z Edgewateru vypsal odměnu na nebezpečné nájezdníky, kteří sužují region."
 
 #: quests/00_emeraldvale/sq_0003_marauderbounties:10001
 msgctxt "quests/00_emeraldvale/sq_0003_marauderbounties:10001:DefaultText"
 msgid "Guillaume Antrim is a dangerous marauder. Kill him and bring back a finger as proof."
-msgstr ""
+msgstr "Guillaume Antrim je nebezpečný nájezdník. Zabij ho a přines prst jako důkaz."
 
 #: quests/00_emeraldvale/sq_0003_marauderbounties:10002
 msgctxt "quests/00_emeraldvale/sq_0003_marauderbounties:10002:DefaultText"
 msgid "Doc Maybell is wanted for murder and crimes against the region. Kill her and bring back a finger as proof."
-msgstr ""
+msgstr "Doktor Maybell je hledán pro vraždu a zločiny proti regionu. Zabijte ji a jako důkaz přineste prst."
 
 #: quests/00_emeraldvale/sq_0003_marauderbounties:10003
 msgctxt "quests/00_emeraldvale/sq_0003_marauderbounties:10003:DefaultText"
 msgid "Bertie Cotton is an ex-vicar turned vicious marauder. Kill him and bring back a finger as proof."
-msgstr ""
+msgstr "Bertie Cotton je bývalý vikář, který se stal krutým nájezdníkem. Zabijte ho a přineste prst jako důkaz."
 
 #: quests/00_emeraldvale/sq_0003_marauderbounties:10010
 msgctxt "quests/00_emeraldvale/sq_0003_marauderbounties:10010:DefaultText"
 msgid "Now that you've collected Guillaume's finger, you can turn it in to Constable Reyes in Edgewater to collect the bounty."
-msgstr ""
+msgstr "Nyní, když jsi sebral Guillaumův prst, můžeš ho odevzdat konstáblu Reyesovi v Edgewateru a získat odměnu."
 
 #: quests/00_emeraldvale/sq_0003_marauderbounties:10011
 msgctxt "quests/00_emeraldvale/sq_0003_marauderbounties:10011:DefaultText"
 msgid "Now that you've collected Doc Maybell's finger, you can turn it in to Constable Reyes in Edgewater to collect the bounty."
-msgstr ""
+msgstr "Teď, když jsi sebral prst doktora Maybella, můžeš ho odevzdat strážníkovi Reyesovi v Edgewateru a získat odměnu."
 
 #: quests/00_emeraldvale/sq_0003_marauderbounties:10012
 msgctxt "quests/00_emeraldvale/sq_0003_marauderbounties:10012:DefaultText"
 msgid "Now that you've collected Bertie Cotton's finger, you can turn it in to Constable Reyes in Edgewater to collect the bounty."
-msgstr ""
+msgstr "Teď, když jste sebrali prst Bertieho Cottona, můžete ho odevzdat konstáblu Reyesovi v Edgewateru a získat odměnu."
 
 #: quests/00_emeraldvale/sq_0003_marauderbounties:30000
 msgctxt "quests/00_emeraldvale/sq_0003_marauderbounties:30000:DefaultText"
 msgid "You killed all three marauders and collected the bounties on them."
-msgstr ""
+msgstr "Zabili jste všechny tři nájezdníky a vybrali za ně odměny."
 
 #: quests/00_emeraldvale/sq_0003_marauderbounties:30001
 msgctxt "quests/00_emeraldvale/sq_0003_marauderbounties:30001:DefaultText"
 msgid "You killed Constable Reyes. Maybe she looked at you the wrong way. Maybe you got really confused and thought you had to kill her for the reward. In any event, you won't be collecting the bounties from her any time soon."
-msgstr ""
+msgstr "Zabil jste konstábla Reyese. Možná se na vás špatně podívala. Možná jsi byl opravdu zmatený a myslel sis, že ji musíš zabít kvůli odměně. Každopádně odměnu od ní v nejbližší době nevyzvedneš."
 
 #: quests/00_emeraldvale/sq_0003_marauderbounties:30002
 msgctxt "quests/00_emeraldvale/sq_0003_marauderbounties:30002:DefaultText"
 msgid "All of Edgewater wants you dead, so aiding or visiting their heavily-armed constable is no longer the most productive use of your time."
-msgstr ""
+msgstr "Celý Edgewater si přeje vaši smrt, takže pomáhat nebo navštěvovat jejich těžce ozbrojeného strážníka už není nejproduktivnější využití vašeho času."

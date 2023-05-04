@@ -4,17 +4,17 @@ msgid "Groundbreaker Public Access Terminal\r\n"
 "============================\r\n"
 "\r\n"
 "Main menu"
-msgstr ""
+msgstr "Veřejný přístupový terminál Groundbreaker ============================ Hlavní nabídka"
 
 #: conversations/01_groundbreaker/01_cp_promenade_public_terminal:2
 msgctxt "conversations/01_groundbreaker/01_cp_promenade_public_terminal:2:DefaultText"
 msgid "[Access User CALLAHAN, M.]"
-msgstr ""
+msgstr "[Přístup uživatel CALLAHAN, M.]"
 
 #: conversations/01_groundbreaker/01_cp_promenade_public_terminal:3
 msgctxt "conversations/01_groundbreaker/01_cp_promenade_public_terminal:3:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"
 
 #: conversations/01_groundbreaker/01_cp_promenade_public_terminal:4
 msgctxt "conversations/01_groundbreaker/01_cp_promenade_public_terminal:4:DefaultText"
@@ -24,22 +24,22 @@ msgid "Groundbreaker Public Access Terminal\r\n"
 "Welcome, M. Callahan.\r\n"
 "\r\n"
 "Displaying recent messages."
-msgstr ""
+msgstr "Groundbreaker Public Access Terminal ============================ Vítejte, M. Callahan. Zobrazení posledních zpráv."
 
 #: conversations/01_groundbreaker/01_cp_promenade_public_terminal:5
 msgctxt "conversations/01_groundbreaker/01_cp_promenade_public_terminal:5:DefaultText"
 msgid "[FROM: SC_Manager541, SUBJECT: The hat]"
-msgstr ""
+msgstr "[FROM: SC_Manager541, SUBJECT: Klobouk]"
 
 #: conversations/01_groundbreaker/01_cp_promenade_public_terminal:6
 msgctxt "conversations/01_groundbreaker/01_cp_promenade_public_terminal:6:DefaultText"
 msgid "[TO: MAMA_C, SUBJECT: Hi mom]"
-msgstr ""
+msgstr "[TO: MAMA_C, SUBJECT: Ahoj mami]"
 
 #: conversations/01_groundbreaker/01_cp_promenade_public_terminal:8
 msgctxt "conversations/01_groundbreaker/01_cp_promenade_public_terminal:8:DefaultText"
 msgid "[Return to Root]"
-msgstr ""
+msgstr "[Zpět na kořen]"
 
 #: conversations/01_groundbreaker/01_cp_promenade_public_terminal:9
 msgctxt "conversations/01_groundbreaker/01_cp_promenade_public_terminal:9:DefaultText"
@@ -61,7 +61,7 @@ msgid "Groundbreaker Public Access Terminal\r\n"
 "Is this my life now? Because if it is, I'll take it - I'll be your moon man - but there won't be anything left of me to care. \r\n"
 "\r\n"
 "-Martin"
-msgstr ""
+msgstr "Veřejný přístupový terminál Groundbreaker ============================ OD: SC_Manager541 TO: PŘEDMĚT: Callahan, M: Re: Re: Klobouk Při podpisu pracovní smlouvy jste provedl volbu Spacera. FROM: Callahan, M. TO: SC_Manager541 PŘEDMĚT: Calhan Calhan, M.: M: Klobouk Pořád ti říkám, že ti ten klobouk nesedí. Něco s ním není v pořádku. Kolik lidí ji nosilo přede mnou? To je teď můj život? Protože jestli ano, vezmu to - budu tvůj měsíční muž - ale nezbude ze mě nic, na čem by mi záleželo. -Martin"
 
 #: conversations/01_groundbreaker/01_cp_promenade_public_terminal:10
 msgctxt "conversations/01_groundbreaker/01_cp_promenade_public_terminal:10:DefaultText"
@@ -93,12 +93,12 @@ msgid "Groundbreaker Public Access Terminal\r\n"
 "Enjoy the quality Spacer's Choice goods I sent. You can get ones just like them at home, but I figured you might appreciate me getting the company discount and all. \r\n"
 "\r\n"
 "-Martin"
-msgstr ""
+msgstr "Veřejný přístupový terminál Groundbreaker ============================ OD: MAMA_C TO: PŘEDMĚT: Callahan, M: Re: M: Ahoj mami Jsi v pořádku, miláčku? ~Maminka OD: Callahan: Maminka: Callahan, M. TO: MAMA_C PŘEDMĚT: Ahoj mami Doufám, že se ti daří dobře, mami. Myslela jsem, že se ozvu. inženýři často navštěvují obchod. Vzpomínám si, jak jsem doma točila klíčem na Terře 2. Lilya Hagenová v SubLightu mi řekla, že kdyby to nevyšlo, vždycky se můžu věnovat záchranářství. Prosím, obejmi ode mě tátu a ostatní. Mami, je vážně skvělé, že můžeme být takhle v kontaktu. Malé připomínky domova jsou důležitější než kdy jindy. Užij si kvalitní zboží Spacer's Choice, které jsem ti poslal. Takové, jako je tohle, si můžeš pořídit i doma, ale napadlo mě, že bys mohla ocenit, že jsem dostal firemní slevu a tak.\" -Martin"
 
 #: conversations/01_groundbreaker/01_cp_promenade_public_terminal:18
 msgctxt "conversations/01_groundbreaker/01_cp_promenade_public_terminal:18:DefaultText"
 msgid "[Public Notices]"
-msgstr ""
+msgstr "[Veřejná oznámení]"
 
 #: conversations/01_groundbreaker/01_cp_promenade_public_terminal:19
 msgctxt "conversations/01_groundbreaker/01_cp_promenade_public_terminal:19:DefaultText"
@@ -106,12 +106,12 @@ msgid "Groundbreaker Public Access Terminal\r\n"
 "============================\r\n"
 "\r\n"
 "Displaying public notices"
-msgstr ""
+msgstr "Veřejně přístupný terminál Groundbreaker ============================ Zobrazování veřejných oznámení"
 
 #: conversations/01_groundbreaker/01_cp_promenade_public_terminal:20
 msgctxt "conversations/01_groundbreaker/01_cp_promenade_public_terminal:20:DefaultText"
 msgid "[Recent Users]"
-msgstr ""
+msgstr "[Poslední uživatelé]"
 
 #: conversations/01_groundbreaker/01_cp_promenade_public_terminal:21
 msgctxt "conversations/01_groundbreaker/01_cp_promenade_public_terminal:21:DefaultText"
@@ -123,12 +123,12 @@ msgid "Groundbreaker Public Access Terminal\r\n"
 "CALLAHAN, M. - signed in\r\n"
 "EVERSON, B. - logged out\r\n"
 "OYAMA, T. - logged out"
-msgstr ""
+msgstr "Groundbreaker Public Access Terminal ============================ Načítání posledních uživatelů... CALLAHAN, M. - přihlášen EVERSON, B. - odhlášen OYAMA, T. - odhlášen"
 
 #: conversations/01_groundbreaker/01_cp_promenade_public_terminal:22
 msgctxt "conversations/01_groundbreaker/01_cp_promenade_public_terminal:22:DefaultText"
 msgid "[The Heat]"
-msgstr ""
+msgstr "[The Heat]"
 
 #: conversations/01_groundbreaker/01_cp_promenade_public_terminal:23
 msgctxt "conversations/01_groundbreaker/01_cp_promenade_public_terminal:23:DefaultText"
@@ -142,12 +142,12 @@ msgid "Groundbreaker Public Access Terminal\r\n"
 "In the meantime, enjoy some additional water rations. And take breaks - you deserve them. If you're thirsting for cooler air, talk to your closest engineer about spots with favorable circulation.\r\n"
 "\r\n"
 "J.T."
-msgstr ""
+msgstr "Veřejný přístupový terminál Groundbreaker ============================ Vím, že je to špatné. Jako ten, jehož kancelář je nejblíže našim radiátorům, si dokážete představit, proč se chci každý den třikrát sprchovat. Rozumím vám, máme ten problém na očích. A ruce. A nářadí. Je to mechanický problém s mechanickým řešením. Mezitím si užijte další příděly vody. A dělejte si přestávky - zasloužíte si je. Pokud toužíte po chladnějším vzduchu, poraďte se s nejbližším technikem o místech s příznivou cirkulací. J.T."
 
 #: conversations/01_groundbreaker/01_cp_promenade_public_terminal:24
 msgctxt "conversations/01_groundbreaker/01_cp_promenade_public_terminal:24:DefaultText"
 msgid "[Feel That?]"
-msgstr ""
+msgstr "[Cítíte to?]"
 
 #: conversations/01_groundbreaker/01_cp_promenade_public_terminal:25
 msgctxt "conversations/01_groundbreaker/01_cp_promenade_public_terminal:25:DefaultText"
@@ -161,12 +161,12 @@ msgid "Groundbreaker Public Access Terminal\r\n"
 "Groundbreaker thanks you, outsider.\r\n"
 "\r\n"
 "J.T."
-msgstr ""
+msgstr "Veřejný přístupový terminál Groundbreaker ============================ Přesně tak. Opravili jsme radiátory. Groundbreaker odvětrává teplo tak, jak má. Budiž nám připsáno k dobru, že bychom to nedokázali bez cizího člověka, který na sebe vzal velké osobní riziko a náklady pro naše dobro. Pokud uvidíte novou tvář, která se potuluje po Promenádě a vypadá ztraceně, je pravděpodobné, že si zaslouží objetí za to, že nám pomohla překonat tuto krizi. Groundbreaker ti děkuje, outsidere. J.T."
 
 #: conversations/01_groundbreaker/01_cp_promenade_public_terminal:26
 msgctxt "conversations/01_groundbreaker/01_cp_promenade_public_terminal:26:DefaultText"
 msgid "[Seeking Contractor: SubLight Salvage]"
-msgstr ""
+msgstr "[Hledá dodavatele: SubLight Salvage]"
 
 #: conversations/01_groundbreaker/01_cp_promenade_public_terminal:27
 msgctxt "conversations/01_groundbreaker/01_cp_promenade_public_terminal:27:DefaultText"
@@ -177,12 +177,12 @@ msgid "Seeking ethically-flexible spacer with Stellar Bay landing clearance. \r\
 "Active warrants? Prior convictions? No questions asked. Our background checks filter out criminal red flags. Plausible deniability is the SubLight way. \r\n"
 "\r\n"
 "See Lilya Hagen for details. Warehouse next to the Spratwurst joint, second floor. "
-msgstr ""
+msgstr "Hledá eticky flexibilní mezipřistání s povolením k přistání ve Hvězdné zátoce. Platba výměnou za vrácení legální záchrany. Podrobnosti budou uvedeny po přijetí smlouvy. Aktivní záruky? Předchozí odsouzení? Žádné otázky. Naše prověrky odfiltrují trestné činy. Věrohodné popírání je způsob SubLight. Pro podrobnosti se obraťte na Lilyu Hagenovou. Skladiště vedle restaurace Spratwurst, druhé patro. "
 
 #: conversations/01_groundbreaker/01_cp_promenade_public_terminal:28
 msgctxt "conversations/01_groundbreaker/01_cp_promenade_public_terminal:28:DefaultText"
 msgid "[Loitering on Board Property is Strictly Prohibited]"
-msgstr ""
+msgstr "[Poflakování na pozemku správní rady je přísně zakázáno]"
 
 #: conversations/01_groundbreaker/01_cp_promenade_public_terminal:29
 msgctxt "conversations/01_groundbreaker/01_cp_promenade_public_terminal:29:DefaultText"
@@ -200,4 +200,4 @@ msgid "DO NOT DELETE\r\n"
 "p.s. Please note that the next spacer caught drinking on the stairs outside the embassy may find themselves on the rude side of an airlock.\r\n"
 "\r\n"
 "p.p.s. This is the third time I've had to post this message, and I'm sick and tired of it. I will not hesitate to open a Board-sanctioned investigation into your behavior and, when you are caught, punish you accordingly, FELIX MILLSTONE."
-msgstr ""
+msgstr "NESMÍM VYMAZAT Kancelář společnosti Halcyon Holdings a její okolí slouží *pouze* k provádění oficiálních záležitostí představenstva.* Kdokoli, kdo bude přistižen při zneužití majetku představenstva, bude odpovídajícím způsobem pokutován. Majetek představenstva zahrnuje - mimo jiné - kancelář společnosti Halcyon Holding zde na serveru Groundbreaker, prostor přímo před mým stolem, prostor přímo za mým stolem, mé dveře, mé lůžko a především mé schody.Děkuji vám za spolupráci. ~Udom Bedford, certifikovaný styčný důstojník p.s. Upozorňuji, že příští spacer přistižený při popíjení na schodech před velvyslanectvím se může ocitnout na hrubé straně přechodové komory. p.p.s. Tohle je už potřetí, co musím zveřejnit tuto zprávu, a už mě to nebaví. Nebudu váhat zahájit Radou posvěcené vyšetřování tvého chování, a až tě chytí, náležitě tě potrestám, FELIXI MILLSTONE."

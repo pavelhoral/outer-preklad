@@ -1,84 +1,84 @@
 #: quests/04_monarch/fq_0401_iconoclastfactionquest_1:0
 msgctxt "quests/04_monarch/fq_0401_iconoclastfactionquest_1:0:DefaultText"
 msgid "The Commuter"
-msgstr ""
+msgstr "Dojíždění"
 
 #: quests/04_monarch/fq_0401_iconoclastfactionquest_1:1
 msgctxt "quests/04_monarch/fq_0401_iconoclastfactionquest_1:1:DefaultText"
 msgid "Get the Printing Press Rollers from Carlotta"
-msgstr ""
+msgstr "Pořiďte si tiskové válce od společnosti Carlotta"
 
 #: quests/04_monarch/fq_0401_iconoclastfactionquest_1:6
 msgctxt "quests/04_monarch/fq_0401_iconoclastfactionquest_1:6:DefaultText"
 msgid "Return to Graham"
-msgstr ""
+msgstr "Zpět na Graham"
 
 #: quests/04_monarch/fq_0401_iconoclastfactionquest_1:12
 msgctxt "quests/04_monarch/fq_0401_iconoclastfactionquest_1:12:DefaultText"
 msgid "(Optional) Get High-Capacity Cartridges or Extra Supplies from Carlotta"
-msgstr ""
+msgstr "(Volitelně) Získejte vysokokapacitní kazety nebo další zásoby od společnosti Carlotta"
 
 #: quests/04_monarch/fq_0401_iconoclastfactionquest_1:10000
 msgctxt "quests/04_monarch/fq_0401_iconoclastfactionquest_1:10000:DefaultText"
 msgid "The Iconoclasts are due to receive a shipment of vital supplies from Carlotta, a sympathizer that resides in Stellar Bay. The meeting is set to occur at the Bayside Terrace warehouse."
-msgstr ""
+msgstr "Ikonoklasté mají obdržet zásilku životně důležitých zásob od Carlotty, sympatizantky, která sídlí ve Hvězdné zátoce. Schůzka se má uskutečnit ve skladišti na Bayside Terrace."
 
 #: quests/04_monarch/fq_0401_iconoclastfactionquest_1:10001
 msgctxt "quests/04_monarch/fq_0401_iconoclastfactionquest_1:10001:DefaultText"
 msgid "Travel to the warehouse at Bayside Terrace and find Graham's contact, Carlotta. She should have a shipment for him. Retrieve it."
-msgstr ""
+msgstr "Vydejte se do skladiště na Bayside Terrace a najděte Grahamův kontakt, Carlottu. Měla by pro něj mít zásilku. Vyzvedněte ji."
 
 #: quests/04_monarch/fq_0401_iconoclastfactionquest_1:10006
 msgctxt "quests/04_monarch/fq_0401_iconoclastfactionquest_1:10006:DefaultText"
 msgid "Bring the needed parts back to Graham at Amber Heights."
-msgstr ""
+msgstr "Potřebné díly přivezte zpět Grahamovi do Amber Heights."
 
 #: quests/04_monarch/fq_0401_iconoclastfactionquest_1:10012
 msgctxt "quests/04_monarch/fq_0401_iconoclastfactionquest_1:10012:DefaultText"
 msgid "Graham wants to tack on some high-capacity cartridges to his order, but Zora would prefer if they could get extra food and medical supplies."
-msgstr ""
+msgstr "Graham chce ke své objednávce přidat několik velkokapacitních nábojů, ale Zora by byla raději, kdyby mohli dostat další potraviny a zdravotnické potřeby."
 
 #: quests/04_monarch/fq_0401_iconoclastfactionquest_1:20000
 msgctxt "quests/04_monarch/fq_0401_iconoclastfactionquest_1:20000:DefaultText"
 msgid "Speak to Carlotta."
-msgstr ""
+msgstr "Promluvte si s Carlottou."
 
 #: quests/04_monarch/fq_0401_iconoclastfactionquest_1:20002
 msgctxt "quests/04_monarch/fq_0401_iconoclastfactionquest_1:20002:DefaultText"
 msgid "With Carlotta dead, there is no way to get any extra goods other than the ones she has on her."
-msgstr ""
+msgstr "Když je Carlotta mrtvá, není možné získat jiné zboží než to, které má u sebe."
 
 #: quests/04_monarch/fq_0401_iconoclastfactionquest_1:20003
 msgctxt "quests/04_monarch/fq_0401_iconoclastfactionquest_1:20003:DefaultText"
 msgid "You got extra supplies for Zora."
-msgstr ""
+msgstr "Máš další zásoby pro Zoru."
 
 #: quests/04_monarch/fq_0401_iconoclastfactionquest_1:20004
 msgctxt "quests/04_monarch/fq_0401_iconoclastfactionquest_1:20004:DefaultText"
 msgid "You got extra cartridges for Graham."
-msgstr ""
+msgstr "Máš náhradní náboje pro Grahama."
 
 #: quests/04_monarch/fq_0401_iconoclastfactionquest_1:30000
 msgctxt "quests/04_monarch/fq_0401_iconoclastfactionquest_1:30000:DefaultText"
 msgid "You returned the printing press parts to Graham and got his data cartridges."
-msgstr ""
+msgstr "Vrátil jsi Grahamovi díly tiskařského stroje a získal jsi jeho datové kazety."
 
 #: quests/04_monarch/fq_0401_iconoclastfactionquest_1:30001
 msgctxt "quests/04_monarch/fq_0401_iconoclastfactionquest_1:30001:DefaultText"
 msgid "Graham is dead. He won't need his printing press parts where he's going."
-msgstr ""
+msgstr "Graham je mrtvý. Tam, kam se chystá, nebude potřebovat části svého tiskařského lisu."
 
 #: quests/04_monarch/fq_0401_iconoclastfactionquest_1:30002
 msgctxt "quests/04_monarch/fq_0401_iconoclastfactionquest_1:30002:DefaultText"
 msgid "You returned the printing press parts to Graham and got extra supplies for Zora."
-msgstr ""
+msgstr "Vrátil jsi Grahamovi součástky tiskařského lisu a získal další zásoby pro Zoru."
 
 #: quests/04_monarch/fq_0401_iconoclastfactionquest_1:30003
 msgctxt "quests/04_monarch/fq_0401_iconoclastfactionquest_1:30003:DefaultText"
 msgid "You returned the printing press parts to Graham."
-msgstr ""
+msgstr "Vrátil jsi Grahamovi části tiskařského lisu."
 
 #: quests/04_monarch/fq_0401_iconoclastfactionquest_1:30004
 msgctxt "quests/04_monarch/fq_0401_iconoclastfactionquest_1:30004:DefaultText"
 msgid "Zora has been killed. This task can never be completed."
-msgstr ""
+msgstr "Zora byla zabita. Tento úkol nelze nikdy splnit."

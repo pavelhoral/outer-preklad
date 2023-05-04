@@ -5,22 +5,22 @@ msgid "Universal Defense Logistics\r\n"
 "This terminal is only to be used by UDL personnel with S-564 clearance. If you are reading this without S-564 clearance, please report to your supervisor for immediate termination and disciplinary action, including but not limited to: fines in excess of 100,000 bits, detention in a UDL-authorized incarceration center for up to 349 months and a personal letter from Chairman Rockwell* expressing his extreme disappointment.\r\n"
 "\r\n"
 "* - Letter not actually written by Chairman Rockwell. However, it is an approximation of his tone and vocabulary with a 99.8% degree of accuracy, so you should still feel very ashamed."
-msgstr ""
+msgstr "Univerzální obranná logistika =========================== Tento terminál smí používat pouze personál UDL s oprávněním S-564. Pokud toto čtete bez prověrky S-564, hlaste se prosím u svého nadřízeného, kde bude okamžitě ukončen pracovní poměr a bude proti vám zahájeno disciplinární řízení, zahrnující mimo jiné: pokuty přesahující 100 000 bitů, zadržení ve vězeňském středisku autorizovaném společností UDL až na 349 měsíců a osobní dopis od předsedy Rockwella* vyjadřující jeho krajní zklamání. * - Dopis ve skutečnosti nenapsal předseda Rockwell. Jedná se však o přibližnou podobu jeho tónu a slovníku s 99,8% přesností, takže byste se i tak měli cítit velmi zahanbeni."
 
 #: conversations/04_monarch/0401/0401_cp_weapon_udl_lab:2
 msgctxt "conversations/04_monarch/0401/0401_cp_weapon_udl_lab:2:DefaultText"
 msgid "[Research Data]"
-msgstr ""
+msgstr "[Výzkumná data]"
 
 #: conversations/04_monarch/0401/0401_cp_weapon_udl_lab:3
 msgctxt "conversations/04_monarch/0401/0401_cp_weapon_udl_lab:3:DefaultText"
 msgid "[Unlock Gloop Gun Containment Unit]"
-msgstr ""
+msgstr "[Odemknout záchytnou jednotku pro zbraně Gloop]"
 
 #: conversations/04_monarch/0401/0401_cp_weapon_udl_lab:4
 msgctxt "conversations/04_monarch/0401/0401_cp_weapon_udl_lab:4:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"
 
 #: conversations/04_monarch/0401/0401_cp_weapon_udl_lab:5
 msgctxt "conversations/04_monarch/0401/0401_cp_weapon_udl_lab:5:DefaultText"
@@ -31,7 +31,7 @@ msgid "Mandatory Security Check\r\n"
 "Question 1: You are attending a company meeting at HHC headquarters in Byzantium, and vile dissidents attack the building. \r\n"
 "\r\n"
 "What is your priority?"
-msgstr ""
+msgstr "Povinná bezpečnostní kontrola =========================== Chcete-li potvrdit, že jste autorizovaným bezpečnostním specialistou společnosti Universal Defense Logistics, odpovězte na následující otázky. Otázka 1: Účastníte se firemního setkání v sídle HHC v Byzanci a na budovu zaútočí podlí disidenti. Jaká je vaše priorita?"
 
 #: conversations/04_monarch/0401/0401_cp_weapon_udl_lab:6
 msgctxt "conversations/04_monarch/0401/0401_cp_weapon_udl_lab:6:DefaultText"
@@ -42,41 +42,41 @@ msgid "Project Name: NOTATOY\r\n"
 "After successful trials, management has decided to put Project NOTATOY on hold. UDL will instead pursue projects with a wider area of effect for more practical large-scale crowd control.\r\n"
 "\r\n"
 "NOTE: Before anyone asks, this does NOT mean I'm unlocking the gun. It's still off-limits. - NS"
-msgstr ""
+msgstr "Název projektu: Stav: NOTATOY Autorizace: S-564 CLEARANCE ======================== Po úspěšných zkouškách se vedení rozhodlo projekt NOTATOY pozastavit. UDL se místo toho bude věnovat projektům s širší oblastí účinku pro praktičtější kontrolu davu ve velkém měřítku. POZNÁMKA: Než se někdo zeptá, neznamená to, že odemykám zbraň. Stále je to zakázané. - NS"
 
 #: conversations/04_monarch/0401/0401_cp_weapon_udl_lab:7
 msgctxt "conversations/04_monarch/0401/0401_cp_weapon_udl_lab:7:DefaultText"
 msgid "[Research Log 14]"
-msgstr ""
+msgstr "[Výzkumný deník 14]"
 
 #: conversations/04_monarch/0401/0401_cp_weapon_udl_lab:8
 msgctxt "conversations/04_monarch/0401/0401_cp_weapon_udl_lab:8:DefaultText"
 msgid "[Research Log 57]"
-msgstr ""
+msgstr "[Výzkumný deník 57]"
 
 #: conversations/04_monarch/0401/0401_cp_weapon_udl_lab:9
 msgctxt "conversations/04_monarch/0401/0401_cp_weapon_udl_lab:9:DefaultText"
 msgid "[Return to Root]"
-msgstr ""
+msgstr "[Zpět na kořen]"
 
 #: conversations/04_monarch/0401/0401_cp_weapon_udl_lab:10
 msgctxt "conversations/04_monarch/0401/0401_cp_weapon_udl_lab:10:DefaultText"
 msgid "Early results are promising. We've managed increase the surface tension of the \"Gloop\" to create a controlled and predictable spread of the substance. Management wants a catchier name, though.\r\n"
 "\r\n"
 "Note: I told Powell we're not calling the project STICKYBITZ, but he refuses to refer to it as anything else. It doesn't even make sense - the Gloop particles are nearly frictionless."
-msgstr ""
+msgstr "První výsledky jsou slibné. Podařilo se nám zvýšit povrchové napětí \"Gloopu\" a vytvořit tak kontrolované a předvídatelné šíření látky. Vedení však chce chytlavější název. Poznámka: Powellovi jsem řekl, že projekt nebudeme nazývat STICKYBITZ, ale odmítá o něm mluvit jinak. Ani to nedává smysl - částice Gloopu jsou téměř bez tření."
 
 #: conversations/04_monarch/0401/0401_cp_weapon_udl_lab:11
 msgctxt "conversations/04_monarch/0401/0401_cp_weapon_udl_lab:11:DefaultText"
 msgid "Powell and Chastity have started to show interest in the project. Which should be good, but their \"trials\" seem to involve covering various hard-to-reach surfaces in Gloop and launching (expensive) equipment at them.\r\n"
 "\r\n"
 "I'm going to have a talk with them."
-msgstr ""
+msgstr "Powell a Chastity začali o projekt projevovat zájem. Což by mělo být dobré, ale jejich \"pokusy\" zřejmě spočívají v tom, že pokrývají různé těžko přístupné plochy Gloopem a vypouštějí na ně (drahé) zařízení. Chystám se s nimi promluvit."
 
 #: conversations/04_monarch/0401/0401_cp_weapon_udl_lab:12
 msgctxt "conversations/04_monarch/0401/0401_cp_weapon_udl_lab:12:DefaultText"
 msgid "[Research Log 143]"
-msgstr ""
+msgstr "[Výzkumný deník 143]"
 
 #: conversations/04_monarch/0401/0401_cp_weapon_udl_lab:13
 msgctxt "conversations/04_monarch/0401/0401_cp_weapon_udl_lab:13:DefaultText"
@@ -85,27 +85,27 @@ msgid "Chastity used the Gloop Gun in our office paintball game yesterday. She s
 "Do you know how hard it is to clean Gloop? Chastity doesn't, because every time I pull out the latex and solvent, she remembers she's got actual work to do.\r\n"
 "\r\n"
 "From now on, I'm locking the damn gun up."
-msgstr ""
+msgstr "Chastity včera použila Gloop Gun v naší kancelářské paintballové hře. Řekla, že to byla \"chyba\", ale už potřetí udělala stejnou \"chybu\" a podařilo se jí pokrýt dveřní panel tou věcí. Od té doby se ta zatracená věc hroutí. Víte, jak těžké je vyčistit Gloop? Chastity ne, protože pokaždé, když vytáhnu latex a rozpouštědlo, vzpomene si, že má skutečnou práci. Odteď tu zatracenou zbraň zamykám."
 
 #: conversations/04_monarch/0401/0401_cp_weapon_udl_lab:14
 msgctxt "conversations/04_monarch/0401/0401_cp_weapon_udl_lab:14:DefaultText"
 msgid "[Answer: Get to safety.]"
-msgstr ""
+msgstr "[Odpověď: Do bezpečí.]"
 
 #: conversations/04_monarch/0401/0401_cp_weapon_udl_lab:15
 msgctxt "conversations/04_monarch/0401/0401_cp_weapon_udl_lab:15:DefaultText"
 msgid "[Answer: Evacuate the employees.]"
-msgstr ""
+msgstr "[Odpověď: Evakuujte zaměstnance.]"
 
 #: conversations/04_monarch/0401/0401_cp_weapon_udl_lab:16
 msgctxt "conversations/04_monarch/0401/0401_cp_weapon_udl_lab:16:DefaultText"
 msgid "[Answer: Protect the Chairman.]"
-msgstr ""
+msgstr "[Odpověď: Chraňte předsedu.]"
 
 #: conversations/04_monarch/0401/0401_cp_weapon_udl_lab:17
 msgctxt "conversations/04_monarch/0401/0401_cp_weapon_udl_lab:17:DefaultText"
 msgid "Incorrect response. Returning to root..."
-msgstr ""
+msgstr "Nesprávná odpověď. Návrat do kořenového adresáře..."
 
 #: conversations/04_monarch/0401/0401_cp_weapon_udl_lab:18
 msgctxt "conversations/04_monarch/0401/0401_cp_weapon_udl_lab:18:DefaultText"
@@ -114,22 +114,22 @@ msgid "Mandatory Security Check\r\n"
 "Question 2: You are perusing one of our many UDL Personal Security Mega-Outlets - and enjoying our fine selection of employee compliance equipment - when you are approached by a stranger. He makes an offhanded comment that could be construed as an indirect insult to Chairman Rockwell. \r\n"
 "\r\n"
 "What do you do?"
-msgstr ""
+msgstr "Povinná bezpečnostní kontrola =========================== Otázka č. 2: Prohlížíte si jeden z našich mnoha megaprodejen UDL Personal Security - a užíváte si náš skvělý výběr vybavení pro dodržování předpisů zaměstnanci - když vás osloví cizí osoba. Pronese nevhodnou poznámku, která by mohla být chápána jako nepřímá urážka předsedy Rockwella. Co uděláte?"
 
 #: conversations/04_monarch/0401/0401_cp_weapon_udl_lab:19
 msgctxt "conversations/04_monarch/0401/0401_cp_weapon_udl_lab:19:DefaultText"
 msgid "[Answer: Smile and walk away.]"
-msgstr ""
+msgstr "[Odpověď: Usměj se a odejdi.]"
 
 #: conversations/04_monarch/0401/0401_cp_weapon_udl_lab:20
 msgctxt "conversations/04_monarch/0401/0401_cp_weapon_udl_lab:20:DefaultText"
 msgid "[Answer: Berate him relentlessly to defend the Chairman's honor.]"
-msgstr ""
+msgstr "[Odpověď: Neúnavně mu nadávejte, abyste bránili čest předsedy.]"
 
 #: conversations/04_monarch/0401/0401_cp_weapon_udl_lab:21
 msgctxt "conversations/04_monarch/0401/0401_cp_weapon_udl_lab:21:DefaultText"
 msgid "[Answer: Engage him further to assess his intent.]"
-msgstr ""
+msgstr "[Odpověď: Zapojte ho do dalšího jednání, abyste posoudili jeho záměr.]"
 
 #: conversations/04_monarch/0401/0401_cp_weapon_udl_lab:22
 msgctxt "conversations/04_monarch/0401/0401_cp_weapon_udl_lab:22:DefaultText"
@@ -138,22 +138,22 @@ msgid "Mandatory Security Check\r\n"
 "Question 3: You and your spouse have a healthy, loving relationship, but one day you discover that they have been reading unsanctioned stories to your children. \r\n"
 "\r\n"
 "What do you do?"
-msgstr ""
+msgstr "Povinná bezpečnostní kontrola =========================== Otázka 3: S manželem/manželkou máte zdravý, láskyplný vztah, ale jednoho dne zjistíte, že vašim dětem čte neschválené pohádky. Co uděláte?"
 
 #: conversations/04_monarch/0401/0401_cp_weapon_udl_lab:23
 msgctxt "conversations/04_monarch/0401/0401_cp_weapon_udl_lab:23:DefaultText"
 msgid "[Answer: Arrest your spouse and admit your children to a reeducation program.]"
-msgstr ""
+msgstr "[Odpověď: [Odpověď: Zatkněte svého manžela a přijměte své děti do převýchovného programu.]"
 
 #: conversations/04_monarch/0401/0401_cp_weapon_udl_lab:24
 msgctxt "conversations/04_monarch/0401/0401_cp_weapon_udl_lab:24:DefaultText"
 msgid "[Answer: Destroy the stories and forbid your children from mentioning them again.]"
-msgstr ""
+msgstr "[Odpověď: [Odpověď: Zničte ty příběhy a zakažte svým dětem, aby se o nich znovu zmiňovaly.]"
 
 #: conversations/04_monarch/0401/0401_cp_weapon_udl_lab:25
 msgctxt "conversations/04_monarch/0401/0401_cp_weapon_udl_lab:25:DefaultText"
 msgid "[Answer: Turn the stories in to the authorities and claim responsibility.]"
-msgstr ""
+msgstr "[Odpověď: udejte příběhy úřadům a přihlaste se k odpovědnosti.]"
 
 #: conversations/04_monarch/0401/0401_cp_weapon_udl_lab:26
 msgctxt "conversations/04_monarch/0401/0401_cp_weapon_udl_lab:26:DefaultText"
@@ -162,99 +162,99 @@ msgid "Use of prototype crowd suppression weapon GL-009 has been authorized.\r\n
 "REMINDER: Indoor use of this weapon will result in any cleaning fees being deducted from your paycheck.\r\n"
 "\r\n"
 "Have a pleasant day!"
-msgstr ""
+msgstr "Bylo povoleno použití prototypu zbraně pro potlačování davu GL-009. UPOZORNĚNÍ: Při použití této zbraně ve vnitřních prostorách vám budou z výplaty strženy případné poplatky za úklid. Hezký den!"
 
 #: conversations/04_monarch/0401/0401_cp_weapon_udl_lab:27
 msgctxt "conversations/04_monarch/0401/0401_cp_weapon_udl_lab:27:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"
 
 #: conversations/04_monarch/0401/0401_cp_weapon_udl_lab:28
 msgctxt "conversations/04_monarch/0401/0401_cp_weapon_udl_lab:28:DefaultText"
 msgid "[Back]"
-msgstr ""
+msgstr "[Zpět]"
 
 #: conversations/04_monarch/0401/0401_cp_weapon_udl_lab:29
 msgctxt "conversations/04_monarch/0401/0401_cp_weapon_udl_lab:29:DefaultText"
 msgid "[Research Log 58]"
-msgstr ""
+msgstr "[Výzkumný deník 58]"
 
 #: conversations/04_monarch/0401/0401_cp_weapon_udl_lab:30
 msgctxt "conversations/04_monarch/0401/0401_cp_weapon_udl_lab:30:DefaultText"
 msgid "Someone filled my underwear drawer with Gloop. I have theories."
-msgstr ""
+msgstr "Někdo mi naplnil šuplík se spodním prádlem Gloopem. Mám teorii."
 
 #: conversations/04_monarch/0401/0401_cp_weapon_udl_lab:31
 msgctxt "conversations/04_monarch/0401/0401_cp_weapon_udl_lab:31:DefaultText"
 msgid "[Override: Chairman Login]"
-msgstr ""
+msgstr "[Přepsání: Přihlášení předsedy]"
 
 #: conversations/04_monarch/0401/0401_cp_weapon_udl_lab:32
 msgctxt "conversations/04_monarch/0401/0401_cp_weapon_udl_lab:32:DefaultText"
 msgid "Processing...\r\n"
 "\r\n"
 "Please enter password."
-msgstr ""
+msgstr "Zpracování... Zadejte prosím heslo."
 
 #: conversations/04_monarch/0401/0401_cp_weapon_udl_lab:33
 msgctxt "conversations/04_monarch/0401/0401_cp_weapon_udl_lab:33:DefaultText"
 msgid "[Bypass]"
-msgstr ""
+msgstr "[Bypass]"
 
 #: conversations/04_monarch/0401/0401_cp_weapon_udl_lab:34
 msgctxt "conversations/04_monarch/0401/0401_cp_weapon_udl_lab:34:DefaultText"
 msgid "[1234]"
-msgstr ""
+msgstr "[1234]"
 
 #: conversations/04_monarch/0401/0401_cp_weapon_udl_lab:35
 msgctxt "conversations/04_monarch/0401/0401_cp_weapon_udl_lab:35:DefaultText"
 msgid "Welcome, Chairman Rockwell!\r\n"
 "\r\n"
 "Use of prototype crowd suppression weapon GL-009 has been authorized."
-msgstr ""
+msgstr "Vítejte, předsedo Rockwelle! Použití prototypu zbraně GL-009 bylo povoleno."
 
 #: conversations/04_monarch/0401/0401_cp_weapon_udl_lab:36
 msgctxt "conversations/04_monarch/0401/0401_cp_weapon_udl_lab:36:DefaultText"
 msgid "[Return to Root]"
-msgstr ""
+msgstr "[Zpět na kořen]"
 
 #: conversations/04_monarch/0401/0401_cp_weapon_udl_lab:37
 msgctxt "conversations/04_monarch/0401/0401_cp_weapon_udl_lab:37:DefaultText"
 msgid "[Continue]"
-msgstr ""
+msgstr "[Pokračovat]"
 
 #: conversations/04_monarch/0401/0401_cp_weapon_udl_lab:38
 msgctxt "conversations/04_monarch/0401/0401_cp_weapon_udl_lab:38:DefaultText"
 msgid "Correct response registered. \r\n"
 "\r\n"
 "Proceeding with security check..."
-msgstr ""
+msgstr "Správná odpověď zaregistrována. Pokračujeme v bezpečnostní kontrole..."
 
 #: conversations/04_monarch/0401/0401_cp_weapon_udl_lab:39
 msgctxt "conversations/04_monarch/0401/0401_cp_weapon_udl_lab:39:DefaultText"
 msgid "[Continue]"
-msgstr ""
+msgstr "[Pokračovat]"
 
 #: conversations/04_monarch/0401/0401_cp_weapon_udl_lab:40
 msgctxt "conversations/04_monarch/0401/0401_cp_weapon_udl_lab:40:DefaultText"
 msgid "Correct response registered. \r\n"
 "\r\n"
 "Proceeding with security check..."
-msgstr ""
+msgstr "Správná odpověď zaregistrována. Pokračujeme v bezpečnostní kontrole..."
 
 #: conversations/04_monarch/0401/0401_cp_weapon_udl_lab:41
 msgctxt "conversations/04_monarch/0401/0401_cp_weapon_udl_lab:41:DefaultText"
 msgid "[Continue]"
-msgstr ""
+msgstr "[Pokračovat]"
 
 #: conversations/04_monarch/0401/0401_cp_weapon_udl_lab:42
 msgctxt "conversations/04_monarch/0401/0401_cp_weapon_udl_lab:42:DefaultText"
 msgid "Correct response registered. \r\n"
 "\r\n"
 "Security check complete."
-msgstr ""
+msgstr "Správná odpověď zaregistrována. Bezpečnostní kontrola dokončena."
 
 #: conversations/04_monarch/0401/0401_cp_weapon_udl_lab:43
 msgctxt "conversations/04_monarch/0401/0401_cp_weapon_udl_lab:43:DefaultText"
 msgid "[Continue]"
-msgstr ""
+msgstr "[Pokračovat]"

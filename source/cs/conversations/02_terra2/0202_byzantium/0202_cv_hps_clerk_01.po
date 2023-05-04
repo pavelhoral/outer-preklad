@@ -1,239 +1,239 @@
 #: conversations/02_terra2/0202_byzantium/0202_cv_hps_clerk_01:1
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_hps_clerk_01:1:DefaultText"
 msgid "Welcome to Halcyon Parcel Service. Deliveries guaranteed within standard margins of accuracy!"
-msgstr ""
+msgstr "Vítejte ve společnosti Halcyon Parcel Service. Doručení se zárukou standardní přesnosti!"
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_hps_clerk_01:2
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_hps_clerk_01:2:DefaultText"
 msgid "How may I be of assistance?"
-msgstr ""
+msgstr "Jak vám mohu pomoci?"
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_hps_clerk_01:3
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_hps_clerk_01:3:DefaultText"
 msgid "What exactly do you do here?"
-msgstr ""
+msgstr "Co přesně zde děláte?"
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_hps_clerk_01:4
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_hps_clerk_01:4:DefaultText"
 msgid "Halcyon Parcel Service is the most dependable parcel delivery service in the colony. You might even say we're part and parcel of Halcyon's commercial enterprise!"
-msgstr ""
+msgstr "Halcyon Parcel Service je nejspolehlivější doručovací služba v kolonii. Dalo by se dokonce říci, že jsme nedílnou součástí obchodního podniku Halcyon!"
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_hps_clerk_01:5
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_hps_clerk_01:5:DefaultText"
 msgid "Do you have a parcel waiting for Clarke? Minister Clarke?"
-msgstr ""
+msgstr "Čeká na vás balíček pro Clarkea? Ministr Clarke?"
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_hps_clerk_01:6
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_hps_clerk_01:6:DefaultText"
 msgid "We do in fact have a parcel here for a Mister Clarke-comma-Minister."
-msgstr ""
+msgstr "Ve skutečnosti tu máme balíček pro pana Clarkea-komu-ministra."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_hps_clerk_01:7
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_hps_clerk_01:7:DefaultText"
 msgid "I'm here to pick up the minister's parcel. "
-msgstr ""
+msgstr "Přišel jsem vyzvednout ministrův balíček. "
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_hps_clerk_01:9
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_hps_clerk_01:9:DefaultText"
 msgid "You're not an official member of the Halcyon Parcel Service Team. That means you'll have to sign a release form."
-msgstr ""
+msgstr "Nejste oficiálním členem týmu Halcyon Parcel Service. To znamená, že budete muset podepsat formulář o uvolnění."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_hps_clerk_01:10
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_hps_clerk_01:10:DefaultText"
 msgid "Farewell."
-msgstr ""
+msgstr "Rozloučení."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_hps_clerk_01:12
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_hps_clerk_01:12:DefaultText"
 msgid "I do hope you aren't here for any mail order clothes. Those deliveries are always late."
-msgstr ""
+msgstr "Doufám, že tu nejste kvůli oblečení, které si objednáváte poštou. Tyhle zásilky mají vždycky zpoždění."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_hps_clerk_01:36
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_hps_clerk_01:36:DefaultText"
 msgid "Well! You're getting an early start on the day's parcels, aren't you?"
-msgstr ""
+msgstr "Dobře! Začínáte s balíčky na dnešní den dřív, že?"
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_hps_clerk_01:37
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_hps_clerk_01:37:DefaultText"
 msgid "A fine day for parcel pickups, isn't it?"
-msgstr ""
+msgstr "Krásný den na vyzvedávání balíků, že?"
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_hps_clerk_01:38
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_hps_clerk_01:38:DefaultText"
 msgid "Burning the midnight oil, are we? The Halcyon Parcel Service's work is never done!"
-msgstr ""
+msgstr "Pálíme půlnoční olej, že? Práce služby Halcyon Parcel Service není nikdy hotová!"
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_hps_clerk_01:42
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_hps_clerk_01:42:DefaultText"
 msgid "That's just a little parcel joke."
-msgstr ""
+msgstr "To je jen takový malý vtip o balíčcích."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_hps_clerk_01:43
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_hps_clerk_01:43:DefaultText"
 msgid "So if someone needed a package delivered, they'd come here?"
-msgstr ""
+msgstr "Takže kdyby někdo potřeboval doručit balíček, přišel by sem?"
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_hps_clerk_01:44
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_hps_clerk_01:44:DefaultText"
 msgid "Nope. Just parcels. We don't deal in packages."
-msgstr ""
+msgstr "Ne. Jen balíky. Balíčky neprodáváme."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_hps_clerk_01:45
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_hps_clerk_01:45:DefaultText"
 msgid "What's the difference?"
-msgstr ""
+msgstr "Jaký je v tom rozdíl?"
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_hps_clerk_01:46
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_hps_clerk_01:46:DefaultText"
 msgid "It's very technical. Halcyon Parcel Service strictly adheres to the standards and definitions of packaging as outlined by the Executive Ministry of Accuracy and Morale."
-msgstr ""
+msgstr "Je to velmi technické. Společnost Halcyon Parcel Service přísně dodržuje normy a definice obalů, jak je stanovilo Výkonné ministerstvo pro přesnost a morálku."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_hps_clerk_01:47
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_hps_clerk_01:47:DefaultText"
 msgid "We can ship all the parcels you want. But if I start shipping packages, I could get into some real trouble. Handcuffs and hard labor trouble."
-msgstr ""
+msgstr "Můžeme zaslat všechny balíky, které si přejete. Ale kdybych začal posílat balíky, mohl bych se dostat do pořádných problémů. Pouta a těžkou práci."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_hps_clerk_01:48
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_hps_clerk_01:48:DefaultText"
 msgid "How do I do that?"
-msgstr ""
+msgstr "Jak to mám udělat?"
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_hps_clerk_01:49
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_hps_clerk_01:49:DefaultText"
 msgid "Oh, I'd have to submit a request for a release form, and then wait for a receipt for my request of a release form. Then you'd have to make an appointment."
-msgstr ""
+msgstr "Aha, musel bych podat žádost o vydání formuláře a pak čekat na potvrzení o přijetí žádosti o vydání formuláře. Pak byste si museli domluvit schůzku."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_hps_clerk_01:50
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_hps_clerk_01:50:DefaultText"
 msgid "How long does that usually take?"
-msgstr ""
+msgstr "Jak dlouho to obvykle trvá?"
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_hps_clerk_01:51
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_hps_clerk_01:51:DefaultText"
 msgid "Couldn't say. We've got a backlog, and I'm planning on retiring in the next thirty-five years, but I could give my successor a memo on your behalf."
-msgstr ""
+msgstr "To se nedá říct. Máme spoustu nevyřízených záležitostí a já mám v plánu odejít do důchodu v příštích pětatřiceti letech, ale mohl bych svému nástupci předat oběžník vaším jménem."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_hps_clerk_01:52
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_hps_clerk_01:52:DefaultText"
 msgid "I don't have time for this. "
-msgstr ""
+msgstr "Nemám na to čas. "
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_hps_clerk_01:53
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_hps_clerk_01:53:DefaultText"
 msgid "You're welcome to lodge a complaint in our suggestion box. Actually, no - we're still waiting on our delivery of a new suggestion box."
-msgstr ""
+msgstr "Stížnost můžete podat do naší schránky pro návrhy. Vlastně ne - stále čekáme na dodání nové schránky na podněty."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_hps_clerk_01:54
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_hps_clerk_01:54:DefaultText"
 msgid "That's ridiculous."
-msgstr ""
+msgstr "To je směšné."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_hps_clerk_01:55
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_hps_clerk_01:55:DefaultText"
 msgid "You're kidding me."
-msgstr ""
+msgstr "To si děláte legraci."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_hps_clerk_01:56
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_hps_clerk_01:56:DefaultText"
 msgid "What's your name?"
-msgstr ""
+msgstr "Jak se jmenujete?"
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_hps_clerk_01:57
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_hps_clerk_01:57:DefaultText"
 msgid "The minister's here in Byzantium. I'll make the delivery, and you're free to take the credit."
-msgstr ""
+msgstr "Ministr je zde v Byzanci. Já to doručím a ty si můžeš vzít úvěr."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_hps_clerk_01:60
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_hps_clerk_01:60:DefaultText"
 msgid "Here's your parcel, to be delivered to Mister Clarke-comma-Minister. Lawspeed!"
-msgstr ""
+msgstr "Tady je váš balíček, který má být doručen panu Clarkovi-comma-Ministerovi. Lawspeed!"
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_hps_clerk_01:61
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_hps_clerk_01:61:DefaultText"
 msgid "You'd do that? Wow. Hey, you know, a positive review from the Minister would go a long way in my semi-monthly employment audit!"
-msgstr ""
+msgstr "Udělal bys to? Páni. Hej, víš, kladné hodnocení od ministra by se mi hodně hodilo při mém půlročním auditu zaměstnání!"
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_hps_clerk_01:62
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_hps_clerk_01:62:DefaultText"
 msgid "Why do you need to know?"
-msgstr ""
+msgstr "Proč to potřebujete vědět?"
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_hps_clerk_01:63
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_hps_clerk_01:63:DefaultText"
 msgid "I think Mister Clarke-comma-Minister deserves to know the name of the worker who disappointed him."
-msgstr ""
+msgstr "Myslím, že si pan Clarke-comma-Minister zaslouží znát jméno pracovníka, který ho zklamal."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_hps_clerk_01:64
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_hps_clerk_01:64:DefaultText"
 msgid "You know, that is an absolutely sound and sensible line of reasoning, and I see your point clear as day."
-msgstr ""
+msgstr "Víte, to je naprosto rozumná a rozumná úvaha a já ji chápu jako jasnou věc."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_hps_clerk_01:65
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_hps_clerk_01:65:DefaultText"
 msgid "Thanks. Goodbye."
-msgstr ""
+msgstr "Děkuji. Na shledanou."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_hps_clerk_01:68
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_hps_clerk_01:68:DefaultText"
 msgid "Forget it."
-msgstr ""
+msgstr "Zapomeňte na to."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_hps_clerk_01:69
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_hps_clerk_01:69:DefaultText"
 msgid "Excellent. I'll mark that down as \"customer's complaint resolved.\" Another satisfied patron!"
-msgstr ""
+msgstr "Vynikající. Tohle si zapíšu jako \"stížnost zákazníka vyřešena\". Další spokojený zákazník!"
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_hps_clerk_01:70
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_hps_clerk_01:70:DefaultText"
 msgid "Can I pick up the minister's parcel now?"
-msgstr ""
+msgstr "Mohu si teď vyzvednout ministrův balíček?"
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_hps_clerk_01:71
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_hps_clerk_01:71:DefaultText"
 msgid "I'm afraid it doesn't look good. I filed that request for you, but our backlog's grown by another six months or so since we last spoke."
-msgstr ""
+msgstr "Obávám se, že to nevypadá dobře. Tu žádost jsem za vás podal, ale od našeho posledního rozhovoru se počet nevyřízených žádostí zvýšil asi o dalších šest měsíců."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_hps_clerk_01:72
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_hps_clerk_01:72:DefaultText"
 msgid "Celeste Jolicoeur sent me. I'm here to sign for a parcel."
-msgstr ""
+msgstr "Poslala mě Celeste Jolicoeur. Přišla jsem podepsat balík."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_hps_clerk_01:73
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_hps_clerk_01:73:DefaultText"
 msgid "If you would like to sign for a parcel, please go to Window B."
-msgstr ""
+msgstr "Pokud si chcete zásilku podepsat, přejděte k okénku B."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_hps_clerk_01:74
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_hps_clerk_01:74:DefaultText"
 msgid "I'm here to pick up a parcel for Celeste Jolicoeur."
-msgstr ""
+msgstr "Přišla jsem vyzvednout balíček pro Celeste Jolicoeurovou."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_hps_clerk_01:75
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_hps_clerk_01:75:DefaultText"
 msgid "Of course. If you could just verify for me that you are Jolicoeur-comma-Celeste, or an officially authorized proxy?"
-msgstr ""
+msgstr "Samozřejmě. Kdybyste mi mohl ověřit, že jste Jolicoeur-comma-Celeste, nebo oficiálně pověřený zástupce?"
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_hps_clerk_01:76
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_hps_clerk_01:76:DefaultText"
 msgid "Everything seems to be in order. Here you are - one parcel."
-msgstr ""
+msgstr "Zdá se, že je vše v pořádku. Tady máte jeden balíček."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_hps_clerk_01:77
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_hps_clerk_01:77:DefaultText"
 msgid "Can you not see what I'm wearing? I'm obviously one of Celeste's models."
-msgstr ""
+msgstr "Nevidíš, co mám na sobě? Jsem zřejmě jeden z Celesteiných modelů."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_hps_clerk_01:78
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_hps_clerk_01:78:DefaultText"
 msgid "<Show her your authorization.> Celeste gave me this."
-msgstr ""
+msgstr "<Ukaž jí své oprávnění.> Celeste mi dala tohle."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_hps_clerk_01:79
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_hps_clerk_01:79:DefaultText"
 msgid "Yes, I can see by your eccentric mode of dress that you must be one of Ms. Jolicoeur's associates. "
-msgstr ""
+msgstr "Ano, podle vašeho výstředního způsobu oblékání vidím, že patříte ke spolupracovníkům paní Jolicoeurové. "
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_hps_clerk_01:80
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_hps_clerk_01:80:DefaultText"
 msgid "I hope this has been a pleasant and satisfying transaction. Halcyon Parcel Service thanks you for your patronage."
-msgstr ""
+msgstr "Doufám, že to byla příjemná a uspokojivá transakce. Společnost Halcyon Parcel Service vám děkuje za vaši přízeň."

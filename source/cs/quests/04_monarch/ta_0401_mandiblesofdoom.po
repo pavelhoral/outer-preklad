@@ -1,67 +1,67 @@
 #: quests/04_monarch/ta_0401_mandiblesofdoom:0
 msgctxt "quests/04_monarch/ta_0401_mandiblesofdoom:0:DefaultText"
 msgid "Mandibles of Doom"
-msgstr ""
+msgstr "Zuby zkázy"
 
 #: quests/04_monarch/ta_0401_mandiblesofdoom:1
 msgctxt "quests/04_monarch/ta_0401_mandiblesofdoom:1:DefaultText"
 msgid "Find Berthold Fox"
-msgstr ""
+msgstr "Najít Berthold Fox"
 
 #: quests/04_monarch/ta_0401_mandiblesofdoom:2
 msgctxt "quests/04_monarch/ta_0401_mandiblesofdoom:2:DefaultText"
 msgid "Kill the Mantiqueen"
-msgstr ""
+msgstr "Zabij mantikéna"
 
 #: quests/04_monarch/ta_0401_mandiblesofdoom:3
 msgctxt "quests/04_monarch/ta_0401_mandiblesofdoom:3:DefaultText"
 msgid "Speak with Berthold"
-msgstr ""
+msgstr "Promluvte si s Bertholdem"
 
 #: quests/04_monarch/ta_0401_mandiblesofdoom:7
 msgctxt "quests/04_monarch/ta_0401_mandiblesofdoom:7:DefaultText"
 msgid "Meet Berthold at the Camp"
-msgstr ""
+msgstr "Setkání s Bertholdem v táboře"
 
 #: quests/04_monarch/ta_0401_mandiblesofdoom:10000
 msgctxt "quests/04_monarch/ta_0401_mandiblesofdoom:10000:DefaultText"
 msgid "A mercenary crew stationed near Devil's Peak is missing its leader, who was last seen heading down into a nearby cavern. They've promised to make it worth your while if you can find him and get him to return."
-msgstr ""
+msgstr "Posádka žoldnéřů poblíž Ďáblova vrchu pohřešuje svého velitele, který byl naposledy spatřen, jak sestupuje do nedaleké jeskyně. Slíbili, že se ti vyplatí, když ho najdeš a přiměješ k návratu."
 
 #: quests/04_monarch/ta_0401_mandiblesofdoom:10001
 msgctxt "quests/04_monarch/ta_0401_mandiblesofdoom:10001:DefaultText"
 msgid "Berthold Fox, leader of the C3s, is somewhere in the Devil's Peak caverns, assuming he's still alive. Look for him there."
-msgstr ""
+msgstr "Berthold Fox, vůdce C3, je někde v jeskyních na Ďáblově vrchu, pokud je tedy ještě naživu. Hledej ho tam."
 
 #: quests/04_monarch/ta_0401_mandiblesofdoom:10002
 msgctxt "quests/04_monarch/ta_0401_mandiblesofdoom:10002:DefaultText"
 msgid "Berthold can't climb down from his perch while the nearby Mantiqueen paces her lair. Kill it."
-msgstr ""
+msgstr "Berthold nemůže slézt ze svého posedu, zatímco nedaleká Mantiqueen obchází své doupě. Zabij ji."
 
 #: quests/04_monarch/ta_0401_mandiblesofdoom:10003
 msgctxt "quests/04_monarch/ta_0401_mandiblesofdoom:10003:DefaultText"
 msgid "Now that the Mantiqueen is dead, check in with Berthold in the natural caverns near Devil's Peak."
-msgstr ""
+msgstr "Když je Mantiqueen mrtvý, zkontroluj Bertholda v přírodních jeskyních poblíž Ďáblova vrchu."
 
 #: quests/04_monarch/ta_0401_mandiblesofdoom:10007
 msgctxt "quests/04_monarch/ta_0401_mandiblesofdoom:10007:DefaultText"
 msgid "Grateful for your assistance, Berthold has asked you to rendezvous with him at his mercenary camp near Devil's Peak Station so that he can compensate you for your efforts."
-msgstr ""
+msgstr "Berthold je vám vděčný za vaši pomoc a požádal vás, abyste se s ním setkali v jeho žoldáckém táboře poblíž stanice Devil's Peak, kde vám bude moci vyplatit odměnu za vaše úsilí."
 
 #: quests/04_monarch/ta_0401_mandiblesofdoom:30000
 msgctxt "quests/04_monarch/ta_0401_mandiblesofdoom:30000:DefaultText"
 msgid "Berthold safely made it out of the caves."
-msgstr ""
+msgstr "Berthold se bezpečně dostal z jeskyní."
 
 #: quests/04_monarch/ta_0401_mandiblesofdoom:30001
 msgctxt "quests/04_monarch/ta_0401_mandiblesofdoom:30001:DefaultText"
 msgid "You killed Berthold."
-msgstr ""
+msgstr "Zabil jsi Bertholda."
 
 #: quests/04_monarch/ta_0401_mandiblesofdoom:30002
 msgctxt "quests/04_monarch/ta_0401_mandiblesofdoom:30002:DefaultText"
 msgid "You attacked Berthold's crew, alienating yourself from the group."
-msgstr ""
+msgstr "Napadl jsi Bertholdovu posádku a vyobcoval ses ze skupiny."
 
 #: quests/04_monarch/ta_0401_mandiblesofdoom:30003
 msgctxt "quests/04_monarch/ta_0401_mandiblesofdoom:30003:DefaultText"
@@ -71,4 +71,4 @@ msgstr ""
 #: quests/04_monarch/ta_0401_mandiblesofdoom:40001
 msgctxt "quests/04_monarch/ta_0401_mandiblesofdoom:40001:DefaultText"
 msgid "You ran into a traveler trapped in a Mantiqueen lair. Helping him may prove to be of some worth."
-msgstr ""
+msgstr "Narazil jsi na cestovatele uvězněného v mantikénském doupěti. Pomoc mu může být užitečná."

@@ -12,12 +12,14 @@ msgid "Devil's Peak Station\n"
 "\n"
 "\n"
 ""
-msgstr ""
+msgstr "Devil's Peak Station ======================== AUTORIZOVANÝ VYSÍLAČ, zvolte [Recorded Transmissions] pro výpis všech plánovaných příchozích a odchozích vysílání. Chcete-li zahájit živé vysílání, požádejte svého producenta o zahájení vysílání. DO. NEVYSÍLEJTE. Zahájit vysílání. Bez dohledu staršího producenta. Děkujeme. - Val --------------------------------- A nyní zpráva od našich sponzorů: \n"
+"\n"
+"Máte už dost svědivého pálení kyselinou? Vyzkoušejte řemeslný hydratační krém Auntie Cleo s vůní divočáka."
 
 #: conversations/04_monarch/0406/0406_cp_console_broadcaster:22
 msgctxt "conversations/04_monarch/0406/0406_cp_console_broadcaster:22:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"
 
 #: conversations/04_monarch/0406/0406_cp_console_broadcaster:23
 msgctxt "conversations/04_monarch/0406/0406_cp_console_broadcaster:23:DefaultText"
@@ -30,17 +32,17 @@ msgid "============================\r\n"
 "\r\n"
 "Stellar Bay broadcasts are coded gibberish. Could potentially use to blackmail Sanjar - has his signature all over it.\r\n"
 "============================"
-msgstr ""
+msgstr "============================ Odchozí přenosy: SOS. Datum: 3. dubna 2345 ============================ Příchozí vysílání: SOS: Amber Heights, Stellar Bay ============================ Poznámky správce: Data z Amber Heights jsou původem z Iconoclastu. Stojí za nimi Graham. Musíte si s ním promluvit. Vysílání ze Stellar Bay je zakódovaná hatmatilka. Mohlo by se použít k vydírání Sanjara - je na něm jeho podpis. ============================"
 
 #: conversations/04_monarch/0406/0406_cp_console_broadcaster:24
 msgctxt "conversations/04_monarch/0406/0406_cp_console_broadcaster:24:DefaultText"
 msgid "[Begin Broadcasting]"
-msgstr ""
+msgstr "[Začít vysílat]"
 
 #: conversations/04_monarch/0406/0406_cp_console_broadcaster:25
 msgctxt "conversations/04_monarch/0406/0406_cp_console_broadcaster:25:DefaultText"
 msgid "[Accessing...]"
-msgstr ""
+msgstr "[Přístup k...]"
 
 #: conversations/04_monarch/0406/0406_cp_console_broadcaster:26
 msgctxt "conversations/04_monarch/0406/0406_cp_console_broadcaster:26:DefaultText"
@@ -49,32 +51,32 @@ msgid "AUTHORIZED BROADCASTER, don't even try to pretend you're unaware that all
 "Oh, you can't?\n"
 "\n"
 "Maybe you should've been nicer to Val. "
-msgstr ""
+msgstr "AUTORIZOVANÝ VYSÍLATELI, ani se nesnažte předstírat, že nevíte, že veškeré vysílání je v současné době UZAVŘENO. Prosím, vraťte se k flákání po odpočívárně a k nářkům nad stáží v podnikové arbitráži, kterou jste nikdy nedokončili. Nebo, chcete-li zrušit uzamčení nahrávání, jednoduše zadejte do příkazového řádku své uživatelské jméno administrátora a p * * * * * * * d. Aha, vy nemůžete? Možná jste měli být na Val hodnější. "
 
 #: conversations/04_monarch/0406/0406_cp_console_broadcaster:27
 msgctxt "conversations/04_monarch/0406/0406_cp_console_broadcaster:27:DefaultText"
 msgid "[Accessing...]"
-msgstr ""
+msgstr "[Přístup k...]"
 
 #: conversations/04_monarch/0406/0406_cp_console_broadcaster:28
 msgctxt "conversations/04_monarch/0406/0406_cp_console_broadcaster:28:DefaultText"
 msgid "[Personal Files]"
-msgstr ""
+msgstr "[Osobní soubory]"
 
 #: conversations/04_monarch/0406/0406_cp_console_broadcaster:29
 msgctxt "conversations/04_monarch/0406/0406_cp_console_broadcaster:29:DefaultText"
 msgid "[1. Memorandum titled, \"Clear Blue Skies\" -- Mood: Optimistic]"
-msgstr ""
+msgstr "[1. Memorandum s názvem \"Clear Blue Skies\" -- Nálada: optimistická]"
 
 #: conversations/04_monarch/0406/0406_cp_console_broadcaster:30
 msgctxt "conversations/04_monarch/0406/0406_cp_console_broadcaster:30:DefaultText"
 msgid "[2. Memorandum titled, \"Sneaky Sneaky\" -- Mood: Sneaky]"
-msgstr ""
+msgstr "[2. Memorandum s názvem \"Sneaky Sneaky\" -- Nálada: Sneaky]"
 
 #: conversations/04_monarch/0406/0406_cp_console_broadcaster:32
 msgctxt "conversations/04_monarch/0406/0406_cp_console_broadcaster:32:DefaultText"
 msgid "[Return to Root]"
-msgstr ""
+msgstr "[Zpět na kořen]"
 
 #: conversations/04_monarch/0406/0406_cp_console_broadcaster:33
 msgctxt "conversations/04_monarch/0406/0406_cp_console_broadcaster:33:DefaultText"
@@ -87,7 +89,7 @@ msgid "Devil's Peak Station\r\n"
 "I believe I can make a life here.\r\n"
 "\r\n"
 "-H"
-msgstr ""
+msgstr "Stanice Devil's Peak ======================== OSOBNÍ SOUBORY HIRAMA BLYTHE Odvažuji se říct, že budoucnost vypadá jasně. Skutečně mohu provádět celou škálu operací, aniž bych opustil útočiště vysílací místnosti. Sanjar a Graham plní své sliby a do počátečního vysílání nezasahují. Dohoda platí. A já... já věřím, že si tu dokážu zařídit život. -H"
 
 #: conversations/04_monarch/0406/0406_cp_console_broadcaster:34
 msgctxt "conversations/04_monarch/0406/0406_cp_console_broadcaster:34:DefaultText"
@@ -102,7 +104,7 @@ msgid "Devil's Peak Station\r\n"
 "Playing Hazard has never been so thrilling. Nor high stakes.\r\n"
 "\r\n"
 "-H "
-msgstr ""
+msgstr "Devil's Peak Station ======================== OSOBNÍ SOUBORY HIRAMA BLYTHEHO Nedávno se mu málem něco stalo. Málem jsem skončil s prknem na stezce. Tento pokus si pevně poznamenáme do kategorie neúspěchů. Člověk však musí experimentovat, aby zjistil nejlepší metody. Zatím jsem zjistil, že nejspolehlivější metodou, jak se vyhnout odhalení v rámci omezené frekvence mimozemského vysílání Monarchu, je duplikování pravidelného zpravodajského vysílání na několika nepoužívaných frekvencích. Moji spolupracovníci, kteří shromažďují informace, vědí, že je třeba odfiltrovat zvuky v hlasovém pásmu, a tím izolovat vložená data. A úřady Rady nejsou o nic moudřejší. Hra na Hazarda nebyla nikdy tak vzrušující. Ani vysoké sázky. -H "
 
 #: conversations/04_monarch/0406/0406_cp_console_broadcaster:35
 msgctxt "conversations/04_monarch/0406/0406_cp_console_broadcaster:35:DefaultText"
@@ -115,12 +117,12 @@ msgid "Devil's Peak Station\n"
 "I should have never invited them to play. But what to do about it now? What to do, indeed.\n"
 "\n"
 "-H"
-msgstr ""
+msgstr "Devil's Peak Station ======================== OSOBNÍ SOUBORY HIRAMA BLYTHE Pox it all! Ty imbecilní děti! Ve své vzájemné nenávisti Sanjar a Graham přesytili mé klíčové skupiny. V pohodě se navzájem zlikvidují... a mě hned vedle nich. Nikdy jsem je neměl zvát na hraní. Ale co s tím teď dělat? Co dělat, opravdu. -H"
 
 #: conversations/04_monarch/0406/0406_cp_console_broadcaster:36
 msgctxt "conversations/04_monarch/0406/0406_cp_console_broadcaster:36:DefaultText"
 msgid "[Priority Transmission Log]"
-msgstr ""
+msgstr "[Protokol o prioritním přenosu]"
 
 #: conversations/04_monarch/0406/0406_cp_console_broadcaster:37
 msgctxt "conversations/04_monarch/0406/0406_cp_console_broadcaster:37:DefaultText"
@@ -128,7 +130,7 @@ msgid "Devil's Peak Station\r\n"
 "========================\r\n"
 "\r\n"
 "STATUS: The station's primary band is presently over-saturated with continual transmissions from sister settlements. Off-world signals are unable to be isolated for recording."
-msgstr ""
+msgstr "Stanice Devil's Peak ======================== STAV: Primární pásmo stanice je v současné době přesyceno nepřetržitým vysíláním ze sesterských osad. Signály z jiných světů se nedaří izolovat pro nahrávání."
 
 #: conversations/04_monarch/0406/0406_cp_console_broadcaster:38
 msgctxt "conversations/04_monarch/0406/0406_cp_console_broadcaster:38:DefaultText"
@@ -138,24 +140,26 @@ msgid "Devil's Peak Station\r\n"
 "STATUS: Problematic transmissions from Stellar Bay and Amber Heights stations have been discontinued. The station's primary band is operating with minimal signal interference. \r\n"
 "\r\n"
 ">>>New data from incoming transmissions has been recorded. One outgoing message is queued for broadcast. View recording?"
-msgstr ""
+msgstr "Stanice Devil's Peak ======================== STAV: Problematické vysílání ze stanic Stellar Bay a Amber Heights bylo ukončeno. Primární pásmo stanice pracuje s minimálním rušením signálu. >>>Byly zaznamenány nové údaje z příchozích vysílání. Jedna odchozí zpráva je zařazena do fronty pro vysílání. Zobrazit záznam?"
 
 #: conversations/04_monarch/0406/0406_cp_console_broadcaster:39
 msgctxt "conversations/04_monarch/0406/0406_cp_console_broadcaster:39:DefaultText"
 msgid "[Open Welles2084-C]"
-msgstr ""
+msgstr "[Otevřít Welles2084-C]"
 
 #: conversations/04_monarch/0406/0406_cp_console_broadcaster:41
 msgctxt "conversations/04_monarch/0406/0406_cp_console_broadcaster:41:DefaultText"
 msgid "AUTHORIZED BROADCASTER, the content of this data file is encrypted and may not be viewed without proper authorization key. File is ready for broadcasting to CLIENT: P. WELLES. \n"
 "\n"
 "Send data?"
-msgstr ""
+msgstr "AUTORIZOVANÝ VYSÍLAČ, obsah tohoto datového souboru je zašifrován a nesmí být zobrazen bez příslušného autorizačního klíče. Soubor je připraven k vysílání pro KLIENTA: WELLES. \n"
+"\n"
+"Odeslat data?"
 
 #: conversations/04_monarch/0406/0406_cp_console_broadcaster:42
 msgctxt "conversations/04_monarch/0406/0406_cp_console_broadcaster:42:DefaultText"
 msgid "[Send Data]"
-msgstr ""
+msgstr "[Odeslat data]"
 
 #: conversations/04_monarch/0406/0406_cp_console_broadcaster:44
 msgctxt "conversations/04_monarch/0406/0406_cp_console_broadcaster:44:DefaultText"
@@ -169,7 +173,7 @@ msgid "[Broadcasting...]\r\n"
 "\r\n"
 "Please recalibrate the extra-planetary dish for optimal transference.\r\n"
 ""
-msgstr ""
+msgstr "[Vysílání...] STAV: Probíhá Vysílání dat a mazání z lokálního úložiště... CHYBA: Signál narušen Prosím překalibrujte mimoplanetární anténu pro optimální přenos."
 
 #: conversations/04_monarch/0406/0406_cp_console_broadcaster:45
 msgctxt "conversations/04_monarch/0406/0406_cp_console_broadcaster:45:DefaultText"
@@ -179,31 +183,31 @@ msgid "Devil's Peak Station\r\n"
 "STATUS: The station's primary band is operating with minimal signal interference. \r\n"
 "\r\n"
 ">>>No outgoing transmissions remain for broadcast."
-msgstr ""
+msgstr "Stanice Devil's Peak ======================== STAV: Primární pásmo stanice je v provozu s minimálním rušením signálu. >>> K vysílání nezbývají žádné odchozí vysílání."
 
 #: conversations/04_monarch/0406/0406_cp_console_broadcaster:47
 msgctxt "conversations/04_monarch/0406/0406_cp_console_broadcaster:47:DefaultText"
 msgid "Devil's Peak Station\r\n"
 "========================\r\n"
 "PERSONAL FILES FOR HIRAM BLYTHE"
-msgstr ""
+msgstr "Devil's Peak Station ======================== OSOBNÍ SOUBORY HIRAMA BLYTHEHO"
 
 #: conversations/04_monarch/0406/0406_cp_console_broadcaster:54
 msgctxt "conversations/04_monarch/0406/0406_cp_console_broadcaster:54:DefaultText"
 msgid "[Open Channel to HHC HQ]"
-msgstr ""
+msgstr "[Otevřený kanál na velitelství HHC]"
 
 #: conversations/04_monarch/0406/0406_cp_console_broadcaster:55
 msgctxt "conversations/04_monarch/0406/0406_cp_console_broadcaster:55:DefaultText"
 msgid "AUTHORIZED BROADCASTER, this action will transfer control of the station's core functionality to CLIENT: S. AKANDE.\r\n"
 "\r\n"
 "Proceed?"
-msgstr ""
+msgstr "AUTORIZOVANÝ VYSÍLAČ, tato akce přenese kontrolu nad základními funkcemi stanice na KLIENTA: AKANDE. Pokračovat?"
 
 #: conversations/04_monarch/0406/0406_cp_console_broadcaster:56
 msgctxt "conversations/04_monarch/0406/0406_cp_console_broadcaster:56:DefaultText"
 msgid "[Y]"
-msgstr ""
+msgstr "[Y]"
 
 #: conversations/04_monarch/0406/0406_cp_console_broadcaster:57
 msgctxt "conversations/04_monarch/0406/0406_cp_console_broadcaster:57:DefaultText"
@@ -216,24 +220,24 @@ msgid "[Broadcasting...]\r\n"
 "ERROR: Signal disrupted.\r\n"
 "\r\n"
 "Please recalibrate the extra-planetary dish for optimal transference."
-msgstr ""
+msgstr "[Vysílání...] STAV: Probíhá přenos řízení... CHYBA: Signál je přerušen. Pro optimální přenos překalibrujte mimoplanetární anténu."
 
 #: conversations/04_monarch/0406/0406_cp_console_broadcaster:58
 msgctxt "conversations/04_monarch/0406/0406_cp_console_broadcaster:58:DefaultText"
 msgid "[3. Memorandum titled, \"SHOULD HAVE KNOWN\" -- Mood: Furious]"
-msgstr ""
+msgstr "[3. Memorandum s názvem \"MĚLI JSME VĚDĚT\" -- Nálada: vzteklá]"
 
 #: conversations/04_monarch/0406/0406_cp_console_broadcaster:81
 msgctxt "conversations/04_monarch/0406/0406_cp_console_broadcaster:81:DefaultText"
 msgid "[Continue]"
-msgstr ""
+msgstr "[Pokračovat]"
 
 #: conversations/04_monarch/0406/0406_cp_console_broadcaster:83
 msgctxt "conversations/04_monarch/0406/0406_cp_console_broadcaster:83:DefaultText"
 msgid "[Continue]"
-msgstr ""
+msgstr "[Pokračovat]"
 
 #: conversations/04_monarch/0406/0406_cp_console_broadcaster:85
 msgctxt "conversations/04_monarch/0406/0406_cp_console_broadcaster:85:DefaultText"
 msgid "[Continue]"
-msgstr ""
+msgstr "[Pokračovat]"

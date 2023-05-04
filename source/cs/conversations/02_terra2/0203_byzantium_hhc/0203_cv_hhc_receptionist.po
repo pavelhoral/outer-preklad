@@ -1,49 +1,49 @@
 #: conversations/02_terra2/0203_byzantium_hhc/0203_cv_hhc_receptionist:1
 msgctxt "conversations/02_terra2/0203_byzantium_hhc/0203_cv_hhc_receptionist:1:DefaultText"
 msgid "Adjutant Akande is expecting you. She's in her office."
-msgstr ""
+msgstr "Očekává vás adjutant Akande. Je ve své kanceláři."
 
 #: conversations/02_terra2/0203_byzantium_hhc/0203_cv_hhc_receptionist:2
 msgctxt "conversations/02_terra2/0203_byzantium_hhc/0203_cv_hhc_receptionist:2:DefaultText"
 msgid "Welcome to the official headquarters of the Halcyon Holdings Corporation Board. Today's greeting is brought to you by Auntie Cleo, a subsidiary of Kolway Pharmaceuticals."
-msgstr ""
+msgstr "Vítejte v oficiálním sídle představenstva společnosti Halcyon Holdings Corporation. Dnešní pozdrav vám přináší společnost Auntie Cleo, dceřiná společnost Kolway Pharmaceuticals."
 
 #: conversations/02_terra2/0203_byzantium_hhc/0203_cv_hhc_receptionist:3
 msgctxt "conversations/02_terra2/0203_byzantium_hhc/0203_cv_hhc_receptionist:3:DefaultText"
 msgid "Excuse me."
-msgstr ""
+msgstr "Promiňte."
 
 #: conversations/02_terra2/0203_byzantium_hhc/0203_cv_hhc_receptionist:71
 msgctxt "conversations/02_terra2/0203_byzantium_hhc/0203_cv_hhc_receptionist:71:DefaultText"
 msgid "The Adjutant told you about me?"
-msgstr ""
+msgstr "Adjutant vám o mně řekl?"
 
 #: conversations/02_terra2/0203_byzantium_hhc/0203_cv_hhc_receptionist:72
 msgctxt "conversations/02_terra2/0203_byzantium_hhc/0203_cv_hhc_receptionist:72:DefaultText"
 msgid "Adjutant Akande has instructed me to expect someone of your description. You'll want to check in with Mr. Percival Platt, her assistant."
-msgstr ""
+msgstr "Adjutant Akande mi dal pokyn, abych očekával někoho s vaším popisem. Budete se chtít ohlásit u pana Percivala Platta, jejího asistenta."
 
 #: conversations/02_terra2/0203_byzantium_hhc/0203_cv_hhc_receptionist:73
 msgctxt "conversations/02_terra2/0203_byzantium_hhc/0203_cv_hhc_receptionist:73:DefaultText"
 msgid "Please don't miss your appointment. Tardiness reflects poorly on all of us."
-msgstr ""
+msgstr "Nezmeškejte prosím schůzku. Nedochvilnost vrhá špatné světlo na nás všechny."
 
 #: conversations/02_terra2/0203_byzantium_hhc/0203_cv_hhc_receptionist:75
 msgctxt "conversations/02_terra2/0203_byzantium_hhc/0203_cv_hhc_receptionist:75:DefaultText"
 msgid "Today's greeting is brought to you by Auntie Cleo, a subsidiary of Kolway Pharmaceuticals."
-msgstr ""
+msgstr "Dnešní pozdrav vám přináší společnost Auntie Cleo, dceřiná společnost Kolway Pharmaceuticals."
 
 #: conversations/02_terra2/0203_byzantium_hhc/0203_cv_hhc_receptionist:76
 msgctxt "conversations/02_terra2/0203_byzantium_hhc/0203_cv_hhc_receptionist:76:DefaultText"
 msgid "If you'd like to make an appointment, please request an application form. If you'd like to request an application form, please make an appointment."
-msgstr ""
+msgstr "Pokud si chcete domluvit schůzku, vyžádejte si formulář žádosti. Pokud si chcete vyžádat formulář žádosti, domluvte si schůzku."
 
 #: conversations/02_terra2/0203_byzantium_hhc/0203_cv_hhc_receptionist:77
 msgctxt "conversations/02_terra2/0203_byzantium_hhc/0203_cv_hhc_receptionist:77:DefaultText"
 msgid "I'm sorry, but I've already exceeded my friendly banter quota."
-msgstr ""
+msgstr "Omlouvám se, ale už jsem překročil svůj limit přátelských vtípků."
 
 #: conversations/02_terra2/0203_byzantium_hhc/0203_cv_hhc_receptionist:79
 msgctxt "conversations/02_terra2/0203_byzantium_hhc/0203_cv_hhc_receptionist:79:DefaultText"
 msgid "Welcome to the official headquarters of the Halcyon Holdings Corporation Board. Today's greeting is brought to you by Auntie Cleo, a subsidiary of Kolway Pharmaceuticals."
-msgstr ""
+msgstr "Vítejte v oficiálním sídle představenstva společnosti Halcyon Holdings Corporation. Dnešní pozdrav vám přináší společnost Auntie Cleo, dceřiná společnost Kolway Pharmaceuticals."

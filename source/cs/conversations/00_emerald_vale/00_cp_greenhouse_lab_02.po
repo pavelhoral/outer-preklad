@@ -10,12 +10,12 @@ msgid "Emerald Vale Botanical Lab and Experimental Facility\r\n"
 "Lead Horticulturalist, Emerald Vale Division\r\n"
 "\r\n"
 "R. Morris"
-msgstr ""
+msgstr "Botanická laboratoř a experimentální zařízení Emerald Vale A Spacer's Choice Property ======================== Terminal Access Lead Horticulturalist, Emerald Vale Division R. Morris"
 
 #: conversations/00_emerald_vale/00_cp_greenhouse_lab_02:2
 msgctxt "conversations/00_emerald_vale/00_cp_greenhouse_lab_02:2:DefaultText"
 msgid "[Experimental Notes]"
-msgstr ""
+msgstr "[Experimentální poznámky]"
 
 #: conversations/00_emerald_vale/00_cp_greenhouse_lab_02:3
 msgctxt "conversations/00_emerald_vale/00_cp_greenhouse_lab_02:3:DefaultText"
@@ -25,17 +25,17 @@ msgid "Emerald Vale Botanical Lab and Experimental Facility\r\n"
 "========================\r\n"
 "\r\n"
 "Experimental Notes"
-msgstr ""
+msgstr "Botanická laboratoř a experimentální zařízení Emerald Vale A Spacer's Choice Property ======================== Experimentální poznámky"
 
 #: conversations/00_emerald_vale/00_cp_greenhouse_lab_02:4
 msgctxt "conversations/00_emerald_vale/00_cp_greenhouse_lab_02:4:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"
 
 #: conversations/00_emerald_vale/00_cp_greenhouse_lab_02:5
 msgctxt "conversations/00_emerald_vale/00_cp_greenhouse_lab_02:5:DefaultText"
 msgid "[Messages]"
-msgstr ""
+msgstr "[Zprávy]"
 
 #: conversations/00_emerald_vale/00_cp_greenhouse_lab_02:6
 msgctxt "conversations/00_emerald_vale/00_cp_greenhouse_lab_02:6:DefaultText"
@@ -47,17 +47,17 @@ msgid "Emerald Vale Botanical Lab and Experimental Facility\r\n"
 "Messages\r\n"
 "\r\n"
 "Welcome, R. Morris"
-msgstr ""
+msgstr "Emerald Vale Botanical Lab and Experimental Facility A Spacer's Choice Property ======================== Zprávy Vítejte, R. Morris"
 
 #: conversations/00_emerald_vale/00_cp_greenhouse_lab_02:7
 msgctxt "conversations/00_emerald_vale/00_cp_greenhouse_lab_02:7:DefaultText"
 msgid "[Return to Root]"
-msgstr ""
+msgstr "[Zpět na kořen]"
 
 #: conversations/00_emerald_vale/00_cp_greenhouse_lab_02:8
 msgctxt "conversations/00_emerald_vale/00_cp_greenhouse_lab_02:8:DefaultText"
 msgid "[FROM: Spacer's Choice Department of Logistics]"
-msgstr ""
+msgstr "[OD: Oddělení logistiky Spacer's Choice]"
 
 #: conversations/00_emerald_vale/00_cp_greenhouse_lab_02:9
 msgctxt "conversations/00_emerald_vale/00_cp_greenhouse_lab_02:9:DefaultText"
@@ -75,12 +75,12 @@ msgid "Emerald Vale Botanical Lab and Experimental Facility\r\n"
 "Thank you for being a valued member of the Spacer's Choice Family. We are writing to you in order to express our gratitude. The work performed by you and your team of horticulturalists has demonstrated the superfluity of the Emerald Vale Botanical Lab and Experimental Facility. \r\n"
 "\r\n"
 "Effective immediately, all positions have been permanently terminated. Spacer's Choice reminds you of our commitment to every member of the Spacer's Choice family. We invite you to apply for reassignment at the Edgewater Cannery. Please remember to include your Reassignment Request Fee with your paperwork."
-msgstr ""
+msgstr "Emerald Vale Botanical Lab and Experimental Facility A Spacer's Choice Property ======================== OD: Spacer's Choice Oddělení logistiky TO: Morris PŘEDMĚT: Morrisi, děkujeme Vám za to, že jste cenným členem rodiny Spacer's Choice. Píšeme Vám, abychom Vám vyjádřili naši vděčnost. Práce odvedená Vámi a Vaším týmem zahradníků prokázala nadbytečnost botanické laboratoře a experimentálního zařízení Emerald Vale. S okamžitou platností byly všechny pozice trvale zrušeny. Společnost Spacer's Choice Vám připomíná náš závazek vůči každému členu rodiny Spacer's Choice. Vyzýváme vás, abyste se ucházeli o přeřazení do konzervárny Edgewater. Nezapomeňte prosím k dokumentům přiložit poplatek za žádost o přeřazení."
 
 #: conversations/00_emerald_vale/00_cp_greenhouse_lab_02:10
 msgctxt "conversations/00_emerald_vale/00_cp_greenhouse_lab_02:10:DefaultText"
 msgid "[Open Last Entry]"
-msgstr ""
+msgstr "[Otevřít poslední záznam]"
 
 #: conversations/00_emerald_vale/00_cp_greenhouse_lab_02:11
 msgctxt "conversations/00_emerald_vale/00_cp_greenhouse_lab_02:11:DefaultText"
@@ -100,12 +100,12 @@ msgid "Emerald Vale Botanical Lab and Experimental Facility\r\n"
 "Conclusion and Analysis:\r\n"
 "\r\n"
 "The experiment recapitulates the results of Trials #1-5. Each successive generation of spectrum potatoes atrophies in quality, size, and nutritional content. After five generations, crops invariably fail. The soil in Emerald Vale is inviable, and any attempts at industrial agriculture are likely to be unprofitable. "
-msgstr ""
+msgstr "Emerald Vale Botanical Lab and Experimental Facility A Spacer's Choice Property ======================== Poznámky k pokusům - poslední záznam Pokus 033-A, pokus č. 6 Název: \"Závěr a analýza: Experiment rekapituluje výsledky pokusů č. 1-5. Každá další generace brambor spektrum atrofuje v kvalitě, velikosti a výživové hodnotě. Po pěti generacích plodiny vždy selhávají. Půda v oblasti Emerald Vale je neúrodná a jakékoli pokusy o průmyslové zemědělství budou pravděpodobně nerentabilní. "
 
 #: conversations/00_emerald_vale/00_cp_greenhouse_lab_02:12
 msgctxt "conversations/00_emerald_vale/00_cp_greenhouse_lab_02:12:DefaultText"
 msgid "[Memorandum: R. Morris]"
-msgstr ""
+msgstr "[Memorandum: R. Morris]"
 
 #: conversations/00_emerald_vale/00_cp_greenhouse_lab_02:13
 msgctxt "conversations/00_emerald_vale/00_cp_greenhouse_lab_02:13:DefaultText"
@@ -125,4 +125,4 @@ msgid "Emerald Vale Botanical Lab and Experimental Facility\r\n"
 "\r\n"
 "I suspect it may simply be a question of plant nutrition. Good soil requires a healthy mix of organic compounds. If corporate had sent us decent fertilizer, we might have seen some real success. Unfortunately, we've had to make do with the old, rotten contents of saltuna cans. \r\n"
 ""
-msgstr ""
+msgstr "Emerald Vale Botanical Lab and Experimental Facility A Spacer's Choice Property ======================== MEMORANDUM Od: Morrisovi Pro: R: R. Morrisovi: SELF Naše pozice byla ukončena, takže nevidím důvod, proč toto memorandum skrývat za heslem. Tento terminál už nikdo nikdy neuvidí. Moje experimenty byly od začátku chybné. Naše mateřská společnost nám odmítla poslat odpovídající experimentální vybavení s odvoláním na rozpočtové problémy. Jsem si jistý, že účetní na ústředí vědí, co dělají, takže je nemohu zpochybňovat. Osobně nevím, proč půda ve Smaragdovém údolí odolává každému našemu pokusu o kultivaci. Místní vulkanismus a biosféra bohatá na původní flóru podporuje možnost botanického pěstování. Ale zdá se, že nic neroste. Mám podezření, že to může být jednoduše otázka výživy rostlin. Dobrá půda vyžaduje zdravou směs organických látek. Kdyby nám společnost poslala slušné hnojivo, mohli jsme se dočkat skutečného úspěchu. Bohužel jsme se museli spokojit se starým, shnilým obsahem plechovek od saltuny."

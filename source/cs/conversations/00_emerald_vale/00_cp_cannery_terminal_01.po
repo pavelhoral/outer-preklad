@@ -8,12 +8,12 @@ msgid "Edgewater Saltuna Cannery\r\n"
 "Terminal Access\r\n"
 "\r\n"
 "Company Notifications"
-msgstr ""
+msgstr "Edgewater Saltuna Cannery A Spacer's Choice Property ======================== Terminal Access Company Notifications"
 
 #: conversations/00_emerald_vale/00_cp_cannery_terminal_01:2
 msgctxt "conversations/00_emerald_vale/00_cp_cannery_terminal_01:2:DefaultText"
 msgid "[Continue]"
-msgstr ""
+msgstr "[Pokračovat]"
 
 #: conversations/00_emerald_vale/00_cp_cannery_terminal_01:3
 msgctxt "conversations/00_emerald_vale/00_cp_cannery_terminal_01:3:DefaultText"
@@ -31,14 +31,16 @@ msgid "Edgewater Saltuna Cannery\r\n"
 "Medical treatment is a privilege, not a right. We must strive every day to demonstrate our worthiness of that privilege. \n"
 "\n"
 "If you find yourself suffering the symptoms of incipient plague, the best thing you can do for yourself and for your family is to don your jumpers and come to work. Work fortifies the spirit. Physical illness recapitulates spiritual weakness."
-msgstr ""
+msgstr "Konzervárna Edgewater Saltuna Spacer's Choice Property ======================== Z kanceláře Reeda Tobsona, správce základny: Příznaky infekce nyní dosáhly kritického množství. Nařídil jsem našim zaměstnancům, aby přeměnili staré obydlí na lazaret. Mor je realitou života na hranici. A od nás jako od Vesmířanů se očekává, že budeme realitě čelit. A realita je taková, že nemáme dost léků, abychom vás všechny mohli léčit. Lékařská péče je výsada, ne právo. Musíme se každý den snažit, abychom prokázali, že si toto privilegium zasloužíme. \n"
+"\n"
+"Pokud zjistíte, že trpíte příznaky počínajícího moru, to nejlepší, co můžete pro sebe a svou rodinu udělat, je obléknout si svetr a přijít do práce. Práce posiluje ducha. Tělesná nemoc rekapituluje duchovní slabost."
 
 #: conversations/00_emerald_vale/00_cp_cannery_terminal_01:4
 msgctxt "conversations/00_emerald_vale/00_cp_cannery_terminal_01:4:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"
 
 #: conversations/00_emerald_vale/00_cp_cannery_terminal_01:5
 msgctxt "conversations/00_emerald_vale/00_cp_cannery_terminal_01:5:DefaultText"
 msgid "[Return to Root]"
-msgstr ""
+msgstr "[Zpět na kořen]"

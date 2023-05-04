@@ -4,32 +4,32 @@ msgid "Prismatic Hammer Research Terminal\r\n"
 "============================\r\n"
 "\r\n"
 "Main menu"
-msgstr ""
+msgstr "Výzkumný terminál Prismatic Hammer ============================ Hlavní menu"
 
 #: conversations/01_groundbreaker/01_cp_scihammer_terminal:2
 msgctxt "conversations/01_groundbreaker/01_cp_scihammer_terminal:2:DefaultText"
 msgid "[Log 01 - Discovery]"
-msgstr ""
+msgstr "[Deník 01 - Objev]"
 
 #: conversations/01_groundbreaker/01_cp_scihammer_terminal:3
 msgctxt "conversations/01_groundbreaker/01_cp_scihammer_terminal:3:DefaultText"
 msgid "[Log 02 - Mystery]"
-msgstr ""
+msgstr "[Deník 02 - Záhada]"
 
 #: conversations/01_groundbreaker/01_cp_scihammer_terminal:4
 msgctxt "conversations/01_groundbreaker/01_cp_scihammer_terminal:4:DefaultText"
 msgid "[Log 03 - Troubles]"
-msgstr ""
+msgstr "[Deník 03 - Problémy]"
 
 #: conversations/01_groundbreaker/01_cp_scihammer_terminal:5
 msgctxt "conversations/01_groundbreaker/01_cp_scihammer_terminal:5:DefaultText"
 msgid "[Log 04 - Annihilation]"
-msgstr ""
+msgstr "[Deník 04 - Zkáza]"
 
 #: conversations/01_groundbreaker/01_cp_scihammer_terminal:6
 msgctxt "conversations/01_groundbreaker/01_cp_scihammer_terminal:6:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"
 
 #: conversations/01_groundbreaker/01_cp_scihammer_terminal:8
 msgctxt "conversations/01_groundbreaker/01_cp_scihammer_terminal:8:DefaultText"
@@ -43,7 +43,7 @@ msgid "Prismatic Hammer Research Terminal\r\n"
 "I didn't know Hammersmith actually made hammers, but I've brought it to my lab for a closer look.\r\n"
 "\r\n"
 "How strangely it glows. The trail of its wake lingers even when my eyes are closed. "
-msgstr ""
+msgstr "Výzkumný terminál Prismatického kladiva ============================ Vstup 01: Při prohledávání zadních prostor jsem objevil velmi starou bednu s kladivem, která byla zřejmě velmi dlouho zapečetěná. S trochou loketního tuku a odhodlání jsem ji vypáčil, ale nedokázal jsem se ve svém objevu vyznat - prototyp kladiva. Nevěděl jsem, že Hammersmith skutečně vyrábí kladiva, ale přinesl jsem ho do laboratoře, abych si ho prohlédl zblízka. Jak podivně svítí. Stopa po něm zůstává, i když mám zavřené oči. "
 
 #: conversations/01_groundbreaker/01_cp_scihammer_terminal:9
 msgctxt "conversations/01_groundbreaker/01_cp_scihammer_terminal:9:DefaultText"
@@ -55,7 +55,7 @@ msgid "Prismatic Hammer Research Terminal\r\n"
 "I've spent more time on the hammer. Its internal workings are state of the art - thermal, electrical, and chemical systems all working in harmony. How is this even possible? The weapon is a breakthrough in circuitry and engineering, and many of its systems appear rigged against tampering. \r\n"
 "\r\n"
 "There's a curious energy signature swirling about the weapon, though I have yet to identify the source. The air tastes of copper. And I have lost several teeth. "
-msgstr ""
+msgstr "Prismatické kladivo Výzkumný terminál ============================ Položka 02: Kladivu jsem věnoval více času. Jeho vnitřní fungování je na špičkové úrovni - tepelné, elektrické a chemické systémy pracují v harmonii. Jak je to vůbec možné? Zbraň je průlomem v obvodech a technice a zdá se, že mnoho jejích systémů je upraveno proti manipulaci. Kolem zbraně víří podivná energetická signatura, ačkoli se mi ještě nepodařilo identifikovat její zdroj. Vzduch chutná po mědi. A přišel jsem o několik zubů. "
 
 #: conversations/01_groundbreaker/01_cp_scihammer_terminal:10
 msgctxt "conversations/01_groundbreaker/01_cp_scihammer_terminal:10:DefaultText"
@@ -71,7 +71,7 @@ msgid "Prismatic Hammer Research Terminal\r\n"
 "Now for the bad. In my attempts to neuter the self-destruct functionality, I inadvertently caused a small fire. The hammer's manual controls may never function again. Swinging it seems to be the only way of cycling through its elemental modes.\r\n"
 "\r\n"
 "I must take greater care with future experiments."
-msgstr ""
+msgstr "Prismatické kladivo Výzkumný terminál ============================ Zápis 03: Od té doby, co jsem pozval kladivo do své ložnice, mám ty nejvznešenější prismatické sny. Toho si teď nevšímejte. Nejdřív dobré zprávy. Energetická signatura se shoduje s Blondiotovým nepolapitelným N-zářením, což zvyšuje elementární vlastnosti kladiva na čtyři: šok, plazma, koroze a radiace. Teď ty špatné. Při pokusu o vyřazení autodestrukční funkce jsem nechtěně způsobil malý požár. Ruční ovládání kladiva už možná nikdy nebude fungovat. Zdá se, že jediným způsobem, jak přepínat mezi jeho živlovými režimy, je máchání. Při dalších experimentech musím být opatrnější."
 
 #: conversations/01_groundbreaker/01_cp_scihammer_terminal:11
 msgctxt "conversations/01_groundbreaker/01_cp_scihammer_terminal:11:DefaultText"
@@ -85,17 +85,17 @@ msgid "Prismatic Hammer Research Terminal\r\n"
 "The hammer is a lesson. A symbol. It whispers to me that disorder rules all things, but with a little ambition we can harness that power. Only by inflicting chaos upon others can we transmute disorder into harmony. \r\n"
 "\r\n"
 "And that is a lesson Halcyon is not ready to hear. "
-msgstr ""
+msgstr "Prismatické kladivo Výzkumný terminál ============================ Vstup 04: Dovolil jsem si zamknout se v dílně. Moje kutilství bylo k ničemu. Tohle není žádný prototyp - jsem prostě příliš nedokonalý na to, abych rozpoznal jeho dokonalost. Kladivo je poučení. Symbol. Našeptává mi, že nepořádek vládne všem věcem, ale s trochou ctižádosti můžeme tuto sílu využít. Pouze způsobením chaosu ostatním můžeme přetvořit nepořádek v harmonii. A to je lekce, kterou Halcyon není připraven slyšet. "
 
 #: conversations/01_groundbreaker/01_cp_scihammer_terminal:12
 msgctxt "conversations/01_groundbreaker/01_cp_scihammer_terminal:12:DefaultText"
 msgid "[Return to Root]"
-msgstr ""
+msgstr "[Zpět na kořen]"
 
 #: conversations/01_groundbreaker/01_cp_scihammer_terminal:13
 msgctxt "conversations/01_groundbreaker/01_cp_scihammer_terminal:13:DefaultText"
 msgid "[Logs]"
-msgstr ""
+msgstr "[Deníky]"
 
 #: conversations/01_groundbreaker/01_cp_scihammer_terminal:14
 msgctxt "conversations/01_groundbreaker/01_cp_scihammer_terminal:14:DefaultText"
@@ -105,4 +105,4 @@ msgid "Prismatic Hammer Research Terminal\r\n"
 "Displaying log entries.\r\n"
 "\r\n"
 "Last log entry date: ERROR - ABERRANT INTERFERENCE."
-msgstr ""
+msgstr "Prismatic Hammer Research Terminal ============================ Zobrazení záznamů v protokolu. Datum posledního záznamu v protokolu: ERROR - ABERRANT INTERFERENCE."

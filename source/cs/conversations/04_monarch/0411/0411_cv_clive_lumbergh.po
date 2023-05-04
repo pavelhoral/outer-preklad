@@ -1,589 +1,589 @@
 #: conversations/04_monarch/0411/0411_cv_clive_lumbergh:1
 msgctxt "conversations/04_monarch/0411/0411_cv_clive_lumbergh:1:DefaultText"
 msgid "Whoa, now! And just what do you figure you are doing up here?"
-msgstr ""
+msgstr "Hej, teď! A co si myslíš, že tady děláš?"
 
 #: conversations/04_monarch/0411/0411_cv_clive_lumbergh:2
 msgctxt "conversations/04_monarch/0411/0411_cv_clive_lumbergh:2:DefaultText"
 msgid "SubLight sent me to kill you. But I'm sure we can work something out."
-msgstr ""
+msgstr "SubLight mě poslal, abych tě zabil. Ale jsem si jistý, že to nějak vyřešíme."
 
 #: conversations/04_monarch/0411/0411_cv_clive_lumbergh:3
 msgctxt "conversations/04_monarch/0411/0411_cv_clive_lumbergh:3:DefaultText"
 msgid "<Attack> Please, don't take this personally."
-msgstr ""
+msgstr "<Attack> Prosím, neberte si to osobně."
 
 #: conversations/04_monarch/0411/0411_cv_clive_lumbergh:4
 msgctxt "conversations/04_monarch/0411/0411_cv_clive_lumbergh:4:DefaultText"
 msgid "I should go."
-msgstr ""
+msgstr "Měl bych jít."
 
 #: conversations/04_monarch/0411/0411_cv_clive_lumbergh:5
 msgctxt "conversations/04_monarch/0411/0411_cv_clive_lumbergh:5:DefaultText"
 msgid "Listen, friend. The Boarst King of Monarch does not negotiate with coveters. How about you bring me Catherine's severed head, and I will gift you a lifetime supply of boarst. "
-msgstr ""
+msgstr "Poslouchej, příteli. Král monarchie Boarst s lovci nevyjednává. Co kdybys mi přinesl Kateřininu useknutou hlavu a já ti daruji doživotní zásobu kančího masa. "
 
 #: conversations/04_monarch/0411/0411_cv_clive_lumbergh:6
 msgctxt "conversations/04_monarch/0411/0411_cv_clive_lumbergh:6:DefaultText"
 msgid "Good deal. I'll kill Catherine for you."
-msgstr ""
+msgstr "Dobrá nabídka. Zabiju za tebe Catherine."
 
 #: conversations/04_monarch/0411/0411_cv_clive_lumbergh:7
 msgctxt "conversations/04_monarch/0411/0411_cv_clive_lumbergh:7:DefaultText"
 msgid "I get the sense that you've disappeared bodies before. This is a valuable skill to Catherine."
-msgstr ""
+msgstr "Mám pocit, že už jsi někdy zmizel. To je pro Catherine cenná dovednost."
 
 #: conversations/04_monarch/0411/0411_cv_clive_lumbergh:10
 msgctxt "conversations/04_monarch/0411/0411_cv_clive_lumbergh:10:DefaultText"
 msgid "<Attack> You can choke on your lifetime supply of boarst."
-msgstr ""
+msgstr "<Útok> Můžeš se udusit svou celoživotní zásobou kančího masa."
 
 #: conversations/04_monarch/0411/0411_cv_clive_lumbergh:11
 msgctxt "conversations/04_monarch/0411/0411_cv_clive_lumbergh:11:DefaultText"
 msgid "Is that a blind taste test in the other room?"
-msgstr ""
+msgstr "Je to slepý ochutnávací test ve vedlejší místnosti?"
 
 #: conversations/04_monarch/0411/0411_cv_clive_lumbergh:12
 msgctxt "conversations/04_monarch/0411/0411_cv_clive_lumbergh:12:DefaultText"
 msgid "Indeed, it is. Did you partake of the experiment? I would like to hear your assessment of the quality of each sample, if so."
-msgstr ""
+msgstr "Vskutku je. Zúčastnili jste se experimentu? Rád bych slyšel vaše hodnocení kvality jednotlivých vzorků, pokud ano."
 
 #: conversations/04_monarch/0411/0411_cv_clive_lumbergh:13
 msgctxt "conversations/04_monarch/0411/0411_cv_clive_lumbergh:13:DefaultText"
 msgid "I did."
-msgstr ""
+msgstr "To jsem udělal."
 
 #: conversations/04_monarch/0411/0411_cv_clive_lumbergh:14
 msgctxt "conversations/04_monarch/0411/0411_cv_clive_lumbergh:14:DefaultText"
 msgid "I haven't yet."
-msgstr ""
+msgstr "Ještě jsem to neudělal."
 
 #: conversations/04_monarch/0411/0411_cv_clive_lumbergh:15
 msgctxt "conversations/04_monarch/0411/0411_cv_clive_lumbergh:15:DefaultText"
 msgid "Not interested."
-msgstr ""
+msgstr "Nemá zájem."
 
 #: conversations/04_monarch/0411/0411_cv_clive_lumbergh:16
 msgctxt "conversations/04_monarch/0411/0411_cv_clive_lumbergh:16:DefaultText"
 msgid "Oh, the King will make it awful worth your while. In fact, he would fancy to mount her head right above his desk."
-msgstr ""
+msgstr "Díky králi to bude stát za to. Vlastně by si rád její hlavu pověsil přímo nad svůj stůl."
 
 #: conversations/04_monarch/0411/0411_cv_clive_lumbergh:17
 msgctxt "conversations/04_monarch/0411/0411_cv_clive_lumbergh:17:DefaultText"
 msgid "For true? You figure she will appreciate my skills? They did take me years to perfect."
-msgstr ""
+msgstr "Je to pravda? Myslíš, že ocení mé schopnosti? Trvalo mi roky, než jsem je zdokonalil."
 
 #: conversations/04_monarch/0411/0411_cv_clive_lumbergh:20
 msgctxt "conversations/04_monarch/0411/0411_cv_clive_lumbergh:20:DefaultText"
 msgid "So. What can I do for you? My full attention is at your disposal."
-msgstr ""
+msgstr "Takže. Co pro vás mohu udělat? Jsem vám plně k dispozici."
 
 #: conversations/04_monarch/0411/0411_cv_clive_lumbergh:21
 msgctxt "conversations/04_monarch/0411/0411_cv_clive_lumbergh:21:DefaultText"
 msgid "Have you handled it? 'Cause the King don't care to wait, friend."
-msgstr ""
+msgstr "Zvládli jste to? Protože král nechce čekat, příteli."
 
 #: conversations/04_monarch/0411/0411_cv_clive_lumbergh:22
 msgctxt "conversations/04_monarch/0411/0411_cv_clive_lumbergh:22:DefaultText"
 msgid "<Attack> I know we had a deal, but it's easier if you just die."
-msgstr ""
+msgstr "<Attack> Vím, že jsme měli dohodu, ale je jednodušší, když prostě umřeš."
 
 #: conversations/04_monarch/0411/0411_cv_clive_lumbergh:24
 msgctxt "conversations/04_monarch/0411/0411_cv_clive_lumbergh:24:DefaultText"
 msgid "Why the disturbance? I've got bodies to disapp - er, reassign their work schedules. Speak up, friend. The Boarst King is a busy man."
-msgstr ""
+msgstr "Proč to vyrušení? Mám orgány, které musím rozdělit - ehm, přeřadit jejich pracovní rozvrhy. Mluvte nahlas, příteli. Král Boarst je zaneprázdněný muž."
 
 #: conversations/04_monarch/0411/0411_cv_clive_lumbergh:29
 msgctxt "conversations/04_monarch/0411/0411_cv_clive_lumbergh:29:DefaultText"
 msgid "Marvelous. Now to your predilection which of the sample cans spurred your appetite for more? Blue, Red, or Green? "
-msgstr ""
+msgstr "Úžasné. A teď k vaší zálibě, která ze vzorových plechovek ve vás vzbudila chuť na další? Modrá, červená nebo zelená? "
 
 #: conversations/04_monarch/0411/0411_cv_clive_lumbergh:30
 msgctxt "conversations/04_monarch/0411/0411_cv_clive_lumbergh:30:DefaultText"
 msgid "Don't wait so long the meat rots. Then I won't be able to trust your answers."
-msgstr ""
+msgstr "Nečekejte tak dlouho, až maso shnije. Pak nebudu moci věřit tvým odpovědím."
 
 #: conversations/04_monarch/0411/0411_cv_clive_lumbergh:37
 msgctxt "conversations/04_monarch/0411/0411_cv_clive_lumbergh:37:DefaultText"
 msgid "I could always kill Catherine instead of work for her. For the right price."
-msgstr ""
+msgstr "Vždycky jsem mohl Catherine zabít, místo abych pro ni pracoval. Za správnou cenu."
 
 #: conversations/04_monarch/0411/0411_cv_clive_lumbergh:41
 msgctxt "conversations/04_monarch/0411/0411_cv_clive_lumbergh:41:DefaultText"
 msgid "You ain't a very loyal employee, are you? Still, I reckon it's better that sow than me be led to the slaughterhouse."
-msgstr ""
+msgstr "Nejste zrovna loajální zaměstnanec, že? Přesto si myslím, že je lepší, když se na jatka dostane ta prasnice než já."
 
 #: conversations/04_monarch/0411/0411_cv_clive_lumbergh:48
 msgctxt "conversations/04_monarch/0411/0411_cv_clive_lumbergh:48:DefaultText"
 msgid "The deed's done. Catherine's dead."
-msgstr ""
+msgstr "Čin je dokonán. Catherine je mrtvá."
 
 #: conversations/04_monarch/0411/0411_cv_clive_lumbergh:49
 msgctxt "conversations/04_monarch/0411/0411_cv_clive_lumbergh:49:DefaultText"
 msgid "Thank the dark stars. And I want you to know, friend, this head - Catherine's head - it means something to me."
-msgstr ""
+msgstr "Poděkujte temným hvězdám. A chci, abys věděl, příteli, že tahle hlava - Catherinina hlava - pro mě něco znamená."
 
 #: conversations/04_monarch/0411/0411_cv_clive_lumbergh:51
 msgctxt "conversations/04_monarch/0411/0411_cv_clive_lumbergh:51:DefaultText"
 msgid "Ahem. The King reckons he owes you this much, yes. Expect periodic deliveries of boarstwurst to your ship."
-msgstr ""
+msgstr "Ehm. Král si myslí, že vám tolik dluží, ano. Očekávejte pravidelné dodávky kančího masa na vaši loď."
 
 #: conversations/04_monarch/0411/0411_cv_clive_lumbergh:52
 msgctxt "conversations/04_monarch/0411/0411_cv_clive_lumbergh:52:DefaultText"
 msgid "Why can't you and Catherine just bury the hatchet?"
-msgstr ""
+msgstr "Proč prostě s Catherine nemůžete zakopat válečnou sekeru?"
 
 #: conversations/04_monarch/0411/0411_cv_clive_lumbergh:53
 msgctxt "conversations/04_monarch/0411/0411_cv_clive_lumbergh:53:DefaultText"
 msgid "Not what I expected. But I shan't complain."
-msgstr ""
+msgstr "To jsem nečekal. Ale nestěžuji si."
 
 #: conversations/04_monarch/0411/0411_cv_clive_lumbergh:54
 msgctxt "conversations/04_monarch/0411/0411_cv_clive_lumbergh:54:DefaultText"
 msgid "What became of the plan for our partnership? I do not fancy unexpected occurrences. You ought to know."
-msgstr ""
+msgstr "Co se stalo s plánem našeho partnerství? Nemám rád nečekané události. Měl bys to vědět."
 
 #: conversations/04_monarch/0411/0411_cv_clive_lumbergh:55
 msgctxt "conversations/04_monarch/0411/0411_cv_clive_lumbergh:55:DefaultText"
 msgid "Still. Ahem. A deal is a deal. And the King... he values those loyal to him. And he is awful generous to them. Yes. "
-msgstr ""
+msgstr "Přesto. Ehm. Dohoda je dohoda. A král... si váží těch, kteří jsou mu věrní. A je k nim strašně štědrý. Ano. "
 
 #: conversations/04_monarch/0411/0411_cv_clive_lumbergh:56
 msgctxt "conversations/04_monarch/0411/0411_cv_clive_lumbergh:56:DefaultText"
 msgid "You are looking awful fine. Well-seasoned. Ahem. I mean, 'tis always a pleasure to see you, friend."
-msgstr ""
+msgstr "Vypadáš strašně dobře. Dobře vyladěný. Ehm. Vždycky tě rád vidím, příteli."
 
 #: conversations/04_monarch/0411/0411_cv_clive_lumbergh:57
 msgctxt "conversations/04_monarch/0411/0411_cv_clive_lumbergh:57:DefaultText"
 msgid "Business is booming! And the King owes his life to you. Thank you. For all you have done."
-msgstr ""
+msgstr "Obchod vzkvétá! A král vám vděčí za svůj život. Děkujeme. Za všechno, co jsi udělal."
 
 #: conversations/04_monarch/0411/0411_cv_clive_lumbergh:58
 msgctxt "conversations/04_monarch/0411/0411_cv_clive_lumbergh:58:DefaultText"
 msgid "What if you and Catherine partnered up. Two great empires combined."
-msgstr ""
+msgstr "Co kdybyste se s Catherine spojili. Spojení dvou velkých říší."
 
 #: conversations/04_monarch/0411/0411_cv_clive_lumbergh:59
 msgctxt "conversations/04_monarch/0411/0411_cv_clive_lumbergh:59:DefaultText"
 msgid "You desire that I should lower myself to Catherine's level of crassness and filth? I cannot fathom how that would cotton, myself."
-msgstr ""
+msgstr "Chceš, abych se snížil na úroveň Kateřininy sprostoty a oplzlosti? Sám si nedokážu představit, jak by to mohlo být v bavlnce."
 
 #: conversations/04_monarch/0411/0411_cv_clive_lumbergh:60
 msgctxt "conversations/04_monarch/0411/0411_cv_clive_lumbergh:60:DefaultText"
 msgid "Aw, c'mon. Catherine's a swell lady and a fine business partner."
-msgstr ""
+msgstr "Ale no tak. Catherine je skvělá dáma a dobrá obchodní partnerka."
 
 #: conversations/04_monarch/0411/0411_cv_clive_lumbergh:61
 msgctxt "conversations/04_monarch/0411/0411_cv_clive_lumbergh:61:DefaultText"
 msgid "Never mind."
-msgstr ""
+msgstr "Nevadí."
 
 #: conversations/04_monarch/0411/0411_cv_clive_lumbergh:62
 msgctxt "conversations/04_monarch/0411/0411_cv_clive_lumbergh:62:DefaultText"
 msgid "According to whom?"
-msgstr ""
+msgstr "Podle koho?"
 
 #: conversations/04_monarch/0411/0411_cv_clive_lumbergh:63
 msgctxt "conversations/04_monarch/0411/0411_cv_clive_lumbergh:63:DefaultText"
 msgid "I'll think it over and get back to you."
-msgstr ""
+msgstr "Promyslím si to a ozvu se vám."
 
 #: conversations/04_monarch/0411/0411_cv_clive_lumbergh:75
 msgctxt "conversations/04_monarch/0411/0411_cv_clive_lumbergh:75:DefaultText"
 msgid "Why do you yet linger? I don't suppose you wish to join me for a meal."
-msgstr ""
+msgstr "Proč se ještě zdržujete? Nepředpokládám, že byste se ke mně chtěl připojit k jídlu."
 
 #: conversations/04_monarch/0411/0411_cv_clive_lumbergh:77
 msgctxt "conversations/04_monarch/0411/0411_cv_clive_lumbergh:77:DefaultText"
 msgid "I got places to see, people to carve to ribs - ahem. I mean, partake in professionally appropriate conversations with."
-msgstr ""
+msgstr "Mám místa, která musím vidět, lidi, které musím naporcovat na žebra - ehm. Chci říct, účastnit se profesionálně vhodných rozhovorů."
 
 #: conversations/04_monarch/0411/0411_cv_clive_lumbergh:78
 msgctxt "conversations/04_monarch/0411/0411_cv_clive_lumbergh:78:DefaultText"
 msgid "Seems I caught you off guard."
-msgstr ""
+msgstr "Zdá se, že jsem tě zaskočil."
 
 #: conversations/04_monarch/0411/0411_cv_clive_lumbergh:79
 msgctxt "conversations/04_monarch/0411/0411_cv_clive_lumbergh:79:DefaultText"
 msgid "Untrue. I merely did not expect a visitor in my private chambers. Where I expect solitude while I slaughter them who disobey - ahem. While I butcher my dinner."
-msgstr ""
+msgstr "Nepravda. Jen jsem nečekal návštěvu ve svých soukromých komnatách. Kde očekávám samotu, zatímco budu zabíjet ty, kteří neposlechnou - ehm. Zatímco si budu porcovat večeři."
 
 #: conversations/04_monarch/0411/0411_cv_clive_lumbergh:80
 msgctxt "conversations/04_monarch/0411/0411_cv_clive_lumbergh:80:DefaultText"
 msgid "These are my private quarters, friend. I don't allow tours up here. Don't allow tours ever, on deeper consideration."
-msgstr ""
+msgstr "Toto jsou mé soukromé prostory, příteli. Sem nahoru prohlídky nepovoluju. Po hlubší úvaze nepovolujte prohlídky nikdy."
 
 #: conversations/04_monarch/0411/0411_cv_clive_lumbergh:81
 msgctxt "conversations/04_monarch/0411/0411_cv_clive_lumbergh:81:DefaultText"
 msgid "I'm not here for a tour."
-msgstr ""
+msgstr "Nejsem tu kvůli prohlídce."
 
 #: conversations/04_monarch/0411/0411_cv_clive_lumbergh:82
 msgctxt "conversations/04_monarch/0411/0411_cv_clive_lumbergh:82:DefaultText"
 msgid "Yes, of course. That much is clear on account of your uniform. But I don't know you so didn't take you for one of mine. "
-msgstr ""
+msgstr "Ano, samozřejmě. To je zřejmé z vaší uniformy. Ale já vás neznám, takže jsem vás nepovažoval za jednoho z mých. "
 
 #: conversations/04_monarch/0411/0411_cv_clive_lumbergh:83
 msgctxt "conversations/04_monarch/0411/0411_cv_clive_lumbergh:83:DefaultText"
 msgid "I ought to can you for slacking on the job. Ought to grind you through the machine. Give me one fine reason not to make you the King's dinner."
-msgstr ""
+msgstr "Měl bych tě zavřít za to, že se flákáš v práci. Měl bych tě rozemlít na prach. Dejte mi jediný důvod, abych z vás neudělal královskou večeři."
 
 #: conversations/04_monarch/0411/0411_cv_clive_lumbergh:84
 msgctxt "conversations/04_monarch/0411/0411_cv_clive_lumbergh:84:DefaultText"
 msgid "You've got blood on your shirt. Right... there. No, lower."
-msgstr ""
+msgstr "Na košili máš krev. Přímo... tady. Ne, dole."
 
 #: conversations/04_monarch/0411/0411_cv_clive_lumbergh:85
 msgctxt "conversations/04_monarch/0411/0411_cv_clive_lumbergh:85:DefaultText"
 msgid "Certain things require a mess to do well. See, I was just killing... some time. I prefer to prepare my dinner by my own hand. Nothing like fresh and bloody... boarstwurst."
-msgstr ""
+msgstr "Některé věci vyžadují nepořádek, aby se dobře dělaly. Vidíš, jen jsem zabíjel... nějaký čas. Raději si připravuji večeři vlastnoručně. Není nad čerstvé a krvavé... kančí hovězí."
 
 #: conversations/04_monarch/0411/0411_cv_clive_lumbergh:86
 msgctxt "conversations/04_monarch/0411/0411_cv_clive_lumbergh:86:DefaultText"
 msgid "Right. On account of - ahem - seeing as I ain't ever approved one. So, as my way of saying welcome, I must ask you."
-msgstr ""
+msgstr "Vpravo. Protože - ehm - jsem nikdy žádnou neschválil. Takže na uvítanou se vás musím zeptat."
 
 #: conversations/04_monarch/0411/0411_cv_clive_lumbergh:87
 msgctxt "conversations/04_monarch/0411/0411_cv_clive_lumbergh:87:DefaultText"
 msgid "What in the blackest hole would possess you to traipse into my office? Uninvited. Unannounced. Propelled, no doubt, by some form of death wish."
-msgstr ""
+msgstr "Co tě v té nejčernější díře vedlo k tomu, abys vlezl do mé kanceláře? Nepozvána. Neohlášeně. Nepochybně hnán nějakou formou přání smrti."
 
 #: conversations/04_monarch/0411/0411_cv_clive_lumbergh:88
 msgctxt "conversations/04_monarch/0411/0411_cv_clive_lumbergh:88:DefaultText"
 msgid "Intrusions - and infractions - really quicken me with anger."
-msgstr ""
+msgstr "Narušení - a přestupky - mě opravdu rozčilují."
 
 #: conversations/04_monarch/0411/0411_cv_clive_lumbergh:89
 msgctxt "conversations/04_monarch/0411/0411_cv_clive_lumbergh:89:DefaultText"
 msgid "By SubLight, you mean Catherine, do you not? That greedy star-crossed sow."
-msgstr ""
+msgstr "Tím SubLight myslíte Catherine, že? Tu chamtivou hvězdnou prasnici."
 
 #: conversations/04_monarch/0411/0411_cv_clive_lumbergh:90
 msgctxt "conversations/04_monarch/0411/0411_cv_clive_lumbergh:90:DefaultText"
 msgid "It? A fair and handsome deal is what it is."
-msgstr ""
+msgstr "To? Je to férová a výhodná dohoda."
 
 #: conversations/04_monarch/0411/0411_cv_clive_lumbergh:91
 msgctxt "conversations/04_monarch/0411/0411_cv_clive_lumbergh:91:DefaultText"
 msgid "Betwixt her shoulder blades? Gladly."
-msgstr ""
+msgstr "Mezi lopatkami? S radostí."
 
 #: conversations/04_monarch/0411/0411_cv_clive_lumbergh:92
 msgctxt "conversations/04_monarch/0411/0411_cv_clive_lumbergh:92:DefaultText"
 msgid "Piss. And I had hoped it might not come to this."
-msgstr ""
+msgstr "Čůrat. A já doufal, že k tomu nedojde."
 
 #: conversations/04_monarch/0411/0411_cv_clive_lumbergh:93
 msgctxt "conversations/04_monarch/0411/0411_cv_clive_lumbergh:93:DefaultText"
 msgid "Never mind? Never I should mind?! I will never you right up your dark - ahem. I mean, all right. Yes."
-msgstr ""
+msgstr "Nevadí? Nikdy by mi to nemělo vadit?! Nikdy ti nebudu vadit přímo do tvého temného - ehm. Chci říct, v pořádku. Ano."
 
 #: conversations/04_monarch/0411/0411_cv_clive_lumbergh:94
 msgctxt "conversations/04_monarch/0411/0411_cv_clive_lumbergh:94:DefaultText"
 msgid "All right. Ahem. You got yourself a deal with the King. And a handsome one it is."
-msgstr ""
+msgstr "Dobře. Ehm. Máš dohodu s králem. A to pěknou."
 
 #: conversations/04_monarch/0411/0411_cv_clive_lumbergh:95
 msgctxt "conversations/04_monarch/0411/0411_cv_clive_lumbergh:95:DefaultText"
 msgid "Something I like to savor - the taste of victory. Better than boarstwurst, it is. I swear, if you haven't - "
-msgstr ""
+msgstr "Něco, co si rád vychutnávám - chuť vítězství. Je to lepší než kančí klobása. Přísahám, že jestli jsi - "
 
 #: conversations/04_monarch/0411/0411_cv_clive_lumbergh:96
 msgctxt "conversations/04_monarch/0411/0411_cv_clive_lumbergh:96:DefaultText"
 msgid "Easier for who? You knee-knocking boarst-shitting sack of organs!"
-msgstr ""
+msgstr "Pro koho je to jednodušší? Pro tebe, ty pytle orgánů, co se ti podlamují kolena!"
 
 #: conversations/04_monarch/0411/0411_cv_clive_lumbergh:97
 msgctxt "conversations/04_monarch/0411/0411_cv_clive_lumbergh:97:DefaultText"
 msgid "Make it so. And make it swift. And the King shall reward you with a mountain of cysty-flesh like you cannot believe."
-msgstr ""
+msgstr "Udělejte to tak. Ať je to rychlé. A král se ti odmění horou cysty-masa, kterému bys nevěřil."
 
 #: conversations/04_monarch/0411/0411_cv_clive_lumbergh:98
 msgctxt "conversations/04_monarch/0411/0411_cv_clive_lumbergh:98:DefaultText"
 msgid "See that you do, friend. See. That. You. Do."
-msgstr ""
+msgstr "Dohlédni na to, příteli. Viz. To. Ty. Děláte."
 
 #: conversations/04_monarch/0411/0411_cv_clive_lumbergh:99
 msgctxt "conversations/04_monarch/0411/0411_cv_clive_lumbergh:99:DefaultText"
 msgid "No, I don't see the advantage to me. Besides - ahem - didn't anyone tell you? The King don't bow to demands nor stoop to negotiations, friend."
-msgstr ""
+msgstr "Ne, nevidím v tom žádnou výhodu. Kromě toho - ehm - to ti nikdo neřekl? Král se neskloní před požadavky ani se nesníží k vyjednávání, příteli."
 
 #: conversations/04_monarch/0411/0411_cv_clive_lumbergh:100
 msgctxt "conversations/04_monarch/0411/0411_cv_clive_lumbergh:100:DefaultText"
 msgid "If it will keep that SubLight sow off my back, then it's an undoubtedly worthwhile pursuit."
-msgstr ""
+msgstr "Pokud mi to pomůže udržet tu podsvětelnou prasnici od zad, pak se to nepochybně vyplatí."
 
 #: conversations/04_monarch/0411/0411_cv_clive_lumbergh:101
 msgctxt "conversations/04_monarch/0411/0411_cv_clive_lumbergh:101:DefaultText"
 msgid "The King is interested. John Hancock me on the dotted line, friend. I will even - ahem - give her a cut of the profits. Requiring she keeps clear of my short hairs."
-msgstr ""
+msgstr "Král má zájem. John Hancock mě na tečkovanou čáru, příteli. Dokonce jí - ehm - dám podíl ze zisku. Pod podmínkou, že se bude držet dál od mých krátkých vlasů."
 
 #: conversations/04_monarch/0411/0411_cv_clive_lumbergh:102
 msgctxt "conversations/04_monarch/0411/0411_cv_clive_lumbergh:102:DefaultText"
 msgid "Tell Catherine, she is permitted to dump the bodies each and every Tuesday. Precisely at three a.m."
-msgstr ""
+msgstr "Řekněte Catherine, že má dovoleno zbavovat se těl každé úterý. Přesně ve tři hodiny ráno."
 
 #: conversations/04_monarch/0411/0411_cv_clive_lumbergh:106
 msgctxt "conversations/04_monarch/0411/0411_cv_clive_lumbergh:106:DefaultText"
 msgid "Dinner of what?"
-msgstr ""
+msgstr "Večeře čeho?"
 
 #: conversations/04_monarch/0411/0411_cv_clive_lumbergh:107
 msgctxt "conversations/04_monarch/0411/0411_cv_clive_lumbergh:107:DefaultText"
 msgid "Sorry to disturb you."
-msgstr ""
+msgstr "Omlouvám se za vyrušení."
 
 #: conversations/04_monarch/0411/0411_cv_clive_lumbergh:108
 msgctxt "conversations/04_monarch/0411/0411_cv_clive_lumbergh:108:DefaultText"
 msgid "I do own a factory known for specializing in the canning of boarstwurst. On occasion, I like to imbibe other parts of the cystypig."
-msgstr ""
+msgstr "Vlastním továrnu, která se specializuje na konzervování kančího masa. Příležitostně si rád pochutnám i na jiných částech cystypigu."
 
 #: conversations/04_monarch/0411/0411_cv_clive_lumbergh:109
 msgctxt "conversations/04_monarch/0411/0411_cv_clive_lumbergh:109:DefaultText"
 msgid "Did you fancy me a cannibal? Perish the thought. No, I don't eat the bodies I disappear. A joke, that last was."
-msgstr ""
+msgstr "Měl jsi mě za kanibala? Zbavte se té myšlenky. Ne, nejím těla, která mizí. To poslední byl vtip."
 
 #: conversations/04_monarch/0411/0411_cv_clive_lumbergh:110
 msgctxt "conversations/04_monarch/0411/0411_cv_clive_lumbergh:110:DefaultText"
 msgid "Apology considered. Whether accepted is yet to be determined."
-msgstr ""
+msgstr "Zvažovaná omluva. O tom, zda bude přijata, se teprve rozhodne."
 
 #: conversations/04_monarch/0411/0411_cv_clive_lumbergh:111
 msgctxt "conversations/04_monarch/0411/0411_cv_clive_lumbergh:111:DefaultText"
 msgid "Cause if you were one of mine - for more than a single hour - you'd know better than to intrude, you weak-chinned cysty-sucking meatbag."
-msgstr ""
+msgstr "Protože kdybys byl jedním z mých - na víc než jednu hodinu -, věděl bys, že se nemáš vměšovat, ty slaboduchý cystický pytlíku."
 
 #: conversations/04_monarch/0411/0411_cv_clive_lumbergh:112
 msgctxt "conversations/04_monarch/0411/0411_cv_clive_lumbergh:112:DefaultText"
 msgid "Those parts are from cystypigs?"
-msgstr ""
+msgstr "Tyto části jsou z cystypigů?"
 
 #: conversations/04_monarch/0411/0411_cv_clive_lumbergh:113
 msgctxt "conversations/04_monarch/0411/0411_cv_clive_lumbergh:113:DefaultText"
 msgid "Glad you came to your senses."
-msgstr ""
+msgstr "Jsem rád, že jsi přišel k rozumu."
 
 #: conversations/04_monarch/0411/0411_cv_clive_lumbergh:114
 msgctxt "conversations/04_monarch/0411/0411_cv_clive_lumbergh:114:DefaultText"
 msgid "That's it then? "
-msgstr ""
+msgstr "To je tedy vše? "
 
 #: conversations/04_monarch/0411/0411_cv_clive_lumbergh:115
 msgctxt "conversations/04_monarch/0411/0411_cv_clive_lumbergh:115:DefaultText"
 msgid "Do not push me. I am not one to suffer insults."
-msgstr ""
+msgstr "Netlačte na mě. Nejsem ten, kdo by trpěl urážky."
 
 #: conversations/04_monarch/0411/0411_cv_clive_lumbergh:118
 msgctxt "conversations/04_monarch/0411/0411_cv_clive_lumbergh:118:DefaultText"
 msgid "Some other time perhaps."
-msgstr ""
+msgstr "Možná někdy jindy."
 
 #: conversations/04_monarch/0411/0411_cv_clive_lumbergh:119
 msgctxt "conversations/04_monarch/0411/0411_cv_clive_lumbergh:119:DefaultText"
 msgid "Blue, Red, Green, Blue."
-msgstr ""
+msgstr "Modrá, červená, zelená, modrá."
 
 #: conversations/04_monarch/0411/0411_cv_clive_lumbergh:120
 msgctxt "conversations/04_monarch/0411/0411_cv_clive_lumbergh:120:DefaultText"
 msgid "Green, Blue, Green, Red."
-msgstr ""
+msgstr "Zelená, modrá, zelená, červená."
 
 #: conversations/04_monarch/0411/0411_cv_clive_lumbergh:121
 msgctxt "conversations/04_monarch/0411/0411_cv_clive_lumbergh:121:DefaultText"
 msgid "Now which one contained the human remains?"
-msgstr ""
+msgstr "Ve kterém z nich byly lidské ostatky?"
 
 #: conversations/04_monarch/0411/0411_cv_clive_lumbergh:122
 msgctxt "conversations/04_monarch/0411/0411_cv_clive_lumbergh:122:DefaultText"
 msgid "And you said it was the one that most greatly increased your appetite for more? Now that is disturbing."
-msgstr ""
+msgstr "A říkal jste, že to byl ten, který nejvíce zvýšil vaši chuť na další? To je znepokojující."
 
 #: conversations/04_monarch/0411/0411_cv_clive_lumbergh:123
 msgctxt "conversations/04_monarch/0411/0411_cv_clive_lumbergh:123:DefaultText"
 msgid "Interesting. Peculiar even."
-msgstr ""
+msgstr "Zajímavé. Dokonce zvláštní."
 
 #: conversations/04_monarch/0411/0411_cv_clive_lumbergh:124
 msgctxt "conversations/04_monarch/0411/0411_cv_clive_lumbergh:124:DefaultText"
 msgid "Red."
-msgstr ""
+msgstr "Červená."
 
 #: conversations/04_monarch/0411/0411_cv_clive_lumbergh:125
 msgctxt "conversations/04_monarch/0411/0411_cv_clive_lumbergh:125:DefaultText"
 msgid "I don't know."
-msgstr ""
+msgstr "Nevím."
 
 #: conversations/04_monarch/0411/0411_cv_clive_lumbergh:126
 msgctxt "conversations/04_monarch/0411/0411_cv_clive_lumbergh:126:DefaultText"
 msgid "Which can had the smoothest texture? And the least? Which had the most pungent taste?"
-msgstr ""
+msgstr "Která plechovka měla nejhladší strukturu? A nejméně? Která měla nejostřejší chuť?"
 
 #: conversations/04_monarch/0411/0411_cv_clive_lumbergh:127
 msgctxt "conversations/04_monarch/0411/0411_cv_clive_lumbergh:127:DefaultText"
 msgid "Blue."
-msgstr ""
+msgstr "Modrá."
 
 #: conversations/04_monarch/0411/0411_cv_clive_lumbergh:128
 msgctxt "conversations/04_monarch/0411/0411_cv_clive_lumbergh:128:DefaultText"
 msgid "Green."
-msgstr ""
+msgstr "Zelená."
 
 #: conversations/04_monarch/0411/0411_cv_clive_lumbergh:129
 msgctxt "conversations/04_monarch/0411/0411_cv_clive_lumbergh:129:DefaultText"
 msgid "Is this a joke?"
-msgstr ""
+msgstr "Je to vtip?"
 
 #: conversations/04_monarch/0411/0411_cv_clive_lumbergh:130
 msgctxt "conversations/04_monarch/0411/0411_cv_clive_lumbergh:130:DefaultText"
 msgid "Surely, it is. And I find immense satisfaction in your answer."
-msgstr ""
+msgstr "Jistě, je to tak. A vaše odpověď mě nesmírně uspokojuje."
 
 #: conversations/04_monarch/0411/0411_cv_clive_lumbergh:131
 msgctxt "conversations/04_monarch/0411/0411_cv_clive_lumbergh:131:DefaultText"
 msgid "A fine answer. Yes, this latest ratio will do nicely."
-msgstr ""
+msgstr "Krásná odpověď. Ano, tento nejnovější poměr bude stačit."
 
 #: conversations/04_monarch/0411/0411_cv_clive_lumbergh:132
 msgctxt "conversations/04_monarch/0411/0411_cv_clive_lumbergh:132:DefaultText"
 msgid "I do thank you for participating though. I believe I must adjust the ratio before the next sampling."
-msgstr ""
+msgstr "Děkuji vám však za účast. Věřím, že před dalším odběrem vzorků musím poměr upravit."
 
 #: conversations/04_monarch/0411/0411_cv_clive_lumbergh:147
 msgctxt "conversations/04_monarch/0411/0411_cv_clive_lumbergh:147:DefaultText"
 msgid "Think I don't recognize human remains? Those aren't cystypig parts."
-msgstr ""
+msgstr "Myslíte, že nepoznám lidské ostatky? To nejsou části cystypigů."
 
 #: conversations/04_monarch/0411/0411_cv_clive_lumbergh:148
 msgctxt "conversations/04_monarch/0411/0411_cv_clive_lumbergh:148:DefaultText"
 msgid "I only meant that what you do is a skill Catherine would highly value."
-msgstr ""
+msgstr "Chtěl jsem jen říct, že to, co děláte, je dovednost, kterou by Catherine vysoce ocenila."
 
 #: conversations/04_monarch/0411/0411_cv_clive_lumbergh:149
 msgctxt "conversations/04_monarch/0411/0411_cv_clive_lumbergh:149:DefaultText"
 msgid "You think to blackmail me? Try it. The King will grind you to bone spurs and toenails."
-msgstr ""
+msgstr "Myslíš, že mě chceš vydírat? Zkuste to. Král tě rozdrtí na kost a nehty."
 
 #: conversations/04_monarch/0411/0411_cv_clive_lumbergh:150
 msgctxt "conversations/04_monarch/0411/0411_cv_clive_lumbergh:150:DefaultText"
 msgid "It's that or I kill you."
-msgstr ""
+msgstr "Buď to, nebo tě zabiju."
 
 #: conversations/04_monarch/0411/0411_cv_clive_lumbergh:151
 msgctxt "conversations/04_monarch/0411/0411_cv_clive_lumbergh:151:DefaultText"
 msgid "I don't intimidate easily. But I also am not a moron. I'd rather avoid the possibility of sustaining mortal injury by your hand."
-msgstr ""
+msgstr "Nenechám se snadno zastrašit. Ale také nejsem blbec. Raději se vyhnu možnosti utrpět smrtelné zranění vaší rukou."
 
 #: conversations/04_monarch/0411/0411_cv_clive_lumbergh:157
 msgctxt "conversations/04_monarch/0411/0411_cv_clive_lumbergh:157:DefaultText"
 msgid "The King built this golden monopoly brick by brick from the rubble when the corps abandoned Monarch. No, he ain't the sort to partner up as that requires the sharing of power and profits.  "
-msgstr ""
+msgstr "Král vybudoval tento zlatý monopol cihlu po cihle z trosek, když sbor opustil Monarchu. Ne, on není ten typ, který by spolupracoval, protože to vyžaduje sdílení moci a zisků.  "
 
 #: conversations/04_monarch/0411/0411_cv_clive_lumbergh:158
 msgctxt "conversations/04_monarch/0411/0411_cv_clive_lumbergh:158:DefaultText"
 msgid "However, I remain unconvinced she could provide the means to make the association worth my while. If you ain't noticed, I'm doing swell ruling this kingdom on my own."
-msgstr ""
+msgstr "Nejsem však stále přesvědčen, že by mi mohla poskytnout prostředky, aby se mi sdružení vyplatilo. Jestli sis nevšiml, tak se mi daří vládnout tomuto království na vlastní pěst."
 
 #: conversations/04_monarch/0411/0411_cv_clive_lumbergh:159
 msgctxt "conversations/04_monarch/0411/0411_cv_clive_lumbergh:159:DefaultText"
 msgid "Your staff doesn't appreciate you. They slack on the job, gossip behind your back."
-msgstr ""
+msgstr "Vaši zaměstnanci si vás neváží. V práci se flákají, pomlouvají vás za zády."
 
 #: conversations/04_monarch/0411/0411_cv_clive_lumbergh:160
 msgctxt "conversations/04_monarch/0411/0411_cv_clive_lumbergh:160:DefaultText"
 msgid "Catherine wants the factory. Whether I kill you or convince you matters little to either of us."
-msgstr ""
+msgstr "Catherine chce továrnu. Jestli tě zabiju, nebo přesvědčím, je pro nás málo důležité."
 
 #: conversations/04_monarch/0411/0411_cv_clive_lumbergh:161
 msgctxt "conversations/04_monarch/0411/0411_cv_clive_lumbergh:161:DefaultText"
 msgid "I do admire a properly ruthless individual."
-msgstr ""
+msgstr "Obdivuji správně bezohledné jedince."
 
 #: conversations/04_monarch/0411/0411_cv_clive_lumbergh:162
 msgctxt "conversations/04_monarch/0411/0411_cv_clive_lumbergh:162:DefaultText"
 msgid "Ah, but Catherine would admire a man of my... inclinations and skill. That is what you imply, yes? She will supply the worship I so rightly deserve."
-msgstr ""
+msgstr "Ach, ale Catherine by obdivovala muže mých... sklonů a schopností. To je to, co naznačujete, ano? Ona mi poskytne uctívání, které si právem zasloužím."
 
 #: conversations/04_monarch/0411/0411_cv_clive_lumbergh:163
 msgctxt "conversations/04_monarch/0411/0411_cv_clive_lumbergh:163:DefaultText"
 msgid "Very well."
-msgstr ""
+msgstr "Velmi dobře."
 
 #: conversations/04_monarch/0411/0411_cv_clive_lumbergh:164
 msgctxt "conversations/04_monarch/0411/0411_cv_clive_lumbergh:164:DefaultText"
 msgid "Take a gander around you, friend. Now tell me, does the King look to be the sort of man that intimidates easy?"
-msgstr ""
+msgstr "Rozhlédni se kolem sebe, příteli. A teď mi řekni, vypadá král jako člověk, který snadno nahání strach?"
 
 #: conversations/04_monarch/0411/0411_cv_clive_lumbergh:165
 msgctxt "conversations/04_monarch/0411/0411_cv_clive_lumbergh:165:DefaultText"
 msgid "You look like a man with two braincells to rub together and a healthy sense of preservation."
-msgstr ""
+msgstr "Vypadáš jako člověk se dvěma mozkovými buňkami a zdravým smyslem pro ochranu."
 
 #: conversations/04_monarch/0411/0411_cv_clive_lumbergh:166
 msgctxt "conversations/04_monarch/0411/0411_cv_clive_lumbergh:166:DefaultText"
 msgid "Apparently not."
-msgstr ""
+msgstr "Zřejmě ne."
 
 #: conversations/04_monarch/0411/0411_cv_clive_lumbergh:167
 msgctxt "conversations/04_monarch/0411/0411_cv_clive_lumbergh:167:DefaultText"
 msgid "You call this easy? Heaven have mercy."
-msgstr ""
+msgstr "Tomu říkáte snadné? Nebesa se slitují."
 
 #: conversations/04_monarch/0411/0411_cv_clive_lumbergh:168
 msgctxt "conversations/04_monarch/0411/0411_cv_clive_lumbergh:168:DefaultText"
 msgid "Ain't no heaven nor mercy to be found in these facilities. Now, listen, friend."
-msgstr ""
+msgstr "V těchto zařízeních nenajdete ani nebe, ani milost. Poslouchej, příteli."
 
 #: conversations/04_monarch/0411/0411_cv_clive_lumbergh:169
 msgctxt "conversations/04_monarch/0411/0411_cv_clive_lumbergh:169:DefaultText"
 msgid "Yes, I recognize a force to be reckoned with when it storm-rolls into my factory."
-msgstr ""
+msgstr "Ano, poznám sílu, se kterou je třeba počítat, když se valí do mé továrny."
 
 #: conversations/04_monarch/0411/0411_cv_clive_lumbergh:170
 msgctxt "conversations/04_monarch/0411/0411_cv_clive_lumbergh:170:DefaultText"
 msgid "Exactly. Yet, I recognize a force to be reckoned with. If Catherine sent you, she risked her best agent because she desires to possess what the King can offer her."
-msgstr ""
+msgstr "Přesně tak. Přesto poznávám sílu, se kterou je třeba počítat. Pokud tě Kateřina poslala, riskovala svého nejlepšího agenta, protože touží vlastnit to, co jí král může nabídnout."
 
 #: conversations/04_monarch/0411/0411_cv_clive_lumbergh:171
 msgctxt "conversations/04_monarch/0411/0411_cv_clive_lumbergh:171:DefaultText"
 msgid "I believe Catherine may rightly admire a man of my... inclinations and skill. This partnership could be greatly pleasurable for me."
-msgstr ""
+msgstr "Myslím, že Catherine může právem obdivovat muže mých... sklonů a schopností. Toto partnerství by pro mě mohlo být velmi příjemné."
 
 #: conversations/04_monarch/0411/0411_cv_clive_lumbergh:173
 msgctxt "conversations/04_monarch/0411/0411_cv_clive_lumbergh:173:DefaultText"
 msgid "I kinda liked it when his attention was elsewhere."
-msgstr ""
+msgstr "Docela se mi líbilo, když byla jeho pozornost upřena jinam."
 
 #: conversations/04_monarch/0411/0411_cv_clive_lumbergh:174
 msgctxt "conversations/04_monarch/0411/0411_cv_clive_lumbergh:174:DefaultText"
 msgid "Hey, fella. You - uh - you got a little stain on your smock, there."
-msgstr ""
+msgstr "Ahoj, kámo. Máš trochu skvrnu na haleně."
 
 #: conversations/04_monarch/0411/0411_cv_clive_lumbergh:175
 msgctxt "conversations/04_monarch/0411/0411_cv_clive_lumbergh:175:DefaultText"
 msgid "Captain, I would caution that we tread carefully through the remaining... morass of this encounter. For the safety of all involved."
-msgstr ""
+msgstr "Kapitáne, chtěl bych vás varovat, abychom postupovali opatrně přes zbývající... bažinu tohoto setkání. Pro bezpečnost všech zúčastněných."
 
 #: conversations/04_monarch/0411/0411_cv_clive_lumbergh:176
 msgctxt "conversations/04_monarch/0411/0411_cv_clive_lumbergh:176:DefaultText"
 msgid "Is he lookin' at me? Oh Law, he's abso-surely giving me the complete creeps."
-msgstr ""
+msgstr "Dívá se na mě? Oh Law, určitě mi nahání husí kůži."
 
 #: conversations/04_monarch/0411/0411_cv_clive_lumbergh:177
 msgctxt "conversations/04_monarch/0411/0411_cv_clive_lumbergh:177:DefaultText"
 msgid "Uh... I'm not saying you shouldn't vex this guy, but... if you do, it's been nice knowing you."
-msgstr ""
+msgstr "Neříkám, že bys ho neměla rozčilovat, ale... pokud ano, bylo hezké tě poznat."
 
 #: conversations/04_monarch/0411/0411_cv_clive_lumbergh:178
 msgctxt "conversations/04_monarch/0411/0411_cv_clive_lumbergh:178:DefaultText"
 msgid "While I approve of your associate's cautious nature, I still teeter on the verge of losing my patience."
-msgstr ""
+msgstr "Ačkoli chválím opatrnost vašeho spolupracovníka, stále balancuji na hranici ztráty trpělivosti."
 
 #: conversations/04_monarch/0411/0411_cv_clive_lumbergh:179
 msgctxt "conversations/04_monarch/0411/0411_cv_clive_lumbergh:179:DefaultText"
 msgid "I do appreciate you pointing that out to me, and yet that does not change my state of mind regarding your intrusion into my personal quarters."
-msgstr ""
+msgstr "Oceňuji, že jste mě na to upozornil, ale to nic nemění na mém názoru na vaše vniknutí do mého soukromí."
 
 #: conversations/04_monarch/0411/0411_cv_clive_lumbergh:180
 msgctxt "conversations/04_monarch/0411/0411_cv_clive_lumbergh:180:DefaultText"
 msgid "Let us move forward with the present proceedings."
-msgstr ""
+msgstr "Pokračujme v tomto řízení."

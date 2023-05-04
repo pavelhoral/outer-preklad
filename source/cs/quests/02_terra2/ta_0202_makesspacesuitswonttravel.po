@@ -1,139 +1,139 @@
 #: quests/02_terra2/ta_0202_makesspacesuitswonttravel:0
 msgctxt "quests/02_terra2/ta_0202_makesspacesuitswonttravel:0:DefaultText"
 msgid "Makes Space Suits, Won't Travel"
-msgstr ""
+msgstr "Vyrábí vesmírné obleky, necestuje"
 
 #: quests/02_terra2/ta_0202_makesspacesuitswonttravel:1
 msgctxt "quests/02_terra2/ta_0202_makesspacesuitswonttravel:1:DefaultText"
 msgid "Model Outfits for Celeste"
-msgstr ""
+msgstr "Modelové oblečení pro Celeste"
 
 #: quests/02_terra2/ta_0202_makesspacesuitswonttravel:2
 msgctxt "quests/02_terra2/ta_0202_makesspacesuitswonttravel:2:DefaultText"
 msgid "Collect Mantiqueen Chitin"
-msgstr ""
+msgstr "Sbírejte mantikénský chitin"
 
 #: quests/02_terra2/ta_0202_makesspacesuitswonttravel:5
 msgctxt "quests/02_terra2/ta_0202_makesspacesuitswonttravel:5:DefaultText"
 msgid "Collect 3 Raptidon Flank Hide"
-msgstr ""
+msgstr "Nasbírejte 3 kůže z boků raptidona"
 
 #: quests/02_terra2/ta_0202_makesspacesuitswonttravel:6
 msgctxt "quests/02_terra2/ta_0202_makesspacesuitswonttravel:6:DefaultText"
 msgid "Collect 10 Primal Leather"
-msgstr ""
+msgstr "Nasbírejte 10 prvotních kůží"
 
 #: quests/02_terra2/ta_0202_makesspacesuitswonttravel:12
 msgctxt "quests/02_terra2/ta_0202_makesspacesuitswonttravel:12:DefaultText"
 msgid "Return to Celeste"
-msgstr ""
+msgstr "Zpět na Celeste"
 
 #: quests/02_terra2/ta_0202_makesspacesuitswonttravel:13
 msgctxt "quests/02_terra2/ta_0202_makesspacesuitswonttravel:13:DefaultText"
 msgid "Get the Lapel from HPS"
-msgstr ""
+msgstr "Získejte klopu od společnosti HPS"
 
 #: quests/02_terra2/ta_0202_makesspacesuitswonttravel:14
 msgctxt "quests/02_terra2/ta_0202_makesspacesuitswonttravel:14:DefaultText"
 msgid "Return to Celeste"
-msgstr ""
+msgstr "Zpět na Celeste"
 
 #: quests/02_terra2/ta_0202_makesspacesuitswonttravel:15
 msgctxt "quests/02_terra2/ta_0202_makesspacesuitswonttravel:15:DefaultText"
 msgid "Search Celeste's Shop"
-msgstr ""
+msgstr "Hledat v obchodě Celeste's Shop"
 
 #: quests/02_terra2/ta_0202_makesspacesuitswonttravel:10000
 msgctxt "quests/02_terra2/ta_0202_makesspacesuitswonttravel:10000:DefaultText"
 msgid "Byzantium's premiere fashion icon, Celeste Jolicoeur, has hired you to help her create the ultimate outfit - the perfect marriage of the chic and the shocking."
-msgstr ""
+msgstr "Premiérová módní ikona Byzance, Celeste Jolicoeur, si vás najala, abyste jí pomohli vytvořit dokonalý outfit - dokonalé spojení elegantního a šokujícího."
 
 #: quests/02_terra2/ta_0202_makesspacesuitswonttravel:10001
 msgctxt "quests/02_terra2/ta_0202_makesspacesuitswonttravel:10001:DefaultText"
 msgid "Celeste needs to see what the rest of Halcyon wears outside of Byzantium. Speak to Celeste while wearing a suit of armor and headpiece from the following sets: Iconoclast, Marauder and Spacer. "
-msgstr ""
+msgstr "Celeste se musí podívat, co nosí zbytek Halcyonu mimo Byzanc. Promluvte si s Celeste, když máte na sobě brnění a čelenku z následujících sad: Iconoclast, Marauder a Spacer. "
 
 #: quests/02_terra2/ta_0202_makesspacesuitswonttravel:10002
 msgctxt "quests/02_terra2/ta_0202_makesspacesuitswonttravel:10002:DefaultText"
 msgid "Celeste needs the chitin of a mantiqueen. Hunt them around Monarch."
-msgstr ""
+msgstr "Celeste potřebuje chitin mantikéna. Lovte je v okolí Monarchu."
 
 #: quests/02_terra2/ta_0202_makesspacesuitswonttravel:10005
 msgctxt "quests/02_terra2/ta_0202_makesspacesuitswonttravel:10005:DefaultText"
 msgid "Celeste needs three pieces of raptidon flank hide. Raptidons are native to Monarch."
-msgstr ""
+msgstr "Celesta potřebuje tři kusy raptidoní kůže. Raptidoni pocházejí z Monarchu."
 
 #: quests/02_terra2/ta_0202_makesspacesuitswonttravel:10006
 msgctxt "quests/02_terra2/ta_0202_makesspacesuitswonttravel:10006:DefaultText"
 msgid "Celeste needs ten strips of primal leather. Primals can be found in the Emerald Vale region."
-msgstr ""
+msgstr "Celeste potřebuje deset proužků prvotní kůže. Primály lze nalézt v oblasti Smaragdového údolí."
 
 #: quests/02_terra2/ta_0202_makesspacesuitswonttravel:10012
 msgctxt "quests/02_terra2/ta_0202_makesspacesuitswonttravel:10012:DefaultText"
 msgid "You have gathered materials from three different creatures across the system. Return to Celeste."
-msgstr ""
+msgstr "Nasbírali jste materiály od tří různých tvorů v celém systému. Vraťte se do Celesty."
 
 #: quests/02_terra2/ta_0202_makesspacesuitswonttravel:10013
 msgctxt "quests/02_terra2/ta_0202_makesspacesuitswonttravel:10013:DefaultText"
 msgid "Every Jolicoeur Original comes with a hand-crafted golden lapel. Celeste ordered a lapel to commemorate her prototype, but the parcel must be signed for and is still at HPS. Head to HPS and retrieve the parcel containing her lapel."
-msgstr ""
+msgstr "Ke každému modelu Jolicoeur Original se dodává ručně vyrobená zlatá klopa. Celeste si objednala klopu na památku svého prototypu, ale zásilka musí být podepsána a je stále v HPS. Vydejte se do HPS a vyzvedněte si zásilku obsahující její klopu."
 
 #: quests/02_terra2/ta_0202_makesspacesuitswonttravel:10014
 msgctxt "quests/02_terra2/ta_0202_makesspacesuitswonttravel:10014:DefaultText"
 msgid "Now that you have Celeste's lapel, she can finally place the finishing touches on her prototype."
-msgstr ""
+msgstr "Teď, když máte Celesteinu klopu, může konečně dokončit svůj prototyp."
 
 #: quests/02_terra2/ta_0202_makesspacesuitswonttravel:10015
 msgctxt "quests/02_terra2/ta_0202_makesspacesuitswonttravel:10015:DefaultText"
 msgid "Celeste is dead, but she may have left her prototype suit behind."
-msgstr ""
+msgstr "Celeste je mrtvá, ale možná po sobě zanechala prototyp obleku."
 
 #: quests/02_terra2/ta_0202_makesspacesuitswonttravel:20000
 msgctxt "quests/02_terra2/ta_0202_makesspacesuitswonttravel:20000:DefaultText"
 msgid "You modelled an Iconoclast outfit for Celeste."
-msgstr ""
+msgstr "Pro Celeste jsi modelovala oblečení Iconoclast."
 
 #: quests/02_terra2/ta_0202_makesspacesuitswonttravel:20001
 msgctxt "quests/02_terra2/ta_0202_makesspacesuitswonttravel:20001:DefaultText"
 msgid "You modelled a Marauder outfit for Celeste."
-msgstr ""
+msgstr "Pro Celestu jsi vymodeloval oblečení Marauderů."
 
 #: quests/02_terra2/ta_0202_makesspacesuitswonttravel:20002
 msgctxt "quests/02_terra2/ta_0202_makesspacesuitswonttravel:20002:DefaultText"
 msgid "You modelled a Spacer outfit for Celeste."
-msgstr ""
+msgstr "Pro Celeste jsi modelovala oblečení Spacera."
 
 #: quests/02_terra2/ta_0202_makesspacesuitswonttravel:20003
 msgctxt "quests/02_terra2/ta_0202_makesspacesuitswonttravel:20003:DefaultText"
 msgid "Proceed to Window B to sign for Celeste's parcel."
-msgstr ""
+msgstr "Přejděte k okénku B a podepište se na Celestein balíček."
 
 #: quests/02_terra2/ta_0202_makesspacesuitswonttravel:20004
 msgctxt "quests/02_terra2/ta_0202_makesspacesuitswonttravel:20004:DefaultText"
 msgid "Head to 316 Rockwell in the Estate District to find the parcel."
-msgstr ""
+msgstr "Parcelu najdete na adrese 316 Rockwell ve čtvrti Estate District."
 
 #: quests/02_terra2/ta_0202_makesspacesuitswonttravel:20005
 msgctxt "quests/02_terra2/ta_0202_makesspacesuitswonttravel:20005:DefaultText"
 msgid "Return to HPS with the notice."
-msgstr ""
+msgstr "Vraťte HPS spolu s oznámením."
 
 #: quests/02_terra2/ta_0202_makesspacesuitswonttravel:20006
 msgctxt "quests/02_terra2/ta_0202_makesspacesuitswonttravel:20006:DefaultText"
 msgid "Proceed to Window A to pick up Celeste's parcel."
-msgstr ""
+msgstr "Jděte k oknu A a vyzvedněte si Celestein balíček."
 
 #: quests/02_terra2/ta_0202_makesspacesuitswonttravel:20007
 msgctxt "quests/02_terra2/ta_0202_makesspacesuitswonttravel:20007:DefaultText"
 msgid "You went postal in the Halcyon Parcel Service building. The staff are unable to help you locate Celeste's lapel pin, because you murdered them. You may as well search the mailing room yourself."
-msgstr ""
+msgstr "V budově Halcyon Parcel Service jste si vybrali poštu. Zaměstnanci vám nemohou pomoci najít Celestein odznak na klopě, protože jste je zavraždili. Poštovní místnost můžeš prohledat sám."
 
 #: quests/02_terra2/ta_0202_makesspacesuitswonttravel:30000
 msgctxt "quests/02_terra2/ta_0202_makesspacesuitswonttravel:30000:DefaultText"
 msgid "Celeste's fashion dreams died with her, and your agreement is now void."
-msgstr ""
+msgstr "Módní sny Celesty zemřely spolu s ní a vaše dohoda je nyní neplatná."
 
 #: quests/02_terra2/ta_0202_makesspacesuitswonttravel:30001
 msgctxt "quests/02_terra2/ta_0202_makesspacesuitswonttravel:30001:DefaultText"
 msgid "Celeste was killed by the Board for creating \"subversive and perverse\" designs, but not before she made one prototype suit of her greatest work - which is now in your possession."
-msgstr ""
+msgstr "Rada Celeste zabila za vytváření \"podvratných a perverzních\" návrhů, ale ne dříve, než vytvořila jeden prototyp svého nejlepšího díla - který je nyní ve vašem vlastnictví."

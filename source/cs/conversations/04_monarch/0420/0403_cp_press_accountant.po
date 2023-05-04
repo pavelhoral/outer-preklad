@@ -8,27 +8,27 @@ msgid "Terra One Publications\n"
 "1. Shipment Status - UDL Masks\n"
 "2. Shipment Status - Olfactory Filters\n"
 "3. Shipment Status - Replacement Rollers"
-msgstr ""
+msgstr "Terra One Publications Dceřiná společnost Universal Defense Logistics ============================ Účet: Dostupné záznamy: 1. Stav zásilky - masky UDL 2. Stav zásilky - čichové filtry 3. Stav zásilky - náhradní válečky"
 
 #: conversations/04_monarch/0420/0403_cp_press_accountant:10
 msgctxt "conversations/04_monarch/0420/0403_cp_press_accountant:10:DefaultText"
 msgid "[Shipment Status - UDL Masks]"
-msgstr ""
+msgstr "[Stav zásilky - masky UDL]"
 
 #: conversations/04_monarch/0420/0403_cp_press_accountant:11
 msgctxt "conversations/04_monarch/0420/0403_cp_press_accountant:11:DefaultText"
 msgid "[Shipment Status - Olfactory Filters]"
-msgstr ""
+msgstr "[Stav zásilky - Čichové filtry]"
 
 #: conversations/04_monarch/0420/0403_cp_press_accountant:12
 msgctxt "conversations/04_monarch/0420/0403_cp_press_accountant:12:DefaultText"
 msgid "[Shipment Status - Replacement Rollers]"
-msgstr ""
+msgstr "[Stav zásilky - náhradní válečky]"
 
 #: conversations/04_monarch/0420/0403_cp_press_accountant:13
 msgctxt "conversations/04_monarch/0420/0403_cp_press_accountant:13:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"
 
 #: conversations/04_monarch/0420/0403_cp_press_accountant:14
 msgctxt "conversations/04_monarch/0420/0403_cp_press_accountant:14:DefaultText"
@@ -53,7 +53,7 @@ msgid "From: UDL Accounts Receivable\r\n"
 "\r\n"
 "Sincerely,\r\n"
 "Darlene Bolshov"
-msgstr ""
+msgstr "Od: Z: UDL Accounts Receivable Komu: UDL Accounts Receivable To: Předmět: UDL: Bolshov, D: Re: Bolsh, Bolsh, D., Bolsh, Bolsh, D: Bolšov, bezpečnostní masky UDL Mark-IV jsou určeny pro použití ve scénářích rozptýlení davu. Nejsou vhodné pro pracovní prostředí. Vaše žádost o nákup byla zamítnuta. ============================ From: Pro: Bolshov, D: Bolshov, UDL: Accounts Receivable Subject: UDL Masky Pro koho je to důležité, mluvil jsem s jedním z našich strážců a vůbec nemá problémy s dýcháním. Ve skutečnosti žádný z našich strážných neměl astmatický záchvat ze zdejšího ovzduší. Věříme, že je to díky jejich plynovým maskám. Přikládám žádost o nákup bezpečnostního vybavení pro nás ostatní. S pozdravem, Darlene Bolshovová"
 
 #: conversations/04_monarch/0420/0403_cp_press_accountant:15
 msgctxt "conversations/04_monarch/0420/0403_cp_press_accountant:15:DefaultText"
@@ -76,7 +76,8 @@ msgid "From: UDL Accounts Receivable\r\n"
 "\r\n"
 "Sincerely,\r\n"
 "Darlene Bolshov"
-msgstr ""
+msgstr "Od: Z: UDL Accounts Receivable Komu: UDL Accounts Receivable To: Předmět: UDL: Bolshov, D: Re: Bolsh, Bolsh, D., Bolsh, Bolsh, D: Bolshov, testování Focusu ukazuje, že kvalita vzduchu na Terra One neodůvodňuje použití čichových filtrů ani jiných zařízení pro blokování pachů. Váš požadavek na nákup \"něčeho, co by se vypořádalo se zápachem síry\", se zamítá. ============================ Od: Pro: Bolshov, D: UDL Accounts Receivable\r\n"
+"Subject: Můj šéf používá čichové filtry, aby zahnal zápach síry z této zákonem zapomenuté planety. Přikládám žádost o nákup několika filtrů, abychom my ostatní nemuseli trpět. S pozdravem, Darlene Bolshovová"
 
 #: conversations/04_monarch/0420/0403_cp_press_accountant:16
 msgctxt "conversations/04_monarch/0420/0403_cp_press_accountant:16:DefaultText"
@@ -115,9 +116,10 @@ msgid "From: UDL Accounts Receivable\r\n"
 "\r\n"
 "Sincerely,\r\n"
 "Darlene Bolshov"
-msgstr ""
+msgstr "Od: Z: UDL Accounts Receivable Komu: UDL Accounts Receivable To: Předmět: UDL: Bolshov, D: Re: Bolsh, Bolsh, D., Bolsh, Bolsh, D: Bolshov, Podle výrobce jsou vaše současné válce schopny zachovat účinnost ve všech prostředích. Nemáme žádné důkazy, které by potvrzovaly Vaše tvrzení, že válečky \"degradují kvůli tomuto ******** vzduchu.\" ============================ From: Bolshov, D: UDL Accounts Receivable\r\n"
+"Subject: Re: Re: BOLD, s. r. o: Náhradní válečky Nevydrží tak dlouho kvůli síře v tomto zasraném vzduchu. Potřebujeme nové díly, než se ty, které máme, rozbijí. ============================ From: UDL Accounts Receivable To: Subject: UDL: UDL, s. r. o. (UDL, s. r. o.) Re: Re: Bolsh, D., Bolsh, Bolsh, D., Bolsh, D., Bolsh, D: Naše záznamy ukazují, že vaše zařízení má mít náhradní díly až za pět měsíců, paní Bolshovová. Nové díly - včetně válečků - zašleme, až nastane tato doba. ============================ From: Bolshov, D. Komu: Bolshov, D: Předmět: UDL Accounts Receivable (Pohledávky): Komu je to určeno: Válce v našem tiskařském zařízení jsou znehodnocené a brzy se rozbijí. Přikládám objednávku na nákup nových. S pozdravem, Darlene Bolshovová"
 
 #: conversations/04_monarch/0420/0403_cp_press_accountant:17
 msgctxt "conversations/04_monarch/0420/0403_cp_press_accountant:17:DefaultText"
 msgid "[Continue]"
-msgstr ""
+msgstr "[Pokračovat]"

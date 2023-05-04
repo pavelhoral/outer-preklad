@@ -1,804 +1,804 @@
 #: conversations/companions/g_companion_parvati_in_party:24
 msgctxt "conversations/companions/g_companion_parvati_in_party:24:DefaultText"
 msgid "Yeah? I mean, what do you need? Captain. Mister. Sir."
-msgstr ""
+msgstr "Ano? Co potřebuješ? Kapitán. Pane. Pane."
 
 #: conversations/companions/g_companion_parvati_in_party:24
 msgctxt "conversations/companions/g_companion_parvati_in_party:24:FemaleText"
 msgid "Yeah? I mean, what do you need? Captain. Ma'am. Lady."
-msgstr ""
+msgstr "Ano? Co potřebuješ? Kapitán. Madam. Dáma."
 
 #: conversations/companions/g_companion_parvati_in_party:27
 msgctxt "conversations/companions/g_companion_parvati_in_party:27:DefaultText"
 msgid "We'll talk later."
-msgstr ""
+msgstr "Promluvíme si později."
 
 #: conversations/companions/g_companion_parvati_in_party:28
 msgctxt "conversations/companions/g_companion_parvati_in_party:28:DefaultText"
 msgid "Where can I find a Power Regulator? I need one big enough for a ship."
-msgstr ""
+msgstr "Kde najdu regulátor napájení? Potřebuji dostatečně velký pro loď."
 
 #: conversations/companions/g_companion_parvati_in_party:34
 msgctxt "conversations/companions/g_companion_parvati_in_party:34:DefaultText"
 msgid "You wanted to talk to me?"
-msgstr ""
+msgstr "Chtěl jsi se mnou mluvit?"
 
 #: conversations/companions/g_companion_parvati_in_party:39
 msgctxt "conversations/companions/g_companion_parvati_in_party:39:DefaultText"
 msgid "Captain. We gotta talk about- about what you did to Junlei."
-msgstr ""
+msgstr "Kapitán. Musíme si promluvit o tom, co jsi udělal Junlei."
 
 #: conversations/companions/g_companion_parvati_in_party:40
 msgctxt "conversations/companions/g_companion_parvati_in_party:40:DefaultText"
 msgid "I got that soap you wanted."
-msgstr ""
+msgstr "Mám to mýdlo, které jsi chtěl."
 
 #: conversations/companions/g_companion_parvati_in_party:58
 msgctxt "conversations/companions/g_companion_parvati_in_party:58:DefaultText"
 msgid "All this running around we've done for your date... You're stalling."
-msgstr ""
+msgstr "Všechno to běhání kolem, které jsme kvůli tvému rande udělali... Protahuješ to."
 
 #: conversations/companions/g_companion_parvati_in_party:67
 msgctxt "conversations/companions/g_companion_parvati_in_party:67:DefaultText"
 msgid "Where we headed?"
-msgstr ""
+msgstr "Kam směřujeme?"
 
 #: conversations/companions/g_companion_parvati_in_party:69
 msgctxt "conversations/companions/g_companion_parvati_in_party:69:DefaultText"
 msgid "Yeah-huh?"
-msgstr ""
+msgstr "Ano?"
 
 #: conversations/companions/g_companion_parvati_in_party:70
 msgctxt "conversations/companions/g_companion_parvati_in_party:70:DefaultText"
 msgid "Something you need?"
-msgstr ""
+msgstr "Potřebujete něco?"
 
 #: conversations/companions/g_companion_parvati_in_party:71
 msgctxt "conversations/companions/g_companion_parvati_in_party:71:DefaultText"
 msgid "When people ask me stuff, I tend to run my mouth too long. Or I get into details they'd rather not know. Or- sorry."
-msgstr ""
+msgstr "Když se mě lidé na něco ptají, mám tendenci mluvit příliš dlouho. Nebo zabíhám do detailů, které by raději nechtěli vědět. Nebo... promiňte."
 
 #: conversations/companions/g_companion_parvati_in_party:79
 msgctxt "conversations/companions/g_companion_parvati_in_party:79:DefaultText"
 msgid "Are we going to get in trouble today? Not that I want to. Just seems to happen around you, is all."
-msgstr ""
+msgstr "Dostaneme se dnes do potíží? Ne, že bych chtěl. Jen to vypadá, že se to kolem tebe děje, to je všechno."
 
 #: conversations/companions/g_companion_parvati_in_party:94
 msgctxt "conversations/companions/g_companion_parvati_in_party:94:DefaultText"
 msgid "I noticed you mention your dad a lot, but never your mother."
-msgstr ""
+msgstr "Všiml jsem si, že se často zmiňuješ o svém otci, ale nikdy o matce."
 
 #: conversations/companions/g_companion_parvati_in_party:95
 msgctxt "conversations/companions/g_companion_parvati_in_party:95:DefaultText"
 msgid "That's on account of how I never met her."
-msgstr ""
+msgstr "To proto, že jsem se s ní nikdy nesetkal."
 
 #: conversations/companions/g_companion_parvati_in_party:96
 msgctxt "conversations/companions/g_companion_parvati_in_party:96:DefaultText"
 msgid "You mean she's dead?"
-msgstr ""
+msgstr "Chceš říct, že je mrtvá?"
 
 #: conversations/companions/g_companion_parvati_in_party:97
 msgctxt "conversations/companions/g_companion_parvati_in_party:97:DefaultText"
 msgid "I don't rightly know."
-msgstr ""
+msgstr "Nevím, jak to je."
 
 #: conversations/companions/g_companion_parvati_in_party:98
 msgctxt "conversations/companions/g_companion_parvati_in_party:98:DefaultText"
 msgid "How's that possible?"
-msgstr ""
+msgstr "Jak je to možné?"
 
 #: conversations/companions/g_companion_parvati_in_party:99
 msgctxt "conversations/companions/g_companion_parvati_in_party:99:DefaultText"
 msgid "She was in another division of the Spacer's Choice family. She worked in the Vale a few months sorting the cannery computers."
-msgstr ""
+msgstr "Byla v jiné divizi rodiny Spacer's Choice. Několik měsíců pracovala ve Vale a třídila počítače v konzervárně."
 
 #: conversations/companions/g_companion_parvati_in_party:100
 msgctxt "conversations/companions/g_companion_parvati_in_party:100:DefaultText"
 msgid "Her contract said any kids she had, expected or not, belonged to her office from the time of conception. So when I was born, I got sent here."
-msgstr ""
+msgstr "Podle její smlouvy patřily všechny děti, které měla, ať už očekávané, nebo ne, od okamžiku početí jejímu úřadu. Takže když jsem se narodil, poslali mě sem."
 
 #: conversations/companions/g_companion_parvati_in_party:101
 msgctxt "conversations/companions/g_companion_parvati_in_party:101:DefaultText"
 msgid "Is that normal?"
-msgstr ""
+msgstr "Je to normální?"
 
 #: conversations/companions/g_companion_parvati_in_party:102
 msgctxt "conversations/companions/g_companion_parvati_in_party:102:DefaultText"
 msgid "I don't know about normal. Dad said she worked under some kind of special contract."
-msgstr ""
+msgstr "Nevím, jestli je to normální. Táta říkal, že pracovala na základě nějaké zvláštní smlouvy."
 
 #: conversations/companions/g_companion_parvati_in_party:103
 msgctxt "conversations/companions/g_companion_parvati_in_party:103:DefaultText"
 msgid "That's inhuman."
-msgstr ""
+msgstr "To je nelidské."
 
 #: conversations/companions/g_companion_parvati_in_party:104
 msgctxt "conversations/companions/g_companion_parvati_in_party:104:DefaultText"
 msgid "It's sensible. Dad just fixed machines. She did some kind of crazy math, high-level stuff. Better to raise me on his time than hers."
-msgstr ""
+msgstr "Je to rozumné. Táta právě opravil stroje. Ona dělala nějakou šílenou matematiku, věci na vysoké úrovni. Lepší mě vychovávat v jeho čase než v jejím."
 
 #: conversations/companions/g_companion_parvati_in_party:105
 msgctxt "conversations/companions/g_companion_parvati_in_party:105:DefaultText"
 msgid "The minute she thought of having a kid, they put it down on her permanent record?"
-msgstr ""
+msgstr "Jakmile pomyslela na dítě, zapsali jí to do trvalého záznamu?"
 
 #: conversations/companions/g_companion_parvati_in_party:106
 msgctxt "conversations/companions/g_companion_parvati_in_party:106:DefaultText"
 msgid "What? No, conception as in- Has nobody ever taught you about this?"
-msgstr ""
+msgstr "Cože? Ne, koncepce jako... To tě o tom nikdo nikdy neučil?"
 
 #: conversations/companions/g_companion_parvati_in_party:107
 msgctxt "conversations/companions/g_companion_parvati_in_party:107:DefaultText"
 msgid "You got along well with your dad. You might not have with your mother."
-msgstr ""
+msgstr "S otcem jste vycházeli dobře. S matkou možná ne."
 
 #: conversations/companions/g_companion_parvati_in_party:108
 msgctxt "conversations/companions/g_companion_parvati_in_party:108:DefaultText"
 msgid "Could be. Reckon I'll never know."
-msgstr ""
+msgstr "Mohlo by být. To se asi nikdy nedozvím."
 
 #: conversations/companions/g_companion_parvati_in_party:109
 msgctxt "conversations/companions/g_companion_parvati_in_party:109:DefaultText"
 msgid "I'm sorry."
-msgstr ""
+msgstr "Omlouvám se."
 
 #: conversations/companions/g_companion_parvati_in_party:110
 msgctxt "conversations/companions/g_companion_parvati_in_party:110:DefaultText"
 msgid "Hard to miss what you never knew. I don't ponder it overmuch."
-msgstr ""
+msgstr "Těžko postrádat něco, co jste nikdy nepoznali. Moc o tom nepřemýšlím."
 
 #: conversations/companions/g_companion_parvati_in_party:112
 msgctxt "conversations/companions/g_companion_parvati_in_party:112:DefaultText"
 msgid "Thomas seemed very fond of you."
-msgstr ""
+msgstr "Zdálo se, že tě má Thomas velmi rád."
 
 #: conversations/companions/g_companion_parvati_in_party:121
 msgctxt "conversations/companions/g_companion_parvati_in_party:121:DefaultText"
 msgid "You mentioned something earlier that I wanted to ask you about."
-msgstr ""
+msgstr "Předtím jste se zmínil o něčem, na co jsem se vás chtěl zeptat."
 
 #: conversations/companions/g_companion_parvati_in_party:123
 msgctxt "conversations/companions/g_companion_parvati_in_party:123:DefaultText"
 msgid "I did? Um, sorry. I can't remember what I was gonna say. Sorry."
-msgstr ""
+msgstr "Opravdu? Hm, promiňte. Nemůžu si vzpomenout, co jsem chtěl říct. Omlouvám se."
 
 #: conversations/companions/g_companion_parvati_in_party:128
 msgctxt "conversations/companions/g_companion_parvati_in_party:128:DefaultText"
 msgid "We better clear out of Mister Tobson's office afore we talk."
-msgstr ""
+msgstr "Než si promluvíme, měli bychom opustit kancelář pana Tobsona."
 
 #: conversations/companions/g_companion_parvati_in_party:153
 msgctxt "conversations/companions/g_companion_parvati_in_party:153:DefaultText"
 msgid "You mind if I ask you a question? Like, a personal one?"
-msgstr ""
+msgstr "Můžu se vás na něco zeptat? Třeba na něco osobního?"
 
 #: conversations/companions/g_companion_parvati_in_party:154
 msgctxt "conversations/companions/g_companion_parvati_in_party:154:DefaultText"
 msgid "What's on your mind?"
-msgstr ""
+msgstr "Na co myslíte?"
 
 #: conversations/companions/g_companion_parvati_in_party:155
 msgctxt "conversations/companions/g_companion_parvati_in_party:155:DefaultText"
 msgid "Is it important?"
-msgstr ""
+msgstr "Je to důležité?"
 
 #: conversations/companions/g_companion_parvati_in_party:156
 msgctxt "conversations/companions/g_companion_parvati_in_party:156:DefaultText"
 msgid "Yes, I've been wearing this underwear for seventy years. But I was frozen the whole time."
-msgstr ""
+msgstr "Ano, tohle spodní prádlo nosím už sedmdesát let. Ale celou dobu jsem byl zmrzlý."
 
 #: conversations/companions/g_companion_parvati_in_party:157
 msgctxt "conversations/companions/g_companion_parvati_in_party:157:DefaultText"
 msgid "The less you know about me, the better."
-msgstr ""
+msgstr "Čím méně toho o mně víte, tím lépe."
 
 #: conversations/companions/g_companion_parvati_in_party:158
 msgctxt "conversations/companions/g_companion_parvati_in_party:158:DefaultText"
 msgid "Wow. Uh, that's not- can we just not ever mention that again?"
-msgstr ""
+msgstr "Páni. Uh, to není... můžeme to už nikdy nezmiňovat?"
 
 #: conversations/companions/g_companion_parvati_in_party:159
 msgctxt "conversations/companions/g_companion_parvati_in_party:159:DefaultText"
 msgid "Yeah. Okay. I mean, that's a passing strange thing to say, but sure."
-msgstr ""
+msgstr "Jo. Dobře. Myslím, že je to divné, ale jistě."
 
 #: conversations/companions/g_companion_parvati_in_party:160
 msgctxt "conversations/companions/g_companion_parvati_in_party:160:DefaultText"
 msgid "Is it true what you said? About being on the Hope?"
-msgstr ""
+msgstr "Je pravda, co jste řekl? O tom, že jsi v Naději?"
 
 #: conversations/companions/g_companion_parvati_in_party:161
 msgctxt "conversations/companions/g_companion_parvati_in_party:161:DefaultText"
 msgid "Is it true what you said? About being from Earth?"
-msgstr ""
+msgstr "Je pravda, co jste řekl? O tom, že jste ze Země?"
 
 #: conversations/companions/g_companion_parvati_in_party:162
 msgctxt "conversations/companions/g_companion_parvati_in_party:162:DefaultText"
 msgid "Maybe? Something just took me off guard, is all."
-msgstr ""
+msgstr "Možná? Něco mě prostě zaskočilo, to je vše."
 
 #: conversations/companions/g_companion_parvati_in_party:163
 msgctxt "conversations/companions/g_companion_parvati_in_party:163:DefaultText"
 msgid "It's true. I just woke up here just a little while ago."
-msgstr ""
+msgstr "Je to pravda. Před chvílí jsem se tu probudil."
 
 #: conversations/companions/g_companion_parvati_in_party:164
 msgctxt "conversations/companions/g_companion_parvati_in_party:164:DefaultText"
 msgid "If I said it was, would you believe me?"
-msgstr ""
+msgstr "Kdybych řekl, že ano, věřili byste mi?"
 
 #: conversations/companions/g_companion_parvati_in_party:165
 msgctxt "conversations/companions/g_companion_parvati_in_party:165:DefaultText"
 msgid "Nah. You think somebody like that would just walk into a nowhere town?"
-msgstr ""
+msgstr "Ne. Myslíš, že by někdo takový jen tak přišel do města?"
 
 #: conversations/companions/g_companion_parvati_in_party:166
 msgctxt "conversations/companions/g_companion_parvati_in_party:166:DefaultText"
 msgid "I guess not. Seems like a weird thing to lie 'bout if it ain't true, though. And you ARE something of a mystery, Captain."
-msgstr ""
+msgstr "Myslím, že ne. Přijde mi ale divné lhát, když to není pravda. A vy jste tak trochu záhada, kapitáne."
 
 #: conversations/companions/g_companion_parvati_in_party:167
 msgctxt "conversations/companions/g_companion_parvati_in_party:167:DefaultText"
 msgid "I don't rightly know. I haven't figured if you're the sort who'd make up stories. Not yet, anyhow."
-msgstr ""
+msgstr "Správně nevím. Nepřišel jsem na to, jestli jsi ten typ, který si vymýšlí příběhy. Alespoň zatím ne."
 
 #: conversations/companions/g_companion_parvati_in_party:168
 msgctxt "conversations/companions/g_companion_parvati_in_party:168:DefaultText"
 msgid "I'm wearing a hibernation suit. You ever seen one of these before?"
-msgstr ""
+msgstr "Mám na sobě hibernační oblek. Už jste někdy takový viděli?"
 
 #: conversations/companions/g_companion_parvati_in_party:169
 msgctxt "conversations/companions/g_companion_parvati_in_party:169:DefaultText"
 msgid "I guess maybe you coulda got one from a museum? But they've only got those in Byzantium. Where the rich folk live."
-msgstr ""
+msgstr "Možná bys ho mohl získat v muzeu? Ale ty mají jen v Byzanci. Tam, kde žijí bohatí lidé."
 
 #: conversations/companions/g_companion_parvati_in_party:170
 msgctxt "conversations/companions/g_companion_parvati_in_party:170:DefaultText"
 msgid "Oh. Wow."
-msgstr ""
+msgstr "Oh. Wow."
 
 #: conversations/companions/g_companion_parvati_in_party:171
 msgctxt "conversations/companions/g_companion_parvati_in_party:171:DefaultText"
 msgid "Well, uh, welcome to Halcyon. I'm Parvati. Holcomb. Parvati Holcomb. Which you already knew. Okay, I'm bad at this."
-msgstr ""
+msgstr "Vítejte v Halcyonu. Já jsem Parvati. Holcombová. Parvati Holcombová. Což už víte. Dobře, tohle mi moc nejde."
 
 #: conversations/companions/g_companion_parvati_in_party:172
 msgctxt "conversations/companions/g_companion_parvati_in_party:172:DefaultText"
 msgid "All the same, sorry I interrupted. Was there something you wanted to ask me about?"
-msgstr ""
+msgstr "Přesto se omlouvám, že jsem vás vyrušil. Chtěl ses mě na něco zeptat?"
 
 #: conversations/companions/g_companion_parvati_in_party:173
 msgctxt "conversations/companions/g_companion_parvati_in_party:173:DefaultText"
 msgid "You ever get cold? 'Cause those dangling tubes look real drafty."
-msgstr ""
+msgstr "Byla ti někdy zima? Protože ty visící trubky vypadají jako průvan."
 
 #: conversations/companions/g_companion_parvati_in_party:174
 msgctxt "conversations/companions/g_companion_parvati_in_party:174:DefaultText"
 msgid "That helmet makes you look like some kinda space monster. You should get a hat. Something that'll keep the sun outta your eyes."
-msgstr ""
+msgstr "V té helmě vypadáš jako nějaká vesmírná příšera. Měl by sis pořídit klobouk. Něco, co ti bude chránit oči před sluncem."
 
 #: conversations/companions/g_companion_parvati_in_party:175
 msgctxt "conversations/companions/g_companion_parvati_in_party:175:DefaultText"
 msgid "You're doing just fine. It's nice to meet somebody friendly so soon."
-msgstr ""
+msgstr "Vedeš si dobře. Je hezké poznat někoho přátelského tak brzy."
 
 #: conversations/companions/g_companion_parvati_in_party:176
 msgctxt "conversations/companions/g_companion_parvati_in_party:176:DefaultText"
 msgid "I'm <oeitoken>PlayerName</oeitoken>. To be honest, I don't know what I'm doing either."
-msgstr ""
+msgstr "Jsem <oeitoken>Jméno hráče</oeitoken>. Abych byl upřímný, taky nevím, co dělám."
 
 #: conversations/companions/g_companion_parvati_in_party:177
 msgctxt "conversations/companions/g_companion_parvati_in_party:177:DefaultText"
 msgid "Forget about it. Let's just get this job done so I can get out of here."
-msgstr ""
+msgstr "Zapomeňte na to. Pojďme tuhle práci dokončit, ať odsud můžu vypadnout."
 
 #: conversations/companions/g_companion_parvati_in_party:178
 msgctxt "conversations/companions/g_companion_parvati_in_party:178:DefaultText"
 msgid "Reckon we'll have to figure it out together. I mean, if that's what you want! I didn't mean to presume. Sorry."
-msgstr ""
+msgstr "Myslím, že to budeme muset vyřešit společně. Tedy, pokud to chceš! Nechtěl jsem se domnívat. Omlouvám se."
 
 #: conversations/companions/g_companion_parvati_in_party:179
 msgctxt "conversations/companions/g_companion_parvati_in_party:179:DefaultText"
 msgid "It's hard, huh? Not knowing anybody? Not being sure what's expected, or how people are judging you?"
-msgstr ""
+msgstr "Je to těžké, co? Nikoho neznáš? Nebýt si jistý, co se od vás očekává nebo jak vás lidé hodnotí?"
 
 #: conversations/companions/g_companion_parvati_in_party:180
 msgctxt "conversations/companions/g_companion_parvati_in_party:180:DefaultText"
 msgid "But- but you got me now. I'm sure I can help you out. I- we can do this. Yay us."
-msgstr ""
+msgstr "Ale... ale teď jsi mě dostal. Jsem si jistý, že ti můžu pomoct. Já... my to zvládneme. Jupí nám."
 
 #: conversations/companions/g_companion_parvati_in_party:182
 msgctxt "conversations/companions/g_companion_parvati_in_party:182:DefaultText"
 msgid "Yeah, sure. You got it, mister."
-msgstr ""
+msgstr "Jo, jasně. Máte to mít, pane."
 
 #: conversations/companions/g_companion_parvati_in_party:182
 msgctxt "conversations/companions/g_companion_parvati_in_party:182:FemaleText"
 msgid "Yeah, sure. You got it, ma'am."
-msgstr ""
+msgstr "Jo, jasně. Máte to mít, madam."
 
 #: conversations/companions/g_companion_parvati_in_party:184
 msgctxt "conversations/companions/g_companion_parvati_in_party:184:DefaultText"
 msgid "Oh, did something break?"
-msgstr ""
+msgstr "Něco se rozbilo?"
 
 #: conversations/companions/g_companion_parvati_in_party:185
 msgctxt "conversations/companions/g_companion_parvati_in_party:185:DefaultText"
 msgid "Abso-surely, Captain. What's on your mind?"
-msgstr ""
+msgstr "Jistě, kapitáne. Na co myslíte?"
 
 #: conversations/companions/g_companion_parvati_in_party:186
 msgctxt "conversations/companions/g_companion_parvati_in_party:186:DefaultText"
 msgid "Oh, sure. Like what?"
-msgstr ""
+msgstr "Jistě. Jako co?"
 
 #: conversations/companions/g_companion_parvati_in_party:187
 msgctxt "conversations/companions/g_companion_parvati_in_party:187:DefaultText"
 msgid "So there's your soap."
-msgstr ""
+msgstr "Tady je vaše mýdlo."
 
 #: conversations/companions/g_companion_parvati_in_party:212
 msgctxt "conversations/companions/g_companion_parvati_in_party:212:DefaultText"
 msgid "Thanks for your help up to now. I'll try to do the rest on my lonesome."
-msgstr ""
+msgstr "Děkujeme za vaši dosavadní pomoc. Zbytek se pokusím udělat sám."
 
 #: conversations/companions/g_companion_parvati_in_party:215
 msgctxt "conversations/companions/g_companion_parvati_in_party:215:DefaultText"
 msgid "Are you dropping your plans to ask Junlei out?"
-msgstr ""
+msgstr "Vzdáváš se svých plánů pozvat Junlei na rande?"
 
 #: conversations/companions/g_companion_parvati_in_party:216
 msgctxt "conversations/companions/g_companion_parvati_in_party:216:DefaultText"
 msgid "I'm not dropping them, Captain. I just don't want you involved anymore."
-msgstr ""
+msgstr "Já je nepustím, kapitáne. Jen už nechci, abyste se do toho zapletl."
 
 #: conversations/companions/g_companion_parvati_in_party:217
 msgctxt "conversations/companions/g_companion_parvati_in_party:217:DefaultText"
 msgid "I'm glad for all the help you gave me. But the way you want to do things just doesn't sit well with me."
-msgstr ""
+msgstr "Jsem rád za veškerou pomoc, kterou jste mi poskytli. Ale způsob, jakým to chceš udělat, mi prostě nesedí."
 
 #: conversations/companions/g_companion_parvati_in_party:241
 msgctxt "conversations/companions/g_companion_parvati_in_party:241:DefaultText"
 msgid "What was that about back at Junlei's?"
-msgstr ""
+msgstr "O co šlo v Junlei?"
 
 #: conversations/companions/g_companion_parvati_in_party:242
 msgctxt "conversations/companions/g_companion_parvati_in_party:242:DefaultText"
 msgid "I didn't expect her to be so tall, and- and did you see the size of her arms?"
-msgstr ""
+msgstr "Nečekal jsem, že bude tak vysoká a... a viděli jste, jak má velké ruce?"
 
 #: conversations/companions/g_companion_parvati_in_party:259
 msgctxt "conversations/companions/g_companion_parvati_in_party:259:DefaultText"
 msgid "Did you wanna talk about anything else afore we moved on?"
-msgstr ""
+msgstr "Chtěl jsi ještě o něčem mluvit, než jsme se přesunuli dál?"
 
 #: conversations/companions/g_companion_parvati_in_party:260
 msgctxt "conversations/companions/g_companion_parvati_in_party:260:DefaultText"
 msgid "Okay. I don't wanna waste your time or nothing."
-msgstr ""
+msgstr "Dobře. Nechci plýtvat tvým časem ani ničím jiným."
 
 #: conversations/companions/g_companion_parvati_in_party:261
 msgctxt "conversations/companions/g_companion_parvati_in_party:261:DefaultText"
 msgid "Oh no. It can wait. Sorry. What do you need?"
-msgstr ""
+msgstr "Ale ne. To může počkat. Omlouvám se. Co potřebujete?"
 
 #: conversations/companions/g_companion_parvati_in_party:262
 msgctxt "conversations/companions/g_companion_parvati_in_party:262:DefaultText"
 msgid "Sorry. I don't mean to make such a fuss."
-msgstr ""
+msgstr "Omlouvám se. Nechtěl jsem dělat takový rozruch."
 
 #: conversations/companions/g_companion_parvati_in_party:263
 msgctxt "conversations/companions/g_companion_parvati_in_party:263:DefaultText"
 msgid "Where we headed next?"
-msgstr ""
+msgstr "Kam míříme dál?"
 
 #: conversations/companions/g_companion_parvati_in_party:264
 msgctxt "conversations/companions/g_companion_parvati_in_party:264:DefaultText"
 msgid "It's true. I woke right before I showed up in Edgewater."
-msgstr ""
+msgstr "Je to pravda. Probudil jsem se těsně předtím, než jsem se objevil v Edgewateru."
 
 #: conversations/companions/g_companion_parvati_in_party:266
 msgctxt "conversations/companions/g_companion_parvati_in_party:266:DefaultText"
 msgid "She's okay, I guess."
-msgstr ""
+msgstr "Myslím, že je v pořádku."
 
 #: conversations/companions/g_companion_parvati_in_party:267
 msgctxt "conversations/companions/g_companion_parvati_in_party:267:DefaultText"
 msgid "Are you all right?"
-msgstr ""
+msgstr "Jste v pořádku?"
 
 #: conversations/companions/g_companion_parvati_in_party:268
 msgctxt "conversations/companions/g_companion_parvati_in_party:268:DefaultText"
 msgid "It sounds like you have a crush on her."
-msgstr ""
+msgstr "Vypadá to, že jsi do ní zamilovaný."
 
 #: conversations/companions/g_companion_parvati_in_party:287
 msgctxt "conversations/companions/g_companion_parvati_in_party:287:DefaultText"
 msgid "What do you think about that guy at the Lost Hope? Felix?"
-msgstr ""
+msgstr "Co si myslíš o tom chlápkovi ve Ztracené naději? Felix?"
 
 #: conversations/companions/g_companion_parvati_in_party:288
 msgctxt "conversations/companions/g_companion_parvati_in_party:288:DefaultText"
 msgid "He seemed like a nice boy to me. Maybe you oughta give him a shot."
-msgstr ""
+msgstr "Připadal mi jako milý chlapec. Možná bys mu měla dát šanci."
 
 #: conversations/companions/g_companion_parvati_in_party:289
 msgctxt "conversations/companions/g_companion_parvati_in_party:289:DefaultText"
 msgid "He didn't seem very bright."
-msgstr ""
+msgstr "Nezdál se být příliš bystrý."
 
 #: conversations/companions/g_companion_parvati_in_party:290
 msgctxt "conversations/companions/g_companion_parvati_in_party:290:DefaultText"
 msgid "He seems like a risk. All that talk about getting into a fight with his foreman."
-msgstr ""
+msgstr "Vypadá jako riziko. Všechny ty řeči o rvačce s jeho předákem."
 
 #: conversations/companions/g_companion_parvati_in_party:291
 msgctxt "conversations/companions/g_companion_parvati_in_party:291:DefaultText"
 msgid "I thought you didn't like strangers, generally?"
-msgstr ""
+msgstr "Myslel jsem, že nemáš rád cizí lidi, obecně?"
 
 #: conversations/companions/g_companion_parvati_in_party:292
 msgctxt "conversations/companions/g_companion_parvati_in_party:292:DefaultText"
 msgid "Because we've never ended up in a fight?"
-msgstr ""
+msgstr "Protože jsme se nikdy nepohádali?"
 
 #: conversations/companions/g_companion_parvati_in_party:293
 msgctxt "conversations/companions/g_companion_parvati_in_party:293:DefaultText"
 msgid "What do you think about that guy we met on Groundbreaker. Felix?"
-msgstr ""
+msgstr "Co si myslíš o tom chlápkovi, kterého jsme potkali v Groundbreaker. Felixem?"
 
 #: conversations/companions/g_companion_parvati_in_party:294
 msgctxt "conversations/companions/g_companion_parvati_in_party:294:DefaultText"
 msgid "Maybe he doesn't talk all smarty-smart, but he can still have it good where it counts. In his heart, I mean."
-msgstr ""
+msgstr "Možná nemluví zrovna chytře, ale i tak to umí pořádně rozbalit. Myslím tím v srdci."
 
 #: conversations/companions/g_companion_parvati_in_party:295
 msgctxt "conversations/companions/g_companion_parvati_in_party:295:DefaultText"
 msgid "I dunno. He seemed really smart."
-msgstr ""
+msgstr "Nevím. Vypadal opravdu chytře."
 
 #: conversations/companions/g_companion_parvati_in_party:296
 msgctxt "conversations/companions/g_companion_parvati_in_party:296:DefaultText"
 msgid "Aw, I'm sure he puts his socks on one at a time like anybody else."
-msgstr ""
+msgstr "Určitě si obléká ponožky po jedné jako každý jiný."
 
 #: conversations/companions/g_companion_parvati_in_party:297
 msgctxt "conversations/companions/g_companion_parvati_in_party:297:DefaultText"
 msgid "Yeah, but- I got a good feeling about him, is all."
-msgstr ""
+msgstr "Jo, ale mám z něj dobrý pocit, to je všechno."
 
 #: conversations/companions/g_companion_parvati_in_party:298
 msgctxt "conversations/companions/g_companion_parvati_in_party:298:DefaultText"
 msgid "That's not the answer I expected."
-msgstr ""
+msgstr "Takovou odpověď jsem nečekal."
 
 #: conversations/companions/g_companion_parvati_in_party:299
 msgctxt "conversations/companions/g_companion_parvati_in_party:299:DefaultText"
 msgid "I mean, sure. He's a bit rough around the edges. I bet he just needs somebody to show him a better path."
-msgstr ""
+msgstr "Jistě. Je trochu drsný. Vsadím se, že jen potřebuje, aby mu někdo ukázal lepší cestu."
 
 #: conversations/companions/g_companion_parvati_in_party:301
 msgctxt "conversations/companions/g_companion_parvati_in_party:301:DefaultText"
 msgid "You seriously think I'm the right sort to put him on the right course in life?"
-msgstr ""
+msgstr "Vážně si myslíš, že jsem ten správný typ, který ho dokáže nasměrovat na správnou cestu životem?"
 
 #: conversations/companions/g_companion_parvati_in_party:302
 msgctxt "conversations/companions/g_companion_parvati_in_party:302:DefaultText"
 msgid "So you're saying I could sculpt him into an ideal minion?"
-msgstr ""
+msgstr "Takže říkáš, že bych z něj mohl udělat ideálního poskoka?"
 
 #: conversations/companions/g_companion_parvati_in_party:303
 msgctxt "conversations/companions/g_companion_parvati_in_party:303:DefaultText"
 msgid "You might surprise yourself."
-msgstr ""
+msgstr "Možná překvapíte sami sebe."
 
 #: conversations/companions/g_companion_parvati_in_party:304
 msgctxt "conversations/companions/g_companion_parvati_in_party:304:DefaultText"
 msgid "Then why'd you ask it?"
-msgstr ""
+msgstr "Tak proč jste se na to ptal?"
 
 #: conversations/companions/g_companion_parvati_in_party:308
 msgctxt "conversations/companions/g_companion_parvati_in_party:308:DefaultText"
 msgid "That's... not exactly what I'm saying."
-msgstr ""
+msgstr "To... není přesně to, co říkám."
 
 #: conversations/companions/g_companion_parvati_in_party:309
 msgctxt "conversations/companions/g_companion_parvati_in_party:309:DefaultText"
 msgid "Not many folk have big pulsating space-brains like you."
-msgstr ""
+msgstr "Není mnoho lidí, kteří by měli tak velký pulzující vesmírný mozek jako vy."
 
 #: conversations/companions/g_companion_parvati_in_party:311
 msgctxt "conversations/companions/g_companion_parvati_in_party:311:DefaultText"
 msgid "I was mostly thinking he'd be hired muscle."
-msgstr ""
+msgstr "Hlavně jsem si myslel, že to bude najatý svalovec."
 
 #: conversations/companions/g_companion_parvati_in_party:312
 msgctxt "conversations/companions/g_companion_parvati_in_party:312:DefaultText"
 msgid "I'm sure he could hit stuff for us just fine. But I was thinking on what we could do for him."
-msgstr ""
+msgstr "Jsem si jistý, že by se za nás dokázal trefit. Ale přemýšlel jsem, co bychom pro něj mohli udělat."
 
 #: conversations/companions/g_companion_parvati_in_party:317
 msgctxt "conversations/companions/g_companion_parvati_in_party:317:DefaultText"
 msgid "Look, you'll catch your death of cold. Put some clothes on."
-msgstr ""
+msgstr "Podívej, chytneš smrt z nachlazení. Obleč se."
 
 #: conversations/companions/g_companion_parvati_in_party:318
 msgctxt "conversations/companions/g_companion_parvati_in_party:318:DefaultText"
 msgid "What do you think of the new guy, Felix?"
-msgstr ""
+msgstr "Co si myslíš o tom novém, Felixi?"
 
 #: conversations/companions/g_companion_parvati_in_party:319
 msgctxt "conversations/companions/g_companion_parvati_in_party:319:DefaultText"
 msgid "He seems like a nice boy to me. I'm glad you gave him a shot."
-msgstr ""
+msgstr "Připadá mi jako milý chlapec. Jsem rád, že jste mu dali šanci."
 
 #: conversations/companions/g_companion_parvati_in_party:321
 msgctxt "conversations/companions/g_companion_parvati_in_party:321:DefaultText"
 msgid "It was embarrassing to watch."
-msgstr ""
+msgstr "Bylo trapné se na to dívat."
 
 #: conversations/companions/g_companion_parvati_in_party:322
 msgctxt "conversations/companions/g_companion_parvati_in_party:322:DefaultText"
 msgid "What? No! Maybe? I don't- it's like somebody reached into my head and pulled out what I didn't know I wanted."
-msgstr ""
+msgstr "Cože? Ne! Možná? Nevím, jako by mi někdo sáhl do hlavy a vytáhl to, o čem jsem nevěděl, že chci."
 
 #: conversations/companions/g_companion_parvati_in_party:323
 msgctxt "conversations/companions/g_companion_parvati_in_party:323:DefaultText"
 msgid "You know how hard it is to find anybody who likes working with tools in a little town like Edgewater?"
-msgstr ""
+msgstr "Víte, jak je těžké najít v městečku jako Edgewater někoho, kdo rád pracuje s nářadím?"
 
 #: conversations/companions/g_companion_parvati_in_party:324
 msgctxt "conversations/companions/g_companion_parvati_in_party:324:DefaultText"
 msgid "Thomas liked tools. You treated him very differently."
-msgstr ""
+msgstr "Thomas měl rád nářadí. Vy jste se k němu chovali úplně jinak."
 
 #: conversations/companions/g_companion_parvati_in_party:326
 msgctxt "conversations/companions/g_companion_parvati_in_party:326:DefaultText"
 msgid "Thomas only liked tools because I did. He wasn't interested. When I'd ask what he thought, he'd just shrug and say, \"Whatever you think.\""
-msgstr ""
+msgstr "Thomas měl rád nářadí jen proto, že jsem ho měla ráda já. Jeho to nezajímalo. Když jsem se ho zeptal, co si o tom myslí, jen pokrčil rameny a řekl: \"Jak myslíš.\""
 
 #: conversations/companions/g_companion_parvati_in_party:328
 msgctxt "conversations/companions/g_companion_parvati_in_party:328:DefaultText"
 msgid "You think I ain't been thinking that my own self?"
-msgstr ""
+msgstr "Myslíš, že jsem si to nemyslel?"
 
 #: conversations/companions/g_companion_parvati_in_party:329
 msgctxt "conversations/companions/g_companion_parvati_in_party:329:DefaultText"
 msgid "You know how long I wanted to have somebody I could talk shop with?"
-msgstr ""
+msgstr "Víš, jak dlouho jsem chtěl mít někoho, s kým bych si mohl popovídat?"
 
 #: conversations/companions/g_companion_parvati_in_party:330
 msgctxt "conversations/companions/g_companion_parvati_in_party:330:DefaultText"
 msgid "Did you see how everybody on Groundbreaker listens to Junlei? She's just, \"Here's how to fix it.\" And they trust her."
-msgstr ""
+msgstr "Viděli jste, jak všichni na Groundbreakeru poslouchají Junlei? Ona jen: \"Tady je návod, jak to napravit.\" A oni jí věří."
 
 #: conversations/companions/g_companion_parvati_in_party:331
 msgctxt "conversations/companions/g_companion_parvati_in_party:331:DefaultText"
 msgid "It's just- she's calm and knows what to do. I wish I was half so confident."
-msgstr ""
+msgstr "Je prostě klidná a ví, co má dělat. Kéž bych byla aspoň z poloviny tak sebejistá."
 
 #: conversations/companions/g_companion_parvati_in_party:332
 msgctxt "conversations/companions/g_companion_parvati_in_party:332:DefaultText"
 msgid "Just took off-guard, is all. I never met another engineer afore who wasn't my dad."
-msgstr ""
+msgstr "Jen mě to zaskočilo, to je vše. Nikdy předtím jsem nepotkal jiného inženýra, který by nebyl můj táta."
 
 #: conversations/companions/g_companion_parvati_in_party:333
 msgctxt "conversations/companions/g_companion_parvati_in_party:333:DefaultText"
 msgid "Sounds like you're not sure how you feel."
-msgstr ""
+msgstr "Zdá se, že si nejste jistá, jak se cítíte."
 
 #: conversations/companions/g_companion_parvati_in_party:334
 msgctxt "conversations/companions/g_companion_parvati_in_party:334:DefaultText"
 msgid "I just met her. How could I be? All's I know is, I want to talk with her more."
-msgstr ""
+msgstr "Právě jsem ji potkal. Jak bych mohl být? Vím jen to, že si s ní chci víc povídat."
 
 #: conversations/companions/g_companion_parvati_in_party:335
 msgctxt "conversations/companions/g_companion_parvati_in_party:335:DefaultText"
 msgid "This won't interfere with your work, will it?"
-msgstr ""
+msgstr "Nebude vám to překážet v práci, že ne?"
 
 #: conversations/companions/g_companion_parvati_in_party:336
 msgctxt "conversations/companions/g_companion_parvati_in_party:336:DefaultText"
 msgid "Come on, Captain. I just got my fingers dug into the guts of a real-deal space ship. You think I'm liable to let go anytime soon?"
-msgstr ""
+msgstr "No tak, kapitáne. Právě jsem si zabořil prsty do útrob skutečné vesmírné lodi. Myslíte, že mě to v dohledné době pustí?"
 
 #: conversations/companions/g_companion_parvati_in_party:337
 msgctxt "conversations/companions/g_companion_parvati_in_party:337:DefaultText"
 msgid "There's more to a relationship than beefy arms and a shared career."
-msgstr ""
+msgstr "Ve vztahu jde o víc než o silné paže a společnou kariéru."
 
 #: conversations/companions/g_companion_parvati_in_party:338
 msgctxt "conversations/companions/g_companion_parvati_in_party:338:DefaultText"
 msgid "I reckon there's worse places to start."
-msgstr ""
+msgstr "Myslím, že jsou horší místa, kde začít."
 
 #: conversations/companions/g_companion_parvati_in_party:376
 msgctxt "conversations/companions/g_companion_parvati_in_party:376:DefaultText"
 msgid "Captain, that- that wasn't right. Killing the Chief in cold blood."
-msgstr ""
+msgstr "Kapitáne, to nebylo správné. Chladnokrevně zabít náčelníka."
 
 #: conversations/companions/g_companion_parvati_in_party:379
 msgctxt "conversations/companions/g_companion_parvati_in_party:379:DefaultText"
 msgid "She was working to do right by her people. What'd she ever do to you?"
-msgstr ""
+msgstr "Pracovala na tom, aby se svým lidem zachovala správně. Co ti kdy udělala?"
 
 #: conversations/companions/g_companion_parvati_in_party:381
 msgctxt "conversations/companions/g_companion_parvati_in_party:381:DefaultText"
 msgid "I heard over Groundbreaker comms that you killed Junlei."
-msgstr ""
+msgstr "Slyšel jsem, že jsi zabil Junlei."
 
 #: conversations/companions/g_companion_parvati_in_party:384
 msgctxt "conversations/companions/g_companion_parvati_in_party:384:DefaultText"
 msgid "It's hard to talk to you when I can see all your stuff, Captain."
-msgstr ""
+msgstr "Je těžké s vámi mluvit, když vidím všechny vaše věci, kapitáne."
 
 #: conversations/companions/g_companion_parvati_in_party:386
 msgctxt "conversations/companions/g_companion_parvati_in_party:386:DefaultText"
 msgid "That Chief Junlei sure seemed swell, huh?"
-msgstr ""
+msgstr "Ten náčelník Junlei vypadal skvěle, co?"
 
 #: conversations/companions/g_companion_parvati_in_party:387
 msgctxt "conversations/companions/g_companion_parvati_in_party:387:DefaultText"
 msgid "Groundbreaker's safe from melting to bits now. Lot of good people can rest easy 'cause of you."
-msgstr ""
+msgstr "Groundbreaker je nyní v bezpečí před roztavením na kousky. Spousta dobrých lidí si díky tobě může oddechnout."
 
 #: conversations/companions/g_companion_parvati_in_party:394
 msgctxt "conversations/companions/g_companion_parvati_in_party:394:DefaultText"
 msgid "I think you did the rightest thing you could, sending the power back to Edgewater. Lotta people would have suffered, otherwise. People I care for, even if they ain't care much for me."
-msgstr ""
+msgstr "Myslím, že jsi udělal to nejsprávnější, co jsi mohl, když jsi poslal energii zpět do Edgewateru. Jinak by spousta lidí trpěla. Lidí, na kterých mi záleží, i když jim na mně moc nezáleží."
 
 #: conversations/companions/g_companion_parvati_in_party:395
 msgctxt "conversations/companions/g_companion_parvati_in_party:395:DefaultText"
 msgid "I can't stop thinking on Edgewater, Captain. I'm glad the Deserters are gonna be all right now they got power, but what about the town? All those people..."
-msgstr ""
+msgstr "Nemůžu přestat myslet na Edgewater, kapitáne. Jsem rád, že Dezertéři budou v pořádku, když teď mají moc, ale co město? Všichni ti lidé..."
 
 #: conversations/companions/g_companion_parvati_in_party:396
 msgctxt "conversations/companions/g_companion_parvati_in_party:396:DefaultText"
 msgid "That was a good thing you did, Captain - helping to bring the Deserters and Edgewater folks back together. I hope you rest well on that."
-msgstr ""
+msgstr "Udělal jste dobrou věc, kapitáne - pomohl jste dát dohromady Dezertéry a lidi z Edgewateru. Doufám, že si za to dobře odpočinete."
 
 #: conversations/companions/g_companion_parvati_in_party:402
 msgctxt "conversations/companions/g_companion_parvati_in_party:402:DefaultText"
 msgid "She seemed very competent."
-msgstr ""
+msgstr "Zdála se být velmi kompetentní."
 
 #: conversations/companions/g_companion_parvati_in_party:403
 msgctxt "conversations/companions/g_companion_parvati_in_party:403:DefaultText"
 msgid "Gosh, did she ever."
-msgstr ""
+msgstr "Páni, to se jí povedlo."
 
 #: conversations/companions/g_companion_parvati_in_party:409
 msgctxt "conversations/companions/g_companion_parvati_in_party:409:DefaultText"
 msgid "I think I'm better off trying to make this work on my lonesome."
-msgstr ""
+msgstr "Myslím, že bude lepší, když se o to pokusím sám."
 
 #: conversations/companions/g_companion_parvati_in_party:413
 msgctxt "conversations/companions/g_companion_parvati_in_party:413:DefaultText"
 msgid "Head back to the ship, Parvati. I'm going on without you."
-msgstr ""
+msgstr "Vrať se na loď, Parvati. Pokračuji bez tebe."
 
 #: conversations/companions/g_companion_parvati_in_party:414
 msgctxt "conversations/companions/g_companion_parvati_in_party:414:DefaultText"
 msgid "Sure thing, Captain. I'll be waiting back at the Unreliable if you need me."
-msgstr ""
+msgstr "Jistě, kapitáne. Kdybyste mě potřeboval, budu čekat na lodi Nespolehlivý."
 
 #: conversations/companions/g_companion_parvati_in_party:416
 msgctxt "conversations/companions/g_companion_parvati_in_party:416:DefaultText"
 msgid "I found you a fancy outfit for your date with Junlei."
-msgstr ""
+msgstr "Našel jsem ti na rande s Junlei parádní oblečení."
 
 #: conversations/companions/g_companion_parvati_in_party:417
 msgctxt "conversations/companions/g_companion_parvati_in_party:417:DefaultText"
 msgid "Oh gosh, that was awfully kind of you, Captain. You didn't have to, but I'm so glad you did."
-msgstr ""
+msgstr "Bože, to od vás bylo strašně milé, kapitáne. Nemusel jste, ale jsem moc rád, že jste to udělal."
 
 #: conversations/companions/g_companion_parvati_in_party:419
 msgctxt "conversations/companions/g_companion_parvati_in_party:419:DefaultText"
 msgid "Is this everything you need for that dinner?"
-msgstr ""
+msgstr "Je to vše, co potřebujete k večeři?"
 
 #: conversations/companions/g_companion_parvati_in_party:425
 msgctxt "conversations/companions/g_companion_parvati_in_party:425:DefaultText"
 msgid "You wanted to talk to me?"
-msgstr ""
+msgstr "Chtěl jsi se mnou mluvit?"
 
 #: conversations/companions/g_companion_parvati_in_party:426
 msgctxt "conversations/companions/g_companion_parvati_in_party:426:DefaultText"
 msgid "Oh, right- about the Groundbreaker's engineer, Junlei Tennyson."
-msgstr ""
+msgstr "Aha, správně - o inženýrovi Groundbreakeru, Junlei Tennysonovi."
 
 #: conversations/companions/g_companion_parvati_in_party:428
 msgctxt "conversations/companions/g_companion_parvati_in_party:428:DefaultText"
 msgid "Ergh. Everything's a little... spinny. Are they 'sposed to be spinny? Maybe I should sit. Now where's that floor gone? Come 'ere, you- you rascal. Dodging ain't fair!"
-msgstr ""
+msgstr "Ergh. Všechno je trochu... roztočené. Mají být točivé? Možná bych si měl sednout. Kam se poděla ta podlaha? Pojď sem, ty... ty rošťáku. Uhýbat není fér!"
 
 #: conversations/companions/g_companion_parvati_in_party:429
 msgctxt "conversations/companions/g_companion_parvati_in_party:429:DefaultText"
 msgid "I hope this fancy soap we got is extra-strength. I'm feelin' a might... ripe."
-msgstr ""
+msgstr "Doufám, že to luxusní mýdlo, které jsme dostali, je extra silné. Cítím se trochu... zralý."
 
 #: conversations/companions/g_companion_parvati_in_party:430
 msgctxt "conversations/companions/g_companion_parvati_in_party:430:DefaultText"
 msgid "Junlei'll like a casserole, right? Everyone likes a casserole. I mean, I don't really, but I don't count."
-msgstr ""
+msgstr "Junlei si dá kastrol, že? Každý má rád kastrol. Teda já ne, ale nepočítám se."
 
 #: conversations/companions/g_companion_parvati_in_party:431
 msgctxt "conversations/companions/g_companion_parvati_in_party:431:DefaultText"
 msgid "Oh Captain, you see those fine clothes Ms. Jolicoeur made for me? I ain't never owned anything so fancy in my life!"
-msgstr ""
+msgstr "Kapitáne, vidíte ty krásné šaty, které mi ušila paní Jolicoeurová? Nikdy v životě jsem neměl nic tak luxusního!"
 
 #: conversations/companions/g_companion_parvati_in_party:432
 msgctxt "conversations/companions/g_companion_parvati_in_party:432:DefaultText"
 msgid "Ergh. My stomach's a little upset. Maybe drinking don't agree with me."
-msgstr ""
+msgstr "Ergh. Mám trochu rozbouřený žaludek. Možná se mnou pití nesouhlasí."
 
 #: conversations/companions/g_companion_parvati_in_party:433
 msgctxt "conversations/companions/g_companion_parvati_in_party:433:DefaultText"
 msgid "Now cakes, cakes I like. Gosh, I hope she likes 'em, too."
-msgstr ""
+msgstr "A teď dorty, dorty mám rád. Bože, doufám, že jí taky chutnají."
 
 #: conversations/companions/g_companion_parvati_in_party:434
 msgctxt "conversations/companions/g_companion_parvati_in_party:434:DefaultText"
 msgid "Her contract said any kids she had, expected or not, belonged to her office from the time of conception."
-msgstr ""
+msgstr "Podle její smlouvy patřily všechny děti, které měla, ať už očekávané, nebo ne, od okamžiku početí jejímu úřadu."
 
 #: conversations/companions/g_companion_parvati_in_party:437
 msgctxt "conversations/companions/g_companion_parvati_in_party:437:DefaultText"
 msgid "You want I should send someone to take my place?"
-msgstr ""
+msgstr "Chceš, abych poslal někoho na své místo?"
 
 #: conversations/companions/g_companion_parvati_in_party:438
 msgctxt "conversations/companions/g_companion_parvati_in_party:438:DefaultText"
 msgid "Send Ellie."
-msgstr ""
+msgstr "Odeslat Ellie."
 
 #: conversations/companions/g_companion_parvati_in_party:439
 msgctxt "conversations/companions/g_companion_parvati_in_party:439:DefaultText"
 msgid "Ellie. Got it. Okay."
-msgstr ""
+msgstr "Ellie. Mám to. Dobře."
 
 #: conversations/companions/g_companion_parvati_in_party:440
 msgctxt "conversations/companions/g_companion_parvati_in_party:440:DefaultText"
 msgid "Send Felix."
-msgstr ""
+msgstr "Odeslat Felixovi."
 
 #: conversations/companions/g_companion_parvati_in_party:441
 msgctxt "conversations/companions/g_companion_parvati_in_party:441:DefaultText"
 msgid "You keep Felix safe, Captain."
-msgstr ""
+msgstr "Udržujte Felixe v bezpečí, kapitáne."
 
 #: conversations/companions/g_companion_parvati_in_party:442
 msgctxt "conversations/companions/g_companion_parvati_in_party:442:DefaultText"
 msgid "Send Nyoka."
-msgstr ""
+msgstr "Odeslat Nyoka."
 
 #: conversations/companions/g_companion_parvati_in_party:443
 msgctxt "conversations/companions/g_companion_parvati_in_party:443:DefaultText"
 msgid "I'll tell Nyoka you need her. She'll like that."
-msgstr ""
+msgstr "Řeknu Nyoce, že ji potřebuješ. To se jí bude líbit."
 
 #: conversations/companions/g_companion_parvati_in_party:444
 msgctxt "conversations/companions/g_companion_parvati_in_party:444:DefaultText"
 msgid "Send Max."
-msgstr ""
+msgstr "Odeslat Max."
 
 #: conversations/companions/g_companion_parvati_in_party:445
 msgctxt "conversations/companions/g_companion_parvati_in_party:445:DefaultText"
 msgid "Sure hope Mr. Vicar ain't napping. "
-msgstr ""
+msgstr "Doufám, že pan farář nedřímá. "
 
 #: conversations/companions/g_companion_parvati_in_party:446
 msgctxt "conversations/companions/g_companion_parvati_in_party:446:DefaultText"
 msgid "Send SAM."
-msgstr ""
+msgstr "Odeslat SAM."
 
 #: conversations/companions/g_companion_parvati_in_party:447
 msgctxt "conversations/companions/g_companion_parvati_in_party:447:DefaultText"
 msgid "Give SAM a scritch behind the circuits for me."
-msgstr ""
+msgstr "Za mě SAMa poškrábej za obvody."
 
 #: conversations/companions/g_companion_parvati_in_party:448
 msgctxt "conversations/companions/g_companion_parvati_in_party:448:DefaultText"
 msgid "Not right now."
-msgstr ""
+msgstr "Teď ne."

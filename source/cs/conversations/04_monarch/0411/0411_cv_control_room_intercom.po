@@ -1,194 +1,194 @@
 #: conversations/04_monarch/0411/0411_cv_control_room_intercom:1
 msgctxt "conversations/04_monarch/0411/0411_cv_control_room_intercom:1:DefaultText"
 msgid "[The intercom turns on with a click-click noise preceding a beep. It appears to transmit over the factory's radio system.]"
-msgstr ""
+msgstr "[Interkom se zapne se zvukem cvaknutí, kterému předchází pípnutí. Zdá se, že vysílá přes tovární rádiový systém.]"
 
 #: conversations/04_monarch/0411/0411_cv_control_room_intercom:2
 msgctxt "conversations/04_monarch/0411/0411_cv_control_room_intercom:2:DefaultText"
 msgid "Attention, everyone. I have an important announcement."
-msgstr ""
+msgstr "Pozor, všichni. Mám pro vás důležité oznámení."
 
 #: conversations/04_monarch/0411/0411_cv_control_room_intercom:5
 msgctxt "conversations/04_monarch/0411/0411_cv_control_room_intercom:5:DefaultText"
 msgid "Hello, hello? Is this thing on?"
-msgstr ""
+msgstr "Haló, haló? Je to zapnuté?"
 
 #: conversations/04_monarch/0411/0411_cv_control_room_intercom:6
 msgctxt "conversations/04_monarch/0411/0411_cv_control_room_intercom:6:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"
 
 #: conversations/04_monarch/0411/0411_cv_control_room_intercom:7
 msgctxt "conversations/04_monarch/0411/0411_cv_control_room_intercom:7:DefaultText"
 msgid "What the in the void? Who is this?"
-msgstr ""
+msgstr "Co je v prázdnotě? Kdo je to?"
 
 #: conversations/04_monarch/0411/0411_cv_control_room_intercom:8
 msgctxt "conversations/04_monarch/0411/0411_cv_control_room_intercom:8:DefaultText"
 msgid "Oh, uh, I'm <oeitoken>PlayerName</oeitoken>."
-msgstr ""
+msgstr "Oh, uh, já jsem <oeitoken>Jméno hráče</oeitoken>."
 
 #: conversations/04_monarch/0411/0411_cv_control_room_intercom:9
 msgctxt "conversations/04_monarch/0411/0411_cv_control_room_intercom:9:DefaultText"
 msgid "Did I say \"<oeitoken>PlayerName</oeitoken>?\" I meant \"the King.\""
-msgstr ""
+msgstr "Řekl jsem \"<oeitoken>Jméno hráče</oeitoken>?\" Myslel jsem \"král\"."
 
 #: conversations/04_monarch/0411/0411_cv_control_room_intercom:10
 msgctxt "conversations/04_monarch/0411/0411_cv_control_room_intercom:10:DefaultText"
 msgid "Wow, you're awful snippy for a phonograph. "
-msgstr ""
+msgstr "Páni, na gramofonovou desku jsi strašně jízlivý. "
 
 #: conversations/04_monarch/0411/0411_cv_control_room_intercom:11
 msgctxt "conversations/04_monarch/0411/0411_cv_control_room_intercom:11:DefaultText"
 msgid "I'm not a machine, you hull-head, I'm talking to you through the radio!"
-msgstr ""
+msgstr "Já nejsem stroj, ty tupče, mluvím s tebou přes vysílačku!"
 
 #: conversations/04_monarch/0411/0411_cv_control_room_intercom:12
 msgctxt "conversations/04_monarch/0411/0411_cv_control_room_intercom:12:DefaultText"
 msgid "Oh my stars, you're inside this thing? You must be tiny!"
-msgstr ""
+msgstr "Proboha, ty jsi uvnitř téhle věci? Musíš být malinká!"
 
 #: conversations/04_monarch/0411/0411_cv_control_room_intercom:13
 msgctxt "conversations/04_monarch/0411/0411_cv_control_room_intercom:13:DefaultText"
 msgid "Nice try, automech. You ain't fooling me."
-msgstr ""
+msgstr "Dobrý pokus, automechu. Mě neoblafneš."
 
 #: conversations/04_monarch/0411/0411_cv_control_room_intercom:14
 msgctxt "conversations/04_monarch/0411/0411_cv_control_room_intercom:14:DefaultText"
 msgid "Space it all, do you want to get canned?! Or are you simply trying to get ME canned? Never mind. You ain't the King so that means get off the line!"
-msgstr ""
+msgstr "Vesmír to všechno, chcete dostat konzervu?! Nebo se prostě snažíš, abych byl vyhozen JÁ? To je jedno. Nejsi král, takže to znamená, že vypadni z řady!"
 
 #: conversations/04_monarch/0411/0411_cv_control_room_intercom:15
 msgctxt "conversations/04_monarch/0411/0411_cv_control_room_intercom:15:DefaultText"
 msgid "<Sing a tune.>"
-msgstr ""
+msgstr "<Zpívejte melodii.>"
 
 #: conversations/04_monarch/0411/0411_cv_control_room_intercom:16
 msgctxt "conversations/04_monarch/0411/0411_cv_control_room_intercom:16:DefaultText"
 msgid "Mercy! Mercy - make it stop, please. You sound like a dying raptidon."
-msgstr ""
+msgstr "Milosrdenství! Slitování - ať to přestane, prosím. Zníš jako umírající raptidon."
 
 #: conversations/04_monarch/0411/0411_cv_control_room_intercom:17
 msgctxt "conversations/04_monarch/0411/0411_cv_control_room_intercom:17:DefaultText"
 msgid "Oh, for the love of boarst. "
-msgstr ""
+msgstr "Pro lásku boží. "
 
 #: conversations/04_monarch/0411/0411_cv_control_room_intercom:18
 msgctxt "conversations/04_monarch/0411/0411_cv_control_room_intercom:18:DefaultText"
 msgid "Har-dee-har-har. Had me going for a nanosecond there. Did Saul put you up to this? If so, you can tell him it ain't gonna stop me from stealing his lunches."
-msgstr ""
+msgstr "Har-dee-har-har. Na nanosekundu mě to dostalo. K tomuhle tě navedl Saul? Jestli jo, tak mu řekni, že mi to nezabrání krást mu obědy."
 
 #: conversations/04_monarch/0411/0411_cv_control_room_intercom:19
 msgctxt "conversations/04_monarch/0411/0411_cv_control_room_intercom:19:DefaultText"
 msgid "Gerty, you on shift near the control room? Please issue this nutter a pink slip before we each earn an infraction! "
-msgstr ""
+msgstr "Gerty, máš směnu poblíž řídicí místnosti? Prosím, dej tomu magorovi růžový papír, než si každý z nás vyslouží přestupek! "
 
 #: conversations/04_monarch/0411/0411_cv_control_room_intercom:20
 msgctxt "conversations/04_monarch/0411/0411_cv_control_room_intercom:20:DefaultText"
 msgid "Who?"
-msgstr ""
+msgstr "Kdo?"
 
 #: conversations/04_monarch/0411/0411_cv_control_room_intercom:21
 msgctxt "conversations/04_monarch/0411/0411_cv_control_room_intercom:21:DefaultText"
 msgid "Don't get your knickers in a twist."
-msgstr ""
+msgstr "Nenechte se vyvést z míry."
 
 #: conversations/04_monarch/0411/0411_cv_control_room_intercom:22
 msgctxt "conversations/04_monarch/0411/0411_cv_control_room_intercom:22:DefaultText"
 msgid "Uh huh, and I'm the Boarst King of Monarch, too. Think I don't know the sound of his voice, you crazy rungleech?"
-msgstr ""
+msgstr "Aha, a taky jsem král monarchů. Myslíš, že neznám zvuk jeho hlasu, ty bláznivý rungle?"
 
 #: conversations/04_monarch/0411/0411_cv_control_room_intercom:23
 msgctxt "conversations/04_monarch/0411/0411_cv_control_room_intercom:23:DefaultText"
 msgid "Oh, for the love of boarst. "
-msgstr ""
+msgstr "Pro lásku boží. "
 
 #: conversations/04_monarch/0411/0411_cv_control_room_intercom:24
 msgctxt "conversations/04_monarch/0411/0411_cv_control_room_intercom:24:DefaultText"
 msgid "If you don't get off this line, I'll open the door all right - and pummel your face into ground boarst."
-msgstr ""
+msgstr "Jestli neskončíš, otevřu ti dveře - a rozbiju ti hubu o zem."
 
 #: conversations/04_monarch/0411/0411_cv_control_room_intercom:25
 msgctxt "conversations/04_monarch/0411/0411_cv_control_room_intercom:25:DefaultText"
 msgid "Huh? What's going on?"
-msgstr ""
+msgstr "Cože? Co se děje?"
 
 #: conversations/04_monarch/0411/0411_cv_control_room_intercom:26
 msgctxt "conversations/04_monarch/0411/0411_cv_control_room_intercom:26:DefaultText"
 msgid "There's a grease leak in the factory. Evacuate immediately or risk gross greasification."
-msgstr ""
+msgstr "V továrně dochází k úniku maziva. Okamžitě se evakuujte, jinak hrozí hrubé zamaštění."
 
 #: conversations/04_monarch/0411/0411_cv_control_room_intercom:28
 msgctxt "conversations/04_monarch/0411/0411_cv_control_room_intercom:28:DefaultText"
 msgid "The King would like to invite you for dinner."
-msgstr ""
+msgstr "Král by vás rád pozval na večeři."
 
 #: conversations/04_monarch/0411/0411_cv_control_room_intercom:30
 msgctxt "conversations/04_monarch/0411/0411_cv_control_room_intercom:30:DefaultText"
 msgid "Never mind. Carry on."
-msgstr ""
+msgstr "Nevadí. Pokračujte."
 
 #: conversations/04_monarch/0411/0411_cv_control_room_intercom:31
 msgctxt "conversations/04_monarch/0411/0411_cv_control_room_intercom:31:DefaultText"
 msgid "[Per your suggestion, the guards have abandoned this frequency. Only static plays.]"
-msgstr ""
+msgstr "[Na váš návrh strážci tuto frekvenci opustili. Hraje pouze statická hudba.]"
 
 #: conversations/04_monarch/0411/0411_cv_control_room_intercom:32
 msgctxt "conversations/04_monarch/0411/0411_cv_control_room_intercom:32:DefaultText"
 msgid "[The guards have locked this intercom out of the system. It won't respond.]"
-msgstr ""
+msgstr "[Stráže zablokovaly tento interkom.]"
 
 #: conversations/04_monarch/0411/0411_cv_control_room_intercom:33
 msgctxt "conversations/04_monarch/0411/0411_cv_control_room_intercom:33:DefaultText"
 msgid "Greasification, huh? Well, now that sounds pretty bad. Almost as bad as what the sentries are gonna do to you if you don't get out of that control room before they get there. Security!"
-msgstr ""
+msgstr "Zmaštění, co? No, to zní dost špatně. Skoro tak špatně, jako to, co ti udělají hlídky, jestli nevypadneš z té řídící místnosti dřív, než se tam dostanou. Ochranka!"
 
 #: conversations/04_monarch/0411/0411_cv_control_room_intercom:35
 msgctxt "conversations/04_monarch/0411/0411_cv_control_room_intercom:35:DefaultText"
 msgid "Like I don't know what that means. Not only no, but void no. I quit. And he can keep my final paycheck."
-msgstr ""
+msgstr "Jako bych nevěděl, co to znamená. Nejen ne, ale i neplatné ne. Končím. A on si může nechat mou poslední výplatu."
 
 #: conversations/04_monarch/0411/0411_cv_control_room_intercom:37
 msgctxt "conversations/04_monarch/0411/0411_cv_control_room_intercom:37:DefaultText"
 msgid "Thought you might want to know, SubLight is coming to kill you all."
-msgstr ""
+msgstr "Myslel jsem, že by vás to mohlo zajímat, protože vás všechny přijde zabít SubLight."
 
 #: conversations/04_monarch/0411/0411_cv_control_room_intercom:38
 msgctxt "conversations/04_monarch/0411/0411_cv_control_room_intercom:38:DefaultText"
 msgid "Space that! Clive don't pay me enough to die over some dumb swine. I'm out of here."
-msgstr ""
+msgstr "To je prostor! Clive mi neplatí tolik, abych umíral kvůli nějaké hloupé svini. Jdu pryč."
 
 #: conversations/04_monarch/0411/0411_cv_control_room_intercom:41
 msgctxt "conversations/04_monarch/0411/0411_cv_control_room_intercom:41:DefaultText"
 msgid "[In accordance with Pink Slip Protocol, all radios are locked down. Static filters across the line.]"
-msgstr ""
+msgstr "[V souladu s protokolem Pink Slip jsou všechny vysílačky zablokovány. Na lince se filtruje statická elektřina.]"
 
 #: conversations/04_monarch/0411/0411_cv_control_room_intercom:42
 msgctxt "conversations/04_monarch/0411/0411_cv_control_room_intercom:42:DefaultText"
 msgid "[The intercom is offline. You hear only static.]"
-msgstr ""
+msgstr "[Interkom je vypnutý. Slyšíte jen statickou elektřinu.]"
 
 #: conversations/04_monarch/0411/0411_cv_control_room_intercom:43
 msgctxt "conversations/04_monarch/0411/0411_cv_control_room_intercom:43:DefaultText"
 msgid "[A jolt of electricity numbs your arm.]"
-msgstr ""
+msgstr "[Elektrický výboj ti znecitliví ruku.]"
 
 #: conversations/04_monarch/0411/0411_cv_control_room_intercom:44
 msgctxt "conversations/04_monarch/0411/0411_cv_control_room_intercom:44:DefaultText"
 msgid "<Punch the comm box.>"
-msgstr ""
+msgstr "<Punch the comm box.>"
 
 #: conversations/04_monarch/0411/0411_cv_control_room_intercom:45
 msgctxt "conversations/04_monarch/0411/0411_cv_control_room_intercom:45:DefaultText"
 msgid "What in the nebula was that? No, wait. My original demand stands. Who is on the void-damned line?!"
-msgstr ""
+msgstr "Co to v té mlhovině bylo? Ne, počkejte. Můj původní požadavek platí. Kdo je na té zatracené čáře?!"
 
 #: conversations/04_monarch/0411/0411_cv_control_room_intercom:47
 msgctxt "conversations/04_monarch/0411/0411_cv_control_room_intercom:47:DefaultText"
 msgid "Well, that was surprisingly lovely. Got the voice of a siren, you do. That really brightened my day. Thank you. Still gonna need you to shut up though."
-msgstr ""
+msgstr "No, to bylo překvapivě krásné. Máš hlas sirény. To mi opravdu rozjasnilo den. Děkuji. Ale stejně budeš muset zmlknout."
 
 #: conversations/04_monarch/0411/0411_cv_control_room_intercom:48
 msgctxt "conversations/04_monarch/0411/0411_cv_control_room_intercom:48:DefaultText"
 msgid "I was kidding. The King would like to invite you for dinner."
-msgstr ""
+msgstr "Dělal jsem si legraci. Král by vás rád pozval na večeři."

@@ -1,404 +1,404 @@
 #: conversations/04_monarch/0401/0401_cv_huxley_intercom:1
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_intercom:1:DefaultText"
 msgid "Hello? Hellooooooo? I hear boots out there! Wait, can rapts wear boots?"
-msgstr ""
+msgstr "Haló? Halóóóó? Slyším tam boty! Počkat, můžou raptoři nosit boty?"
 
 #: conversations/04_monarch/0401/0401_cv_huxley_intercom:2
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_intercom:2:DefaultText"
 msgid "Hello again! The door's still locked. Just makin' you aware."
-msgstr ""
+msgstr "Ještě jednou ahoj! Dveře jsou stále zamčené. Jen tě upozorňuji."
 
 #: conversations/04_monarch/0401/0401_cv_huxley_intercom:3
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_intercom:3:DefaultText"
 msgid "Hello! Who's in there?"
-msgstr ""
+msgstr "Dobrý den! Kdo je tam?"
 
 #: conversations/04_monarch/0401/0401_cv_huxley_intercom:4
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_intercom:4:DefaultText"
 msgid "<Snarl like a raptidon.>"
-msgstr ""
+msgstr "<Chrčí jako raptidon.>"
 
 #: conversations/04_monarch/0401/0401_cv_huxley_intercom:5
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_intercom:5:DefaultText"
 msgid "Law help me, it's a talking door."
-msgstr ""
+msgstr "Zákon mi pomáhá, jsou to mluvící dveře."
 
 #: conversations/04_monarch/0401/0401_cv_huxley_intercom:6
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_intercom:6:DefaultText"
 msgid "Who are you?"
-msgstr ""
+msgstr "Kdo jste?"
 
 #: conversations/04_monarch/0401/0401_cv_huxley_intercom:8
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_intercom:8:DefaultText"
 msgid "Huxley. I'm an Iconoclast runner. The Iconoclast runner. Fastest we've got! Ain't a raptidon on this void-forsaken hellhole that can catch me!"
-msgstr ""
+msgstr "Huxley. Jsem běžec Iconoclast. Běžec Iconoclast. Nejrychlejší, jakého máme! V téhle prázdnotou zapomenuté díře není raptidon, který by mě dohnal!"
 
 #: conversations/04_monarch/0401/0401_cv_huxley_intercom:9
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_intercom:9:DefaultText"
 msgid "Aaaahh! Get away!"
-msgstr ""
+msgstr "Aaaahh! Utečte!"
 
 #: conversations/04_monarch/0401/0401_cv_huxley_intercom:10
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_intercom:10:DefaultText"
 msgid "My friends and I were scavenging here and a mantiqueen showed up. Then raptidons. It was a void-blasted mess."
-msgstr ""
+msgstr "S kamarády jsme tu hledali odpadky a objevil se tu mantikán. Pak raptidoni. Byl to bordel jako v prázdnotě."
 
 #: conversations/04_monarch/0401/0401_cv_huxley_intercom:11
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_intercom:11:DefaultText"
 msgid "I ran in here and um... now the door's locked. Little help?"
-msgstr ""
+msgstr "Vběhla jsem sem a... teď jsou dveře zamčené. Pomůžeš mi?"
 
 #: conversations/04_monarch/0401/0401_cv_huxley_intercom:12
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_intercom:12:DefaultText"
 msgid "You got... locked in? How?"
-msgstr ""
+msgstr "Máš... zamčeno? Jak?"
 
 #: conversations/04_monarch/0401/0401_cv_huxley_intercom:13
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_intercom:13:DefaultText"
 msgid "You got it. Where's the key?"
-msgstr ""
+msgstr "Máš to mít. Kde je klíč?"
 
 #: conversations/04_monarch/0401/0401_cv_huxley_intercom:14
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_intercom:14:DefaultText"
 msgid "I don't think so."
-msgstr ""
+msgstr "To si nemyslím."
 
 #: conversations/04_monarch/0401/0401_cv_huxley_intercom:15
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_intercom:15:DefaultText"
 msgid "It's easier than it sounds, all right? Next time you get chased by raptidons you let me know the rationality of your decisions!"
-msgstr ""
+msgstr "Je to jednodušší, než se zdá. Až vás příště budou pronásledovat raptidoni, dejte mi vědět, jak racionální jsou vaše rozhodnutí!"
 
 #: conversations/04_monarch/0401/0401_cv_huxley_intercom:16
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_intercom:16:DefaultText"
 msgid "Well, I need to get in that room."
-msgstr ""
+msgstr "Musím se dostat do té místnosti."
 
 #: conversations/04_monarch/0401/0401_cv_huxley_intercom:17
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_intercom:17:DefaultText"
 msgid "I need to get in that room, but maybe I'll let you starve first."
-msgstr ""
+msgstr "Musím se dostat do toho pokoje, ale možná tě nejdřív nechám vyhladovět."
 
 #: conversations/04_monarch/0401/0401_cv_huxley_intercom:18
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_intercom:18:DefaultText"
 msgid "Whew. Thanks, mister."
-msgstr ""
+msgstr "Uf. Díky, pane."
 
 #: conversations/04_monarch/0401/0401_cv_huxley_intercom:18
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_intercom:18:FemaleText"
 msgid "Whew. Thanks, lady."
-msgstr ""
+msgstr "Uf. Díky, paní."
 
 #: conversations/04_monarch/0401/0401_cv_huxley_intercom:19
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_intercom:19:DefaultText"
 msgid "I'll be here if you change your mind. On account of I can't do anything else."
-msgstr ""
+msgstr "Budu tady, kdyby sis to rozmyslel. Protože nemůžu dělat nic jiného."
 
 #: conversations/04_monarch/0401/0401_cv_huxley_intercom:20
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_intercom:20:DefaultText"
 msgid "Oh, hey! You wanna help a girl out?"
-msgstr ""
+msgstr "Ahoj! Chceš pomoct holce?"
 
 #: conversations/04_monarch/0401/0401_cv_huxley_intercom:21
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_intercom:21:DefaultText"
 msgid "Hurry up hurry up hurry up!"
-msgstr ""
+msgstr "Pospěšte si, pospěšte si, pospěšte si!"
 
 #: conversations/04_monarch/0401/0401_cv_huxley_intercom:22
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_intercom:22:DefaultText"
 msgid "My buddy had a key, but I ain't heard him in a while. He locked me in here and took off. Probably got munched."
-msgstr ""
+msgstr "Můj kámoš měl klíč, ale už jsem ho dlouho neslyšel. Zamkl mě tady a zmizel. Nejspíš ho sežral."
 
 #: conversations/04_monarch/0401/0401_cv_huxley_intercom:23
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_intercom:23:DefaultText"
 msgid "There must be a way to open it from the inside."
-msgstr ""
+msgstr "Musí existovat způsob, jak ji otevřít zevnitř."
 
 #: conversations/04_monarch/0401/0401_cv_huxley_intercom:24
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_intercom:24:DefaultText"
 msgid "Bet I could get through this lock."
-msgstr ""
+msgstr "Vsadím se, že bych se přes ten zámek dostal."
 
 #: conversations/04_monarch/0401/0401_cv_huxley_intercom:25
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_intercom:25:DefaultText"
 msgid "I'll take a look around."
-msgstr ""
+msgstr "Rozhlédnu se kolem."
 
 #: conversations/04_monarch/0401/0401_cv_huxley_intercom:26
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_intercom:26:DefaultText"
 msgid "Fine."
-msgstr ""
+msgstr "V pořádku."
 
 #: conversations/04_monarch/0401/0401_cv_huxley_intercom:27
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_intercom:27:DefaultText"
 msgid "I just wanted to tell you how nice this fresh air and open space is."
-msgstr ""
+msgstr "Chtěla jsem vám jen říct, jak je tento čerstvý vzduch a otevřený prostor příjemný."
 
 #: conversations/04_monarch/0401/0401_cv_huxley_intercom:28
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_intercom:28:DefaultText"
 msgid "Hmph. Liar. This is Monarch. There ain't fresh air anywhere."
-msgstr ""
+msgstr "Hmph. Lhář. Tohle je Monarcha. Nikde není čerstvý vzduch."
 
 #: conversations/04_monarch/0401/0401_cv_huxley_intercom:29
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_intercom:29:DefaultText"
 msgid "Nope."
-msgstr ""
+msgstr "Ne."
 
 #: conversations/04_monarch/0401/0401_cv_huxley_intercom:30
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_intercom:30:DefaultText"
 msgid "Well, um. Okay. I mean, I don't know why you'd come on over just to tell me that, but. Okay."
-msgstr ""
+msgstr "No, dobře. Nevím, proč jsi mi to přišel říct jen tak, ale... Dobře."
 
 #: conversations/04_monarch/0401/0401_cv_huxley_intercom:32
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_intercom:32:DefaultText"
 msgid "What do you mean? It's locked."
-msgstr ""
+msgstr "Co tím myslíte? Je zamčeno."
 
 #: conversations/04_monarch/0401/0401_cv_huxley_intercom:33
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_intercom:33:DefaultText"
 msgid "Right, but... okay, let's try the handle. Turn it upward, and..."
-msgstr ""
+msgstr "Dobře, ale... Dobře, zkusíme tu kliku. Otočte ji nahoru a..."
 
 #: conversations/04_monarch/0401/0401_cv_huxley_intercom:34
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_intercom:34:DefaultText"
 msgid "Right, but these doors lock from the inside. You should be able to just open it."
-msgstr ""
+msgstr "Jasně, ale tyhle dveře se zamykají zevnitř. Měli byste je být schopni otevřít."
 
 #: conversations/04_monarch/0401/0401_cv_huxley_intercom:35
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_intercom:35:DefaultText"
 msgid "That room must be feeling awfully cramped. Like the walls are closing in."
-msgstr ""
+msgstr "V té místnosti musí být strašně těsno. Jako by se stěny uzavíraly."
 
 #: conversations/04_monarch/0401/0401_cv_huxley_intercom:36
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_intercom:36:DefaultText"
 msgid "Fine, let's try something else."
-msgstr ""
+msgstr "Dobře, zkusíme něco jiného."
 
 #: conversations/04_monarch/0401/0401_cv_huxley_intercom:37
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_intercom:37:DefaultText"
 msgid "Still looking."
-msgstr ""
+msgstr "Stále hledáme."
 
 #: conversations/04_monarch/0401/0401_cv_huxley_intercom:38
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_intercom:38:DefaultText"
 msgid "So look for a dead guy, I guess. Or a rapt. Maybe it's in a rapt belly. Gross."
-msgstr ""
+msgstr "Takže hledej mrtvého chlapa, řekl bych. Nebo rapt. Možná je v raptově břiše. Hnus."
 
 #: conversations/04_monarch/0401/0401_cv_huxley_intercom:39
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_intercom:39:DefaultText"
 msgid "Seeing as you're trapped, you might as well answer a few things for me."
-msgstr ""
+msgstr "Když už jsi v pasti, mohl bys mi odpovědět na pár otázek."
 
 #: conversations/04_monarch/0401/0401_cv_huxley_intercom:40
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_intercom:40:DefaultText"
 msgid "Sure. Beats not answering questions."
-msgstr ""
+msgstr "Jistě. Lepší než neodpovídat na otázky."
 
 #: conversations/04_monarch/0401/0401_cv_huxley_intercom:41
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_intercom:41:DefaultText"
 msgid "I think I found it."
-msgstr ""
+msgstr "Myslím, že jsem to našel."
 
 #: conversations/04_monarch/0401/0401_cv_huxley_intercom:42
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_intercom:42:DefaultText"
 msgid "Oh! Much obliged!"
-msgstr ""
+msgstr "Velmi vám děkuji!"
 
 #: conversations/04_monarch/0401/0401_cv_huxley_intercom:43
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_intercom:43:DefaultText"
 msgid "Tell me about the Iconoclasts."
-msgstr ""
+msgstr "Povězte mi o Iconoclasts."
 
 #: conversations/04_monarch/0401/0401_cv_huxley_intercom:44
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_intercom:44:DefaultText"
 msgid "So... get locked in closets often?"
-msgstr ""
+msgstr "Takže... se často zamykáte ve skříních?"
 
 #: conversations/04_monarch/0401/0401_cv_huxley_intercom:45
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_intercom:45:DefaultText"
 msgid "Right. Back to the door."
-msgstr ""
+msgstr "Vpravo. Zpátky ke dveřím."
 
 #: conversations/04_monarch/0401/0401_cv_huxley_intercom:46
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_intercom:46:DefaultText"
 msgid "My buddy locked me in here! I told you that! It was for my safekeeping, on account of raptidons wanting to munch on my head."
-msgstr ""
+msgstr "Můj kámoš mě tu zamkl! Říkal jsem ti to! Bylo to pro mou bezpečnost, protože raptidoni mi chtěli chroupat hlavu."
 
 #: conversations/04_monarch/0401/0401_cv_huxley_intercom:47
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_intercom:47:DefaultText"
 msgid "I'm looking for a BOLT-52. Any lying around?"
-msgstr ""
+msgstr "Hledám BOLT-52. Neleží tu někde?"
 
 #: conversations/04_monarch/0401/0401_cv_huxley_intercom:48
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_intercom:48:DefaultText"
 msgid "Wait really? I wasn't serious."
-msgstr ""
+msgstr "Počkat, opravdu? To jsem nemyslel vážně."
 
 #: conversations/04_monarch/0401/0401_cv_huxley_intercom:49
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_intercom:49:DefaultText"
 msgid "What if you're being chased by something that really likes trash?"
-msgstr ""
+msgstr "Co když vás pronásleduje něco, co má opravdu rádo odpadky?"
 
 #: conversations/04_monarch/0401/0401_cv_huxley_intercom:50
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_intercom:50:DefaultText"
 msgid "That's disgusting. I'd rather be eaten."
-msgstr ""
+msgstr "To je nechutné. Raději bych se nechal sníst."
 
 #: conversations/04_monarch/0401/0401_cv_huxley_intercom:52
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_intercom:52:DefaultText"
 msgid "I never thought of that. Hide in a shower, I guess."
-msgstr ""
+msgstr "To mě nikdy nenapadlo. Asi se schovat do sprchy."
 
 #: conversations/04_monarch/0401/0401_cv_huxley_intercom:53
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_intercom:53:DefaultText"
 msgid "Oh, uh, haha, neither was I. Who'd hide in a trash can? Gross."
-msgstr ""
+msgstr "Kdo by se schovával v popelnici? Hnus."
 
 #: conversations/04_monarch/0401/0401_cv_huxley_intercom:55
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_intercom:55:DefaultText"
 msgid "Oh, that'd be my people! Graham and Zora and Milton and... I really miss them. You gonna let me outta here? I want to get back to Amber Heights."
-msgstr ""
+msgstr "To by byli moji lidé! Graham a Zora a Milton a... Opravdu mi chybí. Pustíte mě odsud? Chci se vrátit do Amber Heights."
 
 #: conversations/04_monarch/0401/0401_cv_huxley_intercom:56
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_intercom:56:DefaultText"
 msgid "Suit yourself, mister."
-msgstr ""
+msgstr "Jak je libo, pane."
 
 #: conversations/04_monarch/0401/0401_cv_huxley_intercom:56
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_intercom:56:FemaleText"
 msgid "Suit yourself, lady."
-msgstr ""
+msgstr "Jak je libo, dámo."
 
 #: conversations/04_monarch/0401/0401_cv_huxley_intercom:57
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_intercom:57:DefaultText"
 msgid "Probably. I dunno. When I try to read things, my mind gets to wanderin' about all the things I could be doing instead."
-msgstr ""
+msgstr "Pravděpodobně. Nevím. Když se snažím něco číst, začnu přemýšlet o tom, co všechno bych mohl dělat místo toho."
 
 #: conversations/04_monarch/0401/0401_cv_huxley_intercom:58
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_intercom:58:DefaultText"
 msgid "Don't be afraid in there! You'll get a handle on this situation in no time!"
-msgstr ""
+msgstr "Nebojte se tam! Tuto situaci zvládnete během chvilky!"
 
 #: conversations/04_monarch/0401/0401_cv_huxley_intercom:59
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_intercom:59:DefaultText"
 msgid "Wait. Upward?"
-msgstr ""
+msgstr "Počkejte. Nahoru?"
 
 #: conversations/04_monarch/0401/0401_cv_huxley_intercom:60
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_intercom:60:DefaultText"
 msgid "But it's... okay, I mean, I'll try. But I'm pretty sure you can't open a locked-"
-msgstr ""
+msgstr "Ale je to... dobře, chci říct, že to zkusím. Ale jsem si docela jistý, že nemůžeš otevřít zamčenou..."
 
 #: conversations/04_monarch/0401/0401_cv_huxley_intercom:61
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_intercom:61:DefaultText"
 msgid "Oh, no. Oh, no, let me out. Help. I can't breathe. I can't - I gotta get outta here. I'll bust this door down. I'll rip this handle off, I'll-"
-msgstr ""
+msgstr "Ale ne. Ne, pusťte mě ven. Pomozte mi. Nemůžu dýchat. Nemůžu - musím se odsud dostat. Vyrazím ty dveře. Vytrhnu tu kliku, já..."
 
 #: conversations/04_monarch/0401/0401_cv_huxley_intercom:63
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_intercom:63:DefaultText"
 msgid "OH MY ETERNAL SOUL. It worked!"
-msgstr ""
+msgstr "ACH, MÁ VĚČNÁ DUŠE. Fungovalo to!"
 
 #: conversations/04_monarch/0401/0401_cv_huxley_intercom:64
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_intercom:64:DefaultText"
 msgid "[Static]"
-msgstr ""
+msgstr "[Statický]"
 
 #: conversations/04_monarch/0401/0401_cv_huxley_intercom:65
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_intercom:65:DefaultText"
 msgid "All yours, mister!"
-msgstr ""
+msgstr "Všechno je vaše, pane!"
 
 #: conversations/04_monarch/0401/0401_cv_huxley_intercom:65
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_intercom:65:FemaleText"
 msgid "All yours, lady!"
-msgstr ""
+msgstr "Všechno je vaše, paní!"
 
 #: conversations/04_monarch/0401/0401_cv_huxley_intercom:66
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_intercom:66:DefaultText"
 msgid "Hey! Watch who you're calling a door, hullhead!"
-msgstr ""
+msgstr "Hej! Dávej si pozor, komu říkáš dveře, hlupáku!"
 
 #: conversations/04_monarch/0401/0401_cv_huxley_intercom:67
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_intercom:67:DefaultText"
 msgid "I don't think they've figured that out yet. Who are you?"
-msgstr ""
+msgstr "Myslím, že na to ještě nepřišli. Kdo jsi ty?"
 
 #: conversations/04_monarch/0401/0401_cv_huxley_intercom:68
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_intercom:68:DefaultText"
 msgid "Oh, thank the Eternal. I'm Huxley. Hux if you're lazy. I'm stuck."
-msgstr ""
+msgstr "Ach, díky Věčnému. Já jsem Huxley. Hux, pokud jsi líný. Já jsem se zasekl."
 
 #: conversations/04_monarch/0401/0401_cv_huxley_intercom:69
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_intercom:69:DefaultText"
 msgid "I'm just messing with you. Who's in there?"
-msgstr ""
+msgstr "Jen si z tebe dělám legraci. Kdo je tam?"
 
 #: conversations/04_monarch/0401/0401_cv_huxley_intercom:70
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_intercom:70:DefaultText"
 msgid "Sorry. Couldn't help it. Who's in there?"
-msgstr ""
+msgstr "Omlouvám se. Nemohl jsem si pomoct. Kdo je tam?"
 
 #: conversations/04_monarch/0401/0401_cv_huxley_intercom:71
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_intercom:71:DefaultText"
 msgid "What - oh. There's an intercom here. That... that explains a lot. Who's in there?"
-msgstr ""
+msgstr "Co - aha. Je tu interkom. To... to hodně vysvětluje. Kdo je tam?"
 
 #: conversations/04_monarch/0401/0401_cv_huxley_intercom:72
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_intercom:72:DefaultText"
 msgid "Oh. Wait. Behind the door. Hello!"
-msgstr ""
+msgstr "Oh. Počkej. Za dveřmi. Ahoj!"
 
 #: conversations/04_monarch/0401/0401_cv_huxley_intercom:74
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_intercom:74:DefaultText"
 msgid "This would be funny if it weren't sad."
-msgstr ""
+msgstr "Bylo by to vtipné, kdyby to nebylo smutné."
 
 #: conversations/04_monarch/0401/0401_cv_huxley_intercom:75
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_intercom:75:DefaultText"
 msgid "Watch who you're calling a hullhead, door!"
-msgstr ""
+msgstr "Dávej si pozor, koho nazýváš trupem, dveře!"
 
 #: conversations/04_monarch/0401/0401_cv_huxley_intercom:76
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_intercom:76:DefaultText"
 msgid "Um, I'm pretty sure that's an intercom, Captain. See? There's a button. It says \"intercom.\""
-msgstr ""
+msgstr "Jsem si jistý, že to je interkom, kapitáne. Vidíte? Tady je tlačítko. Je na něm napsáno \"interkom\"."
 
 #: conversations/04_monarch/0401/0401_cv_huxley_intercom:77
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_intercom:77:DefaultText"
 msgid "There's more than one of you?"
-msgstr ""
+msgstr "Je vás víc?"
 
 #: conversations/04_monarch/0401/0401_cv_huxley_intercom:79
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_intercom:79:DefaultText"
 msgid "Rude! I'll have you know I can go for whole days without a snack!"
-msgstr ""
+msgstr "Hrubý! Musím ti říct, že vydržím celé dny bez svačiny!"
 
 #: conversations/04_monarch/0401/0401_cv_huxley_intercom:80
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_intercom:80:DefaultText"
 msgid "I'm, uh... I'm... whew. Sorry. Put me in a tiny room like this and I'm liable to flip. Not keen on tight spaces, you know?"
-msgstr ""
+msgstr "Jsem... jsem... fuj. Omlouvám se. Dejte mě do takhle malé místnosti a já se můžu zbláznit. Nemám rád stísněné prostory, víš?"
 
 #: conversations/04_monarch/0401/0401_cv_huxley_intercom:81
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_intercom:81:DefaultText"
 msgid "But... I mean... okay, yes. Fine. I get myself into sticky situations. It's just part of the life, all right? Sometimes you gotta hide in a trash can so's you don't get eaten by monsters."
-msgstr ""
+msgstr "Ale... Tedy... dobře, ano. Dobře. Dostávám se do svízelných situací. To prostě k životu patří, jasný? Někdy se musíš schovat do popelnice, aby tě nesežraly příšery."
 
 #: conversations/04_monarch/0401/0401_cv_huxley_intercom:82
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_intercom:82:DefaultText"
 msgid "Helloooooo? Anyone out there?"
-msgstr ""
+msgstr "Halóóóó? Je tam někdo?"
 
 #: conversations/04_monarch/0401/0401_cv_huxley_intercom:83
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_intercom:83:DefaultText"
 msgid "Get me outta here!"
-msgstr ""
+msgstr "Dostaňte mě odsud!"
 
 #: conversations/04_monarch/0401/0401_cv_huxley_intercom:84
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_intercom:84:DefaultText"
 msgid "Scratch that. It's still funny."
-msgstr ""
+msgstr "To je škrtněte. Pořád je to vtipné."
 
 #: conversations/04_monarch/0401/0401_cv_huxley_intercom:85
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_intercom:85:DefaultText"
 msgid "A... handle, huh. That... gives me an idea... maybe I should try the -"
-msgstr ""
+msgstr "A... rukojeť, huh. To... mi vnuklo nápad... možná bych měl zkusit -"

@@ -8,7 +8,7 @@ msgid "Relay Station GB-23\r\n"
 "Receiver Status: Active\n"
 "\n"
 "Main Menu:"
-msgstr ""
+msgstr "Reléová stanice GB-23 ---------------------------- Stav vysílače: Stav přijímače: Hlavní menu: Aktivní"
 
 #: conversations/10_scylla/1004_relay_station/1004_cp_relay_terminal:2
 msgctxt "conversations/10_scylla/1004_relay_station/1004_cp_relay_terminal:2:DefaultText"
@@ -20,17 +20,17 @@ msgid "Relay Station GB-23\r\n"
 "Receiver Status: Active\n"
 "\n"
 "Main Menu:"
-msgstr ""
+msgstr "Reléová stanice GB-23 ---------------------------- Stav vysílače: Stav přijímače: Aktivní Hlavní menu: Aktivní"
 
 #: conversations/10_scylla/1004_relay_station/1004_cp_relay_terminal:3
 msgctxt "conversations/10_scylla/1004_relay_station/1004_cp_relay_terminal:3:DefaultText"
 msgid "[Activate Relay Transmitter]"
-msgstr ""
+msgstr "[Aktivace reléového vysílače]"
 
 #: conversations/10_scylla/1004_relay_station/1004_cp_relay_terminal:5
 msgctxt "conversations/10_scylla/1004_relay_station/1004_cp_relay_terminal:5:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"
 
 #: conversations/10_scylla/1004_relay_station/1004_cp_relay_terminal:6
 msgctxt "conversations/10_scylla/1004_relay_station/1004_cp_relay_terminal:6:DefaultText"
@@ -50,7 +50,7 @@ msgid "Relay Station GB-23\r\n"
 ">>> Ping has been received.\n"
 "\n"
 "RESULTS: Transmitter Relay Activation is complete."
-msgstr ""
+msgstr "Reléová stanice GB-23 ---------------------------- Zahájení aktivační sekvence vysílače... 1. Směrování napájení do pole vysílačů >>> Cesty jsou synchronizovány. 2. Provedení testu napájení >>> Napájení je stabilní. 3. Provedení testu napájení >>> Napájení je stabilní. Zahájení diagnostiky pole vysílačů >>> Diagnostika hlásí, že 26/28 polí je funkčních. 4. Spuštění diagnostiky pole vysílačů >>> Spuštění diagnostiky pole vysílačů. Vysílání aktivačního pingu do vysílače Groundbreaker >>> Ping byl přijat. VÝSLEDKY: Aktivace vysílacího relé je dokončena."
 
 #: conversations/10_scylla/1004_relay_station/1004_cp_relay_terminal:8
 msgctxt "conversations/10_scylla/1004_relay_station/1004_cp_relay_terminal:8:DefaultText"
@@ -69,9 +69,9 @@ msgid "Relay Station GB-23\r\n"
 "Copy Complete! \r\n"
 "\r\n"
 "All stored messages have successfully transferred to the physical storage device."
-msgstr ""
+msgstr "Relay Station GB-23 ---------------------------- V paměti cache byly zjištěny nepřenesené zprávy. Tyto zprávy budou staženy na fyzické paměťové médium. Zahájení sekvence kopírování... . . . . . . ... ... Kopírování dokončeno! Všechny uložené zprávy byly úspěšně přeneseny na fyzické paměťové médium."
 
 #: conversations/10_scylla/1004_relay_station/1004_cp_relay_terminal:9
 msgctxt "conversations/10_scylla/1004_relay_station/1004_cp_relay_terminal:9:DefaultText"
 msgid "[Continue]"
-msgstr ""
+msgstr "[Pokračovat]"

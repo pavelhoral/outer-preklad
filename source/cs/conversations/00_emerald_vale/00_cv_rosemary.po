@@ -1,339 +1,339 @@
 #: conversations/00_emerald_vale/00_cv_rosemary:1
 msgctxt "conversations/00_emerald_vale/00_cv_rosemary:1:DefaultText"
 msgid "I appreciate the company and all, but you really ought to leave. You don't want to be seen around me."
-msgstr ""
+msgstr "Vážím si společnosti a všeho, ale opravdu bys měl odejít. Nechceš, aby tě někdo viděl v mé blízkosti."
 
 #: conversations/00_emerald_vale/00_cv_rosemary:3
 msgctxt "conversations/00_emerald_vale/00_cv_rosemary:3:DefaultText"
 msgid "I don't know if you're trying to cheer me up, but it ain't working. Could you put on some clothes, please?"
-msgstr ""
+msgstr "Nevím, jestli se mě snažíš rozveselit, ale nefunguje to. Mohl by sis vzít nějaké oblečení, prosím?"
 
 #: conversations/00_emerald_vale/00_cv_rosemary:4
 msgctxt "conversations/00_emerald_vale/00_cv_rosemary:4:DefaultText"
 msgid "I've never seen an outfit like yours before. You're not from around here, are you?"
-msgstr ""
+msgstr "Nikdy předtím jsem neviděla podobný outfit jako ty. Nejste odsud, že ne?"
 
 #: conversations/00_emerald_vale/00_cv_rosemary:6
 msgctxt "conversations/00_emerald_vale/00_cv_rosemary:6:DefaultText"
 msgid "I don't want any trouble."
-msgstr ""
+msgstr "Nechci žádné potíže."
 
 #: conversations/00_emerald_vale/00_cv_rosemary:7
 msgctxt "conversations/00_emerald_vale/00_cv_rosemary:7:DefaultText"
 msgid "I'll leave you be."
-msgstr ""
+msgstr "Nechám tě být."
 
 #: conversations/00_emerald_vale/00_cv_rosemary:8
 msgctxt "conversations/00_emerald_vale/00_cv_rosemary:8:DefaultText"
 msgid "Why not?"
-msgstr ""
+msgstr "Proč ne?"
 
 #: conversations/00_emerald_vale/00_cv_rosemary:9
 msgctxt "conversations/00_emerald_vale/00_cv_rosemary:9:DefaultText"
 msgid "I go where I want."
-msgstr ""
+msgstr "Jdu, kam chci."
 
 #: conversations/00_emerald_vale/00_cv_rosemary:10
 msgctxt "conversations/00_emerald_vale/00_cv_rosemary:10:DefaultText"
 msgid "Because I'm sick. You don't want to associate with people in the sick house. We're not worth your time. "
-msgstr ""
+msgstr "Protože jsem nemocný. Nechcete se stýkat s lidmi v nemocnici. Nestojíme ti za tvůj čas. "
 
 #: conversations/00_emerald_vale/00_cv_rosemary:11
 msgctxt "conversations/00_emerald_vale/00_cv_rosemary:11:DefaultText"
 msgid "Hey, keep it down. That kind of talk's bound to put sights on the both of us. "
-msgstr ""
+msgstr "Hej, ztište se. Takové řeči nás oba určitě přivedou do úzkých. "
 
 #: conversations/00_emerald_vale/00_cv_rosemary:12
 msgctxt "conversations/00_emerald_vale/00_cv_rosemary:12:DefaultText"
 msgid "I'm in about as much trouble as I can be. No reason you ought to be tarnished by association. People are gonna talk."
-msgstr ""
+msgstr "Jsem v největším možném průšvihu. Není důvod, proč bys měl být pošpiněn asociací. Lidé budou mluvit."
 
 #: conversations/00_emerald_vale/00_cv_rosemary:13
 msgctxt "conversations/00_emerald_vale/00_cv_rosemary:13:DefaultText"
 msgid "I don't mind."
-msgstr ""
+msgstr "Nevadí mi to."
 
 #: conversations/00_emerald_vale/00_cv_rosemary:14
 msgctxt "conversations/00_emerald_vale/00_cv_rosemary:14:DefaultText"
 msgid "I'm leaving."
-msgstr ""
+msgstr "Odcházím."
 
 #: conversations/00_emerald_vale/00_cv_rosemary:15
 msgctxt "conversations/00_emerald_vale/00_cv_rosemary:15:DefaultText"
 msgid "You make it sound like I'm being watched."
-msgstr ""
+msgstr "Zní to, jako by mě někdo sledoval."
 
 #: conversations/00_emerald_vale/00_cv_rosemary:16
 msgctxt "conversations/00_emerald_vale/00_cv_rosemary:16:DefaultText"
 msgid "Why? What's going on here?"
-msgstr ""
+msgstr "Proč? Co se tu děje?"
 
 #: conversations/00_emerald_vale/00_cv_rosemary:18
 msgctxt "conversations/00_emerald_vale/00_cv_rosemary:18:DefaultText"
 msgid "The walls talk, is all. We all got sights on each other. Any of us breaks company protocol, boss is gonna hear about it from six different mouths."
-msgstr ""
+msgstr "Stěny mluví, to je vše. Všichni se navzájem pozorujeme. Když někdo z nás poruší firemní protokol, šéf se to dozví ze šesti různých úst."
 
 #: conversations/00_emerald_vale/00_cv_rosemary:19
 msgctxt "conversations/00_emerald_vale/00_cv_rosemary:19:DefaultText"
 msgid "Figured it was obvious. I got sick. Couldn't get better on my own. Got moved here for everyone's sake."
-msgstr ""
+msgstr "Myslel jsem, že je to jasné. Udělalo se mi špatně. Nemohl jsem se uzdravit sám. Přestěhovali mě sem kvůli všem."
 
 #: conversations/00_emerald_vale/00_cv_rosemary:20
 msgctxt "conversations/00_emerald_vale/00_cv_rosemary:20:DefaultText"
 msgid "I don't know which company you work for. But if it's Spacer's Choice, boss can still write you up for fraternizing with an incompetent worker."
-msgstr ""
+msgstr "Nevím, pro kterou společnost pracujete. Ale jestli je to Spacer's Choice, šéf tě stejně může sepsout za bratříčkování s neschopným pracovníkem."
 
 #: conversations/00_emerald_vale/00_cv_rosemary:21
 msgctxt "conversations/00_emerald_vale/00_cv_rosemary:21:DefaultText"
 msgid "Maybe you don't know this, but there's a real simple reason you don't talk to the plagued. You don't want what we've got."
-msgstr ""
+msgstr "Možná to nevíte, ale existuje opravdu jednoduchý důvod, proč se se sužovanými nemluví. Nechcete to, co máme my."
 
 #: conversations/00_emerald_vale/00_cv_rosemary:22
 msgctxt "conversations/00_emerald_vale/00_cv_rosemary:22:DefaultText"
 msgid "How did you get sick?"
-msgstr ""
+msgstr "Jak jste onemocněl?"
 
 #: conversations/00_emerald_vale/00_cv_rosemary:23
 msgctxt "conversations/00_emerald_vale/00_cv_rosemary:23:DefaultText"
 msgid "I'm not worried. I don't get sick often."
-msgstr ""
+msgstr "Nemám obavy. Nebývám často nemocný."
 
 #: conversations/00_emerald_vale/00_cv_rosemary:24
 msgctxt "conversations/00_emerald_vale/00_cv_rosemary:24:DefaultText"
 msgid "I should go."
-msgstr ""
+msgstr "Měl bych jít."
 
 #: conversations/00_emerald_vale/00_cv_rosemary:25
 msgctxt "conversations/00_emerald_vale/00_cv_rosemary:25:DefaultText"
 msgid "It's not the plague you gotta worry about catching. It's my attitude."
-msgstr ""
+msgstr "Nemusíte se bát, že se nakazíte morem. Jde o můj postoj."
 
 #: conversations/00_emerald_vale/00_cv_rosemary:26
 msgctxt "conversations/00_emerald_vale/00_cv_rosemary:26:DefaultText"
 msgid "First I started feeling real low. Couldn't sleep. Couldn't wake up on time. Started showing up late to my post. Morale was flagging. I was showing doubt."
-msgstr ""
+msgstr "Nejdřív jsem se začal cítit opravdu špatně. Nemohl jsem spát. Nemohl jsem se včas probudit. Začal jsem chodit pozdě na poštu. Morálka upadala. Začal jsem pochybovat."
 
 #: conversations/00_emerald_vale/00_cv_rosemary:27
 msgctxt "conversations/00_emerald_vale/00_cv_rosemary:27:DefaultText"
 msgid "I don't see any doctors around. Who's treating you?"
-msgstr ""
+msgstr "Nevidím tu žádné doktory. Kdo vás ošetřuje?"
 
 #: conversations/00_emerald_vale/00_cv_rosemary:28
 msgctxt "conversations/00_emerald_vale/00_cv_rosemary:28:DefaultText"
 msgid "Doc Maybell was our last physicker, but she's been gone some years now. And I'm not worth the trouble, anyhow."
-msgstr ""
+msgstr "Doktorka Maybellová byla naší poslední lékařkou, ale už je několik let pryč. A já za tu námahu stejně nestojím."
 
 #: conversations/00_emerald_vale/00_cv_rosemary:29
 msgctxt "conversations/00_emerald_vale/00_cv_rosemary:29:DefaultText"
 msgid "I've got some training. I could take a look at you."
-msgstr ""
+msgstr "Mám nějaký trénink. Mohl bych se na vás podívat."
 
 #: conversations/00_emerald_vale/00_cv_rosemary:30
 msgctxt "conversations/00_emerald_vale/00_cv_rosemary:30:DefaultText"
 msgid "Don't - please. I could get into a lot of trouble. "
-msgstr ""
+msgstr "Nedělejte to - prosím. Mohl bych se dostat do velkých problémů. "
 
 #: conversations/00_emerald_vale/00_cv_rosemary:31
 msgctxt "conversations/00_emerald_vale/00_cv_rosemary:31:DefaultText"
 msgid "You should get really drunk. Alcohol kills germs."
-msgstr ""
+msgstr "Měl by ses pořádně opít. Alkohol zabíjí bakterie."
 
 #: conversations/00_emerald_vale/00_cv_rosemary:32
 msgctxt "conversations/00_emerald_vale/00_cv_rosemary:32:DefaultText"
 msgid "I - I'm not allowed to leave the sick house. Even if I were, I shouldn't be at the cantina."
-msgstr ""
+msgstr "Já - já nesmím opustit dům nemocných. I kdybych měl, neměl bych být v kantýně."
 
 #: conversations/00_emerald_vale/00_cv_rosemary:34
 msgctxt "conversations/00_emerald_vale/00_cv_rosemary:34:DefaultText"
 msgid "Why not?"
-msgstr ""
+msgstr "Proč ne?"
 
 #: conversations/00_emerald_vale/00_cv_rosemary:36
 msgctxt "conversations/00_emerald_vale/00_cv_rosemary:36:DefaultText"
 msgid "I don't want to spread what I've got. And I don't want to bring their spirits down. "
-msgstr ""
+msgstr "Nechci šířit to, co mám. A nechci jim kazit náladu. "
 
 #: conversations/00_emerald_vale/00_cv_rosemary:37
 msgctxt "conversations/00_emerald_vale/00_cv_rosemary:37:DefaultText"
 msgid "Company always tells us - weak spirits lead to weak bodies. If I didn't want to fall sick with plague, maybe I should've worked harder. Maybe I should've taken more pride in my work."
-msgstr ""
+msgstr "Společnost nám vždy říká - slabý duch vede ke slabému tělu. Pokud jsem nechtěl onemocnět morem, možná jsem měl víc pracovat. Možná jsem měl být na svou práci víc hrdý."
 
 #: conversations/00_emerald_vale/00_cv_rosemary:38
 msgctxt "conversations/00_emerald_vale/00_cv_rosemary:38:DefaultText"
 msgid "You obviously need help."
-msgstr ""
+msgstr "Očividně potřebujete pomoc."
 
 #: conversations/00_emerald_vale/00_cv_rosemary:39
 msgctxt "conversations/00_emerald_vale/00_cv_rosemary:39:DefaultText"
 msgid "What kind of trouble?"
-msgstr ""
+msgstr "Jaké potíže?"
 
 #: conversations/00_emerald_vale/00_cv_rosemary:40
 msgctxt "conversations/00_emerald_vale/00_cv_rosemary:40:DefaultText"
 msgid "If you insist."
-msgstr ""
+msgstr "Pokud na tom trváte."
 
 #: conversations/00_emerald_vale/00_cv_rosemary:41
 msgctxt "conversations/00_emerald_vale/00_cv_rosemary:41:DefaultText"
 msgid "Afraid I do. Don't sit right with me, is all. Good-for-nothing like me, getting special treatment from some fancy outsider."
-msgstr ""
+msgstr "Obávám se, že ano. Nesedí mi to, to je vše. Takoví budižkničemové jako já, kterým se dostává zvláštního zacházení od nějakého nóbl cizince."
 
 #: conversations/00_emerald_vale/00_cv_rosemary:42
 msgctxt "conversations/00_emerald_vale/00_cv_rosemary:42:DefaultText"
 msgid "People trouble. Lazy worker like me getting special treatment from some out-of-town physicker like you? People will talk."
-msgstr ""
+msgstr "Problémy s lidmi. Líný dělník jako já dostává zvláštní zacházení od nějakého mimoměstského fyzika, jako jsi ty? Lidé budou mluvit."
 
 #: conversations/00_emerald_vale/00_cv_rosemary:43
 msgctxt "conversations/00_emerald_vale/00_cv_rosemary:43:DefaultText"
 msgid "That's kind of you to say, I suppose. But I don't need help. What I need is to understand my own folly."
-msgstr ""
+msgstr "To je od tebe milé, že to říkáš. Ale já pomoc nepotřebuji. Potřebuji pochopit svou vlastní hloupost."
 
 #: conversations/00_emerald_vale/00_cv_rosemary:44
 msgctxt "conversations/00_emerald_vale/00_cv_rosemary:44:DefaultText"
 msgid "I'll leave you be."
-msgstr ""
+msgstr "Nechám tě být."
 
 #: conversations/00_emerald_vale/00_cv_rosemary:45
 msgctxt "conversations/00_emerald_vale/00_cv_rosemary:45:DefaultText"
 msgid "That's ridiculous. You can't blame yourself because you fell sick."
-msgstr ""
+msgstr "To je směšné. Nemůžeš se obviňovat z toho, že jsi onemocněl."
 
 #: conversations/00_emerald_vale/00_cv_rosemary:46
 msgctxt "conversations/00_emerald_vale/00_cv_rosemary:46:DefaultText"
 msgid "It's a little late for that."
-msgstr ""
+msgstr "Na to už je trochu pozdě."
 
 #: conversations/00_emerald_vale/00_cv_rosemary:47
 msgctxt "conversations/00_emerald_vale/00_cv_rosemary:47:DefaultText"
 msgid "I've got some Adrena-Time. It's yours if you want."
-msgstr ""
+msgstr "Mám nějaký Adrena-Time. Je tvůj, jestli chceš."
 
 #: conversations/00_emerald_vale/00_cv_rosemary:49
 msgctxt "conversations/00_emerald_vale/00_cv_rosemary:49:DefaultText"
 msgid "You've got Adrena-Time? How? No, I don't want to know. Could be you stole it. Could be you're trying to test me, see if I'm gonna violate company policy."
-msgstr ""
+msgstr "Máte Adrena-Time? Jak? Ne, to nechci vědět. Možná jsi ho ukradl. Možná se mě snažíš otestovat, jestli neporuším firemní pravidla."
 
 #: conversations/00_emerald_vale/00_cv_rosemary:51
 msgctxt "conversations/00_emerald_vale/00_cv_rosemary:51:DefaultText"
 msgid "I really wish you wouldn't say those sorts of things. I told you once already. People could be listening."
-msgstr ""
+msgstr "Opravdu bych si přál, abys takové věci neříkal. Už jsem ti to jednou řekl. Lidé by mohli poslouchat."
 
 #: conversations/00_emerald_vale/00_cv_rosemary:52
 msgctxt "conversations/00_emerald_vale/00_cv_rosemary:52:DefaultText"
 msgid "I'm glad you see things my way. And not for nothing, but I appreciate you giving me the time of day."
-msgstr ""
+msgstr "Jsem rád, že to vidíš tak, jak to vidím já. A ne nadarmo, ale vážím si toho, že mi věnuješ svůj čas."
 
 #: conversations/00_emerald_vale/00_cv_rosemary:53
 msgctxt "conversations/00_emerald_vale/00_cv_rosemary:53:DefaultText"
 msgid "I'm feeling a touch faint. If you don't mind, I'd like to be alone for a spell."
-msgstr ""
+msgstr "Je mi na omdlení. Pokud vám to nevadí, ráda bych byla chvíli sama."
 
 #: conversations/00_emerald_vale/00_cv_rosemary:54
 msgctxt "conversations/00_emerald_vale/00_cv_rosemary:54:DefaultText"
 msgid "What makes you think you're incompetent?"
-msgstr ""
+msgstr "Proč si myslíte, že jste neschopný?"
 
 #: conversations/00_emerald_vale/00_cv_rosemary:55
 msgctxt "conversations/00_emerald_vale/00_cv_rosemary:55:DefaultText"
 msgid "Stands to reason, don't it? I wouldn't have got sick otherwise."
-msgstr ""
+msgstr "To dá rozum, ne? Jinak bych neonemocněl."
 
 #: conversations/00_emerald_vale/00_cv_rosemary:56
 msgctxt "conversations/00_emerald_vale/00_cv_rosemary:56:DefaultText"
 msgid "What happened to you?"
-msgstr ""
+msgstr "Co se vám stalo?"
 
 #: conversations/00_emerald_vale/00_cv_rosemary:57
 msgctxt "conversations/00_emerald_vale/00_cv_rosemary:57:DefaultText"
 msgid "Is there a reason I shouldn't be seen around you?"
-msgstr ""
+msgstr "Je nějaký důvod, proč bych se s tebou neměl vídat?"
 
 #: conversations/00_emerald_vale/00_cv_rosemary:58
 msgctxt "conversations/00_emerald_vale/00_cv_rosemary:58:DefaultText"
 msgid "You should stop blaming yourself. It's not your fault you fell sick."
-msgstr ""
+msgstr "Měli byste se přestat obviňovat. Nemůžeš za to, že jsi onemocněla."
 
 #: conversations/00_emerald_vale/00_cv_rosemary:59
 msgctxt "conversations/00_emerald_vale/00_cv_rosemary:59:DefaultText"
 msgid "This is probably for the best. You don't want to infect anyone else."
-msgstr ""
+msgstr "To je pravděpodobně nejlepší. Nechcete přece nakazit někoho dalšího."
 
 #: conversations/00_emerald_vale/00_cv_rosemary:60
 msgctxt "conversations/00_emerald_vale/00_cv_rosemary:60:DefaultText"
 msgid "If you're trying to make me feel better, I'd rather you didn't. I brought this on to myself, and I need to accept it."
-msgstr ""
+msgstr "Jestli se mi snažíš ulevit, tak bych byl radši, kdybys to nedělal. Přivodil jsem si to sám a musím to přijmout."
 
 #: conversations/00_emerald_vale/00_cv_rosemary:61
 msgctxt "conversations/00_emerald_vale/00_cv_rosemary:61:DefaultText"
 msgid "Esther said she was going to distribute some medicine to those who needed it."
-msgstr ""
+msgstr "Ester řekla, že se chystá rozdat nějaké léky těm, kteří je potřebují."
 
 #: conversations/00_emerald_vale/00_cv_rosemary:62
 msgctxt "conversations/00_emerald_vale/00_cv_rosemary:62:DefaultText"
 msgid "Esther's got medication? How? Did the boss get a new shipment? I'm sorry, it's just - I thought we couldn't spare the medicine."
-msgstr ""
+msgstr "Esther má léky? Jak? Dostal šéf novou zásilku? Omlouvám se, já jen... Myslel jsem, že léky nemůžeme ušetřit."
 
 #: conversations/00_emerald_vale/00_cv_rosemary:63
 msgctxt "conversations/00_emerald_vale/00_cv_rosemary:63:DefaultText"
 msgid "No, I'm sorry. I can't accept help from Esther. If I deserved treatment, I wouldn't be here."
-msgstr ""
+msgstr "Ne, je mi líto. Nemohu přijmout pomoc od Esther. Kdybych si zasloužil léčbu, nebyl bych tady."
 
 #: conversations/00_emerald_vale/00_cv_rosemary:64
 msgctxt "conversations/00_emerald_vale/00_cv_rosemary:64:DefaultText"
 msgid "You're wrong."
-msgstr ""
+msgstr "Mýlíte se."
 
 #: conversations/00_emerald_vale/00_cv_rosemary:65
 msgctxt "conversations/00_emerald_vale/00_cv_rosemary:65:DefaultText"
 msgid "Suit yourself."
-msgstr ""
+msgstr "Vyhovujte si."
 
 #: conversations/00_emerald_vale/00_cv_rosemary:66
 msgctxt "conversations/00_emerald_vale/00_cv_rosemary:66:DefaultText"
 msgid "I appreciate you telling me, leastways."
-msgstr ""
+msgstr "Oceňuji, že jste mi to alespoň řekl."
 
 #: conversations/00_emerald_vale/00_cv_rosemary:67
 msgctxt "conversations/00_emerald_vale/00_cv_rosemary:67:DefaultText"
 msgid "Why?"
-msgstr ""
+msgstr "Proč?"
 
 #: conversations/00_emerald_vale/00_cv_rosemary:71
 msgctxt "conversations/00_emerald_vale/00_cv_rosemary:71:DefaultText"
 msgid "Because I said so. Stop moping and take the damned medicine."
-msgstr ""
+msgstr "Protože jsem to řekl. Přestaň trucovat a vezmi si ty zatracené léky."
 
 #: conversations/00_emerald_vale/00_cv_rosemary:72
 msgctxt "conversations/00_emerald_vale/00_cv_rosemary:72:DefaultText"
 msgid "You're not doing yourself any favors, punishing yourself like this."
-msgstr ""
+msgstr "Tím, že se takhle trestáš, si nijak nepomáháš."
 
 #: conversations/00_emerald_vale/00_cv_rosemary:73
 msgctxt "conversations/00_emerald_vale/00_cv_rosemary:73:DefaultText"
 msgid "I heard the company's looking to promote healthy workers."
-msgstr ""
+msgstr "Slyšela jsem, že se společnost snaží podporovat zdravé pracovníky."
 
 #: conversations/00_emerald_vale/00_cv_rosemary:74
 msgctxt "conversations/00_emerald_vale/00_cv_rosemary:74:DefaultText"
 msgid "That is exactly what I have been doing. Not my place to dole out punishment. Not even against myself."
-msgstr ""
+msgstr "Přesně to jsem dělal. Není mým úkolem udělovat tresty. Ani proti sobě."
 
 #: conversations/00_emerald_vale/00_cv_rosemary:75
 msgctxt "conversations/00_emerald_vale/00_cv_rosemary:75:DefaultText"
 msgid "I didn't know that. I guess the best thing I can do for Edgewater is get healthy. Dead workers can't do much except fill a grave."
-msgstr ""
+msgstr "To jsem nevěděl. Myslím, že nejlepší věc, kterou můžu pro Edgewater udělat, je být zdravý. Mrtví dělníci toho moc nezmůžou, jenom zasypou hrob."
 
 #: conversations/00_emerald_vale/00_cv_rosemary:77
 msgctxt "conversations/00_emerald_vale/00_cv_rosemary:77:DefaultText"
 msgid "You've given me something to mull over. Thanks."
-msgstr ""
+msgstr "Dala jsi mi námět k přemýšlení. Díky."
 
 #: conversations/00_emerald_vale/00_cv_rosemary:78
 msgctxt "conversations/00_emerald_vale/00_cv_rosemary:78:DefaultText"
 msgid "All right, you made your point. If Esther offers to treat me, I won't turn her down."
-msgstr ""
+msgstr "Dobře, vyjádřil jste se. Pokud mi Esther nabídne léčbu, neodmítnu ji."
 
 #: conversations/00_emerald_vale/00_cv_rosemary:79
 msgctxt "conversations/00_emerald_vale/00_cv_rosemary:79:DefaultText"
 msgid "Esther brought me some medicine. I'm feeling better. I'll go back to work before long."
-msgstr ""
+msgstr "Esther mi přinesla nějaké léky. Cítím se lépe. Za chvíli se vrátím do práce."

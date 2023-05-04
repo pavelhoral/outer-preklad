@@ -11,17 +11,17 @@ msgid "Emerald Vale Geothermal Plant\r\n"
 "\r\n"
 "Welcome, J. Braden\r\n"
 ""
-msgstr ""
+msgstr "Geotermální elektrárna Emerald Vale A Spacer's Choice Property ======================== Kancelář správce Přístup k terminálu Vítejte, J. Braden"
 
 #: conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_managers_office:2
 msgctxt "conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_managers_office:2:DefaultText"
 msgid "[FROM: Spacer's Choice]"
-msgstr ""
+msgstr "[OD: Spacer's Choice]"
 
 #: conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_managers_office:3
 msgctxt "conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_managers_office:3:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"
 
 #: conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_managers_office:4
 msgctxt "conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_managers_office:4:DefaultText"
@@ -45,12 +45,12 @@ msgid "Emerald Vale Geothermal Plant\r\n"
 "The Spacer's Choice Family would like to collectively remind you that working for Spacer's Choice is not a right, but a privilege.\r\n"
 "\r\n"
 "Emerald Vale Geothermal Plant"
-msgstr ""
+msgstr "Emerald Vale Geothermal Plant A Spacer's Choice Property ======================== FROM: Spacer's Choice - Emerald Vale Development and Oversight TO: Bradenovi PŘEDMĚT: Tento dopis slouží jako neformální oznámení o nespokojenosti naší společnosti s Vaším řízením geotermálního závodu Emerald Vale z důvodů souvisejících s překročením rozpočtu zaměstnanců ve Vaší poslední čtvrtletní zprávě. Prosím, vyberte pět (5) podřízených, kteří budou okamžitě propuštěni. Dále prosím kontaktujte naši kancelář, abychom Vám v nejbližší době naplánovali oficiální výtku. Neplánování vaší oficiální důtky bude mít za následek oficiální pokárání. Rodina společnosti Spacer's Choice by vám ráda společně připomněla, že práce pro společnost Spacer's Choice není právem, ale výsadou. Geotermální závod Emerald Vale"
 
 #: conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_managers_office:5
 msgctxt "conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_managers_office:5:DefaultText"
 msgid "[FROM: J. Braden]"
-msgstr ""
+msgstr "[OD: J. Braden]"
 
 #: conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_managers_office:6
 msgctxt "conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_managers_office:6:DefaultText"
@@ -72,12 +72,12 @@ msgid "Emerald Vale Geothermal Plant\r\n"
 "Regards,\r\n"
 "\r\n"
 "Juno Braden, Manager"
-msgstr ""
+msgstr "Emerald Vale Geothermal Plant A Spacer's Choice Property ======================== FROM: Braden TO: Spacer's Choice - Emerald Vale Development and Oversight PŘEDMĚT: Není třeba výtky Vážení členové výboru pro rozvoj a dohled nad Emerald Vale: Doufám, že vás tento dopis obohatí. Po náležitém zvážení Vašeho posledního dopisu jsem identifikoval (a propustil!) ne méně než pět podřízených, kteří nebyli schopni dostatečně zdůvodnit svůj trvající pracovní poměr.Rád bych Dozorčímu výboru připomněl, že zatímco většina Emerald Vale nesplnila své výrobní a produkční kvóty (zejména naše oddělení zemědělství a rybářství/konzervárenství, z nichž ani jedno není ani zdaleka ziskové), geotermální elektrárna Emerald Vale je i nadále odhodlána poskytovat levnou a nákladově efektivní energii celému regionu. S pozdravem, Juno Braden, manažer."
 
 #: conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_managers_office:7
 msgctxt "conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_managers_office:7:DefaultText"
 msgid "[FROM: Spacer's Choice]"
-msgstr ""
+msgstr "[OD: Spacer's Choice]"
 
 #: conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_managers_office:8
 msgctxt "conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_managers_office:8:DefaultText"
@@ -98,12 +98,14 @@ msgid "Emerald Vale Geothermal Plant\r\n"
 "As a special courtesy, we have deployed a proprietary team of engineering specialists to the Emerald Vale Geothermal Plant. This team of specialists has been instructed to refit and upgrade the plant's population of automechanicals - free of charge.\n"
 "\n"
 "Thank you for your cooperation."
-msgstr ""
+msgstr "Emerald Vale Geothermal Plant A Spacer's Choice Property ======================== FROM: Spacer's Choice - Emerald Vale Development and Oversight TO: Bradenovi PŘEDMĚT: RE: Není třeba výtky Paní Bradenová, prošetřili jsme tvrzení o ziskovosti většího regionu Emerald Vale. Naše úřady s Vámi souhlasí; zemědělství a rybolov/konzervárenství zaznamenávají trvalý pokles, zatímco geotermální elektrárna Emerald Vale zůstává do jisté míry zisková. Naše úřady v současné době zkoumají způsoby, jak zavést další úsporná opatření, která v konečném důsledku povedou k zeštíhlení, zefektivnění a zefektivnění geotermální elektrárny. Dovolujeme si Vás informovat, že Úřad pro rozvoj a dohled nad volbou Spacer's Choice uzavřel významnou pojistku proti geotermální elektrárně Emerald Vale. Úřad by vás rád ujistil, že tato pojistná smlouva je standardním postupem. NEPOKOUŠEJTE se toto rozhodnutí interpretovat, chápat nebo jinak extrapolovat jeho význam. \n"
+"\n"
+"Jako zvláštní laskavost jsme do geotermální elektrárny Emerald Vale vyslali vlastní tým inženýrských specialistů. Tento tým specialistů byl pověřen přestavbou a modernizací populace automechanických zařízení elektrárny - zdarma. Děkujeme vám za spolupráci."
 
 #: conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_managers_office:9
 msgctxt "conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_managers_office:9:DefaultText"
 msgid "[Unlock Office Door]"
-msgstr ""
+msgstr "[Odemknout dveře do kanceláře]"
 
 #: conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_managers_office:10
 msgctxt "conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_managers_office:10:DefaultText"
@@ -113,12 +115,12 @@ msgid "Emerald Vale Geothermal Plant\r\n"
 "========================\r\n"
 "\r\n"
 "[Door Unlocked]"
-msgstr ""
+msgstr "Geotermální elektrárna Emerald Vale A Spacer's Choice Property ======================== [Door Unlocked]"
 
 #: conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_managers_office:11
 msgctxt "conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_managers_office:11:DefaultText"
 msgid "[Messages]"
-msgstr ""
+msgstr "[Zprávy]"
 
 #: conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_managers_office:12
 msgctxt "conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_managers_office:12:DefaultText"
@@ -131,9 +133,9 @@ msgid "Emerald Vale Geothermal Plant\r\n"
 "\r\n"
 "Messages\r\n"
 ""
-msgstr ""
+msgstr "Emerald Vale Geothermal Plant A Spacer's Choice Property ======================== Zprávy z kanceláře správce"
 
 #: conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_managers_office:13
 msgctxt "conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_managers_office:13:DefaultText"
 msgid "[Return to Root]"
-msgstr ""
+msgstr "[Zpět na kořen]"

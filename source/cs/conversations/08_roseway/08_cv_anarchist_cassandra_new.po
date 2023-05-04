@@ -1,1464 +1,1464 @@
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:3
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:3:DefaultText"
 msgid "Oh good. You're not shooting at me. That's a start."
-msgstr ""
+msgstr "Dobře. Nestřílíš na mě. To je začátek."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:4
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:4:DefaultText"
 msgid "It's been a bit of a day, so I'll get to the point. Yes, I have Crane's research. No, I'm not giving it back. Sorry to disappoint you."
-msgstr ""
+msgstr "Byl to trochu náročný den, takže přejdu k věci. Ano, mám Craneův výzkum. Ne, nevrátím ho. Omlouvám se, že jsem vás zklamal."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:5
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:5:DefaultText"
 msgid "Anton wants a problem fixed. I imagine he means you."
-msgstr ""
+msgstr "Anton chce problém vyřešit. Předpokládám, že tím myslí tebe."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:6
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:6:DefaultText"
 msgid "Yes, I imagine he does. But we all have problems - it is the human condition. I am myself ensnared in this wretched place."
-msgstr ""
+msgstr "Ano, myslím, že ano. Ale problémy máme všichni - to je lidský stav. Sám jsem v pasti tohoto nešťastného místa."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:11
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:11:DefaultText"
 msgid "You want to kill me. I don't want to die. Therefore, it is in my best interest to negotiate with you. Help me get out of here, and I will pay you for my life."
-msgstr ""
+msgstr "Chceš mě zabít. Já nechci zemřít. Proto je v mém nejlepším zájmu s vámi vyjednávat. Pomozte mi dostat se odsud a já vám zaplatím za svůj život."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:12
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:12:DefaultText"
 msgid "Tell me what you need."
-msgstr ""
+msgstr "Řekněte mi, co potřebujete."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:18
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:18:DefaultText"
 msgid "There are two ways out. The quickest is through the front door, but Cleo security's bottled up in there. If you don't want to shoot them, I suppose you could talk to them."
-msgstr ""
+msgstr "Existují dvě cesty ven. Nejrychlejší je projít hlavními dveřmi, ale tam je Cleo zavřená. Pokud je nechceš zastřelit, mohl by sis s nimi promluvit."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:19
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:19:DefaultText"
 msgid "The other way out is through the loading bay, but you'd have to clear out the rapts for me. Then I could just slip out the back, sight unseen."
-msgstr ""
+msgstr "Druhá cesta ven vede přes nákladový prostor, ale to byste museli vyčistit prahy. Pak bych mohl proklouznout zadem, aniž by mě někdo viděl."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:20
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:20:DefaultText"
 msgid "The first thing I need is a keycard to unlock my door. Then I'd need you to clear me a path out of here."
-msgstr ""
+msgstr "Nejdříve potřebuji kartu k odemykání dveří. Pak bych potřeboval, abys mi uvolnil cestu ven."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:23
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:23:DefaultText"
 msgid "I can see the gears turning behind your eyes. You are wondering if you can trust me."
-msgstr ""
+msgstr "Vidím, jak se ti za očima točí ozubená kola. Přemýšlíš, jestli mi můžeš věřit."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:24
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:24:DefaultText"
 msgid "Anton was worried you might have made off with his research. He even called you cretins."
-msgstr ""
+msgstr "Anton se obával, že jsi mohl zcizit jeho výzkum. Dokonce vás nazval kretény."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:25
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:25:DefaultText"
 msgid "Give me a little credit! We are not bandits. We do not steal research - we liberate it."
-msgstr ""
+msgstr "Přiznejte mi trochu důvěry! Nejsme bandité. Výzkum nekrademe - my ho osvobozujeme."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:26
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:26:DefaultText"
 msgid "You robbed a lab and shot some scientists on the way out. You sound like bandits to me."
-msgstr ""
+msgstr "Vykradl jsi laboratoř a cestou ven jsi zastřelil několik vědců. Připadáte mi jako bandité."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:27
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:27:DefaultText"
 msgid "Semantics! If I were consigned to spending my days making diet toothpaste, I would pray for a bullet to my skull."
-msgstr ""
+msgstr "Sémantika! Kdybych měl trávit dny výrobou dietní zubní pasty, modlil bych se za kulku do lebky."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:28
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:28:DefaultText"
 msgid "You don't seem to care much for that research. May as well hand it over."
-msgstr ""
+msgstr "Nezdá se, že by vás tento výzkum příliš zajímal. Můžeš ho klidně odevzdat."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:30
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:30:DefaultText"
 msgid "It is my one bargaining chip. If you want this research, you will help me out of this mess."
-msgstr ""
+msgstr "Je to můj jediný trumf při vyjednávání. Pokud chcete tento výzkum, pomůžete mi z této šlamastyky."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:31
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:31:DefaultText"
 msgid "I'm not about to run errands for some pompous bandit."
-msgstr ""
+msgstr "Nehodlám vyřizovat pochůzky pro nějakého nafoukaného banditu."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:31
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:31:FemaleText"
 msgid "I'm not about to play errand-girl to some pompous bandit."
-msgstr ""
+msgstr "Nehodlám si hrát na děvče na pochůzce s nějakým nafoukaným banditou."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:32
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:32:DefaultText"
 msgid "Would you rather run errands for a corporate puppet like Crane? Listen. You are being used."
-msgstr ""
+msgstr "Chtěli byste raději vyřizovat záležitosti pro loutku společnosti, jako je Crane? Poslouchejte. Využívají vás."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:34
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:34:DefaultText"
 msgid "I'm going to need a good reason to risk my neck for you."
-msgstr ""
+msgstr "Budu potřebovat dobrý důvod, abych kvůli tobě riskoval krk."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:35
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:35:DefaultText"
 msgid "Because Crane is a tool. Because no good deed goes unrewarded. Because doing me a good turn is the honorable and decent thing. Take your pick."
-msgstr ""
+msgstr "Protože Crane je nástroj. Protože žádný dobrý skutek nezůstane bez odměny. Protože udělat mi dobrý skutek je čestné a slušné. Vyber si."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:36
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:36:DefaultText"
 msgid "Why do you think Anton is a tool?"
-msgstr ""
+msgstr "Proč si myslíte, že je Anton nástroj?"
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:37
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:37:DefaultText"
 msgid "Crane is being used by Auntie Cleo. And now he is trying to use you. So what does that make you?"
-msgstr ""
+msgstr "Jeřáb je používán tetou Cleo. A teď se snaží využít tebe. Co to z tebe dělá?"
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:38
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:38:DefaultText"
 msgid "Not trapped in an underground laboratory with half my crew dead."
-msgstr ""
+msgstr "Ne uvězněný v podzemní laboratoři s polovinou mrtvé posádky."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:39
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:39:DefaultText"
 msgid "Fair. But while I may be trapped for the moment, those scientists are trapped in corporate slavery for the rest of their sad, sorry little lives."
-msgstr ""
+msgstr "Spravedlivé. Ale zatímco já jsem možná na chvíli v pasti, tito vědci jsou po zbytek svého smutného života uvězněni v korporátním otroctví."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:40
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:40:DefaultText"
 msgid "Don't you see? I am setting these people free. I am doing them a favor. Won't you do me one in return?"
-msgstr ""
+msgstr "Copak to nechápete? Osvobozuji tyto lidi. Dělám jim laskavost. Neuděláte mi na oplátku laskavost vy?"
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:41
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:41:DefaultText"
 msgid "For free? No."
-msgstr ""
+msgstr "Zdarma? Ne."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:42
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:42:DefaultText"
 msgid "I do not want charity. I will put something pretty in your palm for your trouble. You have got my word on that."
-msgstr ""
+msgstr "Nechci charitu. Za tvou námahu ti dám něco pěkného do dlaně. Máš mé slovo."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:43
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:43:DefaultText"
 msgid "What makes you think he's using me?"
-msgstr ""
+msgstr "Proč si myslíš, že mě využívá?"
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:44
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:44:DefaultText"
 msgid "Look around you. This colony is lousy with people like him. Shallow men with shallow lives, dreaming of nothing nobler than the next promotion."
-msgstr ""
+msgstr "Rozhlédněte se kolem sebe. Tahle kolonie je plná lidí, jako je on. Mělcí lidé s povrchními životy, kteří nesní o ničem vznešenějším než o dalším povýšení."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:45
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:45:DefaultText"
 msgid "By helping him, you are helping the corporate hegemony exercise their stranglehold on the colony. Not that I expect a hired gun to understand."
-msgstr ""
+msgstr "Tím, že mu pomáháte, pomáháte korporátní hegemonii vykonávat její kontrolu nad kolonií. Ne že bych očekával, že to nájemný vrah pochopí."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:46
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:46:DefaultText"
 msgid "Being a hired gun is good work. It's always a seller's market."
-msgstr ""
+msgstr "Být nájemným vrahem je dobrá práce. Vždycky je to trh prodávajících."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:47
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:47:DefaultText"
 msgid "Say what you please. So long as you are on the establishment's payroll, you are nothing more than a confederate to tyranny."
-msgstr ""
+msgstr "Říkejte si, co chcete. Dokud jste na výplatní listině establishmentu, nejste nic víc než konfident tyranie."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:48
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:48:DefaultText"
 msgid "I'm not about to be lectured on morality by some jumped-up bandit."
-msgstr ""
+msgstr "Nehodlám se nechat poučovat o morálce od nějakého vyskakujícího bandity."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:49
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:49:DefaultText"
 msgid "I prefer \"freedom fighter,\" but I will not quibble over semantics. "
-msgstr ""
+msgstr "Mám raději \"bojovník za svobodu\", ale nebudu se hádat o sémantiku. "
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:50
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:50:DefaultText"
 msgid "Forget it. I'm not helping you."
-msgstr ""
+msgstr "Zapomeňte na to. Nepomůžu ti."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:51
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:51:DefaultText"
 msgid "You've got the wrong idea about me."
-msgstr ""
+msgstr "Máš o mně špatnou představu."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:52
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:52:DefaultText"
 msgid "I suppose it does not matter. Either Crane sent you, or you are some scavenger come to rob me in my moment of weakness."
-msgstr ""
+msgstr "Předpokládám, že na tom nezáleží. Buď tě poslal Jeřáb, nebo jsi nějaký mrchožrout, který mě přišel okrást ve chvíli mé slabosti."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:53
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:53:DefaultText"
 msgid "Let's make a deal. I'd like to go on living. You'd probably like to make some money. Help me get out of here, and I will pay you for your trouble."
-msgstr ""
+msgstr "Uzavřeme dohodu. Rád bych žil dál. Ty bys asi rád vydělal nějaké peníze. Pomoz mi odsud a já ti za tvou námahu zaplatím."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:54
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:54:DefaultText"
 msgid "Why are you down here?"
-msgstr ""
+msgstr "Proč jsi tady dole?"
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:55
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:55:DefaultText"
 msgid "Same reason you are, more than likely. I imagine we picked up the same tip. Secret research facility, abandoned town, minimal security?"
-msgstr ""
+msgstr "Je více než pravděpodobné, že ze stejného důvodu jako vy. Předpokládám, že jsme dostali stejný tip. Tajné výzkumné zařízení, opuštěné město, minimální zabezpečení?"
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:57
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:57:DefaultText"
 msgid "No, I'm tracking down a distress call."
-msgstr ""
+msgstr "Ne, hledám nouzové volání."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:58
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:58:DefaultText"
 msgid "Crane actually sent out a cry for help? Oh, the poor bastard, seeing his life's work snatched from him. It must be like losing a child."
-msgstr ""
+msgstr "Jeřáb skutečně vyslal volání o pomoc? Chudák, když vidí, jak mu berou jeho životní dílo. Musí to být jako ztráta dítěte."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:59
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:59:DefaultText"
 msgid "You keep talking about someone named Crane."
-msgstr ""
+msgstr "Stále mluvíte o někom jménem Crane."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:60
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:60:DefaultText"
 msgid "Crane is the man who runs this lab. Probably gone around the bend fretting over his beloved research. Not that there's anything lovable about diet toothpaste."
-msgstr ""
+msgstr "Crane je muž, který vede tuto laboratoř. Pravděpodobně se rozčiloval nad svým milovaným výzkumem. Ne že by na dietní zubní pastě bylo něco milého."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:62
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:62:DefaultText"
 msgid "Did you say diet toothpaste?"
-msgstr ""
+msgstr "Řekli jste dietní zubní pasta?"
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:63
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:63:DefaultText"
 msgid "Diet toothpaste. Can you imagine a more pernicious example of corporate materialism? I do not know what is worse - working here or dying here."
-msgstr ""
+msgstr "Dietní zubní pasta. Dokážete si představit zhoubnější příklad firemního materialismu? Nevím, co je horší - pracovat zde, nebo zde zemřít."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:64
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:64:DefaultText"
 msgid "So you went through all this trouble to steal a formula for ... diet toothpaste."
-msgstr ""
+msgstr "Takže sis dal tu práci, abys ukradl recept na... dietní zubní pastu."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:65
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:65:DefaultText"
 msgid "What matters is that I have been lied to. I was led to believe this was a high-priority corporate facility hiding valuable research."
-msgstr ""
+msgstr "Důležité je, že mi lhali. Byl jsem přesvědčen, že se jedná o vysoce prioritní firemní zařízení, které skrývá cenný výzkum."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:66
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:66:DefaultText"
 msgid "This job was not supposed to end with me stuck in some wretched lab, smelling like rapts. So I would be very much obliged if you gave me a break."
-msgstr ""
+msgstr "Tahle práce neměla skončit tím, že budu trčet v nějaké ubohé laboratoři a smrdět jako rapty. Takže bych vám byl velmi zavázán, kdybyste mi dali pauzu."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:68
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:68:DefaultText"
 msgid "I've never met anyone named Crane."
-msgstr ""
+msgstr "Nikdy jsem nepotkal nikoho jménem Crane."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:70
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:70:DefaultText"
 msgid "I don't know what you're talking about."
-msgstr ""
+msgstr "Nevím, o čem mluvíte."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:71
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:71:DefaultText"
 msgid "That's right. Crane hired me to deal with you."
-msgstr ""
+msgstr "Přesně tak. Crane mě najal, abych s vámi jednal."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:72
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:72:DefaultText"
 msgid "I hardly think I deserve to be \"dealt with.\" All I did was raid his lab. And shoot his colleagues. And lift his research."
-msgstr ""
+msgstr "Těžko si myslím, že si zasloužím, aby se se mnou \"jednalo\". Jediné, co jsem udělal, bylo, že jsem mu vykradl laboratoř. A zastřelil jeho kolegy. A zrušil jeho výzkum."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:74
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:74:DefaultText"
 msgid "It is not even useful research. Just a formula for some kind of diet toothpaste."
-msgstr ""
+msgstr "Není to ani užitečný výzkum. Jen vzorec pro nějakou dietní zubní pastu."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:76
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:76:DefaultText"
 msgid "We're not friends. If you expect me to help you, I expect you to hand over that research."
-msgstr ""
+msgstr "Nejsme přátelé. Pokud očekáváš, že ti pomůžu, očekávám, že mi předáš ten výzkum."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:77
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:77:DefaultText"
 msgid "Think it over. I am not going anywhere. Which is, I suppose, rather the point."
-msgstr ""
+msgstr "Promyslete si to. Nikam se nechystám. Což je, myslím, spíše účel."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:78
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:78:DefaultText"
 msgid "Take your time. I am, to my chagrin, not going anywhere."
-msgstr ""
+msgstr "Nespěchejte. K mému rozčarování nikam neodcházím."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:80
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:80:DefaultText"
 msgid "You're going to have to make me a better offer."
-msgstr ""
+msgstr "Budete mi muset udělat lepší nabídku."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:81
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:81:DefaultText"
 msgid "You mean other than the satisfaction of doing me a good turn? Trust me - I'll make it worth your while."
-msgstr ""
+msgstr "Myslíš něco jiného než uspokojení z toho, že jsi mi udělal dobrou službu? Věřte mi - bude to stát za to."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:82
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:82:DefaultText"
 msgid "I don't know. My while is worth a lot."
-msgstr ""
+msgstr "Nevím. Můj čas má velkou cenu."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:83
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:83:DefaultText"
 msgid "I am good for my word! You will be equitably rewarded, on my honor. But I will not haggle or bargain with you until you help me."
-msgstr ""
+msgstr "Své slovo plním dobře! Na mou čest budete spravedlivě odměněni. Ale nebudu s vámi smlouvat, dokud mi nepomůžete."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:85
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:85:DefaultText"
 msgid "Doesn't look minimal security to me. Or abandoned."
-msgstr ""
+msgstr "Mně to nepřipadá jako minimální zabezpečení. Nebo opuštěné."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:86
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:86:DefaultText"
 msgid "I'm not a bandit like you."
-msgstr ""
+msgstr "Nejsem bandita jako ty."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:87
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:87:DefaultText"
 msgid "No, but it is a secret. Well-hidden. Off the map. Any place worth hiding is worth raiding."
-msgstr ""
+msgstr "Ne, ale je to tajemství. Dobře skryté. Mimo mapu. Každé místo, které stojí za to skrývat, stojí za nájezd."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:88
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:88:DefaultText"
 msgid "Granted, diet toothpaste is not exactly what comes to mind when I imagine secret research and underground labs."
-msgstr ""
+msgstr "Dietní zubní pasta není zrovna to, co mě napadne, když si představím tajný výzkum a podzemní laboratoře."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:89
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:89:DefaultText"
 msgid "Hold on. I've got some questions about you."
-msgstr ""
+msgstr "Počkejte. Mám na vás pár otázek."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:90
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:90:DefaultText"
 msgid "Ask away. I have got nothing but time."
-msgstr ""
+msgstr "Ptejte se. Nemám nic než čas."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:91
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:91:DefaultText"
 msgid "Nothing wrong with taking care of your teeth."
-msgstr ""
+msgstr "Na péči o zuby není nic špatného."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:94
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:94:DefaultText"
 msgid "I'm glad you're finding time for soul-searching, what with being moments away from death."
-msgstr ""
+msgstr "Jsem ráda, že si najdeš čas na přemýšlení o duši, když jsi chvíli před smrtí."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:96
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:96:DefaultText"
 msgid "I imagine you're about to find out. Goodbye."
-msgstr ""
+msgstr "Předpokládám, že se to brzy dozvíte. Na shledanou."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:97
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:97:DefaultText"
 msgid "And I am glad you have the luxury of sarcasm, whereas I have been made to spend my day listening to my crew die to corporate guns and hungry rapts."
-msgstr ""
+msgstr "A jsem rád, že si můžeš dovolit ten luxus sarkasmu, zatímco já musím celý den poslouchat, jak moje posádka umírá na korporátní zbraně a hladové raptory."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:98
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:98:DefaultText"
 msgid "Forget it. You're on your own."
-msgstr ""
+msgstr "Zapomeňte na to. Jsi v tom sám."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:99
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:99:DefaultText"
 msgid "Just to be clear: you aren't common burglars, but you are common murderers."
-msgstr ""
+msgstr "Aby bylo jasno: nejste obyčejní zloději, ale obyčejní vrazi."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:100
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:100:DefaultText"
 msgid "I'm shocked you haven't been shot by your own crew."
-msgstr ""
+msgstr "Jsem v šoku, že vás nezastřelila vaše vlastní posádka."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:101
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:101:DefaultText"
 msgid "Break me out of here and I will listen to all the supercilious comments you want to make about my leadership."
-msgstr ""
+msgstr "Vyhoďte mě odsud a já si vyslechnu všechny vaše povýšené poznámky o mém vedení."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:102
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:102:DefaultText"
 msgid "I'm through talking."
-msgstr ""
+msgstr "S mluvením jsem skončil."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:104
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:104:DefaultText"
 msgid "How is Crane a corporate puppet?"
-msgstr ""
+msgstr "V čem je Crane loutkou společnosti?"
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:105
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:105:DefaultText"
 msgid "Because Auntie Cleo Incorporated have their hand so far up his ass they can move his mouth."
-msgstr ""
+msgstr "Protože tetička Cleo Incorporated má ruku v jeho zadku tak hluboko, že může hýbat jeho ústy."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:106
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:106:DefaultText"
 msgid "This lab is a prison, not a place of work. Those men were not scientists - they were indentured laborers. We liberated them. They should be thanking us."
-msgstr ""
+msgstr "Tato laboratoř je vězení, ne pracoviště. Tito muži nebyli vědci - byli to námezdní dělníci. Osvobodili jsme je. Měli by nám děkovat."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:107
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:107:DefaultText"
 msgid "They were people. You ruined their livelihood and killed not a few of them."
-msgstr ""
+msgstr "Byli to lidé. Zničil jsi jejich živobytí a nejednoho z nich jsi zabil."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:108
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:108:DefaultText"
 msgid "All wars have casualties. I regret taking a life, but we were doing them a mercy. Better to die than live in a state of slavery."
-msgstr ""
+msgstr "Všechny války mají své oběti. Lituji toho, že jsme jim vzali život, ale prokazovali jsme jim milosrdenství. Lepší zemřít než žít v otroctví."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:109
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:109:DefaultText"
 msgid "You're pretty conceited for a common bandit."
-msgstr ""
+msgstr "Na obyčejného banditu jsi pěkně domýšlivý."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:110
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:110:DefaultText"
 msgid "I'm done talking to you."
-msgstr ""
+msgstr "Už s tebou nemluvím."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:111
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:111:DefaultText"
 msgid "You and I are on the same side. We both possess the means to fight back against a tyrannical and oppressive corporate regime."
-msgstr ""
+msgstr "Jsme na stejné straně. Oba máme prostředky, jak se bránit tyranskému a utlačovatelskému korporátnímu režimu."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:112
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:112:DefaultText"
 msgid "You aren't going to be fighting much of anything stuck down here."
-msgstr ""
+msgstr "Tady dole se s ničím moc prát nebudeš."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:114
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:114:DefaultText"
 msgid "The corporate regime has been generous to freelancers like me."
-msgstr ""
+msgstr "Podnikový režim byl k lidem na volné noze, jako jsem já, velkorysý."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:115
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:115:DefaultText"
 msgid "We are all of us trapped. You, me, the scientists. This is not a colony. It is a slave camp. "
-msgstr ""
+msgstr "Všichni jsme v pasti. Ty, já, vědci. Tohle není kolonie. Je to otrokářský tábor. "
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:116
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:116:DefaultText"
 msgid "Yes. We raided the lab. Shot some guards. Killed a few scientists in the crossfire. But it was all for a higher cause."
-msgstr ""
+msgstr "Ano. Provedli jsme razii v laboratoři. Zastřelili jsme pár strážných. Při přestřelce jsme zabili několik vědců. Ale všechno to bylo pro vyšší cíle."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:117
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:117:DefaultText"
 msgid "So you're a murderer with a conscience."
-msgstr ""
+msgstr "Takže jsi vrah se svědomím."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:118
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:118:DefaultText"
 msgid "Then you are nothing more than a hired gun. No better than an inanimate object, with no will or spirit of your own."
-msgstr ""
+msgstr "Pak nejste nic víc než nájemný vrah. Nejste o nic lepší než neživý předmět bez vlastní vůle a ducha."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:119
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:119:DefaultText"
 msgid "At least I'm not trapped in an underground lab because I botched a raid."
-msgstr ""
+msgstr "Alespoň nejsem uvězněný v podzemní laboratoři, protože jsem zpackal zátah."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:120
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:120:DefaultText"
 msgid "And you're just a two-bit bandit who likes to put on airs."
-msgstr ""
+msgstr "A ty jsi jen bandita, který se rád přetvařuje."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:121
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:121:DefaultText"
 msgid "What kind of a reward are we talking?"
-msgstr ""
+msgstr "O jaké odměně mluvíme?"
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:122
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:122:DefaultText"
 msgid "How is it the honorable thing to do?"
-msgstr ""
+msgstr "Jak je to čestné?"
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:123
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:123:DefaultText"
 msgid "The research I carry is valuable. I am willing to go halves with you."
-msgstr ""
+msgstr "Výzkum, který provádím, je cenný. Jsem ochoten jít s vámi napůl."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:124
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:124:DefaultText"
 msgid "Did you say diet toothpaste?"
-msgstr ""
+msgstr "Řekli jste dietní zubní pasta?"
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:125
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:125:DefaultText"
 msgid "Diet toothpaste. Can you imagine a more pernicious example of corporate materialism? I do not know what is worse - working here or dying here."
-msgstr ""
+msgstr "Dietní zubní pasta. Dokážete si představit zhoubnější příklad firemního materialismu? Nevím, co je horší - pracovat zde, nebo zde zemřít."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:126
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:126:DefaultText"
 msgid "So you went through all this trouble to steal a formula for ... diet toothpaste."
-msgstr ""
+msgstr "Takže sis dal tu práci, abys ukradl recept na... dietní zubní pastu."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:127
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:127:DefaultText"
 msgid "What matters is that I have been lied to. I was led to believe this was a high-priority corporate facility hiding valuable research."
-msgstr ""
+msgstr "Důležité je, že mi lhali. Byl jsem přesvědčen, že se jedná o vysoce prioritní firemní zařízení, které skrývá cenný výzkum."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:128
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:128:DefaultText"
 msgid "This job was not supposed to end with me stuck in some wretched lab, smelling like rapts. So I would be very much obliged if you gave me a break."
-msgstr ""
+msgstr "Tahle práce neměla skončit tím, že budu trčet v nějaké ubohé laboratoři a smrdět jako rapty. Takže bych vám byl velmi zavázán, kdybyste mi dali pauzu."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:129
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:129:DefaultText"
 msgid "That's not good enough."
-msgstr ""
+msgstr "To nestačí."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:130
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:130:DefaultText"
 msgid "And I will gladly negotiate with you, but only after you free me."
-msgstr ""
+msgstr "Rád s vámi budu vyjednávat, ale až poté, co mě osvobodíte."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:131
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:131:DefaultText"
 msgid "Crane's a decent man trying to make the best of the mess you made."
-msgstr ""
+msgstr "Jeřáb je slušný člověk, který se snaží z nepořádku, který jsi nadělal, vytěžit co nejvíc."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:132
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:132:DefaultText"
 msgid "Oh, please. I'm not shaking down valuables from hapless travelers. I'm stealing corporate secrets. "
-msgstr ""
+msgstr "Ale prosím vás. Nebudu z nešťastných cestujících vymáhat cennosti. Kradl jsem firemní tajemství. "
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:133
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:133:DefaultText"
 msgid "What kind of secrets are we talking?"
-msgstr ""
+msgstr "O jakých tajemstvích mluvíme?"
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:134
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:134:DefaultText"
 msgid "I'm not interested in helping you."
-msgstr ""
+msgstr "Nemám zájem vám pomáhat."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:135
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:135:DefaultText"
 msgid "This is an underground lab. Off the radar. That means their research is secret, and secrets are always valuable."
-msgstr ""
+msgstr "Jedná se o podzemní laboratoř. Mimo dosah radaru. To znamená, že jejich výzkum je tajný a tajemství jsou vždy cenná."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:141
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:141:DefaultText"
 msgid "I've given it some thought. I'll help you."
-msgstr ""
+msgstr "Trochu jsem o tom přemýšlel. Pomůžu vám."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:142
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:142:DefaultText"
 msgid "What will I get myself into if I help you out?"
-msgstr ""
+msgstr "Do čeho se dostanu, když vám pomůžu?"
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:143
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:143:DefaultText"
 msgid "I've cleared both paths out of here. Don't make me regret it."
-msgstr ""
+msgstr "Vyčistil jsem obě cesty ven. Nenuť mě toho litovat."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:144
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:144:DefaultText"
 msgid "Still not interested in helping you."
-msgstr ""
+msgstr "Stále nemáte zájem vám pomoci."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:145
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:145:DefaultText"
 msgid "I'm guessing you're the one Lillian described. "
-msgstr ""
+msgstr "Hádám, že jsi ten, kterého popsala Lillian. "
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:150
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:150:DefaultText"
 msgid "So you have! I am much obliged."
-msgstr ""
+msgstr "Tak to máte! Jsem vám velmi zavázán."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:151
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:151:DefaultText"
 msgid "I'm going to need you to turn over that research."
-msgstr ""
+msgstr "Budu potřebovat, abyste mi ten výzkum předal."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:152
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:152:DefaultText"
 msgid "I didn't save your life for free."
-msgstr ""
+msgstr "Nezachránil jsem ti život zadarmo."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:153
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:153:DefaultText"
 msgid "<Attack> You're not walking out of here with that research. "
-msgstr ""
+msgstr "<Útok> S tímhle výzkumem odsud neodejdeš. "
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:154
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:154:DefaultText"
 msgid "Oh really? And why, pray tell, would I do a thing like that?"
-msgstr ""
+msgstr "Opravdu? A proč bych, prosím, něco takového dělal?"
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:155
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:155:DefaultText"
 msgid "I checked around. That data's faulty. You couldn't sell it for a gob of spit."
-msgstr ""
+msgstr "Rozhlédl jsem se kolem. Ty údaje jsou chybné. Neprodáš je ani za babku."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:156
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:156:DefaultText"
 msgid "The situation's liable to turn ugly if you don't."
-msgstr ""
+msgstr "Pokud tak neučiníte, situace se může zvrtnout."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:157
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:157:DefaultText"
 msgid "Because you don't want a price on your head."
-msgstr ""
+msgstr "Protože nechcete, aby na vaši hlavu byla vypsána odměna."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:158
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:158:DefaultText"
 msgid "What's that research worth to you?"
-msgstr ""
+msgstr "Jakou cenu má pro vás tento výzkum?"
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:161
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:161:DefaultText"
 msgid "Damn and blast. I should have seen this coming."
-msgstr ""
+msgstr "Zatraceně a výbuch. Měl jsem to čekat."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:163
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:163:DefaultText"
 msgid "Don't give me that look. You have made your point clear enough."
-msgstr ""
+msgstr "Nedívej se na mě tak. Svůj názor jste vyjádřil dostatečně jasně."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:165
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:165:DefaultText"
 msgid "Your point is well taken. I would rather not spend the rest of my days looking over my shoulder for the shadow of my headhunter."
-msgstr ""
+msgstr "Váš názor je správný. Nerad bych strávil zbytek svých dnů tím, že se budu ohlížet přes rameno, zda na mě nepadá stín lovce hlav."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:166
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:166:DefaultText"
 msgid "Do I? No, I do not think I do. This research was hard-won, and I plan on enjoying every bit I make off its sale."
-msgstr ""
+msgstr "Opravdu? Ne, myslím, že ne. Tento výzkum byl tvrdě vydobytý a já si hodlám užít každou korunu, kterou vydělám na jeho prodeji."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:167
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:167:DefaultText"
 msgid "I should ask you the same thing. Make me an offer."
-msgstr ""
+msgstr "Měl bych se vás zeptat na totéž. Udělejte mi nabídku."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:171
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:171:DefaultText"
 msgid "My, that is a handsome prize. You have a deal."
-msgstr ""
+msgstr "To je ale pěkná cena. Máte dohodu."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:173
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:173:DefaultText"
 msgid "This is robbery, you know."
-msgstr ""
+msgstr "Tohle je loupež."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:174
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:174:DefaultText"
 msgid "I can have Anton pay you, if you're willing to wait."
-msgstr ""
+msgstr "Pokud jste ochotna počkat, mohu vám nechat Antona zaplatit."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:176
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:176:DefaultText"
 msgid "Of course. I am, after all, a bandit. Pleasure doing business with you."
-msgstr ""
+msgstr "Samozřejmě. Jsem přece bandita. Je mi potěšením s vámi obchodovat."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:177
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:177:DefaultText"
 msgid "Take care."
-msgstr ""
+msgstr "Dávejte na sebe pozor."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:178
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:178:DefaultText"
 msgid "You are lucky I happen to like you. Go on then."
-msgstr ""
+msgstr "Máš štěstí, že se mi náhodou líbíš. Tak pokračuj."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:182
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:182:DefaultText"
 msgid "I'm doing you a favor. Sit tight."
-msgstr ""
+msgstr "Dělám ti laskavost. Seď pevně."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:183
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:183:DefaultText"
 msgid "Good things come to those who wait. I'll be back after I talk to Crane."
-msgstr ""
+msgstr "Dobré věci přicházejí k těm, kdo čekají. Vrátím se, až si promluvím s Jeřábem."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:184
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:184:DefaultText"
 msgid "I'm sure you'll find a way to amuse yourself."
-msgstr ""
+msgstr "Určitě si najdeš způsob, jak se zabavit."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:185
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:185:DefaultText"
 msgid "Outstanding. I knew you would come around."
-msgstr ""
+msgstr "Vynikající. Věděl jsem, že se vzpamatuješ."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:186
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:186:DefaultText"
 msgid "Don't flatter yourself. I expect you to pay me for my trouble."
-msgstr ""
+msgstr "Nelichoťte si. Očekávám, že mi za mou námahu zaplatíte."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:187
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:187:DefaultText"
 msgid "This doesn't make us friends."
-msgstr ""
+msgstr "To z nás nedělá přátele."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:188
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:188:DefaultText"
 msgid "Sit tight."
-msgstr ""
+msgstr "Zůstaňte sedět."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:189
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:189:DefaultText"
 msgid "On my honor, you will be well-rewarded."
-msgstr ""
+msgstr "Na mou čest, budeš dobře odměněn."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:190
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:190:DefaultText"
 msgid "I do not have friends. I have associates."
-msgstr ""
+msgstr "Nemám přátele. Mám společníky."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:191
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:191:DefaultText"
 msgid "I would have been insulted if you had. Talent like yours deserves a good reward."
-msgstr ""
+msgstr "Kdybyste to udělal, urazil bych se. Talent, jako je ten váš, si zaslouží dobrou odměnu."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:192
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:192:DefaultText"
 msgid "Good. I never trust a freelancer who works for free."
-msgstr ""
+msgstr "Dobré. Nikdy nevěřím freelancerovi, který pracuje zadarmo."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:195
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:195:DefaultText"
 msgid "Come on, Cassandra. Throw in a little something for the orphans?"
-msgstr ""
+msgstr "No tak, Cassandro. Hodit něco pro sirotky?"
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:196
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:196:DefaultText"
 msgid "I know you can do better than that."
-msgstr ""
+msgstr "Vím, že máš na víc."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:200
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:200:DefaultText"
 msgid "Oh, fine. But only because I like you. Any more and I shall risk a reputation for generosity."
-msgstr ""
+msgstr "Dobře. Ale jen proto, že tě mám rád. Ještě jednou a budu riskovat pověst velkorysého člověka."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:203
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:203:DefaultText"
 msgid "There is no need to glare at me like that. You have made your point."
-msgstr ""
+msgstr "Nemusíš na mě takhle zírat. Vyjádřil jste svůj názor."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:206
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:206:DefaultText"
 msgid "You kept me waiting. What did Crane have to say?"
-msgstr ""
+msgstr "Nechal jsi mě čekat. Co chtěl Crane říct?"
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:207
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:207:DefaultText"
 msgid "Is there a problem?"
-msgstr ""
+msgstr "Je to problém?"
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:210
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:210:DefaultText"
 msgid "Goodbye."
-msgstr ""
+msgstr "Sbohem."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:212
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:212:DefaultText"
 msgid "Anton wants his research back. Here's your money."
-msgstr ""
+msgstr "Anton chce svůj výzkum zpět. Tady jsou vaše peníze."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:213
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:213:DefaultText"
 msgid "No luck. The man refused to negotiate."
-msgstr ""
+msgstr "Bez úspěchu. Muž odmítl vyjednávat."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:214
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:214:DefaultText"
 msgid "<Attack> I changed my mind. I'm taking that research."
-msgstr ""
+msgstr "<Útok> Rozmyslel jsem si to. Beru si ten výzkum."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:217
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:217:DefaultText"
 msgid "Nothing yet. Keep waiting."
-msgstr ""
+msgstr "Zatím nic. Čekejte dál."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:218
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:218:DefaultText"
 msgid "My patience is not infinite."
-msgstr ""
+msgstr "Moje trpělivost není nekonečná."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:219
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:219:DefaultText"
 msgid "Why am I not surprised? Labcoats like him never listen to reason. I am done with this place. Step aside."
-msgstr ""
+msgstr "Proč mě to nepřekvapuje? Labužníci jako on nikdy neposlouchají rozum. S tímhle místem jsem skončil. Ustupte."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:220
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:220:DefaultText"
 msgid "Have it your way. You can keep the research."
-msgstr ""
+msgstr "Ať je po vašem. Výzkum si můžete nechat."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:221
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:221:DefaultText"
 msgid "<Attack> You're not leaving with that research. "
-msgstr ""
+msgstr "<Útok> S tímhle výzkumem neodejdeš. "
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:222
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:222:DefaultText"
 msgid "I almost feel sorry for the poor man. Well, poor after paying me anyway. A pleasure doing business with you."
-msgstr ""
+msgstr "Skoro je mi toho chudáka líto. Tedy chudáka po tom, co mi zaplatil. Bylo mi potěšením s vámi obchodovat."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:223
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:223:DefaultText"
 msgid "You did the right thing. Goodbye."
-msgstr ""
+msgstr "Udělali jste správnou věc. Sbohem."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:225
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:225:DefaultText"
 msgid "With any luck, we'll never meet again. Goodbye."
-msgstr ""
+msgstr "S trochou štěstí se už nikdy nepotkáme. Na shledanou."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:226
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:226:DefaultText"
 msgid "What do you intend to do with this research?"
-msgstr ""
+msgstr "Co hodláte s tímto výzkumem dělat?"
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:227
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:227:DefaultText"
 msgid "How did you end up in this mess?"
-msgstr ""
+msgstr "Jak jste se do toho dostal?"
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:228
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:228:DefaultText"
 msgid "You act like the corporations are your enemy. What do you have against them?"
-msgstr ""
+msgstr "Chováte se, jako by korporace byly vašimi nepřáteli. Co proti nim máte?"
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:229
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:229:DefaultText"
 msgid "Why would you and your crew raid an Auntie Cleo facility?"
-msgstr ""
+msgstr "Proč jste se svou partou přepadli zařízení Auntie Cleo?"
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:230
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:230:DefaultText"
 msgid "Sell it, of course. I don't have any use for the scribblings of idiotic scientists, but whoever gave me this tip obviously does."
-msgstr ""
+msgstr "Samozřejmě ho prodejte. Nemám žádný užitek z čmáranic idiotských vědců, ale ten, kdo mi dal tenhle tip, zřejmě ano."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:231
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:231:DefaultText"
 msgid "Assuming I make it out of this place alive. And with my ship out of commission, I'll have to leave on foot and hope my luck changes. One problem at a time, I suppose."
-msgstr ""
+msgstr "Za předpokladu, že se odsud dostanu živý. A protože moje loď je mimo provoz, budu muset odejít pěšky a doufat, že se na mě usměje štěstí. Předpokládám, že jeden problém za druhým."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:232
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:232:DefaultText"
 msgid "I cannot do a thing so long as I am stuck down in this gutter. Will you help me or not?"
-msgstr ""
+msgstr "Dokud budu trčet dole ve stoce, nemohu nic dělat. Pomůžete mi, nebo ne?"
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:233
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:233:DefaultText"
 msgid "I have been asking myself the same question. Our tactics were sound, but no battle plan survives contact with the enemy."
-msgstr ""
+msgstr "Kladu si stejnou otázku. Naše taktika byla správná, ale žádný bojový plán nepřežije kontakt s nepřítelem."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:234
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:234:DefaultText"
 msgid "We were acting on a good tip. But the tip never mentioned the rapts. When we hit the lab, those rapts got loose. Tore through as many of ours as theirs."
-msgstr ""
+msgstr "Jednali jsme na základě dobrého tipu. Ale v tom tipu nebyla zmínka o znásilnění. Když jsme narazili na laboratoř, ty rapty se uvolnily. Roztrhaly tolik našich jako jejich."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:236
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:236:DefaultText"
 msgid "From the day we are born, we are made to obey. Never question. Never hope. Never dream of anything greater than the lot appointed to us."
-msgstr ""
+msgstr "Od narození jsme stvořeni k poslušnosti. Nikdy se neptejte. Nikdy nedoufat. Nikdy nesnít o ničem větším, než je nám určeno."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:237
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:237:DefaultText"
 msgid "Corporations expect us to work until the day we die. But they could not give a half-bit shit about our lives."
-msgstr ""
+msgstr "Korporace od nás očekávají, že budeme pracovat až do smrti. Ale naše životy jsou jim úplně ukradené."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:239
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:239:DefaultText"
 msgid "No one asks \"why\" anymore. The establishment tells us to live here, work there, eat that, drink this. All our choices are made for us, so we forget we ever had a choice."
-msgstr ""
+msgstr "Nikdo se už neptá \"proč\". Establishment nám říká, že máme žít tady, pracovat tam, jíst tamto, pít tohle. Všechna naše rozhodnutí jsou učiněna za nás, takže zapomínáme, že jsme kdy měli na výběr."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:240
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:240:DefaultText"
 msgid "I am doing this because I can. Because it thrills me. Because I take a deep and profound pleasure from stabbing at the heart of corporate power, no matter how shallow the wound."
-msgstr ""
+msgstr "Dělám to, protože mohu. Protože mě to vzrušuje. Protože mám hluboké a hluboké potěšení z toho, že mohu bodnout do srdce korporátní moci, bez ohledu na to, jak mělká je to rána."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:243
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:243:DefaultText"
 msgid "I'll be back."
-msgstr ""
+msgstr "Vrátím se."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:244
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:244:DefaultText"
 msgid "Don't sneak up on me like that. I am armed and more than a little prone to twitching."
-msgstr ""
+msgstr "Takhle se ke mně nepliž. Jsem ozbrojený a mám větší než malé sklony k cukání."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:245
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:245:DefaultText"
 msgid "And now, if you do not mind, I have had quite enough of this wretched place."
-msgstr ""
+msgstr "A teď, jestli vám to nevadí, už mám tohohle mizerného místa dost."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:247
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:247:DefaultText"
 msgid "Here, take the damned research. Tell Crane I hope he chokes on it."
-msgstr ""
+msgstr "Tady, vezměte si ten zatracený výzkum. Řekni Craneovi, že doufám, že se jím udusí."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:251
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:251:DefaultText"
 msgid "The corporations don't care about the cause. Whatever you tear down, they can rebuild."
-msgstr ""
+msgstr "Korporacím je to jedno. Cokoli zbouráte, mohou postavit znovu."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:252
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:252:DefaultText"
 msgid "Then we will tear it down again. Do you know what propaganda by the deed means? It means we set an example by our actions. It means we send a message."
-msgstr ""
+msgstr "Pak ji znovu zbouráme. Víte, co znamená propaganda podle činu? Znamená to, že svými činy dáváme příklad. Znamená to, že vysíláme poselství."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:253
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:253:DefaultText"
 msgid "What makes you think anyone's going to listen to your message?"
-msgstr ""
+msgstr "Proč si myslíte, že někdo bude poslouchat vaše sdělení?"
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:254
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:254:DefaultText"
 msgid "Because it is fun. You have not lived until you have taken a hammer to the establishment."
-msgstr ""
+msgstr "Protože je to zábava. Nežiješ, dokud jsi nevzal kladivo na podnik."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:255
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:255:DefaultText"
 msgid "Come on now. Do you want to be dull and boring and servile like everyone else? Or do you want to break some rules?"
-msgstr ""
+msgstr "Ale no tak. Chceš být nudný a servilní jako všichni ostatní? Nebo chceš porušit nějaká pravidla?"
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:256
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:256:DefaultText"
 msgid "How should I know? Because you want to do the right thing?"
-msgstr ""
+msgstr "Jak to mám vědět? Protože chcete udělat správnou věc?"
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:258
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:258:DefaultText"
 msgid "This is getting a touch too crazy for me. You're on your own."
-msgstr ""
+msgstr "Začíná to být na mě příliš šílené. Je to na tobě."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:260
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:260:DefaultText"
 msgid "I have some more questions."
-msgstr ""
+msgstr "Mám několik dalších otázek."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:262
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:262:DefaultText"
 msgid "So a few scientists were caught in the crossfire. I will not be accountable for every idiot who wanders in front of my gun."
-msgstr ""
+msgstr "Několik vědců se tak ocitlo v křížové palbě. Nebudu zodpovědný za každého idiota, který se mi připlete před zbraň."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:263
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:263:DefaultText"
 msgid "What do you have against Anton?"
-msgstr ""
+msgstr "Co máš proti Antonovi?"
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:264
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:264:DefaultText"
 msgid "I'm done listening to this. You're on your own."
-msgstr ""
+msgstr "Už to nebudu poslouchat. Je to na tobě."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:265
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:265:DefaultText"
 msgid "No one forced these scientists to work here. "
-msgstr ""
+msgstr "Nikdo tyto vědce nenutil, aby zde pracovali. "
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:266
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:266:DefaultText"
 msgid "You think they had a choice? That any of us have a choice? The greatest sin in this colony is to be unemployed. To be without work is to be without rights."
-msgstr ""
+msgstr "Myslíte si, že měli na výběr? Že někdo z nás má na výběr? Největším hříchem v této kolonii je být nezaměstnaný. Být bez práce znamená být bez práv."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:268
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:268:DefaultText"
 msgid "All this talk about freedom and liberation, but you're stuck down here without my help."
-msgstr ""
+msgstr "Všichni mluví o svobodě a osvobození, ale ty jsi tady dole uvízl bez mé pomoci."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:269
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:269:DefaultText"
 msgid "Why are you even telling me this?"
-msgstr ""
+msgstr "Proč mi to vůbec říkáš?"
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:270
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:270:DefaultText"
 msgid "Bored of you. You're on your own."
-msgstr ""
+msgstr "Nudíte se. Jsi sám."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:271
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:271:DefaultText"
 msgid "Let's pretend it was. Goodbye."
-msgstr ""
+msgstr "Předstírejme, že ano. Sbohem."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:273
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:273:DefaultText"
 msgid "Get to the point."
-msgstr ""
+msgstr "Přejděte k věci."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:276
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:276:DefaultText"
 msgid "Keep the research. Take care of yourself out there."
-msgstr ""
+msgstr "Pokračujte ve výzkumu. Dávejte na sebe pozor."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:277
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:277:DefaultText"
 msgid "You did the right thing. Goodbye."
-msgstr ""
+msgstr "Udělali jste správnou věc. Sbohem."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:278
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:278:DefaultText"
 msgid "Take care of yourself."
-msgstr ""
+msgstr "Pečujte o sebe."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:279
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:279:DefaultText"
 msgid "Wait. Let me make you a different offer."
-msgstr ""
+msgstr "Počkejte. Dovolte mi, abych vám učinil jinou nabídku."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:281
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:281:DefaultText"
 msgid "I'll see what I can do."
-msgstr ""
+msgstr "Uvidím, co se dá dělat."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:282
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:282:DefaultText"
 msgid "So you lied about not knowing Crane. I suppose I do not blame you."
-msgstr ""
+msgstr "Takže jsi lhal, že Cranea neznáš. Asi se ti nedivím."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:283
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:283:DefaultText"
 msgid "Why would you do something like this?"
-msgstr ""
+msgstr "Proč byste něco takového dělali?"
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:284
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:284:DefaultText"
 msgid "Nice to know you aren't burdened by a conscience."
-msgstr ""
+msgstr "Je hezké vědět, že tě netíží svědomí."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:285
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:285:DefaultText"
 msgid "You misreckon me. My conscience is what keeps me from throwing in with these corporate parasites. I would rather die than spend my life in a labcoat researching diet toothpaste."
-msgstr ""
+msgstr "Zklamal jsi mě. Moje svědomí mi brání, abych se s těmi korporátními parazity nespojil. Raději zemřu, než abych strávil život v laboratorním plášti výzkumem dietní zubní pasty."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:286
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:286:DefaultText"
 msgid "What's in it for me?"
-msgstr ""
+msgstr "Co z toho budu mít?"
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:287
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:287:DefaultText"
 msgid "We liberated that research. We did not steal it. And yes, a few scientists were caught in the crossfire."
-msgstr ""
+msgstr "Tento výzkum jsme osvobodili. Neukradli jsme ho. A ano, několik vědců se dostalo do křížové palby."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:288
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:288:DefaultText"
 msgid "Come on now. Do you want to be dull and boring and servile like everyone else? Or do you want to break some rules?"
-msgstr ""
+msgstr "Ale no tak. Chceš být nudný a servilní jako všichni ostatní? Nebo chceš porušit nějaká pravidla?"
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:289
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:289:DefaultText"
 msgid "You're taking out your anger on the wrong people. These scientists didn't deserve to die."
-msgstr ""
+msgstr "Svůj hněv si vybíjíš na nesprávných lidech. Tito vědci si nezasloužili zemřít."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:290
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:290:DefaultText"
 msgid "As I live and breathe. The Board's very own pet mercenary. "
-msgstr ""
+msgstr "Žiji a dýchám. Žoldák, kterého si rada oblíbila. "
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:292
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:292:DefaultText"
 msgid "<Attack> You're not walking out of here!"
-msgstr ""
+msgstr "<Útok> Odtud neodejdeš!"
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:293
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:293:DefaultText"
 msgid "Oh. That stings. I was beginning to like you."
-msgstr ""
+msgstr "Oh. To bolí. Začínal jsem tě mít rád."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:294
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:294:DefaultText"
 msgid "<Attack> Or I could just shoot you and skip all the hassle."
-msgstr ""
+msgstr "<Útok> Nebo tě můžu prostě zastřelit a vynechat všechny tyhle problémy."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:295
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:295:DefaultText"
 msgid "Nothing beyond the purview of a talented freelancer like you."
-msgstr ""
+msgstr "Nic, co by se vymykalo kompetenci talentovaného freelancera, jako jste vy."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:296
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:296:DefaultText"
 msgid "Tell me what you know about the rapts."
-msgstr ""
+msgstr "Řekni mi, co víš o raptech."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:297
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:297:DefaultText"
 msgid "I can talk the guards into leaving, but your people have to let them pass."
-msgstr ""
+msgstr "Můžu strážím domluvit, aby odešli, ale vaši lidé je musí nechat projít."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:298
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:298:DefaultText"
 msgid "Your door's stuck fast. How did you manage to lock yourself in?"
-msgstr ""
+msgstr "Vaše dveře se rychle zasekly. Jak se ti podařilo zamknout?"
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:299
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:299:DefaultText"
 msgid "You really expect me to just let them pass? Why, so they can regroup behind their walls and mount another assault?"
-msgstr ""
+msgstr "Opravdu čekáte, že je nechám jen tak projít? Proč? Aby se mohli přeskupit za hradbami a podniknout další útok?"
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:300
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:300:DefaultText"
 msgid "A raptidon is an apex predator native to the jungles of Monarch. They are entirely unsuited to life on Terra 2, which may account for their horrible temper and appetite."
-msgstr ""
+msgstr "Raptidon je vrcholový predátor pocházející z monarchských džunglí. K životu na Terře 2 se vůbec nehodí, což může být příčinou jejich strašlivé povahy a chuti k jídlu."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:301
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:301:DefaultText"
 msgid "The rapts took us by surprise, as they would anyone. My crew were split apart and lost in the corridors. They went one way. I went another."
-msgstr ""
+msgstr "Rapty nás zaskočily, jako by zaskočily každého. Moje posádka se rozdělila a ztratila se v chodbách. Šli jedním směrem. Já šel jinudy."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:302
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:302:DefaultText"
 msgid "And you expect me to take down an entire pack of these things."
-msgstr ""
+msgstr "A vy ode mě očekáváte, že sejmu celou smečku těchto věcí."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:303
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:303:DefaultText"
 msgid "That was an unexpectedly scientific answer."
-msgstr ""
+msgstr "To byla nečekaně vědecká odpověď."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:304
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:304:DefaultText"
 msgid "What? Do not give me that look. I am allowed to have hobbies. Biology happens to be one of them. "
-msgstr ""
+msgstr "Cože? Nedívej se na mě tak. Mám dovoleno mít koníčky. Biologie je jedním z nich. "
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:305
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:305:DefaultText"
 msgid "Oh, for goodness sake. They are just animals. Aggressive, territorial, frightened and very probably hungry animals - but they die to gunfire like anything else."
-msgstr ""
+msgstr "Proboha. Jsou to jen zvířata. Agresivní, teritoriální, vyděšená a velmi pravděpodobně hladová zvířata - ale umírají na střelbu jako cokoli jiného."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:306
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:306:DefaultText"
 msgid "I do remember one of those feckless scientists yammering something about a Raptidon Suppression System."
-msgstr ""
+msgstr "Vzpomínám si, že jeden z těch bezduchých vědců vykládal něco o systému potlačování raptidonů."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:310
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:310:DefaultText"
 msgid "Perfect. Where can I find this scientist?"
-msgstr ""
+msgstr "Perfektní. Kde najdu tohoto vědce?"
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:311
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:311:DefaultText"
 msgid "You have not made this easy on me. But I'll see what I can do."
-msgstr ""
+msgstr "Neusnadnil jsi mi to. Ale uvidím, co se dá dělat."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:312
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:312:DefaultText"
 msgid "How should I know? I left his body where I shot him."
-msgstr ""
+msgstr "Jak to mám vědět? Nechal jsem jeho tělo tam, kde jsem ho zastřelil."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:314
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:314:DefaultText"
 msgid "Yes, we accidentally released the rapts into the world when we attacked this place. But I am not at fault here! Those scientists had no business experimenting on these creatures."
-msgstr ""
+msgstr "Ano, při útoku na toto místo jsme omylem vypustili raptory do světa. Ale já za to nemůžu! Ti vědci neměli co experimentovat na těchto tvorech."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:315
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:315:DefaultText"
 msgid "Never mind. I'm obviously in no position to argue with you. If you can talk those guards into standing down, my people will follow suit."
-msgstr ""
+msgstr "Nevadí. Zřejmě nejsem v pozici, abych se s vámi hádal. Pokud se ti podaří přemluvit ty stráže, aby ustoupily, moji lidé budou následovat."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:318
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:318:DefaultText"
 msgid "You'll need a keycard to unlock my door. I don't know where they're kept, but I'd start by checking the security office."
-msgstr ""
+msgstr "K odemknutí mých dveří budete potřebovat kartu. Nevím, kde jsou uloženy, ale začal bych tím, že bych se podíval do kanceláře ochranky."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:319
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:319:DefaultText"
 msgid "I am not ungrateful for your help. You saved my life. I believe I owe you a drink or two."
-msgstr ""
+msgstr "Nejsem nevděčný za vaši pomoc. Zachránili jste mi život. Myslím, že vám dlužím jeden nebo dva drinky."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:320
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:320:DefaultText"
 msgid "You owe me more than a drink. Keep the research."
-msgstr ""
+msgstr "Dlužíš mi víc než skleničku. Nech si ten výzkum."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:321
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:321:DefaultText"
 msgid "<Attack> I never should have helped you. I'm taking that research."
-msgstr ""
+msgstr "<Útok> Nikdy jsem ti neměl pomáhat. Beru si ten výzkum."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:328
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:328:DefaultText"
 msgid "You're saying this lab is actually a prison, and everybody's just dressed up like a scientist."
-msgstr ""
+msgstr "Říkáte, že tahle laboratoř je ve skutečnosti vězení a všichni se jen převlékli za vědce."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:329
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:329:DefaultText"
 msgid "Uh, Boss. I think she was being metaphorical."
-msgstr ""
+msgstr "Šéfe. Myslím, že to myslela metaforicky."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:330
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:330:DefaultText"
 msgid "That is exactly what I am saying! At last, someone intelligent enough to understand the workings of the corporate apparatus!"
-msgstr ""
+msgstr "Přesně to říkám! Konečně někdo dostatečně inteligentní, aby pochopil fungování korporátního aparátu!"
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:331
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:331:DefaultText"
 msgid "I would ask what was on your mind, but the answer is obviously me."
-msgstr ""
+msgstr "Zeptal bych se, co se ti honí hlavou, ale odpovědí jsem zřejmě já."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:332
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:332:DefaultText"
 msgid "You are asking yourself if I can be trusted. I do not blame you. I am asking myself the same question about you."
-msgstr ""
+msgstr "Ptáte se, zda mi lze věřit. Neobviňuji vás z toho. Stejnou otázku si kladu i já."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:333
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:333:DefaultText"
 msgid "Orphans. Is that what you are calling yourself, now? Here. Let it never be said that I do not reward good work."
-msgstr ""
+msgstr "Sirotci. Tak si teď říkáte? Tady. Ať se nikdy neříká, že neodměňuji dobrou práci."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:334
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:334:DefaultText"
 msgid "I'm not working for Crane."
-msgstr ""
+msgstr "Nepracuji pro Cranea."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:335
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:335:DefaultText"
 msgid "No? Then why are you here? Out for a stroll and decided to drop by a secret, heavily-guarded, underground facility?"
-msgstr ""
+msgstr "Ne? Tak proč jste tady? Jste na procházce a rozhodli jste se zastavit v tajném, přísně střeženém podzemním zařízení?"
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:336
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:336:DefaultText"
 msgid "Because you don't want a price on your head. Also, I went out of my way for you."
-msgstr ""
+msgstr "Protože nechcete, aby na vaši hlavu byla vypsána odměna. Taky jsem kvůli tobě sešel z cesty."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:337
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:337:DefaultText"
 msgid "I checked around. That data's worthless. Trust me on that one."
-msgstr ""
+msgstr "Rozhlédl jsem se kolem. Ta data jsou bezcenná. Věřte mi."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:338
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:338:DefaultText"
 msgid "You have something that belongs to me."
-msgstr ""
+msgstr "Máš něco, co mi patří."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:339
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:339:DefaultText"
 msgid "This is a mistake. You're on your own."
-msgstr ""
+msgstr "To je chyba. Jste na vlastní pěst."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:341
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:341:DefaultText"
 msgid "You ransacked Anton's office. I'm guessing you have his research on you. Hand it over."
-msgstr ""
+msgstr "Vyplenil jsi Antonovu kancelář. Hádám, že máš u sebe jeho výzkum. Předej mi ho."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:344
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:344:DefaultText"
 msgid "I've unlocked your cell and dealt with the guards. You'll have to fend for yourself against the rapts."
-msgstr ""
+msgstr "Odemkl jsem tvou celu a vyřídil to se strážemi. Proti násilníkům se budeš muset bránit sám."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:345
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:345:DefaultText"
 msgid "I've unlocked your cell and put down the rapts. You'll have to deal with the guards yourself."
-msgstr ""
+msgstr "Odemkl jsem tvou celu a položil raptory. Se strážemi si budeš muset poradit sám."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:348
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:348:DefaultText"
 msgid "I've already put down the rapts. You'll have to find your own way past the guards."
-msgstr ""
+msgstr "Rapty jsem už položil. Cestu přes stráže si budete muset najít sami."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:349
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:349:DefaultText"
 msgid "I've already dealt with the guards and unlocked your cell. You're on your own against the rapts."
-msgstr ""
+msgstr "Už jsem se domluvil se strážemi a odemkl ti celu. Proti násilníkům jsi odkázán sám na sebe."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:350
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:350:DefaultText"
 msgid "You're in luck. I've already dealt with the rapt problem. The guards won't be bothering you either."
-msgstr ""
+msgstr "Máte štěstí. Problémem s raptem jsem se již zabýval. Ani stráže tě nebudou obtěžovat."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:351
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:351:DefaultText"
 msgid "<Attack> I'd say it's worth your life."
-msgstr ""
+msgstr "<Attack> Řekl bych, že to stojí za tvůj život."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:353
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:353:DefaultText"
 msgid "All right. I'll help you out."
-msgstr ""
+msgstr "Dobře. Pomůžu ti."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:354
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:354:DefaultText"
 msgid "Wait here."
-msgstr ""
+msgstr "Počkejte zde."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:355
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:355:DefaultText"
 msgid "Forget it. Keep the research. Just get out of here."
-msgstr ""
+msgstr "Zapomeňte na to. Výzkum si nechte. Prostě odsud vypadni."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:356
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:356:DefaultText"
 msgid "Hurry up and leave."
-msgstr ""
+msgstr "Pospěšte si a odejděte."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:357
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:357:DefaultText"
 msgid "And I don't trust you with that research. Hand it over."
-msgstr ""
+msgstr "A já ti s tím výzkumem nevěřím. Předej mi ho."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:358
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:358:DefaultText"
 msgid "This is starting to feel like a mistake. You're on your own."
-msgstr ""
+msgstr "Začíná mi to připadat jako chyba. Jsi na to sám."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:368
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:368:DefaultText"
 msgid "I haven't decided if you're worth the trouble yet."
-msgstr ""
+msgstr "Ještě jsem se nerozhodl, jestli mi za to stojíš."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:370
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:370:DefaultText"
 msgid "I'd like to think I'm worth the trouble. But I am biased."
-msgstr ""
+msgstr "Rád bych si myslel, že za ty problémy stojím. Ale jsem zaujatý."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:372
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:372:DefaultText"
 msgid "You're asking a great deal from me. This research is my only bargaining chip."
-msgstr ""
+msgstr "Chceš po mně hodně. Tento výzkum je mým jediným trumfem při vyjednávání."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:373
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:373:DefaultText"
 msgid "You're in no position to bargain."
-msgstr ""
+msgstr "Nejste v pozici, kdy byste mohli vyjednávat."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:374
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:374:DefaultText"
 msgid "You need my help more than I need yours."
-msgstr ""
+msgstr "Potřebuješ mou pomoc víc než já tvou."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:375
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:375:DefaultText"
 msgid "Then I suggest you hurry up and make your case."
-msgstr ""
+msgstr "Pak vám doporučuji, abyste si pospíšil a předložil svůj případ."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:377
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:377:DefaultText"
 msgid "You're not wrong. Help me get out of here, and I might be willing to hand over my research."
-msgstr ""
+msgstr "Nemýlíte se. Pomozte mi dostat se odsud a možná budu ochotný předat vám svůj výzkum."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:380
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:380:DefaultText"
 msgid "There's something else I need to know."
-msgstr ""
+msgstr "Potřebuji vědět ještě něco."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:381
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:381:DefaultText"
 msgid "I'll help however I can."
-msgstr ""
+msgstr "Pomůžu, jak budu moct."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:382
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:382:DefaultText"
 msgid "Finally!"
-msgstr ""
+msgstr "Konečně!"
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:383
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:383:DefaultText"
 msgid "I have never been so pleased at the sight of an open door."
-msgstr ""
+msgstr "Ještě nikdy mě pohled na otevřené dveře tak nepotěšil."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:384
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:384:DefaultText"
 msgid "I appreciate you letting me out. But if you expect me to hand over Crane's research, I am afraid I must decline."
-msgstr ""
+msgstr "Oceňuji, že jste mě pustili ven. Ale jestli očekáváte, že vám předám Craneův výzkum, musím bohužel odmítnout."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:385
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:385:DefaultText"
 msgid "Having second thoughts about helping me? Not that I'm complaining."
-msgstr ""
+msgstr "Rozmýšlíte se, jestli mi pomůžete? Ne že bych si stěžoval."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:386
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:386:DefaultText"
 msgid "Please tell me you've cleared a way out of here."
-msgstr ""
+msgstr "Prosím, řekni mi, že jsi našel cestu ven."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:387
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:387:DefaultText"
 msgid "<oeiglobal>Bribe_Amount</oeiglobal> bits for the research."
-msgstr ""
+msgstr "<oeiglobal>Bribe_Amount</oeiglobal> bits for the research."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:388
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:388:DefaultText"
 msgid "<oeiglobal>Bribe_Amount</oeiglobal> bits for the research."
-msgstr ""
+msgstr "<oeiglobal>Bribe_Amount</oeiglobal> bits for the research."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:389
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:389:DefaultText"
 msgid "Don't take too long. I'd like to see the sky again."
-msgstr ""
+msgstr "Netrvejte příliš dlouho. Rád bych znovu viděl oblohu."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:391
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:391:DefaultText"
 msgid "Keep your chin up."
-msgstr ""
+msgstr "Hlavu vzhůru."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:392
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:392:DefaultText"
 msgid "There's no need to be so snippy. I'm sure we'll cross orbits sooner or later."
-msgstr ""
+msgstr "Nemusíš být tak jízlivý. Jsem si jistý, že se dříve nebo později zkřížíme na oběžné dráze."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:393
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:393:DefaultText"
 msgid "Until next time."
-msgstr ""
+msgstr "Do příště."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:394
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:394:DefaultText"
 msgid "If you ever find your way to Monarch, talk to one of the Iconoclasts. You'd fit right in."
-msgstr ""
+msgstr "Pokud se někdy dostanete do Monarchu, promluvte si s jedním z ikonoklastů. Zapadneš mezi ně."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:395
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:395:DefaultText"
 msgid "Iconoclasts? As in - destroyers of false images? That's a good name. Wish I'd thought of it myself."
-msgstr ""
+msgstr "Ikonoklasté? Jako ničitelé falešných obrazů? To je dobré jméno. Kéž by mě to napadlo taky."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:396
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:396:DefaultText"
 msgid "If I'm going to start over anywhere, I suppose Monarch is as good a place as any. "
-msgstr ""
+msgstr "Pokud mám někde začít znovu, Monarch je asi nejvhodnější místo. "
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:397
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:397:DefaultText"
 msgid "I suppose I could make my way to Monarch. You've already paid for my ticket."
-msgstr ""
+msgstr "Předpokládám, že bych se mohl vydat do Monarchu. Už jsi mi zaplatil letenku."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:399
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:399:DefaultText"
 msgid "Take care."
-msgstr ""
+msgstr "Dávejte na sebe pozor."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:400
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:400:DefaultText"
 msgid "You might be the first stroke of luck I've had all day. Thank you. I'm in your debt."
-msgstr ""
+msgstr "Možná jsi první štěstí, které jsem za celý den měl. Děkuji. Jsem tvým dlužníkem."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:401
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:401:DefaultText"
 msgid "And, in your case, never doing an honest day's work, apparently."
-msgstr ""
+msgstr "A ve vašem případě zřejmě nikdy poctivě nepracoval."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:402
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:402:DefaultText"
 msgid "Even brought your own vicar. Come to provide counsel, father?"
-msgstr ""
+msgstr "Dokonce si přivedl vlastního faráře. Přišel jste nám poradit, otče?"
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:403
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:403:DefaultText"
 msgid "Yes. I think a tossball stick upside your head should be most effective."
-msgstr ""
+msgstr "Ano. Myslím, že nejúčinnější by měla být házecí tyč do hlavy."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:404
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:404:DefaultText"
 msgid "<Attack> You want to do the honors, Max?"
-msgstr ""
+msgstr "<Attack> Chceš to udělat, Maxi?"
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:405
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:405:DefaultText"
 msgid "Calm down, Max, let's hear what she has to say."
-msgstr ""
+msgstr "Uklidni se, Maxi, poslechněme si, co nám chce říct."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:408
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:408:DefaultText"
 msgid "Please tell me you've cleared a way out of here."
-msgstr ""
+msgstr "Prosím, řekni mi, že jsi našel cestu ven."
 
 #: conversations/08_roseway/08_cv_anarchist_cassandra_new:409
 msgctxt "conversations/08_roseway/08_cv_anarchist_cassandra_new:409:DefaultText"
 msgid "I've got the key, I'm going to let you out."
-msgstr ""
+msgstr "Mám klíč, pustím tě ven."

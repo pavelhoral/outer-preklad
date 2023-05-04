@@ -7,22 +7,22 @@ msgid "Roseway Laboratory and Outpost\r\n"
 "\r\n"
 "Terminal Access\r\n"
 ""
-msgstr ""
+msgstr "Roseway Laboratory and Outpost Property of Auntie Cleo ======================== Přístup k terminálu"
 
 #: conversations/08_roseway/08_cp_abandoned_roseway_town:2
 msgctxt "conversations/08_roseway/08_cp_abandoned_roseway_town:2:DefaultText"
 msgid "[Messages]"
-msgstr ""
+msgstr "[Zprávy]"
 
 #: conversations/08_roseway/08_cp_abandoned_roseway_town:3
 msgctxt "conversations/08_roseway/08_cp_abandoned_roseway_town:3:DefaultText"
 msgid "[Personal Files]"
-msgstr ""
+msgstr "[Osobní soubory]"
 
 #: conversations/08_roseway/08_cp_abandoned_roseway_town:4
 msgctxt "conversations/08_roseway/08_cp_abandoned_roseway_town:4:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"
 
 #: conversations/08_roseway/08_cp_abandoned_roseway_town:5
 msgctxt "conversations/08_roseway/08_cp_abandoned_roseway_town:5:DefaultText"
@@ -34,7 +34,7 @@ msgid "Roseway Laboratory and Outpost\r\n"
 "Messages\r\n"
 "\r\n"
 "Welcome, B. Martin"
-msgstr ""
+msgstr "Roseway Laboratory and Outpost Property of Auntie Cleo ======================== Zprávy Vítejte, B. Martin"
 
 #: conversations/08_roseway/08_cp_abandoned_roseway_town:6
 msgctxt "conversations/08_roseway/08_cp_abandoned_roseway_town:6:DefaultText"
@@ -52,17 +52,17 @@ msgid "Roseway Laboratory and Outpost\r\n"
 "Please be informed that all data and information stored in Roseway Laboratory and Outpost terminals are the property of Auntie Cleo. Any attempt to restore lost data constitutes theft.\r\n"
 "\r\n"
 "Auntie Cleo appreciates your cooperation."
-msgstr ""
+msgstr "Laboratoř Roseway a Outpost jsou majetkem tety Cleo ======================== Osobní soubory ==Chybička== Všechny osobní soubory byly z paměti terminálu vymazány. Upozorňujeme, že všechna data a informace uložené v terminálech Laboratoře Roseway a Outpost jsou majetkem tety Cleo. Jakýkoli pokus o obnovení ztracených dat představuje krádež. Teta Cleo si váží vaší spolupráce."
 
 #: conversations/08_roseway/08_cp_abandoned_roseway_town:7
 msgctxt "conversations/08_roseway/08_cp_abandoned_roseway_town:7:DefaultText"
 msgid "[Return to Root]"
-msgstr ""
+msgstr "[Zpět na kořen]"
 
 #: conversations/08_roseway/08_cp_abandoned_roseway_town:8
 msgctxt "conversations/08_roseway/08_cp_abandoned_roseway_town:8:DefaultText"
 msgid "[FROM: Administration]"
-msgstr ""
+msgstr "[OD: Správa]"
 
 #: conversations/08_roseway/08_cp_abandoned_roseway_town:9
 msgctxt "conversations/08_roseway/08_cp_abandoned_roseway_town:9:DefaultText"
@@ -91,4 +91,6 @@ msgid "Roseway Laboratory and Outpost\n"
 "Thank you for cooperating with Auntie Cleo's relocation and site-erasure protocol. Please remember that, effective immediately, all registered Auntie Cleo workers are strictly forbidden from confirming or denying the existence of the Roseway Laboratory and Outpost. \n"
 "\n"
 "Violating this directive may be punishable by a fine, mandatory re-education, or a surprise audit."
-msgstr ""
+msgstr "Roseway Laboratory and Outpost Property of Auntie Cleo ======================== Zprávy OD: Od: Administrativa TO: B. Martin PŘEDMĚT: S okamžitou platností byly ukončeny všechny operace v laboratoři a základně Roseway. Společnost Auntie Cleo si váží Vašeho odhodlání sloužit naší společnosti a zajistí Vaši přepravu a přemístění do jednoho ze tří (3) dostupných zařízení pro pracovníky společnosti Auntie Cleo s následujícími omezeními: 1. V případě, že se budete chtít přestěhovat do jiného zařízení, můžete se přestěhovat do jiného. Poplatky za přemístění budou strženy z platu. 2. Pokud vaše mzda nestačí na pokrytí nezbytných poplatků za přemístění, můžete požádat o půjčku na úhradu poplatků za přemístění. 3. Schválení půjčky vyžaduje kontrolu vaší pracovní historie a trvalého záznamu. 4. Půjčka na přesun je poskytována na základě žádosti o půjčku. Pokud chcete požádat o audit, zašlete prosím formulář žádosti o zařazení na náš seznam čekatelů na audit překvapení. 5. V případě, že chcete požádat o audit, zašlete prosím formulář žádosti o zařazení na náš seznam čekatelů na audit překvapení. K žádosti přiložte poplatek za audit, který jste uhradili v plné výši. 6. Uveďte své jméno a příjmení. Pokud nemůžete audit zaplatit, požádejte o půjčku na úhradu poplatku za audit. 7. V případě, že nemáte peníze, požádejte o půjčku na úhradu poplatku za audit. Schválení zápůjčky vyžaduje audit vaší pracovní historie a trvalého záznamu. Děkujeme vám za spolupráci s protokolem o přemístění a vyměření místa tety Cleo. Nezapomeňte prosím, že s okamžitou platností mají všichni registrovaní pracovníci Auntie Cleo přísný zákaz potvrzovat nebo popírat existenci laboratoře a základny Roseway. \n"
+"\n"
+"Porušení této směrnice může být potrestáno pokutou, povinnou převýchovou nebo nečekaným auditem."

@@ -1,154 +1,154 @@
 #: conversations/01_groundbreaker/01_cv_foodstandrobot:1
 msgctxt "conversations/01_groundbreaker/01_cv_foodstandrobot:1:DefaultText"
 msgid "Hearty greeting, potential customer. Welcome to Auntie's Kitchen, a Home Style Consumable Protein Dispensary."
-msgstr ""
+msgstr "Srdečný pozdrav, potenciální zákazníku. Vítejte v tetiččině kuchyni, domácím výdejním místě bílkovin."
 
 #: conversations/01_groundbreaker/01_cv_foodstandrobot:2
 msgctxt "conversations/01_groundbreaker/01_cv_foodstandrobot:2:DefaultText"
 msgid "May this unit dispense proteins for your ingestion?"
-msgstr ""
+msgstr "Může tato jednotka dávkovat proteiny pro vaše požití?"
 
 #: conversations/01_groundbreaker/01_cv_foodstandrobot:3
 msgctxt "conversations/01_groundbreaker/01_cv_foodstandrobot:3:DefaultText"
 msgid "Let's see what you've got."
-msgstr ""
+msgstr "Podívejme se, co máš."
 
 #: conversations/01_groundbreaker/01_cv_foodstandrobot:4
 msgctxt "conversations/01_groundbreaker/01_cv_foodstandrobot:4:DefaultText"
 msgid "Aren't you just a glorified vending machine?"
-msgstr ""
+msgstr "Nejste jenom oslavovaný automat?"
 
 #: conversations/01_groundbreaker/01_cv_foodstandrobot:5
 msgctxt "conversations/01_groundbreaker/01_cv_foodstandrobot:5:DefaultText"
 msgid "Not right now."
-msgstr ""
+msgstr "Teď ne."
 
 #: conversations/01_groundbreaker/01_cv_foodstandrobot:6
 msgctxt "conversations/01_groundbreaker/01_cv_foodstandrobot:6:DefaultText"
 msgid "This unit is programmed to simulate shock at such assertions."
-msgstr ""
+msgstr "Tato jednotka je naprogramována tak, aby při takových tvrzeních simulovala šok."
 
 #: conversations/01_groundbreaker/01_cv_foodstandrobot:7
 msgctxt "conversations/01_groundbreaker/01_cv_foodstandrobot:7:DefaultText"
 msgid "Beginning dispensing sequence. Please unblock all relevant facial protein-ingestion tubes."
-msgstr ""
+msgstr "Počáteční sekvence výdeje. Odblokujte všechny příslušné zkumavky pro vstřebávání bílkovin v obličeji."
 
 #: conversations/01_groundbreaker/01_cv_foodstandrobot:8
 msgctxt "conversations/01_groundbreaker/01_cv_foodstandrobot:8:DefaultText"
 msgid "Let me take a look at that, maybe I can fix it."
-msgstr ""
+msgstr "Podívám se na to, možná to dokážu opravit."
 
 #: conversations/01_groundbreaker/01_cv_foodstandrobot:9
 msgctxt "conversations/01_groundbreaker/01_cv_foodstandrobot:9:DefaultText"
 msgid "Shock simulation restored. Initiating shocked subroutine."
-msgstr ""
+msgstr "Obnovení simulace šoku. Spuštění šokového podprogramu."
 
 #: conversations/01_groundbreaker/01_cv_foodstandrobot:10
 msgctxt "conversations/01_groundbreaker/01_cv_foodstandrobot:10:DefaultText"
 msgid "How. Dare. You."
-msgstr ""
+msgstr "Jak. Dare. You."
 
 #: conversations/01_groundbreaker/01_cv_foodstandrobot:11
 msgctxt "conversations/01_groundbreaker/01_cv_foodstandrobot:11:DefaultText"
 msgid "Shocked subroutine complete. Estimated guilt level of customer increased by 35%. Resuming protein dispensation protocol."
-msgstr ""
+msgstr "Šokovaný podprogram dokončen. Odhadovaná míra viny zákazníka se zvýšila o 35 %. Obnovení protokolu o výdeji bílkovin."
 
 #: conversations/01_groundbreaker/01_cv_foodstandrobot:13
 msgctxt "conversations/01_groundbreaker/01_cv_foodstandrobot:13:DefaultText"
 msgid "All organic ingestion materials are served at an excessive temperature."
-msgstr ""
+msgstr "Veškeré organické požité látky se podávají při nadměrné teplotě."
 
 #: conversations/01_groundbreaker/01_cv_foodstandrobot:14
 msgctxt "conversations/01_groundbreaker/01_cv_foodstandrobot:14:DefaultText"
 msgid "All ingestible proteins are guaranteed \"better than nature.\""
-msgstr ""
+msgstr "Všechny poživatelné bílkoviny jsou zaručeně \"lepší než příroda\"."
 
 #: conversations/01_groundbreaker/01_cv_foodstandrobot:15
 msgctxt "conversations/01_groundbreaker/01_cv_foodstandrobot:15:DefaultText"
 msgid "Meals come with everything seen here. Condiments sold separately. Some assembly of complex \"-wich\" style meals may be required."
-msgstr ""
+msgstr "Jídlo je dodáváno se vším, co je zde uvedeno. Koření se prodává zvlášť. Některé složité pokrmy ve stylu \"-wich\" mohou být nutné sestavit."
 
 #: conversations/01_groundbreaker/01_cv_foodstandrobot:16
 msgctxt "conversations/01_groundbreaker/01_cv_foodstandrobot:16:DefaultText"
 msgid "Some condiments are not for use with some meals. Napkins are not included."
-msgstr ""
+msgstr "Některá koření nejsou určena k použití s některými pokrmy. Ubrousky nejsou součástí dodávky."
 
 #: conversations/01_groundbreaker/01_cv_foodstandrobot:20
 msgctxt "conversations/01_groundbreaker/01_cv_foodstandrobot:20:DefaultText"
 msgid "...Shock simulation non-functional. A trouble ticket has been filed."
-msgstr ""
+msgstr "...simulace nárazu nefunkční. Byl podán hlášení o potížích."
 
 #: conversations/01_groundbreaker/01_cv_foodstandrobot:32
 msgctxt "conversations/01_groundbreaker/01_cv_foodstandrobot:32:DefaultText"
 msgid "SAM unit identified. Initializing digital handshake in 3... 2... 1... Digital handshake complete. "
-msgstr ""
+msgstr "Identifikace jednotky SAM. Inicializace digitálního handshake za 3... 2... 1... Digitální handshake dokončen. "
 
 #: conversations/01_groundbreaker/01_cv_foodstandrobot:33
 msgctxt "conversations/01_groundbreaker/01_cv_foodstandrobot:33:DefaultText"
 msgid "Residual data grease detected following digital handshake. Degreaser initiating."
-msgstr ""
+msgstr "Po digitálním handshake zjištěna zbytková datová mastnota. Inicializace odmašťovače."
 
 #: conversations/01_groundbreaker/01_cv_foodstandrobot:39
 msgctxt "conversations/01_groundbreaker/01_cv_foodstandrobot:39:DefaultText"
 msgid "You know there's a dead body in your kitchen."
-msgstr ""
+msgstr "Víš, že máš v kuchyni mrtvolu."
 
 #: conversations/01_groundbreaker/01_cv_foodstandrobot:40
 msgctxt "conversations/01_groundbreaker/01_cv_foodstandrobot:40:DefaultText"
 msgid "This unit would clarify - there is a dead mechanic in the kitchen. "
-msgstr ""
+msgstr "Tato jednotka by to objasnila - v kuchyni je mrtvý mechanik. "
 
 #: conversations/01_groundbreaker/01_cv_foodstandrobot:41
 msgctxt "conversations/01_groundbreaker/01_cv_foodstandrobot:41:DefaultText"
 msgid "User error in the maintenance of this unit's cutlery engaged several systems at once - the slicer, the grinder, the tenderizer. "
-msgstr ""
+msgstr "Chyba uživatele při údržbě příborů této jednotky zapojila hned několik systémů - kráječ, mlýnek, tenderizér. "
 
 #: conversations/01_groundbreaker/01_cv_foodstandrobot:42
 msgctxt "conversations/01_groundbreaker/01_cv_foodstandrobot:42:DefaultText"
 msgid "That sounds like a pretty nasty bug in your systems."
-msgstr ""
+msgstr "To vypadá na pěkně ošklivou chybu ve vašich systémech."
 
 #: conversations/01_groundbreaker/01_cv_foodstandrobot:43
 msgctxt "conversations/01_groundbreaker/01_cv_foodstandrobot:43:DefaultText"
 msgid "Do you plan on cleaning up back there?"
-msgstr ""
+msgstr "Plánuješ tam vzadu uklízet?"
 
 #: conversations/01_groundbreaker/01_cv_foodstandrobot:44
 msgctxt "conversations/01_groundbreaker/01_cv_foodstandrobot:44:DefaultText"
 msgid "All this morbid talk is making me hungry."
-msgstr ""
+msgstr "Ze všech těch morbidních řečí mám hlad."
 
 #: conversations/01_groundbreaker/01_cv_foodstandrobot:45
 msgctxt "conversations/01_groundbreaker/01_cv_foodstandrobot:45:DefaultText"
 msgid "This unit behaves precisely as it was engineered. Neither this unit nor its corporate proprietor claim any responsibility for the mess. "
-msgstr ""
+msgstr "Tato jednotka se chová přesně tak, jak byla zkonstruována. Tato jednotka ani její firemní vlastník nenesou žádnou odpovědnost za nepořádek. "
 
 #: conversations/01_groundbreaker/01_cv_foodstandrobot:46
 msgctxt "conversations/01_groundbreaker/01_cv_foodstandrobot:46:DefaultText"
 msgid "Bye for now."
-msgstr ""
+msgstr "Zatím se mějte."
 
 #: conversations/01_groundbreaker/01_cv_foodstandrobot:47
 msgctxt "conversations/01_groundbreaker/01_cv_foodstandrobot:47:DefaultText"
 msgid "This unit is not designated for cleaning duties, and cannot be compelled to accept another unit's responsibilities."
-msgstr ""
+msgstr "Tato jednotka není určena pro úklidové práce a nelze ji nutit, aby převzala povinnosti jiné jednotky."
 
 #: conversations/01_groundbreaker/01_cv_foodstandrobot:50
 msgctxt "conversations/01_groundbreaker/01_cv_foodstandrobot:50:DefaultText"
 msgid "Preparing body bag for use."
-msgstr ""
+msgstr "Příprava vaku na tělo k použití."
 
 #: conversations/01_groundbreaker/01_cv_foodstandrobot:51
 msgctxt "conversations/01_groundbreaker/01_cv_foodstandrobot:51:DefaultText"
 msgid "Unit evaluation: Greasy's customer service rating is listed at 24.7 percent which is SUB-OPTIMAL. Non-authorized modifications detected. Caution when engaging with mechanical is advised."
-msgstr ""
+msgstr "Hodnocení jednotky: Hodnocení zákaznického servisu společnosti Greasy je 24,7 %, což je PODPŮSOBIVÉ. Zjištěny neautorizované úpravy. Doporučuje se opatrnost při zapojování mechanických."
 
 #: conversations/01_groundbreaker/01_cv_foodstandrobot:52
 msgctxt "conversations/01_groundbreaker/01_cv_foodstandrobot:52:DefaultText"
 msgid "AHHHHHHHHHHHHHH!!!!!!!!!!"
-msgstr ""
+msgstr "AHHHHHHHHHHHHHHHHHH!!!!!!!!!!"
 
 #: conversations/01_groundbreaker/01_cv_foodstandrobot:53
 msgctxt "conversations/01_groundbreaker/01_cv_foodstandrobot:53:DefaultText"
 msgid "Adjusting unit's audio receiver input levels for more suitable engagement with customer."
-msgstr ""
+msgstr "Úprava vstupních úrovní zvukového přijímače jednotky pro vhodnější zapojení se zákazníkem."

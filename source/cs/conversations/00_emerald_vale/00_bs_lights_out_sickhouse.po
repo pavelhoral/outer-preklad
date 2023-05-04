@@ -1,24 +1,24 @@
 #: conversations/00_emerald_vale/00_bs_lights_out_sickhouse:2
 msgctxt "conversations/00_emerald_vale/00_bs_lights_out_sickhouse:2:DefaultText"
 msgid "Why are all the lights off?"
-msgstr ""
+msgstr "Proč jsou všechna světla zhasnutá?"
 
 #: conversations/00_emerald_vale/00_bs_lights_out_sickhouse:3
 msgctxt "conversations/00_emerald_vale/00_bs_lights_out_sickhouse:3:DefaultText"
 msgid "The power's out in the whole town. Pipe down."
-msgstr ""
+msgstr "V celém městě vypadl proud. Odpojte potrubí."
 
 #: conversations/00_emerald_vale/00_bs_lights_out_sickhouse:4
 msgctxt "conversations/00_emerald_vale/00_bs_lights_out_sickhouse:4:DefaultText"
 msgid "Please, open the door."
-msgstr ""
+msgstr "Otevřete dveře, prosím."
 
 #: conversations/00_emerald_vale/00_bs_lights_out_sickhouse:5
 msgctxt "conversations/00_emerald_vale/00_bs_lights_out_sickhouse:5:DefaultText"
 msgid "Not a chance. The last thing we need is for everyone to get sick at a time like this."
-msgstr ""
+msgstr "Ani náhodou. To poslední, co potřebujeme, je, aby v takovou dobu všichni onemocněli."
 
 #: conversations/00_emerald_vale/00_bs_lights_out_sickhouse:6
 msgctxt "conversations/00_emerald_vale/00_bs_lights_out_sickhouse:6:DefaultText"
 msgid "Hello, are you still there?"
-msgstr ""
+msgstr "Dobrý den, jste tam ještě?"

@@ -3,12 +3,12 @@ msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal:3:Defa
 msgid "UDL-002 THE HOPE\r\n"
 "===========================\r\n"
 "Warning: Unauthorized access will result in immediate termination upon your arrival in Halcyon."
-msgstr ""
+msgstr "UDL-002 THE HOPE =========================== Varování: Neoprávněný přístup bude mít za následek okamžité ukončení přístupu po vašem příchodu do Halcyonu."
 
 #: conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal:6
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal:6:DefaultText"
 msgid "[Automated Audio Transcript #R-114]"
-msgstr ""
+msgstr "[Automatizovaný zvukový přepis #R-114]"
 
 #: conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal:12
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal:12:DefaultText"
@@ -22,24 +22,24 @@ msgid "NOLDA, F: You gotta help me, Alexei. I'm gonna go mental.\r\n"
 "VOLKOV, A: Get back to your post. You're wasting my time.\r\n"
 "NOLDA, F: Come on! There's gotta be something you can prescribe.\r\n"
 "VOLKOV, A: You'll get used to it or you'll starve. Up to you."
-msgstr ""
+msgstr "NOLDA, F: Musíš mi pomoct, Alexeji. Já se z toho zblázním. VOLKOV, A: V čem je problém? NOLDA, F: V jídle. VOLKOV, A: Naše příděly? Máš problémy s trávením? NOLDA, F: Ne, ne! Já jen... Nesnáším kančí, doktore! Nesnáším ho! Nemůžu to jíst dalších deset let! VOLKOV, A: Myslel jsem, že máš skutečný zdravotní problém, Franku. NOLDA, F: Mám! Je to nechutné! VOLKOV, A: Vrať se na své místo. Ztrácíš můj čas. NOLDA, F: No tak! Musí existovat něco, co bys mi mohl předepsat. VOLKOV, A: Buď si zvykneš, nebo umřeš hlady. Záleží na tobě."
 
 #: conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal:17
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal:17:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"
 
 #: conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal:18
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal:18:DefaultText"
 msgid "CREW TERMINAL\r\n"
 "===========================\r\n"
 "Error accessing archives. Available entries:"
-msgstr ""
+msgstr "CREW TERMINAL =========================== Chyba při přístupu k archivům. Dostupné záznamy:"
 
 #: conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal:19
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal:19:DefaultText"
 msgid "[Message Exchange #T-778]"
-msgstr ""
+msgstr "[Výměna zpráv #T-778]"
 
 #: conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal:20
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal:20:DefaultText"
@@ -51,9 +51,9 @@ msgid "HUNTE, D: Darling. I've just had a frightening epiphany.\r\n"
 "HUNTE, D: I feel as though time is being stolen from me.\r\n"
 "HUNTE, W: He'll work on the ship when he graduates. We'll see him again.\r\n"
 "HUNTE, D: I hope so, Will."
-msgstr ""
+msgstr "HUNTE, D: Miláčku. Právě jsem měl děsivé prozření. HUNTE, W: Co se děje? HUNTE, D: Právě jsem si uvědomil, že až dorazíme do Halcyonu, bude nám skoro padesát. HUNTE, W: Ano. HUNTE, D: Ale našemu Lukasovi - až ho vzbudí, bude mu pořád šest. Než skončí školní docházku, bude nám skoro šedesát! HUNTE, D: Mám pocit, jako by mi byl ukraden čas. HUNTE, W: Až dokončí školu, bude pracovat na lodi. Ještě ho uvidíme. HUNTE, D: To doufám, Wille."
 
 #: conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal:21
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal:21:DefaultText"
 msgid "[Continue]"
-msgstr ""
+msgstr "[Pokračovat]"

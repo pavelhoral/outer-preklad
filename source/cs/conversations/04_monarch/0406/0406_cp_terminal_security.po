@@ -6,17 +6,17 @@ msgid "Devil's Peak Station\r\n"
 "SECURITY STATUS: Running diagnostics...\r\n"
 "\r\n"
 "Atmospheric controls are online. Issue detected with the automechanical controls. Alerting HQ."
-msgstr ""
+msgstr "Stanice Devil's Peak ======================== STAV BEZPEČNOSTI: Probíhá diagnostika... Atmosférické kontroly jsou v provozu. Zjištěn problém s automechanickým ovládáním. Upozorňuji velitelství."
 
 #: conversations/04_monarch/0406/0406_cp_terminal_security:3
 msgctxt "conversations/04_monarch/0406/0406_cp_terminal_security:3:DefaultText"
 msgid "[Atmospheric Controls]"
-msgstr ""
+msgstr "[Atmosférické řízení]"
 
 #: conversations/04_monarch/0406/0406_cp_terminal_security:5
 msgctxt "conversations/04_monarch/0406/0406_cp_terminal_security:5:DefaultText"
 msgid "[Deploy Fire Suppressant Systems in Main Hall]"
-msgstr ""
+msgstr "[Nasazení protipožárních systémů v hlavní hale]"
 
 #: conversations/04_monarch/0406/0406_cp_terminal_security:6
 msgctxt "conversations/04_monarch/0406/0406_cp_terminal_security:6:DefaultText"
@@ -26,12 +26,12 @@ msgid "Devil's Peak Station\r\n"
 "WARNING: The Fire Suppressant System will remove all oxygen from the chamber. Please ensure that all personnel have been safely evacuated prior to initiating the safety protocol. \r\n"
 "\r\n"
 "Proceed - Y/N?"
-msgstr ""
+msgstr "Stanice Devil's Peak ======================== VAROVÁNÍ: Požární systém odstraní z komory veškerý kyslík. Před spuštěním bezpečnostního protokolu se ujistěte, že všichni pracovníci byli bezpečně evakuováni. Pokračovat - ano/ne?"
 
 #: conversations/04_monarch/0406/0406_cp_terminal_security:7
 msgctxt "conversations/04_monarch/0406/0406_cp_terminal_security:7:DefaultText"
 msgid "[Yes]"
-msgstr ""
+msgstr "[Ano]"
 
 #: conversations/04_monarch/0406/0406_cp_terminal_security:8
 msgctxt "conversations/04_monarch/0406/0406_cp_terminal_security:8:DefaultText"
@@ -43,12 +43,12 @@ msgid "Devil's Peak Station\r\n"
 "Engaging chamber locks for user safety...\r\n"
 "\r\n"
 "Siphoning all oxygen from the chamber..."
-msgstr ""
+msgstr "Stanice Devil's Peak ======================== Aktivace protipožárního systému... Zapnutí zámků komory pro bezpečnost uživatele... Odčerpání veškerého kyslíku z komory..."
 
 #: conversations/04_monarch/0406/0406_cp_terminal_security:9
 msgctxt "conversations/04_monarch/0406/0406_cp_terminal_security:9:DefaultText"
 msgid "[Automechanical Controls]"
-msgstr ""
+msgstr "[Automechanické ovládání]"
 
 #: conversations/04_monarch/0406/0406_cp_terminal_security:10
 msgctxt "conversations/04_monarch/0406/0406_cp_terminal_security:10:DefaultText"
@@ -59,12 +59,12 @@ msgid "Devil's Peak Station\r\n"
 "\r\n"
 "Time submitted: >5.256e+6 minutes ago\r\n"
 "Status: awaiting an official response from Byzantium HQ"
-msgstr ""
+msgstr "Devil'Peak Station ======================== ŽÁDOST O INSTALACI AUTOMECHANICKÉHO ZABEZPEČENÍ A ASISTENCE Čas odeslání: před >5.256e+6 minutami Stav: čekáme na oficiální odpověď z centrály Byzantia."
 
 #: conversations/04_monarch/0406/0406_cp_terminal_security:12
 msgctxt "conversations/04_monarch/0406/0406_cp_terminal_security:12:DefaultText"
 msgid "[Return to Root]"
-msgstr ""
+msgstr "[Zpět na kořen]"
 
 #: conversations/04_monarch/0406/0406_cp_terminal_security:13
 msgctxt "conversations/04_monarch/0406/0406_cp_terminal_security:13:DefaultText"
@@ -72,22 +72,22 @@ msgid "Devil's Peak Station\r\n"
 "========================\r\n"
 "\r\n"
 "ENVIRONMENTAL SENSORS STATUS: All sensors currently indicate a standard level range regarding temperature and chemical composition through the station."
-msgstr ""
+msgstr "Stanice Devil's Peak ======================== ENVIRONMENTÁLNÍ SENZORY STAV: Všechny senzory v současné době vykazují standardní rozsah teplot a chemického složení v celé stanici."
 
 #: conversations/04_monarch/0406/0406_cp_terminal_security:14
 msgctxt "conversations/04_monarch/0406/0406_cp_terminal_security:14:DefaultText"
 msgid "[No]"
-msgstr ""
+msgstr "[Ne]"
 
 #: conversations/04_monarch/0406/0406_cp_terminal_security:15
 msgctxt "conversations/04_monarch/0406/0406_cp_terminal_security:15:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"
 
 #: conversations/04_monarch/0406/0406_cp_terminal_security:18
 msgctxt "conversations/04_monarch/0406/0406_cp_terminal_security:18:DefaultText"
 msgid "[Activate Station Fire Alarm]"
-msgstr ""
+msgstr "[Aktivace požárního poplachu na stanici]"
 
 #: conversations/04_monarch/0406/0406_cp_terminal_security:19
 msgctxt "conversations/04_monarch/0406/0406_cp_terminal_security:19:DefaultText"
@@ -99,17 +99,17 @@ msgid "Devil's Peak Station\r\n"
 "WARNING: Prolonged exposure to emergency alarms can lead to disorientation and ruptured eardrums.\r\n"
 "\r\n"
 "Proceed - Y/N?"
-msgstr ""
+msgstr "Devil's Peak Station ======================= POZNÁMKA: Ztrátu produktivity pracovníků je třeba porovnat s přínosy testování bezpečnostního systému Environmental Controls. Nadměrná aktivace nouzových poplachů systému vyvolá automatickou kontrolu správce. VAROVÁNÍ: Dlouhodobé působení nouzových poplachů může vést k dezorientaci a protržení ušních bubínků. Pokračovat - ANO/NE?"
 
 #: conversations/04_monarch/0406/0406_cp_terminal_security:23
 msgctxt "conversations/04_monarch/0406/0406_cp_terminal_security:23:DefaultText"
 msgid "[Yes]"
-msgstr ""
+msgstr "[Ano]"
 
 #: conversations/04_monarch/0406/0406_cp_terminal_security:24
 msgctxt "conversations/04_monarch/0406/0406_cp_terminal_security:24:DefaultText"
 msgid "[No]"
-msgstr ""
+msgstr "[Ne]"
 
 #: conversations/04_monarch/0406/0406_cp_terminal_security:25
 msgctxt "conversations/04_monarch/0406/0406_cp_terminal_security:25:DefaultText"
@@ -119,4 +119,4 @@ msgid "Devil's Peak Station\r\n"
 "Activating emergency alarms...\r\n"
 "\r\n"
 "Engaging chamber locks for user safety..."
-msgstr ""
+msgstr "Devil's Peak Station ======================== Aktivace nouzového alarmu... Zapnutí zámků komor pro bezpečnost uživatelů..."

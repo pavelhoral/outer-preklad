@@ -9,7 +9,7 @@ msgid "Cascadia Refueling Terminal\r\n"
 "\n"
 "Landing Pad... OCCUPIED: TRAMP FREIGHTER \"UNRELIABLE\"\n"
 "Fuel Pumps... ALIGNED"
-msgstr ""
+msgstr "Cascadia Refueling Terminal ======================= REFUELING SYSTEM ENABLED Spojení navázáno se severní přistávací plochou. Probíhá diagnostika... Přistávací plocha... OCCUPIED: TRAMP FREIGHTER \"UNRELIABLE\" Palivová čerpadla... ZAŘAZENO"
 
 #: conversations/04_monarch/0404/0404_cp_cascadia_refueling_terminal:5
 msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_refueling_terminal:5:DefaultText"
@@ -22,7 +22,7 @@ msgid "Cascadia Refueling Terminal\r\n"
 "\n"
 "Landing Pad... OCCUPIED: TRAMP FREIGHTER \"UNRELIABLE\"\n"
 "Fuel Pumps... DISCONNECTED"
-msgstr ""
+msgstr "Cascadia Refueling Terminal ======================= REFUELING SYSTEM ENABLED Spojení navázáno se severní přistávací plochou. Probíhá diagnostika.... Přistávací plocha... OCCUPIED: TRAMP FREIGHTER \"UNRELIABLE\" Palivová čerpadla... VYPNUTO"
 
 #: conversations/04_monarch/0404/0404_cp_cascadia_refueling_terminal:6
 msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_refueling_terminal:6:DefaultText"
@@ -35,7 +35,7 @@ msgid "Cascadia Refueling Terminal\r\n"
 "\r\n"
 "Landing Pad... EMPTY\r\n"
 "Fuel Pumps... DISCONNECTED"
-msgstr ""
+msgstr "Cascadia Refueling Terminal ======================= REFUELING SYSTEM LOCKED Spojení navázáno se severní přistávací plochou. Probíhá diagnostika... Přistávací plocha... PRÁZDNÁ palivová čerpadla... VYPNUTO"
 
 #: conversations/04_monarch/0404/0404_cp_cascadia_refueling_terminal:7
 msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_refueling_terminal:7:DefaultText"
@@ -45,22 +45,22 @@ msgid "Cascadia Refueling Terminal\r\n"
 "Aligning fuel pumps, please stand by...\r\n"
 "...\r\n"
 "Fuel pumps aligned. Connect storage tanks and initiate siphon to transfer fuel."
-msgstr ""
+msgstr "Cascadia Refueling Terminal ======================= Seřizování palivových čerpadel, vyčkejte prosím... ... Seřízení palivových čerpadel. Připojte skladovací nádrže a spusťte sifon pro přečerpání paliva."
 
 #: conversations/04_monarch/0404/0404_cp_cascadia_refueling_terminal:8
 msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_refueling_terminal:8:DefaultText"
 msgid "[Initiate transfer of Alta-Vitae gas]"
-msgstr ""
+msgstr "[Zahájit přenos plynu Alta-Vitae]"
 
 #: conversations/04_monarch/0404/0404_cp_cascadia_refueling_terminal:9
 msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_refueling_terminal:9:DefaultText"
 msgid "[Align Fueling System]"
-msgstr ""
+msgstr "[Vyrovnat palivový systém]"
 
 #: conversations/04_monarch/0404/0404_cp_cascadia_refueling_terminal:10
 msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_refueling_terminal:10:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"
 
 #: conversations/04_monarch/0404/0404_cp_cascadia_refueling_terminal:11
 msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_refueling_terminal:11:DefaultText"
@@ -68,7 +68,7 @@ msgid "Cascadia Refueling Terminal\r\n"
 "=======================\r\n"
 "\r\n"
 "ERROR. This terminal does not have Administrator permissions required to transfer Alta-Vitae gas. Access is restricted to the Executive Research Focus Group terminal located in R&D labs. "
-msgstr ""
+msgstr "Palivový terminál Cascadia ======================= ERROR. Tento terminál nemá oprávnění správce potřebná k přenosu plynu Alta-Vitae. Přístup je omezen na terminál Executive Research Focus Group umístěný v laboratořích výzkumu a vývoje. "
 
 #: conversations/04_monarch/0404/0404_cp_cascadia_refueling_terminal:12
 msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_refueling_terminal:12:DefaultText"
@@ -80,12 +80,12 @@ msgid "Cascadia Refueling Terminal\r\n"
 "Logs archived by user: Chartrand, E.\r\n"
 "\r\n"
 "Select the archive you wish to view:"
-msgstr ""
+msgstr "Cascadia Refueling Terminal ======================= Log Archives -------------------- Logy archivované uživatelem: Vyberte archiv, který chcete zobrazit:"
 
 #: conversations/04_monarch/0404/0404_cp_cascadia_refueling_terminal:13
 msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_refueling_terminal:13:DefaultText"
 msgid "[Archived Log - Animal trials]"
-msgstr ""
+msgstr "[Archivní záznam - Zkoušky zvířat]"
 
 #: conversations/04_monarch/0404/0404_cp_cascadia_refueling_terminal:14
 msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_refueling_terminal:14:DefaultText"
@@ -99,12 +99,12 @@ msgid "Cascadia Refueling Terminal\r\n"
 "With approval from C&P, I've made arrangements to peruse the boarst factory near Fallbrook. Cystypigs mature reasonably swiftly. I feel this is the best option available to us.\r\n"
 "\r\n"
 "I've done great things with cystypig engineering in the past. Of course, my current project is far more difficult than merely enhancing the baconated flavoring of cystypig tumors. Let's see if I can make lightning strike twice, this time on alternate tissues. "
-msgstr ""
+msgstr "Cascadia Refueling Terminal ======================= Log Archives -------------------- Tom byl skeptický k tomu, že by pokusy na zvířatech přinesly dobrá data, ale chtěl jsem začít v malém. Kéž by někoho napadlo přibalit ze Země chovnou zásobu ovocných mušek. Odepsat je jako pouhé škůdce už nejednou omezilo naše výzkumné úsilí. Se souhlasem C&P jsem se domluvil, že prozkoumám továrnu na kance poblíž Fallbrooku. Cystypigové dospívají poměrně rychle. Mám pocit, že je to nejlepší možnost, kterou máme k dispozici. V minulosti jsem s cystypigy udělal velké věci. Můj současný projekt je samozřejmě mnohem složitější než pouhé vylepšení slaninové příchuti cystypigových nádorů. Uvidíme, jestli se mi podaří, aby blesk udeřil dvakrát, tentokrát do střídavých tkání. "
 
 #: conversations/04_monarch/0404/0404_cp_cascadia_refueling_terminal:15
 msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_refueling_terminal:15:DefaultText"
 msgid "[Archived Log - Moving to Cascadia]"
-msgstr ""
+msgstr "[Archivovaný deník - Stěhování do Kaskády]"
 
 #: conversations/04_monarch/0404/0404_cp_cascadia_refueling_terminal:16
 msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_refueling_terminal:16:DefaultText"
@@ -118,14 +118,14 @@ msgid "Cascadia Refueling Terminal\r\n"
 "There is some good news. We'll be heading to a town called Cascadia. Apparently Rizzo volunteered to provide lab space. We could use a change of scene. I'll ask the movers to handle this terminal with care.\n"
 "\n"
 "I'm starting to have doubts that animal testing will yield us the results we seek, but succumbing to pessimism helps no one. "
-msgstr ""
+msgstr "Cascadia Refueling Terminal ======================= Archivy protokolů -------------------- Rada opakovaně odmítla mé žádosti o poskytnutí údajů od ostatních týmů, které problém vyšetřují. Předpokládám, že jejich úsilí nepokročilo dál než naše. Je tu ale několik dobrých zpráv. Zamíříme do města jménem Cascadia. Rizzo se zřejmě dobrovolně nabídl, že poskytne prostory pro laboratoř. Hodila by se nám změna prostředí. Požádám stěhováky, aby s tím terminálem zacházeli opatrně. Začínám pochybovat, že nám testování na zvířatech přinese výsledky, které hledáme, ale podléhat pesimismu nikomu nepomůže. "
 
 #: conversations/04_monarch/0404/0404_cp_cascadia_refueling_terminal:17
 msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_refueling_terminal:17:DefaultText"
 msgid "[Logs]"
-msgstr ""
+msgstr "[Deníky]"
 
 #: conversations/04_monarch/0404/0404_cp_cascadia_refueling_terminal:18
 msgctxt "conversations/04_monarch/0404/0404_cp_cascadia_refueling_terminal:18:DefaultText"
 msgid "[Return to Root]"
-msgstr ""
+msgstr "[Zpět na kořen]"

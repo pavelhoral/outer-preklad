@@ -1,24 +1,24 @@
 #: conversations/00_emerald_vale/00_bs_parvati:1
 msgctxt "conversations/00_emerald_vale/00_bs_parvati:1:DefaultText"
 msgid "Doesn't sound right. Too much clank, not enough clink."
-msgstr ""
+msgstr "To nezní dobře. Příliš mnoho cinkání, málo cinkání."
 
 #: conversations/00_emerald_vale/00_bs_parvati:5
 msgctxt "conversations/00_emerald_vale/00_bs_parvati:5:DefaultText"
 msgid "Listen, Clancy, if you get busted again in a week, Mr. Reed'll make that face."
-msgstr ""
+msgstr "Poslyš, Clancy, jestli tě za týden zase zatknou, pan Reed se bude tvářit takhle."
 
 #: conversations/00_emerald_vale/00_bs_parvati:8
 msgctxt "conversations/00_emerald_vale/00_bs_parvati:8:DefaultText"
 msgid "If people look at me funny, that's just 'cause they don't hear you like I do."
-msgstr ""
+msgstr "Pokud se na mě lidé dívají divně, je to jen proto, že tě neslyší tak jako já."
 
 #: conversations/00_emerald_vale/00_bs_parvati:14
 msgctxt "conversations/00_emerald_vale/00_bs_parvati:14:DefaultText"
 msgid "Hey, mister? Can we talk? Sorry."
-msgstr ""
+msgstr "Hej, pane? Můžeme si promluvit? Promiňte."
 
 #: conversations/00_emerald_vale/00_bs_parvati:14
 msgctxt "conversations/00_emerald_vale/00_bs_parvati:14:FemaleText"
 msgid "Hey, ma'am? Can we talk? Sorry."
-msgstr ""
+msgstr "Hej, madam? Můžeme si promluvit? Promiňte."

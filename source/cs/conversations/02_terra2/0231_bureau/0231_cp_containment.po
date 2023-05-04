@@ -5,12 +5,14 @@ msgid "Ministry of Accuracy and Morale\n"
 "Welcome to the Subject Containment Facility! \n"
 "\n"
 "For the protection of Ministry property, including Ministry personnel, dangerous subjects must be properly restrained."
-msgstr ""
+msgstr "Ministerstvo přesnosti a morálky ======================== Vítejte v zařízení pro zadržování subjektů! \n"
+"\n"
+"V zájmu ochrany majetku ministerstva, včetně personálu ministerstva, musí být nebezpečné subjekty řádně znehybněny."
 
 #: conversations/02_terra2/0231_bureau/0231_cp_containment:2
 msgctxt "conversations/02_terra2/0231_bureau/0231_cp_containment:2:DefaultText"
 msgid "[Containment Log]"
-msgstr ""
+msgstr "[Záznam o zadržení]"
 
 #: conversations/02_terra2/0231_bureau/0231_cp_containment:3
 msgctxt "conversations/02_terra2/0231_bureau/0231_cp_containment:3:DefaultText"
@@ -21,21 +23,21 @@ msgid "Containment Notes\r\n"
 "We tested revivifying formula #132 on them (the one with high concentrations of Adrena-Time), and they began exhibiting hyperaggression.\r\n"
 "\r\n"
 "Whatever you do, do NOT open the cells."
-msgstr ""
+msgstr "Poznámky k zadržení ======================== Bezpečnostní služba UDL sebrala subjekty z různých míst v okolí Halcyonu. Žádný z nich nevykazoval žádné abnormality v chování ani vražedné sklony. Vyzkoušeli jsme na nich oživovací vzorec č. 132 (ten s vysokou koncentrací Adrena-Time) a začali projevovat hyperagresi. Ať už uděláte cokoli, NEOTVÍREJTE buňky."
 
 #: conversations/02_terra2/0231_bureau/0231_cp_containment:4
 msgctxt "conversations/02_terra2/0231_bureau/0231_cp_containment:4:DefaultText"
 msgid "[Open Containment Cells]"
-msgstr ""
+msgstr "[Otevřené kontejnmentové buňky]"
 
 #: conversations/02_terra2/0231_bureau/0231_cp_containment:5
 msgctxt "conversations/02_terra2/0231_bureau/0231_cp_containment:5:DefaultText"
 msgid "Disengaging locks...\r\n"
 "\r\n"
 "Cells opened."
-msgstr ""
+msgstr "Odpojení zámků... Buňky otevřeny."
 
 #: conversations/02_terra2/0231_bureau/0231_cp_containment:8
 msgctxt "conversations/02_terra2/0231_bureau/0231_cp_containment:8:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"

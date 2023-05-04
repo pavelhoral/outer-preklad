@@ -1,249 +1,249 @@
 #: game/vendors:0
 msgctxt "game/vendors:0:DefaultText"
 msgid "[TEST] Pop's Mop Shop"
-msgstr ""
+msgstr "[TEST] Pop's Mop Shop"
 
 #: game/vendors:1
 msgctxt "game/vendors:1:DefaultText"
 msgid "Auntie Cleo's Auto-Vend"
-msgstr ""
+msgstr "Automatická prodejna tety Cleo"
 
 #: game/vendors:2
 msgctxt "game/vendors:2:DefaultText"
 msgid "(SYSTEM ERROR) Auto-Vend"
-msgstr ""
+msgstr "(CHYBA SYSTÉMU) Automatický prodej"
 
 #: game/vendors:3
 msgctxt "game/vendors:3:DefaultText"
 msgid "Terra-fried Spratwurst, by Spacer's Choice!"
-msgstr ""
+msgstr "Terra-fried Spratwurst, podle Spacer's Choice!"
 
 #: game/vendors:4
 msgctxt "game/vendors:4:DefaultText"
 msgid "Drunky's Ethanol Emporium"
-msgstr ""
+msgstr "Drunky's Ethanol Emporium"
 
 #: game/vendors:5
 msgctxt "game/vendors:5:DefaultText"
 msgid "The Lost Hope Bar"
-msgstr ""
+msgstr "Bar Ztracená naděje"
 
 #: game/vendors:6
 msgctxt "game/vendors:6:DefaultText"
 msgid "C&P's Deep Fried Cystybits"
-msgstr ""
+msgstr "Smažené cystybity společnosti C&P"
 
 #: game/vendors:7
 msgctxt "game/vendors:7:DefaultText"
 msgid "Rizzo Candy Kiosk"
-msgstr ""
+msgstr "Kiosek s cukrovinkami Rizzo"
 
 #: game/vendors:8
 msgctxt "game/vendors:8:DefaultText"
 msgid "Ike's Armory"
-msgstr ""
+msgstr "Ikova zbrojnice"
 
 #: game/vendors:9
 msgctxt "game/vendors:9:DefaultText"
 msgid "Belle's Shells"
-msgstr ""
+msgstr "Mušle Belle's"
 
 #: game/vendors:10
 msgctxt "game/vendors:10:DefaultText"
 msgid "Spacer's Choice"
-msgstr ""
+msgstr "Volba rozdělovače"
 
 #: game/vendors:11
 msgctxt "game/vendors:11:DefaultText"
 msgid "Auntie's Kitchen"
-msgstr ""
+msgstr "Kuchyně tety"
 
 #: game/vendors:12
 msgctxt "game/vendors:12:DefaultText"
 msgid "Gladys Culkelly"
-msgstr ""
+msgstr "Gladys Culkelly"
 
 #: game/vendors:13
 msgctxt "game/vendors:13:DefaultText"
 msgid "Zeng's Emporium"
-msgstr ""
+msgstr "Zeng's Emporium"
 
 #: game/vendors:14
 msgctxt "game/vendors:14:DefaultText"
 msgid "Sebastian Adam's Wildlife Emporium"
-msgstr ""
+msgstr "Sebastian Adam's Wildlife Emporium"
 
 #: game/vendors:15
 msgctxt "game/vendors:15:DefaultText"
 msgid "The Yacht Club"
-msgstr ""
+msgstr "Yacht Club"
 
 #: game/vendors:16
 msgctxt "game/vendors:16:DefaultText"
 msgid "Emerald Vale General Store"
-msgstr ""
+msgstr "Všeobecný obchod Emerald Vale"
 
 #: game/vendors:17
 msgctxt "game/vendors:17:DefaultText"
 msgid "Spacer's Choice Cantina"
-msgstr ""
+msgstr "Spacer's Choice Cantina"
 
 #: game/vendors:18
 msgctxt "game/vendors:18:DefaultText"
 msgid "Iconoclast Quartermaster"
-msgstr ""
+msgstr "Iconoclast Quartermaster"
 
 #: game/vendors:19
 msgctxt "game/vendors:19:DefaultText"
 msgid "C&P's Fundable Edibles"
-msgstr ""
+msgstr "Fundované potraviny společnosti C&P"
 
 #: game/vendors:20
 msgctxt "game/vendors:20:DefaultText"
 msgid "(SYSTEM ERROR) Fundable Edibles"
-msgstr ""
+msgstr "(CHYBA SYSTÉMU) Financovatelné potraviny"
 
 #: game/vendors:21
 msgctxt "game/vendors:21:DefaultText"
 msgid "Rizzo's Self-Serve Snack System"
-msgstr ""
+msgstr "Systém samoobslužného občerstvení Rizzo's"
 
 #: game/vendors:22
 msgctxt "game/vendors:22:DefaultText"
 msgid "(SYSTEM ERROR) Self-Serve Snack System"
-msgstr ""
+msgstr "(CHYBA SYSTÉMU) Systém samoobslužného občerstvení"
 
 #: game/vendors:23
 msgctxt "game/vendors:23:DefaultText"
 msgid "Saltuna of the Deep Merchant Machine"
-msgstr ""
+msgstr "Saltuna of the Deep Merchant Machine"
 
 #: game/vendors:24
 msgctxt "game/vendors:24:DefaultText"
 msgid "(SYSTEM ERROR) Merchant Machine"
-msgstr ""
+msgstr "(CHYBA SYSTÉMU) Obchodní stroj"
 
 #: game/vendors:25
 msgctxt "game/vendors:25:DefaultText"
 msgid "Spacer's Choice Insta-Merch"
-msgstr ""
+msgstr "Spacer's Choice Insta-Merch"
 
 #: game/vendors:26
 msgctxt "game/vendors:26:DefaultText"
 msgid "(SYSTEM ERROR) Insta-Merch"
-msgstr ""
+msgstr "(CHYBA SYSTÉMU) Insta-Merch"
 
 #: game/vendors:27
 msgctxt "game/vendors:27:DefaultText"
 msgid "T&L's Exotic Assets"
-msgstr ""
+msgstr "Exotická aktiva společnosti T&L"
 
 #: game/vendors:28
 msgctxt "game/vendors:28:DefaultText"
 msgid "(SYSTEM ERROR) Exotic Assets"
-msgstr ""
+msgstr "(CHYBA SYSTÉMU) Exotická aktiva"
 
 #: game/vendors:29
 msgctxt "game/vendors:29:DefaultText"
 msgid "Bullets 'n Things"
-msgstr ""
+msgstr "Bullets 'n Things"
 
 #: game/vendors:30
 msgctxt "game/vendors:30:DefaultText"
 msgid "(SYSTEM ERROR) Bullets 'n Things"
-msgstr ""
+msgstr "(CHYBA SYSTÉMU) Bullets 'n Things"
 
 #: game/vendors:31
 msgctxt "game/vendors:31:DefaultText"
 msgid "Duncan's Wholesome Dry Goods"
-msgstr ""
+msgstr "Duncan's Wholesome Dry Goods"
 
 #: game/vendors:32
 msgctxt "game/vendors:32:DefaultText"
 msgid "Guns! Guns! Guns! And Ammo"
-msgstr ""
+msgstr "Zbraně! Zbraně! Zbraně! A munice"
 
 #: game/vendors:33
 msgctxt "game/vendors:33:DefaultText"
 msgid "Ante Up"
-msgstr ""
+msgstr "Předplaťte si"
 
 #: game/vendors:34
 msgctxt "game/vendors:34:DefaultText"
 msgid "The Tipsy Sprat"
-msgstr ""
+msgstr "Šprot s nápojem"
 
 #: game/vendors:35
 msgctxt "game/vendors:35:DefaultText"
 msgid "Billingsly's House of Inebriation"
-msgstr ""
+msgstr "Billingslyho dům opilosti"
 
 #: game/vendors:36
 msgctxt "game/vendors:36:DefaultText"
 msgid "Jolicoeur's Haberdashery"
-msgstr ""
+msgstr "Galanterie Jolicoeur's"
 
 #: game/vendors:37
 msgctxt "game/vendors:37:DefaultText"
 msgid "The Lost Hope Bar"
-msgstr ""
+msgstr "Bar Ztracená naděje"
 
 #: game/vendors:38
 msgctxt "game/vendors:38:DefaultText"
 msgid "Groundbreaker Medical Bay"
-msgstr ""
+msgstr "Groundbreaker Medical Bay"
 
 #: game/vendors:39
 msgctxt "game/vendors:39:DefaultText"
 msgid "Forsythe Luxury Munitions"
-msgstr ""
+msgstr "Luxusní munice Forsythe"
 
 #: game/vendors:40
 msgctxt "game/vendors:40:DefaultText"
 msgid "Percival's Curated Selections"
-msgstr ""
+msgstr "Percivalovy kurátorské výběry"
 
 #: game/vendors:41
 msgctxt "game/vendors:41:DefaultText"
 msgid "Candy Rush Outlet"
-msgstr ""
+msgstr "Candy Rush Outlet"
 
 #: game/vendors:42
 msgctxt "game/vendors:42:DefaultText"
 msgid "The Soda Jerk"
-msgstr ""
+msgstr "Soda Jerk"
 
 #: game/vendors:43
 msgctxt "game/vendors:43:DefaultText"
 msgid "Auntie Cleo's 17th Bar"
-msgstr ""
+msgstr "17. bar Auntie Cleo's"
 
 #: game/vendors:44
 msgctxt "game/vendors:44:DefaultText"
 msgid "Stefan's Bartering Post"
-msgstr ""
+msgstr "Stefan's Bartering Post"
 
 #: game/vendors:45
 msgctxt "game/vendors:45:DefaultText"
 msgid "Window Shades"
-msgstr ""
+msgstr "Stínění oken"
 
 #: game/vendors:46
 msgctxt "game/vendors:46:DefaultText"
 msgid "Where There's Smoke Shop"
-msgstr ""
+msgstr "Kde se kouří"
 
 #: game/vendors:47
 msgctxt "game/vendors:47:DefaultText"
 msgid "Elroy's Salvage and Supply"
-msgstr ""
+msgstr "Elroy's Salvage and Supply"
 
 #: game/vendors:48
 msgctxt "game/vendors:48:DefaultText"
 msgid "Iconoclast Outfitter"
-msgstr ""
+msgstr "Iconoclast Outfitter"
 
 #: game/vendors:49
 msgctxt "game/vendors:49:DefaultText"
 msgid "Stellar Supplies"
-msgstr ""
+msgstr "Hvězdné dodávky"

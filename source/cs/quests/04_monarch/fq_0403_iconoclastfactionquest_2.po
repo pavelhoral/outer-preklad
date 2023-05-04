@@ -1,74 +1,74 @@
 #: quests/04_monarch/fq_0403_iconoclastfactionquest_2:0
 msgctxt "quests/04_monarch/fq_0403_iconoclastfactionquest_2:0:DefaultText"
 msgid "Pay for the Printer"
-msgstr ""
+msgstr "Platba za tiskárnu"
 
 #: quests/04_monarch/fq_0403_iconoclastfactionquest_2:4
 msgctxt "quests/04_monarch/fq_0403_iconoclastfactionquest_2:4:DefaultText"
 msgid "Return to Graham"
-msgstr ""
+msgstr "Zpět na Graham"
 
 #: quests/04_monarch/fq_0403_iconoclastfactionquest_2:5
 msgctxt "quests/04_monarch/fq_0403_iconoclastfactionquest_2:5:DefaultText"
 msgid "Repair the Printing Press"
-msgstr ""
+msgstr "Oprava tiskařského lisu"
 
 #: quests/04_monarch/fq_0403_iconoclastfactionquest_2:8
 msgctxt "quests/04_monarch/fq_0403_iconoclastfactionquest_2:8:DefaultText"
 msgid "(Optional) Retrieve Zora's Team"
-msgstr ""
+msgstr "(Volitelné) Získejte tým Zory"
 
 #: quests/04_monarch/fq_0403_iconoclastfactionquest_2:10000
 msgctxt "quests/04_monarch/fq_0403_iconoclastfactionquest_2:10000:DefaultText"
 msgid "Before Graham can spread his message to the rest of the colony, he needs control of an old printing press in the ruins of Stellar Bay. Travel there with the replacement parts you recently obtained and get it back in working order."
-msgstr ""
+msgstr "Než bude moci Graham rozšířit své poselství do zbytku kolonie, potřebuje mít pod kontrolou starý tiskařský stroj v ruinách Hvězdné zátoky. Vydejte se tam s nedávno získanými náhradními díly a uveďte jej opět do provozu."
 
 #: quests/04_monarch/fq_0403_iconoclastfactionquest_2:10004
 msgctxt "quests/04_monarch/fq_0403_iconoclastfactionquest_2:10004:DefaultText"
 msgid "The printing press is operational. Return to Graham with an update."
-msgstr ""
+msgstr "Tiskárna je v provozu. Vraťte se Grahamovi s aktualizací."
 
 #: quests/04_monarch/fq_0403_iconoclastfactionquest_2:10005
 msgctxt "quests/04_monarch/fq_0403_iconoclastfactionquest_2:10005:DefaultText"
 msgid "Enter Terra One Publications and repair the printing press there."
-msgstr ""
+msgstr "Vstupte do Terra One Publications a opravte tam tiskařský stroj."
 
 #: quests/04_monarch/fq_0403_iconoclastfactionquest_2:10008
 msgctxt "quests/04_monarch/fq_0403_iconoclastfactionquest_2:10008:DefaultText"
 msgid "(Optional) Retrieve Zora's Team"
-msgstr ""
+msgstr "(Volitelné) Získejte tým Zory"
 
 #: quests/04_monarch/fq_0403_iconoclastfactionquest_2:20000
 msgctxt "quests/04_monarch/fq_0403_iconoclastfactionquest_2:20000:DefaultText"
 msgid "The survivors from Zora's team refuse to leave unless they can get their wounded comrades back on their feet. To do that, they need to retrieve a trauma kit from their fallen medic."
-msgstr ""
+msgstr "Přeživší ze Zořina týmu odmítají odejít, dokud se jim nepodaří postavit na nohy své zraněné kamarády. K tomu potřebují získat traumatologickou soupravu od svého padlého zdravotníka."
 
 #: quests/04_monarch/fq_0403_iconoclastfactionquest_2:20001
 msgctxt "quests/04_monarch/fq_0403_iconoclastfactionquest_2:20001:DefaultText"
 msgid "Return to May and August Van Noy with the trauma kit."
-msgstr ""
+msgstr "Vraťte se k May a Augustovi Van Noyovým s úrazovou soupravou."
 
 #: quests/04_monarch/fq_0403_iconoclastfactionquest_2:20002
 msgctxt "quests/04_monarch/fq_0403_iconoclastfactionquest_2:20002:DefaultText"
 msgid "May and August Van Noy have been killed. Zora's team won't be coming back."
-msgstr ""
+msgstr "May a August Van Noyovi byli zabiti. Zorův tým se už nevrátí."
 
 #: quests/04_monarch/fq_0403_iconoclastfactionquest_2:20003
 msgctxt "quests/04_monarch/fq_0403_iconoclastfactionquest_2:20003:DefaultText"
 msgid "After how poorly the mission went, the surviving scouts have deserted. They won't be coming back."
-msgstr ""
+msgstr "Poté, co mise dopadla špatně, přeživší průzkumníci dezertovali. Už se nevrátí."
 
 #: quests/04_monarch/fq_0403_iconoclastfactionquest_2:30000
 msgctxt "quests/04_monarch/fq_0403_iconoclastfactionquest_2:30000:DefaultText"
 msgid "You killed Graham, ending the Iconoclast broadcasts."
-msgstr ""
+msgstr "Zabil jsi Grahama a ukončil vysílání Ikonoklastu."
 
 #: quests/04_monarch/fq_0403_iconoclastfactionquest_2:30001
 msgctxt "quests/04_monarch/fq_0403_iconoclastfactionquest_2:30001:DefaultText"
 msgid "You cooperated with Graham to end the Iconoclast broadcasts."
-msgstr ""
+msgstr "Spolupracoval jste s Grahamem na ukončení vysílání Ikonoklastu."
 
 #: quests/04_monarch/fq_0403_iconoclastfactionquest_2:30005
 msgctxt "quests/04_monarch/fq_0403_iconoclastfactionquest_2:30005:DefaultText"
 msgid "Zora has been killed. This task can never be completed."
-msgstr ""
+msgstr "Zora byla zabita. Tento úkol nelze nikdy splnit."

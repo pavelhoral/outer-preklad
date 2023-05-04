@@ -1,224 +1,224 @@
 #: conversations/companions/poi/poi_1002_bs_sublight_lab:2
 msgctxt "conversations/companions/poi/poi_1002_bs_sublight_lab:2:DefaultText"
 msgid "Quiet as the grave in here. We should get the power generator going again - might cheer up the place."
-msgstr ""
+msgstr "Je tu ticho jako v hrobě. Měli bychom znovu zprovoznit generátor elektřiny - mohlo by to tu být veselejší."
 
 #: conversations/companions/poi/poi_1002_bs_sublight_lab:3
 msgctxt "conversations/companions/poi/poi_1002_bs_sublight_lab:3:DefaultText"
 msgid "We oughta get the power up and runnin'. I'm shivering in my boots, here."
-msgstr ""
+msgstr "Měli bychom nahodit elektřinu a spustit ji. Třesu se v botách."
 
 #: conversations/companions/poi/poi_1002_bs_sublight_lab:4
 msgctxt "conversations/companions/poi/poi_1002_bs_sublight_lab:4:DefaultText"
 msgid "This is the place. We'll need the power generators back on to finish this job."
-msgstr ""
+msgstr "Tady je to místo. K dokončení této práce budeme potřebovat znovu zapnout generátory energie."
 
 #: conversations/companions/poi/poi_1002_bs_sublight_lab:5
 msgctxt "conversations/companions/poi/poi_1002_bs_sublight_lab:5:DefaultText"
 msgid "Ain't nothing but the void here, Captain. I'd just as soon leave it cold, dark, and derelict."
-msgstr ""
+msgstr "Není tu nic než prázdnota, kapitáne. Nejraději bych ji nechal chladnou, temnou a opuštěnou."
 
 #: conversations/companions/poi/poi_1002_bs_sublight_lab:6
 msgctxt "conversations/companions/poi/poi_1002_bs_sublight_lab:6:DefaultText"
 msgid "Think there's a generator somewhere?"
-msgstr ""
+msgstr "Myslíš, že je někde generátor?"
 
 #: conversations/companions/poi/poi_1002_bs_sublight_lab:7
 msgctxt "conversations/companions/poi/poi_1002_bs_sublight_lab:7:DefaultText"
 msgid "Please check battery levels before initiating an extended sanitization session."
-msgstr ""
+msgstr "Před zahájením delší dezinfekce zkontrolujte stav baterie."
 
 #: conversations/companions/poi/poi_1002_bs_sublight_lab:9
 msgctxt "conversations/companions/poi/poi_1002_bs_sublight_lab:9:DefaultText"
 msgid "Oh, Law. They been left here all alone."
-msgstr ""
+msgstr "Oh, Law. Zůstali tu úplně sami."
 
 #: conversations/companions/poi/poi_1002_bs_sublight_lab:10
 msgctxt "conversations/companions/poi/poi_1002_bs_sublight_lab:10:DefaultText"
 msgid "Boss, I think they're still alive in there."
-msgstr ""
+msgstr "Šéfe, myslím, že jsou tam pořád naživu."
 
 #: conversations/companions/poi/poi_1002_bs_sublight_lab:11
 msgctxt "conversations/companions/poi/poi_1002_bs_sublight_lab:11:DefaultText"
 msgid "Science in action is both a marvelous and terrifying thing to behold. In this case, however, I'd say it's more the latter."
-msgstr ""
+msgstr "Věda v akci je úžasná i děsivá věc. V tomto případě bych však řekl, že spíše to druhé."
 
 #: conversations/companions/poi/poi_1002_bs_sublight_lab:12
 msgctxt "conversations/companions/poi/poi_1002_bs_sublight_lab:12:DefaultText"
 msgid "I ever meet the people responsible for this, I'm shooting first and never asking questions."
-msgstr ""
+msgstr "Když se někdy setkám s lidmi, kteří jsou za to zodpovědní, střílím jako první a nikdy se neptám."
 
 #: conversations/companions/poi/poi_1002_bs_sublight_lab:13
 msgctxt "conversations/companions/poi/poi_1002_bs_sublight_lab:13:DefaultText"
 msgid "Those subjects - they're still alive."
-msgstr ""
+msgstr "Tyto subjekty - jsou stále naživu."
 
 #: conversations/companions/poi/poi_1002_bs_sublight_lab:14
 msgctxt "conversations/companions/poi/poi_1002_bs_sublight_lab:14:DefaultText"
 msgid "Scanning for c2547-grade rated contaminants. "
-msgstr ""
+msgstr "Skenování kontaminantů třídy c2547. "
 
 #: conversations/companions/poi/poi_1002_bs_sublight_lab:16
 msgctxt "conversations/companions/poi/poi_1002_bs_sublight_lab:16:DefaultText"
 msgid "My dad used to say words have power. You proved him true."
-msgstr ""
+msgstr "Můj otec říkával, že slova mají moc. Dokázal jsi, že měl pravdu."
 
 #: conversations/companions/poi/poi_1002_bs_sublight_lab:17
 msgctxt "conversations/companions/poi/poi_1002_bs_sublight_lab:17:DefaultText"
 msgid "Nice going, boss. You got a real fine way with words."
-msgstr ""
+msgstr "Dobrá práce, šéfe. Umíš to se slovy opravdu dobře."
 
 #: conversations/companions/poi/poi_1002_bs_sublight_lab:18
 msgctxt "conversations/companions/poi/poi_1002_bs_sublight_lab:18:DefaultText"
 msgid "That was rather impressive, Captain. Diplomacy at its finest."
-msgstr ""
+msgstr "To bylo docela působivé, kapitáne. Nejlepší diplomacie."
 
 #: conversations/companions/poi/poi_1002_bs_sublight_lab:19
 msgctxt "conversations/companions/poi/poi_1002_bs_sublight_lab:19:DefaultText"
 msgid "Damn. I oughta try talking more and fighting less. Seems like it saves on ammunition. ...nah, that ain't no fun."
-msgstr ""
+msgstr "Zatraceně. Měl bych zkusit víc mluvit a míň se hádat. Zdá se, že to ušetří munici. ...ne, to není žádná zábava."
 
 #: conversations/companions/poi/poi_1002_bs_sublight_lab:20
 msgctxt "conversations/companions/poi/poi_1002_bs_sublight_lab:20:DefaultText"
 msgid "Nice. I've never been great at de-escalation."
-msgstr ""
+msgstr "Pěkné. Nikdy jsem nebyl dobrý v deeskalaci."
 
 #: conversations/companions/poi/poi_1002_bs_sublight_lab:21
 msgctxt "conversations/companions/poi/poi_1002_bs_sublight_lab:21:DefaultText"
 msgid "SAM units disappear built up scuz and scum so you don't have to!"
-msgstr ""
+msgstr "Jednotky SAM odstraňují nahromaděný scuz a šmejd, takže vy nemusíte!"
 
 #: conversations/companions/poi/poi_1002_bs_sublight_lab:23
 msgctxt "conversations/companions/poi/poi_1002_bs_sublight_lab:23:DefaultText"
 msgid "Step lively, Captain. The floor's got teeth."
-msgstr ""
+msgstr "Živě, kapitáne. Podlaha má zuby."
 
 #: conversations/companions/poi/poi_1002_bs_sublight_lab:24
 msgctxt "conversations/companions/poi/poi_1002_bs_sublight_lab:24:DefaultText"
 msgid "Whoa, careful where you step."
-msgstr ""
+msgstr "Pozor, kam šlapeš."
 
 #: conversations/companions/poi/poi_1002_bs_sublight_lab:25
 msgctxt "conversations/companions/poi/poi_1002_bs_sublight_lab:25:DefaultText"
 msgid "Keep a sharp eye out, Captain. One wrong step could incapacitate or kill."
-msgstr ""
+msgstr "Dávejte pozor, kapitáne. Jediný chybný krok by vás mohl zneškodnit nebo zabít."
 
 #: conversations/companions/poi/poi_1002_bs_sublight_lab:26
 msgctxt "conversations/companions/poi/poi_1002_bs_sublight_lab:26:DefaultText"
 msgid "Whoa. Keep an eye on the floor."
-msgstr ""
+msgstr "Páni. Sledujte podlahu."
 
 #: conversations/companions/poi/poi_1002_bs_sublight_lab:27
 msgctxt "conversations/companions/poi/poi_1002_bs_sublight_lab:27:DefaultText"
 msgid "Watch your step."
-msgstr ""
+msgstr "Dávejte si pozor, kam šlapete."
 
 #: conversations/companions/poi/poi_1002_bs_sublight_lab:28
 msgctxt "conversations/companions/poi/poi_1002_bs_sublight_lab:28:DefaultText"
 msgid "Proximity analysis: external filth sterlization measures employed. Caution: contact with electrical currents can be lethal to customers."
-msgstr ""
+msgstr "Analýza blízkosti: použitá opatření pro sterilizaci vnějšího znečištění. Upozornění: kontakt s elektrickým proudem může být pro zákazníky smrtelný."
 
 #: conversations/companions/poi/poi_1002_bs_sublight_lab:30
 msgctxt "conversations/companions/poi/poi_1002_bs_sublight_lab:30:DefaultText"
 msgid "Job done! We can go home to the ship, right? I been missin' ADA fierce."
-msgstr ""
+msgstr "Práce je hotová! Můžeme jít domů na loď, že? Stýskalo se mi po ADA."
 
 #: conversations/companions/poi/poi_1002_bs_sublight_lab:31
 msgctxt "conversations/companions/poi/poi_1002_bs_sublight_lab:31:DefaultText"
 msgid "You know something? We might be the finest agents SubLight ever hired."
-msgstr ""
+msgstr "Víte co? Možná jsme ti nejlepší agenti, které kdy SubLight najal."
 
 #: conversations/companions/poi/poi_1002_bs_sublight_lab:32
 msgctxt "conversations/companions/poi/poi_1002_bs_sublight_lab:32:DefaultText"
 msgid "SubLight will be well pleased that you've claimed the station for them. Myself? I'll be fine leaving this place."
-msgstr ""
+msgstr "Společnost SubLight bude mít radost, že jste se o stanici přihlásili. Já? Mně bude stačit, když tohle místo opustím."
 
 #: conversations/companions/poi/poi_1002_bs_sublight_lab:33
 msgctxt "conversations/companions/poi/poi_1002_bs_sublight_lab:33:DefaultText"
 msgid "Suppose SubLight'll thank us for this. I hope that thanks comes in the form of cash."
-msgstr ""
+msgstr "Předpokládejme, že nám za to SubLight poděkuje. Doufám, že to poděkování přijde ve formě peněz."
 
 #: conversations/companions/poi/poi_1002_bs_sublight_lab:34
 msgctxt "conversations/companions/poi/poi_1002_bs_sublight_lab:34:DefaultText"
 msgid "It's done. Now, let's go get our money before SubLight sees what a creepy dump this place is."
-msgstr ""
+msgstr "Je hotovo. Teď si jdeme pro peníze, než SubLight uvidí, jaká je tohle místo strašidelná díra."
 
 #: conversations/companions/poi/poi_1002_bs_sublight_lab:37
 msgctxt "conversations/companions/poi/poi_1002_bs_sublight_lab:37:DefaultText"
 msgid "Hold on a tick. Don't we know Chartrand? From Cascadia?"
-msgstr ""
+msgstr "Vydržte ještě chvíli. Neznáme Chartranda? Z Kaskády?"
 
 #: conversations/companions/poi/poi_1002_bs_sublight_lab:38
 msgctxt "conversations/companions/poi/poi_1002_bs_sublight_lab:38:DefaultText"
 msgid "Chartrand. Chartrand. I seen that name before somewhere. Cascadia, right?"
-msgstr ""
+msgstr "Chartrand. Chartrand. To jméno jsem už někde viděl. Cascadia, že?"
 
 #: conversations/companions/poi/poi_1002_bs_sublight_lab:39
 msgctxt "conversations/companions/poi/poi_1002_bs_sublight_lab:39:DefaultText"
 msgid "Chartrand? Sounds awfully familiar. That was the scientist from Cascadia, right?"
-msgstr ""
+msgstr "Chartrand? Zní to hrozně povědomě. To byl ten vědec z Kaskádie, že?"
 
 #: conversations/companions/poi/poi_1002_bs_sublight_lab:40
 msgctxt "conversations/companions/poi/poi_1002_bs_sublight_lab:40:DefaultText"
 msgid "Chartrand is that scientist, right? From Cascadia?"
-msgstr ""
+msgstr "Chartrand je ten vědec, že? Z Cascadie?"
 
 #: conversations/companions/poi/poi_1002_bs_sublight_lab:41
 msgctxt "conversations/companions/poi/poi_1002_bs_sublight_lab:41:DefaultText"
 msgid "Wait, Chartrand... we've seen that name before. Back in Cascadia."
-msgstr ""
+msgstr "Počkat, Chartrand... to jméno jsme už někde viděli. Už v Cascadii."
 
 #: conversations/companions/poi/poi_1002_bs_sublight_lab:44
 msgctxt "conversations/companions/poi/poi_1002_bs_sublight_lab:44:DefaultText"
 msgid "Let's give these little fellas a wide berth, Captain."
-msgstr ""
+msgstr "Nechme tyhle malé chlapíky na pokoji, kapitáne."
 
 #: conversations/companions/poi/poi_1002_bs_sublight_lab:45
 msgctxt "conversations/companions/poi/poi_1002_bs_sublight_lab:45:DefaultText"
 msgid "That's a lot of mechanicals. If we power up the station, you think they're gonna power up too?"
-msgstr ""
+msgstr "To je spousta mechanických zařízení. Když zapneme stanici, myslíš, že se zapnou i ony?"
 
 #: conversations/companions/poi/poi_1002_bs_sublight_lab:46
 msgctxt "conversations/companions/poi/poi_1002_bs_sublight_lab:46:DefaultText"
 msgid "Uh... Captain? A word of caution - those automechanicals are likely to wake when we power the generator."
-msgstr ""
+msgstr "Uh... kapitán? Dávejte pozor - ty automechaniky se pravděpodobně probudí, když zapneme generátor."
 
 #: conversations/companions/poi/poi_1002_bs_sublight_lab:47
 msgctxt "conversations/companions/poi/poi_1002_bs_sublight_lab:47:DefaultText"
 msgid "Uh. We oughta keep an eye on these autos. We poke around too much, they might wake up."
-msgstr ""
+msgstr "Měli bychom na ty auta dávat pozor. Když se v nich budeme moc šťourat, mohly by se probudit."
 
 #: conversations/companions/poi/poi_1002_bs_sublight_lab:48
 msgctxt "conversations/companions/poi/poi_1002_bs_sublight_lab:48:DefaultText"
 msgid "Sure are a lot of charging automechs. What're the chances they're friendly?"
-msgstr ""
+msgstr "Určitě je tu spousta nabíjecích automechaniků. Jaká je šance, že jsou přátelští?"
 
 #: conversations/companions/poi/poi_1002_bs_sublight_lab:51
 msgctxt "conversations/companions/poi/poi_1002_bs_sublight_lab:51:DefaultText"
 msgid "Here I was hopin' we wouldn't have to hurt anybody."
-msgstr ""
+msgstr "Doufal jsem, že nebudeme muset nikomu ublížit."
 
 #: conversations/companions/poi/poi_1002_bs_sublight_lab:52
 msgctxt "conversations/companions/poi/poi_1002_bs_sublight_lab:52:DefaultText"
 msgid "Don't waste your breath negotiating with these Board types, boss. "
-msgstr ""
+msgstr "Neztrácejte dech vyjednáváním s těmito členy rady, šéfe. "
 
 #: conversations/companions/poi/poi_1002_bs_sublight_lab:53
 msgctxt "conversations/companions/poi/poi_1002_bs_sublight_lab:53:DefaultText"
 msgid "It was worth a try. But when words can't pave the way, I've found violence does the trick nicely."
-msgstr ""
+msgstr "Za pokus to stálo. Ale když slova nedokážou vydláždit cestu, zjistil jsem, že násilí to dokáže."
 
 #: conversations/companions/poi/poi_1002_bs_sublight_lab:54
 msgctxt "conversations/companions/poi/poi_1002_bs_sublight_lab:54:DefaultText"
 msgid "You know, next time, instead of talking, we could just go in guns blazing. Save us a bit of time."
-msgstr ""
+msgstr "Víš, příště bychom místo mluvení mohli jít do toho se zbraní v ruce. Ušetřili bychom trochu času."
 
 #: conversations/companions/poi/poi_1002_bs_sublight_lab:55
 msgctxt "conversations/companions/poi/poi_1002_bs_sublight_lab:55:DefaultText"
 msgid "I was looking forward to doing some shooting, anyway."
-msgstr ""
+msgstr "Stejně jsem se těšil, že si trochu zastřílím."
 
 #: conversations/companions/poi/poi_1002_bs_sublight_lab:56
 msgctxt "conversations/companions/poi/poi_1002_bs_sublight_lab:56:DefaultText"
 msgid "Kick up your heels, customer, and let SAM handle your every mess!"
-msgstr ""
+msgstr "Zvedněte podpatky, zákazníku, a nechte společnost SAM, aby se postarala o každý váš nepořádek!"

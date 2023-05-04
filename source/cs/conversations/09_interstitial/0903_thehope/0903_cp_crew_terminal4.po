@@ -3,32 +3,32 @@ msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal4:3:Def
 msgid "UDL-002 THE HOPE\r\n"
 "===========================\r\n"
 "Warning: Unauthorized access will result in immediate termination upon your arrival in Halcyon."
-msgstr ""
+msgstr "UDL-002 THE HOPE =========================== Varování: Neoprávněný přístup bude mít za následek okamžité ukončení přístupu po vašem příchodu do Halcyonu."
 
 #: conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal4:4
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal4:4:DefaultText"
 msgid "[Manual Log #L-4127 - TORREGA, R.]"
-msgstr ""
+msgstr "[Příruční protokol č. L-4127 - TORREGA, R.]"
 
 #: conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal4:6
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal4:6:DefaultText"
 msgid "[Automated Audio Transcript #R-2104]"
-msgstr ""
+msgstr "[Automatizovaný zvukový přepis #R-2104]"
 
 #: conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal4:8
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal4:8:DefaultText"
 msgid "[Manual Log #L-4391 - HUNTE, D.]"
-msgstr ""
+msgstr "[Příruční protokol č. L-4391 - HUNTE, D.]"
 
 #: conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal4:17
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal4:17:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"
 
 #: conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal4:27
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal4:27:DefaultText"
 msgid "[Automated Audio Transcript #R-2130]"
-msgstr ""
+msgstr "[Automatizovaný zvukový přepis #R-2130]"
 
 #: conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal4:31
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal4:31:DefaultText"
@@ -43,7 +43,7 @@ msgid "Dear Diary,\r\n"
 "I keep thinking of the colonists. They'd just... never wake up.\r\n"
 "\r\n"
 "Lucky them."
-msgstr ""
+msgstr "Milý deníčku, všichni se snaží vymyslet, jak budeme jíst, ale nic z toho neznamená, když nás nedokážu udržet v kurzu. je to peklo. Mapovat šestadvacet let cesty vesmírem je... Nevím, jestli to zvládnu. Je to takový tlak. Tolik životů. Jestli se zmýlím - jedna špatná desetinná čárka, jeden chybný výpočet - můžeme narazit do asteroidu. Pořád myslím na kolonisty. Ti by se prostě... nikdy neprobudili. Mají štěstí."
 
 #: conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal4:41
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal4:41:DefaultText"
@@ -58,7 +58,7 @@ msgid "HUNTE, W: I've called you all here because the numbers on our rations are
 "HUNTE, W: This isn't about ownership! This is about survival. We're going to run out eventually, and the longer we last, the closer we get to figuring this shit out!\r\n"
 "NOLDA, F: All right, all right.\r\n"
 "HUNTE, W: I want everyone to interrogate their crew. Find whoever's not eating their share and bring them forward."
-msgstr ""
+msgstr "HUNTE, W: Všechny jsem vás sem zavolal, protože čísla na našich přídělech jsou špatně. NOLDA, F: Špatně? Jak to myslíš, že jsou mimo? HUNTE, W: Máme jich moc. Někdo si nevzal svoje. HUNTE, D: Jídlo navíc zní jako dobrá věc, drahoušku. HUNTE, W: Ne navíc. Někdo si bere jídlo z jiného zdroje. Musí ho mít někde schované. NOLDA, F: No a? Někdo si mohl nějaké přivézt ze Země. HUNTE, W: Jestli ano, musíme ho zahrnout do přídělu, Franku. Každý kousek jídla na téhle lodi se musí rozdělit mezi nás všechny. NOLDA, F: Je to jejich. Není to tvoje. LOVEC, W: Tady nejde o vlastnictví! Tady jde o přežití. Nakonec nám dojde, a čím déle vydržíme, tím blíž budeme k tomu, abychom na tuhle sračku přišli! NOLDA, F: Dobře, dobře. LOVEC, W: Chci, aby každý vyslechl svou posádku. Najděte toho, kdo nejí svůj podíl, a přiveďte ho dopředu."
 
 #: conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal4:42
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal4:42:DefaultText"
@@ -69,18 +69,18 @@ msgid "Perhaps there is hope yet.\r\n"
 "Now... buds grow in Hydroponics. This may not be a backyard, but it is something.\r\n"
 "\r\n"
 "I remember you every day, mamochka. Now more than ever."
-msgstr ""
+msgstr "Snad je ještě naděje. Maminka mívala takovou zahradu. Vyrostla jsem na jejích rajčatech, citronech a limetkách. Když jsme opouštěli Zemi, byla tak laskavá a podělila se se mnou o vzorek semínek, abych si tam, kde skončíme, mohla založit vlastní zahrádku. Teď... poupata rostou v hydroponii. Možná to není zahrádka, ale něco to je. Každý den na tebe vzpomínám, mamochko. Teď víc než kdy jindy."
 
 #: conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal4:43
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal4:43:DefaultText"
 msgid "NOLDA, F: Law help me, it worked. I'm going to hell, but it worked.\r\n"
 "NOLDA, F: Now... how the fuck do I break the news to the captain?"
-msgstr ""
+msgstr "NOLDA, F: Zákon mi pomáhal, fungovalo to. Půjdu do pekla, ale zabralo to. NOLDA, F: A teď... jak to mám kurva říct kapitánovi?"
 
 #: conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal4:44
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal4:44:DefaultText"
 msgid "[Message Exchange #T-2810]"
-msgstr ""
+msgstr "[Výměna zpráv #T-2810]"
 
 #: conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal4:45
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal4:45:DefaultText"
@@ -93,16 +93,16 @@ msgid "NOLDA, F: cap. wanted this on record. sick of the witch hunt. it's me. i 
 "NOLDA, F: i'm not sure \"that's an order\" means a lot right now\r\n"
 "HUNTE, W: It holds weight now more than ever, Frank. We need to stay organized.\r\n"
 "NOLDA, F: well, i ain't doing it. so either shove that shit down my throat yourself or give my leftovers to someone else."
-msgstr ""
+msgstr "NOLDA, F: kapitán. chtěl jsem to mít v záznamech. už mě nebaví ten hon na čarodějnice. to jsem já. nejedl jsem své příděly. LOVEC, W: proč? NOLDA, F: nepotřebuju to. nevadí mi, že mám hlad. LOVEC, W: potřebuju svého vrchního inženýra s plnými schopnostmi. Jsem rád, že jste se k tomu přiznal, ale začněte jíst svůj plný podíl. To je rozkaz. při vší úctě, kapitáne. jsme ve sračkách. nejsem si jistý, jestli \"to je rozkaz\" teď moc znamená. lovec, W: teď to má větší váhu než kdy jindy, Franku. Musíme si udržet pořádek. NOLDA, F: no, já to neudělám. tak mi ty sračky strč do chřtánu buď sám, nebo dej moje zbytky někomu jinému."
 
 #: conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal4:46
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal4:46:DefaultText"
 msgid "CREW TERMINAL\r\n"
 "===========================\r\n"
 "Error accessing archives. Available entries:"
-msgstr ""
+msgstr "CREW TERMINAL =========================== Chyba při přístupu k archivům. Dostupné záznamy:"
 
 #: conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal4:47
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal4:47:DefaultText"
 msgid "[Continue]"
-msgstr ""
+msgstr "[Pokračovat]"

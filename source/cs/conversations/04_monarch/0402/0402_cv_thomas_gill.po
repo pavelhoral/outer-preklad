@@ -1,344 +1,344 @@
 #: conversations/04_monarch/0402/0402_cv_thomas_gill:1
 msgctxt "conversations/04_monarch/0402/0402_cv_thomas_gill:1:DefaultText"
 msgid "May I help you with something, my good man?"
-msgstr ""
+msgstr "Mohu vám s něčím pomoci, můj dobrý muži?"
 
 #: conversations/04_monarch/0402/0402_cv_thomas_gill:1
 msgctxt "conversations/04_monarch/0402/0402_cv_thomas_gill:1:FemaleText"
 msgid "May I help you with something, my good woman?"
-msgstr ""
+msgstr "Mohu vám s něčím pomoci, má dobrá ženo?"
 
 #: conversations/04_monarch/0402/0402_cv_thomas_gill:2
 msgctxt "conversations/04_monarch/0402/0402_cv_thomas_gill:2:DefaultText"
 msgid "Sophia said you had information for me."
-msgstr ""
+msgstr "Sophia říkala, že pro mě máte informace."
 
 #: conversations/04_monarch/0402/0402_cv_thomas_gill:3
 msgctxt "conversations/04_monarch/0402/0402_cv_thomas_gill:3:DefaultText"
 msgid "Never mind."
-msgstr ""
+msgstr "Nevadí."
 
 #: conversations/04_monarch/0402/0402_cv_thomas_gill:4
 msgctxt "conversations/04_monarch/0402/0402_cv_thomas_gill:4:DefaultText"
 msgid "Is there... something else?"
-msgstr ""
+msgstr "Je tu ještě něco?"
 
 #: conversations/04_monarch/0402/0402_cv_thomas_gill:9
 msgctxt "conversations/04_monarch/0402/0402_cv_thomas_gill:9:DefaultText"
 msgid "Once you leave this forlorn town, look to the horizon and you'll see a mountaintop that looks like a fiendish skull with two curving horns - that's where the station is."
-msgstr ""
+msgstr "Jakmile opustíte toto opuštěné město, podívejte se k obzoru a uvidíte vrchol hory, který vypadá jako ďábelská lebka se dvěma zakřivenými rohy - tam se nachází stanice."
 
 #: conversations/04_monarch/0402/0402_cv_thomas_gill:10
 msgctxt "conversations/04_monarch/0402/0402_cv_thomas_gill:10:DefaultText"
 msgid "I've told you all I can. Please, don't draw attention to me."
-msgstr ""
+msgstr "Řekl jsem vám vše, co jsem mohl. Prosím, neupozorňujte na mě."
 
 #: conversations/04_monarch/0402/0402_cv_thomas_gill:11
 msgctxt "conversations/04_monarch/0402/0402_cv_thomas_gill:11:DefaultText"
 msgid "Good luck. Now, you should move along. After all, we are supposed to be strangers."
-msgstr ""
+msgstr "Hodně štěstí. Nyní byste měli pokračovat. Koneckonců, máme být cizinci."
 
 #: conversations/04_monarch/0402/0402_cv_thomas_gill:12
 msgctxt "conversations/04_monarch/0402/0402_cv_thomas_gill:12:DefaultText"
 msgid "Good day to you."
-msgstr ""
+msgstr "Přeji vám hezký den."
 
 #: conversations/04_monarch/0402/0402_cv_thomas_gill:13
 msgctxt "conversations/04_monarch/0402/0402_cv_thomas_gill:13:DefaultText"
 msgid "However, there is a mercenary of some fame in town - Nyoka. She frequents The Yacht Club. "
-msgstr ""
+msgstr "Ve městě je však známý žoldák Nyoka. Navštěvuje Yacht Club. "
 
 #: conversations/04_monarch/0402/0402_cv_thomas_gill:16
 msgctxt "conversations/04_monarch/0402/0402_cv_thomas_gill:16:DefaultText"
 msgid "Are you Everett Gill?"
-msgstr ""
+msgstr "Jste Everett Gill?"
 
 #: conversations/04_monarch/0402/0402_cv_thomas_gill:17
 msgctxt "conversations/04_monarch/0402/0402_cv_thomas_gill:17:DefaultText"
 msgid "That would depend on who's asking. And why."
-msgstr ""
+msgstr "To záleží na tom, kdo se ptá. A proč."
 
 #: conversations/04_monarch/0402/0402_cv_thomas_gill:18
 msgctxt "conversations/04_monarch/0402/0402_cv_thomas_gill:18:DefaultText"
 msgid "You're here about Devil's Peak Station, yes?"
-msgstr ""
+msgstr "Jste tu kvůli stanici Devil's Peak, že?"
 
 #: conversations/04_monarch/0402/0402_cv_thomas_gill:19
 msgctxt "conversations/04_monarch/0402/0402_cv_thomas_gill:19:DefaultText"
 msgid "That's right. Sophia wants it secured for the Board's use."
-msgstr ""
+msgstr "Přesně tak. Sophia ho chce zajistit pro potřeby rady."
 
 #: conversations/04_monarch/0402/0402_cv_thomas_gill:29
 msgctxt "conversations/04_monarch/0402/0402_cv_thomas_gill:29:DefaultText"
 msgid "I'm sure I don't know what you're talking about."
-msgstr ""
+msgstr "Jsem si jistý, že nevím, o čem mluvíte."
 
 #: conversations/04_monarch/0402/0402_cv_thomas_gill:30
 msgctxt "conversations/04_monarch/0402/0402_cv_thomas_gill:30:DefaultText"
 msgid "Though if we do have a mutual friend, I'm certain she would have left you with an... expression of your acquaintance."
-msgstr ""
+msgstr "Ačkoli pokud máme společnou přítelkyni, jsem si jistý, že by ti zanechala... výraz tvé známosti."
 
 #: conversations/04_monarch/0402/0402_cv_thomas_gill:31
 msgctxt "conversations/04_monarch/0402/0402_cv_thomas_gill:31:DefaultText"
 msgid "The kindapine grows by night."
-msgstr ""
+msgstr "Kindapine roste v noci."
 
 #: conversations/04_monarch/0402/0402_cv_thomas_gill:32
 msgctxt "conversations/04_monarch/0402/0402_cv_thomas_gill:32:DefaultText"
 msgid "At last. I was beginning to think I'd waste away in this wretched place waiting on orders from our... mutual friend."
-msgstr ""
+msgstr "Konečně. Už jsem si začínal myslet, že budu na tomhle ubohém místě marně čekat na rozkazy od našeho... společného přítele."
 
 #: conversations/04_monarch/0402/0402_cv_thomas_gill:33
 msgctxt "conversations/04_monarch/0402/0402_cv_thomas_gill:33:DefaultText"
 msgid "The kindapine grows by night."
-msgstr ""
+msgstr "Kindapine roste v noci."
 
 #: conversations/04_monarch/0402/0402_cv_thomas_gill:34
 msgctxt "conversations/04_monarch/0402/0402_cv_thomas_gill:34:DefaultText"
 msgid "Nope."
-msgstr ""
+msgstr "Ne."
 
 #: conversations/04_monarch/0402/0402_cv_thomas_gill:35
 msgctxt "conversations/04_monarch/0402/0402_cv_thomas_gill:35:DefaultText"
 msgid "Really? Then I've nothing more to say. Good day to you."
-msgstr ""
+msgstr "Opravdu? Pak už nemám co říct. Přeji vám hezký den."
 
 #: conversations/04_monarch/0402/0402_cv_thomas_gill:36
 msgctxt "conversations/04_monarch/0402/0402_cv_thomas_gill:36:DefaultText"
 msgid "Excellent. That should give us a foothold on this Lawforsaken planet, not to mention silencing these abhorrent transmissions."
-msgstr ""
+msgstr "Vynikající. To by nám mělo zajistit oporu na této Zákonem zapomenuté planetě, nemluvě o tom, že umlčíme ty odporné přenosy."
 
 #: conversations/04_monarch/0402/0402_cv_thomas_gill:44
 msgctxt "conversations/04_monarch/0402/0402_cv_thomas_gill:44:DefaultText"
 msgid "Seeing as you've already engaged the services of Ms. Ramnarim-Wentworth, then I'd say you're in capable hands."
-msgstr ""
+msgstr "Vzhledem k tomu, že jste již využil služeb slečny Ramnarim-Wentworthové, řekl bych, že jste ve schopných rukou."
 
 #: conversations/04_monarch/0402/0402_cv_thomas_gill:45
 msgctxt "conversations/04_monarch/0402/0402_cv_thomas_gill:45:DefaultText"
 msgid "Watch your tone, you void-damned stooge, or I will steadily lay you out!"
-msgstr ""
+msgstr "Dávej si pozor na tón, ty prokletý pacholku, nebo tě rovnou zlikviduju!"
 
 #: conversations/04_monarch/0402/0402_cv_thomas_gill:46
 msgctxt "conversations/04_monarch/0402/0402_cv_thomas_gill:46:DefaultText"
 msgid "You didn't hear it from me."
-msgstr ""
+msgstr "Ode mě jste to neslyšeli."
 
 #: conversations/04_monarch/0402/0402_cv_thomas_gill:47
 msgctxt "conversations/04_monarch/0402/0402_cv_thomas_gill:47:DefaultText"
 msgid "Just tell me where to go."
-msgstr ""
+msgstr "Jen mi řekněte, kam mám jít."
 
 #: conversations/04_monarch/0402/0402_cv_thomas_gill:48
 msgctxt "conversations/04_monarch/0402/0402_cv_thomas_gill:48:DefaultText"
 msgid "She sent me to get a job done, not play word games."
-msgstr ""
+msgstr "Poslala mě, abych udělal práci, ne abych si hrál se slovíčky."
 
 #: conversations/04_monarch/0402/0402_cv_thomas_gill:49
 msgctxt "conversations/04_monarch/0402/0402_cv_thomas_gill:49:DefaultText"
 msgid "Then far be it from me to stand in your way. The sooner you finish the job, the sooner I can leave this wretched place."
-msgstr ""
+msgstr "Pak jsem dalek toho, abych vám stál v cestě. Čím dřív to dokončíte, tím dřív budu moci opustit tohle ubohé místo."
 
 #: conversations/04_monarch/0402/0402_cv_thomas_gill:50
 msgctxt "conversations/04_monarch/0402/0402_cv_thomas_gill:50:DefaultText"
 msgid "The soul of discretion. Ms. Akande chooses her people well."
-msgstr ""
+msgstr "Duše diskrétnosti. Paní Akande si dobře vybírá své lidi."
 
 #: conversations/04_monarch/0402/0402_cv_thomas_gill:51
 msgctxt "conversations/04_monarch/0402/0402_cv_thomas_gill:51:DefaultText"
 msgid "So, where's Devil's Peak?"
-msgstr ""
+msgstr "Kde je Ďáblův štít?"
 
 #: conversations/04_monarch/0402/0402_cv_thomas_gill:52
 msgctxt "conversations/04_monarch/0402/0402_cv_thomas_gill:52:DefaultText"
 msgid "What transmissions?"
-msgstr ""
+msgstr "Jaké převodovky?"
 
 #: conversations/04_monarch/0402/0402_cv_thomas_gill:53
 msgctxt "conversations/04_monarch/0402/0402_cv_thomas_gill:53:DefaultText"
 msgid "Graham's Iconoclast propaganda and Sanjar's relentless MSI adverts. If you haven't been subjected to them, consider yourself fortunate."
-msgstr ""
+msgstr "Grahamova propaganda Iconoclast a Sanjarova neúnavná reklama na MSI. Pokud jste jim nebyli vystaveni, považujte se za šťastlivce."
 
 #: conversations/04_monarch/0402/0402_cv_thomas_gill:54
 msgctxt "conversations/04_monarch/0402/0402_cv_thomas_gill:54:DefaultText"
 msgid "Anyway, Devil's Peak is easy enough to find - there's little else to see out here."
-msgstr ""
+msgstr "Ďáblův vrchol je každopádně snadné najít - není tu mnoho dalších zajímavostí."
 
 #: conversations/04_monarch/0402/0402_cv_thomas_gill:55
 msgctxt "conversations/04_monarch/0402/0402_cv_thomas_gill:55:DefaultText"
 msgid "And how do I get there?"
-msgstr ""
+msgstr "A jak se tam dostanu?"
 
 #: conversations/04_monarch/0402/0402_cv_thomas_gill:56
 msgctxt "conversations/04_monarch/0402/0402_cv_thomas_gill:56:DefaultText"
 msgid "There's a path along the western side of the mountain. "
-msgstr ""
+msgstr "Podél západní strany hory vede cesta. "
 
 #: conversations/04_monarch/0402/0402_cv_thomas_gill:57
 msgctxt "conversations/04_monarch/0402/0402_cv_thomas_gill:57:DefaultText"
 msgid "A mountaintop with horns. Got it."
-msgstr ""
+msgstr "Vrchol hory s rohy. Mám to."
 
 #: conversations/04_monarch/0402/0402_cv_thomas_gill:58
 msgctxt "conversations/04_monarch/0402/0402_cv_thomas_gill:58:DefaultText"
 msgid "You have any useful suggestions, or are you just pointing out the obvious?"
-msgstr ""
+msgstr "Máte nějaké užitečné návrhy, nebo jen poukazujete na zjevné věci?"
 
 #: conversations/04_monarch/0402/0402_cv_thomas_gill:59
 msgctxt "conversations/04_monarch/0402/0402_cv_thomas_gill:59:DefaultText"
 msgid "I can handle myself."
-msgstr ""
+msgstr "Zvládnu to sám."
 
 #: conversations/04_monarch/0402/0402_cv_thomas_gill:60
 msgctxt "conversations/04_monarch/0402/0402_cv_thomas_gill:60:DefaultText"
 msgid "Unfortunately, monsters and marauders are as common as kindling on Monarch, so the approach will be perilous."
-msgstr ""
+msgstr "Naneštěstí jsou na Monarchu nestvůry a nájezdníci stejně běžní jako dřevo, takže cesta k nim bude nebezpečná."
 
 #: conversations/04_monarch/0402/0402_cv_thomas_gill:61
 msgctxt "conversations/04_monarch/0402/0402_cv_thomas_gill:61:DefaultText"
 msgid "If Ms. Akande sent you, then I've no doubt. "
-msgstr ""
+msgstr "Pokud vás poslala paní Akandeová, pak o tom nepochybuji. "
 
 #: conversations/04_monarch/0402/0402_cv_thomas_gill:62
 msgctxt "conversations/04_monarch/0402/0402_cv_thomas_gill:62:DefaultText"
 msgid "...Assuming they're steady at the moment?"
-msgstr ""
+msgstr "...Za předpokladu, že jsou momentálně stabilní?"
 
 #: conversations/04_monarch/0402/0402_cv_thomas_gill:63
 msgctxt "conversations/04_monarch/0402/0402_cv_thomas_gill:63:DefaultText"
 msgid "Can't argue with that."
-msgstr ""
+msgstr "S tím nelze polemizovat."
 
 #: conversations/04_monarch/0402/0402_cv_thomas_gill:64
 msgctxt "conversations/04_monarch/0402/0402_cv_thomas_gill:64:DefaultText"
 msgid "Anything else?"
-msgstr ""
+msgstr "Ještě něco?"
 
 #: conversations/04_monarch/0402/0402_cv_thomas_gill:65
 msgctxt "conversations/04_monarch/0402/0402_cv_thomas_gill:65:DefaultText"
 msgid "Anyway, she might be useful if you can overcome her... proclivities."
-msgstr ""
+msgstr "Každopádně by mohla být užitečná, pokud dokážeš překonat její... sklony."
 
 #: conversations/04_monarch/0402/0402_cv_thomas_gill:66
 msgctxt "conversations/04_monarch/0402/0402_cv_thomas_gill:66:DefaultText"
 msgid "Got it."
-msgstr ""
+msgstr "Mám to."
 
 #: conversations/04_monarch/0402/0402_cv_thomas_gill:67
 msgctxt "conversations/04_monarch/0402/0402_cv_thomas_gill:67:DefaultText"
 msgid "Proclivities?"
-msgstr ""
+msgstr "Sklony?"
 
 #: conversations/04_monarch/0402/0402_cv_thomas_gill:68
 msgctxt "conversations/04_monarch/0402/0402_cv_thomas_gill:68:DefaultText"
 msgid "She's rather fond of drink. But she's a good shot when her hands are steady."
-msgstr ""
+msgstr "Docela ráda pije. Ale když má pevné ruce, umí dobře střílet."
 
 #: conversations/04_monarch/0402/0402_cv_thomas_gill:69
 msgctxt "conversations/04_monarch/0402/0402_cv_thomas_gill:69:DefaultText"
 msgid "Law, how I hate that name."
-msgstr ""
+msgstr "Law, jak já to jméno nesnáším."
 
 #: conversations/04_monarch/0402/0402_cv_thomas_gill:70
 msgctxt "conversations/04_monarch/0402/0402_cv_thomas_gill:70:DefaultText"
 msgid "Not from me. The rest is up to you."
-msgstr ""
+msgstr "Ne ode mě. Zbytek je na vás."
 
 #: conversations/04_monarch/0402/0402_cv_thomas_gill:71
 msgctxt "conversations/04_monarch/0402/0402_cv_thomas_gill:71:DefaultText"
 msgid "Well. I'm glad you two seem suited for one another."
-msgstr ""
+msgstr "Dobře. Jsem rád, že se k sobě hodíte."
 
 #: conversations/04_monarch/0402/0402_cv_thomas_gill:72
 msgctxt "conversations/04_monarch/0402/0402_cv_thomas_gill:72:DefaultText"
 msgid "Something something something... trees."
-msgstr ""
+msgstr "Něco něco něco něco... stromy."
 
 #: conversations/04_monarch/0402/0402_cv_thomas_gill:73
 msgctxt "conversations/04_monarch/0402/0402_cv_thomas_gill:73:DefaultText"
 msgid "Well, no one's going to suspect you of working for the Board, that's for certain."
-msgstr ""
+msgstr "Nikdo vás nebude podezřívat, že pracujete pro Radu, to je jisté."
 
 #: conversations/04_monarch/0402/0402_cv_thomas_gill:74
 msgctxt "conversations/04_monarch/0402/0402_cv_thomas_gill:74:DefaultText"
 msgid "Well, you're Akande's blunt instrument, aren't you? I'm sure you can manage."
-msgstr ""
+msgstr "Jste přece Akandeho tupý nástroj, ne? Jsem si jistý, že to zvládneš."
 
 #: conversations/04_monarch/0402/0402_cv_thomas_gill:75
 msgctxt "conversations/04_monarch/0402/0402_cv_thomas_gill:75:DefaultText"
 msgid "And there you have it."
-msgstr ""
+msgstr "A tady to máte."
 
 #: conversations/04_monarch/0402/0402_cv_thomas_gill:76
 msgctxt "conversations/04_monarch/0402/0402_cv_thomas_gill:76:DefaultText"
 msgid "What's wrong, you get a pebble in your shoe? Crawl back to Byzantium if you can't cut it in the real world."
-msgstr ""
+msgstr "Co se děje? Máš v botě kamínek? Odplaz se zpátky do Byzance, když ti to v reálném světě nejde."
 
 #: conversations/04_monarch/0402/0402_cv_thomas_gill:77
 msgctxt "conversations/04_monarch/0402/0402_cv_thomas_gill:77:DefaultText"
 msgid "At least I'm not a walking cliché. All the engine grease in the colony won't mask the scent of the city, you know."
-msgstr ""
+msgstr "Alespoň nejsem chodící klišé. Všechno motorové mazivo v kolonii nezakryje pach města, víš?"
 
 #: conversations/04_monarch/0402/0402_cv_thomas_gill:78
 msgctxt "conversations/04_monarch/0402/0402_cv_thomas_gill:78:DefaultText"
 msgid "Wait. You're a stooge?! That's why you were always hounding me for information on Devil's Peak, isn't it? You bastard!"
-msgstr ""
+msgstr "Počkat. Ty jsi poskok?! Proto jsi mě pořád obtěžoval s informacemi o Ďáblově vrchu, že? Ty hajzle!"
 
 #: conversations/04_monarch/0402/0402_cv_thomas_gill:79
 msgctxt "conversations/04_monarch/0402/0402_cv_thomas_gill:79:DefaultText"
 msgid "Figured it out, did you? Well done. Now I'd advise you to forget it."
-msgstr ""
+msgstr "Už jsi na to přišel, že? Dobrá práce. Teď bych ti doporučil, abys na to zapomněl."
 
 #: conversations/04_monarch/0402/0402_cv_thomas_gill:80
 msgctxt "conversations/04_monarch/0402/0402_cv_thomas_gill:80:DefaultText"
 msgid "Wait. You're a stooge?! That's why you were always hounding me for information on Devil's Peak, isn't it? You bastard!"
-msgstr ""
+msgstr "Počkat. Ty jsi poskok?! Proto jsi mě pořád obtěžoval s informacemi o Ďáblově vrchu, že? Ty hajzle!"
 
 #: conversations/04_monarch/0402/0402_cv_thomas_gill:81
 msgctxt "conversations/04_monarch/0402/0402_cv_thomas_gill:81:DefaultText"
 msgid "Figured it out, did you? Well done. Now I'd advise you to forget it."
-msgstr ""
+msgstr "Už jsi na to přišel, že? Dobrá práce. Teď bych ti doporučil, abys na to zapomněl."
 
 #: conversations/04_monarch/0402/0402_cv_thomas_gill:82
 msgctxt "conversations/04_monarch/0402/0402_cv_thomas_gill:82:DefaultText"
 msgid "You're not gonna be able to smell anything once I take my fist to your nose."
-msgstr ""
+msgstr "Jakmile ti přiložím pěst k nosu, nebudeš nic cítit."
 
 #: conversations/04_monarch/0402/0402_cv_thomas_gill:83
 msgctxt "conversations/04_monarch/0402/0402_cv_thomas_gill:83:DefaultText"
 msgid "Long as I get a turn, too."
-msgstr ""
+msgstr "Pokud se dostanu na řadu i já."
 
 #: conversations/04_monarch/0402/0402_cv_thomas_gill:84
 msgctxt "conversations/04_monarch/0402/0402_cv_thomas_gill:84:DefaultText"
 msgid "Focus, everyone."
-msgstr ""
+msgstr "Všichni se soustřeďte."
 
 #: conversations/04_monarch/0402/0402_cv_thomas_gill:85
 msgctxt "conversations/04_monarch/0402/0402_cv_thomas_gill:85:DefaultText"
 msgid "Gill, you'd better keep this strictly business if you know what's good for you."
-msgstr ""
+msgstr "Gille, jestli víš, co je pro tebe dobré, měl bys to raději nechat čistě pracovně."
 
 #: conversations/04_monarch/0402/0402_cv_thomas_gill:86
 msgctxt "conversations/04_monarch/0402/0402_cv_thomas_gill:86:DefaultText"
 msgid "My thoughts, exactly."
-msgstr ""
+msgstr "Přesně to si myslím."
 
 #: conversations/04_monarch/0402/0402_cv_thomas_gill:87
 msgctxt "conversations/04_monarch/0402/0402_cv_thomas_gill:87:DefaultText"
 msgid "Get a grip, Ellie."
-msgstr ""
+msgstr "Vzpamatuj se, Ellie."
 
 #: conversations/04_monarch/0402/0402_cv_thomas_gill:88
 msgctxt "conversations/04_monarch/0402/0402_cv_thomas_gill:88:DefaultText"
 msgid "Yeah, sure. On his neck if he's not careful."
-msgstr ""
+msgstr "Jo, jasně. Na krk, když si nedá pozor."
 
 #: conversations/04_monarch/0402/0402_cv_thomas_gill:89
 msgctxt "conversations/04_monarch/0402/0402_cv_thomas_gill:89:DefaultText"
 msgid "To return to the matter at hand..."
-msgstr ""
+msgstr "Abychom se vrátili k tématu..."
 
 #: conversations/04_monarch/0402/0402_cv_thomas_gill:90
 msgctxt "conversations/04_monarch/0402/0402_cv_thomas_gill:90:DefaultText"
 msgid "Indeed."
-msgstr ""
+msgstr "Vskutku."

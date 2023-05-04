@@ -5,12 +5,12 @@ msgid "Propulsion Plant Master Circuit (2MC)\r\n"
 "==========================\r\n"
 "\r\n"
 "Main menu"
-msgstr ""
+msgstr "Hlavní okruh pohonné jednotky (2MC) Pomocná monitorovací stanice ========================== Hlavní menu"
 
 #: conversations/01_groundbreaker/01_cp_engineering_parvati_music:2
 msgctxt "conversations/01_groundbreaker/01_cp_engineering_parvati_music:2:DefaultText"
 msgid "[Display Music Cartridge Use, By Number of Plays] "
-msgstr ""
+msgstr "[Zobrazení použití hudebních kazet podle počtu přehrání] "
 
 #: conversations/01_groundbreaker/01_cp_engineering_parvati_music:3
 msgctxt "conversations/01_groundbreaker/01_cp_engineering_parvati_music:3:DefaultText"
@@ -23,12 +23,12 @@ msgid "Propulsion Plant Master Circuit (2MC)\r\n"
 "2,155,037 cartridge access records found in 25,387 days\r\n"
 "\r\n"
 "Specify User:"
-msgstr ""
+msgstr "Hlavní okruh pohonné jednotky (2MC) Pomocná monitorovací stanice ========================== Pracovní... 2 155 037 záznamů o přístupu ke kazetám nalezeno za 25 387 dní Zadejte uživatele:"
 
 #: conversations/01_groundbreaker/01_cp_engineering_parvati_music:4
 msgctxt "conversations/01_groundbreaker/01_cp_engineering_parvati_music:4:DefaultText"
 msgid "[Tennyson, Junlei]"
-msgstr ""
+msgstr "[Tennyson, Junlei]"
 
 #: conversations/01_groundbreaker/01_cp_engineering_parvati_music:5
 msgctxt "conversations/01_groundbreaker/01_cp_engineering_parvati_music:5:DefaultText"
@@ -43,12 +43,12 @@ msgid "Propulsion Plant Master Circuit (2MC)\r\n"
 "104 - \"Waiting for the Birds to Return\" by Hannah Wyeth\r\n"
 "102 - \"Breath of Gravity\" by The Ghostwriters\r\n"
 "96 - \"Mo Li Hua\" by Josephine Liu"
-msgstr ""
+msgstr "Hlavní okruh pohonné jednotky (2MC) Pomocná monitorovací stanice ========================== Uživatel Tennyson, J. nejčastěji přistupoval k následujícím 5 hudebním kazetám:347 - \"I'll Be With You When the Greenhouse Blossoms\" od Marise Selvidge 126 - \"Aether Waltz\" od Chuck Yellen and His Eleven Yellin' Men 104 - \"Waiting for the Birds to Return\" od Hannah Wyeth 102 - \"Breath of Gravity\" od The Ghostwriters 96 - \"Mo Li Hua\" od Josephine Liu"
 
 #: conversations/01_groundbreaker/01_cp_engineering_parvati_music:7
 msgctxt "conversations/01_groundbreaker/01_cp_engineering_parvati_music:7:DefaultText"
 msgid "[Jiang, Song]"
-msgstr ""
+msgstr "[Jiang, Song]"
 
 #: conversations/01_groundbreaker/01_cp_engineering_parvati_music:8
 msgctxt "conversations/01_groundbreaker/01_cp_engineering_parvati_music:8:DefaultText"
@@ -63,12 +63,13 @@ msgid "Propulsion Plant Master Circuit (2MC)\r\n"
 "133 - \"Don't Watch the Moons (With Anyone Else)\" by Eloise Desai with the Byzantium Philharmonic\r\n"
 "87 - \"Before the Comets Fell\" by The Canfields\r\n"
 "75 - \"She Don't Fly Those Skies No More\" by Reggie Horton and the Silent Qs"
-msgstr ""
+msgstr "Hlavní okruh pohonné jednotky (2MC) Pomocná monitorovací stanice ========================== Uživatel Jiang, S.. nejčastěji přistupoval k následujícím 5 hudebním kazetám:274 - \"Last Shuttle Outta the Well\" od The Ad-Hoc Rocket Jocks 185 - \"Cut the Stars From Fire\" od The Half-Carafes\n"
+"133 - \"Don't Watch the Moons (With Anyone Else)\" od Eloise Desai s Byzantium Philharmonic 87 - \"Before the Comets Fell\" od The Canfields 75 - \"She Don't Fly Those Skies No More\" od Reggie Horton and the Silent Qs"
 
 #: conversations/01_groundbreaker/01_cp_engineering_parvati_music:9
 msgctxt "conversations/01_groundbreaker/01_cp_engineering_parvati_music:9:DefaultText"
 msgid "[Holcomb, Parvati]"
-msgstr ""
+msgstr "[Holcomb, Parvati]"
 
 #: conversations/01_groundbreaker/01_cp_engineering_parvati_music:10
 msgctxt "conversations/01_groundbreaker/01_cp_engineering_parvati_music:10:DefaultText"
@@ -83,17 +84,17 @@ msgid "Propulsion Plant Master Circuit (2MC)\r\n"
 "12 - \"I'll Be With You When the Greenhouse Blossoms\" by Marise Selvidge\r\n"
 "10 - \"Into Each Other's Arms\" by The Drouins\r\n"
 "8 - \"Stars Like Dust\" by Asenka and Juri"
-msgstr ""
+msgstr "Hlavní okruh pohonné jednotky (2MC) Pomocná monitorovací stanice ========================== Uživatel Holcomb, P.. nejčastěji přistupoval k těmto 5 hudebním kazetám: 17 - \"On That Distant Moon\" od Lapis Laplace 14 - \"Where the Sun Came Up\" od Althea Highsmith 12 - \"I'll Be With You When the Greenhouse Blossoms\" od Marise Selvidge 10 - \"Into Each Other's Arms\" od The Drouins 8 - \"Stars Like Dust\" od Asenka and Juri"
 
 #: conversations/01_groundbreaker/01_cp_engineering_parvati_music:11
 msgctxt "conversations/01_groundbreaker/01_cp_engineering_parvati_music:11:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"
 
 #: conversations/01_groundbreaker/01_cp_engineering_parvati_music:12
 msgctxt "conversations/01_groundbreaker/01_cp_engineering_parvati_music:12:DefaultText"
 msgid "[Archived Logs and Transmissions]"
-msgstr ""
+msgstr "[Archivované protokoly a přenosy]"
 
 #: conversations/01_groundbreaker/01_cp_engineering_parvati_music:13
 msgctxt "conversations/01_groundbreaker/01_cp_engineering_parvati_music:13:DefaultText"
@@ -102,22 +103,22 @@ msgid "Propulsion Plant Master Circuit (2MC)\r\n"
 "==========================\r\n"
 "\r\n"
 "Archived logs and transmissions"
-msgstr ""
+msgstr "Hlavní okruh pohonné jednotky (2MC) Pomocná monitorovací stanice ========================== Archivované protokoly a přenosy"
 
 #: conversations/01_groundbreaker/01_cp_engineering_parvati_music:14
 msgctxt "conversations/01_groundbreaker/01_cp_engineering_parvati_music:14:DefaultText"
 msgid "[Return to Root]"
-msgstr ""
+msgstr "[Zpět na kořen]"
 
 #: conversations/01_groundbreaker/01_cp_engineering_parvati_music:15
 msgctxt "conversations/01_groundbreaker/01_cp_engineering_parvati_music:15:DefaultText"
 msgid "[Arrival Confirmation]"
-msgstr ""
+msgstr "[Potvrzení příjezdu]"
 
 #: conversations/01_groundbreaker/01_cp_engineering_parvati_music:16
 msgctxt "conversations/01_groundbreaker/01_cp_engineering_parvati_music:16:DefaultText"
 msgid "[A Stern Reminder]"
-msgstr ""
+msgstr "[Stern Reminder]"
 
 #: conversations/01_groundbreaker/01_cp_engineering_parvati_music:17
 msgctxt "conversations/01_groundbreaker/01_cp_engineering_parvati_music:17:DefaultText"
@@ -134,7 +135,13 @@ msgid "Propulsion Plant Master Circuit (2MC)\r\n"
 "I'd be remiss if I closed this transmission without sending my hopes and best wishes back to Earth. There's so much ahead of us, but we'll never forget what we left behind. \n"
 "\n"
 "Chief Guiying"
-msgstr ""
+msgstr "Hlavní okruh pohonné jednotky (2MC) Pomocná monitorovací stanice ========================== Do HHB, pozemské velitelství. Přenášeno sondou, archivováno u zdroje. \n"
+"\n"
+"Je mi ctí oznámit, že Groundbreaker úspěšně dorazil do Lagrangeova bodu a vypustil náš náklad prefabrikovaných obydlí, osadníků a zásob na určené koloniální světy. Ať se jim daří a expandují.  \n"
+"\n"
+"Nyní, po splnění první a druhé fáze mise, přebírá moje rodina vlastnictví Groundbreakeru, jak je uvedeno v naší smlouvě, a ponechává loď v aktivní službě jako nezávislou obchodní stanici, opravárenskou zastávku a nákladový prostor. Byl bych nedbalý, kdybych uzavřel toto vysílání, aniž bych poslal své naděje a přání všeho nejlepšího zpět na Zemi. Je toho před námi tolik, ale nikdy nezapomeneme na to, co jsme zanechali za sebou. \n"
+"\n"
+"Náčelník Guiying"
 
 #: conversations/01_groundbreaker/01_cp_engineering_parvati_music:18
 msgctxt "conversations/01_groundbreaker/01_cp_engineering_parvati_music:18:DefaultText"
@@ -149,4 +156,4 @@ msgid "Propulsion Plant Master Circuit (2MC)\r\n"
 "If anyone wants to dispute or compromise our independence, they will answer to a Tennyson. We're a family operation. Even when the last Tennyson falls, Groundbreaker will remember us and defend its freedom accordingly. \r\n"
 "\r\n"
 "Chief Guiying"
-msgstr ""
+msgstr "Hlavní okruh pohonné jednotky (2MC) Pomocná monitorovací stanice ========================== Někteří velmi bohatí a nechutní živlové mezi našimi koloniálními sousedy mají zřejmě špatnou představu o tom, proč jsem nás sem poslal. Nebylo to kvůli devítimístnému platu za krvavé peníze a logu Spacer's Choice vyraženému na mém zadku. Nebylo to proto, abychom z projíždějících lodí vytáhli poslední drobné. Groundbreaker nemá žádný podíl na úspěchu či neúspěchu korporátních entit Halcyonu. Tečka. Toto ujednání jsem vyjednal a jasně písemně nastínil ještě předtím, než jsem na tuto loď vkročil. Pokud by někdo chtěl naši nezávislost zpochybnit nebo ohrozit, bude se zodpovídat Tennysonovi. Jsme rodinný podnik. I když padne poslední Tennyson, Groundbreaker si nás bude pamatovat a bude podle toho bránit svou svobodu. náčelník Guiying"

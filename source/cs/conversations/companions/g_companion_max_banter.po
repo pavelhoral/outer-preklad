@@ -1,684 +1,684 @@
 #: conversations/companions/g_companion_max_banter:1
 msgctxt "conversations/companions/g_companion_max_banter:1:DefaultText"
 msgid "I do not understand why you would discard the birthright destiny has bestowed upon you."
-msgstr ""
+msgstr "Nechápu, proč se vzdáváš práva, které ti osud udělil."
 
 #: conversations/companions/g_companion_max_banter:2
 msgctxt "conversations/companions/g_companion_max_banter:2:DefaultText"
 msgid "As usual, I have no idea what you're talking about."
-msgstr ""
+msgstr "Jako obvykle netuším, o čem mluvíte."
 
 #: conversations/companions/g_companion_max_banter:3
 msgctxt "conversations/companions/g_companion_max_banter:3:DefaultText"
 msgid "What was the score on last night's game? I missed it."
-msgstr ""
+msgstr "Jaké bylo skóre včerejšího zápasu? Zmeškal jsem ho."
 
 #: conversations/companions/g_companion_max_banter:4
 msgctxt "conversations/companions/g_companion_max_banter:4:DefaultText"
 msgid "Last night's game? Backers sixteen. Darlings three. How do you like them mock-apples, Max?"
-msgstr ""
+msgstr "Včerejší hra? Backers sixteen. Darlings tři. Jak ti chutnají ta makety jablek, Maxi?"
 
 #: conversations/companions/g_companion_max_banter:5
 msgctxt "conversations/companions/g_companion_max_banter:5:DefaultText"
 msgid "No one saw me trip over that, right?"
-msgstr ""
+msgstr "Nikdo mě neviděl, že bych o to zakopl, že?"
 
 #: conversations/companions/g_companion_max_banter:6
 msgctxt "conversations/companions/g_companion_max_banter:6:DefaultText"
 msgid "So many yearn for the opportunities you disdain. There are those who would give their hand to be born of Byzantium as you were."
-msgstr ""
+msgstr "Tolik lidí touží po příležitostech, kterými opovrhujete. Jsou lidé, kteří by dali ruku za to, aby se narodili v Byzanci jako ty."
 
 #: conversations/companions/g_companion_max_banter:7
 msgctxt "conversations/companions/g_companion_max_banter:7:DefaultText"
 msgid "I hate to see you torture yourself with your grief, Ms. Ramnarim-Wentworth."
-msgstr ""
+msgstr "Nerad vidím, jak se trápíte svým žalem, slečno Ramnarimová-Wentworthová."
 
 #: conversations/companions/g_companion_max_banter:8
 msgctxt "conversations/companions/g_companion_max_banter:8:DefaultText"
 msgid "Great. Thank you. Such a burden has been lifted from my spirits! My grief - fading! My longing to return to the workforce swells!"
-msgstr ""
+msgstr "Skvělé. Děkuji. Takové břemeno z mé duše spadlo! Můj smutek - mizí! Moje touha vrátit se do pracovního procesu se zvětšuje!"
 
 #: conversations/companions/g_companion_max_banter:9
 msgctxt "conversations/companions/g_companion_max_banter:9:DefaultText"
 msgid "Look, about earlier... I only meant there's nothing you could have done to save your crew. "
-msgstr ""
+msgstr "Podívej, co se týče dřívějšího... Chtěl jsem jen říct, že jsi nemohl udělat nic, abys zachránil svou posádku. "
 
 #: conversations/companions/g_companion_max_banter:10
 msgctxt "conversations/companions/g_companion_max_banter:10:DefaultText"
 msgid "I got every right! Burying your friends ain't exactly a hangover. It's not gonna fade easy."
-msgstr ""
+msgstr "Mám na to právo! Pohřbít své přátele není zrovna kocovina. Neodezní to snadno."
 
 #: conversations/companions/g_companion_max_banter:11
 msgctxt "conversations/companions/g_companion_max_banter:11:DefaultText"
 msgid "Perhaps it would ease your acceptance to consider this truth. Your crew died because it was meant to happen."
-msgstr ""
+msgstr "Možná by vám usnadnilo přijetí této pravdy. Vaše posádka zemřela, protože se to mělo stát."
 
 #: conversations/companions/g_companion_max_banter:12
 msgctxt "conversations/companions/g_companion_max_banter:12:DefaultText"
 msgid "I regret entertaining you in conversation."
-msgstr ""
+msgstr "Lituji, že jsem se s vámi bavil."
 
 #: conversations/companions/g_companion_max_banter:13
 msgctxt "conversations/companions/g_companion_max_banter:13:DefaultText"
 msgid "All right. You need more time. I understand."
-msgstr ""
+msgstr "Dobře. Potřebujete více času. Rozumím."
 
 #: conversations/companions/g_companion_max_banter:14
 msgctxt "conversations/companions/g_companion_max_banter:14:DefaultText"
 msgid "Move it, trash can."
-msgstr ""
+msgstr "Uhni, popelnice."
 
 #: conversations/companions/g_companion_max_banter:15
 msgctxt "conversations/companions/g_companion_max_banter:15:DefaultText"
 msgid "Rerouting course now."
-msgstr ""
+msgstr "Přesměrování kurzu."
 
 #: conversations/companions/g_companion_max_banter:16
 msgctxt "conversations/companions/g_companion_max_banter:16:DefaultText"
 msgid "Who wants to play an impromptu tossball match? "
-msgstr ""
+msgstr "Kdo si chce zahrát improvizovaný zápas v přehazované? "
 
 #: conversations/companions/g_companion_max_banter:17
 msgctxt "conversations/companions/g_companion_max_banter:17:DefaultText"
 msgid "No one? Really?"
-msgstr ""
+msgstr "Nikdo? Opravdu?"
 
 #: conversations/companions/g_companion_max_banter:18
 msgctxt "conversations/companions/g_companion_max_banter:18:DefaultText"
 msgid "All I'm saying is, our lives are predestined upon a path that is only visible in retrospect. "
-msgstr ""
+msgstr "Chci jen říct, že naše životy jsou předurčeny k cestě, která je viditelná až zpětně. "
 
 #: conversations/companions/g_companion_max_banter:19
 msgctxt "conversations/companions/g_companion_max_banter:19:DefaultText"
 msgid "If I could have predicted my life-path would lead to prison - and thus avoided it - wouldn't I have done so?"
-msgstr ""
+msgstr "Kdybych mohl předvídat, že moje životní dráha povede do vězení - a tím se mu vyhnout - neudělal bych to?"
 
 #: conversations/companions/g_companion_max_banter:20
 msgctxt "conversations/companions/g_companion_max_banter:20:DefaultText"
 msgid "And even if I had, it still would've been unavoidable. Like that time I warned you about the giant pile of raptidon shit and you stepped in it anyway."
-msgstr ""
+msgstr "A i kdybych to udělal, stejně bych se tomu nevyhnul. Jako tenkrát, když jsem tě varoval před obrovskou hromadou raptidoních sraček a ty jsi do ní stejně šlápl."
 
 #: conversations/companions/g_companion_max_banter:21
 msgctxt "conversations/companions/g_companion_max_banter:21:DefaultText"
 msgid "You see?"
-msgstr ""
+msgstr "Vidíte?"
 
 #: conversations/companions/g_companion_max_banter:22
 msgctxt "conversations/companions/g_companion_max_banter:22:DefaultText"
 msgid "Suck sulfur, Max."
-msgstr ""
+msgstr "Vykuř síru, Maxi."
 
 #: conversations/companions/g_companion_max_banter:23
 msgctxt "conversations/companions/g_companion_max_banter:23:DefaultText"
 msgid "So. You threw off the constraints of proper society and abandoned a life of luxury to live as an outlaw."
-msgstr ""
+msgstr "Takže jsi odhodil zábrany řádné společnosti a opustil život v přepychu, abys žil jako psanec."
 
 #: conversations/companions/g_companion_max_banter:24
 msgctxt "conversations/companions/g_companion_max_banter:24:DefaultText"
 msgid "You finally get me, Vicar."
-msgstr ""
+msgstr "Konečně jste mě dostal, pane faráři."
 
 #: conversations/companions/g_companion_max_banter:25
 msgctxt "conversations/companions/g_companion_max_banter:25:DefaultText"
 msgid "Regret it?"
-msgstr ""
+msgstr "Litujete toho?"
 
 #: conversations/companions/g_companion_max_banter:26
 msgctxt "conversations/companions/g_companion_max_banter:26:DefaultText"
 msgid "Let's see. I got freedom, independence, and - usually - space from people telling me how to live my life."
-msgstr ""
+msgstr "Podívejme se na to. Získal jsem svobodu, nezávislost a - obvykle - prostor od lidí, kteří mi říkají, jak mám žít."
 
 #: conversations/companions/g_companion_max_banter:27
 msgctxt "conversations/companions/g_companion_max_banter:27:DefaultText"
 msgid "And how long before you reckon you end up back where you began?"
-msgstr ""
+msgstr "A jak dlouho bude trvat, než skončíte tam, kde jste začali?"
 
 #: conversations/companions/g_companion_max_banter:28
 msgctxt "conversations/companions/g_companion_max_banter:28:DefaultText"
 msgid "See, I knew there was a lecture coming."
-msgstr ""
+msgstr "Vidíš, věděl jsem, že přijde přednáška."
 
 #: conversations/companions/g_companion_max_banter:29
 msgctxt "conversations/companions/g_companion_max_banter:29:DefaultText"
 msgid "The universe has a way of snapping you back to where you're supposed to be, Dr. Fenhill."
-msgstr ""
+msgstr "Vesmír vás dokáže vrátit tam, kde máte být, doktore Fenhille."
 
 #: conversations/companions/g_companion_max_banter:30
 msgctxt "conversations/companions/g_companion_max_banter:30:DefaultText"
 msgid "Now why couldn't you just have said that in the first place?"
-msgstr ""
+msgstr "Proč jsi to prostě nemohl říct hned?"
 
 #: conversations/companions/g_companion_max_banter:31
 msgctxt "conversations/companions/g_companion_max_banter:31:DefaultText"
 msgid "I'm always where I'm supposed to be. Here and now."
-msgstr ""
+msgstr "Vždycky jsem tam, kde mám být. Tady a teď."
 
 #: conversations/companions/g_companion_max_banter:40
 msgctxt "conversations/companions/g_companion_max_banter:40:DefaultText"
 msgid "I have to say, Ms. Holcomb, you are surprisingly adept in combative situations."
-msgstr ""
+msgstr "Musím říct, slečno Holcombová, že jste překvapivě obratná v bojových situacích."
 
 #: conversations/companions/g_companion_max_banter:41
 msgctxt "conversations/companions/g_companion_max_banter:41:DefaultText"
 msgid "Why do I suspect you're about to make fun?"
-msgstr ""
+msgstr "Proč mám podezření, že se chystáte dělat si legraci?"
 
 #: conversations/companions/g_companion_max_banter:42
 msgctxt "conversations/companions/g_companion_max_banter:42:DefaultText"
 msgid "You are quite handy with that hammer."
-msgstr ""
+msgstr "S tím kladivem to umíš."
 
 #: conversations/companions/g_companion_max_banter:43
 msgctxt "conversations/companions/g_companion_max_banter:43:DefaultText"
 msgid "I like to hit things that annoy me."
-msgstr ""
+msgstr "Rád mlátím do věcí, které mě rozčilují."
 
 #: conversations/companions/g_companion_max_banter:44
 msgctxt "conversations/companions/g_companion_max_banter:44:DefaultText"
 msgid "Since when have Cleo's Darlings played so poorly in a consecutive sweep? You wouldn't be pulling my leg in order to win our bet, would you?"
-msgstr ""
+msgstr "Odkdy hrají Cleo's Darlings tak špatně v po sobě jdoucích zápasech? Snad mě netaháš za nos, abys vyhrál naši sázku?"
 
 #: conversations/companions/g_companion_max_banter:45
 msgctxt "conversations/companions/g_companion_max_banter:45:DefaultText"
 msgid "Step lively, Ms. Holcomb. "
-msgstr ""
+msgstr "Živě, paní Holcombová. "
 
 #: conversations/companions/g_companion_max_banter:46
 msgctxt "conversations/companions/g_companion_max_banter:46:DefaultText"
 msgid "I'm- I'm not winded, honest! My, uh, boot was untied."
-msgstr ""
+msgstr "Nejsem... nejsem vyčerpaný, upřímně! Rozvázala se mi bota."
 
 #: conversations/companions/g_companion_max_banter:47
 msgctxt "conversations/companions/g_companion_max_banter:47:DefaultText"
 msgid "Would hate for you to get left behind. Or Architect forbid - become lost."
-msgstr ""
+msgstr "Nerad bych, abyste zůstali pozadu. Nebo nedej bože, aby se ztratil."
 
 #: conversations/companions/g_companion_max_banter:48
 msgctxt "conversations/companions/g_companion_max_banter:48:DefaultText"
 msgid "All I'm saying, son, is you'll generate more force with the proper grip. It's more like this, not like that."
-msgstr ""
+msgstr "Chci jen říct, synu, že se správným úchopem vyvineš větší sílu. Je to spíš takhle, ne takhle."
 
 #: conversations/companions/g_companion_max_banter:49
 msgctxt "conversations/companions/g_companion_max_banter:49:DefaultText"
 msgid "So, Vic, what was it like in prison?"
-msgstr ""
+msgstr "Jaké to bylo ve vězení, Vicu?"
 
 #: conversations/companions/g_companion_max_banter:50
 msgctxt "conversations/companions/g_companion_max_banter:50:DefaultText"
 msgid "I don't like to talk about it."
-msgstr ""
+msgstr "Nerad o tom mluvím."
 
 #: conversations/companions/g_companion_max_banter:51
 msgctxt "conversations/companions/g_companion_max_banter:51:DefaultText"
 msgid "Was it run by Spacer's Choice?"
-msgstr ""
+msgstr "Provozovala ji společnost Spacer's Choice?"
 
 #: conversations/companions/g_companion_max_banter:52
 msgctxt "conversations/companions/g_companion_max_banter:52:DefaultText"
 msgid "What part of \"I don't like to talk about it\" do you not understand? Is it the \"don't\"? Cause it can't be the \"talk.\""
-msgstr ""
+msgstr "Které části věty \"nerad o tom mluvím\" nerozumíte? Je to to \"nechci\"? Protože to nemůže být to \"mluvit\"."
 
 #: conversations/companions/g_companion_max_banter:53
 msgctxt "conversations/companions/g_companion_max_banter:53:DefaultText"
 msgid "It baffles me why the captain puts up with your willful idiocy, Mr. Millstone."
-msgstr ""
+msgstr "Je mi záhadou, proč kapitán snáší vaši záměrnou idiocii, pane Millstone."
 
 #: conversations/companions/g_companion_max_banter:54
 msgctxt "conversations/companions/g_companion_max_banter:54:DefaultText"
 msgid "I bet it was a Spacer's Choice prison. Did you \"Taste the Freedom\"?"
-msgstr ""
+msgstr "Vsadím se, že to bylo vězení Spacer's Choice. Ochutnal jsi \"svobodu\"?"
 
 #: conversations/companions/g_companion_max_banter:55
 msgctxt "conversations/companions/g_companion_max_banter:55:DefaultText"
 msgid "I don't mean to be rude, Mr. Vicar, but... I already got a dad. I don't need a new one."
-msgstr ""
+msgstr "Nechci být nezdvořilý, pane faráři, ale... Já už tátu mám. Nepotřebuju nového."
 
 #: conversations/companions/g_companion_max_banter:56
 msgctxt "conversations/companions/g_companion_max_banter:56:DefaultText"
 msgid "Are you saying my advice is unwanted?"
-msgstr ""
+msgstr "Říkáte, že moje rada je nechtěná?"
 
 #: conversations/companions/g_companion_max_banter:57
 msgctxt "conversations/companions/g_companion_max_banter:57:DefaultText"
 msgid "My dad taught me some French, you know. Stuff about omelettes and, uh, fromage. I could take a look at that journal?"
-msgstr ""
+msgstr "Táta mě naučil francouzsky. Věci o omeletách a, uh, fromage. Mohl bych se podívat do toho deníku?"
 
 #: conversations/companions/g_companion_max_banter:58
 msgctxt "conversations/companions/g_companion_max_banter:58:DefaultText"
 msgid "By all means. I would be astounded yet astronomically in your debt."
-msgstr ""
+msgstr "V každém případě. Byl bych ohromen, ale astronomicky vám dlužím."
 
 #: conversations/companions/g_companion_max_banter:59
 msgctxt "conversations/companions/g_companion_max_banter:59:DefaultText"
 msgid "Oh, yeah, there's nothing at all about eggs 'n cheese in here. Sorry."
-msgstr ""
+msgstr "Jo, tady není vůbec nic o vejcích a sýru. Omlouvám se."
 
 #: conversations/companions/g_companion_max_banter:60
 msgctxt "conversations/companions/g_companion_max_banter:60:DefaultText"
 msgid "Very helpful. Thank you."
-msgstr ""
+msgstr "Velmi užitečné. Děkuji."
 
 #: conversations/companions/g_companion_max_banter:61
 msgctxt "conversations/companions/g_companion_max_banter:61:DefaultText"
 msgid "Hey, Mr. Vicar, do you ever get a little bit homesick for Edgewater? For that ocean stink?"
-msgstr ""
+msgstr "Pane faráři, nestýská se vám někdy po Edgewateru? Po tom zápachu oceánu?"
 
 #: conversations/companions/g_companion_max_banter:62
 msgctxt "conversations/companions/g_companion_max_banter:62:DefaultText"
 msgid "No, I do not."
-msgstr ""
+msgstr "Ne, nemám."
 
 #: conversations/companions/g_companion_max_banter:63
 msgctxt "conversations/companions/g_companion_max_banter:63:DefaultText"
 msgid "You're 'sposed to say yes and go on to explain why. I just wanna have a conversation."
-msgstr ""
+msgstr "Máte říct ano a vysvětlit proč. Chci si jen popovídat."
 
 #: conversations/companions/g_companion_max_banter:64
 msgctxt "conversations/companions/g_companion_max_banter:64:DefaultText"
 msgid "Mr. Millstone, you seem like a young man who could use some direction in your life."
-msgstr ""
+msgstr "Pane Millstone, zdá se, že jste mladý muž, který by potřeboval v životě nějaký směr."
 
 #: conversations/companions/g_companion_max_banter:65
 msgctxt "conversations/companions/g_companion_max_banter:65:DefaultText"
 msgid "Is this about me ending up in the wrong bunk? 'Cause I swear I wasn't that drunk. The hallway's disorienting."
-msgstr ""
+msgstr "Jde o to, že jsem skončil na špatném lůžku? Protože přísahám, že jsem nebyl tak opilý. Ta chodba je dezorientující."
 
 #: conversations/companions/g_companion_max_banter:66
 msgctxt "conversations/companions/g_companion_max_banter:66:DefaultText"
 msgid "Son, you can always come to me for spiritual guidance. But not between two and four a.m."
-msgstr ""
+msgstr "Synu, vždycky můžeš přijít za mnou pro duchovní vedení. Ale ne mezi druhou a čtvrtou hodinou ranní."
 
 #: conversations/companions/g_companion_max_banter:67
 msgctxt "conversations/companions/g_companion_max_banter:67:DefaultText"
 msgid "Also, I am really sorry about your floor."
-msgstr ""
+msgstr "Také je mi opravdu líto vaší podlahy."
 
 #: conversations/companions/g_companion_max_banter:68
 msgctxt "conversations/companions/g_companion_max_banter:68:DefaultText"
 msgid "Forget I broached the topic. Let's just pretend last night didn't happen."
-msgstr ""
+msgstr "Zapomeňte, že jsem to téma otevřel. Předstírejme, že se včerejší noc nestala."
 
 #: conversations/companions/g_companion_max_banter:69
 msgctxt "conversations/companions/g_companion_max_banter:69:DefaultText"
 msgid "No offense, Max, but I think I know my way around a tossball stick. I got my own set of highly specialized skull-cracking techniques."
-msgstr ""
+msgstr "Bez urážky, Maxi, ale myslím, že se v házení míčků vyznám. Mám vlastní sadu vysoce specializovaných technik na rozbíjení lebek."
 
 #: conversations/companions/g_companion_max_banter:70
 msgctxt "conversations/companions/g_companion_max_banter:70:DefaultText"
 msgid "I'm sayin' it's not very good."
-msgstr ""
+msgstr "Říkám, že to není moc dobré."
 
 #: conversations/companions/g_companion_max_banter:71
 msgctxt "conversations/companions/g_companion_max_banter:71:DefaultText"
 msgid "Of course you do."
-msgstr ""
+msgstr "Samozřejmě, že ano."
 
 #: conversations/companions/g_companion_max_banter:72
 msgctxt "conversations/companions/g_companion_max_banter:72:DefaultText"
 msgid "You know, Vic. You're starchier than a Spectrum potato. But you've got a mean left hook. And I respect that."
-msgstr ""
+msgstr "Víš, Vicu. Jsi škrobovitější než brambora ze Spektra. Ale máš skvělý levý hák. A to respektuji."
 
 #: conversations/companions/g_companion_max_banter:73
 msgctxt "conversations/companions/g_companion_max_banter:73:DefaultText"
 msgid "Thanks. I think. Guess I could give you some pointers."
-msgstr ""
+msgstr "Děkuji. Myslím, že. Myslím, že bych ti mohl dát nějaké tipy."
 
 #: conversations/companions/g_companion_max_banter:74
 msgctxt "conversations/companions/g_companion_max_banter:74:DefaultText"
 msgid "Yeah? All right, let's hear it."
-msgstr ""
+msgstr "Ano? Dobře, poslechněme si to."
 
 #: conversations/companions/g_companion_max_banter:75
 msgctxt "conversations/companions/g_companion_max_banter:75:DefaultText"
 msgid "Well, most significantly - aside from how you form and angle your fist - is that you cannot just punch with your arm. You must turn your upper body into it to generate any real force."
-msgstr ""
+msgstr "Nejdůležitější je, že kromě toho, jak se pěst formuje a nakloní, nemůžete jen tak udeřit rukou. Abyste vytvořili nějakou skutečnou sílu, musíte do ní natočit horní část těla."
 
 #: conversations/companions/g_companion_max_banter:76
 msgctxt "conversations/companions/g_companion_max_banter:76:DefaultText"
 msgid "That sounds real complicated. I think I'll stick with the Millstone Special, which is when I kick a jackass square in the chest."
-msgstr ""
+msgstr "To zní opravdu složitě. Myslím, že zůstanu u Mlýnského kamene, což je, když kopnu blbce přímo do hrudi."
 
 #: conversations/companions/g_companion_max_banter:77
 msgctxt "conversations/companions/g_companion_max_banter:77:DefaultText"
 msgid "I wonder where I picked up this stain? "
-msgstr ""
+msgstr "Zajímalo by mě, kde jsem tu skvrnu vzal? "
 
 #: conversations/companions/g_companion_max_banter:78
 msgctxt "conversations/companions/g_companion_max_banter:78:DefaultText"
 msgid "Wash mode on!"
-msgstr ""
+msgstr "Režim praní zapnut!"
 
 #: conversations/companions/g_companion_max_banter:79
 msgctxt "conversations/companions/g_companion_max_banter:79:DefaultText"
 msgid "No, no, no! Don't you dare point that hose at me you rusted bucket of bolts!"
-msgstr ""
+msgstr "Ne, ne, ne! Neopovažuj se na mě mířit tou hadicí, ty zrezivělý kýble šroubů!"
 
 #: conversations/companions/g_companion_max_banter:80
 msgctxt "conversations/companions/g_companion_max_banter:80:DefaultText"
 msgid "I don't mean to judge... but are you ever sober, Ms. Ramnarim-Wentworth?"
-msgstr ""
+msgstr "Nechci vás soudit... ale jste někdy střízlivá, slečno Ramnarimová-Wentworthová?"
 
 #: conversations/companions/g_companion_max_banter:81
 msgctxt "conversations/companions/g_companion_max_banter:81:DefaultText"
 msgid "Only when I got a job to do. And even that ain't a guarantee."
-msgstr ""
+msgstr "Jen když mám nějakou práci. A ani to není jisté."
 
 #: conversations/companions/g_companion_max_banter:82
 msgctxt "conversations/companions/g_companion_max_banter:82:DefaultText"
 msgid "Is it true that mantiqueens devour their mates after copulation?"
-msgstr ""
+msgstr "Je pravda, že mantikéni po kopulaci požírají své partnery?"
 
 #: conversations/companions/g_companion_max_banter:83
 msgctxt "conversations/companions/g_companion_max_banter:83:DefaultText"
 msgid "Yeah. Well... sort of. They kill 'em, but they leave the body 'til their swarm hatches and eats it. Their first meal is their father."
-msgstr ""
+msgstr "Jo. No... tak nějak. Zabijí je, ale tělo nechají, dokud se nevylíhne jejich roj a nesežere ho. Jejich prvním jídlem je jejich otec."
 
 #: conversations/companions/g_companion_max_banter:84
 msgctxt "conversations/companions/g_companion_max_banter:84:DefaultText"
 msgid "Makes one appreciative he wasn't born a mantisaur."
-msgstr ""
+msgstr "Člověk ocení, že se nenarodil jako kudlanka."
 
 #: conversations/companions/g_companion_max_banter:85
 msgctxt "conversations/companions/g_companion_max_banter:85:DefaultText"
 msgid "Slimy man like you might fit in just fine."
-msgstr ""
+msgstr "Slizoun jako vy by tam mohl zapadnout."
 
 #: conversations/companions/g_companion_max_banter:86
 msgctxt "conversations/companions/g_companion_max_banter:86:DefaultText"
 msgid "This is the simple truth. We are all molecular machines. The body is a collection of atoms. The mind is a consequence of chemical reactions. "
-msgstr ""
+msgstr "To je prostá pravda. Všichni jsme molekulární stroje. Tělo je soubor atomů. Mysl je důsledkem chemických reakcí. "
 
 #: conversations/companions/g_companion_max_banter:88
 msgctxt "conversations/companions/g_companion_max_banter:88:DefaultText"
 msgid "Therefore, our lives are predestined along a path that is only visible in retrospect. Life is fated. And unstoppable."
-msgstr ""
+msgstr "Naše životy jsou tedy předurčeny k tomu, aby se ubíraly cestou, která je viditelná až zpětně. Život je předurčen. A je nezastavitelný."
 
 #: conversations/companions/g_companion_max_banter:90
 msgctxt "conversations/companions/g_companion_max_banter:90:DefaultText"
 msgid "And you're un-shut-up-able."
-msgstr ""
+msgstr "A ty jsi nezavřený."
 
 #: conversations/companions/g_companion_max_banter:91
 msgctxt "conversations/companions/g_companion_max_banter:91:DefaultText"
 msgid "Gotta hand it to you, Max. You make my old med school lectures seem interesting."
-msgstr ""
+msgstr "Musím ti dát za pravdu, Maxi. Moje staré přednášky na medicíně se díky tobě zdají být zajímavé."
 
 #: conversations/companions/g_companion_max_banter:92
 msgctxt "conversations/companions/g_companion_max_banter:92:DefaultText"
 msgid "Max, you really oughta get yourself one of them portable pulpits."
-msgstr ""
+msgstr "Maxi, opravdu by sis měl pořídit jednu z těch přenosných kazatelen."
 
 #: conversations/companions/g_companion_max_banter:93
 msgctxt "conversations/companions/g_companion_max_banter:93:DefaultText"
 msgid "I dunno, Mr. Vicar, that seems like quite a leap."
-msgstr ""
+msgstr "Nevím, pane faráři, to mi připadá jako docela velký skok."
 
 #: conversations/companions/g_companion_max_banter:94
 msgctxt "conversations/companions/g_companion_max_banter:94:DefaultText"
 msgid "If I hear you say 'survival of the fittest' one more time, I'm going to lose it. Survival's about persistence and luck."
-msgstr ""
+msgstr "Jestli ještě jednou uslyším \"přežití nejsilnějšího\", tak se zblázním. Přežití je o vytrvalosti a štěstí."
 
 #: conversations/companions/g_companion_max_banter:95
 msgctxt "conversations/companions/g_companion_max_banter:95:DefaultText"
 msgid "So weapon proficiency and adaptive skill play no part whatsoever, in your mind?"
-msgstr ""
+msgstr "Takže podle vás zběhlost ve zbrani a adaptivní dovednosti nehrají žádnou roli?"
 
 #: conversations/companions/g_companion_max_banter:96
 msgctxt "conversations/companions/g_companion_max_banter:96:DefaultText"
 msgid "If it does, it ain't enough. I've gone and outlived the best hunters I ever knew."
-msgstr ""
+msgstr "Pokud ano, nestačí to. Přežil jsem nejlepší lovce, které jsem kdy poznal."
 
 #: conversations/companions/g_companion_max_banter:97
 msgctxt "conversations/companions/g_companion_max_banter:97:DefaultText"
 msgid "It is neither luck nor random chance. At times, destiny may not seem fair, but there is a reason for life-events, even if that reason is not immedately obvious."
-msgstr ""
+msgstr "Není to štěstí ani náhoda. Někdy se může zdát, že osud není spravedlivý, ale životní události mají svůj důvod, i když ten není bezprostředně zřejmý."
 
 #: conversations/companions/g_companion_max_banter:98
 msgctxt "conversations/companions/g_companion_max_banter:98:DefaultText"
 msgid "Please. Nature's only got one reason for death: To feed the ones still standing."
-msgstr ""
+msgstr "Prosím. Příroda má jen jeden důvod pro smrt: aby nakrmila ty, kteří ještě stojí na nohou."
 
 #: conversations/companions/g_companion_max_banter:103
 msgctxt "conversations/companions/g_companion_max_banter:103:DefaultText"
 msgid "<plays music on repeat>"
-msgstr ""
+msgstr "<přehrává hudbu opakovaně>"
 
 #: conversations/companions/g_companion_max_banter:104
 msgctxt "conversations/companions/g_companion_max_banter:104:DefaultText"
 msgid "Great, now I've got that tune stuck in my head."
-msgstr ""
+msgstr "Skvělé, teď mi ta melodie utkvěla v hlavě."
 
 #: conversations/companions/g_companion_max_banter:105
 msgctxt "conversations/companions/g_companion_max_banter:105:DefaultText"
 msgid "What are the odds of getting you to shine my boots, trash can?"
-msgstr ""
+msgstr "Jaká je šance, že mi vyleštíš boty, popelnice?"
 
 #: conversations/companions/g_companion_max_banter:106
 msgctxt "conversations/companions/g_companion_max_banter:106:DefaultText"
 msgid "Scheduling cleaning order: SHINE VICAR'S BOOTS. Date scheduled: NOT IN THIS CENTURY."
-msgstr ""
+msgstr "Plánování objednávky úklidu: LESK FARÁŘOVÝCH BOT. Plánované datum: NE V TOMTO STOLETÍ."
 
 #: conversations/companions/g_companion_max_banter:107
 msgctxt "conversations/companions/g_companion_max_banter:107:DefaultText"
 msgid "So, was that a yes?"
-msgstr ""
+msgstr "Takže to bylo ano?"
 
 #: conversations/companions/g_companion_max_banter:108
 msgctxt "conversations/companions/g_companion_max_banter:108:DefaultText"
 msgid "Whose bright idea was it to equip a janitorial automech with a flamethrower?"
-msgstr ""
+msgstr "Čí to byl chytrý nápad vybavit automecha s plamenometem?"
 
 #: conversations/companions/g_companion_max_banter:109
 msgctxt "conversations/companions/g_companion_max_banter:109:DefaultText"
 msgid "WARNING: Modifying this unit will void the warranty."
-msgstr ""
+msgstr "UPOZORNĚNÍ: Úpravou této jednotky zaniká záruka."
 
 #: conversations/companions/g_companion_max_banter:116
 msgctxt "conversations/companions/g_companion_max_banter:116:DefaultText"
 msgid "Sometimes I question my decision to be out here. But then I remember, free will is just an illusion."
-msgstr ""
+msgstr "Někdy zpochybňuji své rozhodnutí být tady. Ale pak si vzpomenu, že svobodná vůle je jen iluze."
 
 #: conversations/companions/g_companion_max_banter:117
 msgctxt "conversations/companions/g_companion_max_banter:117:DefaultText"
 msgid "There's no point to your regret, Ms. Ramnarim-Wentworth. It hurts you unduly and for no purpose."
-msgstr ""
+msgstr "Vaše lítost nemá smysl, paní Ramnarimová-Wentworthová. Zraňuje vás to zbytečně a bezdůvodně."
 
 #: conversations/companions/g_companion_max_banter:118
 msgctxt "conversations/companions/g_companion_max_banter:118:DefaultText"
 msgid "Might I ask how you are faring, Ms. Holcomb?"
-msgstr ""
+msgstr "Mohu se zeptat, jak se vám daří, paní Holcombová?"
 
 #: conversations/companions/g_companion_max_banter:119
 msgctxt "conversations/companions/g_companion_max_banter:119:DefaultText"
 msgid "You don’t need to keep up appearances, you're among friends. We would never leave you behind."
-msgstr ""
+msgstr "Nemusíš se nijak přetvařovat, jsi mezi přáteli. Nikdy bychom tě neopustili."
 
 #: conversations/companions/g_companion_max_banter:120
 msgctxt "conversations/companions/g_companion_max_banter:120:DefaultText"
 msgid "Can't say I miss the stink, or much about Edgewater if I'm being truthful. But I'll always be grateful I lived there, for it's where I met you and our captain."
-msgstr ""
+msgstr "Nemůžu říct, že by mi ten smrad chyběl, nebo že by mi Edgewater nějak moc chyběl, pokud mám být upřímný. Ale vždycky budu vděčný, že jsem tam žil, protože jsem tam potkal tebe a našeho kapitána."
 
 #: conversations/companions/g_companion_max_banter:121
 msgctxt "conversations/companions/g_companion_max_banter:121:DefaultText"
 msgid "That's... real sweet, Mr. Vicar. Suspiciously so."
-msgstr ""
+msgstr "To je... opravdu milé, pane faráři. Až podezřele."
 
 #: conversations/companions/g_companion_max_banter:123
 msgctxt "conversations/companions/g_companion_max_banter:123:DefaultText"
 msgid "Nor would I ever try to replace him. Why don't you think of me as a big brother who can't seem to help but blather on about the absurdities of existence?"
-msgstr ""
+msgstr "Ani já bych se ho nikdy nesnažil nahradit. Proč mě nepovažuješ za staršího bratra, který si nemůže pomoct a jen blábolí o absurditách existence?"
 
 #: conversations/companions/g_companion_max_banter:124
 msgctxt "conversations/companions/g_companion_max_banter:124:DefaultText"
 msgid "I think I can manage THAT all right."
-msgstr ""
+msgstr "Myslím, že to zvládnu."
 
 #: conversations/companions/g_companion_max_banter:125
 msgctxt "conversations/companions/g_companion_max_banter:125:DefaultText"
 msgid "Well, I find myself growing quite fond of you as well."
-msgstr ""
+msgstr "No, také jsem si vás oblíbil."
 
 #: conversations/companions/g_companion_max_banter:126
 msgctxt "conversations/companions/g_companion_max_banter:126:DefaultText"
 msgid "Dr. Fenhill, have you ever contemplated the fact that we have no direct experience of our own heads?"
-msgstr ""
+msgstr "Dr. Fenhille, přemýšlel jste někdy o tom, že nemáme přímou zkušenost s vlastní hlavou?"
 
 #: conversations/companions/g_companion_max_banter:127
 msgctxt "conversations/companions/g_companion_max_banter:127:DefaultText"
 msgid "I can feel my head with my hands, or look at myself in the mirror, but most times I feel like I'm a void floating above a body."
-msgstr ""
+msgstr "Můžu si rukama nahmatat hlavu nebo se na sebe podívat do zrcadla, ale většinou mám pocit, že jsem prázdnota, která se vznáší nad tělem."
 
 #: conversations/companions/g_companion_max_banter:128
 msgctxt "conversations/companions/g_companion_max_banter:128:DefaultText"
 msgid "Contemplating this revelation has provided me endless hours of amazement."
-msgstr ""
+msgstr "Rozjímání nad tímto objevem mi poskytlo nekonečné hodiny úžasu."
 
 #: conversations/companions/g_companion_max_banter:129
 msgctxt "conversations/companions/g_companion_max_banter:129:DefaultText"
 msgid "Then, uh, don't let me keep you from that."
-msgstr ""
+msgstr "Tak mi dovol, abych ti v tom nebránil."
 
 #: conversations/companions/g_companion_max_banter:131
 msgctxt "conversations/companions/g_companion_max_banter:131:DefaultText"
 msgid "I not only get you, I applaud you. Not many would have had the courage to turn their back on luxury. "
-msgstr ""
+msgstr "Nejenže tě chápu, ale ještě ti tleskám. Málokdo by měl odvahu otočit se k luxusu zády. "
 
 #: conversations/companions/g_companion_max_banter:132
 msgctxt "conversations/companions/g_companion_max_banter:132:DefaultText"
 msgid "Not to speak of the pressure you must have been under to fulfill the role you'd been assigned. "
-msgstr ""
+msgstr "A to nemluvím o tlaku, který na vás musel být vyvíjen, abyste splnil roli, která vám byla přidělena. "
 
 #: conversations/companions/g_companion_max_banter:134
 msgctxt "conversations/companions/g_companion_max_banter:134:DefaultText"
 msgid "Bravo! I couldn't have put it better myself."
-msgstr ""
+msgstr "Bravo! Sám bych to nevyjádřil lépe."
 
 #: conversations/companions/g_companion_max_banter:135
 msgctxt "conversations/companions/g_companion_max_banter:135:DefaultText"
 msgid "I didn't know you still cared about tossball, Max. What with your grand spiritual awakening and whatall."
-msgstr ""
+msgstr "Nevěděl jsem, že se pořád zajímáš o tossball, Maxi. To tvoje velké duchovní probuzení a tak."
 
 #: conversations/companions/g_companion_max_banter:136
 msgctxt "conversations/companions/g_companion_max_banter:136:DefaultText"
 msgid "I don't. But I know you do."
-msgstr ""
+msgstr "Já ne. Ale vím, že ty ano."
 
 #: conversations/companions/g_companion_max_banter:138
 msgctxt "conversations/companions/g_companion_max_banter:138:DefaultText"
 msgid "It was an alternating experience of drudgery, violence and spirit crushing boredom - but only because I let it be. "
-msgstr ""
+msgstr "Střídavě to byla dřina, násilí a ducha drtící nuda - ale jen proto, že jsem to tak nechal. "
 
 #: conversations/companions/g_companion_max_banter:139
 msgctxt "conversations/companions/g_companion_max_banter:139:DefaultText"
 msgid "Max, when was the last time you looked down your nose at me?"
-msgstr ""
+msgstr "Maxi, kdy ses na mě naposledy podíval skrz prsty?"
 
 #: conversations/companions/g_companion_max_banter:140
 msgctxt "conversations/companions/g_companion_max_banter:140:DefaultText"
 msgid "A lifetime ago, Felix. I was a different man then, but I still owe you an apology."
-msgstr ""
+msgstr "Před celým životem, Felixi. Tehdy jsem byl jiný člověk, ale stále ti dlužím omluvu."
 
 #: conversations/companions/g_companion_max_banter:141
 msgctxt "conversations/companions/g_companion_max_banter:141:DefaultText"
 msgid "Did you just... apologize to me? All right. Now you're starting to creep me out."
-msgstr ""
+msgstr "Právě ses mi omluvil? Dobře. Teď mě začínáš děsit."
 
 #: conversations/companions/g_companion_max_banter:143
 msgctxt "conversations/companions/g_companion_max_banter:143:DefaultText"
 msgid "Any regrets? Thoughts of not belonging, of not being where you're \"supposed to be\"?"
-msgstr ""
+msgstr "Litujete něčeho? Myšlenky na to, že nepatříte tam, kam \"máte být\"?"
 
 #: conversations/companions/g_companion_max_banter:147
 msgctxt "conversations/companions/g_companion_max_banter:147:DefaultText"
 msgid "I squandered a perfect opportunity for self-reflection. I could have found my answers sooner, if I'd only let myself. But then I wouldn't have met you or the captain. "
-msgstr ""
+msgstr "Promarnil jsem skvělou příležitost k sebereflexi. Mohl jsem najít odpovědi dříve, kdybych si to jen dovolil. Ale pak bych nepotkal tebe ani kapitána. "
 
 #: conversations/companions/g_companion_max_banter:148
 msgctxt "conversations/companions/g_companion_max_banter:148:DefaultText"
 msgid "So, is there anything you'd like to talk about, Felix?"
-msgstr ""
+msgstr "Je něco, o čem bys chtěl mluvit, Felixi?"
 
 #: conversations/companions/g_companion_max_banter:149
 msgctxt "conversations/companions/g_companion_max_banter:149:DefaultText"
 msgid "That's not what I... I just wanted you to know that I'm here in case there's anything I can help you with."
-msgstr ""
+msgstr "To není to, co jsem... Jen jsem chtěl, abys věděla, že jsem tady, kdybych ti mohl s něčím pomoct."
 
 #: conversations/companions/g_companion_max_banter:150
 msgctxt "conversations/companions/g_companion_max_banter:150:DefaultText"
 msgid "I've never been compared to a potato before. How wonderful! They are simplicity personified, aren't they? "
-msgstr ""
+msgstr "Nikdy předtím mě nikdo nepřirovnával k bramboře. To je úžasné! Jsou ztělesněním jednoduchosti, že? "
 
 #: conversations/companions/g_companion_max_banter:152
 msgctxt "conversations/companions/g_companion_max_banter:152:DefaultText"
 msgid "If you can get past the cannibalism, I'd bet it ain't that bad. They're the kings and queens of Monarch, after all."
-msgstr ""
+msgstr "Pokud se dokážete přenést přes kanibalismus, vsadil bych se, že to není tak špatné. Koneckonců jsou to králové a královny Monarchie."
 
 #: conversations/companions/g_companion_max_banter:153
 msgctxt "conversations/companions/g_companion_max_banter:153:DefaultText"
 msgid "I must apologize for my earlier comments. I was callous and showed little regard for your feelings. Sadly, a constant occurence before my recent... experience."
-msgstr ""
+msgstr "Musím se omluvit za své předchozí komentáře. Byl jsem bezcitný a málo jsem bral ohled na vaše pocity. Bohužel se to před mou nedávnou... zkušeností stávalo neustále."
 
 #: conversations/companions/g_companion_max_banter:154
 msgctxt "conversations/companions/g_companion_max_banter:154:DefaultText"
 msgid "Huh. I appreciate the sentiment. Maybe I won't look the other way next time a rapt is aiming to tear out your throat."
-msgstr ""
+msgstr "Huh. Oceňuji ten sentiment. Možná se příště nebudu dívat jinam, až ti bude chtít nějaký rapl vyrvat hrdlo."
 
 #: conversations/companions/g_companion_max_banter:158
 msgctxt "conversations/companions/g_companion_max_banter:158:DefaultText"
 msgid "Nor should it. But hopefully one day you'll be able to remember the joy you felt alongside your former comrades more keenly than the pain of their deaths."
-msgstr ""
+msgstr "Ani by neměla. Ale doufejme, že si jednoho dne budete moci vzpomenout na radost, kterou jste po boku svých bývalých kamarádů cítili, mnohem silněji než na bolest z jejich smrti."
 
 #: conversations/companions/g_companion_max_banter:159
 msgctxt "conversations/companions/g_companion_max_banter:159:DefaultText"
 msgid "Yeah. Maybe. Thankfully, in the meantime, we've got such fine distractions as drinking and killing."
-msgstr ""
+msgstr "Jo. Možná. Naštěstí máme zatím taková skvělá rozptýlení, jako je pití a zabíjení."
 
 #: conversations/companions/g_companion_max_banter:160
 msgctxt "conversations/companions/g_companion_max_banter:160:DefaultText"
 msgid "It is endlessly fascinating to me that all of existence is simply atoms, molecules and chemical reactions, which in turn create and govern our bodies, minds and emotions. "
-msgstr ""
+msgstr "Nesmírně mě fascinuje, že veškerá existence jsou jen atomy, molekuly a chemické reakce, které následně vytvářejí a řídí naše těla, mysl a emoce. "
 
 #: conversations/companions/g_companion_max_banter:161
 msgctxt "conversations/companions/g_companion_max_banter:161:DefaultText"
 msgid "And yet somehow, we still believe we are in control."
-msgstr ""
+msgstr "A přesto stále věříme, že máme vše pod kontrolou."
 
 #: conversations/companions/g_companion_max_banter:164
 msgctxt "conversations/companions/g_companion_max_banter:164:DefaultText"
 msgid "No, wait! Uh, let's please not have a repeat of that last fiasco, SAM. Please point that hose... elsewhere."
-msgstr ""
+msgstr "Ne, počkejte! Prosím, ať se neopakuje to poslední fiasko, SAM. Prosím, nasměruj tu hadici... jinam."
 
 #: conversations/companions/g_companion_max_banter:165
 msgctxt "conversations/companions/g_companion_max_banter:165:DefaultText"
 msgid "I've always liked this song."
-msgstr ""
+msgstr "Tuto píseň jsem měl vždycky rád."
 
 #: conversations/companions/g_companion_max_banter:166
 msgctxt "conversations/companions/g_companion_max_banter:166:DefaultText"
 msgid "Oh, pardon me, SAM."
-msgstr ""
+msgstr "Promiň, SAMe."
 
 #: conversations/companions/g_companion_max_banter:167
 msgctxt "conversations/companions/g_companion_max_banter:167:DefaultText"
 msgid "Is one healthy if they are well adjusted to a sick society?"
-msgstr ""
+msgstr "Je člověk zdravý, když je dobře přizpůsoben nemocné společnosti?"
 
 #: conversations/companions/g_companion_max_banter:169
 msgctxt "conversations/companions/g_companion_max_banter:169:DefaultText"
 msgid "You cannot understand a problem until you free yourself from the desire for an answer."
-msgstr ""
+msgstr "Problém nepochopíte, dokud se neosvobodíte od touhy po odpovědi."
 
 #: conversations/companions/g_companion_max_banter:170
 msgctxt "conversations/companions/g_companion_max_banter:170:DefaultText"
 msgid "Why are you asking me? Don't your scripture tell you that everything happens by the will of the universe?"
-msgstr ""
+msgstr "Proč se mě ptáte? Neříká vám snad Písmo, že všechno se děje z vůle vesmíru?"
 
 #: conversations/companions/g_companion_max_banter:171
 msgctxt "conversations/companions/g_companion_max_banter:171:DefaultText"
 msgid "You know me, Max. I'm satisfied so long as the Darlings get a proper clobbering. Which they most certainly did."
-msgstr ""
+msgstr "Znáš mě, Maxi. Jsem spokojený, pokud Miláčkové dostanou pořádnou nakládačku. Což se jim rozhodně povedlo."
 
 #: conversations/companions/g_companion_max_banter:172
 msgctxt "conversations/companions/g_companion_max_banter:172:DefaultText"
 msgid "Forget I said anything. Let's just move on."
-msgstr ""
+msgstr "Zapomeňte, že jsem něco řekl. Pojďme dál."

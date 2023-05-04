@@ -1,17 +1,17 @@
 #: conversations/08_roseway/08_cp_scientist_anton_personal_log:16
 msgctxt "conversations/08_roseway/08_cp_scientist_anton_personal_log:16:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"
 
 #: conversations/08_roseway/08_cp_scientist_anton_personal_log:18
 msgctxt "conversations/08_roseway/08_cp_scientist_anton_personal_log:18:DefaultText"
 msgid "Logged on. Welcome, Anton."
-msgstr ""
+msgstr "Přihlášeno. Vítej, Antone."
 
 #: conversations/08_roseway/08_cp_scientist_anton_personal_log:21
 msgctxt "conversations/08_roseway/08_cp_scientist_anton_personal_log:21:DefaultText"
 msgid "[Personal Files]"
-msgstr ""
+msgstr "[Osobní soubory]"
 
 #: conversations/08_roseway/08_cp_scientist_anton_personal_log:24
 msgctxt "conversations/08_roseway/08_cp_scientist_anton_personal_log:24:DefaultText"
@@ -21,53 +21,53 @@ msgid "PERSONAL FILES\r\n"
 "[2. Journal Entry 02]\r\n"
 "[3. Journal Entry 03]\r\n"
 "[4. Journal Entry 04]"
-msgstr ""
+msgstr "OSOBNÍ SOUBORY ------------------------------ [1. Záznam v deníku 01] [2. Záznam v deníku 02] [3. Záznam v deníku 03] [4. Záznam v deníku 04]"
 
 #: conversations/08_roseway/08_cp_scientist_anton_personal_log:25
 msgctxt "conversations/08_roseway/08_cp_scientist_anton_personal_log:25:DefaultText"
 msgid "[Journal Entry 01]"
-msgstr ""
+msgstr "[Záznam v deníku 01]"
 
 #: conversations/08_roseway/08_cp_scientist_anton_personal_log:26
 msgctxt "conversations/08_roseway/08_cp_scientist_anton_personal_log:26:DefaultText"
 msgid "[Journal Entry 02]"
-msgstr ""
+msgstr "[Záznam v deníku 02]"
 
 #: conversations/08_roseway/08_cp_scientist_anton_personal_log:27
 msgctxt "conversations/08_roseway/08_cp_scientist_anton_personal_log:27:DefaultText"
 msgid "[Journal Entry 03]"
-msgstr ""
+msgstr "[Záznam v deníku 03]"
 
 #: conversations/08_roseway/08_cp_scientist_anton_personal_log:28
 msgctxt "conversations/08_roseway/08_cp_scientist_anton_personal_log:28:DefaultText"
 msgid "[Journal Entry 04]"
-msgstr ""
+msgstr "[Záznam v deníku 04]"
 
 #: conversations/08_roseway/08_cp_scientist_anton_personal_log:29
 msgctxt "conversations/08_roseway/08_cp_scientist_anton_personal_log:29:DefaultText"
 msgid "I feel quite alone. Jameson's the only one here worth anything at all, but even he bristles at my direction. This is quite likely a natural reaction to my pushing him so relentlessly, but if he ever hopes to reach Byzantium, he needs someone applying the correct amount of pressure. \r\n"
 "\r\n"
 "I hope he'll come to see the truth, but, should that prove impossible, I can at least ensure his work doesn't damage my chances. I shall be keeping an eye on his reports to see if they, too, warrant revision. I can't abide any more demerits against us."
-msgstr ""
+msgstr "Cítím se docela sám. Jediný, kdo tu za něco stojí, je Jameson, ale i ten se na můj pokyn tváří nevrle. Je to dost pravděpodobně přirozená reakce na to, že na něj tak neúnavně tlačím, ale pokud někdy doufá, že se dostane do Byzance, potřebuje někoho, kdo na něj bude vyvíjet správný tlak. Doufám, že přijde na to, co je pravda, ale kdyby se to ukázalo jako nemožné, mohu alespoň zajistit, aby jeho práce nepoškodila mé šance. Budu sledovat jeho zprávy, abych zjistil, zda i ony si zaslouží revizi. Nemohu snést další záporné body v náš neprospěch."
 
 #: conversations/08_roseway/08_cp_scientist_anton_personal_log:30
 msgctxt "conversations/08_roseway/08_cp_scientist_anton_personal_log:30:DefaultText"
 msgid "Heard Jameson talking to Vaughn today. He was railing against me, claiming I'm using him and everyone here for my own ends. I'd expect vitriol from that lazy sod Vaughn, but Jameson? How can he not see that I have only his best interests at heart? \r\n"
 "\r\n"
 "I suppose I shouldn't be surprised, my unrelenting drive has always set others against me."
-msgstr ""
+msgstr "Slyšel jsem dnes Jamesona mluvit s Vaughnem. Brojil proti mně a tvrdil, že ho a všechny tady využívám pro své vlastní cíle. Od toho líného Vaughna bych čekal skepsi, ale od Jamesona? Jak to, že nevidí, že mi jde jen o jeho dobro? Asi by mě to nemělo překvapovat, moje neutuchající snaha vždycky poštvávala ostatní proti mně."
 
 #: conversations/08_roseway/08_cp_scientist_anton_personal_log:31
 msgctxt "conversations/08_roseway/08_cp_scientist_anton_personal_log:31:DefaultText"
 msgid "With our latest breakthrough, I believe Byzantium is finally within my grasp. My next promotion will deliver me, I'm certain, so long as they don't see through my attempts to cover for the rest of these fools. "
-msgstr ""
+msgstr "Věřím, že díky našemu poslednímu průlomu mám Byzanc konečně na dosah. Moje další povýšení mě vysvobodí, tím jsem si jistý, pokud neprohlédnou mé pokusy krýt zbytek těch bláznů. "
 
 #: conversations/08_roseway/08_cp_scientist_anton_personal_log:32
 msgctxt "conversations/08_roseway/08_cp_scientist_anton_personal_log:32:DefaultText"
 msgid "I can't quite shake this unease I seem to be gripped by. This makes no sense. While I have yet to get Trammel to commit to a specific date, he assures me Byzantium could be a mere few weeks away. \r\n"
 "\r\n"
 "So why this encroaching feeling of emptiness? Must be a case of the nerves - I know I'll be accepted and, dare I say, possibly even revered when I finally arrive."
-msgstr ""
+msgstr "Nemůžu se zbavit toho neklidu, který jako by se mě zmocnil. Nedává to smysl. Trammel se mi sice ještě nepodařilo přimět k tomu, aby se zavázal ke konkrétnímu datu, ale ujišťuje mě, že Byzantium může být už za pár týdnů. Tak proč ten vtíravý pocit prázdnoty? Musí to být nervozita - vím, že až konečně dorazím, budu přijat a, troufám si říct, možná i uctíván."
 
 #: conversations/08_roseway/08_cp_scientist_anton_personal_log:37
 msgctxt "conversations/08_roseway/08_cp_scientist_anton_personal_log:37:DefaultText"
@@ -78,7 +78,7 @@ msgid "Argos Security Systems\n"
 "All personnel please report to assigned workstations. Report suspicious activity to the nearest Site Safety Engineer.\n"
 "---------------------------------\n"
 "Auntie Cleo Auntie-Biotics™: served fresh from our petri dishes to YOUR personal crevices."
-msgstr ""
+msgstr "Argos Security Systems --------------------------------- BEZPEČNOSTNÍ UZÁVĚRA Všichni zaměstnanci se dostavte na přidělená pracoviště. Podezřelou činnost nahlaste nejbližšímu bezpečnostnímu technikovi pracoviště. --------------------------------- Auntie Cleo Auntie-Biotics™: podáváme čerstvě z našich Petriho misek do VAŠICH osobních štěrbin."
 
 #: conversations/08_roseway/08_cp_scientist_anton_personal_log:38
 msgctxt "conversations/08_roseway/08_cp_scientist_anton_personal_log:38:DefaultText"
@@ -89,7 +89,7 @@ msgid "Argos Security Systems\r\n"
 "All personnel please report to assigned workstations. Report suspicious activity to the nearest Site Safety Engineer.\r\n"
 "---------------------------------\r\n"
 "\"Auntie Cleo's - Better than Nature!\"™"
-msgstr ""
+msgstr "Argos Security Systems --------------------------------- BEZPEČNOSTNÍ UZÁVĚRA Všichni zaměstnanci se dostavte na přidělená pracoviště. Podezřelou činnost nahlaste nejbližšímu bezpečnostnímu technikovi pracoviště. --------------------------------- \"Auntie Cleo's - Better than Nature!\"™"
 
 #: conversations/08_roseway/08_cp_scientist_anton_personal_log:39
 msgctxt "conversations/08_roseway/08_cp_scientist_anton_personal_log:39:DefaultText"
@@ -100,7 +100,7 @@ msgid "Argos Security Systems\r\n"
 "All personnel please report to assigned workstations. Report suspicious activity to the nearest Site Safety Engineer.\r\n"
 "---------------------------------\r\n"
 "Feeling irate? Try Auntie Cleo's Nar-Choc-Lectic™ bars. Now with 3% real CCN76."
-msgstr ""
+msgstr "Argos Security Systems --------------------------------- BEZPEČNOSTNÍ UZÁVĚRA Všichni zaměstnanci se dostavte na přidělená pracoviště. Podezřelou činnost nahlaste nejbližšímu bezpečnostnímu technikovi pracoviště. --------------------------------- Cítíte se podráždění? Vyzkoušejte tyčinky Auntie Cleo's Nar-Choc-Lectic™. Nyní s 3 % skutečného CCN76."
 
 #: conversations/08_roseway/08_cp_scientist_anton_personal_log:40
 msgctxt "conversations/08_roseway/08_cp_scientist_anton_personal_log:40:DefaultText"
@@ -111,7 +111,7 @@ msgid "Argos Security Systems\r\n"
 "All personnel please report to assigned workstations. Report suspicious activity to the nearest Site Safety Engineer.\r\n"
 "---------------------------------\r\n"
 "Have you brushed your teeth with Auntie's Blinding White Paste™ today?"
-msgstr ""
+msgstr "Argos Security Systems --------------------------------- BEZPEČNOSTNÍ UZÁVĚRA Všichni zaměstnanci se dostavte na přidělená pracoviště. Podezřelou činnost nahlaste nejbližšímu bezpečnostnímu technikovi pracoviště. --------------------------------- Vyčistili jste si dnes zuby oslepující bílou pastou Auntie's White Paste™?"
 
 #: conversations/08_roseway/08_cp_scientist_anton_personal_log:41
 msgctxt "conversations/08_roseway/08_cp_scientist_anton_personal_log:41:DefaultText"
@@ -122,7 +122,7 @@ msgid "Argos Security Systems\r\n"
 "All personnel please report to assigned workstations. Report suspicious activity to the nearest Site Safety Engineer.\r\n"
 "---------------------------------\r\n"
 "Parents who buy Auntie Cleo should have children who buy Auntie Cleo."
-msgstr ""
+msgstr "Argos Security Systems --------------------------------- BEZPEČNOSTNÍ UZÁVĚRA Všichni zaměstnanci se dostavte na přidělená pracoviště. Podezřelou činnost nahlaste nejbližšímu bezpečnostnímu technikovi pracoviště. --------------------------------- Rodiče, kteří kupují Auntie Cleo, by měli mít děti, které kupují Auntie Cleo."
 
 #: conversations/08_roseway/08_cp_scientist_anton_personal_log:42
 msgctxt "conversations/08_roseway/08_cp_scientist_anton_personal_log:42:DefaultText"
@@ -133,7 +133,7 @@ msgid "Argos Security Systems\r\n"
 "All personnel please report to assigned workstations. Report suspicious activity to the nearest Site Safety Engineer.\r\n"
 "---------------------------------\r\n"
 "Tired of itchy acid burns? Try Auntie Cleo's artisanal boarst-scented moisturizing cream."
-msgstr ""
+msgstr "Argos Security Systems --------------------------------- BEZPEČNOSTNÍ UZÁVĚRA Všichni zaměstnanci se dostavte na přidělená pracoviště. Podezřelou činnost nahlaste nejbližšímu bezpečnostnímu technikovi pracoviště. --------------------------------- Máte dost svědivých popálenin od kyseliny? Vyzkoušejte řemeslný hydratační krém Auntie Cleo s vůní divočáka."
 
 #: conversations/08_roseway/08_cp_scientist_anton_personal_log:43
 msgctxt "conversations/08_roseway/08_cp_scientist_anton_personal_log:43:DefaultText"
@@ -144,7 +144,7 @@ msgid "Argos Security Systems\r\n"
 "All personnel please report to assigned workstations. Report suspicious activity to the nearest Site Safety Engineer.\r\n"
 "---------------------------------\r\n"
 "Try Auntie Cleo's Handi-Off™, the surgical stain remover of choice."
-msgstr ""
+msgstr "Argos Security Systems --------------------------------- BEZPEČNOSTNÍ UZÁVĚRA Všichni zaměstnanci se dostavte na přidělená pracoviště. Podezřelou činnost nahlaste nejbližšímu bezpečnostnímu technikovi pracoviště. --------------------------------- Vyzkoušejte Handi-Off™ od tety Cleo, nejvhodnější odstraňovač skvrn po chirurgických zákrocích."
 
 #: conversations/08_roseway/08_cp_scientist_anton_personal_log:44
 msgctxt "conversations/08_roseway/08_cp_scientist_anton_personal_log:44:DefaultText"
@@ -155,4 +155,4 @@ msgid "Argos Security Systems\r\n"
 "All personnel please report to assigned workstations. Report suspicious activity to the nearest Site Safety Engineer.\r\n"
 "---------------------------------\r\n"
 "Unsightly bloodstains? Consider Auntie Cleo's laundry soap. Now with a refreshing lemon zing scent."
-msgstr ""
+msgstr "Argos Security Systems --------------------------------- BEZPEČNOSTNÍ UZÁVĚRA Všichni zaměstnanci se dostavte na přidělená pracoviště. Podezřelou činnost nahlaste nejbližšímu bezpečnostnímu technikovi pracoviště. --------------------------------- Nevzhledné krvavé skvrny? Zvažte mýdlo na praní Auntie Cleo. Nyní s osvěžující citronovou vůní."

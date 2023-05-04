@@ -1,64 +1,64 @@
 #: quests/04_monarch/sq_0408_slaughterhouseclive:0
 msgctxt "quests/04_monarch/sq_0408_slaughterhouseclive:0:DefaultText"
 msgid "Slaughterhouse Clive"
-msgstr ""
+msgstr "Jatka Clive"
 
 #: quests/04_monarch/sq_0408_slaughterhouseclive:2
 msgctxt "quests/04_monarch/sq_0408_slaughterhouseclive:2:DefaultText"
 msgid "Deal with Clive"
-msgstr ""
+msgstr "Dohoda s Clivem"
 
 #: quests/04_monarch/sq_0408_slaughterhouseclive:4
 msgctxt "quests/04_monarch/sq_0408_slaughterhouseclive:4:DefaultText"
 msgid "Return to Catherine"
-msgstr ""
+msgstr "Zpět na Catherine"
 
 #: quests/04_monarch/sq_0408_slaughterhouseclive:5
 msgctxt "quests/04_monarch/sq_0408_slaughterhouseclive:5:DefaultText"
 msgid "(Optional) Convince Catherine to Work with Clive"
-msgstr ""
+msgstr "(Volitelné) Přesvědčte Catherine, aby spolupracovala s Clivem."
 
 #: quests/04_monarch/sq_0408_slaughterhouseclive:10000
 msgctxt "quests/04_monarch/sq_0408_slaughterhouseclive:10000:DefaultText"
 msgid "With the scarcity of saltuna alternatives on Monarch, Clive Lumbergh has been making a killing by operating the planet's last remaining boarst factory. SubLight wants to take the self-proclaimed Boarst King of Monarch's profits for themselves, and have hired you to get rid of him."
-msgstr ""
+msgstr "Vzhledem k tomu, že na Monarchu je nedostatek alternativních druhů soli, vydělává Clive Lumbergh na provozu poslední zbývající továrny na divočáky na planetě. Společnost SubLight chce samozvaného krále divočáků na Monarchu připravit o zisky a najala si vás, abyste se ho zbavili."
 
 #: quests/04_monarch/sq_0408_slaughterhouseclive:10002
 msgctxt "quests/04_monarch/sq_0408_slaughterhouseclive:10002:DefaultText"
 msgid "Make your way to Clive Lumbergh's office in the C&P Factory and get him out of SubLight's way."
-msgstr ""
+msgstr "Vydejte se do kanceláře Cliva Lumbergha v továrně C&P a odstraňte ho z cesty SubLight."
 
 #: quests/04_monarch/sq_0408_slaughterhouseclive:10004
 msgctxt "quests/04_monarch/sq_0408_slaughterhouseclive:10004:DefaultText"
 msgid "The deed is done. Let Catherine Malin in Fallbrook know the good news."
-msgstr ""
+msgstr "Čin je dokonán. Dejte Catherine Malinové ve Fallbrooku vědět dobrou zprávu."
 
 #: quests/04_monarch/sq_0408_slaughterhouseclive:10005
 msgctxt "quests/04_monarch/sq_0408_slaughterhouseclive:10005:DefaultText"
 msgid "Return to Catherine Malin in Fallbrook and propose a working relationship with Clive Lumbergh."
-msgstr ""
+msgstr "Vraťte se ke Catherine Malinové do Fallbrooku a navrhněte spolupráci s Clivem Lumberghem."
 
 #: quests/04_monarch/sq_0408_slaughterhouseclive:20010
 msgctxt "quests/04_monarch/sq_0408_slaughterhouseclive:20010:DefaultText"
 msgid "Alternatively, search the factory for a way to sabotage Clive's operations. Catherine suggests investigating the cystypig food supply, the canning machine or the financial records."
-msgstr ""
+msgstr "Případně v továrně hledejte způsob, jak sabotovat Clivovy operace. Catherine navrhuje prozkoumat zásoby potravin pro cystypigy, konzervárenský stroj nebo finanční záznamy."
 
 #: quests/04_monarch/sq_0408_slaughterhouseclive:30000
 msgctxt "quests/04_monarch/sq_0408_slaughterhouseclive:30000:DefaultText"
 msgid "Clive is dead. Now the Syndicate runs it in his stead, and reaps all the rewards."
-msgstr ""
+msgstr "Clive je mrtvý. Nyní ji místo něj řídí Syndikát a sklízí z toho všechny plody."
 
 #: quests/04_monarch/sq_0408_slaughterhouseclive:30001
 msgctxt "quests/04_monarch/sq_0408_slaughterhouseclive:30001:DefaultText"
 msgid "Clive's factory was sabotaged. He'll be forced to give it to Catherine."
-msgstr ""
+msgstr "Cliveova továrna byla sabotována. Bude nucen ji předat Catherine."
 
 #: quests/04_monarch/sq_0408_slaughterhouseclive:30002
 msgctxt "quests/04_monarch/sq_0408_slaughterhouseclive:30002:DefaultText"
 msgid "Clive and Catherine have formed a partnership."
-msgstr ""
+msgstr "Clive a Catherine uzavřeli partnerství."
 
 #: quests/04_monarch/sq_0408_slaughterhouseclive:30003
 msgctxt "quests/04_monarch/sq_0408_slaughterhouseclive:30003:DefaultText"
 msgid "Catherine Malin is dead. Collecting a reward will now be impossible."
-msgstr ""
+msgstr "Catherine Malinová je mrtvá. Vyzvednutí odměny je nyní nemožné."

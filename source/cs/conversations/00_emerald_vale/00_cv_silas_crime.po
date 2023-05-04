@@ -1,29 +1,29 @@
 #: conversations/00_emerald_vale/00_cv_silas_crime:1
 msgctxt "conversations/00_emerald_vale/00_cv_silas_crime:1:DefaultText"
 msgid "What's this about?"
-msgstr ""
+msgstr "O co jde?"
 
 #: conversations/00_emerald_vale/00_cv_silas_crime:2
 msgctxt "conversations/00_emerald_vale/00_cv_silas_crime:2:DefaultText"
 msgid "I'll pay you <oeiglobal>Bribe_Amount</oeiglobal> bits to look the other way."
-msgstr ""
+msgstr "Zaplatím vám <oeiglobal>Částka úplatku</oeiglobal>, abyste se dívali jinam."
 
 #: conversations/00_emerald_vale/00_cv_silas_crime:3
 msgctxt "conversations/00_emerald_vale/00_cv_silas_crime:3:DefaultText"
 msgid "Oh, nothing. Hey, what's that over there?"
-msgstr ""
+msgstr "Ach, nic. Hej, co je to tamhle?"
 
 #: conversations/00_emerald_vale/00_cv_silas_crime:4
 msgctxt "conversations/00_emerald_vale/00_cv_silas_crime:4:DefaultText"
 msgid "Mind your own business."
-msgstr ""
+msgstr "Hleďte si svého."
 
 #: conversations/00_emerald_vale/00_cv_silas_crime:5
 msgctxt "conversations/00_emerald_vale/00_cv_silas_crime:5:DefaultText"
 msgid "I was just leaving."
-msgstr ""
+msgstr "Právě jsem odcházel."
 
 #: conversations/00_emerald_vale/00_cv_silas_crime:6
 msgctxt "conversations/00_emerald_vale/00_cv_silas_crime:6:DefaultText"
 msgid "<Attack>"
-msgstr ""
+msgstr "<Útok>"

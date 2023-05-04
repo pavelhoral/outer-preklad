@@ -1,994 +1,994 @@
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:17
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:17:DefaultText"
 msgid "Identification, please."
-msgstr ""
+msgstr "Identifikace, prosím."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:18
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:18:DefaultText"
 msgid "<Present Hawthorne's ID> Here you go."
-msgstr ""
+msgstr "<Předložte Hawthornův průkaz> Tady máte."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:19
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:19:DefaultText"
 msgid "Let's say, hypothetically speaking, I don't have an ID. What happens then?"
-msgstr ""
+msgstr "Řekněme, že hypoteticky nemám občanský průkaz. Co se stane potom?"
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:22
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:22:DefaultText"
 msgid "Captain... Hawthorne, you said? Let me apologize in advance - I'm about to ruin your day."
-msgstr ""
+msgstr "Kapitán... Říkal jste Hawthorne? Dovolte mi, abych se předem omluvil - chystám se vám zkazit den."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:41
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:41:DefaultText"
 msgid "Everybody's got an ID. Let me guess - you \"left it in your other pants\"? I hear that one a lot."
-msgstr ""
+msgstr "Každý má průkaz totožnosti. Nech mě hádat - \"nechal sis ho v druhých kalhotách\"? To slýchám často."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:87
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:87:DefaultText"
 msgid "Something you need?"
-msgstr ""
+msgstr "Potřebujete něco?"
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:88
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:88:DefaultText"
 msgid "Hey there, Captain! Anything I can do for you?"
-msgstr ""
+msgstr "Ahoj, kapitáne! Mohu pro vás něco udělat?"
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:89
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:89:DefaultText"
 msgid "What do you need?"
-msgstr ""
+msgstr "Co potřebujete?"
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:90
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:90:DefaultText"
 msgid "I'm looking for a drink. Any recommendations?"
-msgstr ""
+msgstr "Hledám pití. Nějaká doporučení?"
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:91
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:91:DefaultText"
 msgid "See you around."
-msgstr ""
+msgstr "Uvidíme se."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:92
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:92:DefaultText"
 msgid "Can I find a job around here?"
-msgstr ""
+msgstr "Najdu si tady práci?"
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:98
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:98:DefaultText"
 msgid "Maybe. Most of the shipping traffic in the system passes through Groundbreaker. Every couple months, we even get a big interstellar freighter."
-msgstr ""
+msgstr "Možná. Většina lodní dopravy v systému prochází přes Groundbreaker. Jednou za pár měsíců sem dokonce dorazí velká mezihvězdná nákladní loď."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:99
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:99:DefaultText"
 msgid "Most places are on the Promenade deck. Big door yonder, straight through Security. There's a bar on the starboard side."
-msgstr ""
+msgstr "Většina míst se nachází na palubě Promenade. Velké dveře támhle, rovnou přes ochranku. Na pravoboku je bar."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:100
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:100:DefaultText"
 msgid "Which way's \"starboard?\" Aren't there stars all around?"
-msgstr ""
+msgstr "Který směr je \"pravobok\"? Nejsou všude kolem hvězdy?"
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:101
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:101:DefaultText"
 msgid "It means on your right side. Reckon you're from one of the planets? Word of advice. You see a door marked \"opens to vacuum,\" stay clear."
-msgstr ""
+msgstr "To znamená na pravé straně. Myslíš, že jsi z jedné z planet? Dám ti radu. Pokud uvidíte dveře s nápisem \"otevírají se do vysavače\", držte se dál."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:125
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:125:DefaultText"
 msgid "I'm looking for someone named Gladys."
-msgstr ""
+msgstr "Hledám někoho jménem Gladys."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:126
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:126:DefaultText"
 msgid "The fence? You'll find her in the Rest-n-Go, on your left when you enter the Promenade."
-msgstr ""
+msgstr "Plot? Najdete ji v Rest-n-Go po levé straně, když vstoupíte na promenádu."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:127
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:127:DefaultText"
 msgid "Two biggest operations are the Board - that is, Halcyon Holdings - and SubLight Salvage. But there are independent operators around the Promenade Deck."
-msgstr ""
+msgstr "Dvě největší operace jsou představenstvo - tedy Halcyon Holdings - a SubLight Salvage. Kolem Promenádní paluby však působí i nezávislí provozovatelé."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:128
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:128:DefaultText"
 msgid "You're guarding the door, so I'll call you guard. You're welcome."
-msgstr ""
+msgstr "Hlídáš dveře, tak ti budu říkat strážný. Nemáš zač."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:129
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:129:DefaultText"
 msgid "That's only about the third or fourth dumbest line I've heard all day. I give it a six out of ten."
-msgstr ""
+msgstr "To je teprve třetí nebo čtvrtá nejhloupější věta, kterou jsem za celý den slyšel. Dávám šest z deseti."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:139
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:139:DefaultText"
 msgid "What if I need to clean up a mess? Like I spilled crumbs on a carpet or something."
-msgstr ""
+msgstr "Co když potřebuji uklidit nepořádek? Třeba když vysypu drobky na koberec nebo tak něco."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:140
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:140:DefaultText"
 msgid "That's not the kind of vac- You know what? Never mind. Open any door you want. The mess will take care of itself."
-msgstr ""
+msgstr "To není ten typ vysavače... Víš co? To je jedno. Otevřete si jakékoliv dveře. Nepořádek se postará sám o sebe."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:146
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:146:DefaultText"
 msgid "Make sure you bring an empty belly."
-msgstr ""
+msgstr "Nezapomeňte si vzít prázdný žaludek."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:150
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:150:DefaultText"
 msgid "I'm looking for something a little more... local."
-msgstr ""
+msgstr "Hledám něco více... místního."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:151
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:151:DefaultText"
 msgid "The Board runs most of the system, don't they?"
-msgstr ""
+msgstr "Správní rada řídí většinu systému, nebo ne?"
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:152
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:152:DefaultText"
 msgid "What do you know about SubLight Salvage?"
-msgstr ""
+msgstr "Co víte o společnosti SubLight Salvage?"
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:153
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:153:DefaultText"
 msgid "SubLight gives me the creeps. I've known folks who went to work for them and just... vanished."
-msgstr ""
+msgstr "SubLight mi nahání husí kůži. Znám lidi, kteří pro ně začali pracovat a prostě... zmizeli."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:154
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:154:DefaultText"
 msgid "I didn't think there were many independent operators in the system."
-msgstr ""
+msgstr "Myslel jsem si, že v systému není mnoho nezávislých operátorů."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:155
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:155:DefaultText"
 msgid "Most of those jobs are gonna take you off-station, though."
-msgstr ""
+msgstr "Většinu z nich však budete muset vykonávat mimo stanici."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:156
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:156:DefaultText"
 msgid "That's all I needed to know about work."
-msgstr ""
+msgstr "To je vše, co jsem potřeboval vědět o práci."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:157
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:157:DefaultText"
 msgid "All right."
-msgstr ""
+msgstr "Dobře."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:160
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:160:DefaultText"
 msgid "Hey there."
-msgstr ""
+msgstr "Ahoj."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:164
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:164:DefaultText"
 msgid "Yeah. Groundbreaker's the only real independent port. Aside from us, there's just tramp freighters and wildcat miners."
-msgstr ""
+msgstr "Jo. Groundbreaker je jediný skutečně nezávislý port. Kromě nás jsou tu jen trampské nákladní lodě a divocí těžaři."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:165
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:165:DefaultText"
 msgid "If you're thinking to make a career here, don't waste your time."
-msgstr ""
+msgstr "Pokud uvažujete o kariéře v této oblasti, neztrácejte čas."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:166
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:166:DefaultText"
 msgid "Full-time jobs on Groundbreaker tend to be inherited, or go to a fellow crewmember's kid. Keep it in the family, you know?"
-msgstr ""
+msgstr "Práce na plný úvazek na Groundbreakeru se většinou dědí, nebo ji dostane dítě člena posádky. Aby to zůstalo v rodině, víte?"
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:169
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:169:DefaultText"
 msgid "Seems like every year, the Board's offices get bigger, and their ships take up more of the landing bays. Haven't seen nearly as many tramp crews this year."
-msgstr ""
+msgstr "Zdá se, že každý rok se kanceláře rady zvětšují a jejich lodě zabírají větší část přistávacích prostor. Letos jsem neviděl ani zdaleka tolik trampských posádek."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:170
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:170:DefaultText"
 msgid "They strip the parts from derelict ships and abandoned outposts. There's some that say they make the derelicts and \"encourage\" folk to abandon their steads."
-msgstr ""
+msgstr "Snímají součástky z opuštěných lodí a opuštěných základen. Někteří říkají, že vyrábějí opuštěné lodě a \"povzbuzují\" lidi, aby opustili své lodě."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:171
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:171:DefaultText"
 msgid "Relative to the Board holdings? Not really. But there's a few with the means to go where they will."
-msgstr ""
+msgstr "V poměru k podílům ve správní radě? Ani ne. Ale je jich několik, které mají prostředky na to, aby šly tam, kam chtějí."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:172
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:172:DefaultText"
 msgid "They aren't rich. But they aren't likely to look too close at your work history, either."
-msgstr ""
+msgstr "Nejsou bohatí. Ale pravděpodobně se také nebudou příliš zabývat vaší pracovní historií."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:173
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:173:DefaultText"
 msgid "My name's <oeitoken>PlayerName</oeitoken>. It's my first time here."
-msgstr ""
+msgstr "Mé jméno je <oeitoken>Jméno hráče</oeitoken>. Jsem tu poprvé."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:182
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:182:DefaultText"
 msgid "I'm just borrowing it."
-msgstr ""
+msgstr "Jen si ho půjčuji."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:184
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:184:DefaultText"
 msgid "Hawthorne died in a crash. I took his ID so I could fly his ship."
-msgstr ""
+msgstr "Hawthorne zemřel při nehodě. Vzal jsem si jeho průkaz, abych mohl létat na jeho lodi."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:185
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:185:DefaultText"
 msgid "I won the ship in a poker game. Hawthorne gave me his ID so I could fly it."
-msgstr ""
+msgstr "Vyhrál jsem loď v pokeru. Hawthorne mi dal svůj průkaz, abych s ní mohl letět."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:188
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:188:DefaultText"
 msgid "Please, you can do better than that. Where's the drama?"
-msgstr ""
+msgstr "Prosím, máte na víc. Kde je to drama?"
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:191
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:191:DefaultText"
 msgid "Not fond of that story. Lacks dazzle. What else have you got?"
-msgstr ""
+msgstr "Ten příběh se mi nelíbí. Chybí mu oslnivost. Co jiného máš?"
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:201
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:201:DefaultText"
 msgid "According to your ship's record, you've been flagged by the Board. Your ship will be impounded until such a time as they see fit to lift it."
-msgstr ""
+msgstr "Podle záznamů vaší lodi vás rada označila. Vaše loď bude zabavena do doby, než uznají za vhodné ji zrušit."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:202
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:202:DefaultText"
 msgid "How do I get this resolved?"
-msgstr ""
+msgstr "Jak to mohu vyřešit?"
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:203
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:203:DefaultText"
 msgid "So I'm stuck here?"
-msgstr ""
+msgstr "Takže jsem tu uvízl?"
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:204
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:204:DefaultText"
 msgid "I take it this happens a lot."
-msgstr ""
+msgstr "Chápu to tak, že se to stává často."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:206
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:206:DefaultText"
 msgid "His office is located along the starboard wall of the Promenade. Shines like a Byzantium commode. You can't miss it."
-msgstr ""
+msgstr "Jeho kancelář se nachází podél pravé stěny promenády. Svítí jako byzantská komoda. Nemůžete ji přehlédnout."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:207
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:207:DefaultText"
 msgid "Not 'stuck,' per se. You could always throw yourself out the airlock."
-msgstr ""
+msgstr "Ne \"zaseklý\" jako takový. Vždycky se můžeš vrhnout z přechodové komory."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:209
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:209:DefaultText"
 msgid "You got a ship but you've never visited Groundbreaker? You must've just dusted off from one of those dirtside outposts."
-msgstr ""
+msgstr "Máte loď, ale nikdy jste nenavštívili Groundbreaker? To jsi se musel zrovna oprášit z jedné z těch špinavých základen."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:210
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:210:DefaultText"
 msgid "Is there anything else I can help you with?"
-msgstr ""
+msgstr "Mohu vám ještě s něčím pomoci?"
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:213
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:213:DefaultText"
 msgid "Hey, that's better than half! Could be worse."
-msgstr ""
+msgstr "Hej, to je lepší než polovina! Mohlo by to být horší."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:214
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:214:DefaultText"
 msgid "Could be better, too."
-msgstr ""
+msgstr "Mohlo by to být i lepší."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:215
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:215:DefaultText"
 msgid "So. Identification?"
-msgstr ""
+msgstr "Takže. Identifikace?"
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:216
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:216:DefaultText"
 msgid "Seems a little high. That was barely a three, in my humble opinion."
-msgstr ""
+msgstr "Zdá se, že je to trochu moc. Podle mého skromného názoru to byla sotva trojka."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:217
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:217:DefaultText"
 msgid "I was being generous for the sake of his pride."
-msgstr ""
+msgstr "Byl jsem velkorysý kvůli jeho hrdosti."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:217
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:217:FemaleText"
 msgid "I was being generous for the sake of her pride."
-msgstr ""
+msgstr "Byl jsem velkorysý kvůli její hrdosti."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:224
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:224:DefaultText"
 msgid "You'll want to take it up with Udom Bedford, our Board representative here on Groundbreaker."
-msgstr ""
+msgstr "Obraťte se na Udom Bedforda, zástupce naší správní rady zde na serveru Groundbreaker."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:225
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:225:DefaultText"
 msgid "Any idea why my ship was impounded?"
-msgstr ""
+msgstr "Netušíte, proč byla moje loď zabavena?"
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:226
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:226:DefaultText"
 msgid "Access to that information is above my pay grade - and I've turned down three promotions so it stays that way."
-msgstr ""
+msgstr "Přístup k těmto informacím je nad mým platovým ohodnocením - a já jsem odmítl tři povýšení, takže to tak zůstane."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:229
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:229:DefaultText"
 msgid "'Course, then you'd find yourself with an exciting new problem."
-msgstr ""
+msgstr "\"Samozřejmě, pak bys měl nový vzrušující problém."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:230
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:230:DefaultText"
 msgid "What if I told you I'm a newly thawed colonist from the Hope?"
-msgstr ""
+msgstr "Co kdybych ti řekl, že jsem čerstvě rozmražený kolonista z Naděje?"
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:231
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:231:DefaultText"
 msgid "I'd tell you no one's fallen for that line in about thirty years. Then I'd take the safety off my gun and kindly ask you to move along."
-msgstr ""
+msgstr "Řekl bych vám, že na tuhle větu nikdo neskočil už asi třicet let. Pak bych si sundal pojistku z pistole a laskavě vás požádal, abyste šel dál."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:233
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:233:DefaultText"
 msgid "It's a good thing he didn't say that then, right? Right, sir?"
-msgstr ""
+msgstr "Je dobře, že to neřekl, že? Že, pane?"
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:233
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:233:FemaleText"
 msgid "It's a good thing she didn't say that then, right? Right, sir?"
-msgstr ""
+msgstr "Je dobře, že to neřekla, že? Že, pane?"
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:234
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:234:DefaultText"
 msgid "Sure, kid. Right."
-msgstr ""
+msgstr "Jistě, chlapče. Jasně."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:239
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:239:DefaultText"
 msgid "I take it back. I'm not Hawthorne, and that isn't my ship."
-msgstr ""
+msgstr "Beru to zpět. Nejsem Hawthorne a tohle není moje loď."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:240
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:240:DefaultText"
 msgid "Oh, thank the Law, I could use a diversion. Tell me more, then. Really sell it to me."
-msgstr ""
+msgstr "Díky zákonu, potřeboval bych rozptýlení. Tak mi řekni víc. Opravdu mi to řekni."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:243
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:243:DefaultText"
 msgid "No need to check in again, \"Not\" Captain Hawthorne."
-msgstr ""
+msgstr "Není třeba se znovu hlásit, \"ne\" kapitán Hawthorne."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:250
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:250:DefaultText"
 msgid "Well, welcome to Groundbreaker. I'm sorry to tell you this, but - I'm about to ruin your day."
-msgstr ""
+msgstr "Vítejte v Groundbreakeru. Je mi líto, že vám to musím říct, ale - chystám se vám zkazit den."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:251
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:251:DefaultText"
 msgid "Captain Hawthorne abducted me and made me work his ship for free. I'm a prisoner. Help."
-msgstr ""
+msgstr "Kapitán Hawthorne mě unesl a donutil mě pracovat na jeho lodi zadarmo. Jsem vězeň. Pomozte mi."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:252
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:252:DefaultText"
 msgid "I like where this is headed. What happened to this vile kidnapper?"
-msgstr ""
+msgstr "Líbí se mi, kam to směřuje. Co se stalo s tím odporným únoscem?"
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:253
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:253:DefaultText"
 msgid "He's dead."
-msgstr ""
+msgstr "Je mrtvý."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:254
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:254:DefaultText"
 msgid "I killed him."
-msgstr ""
+msgstr "Zabil jsem ho."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:255
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:255:DefaultText"
 msgid "He disappeared in the night."
-msgstr ""
+msgstr "V noci zmizel."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:256
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:256:DefaultText"
 msgid "You must feel terrific. Good for you."
-msgstr ""
+msgstr "Musíte se cítit skvěle. To je dobře."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:260
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:260:DefaultText"
 msgid "I was hoping for something a little more thrilling. You sure you didn't duel him to the death for it? Steal it from his berth while he slept nearby?"
-msgstr ""
+msgstr "Doufal jsem v něco napínavějšího. Jsi si jistý, že jsi s ním kvůli tomu nesoupeřil na život a na smrt? Neukradl ho z jeho lůžka, když spal poblíž?"
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:261
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:261:DefaultText"
 msgid "Honest, sir, us flying it's kind of an accident. We didn't come by it dishonest-like."
-msgstr ""
+msgstr "Upřímně, pane, my létáme tak trochu náhodou. Nepřišli jsme k tomu nečestně."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:262
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:262:DefaultText"
 msgid "That's no fun."
-msgstr ""
+msgstr "To není žádná legrace."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:264
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:264:DefaultText"
 msgid "Identification, please."
-msgstr ""
+msgstr "Identifikace, prosím."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:265
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:265:DefaultText"
 msgid "Got it."
-msgstr ""
+msgstr "Mám to."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:266
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:266:DefaultText"
 msgid "You need anything else, you let me know. Don't want anyone saying Groundbreaker's not the most hospitable port in the colony."
-msgstr ""
+msgstr "Pokud budete potřebovat něco dalšího, dejte mi vědět. Nechci, aby někdo říkal, že Groundbreaker není nejpohostinnější přístav v kolonii."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:268
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:268:DefaultText"
 msgid "Oh, and if you're headed that way, would you mind doing me a favor?"
-msgstr ""
+msgstr "A jestli máš namířeno tam, mohl bys mi prokázat laskavost?"
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:269
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:269:DefaultText"
 msgid "Sure."
-msgstr ""
+msgstr "Jistě."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:270
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:270:DefaultText"
 msgid "I'm not going to do your job for you."
-msgstr ""
+msgstr "Nebudu dělat vaši práci za vás."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:271
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:271:DefaultText"
 msgid "Now hold on, it'll just take a minute."
-msgstr ""
+msgstr "Počkejte, bude to trvat jen chvilku."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:272
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:272:DefaultText"
 msgid "Wanda Dorsett, over in Sick Bay. Tell her the shipment's not in yet, it's not comin' in any time soon, and if she'd be so obliged, to get off my ass about it."
-msgstr ""
+msgstr "Wanda Dorsettová, v nemocnici Sick Bay. Řekni jí, že zásilka ještě nedorazila, že v nejbližší době nedorazí, a kdyby byla tak laskavá, ať mi kvůli tomu dá pokoj."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:273
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:273:DefaultText"
 msgid "Got it."
-msgstr ""
+msgstr "Mám to."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:274
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:274:DefaultText"
 msgid "Her shipment?"
-msgstr ""
+msgstr "Její zásilka?"
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:275
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:275:DefaultText"
 msgid "A handful of SAM cleaning units retrofitted for surgery. I don't know much else, I stopped listening when she started yelling."
-msgstr ""
+msgstr "Několik čisticích jednotek SAM dodatečně vybavených pro operace. Víc toho nevím, přestal jsem ji poslouchat, když začala křičet."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:276
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:276:DefaultText"
 msgid "No promises."
-msgstr ""
+msgstr "Nic neslibuju."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:277
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:277:DefaultText"
 msgid "'Course. What am I to you but the guy who's got his eye on your ship?"
-msgstr ""
+msgstr "\"Kurz. Co jsem pro tebe jiného než chlap, který sleduje tvou loď?"
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:278
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:278:DefaultText"
 msgid "Much appreciated."
-msgstr ""
+msgstr "Velmi si toho vážíme."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:279
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:279:DefaultText"
 msgid "I got a preference for the Lost Hope, myself. Talk to Vera, she'll set you right."
-msgstr ""
+msgstr "Sám dávám přednost Ztracené naději. Promluv si s Verou, ta tě uvede do pořádku."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:280
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:280:DefaultText"
 msgid "I shouldn't be mentioning it, but what the hell. This here - impounding your ship? It doesn't happen much. The Board knows we don't take kindly to their interfering in our operations."
-msgstr ""
+msgstr "Neměl bych se o tom zmiňovat, ale co už. Tohle - zabavení vaší lodi? To se moc nestává. Správní rada ví, že si nenecháme líbit jejich zasahování do našich operací."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:281
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:281:DefaultText"
 msgid "If I had to take a guess as to why? You probably riled up the wrong petty Board bureaucrat - man named Udom Bedford."
-msgstr ""
+msgstr "Kdybych měl hádat proč? Pravděpodobně jste rozčílil špatného úředníka z rady - muže jménem Udom Bedford."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:282
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:282:DefaultText"
 msgid "Just the opposite. The Board knows we don't take kindly to their interfering in our operations here."
-msgstr ""
+msgstr "Právě naopak. Správní rada ví, že si nenecháme líbit jejich zasahování do naší činnosti."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:287
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:287:DefaultText"
 msgid "Great, I'll go talk to him and straighten this out."
-msgstr ""
+msgstr "Skvělé, půjdu si s ním promluvit a vyřeším to."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:288
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:288:DefaultText"
 msgid "I'm going to wring this Bedford guy's neck."
-msgstr ""
+msgstr "Bedfordovi zakroutím krkem."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:289
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:289:DefaultText"
 msgid "You take the starch out of him, well, you won't hear any complaints from me."
-msgstr ""
+msgstr "Když ho zbavíte škrobu, nebudu si stěžovat."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:290
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:290:DefaultText"
 msgid "Not gonna lie, you're in a pickle. But Udom's an... interesting guy. Might be you all could come to accords if you play your cards right."
-msgstr ""
+msgstr "Nebudu lhát, jsi v pěkné bryndě. Ale Udom je... zajímavý chlap. Možná byste se mohli všichni dohodnout, když budete hrát správně."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:291
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:291:DefaultText"
 msgid "Fine. What is it?"
-msgstr ""
+msgstr "V pořádku. Co je to?"
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:292
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:292:DefaultText"
 msgid "Seriously. Back off."
-msgstr ""
+msgstr "Vážně. Ustupte."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:293
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:293:DefaultText"
 msgid "All right, all right. No need to get hostile. We're all friends here on Groundbreaker. Mostly."
-msgstr ""
+msgstr "Dobře, dobře. Nemusíte se chovat nepřátelsky. Na Groundbreakeru jsme všichni přátelé. Většinou."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:294
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:294:DefaultText"
 msgid "What can you tell me about Udom Bedford?"
-msgstr ""
+msgstr "Co mi můžete říct o Udomu Bedfordovi?"
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:295
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:295:DefaultText"
 msgid "He's friendly enough unless you speak ill of the Board. Get the sense he doesn't care for Groundbreaker much."
-msgstr ""
+msgstr "Je dost přátelský, pokud nemluvíte špatně o Radě. Mám pocit, že se o Hromotluka moc nezajímá."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:296
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:296:DefaultText"
 msgid "He's used to scented soaps and reliable plumbing. Takes a special type to adjust to life out here."
-msgstr ""
+msgstr "Je zvyklý na voňavá mýdla a spolehlivý vodovod. Přizpůsobit se zdejšímu životu vyžaduje zvláštní typ."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:297
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:297:DefaultText"
 msgid "Not that he would, being a Board man and all. He's our liaison."
-msgstr ""
+msgstr "Ne že by to udělal, když je členem představenstva a tak. Je to naše spojka."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:298
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:298:DefaultText"
 msgid "Really likes his serials, too. Maybe a little too much. Bit of a weird bird, all told. "
-msgstr ""
+msgstr "Jeho seriály má také velmi rád. Možná až příliš. Trochu divný pták, když to tak vezmu. "
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:300
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:300:DefaultText"
 msgid "Sounds like a fun guy."
-msgstr ""
+msgstr "Vypadá to, že je s ním legrace."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:301
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:301:DefaultText"
 msgid "Thanks for the info."
-msgstr ""
+msgstr "Děkujeme za informace."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:302
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:302:DefaultText"
 msgid "Sure thing."
-msgstr ""
+msgstr "Jistě."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:303
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:303:DefaultText"
 msgid "Don't see what's so wrong 'bout liking serials. They're fun."
-msgstr ""
+msgstr "Nechápu, co je špatného na tom, že se mi líbí seriály. Jsou zábavné."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:304
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:304:DefaultText"
 msgid "Udom takes it to an... unhealthy level."
-msgstr ""
+msgstr "Udom to posouvá na... nezdravou úroveň."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:305
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:305:DefaultText"
 msgid "Comdt. Sanita might have a couple of folks she needs killed. Bad folks, I mean - not uh, not regular folks. She'll be at the Security desk behind me."
-msgstr ""
+msgstr "Velitelka Sanita možná potřebuje pár lidí zabít. Tedy zlé lidi - ne obyčejné lidi. Bude u bezpečnostního pultu za mnou."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:306
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:306:DefaultText"
 msgid "Chief Junlei might have an errand needs running. She's all tied up trying to fix our heat problem - you'll find her in Engineering."
-msgstr ""
+msgstr "Náčelník Junlei možná potřebuje něco zařídit. Je zaneprázdněná řešením našeho problému s teplem - najdete ji ve strojovně."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:307
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:307:DefaultText"
 msgid "Got it, thanks."
-msgstr ""
+msgstr "Mám to, díky."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:308
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:308:DefaultText"
 msgid "How about something long-term?"
-msgstr ""
+msgstr "Co takhle něco dlouhodobého?"
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:309
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:309:DefaultText"
 msgid "Happy to help. That's my job, after all."
-msgstr ""
+msgstr "Rád vám pomůžu. To je koneckonců moje práce."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:310
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:310:DefaultText"
 msgid "You're real good at it, too."
-msgstr ""
+msgstr "Jsi v tom také opravdu dobrý."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:311
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:311:DefaultText"
 msgid "Well thank you, miss. It's nice to be recognized. Yep."
-msgstr ""
+msgstr "Děkuji vám, slečno. Je hezké být uznán. Ano."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:312
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:312:DefaultText"
 msgid "Can we move this along? I have a certain, uh, matter I'd like to attend to, Captain."
-msgstr ""
+msgstr "Můžeme s tím pohnout? Mám jistou záležitost, kterou bych rád vyřídil, kapitáne."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:314
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:314:DefaultText"
 msgid "Hey, serial dramas are Halcyon's greatest export. Byzantium In The Spring is a work of art."
-msgstr ""
+msgstr "Seriály jsou největším vývozním artiklem Halcyonu. Byzantium na jaře je umělecké dílo."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:315
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:315:DefaultText"
 msgid "So there's tension between Groundbreaker and the Board."
-msgstr ""
+msgstr "Mezi společností Groundbreaker a představenstvem tedy panuje napětí."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:316
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:316:DefaultText"
 msgid "The Board runs most of the system, don't they?"
-msgstr ""
+msgstr "Správní rada řídí většinu systému, nebo ne?"
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:317
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:317:DefaultText"
 msgid "Yeah. Groundbreaker's the only real independent port. Aside from us, there's just tramp freighters and wildcat miners."
-msgstr ""
+msgstr "Jo. Groundbreaker je jediný skutečně nezávislý port. Kromě nás jsou tu jenom trampské nákladní lodě a divocí těžaři."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:318
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:318:DefaultText"
 msgid "Seems like every year, the Board's offices get bigger, and their ships take up more of the landing bays. Haven't seen nearly as many tramp crews this year."
-msgstr ""
+msgstr "Zdá se, že každý rok se kanceláře rady zvětšují a jejich lodě zabírají větší část přistávacích prostor. Letos jsem neviděl ani zdaleka tolik trampských posádek."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:319
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:319:DefaultText"
 msgid "They can't abide an independent township, 'specially not one they got to depend on. We're the first and last stop out of this colony."
-msgstr ""
+msgstr "Nemohou se smířit s nezávislým městem, zvláště ne s takovým, na kterém jsou závislí. Jsme první a poslední zastávka z této kolonie."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:320
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:320:DefaultText"
 msgid "All their interstellar freighters come through us, and we skim a few bits off the top in manifest processing fees with every one."
-msgstr ""
+msgstr "Všechny jejich mezihvězdné nákladní lodě procházejí přes nás a my si z každé z nich strhneme pár drobných na poplatcích za zpracování manifestů."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:322
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:322:DefaultText"
 msgid "Folks around here'll bluster that the Board hates our 'freedom,' but really, they know we can stop their out-system shipments any time we like, and that terrifies them."
-msgstr ""
+msgstr "Lidé tady se budou ohánět tím, že představenstvo nenávidí naši \"svobodu\", ale ve skutečnosti vědí, že můžeme kdykoli zastavit jejich zásilky mimo systém, a to je děsí."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:323
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:323:DefaultText"
 msgid "Yet Chief Junlei lets the Board hold your replacement parts hostage. Why?"
-msgstr ""
+msgstr "Přesto náčelník Junlei nechává radu držet vaše náhradní díly jako rukojmí. Proč?"
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:324
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:324:DefaultText"
 msgid "Yet your station's in a state of disrepair. You could make the Board fix it."
-msgstr ""
+msgstr "Přesto je vaše stanice v havarijním stavu. Mohl bys přimět správní radu, aby ji opravila."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:325
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:325:DefaultText"
 msgid "Yet Chief Junlei let the Board hold your replacement parts hostage. Why?"
-msgstr ""
+msgstr "Přesto náčelník Junlei nechal radu, aby si vaše náhradní díly vzala jako rukojmí. Proč?"
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:326
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:326:DefaultText"
 msgid "It's a delicate balance, right? We could cancel their freighters' docking privileges in retaliation, but where'd that lead us?"
-msgstr ""
+msgstr "Je to křehká rovnováha, že? Mohli bychom na oplátku zrušit jejich nákladním lodím právo přistávat, ale kam by nás to dovedlo?"
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:327
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:327:DefaultText"
 msgid "They got assault cruisers, gun ships, and a handful of mining operations at their fingertips."
-msgstr ""
+msgstr "Mají k dispozici útočné křižníky, dělové lodě a několik důlních operací."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:329
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:329:DefaultText"
 msgid "We push 'em too hard, maybe they decide we'd be better in ten trillion little pieces. Or they cobble together a \"new\" Groundbreaker and put us out of business."
-msgstr ""
+msgstr "Když na ně příliš tlačíme, možná se rozhodnou, že nám bude lépe v deseti trilionech malých kousků. Nebo dají dohromady \"nový\" Groundbreaker a vyřadí nás z provozu."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:330
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:330:DefaultText"
 msgid "You mean the heat? Sure, we could make 'em fix it, but what would they do in retaliation?"
-msgstr ""
+msgstr "Myslíte to horko? Jistě, mohli bychom je donutit, aby to opravili, ale co by udělali na oplátku?"
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:331
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:331:DefaultText"
 msgid "Seems like there's some tension between the Board and Groundbreaker."
-msgstr ""
+msgstr "Zdá se, že mezi představenstvem a společností Groundbreaker panuje určité napětí."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:332
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:332:DefaultText"
 msgid "You noticed, huh?"
-msgstr ""
+msgstr "Všiml sis toho, co?"
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:333
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:333:DefaultText"
 msgid "It's hard to miss."
-msgstr ""
+msgstr "Je těžké ho přehlédnout."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:334
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:334:DefaultText"
 msgid "Sounds complicated."
-msgstr ""
+msgstr "Zní to složitě."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:335
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:335:DefaultText"
 msgid "Sounds like, yeah. But from where I sit, it's all comin' through loud and clear."
-msgstr ""
+msgstr "Zní to jako, jo. Ale z mého pohledu je to všechno jasné a zřetelné."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:337
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:337:DefaultText"
 msgid "I'm bright like that."
-msgstr ""
+msgstr "Jsem tak chytrý."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:339
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:339:DefaultText"
 msgid "If you're living in fear of the Board, then they've already won."
-msgstr ""
+msgstr "Pokud žijete ve strachu z představenstva, pak už vyhrálo."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:340
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:340:DefaultText"
 msgid "The Board is necessary to provide order to the colony. They believe it's their prerogative to overrun you, but whether you allow that is up to you."
-msgstr ""
+msgstr "Rada je nezbytná k zajištění pořádku v kolonii. Domnívají se, že je jejich výsadou vás převálcovat, ale je na vás, zda to dovolíte."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:341
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:341:DefaultText"
 msgid "The Board wouldn't do that... would they?"
-msgstr ""
+msgstr "Rada by to neudělala... že ne?"
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:342
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:342:DefaultText"
 msgid "If I had to take a guess as to why? You must'a riled up someone important."
-msgstr ""
+msgstr "Kdybych měl hádat proč? Musel jsi naštvat někoho důležitého."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:344
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:344:DefaultText"
 msgid "But we've hardly been out of Edgewater long enough to get in trouble!"
-msgstr ""
+msgstr "Ale sotva jsme se dostali z Edgewateru do potíží!"
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:345
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:345:DefaultText"
 msgid "Well, isn't *this* wonderful. The captain's done something to get on the Board's bad side."
-msgstr ""
+msgstr "No, není to úžasné? Kapitán udělal něco, čím se dostal na stranu rady."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:347
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:347:DefaultText"
 msgid "Surely, this must be some sort of mix-up."
-msgstr ""
+msgstr "Určitě se jedná o nějaký záměn."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:348
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:348:DefaultText"
 msgid "They must have a real big bee in their bonnets, then. Everyone knows you don't trifle with Groundbreaker if you want to get your goods on time."
-msgstr ""
+msgstr "Tak to musí mít opravdu velkou včeličku na hlavě. Všichni vědí, že pokud chceš dostat zboží včas, nemáš si zahrávat s lamačem půdy."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:350
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:350:DefaultText"
 msgid "Customs and Inspection, right this way!"
-msgstr ""
+msgstr "Celní úřad a inspekce, tudy!"
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:351
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:351:DefaultText"
 msgid "Be seein' you."
-msgstr ""
+msgstr "Uvidíme se."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:352
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:352:DefaultText"
 msgid "This has to be a mistake."
-msgstr ""
+msgstr "To musí být chyba."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:353
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:353:DefaultText"
 msgid "You people won't stop yapping about it."
-msgstr ""
+msgstr "Vy o tom nepřestanete žvanit."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:354
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:354:DefaultText"
 msgid "What can I say? We're passionate folks, and the Board can't abide that independent spirit - 'specially not when it might impact their bottom line."
-msgstr ""
+msgstr "Co na to říct? Jsme vášniví lidé a správní rada nemůže tolerovat nezávislost - zvláště ne, když by to mohlo mít dopad na její zisk."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:355
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:355:DefaultText"
 msgid "I'm sharp like that."
-msgstr ""
+msgstr "Jsem takhle ostrý."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:356
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:356:DefaultText"
 msgid "I'm glad it terrifies them, the bastards. Keep pushing them."
-msgstr ""
+msgstr "Jsem rád, že je to děsí, ty parchanty. Tlačte na ně dál."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:357
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:357:DefaultText"
 msgid "How does Halcyon Holdings work, anyway?"
-msgstr ""
+msgstr "Jak vlastně společnost Halcyon Holdings funguje?"
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:358
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:358:DefaultText"
 msgid "Are you pullin' my leg?"
-msgstr ""
+msgstr "Děláš si ze mě legraci?"
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:359
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:359:DefaultText"
 msgid "That thing I told you about being a colonist from the Hope? Completely true."
-msgstr ""
+msgstr "To, co jsem ti říkal o kolonistech z Naděje? To je naprostá pravda."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:360
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:360:DefaultText"
 msgid "I'm new around here."
-msgstr ""
+msgstr "Jsem tu nový."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:361
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:361:DefaultText"
 msgid "You must be one of them long-haul freighters from outside the colony. Well, I won't hold it against you."
-msgstr ""
+msgstr "Musíš být jedním z těch dálkových přepravců zpoza kolonie. No, nebudu vám to mít za zlé."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:362
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:362:DefaultText"
 msgid "I don't know hardly anything at all, actually."
-msgstr ""
+msgstr "Vlastně nevím skoro nic."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:363
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:363:DefaultText"
 msgid "I just want to hear your take on it."
-msgstr ""
+msgstr "Chci jen slyšet váš názor."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:364
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:364:DefaultText"
 msgid "I'm just fooling you. Of course I know how the Board works."
-msgstr ""
+msgstr "Jen si z vás dělám legraci. Samozřejmě vím, jak rada funguje."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:365
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:365:DefaultText"
 msgid "You got a funny sense of humor, friend. Can't say I much get it, but I admire your commitment to the bit."
-msgstr ""
+msgstr "Máš zvláštní smysl pro humor, příteli. Nemůžu říct, že bych ho moc chápal, ale obdivuju tvé odhodlání."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:366
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:366:DefaultText"
 msgid "Goes like this. Back on Earth, before the Crossing, the powers that be were sellin' off stakes in distant star systems they thought had \"potential.\""
-msgstr ""
+msgstr "Postupuje takto. Na Zemi, ještě před přechodem, prodávaly mocnosti podíly ve vzdálených hvězdných systémech, o kterých si myslely, že mají \"potenciál\"."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:367
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:367:DefaultText"
 msgid "Well, you seem to know yourself, and that's got to count for something. Not too many folks can say the same."
-msgstr ""
+msgstr "Zdá se, že se znáš, a to se musí počítat. To nemůže říct mnoho lidí."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:368
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:368:DefaultText"
 msgid "Damned freighter captains - if it's not the scurvy gettin' to you, it's the space madness."
-msgstr ""
+msgstr "Zatracení kapitáni nákladních lodí - jestli vás nedostanou kurděje, tak je to vesmírné šílenství."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:369
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:369:DefaultText"
 msgid "A bunch of companies decided to throw in together and form the Halcyon Holdings Corporation, then buy up the rights to this here colony. That group's what we now call the Board."
-msgstr ""
+msgstr "Několik společností se rozhodlo dát dohromady a založit Halcyon Holdings Corporation, a pak odkoupit práva na tuto kolonii. Této skupině teď říkáme Rada."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:370
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:370:DefaultText"
 msgid "Got it."
-msgstr ""
+msgstr "Mám to."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:371
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:371:DefaultText"
 msgid "How does Groundbreaker fit into that?"
-msgstr ""
+msgstr "Jak do toho zapadá Groundbreaker?"
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:372
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:372:DefaultText"
 msgid "Glad to help."
-msgstr ""
+msgstr "Rád vám pomůžu."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:373
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:373:DefaultText"
 msgid "So there's actually a boardroom somewhere with all these company heads in it?"
-msgstr ""
+msgstr "Takže někde skutečně existuje zasedací místnost, ve které sedí šéfové všech těchto společností?"
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:374
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:374:DefaultText"
 msgid "Sitting around drinking whiskey and smokin' cigars - yeah, probably. Can't say for sure, 'course. Doubt I'll ever see the inside of it myself."
-msgstr ""
+msgstr "Sedět u whisky a kouřit doutníky - to asi jo. Samozřejmě to nemůžu říct s jistotou. Pochybuju, že se do něj někdy podívám."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:375
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:375:DefaultText"
 msgid "Groundbreaker was one of the original colony vessels to come over on the Crossing - a few years before her sister ship, the Hope."
-msgstr ""
+msgstr "Groundbreaker byl jednou z původních koloniálních lodí, které se na Křižovatce objevily - několik let před sesterskou lodí Hope."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:376
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:376:DefaultText"
 msgid "Once everybody'd been de-thawed and dropped dirtside, the original crew of the Groundbreaker decided they rather liked the space-faring life."
-msgstr ""
+msgstr "Jakmile byli všichni rozmrazeni a vysazeni na zem, původní posádka Groundbreakeru se rozhodla, že se jim život ve vesmíru docela líbí."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:377
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:377:DefaultText"
 msgid "If it isn't the savior of Groundbreaker! What can I do for you?"
-msgstr ""
+msgstr "Pokud to není zachránce Groundbreaker! Co pro vás mohu udělat?"
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:378
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:378:DefaultText"
 msgid "What do you want?"
-msgstr ""
+msgstr "Co chcete?"
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:379
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:379:DefaultText"
 msgid "You got some gall, showing your face around here."
-msgstr ""
+msgstr "Jsi pěkně drzý, když se tady ukazuješ."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:380
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:380:DefaultText"
 msgid "They're on the Promenade, run by a woman named Lilya Hagen. I'm only telling you so you know to avoid them."
-msgstr ""
+msgstr "Jsou na promenádě, kterou vede žena jménem Lilya Hagenová. Říkám vám to jen proto, abyste věděli, že se jim máte vyhnout."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:381
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:381:DefaultText"
 msgid "Sure did! And now we're in space!"
-msgstr ""
+msgstr "Jistěže ano! A teď jsme ve vesmíru!"
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:382
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:382:DefaultText"
 msgid "So, you believe I'm not Hawthorne?"
-msgstr ""
+msgstr "Takže věříte, že nejsem Hawthorne?"
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:383
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:383:DefaultText"
 msgid "Not in the least. Good story, though."
-msgstr ""
+msgstr "Ani v nejmenším. Přesto dobrý příběh."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:384
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:384:DefaultText"
 msgid "Huh. Records show this ain't the first time your ship's been impounded. Seems to get cleared up pretty quick. You might not be in this pickle for long."
-msgstr ""
+msgstr "Huh. Podle záznamů to není poprvé, co byla vaše loď zabavena. Zdá se, že se to rychle vyjasní. Nemusíš být v téhle bryndě dlouho."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:385
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:385:DefaultText"
 msgid "No kidding? I'd love to get a look at this old girl's innards. I bet they're real twisty and weird - in a good way."
-msgstr ""
+msgstr "Neděláte si legraci? Rád bych se podíval do vnitřností téhle staré holky. Vsadím se, že jsou opravdu pokroucené a divné - v dobrém slova smyslu."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:386
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:386:DefaultText"
 msgid "I guess that was the start of our independent spirit. Now here we are."
-msgstr ""
+msgstr "Myslím, že to byl začátek našeho nezávislého ducha. Teď jsme tady."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:387
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:387:DefaultText"
 msgid "Why can't Groundbreaker and the Board just work together?"
-msgstr ""
+msgstr "Proč nemohou společnost Groundbreaker a představenstvo prostě spolupracovat?"
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:388
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:388:DefaultText"
 msgid "This really must be your first time here."
-msgstr ""
+msgstr "Jste tu určitě poprvé."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:389
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:389:DefaultText"
 msgid "You sure you didn't just step off one of the interstellar freighters?"
-msgstr ""
+msgstr "Jsi si jistý, že jsi právě nevystoupil z jedné z mezihvězdných nákladních lodí?"
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:390
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:390:DefaultText"
 msgid "There's no workin' \"with\" the Board. They don't share -  not bits, people, or resources. You work for them, or you don't work at all."
-msgstr ""
+msgstr "S představenstvem se nepracuje. Nesdílejí - ani kousky, ani lidi, ani zdroje. Buď pro ně pracujete, nebo nepracujete vůbec."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:391
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:391:DefaultText"
 msgid "Groundbreaker \"cooperating\" now would be tantamount to joinin' their ranks. And we sure as shit ain't about to do that."
-msgstr ""
+msgstr "\"Spolupráce\" s Groundbreakerem by se nyní rovnala vstupu do jejich řad. A to my rozhodně nehodláme udělat."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:392
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:392:DefaultText"
 msgid "No kidding, Wheeler. I've been saying it for years. The Board can't be trusted."
-msgstr ""
+msgstr "Bez legrace, Wheelere. Říkám to už roky. Radě se nedá věřit."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:393
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:393:DefaultText"
 msgid "That's Corporal Wheeler, Millstone. And maybe people would take your arguments more seriously if they weren't followed up with threat of violence."
-msgstr ""
+msgstr "To je desátník Wheeler, Millstone. A možná by lidé brali vaše argumenty vážněji, kdyby po nich nenásledovala hrozba násilím."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:394
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:394:DefaultText"
 msgid "It's a tough line to walk, no doubt about that, but we make do all right. So far, anyway."
-msgstr ""
+msgstr "Bezpochyby je to těžké, ale zvládneme to. Zatím se nám to daří."
 
 #: conversations/01_groundbreaker/01_cv_wheeler_dalisay:395
 msgctxt "conversations/01_groundbreaker/01_cv_wheeler_dalisay:395:DefaultText"
 msgid "Now hold on, this isn't the end of the world. Probably."
-msgstr ""
+msgstr "Počkejte, tohle není konec světa. Pravděpodobně."

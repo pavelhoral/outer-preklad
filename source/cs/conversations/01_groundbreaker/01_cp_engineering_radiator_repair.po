@@ -14,12 +14,12 @@ msgid "Lithium Droplet Radiator Array\r\n"
 "\r\n"
 "Ambient station temperature +8°C\r\n"
 "Machinery shaft temperature +29°C"
-msgstr ""
+msgstr "Svorka lithiového kapkového chladiče Oběhové čerpadlo ======================== !! == !! POZOR !!! == !!! Tlak lithiové kapaliny při 23% Polovodičové chladiče při 102% výkonu PCM chladiče při 98% výkonu Teplota okolní stanice +8°C Teplota strojní šachty +29°C"
 
 #: conversations/01_groundbreaker/01_cp_engineering_radiator_repair:5
 msgctxt "conversations/01_groundbreaker/01_cp_engineering_radiator_repair:5:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"
 
 #: conversations/01_groundbreaker/01_cp_engineering_radiator_repair:6
 msgctxt "conversations/01_groundbreaker/01_cp_engineering_radiator_repair:6:DefaultText"
@@ -29,12 +29,12 @@ msgid "Lithium Droplet Radiator Array\r\n"
 "========================\r\n"
 "\r\n"
 "Lithium fluid pressure at 99%"
-msgstr ""
+msgstr "Chladič lithiových kapek Oběhové čerpadlo ======================== Tlak lithiové kapaliny při 99 %."
 
 #: conversations/01_groundbreaker/01_cp_engineering_radiator_repair:10
 msgctxt "conversations/01_groundbreaker/01_cp_engineering_radiator_repair:10:DefaultText"
 msgid "[Cycle Droplet Pumps]"
-msgstr ""
+msgstr "[Cyklická kapková čerpadla]"
 
 #: conversations/01_groundbreaker/01_cp_engineering_radiator_repair:12
 msgctxt "conversations/01_groundbreaker/01_cp_engineering_radiator_repair:12:DefaultText"
@@ -48,12 +48,12 @@ msgid "Lithium Droplet Radiator Array\r\n"
 "Cycling...\r\n"
 "\r\n"
 "Successful!"
-msgstr ""
+msgstr "Svorka kapkového lithiového chladiče Oběhové čerpadlo ======================== Připomínka: Personál, který nemá nárok na odchod, musí před aktivací protokolu cyklování opustit údržbovou šachtu. Cyklování... Úspěšné!"
 
 #: conversations/01_groundbreaker/01_cp_engineering_radiator_repair:13
 msgctxt "conversations/01_groundbreaker/01_cp_engineering_radiator_repair:13:DefaultText"
 msgid "[Logs]"
-msgstr ""
+msgstr "[Deníky]"
 
 #: conversations/01_groundbreaker/01_cp_engineering_radiator_repair:14
 msgctxt "conversations/01_groundbreaker/01_cp_engineering_radiator_repair:14:DefaultText"
@@ -63,22 +63,22 @@ msgid "Lithium Droplet Radiator Array\r\n"
 "========================\r\n"
 "\r\n"
 "Logs"
-msgstr ""
+msgstr "Kapkové lithiové chladičové pole Oběhové čerpadlo kapaliny Terminál ======================== Protokoly"
 
 #: conversations/01_groundbreaker/01_cp_engineering_radiator_repair:15
 msgctxt "conversations/01_groundbreaker/01_cp_engineering_radiator_repair:15:DefaultText"
 msgid "[Cobbled Together]"
-msgstr ""
+msgstr "[Cobbled Together]"
 
 #: conversations/01_groundbreaker/01_cp_engineering_radiator_repair:16
 msgctxt "conversations/01_groundbreaker/01_cp_engineering_radiator_repair:16:DefaultText"
 msgid "[Old Plans, New Problems]"
-msgstr ""
+msgstr "[Staré plány, nové problémy]"
 
 #: conversations/01_groundbreaker/01_cp_engineering_radiator_repair:17
 msgctxt "conversations/01_groundbreaker/01_cp_engineering_radiator_repair:17:DefaultText"
 msgid "[Return to Root]"
-msgstr ""
+msgstr "[Zpět na kořen]"
 
 #: conversations/01_groundbreaker/01_cp_engineering_radiator_repair:18
 msgctxt "conversations/01_groundbreaker/01_cp_engineering_radiator_repair:18:DefaultText"
@@ -92,7 +92,7 @@ msgid "Lithium Droplet Radiator Array\r\n"
 "I can rally our spirits, but what happens when I'm not around? Groundbreaker's real test will be seeing if our independence outlasts me. I'll take that bet. \r\n"
 "\r\n"
 "J.T. "
-msgstr ""
+msgstr "Lithiový kapkový chladič Pole oběhového čerpadla kapaliny Svorka ======================== Zaměstnanci začínají být neklidní. Obcházení a polovičatá řešení jsou to jediné, co máme, abychom Hromovládci spravili kosti. V mnoha případech nemůžeme oživit jeden systém, aniž bychom kanibalizovali jiný. Babička s touto realitou žila a já budu žít také. Mohu mobilizovat naše duchy, ale co se stane, když nebudu nablízku? Skutečnou zkouškou Groundbreakeru bude zjistit, zda naše nezávislost přežije mě. Na to si vsadím. J.T. "
 
 #: conversations/01_groundbreaker/01_cp_engineering_radiator_repair:19
 msgctxt "conversations/01_groundbreaker/01_cp_engineering_radiator_repair:19:DefaultText"
@@ -108,7 +108,7 @@ msgid "Lithium Droplet Radiator Array\r\n"
 "I hate to put sentiment down in print, but every time I open a panel or find some workaround in the guts of this old bird, it's like I can feel you reaching out to me from the past, grandma.\r\n"
 "\r\n"
 "J.T. "
-msgstr ""
+msgstr "Svorka čerpadla pro oběh kapaliny v lithiovém kapkovém chladiči ======================== Našel jsem některá stará schémata šéfa Guiyinga. Groundbreaker musel během Přechodu dostat pořádně zabrat, protože strávila polovinu své kariéry jeho opravováním. Hodně se tu šetřilo, když to tu dávali dohromady. Mezi jejími papíry jsem našel i plán hangáru, který se neshoduje s žádnými mými dokumenty. Něco, co se mohlo po cestě zapečetit, jako krevní buňky izolující infekci. Nerad zapisuji sentiment do tisku, ale pokaždé, když otevřu nějaký panel nebo najdu v útrobách tohohle starého ptáka nějaké řešení, jako bych cítil, jak ke mně z minulosti natahuješ ruku, babi. J. T. "
 
 #: conversations/01_groundbreaker/01_cp_engineering_radiator_repair:20
 msgctxt "conversations/01_groundbreaker/01_cp_engineering_radiator_repair:20:DefaultText"
@@ -118,4 +118,4 @@ msgid "Lithium Droplet Radiator Array\r\n"
 "========================\r\n"
 "\r\n"
 "Main menu"
-msgstr ""
+msgstr "Kapkové lithiové radiátorové pole Oběhové čerpadlo kapaliny Svorka ======================== Hlavní menu"

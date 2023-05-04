@@ -1,69 +1,69 @@
 #: quests/04_monarch/fq_0411_little_memento:0
 msgctxt "quests/04_monarch/fq_0411_little_memento:0:DefaultText"
 msgid "Little Memento"
-msgstr ""
+msgstr "Malé memento"
 
 #: quests/04_monarch/fq_0411_little_memento:1
 msgctxt "quests/04_monarch/fq_0411_little_memento:1:DefaultText"
 msgid "Investigate the Outpost"
-msgstr ""
+msgstr "Prozkoumejte základnu"
 
 #: quests/04_monarch/fq_0411_little_memento:2
 msgctxt "quests/04_monarch/fq_0411_little_memento:2:DefaultText"
 msgid "Find the Mercenaries"
-msgstr ""
+msgstr "Najděte žoldáky"
 
 #: quests/04_monarch/fq_0411_little_memento:3
 msgctxt "quests/04_monarch/fq_0411_little_memento:3:DefaultText"
 msgid "Return to Ash"
-msgstr ""
+msgstr "Návrat do Ash"
 
 #: quests/04_monarch/fq_0411_little_memento:10000
 msgctxt "quests/04_monarch/fq_0411_little_memento:10000:DefaultText"
 msgid "Ash, a grizzled old veteran in the Amber Heights bar, has asked you to track down a keepsake box from his old mercenary unit."
-msgstr ""
+msgstr "Ash, starý ostřílený veterán v baru Amber Heights, vás požádal, abyste vypátrali krabičku na památku z jeho bývalé žoldnéřské jednotky."
 
 #: quests/04_monarch/fq_0411_little_memento:10001
 msgctxt "quests/04_monarch/fq_0411_little_memento:10001:DefaultText"
 msgid "Ash has pointed you toward one of his unit's old outposts."
-msgstr ""
+msgstr "Ash vás nasměroval na jednu ze starých základen své jednotky."
 
 #: quests/04_monarch/fq_0411_little_memento:10002
 msgctxt "quests/04_monarch/fq_0411_little_memento:10002:DefaultText"
 msgid "It looks like the mercenaries packed up and fled to a nearby waterfall. If they're there, the keepsake box is likely with them."
-msgstr ""
+msgstr "Vypadá to, že se žoldáci sbalili a utekli k nedalekému vodopádu. Pokud tam jsou, je pravděpodobné, že krabička na památku je s nimi."
 
 #: quests/04_monarch/fq_0411_little_memento:10003
 msgctxt "quests/04_monarch/fq_0411_little_memento:10003:DefaultText"
 msgid "You found a locked box of mementos from Ash's old mercenary unit."
-msgstr ""
+msgstr "Našel jsi zamčenou krabici s památkami na Ashovu bývalou žoldáckou jednotku."
 
 #: quests/04_monarch/fq_0411_little_memento:20000
 msgctxt "quests/04_monarch/fq_0411_little_memento:20000:DefaultText"
 msgid "You've found the outpost, but the mercenaries aren't here. They must have left some clues as to where they went."
-msgstr ""
+msgstr "Našli jste základnu, ale žoldáci tu nejsou. Museli zanechat nějaké stopy, kam odešli."
 
 #: quests/04_monarch/fq_0411_little_memento:20001
 msgctxt "quests/04_monarch/fq_0411_little_memento:20001:DefaultText"
 msgid "The mercenaries appear to have met a grisly fate in the jaws of the Monarch wilderness. Perhaps one of them had the box in their possession."
-msgstr ""
+msgstr "Zdá se, že žoldáky potkal krutý osud v čelistech monarchovy divočiny. Možná měl některý z nich schránku u sebe."
 
 #: quests/04_monarch/fq_0411_little_memento:20002
 msgctxt "quests/04_monarch/fq_0411_little_memento:20002:DefaultText"
 msgid "You found a ledger that seems to indicate that Ash was never a part of the mercenary squad using this outpost."
-msgstr ""
+msgstr "Našel jsi účetní knihu, která zřejmě naznačuje, že Ash nikdy nebyl členem žoldnéřského oddílu, který tuto základnu využíval."
 
 #: quests/04_monarch/fq_0411_little_memento:30000
 msgctxt "quests/04_monarch/fq_0411_little_memento:30000:DefaultText"
 msgid "You found Ash's old lockbox and returned it to him."
-msgstr ""
+msgstr "Našel jsi Ashovu starou skříňku a vrátil mu ji."
 
 #: quests/04_monarch/fq_0411_little_memento:30001
 msgctxt "quests/04_monarch/fq_0411_little_memento:30001:DefaultText"
 msgid "You have a hostile relationship with the Iconoclasts."
-msgstr ""
+msgstr "S ikonoklasty máte nepřátelský vztah."
 
 #: quests/04_monarch/fq_0411_little_memento:30002
 msgctxt "quests/04_monarch/fq_0411_little_memento:30002:DefaultText"
 msgid "Ash is dead."
-msgstr ""
+msgstr "Ash je mrtvý."

@@ -1,144 +1,144 @@
 #: quests/00_emeraldvale/sq_0002_dierobot:0
 msgctxt "quests/00_emeraldvale/sq_0002_dierobot:0:DefaultText"
 msgid "Die, Robot"
-msgstr ""
+msgstr "Zemřít, robot"
 
 #: quests/00_emeraldvale/sq_0002_dierobot:1
 msgctxt "quests/00_emeraldvale/sq_0002_dierobot:1:DefaultText"
 msgid "Deal with the Mechanical Scout"
-msgstr ""
+msgstr "Jednání s mechanickým skautem"
 
 #: quests/00_emeraldvale/sq_0002_dierobot:2
 msgctxt "quests/00_emeraldvale/sq_0002_dierobot:2:DefaultText"
 msgid "Return to Ludwig"
-msgstr ""
+msgstr "Zpět na Ludwig"
 
 #: quests/00_emeraldvale/sq_0002_dierobot:3
 msgctxt "quests/00_emeraldvale/sq_0002_dierobot:3:DefaultText"
 msgid "Find Ludwig's Secret Weapon"
-msgstr ""
+msgstr "Najděte Ludwigovu tajnou zbraň"
 
 #: quests/00_emeraldvale/sq_0002_dierobot:4
 msgctxt "quests/00_emeraldvale/sq_0002_dierobot:4:DefaultText"
 msgid "Return to Ludwig"
-msgstr ""
+msgstr "Zpět na Ludwig"
 
 #: quests/00_emeraldvale/sq_0002_dierobot:5
 msgctxt "quests/00_emeraldvale/sq_0002_dierobot:5:DefaultText"
 msgid "Retrieve a Logic Module"
-msgstr ""
+msgstr "Získání logického modulu"
 
 #: quests/00_emeraldvale/sq_0002_dierobot:6
 msgctxt "quests/00_emeraldvale/sq_0002_dierobot:6:DefaultText"
 msgid "Return to Ludwig"
-msgstr ""
+msgstr "Zpět na Ludwig"
 
 #: quests/00_emeraldvale/sq_0002_dierobot:9
 msgctxt "quests/00_emeraldvale/sq_0002_dierobot:9:DefaultText"
 msgid "Retrieve a Logic Module"
-msgstr ""
+msgstr "Získání logického modulu"
 
 #: quests/00_emeraldvale/sq_0002_dierobot:10
 msgctxt "quests/00_emeraldvale/sq_0002_dierobot:10:DefaultText"
 msgid "Speak with Reed"
-msgstr ""
+msgstr "Promluvte si s Reedem"
 
 #: quests/00_emeraldvale/sq_0002_dierobot:12
 msgctxt "quests/00_emeraldvale/sq_0002_dierobot:12:DefaultText"
 msgid "Speak with Reed"
-msgstr ""
+msgstr "Promluvte si s Reedem"
 
 #: quests/00_emeraldvale/sq_0002_dierobot:13
 msgctxt "quests/00_emeraldvale/sq_0002_dierobot:13:DefaultText"
 msgid "Return to Ludwig"
-msgstr ""
+msgstr "Zpět na Ludwig"
 
 #: quests/00_emeraldvale/sq_0002_dierobot:10000
 msgctxt "quests/00_emeraldvale/sq_0002_dierobot:10000:DefaultText"
 msgid "Ludwig Miller, a guard watching over the landing pad south of Edgewater, is convinced that automechanicals are planning to wipe out humanity. He's asked you to help him wage a secret war against the mechanical menace. "
-msgstr ""
+msgstr "Ludwig Miller, strážný, který hlídá přistávací plochu jižně od Edgewateru, je přesvědčen, že automechanici plánují vyhladit lidstvo. Požádal vás, abyste mu pomohli vést tajnou válku proti mechanické hrozbě. "
 
 #: quests/00_emeraldvale/sq_0002_dierobot:10001
 msgctxt "quests/00_emeraldvale/sq_0002_dierobot:10001:DefaultText"
 msgid "Ludwig reports that he's spotted a forward scout of the mechanical army north of the landing pad. As a test of your mettle, he's requested that you dispose of this scout in the name of humanity."
-msgstr ""
+msgstr "Ludwig hlásí, že severně od přistávací plochy spatřil předsunutý průzkum mechanické armády. Jako zkoušku tvé odvahy tě požádal, abys tohoto průzkumníka zlikvidoval ve jménu lidskosti."
 
 #: quests/00_emeraldvale/sq_0002_dierobot:10002
 msgctxt "quests/00_emeraldvale/sq_0002_dierobot:10002:DefaultText"
 msgid "You heroically thrashed the mechanical scout, preventing vital intel from falling into the hands of its metallic masters. Ludwig will be pleased."
-msgstr ""
+msgstr "Hrdinně jsi porazil mechanického zvěda a zabránil jsi tomu, aby se důležité informace dostaly do rukou jeho kovových pánů. Ludwig bude mít radost."
 
 #: quests/00_emeraldvale/sq_0002_dierobot:10003
 msgctxt "quests/00_emeraldvale/sq_0002_dierobot:10003:DefaultText"
 msgid "Ludwig revealed that he's tucked away a secret weapon in Edgewater, to be used in the event of a mechanical uprising. He's decided to entrust the weapon to you to aid in the crusade. The weapon should be in the bathroom of Edgewater's cantina."
-msgstr ""
+msgstr "Ludwig prozradil, že má v Edgewateru schovanou tajnou zbraň, kterou by použil v případě mechanického povstání. Rozhodl se svěřit zbraň tobě, abys mu pomohl v křížové výpravě. Zbraň by se měla nacházet na záchodě v kantýně v Edgewateru."
 
 #: quests/00_emeraldvale/sq_0002_dierobot:10004
 msgctxt "quests/00_emeraldvale/sq_0002_dierobot:10004:DefaultText"
 msgid "You found the weapon that Ludwig had stashed in Edgewater. Return to him and learn how he intends to use it against the mechanical menace."
-msgstr ""
+msgstr "Našel jsi zbraň, kterou Ludwig ukryl v Edgewateru. Vraťte se k němu a zjistěte, jak ji hodlá použít proti mechanické hrozbě."
 
 #: quests/00_emeraldvale/sq_0002_dierobot:10005
 msgctxt "quests/00_emeraldvale/sq_0002_dierobot:10005:DefaultText"
 msgid "The geothermal plant in the northwest portion of the region has been taken over by automechanicals. Ludwig wants you to infiltrate the plant and retrieve a logic module from one of the automechanicals there."
-msgstr ""
+msgstr "Geotermální elektrárna v severozápadní části regionu byla převzata automechaniky. Ludwig chce, abys do elektrárny pronikl a získal z jednoho z automechaniků logický modul."
 
 #: quests/00_emeraldvale/sq_0002_dierobot:10006
 msgctxt "quests/00_emeraldvale/sq_0002_dierobot:10006:DefaultText"
 msgid "Head back to the landing pad and deliver the logic module to Ludwig."
-msgstr ""
+msgstr "Vraťte se na přistávací plochu a předejte Ludwigovi logický modul."
 
 #: quests/00_emeraldvale/sq_0002_dierobot:10009
 msgctxt "quests/00_emeraldvale/sq_0002_dierobot:10009:DefaultText"
 msgid "The geothermal plant in the northwest portion of the region has been taken over by mechanicals. Ludwig wants you to infiltrate the plant and retrieve a logic module from one of the mechanicals there."
-msgstr ""
+msgstr "Geotermální elektrárna v severozápadní části regionu byla převzata mechaniky. Ludwig chce, abys do elektrárny pronikl a získal od jednoho z mechaniků logický modul."
 
 #: quests/00_emeraldvale/sq_0002_dierobot:10010
 msgctxt "quests/00_emeraldvale/sq_0002_dierobot:10010:DefaultText"
 msgid "Ludwig wants you to head to the region's geothermal plant for an important mission, but to gain entry to the plant you'll need to get the passcode from Reed Tobson, who runs the town of Edgewater."
-msgstr ""
+msgstr "Ludwig po vás chce, abyste se vydali do geotermální elektrárny v regionu kvůli důležitému úkolu, ale abyste se do elektrárny dostali, musíte získat přístupový kód od Reeda Tobsona, který řídí město Edgewater."
 
 #: quests/00_emeraldvale/sq_0002_dierobot:10012
 msgctxt "quests/00_emeraldvale/sq_0002_dierobot:10012:DefaultText"
 msgid "Ludwig wants you to head to the region's geothermal plant for an important mission, but to gain entry to the plant first you'll need to get the passcode from Reed Tobson, who runs the town of Edgewater."
-msgstr ""
+msgstr "Ludwig po vás chce, abyste se vydali do geotermální elektrárny v regionu kvůli důležitému úkolu, ale abyste se do elektrárny dostali, musíte nejprve získat přístupový kód od Reeda Tobsona, který vede město Edgewater."
 
 #: quests/00_emeraldvale/sq_0002_dierobot:10013
 msgctxt "quests/00_emeraldvale/sq_0002_dierobot:10013:DefaultText"
 msgid "You repaired the \"mechanical scout,\" which was just lost due to a dislodged navigation module. You should return to Ludwig."
-msgstr ""
+msgstr "Opravili jste \"mechanického průzkumníka\", který se právě ztratil kvůli vysunutému navigačnímu modulu. Měli byste se vrátit k Ludwigovi."
 
 #: quests/00_emeraldvale/sq_0002_dierobot:20001
 msgctxt "quests/00_emeraldvale/sq_0002_dierobot:20001:DefaultText"
 msgid "Chester Higgins, an engineer at the geothermal plant who's been locked in there for years, told you that the logic unit is probably in the plant's security office."
-msgstr ""
+msgstr "Chester Higgins, inženýr z geotermální elektrárny, který je tam už léta zavřený, vám řekl, že logická jednotka je pravděpodobně v kanceláři ostrahy elektrárny."
 
 #: quests/00_emeraldvale/sq_0002_dierobot:20002
 msgctxt "quests/00_emeraldvale/sq_0002_dierobot:20002:DefaultText"
 msgid "A terminal log in the geothermal plant's security office mentioned that the logic unit has been locked in a storage room across the hall. You'll need to find the keycard to the room unless you can pick your way in. Perhaps the security chief had it on him?"
-msgstr ""
+msgstr "V záznamu terminálu v bezpečnostní kanceláři geotermální elektrárny bylo uvedeno, že logická jednotka byla uzamčena ve skladu na druhé straně haly. Pokud si neumíte vybrat cestu dovnitř, budete muset najít kartu k této místnosti. Možná ji měl u sebe šéf ochranky?"
 
 #: quests/00_emeraldvale/sq_0002_dierobot:20003
 msgctxt "quests/00_emeraldvale/sq_0002_dierobot:20003:DefaultText"
 msgid "According to a terminal log, automechanicals turned hostile and began attacking the other workers. The plant's security chief responded by making his way down to the control room."
-msgstr ""
+msgstr "Podle záznamu z terminálu se automechanici chovali nepřátelsky a začali napadat ostatní pracovníky. Šéf bezpečnosti závodu reagoval tím, že se vydal do řídicí místnosti."
 
 #: quests/00_emeraldvale/sq_0002_dierobot:30000
 msgctxt "quests/00_emeraldvale/sq_0002_dierobot:30000:DefaultText"
 msgid "You gave the logic module to Ludwig, who promised to get it to the \"right people\" so the mechanical menace can be stopped. He thanked you for your contribution to the crusade."
-msgstr ""
+msgstr "Logický modul jsi předal Ludwigovi, který slíbil, že ho předá \"správným lidem\", aby se mechanická hrozba zastavila. Poděkoval ti za tvůj příspěvek ke křížové výpravě."
 
 #: quests/00_emeraldvale/sq_0002_dierobot:30002
 msgctxt "quests/00_emeraldvale/sq_0002_dierobot:30002:DefaultText"
 msgid "Ludwig is no longer in any condition to continue his crusade against the automechanical threat. The machines have won."
-msgstr ""
+msgstr "Ludwig už není schopen pokračovat v křížové výpravě proti automechanické hrozbě. Stroje zvítězily."
 
 #: quests/00_emeraldvale/sq_0002_dierobot:30003
 msgctxt "quests/00_emeraldvale/sq_0002_dierobot:30003:DefaultText"
 msgid "The people of Edgewater all want you dead, so Ludwig is unlikely to welcome your further aid in resisting the mechanical menace."
-msgstr ""
+msgstr "Všichni obyvatelé Edgewateru si přejí tvou smrt, takže Ludwig pravděpodobně neuvítá tvou další pomoc v boji proti mechanické hrozbě."
 
 #: quests/00_emeraldvale/sq_0002_dierobot:30004
 msgctxt "quests/00_emeraldvale/sq_0002_dierobot:30004:DefaultText"
 msgid "The machines have invaded Edgewater, and Ludwig is likely to be thinking more about survival than preparation."
-msgstr ""
+msgstr "Do Edgewateru vtrhly stroje a Ludwig pravděpodobně myslí spíše na přežití než na přípravu."

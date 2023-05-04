@@ -7,22 +7,22 @@ msgid "RESEARCH TERMINAL\r\n"
 "\"I can calculate the movement of the heavenly bodies, but not the madness of men.\" -Newton\r\n"
 "====================\r\n"
 ""
-msgstr ""
+msgstr "RESEARCH TERMINAL Phineas V. Welles ==================== \"Umím vypočítat pohyb nebeských těles, ale ne šílenství lidí.\" -Newton ===================="
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_experiment_terminal:2
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_experiment_terminal:2:DefaultText"
 msgid "[Experimental Notes]"
-msgstr ""
+msgstr "[Experimentální poznámky]"
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_experiment_terminal:3
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_experiment_terminal:3:DefaultText"
 msgid "[Personal Files]"
-msgstr ""
+msgstr "[Osobní soubory]"
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_experiment_terminal:4
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_experiment_terminal:4:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_experiment_terminal:5
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_experiment_terminal:5:DefaultText"
@@ -35,7 +35,7 @@ msgid "RESEARCH TERMINAL\r\n"
 "...\r\n"
 "...\r\n"
 "[PASSWORD REQUIRED]"
-msgstr ""
+msgstr "RESEARCH TERMINAL Phineas V. Welles [Přístup k osobním souborům] ... ... ... ... [POŽADUJEME HESLO]"
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_experiment_terminal:6
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_experiment_terminal:6:DefaultText"
@@ -46,32 +46,32 @@ msgid "RESEARCH TERMINAL\r\n"
 "...\r\n"
 "...\r\n"
 "..."
-msgstr ""
+msgstr "RESEARCH TERMINAL Phineas V. Welles [Přístup k experimentálním poznámkám] ... ... ..."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_experiment_terminal:7
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_experiment_terminal:7:DefaultText"
 msgid "[Logs: Experiment #01173]"
-msgstr ""
+msgstr "[Protokoly: Experiment #01173]"
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_experiment_terminal:8
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_experiment_terminal:8:DefaultText"
 msgid "[Logs: Experiment #00938]"
-msgstr ""
+msgstr "[Protokoly: Experiment #00938]"
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_experiment_terminal:9
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_experiment_terminal:9:DefaultText"
 msgid "[Logs: Experiment #01083]"
-msgstr ""
+msgstr "[Protokoly: Experiment #01083]"
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_experiment_terminal:10
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_experiment_terminal:10:DefaultText"
 msgid "[Return to Root]"
-msgstr ""
+msgstr "[Zpět na kořen]"
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_experiment_terminal:11
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_experiment_terminal:11:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_experiment_terminal:12
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_experiment_terminal:12:DefaultText"
@@ -84,7 +84,7 @@ msgid "EUREKA!\r\n"
 "Bad news: Difficult to acquire. Limited quantities of compound, likely produced by Auntie Cleo. Recently discontinued due to \"severe adverse reactions.\"\r\n"
 "\r\n"
 "Must find more!"
-msgstr ""
+msgstr "EUREKA! Bleskově zmrazený organický materiál se po ošetření tinkturou dimethylsulfoxidu vrátí do původní buněčné struktury. Míra explozivní buněčné smrti je velmi slušných šest procent! Špatná zpráva: Obtížně se získává. Omezené množství sloučeniny, pravděpodobně vyráběné tetou Cleo. Nedávno se přestala vyrábět kvůli \"závažným nežádoucím účinkům\". Musíme najít další!"
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_experiment_terminal:13
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_experiment_terminal:13:DefaultText"
@@ -99,7 +99,7 @@ msgid "00:12 - Artificial stasis successfully induced in cystypig specimen. \r\n
 "08:51: Explosive Cell Death.\r\n"
 "\r\n"
 "09:49: Finished cleaning liquefied remains of Cystypig from laboratory floor, walls, equipment."
-msgstr ""
+msgstr "00:12 - Umělá stáza úspěšně navozená u vzorku cystypig. 02:17: Oživení komplikované. Tkáň cystypigů se vrátila do živého stavu. Mozková tkáň trpěla rychlou nukleací. Pokus o léčbu. 05:58: Léčba postupuje. 08:20: Léčba selhala. Mozková tkáň nenapravitelně poškozena rychlým nástupem nekrózy. 08:51: Explozivní buněčná smrt. 09:49: Dokončeno čištění zkapalněných zbytků Cystypiga z podlahy laboratoře, stěn a vybavení."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_experiment_terminal:14
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_experiment_terminal:14:DefaultText"
@@ -112,12 +112,12 @@ msgid "02:16: Fresh out of Auntie Cleo's. Experimenting with Spacer's Choice Par
 "REMINDER: Add Spacer's Choice to \"The List.\"\r\n"
 "\r\n"
 "Note to self #2: Buy more mouthwash."
-msgstr ""
+msgstr "02:16: Čerstvě od tety Cleo. Experimentování s částečně emulgovanou náhražkou smetany Spacer's Choice. 02:18: Dokončeno vaření. Přidávám dvě unce Spacer's Choice. 02:20: Hrozné. Uvnitř jsem cítila, jak mi umírá část já. PŘIPOMÍNKA: Poznámka pro sebe č. 2: Kupte si víc ústní vody."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_experiment_terminal:15
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_experiment_terminal:15:DefaultText"
 msgid "[Bypass]"
-msgstr ""
+msgstr "[Bypass]"
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_experiment_terminal:17
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_experiment_terminal:17:DefaultText"
@@ -128,19 +128,19 @@ msgid "RESEARCH TERMINAL\r\n"
 "[PASSWORD ACCEPTED]\r\n"
 "\r\n"
 "WELCOME, PHINEAS WELLES."
-msgstr ""
+msgstr "RESEARCH TERMINAL Phineas V. Welles [HESLO]: swh181942 [HESLO PŘIJATO] VÍTEJTE, PHINEAS WELLES."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_experiment_terminal:18
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_experiment_terminal:18:DefaultText"
 msgid "[Personal Logs: Entry #01037]"
-msgstr ""
+msgstr "[Osobní deníky: záznam #01037]"
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_experiment_terminal:20
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_experiment_terminal:20:DefaultText"
 msgid "Have procured the services of one Captain Alex Hawthorne of the Unreliable. I hope he didn't name his ship after the quality of his services.\r\n"
 "\r\n"
 "I'll be sending my new accomplice down to Hawthorne via escape pod as soon as the revival process is complete. Hawthorne should make for an agreeable companion, or at least an acceptable chaperone. Law willing, he isn't a total buffoon."
-msgstr ""
+msgstr "Získali jsme služby kapitána Alexe Hawthorna z Nespolehlivé lodi. Doufám, že svou loď nepojmenoval podle kvality svých služeb. Jakmile bude proces oživení dokončen, pošlu k Hawthornovi únikovým modulem svého nového komplice. Hawthorne by měl být příjemným společníkem, nebo alespoň přijatelným doprovodem. Pokud zákon dovolí, není to úplný šašek."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_experiment_terminal:28
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_experiment_terminal:28:DefaultText"
@@ -148,16 +148,16 @@ msgid "RESEARCH TERMINAL\r\n"
 "Phineas V. Welles\r\n"
 "\r\n"
 "[Accessing Personal Files]"
-msgstr ""
+msgstr "RESEARCH TERMINAL Phineas V. Welles [Přístup k osobním souborům]"
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_experiment_terminal:30
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_experiment_terminal:30:DefaultText"
 msgid "[Cystypig Notes]"
-msgstr ""
+msgstr "[Cystypig Notes]"
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_experiment_terminal:31
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_experiment_terminal:31:DefaultText"
 msgid "Have spared one of my stock of experimental cystypigs, to be used as renewable source of nourishment. Have named this lucky pig \"Bubbles.\" Giving an animal a name establishes rapport and creates a positive emotional bond. (Allegedly improves flavor of tumors? Must look into that.)\r\n"
 "\r\n"
 "Excellent creatures, cystypigs. Don't know how people used to survive without these genetic wonders of porcine succulence. Slaughtering a pig for meat instead of harvesting tumors that ripen naturally, falling off the flesh like mock-apples off a tree, seems the height of barbarity. Truly a miracle of modern science!"
-msgstr ""
+msgstr "Ušetřil jsem jednoho ze svých pokusných cystypigů, aby byl použit jako obnovitelný zdroj potravy. Pojmenoval jsem toto šťastné prase \"Bublina\". Pojmenování zvířete navazuje vztah a vytváří pozitivní citové pouto. (Údajně zlepšuje chuť nádorů? Musím se na to podívat.) Výborná stvoření, cystypigs. Nevím, jak lidé dříve přežívali bez těchto genetických zázraků prasečí šťavnatosti. Zabíjet prase pro maso místo toho, aby se sklízely nádory, které dozrávají přirozeně a padají z masa jako posměšná jablka ze stromu, se zdá být vrcholem barbarství. Opravdu zázrak moderní vědy!"

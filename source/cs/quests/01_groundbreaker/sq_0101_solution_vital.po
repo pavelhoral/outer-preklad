@@ -1,89 +1,89 @@
 #: quests/01_groundbreaker/sq_0101_solution_vital:0
 msgctxt "quests/01_groundbreaker/sq_0101_solution_vital:0:DefaultText"
 msgid "Solution Vital"
-msgstr ""
+msgstr "Řešení Vital"
 
 #: quests/01_groundbreaker/sq_0101_solution_vital:1
 msgctxt "quests/01_groundbreaker/sq_0101_solution_vital:1:DefaultText"
 msgid "Talk to Dr. Wanda Dorsett in the Sick Bay"
-msgstr ""
+msgstr "Promluvte si s doktorkou Wandou Dorsettovou v ošetřovně"
 
 #: quests/01_groundbreaker/sq_0101_solution_vital:3
 msgctxt "quests/01_groundbreaker/sq_0101_solution_vital:3:DefaultText"
 msgid "Find Captain Irion on Scylla"
-msgstr ""
+msgstr "Najít kapitána Iriona na Scylle"
 
 #: quests/01_groundbreaker/sq_0101_solution_vital:5
 msgctxt "quests/01_groundbreaker/sq_0101_solution_vital:5:DefaultText"
 msgid "Report to Dr. Dorsett"
-msgstr ""
+msgstr "Zpráva pro Dr. Dorsetta"
 
 #: quests/01_groundbreaker/sq_0101_solution_vital:10
 msgctxt "quests/01_groundbreaker/sq_0101_solution_vital:10:DefaultText"
 msgid "Talk to Dr. Wanda Dorsett on the Groundbreaker"
-msgstr ""
+msgstr "Promluvte si s Dr. Wandou Dorsettovou v pořadu Groundbreaker"
 
 #: quests/01_groundbreaker/sq_0101_solution_vital:16
 msgctxt "quests/01_groundbreaker/sq_0101_solution_vital:16:DefaultText"
 msgid "Report to Dr. Dorsett"
-msgstr ""
+msgstr "Zpráva pro Dr. Dorsetta"
 
 #: quests/01_groundbreaker/sq_0101_solution_vital:10000
 msgctxt "quests/01_groundbreaker/sq_0101_solution_vital:10000:DefaultText"
 msgid "Dr. Wanda Dorsett, one of the local doctors, has been waiting on a shipment of medical auto-mechanicals that has yet to arrive."
-msgstr ""
+msgstr "Doktorka Wanda Dorsettová, jedna z místních lékařek, čeká na zásilku lékařské automechaniky, která dosud nedorazila."
 
 #: quests/01_groundbreaker/sq_0101_solution_vital:10001
 msgctxt "quests/01_groundbreaker/sq_0101_solution_vital:10001:DefaultText"
 msgid "Corporal Wheeler at Groundbreaker customs asked you to update Dr. Dorsett in sick bay with the status of her shipment."
-msgstr ""
+msgstr "Desátník Wheeler z celnice Groundbreaker vás požádal, abyste informoval doktorku Dorsettovou na ošetřovně o stavu její zásilky."
 
 #: quests/01_groundbreaker/sq_0101_solution_vital:10003
 msgctxt "quests/01_groundbreaker/sq_0101_solution_vital:10003:DefaultText"
 msgid "Dr. Dorsett said that Captain Irion is most likely somewhere on Scylla. Go find him and make sure he is okay."
-msgstr ""
+msgstr "Doktor Dorsett řekl, že kapitán Irion je s největší pravděpodobností někde na Scylle. Běžte ho najít a ujistěte se, že je v pořádku."
 
 #: quests/01_groundbreaker/sq_0101_solution_vital:10005
 msgctxt "quests/01_groundbreaker/sq_0101_solution_vital:10005:DefaultText"
 msgid "Wanda will want to know what became of Captain Irion and the delivery."
-msgstr ""
+msgstr "Wanda bude chtít vědět, co se stalo s kapitánem Irionem a zásilkou."
 
 #: quests/01_groundbreaker/sq_0101_solution_vital:10010
 msgctxt "quests/01_groundbreaker/sq_0101_solution_vital:10010:DefaultText"
 msgid "Captain Irion was delivering medical automechs to Dr. Dorsett when his ship was shot down by outlaws. He suggested she'd be amenable to dishing out a reward for getting his delivery back on track."
-msgstr ""
+msgstr "Kapitán Irion dodával doktoru Dorsettovi lékařské automechy, když jeho loď sestřelili zločinci. Navrhl jí, že by byla ochotná vypsat odměnu za to, že jeho dodávka bude opět v pořádku."
 
 #: quests/01_groundbreaker/sq_0101_solution_vital:10016
 msgctxt "quests/01_groundbreaker/sq_0101_solution_vital:10016:DefaultText"
 msgid "Wanda will want to know what became of Captain Irion and the delivery."
-msgstr ""
+msgstr "Wanda bude chtít vědět, co se stalo s kapitánem Irionem a zásilkou."
 
 #: quests/01_groundbreaker/sq_0101_solution_vital:20000
 msgctxt "quests/01_groundbreaker/sq_0101_solution_vital:20000:DefaultText"
 msgid "Captain Irion is being held captive by outlaws. It looks like he probably needs saving."
-msgstr ""
+msgstr "Kapitán Irion je držen v zajetí zločinců. Vypadá to, že pravděpodobně potřebuje zachránit."
 
 #: quests/01_groundbreaker/sq_0101_solution_vital:30000
 msgctxt "quests/01_groundbreaker/sq_0101_solution_vital:30000:DefaultText"
 msgid "Wanda was killed. No point in pursuing her shipment any more."
-msgstr ""
+msgstr "Wanda byla zabita. Nemá smysl se dál zabývat její zásilkou."
 
 #: quests/01_groundbreaker/sq_0101_solution_vital:30001
 msgctxt "quests/01_groundbreaker/sq_0101_solution_vital:30001:DefaultText"
 msgid "You saved Irion and got Wanda Dorsett her shipment."
-msgstr ""
+msgstr "Zachránil jsi Irion a zajistil Wandě Dorsettové její zásilku."
 
 #: quests/01_groundbreaker/sq_0101_solution_vital:30002
 msgctxt "quests/01_groundbreaker/sq_0101_solution_vital:30002:DefaultText"
 msgid "You found Irion, but he died. Wanda's shipment will never make it back now..."
-msgstr ""
+msgstr "Našel jsi Iriona, ale zemřel. Wandina zásilka se teď už nikdy nevrátí..."
 
 #: quests/01_groundbreaker/sq_0101_solution_vital:30003
 msgctxt "quests/01_groundbreaker/sq_0101_solution_vital:30003:DefaultText"
 msgid "The Groundbreaker has become hostile towards you, making it impossible to complete this quest."
-msgstr ""
+msgstr "Groundbreaker se vůči vám stal nepřátelským, což znemožňuje dokončení tohoto úkolu."
 
 #: quests/01_groundbreaker/sq_0101_solution_vital:40001
 msgctxt "quests/01_groundbreaker/sq_0101_solution_vital:40001:DefaultText"
 msgid "You discovered Captain Irion under attack by outlaws while exploring Scylla."
-msgstr ""
+msgstr "Při průzkumu Scylly jste objevili kapitána Iriona pod útokem psanců."

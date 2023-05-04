@@ -1,42 +1,42 @@
 #: conversations/04_monarch/0401/0401_cp_cascadia_office_entry:1
 msgctxt "conversations/04_monarch/0401/0401_cp_cascadia_office_entry:1:DefaultText"
 msgid "Welcome to the offices of Rizzo, a wholly-owned subsidiary of East West Company."
-msgstr ""
+msgstr "Vítejte v kancelářích společnosti Rizzo, dceřiné společnosti East West Company."
 
 #: conversations/04_monarch/0401/0401_cp_cascadia_office_entry:4
 msgctxt "conversations/04_monarch/0401/0401_cp_cascadia_office_entry:4:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"
 
 #: conversations/04_monarch/0401/0401_cp_cascadia_office_entry:6
 msgctxt "conversations/04_monarch/0401/0401_cp_cascadia_office_entry:6:DefaultText"
 msgid "[Messages]"
-msgstr ""
+msgstr "[Zprávy]"
 
 #: conversations/04_monarch/0401/0401_cp_cascadia_office_entry:7
 msgctxt "conversations/04_monarch/0401/0401_cp_cascadia_office_entry:7:DefaultText"
 msgid "Available messages:"
-msgstr ""
+msgstr "Dostupné zprávy:"
 
 #: conversations/04_monarch/0401/0401_cp_cascadia_office_entry:8
 msgctxt "conversations/04_monarch/0401/0401_cp_cascadia_office_entry:8:DefaultText"
 msgid "[TO: C. McClure]"
-msgstr ""
+msgstr "[TO: C. McClure]"
 
 #: conversations/04_monarch/0401/0401_cp_cascadia_office_entry:9
 msgctxt "conversations/04_monarch/0401/0401_cp_cascadia_office_entry:9:DefaultText"
 msgid "[FROM: C. McClure]"
-msgstr ""
+msgstr "[OD: C. McClure]"
 
 #: conversations/04_monarch/0401/0401_cp_cascadia_office_entry:10
 msgctxt "conversations/04_monarch/0401/0401_cp_cascadia_office_entry:10:DefaultText"
 msgid "[FROM: Z. Blackwood]"
-msgstr ""
+msgstr "[OD: Z. Blackwood]"
 
 #: conversations/04_monarch/0401/0401_cp_cascadia_office_entry:11
 msgctxt "conversations/04_monarch/0401/0401_cp_cascadia_office_entry:11:DefaultText"
 msgid "[TO: P. Bartleby]"
-msgstr ""
+msgstr "[TO: P. Bartleby]"
 
 #: conversations/04_monarch/0401/0401_cp_cascadia_office_entry:12
 msgctxt "conversations/04_monarch/0401/0401_cp_cascadia_office_entry:12:DefaultText"
@@ -59,7 +59,7 @@ msgid "To: Cecil M.\r\n"
 "Violette Humbert\r\n"
 "Human Resources Department\r\n"
 "Rizzo, Inc."
-msgstr ""
+msgstr "Pro: Od: Cecil M: Předmět: Violette H: Datum: Violetta Violetta: 17. dubna 2342 Cecil, obdržela jsem několik stížností na vaše jednání se zákazníky. Podle těchto zpráv byly při popisu výrobků Rizzo prodávaných ve vaší prodejně použity následující fráze: - \"Jestli to nejsou úspory, tak mi prostě řekněte raptidon [vymazáno]!\" - \"Nejnovější várka tě omráčí jako nos plný síry!\" - \"... severní konec vlnité krávy směřující na jih.\" Tyto - a další - metafory nejsou schválené. Seznam metafor povolených při práci naleznete v příručce pro zaměstnance. S velkou úctou, Violette Humbert Oddělení lidských zdrojů Rizzo, Inc."
 
 #: conversations/04_monarch/0401/0401_cp_cascadia_office_entry:13
 msgctxt "conversations/04_monarch/0401/0401_cp_cascadia_office_entry:13:DefaultText"
@@ -83,7 +83,7 @@ msgid "To: Violette H.\r\n"
 "- OK, I'll fess up to selling restricted goods. You got me there. Selling soap to a man who stinks so bad I can't smell the sulfur around him is against the rules. Fine. I won't do it anymore.\r\n"
 "\r\n"
 "- Cecil"
-msgstr ""
+msgstr "Pro: Od: Violette H: Předmět: Violette M: Datum: Violette, obdržel jsem oznámení o následujících porušeních:- Konzumace neschváleného materiálu k obědu - Neúčast na dobrovolné práci přesčas - Prodej zboží s omezením Tato porušení napadám z následujících důvodů: - Jsem alergický na purpuru. Příprava jednoho z našich předem schválených obědových jídel z Purpleberry mě doslova zabije. Upřímně řečeno, je zázrak, že jsem tu žil tak dlouho bez nehody. - Nemohu se přihlásit na přesčas, protože už mi byly přiděleny přesčasové směny! - Dobře, přiznávám se k prodeji zakázaného zboží. Dostal jsi mě. Prodávat mýdlo člověku, který smrdí tak, že kolem sebe necítím síru, je proti pravidlům. Fajn. Už to nebudu dělat. - Cecil"
 
 #: conversations/04_monarch/0401/0401_cp_cascadia_office_entry:14
 msgctxt "conversations/04_monarch/0401/0401_cp_cascadia_office_entry:14:DefaultText"
@@ -97,7 +97,7 @@ msgid "To: Violette H.\r\n"
 "He's got some kind of condition. I don't rightly know what it is. But I've smelled corpses with a finer odor than his.\r\n"
 "\r\n"
 "- Zora"
-msgstr ""
+msgstr "Pro: Od: Violette H: Předmět: Zora B: Datum: Simon potřebuje mýdlo září 2342 Violette. Prosím. Všichni tě o to prosíme. Pro lásku ke všemu dobrému a spravedlivému, prosím, dovol Cecilovi, aby Simonovi zase prodával mýdlo. Má nějaký problém. Nevím správně, co to je. Ale už jsem cítila mrtvoly s jemnějším zápachem, než má on. - Zora"
 
 #: conversations/04_monarch/0401/0401_cp_cascadia_office_entry:15
 msgctxt "conversations/04_monarch/0401/0401_cp_cascadia_office_entry:15:DefaultText"
@@ -116,14 +116,14 @@ msgid "To: Pauline B.\n"
 "\n"
 "Thank you,\n"
 "Violette"
-msgstr ""
+msgstr "Pro: Pauline B: Předmět: Violette H: Datum: Zdá se, že pozorování raptidonů jsou stále častější. Vzhledem k tomu, že společnost Rizzo, a. s., nereaguje na naše žádosti o poskytnutí bezpečnostního vybavení, roste mezi zaměstnanci znepokojení a - troufám si říct - neklid. Jakékoli informace o pravdivosti těchto pozorování nebo zvěstí, že společnost Rizzo, a. s., již nepodporuje naše úsilí, by velmi přispěly ke zlepšení morálky ve společnosti. Děkuji, Violette"
 
 #: conversations/04_monarch/0401/0401_cp_cascadia_office_entry:16
 msgctxt "conversations/04_monarch/0401/0401_cp_cascadia_office_entry:16:DefaultText"
 msgid "[Back]"
-msgstr ""
+msgstr "[Zpět]"
 
 #: conversations/04_monarch/0401/0401_cp_cascadia_office_entry:17
 msgctxt "conversations/04_monarch/0401/0401_cp_cascadia_office_entry:17:DefaultText"
 msgid "[Return to Root]"
-msgstr ""
+msgstr "[Zpět na kořen]"

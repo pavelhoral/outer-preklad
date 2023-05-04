@@ -1,174 +1,174 @@
 #: quests/companions/cq_parvati_thebignight:0
 msgctxt "quests/companions/cq_parvati_thebignight:0:DefaultText"
 msgid "Don't Bite The Sun"
-msgstr ""
+msgstr "Nekousej slunce"
 
 #: quests/companions/cq_parvati_thebignight:1
 msgctxt "quests/companions/cq_parvati_thebignight:1:DefaultText"
 msgid "Shop for Cleansing Products"
-msgstr ""
+msgstr "Obchod s čisticími produkty"
 
 #: quests/companions/cq_parvati_thebignight:4
 msgctxt "quests/companions/cq_parvati_thebignight:4:DefaultText"
 msgid "Find Parvati Fancy Clothes"
-msgstr ""
+msgstr "Najít Parvati Fancy Clothes"
 
 #: quests/companions/cq_parvati_thebignight:13
 msgctxt "quests/companions/cq_parvati_thebignight:13:DefaultText"
 msgid "Talk to Parvati on the Ship"
-msgstr ""
+msgstr "Promluvte si s Parvati na lodi"
 
 #: quests/companions/cq_parvati_thebignight:14
 msgctxt "quests/companions/cq_parvati_thebignight:14:DefaultText"
 msgid "Chat with Parvati on the Ship"
-msgstr ""
+msgstr "Chat s Parvati na lodi"
 
 #: quests/companions/cq_parvati_thebignight:18
 msgctxt "quests/companions/cq_parvati_thebignight:18:DefaultText"
 msgid "Give Parvati the Cleanser"
-msgstr ""
+msgstr "Dejte Parvati čisticí prostředek"
 
 #: quests/companions/cq_parvati_thebignight:19
 msgctxt "quests/companions/cq_parvati_thebignight:19:DefaultText"
 msgid "Give Parvati the Food"
-msgstr ""
+msgstr "Dejte jídlo Parvati"
 
 #: quests/companions/cq_parvati_thebignight:21
 msgctxt "quests/companions/cq_parvati_thebignight:21:DefaultText"
 msgid "Find Sweetheart Cakes"
-msgstr ""
+msgstr "Najít sladké dorty"
 
 #: quests/companions/cq_parvati_thebignight:22
 msgctxt "quests/companions/cq_parvati_thebignight:22:DefaultText"
 msgid "Buy a Dustback Casserole"
-msgstr ""
+msgstr "Koupit kastrol Dustback"
 
 #: quests/companions/cq_parvati_thebignight:25
 msgctxt "quests/companions/cq_parvati_thebignight:25:DefaultText"
 msgid "Speak to Parvati"
-msgstr ""
+msgstr "Promluvte si s Parvati"
 
 #: quests/companions/cq_parvati_thebignight:30
 msgctxt "quests/companions/cq_parvati_thebignight:30:DefaultText"
 msgid "Speak to Parvati"
-msgstr ""
+msgstr "Promluvte si s Parvati"
 
 #: quests/companions/cq_parvati_thebignight:33
 msgctxt "quests/companions/cq_parvati_thebignight:33:DefaultText"
 msgid "Check in on the Date"
-msgstr ""
+msgstr "Zkontrolujte datum"
 
 #: quests/companions/cq_parvati_thebignight:10000
 msgctxt "quests/companions/cq_parvati_thebignight:10000:DefaultText"
 msgid "Parvati wants to surprise Junlei with a perfect date, and she needs your help to see it through."
-msgstr ""
+msgstr "Parvati chce Junlei překvapit dokonalým rande a potřebuje vaši pomoc, aby se jí to podařilo."
 
 #: quests/companions/cq_parvati_thebignight:10001
 msgctxt "quests/companions/cq_parvati_thebignight:10001:DefaultText"
 msgid "Parvati wants to smarten herself up for her date with Junlei. She's after specific supplies from a vendor on the Groundbreaker."
-msgstr ""
+msgstr "Parvati se chce na rande s Junleiem upravit. Chce získat specifické potřeby od prodejce na Groundbreakeru."
 
 #: quests/companions/cq_parvati_thebignight:10004
 msgctxt "quests/companions/cq_parvati_thebignight:10004:DefaultText"
 msgid "Parvati's feeling self-conscious about her attire. Help her find something with a little more flair at Celeste Jolicoeur's Haberdashery in Byzantium."
-msgstr ""
+msgstr "Parvati se cítí nesvá kvůli svému oblečení. Pomozte jí najít v galanterii Celesty Jolicoeurové v Byzanci něco, co má větší šmrnc."
 
 #: quests/companions/cq_parvati_thebignight:10013
 msgctxt "quests/companions/cq_parvati_thebignight:10013:DefaultText"
 msgid "Once Parvati gets herself together, she can invite Junlei back to the ship for their date. Check with her to see if she's ready."
-msgstr ""
+msgstr "Jakmile se dá Parvati dohromady, může pozvat Junleiho na loď, aby si dali rande. Zkontroluj s ní, jestli je připravená."
 
 #: quests/companions/cq_parvati_thebignight:10014
 msgctxt "quests/companions/cq_parvati_thebignight:10014:DefaultText"
 msgid "Parvati 's date with Junlei is over. Ask her how the night went."
-msgstr ""
+msgstr "Rande Parvati s Junleiem skončilo. Zeptejte se jí, jak se večer vydařil."
 
 #: quests/companions/cq_parvati_thebignight:10018
 msgctxt "quests/companions/cq_parvati_thebignight:10018:DefaultText"
 msgid "You got a beauty gift set for Parvati. Give it to her and see what she thinks."
-msgstr ""
+msgstr "Dostala jsi dárkovou sadu pro Parvati. Dejte jí ji a uvidíte, co si o tom pomyslí."
 
 #: quests/companions/cq_parvati_thebignight:10019
 msgctxt "quests/companions/cq_parvati_thebignight:10019:DefaultText"
 msgid "Now that you've squared away the fine dining portion of Parvati's big date, you should let her know."
-msgstr ""
+msgstr "Teď, když jste vyřešili část Parvatiina velkého rande týkající se dobrého jídla, měli byste jí dát vědět."
 
 #: quests/companions/cq_parvati_thebignight:10021
 msgctxt "quests/companions/cq_parvati_thebignight:10021:DefaultText"
 msgid "Find Sweetheart Cakes in the old Rizzo's facility in Cascadia, on Monarch."
-msgstr ""
+msgstr "Cukrárnu Sweetheart Cakes najdete ve starém objektu Rizzo's v Cascadii na ulici Monarch."
 
 #: quests/companions/cq_parvati_thebignight:10022
 msgctxt "quests/companions/cq_parvati_thebignight:10022:DefaultText"
 msgid "Purchase a Dustback Casserole from Chef Raymond in Stellar Bay."
-msgstr ""
+msgstr "Zakupte si Dustback Casserole od šéfkuchaře Raymonda ve Stellar Bay."
 
 #: quests/companions/cq_parvati_thebignight:10025
 msgctxt "quests/companions/cq_parvati_thebignight:10025:DefaultText"
 msgid "You helped Parvati find a snazzy outfit for her date with Junlei. Talk to her and see if she needs anything else."
-msgstr ""
+msgstr "Pomohla jsi Parvati najít elegantní oblečení na rande s Junleiem. Promluvte si s ní a zjistěte, zda nepotřebuje ještě něco dalšího."
 
 #: quests/companions/cq_parvati_thebignight:10030
 msgctxt "quests/companions/cq_parvati_thebignight:10030:DefaultText"
 msgid "You and Parvati found the cleanser she wanted. Check with her to see if she's ready to go on her date with Junlei now."
-msgstr ""
+msgstr "Ty a Parvati jste našli čisticí prostředek, který chtěla. Zkontroluj s ní, jestli je připravená jít na rande s Junlei."
 
 #: quests/companions/cq_parvati_thebignight:10033
 msgctxt "quests/companions/cq_parvati_thebignight:10033:DefaultText"
 msgid "Head to the kitchen and see how the date is going."
-msgstr ""
+msgstr "Jdi do kuchyně a podívej se, jak probíhá rande."
 
 #: quests/companions/cq_parvati_thebignight:20002
 msgctxt "quests/companions/cq_parvati_thebignight:20002:DefaultText"
 msgid "You killed Gladys, which makes it difficult to buy anything from her. You'll have to search her room in the Rest-N-Go and hope she keeps the soaps nearby."
-msgstr ""
+msgstr "Zabil jsi Gladys, takže je obtížné od ní cokoli koupit. Budeš muset prohledat její pokoj v Rest-N-Go a doufat, že má mýdla poblíž."
 
 #: quests/companions/cq_parvati_thebignight:20003
 msgctxt "quests/companions/cq_parvati_thebignight:20003:DefaultText"
 msgid "Parvati has asked that you dock at the Groundbreaker so she can invite Junlei over for their date."
-msgstr ""
+msgstr "Parvati tě požádala, abys zakotvil na lodi Groundbreaker a ona mohla pozvat Junlei na jejich rande."
 
 #: quests/companions/cq_parvati_thebignight:20004
 msgctxt "quests/companions/cq_parvati_thebignight:20004:DefaultText"
 msgid "Celeste has been killed, which means you'll have to search the store for a suitable outfit without her assistance."
-msgstr ""
+msgstr "Celeste byla zabita, což znamená, že budete muset hledat vhodné oblečení v obchodě bez její pomoci."
 
 #: quests/companions/cq_parvati_thebignight:20005
 msgctxt "quests/companions/cq_parvati_thebignight:20005:DefaultText"
 msgid "Celeste's replacement will be equally unable to assist you."
-msgstr ""
+msgstr "Náhradník za Celestu vám stejně tak nebude moci pomoci."
 
 #: quests/companions/cq_parvati_thebignight:20006
 msgctxt "quests/companions/cq_parvati_thebignight:20006:DefaultText"
 msgid "Parvati and Junlei seem to be having a great time. You should leave the ship and let them enjoy their date together."
-msgstr ""
+msgstr "Zdá se, že Parvati a Junlei se skvěle baví. Měli byste opustit loď a nechat je, ať si užijí společné rande."
 
 #: quests/companions/cq_parvati_thebignight:20007
 msgctxt "quests/companions/cq_parvati_thebignight:20007:DefaultText"
 msgid "Chef Raymond has died. Looks like you'll need to search his kitchen for another batch of casserole."
-msgstr ""
+msgstr "Šéfkuchař Raymond zemřel. Vypadá to, že budete muset hledat v jeho kuchyni další várku kastrolů."
 
 #: quests/companions/cq_parvati_thebignight:30000
 msgctxt "quests/companions/cq_parvati_thebignight:30000:DefaultText"
 msgid "Parvati was killed."
-msgstr ""
+msgstr "Parvati byla zabita."
 
 #: quests/companions/cq_parvati_thebignight:30001
 msgctxt "quests/companions/cq_parvati_thebignight:30001:DefaultText"
 msgid "Junlei was killed, bringing a premature end to her relationship with Parvati."
-msgstr ""
+msgstr "Junlei byla zabita, čímž předčasně skončil její vztah s Parvati."
 
 #: quests/companions/cq_parvati_thebignight:30002
 msgctxt "quests/companions/cq_parvati_thebignight:30002:DefaultText"
 msgid "Parvati had her date with Junlei, thanks in no small part to your help. "
-msgstr ""
+msgstr "Parvati měla rande s Junleiem, a to především díky tvé pomoci. "
 
 #: quests/companions/cq_parvati_thebignight:30003
 msgctxt "quests/companions/cq_parvati_thebignight:30003:DefaultText"
 msgid "Parvati decided to prepare for her date without your help."
-msgstr ""
+msgstr "Parvati se rozhodla připravit se na rande bez vaší pomoci."
 
 #: quests/companions/cq_parvati_thebignight:30004
 msgctxt "quests/companions/cq_parvati_thebignight:30004:DefaultText"
 msgid "You and Parvati parted ways."
-msgstr ""
+msgstr "S Parvati jste se rozešli."

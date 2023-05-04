@@ -1,29 +1,29 @@
 #: conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_bar_crime:1
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_bar_crime:1:DefaultText"
 msgid "Freeze!"
-msgstr ""
+msgstr "Stát!"
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_bar_crime:2
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_bar_crime:2:DefaultText"
 msgid "I'll pay you <oeiglobal>Bribe_Amount</oeiglobal> bits to look the other way."
-msgstr ""
+msgstr "Zaplatím vám <oeiglobal>Částka úplatku</oeiglobal>, abyste se dívali jinam."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_bar_crime:3
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_bar_crime:3:DefaultText"
 msgid "Hey, relax. I'm on a routine inspection."
-msgstr ""
+msgstr "Hej, uklidni se. Jsem na rutinní inspekci."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_bar_crime:4
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_bar_crime:4:DefaultText"
 msgid "Do you really want to do this?"
-msgstr ""
+msgstr "Opravdu to chcete udělat?"
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_bar_crime:5
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_bar_crime:5:DefaultText"
 msgid "I was just leaving."
-msgstr ""
+msgstr "Právě jsem odcházel."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_bar_crime:6
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_bar_crime:6:DefaultText"
 msgid "<Attack>"
-msgstr ""
+msgstr "<Útok>"

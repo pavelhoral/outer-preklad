@@ -19,17 +19,17 @@ msgid "Emerald Vale Geothermal Plant\r\n"
 "[Messages]: PURGED\r\n"
 "...\r\n"
 "[Personal Memos]: PURGE INCOMPLETE. TWO (2) FILES AVAILABLE."
-msgstr ""
+msgstr "Geotermální elektrárna Emerald Vale A Spacer's Choice Property ======================== ========= Recepční terminál ... ... [CHYBA] ... [PAMĚŤ TERMINÁLU VYČERPÁNA] [Záznamy údržby]: PURGED [Personální složky]: [Oznámení společnosti]: [Zprávy]: [Osobní poznámky]: PURGED ... [Osobní poznámky]: PROČIŠTĚNÍ NEDOKONČENO. K DISPOZICI JSOU DVA (2) SOUBORY."
 
 #: conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_reception_desk:2
 msgctxt "conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_reception_desk:2:DefaultText"
 msgid "[Access File 02]"
-msgstr ""
+msgstr "[Přístupový soubor 02]"
 
 #: conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_reception_desk:3
 msgctxt "conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_reception_desk:3:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"
 
 #: conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_reception_desk:4
 msgctxt "conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_reception_desk:4:DefaultText"
@@ -45,12 +45,13 @@ msgid "Emerald Vale Geothermal Plant\r\n"
 "would like to leave early for the day, please deduct delinquency fee from my pay \r\n"
 "\r\n"
 "thank you, proud to be member of spacers choice family"
-msgstr ""
+msgstr "Geotermální elektrárna Emerald Vale A Spacer's Choice Property ======================== chaos všude, kde se rozbila mechanika\n"
+"střelba, slyším nějaké výkřiky ach, zákon, myslím, že to byla něčí noha, rád bych pro dnešek odešel dřív, prosím, odečtěte mi z platu poplatek za přestupek, děkuji, jsem hrdý na to, že jsem členem rodiny Spacers Choice."
 
 #: conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_reception_desk:5
 msgctxt "conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_reception_desk:5:DefaultText"
 msgid "[Access File 01]"
-msgstr ""
+msgstr "[Přístupový soubor 01]"
 
 #: conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_reception_desk:6
 msgctxt "conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_reception_desk:6:DefaultText"
@@ -60,4 +61,4 @@ msgid "Emerald Vale Geothermal Plant\r\n"
 "========================\r\n"
 "\r\n"
 "I had to borrow your copy of the Young Spacer's Guide to Mechanical Engineering. Radio's been sputtering, and I needed the reference. I've returned the copy to the repair bay."
-msgstr ""
+msgstr "Emerald Vale Geothermal Plant A Spacer's Choice Property ======================== Musel jsem si půjčit váš výtisk Průvodce mladého spacera strojírenstvím. Rádio se rozsypalo a já jsem potřeboval referenci. Vrátil jsem výtisk do opravny."

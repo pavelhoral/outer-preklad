@@ -1,7 +1,7 @@
 #: conversations/sharedstrings/sh_consoles:1
 msgctxt "conversations/sharedstrings/sh_consoles:1:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"
 
 #: conversations/sharedstrings/sh_consoles:2
 msgctxt "conversations/sharedstrings/sh_consoles:2:DefaultText"
@@ -10,57 +10,57 @@ msgid "Argos Security Systems\r\n"
 "SECURITY LOCKDOWN\r\n"
 "---------------------------------\r\n"
 "All personnel please report to your assigned workstations. Report suspicious activity to the nearest Site Safety Engineer."
-msgstr ""
+msgstr "Argos Security Systems --------------------------------- SECURITY LOCKDOWN --------------------------------- Všichni zaměstnanci se dostavte na svá přidělená pracoviště. Podezřelou činnost nahlaste nejbližšímu bezpečnostnímu technikovi pracoviště."
 
 #: conversations/sharedstrings/sh_consoles:3
 msgctxt "conversations/sharedstrings/sh_consoles:3:DefaultText"
 msgid "[Messages]"
-msgstr ""
+msgstr "[Zprávy]"
 
 #: conversations/sharedstrings/sh_consoles:4
 msgctxt "conversations/sharedstrings/sh_consoles:4:DefaultText"
 msgid "[Inventory Logs]"
-msgstr ""
+msgstr "[Inventární protokoly]"
 
 #: conversations/sharedstrings/sh_consoles:5
 msgctxt "conversations/sharedstrings/sh_consoles:5:DefaultText"
 msgid "[Maintenance Logs]"
-msgstr ""
+msgstr "[Protokoly údržby]"
 
 #: conversations/sharedstrings/sh_consoles:6
 msgctxt "conversations/sharedstrings/sh_consoles:6:DefaultText"
 msgid "[Log On]"
-msgstr ""
+msgstr "[Přihlášení]"
 
 #: conversations/sharedstrings/sh_consoles:7
 msgctxt "conversations/sharedstrings/sh_consoles:7:DefaultText"
 msgid "[Armory Logs]"
-msgstr ""
+msgstr "[Deníky zbrojnice]"
 
 #: conversations/sharedstrings/sh_consoles:8
 msgctxt "conversations/sharedstrings/sh_consoles:8:DefaultText"
 msgid "[Security Camera Controls]"
-msgstr ""
+msgstr "[Ovládání bezpečnostních kamer]"
 
 #: conversations/sharedstrings/sh_consoles:9
 msgctxt "conversations/sharedstrings/sh_consoles:9:DefaultText"
 msgid "[Door Lock Controls]"
-msgstr ""
+msgstr "[Ovládání zámku dveří]"
 
 #: conversations/sharedstrings/sh_consoles:10
 msgctxt "conversations/sharedstrings/sh_consoles:10:DefaultText"
 msgid "[Experimental Notes]"
-msgstr ""
+msgstr "[Experimentální poznámky]"
 
 #: conversations/sharedstrings/sh_consoles:11
 msgctxt "conversations/sharedstrings/sh_consoles:11:DefaultText"
 msgid "[Personal Files]"
-msgstr ""
+msgstr "[Osobní soubory]"
 
 #: conversations/sharedstrings/sh_consoles:12
 msgctxt "conversations/sharedstrings/sh_consoles:12:DefaultText"
 msgid "[Return to Root]"
-msgstr ""
+msgstr "[Zpět na kořen]"
 
 #: conversations/sharedstrings/sh_consoles:13
 msgctxt "conversations/sharedstrings/sh_consoles:13:DefaultText"
@@ -71,7 +71,7 @@ msgid "Argos Security Systems\r\n"
 "All personnel please report to assigned workstations. Report suspicious activity to the nearest Site Safety Engineer.\r\n"
 "---------------------------------\r\n"
 "Unsightly bloodstains? Consider Auntie Cleo's laundry soap. Now with a refreshing lemon zing scent."
-msgstr ""
+msgstr "Argos Security Systems --------------------------------- BEZPEČNOSTNÍ UZÁVĚRA Všichni zaměstnanci se dostavte na přidělená pracoviště. Podezřelou činnost nahlaste nejbližšímu bezpečnostnímu technikovi pracoviště. --------------------------------- Nevzhledné krvavé skvrny? Zvažte mýdlo na praní Auntie Cleo. Nyní s osvěžující citronovou vůní."
 
 #: conversations/sharedstrings/sh_consoles:14
 msgctxt "conversations/sharedstrings/sh_consoles:14:DefaultText"
@@ -82,7 +82,7 @@ msgid "Argos Security Systems\r\n"
 "All personnel please report to assigned workstations. Report suspicious activity to the nearest Site Safety Engineer.\r\n"
 "---------------------------------\r\n"
 "Have you brushed your teeth with Auntie's Blinding White Paste™ today?"
-msgstr ""
+msgstr "Argos Security Systems --------------------------------- BEZPEČNOSTNÍ UZÁVĚRA Všichni zaměstnanci se dostavte na přidělená pracoviště. Podezřelou činnost nahlaste nejbližšímu bezpečnostnímu technikovi pracoviště. --------------------------------- Vyčistili jste si dnes zuby oslepující bílou pastou Auntie's White Paste™?"
 
 #: conversations/sharedstrings/sh_consoles:15
 msgctxt "conversations/sharedstrings/sh_consoles:15:DefaultText"
@@ -93,7 +93,7 @@ msgid "Argos Security Systems\n"
 "All personnel please report to assigned workstations. Report suspicious activity to the nearest Site Safety Engineer.\n"
 "---------------------------------\n"
 "Auntie Cleo Auntie-Biotics™: served fresh from our petri dishes to YOUR personal crevices."
-msgstr ""
+msgstr "Argos Security Systems --------------------------------- BEZPEČNOSTNÍ UZÁVĚRA Všichni zaměstnanci se dostavte na přidělená pracoviště. Podezřelou činnost nahlaste nejbližšímu bezpečnostnímu technikovi pracoviště. --------------------------------- Auntie Cleo Auntie-Biotics™: podáváme čerstvě z našich Petriho misek do VAŠICH osobních štěrbin."
 
 #: conversations/sharedstrings/sh_consoles:16
 msgctxt "conversations/sharedstrings/sh_consoles:16:DefaultText"
@@ -104,7 +104,7 @@ msgid "Argos Security Systems\r\n"
 "All personnel please report to assigned workstations. Report suspicious activity to the nearest Site Safety Engineer.\r\n"
 "---------------------------------\r\n"
 "Tired of itchy acid burns? Try Auntie Cleo's artisanal boarst-scented moisturizing cream."
-msgstr ""
+msgstr "Argos Security Systems --------------------------------- BEZPEČNOSTNÍ UZÁVĚRA Všichni zaměstnanci se dostavte na přidělená pracoviště. Podezřelou činnost nahlaste nejbližšímu bezpečnostnímu technikovi pracoviště. --------------------------------- Máte dost svědivých popálenin od kyseliny? Vyzkoušejte řemeslný hydratační krém Auntie Cleo s vůní divočáka."
 
 #: conversations/sharedstrings/sh_consoles:17
 msgctxt "conversations/sharedstrings/sh_consoles:17:DefaultText"
@@ -115,7 +115,7 @@ msgid "Argos Security Systems\r\n"
 "All personnel please report to assigned workstations. Report suspicious activity to the nearest Site Safety Engineer.\r\n"
 "---------------------------------\r\n"
 "Feeling irate? Try Auntie Cleo's Nar-Choc-Lectic™ bars. Now with 3% real CCN76."
-msgstr ""
+msgstr "Argos Security Systems --------------------------------- BEZPEČNOSTNÍ UZÁVĚRA Všichni zaměstnanci se dostavte na přidělená pracoviště. Podezřelou činnost nahlaste nejbližšímu bezpečnostnímu technikovi pracoviště. --------------------------------- Cítíte se podráždění? Vyzkoušejte tyčinky Auntie Cleo's Nar-Choc-Lectic™. Nyní s 3 % skutečného CCN76."
 
 #: conversations/sharedstrings/sh_consoles:18
 msgctxt "conversations/sharedstrings/sh_consoles:18:DefaultText"
@@ -126,7 +126,7 @@ msgid "Argos Security Systems\r\n"
 "All personnel please report to assigned workstations. Report suspicious activity to the nearest Site Safety Engineer.\r\n"
 "---------------------------------\r\n"
 "Try Auntie Cleo's Handi-Off™, the surgical stain remover of choice."
-msgstr ""
+msgstr "Argos Security Systems --------------------------------- BEZPEČNOSTNÍ UZÁVĚRA Všichni zaměstnanci se dostavte na přidělená pracoviště. Podezřelou činnost nahlaste nejbližšímu bezpečnostnímu technikovi pracoviště. --------------------------------- Vyzkoušejte Handi-Off™ od tety Cleo, nejvhodnější odstraňovač skvrn po chirurgických zákrocích."
 
 #: conversations/sharedstrings/sh_consoles:19
 msgctxt "conversations/sharedstrings/sh_consoles:19:DefaultText"
@@ -137,7 +137,7 @@ msgid "Argos Security Systems\r\n"
 "All personnel please report to assigned workstations. Report suspicious activity to the nearest Site Safety Engineer.\r\n"
 "---------------------------------\r\n"
 "Parents who buy Auntie Cleo should have children who buy Auntie Cleo."
-msgstr ""
+msgstr "Argos Security Systems --------------------------------- BEZPEČNOSTNÍ UZÁVĚRA Všichni zaměstnanci se dostavte na přidělená pracoviště. Podezřelou činnost nahlaste nejbližšímu bezpečnostnímu technikovi pracoviště. --------------------------------- Rodiče, kteří kupují Auntie Cleo, by měli mít děti, které kupují Auntie Cleo."
 
 #: conversations/sharedstrings/sh_consoles:20
 msgctxt "conversations/sharedstrings/sh_consoles:20:DefaultText"
@@ -148,79 +148,80 @@ msgid "Argos Security Systems\r\n"
 "All personnel please report to assigned workstations. Report suspicious activity to the nearest Site Safety Engineer.\r\n"
 "---------------------------------\r\n"
 "\"Auntie Cleo's - Better than Nature!\"™"
-msgstr ""
+msgstr "Argos Security Systems --------------------------------- BEZPEČNOSTNÍ UZÁVĚRA Všichni zaměstnanci se dostavte na přidělená pracoviště. Podezřelou činnost nahlaste nejbližšímu bezpečnostnímu technikovi pracoviště. --------------------------------- \"Auntie Cleo's - Better than Nature!\"™"
 
 #: conversations/sharedstrings/sh_consoles:21
 msgctxt "conversations/sharedstrings/sh_consoles:21:DefaultText"
 msgid "[Continue]"
-msgstr ""
+msgstr "[Pokračovat]"
 
 #: conversations/sharedstrings/sh_consoles:22
 msgctxt "conversations/sharedstrings/sh_consoles:22:DefaultText"
 msgid "[Accessing...]"
-msgstr ""
+msgstr "[Přístup k...]"
 
 #: conversations/sharedstrings/sh_consoles:23
 msgctxt "conversations/sharedstrings/sh_consoles:23:DefaultText"
 msgid "[Security Routines]"
-msgstr ""
+msgstr "[Bezpečnostní rutiny]"
 
 #: conversations/sharedstrings/sh_consoles:24
 msgctxt "conversations/sharedstrings/sh_consoles:24:DefaultText"
 msgid "[Personnel Files]"
-msgstr ""
+msgstr "[Osobní spisy]"
 
 #: conversations/sharedstrings/sh_consoles:25
 msgctxt "conversations/sharedstrings/sh_consoles:25:DefaultText"
 msgid "[Transfer Files to External Tape]"
-msgstr ""
+msgstr "[Přenos souborů na externí pásku]"
 
 #: conversations/sharedstrings/sh_consoles:26
 msgctxt "conversations/sharedstrings/sh_consoles:26:DefaultText"
 msgid "[Proceed]"
-msgstr ""
+msgstr "[Pokračovat]"
 
 #: conversations/sharedstrings/sh_consoles:27
 msgctxt "conversations/sharedstrings/sh_consoles:27:DefaultText"
 msgid "[Abort]"
-msgstr ""
+msgstr "[Přerušit]"
 
 #: conversations/sharedstrings/sh_consoles:28
 msgctxt "conversations/sharedstrings/sh_consoles:28:DefaultText"
 msgid "[Yes]"
-msgstr ""
+msgstr "[Ano]"
 
 #: conversations/sharedstrings/sh_consoles:29
 msgctxt "conversations/sharedstrings/sh_consoles:29:DefaultText"
 msgid "[No]"
-msgstr ""
+msgstr "[Ne]"
 
 #: conversations/sharedstrings/sh_consoles:30
 msgctxt "conversations/sharedstrings/sh_consoles:30:DefaultText"
 msgid "[Bypass]"
-msgstr ""
+msgstr "[Bypass]"
 
 #: conversations/sharedstrings/sh_consoles:31
 msgctxt "conversations/sharedstrings/sh_consoles:31:DefaultText"
 msgid "[Open Last Entry]"
-msgstr ""
+msgstr "[Otevřít poslední záznam]"
 
 #: conversations/sharedstrings/sh_consoles:33
 msgctxt "conversations/sharedstrings/sh_consoles:33:DefaultText"
 msgid "[Back]"
-msgstr ""
+msgstr "[Zpět]"
 
 #: conversations/sharedstrings/sh_consoles:34
 msgctxt "conversations/sharedstrings/sh_consoles:34:DefaultText"
 msgid "[Access Redacted Text]"
-msgstr ""
+msgstr "[Přístup k redigovanému textu]"
 
 #: conversations/sharedstrings/sh_consoles:35
 msgctxt "conversations/sharedstrings/sh_consoles:35:DefaultText"
 msgid "Messages\n"
 "======================\n"
 ""
-msgstr ""
+msgstr "Messages\n"
+"======================"
 
 #: conversations/sharedstrings/sh_consoles:36
 msgctxt "conversations/sharedstrings/sh_consoles:36:DefaultText"
@@ -233,12 +234,14 @@ msgid "HALCYON HOLDINGS CORPORATE BOARD\n"
 "Due to the hostile and aggressive nature of the wildlife, as well as the unsustainability of its natural flora for use in human consumption, the Halcyon Holdings Corporate Board has officially enacted a Hazard Clause covering the entirety of Terra 1.\n"
 "\n"
 "After an evacuation period of no more than six (6) months, Terra 1 will be officially considered illegal territory. As this is a unanimous decision, any corporation caught operating on Terra 1 after the evacuation period will face fines and possible disbarment, as defined in Halcyon Code 22.1."
-msgstr ""
+msgstr "VEŘEJNÉ UPOZORNĚNÍ č. 117 SPOLEČNOSTI HALCYON HOLDINGS: O VYHLÁŠENÍ NEBEZPEČÍ PRO TERRA ONE Toto oznámení, vydané dne 12. ledna 2343, slouží jako veřejná výpověď společnosti Terra 1 jako proveditelného pracovního prostředí.\n"
+"\n"
+"Vzhledem k nepřátelské a agresivní povaze zdejší fauny a flóry, jakož i k neudržitelnosti její přirozené flóry pro použití v lidské spotřebě, korporátní rada společnosti Halcyon Holdings oficiálně zavedla doložku o nebezpečí, která se vztahuje na celou Terru 1. Po uplynutí doby evakuace, která nepřesáhne šest (6) měsíců, bude Terra 1 oficiálně považována za nelegální území. Jelikož se jedná o jednomyslné rozhodnutí, bude každá korporace, která bude po uplynutí evakuačního období přistižena při činnosti na Terře 1, čelit pokutám a případnému vyloučení z organizace, jak je definováno v Halcyonském kodexu 22.1."
 
 #: conversations/sharedstrings/sh_consoles:37
 msgctxt "conversations/sharedstrings/sh_consoles:37:DefaultText"
 msgid "Please enter the name of the employee whose files you want to view:"
-msgstr ""
+msgstr "Zadejte jméno zaměstnance, jehož soubory chcete zobrazit:"
 
 #: conversations/sharedstrings/sh_consoles:38
 msgctxt "conversations/sharedstrings/sh_consoles:38:DefaultText"
@@ -246,29 +249,29 @@ msgid "Monarch Stellar Industries\r\n"
 "============================\r\n"
 "\r\n"
 "This terminal is only to be used for official communication on behalf of Monarch Stellar Industries. "
-msgstr ""
+msgstr "Monarch Stellar Industries ============================ Tento terminál je určen pouze pro oficiální komunikaci jménem společnosti Monarch Stellar Industries. "
 
 #: conversations/sharedstrings/sh_consoles:39
 msgctxt "conversations/sharedstrings/sh_consoles:39:DefaultText"
 msgid "[Research Data]"
-msgstr ""
+msgstr "[Výzkumná data]"
 
 #: conversations/sharedstrings/sh_consoles:40
 msgctxt "conversations/sharedstrings/sh_consoles:40:DefaultText"
 msgid "[Activate Alarm]"
-msgstr ""
+msgstr "[Aktivovat alarm]"
 
 #: conversations/sharedstrings/sh_consoles:41
 msgctxt "conversations/sharedstrings/sh_consoles:41:DefaultText"
 msgid "[View Lab Notes]"
-msgstr ""
+msgstr "[Zobrazit laboratorní poznámky]"
 
 #: conversations/sharedstrings/sh_consoles:42
 msgctxt "conversations/sharedstrings/sh_consoles:42:DefaultText"
 msgid "[Disable Area Alarms]"
-msgstr ""
+msgstr "[Zakázat alarmy oblasti]"
 
 #: conversations/sharedstrings/sh_consoles:43
 msgctxt "conversations/sharedstrings/sh_consoles:43:DefaultText"
 msgid "[Enter Passcode]"
-msgstr ""
+msgstr "[Zadejte přístupový kód]"

@@ -1,264 +1,264 @@
 #: conversations/04_monarch/0406/0406_cv_hiram_intercom:1
 msgctxt "conversations/04_monarch/0406/0406_cv_hiram_intercom:1:DefaultText"
 msgid "I can't tell if you're brave or simply touched in the head. What in the galaxy are you doing sniffing around my station? Unless you are, in fact, trying to suicide by marauder?"
-msgstr ""
+msgstr "Nedokážu říct, jestli jsi statečný, nebo se tě to jen dotklo. Co to proboha děláš, že čmucháš kolem mé stanice? Pokud se tedy ve skutečnosti nepokoušíš o sebevraždu nájezdníkem?"
 
 #: conversations/04_monarch/0406/0406_cv_hiram_intercom:2
 msgctxt "conversations/04_monarch/0406/0406_cv_hiram_intercom:2:DefaultText"
 msgid "I'm looking for an information broker."
-msgstr ""
+msgstr "Hledám zprostředkovatele informací."
 
 #: conversations/04_monarch/0406/0406_cv_hiram_intercom:3
 msgctxt "conversations/04_monarch/0406/0406_cv_hiram_intercom:3:DefaultText"
 msgid "Who are you?"
-msgstr ""
+msgstr "Kdo jste?"
 
 #: conversations/04_monarch/0406/0406_cv_hiram_intercom:4
 msgctxt "conversations/04_monarch/0406/0406_cv_hiram_intercom:4:DefaultText"
 msgid "By the hand of fate, and my own cunning skill, I run this station."
-msgstr ""
+msgstr "Rukou osudu a vlastními schopnostmi řídím tuto stanici."
 
 #: conversations/04_monarch/0406/0406_cv_hiram_intercom:5
 msgctxt "conversations/04_monarch/0406/0406_cv_hiram_intercom:5:DefaultText"
 msgid "Nice and coherent, good. Take it you're not with the marauders then."
-msgstr ""
+msgstr "Pěkné a ucelené, dobré. Beru to tak, že nejsi u nájezdníků."
 
 #: conversations/04_monarch/0406/0406_cv_hiram_intercom:6
 msgctxt "conversations/04_monarch/0406/0406_cv_hiram_intercom:6:DefaultText"
 msgid "You're here. And you're armed, aren't you? The feed's gone grainy but it looks like you're packing deadly force."
-msgstr ""
+msgstr "Nacházíte se zde. A jsi ozbrojený, že? Záběr je zrnitý, ale vypadá to, že máš u sebe smrtící zbraně."
 
 #: conversations/04_monarch/0406/0406_cv_hiram_intercom:7
 msgctxt "conversations/04_monarch/0406/0406_cv_hiram_intercom:7:DefaultText"
 msgid "Why're you buzzing me? There are still mauraders in the station."
-msgstr ""
+msgstr "Proč mě buzeruješ? Na stanici jsou ještě mauraders."
 
 #: conversations/04_monarch/0406/0406_cv_hiram_intercom:8
 msgctxt "conversations/04_monarch/0406/0406_cv_hiram_intercom:8:DefaultText"
 msgid "Ah, marauder-free at last. I'll get the door. Do hurry on in."
-msgstr ""
+msgstr "Ach, konečně bez nájezdníků. Půjdu otevřít. Pospěš si dovnitř."
 
 #: conversations/04_monarch/0406/0406_cv_hiram_intercom:10
 msgctxt "conversations/04_monarch/0406/0406_cv_hiram_intercom:10:DefaultText"
 msgid "You may not realize this, being as you're an outsider. But the blaring alarms indicate the station's on lockdown."
-msgstr ""
+msgstr "Možná si to neuvědomujete, protože jste cizinec. Ale houkající alarmy signalizují, že stanice je uzavřená."
 
 #: conversations/04_monarch/0406/0406_cv_hiram_intercom:11
 msgctxt "conversations/04_monarch/0406/0406_cv_hiram_intercom:11:DefaultText"
 msgid "You out there! Whoever you are. Yes, yes, I can see you. C'mere and talk to me. Face to intercom."
-msgstr ""
+msgstr "Vy tam venku! Ať jste kdokoli. Ano, ano, vidím tě. Pojď a mluv se mnou. Tváří k interkomu."
 
 #: conversations/04_monarch/0406/0406_cv_hiram_intercom:12
 msgctxt "conversations/04_monarch/0406/0406_cv_hiram_intercom:12:DefaultText"
 msgid "Why me?"
-msgstr ""
+msgstr "Proč já?"
 
 #: conversations/04_monarch/0406/0406_cv_hiram_intercom:13
 msgctxt "conversations/04_monarch/0406/0406_cv_hiram_intercom:13:DefaultText"
 msgid "Speaking of, I'm working with Berthold. C3's ready to fight."
-msgstr ""
+msgstr "Když už jsme u toho, pracuji s Bertholdem. C3 je připraven bojovat."
 
 #: conversations/04_monarch/0406/0406_cv_hiram_intercom:14
 msgctxt "conversations/04_monarch/0406/0406_cv_hiram_intercom:14:DefaultText"
 msgid "The elevator and doors to the second floor are back online. Hurry, before I have to lock them down again."
-msgstr ""
+msgstr "Výtah a dveře do druhého patra jsou opět v provozu. Pospěšte si, než je budu muset znovu zamknout."
 
 #: conversations/04_monarch/0406/0406_cv_hiram_intercom:15
 msgctxt "conversations/04_monarch/0406/0406_cv_hiram_intercom:15:DefaultText"
 msgid "Oh, now they'll take action?! It's about time, I tell you. I'm up to my neck in marauders in here. Which, by the by, they were supposed to prevent!"
-msgstr ""
+msgstr "Aha, tak teď budou jednat?! Už bylo na čase, říkám vám. Mám tu nájezdníků až po krk. Čemuž měli mimochodem zabránit!"
 
 #: conversations/04_monarch/0406/0406_cv_hiram_intercom:16
 msgctxt "conversations/04_monarch/0406/0406_cv_hiram_intercom:16:DefaultText"
 msgid "How many marauders broke into the station?"
-msgstr ""
+msgstr "Kolik lupičů se vloupalo do stanice?"
 
 #: conversations/04_monarch/0406/0406_cv_hiram_intercom:17
 msgctxt "conversations/04_monarch/0406/0406_cv_hiram_intercom:17:DefaultText"
 msgid "What's in it for me?"
-msgstr ""
+msgstr "Co z toho budu mít?"
 
 #: conversations/04_monarch/0406/0406_cv_hiram_intercom:18
 msgctxt "conversations/04_monarch/0406/0406_cv_hiram_intercom:18:DefaultText"
 msgid "I trade in secrets - valuable ones - for my vocation. I'm sure you can come up with something you might like to ask me about. In person. Once I'm safe."
-msgstr ""
+msgstr "Vyměňuji tajemství - cenná tajemství - za své povolání. Určitě vás napadne něco, na co byste se mě chtěli zeptat. Osobně. Až budu v bezpečí."
 
 #: conversations/04_monarch/0406/0406_cv_hiram_intercom:19
 msgctxt "conversations/04_monarch/0406/0406_cv_hiram_intercom:19:DefaultText"
 msgid "Too many considering I hired a bunch of no-good mercs to keep them out in the first place. "
-msgstr ""
+msgstr "Je jich příliš mnoho, když uvážím, že jsem najal bandu ničemných žoldáků, abych je udržel venku. "
 
 #: conversations/04_monarch/0406/0406_cv_hiram_intercom:20
 msgctxt "conversations/04_monarch/0406/0406_cv_hiram_intercom:20:DefaultText"
 msgid "Already, they've caused considerable damage to the station's property. If they take down the broadcast equipment, I'll be out of a job. Permanently."
-msgstr ""
+msgstr "Již způsobili značné škody na majetku stanice. Pokud zničí vysílací zařízení, přijdu o práci. Natrvalo."
 
 #: conversations/04_monarch/0406/0406_cv_hiram_intercom:21
 msgctxt "conversations/04_monarch/0406/0406_cv_hiram_intercom:21:DefaultText"
 msgid "I'll see what I can do."
-msgstr ""
+msgstr "Uvidím, co se dá dělat."
 
 #: conversations/04_monarch/0406/0406_cv_hiram_intercom:23
 msgctxt "conversations/04_monarch/0406/0406_cv_hiram_intercom:23:DefaultText"
 msgid "Suicide?"
-msgstr ""
+msgstr "Sebevražda?"
 
 #: conversations/04_monarch/0406/0406_cv_hiram_intercom:24
 msgctxt "conversations/04_monarch/0406/0406_cv_hiram_intercom:24:DefaultText"
 msgid "You are? And to think I was just joking. Guess I'll leave you to it then."
-msgstr ""
+msgstr "Vy jste? A to jsem si myslel, že jsem jen žertoval. Tak to tě asi nechám být."
 
 #: conversations/04_monarch/0406/0406_cv_hiram_intercom:25
 msgctxt "conversations/04_monarch/0406/0406_cv_hiram_intercom:25:DefaultText"
 msgid "Kidding! I'm kidding. No one has a sense of humor these days. Or much of a backbone for that matter. Look, the fact of the matter is this: "
-msgstr ""
+msgstr "Dělám si legraci! Dělám si legraci. Dneska už nikdo nemá smysl pro humor. A vlastně ani páteř. Podívejte, faktem je, že..: "
 
 #: conversations/04_monarch/0406/0406_cv_hiram_intercom:26
 msgctxt "conversations/04_monarch/0406/0406_cv_hiram_intercom:26:DefaultText"
 msgid "The marauders may have other plans. And since my hired hands have clearly turned idle, it appears I have need of you. As my newest contractor, you may call me the Broker."
-msgstr ""
+msgstr "Nájezdníci mají možná jiné plány. A protože moji námezdní dělníci zjevně zahálejí, zdá se, že potřebuji tebe. Jako můj nejnovější dodavatel mi můžeš říkat Makléř."
 
 #: conversations/04_monarch/0406/0406_cv_hiram_intercom:27
 msgctxt "conversations/04_monarch/0406/0406_cv_hiram_intercom:27:DefaultText"
 msgid "I've barricaded the broadcast center. But I can only hold out for so long. Clear the marauders out, and I'll pay you double the going rate."
-msgstr ""
+msgstr "Zabarikádoval jsem vysílací centrum. Ale vydržím jen tak dlouho. Odstraňte ty nájezdníky a já vám zaplatím dvojnásobek."
 
 #: conversations/04_monarch/0406/0406_cv_hiram_intercom:28
 msgctxt "conversations/04_monarch/0406/0406_cv_hiram_intercom:28:DefaultText"
 msgid "They destroy the transmission equipment, and I'll be out of business."
-msgstr ""
+msgstr "Zničí přenosové zařízení a já budu bez práce."
 
 #: conversations/04_monarch/0406/0406_cv_hiram_intercom:29
 msgctxt "conversations/04_monarch/0406/0406_cv_hiram_intercom:29:DefaultText"
 msgid "Aside from the bits I'll be paying you? "
-msgstr ""
+msgstr "Kromě toho, že ti budu platit? "
 
 #: conversations/04_monarch/0406/0406_cv_hiram_intercom:30
 msgctxt "conversations/04_monarch/0406/0406_cv_hiram_intercom:30:DefaultText"
 msgid "Which means you can't ever get to me! So leave already."
-msgstr ""
+msgstr "To znamená, že se ke mně nikdy nedostaneš! Tak už jdi."
 
 #: conversations/04_monarch/0406/0406_cv_hiram_intercom:31
 msgctxt "conversations/04_monarch/0406/0406_cv_hiram_intercom:31:DefaultText"
 msgid "And you, Nyoka! What're you doing lugging a stranger into my station?!"
-msgstr ""
+msgstr "A ty, Nyoko! Co děláš, když táhneš cizího člověka na mou stanici?!"
 
 #: conversations/04_monarch/0406/0406_cv_hiram_intercom:32
 msgctxt "conversations/04_monarch/0406/0406_cv_hiram_intercom:32:DefaultText"
 msgid "You could use the socialization, you son of a bitch!"
-msgstr ""
+msgstr "Mohl by ses socializovat, ty hajzle!"
 
 #: conversations/04_monarch/0406/0406_cv_hiram_intercom:33
 msgctxt "conversations/04_monarch/0406/0406_cv_hiram_intercom:33:DefaultText"
 msgid "To what purpose? I happen to have some significant problems I am dealing with right now. Marauders, running out of Purpleberry wine three days ago, not being able to bloody broadcast... "
-msgstr ""
+msgstr "Za jakým účelem? Náhodou mám teď nějaké závažné problémy, které řeším. Nájezdníci, před třemi dny došlé purpurové víno, neschopnost krvavého vysílání... "
 
 #: conversations/04_monarch/0406/0406_cv_hiram_intercom:34
 msgctxt "conversations/04_monarch/0406/0406_cv_hiram_intercom:34:DefaultText"
 msgid "Or we can call you Hiram, on account of that's your damn name, and doubly on account of \"the Broker\" being a dumb-ass alternative."
-msgstr ""
+msgstr "Nebo ti můžeme říkat Hiram, protože se tak sakra jmenuješ, a dvojnásob proto, že \"makléř\" je hloupá alternativa."
 
 #: conversations/04_monarch/0406/0406_cv_hiram_intercom:35
 msgctxt "conversations/04_monarch/0406/0406_cv_hiram_intercom:35:DefaultText"
 msgid "What? Everyone calls me that. Aside from you."
-msgstr ""
+msgstr "Cože? Všichni mi tak říkají. Kromě tebe."
 
 #: conversations/04_monarch/0406/0406_cv_hiram_intercom:36
 msgctxt "conversations/04_monarch/0406/0406_cv_hiram_intercom:36:DefaultText"
 msgid "I need to see the information broker about - "
-msgstr ""
+msgstr "Potřebuji vidět informačního makléře o - "
 
 #: conversations/04_monarch/0406/0406_cv_hiram_intercom:37
 msgctxt "conversations/04_monarch/0406/0406_cv_hiram_intercom:37:DefaultText"
 msgid "Okay, \"Broker\"..."
-msgstr ""
+msgstr "Dobře, \"Broker\"..."
 
 #: conversations/04_monarch/0406/0406_cv_hiram_intercom:38
 msgctxt "conversations/04_monarch/0406/0406_cv_hiram_intercom:38:DefaultText"
 msgid "See, Nyoka?"
-msgstr ""
+msgstr "Vidíš, Nyoko?"
 
 #: conversations/04_monarch/0406/0406_cv_hiram_intercom:39
 msgctxt "conversations/04_monarch/0406/0406_cv_hiram_intercom:39:DefaultText"
 msgid "Excellent. I have a good feeling about our business relationship. I'm sure it will go much more smoothly than with those unscrupulous mercenaries I hired."
-msgstr ""
+msgstr "Vynikající. Mám z našeho obchodního vztahu dobrý pocit. Jsem si jistý, že to půjde mnohem hladčeji než s těmi bezohlednými žoldáky, které jsem najal."
 
 #: conversations/04_monarch/0406/0406_cv_hiram_intercom:40
 msgctxt "conversations/04_monarch/0406/0406_cv_hiram_intercom:40:DefaultText"
 msgid "<Say nothing.>"
-msgstr ""
+msgstr "<Neříkej nic.>"
 
 #: conversations/04_monarch/0406/0406_cv_hiram_intercom:41
 msgctxt "conversations/04_monarch/0406/0406_cv_hiram_intercom:41:DefaultText"
 msgid "No, no, no! We'll deal with information related business later. As I said, there are bigger problems threatening my life and livelihood at this very moment."
-msgstr ""
+msgstr "Ne, ne, ne! Informačními záležitostmi se budeme zabývat později. Jak jsem řekl, v tuto chvíli jsou tu větší problémy, které ohrožují můj život a živobytí."
 
 #: conversations/04_monarch/0406/0406_cv_hiram_intercom:42
 msgctxt "conversations/04_monarch/0406/0406_cv_hiram_intercom:42:DefaultText"
 msgid "I see why Nyoka tolerates you. Fine, I'll do the talking."
-msgstr ""
+msgstr "Chápu, proč tě Nyoka toleruje. Dobře, budu mluvit já."
 
 #: conversations/04_monarch/0406/0406_cv_hiram_intercom:43
 msgctxt "conversations/04_monarch/0406/0406_cv_hiram_intercom:43:DefaultText"
 msgid "The marauders want me dead. And since my hired hands have clearly turned idle, it appears I need you to clear out the threat. As my newest contractor, you may call me the Broker."
-msgstr ""
+msgstr "Nájezdníci mě chtějí zabít. A protože moji námezdní dělníci zjevně zahálejí, potřebuji, abys odstranil hrozbu. Jako můj nejnovější dodavatel mi můžeš říkat Makléř."
 
 #: conversations/04_monarch/0406/0406_cv_hiram_intercom:44
 msgctxt "conversations/04_monarch/0406/0406_cv_hiram_intercom:44:DefaultText"
 msgid "I know Nyoka is, for sure."
-msgstr ""
+msgstr "Vím, že Nyoka určitě je."
 
 #: conversations/04_monarch/0406/0406_cv_hiram_intercom:45
 msgctxt "conversations/04_monarch/0406/0406_cv_hiram_intercom:45:DefaultText"
 msgid "You said you wanted something from me. Something information related. I'll give it to you. In person. Once I'm safe."
-msgstr ""
+msgstr "Říkal jsi, že ode mě něco chceš. Něco, co se týká informací. Dám ti to. Osobně. Až budu v bezpečí."
 
 #: conversations/04_monarch/0406/0406_cv_hiram_intercom:46
 msgctxt "conversations/04_monarch/0406/0406_cv_hiram_intercom:46:DefaultText"
 msgid "I'm sure it will."
-msgstr ""
+msgstr "Jsem si jistý, že ano."
 
 #: conversations/04_monarch/0406/0406_cv_hiram_intercom:47
 msgctxt "conversations/04_monarch/0406/0406_cv_hiram_intercom:47:DefaultText"
 msgid "I'm looking for the person in charge of this station."
-msgstr ""
+msgstr "Hledám osobu, která má tuto stanici na starosti."
 
 #: conversations/04_monarch/0406/0406_cv_hiram_intercom:48
 msgctxt "conversations/04_monarch/0406/0406_cv_hiram_intercom:48:DefaultText"
 msgid "You're talking to him."
-msgstr ""
+msgstr "Mluvíte s ním."
 
 #: conversations/04_monarch/0406/0406_cv_hiram_intercom:49
 msgctxt "conversations/04_monarch/0406/0406_cv_hiram_intercom:49:DefaultText"
 msgid "Forget that, I need -"
-msgstr ""
+msgstr "Na to zapomeňte, potřebuji -"
 
 #: conversations/04_monarch/0406/0406_cv_hiram_intercom:50
 msgctxt "conversations/04_monarch/0406/0406_cv_hiram_intercom:50:DefaultText"
 msgid "No, no, no! We'll deal with any station related work later. As I said, there are bigger problems threatening my life and livelihood at this very moment."
-msgstr ""
+msgstr "Ne, ne, ne! Veškeré práce spojené se stanicí vyřešíme později. Jak jsem řekl, v tuto chvíli jsou tu větší problémy, které ohrožují můj život a živobytí."
 
 #: conversations/04_monarch/0406/0406_cv_hiram_intercom:51
 msgctxt "conversations/04_monarch/0406/0406_cv_hiram_intercom:51:DefaultText"
 msgid "Hey! Elevator's to your right. Get ready."
-msgstr ""
+msgstr "Hej! Výtah je napravo. Připravte se."
 
 #: conversations/04_monarch/0406/0406_cv_hiram_intercom:52
 msgctxt "conversations/04_monarch/0406/0406_cv_hiram_intercom:52:DefaultText"
 msgid "C3's entering through the main doors as we speak. About damn time."
-msgstr ""
+msgstr "C3 právě vchází hlavními dveřmi. Už bylo sakra na čase."
 
 #: conversations/04_monarch/0406/0406_cv_hiram_intercom:53
 msgctxt "conversations/04_monarch/0406/0406_cv_hiram_intercom:53:DefaultText"
 msgid "Also, he hired me."
-msgstr ""
+msgstr "Také mě najal."
 
 #: conversations/04_monarch/0406/0406_cv_hiram_intercom:53
 msgctxt "conversations/04_monarch/0406/0406_cv_hiram_intercom:53:FemaleText"
 msgid "Also, she hired me."
-msgstr ""
+msgstr "Také mě najala."
 
 #: conversations/04_monarch/0406/0406_cv_hiram_intercom:54
 msgctxt "conversations/04_monarch/0406/0406_cv_hiram_intercom:54:DefaultText"
 msgid "Heh. \"Can't.\" We'll see about that."
-msgstr ""
+msgstr "Heh. \"Nemůžu.\" To se ještě uvidí."

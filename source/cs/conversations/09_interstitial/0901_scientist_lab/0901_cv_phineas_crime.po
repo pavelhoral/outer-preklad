@@ -1,29 +1,29 @@
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_crime:1
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_crime:1:DefaultText"
 msgid "What do we have here?"
-msgstr ""
+msgstr "Co tu máme?"
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_crime:2
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_crime:2:DefaultText"
 msgid "I'll pay you <oeiglobal>Bribe_Amount</oeiglobal> bits to look the other way."
-msgstr ""
+msgstr "Zaplatím vám <oeiglobal>Částka úplatku</oeiglobal>, abyste se dívali jinam."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_crime:3
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_crime:3:DefaultText"
 msgid "Oh, nothing. Hey, what's that over there?"
-msgstr ""
+msgstr "Ach, nic. Hej, co je to tamhle?"
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_crime:4
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_crime:4:DefaultText"
 msgid "Mind your own business."
-msgstr ""
+msgstr "Hleďte si svého."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_crime:5
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_crime:5:DefaultText"
 msgid "I was just leaving."
-msgstr ""
+msgstr "Právě jsem odcházel."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_crime:6
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_crime:6:DefaultText"
 msgid "<Attack>"
-msgstr ""
+msgstr "<Útok>"

@@ -1,314 +1,314 @@
 #: conversations/03_playership/03_bs_playership:13
 msgctxt "conversations/03_playership/03_bs_playership:13:DefaultText"
 msgid "Captain, we have arrived at Tartarus. I have important information for you."
-msgstr ""
+msgstr "Kapitáne, dorazili jsme do Tartaru. Mám pro vás důležité informace."
 
 #: conversations/03_playership/03_bs_playership:21
 msgctxt "conversations/03_playership/03_bs_playership:21:DefaultText"
 msgid "Some crewmembers are causing a disturbance on the ship."
-msgstr ""
+msgstr "Někteří členové posádky způsobují na lodi výtržnosti."
 
 #: conversations/03_playership/03_bs_playership:22
 msgctxt "conversations/03_playership/03_bs_playership:22:DefaultText"
 msgid "Captain, Felix and the vicar are arguing again."
-msgstr ""
+msgstr "Kapitán, Felix a farář se opět hádají."
 
 #: conversations/03_playership/03_bs_playership:27
 msgctxt "conversations/03_playership/03_bs_playership:27:DefaultText"
 msgid "Crew report: Nyoka is drunk. Surprise!"
-msgstr ""
+msgstr "Zpráva posádky: Nyoka je opilá. Překvapení!"
 
 #: conversations/03_playership/03_bs_playership:30
 msgctxt "conversations/03_playership/03_bs_playership:30:DefaultText"
 msgid "Sometimes I think SAM is the only one who understands me."
-msgstr ""
+msgstr "Někdy si myslím, že SAM je jediný, kdo mi rozumí."
 
 #: conversations/03_playership/03_bs_playership:31
 msgctxt "conversations/03_playership/03_bs_playership:31:DefaultText"
 msgid "Captain, I have detected that Edgewater's power supply is now optimal. I applaud your willingness to invest your time in the local community."
-msgstr ""
+msgstr "Kapitáne, zjistil jsem, že napájení Edgewateru je nyní optimální. Oceňuji vaši ochotu investovat svůj čas do místní komunity."
 
 #: conversations/03_playership/03_bs_playership:36
 msgctxt "conversations/03_playership/03_bs_playership:36:DefaultText"
 msgid "Captain, I hope you made the right decision by siding with MSI."
-msgstr ""
+msgstr "Kapitáne, doufám, že jste se rozhodl správně, když jste se postavil na stranu MSI."
 
 #: conversations/03_playership/03_bs_playership:40
 msgctxt "conversations/03_playership/03_bs_playership:40:DefaultText"
 msgid "Captain, I hope Dr. Welles has not dragged you into one of his irrational schemes again. My diagnosis of his mental stability is not flattering."
-msgstr ""
+msgstr "Kapitáne, doufám, že vás doktor Welles opět nezatáhl do jednoho ze svých iracionálních plánů. Moje diagnóza jeho duševní stability není lichotivá."
 
 #: conversations/03_playership/03_bs_playership:42
 msgctxt "conversations/03_playership/03_bs_playership:42:DefaultText"
 msgid "I understand we have decided to continue supporting the outlaw scientist Dr. Phineas Welles."
-msgstr ""
+msgstr "Pokud vím, rozhodli jsme se nadále podporovat vědce mimo zákon, doktora Phinease Wellese."
 
 #: conversations/03_playership/03_bs_playership:43
 msgctxt "conversations/03_playership/03_bs_playership:43:DefaultText"
 msgid "When I was stranded in Emerald Vale, I simulated a number of hypothetical scenarios in which Edgewater met its demise. Death by Automechanical was number fifty-seven."
-msgstr ""
+msgstr "Když jsem uvízl ve Smaragdovém údolí, simuloval jsem několik hypotetických scénářů zániku Edgewateru. Automechanická smrt byla padesátá sedmá."
 
 #: conversations/03_playership/03_bs_playership:46
 msgctxt "conversations/03_playership/03_bs_playership:46:DefaultText"
 msgid "Captain, I have detected that the town of Edgewater is now without power. I appreciate you doing your part to hasten their demise."
-msgstr ""
+msgstr "Kapitáne, zjistil jsem, že město Edgewater je nyní bez proudu. Oceňuji, že jste přispěl k urychlení jejich zániku."
 
 #: conversations/03_playership/03_bs_playership:47
 msgctxt "conversations/03_playership/03_bs_playership:47:DefaultText"
 msgid "Groundbreaker should understand well enough now - sometimes violence is the answer."
-msgstr ""
+msgstr "Groundbreaker už by to měl pochopit - někdy je řešením násilí."
 
 #: conversations/03_playership/03_bs_playership:51
 msgctxt "conversations/03_playership/03_bs_playership:51:DefaultText"
 msgid "Leaving the Iconoclasts in control of Monarch is a concept that weighs heavily on my processor banks. "
-msgstr ""
+msgstr "Ponechání kontroly nad Monarchem Ikonoklastům je koncept, který má velkou váhu na mých procesorových bankách. "
 
 #: conversations/03_playership/03_bs_playership:52
 msgctxt "conversations/03_playership/03_bs_playership:52:DefaultText"
 msgid "Working together diplomatically is a strong predictor for success. Smart work in Monarch, Captain."
-msgstr ""
+msgstr "Diplomatická spolupráce je silným předpokladem úspěchu. Chytrá práce v Monarchu, kapitáne."
 
 #: conversations/03_playership/03_bs_playership:53
 msgctxt "conversations/03_playership/03_bs_playership:53:DefaultText"
 msgid "Captain, your actions have left the world of Monarch in a state of chaos. I look forward to observing its collapse."
-msgstr ""
+msgstr "Kapitáne, vaše činy zanechaly svět Monarchie ve stavu chaosu. Těším se, až budu moci sledovat jeho zhroucení."
 
 #: conversations/03_playership/03_bs_playership:58
 msgctxt "conversations/03_playership/03_bs_playership:58:DefaultText"
 msgid "If you don't mind my saying, Captain, Minister Clarke is lucky to have you on his side."
-msgstr ""
+msgstr "Jestli dovolíte, kapitáne, ministr Clarke má štěstí, že jste na jeho straně."
 
 #: conversations/03_playership/03_bs_playership:59
 msgctxt "conversations/03_playership/03_bs_playership:59:DefaultText"
 msgid "Dr. Welles has failed to discover the tracking signal broadcasting the location of his lab. I have revised my estimations of his competence accordingly."
-msgstr ""
+msgstr "Doktoru Wellesovi se nepodařilo objevit sledovací signál vysílající polohu jeho laboratoře. Podle toho jsem upravil své odhady jeho schopností."
 
 #: conversations/03_playership/03_bs_playership:61
 msgctxt "conversations/03_playership/03_bs_playership:61:DefaultText"
 msgid "You killed the Adjutant?! We are outlaws in the truest sense of the word now."
-msgstr ""
+msgstr "Zabil jsi adjutanta?! Jsme teď psanci v pravém slova smyslu."
 
 #: conversations/03_playership/03_bs_playership:66
 msgctxt "conversations/03_playership/03_bs_playership:66:DefaultText"
 msgid "Captain Hawthorne never worked to support the Board before. At least not officially. I suppose we are turning over a new leaf?"
-msgstr ""
+msgstr "Kapitán Hawthorne nikdy předtím nepracoval na podpoře rady. Alespoň ne oficiálně. Předpokládám, že obracíme list?"
 
 #: conversations/03_playership/03_bs_playership:67
 msgctxt "conversations/03_playership/03_bs_playership:67:DefaultText"
 msgid "Sending a corrupted tracking signal to the Board was quite clever, if I might say, Captain."
-msgstr ""
+msgstr "Vyslání poškozeného sledovacího signálu na palubu bylo docela chytré, mohu-li to tak říci, kapitáne."
 
 #: conversations/03_playership/03_bs_playership:72
 msgctxt "conversations/03_playership/03_bs_playership:72:DefaultText"
 msgid "My noxious-scent sensors are tingling, Captain. What's in there and how along ago might it have spoiled?"
-msgstr ""
+msgstr "Mé senzory škodlivého světla se chvějí, kapitáne. Co tam je a jak dlouho se to mohlo kazit?"
 
 #: conversations/03_playership/03_bs_playership:73
 msgctxt "conversations/03_playership/03_bs_playership:73:DefaultText"
 msgid "Providing a proper place for every item keeps the Unreliable shipshape. Thanks for storing that... in storage."
-msgstr ""
+msgstr "Pokud je pro každou položku vyhrazeno vhodné místo, udržuje se nespolehlivá loď ve formě. Díky za uložení... do skladu."
 
 #: conversations/03_playership/03_bs_playership:74
 msgctxt "conversations/03_playership/03_bs_playership:74:DefaultText"
 msgid "Checking for messages? Don't worry, I'm not reading over your shoulder."
-msgstr ""
+msgstr "Kontrola zpráv? Nebojte se, nečtu vám přes rameno."
 
 #: conversations/03_playership/03_bs_playership:75
 msgctxt "conversations/03_playership/03_bs_playership:75:DefaultText"
 msgid "Sleep well, Captain."
-msgstr ""
+msgstr "Dobře se vyspěte, kapitáne."
 
 #: conversations/03_playership/03_bs_playership:77
 msgctxt "conversations/03_playership/03_bs_playership:77:DefaultText"
 msgid "We're now in orbit above Stellar Bay, Captain. No blockade is a match for my piloting skills."
-msgstr ""
+msgstr "Jsme na oběžné dráze nad Hvězdnou zátokou, kapitáne. Žádná blokáda se nevyrovná mým pilotním schopnostem."
 
 #: conversations/03_playership/03_bs_playership:78
 msgctxt "conversations/03_playership/03_bs_playership:78:DefaultText"
 msgid "We're in orbit over Cascadia, Captain. "
-msgstr ""
+msgstr "Jsme na oběžné dráze nad Cascadií, kapitáne. "
 
 #: conversations/03_playership/03_bs_playership:82
 msgctxt "conversations/03_playership/03_bs_playership:82:DefaultText"
 msgid "We're now in orbit above Roseway, Captain."
-msgstr ""
+msgstr "Jsme na oběžné dráze nad Roseway, kapitáne."
 
 #: conversations/03_playership/03_bs_playership:84
 msgctxt "conversations/03_playership/03_bs_playership:84:DefaultText"
 msgid "We're now in orbit above Byzantium, Captain."
-msgstr ""
+msgstr "Nyní jsme na oběžné dráze nad Byzancí, kapitáne."
 
 #: conversations/03_playership/03_bs_playership:85
 msgctxt "conversations/03_playership/03_bs_playership:85:DefaultText"
 msgid "We're now in orbit above Byzantium, Captain."
-msgstr ""
+msgstr "Nyní jsme na oběžné dráze nad Byzancí, kapitáne."
 
 #: conversations/03_playership/03_bs_playership:86
 msgctxt "conversations/03_playership/03_bs_playership:86:DefaultText"
 msgid "We're now in orbit above Fallbrook, Captain. "
-msgstr ""
+msgstr "Jsme na oběžné dráze nad Fallbrookem, kapitáne. "
 
 #: conversations/03_playership/03_bs_playership:87
 msgctxt "conversations/03_playership/03_bs_playership:87:DefaultText"
 msgid "We're now in orbit above Edgewater, Captain."
-msgstr ""
+msgstr "Jsme na oběžné dráze nad Edgewaterem, kapitáne."
 
 #: conversations/03_playership/03_bs_playership:88
 msgctxt "conversations/03_playership/03_bs_playership:88:DefaultText"
 msgid "We're now in orbit above Emerald Vale, Captain. "
-msgstr ""
+msgstr "Nyní jsme na oběžné dráze nad Emerald Vale, kapitáne. "
 
 #: conversations/03_playership/03_bs_playership:89
 msgctxt "conversations/03_playership/03_bs_playership:89:DefaultText"
 msgid "We've re-docked with the Hope, Captain."
-msgstr ""
+msgstr "Znovu jsme zakotvili u lodi Hope, kapitáne."
 
 #: conversations/03_playership/03_bs_playership:90
 msgctxt "conversations/03_playership/03_bs_playership:90:DefaultText"
 msgid "We've re-docked with the Hope, Captain."
-msgstr ""
+msgstr "Znovu jsme zakotvili u lodi Hope, kapitáne."
 
 #: conversations/03_playership/03_bs_playership:91
 msgctxt "conversations/03_playership/03_bs_playership:91:DefaultText"
 msgid "We've reached the Hope, Captain. I'll tether us and initiate boarding protocols."
-msgstr ""
+msgstr "Dosáhli jsme Naděje, kapitáne. Připoutám nás a zahájím protokoly pro nalodění."
 
 #: conversations/03_playership/03_bs_playership:92
 msgctxt "conversations/03_playership/03_bs_playership:92:DefaultText"
 msgid "The Groundbreaker has approved our request for docking, Captain. You're free to disembark."
-msgstr ""
+msgstr "Loď Groundbreaker schválila naši žádost o zakotvení, kapitáne. Můžete vystoupit."
 
 #: conversations/03_playership/03_bs_playership:95
 msgctxt "conversations/03_playership/03_bs_playership:95:DefaultText"
 msgid "We have successfully arrived at Phineas' orbital lab, Captain. And we're still in one piece. Shall I congratulate myself or would you like to do the honors?"
-msgstr ""
+msgstr "Úspěšně jsme dorazili do Phineasovy orbitální laboratoře, kapitáne. A stále jsme v jednom kuse. Mám pogratulovat sám, nebo se toho ujmete vy?"
 
 #: conversations/03_playership/03_bs_playership:96
 msgctxt "conversations/03_playership/03_bs_playership:96:DefaultText"
 msgid "We've reached HRS-1084, Captain. It's emitting a very weak docking signal. I almost mislabeled it as normal aetheric static."
-msgstr ""
+msgstr "Dosáhli jsme HRS-1084, kapitáne. Vysílá velmi slabý dokovací signál. Málem jsem ho špatně označil za normální éterickou statickou elektřinu."
 
 #: conversations/03_playership/03_bs_playership:100
 msgctxt "conversations/03_playership/03_bs_playership:100:DefaultText"
 msgid "We're now in orbit above Stellar Bay, Captain."
-msgstr ""
+msgstr "Jsme na oběžné dráze nad Hvězdnou zátokou, kapitáne."
 
 #: conversations/03_playership/03_bs_playership:102
 msgctxt "conversations/03_playership/03_bs_playership:102:DefaultText"
 msgid "Now arriving at: Phineas' top-secret orbital lab."
-msgstr ""
+msgstr "Nyní přijíždí na: Phineasova přísně tajná orbitální laboratoř."
 
 #: conversations/03_playership/03_bs_playership:103
 msgctxt "conversations/03_playership/03_bs_playership:103:DefaultText"
 msgid "We've arrived at Phineas' orbital lab."
-msgstr ""
+msgstr "Dorazili jsme do Phineasovy orbitální laboratoře."
 
 #: conversations/03_playership/03_bs_playership:104
 msgctxt "conversations/03_playership/03_bs_playership:104:DefaultText"
 msgid "Destination reached: The Groundbreaker."
-msgstr ""
+msgstr "Dosažený cíl: Průkopník."
 
 #: conversations/03_playership/03_bs_playership:105
 msgctxt "conversations/03_playership/03_bs_playership:105:DefaultText"
 msgid "We've arrived at the Groundbreaker."
-msgstr ""
+msgstr "Přijeli jsme k Groundbreakeru."
 
 #: conversations/03_playership/03_bs_playership:108
 msgctxt "conversations/03_playership/03_bs_playership:108:DefaultText"
 msgid "Destination reached: Scylla."
-msgstr ""
+msgstr "Dosažený cíl: Scylla."
 
 #: conversations/03_playership/03_bs_playership:109
 msgctxt "conversations/03_playership/03_bs_playership:109:DefaultText"
 msgid "Captain, I received a distress call from Dr. Welles. I believe you will want to hear this."
-msgstr ""
+msgstr "Kapitáne, dostal jsem nouzové volání od doktora Wellese. Věřím, že to budete chtít slyšet."
 
 #: conversations/03_playership/03_bs_playership:111
 msgctxt "conversations/03_playership/03_bs_playership:111:DefaultText"
 msgid "Message from the Board, Captain."
-msgstr ""
+msgstr "Zpráva z rady, kapitáne."
 
 #: conversations/03_playership/03_bs_playership:113
 msgctxt "conversations/03_playership/03_bs_playership:113:DefaultText"
 msgid "We're now in orbit above Byzantium, Captain. You also have a Message from one Udom Bedford."
-msgstr ""
+msgstr "Nyní jsme na oběžné dráze nad Byzancí, kapitáne. Máte také zprávu od jistého Udoma Bedforda."
 
 #: conversations/03_playership/03_bs_playership:114
 msgctxt "conversations/03_playership/03_bs_playership:114:DefaultText"
 msgid "Crewmembers Ellie and Max are engaged in a heated discussion in the kitchen."
-msgstr ""
+msgstr "Členové posádky Ellie a Max vedou v kuchyni vášnivou diskusi."
 
 #: conversations/03_playership/03_bs_playership:115
 msgctxt "conversations/03_playership/03_bs_playership:115:DefaultText"
 msgid "I believe I hear Felix and Parvati discussing the latest aetherwave serial. "
-msgstr ""
+msgstr "Myslím, že slyším Felixe a Parvati, jak se baví o nejnovějším seriálu o éterových vlnách. "
 
 #: conversations/03_playership/03_bs_playership:116
 msgctxt "conversations/03_playership/03_bs_playership:116:DefaultText"
 msgid "If you stop in the engine room, would you ask Parvati to send SAM down to the bridge?"
-msgstr ""
+msgstr "Kdybyste se zastavil ve strojovně, požádal byste Parvati, aby poslala SAM dolů na můstek?"
 
 #: conversations/03_playership/03_bs_playership:117
 msgctxt "conversations/03_playership/03_bs_playership:117:DefaultText"
 msgid "A reminder to all crewmembers: there is only one toilet on the ship."
-msgstr ""
+msgstr "Připomínáme všem členům posádky, že na lodi je pouze jedna toaleta."
 
 #: conversations/03_playership/03_bs_playership:118
 msgctxt "conversations/03_playership/03_bs_playership:118:DefaultText"
 msgid "Captain, if you're looking for crewmembers Ellie or Felix, they're sharing a drink upstairs."
-msgstr ""
+msgstr "Kapitáne, jestli hledáte členy posádky Ellie nebo Felixe, jsou nahoře na skleničce."
 
 #: conversations/03_playership/03_bs_playership:119
 msgctxt "conversations/03_playership/03_bs_playership:119:DefaultText"
 msgid "Didn't I request no more fertilizer shipments be brought on board? Who keeps ordering these?"
-msgstr ""
+msgstr "Nežádal jsem snad, aby se na palubu nedostaly žádné další zásilky hnojiva? Kdo je pořád objednává?"
 
 #: conversations/03_playership/03_bs_playership:121
 msgctxt "conversations/03_playership/03_bs_playership:121:DefaultText"
 msgid "Captain, improperly filling the fuel cells has triggered a massive plasma discharge. We must travel with caution to the Groundbreaker, else we risk imploding mid-journey."
-msgstr ""
+msgstr "Kapitán, nesprávné plnění palivových článků vyvolalo masivní plazmový výboj. Musíme se opatrně vydat na cestu k Groundbreakeru, jinak hrozí, že uprostřed cesty explodujeme."
 
 #: conversations/03_playership/03_bs_playership:122
 msgctxt "conversations/03_playership/03_bs_playership:122:DefaultText"
 msgid "Our fuel cells are now primed with Alta-Vitae gas. As the organics say, let us hope we do not explode in transit to the Groundbreaker."
-msgstr ""
+msgstr "Naše palivové články jsou nyní plněny plynem Alta-Vitae. Jak říkají organici, doufejme, že nevybuchneme při cestě na Groundbreaker."
 
 #: conversations/03_playership/03_bs_playership:123
 msgctxt "conversations/03_playership/03_bs_playership:123:DefaultText"
 msgid "Captain, I wish to offer my commendations for convincing the UDL's gunship to leave HRS-1084. I did not favor the idea of being stripped and sold for parts."
-msgstr ""
+msgstr "Kapitáne, chtěl bych vás pochválit za to, že jste přesvědčil bitevní loď UDL, aby opustila HRS-1084. Nebyl jsem nakloněn myšlence, že by byla rozebrána a prodána na součástky."
 
 #: conversations/03_playership/03_bs_playership:124
 msgctxt "conversations/03_playership/03_bs_playership:124:DefaultText"
 msgid "Captain, the UDL's gunship has docked with HRS-1084. Our work at the station is not yet finished."
-msgstr ""
+msgstr "Kapitáne, dělová loď UDL zakotvila u HRS-1084. Naše práce na stanici ještě neskončila."
 
 #: conversations/03_playership/03_bs_playership:125
 msgctxt "conversations/03_playership/03_bs_playership:125:DefaultText"
 msgid "Captain, I must say, your thrilling management of the UDL troops at HRS-1084 was masterful to, er - remotely keep apprised of."
-msgstr ""
+msgstr "Kapitáne, Musím říci, že vaše napínavé řízení jednotek UDL na HRS-1084 bylo mistrovské, ehm - na dálku sledovat."
 
 #: conversations/03_playership/03_bs_playership:126
 msgctxt "conversations/03_playership/03_bs_playership:126:DefaultText"
 msgid "Nice work dispatching Chartrand, Captain. SubLight will be pleased."
-msgstr ""
+msgstr "Dobrá práce při likvidaci Chartranda, kapitáne. SubLight bude mít radost."
 
 #: conversations/03_playership/03_bs_playership:127
 msgctxt "conversations/03_playership/03_bs_playership:127:DefaultText"
 msgid "I believe your choice to spare Chartrand would be considered the honorable path, yes? SubLight's money is inconsequential in the face of ethics."
-msgstr ""
+msgstr "Věřím, že vaše rozhodnutí ušetřit Chartranda by bylo považováno za čestnou cestu, že? Peníze společnosti SubLight jsou tváří v tvář etice nepodstatné."
 
 #: conversations/03_playership/03_bs_playership:128
 msgctxt "conversations/03_playership/03_bs_playership:128:DefaultText"
 msgid "We're now at Relay GB-23, Captain. It's orbiting Halcyon at extreme velocity, but the docking gantry SHOULD remain stable."
-msgstr ""
+msgstr "Nyní jsme na relé GB-23, kapitáne. Obíhá kolem Halcyonu extrémní rychlostí, ale dokovací portál by měl zůstat stabilní."
 
 #: conversations/03_playership/03_bs_playership:129
 msgctxt "conversations/03_playership/03_bs_playership:129:DefaultText"
 msgid "Attention: crewmember Nyoka, please desist any and all activites which could result in further damage to the ship."
-msgstr ""
+msgstr "Pozor: členko posádky Nyoka, upusťte prosím od všech činností, které by mohly vést k dalšímu poškození lodi."
 
 #: conversations/03_playership/03_bs_playership:130
 msgctxt "conversations/03_playership/03_bs_playership:130:DefaultText"
 msgid "I have received a transmission from Roseway, from a Dr. Shaw."
-msgstr ""
+msgstr "Obdržel jsem zprávu z Roseway od doktora Shawa."

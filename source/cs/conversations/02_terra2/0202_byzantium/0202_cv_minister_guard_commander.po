@@ -1,194 +1,194 @@
 #: conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_commander:1
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_commander:1:DefaultText"
 msgid "This property is off-limits. Solicitors, loiterers, and uninvited visitors will be fined to the fullest extent of company policy."
-msgstr ""
+msgstr "Na tento pozemek je vstup zakázán. Obtěžovatelé, poflakující se a nezvaní návštěvníci budou pokutováni v plném rozsahu pravidel společnosti."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_commander:2
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_commander:2:DefaultText"
 msgid "There's nothing to see here. Move along."
-msgstr ""
+msgstr "Není tu nic k vidění. Jděte dál."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_commander:3
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_commander:3:DefaultText"
 msgid "I'm here for Minister Clarke."
-msgstr ""
+msgstr "Jsem tu kvůli ministru Clarkovi."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_commander:4
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_commander:4:DefaultText"
 msgid "Farewell."
-msgstr ""
+msgstr "Rozloučení."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_commander:5
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_commander:5:DefaultText"
 msgid "That's funny. The minister isn't expecting visitors. And you don't much look like one of those couriers from HPS."
-msgstr ""
+msgstr "To je legrační. Ministr neočekává návštěvy. A ty moc nevypadáš jako jeden z těch kurýrů z HPS."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_commander:8
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_commander:8:DefaultText"
 msgid "Was the minister expecting a delivery?"
-msgstr ""
+msgstr "Očekával ministr porod?"
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_commander:9
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_commander:9:DefaultText"
 msgid "Minister Clarke's a private man. And you're asking too many questions."
-msgstr ""
+msgstr "Ministr Clarke je soukromník. A vy kladete příliš mnoho otázek."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_commander:10
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_commander:10:DefaultText"
 msgid "Sure I am."
-msgstr ""
+msgstr "Jistěže ano."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_commander:11
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_commander:11:DefaultText"
 msgid "Sure you are. And what is it you're delivering today?"
-msgstr ""
+msgstr "Jistěže ano. A co dnes doručujete?"
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_commander:13
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_commander:13:DefaultText"
 msgid "I've got this parcel right here."
-msgstr ""
+msgstr "Mám tu tenhle balíček."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_commander:14
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_commander:14:DefaultText"
 msgid "I didn't bring it with me."
-msgstr ""
+msgstr "Nevzal jsem si ho s sebou."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_commander:15
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_commander:15:DefaultText"
 msgid "Typical. Why don't you come back when you're ready to actually make a delivery?"
-msgstr ""
+msgstr "Typické. Proč se nevrátíš, až budeš připraven doručit zásilku?"
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_commander:16
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_commander:16:DefaultText"
 msgid "Excuse me. I'll be right back."
-msgstr ""
+msgstr "Promiňte. Hned jsem zpátky."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_commander:18
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_commander:18:DefaultText"
 msgid "I've got a parcel here with the Minister's name on it."
-msgstr ""
+msgstr "Mám tu balíček se jménem pana ministra."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_commander:19
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_commander:19:DefaultText"
 msgid "Huh. Looks like your papers are in order."
-msgstr ""
+msgstr "Huh. Vypadá to, že vaše doklady jsou v pořádku."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_commander:20
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_commander:20:DefaultText"
 msgid "Nice place. Who lives here?"
-msgstr ""
+msgstr "Pěkné místo. Kdo tu bydlí?"
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_commander:21
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_commander:21:DefaultText"
 msgid "If you don't know, I'm not telling."
-msgstr ""
+msgstr "Pokud to nevíte, neřeknu vám to."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_commander:22
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_commander:22:DefaultText"
 msgid "Sorry, I guess I had you mistaken for somebody important."
-msgstr ""
+msgstr "Promiňte, asi jsem si vás spletl s někým důležitým."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_commander:23
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_commander:23:DefaultText"
 msgid "Hey, they don't put just anyone in charge of guarding Minister Clarke's residence. I-"
-msgstr ""
+msgstr "Hej, hlídáním sídla ministra Clarkea nepověří jen tak někoho. I-"
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_commander:26
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_commander:26:DefaultText"
 msgid "Go on in."
-msgstr ""
+msgstr "Vstupte."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_commander:27
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_commander:27:DefaultText"
 msgid "Delivery for the minister."
-msgstr ""
+msgstr "Doručení pro ministra."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_commander:29
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_commander:29:DefaultText"
 msgid "Yeah? Let's see it."
-msgstr ""
+msgstr "Ano? Podívejme se na to."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_commander:31
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_commander:31:DefaultText"
 msgid "You are currently in violation of Personal Grooming Statute 22-B, Public Indecency Ordinance 542, and the Third Revised Law on Common Standards for Good Taste."
-msgstr ""
+msgstr "V současné době porušujete zákon o osobní hygieně 22-B, vyhlášku o veřejné neslušnosti 542 a třetí revidovaný zákon o obecných normách dobrého vkusu."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_commander:60
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_commander:60:DefaultText"
 msgid "All right. Go on through."
-msgstr ""
+msgstr "Dobře. Projděte."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_commander:62
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_commander:62:DefaultText"
 msgid "Thanks for your time."
-msgstr ""
+msgstr "Děkujeme za váš čas."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_commander:63
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_commander:63:DefaultText"
 msgid "This ultimatum brought to you by Universal Defense Logistics."
-msgstr ""
+msgstr "Toto ultimátum vám přináší společnost Universal Defense Logistics."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_commander:64
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_commander:64:DefaultText"
 msgid "Now leave. You're exhausting my daily conversation quota."
-msgstr ""
+msgstr "Nyní odejděte. Vyčerpáváš můj denní limit konverzace."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_commander:65
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_commander:65:DefaultText"
 msgid "Aw, shoot. Forget I said anything, okay?"
-msgstr ""
+msgstr "A sakra. Zapomeň, že jsem něco řekl, dobře?"
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_commander:72
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_commander:72:DefaultText"
 msgid "What's that mean?"
-msgstr ""
+msgstr "Co to znamená?"
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_commander:73
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_commander:73:DefaultText"
 msgid "Please put some clothes on or face the repudiation of your peers and betters."
-msgstr ""
+msgstr "Oblékněte se, prosím, nebo se setkáte s odsouzením svých vrstevníků a nadřízených."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_commander:74
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_commander:74:DefaultText"
 msgid "Means I'm not here to stand around answering questions. "
-msgstr ""
+msgstr "To znamená, že tu nejsem od toho, abych tu stál a odpovídal na otázky. "
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_commander:75
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_commander:75:DefaultText"
 msgid "You give me a couple minutes and a bottle, and I wager I could knock out the first and second revised laws on common standards, too."
-msgstr ""
+msgstr "Dejte mi pár minut a láhev a vsadím se, že bych dokázal vyrazit i první a druhý revidovaný zákon o společných normách."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_commander:77
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_commander:77:DefaultText"
 msgid "You know, that's just the sort of thing folks say when they're trying to hide something."
-msgstr ""
+msgstr "Víš, to je přesně to, co lidé říkají, když se snaží něco skrýt."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_commander:78
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_commander:78:DefaultText"
 msgid "Chasing us off already? This feels familiar."
-msgstr ""
+msgstr "Už nás vyháníte? Tohle je mi povědomé."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_commander:79
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_commander:79:DefaultText"
 msgid "I have... no idea what you're talking about, sir."
-msgstr ""
+msgstr "Nemám ponětí, o čem to mluvíte, pane."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_commander:80
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_commander:80:DefaultText"
 msgid "Ma'am, please don't cause a scene."
-msgstr ""
+msgstr "Madam, prosím, nedělejte scény."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_commander:82
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_commander:82:DefaultText"
 msgid "I want you to know I'm holding back for your sake."
-msgstr ""
+msgstr "Chci, abys věděl, že se držím zpátky kvůli tobě."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_commander:83
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_commander:83:DefaultText"
 msgid "Do you have any actual business here, or...?"
-msgstr ""
+msgstr "Máte tady nějaký skutečný obchod, nebo...?"
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_commander:85
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_minister_guard_commander:85:DefaultText"
 msgid "<Attack> Death!"
-msgstr ""
+msgstr "<Útok> Smrt!"

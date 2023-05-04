@@ -3,32 +3,32 @@ msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal6:3:Def
 msgid "UDL-002 THE HOPE\r\n"
 "===========================\r\n"
 "Warning: Unauthorized access will result in immediate termination upon your arrival in Halcyon."
-msgstr ""
+msgstr "UDL-002 THE HOPE =========================== Varování: Neoprávněný přístup bude mít za následek okamžité ukončení přístupu po vašem příchodu do Halcyonu."
 
 #: conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal6:4
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal6:4:DefaultText"
 msgid "[Manual Log #L-5122 - HUNTE, D.]"
-msgstr ""
+msgstr "[Příruční protokol č. L-5122 - HUNTE, D.]"
 
 #: conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal6:6
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal6:6:DefaultText"
 msgid "[Manual Log #L-5141 - VOLKOV, A.]"
-msgstr ""
+msgstr "[Deník příručky #L-5141 - VOLKOV, A.]"
 
 #: conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal6:8
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal6:8:DefaultText"
 msgid "[Automated Audio Transcript #R-2571]"
-msgstr ""
+msgstr "[Automatizovaný zvukový přepis #R-2571]"
 
 #: conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal6:17
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal6:17:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"
 
 #: conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal6:27
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal6:27:DefaultText"
 msgid "[Message Exchange #T-4548]"
-msgstr ""
+msgstr "[Výměna zpráv #T-4548]"
 
 #: conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal6:53
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal6:53:DefaultText"
@@ -43,7 +43,7 @@ msgid "Alas, mamochka, I've failed.\r\n"
 "If I woke up in Halcyon and my family had been devoured by these ghoulish men...\r\n"
 "\r\n"
 "I will steel my resolve. I will resist."
-msgstr ""
+msgstr "Bohužel, mamochka, nepodařilo se mi to. Rajčata umírají na stoncích. Něco musí být špatně s půdou. Máme měsíční příděl. Posádka mluví o kanibalismu. Můj Wilhelm bojuje za to, aby povzbudil jejich chřadnoucí duchy a zatarasil cestu těm, kteří jsou příliš daleko. Po nocích, zatímco mi kručí v žaludku, se bojím, že bych i já mohl zabloudit na tu temnou cestu. Ale myslím na našeho Lukase, spícího ve svém lůžku, a pak si vzpomenu na všechny ty ostatní syny. A dcery a matky a otce. Kdybych se probudila v Halcyonu a moji rodinu by sežrali tihle ghúlové... zocelím své odhodlání. Budu se bránit."
 
 #: conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal6:57
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal6:57:DefaultText"
@@ -58,7 +58,7 @@ msgid "HUNTE, W: Rezi. Can you get us to Halcyon?\r\n"
 "TORREGA, R: What the hell? What happened?\r\n"
 "HUNTE, W: I'll fill you in when you get here. Hurry.\r\n"
 "TORREGA, R. Okay. Fuck. I can't believe this is happening."
-msgstr ""
+msgstr "HUNTE, W: Rezi. Můžeš nás dostat na Halcyon? TORREGA, R: Hm... pracoval jsem na tom... LOVEC, W: Můžeš nás tam dostat? TORREGA, R: Musím, kapitáne. LOVEC, W: Dobře. Sejdeme se na můstku. Tam se naposledy postavíme. TORREGA, R: Počkej, a co Donna? HUNTE, W: Ona... se k nám nepřipojí. TORREGA, R: Co to sakra? Co se stalo? Řeknu ti to, až dorazíš. Pospěš si. TORREGA, R. Dobře. Do prdele. Nemůžu uvěřit, že se to děje."
 
 #: conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal6:58
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal6:58:DefaultText"
@@ -66,7 +66,7 @@ msgid "HUNTE, W: Attention all crew. I don't know who let Frank Nolda out of his
 "HUNTE, W: Anyone in league with him will be imprisoned for the duration of our journey.\r\n"
 "HUNTE, W: Anyone caught tampering with the cold storage pods will be frozen, and upon our arrival in Halcyon you will be turned in to the authorities.\r\n"
 "HUNTE, W: I am locking off the cold storage bays. Frank, if you can hear me, there's still time to turn yourself in. Please."
-msgstr ""
+msgstr "HUNTE, W: Upozornění pro všechny členy posádky. Nevím, kdo pustil Franka Noldu z cely, ale nyní je nepřítelem této lodi. HUNTE, W: Každý, kdo se s ním spolčí, bude po dobu naší cesty uvězněn. HUNTE, W: Každý, kdo bude přistižen při manipulaci s chladicími boxy, bude zmrazen a po našem příletu na Halcyon budete předáni úřadům. HUNTE, W: Uzavírám chladicí boxy. Franku, jestli mě slyšíš, pořád máš čas se přihlásit. Prosím."
 
 #: conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal6:59
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal6:59:DefaultText"
@@ -79,16 +79,16 @@ msgid "The physical effects of starvation are well-documented, but we never lear
 "I told Frank we'd have to eat about a third of the colonists in order to survive our journey. When we still had rations, that seemed impossibly unjust. Tens of thousands of innocent people to save twenty-four.\r\n"
 "\r\n"
 "Now I'm not so sure."
-msgstr ""
+msgstr "Fyzické účinky hladovění jsou dobře zdokumentované, ale nikdy jsme se nedozvěděli, jakou daň si vybírá na vaší mysli. Věci, které považujete za pravdivé, se stávají zdmi mezi hladem a uspokojením. Rozdíl mezi dobrem a zlem se stírá. Řekl jsem Frankovi, že budeme muset sníst asi třetinu kolonistů, abychom přežili naši cestu. Když jsme ještě měli příděly, zdálo se to nemožně nespravedlivé. Desetitisíce nevinných lidí, abychom zachránili 24. Teď už si tím nejsem tak jistý."
 
 #: conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal6:60
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal6:60:DefaultText"
 msgid "CREW TERMINAL\r\n"
 "===========================\r\n"
 "Error accessing archives. Available entries:"
-msgstr ""
+msgstr "CREW TERMINAL =========================== Chyba při přístupu k archivům. Dostupné záznamy:"
 
 #: conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal6:61
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal6:61:DefaultText"
 msgid "[Continue]"
-msgstr ""
+msgstr "[Pokračovat]"

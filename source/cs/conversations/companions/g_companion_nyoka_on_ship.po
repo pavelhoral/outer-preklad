@@ -1,639 +1,639 @@
 #: conversations/companions/g_companion_nyoka_on_ship:2
 msgctxt "conversations/companions/g_companion_nyoka_on_ship:2:DefaultText"
 msgid "You getting along with the crew?"
-msgstr ""
+msgstr "Vycházíte s posádkou?"
 
 #: conversations/companions/g_companion_nyoka_on_ship:4
 msgctxt "conversations/companions/g_companion_nyoka_on_ship:4:DefaultText"
 msgid "Hey, Cap."
-msgstr ""
+msgstr "Ahoj, Cape."
 
 #: conversations/companions/g_companion_nyoka_on_ship:8
 msgctxt "conversations/companions/g_companion_nyoka_on_ship:8:DefaultText"
 msgid "Farewell."
-msgstr ""
+msgstr "Rozloučení."
 
 #: conversations/companions/g_companion_nyoka_on_ship:9
 msgctxt "conversations/companions/g_companion_nyoka_on_ship:9:DefaultText"
 msgid "Hey. Got a favor to ask you."
-msgstr ""
+msgstr "Ahoj. Mám na tebe prosbu."
 
 #: conversations/companions/g_companion_nyoka_on_ship:10
 msgctxt "conversations/companions/g_companion_nyoka_on_ship:10:DefaultText"
 msgid "Next time we're in the Monarch wilderness, I'd like to stop in on an old friend of mine."
-msgstr ""
+msgstr "Až budeme příště v monarchské divočině, rád bych se zastavil u svého starého přítele."
 
 #: conversations/companions/g_companion_nyoka_on_ship:11
 msgctxt "conversations/companions/g_companion_nyoka_on_ship:11:DefaultText"
 msgid "You don't seem the type to run off and get yourself killed, and... I could use the help."
-msgstr ""
+msgstr "Nevypadáš na to, že bys utíkal a nechal se zabít, a... Pomoc by se mi hodila."
 
 #: conversations/companions/g_companion_nyoka_on_ship:13
 msgctxt "conversations/companions/g_companion_nyoka_on_ship:13:DefaultText"
 msgid "Just get on with it, Nyoka."
-msgstr ""
+msgstr "Prostě se do toho pusť, Nyoko."
 
 #: conversations/companions/g_companion_nyoka_on_ship:15
 msgctxt "conversations/companions/g_companion_nyoka_on_ship:15:DefaultText"
 msgid "Hey! It ain't easy for me to spill my guts like a cut-up rapt, all right?"
-msgstr ""
+msgstr "Hej! Není to pro mě snadné, vylít si srdce jako rozřezaný rapl, jasný?"
 
 #: conversations/companions/g_companion_nyoka_on_ship:16
 msgctxt "conversations/companions/g_companion_nyoka_on_ship:16:DefaultText"
 msgid "I'll be up front with you: I hate asking for help. I hate it. Every time I give someone the opportunity to disappoint me, they seem to make it their most immediate goal."
-msgstr ""
+msgstr "Budu k vám upřímný: Nerad žádám o pomoc. Nesnáším to. Pokaždé, když dám někomu příležitost, aby mě zklamal, zdá se, že si z toho udělá svůj nejbližší cíl."
 
 #: conversations/companions/g_companion_nyoka_on_ship:17
 msgctxt "conversations/companions/g_companion_nyoka_on_ship:17:DefaultText"
 msgid "But this, what I'm thinking - it's dangerous."
-msgstr ""
+msgstr "Ale tohle, co si myslím - je to nebezpečné."
 
 #: conversations/companions/g_companion_nyoka_on_ship:18
 msgctxt "conversations/companions/g_companion_nyoka_on_ship:18:DefaultText"
 msgid "I'm honored you're asking, and I'm thrilled to accept. What can I do?"
-msgstr ""
+msgstr "Jsem poctěn, že se ptáte, a s radostí přijímám. Co mohu udělat?"
 
 #: conversations/companions/g_companion_nyoka_on_ship:19
 msgctxt "conversations/companions/g_companion_nyoka_on_ship:19:DefaultText"
 msgid "I'll consider it, but we don't have time right now."
-msgstr ""
+msgstr "Zvážím to, ale teď na to nemáme čas."
 
 #: conversations/companions/g_companion_nyoka_on_ship:20
 msgctxt "conversations/companions/g_companion_nyoka_on_ship:20:DefaultText"
 msgid "I used to run with a band of hunters. ...Friends. Six of us. We were on Monarch when the corporations pulled out, and we helped a lot of people pick up the pieces."
-msgstr ""
+msgstr "Kdysi jsem běhal se skupinou lovců. ...Přátelé. Bylo nás šest. Byli jsme na Monarchu, když se korporace stáhly, a pomohli jsme spoustě lidí posbírat kousky."
 
 #: conversations/companions/g_companion_nyoka_on_ship:21
 msgctxt "conversations/companions/g_companion_nyoka_on_ship:21:DefaultText"
 msgid "Well, all right. I admit a certain stain on my spirit, but it's your call. If you find the time, let's talk again."
-msgstr ""
+msgstr "No, dobře. Přiznávám, že mám jistou skvrnu na duši, ale je to na tobě. Pokud si najdeš čas, promluvíme si znovu."
 
 #: conversations/companions/g_companion_nyoka_on_ship:22
 msgctxt "conversations/companions/g_companion_nyoka_on_ship:22:DefaultText"
 msgid "All right, we've got some time to kill. You mentioned you wanted help with something."
-msgstr ""
+msgstr "Dobře, máme trochu času na zabití. Zmínil ses, že chceš s něčím pomoct."
 
 #: conversations/companions/g_companion_nyoka_on_ship:24
 msgctxt "conversations/companions/g_companion_nyoka_on_ship:24:DefaultText"
 msgid "What do you need to do?"
-msgstr ""
+msgstr "Co musíte udělat?"
 
 #: conversations/companions/g_companion_nyoka_on_ship:26
 msgctxt "conversations/companions/g_companion_nyoka_on_ship:26:DefaultText"
 msgid "Captain! I've... I found them! Rebekah and Anders. I tracked down their contract."
-msgstr ""
+msgstr "Kapitáne! Já jsem... Našel jsem je! Rebeku a Anderse. Vystopoval jsem jejich smlouvu."
 
 #: conversations/companions/g_companion_nyoka_on_ship:27
 msgctxt "conversations/companions/g_companion_nyoka_on_ship:27:DefaultText"
 msgid "Well, let's go find them!"
-msgstr ""
+msgstr "Tak je pojďme najít!"
 
 #: conversations/companions/g_companion_nyoka_on_ship:29
 msgctxt "conversations/companions/g_companion_nyoka_on_ship:29:DefaultText"
 msgid "Outstanding!"
-msgstr ""
+msgstr "Vynikající!"
 
 #: conversations/companions/g_companion_nyoka_on_ship:32
 msgctxt "conversations/companions/g_companion_nyoka_on_ship:32:DefaultText"
 msgid "Next time we're on Terra 2, I'll show you where the outpost is. They're in there. I know it."
-msgstr ""
+msgstr "Až budeme příště na Terře 2, ukážu ti, kde je základna. Jsou tam. Já to vím."
 
 #: conversations/companions/g_companion_nyoka_on_ship:50
 msgctxt "conversations/companions/g_companion_nyoka_on_ship:50:DefaultText"
 msgid "If that's a joke, it ain't funny. I'm used to solitude, but... seems to me a ship needs a crew, Captain. You oughta pick up a few helpers."
-msgstr ""
+msgstr "Jestli je to vtip, tak není vtipný. Jsem zvyklý na samotu, ale... zdá se mi, že loď potřebuje posádku, kapitáne. Měl byste si vzít pár pomocníků."
 
 #: conversations/companions/g_companion_nyoka_on_ship:51
 msgctxt "conversations/companions/g_companion_nyoka_on_ship:51:DefaultText"
 msgid "At the very least, we could use a mechanic. The macrowave's been on the fritz since I got here. I don't know if you've ever tried to slow-cook rapt meat, but... it ain't pretty."
-msgstr ""
+msgstr "Přinejmenším by se nám hodil mechanik. Makrovlna je v háji od chvíle, kdy jsem sem přišel. Nevím, jestli jste někdy zkoušeli pomalu vařit maso, ale... není to nic pěkného."
 
 #: conversations/companions/g_companion_nyoka_on_ship:52
 msgctxt "conversations/companions/g_companion_nyoka_on_ship:52:DefaultText"
 msgid "Makes me miss Opal. Damn. She could cook a proper meal. I just flail about in the kitchen until something resembles edibility."
-msgstr ""
+msgstr "Chybí mi Opal. Zatraceně. Uměla uvařit pořádné jídlo. Já se jen tak plácám v kuchyni, dokud něco nepřipomíná poživatelný jídlo."
 
 #: conversations/companions/g_companion_nyoka_on_ship:54
 msgctxt "conversations/companions/g_companion_nyoka_on_ship:54:DefaultText"
 msgid "Oh, sure. Felix is a riot. Other day he asked if mantiqueens lay eggs. I told him they lay eggs in people and that there ain't no cure. I could burst into swarms at any moment!"
-msgstr ""
+msgstr "Jistě. Felix je výtržník. Jindy se ptal, jestli mantikény snášejí vejce. Řekl jsem mu, že kladou vejce do lidí a že na to není lék. Každou chvíli se můžu vyrojit!"
 
 #: conversations/companions/g_companion_nyoka_on_ship:55
 msgctxt "conversations/companions/g_companion_nyoka_on_ship:55:DefaultText"
 msgid "Well. Yesterday Ellie and I almost got to fighting. She turned a mite green when I cooked up a bit of rapt for dinner. I told her she oughta toughen up. She almost punched me."
-msgstr ""
+msgstr "Dobře. Včera jsme se s Ellie málem pohádali. Trochu zezelenala, když jsem k večeři uvařil trochu raptů. Řekla jsem jí, že by se měla vzchopit. Málem mě praštila."
 
 #: conversations/companions/g_companion_nyoka_on_ship:59
 msgctxt "conversations/companions/g_companion_nyoka_on_ship:59:DefaultText"
 msgid "Yeah, if you could stop trying to poison us with that crap, that'd be great."
-msgstr ""
+msgstr "Jo, kdybyste se nás přestali snažit otrávit těmi kecy, bylo by to skvělé."
 
 #: conversations/companions/g_companion_nyoka_on_ship:60
 msgctxt "conversations/companions/g_companion_nyoka_on_ship:60:DefaultText"
 msgid "Who's Opal?"
-msgstr ""
+msgstr "Kdo je Opal?"
 
 #: conversations/companions/g_companion_nyoka_on_ship:63
 msgctxt "conversations/companions/g_companion_nyoka_on_ship:63:DefaultText"
 msgid "The look on his face. It was great. Heh, you know, one time, Opal and I... uh."
-msgstr ""
+msgstr "Výraz jeho tváře. Byl skvělý. Heh, víš, jednou jsme s Opal... uh."
 
 #: conversations/companions/g_companion_nyoka_on_ship:64
 msgctxt "conversations/companions/g_companion_nyoka_on_ship:64:DefaultText"
 msgid "Shit. Look at me dredging up bygone days. Forget I said anything."
-msgstr ""
+msgstr "Do prdele. Podívejte se na mě, jak se snažím vzpomenout na minulé časy. Zapomeň, že jsem něco řekl."
 
 #: conversations/companions/g_companion_nyoka_on_ship:65
 msgctxt "conversations/companions/g_companion_nyoka_on_ship:65:DefaultText"
 msgid "I like her. Reminds me of Rebekah. She's got a kind of spirit to her - the kind true freedom hasn't beaten down yet."
-msgstr ""
+msgstr "Líbí se mi. Připomíná mi Rebeku. Má takového ducha - takového, kterého pravá svoboda ještě neporazila."
 
 #: conversations/companions/g_companion_nyoka_on_ship:66
 msgctxt "conversations/companions/g_companion_nyoka_on_ship:66:DefaultText"
 msgid "Shit. Look at me dredging up bygone days. Forget I said anything."
-msgstr ""
+msgstr "Do prdele. Podívejte se na mě, jak se snažím vzpomenout na minulé časy. Zapomeň, že jsem něco řekl."
 
 #: conversations/companions/g_companion_nyoka_on_ship:67
 msgctxt "conversations/companions/g_companion_nyoka_on_ship:67:DefaultText"
 msgid "Nope. Not letting this one go. Who's Rebekah?"
-msgstr ""
+msgstr "Ne. Tohle si nenechám ujít. Kdo je Rebeka?"
 
 #: conversations/companions/g_companion_nyoka_on_ship:68
 msgctxt "conversations/companions/g_companion_nyoka_on_ship:68:DefaultText"
 msgid "I'm not pushy. Talk when you're ready."
-msgstr ""
+msgstr "Nejsem vlezlý. Promluvte si, až budete připraveni."
 
 #: conversations/companions/g_companion_nyoka_on_ship:69
 msgctxt "conversations/companions/g_companion_nyoka_on_ship:69:DefaultText"
 msgid "Wait, you said something? I've forgotten."
-msgstr ""
+msgstr "Počkej, ty jsi něco řekl? Zapomněl jsem."
 
 #: conversations/companions/g_companion_nyoka_on_ship:70
 msgctxt "conversations/companions/g_companion_nyoka_on_ship:70:DefaultText"
 msgid "Heh. Thanks, Cap."
-msgstr ""
+msgstr "Heh. Díky, Cap."
 
 #: conversations/companions/g_companion_nyoka_on_ship:71
 msgctxt "conversations/companions/g_companion_nyoka_on_ship:71:DefaultText"
 msgid "I will."
-msgstr ""
+msgstr "Já to udělám."
 
 #: conversations/companions/g_companion_nyoka_on_ship:72
 msgctxt "conversations/companions/g_companion_nyoka_on_ship:72:DefaultText"
 msgid "Don't push it, Captain."
-msgstr ""
+msgstr "Netlačte na pilu, kapitáne."
 
 #: conversations/companions/g_companion_nyoka_on_ship:73
 msgctxt "conversations/companions/g_companion_nyoka_on_ship:73:DefaultText"
 msgid "Nope. Not letting this one go. Who's Opal?"
-msgstr ""
+msgstr "Ne. Tohle si nenechám ujít. Kdo je Opal?"
 
 #: conversations/companions/g_companion_nyoka_on_ship:74
 msgctxt "conversations/companions/g_companion_nyoka_on_ship:74:DefaultText"
 msgid "Well, SAM's been doing my dishes for me, so that's something. It seems... genuinely happy to do that? Can an automechanical be happy?"
-msgstr ""
+msgstr "No, SAM za mě myje nádobí, takže to je něco. Zdá se, že to dělá opravdu rád? Může být automechanik šťastný?"
 
 #: conversations/companions/g_companion_nyoka_on_ship:75
 msgctxt "conversations/companions/g_companion_nyoka_on_ship:75:DefaultText"
 msgid "Opal told me they could once. She believed automechanicals feel just like we do. She would always-"
-msgstr ""
+msgstr "Opal mi jednou řekla, že by mohli. Věřila, že automechanici cítí stejně jako my. Vždycky..."
 
 #: conversations/companions/g_companion_nyoka_on_ship:77
 msgctxt "conversations/companions/g_companion_nyoka_on_ship:77:DefaultText"
 msgid "Parvati showed me how to properly grease the magazine release on one of my firearms. She's a smart one, you know."
-msgstr ""
+msgstr "Parvati mi ukázala, jak správně namazat spoušť zásobníku na jedné z mých střelných zbraní. Je chytrá, víte?"
 
 #: conversations/companions/g_companion_nyoka_on_ship:78
 msgctxt "conversations/companions/g_companion_nyoka_on_ship:78:DefaultText"
 msgid "Opal was quiet in the same way. She'd hang back, out of sight, then all of a sudden pop in with a bit of wisdom out of nowhere."
-msgstr ""
+msgstr "Opal byla stejně tichá. Držela se v pozadí, nebyla vidět, a pak se najednou odněkud vynořila s nějakou moudrostí."
 
 #: conversations/companions/g_companion_nyoka_on_ship:79
 msgctxt "conversations/companions/g_companion_nyoka_on_ship:79:DefaultText"
 msgid "Shit. Look at me dredging up bygone days. Forget I said anything."
-msgstr ""
+msgstr "Do prdele. Podívejte se na mě, jak se snažím vzpomenout na minulé časy. Zapomeň, že jsem něco řekl."
 
 #: conversations/companions/g_companion_nyoka_on_ship:80
 msgctxt "conversations/companions/g_companion_nyoka_on_ship:80:DefaultText"
 msgid "I'm still not quite sure what to make of that Max fellow. Sometimes he reminds me of Anders, in the way he stares at things as if he's gonna dismantle them."
-msgstr ""
+msgstr "Pořád si nejsem jistý, co si mám o tom Maxovi myslet. Někdy mi připomíná Anderse tím, jak na věci zírá, jako by je chtěl rozebrat."
 
 #: conversations/companions/g_companion_nyoka_on_ship:81
 msgctxt "conversations/companions/g_companion_nyoka_on_ship:81:DefaultText"
 msgid "Shit. Look at me dredging up bygone days. Forget I said anything."
-msgstr ""
+msgstr "Do prdele. Podívejte se na mě, jak se snažím vzpomenout na minulé časy. Zapomeň, že jsem něco řekl."
 
 #: conversations/companions/g_companion_nyoka_on_ship:82
 msgctxt "conversations/companions/g_companion_nyoka_on_ship:82:DefaultText"
 msgid "Nope. Not letting this one go. Who's Anders?"
-msgstr ""
+msgstr "Ne. Tohle si nenechám ujít. Kdo je Anders?"
 
 #: conversations/companions/g_companion_nyoka_on_ship:83
 msgctxt "conversations/companions/g_companion_nyoka_on_ship:83:DefaultText"
 msgid "Shit. Look at me dredging up bygone days. Forget I said anything."
-msgstr ""
+msgstr "Do prdele. Podívejte se na mě, jak se snažím vzpomenout na minulé časy. Zapomeň, že jsem něco řekl."
 
 #: conversations/companions/g_companion_nyoka_on_ship:84
 msgctxt "conversations/companions/g_companion_nyoka_on_ship:84:DefaultText"
 msgid "Hey! Watch your damn tongue or I'll cook it for you. In a pot. With... with sulfur and raptidon blood."
-msgstr ""
+msgstr "Hej! Dávej si pozor na jazyk, nebo ti ho uvařím. V hrnci. Se sírou a raptidonskou krví."
 
 #: conversations/companions/g_companion_nyoka_on_ship:85
 msgctxt "conversations/companions/g_companion_nyoka_on_ship:85:DefaultText"
 msgid "You know, I oughta get a cookbook one of these days."
-msgstr ""
+msgstr "Měla bych si jednou pořídit kuchařku."
 
 #: conversations/companions/g_companion_nyoka_on_ship:86
 msgctxt "conversations/companions/g_companion_nyoka_on_ship:86:DefaultText"
 msgid "You're talking about Opal, right? You mentioned her before."
-msgstr ""
+msgstr "Mluvíš o Opalu, že? Už jsi ji zmínil."
 
 #: conversations/companions/g_companion_nyoka_on_ship:87
 msgctxt "conversations/companions/g_companion_nyoka_on_ship:87:DefaultText"
 msgid "You're talking about Clara, right? You mentioned her before."
-msgstr ""
+msgstr "Mluvíš o Claře, že? Už jsi ji zmínil."
 
 #: conversations/companions/g_companion_nyoka_on_ship:88
 msgctxt "conversations/companions/g_companion_nyoka_on_ship:88:DefaultText"
 msgid "You're talking about Anders, right? You mentioned him before."
-msgstr ""
+msgstr "Mluvíš o Andersovi, že? Už jste se o něm zmínil."
 
 #: conversations/companions/g_companion_nyoka_on_ship:90
 msgctxt "conversations/companions/g_companion_nyoka_on_ship:90:DefaultText"
 msgid "Really? Here I was steeling myself for inevitable rejection."
-msgstr ""
+msgstr "Opravdu? Tady jsem se připravoval na nevyhnutelné odmítnutí."
 
 #: conversations/companions/g_companion_nyoka_on_ship:91
 msgctxt "conversations/companions/g_companion_nyoka_on_ship:91:DefaultText"
 msgid "I haven't seen two of them in years, and the rest I know to be dead. I'd like to gather their effects and bury them all in the same places. Like the family we once were."
-msgstr ""
+msgstr "Dva z nich jsem už léta neviděl a o ostatních vím, že jsou mrtví. Rád bych shromáždil jejich věci a všechny je pohřbil na stejných místech. Jako rodina, kterou jsme kdysi byli."
 
 #: conversations/companions/g_companion_nyoka_on_ship:93
 msgctxt "conversations/companions/g_companion_nyoka_on_ship:93:DefaultText"
 msgid "How do you know they're dead?"
-msgstr ""
+msgstr "Jak víte, že jsou mrtví?"
 
 #: conversations/companions/g_companion_nyoka_on_ship:94
 msgctxt "conversations/companions/g_companion_nyoka_on_ship:94:DefaultText"
 msgid "I saw it happen. Hell, one of them was in my arms at the time."
-msgstr ""
+msgstr "Viděl jsem to. Jedno z nich jsem měl v tu chvíli v náručí."
 
 #: conversations/companions/g_companion_nyoka_on_ship:95
 msgctxt "conversations/companions/g_companion_nyoka_on_ship:95:DefaultText"
 msgid "First, we go to Hayes. I buried him a ways from our encampment. I need to pay my respects."
-msgstr ""
+msgstr "Nejdříve přejdeme k Hayesovi. Pohřbil jsem ho kousek od našeho tábora. Musím mu vzdát úctu."
 
 #: conversations/companions/g_companion_nyoka_on_ship:96
 msgctxt "conversations/companions/g_companion_nyoka_on_ship:96:DefaultText"
 msgid "I'll show you where he rests. He had a medallion in his effects. That's what I'll bring home to bury."
-msgstr ""
+msgstr "Ukážu vám, kde odpočívá. Ve svých věcech měl medailon. Ten přinesu domů, abych ho pohřbil."
 
 #: conversations/companions/g_companion_nyoka_on_ship:97
 msgctxt "conversations/companions/g_companion_nyoka_on_ship:97:DefaultText"
 msgid "His name was Hayes, and he's our first stop. I buried him a ways from our encampment."
-msgstr ""
+msgstr "Jmenoval se Hayes a byl naší první zastávkou. Pohřbil jsem ho kousek od našeho tábora."
 
 #: conversations/companions/g_companion_nyoka_on_ship:98
 msgctxt "conversations/companions/g_companion_nyoka_on_ship:98:DefaultText"
 msgid "Yes. Well... not just her. But those memories becoming fresh again did get me thinking."
-msgstr ""
+msgstr "Ano. No... nejen ona. Ale ty vzpomínky, které se znovu vynořily, mě přiměly k zamyšlení."
 
 #: conversations/companions/g_companion_nyoka_on_ship:99
 msgctxt "conversations/companions/g_companion_nyoka_on_ship:99:DefaultText"
 msgid "Yes. Well... not just him. But those memories becoming fresh again did get me thinking."
-msgstr ""
+msgstr "Ano. No... nejen on. Ale ty vzpomínky, které se znovu vynořily, mě přiměly k zamyšlení."
 
 #: conversations/companions/g_companion_nyoka_on_ship:100
 msgctxt "conversations/companions/g_companion_nyoka_on_ship:100:DefaultText"
 msgid "They were supposed to clear out a Spacer's Choice outpost. Nobody's heard from it in a long time - it sounds like they shuttered whatever's there and left it alone."
-msgstr ""
+msgstr "Měli vyčistit základnu Spacer's Choice. Už dlouho o ní nikdo neslyšel - vypadá to, že zavřeli, co tam je, a nechali to být."
 
 #: conversations/companions/g_companion_nyoka_on_ship:101
 msgctxt "conversations/companions/g_companion_nyoka_on_ship:101:DefaultText"
 msgid "I... don't have high aspirations as to finding them alive. But if we can at least find out what happened, it'll go a long way toward soothing my spirit."
-msgstr ""
+msgstr "Já... nemám velké ambice najít je živé. Ale pokud se nám podaří alespoň zjistit, co se stalo, hodně to uklidní mou duši."
 
 #: conversations/companions/g_companion_nyoka_on_ship:104
 msgctxt "conversations/companions/g_companion_nyoka_on_ship:104:DefaultText"
 msgid "We'll get to it when we have time."
-msgstr ""
+msgstr "Dostaneme se k tomu, až budeme mít čas."
 
 #: conversations/companions/g_companion_nyoka_on_ship:105
 msgctxt "conversations/companions/g_companion_nyoka_on_ship:105:DefaultText"
 msgid "Captain, I... look, I respect your decision making, in so far as following it hasn't gotten us killed yet. But... this is important."
-msgstr ""
+msgstr "Kapitáne, já... podívejte, respektuji vaše rozhodnutí, pokud nás kvůli němu ještě nezabili. Ale... tohle je důležité."
 
 #: conversations/companions/g_companion_nyoka_on_ship:106
 msgctxt "conversations/companions/g_companion_nyoka_on_ship:106:DefaultText"
 msgid "It's already gnawing at my spirit. Don't wait too long."
-msgstr ""
+msgstr "Už teď mi to hlodá v duši. Nečekej příliš dlouho."
 
 #: conversations/companions/g_companion_nyoka_on_ship:128
 msgctxt "conversations/companions/g_companion_nyoka_on_ship:128:DefaultText"
 msgid "What's with the raptidon in your room?"
-msgstr ""
+msgstr "Co máš v pokoji s raptidonem?"
 
 #: conversations/companions/g_companion_nyoka_on_ship:129
 msgctxt "conversations/companions/g_companion_nyoka_on_ship:129:DefaultText"
 msgid "Oh, that's just Frieda. She's the first rapt I ever killed. I had her preserved."
-msgstr ""
+msgstr "To je jen Frieda. Je to první rapl, kterého jsem zabil. Nechal jsem ji zakonzervovat."
 
 #: conversations/companions/g_companion_nyoka_on_ship:130
 msgctxt "conversations/companions/g_companion_nyoka_on_ship:130:DefaultText"
 msgid "How long ago was this?"
-msgstr ""
+msgstr "Jak je to dlouho?"
 
 #: conversations/companions/g_companion_nyoka_on_ship:131
 msgctxt "conversations/companions/g_companion_nyoka_on_ship:131:DefaultText"
 msgid "Preserved? How?"
-msgstr ""
+msgstr "Zachovalé? Jak?"
 
 #: conversations/companions/g_companion_nyoka_on_ship:132
 msgctxt "conversations/companions/g_companion_nyoka_on_ship:132:DefaultText"
 msgid "The first? Were you still learning to hunt?"
-msgstr ""
+msgstr "První? To jste se ještě učil lovit?"
 
 #: conversations/companions/g_companion_nyoka_on_ship:133
 msgctxt "conversations/companions/g_companion_nyoka_on_ship:133:DefaultText"
 msgid "It'd have been when I was a kid, so... something on the order of twenty years? My parents were very proud."
-msgstr ""
+msgstr "Bylo to, když jsem byl ještě dítě, takže... něco kolem dvaceti let? Rodiče na mě byli velmi pyšní."
 
 #: conversations/companions/g_companion_nyoka_on_ship:134
 msgctxt "conversations/companions/g_companion_nyoka_on_ship:134:DefaultText"
 msgid "You've had that head for twenty YEARS?"
-msgstr ""
+msgstr "Tu hlavu máš už dvacet let?"
 
 #: conversations/companions/g_companion_nyoka_on_ship:135
 msgctxt "conversations/companions/g_companion_nyoka_on_ship:135:DefaultText"
 msgid "You know what? I don't want to know."
-msgstr ""
+msgstr "Víte co? Nechci to vědět."
 
 #: conversations/companions/g_companion_nyoka_on_ship:136
 msgctxt "conversations/companions/g_companion_nyoka_on_ship:136:DefaultText"
 msgid "I'm impressed it looks as good as it does."
-msgstr ""
+msgstr "Jsem ohromen, že vypadá tak dobře, jak vypadá."
 
 #: conversations/companions/g_companion_nyoka_on_ship:137
 msgctxt "conversations/companions/g_companion_nyoka_on_ship:137:DefaultText"
 msgid "Took it to a doc in Stellar Bay. He said something about cold storage this and preservative that and at the end of the day, the head didn't stink anymore."
-msgstr ""
+msgstr "Vzal jsem ho k doktorovi do Hvězdné zátoky. Říkal něco o chladírenském skladu a konzervačním prostředku a nakonec hlava už nesmrděla."
 
 #: conversations/companions/g_companion_nyoka_on_ship:138
 msgctxt "conversations/companions/g_companion_nyoka_on_ship:138:DefaultText"
 msgid "Oh, no. It got into our apartment building in Cascadia. Stomped right up the stairs and started rooting through our cans of p-free butter."
-msgstr ""
+msgstr "Ale ne. Dostal se do našeho bytového domu v Cascadii. Vyšlapal po schodech nahoru a začal se prohrabávat našimi plechovkami másla bez p."
 
 #: conversations/companions/g_companion_nyoka_on_ship:139
 msgctxt "conversations/companions/g_companion_nyoka_on_ship:139:DefaultText"
 msgid "I grabbed the nearest sidearm and shot it in the eye. Void take me, I was terrified."
-msgstr ""
+msgstr "Popadl jsem nejbližší pistoli a střelil ho do oka. Void take me, byl jsem vyděšený."
 
 #: conversations/companions/g_companion_nyoka_on_ship:140
 msgctxt "conversations/companions/g_companion_nyoka_on_ship:140:DefaultText"
 msgid "That'd have been twenty-odd years ago. Time flies, eh, Cap?"
-msgstr ""
+msgstr "To bylo před více než dvaceti lety. Čas letí, co, Cape?"
 
 #: conversations/companions/g_companion_nyoka_on_ship:141
 msgctxt "conversations/companions/g_companion_nyoka_on_ship:141:DefaultText"
 msgid "Twenty - oh, no. No. Get that decrepit thing off of my ship."
-msgstr ""
+msgstr "Dvacet - ale ne. Ne. Odveďte tu zchátralou věc z mé lodi."
 
 #: conversations/companions/g_companion_nyoka_on_ship:142
 msgctxt "conversations/companions/g_companion_nyoka_on_ship:142:DefaultText"
 msgid "Twenty years later, it still doesn't. That or I've become accustomed to it."
-msgstr ""
+msgstr "O dvacet let později to stále neplatí. Buď jsem si na to zvykl."
 
 #: conversations/companions/g_companion_nyoka_on_ship:143
 msgctxt "conversations/companions/g_companion_nyoka_on_ship:143:DefaultText"
 msgid "Decrepit?! Captain, I take better care of Frieda's condition than my own!"
-msgstr ""
+msgstr "Rozkladné?! Kapitáne, o Fridin stav se starám lépe než o svůj vlastní!"
 
 #: conversations/companions/g_companion_nyoka_on_ship:144
 msgctxt "conversations/companions/g_companion_nyoka_on_ship:144:DefaultText"
 msgid "If the sight of a raptidon head bothers you that much, you oughta avoid Monarch. You also oughta avoid sniffing around my quarters."
-msgstr ""
+msgstr "Pokud vám pohled na hlavu raptidona tolik vadí, měli byste se Monarchu vyhnout. Také by ses měl vyhnout čmuchání v mých kajutách."
 
 #: conversations/companions/g_companion_nyoka_on_ship:145
 msgctxt "conversations/companions/g_companion_nyoka_on_ship:145:DefaultText"
 msgid "Oh, sure. Once in a while I've gotta bury her and come back later - she's a big girl. Tough to lug around. But she's been with me a while, so."
-msgstr ""
+msgstr "Jistě. Jednou za čas ji musím pohřbít a vrátit se později - je to velká holka. Těžko se s ní tahá. Ale už je se mnou nějakou dobu, takže."
 
 #: conversations/companions/g_companion_nyoka_on_ship:146
 msgctxt "conversations/companions/g_companion_nyoka_on_ship:146:DefaultText"
 msgid "Me, too, to be honest. I'd have thought she'd have started rotting years ago. Counting my blessings."
-msgstr ""
+msgstr "Upřímně řečeno, já taky. Myslel jsem si, že začne hnít už před lety. Počítám své požehnání."
 
 #: conversations/companions/g_companion_nyoka_on_ship:147
 msgctxt "conversations/companions/g_companion_nyoka_on_ship:147:DefaultText"
 msgid "Well, the moment it starts to stink, I want it off my ship."
-msgstr ""
+msgstr "Jakmile začne smrdět, chci ho z lodi pryč."
 
 #: conversations/companions/g_companion_nyoka_on_ship:149
 msgctxt "conversations/companions/g_companion_nyoka_on_ship:149:DefaultText"
 msgid "Don't you worry. I'll keep an eye on the old girl."
-msgstr ""
+msgstr "Nebojte se. Na tu stařenku dohlédnu."
 
 #: conversations/companions/g_companion_nyoka_on_ship:150
 msgctxt "conversations/companions/g_companion_nyoka_on_ship:150:DefaultText"
 msgid "Mind if I talk to it once in a while?"
-msgstr ""
+msgstr "Nevadí, když si s ním občas promluvím?"
 
 #: conversations/companions/g_companion_nyoka_on_ship:151
 msgctxt "conversations/companions/g_companion_nyoka_on_ship:151:DefaultText"
 msgid "Her. And of course. She's a great conversationalist. Never argues. Never judges."
-msgstr ""
+msgstr "Ona. A samozřejmě. Je to skvělá konverzačka. Nikdy se nehádá. Nikdy nesoudí."
 
 #: conversations/companions/g_companion_nyoka_on_ship:152
 msgctxt "conversations/companions/g_companion_nyoka_on_ship:152:DefaultText"
 msgid "Right. Well, thanks for the story."
-msgstr ""
+msgstr "Vpravo. Děkuji za příběh."
 
 #: conversations/companions/g_companion_nyoka_on_ship:153
 msgctxt "conversations/companions/g_companion_nyoka_on_ship:153:DefaultText"
 msgid "Anytime, Cap."
-msgstr ""
+msgstr "Kdykoli, kapitáne."
 
 #: conversations/companions/g_companion_nyoka_on_ship:157
 msgctxt "conversations/companions/g_companion_nyoka_on_ship:157:DefaultText"
 msgid "What in the void are you thinking, Captain? We needed Hiram's help!"
-msgstr ""
+msgstr "Na co to proboha myslíte, kapitáne? Potřebovali jsme Hiramovu pomoc!"
 
 #: conversations/companions/g_companion_nyoka_on_ship:158
 msgctxt "conversations/companions/g_companion_nyoka_on_ship:158:DefaultText"
 msgid "He was an ass."
-msgstr ""
+msgstr "Byl to osel."
 
 #: conversations/companions/g_companion_nyoka_on_ship:159
 msgctxt "conversations/companions/g_companion_nyoka_on_ship:159:DefaultText"
 msgid "It was an accident. I'm sorry, Nyoka."
-msgstr ""
+msgstr "Byla to nehoda. Je mi to líto, Nyoko."
 
 #: conversations/companions/g_companion_nyoka_on_ship:160
 msgctxt "conversations/companions/g_companion_nyoka_on_ship:160:DefaultText"
 msgid "I have my reasons."
-msgstr ""
+msgstr "Mám k tomu své důvody."
 
 #: conversations/companions/g_companion_nyoka_on_ship:161
 msgctxt "conversations/companions/g_companion_nyoka_on_ship:161:DefaultText"
 msgid "Whatever they are, they ain't good enough! He was my friend, dammit!"
-msgstr ""
+msgstr "Ať už jsou jakékoliv, nestačí! Byl to můj přítel, sakra!"
 
 #: conversations/companions/g_companion_nyoka_on_ship:162
 msgctxt "conversations/companions/g_companion_nyoka_on_ship:162:DefaultText"
 msgid "Yeah, but he was MY a - ugh. You can't just shoot anyone who you don't like!"
-msgstr ""
+msgstr "Jo, ale byl to MŮJ - uff. Nemůžeš jen tak zastřelit někoho, kdo se ti nelíbí!"
 
 #: conversations/companions/g_companion_nyoka_on_ship:163
 msgctxt "conversations/companions/g_companion_nyoka_on_ship:163:DefaultText"
 msgid "You're either lying to my face or you're incompetent. I don't know what's worse."
-msgstr ""
+msgstr "Buď mi lžete do očí, nebo jste neschopný. Nevím, co je horší."
 
 #: conversations/companions/g_companion_nyoka_on_ship:164
 msgctxt "conversations/companions/g_companion_nyoka_on_ship:164:DefaultText"
 msgid "Now I'm going to have to track Rebekah and Anders down myself, and I have to do it while grieving the loss of the only person I still trusted."
-msgstr ""
+msgstr "Teď budu muset Rebeku a Anderse vystopovat sama a budu to muset udělat, zatímco budu truchlit nad ztrátou jediného člověka, kterému jsem ještě věřila."
 
 #: conversations/companions/g_companion_nyoka_on_ship:165
 msgctxt "conversations/companions/g_companion_nyoka_on_ship:165:DefaultText"
 msgid "I don't even know where to start. Ugh. If I find anything, I'll let you know. Don't get your hopes up."
-msgstr ""
+msgstr "Ani nevím, kde začít. Fuj. Jestli něco najdu, dám vám vědět. Nedělej si naděje."
 
 #: conversations/companions/g_companion_nyoka_on_ship:168
 msgctxt "conversations/companions/g_companion_nyoka_on_ship:168:DefaultText"
 msgid "Well, I definitely don't plan on getting myself killed."
-msgstr ""
+msgstr "Rozhodně nemám v plánu se nechat zabít."
 
 #: conversations/companions/g_companion_nyoka_on_ship:169
 msgctxt "conversations/companions/g_companion_nyoka_on_ship:169:DefaultText"
 msgid "Well, we'll see about that."
-msgstr ""
+msgstr "To se ještě uvidí."
 
 #: conversations/companions/g_companion_nyoka_on_ship:170
 msgctxt "conversations/companions/g_companion_nyoka_on_ship:170:DefaultText"
 msgid "What kind of danger are we talking about here?"
-msgstr ""
+msgstr "O jakém nebezpečí se tu bavíme?"
 
 #: conversations/companions/g_companion_nyoka_on_ship:171
 msgctxt "conversations/companions/g_companion_nyoka_on_ship:171:DefaultText"
 msgid "Nothing I can't - we can't - handle."
-msgstr ""
+msgstr "Nic, co bych nezvládl - nezvládneme -."
 
 #: conversations/companions/g_companion_nyoka_on_ship:172
 msgctxt "conversations/companions/g_companion_nyoka_on_ship:172:DefaultText"
 msgid "You have an emotional state beyond drunk?"
-msgstr ""
+msgstr "Jste v jiném emocionálním stavu než opilí?"
 
 #: conversations/companions/g_companion_nyoka_on_ship:173
 msgctxt "conversations/companions/g_companion_nyoka_on_ship:173:DefaultText"
 msgid "...you know what? Nevermind, Captain. You find your way out of your own asshole, come try talking about this again, all right?"
-msgstr ""
+msgstr "...víte co? Nevadí, kapitáne. Najdi si cestu z vlastní prdele a zkus o tom mluvit znovu, ano?"
 
 #: conversations/companions/g_companion_nyoka_on_ship:174
 msgctxt "conversations/companions/g_companion_nyoka_on_ship:174:DefaultText"
 msgid "All right. Let's hear it."
-msgstr ""
+msgstr "Dobře. Poslechněme si to."
 
 #: conversations/companions/g_companion_nyoka_on_ship:175
 msgctxt "conversations/companions/g_companion_nyoka_on_ship:175:DefaultText"
 msgid "We don't have time right now. Sorry. Maybe later."
-msgstr ""
+msgstr "Teď nemáme čas. Omlouváme se. Možná později."
 
 #: conversations/companions/g_companion_nyoka_on_ship:176
 msgctxt "conversations/companions/g_companion_nyoka_on_ship:176:DefaultText"
 msgid "Nyoka, you're out of the crew. Pack up your stuff."
-msgstr ""
+msgstr "Nyoko, jsi mimo posádku. Sbal si věci."
 
 #: conversations/companions/g_companion_nyoka_on_ship:177
 msgctxt "conversations/companions/g_companion_nyoka_on_ship:177:DefaultText"
 msgid "Wh- wait, what? What the hell's gotten into you, Captain?"
-msgstr ""
+msgstr "Počkat, co? Co to do tebe sakra vjelo, kapitáne?"
 
 #: conversations/companions/g_companion_nyoka_on_ship:178
 msgctxt "conversations/companions/g_companion_nyoka_on_ship:178:DefaultText"
 msgid "Uh. Whoops, nevermind. I don't know what I was thinking."
-msgstr ""
+msgstr "Uh. Whoops, to je jedno. Nevím, co jsem si myslel."
 
 #: conversations/companions/g_companion_nyoka_on_ship:179
 msgctxt "conversations/companions/g_companion_nyoka_on_ship:179:DefaultText"
 msgid "I'm serious. I want you gone."
-msgstr ""
+msgstr "Myslím to vážně. Chci, abys odešel."
 
 #: conversations/companions/g_companion_nyoka_on_ship:180
 msgctxt "conversations/companions/g_companion_nyoka_on_ship:180:DefaultText"
 msgid "Fine. Whatever, asshole. I'll make tracks. I ever see you again, maybe I'll mistake you for a marauder. "
-msgstr ""
+msgstr "V pořádku. To je fuk, kreténe. Udělám stopy. Jestli tě ještě někdy uvidím, možná si tě splete s nájezdníkem. "
 
 #: conversations/companions/g_companion_nyoka_on_ship:183
 msgctxt "conversations/companions/g_companion_nyoka_on_ship:183:DefaultText"
 msgid "And after that?"
-msgstr ""
+msgstr "A potom?"
 
 #: conversations/companions/g_companion_nyoka_on_ship:184
 msgctxt "conversations/companions/g_companion_nyoka_on_ship:184:DefaultText"
 msgid "Where's home?"
-msgstr ""
+msgstr "Kde je domov?"
 
 #: conversations/companions/g_companion_nyoka_on_ship:185
 msgctxt "conversations/companions/g_companion_nyoka_on_ship:185:DefaultText"
 msgid "Then we find my two lost trackers and bring them home."
-msgstr ""
+msgstr "Pak najdeme mé dva ztracené stopaře a přivedeme je domů."
 
 #: conversations/companions/g_companion_nyoka_on_ship:186
 msgctxt "conversations/companions/g_companion_nyoka_on_ship:186:DefaultText"
 msgid "A long time ago, we built an encampment in one of Monarch's cave systems. Trouble is, a mantiqueen showed up and kicked us all out."
-msgstr ""
+msgstr "Kdysi dávno jsme si postavili tábor v jednom z Monarchových jeskynních systémů. Potíž je v tom, že se objevil mantikén a všechny nás vyhnal."
 
 #: conversations/companions/g_companion_nyoka_on_ship:187
 msgctxt "conversations/companions/g_companion_nyoka_on_ship:187:DefaultText"
 msgid "If we can find Rebekah and Anders, they'll know how to lure her out. Then we kill the bitch and bury everyone's medallions together."
-msgstr ""
+msgstr "Pokud najdeme Rebeku a Anderse, budou vědět, jak ji vylákat ven. Pak tu mrchu zabijeme a medailonky všech pohřbíme společně."
 
 #: conversations/companions/g_companion_nyoka_on_ship:188
 msgctxt "conversations/companions/g_companion_nyoka_on_ship:188:DefaultText"
 msgid "Sounds fun. Let's go!"
-msgstr ""
+msgstr "Zní to zábavně. Jdeme na to!"
 
 #: conversations/companions/g_companion_nyoka_on_ship:190
 msgctxt "conversations/companions/g_companion_nyoka_on_ship:190:DefaultText"
 msgid "Okay. To Hayes, then."
-msgstr ""
+msgstr "Dobře. Tak tedy na Hayese."
 
 #: conversations/companions/g_companion_nyoka_on_ship:191
 msgctxt "conversations/companions/g_companion_nyoka_on_ship:191:DefaultText"
 msgid "...we're going to have to kill a mantiqueen?"
-msgstr ""
+msgstr "...budeme muset zabít mantikenu?"
 
 #: conversations/companions/g_companion_nyoka_on_ship:192
 msgctxt "conversations/companions/g_companion_nyoka_on_ship:192:DefaultText"
 msgid "Oh, yes. I can't wait."
-msgstr ""
+msgstr "Ach, ano. Už se nemůžu dočkat."
 
 #: conversations/companions/g_companion_nyoka_on_ship:193
 msgctxt "conversations/companions/g_companion_nyoka_on_ship:193:DefaultText"
 msgid "Figure while we're out here in the wilderness anyhow, we might stop in on an old friend of mine."
-msgstr ""
+msgstr "Když už jsme tady v divočině, mohli bychom se zastavit u jednoho mého starého přítele."
 
 #: conversations/companions/g_companion_nyoka_on_ship:194
 msgctxt "conversations/companions/g_companion_nyoka_on_ship:194:DefaultText"
 msgid "Preferably before we get to Hiram's. It's on the way, don't worry."
-msgstr ""
+msgstr "Nejlépe předtím, než se dostaneme k Hiramovi. Je to na cestě, nebojte se."
 
 #: conversations/companions/g_companion_nyoka_on_ship:195
 msgctxt "conversations/companions/g_companion_nyoka_on_ship:195:DefaultText"
 msgid "But for this... I need help. Logistically, because it's dangerous. Emotionally, because... it's dangerous."
-msgstr ""
+msgstr "Ale pro tento... Potřebuji pomoc. Logisticky, protože je to nebezpečné. Emocionálně, protože... je to nebezpečné."
 
 #: conversations/companions/g_companion_nyoka_on_ship:196
 msgctxt "conversations/companions/g_companion_nyoka_on_ship:196:DefaultText"
 msgid "Thanks for the compliment, I think."
-msgstr ""
+msgstr "Myslím, že děkuji za kompliment."
 
 #: conversations/companions/g_companion_nyoka_on_ship:197
 msgctxt "conversations/companions/g_companion_nyoka_on_ship:197:DefaultText"
 msgid "Next time we're out in the open sulfur, I'd like to stop in on an old friend of mine."
-msgstr ""
+msgstr "Až budeme příště v otevřené síře, rád bych se zastavil u svého starého přítele."
 
 #: conversations/companions/g_companion_nyoka_on_ship:198
 msgctxt "conversations/companions/g_companion_nyoka_on_ship:198:DefaultText"
 msgid "These glands are gross. Take them. Please."
-msgstr ""
+msgstr "Tyto žlázy jsou hrubé. Vezměte si je. Prosím."

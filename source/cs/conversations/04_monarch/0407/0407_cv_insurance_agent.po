@@ -1,504 +1,504 @@
 #: conversations/04_monarch/0407/0407_cv_insurance_agent:1
 msgctxt "conversations/04_monarch/0407/0407_cv_insurance_agent:1:DefaultText"
 msgid "Welcome to the offices of the Greater Halcyon Insurance Group, Halcyon's premier provider of life and disaster-related insurance!"
-msgstr ""
+msgstr "Vítejte v kancelářích pojišťovací skupiny Greater Halcyon Insurance Group, která je hlavním poskytovatelem životního pojištění a pojištění proti živelním pohromám!"
 
 #: conversations/04_monarch/0407/0407_cv_insurance_agent:2
 msgctxt "conversations/04_monarch/0407/0407_cv_insurance_agent:2:DefaultText"
 msgid "I see you're still in one piece. However, you never know when that could change - consider our \"accidentally torn into tiny fragments\" coverage. "
-msgstr ""
+msgstr "Vidím, že jsi stále v pořádku. Nikdy však nevíte, kdy se to může změnit - vezměte v úvahu naše zpravodajství o \"náhodném roztrhání na malé kousky\". "
 
 #: conversations/04_monarch/0407/0407_cv_insurance_agent:3
 msgctxt "conversations/04_monarch/0407/0407_cv_insurance_agent:3:DefaultText"
 msgid "I need to change the beneficiary on Marilyn Fenhill's life insurance policy."
-msgstr ""
+msgstr "Potřebuji změnit oprávněnou osobu na smlouvě životního pojištění Marilyn Fenhillové."
 
 #: conversations/04_monarch/0407/0407_cv_insurance_agent:4
 msgctxt "conversations/04_monarch/0407/0407_cv_insurance_agent:4:DefaultText"
 msgid "I remember that one! That's the young socialite who broke her neck, right?"
-msgstr ""
+msgstr "To si pamatuju! To je ta mladá společenská dáma, která si zlomila vaz, že?"
 
 #: conversations/04_monarch/0407/0407_cv_insurance_agent:7
 msgctxt "conversations/04_monarch/0407/0407_cv_insurance_agent:7:DefaultText"
 msgid "What can I do for you?"
-msgstr ""
+msgstr "Co pro vás mohu udělat?"
 
 #: conversations/04_monarch/0407/0407_cv_insurance_agent:11
 msgctxt "conversations/04_monarch/0407/0407_cv_insurance_agent:11:DefaultText"
 msgid "The payouts will flow exclusively into the new account at the start of the month."
-msgstr ""
+msgstr "Výplaty budou chodit výhradně na nový účet na začátku měsíce."
 
 #: conversations/04_monarch/0407/0407_cv_insurance_agent:12
 msgctxt "conversations/04_monarch/0407/0407_cv_insurance_agent:12:DefaultText"
 msgid "I wanted to discuss Marilyn Fenhill's beneficiaries."
-msgstr ""
+msgstr "Chtěl jsem diskutovat o příjemcích Marilyn Fenhillové."
 
 #: conversations/04_monarch/0407/0407_cv_insurance_agent:15
 msgctxt "conversations/04_monarch/0407/0407_cv_insurance_agent:15:DefaultText"
 msgid "That's all for now."
-msgstr ""
+msgstr "To je prozatím vše."
 
 #: conversations/04_monarch/0407/0407_cv_insurance_agent:18
 msgctxt "conversations/04_monarch/0407/0407_cv_insurance_agent:18:DefaultText"
 msgid "What else can you tell me about your insurance policies?"
-msgstr ""
+msgstr "Co dalšího mi můžete říct o svých pojistných smlouvách?"
 
 #: conversations/04_monarch/0407/0407_cv_insurance_agent:19
 msgctxt "conversations/04_monarch/0407/0407_cv_insurance_agent:19:DefaultText"
 msgid "Plenty! As my boss likes to say, there's a policy for every situation and an exclusion for every policy. "
-msgstr ""
+msgstr "Spousta! Jak s oblibou říká můj šéf, pro každou situaci existuje pojistka a pro každou pojistku existuje výjimka. "
 
 #: conversations/04_monarch/0407/0407_cv_insurance_agent:20
 msgctxt "conversations/04_monarch/0407/0407_cv_insurance_agent:20:DefaultText"
 msgid "We've insured unusually expressive eyebrows, outrageous statements, disastrous marriages..."
-msgstr ""
+msgstr "Pojistili jsme si neobvykle výrazné obočí, pobuřující výroky, katastrofální manželství..."
 
 #: conversations/04_monarch/0407/0407_cv_insurance_agent:21
 msgctxt "conversations/04_monarch/0407/0407_cv_insurance_agent:21:DefaultText"
 msgid "Who gets their eyebrows insured?"
-msgstr ""
+msgstr "Kdo si nechává pojistit obočí?"
 
 #: conversations/04_monarch/0407/0407_cv_insurance_agent:22
 msgctxt "conversations/04_monarch/0407/0407_cv_insurance_agent:22:DefaultText"
 msgid "Disastrous marriages?"
-msgstr ""
+msgstr "Katastrofální manželství?"
 
 #: conversations/04_monarch/0407/0407_cv_insurance_agent:23
 msgctxt "conversations/04_monarch/0407/0407_cv_insurance_agent:23:DefaultText"
 msgid "Usually character actors. Or corporate execs with menacing stares."
-msgstr ""
+msgstr "Obvykle se jedná o charakterní herce. Nebo firemní manažeři s hrozivým pohledem."
 
 #: conversations/04_monarch/0407/0407_cv_insurance_agent:24
 msgctxt "conversations/04_monarch/0407/0407_cv_insurance_agent:24:DefaultText"
 msgid "Speaking of actors, you're a dead ringer for the new Odeon Pictures star. You must get that all the time."
-msgstr ""
+msgstr "Když už mluvíme o hercích, jsi jako mrtvý z oka vypadl nové hvězdě Odeon Pictures. To se ti musí stávat pořád."
 
 #: conversations/04_monarch/0407/0407_cv_insurance_agent:25
 msgctxt "conversations/04_monarch/0407/0407_cv_insurance_agent:25:DefaultText"
 msgid "Those are mostly for top-rungers in Byzantium who have a lot of social and financial capital wrapped up in their marriage contracts."
-msgstr ""
+msgstr "Ty jsou většinou určeny pro nejvyšší vrstvy v Byzanci, které mají v manželských smlouvách zabalený velký společenský a finanční kapitál."
 
 #: conversations/04_monarch/0407/0407_cv_insurance_agent:26
 msgctxt "conversations/04_monarch/0407/0407_cv_insurance_agent:26:DefaultText"
 msgid "There's one for your beloved eloping with your sibling, your beloved eloping with THEIR sibling, scandalous rumors forcing you apart, the revelation of a secret love child..."
-msgstr ""
+msgstr "Je tu jeden pro tvou milovanou, která utíká s tvým sourozencem, tvou milovanou, která utíká s JEJICH sourozencem, skandální zvěsti, které vás nutí žít odděleně, odhalení tajné lásky..."
 
 #: conversations/04_monarch/0407/0407_cv_insurance_agent:27
 msgctxt "conversations/04_monarch/0407/0407_cv_insurance_agent:27:DefaultText"
 msgid "We try to cover every possible hazard to domestic bliss. "
-msgstr ""
+msgstr "Snažíme se pokrýt všechna možná rizika domácího blaha. "
 
 #: conversations/04_monarch/0407/0407_cv_insurance_agent:28
 msgctxt "conversations/04_monarch/0407/0407_cv_insurance_agent:28:DefaultText"
 msgid "That's all I needed to know."
-msgstr ""
+msgstr "To je vše, co jsem potřeboval vědět."
 
 #: conversations/04_monarch/0407/0407_cv_insurance_agent:29
 msgctxt "conversations/04_monarch/0407/0407_cv_insurance_agent:29:DefaultText"
 msgid "One thing's for sure - you won't find better policy protection against sudden lunar implosions anywhere in Halcyon!"
-msgstr ""
+msgstr "Jedno je jisté - lepší pojistnou ochranu proti náhlým měsíčním implozím v Halcyonu nikde nenajdete!"
 
 #: conversations/04_monarch/0407/0407_cv_insurance_agent:30
 msgctxt "conversations/04_monarch/0407/0407_cv_insurance_agent:30:DefaultText"
 msgid "Of course no one remembers me for the marauders I've killed or the bits I've stolen. Typical."
-msgstr ""
+msgstr "Samozřejmě si mě nikdo nepamatuje kvůli nájezdníkům, které jsem zabil, nebo kouskům, které jsem ukradl. Typické."
 
 #: conversations/04_monarch/0407/0407_cv_insurance_agent:35
 msgctxt "conversations/04_monarch/0407/0407_cv_insurance_agent:35:DefaultText"
 msgid "Furthermore, the claim spurred a whole line of fashion-related policies. It's become a very lucrative market."
-msgstr ""
+msgstr "Kromě toho toto tvrzení podnítilo vznik celé řady politik souvisejících s módou. Stala se velmi lukrativním trhem."
 
 #: conversations/04_monarch/0407/0407_cv_insurance_agent:36
 msgctxt "conversations/04_monarch/0407/0407_cv_insurance_agent:36:DefaultText"
 msgid "So how would I amend that claim?"
-msgstr ""
+msgstr "Jak bych tedy toto tvrzení změnil?"
 
 #: conversations/04_monarch/0407/0407_cv_insurance_agent:37
 msgctxt "conversations/04_monarch/0407/0407_cv_insurance_agent:37:DefaultText"
 msgid "You can't, of course! Only Ms. Fenhill can assign her beneficiaries, and she's dead. "
-msgstr ""
+msgstr "To samozřejmě nemůžete! Pouze paní Fenhillová může přidělit své příjemce, a ta je mrtvá. "
 
 #: conversations/04_monarch/0407/0407_cv_insurance_agent:38
 msgctxt "conversations/04_monarch/0407/0407_cv_insurance_agent:38:DefaultText"
 msgid "Let's stay on topic. I just want to change her beneficiary."
-msgstr ""
+msgstr "Držme se tématu. Chci jen změnit její příjemce."
 
 #: conversations/04_monarch/0407/0407_cv_insurance_agent:39
 msgctxt "conversations/04_monarch/0407/0407_cv_insurance_agent:39:DefaultText"
 msgid "If we let every friend, relative, and acquaintance change a policy like that, people would do it all the time! Imagine the paperwork."
-msgstr ""
+msgstr "Kdybychom nechali každého přítele, příbuzného a známého změnit takovou politiku, lidé by to dělali pořád! Představte si to papírování."
 
 #: conversations/04_monarch/0407/0407_cv_insurance_agent:40
 msgctxt "conversations/04_monarch/0407/0407_cv_insurance_agent:40:DefaultText"
 msgid "Marilyn Fenhill isn't dead."
-msgstr ""
+msgstr "Marilyn Fenhillová není mrtvá."
 
 #: conversations/04_monarch/0407/0407_cv_insurance_agent:41
 msgctxt "conversations/04_monarch/0407/0407_cv_insurance_agent:41:DefaultText"
 msgid "Of course she is! The paperwork says so."
-msgstr ""
+msgstr "Samozřejmě, že je! V papírech je to napsáno."
 
 #: conversations/04_monarch/0407/0407_cv_insurance_agent:42
 msgctxt "conversations/04_monarch/0407/0407_cv_insurance_agent:42:DefaultText"
 msgid "I like to think she's dead in spirit, but technically, legally, and regretfully, I'm still Marilyn Fenhill."
-msgstr ""
+msgstr "Ráda si myslím, že je mrtvá duchem, ale technicky, právně a bohužel jsem stále Marilyn Fenhillová."
 
 #: conversations/04_monarch/0407/0407_cv_insurance_agent:43
 msgctxt "conversations/04_monarch/0407/0407_cv_insurance_agent:43:DefaultText"
 msgid "That's impossible. By all accounts, she was an elegant and classy woman with impossibly fine bone structure. That couldn't possibly be you."
-msgstr ""
+msgstr "To je nemožné. Podle všeho to byla elegantní a noblesní žena s neuvěřitelně jemnou stavbou kostí. To nemůžeš být ty."
 
 #: conversations/04_monarch/0407/0407_cv_insurance_agent:44
 msgctxt "conversations/04_monarch/0407/0407_cv_insurance_agent:44:DefaultText"
 msgid "That's gotta be the nicest thing anyone's said to me in a long while."
-msgstr ""
+msgstr "To musí být ta nejhezčí věc, kterou mi někdo za poslední dobu řekl."
 
 #: conversations/04_monarch/0407/0407_cv_insurance_agent:45
 msgctxt "conversations/04_monarch/0407/0407_cv_insurance_agent:45:DefaultText"
 msgid "Okay, but... how would I change it?"
-msgstr ""
+msgstr "Dobře, ale... jak bych to změnil?"
 
 #: conversations/04_monarch/0407/0407_cv_insurance_agent:46
 msgctxt "conversations/04_monarch/0407/0407_cv_insurance_agent:46:DefaultText"
 msgid "Oh, you mean hypothetically! "
-msgstr ""
+msgstr "Aha, myslíte hypoteticky! "
 
 #: conversations/04_monarch/0407/0407_cv_insurance_agent:47
 msgctxt "conversations/04_monarch/0407/0407_cv_insurance_agent:47:DefaultText"
 msgid "<Wink> Right."
-msgstr ""
+msgstr "<Mrk> Správně."
 
 #: conversations/04_monarch/0407/0407_cv_insurance_agent:48
 msgctxt "conversations/04_monarch/0407/0407_cv_insurance_agent:48:DefaultText"
 msgid "I think you have something in your eye. Perhaps I can interest you in our ocular abnormality coverage."
-msgstr ""
+msgstr "Myslím, že máš něco v oku. Možná bych vás mohl zaujmout v našem zpravodajství o očních abnormalitách."
 
 #: conversations/04_monarch/0407/0407_cv_insurance_agent:49
 msgctxt "conversations/04_monarch/0407/0407_cv_insurance_agent:49:DefaultText"
 msgid "I've got <oeiglobal>Bribe_Amount</oeiglobal> bits here that say you can do it."
-msgstr ""
+msgstr "Mám zde <oeiglobal>Bribe_Amount</oeiglobal> bity, které říkají, že to můžete udělat."
 
 #: conversations/04_monarch/0407/0407_cv_insurance_agent:50
 msgctxt "conversations/04_monarch/0407/0407_cv_insurance_agent:50:DefaultText"
 msgid "I'm forbidden from accepting bribes, no matter how tempting."
-msgstr ""
+msgstr "Mám zakázáno přijímat úplatky, ať jsou jakkoli lákavé."
 
 #: conversations/04_monarch/0407/0407_cv_insurance_agent:51
 msgctxt "conversations/04_monarch/0407/0407_cv_insurance_agent:51:DefaultText"
 msgid "You'll do this or you'll be filing your own claim."
-msgstr ""
+msgstr "Buď to uděláte, nebo budete podávat vlastní žalobu."
 
 #: conversations/04_monarch/0407/0407_cv_insurance_agent:54
 msgctxt "conversations/04_monarch/0407/0407_cv_insurance_agent:54:DefaultText"
 msgid "Please, my policy only covers paper cuts and wrist strain!"
-msgstr ""
+msgstr "Prosím, moje pojistka se vztahuje pouze na pořezání papírem a namožené zápěstí!"
 
 #: conversations/04_monarch/0407/0407_cv_insurance_agent:55
 msgctxt "conversations/04_monarch/0407/0407_cv_insurance_agent:55:DefaultText"
 msgid "Forget it."
-msgstr ""
+msgstr "Zapomeňte na to."
 
 #: conversations/04_monarch/0407/0407_cv_insurance_agent:56
 msgctxt "conversations/04_monarch/0407/0407_cv_insurance_agent:56:DefaultText"
 msgid "That's for the best."
-msgstr ""
+msgstr "To je to nejlepší."
 
 #: conversations/04_monarch/0407/0407_cv_insurance_agent:57
 msgctxt "conversations/04_monarch/0407/0407_cv_insurance_agent:57:DefaultText"
 msgid "I'll need the name of the new beneficiary."
-msgstr ""
+msgstr "Budu potřebovat jméno nového příjemce."
 
 #: conversations/04_monarch/0407/0407_cv_insurance_agent:58
 msgctxt "conversations/04_monarch/0407/0407_cv_insurance_agent:58:DefaultText"
 msgid "Um... Ellie Fenhill."
-msgstr ""
+msgstr "Ellie Fenhillová."
 
 #: conversations/04_monarch/0407/0407_cv_insurance_agent:59
 msgctxt "conversations/04_monarch/0407/0407_cv_insurance_agent:59:DefaultText"
 msgid "Ellie Fenhill."
-msgstr ""
+msgstr "Ellie Fenhillová."
 
 #: conversations/04_monarch/0407/0407_cv_insurance_agent:60
 msgctxt "conversations/04_monarch/0407/0407_cv_insurance_agent:60:DefaultText"
 msgid "Nellie Penmill."
-msgstr ""
+msgstr "Nellie Penmillová."
 
 #: conversations/04_monarch/0407/0407_cv_insurance_agent:61
 msgctxt "conversations/04_monarch/0407/0407_cv_insurance_agent:61:DefaultText"
 msgid "Why don't you just pick something that sounds good."
-msgstr ""
+msgstr "Proč si prostě nevybereš něco, co zní dobře."
 
 #: conversations/04_monarch/0407/0407_cv_insurance_agent:62
 msgctxt "conversations/04_monarch/0407/0407_cv_insurance_agent:62:DefaultText"
 msgid "Berenice Buttersworth it is."
-msgstr ""
+msgstr "Je to Berenice Buttersworthová."
 
 #: conversations/04_monarch/0407/0407_cv_insurance_agent:63
 msgctxt "conversations/04_monarch/0407/0407_cv_insurance_agent:63:DefaultText"
 msgid "If you say so."
-msgstr ""
+msgstr "Když to říkáte."
 
 #: conversations/04_monarch/0407/0407_cv_insurance_agent:64
 msgctxt "conversations/04_monarch/0407/0407_cv_insurance_agent:64:DefaultText"
 msgid "I'm obligated to inform you that our coverage does not extend to incidents deemed to result from negligence, criminal activity, or dullness of mind."
-msgstr ""
+msgstr "Jsem povinen vás informovat, že naše pojištění se nevztahuje na události, které jsou považovány za důsledek nedbalosti, trestné činnosti nebo duševní tuposti."
 
 #: conversations/04_monarch/0407/0407_cv_insurance_agent:65
 msgctxt "conversations/04_monarch/0407/0407_cv_insurance_agent:65:DefaultText"
 msgid "Duly noted."
-msgstr ""
+msgstr "Řádně zaznamenáno."
 
 #: conversations/04_monarch/0407/0407_cv_insurance_agent:66
 msgctxt "conversations/04_monarch/0407/0407_cv_insurance_agent:66:DefaultText"
 msgid "\"Dullness of mind?\""
-msgstr ""
+msgstr "\"Otupělost mysli?\""
 
 #: conversations/04_monarch/0407/0407_cv_insurance_agent:69
 msgctxt "conversations/04_monarch/0407/0407_cv_insurance_agent:69:DefaultText"
 msgid "Hey, who's she callin' stupid?"
-msgstr ""
+msgstr "Hej, komu říká, že je hloupý?"
 
 #: conversations/04_monarch/0407/0407_cv_insurance_agent:70
 msgctxt "conversations/04_monarch/0407/0407_cv_insurance_agent:70:DefaultText"
 msgid "Obviously too common an ailment for insurance to cover."
-msgstr ""
+msgstr "Zřejmě příliš časté onemocnění, než aby se na něj vztahovalo pojištění."
 
 #: conversations/04_monarch/0407/0407_cv_insurance_agent:72
 msgctxt "conversations/04_monarch/0407/0407_cv_insurance_agent:72:DefaultText"
 msgid "It's like they say - there's no cure for that."
-msgstr ""
+msgstr "Jak se říká - na to není lék."
 
 #: conversations/04_monarch/0407/0407_cv_insurance_agent:74
 msgctxt "conversations/04_monarch/0407/0407_cv_insurance_agent:74:DefaultText"
 msgid "Some people - but no one in this office, I assure you - might call it \"stupidity.\""
-msgstr ""
+msgstr "Někteří lidé - ale ujišťuji vás, že nikdo v této kanceláři - by to mohli nazvat \"hloupostí\"."
 
 #: conversations/04_monarch/0407/0407_cv_insurance_agent:75
 msgctxt "conversations/04_monarch/0407/0407_cv_insurance_agent:75:DefaultText"
 msgid "That sounds like a great deal."
-msgstr ""
+msgstr "To zní jako skvělá nabídka."
 
 #: conversations/04_monarch/0407/0407_cv_insurance_agent:76
 msgctxt "conversations/04_monarch/0407/0407_cv_insurance_agent:76:DefaultText"
 msgid "So! What kind of insurance package can I interest you in? We're running a special on dismemberment policies - buy one, get one half off!"
-msgstr ""
+msgstr "Jaký balíček pojištění vás může zajímat? Právě probíhá speciální akce na pojistky pro případ rozpadu rodiny - kupte jednu, získáte poloviční slevu!"
 
 #: conversations/04_monarch/0407/0407_cv_insurance_agent:77
 msgctxt "conversations/04_monarch/0407/0407_cv_insurance_agent:77:DefaultText"
 msgid "Note that all of your fragments must be recovered and must be smaller than a standard bit cartridge for the payouts to kick in."
-msgstr ""
+msgstr "Všimněte si, že všechny fragmenty musí být obnoveny a musí být menší než standardní bitová kazeta, aby se výplata projevila."
 
 #: conversations/04_monarch/0407/0407_cv_insurance_agent:79
 msgctxt "conversations/04_monarch/0407/0407_cv_insurance_agent:79:DefaultText"
 msgid "Well, well! Aren't you the very picture of good health and sound decision-making!"
-msgstr ""
+msgstr "No, no! Nejste vy sám obrazem dobrého zdraví a správného rozhodování!"
 
 #: conversations/04_monarch/0407/0407_cv_insurance_agent:80
 msgctxt "conversations/04_monarch/0407/0407_cv_insurance_agent:80:DefaultText"
 msgid "However, we can't make good decisions all the time. Consider \"whoopsie-daisy\" coverage."
-msgstr ""
+msgstr "Nemůžeme se však vždy rozhodovat správně. Vezměme v úvahu pokrytí \"whoopsie-daisy\"."
 
 #: conversations/04_monarch/0407/0407_cv_insurance_agent:81
 msgctxt "conversations/04_monarch/0407/0407_cv_insurance_agent:81:DefaultText"
 msgid "Please note that to make a claim under this policy, you must describe your error in detail before a panel of relatives over the age of sixty-five."
-msgstr ""
+msgstr "Vezměte prosím na vědomí, že pro uplatnění nároku na pojistné plnění z této pojistné smlouvy musíte svou chybu podrobně popsat před komisí příbuzných starších pětašedesáti let."
 
 #: conversations/04_monarch/0407/0407_cv_insurance_agent:82
 msgctxt "conversations/04_monarch/0407/0407_cv_insurance_agent:82:DefaultText"
 msgid "Oh? What else can you tell me?"
-msgstr ""
+msgstr "Co mi ještě můžete říct?"
 
 #: conversations/04_monarch/0407/0407_cv_insurance_agent:83
 msgctxt "conversations/04_monarch/0407/0407_cv_insurance_agent:83:DefaultText"
 msgid "It sure is!"
-msgstr ""
+msgstr "Určitě je!"
 
 #: conversations/04_monarch/0407/0407_cv_insurance_agent:84
 msgctxt "conversations/04_monarch/0407/0407_cv_insurance_agent:84:DefaultText"
 msgid "You must be back for our \"Act of the Architect\" policy. "
-msgstr ""
+msgstr "Musíte se vrátit k naší politice \"Act of the Architect\". "
 
 #: conversations/04_monarch/0407/0407_cv_insurance_agent:85
 msgctxt "conversations/04_monarch/0407/0407_cv_insurance_agent:85:DefaultText"
 msgid "Be advised that any claims submitted under this policy must include actual proof of an actual deity as well as their complicity in your personal misfortune. "
-msgstr ""
+msgstr "Upozorňujeme, že veškeré nároky uplatněné v rámci této pojistné smlouvy musí obsahovat skutečný důkaz o existenci skutečného božstva a jeho spoluúčasti na vašem osobním neštěstí. "
 
 #: conversations/04_monarch/0407/0407_cv_insurance_agent:86
 msgctxt "conversations/04_monarch/0407/0407_cv_insurance_agent:86:DefaultText"
 msgid "That claim was airtight. Our best investigators couldn't find an exclusion for that one. "
-msgstr ""
+msgstr "Toto tvrzení bylo neprůstřelné. Naši nejlepší vyšetřovatelé pro něj nenašli žádnou výjimku. "
 
 #: conversations/04_monarch/0407/0407_cv_insurance_agent:87
 msgctxt "conversations/04_monarch/0407/0407_cv_insurance_agent:87:DefaultText"
 msgid "Well, HYPOTHETICALLY you'd access the terminal in the back room - that contains data on all our policies."
-msgstr ""
+msgstr "HYPOTETICKY byste měli přístup k terminálu v zadní místnosti - ten obsahuje údaje o všech našich politikách."
 
 #: conversations/04_monarch/0407/0407_cv_insurance_agent:88
 msgctxt "conversations/04_monarch/0407/0407_cv_insurance_agent:88:DefaultText"
 msgid "And you'd THEORETICALLY add the beneficiary of your choice."
-msgstr ""
+msgstr "A teoreticky byste přidali příjemce podle svého výběru."
 
 #: conversations/04_monarch/0407/0407_cv_insurance_agent:89
 msgctxt "conversations/04_monarch/0407/0407_cv_insurance_agent:89:DefaultText"
 msgid "But you wouldn't actually do that, of course. That would be fraud!"
-msgstr ""
+msgstr "Ale ve skutečnosti byste to samozřejmě neudělali. To by byl podvod!"
 
 #: conversations/04_monarch/0407/0407_cv_insurance_agent:90
 msgctxt "conversations/04_monarch/0407/0407_cv_insurance_agent:90:DefaultText"
 msgid "I'm afraid I still can't help you."
-msgstr ""
+msgstr "Obávám se, že vám stále nemohu pomoci."
 
 #: conversations/04_monarch/0407/0407_cv_insurance_agent:91
 msgctxt "conversations/04_monarch/0407/0407_cv_insurance_agent:91:DefaultText"
 msgid "Very well. I'll do it, but then you've got to go. Confrontations like this will raise my premiums. "
-msgstr ""
+msgstr "Velmi dobře. Udělám to, ale pak musíš jít. Konfrontace jako tato mi zvýší pojistné. "
 
 #: conversations/04_monarch/0407/0407_cv_insurance_agent:99
 msgctxt "conversations/04_monarch/0407/0407_cv_insurance_agent:99:DefaultText"
 msgid "Look at it as a fine that I'm paying in advance."
-msgstr ""
+msgstr "Dívejte se na to jako na pokutu, kterou platím předem."
 
 #: conversations/04_monarch/0407/0407_cv_insurance_agent:101
 msgctxt "conversations/04_monarch/0407/0407_cv_insurance_agent:101:DefaultText"
 msgid "The employee handbook doesn't say anything about that. Very well. "
-msgstr ""
+msgstr "V příručce pro zaměstnance se o tom nic nepíše. Velmi dobře. "
 
 #: conversations/04_monarch/0407/0407_cv_insurance_agent:102
 msgctxt "conversations/04_monarch/0407/0407_cv_insurance_agent:102:DefaultText"
 msgid "I hope Ms. \"Fenhill\" enjoys her newfound prosperity."
-msgstr ""
+msgstr "Doufám, že si paní \"Fenhillová\" užívá nově nabytého blahobytu."
 
 #: conversations/04_monarch/0407/0407_cv_insurance_agent:103
 msgctxt "conversations/04_monarch/0407/0407_cv_insurance_agent:103:DefaultText"
 msgid "I hope Ms. \"Penmill\" enjoys her newfound prosperity."
-msgstr ""
+msgstr "Doufám, že si paní \"Penmill\" užívá nově nabytého blahobytu."
 
 #: conversations/04_monarch/0407/0407_cv_insurance_agent:104
 msgctxt "conversations/04_monarch/0407/0407_cv_insurance_agent:104:DefaultText"
 msgid "I hope Ms. \"Buttersworth\" enjoys her newfound prosperity."
-msgstr ""
+msgstr "Doufám, že si paní \"Buttersworthová\" užívá nově nabytého blahobytu."
 
 #: conversations/04_monarch/0407/0407_cv_insurance_agent:105
 msgctxt "conversations/04_monarch/0407/0407_cv_insurance_agent:105:DefaultText"
 msgid "Are you serious?"
-msgstr ""
+msgstr "To myslíte vážně?"
 
 #: conversations/04_monarch/0407/0407_cv_insurance_agent:106
 msgctxt "conversations/04_monarch/0407/0407_cv_insurance_agent:106:DefaultText"
 msgid "Well, we interviewed the parents extensively. They had plenty of awkward childhood stories that illustrated their daughter's clumsiness and capriciousness."
-msgstr ""
+msgstr "S rodiči jsme vedli rozsáhlé rozhovory. Měli spoustu trapných historek z dětství, které dokreslovaly nešikovnost a rozmarnost jejich dcery."
 
 #: conversations/04_monarch/0407/0407_cv_insurance_agent:107
 msgctxt "conversations/04_monarch/0407/0407_cv_insurance_agent:107:DefaultText"
 msgid "Hey, those are entirely made up."
-msgstr ""
+msgstr "Hej, ty jsou zcela vymyšlené."
 
 #: conversations/04_monarch/0407/0407_cv_insurance_agent:109
 msgctxt "conversations/04_monarch/0407/0407_cv_insurance_agent:109:DefaultText"
 msgid "Who would get an outrageous statement insured?"
-msgstr ""
+msgstr "Kdo by si nechal pojistit nehorázný výrok?"
 
 #: conversations/04_monarch/0407/0407_cv_insurance_agent:110
 msgctxt "conversations/04_monarch/0407/0407_cv_insurance_agent:110:DefaultText"
 msgid "That policy is almost exclusively for our corporate clientèle. "
-msgstr ""
+msgstr "Tato politika je určena téměř výhradně pro naši firemní klientelu. "
 
 #: conversations/04_monarch/0407/0407_cv_insurance_agent:111
 msgctxt "conversations/04_monarch/0407/0407_cv_insurance_agent:111:DefaultText"
 msgid "In the unlikely event they make a claim about a product that turns out to be less than accurate, they need some kind of protection against the damage to their sales and reputation."
-msgstr ""
+msgstr "V případě, že by se ukázalo, že jejich tvrzení o výrobku není přesné, potřebují nějakou ochranu proti poškození prodeje a pověsti."
 
 #: conversations/04_monarch/0407/0407_cv_insurance_agent:112
 msgctxt "conversations/04_monarch/0407/0407_cv_insurance_agent:112:DefaultText"
 msgid "I won't tell."
-msgstr ""
+msgstr "Neřeknu to."
 
 #: conversations/04_monarch/0407/0407_cv_insurance_agent:113
 msgctxt "conversations/04_monarch/0407/0407_cv_insurance_agent:113:DefaultText"
 msgid "Are you kidding? You're in the middle of Fallbrook."
-msgstr ""
+msgstr "Děláte si legraci? Jste uprostřed Fallbrooku."
 
 #: conversations/04_monarch/0407/0407_cv_insurance_agent:114
 msgctxt "conversations/04_monarch/0407/0407_cv_insurance_agent:114:DefaultText"
 msgid "Very well... but just this once."
-msgstr ""
+msgstr "Dobře... ale tentokrát."
 
 #: conversations/04_monarch/0407/0407_cv_insurance_agent:115
 msgctxt "conversations/04_monarch/0407/0407_cv_insurance_agent:115:DefaultText"
 msgid "You have to do at least ten years before you're eligible for company \"Graft and Kickback\" benefits."
-msgstr ""
+msgstr "Musíte odpracovat alespoň deset let, než získáte nárok na firemní benefity \"Graft and Kickback\"."
 
 #: conversations/04_monarch/0407/0407_cv_insurance_agent:116
 msgctxt "conversations/04_monarch/0407/0407_cv_insurance_agent:116:DefaultText"
 msgid "It's just that... I'm still too junior for bribes."
-msgstr ""
+msgstr "Jde jen o to, že... Na úplatky jsem ještě příliš mladá."
 
 #: conversations/04_monarch/0407/0407_cv_insurance_agent:117
 msgctxt "conversations/04_monarch/0407/0407_cv_insurance_agent:117:DefaultText"
 msgid "Why is your office on Monarch?"
-msgstr ""
+msgstr "Proč je vaše kancelář na Monarchu?"
 
 #: conversations/04_monarch/0407/0407_cv_insurance_agent:118
 msgctxt "conversations/04_monarch/0407/0407_cv_insurance_agent:118:DefaultText"
 msgid "We're not on Monarch. For all practical and tax-related purposes, this office is an official enclave of Byzantium."
-msgstr ""
+msgstr "Nejsme na Monarchu. Pro všechny praktické a daňové účely je tento úřad oficiální enklávou Byzance."
 
 #: conversations/04_monarch/0407/0407_cv_insurance_agent:119
 msgctxt "conversations/04_monarch/0407/0407_cv_insurance_agent:119:DefaultText"
 msgid "If you say so."
-msgstr ""
+msgstr "Když to říkáte."
 
 #: conversations/04_monarch/0407/0407_cv_insurance_agent:120
 msgctxt "conversations/04_monarch/0407/0407_cv_insurance_agent:120:DefaultText"
 msgid "Huh? Why?"
-msgstr ""
+msgstr "Cože? Proč?"
 
 #: conversations/04_monarch/0407/0407_cv_insurance_agent:121
 msgctxt "conversations/04_monarch/0407/0407_cv_insurance_agent:121:DefaultText"
 msgid "Oh, it's certainly not about what I say. That's all down to our legal team and our CFO."
-msgstr ""
+msgstr "Rozhodně nejde o to, co říkám já. To vše je na našem právním týmu a finančním řediteli."
 
 #: conversations/04_monarch/0407/0407_cv_insurance_agent:122
 msgctxt "conversations/04_monarch/0407/0407_cv_insurance_agent:122:DefaultText"
 msgid "Legally speaking, corporations are not allowed to operate on Monarch. But financially speaking, there are certain costs to running a business from within Byzantium's walls."
-msgstr ""
+msgstr "Z právního hlediska není společnostem povoleno působit na platformě Monarch. Z finančního hlediska však provozování podniku uvnitř byzantských hradeb přináší určité náklady."
 
 #: conversations/04_monarch/0407/0407_cv_insurance_agent:123
 msgctxt "conversations/04_monarch/0407/0407_cv_insurance_agent:123:DefaultText"
 msgid "So while our official address is in the city - and while our office here is technically an extension of that address - we've found it more expedient to conduct our key operations here."
-msgstr ""
+msgstr "Ačkoli je tedy naše oficiální adresa ve městě a naše kancelář zde je technicky vzato rozšířením této adresy, zjistili jsme, že je vhodnější provádět naše klíčové operace zde."
 
 #: conversations/04_monarch/0407/0407_cv_insurance_agent:124
 msgctxt "conversations/04_monarch/0407/0407_cv_insurance_agent:124:DefaultText"
 msgid "So we can... what's the phrase? \"Pass savings to the consumer,\" of course."
-msgstr ""
+msgstr "Takže můžeme... jak se to říká? \"Přenést úspory na spotřebitele\", samozřejmě."
 
 #: conversations/04_monarch/0407/0407_cv_insurance_agent:125
 msgctxt "conversations/04_monarch/0407/0407_cv_insurance_agent:125:DefaultText"
 msgid "This is the company that manages my life insurance plan! Who knew they had an office in Fallbrook? "
-msgstr ""
+msgstr "Tato společnost spravuje mé životní pojištění! Kdo by řekl, že mají kancelář ve Fallbrooku? "
 
 #: conversations/04_monarch/0407/0407_cv_insurance_agent:126
 msgctxt "conversations/04_monarch/0407/0407_cv_insurance_agent:126:DefaultText"
 msgid "Hey, maybe she can help us change my beneficiaries."
-msgstr ""
+msgstr "Možná nám pomůže změnit mé příjemce."
 
 #: conversations/04_monarch/0407/0407_cv_insurance_agent:127
 msgctxt "conversations/04_monarch/0407/0407_cv_insurance_agent:127:DefaultText"
 msgid "And also note that doing so nullifies the \"privacy and dignity\" clause."
-msgstr ""
+msgstr "Všimněte si také, že se tím ruší ustanovení o \"soukromí a důstojnosti\"."
 
 #: conversations/04_monarch/0407/0407_cv_insurance_agent:128
 msgctxt "conversations/04_monarch/0407/0407_cv_insurance_agent:128:DefaultText"
 msgid "So you're dodging the authorities."
-msgstr ""
+msgstr "Takže se vyhýbáte úřadům."
 
 #: conversations/04_monarch/0407/0407_cv_insurance_agent:130
 msgctxt "conversations/04_monarch/0407/0407_cv_insurance_agent:130:DefaultText"
 msgid "We prefer to think of it as \"chasing the savings.\" Turns out that not having to pay kickbacks, fines, and rent in the most expensive city in Halcyon improves our liquidity."
-msgstr ""
+msgstr "Raději o tom přemýšlíme jako o \"honbě za úsporami\". Ukazuje se, že to, že nemusíme platit výpalné, pokuty a nájemné v nejdražším městě v Halcyonu, zlepšuje naši likviditu."
 
 #: conversations/04_monarch/0407/0407_cv_insurance_agent:131
 msgctxt "conversations/04_monarch/0407/0407_cv_insurance_agent:131:DefaultText"
 msgid "Plus, SubLight keeps this place running remarkably well. And they sure drive business our direction!"
-msgstr ""
+msgstr "Navíc SubLight udržuje toto místo v pozoruhodně dobrém stavu. A určitě řídí obchody naším směrem!"

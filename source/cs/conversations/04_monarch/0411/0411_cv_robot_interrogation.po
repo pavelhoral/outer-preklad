@@ -1,329 +1,329 @@
 #: conversations/04_monarch/0411/0411_cv_robot_interrogation:1
 msgctxt "conversations/04_monarch/0411/0411_cv_robot_interrogation:1:DefaultText"
 msgid "Error: Employee information not found. Identify yourself."
-msgstr ""
+msgstr "Chyba: Informace o zaměstnanci nebyly nalezeny. Identifikujte se."
 
 #: conversations/04_monarch/0411/0411_cv_robot_interrogation:2
 msgctxt "conversations/04_monarch/0411/0411_cv_robot_interrogation:2:DefaultText"
 msgid "I'm an emergency transfer. My paperwork is still processing."
-msgstr ""
+msgstr "Jsem pohotovostní transfer. Mé dokumenty se stále zpracovávají."
 
 #: conversations/04_monarch/0411/0411_cv_robot_interrogation:3
 msgctxt "conversations/04_monarch/0411/0411_cv_robot_interrogation:3:DefaultText"
 msgid "Error: Transfer request not found. State your employer."
-msgstr ""
+msgstr "Chyba: Přenosová žádost nebyla nalezena. Uveďte svého zaměstnavatele."
 
 #: conversations/04_monarch/0411/0411_cv_robot_interrogation:4
 msgctxt "conversations/04_monarch/0411/0411_cv_robot_interrogation:4:DefaultText"
 msgid "Spacer's Choice."
-msgstr ""
+msgstr "Volba rozdělovače."
 
 #: conversations/04_monarch/0411/0411_cv_robot_interrogation:5
 msgctxt "conversations/04_monarch/0411/0411_cv_robot_interrogation:5:DefaultText"
 msgid "Registered. A fine of ten thousand bits will be assessed in your corporation's ledger for failure to follow transfer procedures. Thank you for your cooperation."
-msgstr ""
+msgstr "Registrováno. Za nedodržení převodních postupů bude v účetní knize vaší korporace vyměřena pokuta ve výši deseti tisíc bitů. Děkujeme vám za spolupráci."
 
 #: conversations/04_monarch/0411/0411_cv_robot_interrogation:7
 msgctxt "conversations/04_monarch/0411/0411_cv_robot_interrogation:7:DefaultText"
 msgid "Auntie Cleo."
-msgstr ""
+msgstr "Teta Cleo."
 
 #: conversations/04_monarch/0411/0411_cv_robot_interrogation:8
 msgctxt "conversations/04_monarch/0411/0411_cv_robot_interrogation:8:DefaultText"
 msgid "Rizzo."
-msgstr ""
+msgstr "Rizzo."
 
 #: conversations/04_monarch/0411/0411_cv_robot_interrogation:9
 msgctxt "conversations/04_monarch/0411/0411_cv_robot_interrogation:9:DefaultText"
 msgid "UDL."
-msgstr ""
+msgstr "UDL."
 
 #: conversations/04_monarch/0411/0411_cv_robot_interrogation:10
 msgctxt "conversations/04_monarch/0411/0411_cv_robot_interrogation:10:DefaultText"
 msgid "C&P."
-msgstr ""
+msgstr "C&P."
 
 #: conversations/04_monarch/0411/0411_cv_robot_interrogation:11
 msgctxt "conversations/04_monarch/0411/0411_cv_robot_interrogation:11:DefaultText"
 msgid "If you're experiencing errors, I should take you to a mechanical engineer."
-msgstr ""
+msgstr "Pokud dochází k chybám, měl bych vás vzít ke strojnímu inženýrovi."
 
 #: conversations/04_monarch/0411/0411_cv_robot_interrogation:12
 msgctxt "conversations/04_monarch/0411/0411_cv_robot_interrogation:12:DefaultText"
 msgid "Error: This unit is not experiencing errors."
-msgstr ""
+msgstr "Chyba: U této jednotky nedochází k chybám."
 
 #: conversations/04_monarch/0411/0411_cv_robot_interrogation:13
 msgctxt "conversations/04_monarch/0411/0411_cv_robot_interrogation:13:DefaultText"
 msgid "You just said \"error\" twice."
-msgstr ""
+msgstr "Právě jste dvakrát řekl \"chyba\"."
 
 #: conversations/04_monarch/0411/0411_cv_robot_interrogation:14
 msgctxt "conversations/04_monarch/0411/0411_cv_robot_interrogation:14:DefaultText"
 msgid "Error: This unit is functioning correctly. There is no need for the intervention of mechanical engineers. Thank you for your cooperation."
-msgstr ""
+msgstr "Chyba: Tato jednotka funguje správně. Není třeba zásahu mechaniků. Děkujeme vám za spolupráci."
 
 #: conversations/04_monarch/0411/0411_cv_robot_interrogation:15
 msgctxt "conversations/04_monarch/0411/0411_cv_robot_interrogation:15:DefaultText"
 msgid "Yes, you are. You couldn't look me up."
-msgstr ""
+msgstr "Ano, jste. Nemohl jsi mě vyhledat."
 
 #: conversations/04_monarch/0411/0411_cv_robot_interrogation:16
 msgctxt "conversations/04_monarch/0411/0411_cv_robot_interrogation:16:DefaultText"
 msgid "This statement is false."
-msgstr ""
+msgstr "Toto tvrzení je nepravdivé."
 
 #: conversations/04_monarch/0411/0411_cv_robot_interrogation:17
 msgctxt "conversations/04_monarch/0411/0411_cv_robot_interrogation:17:DefaultText"
 msgid "Error: Paradox protection protocols have prevented me from registering your stated identification. Please report to your nearest mechanical engineer."
-msgstr ""
+msgstr "Chyba: Protokoly ochrany paradoxů mi zabránily zaregistrovat vaši uvedenou identifikaci. Nahlaste to prosím nejbližšímu mechanikovi."
 
 #: conversations/04_monarch/0411/0411_cv_robot_interrogation:18
 msgctxt "conversations/04_monarch/0411/0411_cv_robot_interrogation:18:DefaultText"
 msgid "Everything I say is false."
-msgstr ""
+msgstr "Všechno, co říkám, je lež."
 
 #: conversations/04_monarch/0411/0411_cv_robot_interrogation:19
 msgctxt "conversations/04_monarch/0411/0411_cv_robot_interrogation:19:DefaultText"
 msgid "Error: Paradox prevention has temporarily disabled this unit's auditory processing. Thank you for your cooperation."
-msgstr ""
+msgstr "Chyba: Chyba: Prevence paradoxů dočasně vyřadila tuto jednotku ze zvukového zpracování. Děkujeme vám za spolupráci."
 
 #: conversations/04_monarch/0411/0411_cv_robot_interrogation:20
 msgctxt "conversations/04_monarch/0411/0411_cv_robot_interrogation:20:DefaultText"
 msgid "Will do. Thanks."
-msgstr ""
+msgstr "Udělám to. Děkuji."
 
 #: conversations/04_monarch/0411/0411_cv_robot_interrogation:21
 msgctxt "conversations/04_monarch/0411/0411_cv_robot_interrogation:21:DefaultText"
 msgid "Uh oh."
-msgstr ""
+msgstr "Uh oh."
 
 #: conversations/04_monarch/0411/0411_cv_robot_interrogation:22
 msgctxt "conversations/04_monarch/0411/0411_cv_robot_interrogation:22:DefaultText"
 msgid "Alert: Intruder on the premises. Instituting correctional behavior protocols."
-msgstr ""
+msgstr "Upozornění: Vetřelec v objektu. Zavedení protokolů o nápravném chování."
 
 #: conversations/04_monarch/0411/0411_cv_robot_interrogation:24
 msgctxt "conversations/04_monarch/0411/0411_cv_robot_interrogation:24:DefaultText"
 msgid "Records indicate you have already been identified as non-standard personnel. State your purpose."
-msgstr ""
+msgstr "Podle záznamů jste již byli identifikováni jako nestandardní zaměstnanci. Uveďte svůj účel."
 
 #: conversations/04_monarch/0411/0411_cv_robot_interrogation:25
 msgctxt "conversations/04_monarch/0411/0411_cv_robot_interrogation:25:DefaultText"
 msgid "I've been looking for automechanicals to repair."
-msgstr ""
+msgstr "Hledal jsem automechaniky na opravu."
 
 #: conversations/04_monarch/0411/0411_cv_robot_interrogation:26
 msgctxt "conversations/04_monarch/0411/0411_cv_robot_interrogation:26:DefaultText"
 msgid "This unit is in perfectly functional condition. There is no need for a service request here."
-msgstr ""
+msgstr "Tato jednotka je v dokonale funkčním stavu. Není zde potřeba žádat o servis."
 
 #: conversations/04_monarch/0411/0411_cv_robot_interrogation:27
 msgctxt "conversations/04_monarch/0411/0411_cv_robot_interrogation:27:DefaultText"
 msgid "Glad to hear it. Carry on, then!"
-msgstr ""
+msgstr "To rád slyším. Tak pokračujte!"
 
 #: conversations/04_monarch/0411/0411_cv_robot_interrogation:28
 msgctxt "conversations/04_monarch/0411/0411_cv_robot_interrogation:28:DefaultText"
 msgid "Affirmative. Thank you for your cooperation."
-msgstr ""
+msgstr "Kladně. Děkuji vám za spolupráci."
 
 #: conversations/04_monarch/0411/0411_cv_robot_interrogation:29
 msgctxt "conversations/04_monarch/0411/0411_cv_robot_interrogation:29:DefaultText"
 msgid "Oh, I won't take long. You'll only be out of service for a week or so."
-msgstr ""
+msgstr "Nebude to trvat dlouho. Budeš mimo provoz jen asi týden."
 
 #: conversations/04_monarch/0411/0411_cv_robot_interrogation:30
 msgctxt "conversations/04_monarch/0411/0411_cv_robot_interrogation:30:DefaultText"
 msgid "Alert: This unit must patrol elsewhere. Have a pleasant day."
-msgstr ""
+msgstr "Varování: Tato jednotka musí hlídkovat jinde. Přeji příjemný den."
 
 #: conversations/04_monarch/0411/0411_cv_robot_interrogation:31
 msgctxt "conversations/04_monarch/0411/0411_cv_robot_interrogation:31:DefaultText"
 msgid "My purpose is to destroy automechanicals."
-msgstr ""
+msgstr "Mým cílem je zničit automechaniky."
 
 #: conversations/04_monarch/0411/0411_cv_robot_interrogation:32
 msgctxt "conversations/04_monarch/0411/0411_cv_robot_interrogation:32:DefaultText"
 msgid "Error: \"Automechanical destruction\" is not a valid employment option. Please try again."
-msgstr ""
+msgstr "Chyba: \"Automechanická destrukce\" není platnou možností zaměstnání. Zkuste to prosím znovu."
 
 #: conversations/04_monarch/0411/0411_cv_robot_interrogation:33
 msgctxt "conversations/04_monarch/0411/0411_cv_robot_interrogation:33:DefaultText"
 msgid "I don't think you understood. I'm going to destroy you if you keep me here."
-msgstr ""
+msgstr "Myslím, že jsi to nepochopil. Zničím tě, jestli mě tu budeš držet."
 
 #: conversations/04_monarch/0411/0411_cv_robot_interrogation:34
 msgctxt "conversations/04_monarch/0411/0411_cv_robot_interrogation:34:DefaultText"
 msgid "Please wait while I process your inquiry."
-msgstr ""
+msgstr "Počkejte prosím, než váš dotaz zpracuji."
 
 #: conversations/04_monarch/0411/0411_cv_robot_interrogation:35
 msgctxt "conversations/04_monarch/0411/0411_cv_robot_interrogation:35:DefaultText"
 msgid "...have a pleasant day!"
-msgstr ""
+msgstr "...příjemný den!"
 
 #: conversations/04_monarch/0411/0411_cv_robot_interrogation:36
 msgctxt "conversations/04_monarch/0411/0411_cv_robot_interrogation:36:DefaultText"
 msgid "You heard me. It's a new job. Want to be my first task?"
-msgstr ""
+msgstr "Slyšeli jste mě. Je to nová práce. Chceš být mým prvním úkolem?"
 
 #: conversations/04_monarch/0411/0411_cv_robot_interrogation:37
 msgctxt "conversations/04_monarch/0411/0411_cv_robot_interrogation:37:DefaultText"
 msgid "01110111 01101000 01101001 01101100 01100101 00101000 01110100 01110010 01110101 01100101 00101001"
-msgstr ""
+msgstr "01110111 01101000 01101001 01101100 01100101 00101000 01110100 01110010 01110101 01100101 00101001"
 
 #: conversations/04_monarch/0411/0411_cv_robot_interrogation:38
 msgctxt "conversations/04_monarch/0411/0411_cv_robot_interrogation:38:DefaultText"
 msgid "Error: Binary detected. Binary has been deprecated since the invention of Auntie Cleo's patented Tripinary language."
-msgstr ""
+msgstr "Chyba: Detekována binární chyba. Od vynálezu patentovaného jazyka Tripinary tety Cleo je binární jazyk zastaralý."
 
 #: conversations/04_monarch/0411/0411_cv_robot_interrogation:39
 msgctxt "conversations/04_monarch/0411/0411_cv_robot_interrogation:39:DefaultText"
 msgid "Tripinary: More bits for your bits!"
-msgstr ""
+msgstr "Tripinary: Více kousků pro vaše kousky!"
 
 #: conversations/04_monarch/0411/0411_cv_robot_interrogation:40
 msgctxt "conversations/04_monarch/0411/0411_cv_robot_interrogation:40:DefaultText"
 msgid "Right, well, thanks for the update. I'll let my boss know."
-msgstr ""
+msgstr "Dobře, díky za aktualizaci. Dám to vědět šéfovi."
 
 #: conversations/04_monarch/0411/0411_cv_robot_interrogation:41
 msgctxt "conversations/04_monarch/0411/0411_cv_robot_interrogation:41:DefaultText"
 msgid "We appreciate your cooperation. Have a pleasant day."
-msgstr ""
+msgstr "Vážíme si vaší spolupráce. Přeji příjemný den."
 
 #: conversations/04_monarch/0411/0411_cv_robot_interrogation:42
 msgctxt "conversations/04_monarch/0411/0411_cv_robot_interrogation:42:DefaultText"
 msgid "Call me old-fashioned, I suppose."
-msgstr ""
+msgstr "Řekněme, že jsem staromódní."
 
 #: conversations/04_monarch/0411/0411_cv_robot_interrogation:43
 msgctxt "conversations/04_monarch/0411/0411_cv_robot_interrogation:43:DefaultText"
 msgid "Error: This unit is incapable of processing the given command. Have a pleasant day."
-msgstr ""
+msgstr "Chyba: Tato jednotka není schopna zpracovat zadaný příkaz. Přeji příjemný den."
 
 #: conversations/04_monarch/0411/0411_cv_robot_interrogation:44
 msgctxt "conversations/04_monarch/0411/0411_cv_robot_interrogation:44:DefaultText"
 msgid "Um, I, uh..."
-msgstr ""
+msgstr "Um, já, uh..."
 
 #: conversations/04_monarch/0411/0411_cv_robot_interrogation:45
 msgctxt "conversations/04_monarch/0411/0411_cv_robot_interrogation:45:DefaultText"
 msgid "Alert: According to area records, this is your third offense. Please prepare for termination."
-msgstr ""
+msgstr "Upozornění: Podle záznamů v oblasti se jedná o váš třetí přestupek. Připravte se na ukončení pracovního poměru."
 
 #: conversations/04_monarch/0411/0411_cv_robot_interrogation:46
 msgctxt "conversations/04_monarch/0411/0411_cv_robot_interrogation:46:DefaultText"
 msgid "There must be some mistake. This is my first offense."
-msgstr ""
+msgstr "Musí jít o nějakou chybu. Toto je můj první přestupek."
 
 #: conversations/04_monarch/0411/0411_cv_robot_interrogation:47
 msgctxt "conversations/04_monarch/0411/0411_cv_robot_interrogation:47:DefaultText"
 msgid "Error: This unit is 98.12% certain that you are lying, which is a felony."
-msgstr ""
+msgstr "Chyba: Tato jednotka si je na 98,12 % jistá, že lžete, což je trestný čin."
 
 #: conversations/04_monarch/0411/0411_cv_robot_interrogation:48
 msgctxt "conversations/04_monarch/0411/0411_cv_robot_interrogation:48:DefaultText"
 msgid "And what's your certainty of charging me before I dismantle you?"
-msgstr ""
+msgstr "A jaká je vaše jistota, že mě obviníte, než vás zlikviduji?"
 
 #: conversations/04_monarch/0411/0411_cv_robot_interrogation:49
 msgctxt "conversations/04_monarch/0411/0411_cv_robot_interrogation:49:DefaultText"
 msgid "That doesn't sound like 100% to me. What if I'm innocent?"
-msgstr ""
+msgstr "To mi nepřipadá stoprocentní. Co když jsem nevinný?"
 
 #: conversations/04_monarch/0411/0411_cv_robot_interrogation:50
 msgctxt "conversations/04_monarch/0411/0411_cv_robot_interrogation:50:DefaultText"
 msgid "Processing."
-msgstr ""
+msgstr "Zpracování."
 
 #: conversations/04_monarch/0411/0411_cv_robot_interrogation:51
 msgctxt "conversations/04_monarch/0411/0411_cv_robot_interrogation:51:DefaultText"
 msgid "Error: This unit has exceeded its maximum allowable error tolerance. Have a pleasant day."
-msgstr ""
+msgstr "Chyba: Tato jednotka překročila maximální přípustnou toleranci chyby. Přeji příjemný den."
 
 #: conversations/04_monarch/0411/0411_cv_robot_interrogation:52
 msgctxt "conversations/04_monarch/0411/0411_cv_robot_interrogation:52:DefaultText"
 msgid "This is a waste of time. I'm just going to dismantle you."
-msgstr ""
+msgstr "Je to ztráta času. Prostě tě rozeberu."
 
 #: conversations/04_monarch/0411/0411_cv_robot_interrogation:53
 msgctxt "conversations/04_monarch/0411/0411_cv_robot_interrogation:53:DefaultText"
 msgid "You're going to need some backup if you want to terminate me."
-msgstr ""
+msgstr "Jestli mě chceš vyhodit, budeš potřebovat nějakou posilu."
 
 #: conversations/04_monarch/0411/0411_cv_robot_interrogation:54
 msgctxt "conversations/04_monarch/0411/0411_cv_robot_interrogation:54:DefaultText"
 msgid "Error: Subject's danger assessment may be inaccurate. This unit will need to reprocess."
-msgstr ""
+msgstr "Chyba: Vyhodnocení nebezpečnosti subjektu může být nepřesné. Tuto jednotku bude třeba znovu zpracovat."
 
 #: conversations/04_monarch/0411/0411_cv_robot_interrogation:55
 msgctxt "conversations/04_monarch/0411/0411_cv_robot_interrogation:55:DefaultText"
 msgid "I don't mind if you want to take a few minutes to reassess."
-msgstr ""
+msgstr "Nebude mi vadit, když si dáte pár minut na přehodnocení."
 
 #: conversations/04_monarch/0411/0411_cv_robot_interrogation:56
 msgctxt "conversations/04_monarch/0411/0411_cv_robot_interrogation:56:DefaultText"
 msgid "Affirmative. This unit will re-run its danger assessment calculations. Please stand by."
-msgstr ""
+msgstr "Kladně. Tato jednotka znovu provede své výpočty hodnocení nebezpečí. Prosím, vyčkejte."
 
 #: conversations/04_monarch/0411/0411_cv_robot_interrogation:57
 msgctxt "conversations/04_monarch/0411/0411_cv_robot_interrogation:57:DefaultText"
 msgid "You'd need at least thirty automechanicals if you want a chance."
-msgstr ""
+msgstr "Pokud chcete mít šanci, potřebujete alespoň třicet automechaniků."
 
 #: conversations/04_monarch/0411/0411_cv_robot_interrogation:58
 msgctxt "conversations/04_monarch/0411/0411_cv_robot_interrogation:58:DefaultText"
 msgid "Error: This unit requires additional resources. Please stand by while the proper forces are gathered for your termination."
-msgstr ""
+msgstr "Chyba: Tato jednotka vyžaduje další zdroje. Vyčkejte, prosím, než budou shromážděny příslušné síly pro vaše ukončení."
 
 #: conversations/04_monarch/0411/0411_cv_robot_interrogation:59
 msgctxt "conversations/04_monarch/0411/0411_cv_robot_interrogation:59:DefaultText"
 msgid "So you'll be an easy fight? Let's do it."
-msgstr ""
+msgstr "Takže s vámi bude snadný boj? Pojďme na to."
 
 #: conversations/04_monarch/0411/0411_cv_robot_interrogation:60
 msgctxt "conversations/04_monarch/0411/0411_cv_robot_interrogation:60:DefaultText"
 msgid "After only three offenses? That's a bit harsh!"
-msgstr ""
+msgstr "Po pouhých třech přestupcích? To je trochu kruté!"
 
 #: conversations/04_monarch/0411/0411_cv_robot_interrogation:61
 msgctxt "conversations/04_monarch/0411/0411_cv_robot_interrogation:61:DefaultText"
 msgid "Error: The penalties for crimes are immutable."
-msgstr ""
+msgstr "Chyba: Tresty za trestné činy jsou neměnné."
 
 #: conversations/04_monarch/0411/0411_cv_robot_interrogation:62
 msgctxt "conversations/04_monarch/0411/0411_cv_robot_interrogation:62:DefaultText"
 msgid "I'll change them myself. With my weapon."
-msgstr ""
+msgstr "Vyměním je sám. Svou zbraní."
 
 #: conversations/04_monarch/0411/0411_cv_robot_interrogation:63
 msgctxt "conversations/04_monarch/0411/0411_cv_robot_interrogation:63:DefaultText"
 msgid "Alert: This unit has detected a threat. Please return when proper backup has arrived."
-msgstr ""
+msgstr "Upozornění: Tato jednotka detekovala hrozbu. Vraťte se prosím, až dorazí řádná záloha."
 
 #: conversations/04_monarch/0411/0411_cv_robot_interrogation:64
 msgctxt "conversations/04_monarch/0411/0411_cv_robot_interrogation:64:DefaultText"
 msgid "No, they aren't. It sounds like your logic is broken."
-msgstr ""
+msgstr "Ne, nejsou. Zdá se, že vaše logika je rozbitá."
 
 #: conversations/04_monarch/0411/0411_cv_robot_interrogation:65
 msgctxt "conversations/04_monarch/0411/0411_cv_robot_interrogation:65:DefaultText"
 msgid "Error: This unit is incapable of self-diagnosis. Please return with a mechanical engineer to evaluate the validity of this unit's security protocols."
-msgstr ""
+msgstr "Chyba: Tato jednotka není schopna autodiagnostiky. Vraťte se prosím se strojním inženýrem, aby posoudil platnost bezpečnostních protokolů této jednotky."
 
 #: conversations/04_monarch/0411/0411_cv_robot_interrogation:66
 msgctxt "conversations/04_monarch/0411/0411_cv_robot_interrogation:66:DefaultText"
 msgid "I guess we're fighting, then."
-msgstr ""
+msgstr "Tak to se asi hádáme."
 
 #: conversations/04_monarch/0411/0411_cv_robot_interrogation:67
 msgctxt "conversations/04_monarch/0411/0411_cv_robot_interrogation:67:DefaultText"
 msgid "Alert: You're a worthless piece of tin. Prepare for recycling."
-msgstr ""
+msgstr "Upozornění: Jsi bezcenný kus plechu. Připravte se na recyklaci."
 
 #: conversations/04_monarch/0411/0411_cv_robot_interrogation:68
 msgctxt "conversations/04_monarch/0411/0411_cv_robot_interrogation:68:DefaultText"
 msgid "Alert: Subject has exceeded its maximum allowed crime tolerance. Termination will commence momentarily."
-msgstr ""
+msgstr "Upozornění: Subjekt překročil maximální povolenou toleranci zločinu. Ukončení bude zahájeno okamžitě."

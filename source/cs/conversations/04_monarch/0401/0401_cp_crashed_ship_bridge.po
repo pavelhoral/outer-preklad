@@ -5,76 +5,76 @@ msgid "UDL RQL MkIV Gunship\r\n"
 "Ship ID: Cantankerous Canid\r\n"
 "============================\r\n"
 "Error: Captain Matsu's captain's key is active, but his life signs are no longer detected on the bridge. Logging flight hours while not present for duty is a violation of UDL policy."
-msgstr ""
+msgstr "UDL RQL MkIV Gunship ============================ ID lodi: ============================ Chyba: Na můstku již nejsou detekovány známky života kapitána Matsu. Zaznamenávání letových hodin v době nepřítomnosti ve službě je porušením pravidel UDL."
 
 #: conversations/04_monarch/0401/0401_cp_crashed_ship_bridge:2
 msgctxt "conversations/04_monarch/0401/0401_cp_crashed_ship_bridge:2:DefaultText"
 msgid "[Eject Captain Matsu's Command Key]"
-msgstr ""
+msgstr "[Vysunout příkazový klíč kapitána Matsu]"
 
 #: conversations/04_monarch/0401/0401_cp_crashed_ship_bridge:3
 msgctxt "conversations/04_monarch/0401/0401_cp_crashed_ship_bridge:3:DefaultText"
 msgid "[View Logs]"
-msgstr ""
+msgstr "[Zobrazit protokoly]"
 
 #: conversations/04_monarch/0401/0401_cp_crashed_ship_bridge:4
 msgctxt "conversations/04_monarch/0401/0401_cp_crashed_ship_bridge:4:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"
 
 #: conversations/04_monarch/0401/0401_cp_crashed_ship_bridge:5
 msgctxt "conversations/04_monarch/0401/0401_cp_crashed_ship_bridge:5:DefaultText"
 msgid "Error: Unable to access central log storage. Only the most recent entries in Captain Matsu's logs are available."
-msgstr ""
+msgstr "Chyba: Nelze získat přístup k centrálnímu úložišti protokolů. K dispozici jsou pouze nejnovější záznamy v denících kapitána Matsu."
 
 #: conversations/04_monarch/0401/0401_cp_crashed_ship_bridge:6
 msgctxt "conversations/04_monarch/0401/0401_cp_crashed_ship_bridge:6:DefaultText"
 msgid "[Captain's Log: November 12th. 2354]"
-msgstr ""
+msgstr "[Kapitánův deník: 12. listopadu 2354]"
 
 #: conversations/04_monarch/0401/0401_cp_crashed_ship_bridge:7
 msgctxt "conversations/04_monarch/0401/0401_cp_crashed_ship_bridge:7:DefaultText"
 msgid "[Captain's Log:  December 21st. 2354]"
-msgstr ""
+msgstr "[Kapitánův deník: 21. prosince 2354]"
 
 #: conversations/04_monarch/0401/0401_cp_crashed_ship_bridge:8
 msgctxt "conversations/04_monarch/0401/0401_cp_crashed_ship_bridge:8:DefaultText"
 msgid "[Captain's Log:  January 3rd, 2355]"
-msgstr ""
+msgstr "[Kapitánův deník: 3. ledna 2355]"
 
 #: conversations/04_monarch/0401/0401_cp_crashed_ship_bridge:9
 msgctxt "conversations/04_monarch/0401/0401_cp_crashed_ship_bridge:9:DefaultText"
 msgid "[Back]"
-msgstr ""
+msgstr "[Zpět]"
 
 #: conversations/04_monarch/0401/0401_cp_crashed_ship_bridge:10
 msgctxt "conversations/04_monarch/0401/0401_cp_crashed_ship_bridge:10:DefaultText"
 msgid "Another day, another ship lands on Terra One and we can't shoot 'em down.\r\n"
 "\r\n"
 "That makes... I've lost count. What's the point of being out here if we can't get some backup?"
-msgstr ""
+msgstr "Další den, další loď přistane na Terra 1 a my je nemůžeme sestřelit. To znamená, že... Už jsem to přestal počítat. Jaký má smysl být tady, když nemůžeme sehnat posily?"
 
 #: conversations/04_monarch/0401/0401_cp_crashed_ship_bridge:11
 msgctxt "conversations/04_monarch/0401/0401_cp_crashed_ship_bridge:11:DefaultText"
 msgid "How in this Law-forsaken colony is it so impossible to requisition parts? My chief engineer is barking at me to order yet another damn thing and I can't even get a response from corporate."
-msgstr ""
+msgstr "Jak je možné, že v této zákonem zapomenuté kolonii není možné zrekvírovat součástky? Můj šéfinženýr na mě štěká, abych objednal další zatracenou věc, a já nemůžu dostat ani odpověď od korporace."
 
 #: conversations/04_monarch/0401/0401_cp_crashed_ship_bridge:12
 msgctxt "conversations/04_monarch/0401/0401_cp_crashed_ship_bridge:12:DefaultText"
 msgid "CE's saying something about spare regulator bypass something something. Chikushou. I'm turning this thing toward the Groundbreaker, firing up the engines and retiring.\r\n"
 "\r\n"
 "Better to be arrested than lose power and drift out into space. I just hope this old bird can handle one last trip."
-msgstr ""
+msgstr "CE říká něco o náhradním bypassu regulátoru. Chikushou. Otáčím to směrem k Groundbreakeru, zapaluji motory a odcházím do důchodu. Lepší být zadržen, než ztratit energii a odplout do vesmíru. Jen doufám, že tenhle starý pták zvládne poslední cestu."
 
 #: conversations/04_monarch/0401/0401_cp_crashed_ship_bridge:13
 msgctxt "conversations/04_monarch/0401/0401_cp_crashed_ship_bridge:13:DefaultText"
 msgid "Command key ejected."
-msgstr ""
+msgstr "Příkazový klíč vysunut."
 
 #: conversations/04_monarch/0401/0401_cp_crashed_ship_bridge:14
 msgctxt "conversations/04_monarch/0401/0401_cp_crashed_ship_bridge:14:DefaultText"
 msgid "[Run Diagnostics]"
-msgstr ""
+msgstr "[Spustit diagnostiku]"
 
 #: conversations/04_monarch/0401/0401_cp_crashed_ship_bridge:15
 msgctxt "conversations/04_monarch/0401/0401_cp_crashed_ship_bridge:15:DefaultText"
@@ -86,22 +86,22 @@ msgid "DIAGNOSTICS REPORT\r\n"
 "Hull Integrity: Don't Ask\r\n"
 "\r\n"
 "This MkIV Gunship's operational parameters have exceeded acceptable damage ranges. The cost of any repairs necessary at your nearest UDL repair facility will be averaged amongst the crew."
-msgstr ""
+msgstr "ZPRÁVA O DIAGNOSTICE ============================ Hlavní terminál: Ovládací prvky mostu online: Motory: Offline: Integrita trupu: Technicky funkční: Provozní parametry této dělové lodi MkIV překročily přijatelné rozmezí poškození. Náklady na případnou opravu v nejbližším opravárenském zařízení UDL budou zprůměrovány mezi posádku."
 
 #: conversations/04_monarch/0401/0401_cp_crashed_ship_bridge:16
 msgctxt "conversations/04_monarch/0401/0401_cp_crashed_ship_bridge:16:DefaultText"
 msgid "[Continue]"
-msgstr ""
+msgstr "[Pokračovat]"
 
 #: conversations/04_monarch/0401/0401_cp_crashed_ship_bridge:17
 msgctxt "conversations/04_monarch/0401/0401_cp_crashed_ship_bridge:17:DefaultText"
 msgid "[Continue]"
-msgstr ""
+msgstr "[Pokračovat]"
 
 #: conversations/04_monarch/0401/0401_cp_crashed_ship_bridge:18
 msgctxt "conversations/04_monarch/0401/0401_cp_crashed_ship_bridge:18:DefaultText"
 msgid "[Continue]"
-msgstr ""
+msgstr "[Pokračovat]"
 
 #: conversations/04_monarch/0401/0401_cp_crashed_ship_bridge:20
 msgctxt "conversations/04_monarch/0401/0401_cp_crashed_ship_bridge:20:DefaultText"
@@ -110,21 +110,21 @@ msgid "UDL RQL MkIV Gunship\r\n"
 "Ship ID: Cantankerous Canid\r\n"
 "============================\r\n"
 "Error: Captain Matsu's keycard has been removed. The current time is %ERROR%, which indicates that the captain's shift is still ongoing. Failure to report to duty is a violation of UDL policy."
-msgstr ""
+msgstr "UDL RQL MkIV Gunship ============================ ID lodi: ============================ Chyba: Klíčová karta kapitána Matsu byla odstraněna. Aktuální čas je %ERROR%, což znamená, že kapitánova směna stále probíhá. Nedostavení se do služby je porušením pravidel UDL."
 
 #: conversations/04_monarch/0401/0401_cp_crashed_ship_bridge:22
 msgctxt "conversations/04_monarch/0401/0401_cp_crashed_ship_bridge:22:DefaultText"
 msgid "[Start Mayday Message Playback]"
-msgstr ""
+msgstr "[Spustit přehrávání zprávy Mayday]"
 
 #: conversations/04_monarch/0401/0401_cp_crashed_ship_bridge:25
 msgctxt "conversations/04_monarch/0401/0401_cp_crashed_ship_bridge:25:DefaultText"
 msgid "[Locate Targeting Module]"
-msgstr ""
+msgstr "[Vyhledat cílový modul]"
 
 #: conversations/04_monarch/0401/0401_cp_crashed_ship_bridge:26
 msgctxt "conversations/04_monarch/0401/0401_cp_crashed_ship_bridge:26:DefaultText"
 msgid "Targeting modules are located in Primary Routing. Access requires Captain Matsu's command key.\r\n"
 "\r\n"
 "WARNING: The integration module is responsible for controlling access to this ship's primary functions. Removing it will void your manufacturer's warranty, and despite removing it, the ship remains UDL property. Unauthorized access by parties not covered by UDL policy is a felony."
-msgstr ""
+msgstr "Moduly cílení jsou umístěny v Primárním směrování. Přístup vyžaduje příkazový klíč kapitána Matsu. UPOZORNĚNÍ: Integrační modul je zodpovědný za kontrolu přístupu k primárním funkcím této lodi. Jeho odstraněním zrušíte záruku výrobce a i přes jeho odstranění zůstává loď majetkem UDL. Neoprávněný přístup stran, na které se nevztahují zásady společnosti UDL, je trestný čin."

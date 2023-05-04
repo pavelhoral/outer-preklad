@@ -3,12 +3,12 @@ msgctxt "conversations/02_terra2/0231_bureau/0231_cp_animal_testing:1:DefaultTex
 msgid "Ministry of Accuracy and Morale\n"
 "========================\n"
 "Remember, human trials are expensive! Test with animals first."
-msgstr ""
+msgstr "Ministerstvo přesnosti a morálky ======================== Nezapomeňte, že zkoušky na lidech jsou drahé! Nejprve testujte na zvířatech."
 
 #: conversations/02_terra2/0231_bureau/0231_cp_animal_testing:2
 msgctxt "conversations/02_terra2/0231_bureau/0231_cp_animal_testing:2:DefaultText"
 msgid "[View Lab Notes]"
-msgstr ""
+msgstr "[Zobrazit laboratorní poznámky]"
 
 #: conversations/02_terra2/0231_bureau/0231_cp_animal_testing:3
 msgctxt "conversations/02_terra2/0231_bureau/0231_cp_animal_testing:3:DefaultText"
@@ -25,9 +25,9 @@ msgid "Trial # 27 - I've tried replicating the work Dr. Welles initially did on 
 "Trial # 128 - Which genius left the new shipment of sprats in the kitchen?!\r\n"
 "\r\n"
 "Trial # 237 - Still attempting to complete Welles' formula. Still going through a dozen sprats a week. We've got a lot of work ahead of us if this is ever going to be effective at reviving people from long-term hibernation."
-msgstr ""
+msgstr "Zkouška č. 27 - Pokusil jsem se zopakovat práci, kterou Dr. Welles původně provedl na oživovací formuli, ale jeho poznámky jsou v podstatě nesrozumitelné. Možná to bude vyžadovat několik opakování. Pokus č. 64 - To je \"tetraboritanový etanol\", ne \"opečený rohlík\". Pokus č. 68 - Možná je to \"opečený rohlík\". Pokus č. 82 - Mocní vyžadují výsledky. Předložil jsem svůj katalog mrtvých šprotů. Pokus č. 127 - Neuvědomil jsem si, že je možné, aby došly šproty. Pokus č. 128 - Který génius nechal novou zásilku šprotů v kuchyni?! Pokus č. 237 - Stále se pokouším dokončit Wellesův vzorec. Stále spotřebovávám tucet šprotů týdně. Máme před sebou ještě hodně práce, pokud to má být někdy účinné při oživování lidí z dlouhodobé hibernace."
 
 #: conversations/02_terra2/0231_bureau/0231_cp_animal_testing:4
 msgctxt "conversations/02_terra2/0231_bureau/0231_cp_animal_testing:4:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"

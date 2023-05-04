@@ -5,12 +5,14 @@ msgid "Ministry of Accuracy and Morale\n"
 "Welcome to the Human Resources Portal for the Ministry of Accuracy and Morale! \n"
 "\n"
 "Humans are our fourth most important resource at the Ministry. If you have a complaint about anything work-related, write about it here! You will feel much better after you do."
-msgstr ""
+msgstr "Ministerstvo přesnosti a morálky ======================== Vítejte na portálu lidských zdrojů Ministerstva přesnosti a morálky! \n"
+"\n"
+"Lidé jsou naším čtvrtým nejdůležitějším zdrojem na ministerstvu. Pokud máte stížnost na cokoli, co souvisí s prací, napište o ní sem! Budete se po ní cítit mnohem lépe."
 
 #: conversations/02_terra2/0231_bureau/0231_cp_hr_office:2
 msgctxt "conversations/02_terra2/0231_bureau/0231_cp_hr_office:2:DefaultText"
 msgid "[View Employee Complaint]"
-msgstr ""
+msgstr "[Zobrazit stížnost zaměstnance]"
 
 #: conversations/02_terra2/0231_bureau/0231_cp_hr_office:3
 msgctxt "conversations/02_terra2/0231_bureau/0231_cp_hr_office:3:DefaultText"
@@ -22,14 +24,14 @@ msgid "FROM: Caroline Endecott\r\n"
 "There, I did it. I screamed a little. That felt good.\r\n"
 "\r\n"
 "I'm just going to sit in the kitchen and wait for him to do it again. I'll catch him in the act, and then I'll come back and write up another entry. I'm going to be so LIVID."
-msgstr ""
+msgstr "OD: Caroline EndecottOVÁ OTÁZKA: Konečně začínám jednat Theodore Isaacs mi pořád jí moje purpurové obědy! Vím, že to dělá ten malý usmrkanec se šroubovitými zuby - viděla jsem ho s drobky sušenek na rtech a fialovými skvrnami na laboratorním plášti. Když vedle něj pracuju a vidím, jak ze svých nechutných zubů vybírá zbytky MÉHO oběda, chce se mi křičet! Tak, dokázala jsem to. Trochu jsem zařvala. Bylo to příjemné. teď budu sedět v kuchyni a čekat, až to udělá znovu. Přistihnu ho při činu a pak se vrátím a napíšu další příspěvek. Budu strašně ŽIVÁ."
 
 #: conversations/02_terra2/0231_bureau/0231_cp_hr_office:4
 msgctxt "conversations/02_terra2/0231_bureau/0231_cp_hr_office:4:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"
 
 #: conversations/02_terra2/0231_bureau/0231_cp_hr_office:5
 msgctxt "conversations/02_terra2/0231_bureau/0231_cp_hr_office:5:DefaultText"
 msgid "[Return to Root]"
-msgstr ""
+msgstr "[Zpět na kořen]"

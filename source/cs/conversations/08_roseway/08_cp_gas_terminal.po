@@ -4,29 +4,29 @@ msgid "Anemoi Ventilation Systems\r\n"
 "-------------------------------------\r\n"
 "Status: Default Recirculation\r\n"
 "Gas Distribution Canisters: 0/3"
-msgstr ""
+msgstr "Anemoi Ventilační systémy ------------------------------------- Stav: Recirkulační kanystry: 0/3"
 
 #: conversations/08_roseway/08_cp_gas_terminal:2
 msgctxt "conversations/08_roseway/08_cp_gas_terminal:2:DefaultText"
 msgid "[Insert Gas Canister]"
-msgstr ""
+msgstr "[Vložte plynovou nádobu]"
 
 #: conversations/08_roseway/08_cp_gas_terminal:3
 msgctxt "conversations/08_roseway/08_cp_gas_terminal:3:DefaultText"
 msgid "[Ventilate Gas]"
-msgstr ""
+msgstr "[Ventilace plynu]"
 
 #: conversations/08_roseway/08_cp_gas_terminal:4
 msgctxt "conversations/08_roseway/08_cp_gas_terminal:4:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"
 
 #: conversations/08_roseway/08_cp_gas_terminal:6
 msgctxt "conversations/08_roseway/08_cp_gas_terminal:6:DefaultText"
 msgid "Anemoi Ventilation Systems\r\n"
 "-------------------------------------\r\n"
 "Ventilation complete. Thank you for using Anemoi's Any-Gas Ventilation Distributor."
-msgstr ""
+msgstr "Anemoi Ventilační systémy ------------------------------------- Ventilace kompletní. Děkujeme, že jste využili služeb distributora ventilačních systémů Anemoi Any-Gas."
 
 #: conversations/08_roseway/08_cp_gas_terminal:7
 msgctxt "conversations/08_roseway/08_cp_gas_terminal:7:DefaultText"
@@ -36,7 +36,7 @@ msgid "Anemoi Ventilation Systems\r\n"
 "Gas Distribution Canisters: 1/3\r\n"
 "\r\n"
 "Low volume of sedative gas detected in circulation system."
-msgstr ""
+msgstr "Anemoi Ventilační systémy ------------------------------------- Stav: Recirkulační kanystry: V cirkulačním systému je zjištěn nízký objem sedativního plynu."
 
 #: conversations/08_roseway/08_cp_gas_terminal:8
 msgctxt "conversations/08_roseway/08_cp_gas_terminal:8:DefaultText"
@@ -46,7 +46,7 @@ msgid "Anemoi Ventilation Systems\r\n"
 "Gas Distribution Canisters: 2/3\r\n"
 "\r\n"
 "Moderate volume of sedative gas detected in circulation system."
-msgstr ""
+msgstr "Anemoi Ventilační systémy ------------------------------------- Stav: Recirkulační kanystry: 2/3 V cirkulačním systému zjištěn mírný objem sedativního plynu."
 
 #: conversations/08_roseway/08_cp_gas_terminal:9
 msgctxt "conversations/08_roseway/08_cp_gas_terminal:9:DefaultText"
@@ -56,19 +56,19 @@ msgid "Anemoi Ventilation Systems\r\n"
 "Gas Distribution Canisters: 3/3\r\n"
 "\r\n"
 "High volume of sedative gas detected. Ventilation is now possible."
-msgstr ""
+msgstr "Anemoi Ventilační systémy ------------------------------------- Stav: Recirkulační kanystry: 3/3 Zjištěn vysoký objem sedativního plynu. Ventilace je nyní možná."
 
 #: conversations/08_roseway/08_cp_gas_terminal:10
 msgctxt "conversations/08_roseway/08_cp_gas_terminal:10:DefaultText"
 msgid "Anemoi Ventilation Systems\r\n"
 "-------------------------------------\r\n"
 "Ventilation activated. Please inform any employees currently in the chamber that Auntie Cleo's Accidental Death and Dismemberment policy does not cover gas-induced brain damage."
-msgstr ""
+msgstr "Ventilační systémy Anemoi ------------------------------------- Ventilace aktivována. Informujte prosím všechny zaměstnance, kteří se právě nacházejí v komoře, že pojistka Auntie Cleo pro případ smrti a úrazu se nevztahuje na poškození mozku způsobené plynem."
 
 #: conversations/08_roseway/08_cp_gas_terminal:14
 msgctxt "conversations/08_roseway/08_cp_gas_terminal:14:DefaultText"
 msgid "[Messages]"
-msgstr ""
+msgstr "[Zprávy]"
 
 #: conversations/08_roseway/08_cp_gas_terminal:15
 msgctxt "conversations/08_roseway/08_cp_gas_terminal:15:DefaultText"
@@ -79,17 +79,17 @@ msgid "Roseway Laboratory\n"
 "\n"
 "Messages\n"
 ""
-msgstr ""
+msgstr "Roseway Laboratory Property of Auntie Cleo ======================== Zprávy"
 
 #: conversations/08_roseway/08_cp_gas_terminal:16
 msgctxt "conversations/08_roseway/08_cp_gas_terminal:16:DefaultText"
 msgid "[FROM: R. Agarwal]"
-msgstr ""
+msgstr "[OD: R. Agarwal]"
 
 #: conversations/08_roseway/08_cp_gas_terminal:17
 msgctxt "conversations/08_roseway/08_cp_gas_terminal:17:DefaultText"
 msgid "[FROM: G. Bakker]"
-msgstr ""
+msgstr "[OD: G. Bakker]"
 
 #: conversations/08_roseway/08_cp_gas_terminal:18
 msgctxt "conversations/08_roseway/08_cp_gas_terminal:18:DefaultText"
@@ -114,7 +114,7 @@ msgid "Roseway Laboratory\n"
 "\n"
 "-Rohan\n"
 ""
-msgstr ""
+msgstr "Roseway Laboratory Property of Auntie Cleo ======================== Zprávy OD: Agarwal TO: H. Braden SUBJECT: R: Špatná zpráva je, že máme problém se šproty. Díky těm malým potvorám, které nám přežvykují dráty, je náš ventilační systém dočasně mimo provoz. Pokud jsou vaši raptidoni nevrlí, budete je muset uspat ručně. Přineste si několik kanystrů sedativ a připojte je k pomocnému terminálu v hlavní výzkumné komoře. Dobrá zpráva je, že moje Hefaistosova kladiva zlikvidovala vaše drahé Rizzovy rangery. Dáš si k tomu pokornému koláči omáčku na těstoviny Auntie Cleo's Tripicale? -Rohan"
 
 #: conversations/08_roseway/08_cp_gas_terminal:19
 msgctxt "conversations/08_roseway/08_cp_gas_terminal:19:DefaultText"
@@ -142,9 +142,9 @@ msgid "Roseway Laboratory\n"
 "Respectfully yours,\n"
 "\n"
 "Gail"
-msgstr ""
+msgstr "Roseway Laboratory Property of Auntie Cleo ======================== Zprávy OD: Bradenovi PŘEDMĚT: G: Hansi, prosím, vysvětlete mi tu nezvládnutou katastrofu, kterou právě držím v ruce. Mám zde formulář schvalující přemístění naší matky Raptidon do hlavní haly. Formulář podepsaný vámi. Zaprvé, strukturální integrita našich raptidoních nádrží zdaleka nestačí na to, aby se do nich vešla rozzuřená raptidoní matka. Zadruhé, raptidoni jsou notoricky známí jako teritoriální a nesmírně si chrání svá mláďata. Prosím, zastavte mě, jestli na vás používám příliš mnoho čísel. Vím, že máš problém se základní aritmetikou, když vidím, že ti zřejmě nedochází, že raptidoní matka + raptidoní nádrž = vražda. S úctou, Gail."
 
 #: conversations/08_roseway/08_cp_gas_terminal:20
 msgctxt "conversations/08_roseway/08_cp_gas_terminal:20:DefaultText"
 msgid "[Return to Root]"
-msgstr ""
+msgstr "[Zpět na kořen]"

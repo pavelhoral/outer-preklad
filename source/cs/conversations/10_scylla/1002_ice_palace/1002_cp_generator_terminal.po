@@ -11,22 +11,22 @@ msgid "Lab 1084: High-Security Containment\r\n"
 "Maintenance Mode is ACTIVE. Minimal functions available.\r\n"
 "\r\n"
 "Main Menu:"
-msgstr ""
+msgstr "Laboratoř 1084: Vysoce zabezpečený kontejnment ========================== Technická sekce Stav generátoru terminálu: Režim generátoru: Aktivní: Režim údržby je AKTIVNÍ. K dispozici je minimum funkcí. Hlavní nabídka:"
 
 #: conversations/10_scylla/1002_ice_palace/1002_cp_generator_terminal:3
 msgctxt "conversations/10_scylla/1002_ice_palace/1002_cp_generator_terminal:3:DefaultText"
 msgid "[Maintenance Logs]"
-msgstr ""
+msgstr "[Protokoly údržby]"
 
 #: conversations/10_scylla/1002_ice_palace/1002_cp_generator_terminal:5
 msgctxt "conversations/10_scylla/1002_ice_palace/1002_cp_generator_terminal:5:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"
 
 #: conversations/10_scylla/1002_ice_palace/1002_cp_generator_terminal:14
 msgctxt "conversations/10_scylla/1002_ice_palace/1002_cp_generator_terminal:14:DefaultText"
 msgid "[Return to Root]"
-msgstr ""
+msgstr "[Zpět na kořen]"
 
 #: conversations/10_scylla/1002_ice_palace/1002_cp_generator_terminal:18
 msgctxt "conversations/10_scylla/1002_ice_palace/1002_cp_generator_terminal:18:DefaultText"
@@ -34,17 +34,17 @@ msgid "Lab 1084: High-Security Containment\r\n"
 "==========================\r\n"
 "\r\n"
 "Maintenance logs"
-msgstr ""
+msgstr "Laboratoř 1084: Protokoly o údržbě vysoce zabezpečených kontejnerů =========================="
 
 #: conversations/10_scylla/1002_ice_palace/1002_cp_generator_terminal:19
 msgctxt "conversations/10_scylla/1002_ice_palace/1002_cp_generator_terminal:19:DefaultText"
 msgid "[View Facility Status Report]"
-msgstr ""
+msgstr "[Zobrazit zprávu o stavu zařízení]"
 
 #: conversations/10_scylla/1002_ice_palace/1002_cp_generator_terminal:23
 msgctxt "conversations/10_scylla/1002_ice_palace/1002_cp_generator_terminal:23:DefaultText"
 msgid "[Repair Toilet]"
-msgstr ""
+msgstr "[Oprava toalety]"
 
 #: conversations/10_scylla/1002_ice_palace/1002_cp_generator_terminal:24
 msgctxt "conversations/10_scylla/1002_ice_palace/1002_cp_generator_terminal:24:DefaultText"
@@ -66,7 +66,7 @@ msgid "Lab 1084: High-Security Containment\r\n"
 "ADMIN OVERRIDE: Priority set to \"Non-Critical.\" Management does not utilize the Alta-Vitae Gas Tank Storage Room\r\n"
 "\r\n"
 "- Issue 2: Sensors detect that the \"New Laboratory Scent\" Air Freshener is running low."
-msgstr ""
+msgstr "Laboratoř 1084: Vysoce bezpečná ochrana ========================== Kritické problémy: Kritické problémy: 1 Nekritické problémy: 2 ---- Kritické problémy: - Problém 1: Záchod v kasárnách údržby nesplachuje. Náhradní díl objednán před 1243 dny. Nekritické problémy: - Problém 1: Senzory ukazují, že ze skladovacích nádrží uniká plyn Alta-Vitae. Plyn Alta-Vitae je pro člověka toxický. ADMIN OVERRIDE: Plyn Alta-Vitae je pro člověka toxický: Priorita nastavena na \"Nekritické\". Vedení nevyužívá místnost pro skladování plynu Alta-Vitae v nádržích - Problém 2: Senzory zjistí, že dochází osvěžovač vzduchu \"Nová laboratorní vůně\"."
 
 #: conversations/10_scylla/1002_ice_palace/1002_cp_generator_terminal:28
 msgctxt "conversations/10_scylla/1002_ice_palace/1002_cp_generator_terminal:28:DefaultText"
@@ -76,7 +76,7 @@ msgid "Lab 1084: High-Security Containment\r\n"
 "ERROR: Work Order already exists.\r\n"
 "\r\n"
 "The existing Work Order was opened 991 days ago, and was last accessed 991 days ago."
-msgstr ""
+msgstr "Lab 1084: High-Security Containment ========================== CHYBA: Pracovní příkaz již existuje. Stávající pracovní příkaz byl otevřen před 991 dny a naposledy k němu bylo přistupováno před 991 dny."
 
 #: conversations/10_scylla/1002_ice_palace/1002_cp_generator_terminal:42
 msgctxt "conversations/10_scylla/1002_ice_palace/1002_cp_generator_terminal:42:DefaultText"
@@ -89,12 +89,12 @@ msgid "Lab 1084: High-Security Containment\r\n"
 "Generator Mode: Normal (100% Output)\r\n"
 "\r\n"
 "Main Menu:"
-msgstr ""
+msgstr "Laboratoř 1084: Vysoce zabezpečený kontejnment ========================== Technická sekce Stav generátoru terminálu: Režim generátoru: Aktivní: Hlavní nabídka: Normální (100% výkon)"
 
 #: conversations/10_scylla/1002_ice_palace/1002_cp_generator_terminal:43
 msgctxt "conversations/10_scylla/1002_ice_palace/1002_cp_generator_terminal:43:DefaultText"
 msgid "[Modify Generator Mode - Normal]"
-msgstr ""
+msgstr "[Upravit režim generátoru - Normální]"
 
 #: conversations/10_scylla/1002_ice_palace/1002_cp_generator_terminal:44
 msgctxt "conversations/10_scylla/1002_ice_palace/1002_cp_generator_terminal:44:DefaultText"
@@ -119,4 +119,4 @@ msgid "Lab 1084: High-Security Containment\r\n"
 "Error flushing toilets. See Maintenance Logs for details.\r\n"
 ". . . . .\r\n"
 "Generator Mode Change - Complete!"
-msgstr ""
+msgstr "Laboratoř 1084: Vysoce zabezpečený kontejnment ========================== Inženýrská sekce Terminál Aktualizace režimu generátoru na: . . . Vypnutí nouzového osvětlení. . . . . . . . Aktivace osvětlení zařízení. . . . . . . . Aktivace bezpečnostních protokolů. . . . ... ... Aktivace recyklátorů vzduchu (zvolená možnost nové laboratorní vůně). . . . Splachování záchodů. . . . . . . . . ... ... Chybné splachování záchodů. Podrobnosti viz Protokoly o údržbě. . Změna režimu generátoru - dokončeno!"

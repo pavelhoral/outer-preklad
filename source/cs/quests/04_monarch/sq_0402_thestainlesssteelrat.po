@@ -1,84 +1,84 @@
 #: quests/04_monarch/sq_0402_thestainlesssteelrat:0
 msgctxt "quests/04_monarch/sq_0402_thestainlesssteelrat:0:DefaultText"
 msgid "The Stainless Steel Rat"
-msgstr ""
+msgstr "Krysa z nerezové oceli"
 
 #: quests/04_monarch/sq_0402_thestainlesssteelrat:1
 msgctxt "quests/04_monarch/sq_0402_thestainlesssteelrat:1:DefaultText"
 msgid "Search the Apartment for Clues"
-msgstr ""
+msgstr "Hledání stop v bytě"
 
 #: quests/04_monarch/sq_0402_thestainlesssteelrat:2
 msgctxt "quests/04_monarch/sq_0402_thestainlesssteelrat:2:DefaultText"
 msgid "Investigate Left Field Tossball Betting"
-msgstr ""
+msgstr "Prozkoumat sázky na levé pole Tossball"
 
 #: quests/04_monarch/sq_0402_thestainlesssteelrat:12
 msgctxt "quests/04_monarch/sq_0402_thestainlesssteelrat:12:DefaultText"
 msgid "Tell Sanjar about Isaac's Murder"
-msgstr ""
+msgstr "Řekni Sanjarovi o Isaacově vraždě"
 
 #: quests/04_monarch/sq_0402_thestainlesssteelrat:15
 msgctxt "quests/04_monarch/sq_0402_thestainlesssteelrat:15:DefaultText"
 msgid "Investigate Elijah and His Gang"
-msgstr ""
+msgstr "Vyšetřování Eliáše a jeho gangu"
 
 #: quests/04_monarch/sq_0402_thestainlesssteelrat:10000
 msgctxt "quests/04_monarch/sq_0402_thestainlesssteelrat:10000:DefaultText"
 msgid "A man's been killed in a Stellar Bay apartment. It falls to you to figure out what happened to him."
-msgstr ""
+msgstr "V bytě ve Stellar Bay byl zabit muž. Je na vás, abyste zjistili, co se mu stalo."
 
 #: quests/04_monarch/sq_0402_thestainlesssteelrat:10001
 msgctxt "quests/04_monarch/sq_0402_thestainlesssteelrat:10001:DefaultText"
 msgid "It's not clear what happened to the victim, but something in the apartment might point you in the right direction."
-msgstr ""
+msgstr "Není jasné, co se oběti stalo, ale něco v bytě by vás mohlo nasměrovat správným směrem."
 
 #: quests/04_monarch/sq_0402_thestainlesssteelrat:10002
 msgctxt "quests/04_monarch/sq_0402_thestainlesssteelrat:10002:DefaultText"
 msgid "The victim had a betting slip from Left Field Tossball Betting. Perhaps someone there knows what happened to him."
-msgstr ""
+msgstr "Oběť měla sázkový tiket ze sázkové kanceláře Left Field Tossball Betting. Možná tam někdo ví, co se mu stalo."
 
 #: quests/04_monarch/sq_0402_thestainlesssteelrat:10012
 msgctxt "quests/04_monarch/sq_0402_thestainlesssteelrat:10012:DefaultText"
 msgid "Sanjar will want to know about Isaac's murder. Now that you've dealt with Elijah, check in with him at MSI Headquarters."
-msgstr ""
+msgstr "Sanjar se bude chtít dozvědět o Isaacově vraždě. Teď, když jste se vypořádali s Elijahem, se za ním zastavte na velitelství MSI."
 
 #: quests/04_monarch/sq_0402_thestainlesssteelrat:10015
 msgctxt "quests/04_monarch/sq_0402_thestainlesssteelrat:10015:DefaultText"
 msgid "Nell believes Elijah and his friends killed Isaac. They make deliveries to the bays behind the warehouse and spend the rest of their time in the alley behind The Yacht Club."
-msgstr ""
+msgstr "Nell věří, že Elijah a jeho přátelé Isaaca zabili. Doručují zásilky do zálivů za skladem a zbytek času tráví v uličce za Yacht Clubem."
 
 #: quests/04_monarch/sq_0402_thestainlesssteelrat:20000
 msgctxt "quests/04_monarch/sq_0402_thestainlesssteelrat:20000:DefaultText"
 msgid "You've found a betting slip from Left Field Tossball Betting."
-msgstr ""
+msgstr "Našli jste sázkový tiket ze sázkové kanceláře Left Field Tossball Betting."
 
 #: quests/04_monarch/sq_0402_thestainlesssteelrat:20001
 msgctxt "quests/04_monarch/sq_0402_thestainlesssteelrat:20001:DefaultText"
 msgid "There's a suitcase full of clothes by the door."
-msgstr ""
+msgstr "U dveří je kufr plný oblečení."
 
 #: quests/04_monarch/sq_0402_thestainlesssteelrat:20002
 msgctxt "quests/04_monarch/sq_0402_thestainlesssteelrat:20002:DefaultText"
 msgid "Search the thugs' bodies for clues to Isaac's murder."
-msgstr ""
+msgstr "Prohledejte těla zločinců a najděte stopy k Isaacově vraždě."
 
 #: quests/04_monarch/sq_0402_thestainlesssteelrat:20003
 msgctxt "quests/04_monarch/sq_0402_thestainlesssteelrat:20003:DefaultText"
 msgid "You found a bloody tossball stick with a tooth embedded in it. Elijah's name is written on it."
-msgstr ""
+msgstr "Našel jsi zakrvácenou házecí tyč se zaseknutým zubem. Je na ní napsáno Eliášovo jméno."
 
 #: quests/04_monarch/sq_0402_thestainlesssteelrat:30000
 msgctxt "quests/04_monarch/sq_0402_thestainlesssteelrat:30000:DefaultText"
 msgid "You told Sanjar about Isaac's death. He appreciated your help in dealing with Elijah."
-msgstr ""
+msgstr "Řekl jsi Sanjarovi o Isaacově smrti. Ocenil tvou pomoc při jednání s Eliášem."
 
 #: quests/04_monarch/sq_0402_thestainlesssteelrat:30001
 msgctxt "quests/04_monarch/sq_0402_thestainlesssteelrat:30001:DefaultText"
 msgid "Due to the death of personnel critical to this investigation, this mystery can no longer be solved."
-msgstr ""
+msgstr "Vzhledem k úmrtí pracovníků, kteří byli pro toto vyšetřování důležití, již nelze tuto záhadu vyřešit."
 
 #: quests/04_monarch/sq_0402_thestainlesssteelrat:30002
 msgctxt "quests/04_monarch/sq_0402_thestainlesssteelrat:30002:DefaultText"
 msgid "You convinced Elijah and his gang of hooligans to flee the city, never to return."
-msgstr ""
+msgstr "Přesvědčil jsi Eliáše a jeho bandu chuligánů, aby utekli z města a už se nikdy nevrátili."

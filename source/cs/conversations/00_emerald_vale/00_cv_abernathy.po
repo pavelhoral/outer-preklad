@@ -1,719 +1,719 @@
 #: conversations/00_emerald_vale/00_cv_abernathy:27
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:27:DefaultText"
 msgid "You wanna mingle, go try the cantina."
-msgstr ""
+msgstr "Jestli se chceš stýkat, zajdi do kantýny."
 
 #: conversations/00_emerald_vale/00_cv_abernathy:28
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:28:DefaultText"
 msgid "I have that medicine you wanted."
-msgstr ""
+msgstr "Mám ten lék, který jste chtěl."
 
 #: conversations/00_emerald_vale/00_cv_abernathy:29
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:29:DefaultText"
 msgid "I'll leave you be."
-msgstr ""
+msgstr "Nechám tě být."
 
 #: conversations/00_emerald_vale/00_cv_abernathy:33
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:33:DefaultText"
 msgid "Just as I was on the mend, the cannery had to go and shut down."
-msgstr ""
+msgstr "Zrovna když jsem se uzdravoval, musela se konzervárna zavřít."
 
 #: conversations/00_emerald_vale/00_cv_abernathy:34
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:34:DefaultText"
 msgid "You tell Mr. Tobson I'll be right at my post. Tomorrow. Bright and early, tomorrow. Because I am definitely not plagued. Spry as a spring chicken - that's old Abernathy."
-msgstr ""
+msgstr "Vyřiďte panu Tobsonovi, že budu hned na svém místě. Zítra. Zítra brzy ráno. Protože mě rozhodně netrápí. Čilý jako jarní kuře - to je starý Abernathy."
 
 #: conversations/00_emerald_vale/00_cv_abernathy:35
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:35:DefaultText"
 msgid "Take it easy. Mr. Tobson didn't send me."
-msgstr ""
+msgstr "Buďte v klidu. Pan Tobson mě neposlal."
 
 #: conversations/00_emerald_vale/00_cv_abernathy:36
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:36:DefaultText"
 msgid "I heard you muttering to yourself."
-msgstr ""
+msgstr "Slyšel jsem, jak si pro sebe mumláš."
 
 #: conversations/00_emerald_vale/00_cv_abernathy:38
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:38:DefaultText"
 msgid "Didn't nobody ever tell you to never impress yourself between a man and his muttering? Which is, by the way, a normal and healthy mode of expression."
-msgstr ""
+msgstr "Copak ti nikdo nikdy neřekl, abys nikdy nedělala dojem mezi mužem a jeho mručením? Což je mimochodem normální a zdravý způsob vyjadřování."
 
 #: conversations/00_emerald_vale/00_cv_abernathy:39
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:39:DefaultText"
 msgid "I'm positive you mentioned something about being plagued."
-msgstr ""
+msgstr "Jsem si jistý, že jste se zmínil o tom, že jste byl sužován."
 
 #: conversations/00_emerald_vale/00_cv_abernathy:40
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:40:DefaultText"
 msgid "You don't know that. I could've been saying anything. Maybe I said \"vague.\" You know how words sound a mite strange when you're sick?"
-msgstr ""
+msgstr "To nevíte. Mohl jsem říkat cokoli. Možná jsem řekl \"nejasně\". Víš, jak slova znějí trochu divně, když jsi nemocný?"
 
 #: conversations/00_emerald_vale/00_cv_abernathy:65
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:65:DefaultText"
 msgid "Yes, Mr. Tobson. I'm fine, Mr. Tobson. Never been healthier."
-msgstr ""
+msgstr "Ano, pane Tobsone. Jsem v pořádku, pane Tobsone. Nikdy jsem nebyla zdravější."
 
 #: conversations/00_emerald_vale/00_cv_abernathy:66
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:66:DefaultText"
 msgid "I don't know anybody by that name."
-msgstr ""
+msgstr "Nikoho takového neznám."
 
 #: conversations/00_emerald_vale/00_cv_abernathy:67
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:67:DefaultText"
 msgid "Then what are you doing here? Visiting? Well, let me give you the grand tour. This here's my domicile - and there's the door."
-msgstr ""
+msgstr "Tak co tady děláte? Na návštěvě? Dovolte mi, abych vás provedl. Tohle je můj dům - a tady jsou dveře."
 
 #: conversations/00_emerald_vale/00_cv_abernathy:68
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:68:DefaultText"
 msgid "You want to tell me what's got you so nervous?"
-msgstr ""
+msgstr "Nechceš mi říct, z čeho jsi tak nervózní?"
 
 #: conversations/00_emerald_vale/00_cv_abernathy:69
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:69:DefaultText"
 msgid "You some sort of wandering alienist? Walking into a man's own domicile, pestering him about his mental state."
-msgstr ""
+msgstr "Jste nějaký potulný mimozemšťan? Vstoupit někomu do bytu a otravovat ho ohledně jeho duševního stavu."
 
 #: conversations/00_emerald_vale/00_cv_abernathy:70
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:70:DefaultText"
 msgid "So you're Martin Abernathy?"
-msgstr ""
+msgstr "Takže vy jste Martin Abernathy?"
 
 #: conversations/00_emerald_vale/00_cv_abernathy:71
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:71:DefaultText"
 msgid "I'm here to collect your gravesite fees."
-msgstr ""
+msgstr "Přišel jsem si vybrat poplatky za hrob."
 
 #: conversations/00_emerald_vale/00_cv_abernathy:72
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:72:DefaultText"
 msgid "What? No. I mean - I might be. That depends on who's asking."
-msgstr ""
+msgstr "Cože? Ne. Tedy - možná jsem. To záleží na tom, kdo se ptá."
 
 #: conversations/00_emerald_vale/00_cv_abernathy:81
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:81:DefaultText"
 msgid "I'm not looking for trouble. I'm just here to collect your gravesite fees."
-msgstr ""
+msgstr "Nevyhledávám problémy. Přišel jsem si jen vybrat poplatky za hrob."
 
 #: conversations/00_emerald_vale/00_cv_abernathy:82
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:82:DefaultText"
 msgid "Silas sent me. You owe him money."
-msgstr ""
+msgstr "Poslal mě Silas. Dlužíš mu peníze."
 
 #: conversations/00_emerald_vale/00_cv_abernathy:83
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:83:DefaultText"
 msgid "Silas knows, doesn't he? That's why he sent you. That's why he wants me to pay up. He knows. "
-msgstr ""
+msgstr "Silas to ví, že? Proto tě poslal. Proto chce, abych zaplatil. On to ví. "
 
 #: conversations/00_emerald_vale/00_cv_abernathy:85
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:85:DefaultText"
 msgid "So Silas can afford a hired thug, but I still gotta pay him a burial tax?"
-msgstr ""
+msgstr "Takže Silas si může dovolit najatého zločince, ale já mu stejně musím platit pohřebné?"
 
 #: conversations/00_emerald_vale/00_cv_abernathy:86
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:86:DefaultText"
 msgid "Knows what?"
-msgstr ""
+msgstr "Co ví?"
 
 #: conversations/00_emerald_vale/00_cv_abernathy:87
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:87:DefaultText"
 msgid "He told me everything. How long did you think you could keep a secret like that?"
-msgstr ""
+msgstr "Všechno mi řekl. Jak dlouho sis myslel, že dokážeš udržet takové tajemství?"
 
 #: conversations/00_emerald_vale/00_cv_abernathy:89
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:89:DefaultText"
 msgid "I'm dying. I'm not long for this world. The date of my expiration is fast approaching, and soon I shall be ushered through the great cannery in the skies."
-msgstr ""
+msgstr "Umírám. Na tomto světě už mi není dlouho. Datum mého vypršení se rychle blíží a brzy budu vypuštěn skrze velkou konzervárnu na nebesích."
 
 #: conversations/00_emerald_vale/00_cv_abernathy:90
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:90:DefaultText"
 msgid "Sounds like he's already told you. You may as well hear it from me."
-msgstr ""
+msgstr "Zdá se, že už ti to řekl. Můžeš to slyšet i ode mě."
 
 #: conversations/00_emerald_vale/00_cv_abernathy:93
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:93:DefaultText"
 msgid "It's plague. Has to be. Silas knows. He knows I've got one foot in my grave, and now he wants to charge me for the other one."
-msgstr ""
+msgstr "Je to mor. Musí být. Silas to ví. Ví, že jsem jednou nohou v hrobě, a teď mi chce účtovat i tu druhou."
 
 #: conversations/00_emerald_vale/00_cv_abernathy:94
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:94:DefaultText"
 msgid "I'm sure it's all very tragic and heartbreaking. Pay me so I can get out of here."
-msgstr ""
+msgstr "Určitě je to všechno velmi tragické a srdcervoucí. Zaplaťte mi, ať můžu vypadnout."
 
 #: conversations/00_emerald_vale/00_cv_abernathy:95
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:95:DefaultText"
 msgid "You're being paranoid."
-msgstr ""
+msgstr "Jste paranoidní."
 
 #: conversations/00_emerald_vale/00_cv_abernathy:97
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:97:DefaultText"
 msgid "I'll pay your fees. I don't want any trouble from Silas. But if you could see your way to freelancing for me, I could really use the help."
-msgstr ""
+msgstr "Zaplatím za vás. Nechci, aby mi Silas dělal potíže. Ale kdybys viděla, že bys pro mě mohla pracovat na volné noze, pomoc by se mi opravdu hodila."
 
 #: conversations/00_emerald_vale/00_cv_abernathy:98
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:98:DefaultText"
 msgid "I am? Law help me. Paranoia's one of the plague's known symptoms. "
-msgstr ""
+msgstr "Jsem? Pomozte mi zákonem. Paranoia je jedním ze známých příznaků moru. "
 
 #: conversations/00_emerald_vale/00_cv_abernathy:99
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:99:DefaultText"
 msgid "I'm sorry to hear that."
-msgstr ""
+msgstr "To mě mrzí."
 
 #: conversations/00_emerald_vale/00_cv_abernathy:100
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:100:DefaultText"
 msgid "You are? Oh. Wow. First time anyone's ever told me that."
-msgstr ""
+msgstr "Vy jste? Aha. Páni. To je poprvé, co mi to někdo řekl."
 
 #: conversations/00_emerald_vale/00_cv_abernathy:101
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:101:DefaultText"
 msgid "How can I help?"
-msgstr ""
+msgstr "Jak mohu pomoci?"
 
 #: conversations/00_emerald_vale/00_cv_abernathy:102
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:102:DefaultText"
 msgid "Depends on what you need."
-msgstr ""
+msgstr "Záleží na tom, co potřebujete."
 
 #: conversations/00_emerald_vale/00_cv_abernathy:103
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:103:DefaultText"
 msgid "You can't afford me."
-msgstr ""
+msgstr "Nemůžeš si mě dovolit."
 
 #: conversations/00_emerald_vale/00_cv_abernathy:105
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:105:DefaultText"
 msgid "Couple hours out of your day and some light second-story work. That's all."
-msgstr ""
+msgstr "Pár hodin z vašeho dne a lehká práce ve druhém patře. To je vše."
 
 #: conversations/00_emerald_vale/00_cv_abernathy:106
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:106:DefaultText"
 msgid "I'll scratch something together for you. Sell off some of my sundry at Moreau's if I have to. Just hear me out."
-msgstr ""
+msgstr "Něco pro vás seškrábu. Když budu muset, prodám u Moreaua něco z mých věcí. Jen mě vyslechněte."
 
 #: conversations/00_emerald_vale/00_cv_abernathy:108
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:108:DefaultText"
 msgid "There's a cache of anthrocillin tucked away in the old community center. Powerful stuff. Stronger than what we got, anyway."
-msgstr ""
+msgstr "Ve starém komunitním centru je schovaná skrýš s anthrocillinem. Silná látka. Každopádně silnější než to, co máme my."
 
 #: conversations/00_emerald_vale/00_cv_abernathy:109
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:109:DefaultText"
 msgid "I've been there already. Is this the medicine you're talking about?"
-msgstr ""
+msgstr "Už jsem tam byl. Je to ten lék, o kterém mluvíte?"
 
 #: conversations/00_emerald_vale/00_cv_abernathy:110
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:110:DefaultText"
 msgid "Let's see it. Don't keep us waiting."
-msgstr ""
+msgstr "Podívejme se na to. Nenechte nás čekat."
 
 #: conversations/00_emerald_vale/00_cv_abernathy:111
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:111:DefaultText"
 msgid "I'll do it."
-msgstr ""
+msgstr "Udělám to."
 
 #: conversations/00_emerald_vale/00_cv_abernathy:112
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:112:DefaultText"
 msgid "I'll think about it."
-msgstr ""
+msgstr "Budu o tom přemýšlet."
 
 #: conversations/00_emerald_vale/00_cv_abernathy:113
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:113:DefaultText"
 msgid "Not so fast. I've got some questions."
-msgstr ""
+msgstr "Ne tak rychle. Mám pár otázek."
 
 #: conversations/00_emerald_vale/00_cv_abernathy:114
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:114:DefaultText"
 msgid "Will you oblige me with your haste? I think I feel the plague spreadin'. Oh Law, it's in my spleen now. I can feel it."
-msgstr ""
+msgstr "Uděláte mi radost svým spěchem? Myslím, že cítím šířící se mor. Ach, Lawe, už je to v mé slezině. Cítím to."
 
 #: conversations/00_emerald_vale/00_cv_abernathy:115
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:115:DefaultText"
 msgid "I'll do what I can."
-msgstr ""
+msgstr "Udělám, co bude v mých silách."
 
 #: conversations/00_emerald_vale/00_cv_abernathy:116
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:116:DefaultText"
 msgid "Why can't you just buy some medicine yourself?"
-msgstr ""
+msgstr "Proč si prostě nemůžete koupit nějaký lék sami?"
 
 #: conversations/00_emerald_vale/00_cv_abernathy:117
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:117:DefaultText"
 msgid "I assume there are guards."
-msgstr ""
+msgstr "Předpokládám, že tam jsou stráže."
 
 #: conversations/00_emerald_vale/00_cv_abernathy:118
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:118:DefaultText"
 msgid "I've heard enough."
-msgstr ""
+msgstr "Už jsem toho slyšel dost."
 
 #: conversations/00_emerald_vale/00_cv_abernathy:119
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:119:DefaultText"
 msgid "So you'll do it, then?"
-msgstr ""
+msgstr "Takže to uděláte?"
 
 #: conversations/00_emerald_vale/00_cv_abernathy:120
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:120:DefaultText"
 msgid "Anyway, I can't just buy medicine. Distribution of medicine is strictly prohibited to any workers beneath the acceptable margin of health. Company policy."
-msgstr ""
+msgstr "Každopádně si nemůžu jen tak koupit lék. Distribuce léků je přísně zakázána všem pracovníkům pod přijatelnou hranicí zdraví. Politika společnosti."
 
 #: conversations/00_emerald_vale/00_cv_abernathy:121
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:121:DefaultText"
 msgid "You will not find any guards within sight of that old place. Marauders, on the other hand..."
-msgstr ""
+msgstr "Na dohled od toho starého místa nenajdete žádné stráže. Zato nájezdníci..."
 
 #: conversations/00_emerald_vale/00_cv_abernathy:122
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:122:DefaultText"
 msgid "In other words, the company won't treat you because you're already sick."
-msgstr ""
+msgstr "Jinými slovy, společnost vás neošetří, protože už jste nemocní."
 
 #: conversations/00_emerald_vale/00_cv_abernathy:123
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:123:DefaultText"
 msgid "Come on now, Abernathy. You don't look a day over ninety."
-msgstr ""
+msgstr "No tak, Abernathy. Nevypadáš ani na devadesát."
 
 #: conversations/00_emerald_vale/00_cv_abernathy:124
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:124:DefaultText"
 msgid "Tell myself the same thing every morning. You seen those young workers at the cannery? What with their unbent spines and pristine knee joints. I can't compete with that."
-msgstr ""
+msgstr "Každé ráno si říkám to samé. Viděl jsi ty mladé dělníky v konzervárně? Jak mají neohnuté páteře a neporušené kolenní klouby. S tím nemůžu soupeřit."
 
 #: conversations/00_emerald_vale/00_cv_abernathy:125
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:125:DefaultText"
 msgid "More like the company won't treat me 'cause I'm not healthy enough. "
-msgstr ""
+msgstr "Spíš mě společnost nechce léčit, protože nejsem dost zdravý. "
 
 #: conversations/00_emerald_vale/00_cv_abernathy:126
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:126:DefaultText"
 msgid "What can you tell me about these marauders?"
-msgstr ""
+msgstr "Co mi můžete říct o těchto nájezdnících?"
 
 #: conversations/00_emerald_vale/00_cv_abernathy:127
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:127:DefaultText"
 msgid "You never mentioned marauders."
-msgstr ""
+msgstr "Nikdy jste se nezmínil o nájezdnících."
 
 #: conversations/00_emerald_vale/00_cv_abernathy:128
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:128:DefaultText"
 msgid "I have it on good authority there's a gang of 'em squatting there. I advise stepping softly."
-msgstr ""
+msgstr "Mám dobrou zprávu, že jich tam dřepí celá banda. Radím, abyste šli opatrně."
 
 #: conversations/00_emerald_vale/00_cv_abernathy:129
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:129:DefaultText"
 msgid "It is a reality of life in the Vale. Grass is brown. Sky is grey. Marauders are outside the walls."
-msgstr ""
+msgstr "Je to realita života ve Vale. Tráva je hnědá. Nebe je šedé. Za hradbami jsou nájezdníci."
 
 #: conversations/00_emerald_vale/00_cv_abernathy:131
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:131:DefaultText"
 msgid "It's all yours."
-msgstr ""
+msgstr "Je to všechno tvoje."
 
 #: conversations/00_emerald_vale/00_cv_abernathy:132
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:132:DefaultText"
 msgid "Not true. You've got a secret. Secrets aren't free."
-msgstr ""
+msgstr "Není to pravda. Máš tajemství. Tajemství nejsou zadarmo."
 
 #: conversations/00_emerald_vale/00_cv_abernathy:133
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:133:DefaultText"
 msgid "I haven't decided what I'm doing with it yet."
-msgstr ""
+msgstr "Ještě jsem se nerozhodl, co s ním budu dělat."
 
 #: conversations/00_emerald_vale/00_cv_abernathy:134
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:134:DefaultText"
 msgid "I risked my life to save yours, Abernathy."
-msgstr ""
+msgstr "Riskoval jsem svůj život, abych zachránil tvůj, Abernathy."
 
 #: conversations/00_emerald_vale/00_cv_abernathy:135
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:135:DefaultText"
 msgid "Esther tells me you have a tendency toward hypochondria."
-msgstr ""
+msgstr "Esther mi řekla, že máš sklony k hypochondrii."
 
 #: conversations/00_emerald_vale/00_cv_abernathy:136
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:136:DefaultText"
 msgid "I don't know what that means. Is that some sort of medical condition? Is my plague getting worse or something?"
-msgstr ""
+msgstr "Nevím, co to znamená. Je to nějaký zdravotní stav? Zhoršuje se moje nákaza nebo tak něco?"
 
 #: conversations/00_emerald_vale/00_cv_abernathy:137
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:137:DefaultText"
 msgid "You obviously need this. <Give Abernathy the medicine.>"
-msgstr ""
+msgstr "Zřejmě to potřebuješ. <Podej Abernathymu lék.>"
 
 #: conversations/00_emerald_vale/00_cv_abernathy:138
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:138:DefaultText"
 msgid "Sweet, life-giving nostrum. The first hit is always the best. "
-msgstr ""
+msgstr "Sladké, životodárné nostrum. První zásah je vždycky nejlepší. "
 
 #: conversations/00_emerald_vale/00_cv_abernathy:139
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:139:DefaultText"
 msgid "See you around."
-msgstr ""
+msgstr "Uvidíme se."
 
 #: conversations/00_emerald_vale/00_cv_abernathy:140
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:140:DefaultText"
 msgid "You are wringing the blood out of me. Here. You can have whatever is in my pockets."
-msgstr ""
+msgstr "Vyždímáte ze mě krev. Tady. Můžeš si vzít, co mám po kapsách."
 
 #: conversations/00_emerald_vale/00_cv_abernathy:141
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:141:DefaultText"
 msgid "You'd really sprat me out? For what - a couple extra bits? Here. Take it then. "
-msgstr ""
+msgstr "Opravdu bys mě chtěl vypráskat? Kvůli čemu? Kvůli pár kouskům navíc? Tady. Tak si to vezmi. "
 
 #: conversations/00_emerald_vale/00_cv_abernathy:142
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:142:DefaultText"
 msgid "Haven't decided? I hired you! The nature of your employment requires you to deliver in my hand some genuine anthrocillin!"
-msgstr ""
+msgstr "Ještě jste se nerozhodli? Najal jsem tě! Povaha tvého zaměstnání vyžaduje, abys mi do ruky doručil nějaký pravý anthrocillin!"
 
 #: conversations/00_emerald_vale/00_cv_abernathy:144
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:144:DefaultText"
 msgid "This medicine belongs to the authorities."
-msgstr ""
+msgstr "Tento lék patří úřadům."
 
 #: conversations/00_emerald_vale/00_cv_abernathy:145
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:145:DefaultText"
 msgid "Anthrocillin's worth a lot to the right buyer."
-msgstr ""
+msgstr "Anthrocillin má pro správného kupce velkou cenu."
 
 #: conversations/00_emerald_vale/00_cv_abernathy:148
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:148:DefaultText"
 msgid "Are you out of your mind? You're just gonna hand that over to Reyes? You know she's just gonna give that medicine to someone younger and stronger and prettier."
-msgstr ""
+msgstr "Zbláznil ses? Chceš to prostě předat Reyesovi? Víš, že tu medicínu dá někomu mladšímu, silnějšímu a hezčímu."
 
 #: conversations/00_emerald_vale/00_cv_abernathy:149
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:149:DefaultText"
 msgid "You're right, it is. Can't blame a mercenary for trying to make a profit."
-msgstr ""
+msgstr "Máte pravdu, je to tak. Nemůžeš vinit žoldáka, že se snaží vydělat."
 
 #: conversations/00_emerald_vale/00_cv_abernathy:150
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:150:DefaultText"
 msgid "I changed my mind. The medicine's yours."
-msgstr ""
+msgstr "Rozmyslel jsem si to. Lék je váš."
 
 #: conversations/00_emerald_vale/00_cv_abernathy:151
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:151:DefaultText"
 msgid "Look, I've got my gravesite fees right here. See? I'm good for my word. Get me that medicine, and I'll see to your payment."
-msgstr ""
+msgstr "Podívejte, mám tady poplatky za hrobové místo. Vidíte? Držím slovo. Dejte mi ty léky a já se postarám o zaplacení."
 
 #: conversations/00_emerald_vale/00_cv_abernathy:152
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:152:DefaultText"
 msgid "I put a few bits aside for my grave. Not that I'll be seeing the inside of it any time soon, what with being on the mend."
-msgstr ""
+msgstr "Pár kousků jsem si odložil na hrob. Ne že bych se do něj v nejbližší době podíval, protože jsem na léčení."
 
 #: conversations/00_emerald_vale/00_cv_abernathy:153
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:153:DefaultText"
 msgid "Here, take my fees. I'm never getting that medicine, so I may as well buy myself a grave. Something nice and wide, with plenty of room to spin 'round inside."
-msgstr ""
+msgstr "Tady, vezměte si můj honorář. Ten lék nikdy nedostanu, tak si můžu rovnou koupit hrob. Něco pěkného a širokého, kde bude dost místa na to, aby se v něm dalo točit."
 
 #: conversations/00_emerald_vale/00_cv_abernathy:155
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:155:DefaultText"
 msgid "You're taking an awful risk trusting me, you know."
-msgstr ""
+msgstr "Strašně riskuješ, když mi věříš."
 
 #: conversations/00_emerald_vale/00_cv_abernathy:157
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:157:DefaultText"
 msgid "Please. Wander around. Touch things. I'm awfully contagious."
-msgstr ""
+msgstr "Prosím. Projděte se kolem. Dotýkejte se věcí. Jsem strašně nakažlivý."
 
 #: conversations/00_emerald_vale/00_cv_abernathy:158
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:158:DefaultText"
 msgid "Nothing like a good hit of anthrocillin. Feels like warm, liquid sunlight runnin' through your veins."
-msgstr ""
+msgstr "Není nad pořádnou dávku anthrocillinu. Je to jako teplé, tekuté sluneční světlo, které vám proudí žilami."
 
 #: conversations/00_emerald_vale/00_cv_abernathy:159
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:159:DefaultText"
 msgid "Wait. No. Damn it. Okay, listen, maybe I am feeling a little under the weather. But I swear I'm on the mend. Please don't tell the constable."
-msgstr ""
+msgstr "Počkejte. Ne. Sakra. Dobře, poslouchej, možná se cítím trochu pod psa. Ale přísahám, že už se uzdravuju. Prosím, neříkejte to strážníkovi."
 
 #: conversations/00_emerald_vale/00_cv_abernathy:160
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:160:DefaultText"
 msgid "You've got the plague? Get away from me, you leper!"
-msgstr ""
+msgstr "Máš mor? Jdi ode mě pryč, ty malomocný!"
 
 #: conversations/00_emerald_vale/00_cv_abernathy:161
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:161:DefaultText"
 msgid "Why not?"
-msgstr ""
+msgstr "Proč ne?"
 
 #: conversations/00_emerald_vale/00_cv_abernathy:162
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:162:DefaultText"
 msgid "You should put a sign over your door or something. Or at least cover your mouth."
-msgstr ""
+msgstr "Měl by sis dát na dveře ceduli nebo něco podobného. Nebo si alespoň zakrýt ústa."
 
 #: conversations/00_emerald_vale/00_cv_abernathy:163
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:163:DefaultText"
 msgid "You're right. I'm plagued. I'm afflicted. I know it's hard to believe, what with the fine and dashing figure I cut, but it's all true."
-msgstr ""
+msgstr "Máte pravdu. Trápí mě to. Jsem postižený. Vím, že je těžké tomu uvěřit, když mám tak pěknou a šviháckou postavu, ale je to pravda."
 
 #: conversations/00_emerald_vale/00_cv_abernathy:164
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:164:DefaultText"
 msgid "She'll toss me in the sick house! I would have confessed before the good Vicar. Get some ablutions for my spirit. Just never found my courage, is all."
-msgstr ""
+msgstr "Hodí mě do nemocnice! Před dobrým farářem bych se přiznal. Dejte mi nějakou očistu ducha. Jen jsem nikdy nenašel odvahu, to je všechno."
 
 #: conversations/00_emerald_vale/00_cv_abernathy:165
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:165:DefaultText"
 msgid "And become the town pariah? I'm already the oldest worker in town. I don't need to give 'em another reason to avoid me."
-msgstr ""
+msgstr "A stát se městským vyvrhelem? Už teď jsem nejstarší dělník ve městě. Nepotřebuju jim dávat další důvod, aby se mi vyhýbali."
 
 #: conversations/00_emerald_vale/00_cv_abernathy:166
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:166:DefaultText"
 msgid "Hey. You're hale and healthy and possibly for hire, ain't you? Do a good turn for an expiring old man."
-msgstr ""
+msgstr "Hej. Jsi zdravý a vitální a možná i k pronájmu, že? Udělej něco dobrého pro starého muže, kterému končí život."
 
 #: conversations/00_emerald_vale/00_cv_abernathy:167
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:167:DefaultText"
 msgid "You been there already? And you ain't been ground down into marauder meat? "
-msgstr ""
+msgstr "Už jste tam byli? A ještě tě nerozemleli na marauderské maso? "
 
 #: conversations/00_emerald_vale/00_cv_abernathy:168
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:168:DefaultText"
 msgid "Reed would've wrote me up. Constable would've locked me up and wrote me up. Could've gone to see the good vicar, but I never did find my courage."
-msgstr ""
+msgstr "Reed by mě sepsul. Strážník by mě zavřel a sepsal. Mohl jsem jít za dobrým farářem, ale nikdy jsem nenašel odvahu."
 
 #: conversations/00_emerald_vale/00_cv_abernathy:170
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:170:DefaultText"
 msgid "That's horrible."
-msgstr ""
+msgstr "To je hrozné."
 
 #: conversations/00_emerald_vale/00_cv_abernathy:171
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:171:DefaultText"
 msgid "It is what it is. Town's got a limited supply of medicine. Medicine better spent on a body stronger and younger than mine."
-msgstr ""
+msgstr "Je to tak, jak to je. Město má omezené zásoby léků. Léky je lepší použít na tělo silnější a mladší, než je to moje."
 
 #: conversations/00_emerald_vale/00_cv_abernathy:172
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:172:DefaultText"
 msgid "Scratched together all the bits I had around the domicile. It ain't as much as you deserve, but it's all I got."
-msgstr ""
+msgstr "Seškrábal jsem dohromady všechny kousky, které jsem měl po domě. Není to tolik, kolik si zasloužíš, ale víc nemám."
 
 #: conversations/00_emerald_vale/00_cv_abernathy:173
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:173:DefaultText"
 msgid "Esther tells me you've got a history of hippo-chondria."
-msgstr ""
+msgstr "Esther mi řekla, že jsi v minulosti trpěl hipochondrií."
 
 #: conversations/00_emerald_vale/00_cv_abernathy:175
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:175:DefaultText"
 msgid "I am sorry to hear that Mr. Abernathy. My confessional is always open. Except for right now."
-msgstr ""
+msgstr "To mě mrzí, pane Abernathy. Moje zpovědnice je vždy otevřená. Kromě této chvíle."
 
 #: conversations/00_emerald_vale/00_cv_abernathy:176
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:176:DefaultText"
 msgid "Anything I should know about this community center?"
-msgstr ""
+msgstr "Měla bych o tomto komunitním centru něco vědět?"
 
 #: conversations/00_emerald_vale/00_cv_abernathy:177
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:177:DefaultText"
 msgid "Just keep your head down when you're in there. Marauders have taken over. Probably tracking mud all over the archives. "
-msgstr ""
+msgstr "Když jste uvnitř, držte hlavu dole. Převzali ji nájezdníci. Nejspíš tropí bláto po celém archivu. "
 
 #: conversations/00_emerald_vale/00_cv_abernathy:178
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:178:DefaultText"
 msgid "Why do you think I'm a freelancer?"
-msgstr ""
+msgstr "Proč si myslíte, že jsem na volné noze?"
 
 #: conversations/00_emerald_vale/00_cv_abernathy:179
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:179:DefaultText"
 msgid "Oh, hey, I'm sorry. Didn't mean nothing by it. Wasn't trying to insult you. "
-msgstr ""
+msgstr "Ahoj, omlouvám se. Nic jsem tím nemyslel. Nechtěl jsem tě urazit. "
 
 #: conversations/00_emerald_vale/00_cv_abernathy:180
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:180:DefaultText"
 msgid "Why would I be insulted?"
-msgstr ""
+msgstr "Proč bych měl být uražen?"
 
 #: conversations/00_emerald_vale/00_cv_abernathy:181
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:181:DefaultText"
 msgid "Don't worry about it."
-msgstr ""
+msgstr "Nedělejte si s tím starosti."
 
 #: conversations/00_emerald_vale/00_cv_abernathy:182
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:182:DefaultText"
 msgid "Never mind. What do you need done?"
-msgstr ""
+msgstr "Nevadí. Co potřebujete udělat?"
 
 #: conversations/00_emerald_vale/00_cv_abernathy:183
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:183:DefaultText"
 msgid "So does that mean you're for hire? I could use the help, if you could use the work."
-msgstr ""
+msgstr "Znamená to, že jste k pronájmu? Hodila by se mi pomoc, pokud by se vám hodila práce."
 
 #: conversations/00_emerald_vale/00_cv_abernathy:184
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:184:DefaultText"
 msgid "It's just - you ain't one of us. A Spacer, I mean. Stands to reason you've got no company looking after you. "
-msgstr ""
+msgstr "Jde o to, že nejsi jedním z nás. Tedy Spacera. To dá rozum, že se o tebe nestará žádná společnost. "
 
 #: conversations/00_emerald_vale/00_cv_abernathy:185
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:185:DefaultText"
 msgid "Not your fault, though. Even freelancers gotta eat. And if that means they must scratch some bits out of odd jobs, who am I to judge 'em? Least you're not a deserter."
-msgstr ""
+msgstr "Není to ale vaše chyba. I lidé na volné noze musí jíst. A pokud to znamená, že si musí něco vyškrábat z příležitostných prací, kdo jsem já, abych je soudil? Alespoň nejsi dezertér."
 
 #: conversations/00_emerald_vale/00_cv_abernathy:187
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:187:DefaultText"
 msgid "What kind of odd job are you referring to?"
-msgstr ""
+msgstr "Jaký druh práce máte na mysli?"
 
 #: conversations/00_emerald_vale/00_cv_abernathy:188
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:188:DefaultText"
 msgid "Okay. That is a little insulting."
-msgstr ""
+msgstr "Dobře. To je trochu urážlivé."
 
 #: conversations/00_emerald_vale/00_cv_abernathy:189
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:189:DefaultText"
 msgid "I guess that's fair."
-msgstr ""
+msgstr "Myslím, že je to spravedlivé."
 
 #: conversations/00_emerald_vale/00_cv_abernathy:190
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:190:DefaultText"
 msgid "Look. I'm sorry. Never had much in the way of social graces. But the job is a good one, if you're interested."
-msgstr ""
+msgstr "Podívejte se. Omlouvám se. Nikdy jsem nebyl moc společensky zdvořilý. Ale ta práce je dobrá, jestli máš zájem."
 
 #: conversations/00_emerald_vale/00_cv_abernathy:192
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:192:DefaultText"
 msgid "Somebody's been running around talking about the Hope. Wonder if that's a new drug of some kind."
-msgstr ""
+msgstr "Někdo tu běhá a mluví o Naději. Zajímalo by mě, jestli je to nějaká nová droga."
 
 #: conversations/00_emerald_vale/00_cv_abernathy:193
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:193:DefaultText"
 msgid "Does it feel good? Robbing an old man of his last shred of hope?"
-msgstr ""
+msgstr "Je to dobrý pocit? Připravit starého muže o poslední zbytky naděje?"
 
 #: conversations/00_emerald_vale/00_cv_abernathy:194
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:194:DefaultText"
 msgid "I'm sorry. I did what I had to do."
-msgstr ""
+msgstr "Omlouvám se. Udělal jsem, co jsem musel."
 
 #: conversations/00_emerald_vale/00_cv_abernathy:195
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:195:DefaultText"
 msgid "Little bit, yeah."
-msgstr ""
+msgstr "Trochu ano."
 
 #: conversations/00_emerald_vale/00_cv_abernathy:199
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:199:DefaultText"
 msgid "Betray a man in his final hours? Of course. I understand. Hell, I'd probably do the same to you, given the chance."
-msgstr ""
+msgstr "Zradit člověka v jeho posledních hodinách? Samozřejmě. Chápu. K čertu, já bych nejspíš udělal totéž tobě, kdybych měl tu možnost."
 
 #: conversations/00_emerald_vale/00_cv_abernathy:200
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:200:DefaultText"
 msgid "So, you just here to watch me die, or what?"
-msgstr ""
+msgstr "Takže jsi tu jen proto, aby ses díval, jak umírám, nebo co?"
 
 #: conversations/00_emerald_vale/00_cv_abernathy:204
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:204:DefaultText"
 msgid "You really are a piece of work. I hope somebody with plague spits in your drink."
-msgstr ""
+msgstr "Ty jsi opravdu kus práce. Doufám, že ti někdo s morem plivne do pití."
 
 #: conversations/00_emerald_vale/00_cv_abernathy:207
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:207:DefaultText"
 msgid "Sorry, Abernathy. I gave that anthrocillin to someone else."
-msgstr ""
+msgstr "Omlouvám se, Abernathy. Ten anthrocillin jsem dal někomu jinému."
 
 #: conversations/00_emerald_vale/00_cv_abernathy:208
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:208:DefaultText"
 msgid "You what? But why? I was depending on you."
-msgstr ""
+msgstr "Cože? Ale proč? Spoléhal jsem na tebe."
 
 #: conversations/00_emerald_vale/00_cv_abernathy:209
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:209:DefaultText"
 msgid "I'm leaving."
-msgstr ""
+msgstr "Odcházím."
 
 #: conversations/00_emerald_vale/00_cv_abernathy:210
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:210:DefaultText"
 msgid "Oh sweet, merciful Law! A marauder's in my domicile!"
-msgstr ""
+msgstr "Ó, sladký, milosrdný Zákon! V mém domě je nájezdník!"
 
 #: conversations/00_emerald_vale/00_cv_abernathy:211
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:211:DefaultText"
 msgid "Oh, wait. It's just you. Near as killed me with fright."
-msgstr ""
+msgstr "Počkat. To jsi jen ty. Skoro mě to zabilo strachem."
 
 #: conversations/00_emerald_vale/00_cv_abernathy:212
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:212:DefaultText"
 msgid "Hey, take it easy. I'm not a marauder."
-msgstr ""
+msgstr "Hej, uklidni se. Nejsem nájezdník."
 
 #: conversations/00_emerald_vale/00_cv_abernathy:213
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:213:DefaultText"
 msgid "<Wave your gun.> Hand over all your bits."
-msgstr ""
+msgstr "<Mávejte zbraní.> Odevzdejte všechny své kousky."
 
 #: conversations/00_emerald_vale/00_cv_abernathy:214
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:214:DefaultText"
 msgid "Where? Where?!"
-msgstr ""
+msgstr "Kde? Kde?!"
 
 #: conversations/00_emerald_vale/00_cv_abernathy:216
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:216:DefaultText"
 msgid "Oh Law, please don't eat me! I got scrumpox! And chalkstones! You don't want none of that!"
-msgstr ""
+msgstr "Ach, Lawe, prosím, nejez mě! Mám neštovice! A křídové kameny! Nic z toho nechceš!"
 
 #: conversations/00_emerald_vale/00_cv_abernathy:217
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:217:DefaultText"
 msgid "Least I know I ain't hallucinating. You need something?"
-msgstr ""
+msgstr "Aspoň vím, že nemám halucinace. Potřebuješ něco?"
 
 #: conversations/00_emerald_vale/00_cv_abernathy:218
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:218:DefaultText"
 msgid "Please don't kill me! I still gotta pay my gravesite fees!"
-msgstr ""
+msgstr "Prosím, nezabíjejte mě! Ještě musím zaplatit hrobové poplatky!"
 
 #: conversations/00_emerald_vale/00_cv_abernathy:219
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:219:DefaultText"
 msgid "Oh just go ahead and kill me, then. I got nothing left to live for."
-msgstr ""
+msgstr "Tak mě klidně zabij. Už nemám pro co žít."
 
 #: conversations/00_emerald_vale/00_cv_abernathy:220
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:220:DefaultText"
 msgid "Don't say that, Mr. Abernathy. You still got a couple decades in you."
-msgstr ""
+msgstr "To neříkejte, pane Abernathy. Máte před sebou ještě pár desítek let."
 
 #: conversations/00_emerald_vale/00_cv_abernathy:221
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:221:DefaultText"
 msgid "I'd steer clear, Ms. Holcomb. My affliction is bound to be contagious."
-msgstr ""
+msgstr "Vyhýbala bych se tomu, paní Holcombová. Moje postižení je určitě nakažlivé."
 
 #: conversations/00_emerald_vale/00_cv_abernathy:223
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:223:DefaultText"
 msgid "Wait a second - I heard marauders don't talk much. You can talk just fine. Did Mr. Tobson send you to put the fear in me?"
-msgstr ""
+msgstr "Počkej - slyšel jsem, že nájezdníci moc nemluví. Ty mluvit umíš. Poslal tě pan Tobson, abys mi nahnal strach?"
 
 #: conversations/00_emerald_vale/00_cv_abernathy:225
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:225:DefaultText"
 msgid "Whoa! Did - uh - did Mr. Tobson send you?"
-msgstr ""
+msgstr "Páni! Poslal vás pan Tobson?"
 
 #: conversations/00_emerald_vale/00_cv_abernathy:227
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:227:DefaultText"
 msgid "There a reason you're running around outfitted like one of those monsters? Did Mr. Tobson send you to put the fear in me?"
-msgstr ""
+msgstr "Je nějaký důvod, proč tu pobíháš oblečený jako jedno z těch monster? Poslal tě pan Tobson, abys mi nahnal strach?"
 
 #: conversations/00_emerald_vale/00_cv_abernathy:228
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:228:DefaultText"
 msgid "I know that. But I got nobody else to turn to."
-msgstr ""
+msgstr "To vím. Ale nemám nikoho jiného, na koho bych se mohl obrátit."
 
 #: conversations/00_emerald_vale/00_cv_abernathy:229
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:229:DefaultText"
 msgid "I know, I know. Should've availed myself of your services days ago. Thanks anyway, Vicar."
-msgstr ""
+msgstr "Já vím, já vím. Měl jsem využít tvých služeb už před několika dny. Ale i tak díky, pane faráři."
 
 #: conversations/00_emerald_vale/00_cv_abernathy:230
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:230:DefaultText"
 msgid "I am sorry to hear that Mr. Abernathy. My confessional is always open. Except for right now."
-msgstr ""
+msgstr "To mě mrzí, pane Abernathy. Moje zpovědnice je vždy otevřená. Kromě této chvíle."
 
 #: conversations/00_emerald_vale/00_cv_abernathy:231
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:231:DefaultText"
 msgid "I know, I know. Should've availed myself of your services days ago. Thanks anyway, Vicar."
-msgstr ""
+msgstr "Já vím, já vím. Měl jsem využít tvých služeb už před několika dny. Ale i tak díky, pane faráři."
 
 #: conversations/00_emerald_vale/00_cv_abernathy:232
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:232:DefaultText"
 msgid "I tried medicating myself with Adrena-Time. Didn't do much for me, far as I can tell."
-msgstr ""
+msgstr "Zkoušel jsem se léčit Adrena-Time. Pokud vím, moc mi to nepomohlo."
 
 #: conversations/00_emerald_vale/00_cv_abernathy:233
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:233:DefaultText"
 msgid "I need you to break in, nab that medicine, and bring it back to me."
-msgstr ""
+msgstr "Potřebuju, aby ses tam vloupal, sebral ten lék a přinesl mi ho zpátky."
 
 #: conversations/00_emerald_vale/00_cv_abernathy:234
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:234:DefaultText"
 msgid "Leave me alone, will you? I got enough problems."
-msgstr ""
+msgstr "Nechte mě na pokoji, ano? Mám dost problémů."
 
 #: conversations/00_emerald_vale/00_cv_abernathy:235
 msgctxt "conversations/00_emerald_vale/00_cv_abernathy:235:DefaultText"
 msgid "Sorry, Abernathy. I gave that anthrocillin to someone else."
-msgstr ""
+msgstr "Omlouvám se, Abernathy. Ten anthrocillin jsem dal někomu jinému."

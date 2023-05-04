@@ -3,7 +3,7 @@ msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_cryo_terminal:1:Defa
 msgid "UDL-002 THE HOPE\r\n"
 "===========================\r\n"
 "Warning: Unauthorized access will result in immediate termination upon your arrival in Halcyon."
-msgstr ""
+msgstr "UDL-002 THE HOPE =========================== Varování: Neoprávněný přístup bude mít za následek okamžité ukončení přístupu po vašem příchodu do Halcyonu."
 
 #: conversations/09_interstitial/0903_thehope/0903_cp_cryo_terminal:2
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_cryo_terminal:2:DefaultText"
@@ -14,22 +14,22 @@ msgid "COLD STORAGE BAY 5\r\n"
 "Available functions:\r\n"
 "- STATUS: Power status report\r\n"
 "- LOGS: View archived logs, recorded audio transmissions, and/or internal messages"
-msgstr ""
+msgstr "COLD STORAGE BAY 5 =========================== Přístup k úložným modulům je momentálně nedostupný. Dostupné funkce: - STATUS: Hlášení o stavu napájení - LOGS: Zobrazení archivovaných protokolů, zaznamenaných zvukových přenosů a/nebo interních zpráv."
 
 #: conversations/09_interstitial/0903_thehope/0903_cp_cryo_terminal:3
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_cryo_terminal:3:DefaultText"
 msgid "[Status]"
-msgstr ""
+msgstr "[Stav]"
 
 #: conversations/09_interstitial/0903_thehope/0903_cp_cryo_terminal:4
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_cryo_terminal:4:DefaultText"
 msgid "[Logs]"
-msgstr ""
+msgstr "[Deníky]"
 
 #: conversations/09_interstitial/0903_thehope/0903_cp_cryo_terminal:5
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_cryo_terminal:5:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"
 
 #: conversations/09_interstitial/0903_thehope/0903_cp_cryo_terminal:6
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_cryo_terminal:6:DefaultText"
@@ -38,29 +38,29 @@ msgid "COLD STORAGE BAY 5\n"
 "Current storage status: Normal\n"
 "\n"
 "Current pod count: 9,999"
-msgstr ""
+msgstr "COLD STORAGE BAY 5 =========================== Aktuální stav skladu: Aktuální počet modulů: 9,999"
 
 #: conversations/09_interstitial/0903_thehope/0903_cp_cryo_terminal:7
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_cryo_terminal:7:DefaultText"
 msgid "COLD STORAGE BAY 5\r\n"
 "===========================\r\n"
 "Error accessing archives. Available entries:"
-msgstr ""
+msgstr "COLD STORAGE BAY 5 =========================== Chyba při přístupu do archivů. Dostupné záznamy:"
 
 #: conversations/09_interstitial/0903_thehope/0903_cp_cryo_terminal:8
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_cryo_terminal:8:DefaultText"
 msgid "[Pod Removal #CB5-524]"
-msgstr ""
+msgstr "[Pod Removal #CB5-524]"
 
 #: conversations/09_interstitial/0903_thehope/0903_cp_cryo_terminal:9
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_cryo_terminal:9:DefaultText"
 msgid "[Automated Audio Transcript #R-2793 - UNKNOWN CREWMEMBERS]"
-msgstr ""
+msgstr "[Automatizovaný zvukový přepis #R-2793 - NEZNÁMÍ ZÁSTUPCI]"
 
 #: conversations/09_interstitial/0903_thehope/0903_cp_cryo_terminal:11
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_cryo_terminal:11:DefaultText"
 msgid "[Back]"
-msgstr ""
+msgstr "[Zpět]"
 
 #: conversations/09_interstitial/0903_thehope/0903_cp_cryo_terminal:12
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_cryo_terminal:12:DefaultText"
@@ -69,19 +69,19 @@ msgid "Cold storage pod #CB5-524\r\n"
 "Occupant: <oeitoken>PlayerName</oeitoken>\r\n"
 "\r\n"
 "Removed by: UNKNOWN CREWMEMBER"
-msgstr ""
+msgstr "Chladicí modul #CB5-524 Obyvatel: <oeitoken>Jméno hráče</oeitoken> Odstraněno: NEZNÁMÝ ČLEN POSÁDKY"
 
 #: conversations/09_interstitial/0903_thehope/0903_cp_cryo_terminal:13
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_cryo_terminal:13:DefaultText"
 msgid "UNKNOWN: Hundreds of thousands of colonists, left to drift out here forever. Just to keep from damaging the Board's bottom line. Disgraceful."
-msgstr ""
+msgstr "NEZNÁMÝ: Statisíce kolonistů, kteří tu zůstali navždy. Jen aby nepoškodili zisk správní rady. Hanebné."
 
 #: conversations/09_interstitial/0903_thehope/0903_cp_cryo_terminal:18
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_cryo_terminal:18:DefaultText"
 msgid "[Continue]"
-msgstr ""
+msgstr "[Pokračovat]"
 
 #: conversations/09_interstitial/0903_thehope/0903_cp_cryo_terminal:19
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_cryo_terminal:19:DefaultText"
 msgid "[Continue]"
-msgstr ""
+msgstr "[Pokračovat]"

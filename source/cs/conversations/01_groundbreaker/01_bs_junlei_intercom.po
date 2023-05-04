@@ -1,44 +1,44 @@
 #: conversations/01_groundbreaker/01_bs_junlei_intercom:1
 msgctxt "conversations/01_groundbreaker/01_bs_junlei_intercom:1:DefaultText"
 msgid "The controls are in the back of the Machinery Shaft area. Keep clear of the radiators."
-msgstr ""
+msgstr "Ovládací prvky se nacházejí v zadní části strojní šachty. Nepřibližujte se k chladičům."
 
 #: conversations/01_groundbreaker/01_bs_junlei_intercom:2
 msgctxt "conversations/01_groundbreaker/01_bs_junlei_intercom:2:DefaultText"
 msgid "Good news. Song tells me the security mechanicals booted up and killed a bunch of mantis. "
-msgstr ""
+msgstr "Dobrá zpráva. Song mi řekl, že bezpečnostní mechanici spustili a zabili několik kudlanek. "
 
 #: conversations/01_groundbreaker/01_bs_junlei_intercom:3
 msgctxt "conversations/01_groundbreaker/01_bs_junlei_intercom:3:DefaultText"
 msgid "That's the terminal. I have the parts in position on my side. Go ahead and cycle the droplet pumps."
-msgstr ""
+msgstr "To je terminál. Díly mám na své straně na svém místě. Pokračujte v cyklování kapkových čerpadel."
 
 #: conversations/01_groundbreaker/01_bs_junlei_intercom:4
 msgctxt "conversations/01_groundbreaker/01_bs_junlei_intercom:4:DefaultText"
 msgid "You don't need to kill the mantipillars, but I'd be mighty grateful if you did. I've got this thing about giant insects."
-msgstr ""
+msgstr "Nemusíte zabíjet mantipillary, ale byl bych vám za to moc vděčný. Mám slabost pro obří hmyz."
 
 #: conversations/01_groundbreaker/01_bs_junlei_intercom:5
 msgctxt "conversations/01_groundbreaker/01_bs_junlei_intercom:5:DefaultText"
 msgid "Bad news. Diagnostic says their circuit boards are fused from the heat, so they're not too picky about who they kill next."
-msgstr ""
+msgstr "Špatné zprávy. Diagnostic říká, že jejich obvody jsou roztavené z tepla, takže si příliš nevybírají, koho zabijí příště."
 
 #: conversations/01_groundbreaker/01_bs_junlei_intercom:6
 msgctxt "conversations/01_groundbreaker/01_bs_junlei_intercom:6:DefaultText"
 msgid "Sneak past if you can. Shoot back if you need to. I can always fix them later."
-msgstr ""
+msgstr "Pokud můžete, proplížte se kolem. V případě potřeby střílejte zpět. Vždycky je můžu později opravit."
 
 #: conversations/01_groundbreaker/01_bs_junlei_intercom:8
 msgctxt "conversations/01_groundbreaker/01_bs_junlei_intercom:8:DefaultText"
 msgid "Done. The temperatures are dropping."
-msgstr ""
+msgstr "Hotovo. Teploty klesají."
 
 #: conversations/01_groundbreaker/01_bs_junlei_intercom:9
 msgctxt "conversations/01_groundbreaker/01_bs_junlei_intercom:9:DefaultText"
 msgid "Stop by once you've found your way out of there. Groundbreaker owes you thanks."
-msgstr ""
+msgstr "Zastavte se, jakmile najdete cestu ven. Groundbreaker ti dluží poděkování."
 
 #: conversations/01_groundbreaker/01_bs_junlei_intercom:10
 msgctxt "conversations/01_groundbreaker/01_bs_junlei_intercom:10:DefaultText"
 msgid "And if you don't know what that means, just look for a command that says \"cycle droplet pumps.\""
-msgstr ""
+msgstr "Pokud nevíte, co to znamená, vyhledejte příkaz \"cyklus kapkových čerpadel\"."

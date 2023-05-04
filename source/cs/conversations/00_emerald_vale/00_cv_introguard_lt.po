@@ -1,304 +1,304 @@
 #: conversations/00_emerald_vale/00_cv_introguard_lt:1
 msgctxt "conversations/00_emerald_vale/00_cv_introguard_lt:1:DefaultText"
 msgid "What in the blazes? Where'd you come from?"
-msgstr ""
+msgstr "Co to sakra je? Odkud jsi přišel?"
 
 #: conversations/00_emerald_vale/00_cv_introguard_lt:2
 msgctxt "conversations/00_emerald_vale/00_cv_introguard_lt:2:DefaultText"
 msgid "Don't know where you came from, stranger, but you best keep your head down. There's marauders hereabouts. And worse, landing violators!"
-msgstr ""
+msgstr "Nevím, odkud jsi přišel, cizinče, ale raději se drž při zemi. Jsou tu nájezdníci. A co hůř, porušovatelé přistání!"
 
 #: conversations/00_emerald_vale/00_cv_introguard_lt:3
 msgctxt "conversations/00_emerald_vale/00_cv_introguard_lt:3:DefaultText"
 msgid "Gall on that rungleech. Landing in the Vale without using an official Spacer's Choice landing pad."
-msgstr ""
+msgstr "Gall na tomto rungleech. Přistání ve Vale bez použití oficiální přistávací plochy Spacer's Choice."
 
 #: conversations/00_emerald_vale/00_cv_introguard_lt:4
 msgctxt "conversations/00_emerald_vale/00_cv_introguard_lt:4:DefaultText"
 msgid "I'd slap 'em with a fine, if it weren't for all these marauders shambling about."
-msgstr ""
+msgstr "Dal bych jim pokutu, kdyby se tu nepotulovali všichni ti nájezdníci."
 
 #: conversations/00_emerald_vale/00_cv_introguard_lt:5
 msgctxt "conversations/00_emerald_vale/00_cv_introguard_lt:5:DefaultText"
 msgid "It's just a landing violation. Let it go."
-msgstr ""
+msgstr "Je to jen porušení při přistání. Nechte to být."
 
 #: conversations/00_emerald_vale/00_cv_introguard_lt:6
 msgctxt "conversations/00_emerald_vale/00_cv_introguard_lt:6:DefaultText"
 msgid "So I heard. I found one of your teammates holed up in a cave."
-msgstr ""
+msgstr "Tak jsem to slyšel. Našel jsem jednoho z tvých spoluhráčů schovaného v jeskyni."
 
 #: conversations/00_emerald_vale/00_cv_introguard_lt:7
 msgctxt "conversations/00_emerald_vale/00_cv_introguard_lt:7:DefaultText"
 msgid "I've already dealt with a few of these marauders. Not impressed."
-msgstr ""
+msgstr "S několika takovými nájezdníky už jsem měl co do činění. Neudělali na mě dojem."
 
 #: conversations/00_emerald_vale/00_cv_introguard_lt:8
 msgctxt "conversations/00_emerald_vale/00_cv_introguard_lt:8:DefaultText"
 msgid "You pulling my limb? I mean - yeah, of course! Marauders. Bunch of addle-brained derelicts. I could round 'em up all by myself."
-msgstr ""
+msgstr "Taháš mě za končetinu? Tedy - ano, samozřejmě! Marauders. Banda vypatlaných dereliků. Dokázal bych je sebrat sám."
 
 #: conversations/00_emerald_vale/00_cv_introguard_lt:9
 msgctxt "conversations/00_emerald_vale/00_cv_introguard_lt:9:DefaultText"
 msgid "Really? How is he?"
-msgstr ""
+msgstr "Opravdu? Jak se má?"
 
 #: conversations/00_emerald_vale/00_cv_introguard_lt:10
 msgctxt "conversations/00_emerald_vale/00_cv_introguard_lt:10:DefaultText"
 msgid "He's dead."
-msgstr ""
+msgstr "Je mrtvý."
 
 #: conversations/00_emerald_vale/00_cv_introguard_lt:11
 msgctxt "conversations/00_emerald_vale/00_cv_introguard_lt:11:DefaultText"
 msgid "Him? Oh he's doing swell. Totally fine..."
-msgstr ""
+msgstr "Jeho? Daří se mu skvěle. Úplně v pohodě..."
 
 #: conversations/00_emerald_vale/00_cv_introguard_lt:12
 msgctxt "conversations/00_emerald_vale/00_cv_introguard_lt:12:DefaultText"
 msgid "Bleeding and delirious, but still kicking."
-msgstr ""
+msgstr "Krvácí a blouzní, ale stále kope."
 
 #: conversations/00_emerald_vale/00_cv_introguard_lt:13
 msgctxt "conversations/00_emerald_vale/00_cv_introguard_lt:13:DefaultText"
 msgid "Still a moron. I'm hoping you're a little brighter."
-msgstr ""
+msgstr "Pořád je to blbec. Doufám, že jsi trochu bystřejší."
 
 #: conversations/00_emerald_vale/00_cv_introguard_lt:14
 msgctxt "conversations/00_emerald_vale/00_cv_introguard_lt:14:DefaultText"
 msgid "He'll make it. I helped him with the pain."
-msgstr ""
+msgstr "Zvládne to. Pomohl jsem mu s bolestí."
 
 #: conversations/00_emerald_vale/00_cv_introguard_lt:15
 msgctxt "conversations/00_emerald_vale/00_cv_introguard_lt:15:DefaultText"
 msgid "Shouldn't have done that. Spacer's Choice family ain't authorized to receive medical aid from off-brand physicians."
-msgstr ""
+msgstr "To jsem neměl dělat. Rodina Spacer's Choice není oprávněna přijímat lékařskou pomoc od neznačkových lékařů."
 
 #: conversations/00_emerald_vale/00_cv_introguard_lt:16
 msgctxt "conversations/00_emerald_vale/00_cv_introguard_lt:16:DefaultText"
 msgid "Well, that's a relief. You don't want to know how much paperwork's involved in paying off a gravesite fee."
-msgstr ""
+msgstr "To je úleva. Nechtějte vědět, kolik papírování obnáší splácení hrobového poplatku."
 
 #: conversations/00_emerald_vale/00_cv_introguard_lt:17
 msgctxt "conversations/00_emerald_vale/00_cv_introguard_lt:17:DefaultText"
 msgid "'Course I am. I'm his superior officer. Stands to reason, don't it?"
-msgstr ""
+msgstr "\"Samozřejmě, že jsem. Jsem jeho nadřízený. To dá rozum, ne?"
 
 #: conversations/00_emerald_vale/00_cv_introguard_lt:18
 msgctxt "conversations/00_emerald_vale/00_cv_introguard_lt:18:DefaultText"
 msgid "I knew we weren't gonna get through this job without some bodies piling up."
-msgstr ""
+msgstr "Věděl jsem, že tuhle práci nezvládneme, aniž by se nahromadila nějaká těla."
 
 #: conversations/00_emerald_vale/00_cv_introguard_lt:20
 msgctxt "conversations/00_emerald_vale/00_cv_introguard_lt:20:DefaultText"
 msgid "Are you out of your mind?! No way. Once we've dealt with these marauders, I'm hunting that sick freak down."
-msgstr ""
+msgstr "Zbláznil ses?! V žádném případě. Jakmile se vypořádáme s těmi nájezdníky, půjdu na toho úchyla."
 
 #: conversations/00_emerald_vale/00_cv_introguard_lt:21
 msgctxt "conversations/00_emerald_vale/00_cv_introguard_lt:21:DefaultText"
 msgid "I just, you know... need a couple winks to catch my breath. Stretch my legs some."
-msgstr ""
+msgstr "Jen si potřebuju párkrát zamrkat, abych popadl dech. Trochu si protáhnout nohy."
 
 #: conversations/00_emerald_vale/00_cv_introguard_lt:25
 msgctxt "conversations/00_emerald_vale/00_cv_introguard_lt:25:DefaultText"
 msgid "Just you watch. I'll cross these marauders off with the swift, cost-efficient fury that's made Spacer's Choice the most trusted brand in personal defense."
-msgstr ""
+msgstr "Jen se dívejte. Vyškrtnu tyhle nájezdníky s rychlým a úsporným vztekem, díky kterému se Spacer's Choice stala nejdůvěryhodnější značkou v oblasti osobní obrany."
 
 #: conversations/00_emerald_vale/00_cv_introguard_lt:26
 msgctxt "conversations/00_emerald_vale/00_cv_introguard_lt:26:DefaultText"
 msgid "We'll see him back to Edgewater. Just as soon as I cross these marauders off with the swift, cost-efficient fury that's made Spacer's Choice the most trusted brand in personal defense."
-msgstr ""
+msgstr "Uvidíme ho zpátky v Edgewateru. Jen co tyhle nájezdníky vyškrtnu s rychlou a úspornou zuřivostí, díky níž se Spacer's Choice stala nejdůvěryhodnější značkou v oblasti osobní obrany."
 
 #: conversations/00_emerald_vale/00_cv_introguard_lt:27
 msgctxt "conversations/00_emerald_vale/00_cv_introguard_lt:27:DefaultText"
 msgid "Do Spacer's Choice guards back down from a challenge?"
-msgstr ""
+msgstr "Ustupují strážci Spacer's Choice před výzvou?"
 
 #: conversations/00_emerald_vale/00_cv_introguard_lt:28
 msgctxt "conversations/00_emerald_vale/00_cv_introguard_lt:28:DefaultText"
 msgid "I bet you could get these marauders to tell you where the owner of that ship is."
-msgstr ""
+msgstr "Vsadím se, že bys tyhle nájezdníky mohl přimět, aby ti řekli, kde je majitel té lodi."
 
 #: conversations/00_emerald_vale/00_cv_introguard_lt:29
 msgctxt "conversations/00_emerald_vale/00_cv_introguard_lt:29:DefaultText"
 msgid "Guess I'll have to give you a zero on my customer satisfaction survey."
-msgstr ""
+msgstr "Hádám, že vám budu muset dát nulu v mém průzkumu spokojenosti zákazníků."
 
 #: conversations/00_emerald_vale/00_cv_introguard_lt:30
 msgctxt "conversations/00_emerald_vale/00_cv_introguard_lt:30:DefaultText"
 msgid "Don't worry, you sit tight. I'll handle it."
-msgstr ""
+msgstr "Nebojte se, sedněte si pevně. Já to zvládnu."
 
 #: conversations/00_emerald_vale/00_cv_introguard_lt:31
 msgctxt "conversations/00_emerald_vale/00_cv_introguard_lt:31:DefaultText"
 msgid "Coward. I'll do it myself."
-msgstr ""
+msgstr "Zbabělec. Udělám to sám."
 
 #: conversations/00_emerald_vale/00_cv_introguard_lt:32
 msgctxt "conversations/00_emerald_vale/00_cv_introguard_lt:32:DefaultText"
 msgid "Well, sometimes. Management's real good at cost-benefit analysis, but seeing as I'm the acting manager in this situation..."
-msgstr ""
+msgstr "No, někdy. Vedení je opravdu dobré v analýze nákladů a přínosů, ale vzhledem k tomu, že jsem v této situaci zastupující manažer..."
 
 #: conversations/00_emerald_vale/00_cv_introguard_lt:33
 msgctxt "conversations/00_emerald_vale/00_cv_introguard_lt:33:DefaultText"
 msgid "You know what? You're right. It's time we cross those marauders off, find whoever owns that ship, and file a full report! And it's gonna be fucking laminated!"
-msgstr ""
+msgstr "Víte co? Máš pravdu. Je čas vyškrtnout ty nájezdníky, najít toho, kdo vlastní tu loď, a podat kompletní hlášení! A bude to kurva zalaminovaný!"
 
 #: conversations/00_emerald_vale/00_cv_introguard_lt:34
 msgctxt "conversations/00_emerald_vale/00_cv_introguard_lt:34:DefaultText"
 msgid "You think? Most marauders can't even talk, but criminals do attract other criminals by their own nature."
-msgstr ""
+msgstr "Myslíte? Většina záškodníků ani neumí mluvit, ale zločinci přitahují jiné zločince už ze své podstaty."
 
 #: conversations/00_emerald_vale/00_cv_introguard_lt:35
 msgctxt "conversations/00_emerald_vale/00_cv_introguard_lt:35:DefaultText"
 msgid "We'll be right here. In case you need emotional support."
-msgstr ""
+msgstr "Budeme tady. V případě, že budete potřebovat emocionální podporu."
 
 #: conversations/00_emerald_vale/00_cv_introguard_lt:36
 msgctxt "conversations/00_emerald_vale/00_cv_introguard_lt:36:DefaultText"
 msgid "Seriously? But those marauders will..."
-msgstr ""
+msgstr "Vážně? Ale ti nájezdníci budou..."
 
 #: conversations/00_emerald_vale/00_cv_introguard_lt:37
 msgctxt "conversations/00_emerald_vale/00_cv_introguard_lt:37:DefaultText"
 msgid "This is gonna take a lot of paperwork."
-msgstr ""
+msgstr "Bude to vyžadovat spoustu papírování."
 
 #: conversations/00_emerald_vale/00_cv_introguard_lt:38
 msgctxt "conversations/00_emerald_vale/00_cv_introguard_lt:38:DefaultText"
 msgid "I'm about to give those psychotic rungleeches what for!"
-msgstr ""
+msgstr "Chystám se dát těm psychotickým runglům co proto!"
 
 #: conversations/00_emerald_vale/00_cv_introguard_lt:39
 msgctxt "conversations/00_emerald_vale/00_cv_introguard_lt:39:DefaultText"
 msgid "Say... this wouldn't happen to be your ship, would it?"
-msgstr ""
+msgstr "Řekněme... není to náhodou vaše loď, že ne?"
 
 #: conversations/00_emerald_vale/00_cv_introguard_lt:40
 msgctxt "conversations/00_emerald_vale/00_cv_introguard_lt:40:DefaultText"
 msgid "Because it started making a bit of a clamor after you went in. Scared the marauders right off."
-msgstr ""
+msgstr "Protože po tvém příchodu dovnitř to začalo být trochu hlučné. Hned to vyděsilo nájezdníky."
 
 #: conversations/00_emerald_vale/00_cv_introguard_lt:41
 msgctxt "conversations/00_emerald_vale/00_cv_introguard_lt:41:DefaultText"
 msgid "Because you sure walked in it like it was your ship."
-msgstr ""
+msgstr "Protože jsi v ní určitě chodil, jako by to byla tvoje loď."
 
 #: conversations/00_emerald_vale/00_cv_introguard_lt:42
 msgctxt "conversations/00_emerald_vale/00_cv_introguard_lt:42:DefaultText"
 msgid "And if this ship is yours, well mister, you owe Spacer's Choice a hefty fine. Afraid we gotta dock your pay."
-msgstr ""
+msgstr "A jestli je tahle loď vaše, tak, pane, dlužíte Spacer's Choice pořádnou pokutu. Obávám se, že vám budeme muset strhnout plat."
 
 #: conversations/00_emerald_vale/00_cv_introguard_lt:42
 msgctxt "conversations/00_emerald_vale/00_cv_introguard_lt:42:FemaleText"
 msgid "And if this ship is yours, well ma'am, you owe Spacer's Choice a hefty fine. Afraid we gotta dock your pay."
-msgstr ""
+msgstr "A jestli je ta loď vaše, tak madam, dlužíte Spacer's Choice vysokou pokutu. Obávám se, že vám budeme muset strhnout plat."
 
 #: conversations/00_emerald_vale/00_cv_introguard_lt:43
 msgctxt "conversations/00_emerald_vale/00_cv_introguard_lt:43:DefaultText"
 msgid "I don't have a job."
-msgstr ""
+msgstr "Nemám práci."
 
 #: conversations/00_emerald_vale/00_cv_introguard_lt:44
 msgctxt "conversations/00_emerald_vale/00_cv_introguard_lt:44:DefaultText"
 msgid "Really? After I patched up your friend?"
-msgstr ""
+msgstr "Opravdu? Poté, co jsem tvého přítele ošetřil?"
 
 #: conversations/00_emerald_vale/00_cv_introguard_lt:45
 msgctxt "conversations/00_emerald_vale/00_cv_introguard_lt:45:DefaultText"
 msgid "You've got it all wrong. I'm a starship safety inspector."
-msgstr ""
+msgstr "Všechno jste pochopili špatně. Jsem inspektor bezpečnosti hvězdných lodí."
 
 #: conversations/00_emerald_vale/00_cv_introguard_lt:46
 msgctxt "conversations/00_emerald_vale/00_cv_introguard_lt:46:DefaultText"
 msgid "<Attack> Do you take down payments in wanton violence? "
-msgstr ""
+msgstr "<Attack> Strháváte platby bezohledným násilím? "
 
 #: conversations/00_emerald_vale/00_cv_introguard_lt:47
 msgctxt "conversations/00_emerald_vale/00_cv_introguard_lt:47:DefaultText"
 msgid "I'll waive your fee since you helped us with those marauders. If you're looking for work, talk to the Constable down in Edgewater. She's got a bounty on marauders."
-msgstr ""
+msgstr "Odpustím ti poplatek, protože jsi nám pomohl s těmi nájezdníky. Pokud hledáte práci, promluvte si s konstáblem dole v Edgewateru. Má odměnu za záškodníky."
 
 #: conversations/00_emerald_vale/00_cv_introguard_lt:48
 msgctxt "conversations/00_emerald_vale/00_cv_introguard_lt:48:DefaultText"
 msgid "Yeah, fair point. I'll let it go this time. If you're looking to help us out with our marauder problem, talk to Constable Reyes over in Edgewater."
-msgstr ""
+msgstr "Jo, to je fér. Tentokrát to nechám být. Jestli nám chceš pomoct s problémem s nájezdníky, promluv si s konstáblem Reyesem v Edgewateru."
 
 #: conversations/00_emerald_vale/00_cv_introguard_lt:49
 msgctxt "conversations/00_emerald_vale/00_cv_introguard_lt:49:DefaultText"
 msgid "Oh, by the Law, I'm so sorry! I had no idea we had an inspector coming. If you'd like to speak with my manager, I report to Constable Reyes in Edgewater."
-msgstr ""
+msgstr "U zákona, je mi to tak líto! Netušila jsem, že k nám přijde inspektor. Pokud byste chtěla mluvit s mým nadřízeným, hlásím se u konstábla Reyese v Edgewateru."
 
 #: conversations/00_emerald_vale/00_cv_introguard_lt:50
 msgctxt "conversations/00_emerald_vale/00_cv_introguard_lt:50:DefaultText"
 msgid "Edgewater's not too far. Just follow the road east of here, over past the cemetery."
-msgstr ""
+msgstr "Edgewater není daleko. Stačí jít po silnici na východ odtud, za hřbitovem."
 
 #: conversations/00_emerald_vale/00_cv_introguard_lt:52
 msgctxt "conversations/00_emerald_vale/00_cv_introguard_lt:52:DefaultText"
 msgid "And considering your previous hostilities, I say we escalate your penalty from a fine to a permanent layoff."
-msgstr ""
+msgstr "A vzhledem k vašemu předchozímu nepřátelství navrhuji, abychom váš trest zvýšili z pokuty na trvalé propuštění."
 
 #: conversations/00_emerald_vale/00_cv_introguard_lt:53
 msgctxt "conversations/00_emerald_vale/00_cv_introguard_lt:53:DefaultText"
 msgid "That was just an accidental weapon discharge. Could happen to anyone."
-msgstr ""
+msgstr "To byl jen náhodný výstřel ze zbraně. To se může stát každému."
 
 #: conversations/00_emerald_vale/00_cv_introguard_lt:54
 msgctxt "conversations/00_emerald_vale/00_cv_introguard_lt:54:DefaultText"
 msgid "This is all a misunderstanding. I'm a starship safety inspector, and you were interfering."
-msgstr ""
+msgstr "Jde o nedorozumění. Jsem inspektor bezpečnosti hvězdných lodí a vy jste se do toho pletl."
 
 #: conversations/00_emerald_vale/00_cv_introguard_lt:55
 msgctxt "conversations/00_emerald_vale/00_cv_introguard_lt:55:DefaultText"
 msgid "<Attack> You're absolutely right. You're fired."
-msgstr ""
+msgstr "<Attack> Máš naprostou pravdu. Máš padáka."
 
 #: conversations/00_emerald_vale/00_cv_introguard_lt:56
 msgctxt "conversations/00_emerald_vale/00_cv_introguard_lt:56:DefaultText"
 msgid "Hmm...yeah. That's a pretty common problem. Nothing to be ashamed of. You should head over to Edgewater, get that gun looked at."
-msgstr ""
+msgstr "Hmm... ano. To je docela častý problém. Není se za co stydět. Měl bys zajít do Edgewateru a nechat si tu zbraň prohlédnout."
 
 #: conversations/00_emerald_vale/00_cv_introguard_lt:58
 msgctxt "conversations/00_emerald_vale/00_cv_introguard_lt:58:DefaultText"
 msgid "Do I at least get severance?"
-msgstr ""
+msgstr "Dostanu alespoň odstupné?"
 
 #: conversations/00_emerald_vale/00_cv_introguard_lt:59
 msgctxt "conversations/00_emerald_vale/00_cv_introguard_lt:59:DefaultText"
 msgid "Fuck no. Now hold still, rungleech. Don't want to waste company bullets."
-msgstr ""
+msgstr "Kurva ne. Teď se nehýbej, Rungleechu. Nechci plýtvat náboji společnosti."
 
 #: conversations/00_emerald_vale/00_cv_introguard_lt:60
 msgctxt "conversations/00_emerald_vale/00_cv_introguard_lt:60:DefaultText"
 msgid "Now if you'll excuse me, I need to inspect the crime scene before I make my report."
-msgstr ""
+msgstr "Teď mě omluvte, musím si prohlédnout místo činu, než podám hlášení."
 
 #: conversations/00_emerald_vale/00_cv_introguard_lt:61
 msgctxt "conversations/00_emerald_vale/00_cv_introguard_lt:61:DefaultText"
 msgid "Take care."
-msgstr ""
+msgstr "Dávejte na sebe pozor."
 
 #: conversations/00_emerald_vale/00_cv_introguard_lt:63
 msgctxt "conversations/00_emerald_vale/00_cv_introguard_lt:63:DefaultText"
 msgid "Hey! Get over here before you get yourself killed!"
-msgstr ""
+msgstr "Hej! Pojď sem, než se zabiješ!"
 
 #: conversations/00_emerald_vale/00_cv_introguard_lt:66
 msgctxt "conversations/00_emerald_vale/00_cv_introguard_lt:66:DefaultText"
 msgid "If it ain't the starship inspector. Here's hoping Edgewater's up to your standards."
-msgstr ""
+msgstr "Jestli to není inspektor hvězdné lodi. Doufám, že Edgewater odpovídá tvým standardům."
 
 #: conversations/00_emerald_vale/00_cv_introguard_lt:67
 msgctxt "conversations/00_emerald_vale/00_cv_introguard_lt:67:DefaultText"
 msgid "Just between you and me? I'm glad you helped Pelham back there."
-msgstr ""
+msgstr "Jen mezi námi dvěma? Jsem rád, že jsi Pelhamovi pomohl."
 
 #: conversations/00_emerald_vale/00_cv_introguard_lt:68
 msgctxt "conversations/00_emerald_vale/00_cv_introguard_lt:68:DefaultText"
 msgid "Hey, look who it is. You found work yet?"
-msgstr ""
+msgstr "Hej, podívejme se, kdo to je. Už sis našel práci?"
 
 #: conversations/00_emerald_vale/00_cv_introguard_lt:69
 msgctxt "conversations/00_emerald_vale/00_cv_introguard_lt:69:DefaultText"
 msgid "How am I supposed to file a report with the power dead?"
-msgstr ""
+msgstr "Jak mám podat hlášení o mrtvém napájení?"

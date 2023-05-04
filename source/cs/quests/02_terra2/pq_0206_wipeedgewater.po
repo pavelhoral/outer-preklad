@@ -1,59 +1,59 @@
 #: quests/02_terra2/pq_0206_wipeedgewater:0
 msgctxt "quests/02_terra2/pq_0206_wipeedgewater:0:DefaultText"
 msgid "Foundation"
-msgstr ""
+msgstr "Nadace"
 
 #: quests/02_terra2/pq_0206_wipeedgewater:1
 msgctxt "quests/02_terra2/pq_0206_wipeedgewater:1:DefaultText"
 msgid "Use the Termination Protocol"
-msgstr ""
+msgstr "Použití protokolu o ukončení"
 
 #: quests/02_terra2/pq_0206_wipeedgewater:2
 msgctxt "quests/02_terra2/pq_0206_wipeedgewater:2:DefaultText"
 msgid "Deal With the Automechanicals in Edgewater"
-msgstr ""
+msgstr "Vypořádat se s automechaniky v Edgewateru"
 
 #: quests/02_terra2/pq_0206_wipeedgewater:3
 msgctxt "quests/02_terra2/pq_0206_wipeedgewater:3:DefaultText"
 msgid "Return to Sophia"
-msgstr ""
+msgstr "Zpět na Sophia"
 
 #: quests/02_terra2/pq_0206_wipeedgewater:10000
 msgctxt "quests/02_terra2/pq_0206_wipeedgewater:10000:DefaultText"
 msgid "Edgewater has become a leech on the colony's dwindling resources. Adjutant Akande wants you to wipe out the town."
-msgstr ""
+msgstr "Edgewater se stal pijavicí na ubývajících zdrojích kolonie. Adjutant Akande chce, abyste město zničili."
 
 #: quests/02_terra2/pq_0206_wipeedgewater:10001
 msgctxt "quests/02_terra2/pq_0206_wipeedgewater:10001:DefaultText"
 msgid "Adjutant Akande has a number of Spacer's Choice-brand automechanicals waiting at the Edgewater landing pad. She needs you to travel to the Emerald Vale geothermal plant and send the termination protocol from a terminal. The termination protocol will order the automechanicals to wipe out everyone in Edgewater."
-msgstr ""
+msgstr "Adjutant Akande má na přistávací ploše v Edgewateru několik automechanik značky Spacer's Choice. Potřebuje, abys odcestoval do geotermální elektrárny Emerald Vale a z terminálu odeslal protokol o ukončení provozu. Ukončovací protokol přikáže automechanikům, aby vyhladily všechny obyvatele Edgewateru."
 
 #: quests/02_terra2/pq_0206_wipeedgewater:10002
 msgctxt "quests/02_terra2/pq_0206_wipeedgewater:10002:DefaultText"
 msgid "You sent the kill command, and the automechanicals should be attacking Edgewater now. Sophia wants you to go back to Edgewater and clean out the remaining automechanicals."
-msgstr ""
+msgstr "Odeslal jsi příkaz k zabití a automechanici by teď měli zaútočit na Edgewater. Sophia chce, aby ses vrátil do Edgewateru a vyčistil zbývající automechaniky."
 
 #: quests/02_terra2/pq_0206_wipeedgewater:10003
 msgctxt "quests/02_terra2/pq_0206_wipeedgewater:10003:DefaultText"
 msgid "Return to Byzantium and report back to Adjutant Akande."
-msgstr ""
+msgstr "Vraťte se do Byzance a podejte zprávu adjutantovi Akandemu."
 
 #: quests/02_terra2/pq_0206_wipeedgewater:30000
 msgctxt "quests/02_terra2/pq_0206_wipeedgewater:30000:DefaultText"
 msgid "Edgewater has been wiped out. The Adjutant is pleased."
-msgstr ""
+msgstr "Edgewater byl zlikvidován. Adjutant má radost."
 
 #: quests/02_terra2/pq_0206_wipeedgewater:30001
 msgctxt "quests/02_terra2/pq_0206_wipeedgewater:30001:DefaultText"
 msgid "Sophia's plans for Edgewater - and the colony - have been indefinitely postponed because of her death."
-msgstr ""
+msgstr "Sophiiny plány pro Edgewater - a kolonii - byly kvůli její smrti odloženy na neurčito."
 
 #: quests/02_terra2/pq_0206_wipeedgewater:30002
 msgctxt "quests/02_terra2/pq_0206_wipeedgewater:30002:DefaultText"
 msgid "You skipped the Hope to Terra 2 for Phineas, spoiling the Adjutant's plans."
-msgstr ""
+msgstr "Přeskočil jsi naději na Terru 2 pro Phinease, čímž jsi zkazil adjutantovy plány."
 
 #: quests/02_terra2/pq_0206_wipeedgewater:30003
 msgctxt "quests/02_terra2/pq_0206_wipeedgewater:30003:DefaultText"
 msgid "You've ruined your reputation with the Board. Adjutant Akande will no longer work with you."
-msgstr ""
+msgstr "Zničil jste si pověst u správní rady. Adjutant Akande s vámi již nebude spolupracovat."

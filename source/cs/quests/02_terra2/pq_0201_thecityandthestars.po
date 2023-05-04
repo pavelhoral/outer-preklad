@@ -1,238 +1,240 @@
 #: quests/02_terra2/pq_0201_thecityandthestars:0
 msgctxt "quests/02_terra2/pq_0201_thecityandthestars:0:DefaultText"
 msgid "The City and the Stars"
-msgstr ""
+msgstr "Město a hvězdy"
 
 #: quests/02_terra2/pq_0201_thecityandthestars:1
 msgctxt "quests/02_terra2/pq_0201_thecityandthestars:1:DefaultText"
 msgid "Speak to Minister Clarke"
-msgstr ""
+msgstr "Obraťte se na ministra Clarkea"
 
 #: quests/02_terra2/pq_0201_thecityandthestars:2
 msgctxt "quests/02_terra2/pq_0201_thecityandthestars:2:DefaultText"
 msgid "Retrieve the Dimethyl Sulfoxide"
-msgstr ""
+msgstr "Získejte dimethylsulfoxid"
 
 #: quests/02_terra2/pq_0201_thecityandthestars:3
 msgctxt "quests/02_terra2/pq_0201_thecityandthestars:3:DefaultText"
 msgid "Return to Phineas"
-msgstr ""
+msgstr "Zpět na Phineas"
 
 #: quests/02_terra2/pq_0201_thecityandthestars:5
 msgctxt "quests/02_terra2/pq_0201_thecityandthestars:5:DefaultText"
 msgid "Search the Minister"
-msgstr ""
+msgstr "Vyhledávání ministra"
 
 #: quests/02_terra2/pq_0201_thecityandthestars:6
 msgctxt "quests/02_terra2/pq_0201_thecityandthestars:6:DefaultText"
 msgid "Meet with Phineas' Contact"
-msgstr ""
+msgstr "Setkání s Phineasovým kontaktem"
 
 #: quests/02_terra2/pq_0201_thecityandthestars:7
 msgctxt "quests/02_terra2/pq_0201_thecityandthestars:7:DefaultText"
 msgid "Investigate the Chairman's Office"
-msgstr ""
+msgstr "Vyšetřování kanceláře předsedy"
 
 #: quests/02_terra2/pq_0201_thecityandthestars:8
 msgctxt "quests/02_terra2/pq_0201_thecityandthestars:8:DefaultText"
 msgid "Search the Contact"
-msgstr ""
+msgstr "Vyhledat kontakt"
 
 #: quests/02_terra2/pq_0201_thecityandthestars:10
 msgctxt "quests/02_terra2/pq_0201_thecityandthestars:10:DefaultText"
 msgid "(Optional) Speak to the Minister's Guards"
-msgstr ""
+msgstr "(Nepovinné) Promluvte si s ministrovou stráží."
 
 #: quests/02_terra2/pq_0201_thecityandthestars:12
 msgctxt "quests/02_terra2/pq_0201_thecityandthestars:12:DefaultText"
 msgid "Investigate the Chairman's Office"
-msgstr ""
+msgstr "Vyšetřování kanceláře předsedy"
 
 #: quests/02_terra2/pq_0201_thecityandthestars:13
 msgctxt "quests/02_terra2/pq_0201_thecityandthestars:13:DefaultText"
 msgid "Investigate the Minister's Office"
-msgstr ""
+msgstr "Vyšetřování úřadu ministra"
 
 #: quests/02_terra2/pq_0201_thecityandthestars:14
 msgctxt "quests/02_terra2/pq_0201_thecityandthestars:14:DefaultText"
 msgid "Investigate the Minister's Office"
-msgstr ""
+msgstr "Vyšetřování úřadu ministra"
 
 #: quests/02_terra2/pq_0201_thecityandthestars:15
 msgctxt "quests/02_terra2/pq_0201_thecityandthestars:15:DefaultText"
 msgid "Search Mayfield's Corpse"
-msgstr ""
+msgstr "Hledání Mayfield's Corpse"
 
 #: quests/02_terra2/pq_0201_thecityandthestars:16
 msgctxt "quests/02_terra2/pq_0201_thecityandthestars:16:DefaultText"
 msgid "(Optional) Retrieve the Minister's Package from HPS"
-msgstr ""
+msgstr "(Volitelné) Získejte balíček ministra z HPS"
 
 #: quests/02_terra2/pq_0201_thecityandthestars:10000
 msgctxt "quests/02_terra2/pq_0201_thecityandthestars:10000:DefaultText"
 msgid "Now that Phineas knows Minister Clarke's been hoarding dimethyl sulfoxide in Byzantium, he just needs you to get to the city to steal it. Easy."
-msgstr ""
+msgstr "Teď, když Phineas ví, že ministr Clarke schraňuje dimethylsulfoxid v Byzanci, potřebuje, abyste se dostali do města a ukradli ho. Je to snadné."
 
 #: quests/02_terra2/pq_0201_thecityandthestars:10001
 msgctxt "quests/02_terra2/pq_0201_thecityandthestars:10001:DefaultText"
 msgid "Minister Clarke spends almost all of his time at his estate, which is under heavy guard. He may be hard to reach, but he's apparently been hoarding the colony's reserves of dimethyl sulfoxide."
-msgstr ""
+msgstr "Ministr Clarke tráví téměř všechen čas na svém panství, které je přísně střeženo. Je sice těžko dosažitelný, ale zjevně hromadí zásoby dimethylsulfoxidu v kolonii."
 
 #: quests/02_terra2/pq_0201_thecityandthestars:10002
 msgctxt "quests/02_terra2/pq_0201_thecityandthestars:10002:DefaultText"
 msgid "You've learned the dimethyl sulfoxide is at the Ministry of Accuracy and Morale along with whatever Chairman Rockwell is working on."
-msgstr ""
+msgstr "Dozvěděli jste se, že dimethylsulfoxid je na ministerstvu přesnosti a morálky spolu s tím, na čem pracuje předseda Rockwell."
 
 #: quests/02_terra2/pq_0201_thecityandthestars:10003
 msgctxt "quests/02_terra2/pq_0201_thecityandthestars:10003:DefaultText"
 msgid "Now that you have the dimethyl sulfoxide, rendezvous with Phineas at his lab to plan your next move."
-msgstr ""
+msgstr "Nyní, když máte dimethylsulfoxid, se sejděte s Phineasem v jeho laboratoři a naplánujte svůj další postup."
 
 #: quests/02_terra2/pq_0201_thecityandthestars:10005
 msgctxt "quests/02_terra2/pq_0201_thecityandthestars:10005:DefaultText"
 msgid "You killed Minister Clarke. Hopefully there's something on his person that indicates where Phineas' chemicals are."
-msgstr ""
+msgstr "Zabil jste ministra Clarkea. Doufejme, že má u sebe něco, co naznačuje, kde jsou Phineasovy chemikálie."
 
 #: quests/02_terra2/pq_0201_thecityandthestars:10006
 msgctxt "quests/02_terra2/pq_0201_thecityandthestars:10006:DefaultText"
 msgid "Phineas has an associate who can help you locate Minister Clarke. This person works at the Byzantium docks."
-msgstr ""
+msgstr "Phineas má spolupracovníka, který vám pomůže najít ministra Clarkea. Tato osoba pracuje v byzantských docích."
 
 #: quests/02_terra2/pq_0201_thecityandthestars:10007
 msgctxt "quests/02_terra2/pq_0201_thecityandthestars:10007:DefaultText"
 msgid "Minister Clarke knows nothing about the dimethyl sulfoxide and explained that Chairman Rockwell has actually been keeping him under house arrest.\r\n"
 "\r\n"
 "Clarke is certain Rockwell is behind the purchase of the chemicals."
-msgstr ""
+msgstr "Ministr Clarke o dimetylsulfoxidu nic neví a vysvětlil, že předseda Rockwell ho ve skutečnosti drží v domácím vězení. Clarke si je jistý, že za nákupem chemikálií stojí Rockwell."
 
 #: quests/02_terra2/pq_0201_thecityandthestars:10008
 msgctxt "quests/02_terra2/pq_0201_thecityandthestars:10008:DefaultText"
 msgid "Phineas' contact is dead, but she may have the information you need to reach Minister Clarke."
-msgstr ""
+msgstr "Phineasův kontakt je mrtvý, ale možná má informace, které potřebujete, abyste se spojili s ministrem Clarkem."
 
 #: quests/02_terra2/pq_0201_thecityandthestars:10010
 msgctxt "quests/02_terra2/pq_0201_thecityandthestars:10010:DefaultText"
 msgid "Some of Minister Clarke's guards hang out at a local bar. One of them might be able to provide some information regarding Clarke's residence."
-msgstr ""
+msgstr "Někteří strážci ministra Clarka se scházejí v místním baru. Jeden z nich by mohl poskytnout nějaké informace o Clarkově sídle."
 
 #: quests/02_terra2/pq_0201_thecityandthestars:10012
 msgctxt "quests/02_terra2/pq_0201_thecityandthestars:10012:DefaultText"
 msgid "You found the minister's office, but it's obvious that no one's worked there for quite some time. \n"
 "\n"
 "In fact, it looks like it's about to become part of the Chairman's office."
-msgstr ""
+msgstr "Našli jste kancelář ministra, ale je zřejmé, že tam už dlouho nikdo nepracoval. \n"
+"\n"
+"Vlastně to vypadá, že se brzy stane součástí kanceláře předsedy."
 
 #: quests/02_terra2/pq_0201_thecityandthestars:10013
 msgctxt "quests/02_terra2/pq_0201_thecityandthestars:10013:DefaultText"
 msgid "You found an access card for the HHC building on the minister's body. Perhaps you'll find additional clues there."
-msgstr ""
+msgstr "Na ministrově těle jste našli přístupovou kartu do budovy HHC. Možná tam najdeš další stopy."
 
 #: quests/02_terra2/pq_0201_thecityandthestars:10014
 msgctxt "quests/02_terra2/pq_0201_thecityandthestars:10014:DefaultText"
 msgid "You pickpocketed an access card from the minister that appears to open an office in the HHC building. You could check out that office or try talking to him."
-msgstr ""
+msgstr "Ministrovi jste sebrali přístupovou kartu, která zřejmě otevírá kancelář v budově HHC. Můžeš si tuto kancelář prohlédnout nebo si s ním zkusit promluvit."
 
 #: quests/02_terra2/pq_0201_thecityandthestars:10015
 msgctxt "quests/02_terra2/pq_0201_thecityandthestars:10015:DefaultText"
 msgid "You killed Mayfield, one of the guards who works at the minister's residence. Still, he may have something to help you get inside."
-msgstr ""
+msgstr "Zabil jsi Mayfielda, jednoho ze strážných, kteří pracují v rezidenci ministra. Přesto ti možná pomůže dostat se dovnitř."
 
 #: quests/02_terra2/pq_0201_thecityandthestars:10016
 msgctxt "quests/02_terra2/pq_0201_thecityandthestars:10016:DefaultText"
 msgid "You've learned that the minister sometimes receives packages from HPS. If you showed up at his residence with a package for him, the guards might just let you in."
-msgstr ""
+msgstr "Dozvěděli jste se, že ministr občas dostává balíčky od HPS. Kdyby ses objevil v jeho rezidenci s balíčkem pro něj, strážci by tě možná pustili dovnitř."
 
 #: quests/02_terra2/pq_0201_thecityandthestars:20000
 msgctxt "quests/02_terra2/pq_0201_thecityandthestars:20000:DefaultText"
 msgid "There's a security checkpoint heading into the Acropolis District. If you can't talk your way past it, you'll have to find another way in."
-msgstr ""
+msgstr "Ve čtvrti Akropolis je bezpečnostní kontrola. Pokud se přes něj nedokážete dostat, budete si muset najít jinou cestu dovnitř."
 
 #: quests/02_terra2/pq_0201_thecityandthestars:20001
 msgctxt "quests/02_terra2/pq_0201_thecityandthestars:20001:DefaultText"
 msgid "The maintenance tunnels beneath Byzantium connect to the Acropolis District."
-msgstr ""
+msgstr "Údržbové tunely pod Byzancí navazují na čtvrť Akropolis."
 
 #: quests/02_terra2/pq_0201_thecityandthestars:20003
 msgctxt "quests/02_terra2/pq_0201_thecityandthestars:20003:DefaultText"
 msgid "You reached Minister Clarke without the guard's assistance."
-msgstr ""
+msgstr "K ministru Clarkovi jste se dostal bez pomoci strážného."
 
 #: quests/02_terra2/pq_0201_thecityandthestars:20004
 msgctxt "quests/02_terra2/pq_0201_thecityandthestars:20004:DefaultText"
 msgid "You acquired a keycard to Minister Clarke's residence from Mayfield."
-msgstr ""
+msgstr "Od Mayfielda jste získal kartu od rezidence ministra Clarkea."
 
 #: quests/02_terra2/pq_0201_thecityandthestars:20005
 msgctxt "quests/02_terra2/pq_0201_thecityandthestars:20005:DefaultText"
 msgid "You found an access card on the minister's body."
-msgstr ""
+msgstr "Na ministrově těle jste našli přístupovou kartu."
 
 #: quests/02_terra2/pq_0201_thecityandthestars:20007
 msgctxt "quests/02_terra2/pq_0201_thecityandthestars:20007:DefaultText"
 msgid "There are some shipments at the dock awaiting transport to the Ministry. Maybe Carmen could help you sneak aboard."
-msgstr ""
+msgstr "V docích je několik zásilek, které čekají na přepravu na ministerstvo. Možná by ti Carmen mohla pomoci proklouznout na palubu."
 
 #: quests/02_terra2/pq_0201_thecityandthestars:20008
 msgctxt "quests/02_terra2/pq_0201_thecityandthestars:20008:DefaultText"
 msgid "You took a lesser quantity of dimethyl sulfoxide. As a result, the experimental test subjects are alive, and the Board's research will continue unhindered."
-msgstr ""
+msgstr "Vzal jste si menší množství dimethylsulfoxidu. Výsledkem je, že pokusné subjekty jsou naživu a výzkum Rady bude nerušeně pokračovat."
 
 #: quests/02_terra2/pq_0201_thecityandthestars:20009
 msgctxt "quests/02_terra2/pq_0201_thecityandthestars:20009:DefaultText"
 msgid "You took all of the dimethyl sulfoxide, killing the experimental test subjects and hindering the Board's research."
-msgstr ""
+msgstr "Vzal jste si všechen dimethylsulfoxid, čímž jste zabil pokusné subjekty a znemožnil výzkum komise."
 
 #: quests/02_terra2/pq_0201_thecityandthestars:20010
 msgctxt "quests/02_terra2/pq_0201_thecityandthestars:20010:DefaultText"
 msgid "Caroline, a scientist at the Ministry of Accuracy and Morale, has an ongoing feud with Theodore, one of her coworkers."
-msgstr ""
+msgstr "Caroline, vědkyně na ministerstvu přesnosti a morálky, má neustálý spor s Theodorem, jedním ze svých spolupracovníků."
 
 #: quests/02_terra2/pq_0201_thecityandthestars:20011
 msgctxt "quests/02_terra2/pq_0201_thecityandthestars:20011:DefaultText"
 msgid "Mayfield, one of Minister Clarke's guards, has a key to the estate. He's aggressively celebrating his promotion with Spectrum Vodka."
-msgstr ""
+msgstr "Mayfield, jeden ze strážců ministra Clarkea, má klíč od panství. Své povýšení agresivně oslavuje vodkou Spectrum."
 
 #: quests/02_terra2/pq_0201_thecityandthestars:20012
 msgctxt "quests/02_terra2/pq_0201_thecityandthestars:20012:DefaultText"
 msgid "You gave Mayfield a Spectrum Vodka, and he's acting pretty tipsy. A couple more and you could probably get him very drunk."
-msgstr ""
+msgstr "Dal jsi Mayfieldovi vodku Spectrum a on se chová dost podnapilý. Ještě pár skleniček a pravděpodobně bys ho opil hodně."
 
 #: quests/02_terra2/pq_0201_thecityandthestars:20013
 msgctxt "quests/02_terra2/pq_0201_thecityandthestars:20013:DefaultText"
 msgid "One more Spectrum Vodka ought to do Mayfield in."
-msgstr ""
+msgstr "Ještě jedna Spectrum Vodka by měla Mayfielda vyřídit."
 
 #: quests/02_terra2/pq_0201_thecityandthestars:20014
 msgctxt "quests/02_terra2/pq_0201_thecityandthestars:20014:DefaultText"
 msgid "Mayfield's heading to the bathroom. This is your chance to grab his key."
-msgstr ""
+msgstr "Mayfield jde na záchod. Teď máš šanci sebrat mu klíče."
 
 #: quests/02_terra2/pq_0201_thecityandthestars:20016
 msgctxt "quests/02_terra2/pq_0201_thecityandthestars:20016:DefaultText"
 msgid "You convinced one of the clerks to hand over the minister's package."
-msgstr ""
+msgstr "Přesvědčil jste jednoho z úředníků, aby vám předal ministrův balíček."
 
 #: quests/02_terra2/pq_0201_thecityandthestars:20017
 msgctxt "quests/02_terra2/pq_0201_thecityandthestars:20017:DefaultText"
 msgid "You snuck into the mail room of HPS and stole the minister's package."
-msgstr ""
+msgstr "Vplížil ses do podatelny HPS a ukradl ministrovu zásilku."
 
 #: quests/02_terra2/pq_0201_thecityandthestars:20018
 msgctxt "quests/02_terra2/pq_0201_thecityandthestars:20018:DefaultText"
 msgid "You killed the main clerk at HPS. You'll have to get the package another way."
-msgstr ""
+msgstr "Zabil jste hlavního úředníka HPS. Balíček budeš muset získat jinak."
 
 #: quests/02_terra2/pq_0201_thecityandthestars:20019
 msgctxt "quests/02_terra2/pq_0201_thecityandthestars:20019:DefaultText"
 msgid "You found an empty canister. There should be a way to transfer the dimethyl sulfoxide into it."
-msgstr ""
+msgstr "Našel jsi prázdný kanystr. Měl by existovat způsob, jak do něj přenést dimethylsulfoxid."
 
 #: quests/02_terra2/pq_0201_thecityandthestars:30000
 msgctxt "quests/02_terra2/pq_0201_thecityandthestars:30000:DefaultText"
 msgid "You successfully brought the dimethyl sulfoxide back to Phineas."
-msgstr ""
+msgstr "Úspěšně jsi vrátil dimethylsulfoxid Phineasovi."
 
 #: quests/02_terra2/pq_0201_thecityandthestars:30001
 msgctxt "quests/02_terra2/pq_0201_thecityandthestars:30001:DefaultText"
 msgid "You skipped the Hope to Tartarus for the Board, throwing Phineas' plans into disarray."
-msgstr ""
+msgstr "Přeskočil jsi Naději do Tartaru pro představenstvo, čímž jsi zhatil Phineasovy plány."

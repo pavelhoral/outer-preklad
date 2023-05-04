@@ -10,12 +10,12 @@ msgid "Edgewater Saltuna Cannery\r\n"
 "Welcome, Holcomb, Robert\r\n"
 "\r\n"
 "Enter a Keyword for Record Search, or hold down CTRL-ALT-F7-ENTER to compose a new entry."
-msgstr ""
+msgstr "Edgewater Saltuna Cannery A Spacer's Choice Property ======================== Maintenance Division Personal Terminal Welcome, Holcomb, Robert Zadejte klíčové slovo pro vyhledávání záznamů nebo podržte klávesy CTRL-ALT-F7-ENTER pro vytvoření nového záznamu."
 
 #: conversations/00_emerald_vale/00_cp_parvati_dad_room:2
 msgctxt "conversations/00_emerald_vale/00_cp_parvati_dad_room:2:DefaultText"
 msgid "[Young Spacer's Guide to Mechanical Engineering]"
-msgstr ""
+msgstr "[Young Spacer's Guide to Mechanical Engineering]"
 
 #: conversations/00_emerald_vale/00_cp_parvati_dad_room:3
 msgctxt "conversations/00_emerald_vale/00_cp_parvati_dad_room:3:DefaultText"
@@ -28,22 +28,22 @@ msgid "Edgewater Saltuna Cannery\r\n"
 "Searching...\r\n"
 "\r\n"
 "One Record Found."
-msgstr ""
+msgstr "Edgewater Saltuna Cannery A Spacer's Choice Property ======================== Searching... One Record Found."
 
 #: conversations/00_emerald_vale/00_cp_parvati_dad_room:4
 msgctxt "conversations/00_emerald_vale/00_cp_parvati_dad_room:4:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"
 
 #: conversations/00_emerald_vale/00_cp_parvati_dad_room:8
 msgctxt "conversations/00_emerald_vale/00_cp_parvati_dad_room:8:DefaultText"
 msgid "[Open Last Entry]"
-msgstr ""
+msgstr "[Otevřít poslední záznam]"
 
 #: conversations/00_emerald_vale/00_cp_parvati_dad_room:9
 msgctxt "conversations/00_emerald_vale/00_cp_parvati_dad_room:9:DefaultText"
 msgid "[Return to Root]"
-msgstr ""
+msgstr "[Zpět na kořen]"
 
 #: conversations/00_emerald_vale/00_cp_parvati_dad_room:12
 msgctxt "conversations/00_emerald_vale/00_cp_parvati_dad_room:12:DefaultText"
@@ -56,12 +56,12 @@ msgid "Edgewater Saltuna Cannery\r\n"
 "I sat up last night reading through the Young Spacer's Guide. Almost started reading it out loud, from habit. It's been ten years, but I still have parts of it memorized. \r\n"
 "\r\n"
 "Reckon I'll take the next volume into work at the cannery. There's an unused office where I've been taking my lunches. May as well read the whole thing again."
-msgstr ""
+msgstr "Edgewater Saltuna Cannery Spacer's Choice Property ======================== Včera v noci jsem seděl a četl si Průvodce mladého spacera. Málem jsem ji ze zvyku začal číst nahlas. Je to už deset let, ale pořád mám některé části zapamatované. Říkám si, že si další díl vezmu do práce v konzervárně. Je tam nevyužitá kancelář, kam si chodím na obědy. Klidně si to můžu přečíst celé znovu."
 
 #: conversations/00_emerald_vale/00_cp_parvati_dad_room:13
 msgctxt "conversations/00_emerald_vale/00_cp_parvati_dad_room:13:DefaultText"
 msgid "[Open Last Search]"
-msgstr ""
+msgstr "[Otevřít poslední vyhledávání]"
 
 #: conversations/00_emerald_vale/00_cp_parvati_dad_room:14
 msgctxt "conversations/00_emerald_vale/00_cp_parvati_dad_room:14:DefaultText"
@@ -76,17 +76,17 @@ msgid "Edgewater Saltuna Cannery\r\n"
 "Searching...\r\n"
 "\r\n"
 "Two Records Found."
-msgstr ""
+msgstr "Edgewater Saltuna Cannery A Spacer's Choice Property ======================== Poslední hledání: \"Nalezeny dva záznamy."
 
 #: conversations/00_emerald_vale/00_cp_parvati_dad_room:15
 msgctxt "conversations/00_emerald_vale/00_cp_parvati_dad_room:15:DefaultText"
 msgid "[First Entry]"
-msgstr ""
+msgstr "[První záznam]"
 
 #: conversations/00_emerald_vale/00_cp_parvati_dad_room:16
 msgctxt "conversations/00_emerald_vale/00_cp_parvati_dad_room:16:DefaultText"
 msgid "[Transcript: Note from Indumati]"
-msgstr ""
+msgstr "[Přepis: poznámka od Indumati]"
 
 #: conversations/00_emerald_vale/00_cp_parvati_dad_room:17
 msgctxt "conversations/00_emerald_vale/00_cp_parvati_dad_room:17:DefaultText"
@@ -97,7 +97,7 @@ msgid "Edgewater Saltuna Cannery\r\n"
 "\r\n"
 "\r\n"
 "Indumati left Edgewater today. She's been reassigned to Terra 1. I kissed her goodbye at the platform, and asked if I'd ever see her again. We both knew the answer was no. \"Look up and think of me, as I'll look up and think of you.\""
-msgstr ""
+msgstr "Edgewater Saltuna Cannery A Spacer's Choice Property ======================== Indumati dnes opustil Edgewater. Byla přeřazena na Terru 1. Na nástupišti jsem ji políbil na rozloučenou a zeptal se, jestli ji ještě někdy uvidím. Oba jsme věděli, že odpověď zní ne. \"Podívej se nahoru a mysli na mě, stejně jako já se podívám nahoru a budu myslet na tebe.\""
 
 #: conversations/00_emerald_vale/00_cp_parvati_dad_room:18
 msgctxt "conversations/00_emerald_vale/00_cp_parvati_dad_room:18:DefaultText"
@@ -116,4 +116,4 @@ msgid "Edgewater Saltuna Cannery\r\n"
 "She liked it when I sang to her. It was the only time she stopped crying.\r\n"
 "\r\n"
 "Indumati"
-msgstr ""
+msgstr "Edgewater Saltuna Cannery A Spacer's Choice Property ======================== Robert, Nedovolili mi ji nechat si, ale vím, že ji vychováte s láskou. Možná víc, než bych si já udělal čas. Jsi trpělivý a přítomný tak, jak já nejsem. Společnost říká, že nemá jméno, dokud jí ho nedáš. Jmenuje se Parvati. Řekli mi, že její narozeniny budou stanoveny na datum, kdy ti bude legálně doručena. Ve skutečnosti se narodila 7. července. Ať se cítí výjimečně, když já nemůžu. Líbilo se jí, když jsem jí zpívala. To byla jediná chvíle, kdy přestala plakat. Indumati"

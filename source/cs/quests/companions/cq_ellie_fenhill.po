@@ -1,98 +1,98 @@
 #: quests/companions/cq_ellie_fenhill:0
 msgctxt "quests/companions/cq_ellie_fenhill:0:DefaultText"
 msgid "The Low Crusade"
-msgstr ""
+msgstr "Nízká křížová výprava"
 
 #: quests/companions/cq_ellie_fenhill:1
 msgctxt "quests/companions/cq_ellie_fenhill:1:DefaultText"
 msgid "Visit Ellie's Parents in Byzantium"
-msgstr ""
+msgstr "Návštěva Elliiných rodičů v Byzanci"
 
 #: quests/companions/cq_ellie_fenhill:2
 msgctxt "quests/companions/cq_ellie_fenhill:2:DefaultText"
 msgid "Set Up a Dummy Beneficiary Account for Ellie"
-msgstr ""
+msgstr "Nastavení fiktivního účtu příjemce pro Ellie"
 
 #: quests/companions/cq_ellie_fenhill:3
 msgctxt "quests/companions/cq_ellie_fenhill:3:DefaultText"
 msgid "Talk to Ellie"
-msgstr ""
+msgstr "Promluvte si s Ellie"
 
 #: quests/companions/cq_ellie_fenhill:5
 msgctxt "quests/companions/cq_ellie_fenhill:5:DefaultText"
 msgid "Follow Up with Ellie"
-msgstr ""
+msgstr "Následná spolupráce s Ellie"
 
 #: quests/companions/cq_ellie_fenhill:11
 msgctxt "quests/companions/cq_ellie_fenhill:11:DefaultText"
 msgid "Find the Insurance Agency Office"
-msgstr ""
+msgstr "Vyhledejte kancelář pojišťovací agentury"
 
 #: quests/companions/cq_ellie_fenhill:10000
 msgctxt "quests/companions/cq_ellie_fenhill:10000:DefaultText"
 msgid "Ellie wants you to take her to visit her parents in Byzantium. When you're in the area."
-msgstr ""
+msgstr "Ellie chce, abys ji vzal na návštěvu k rodičům do Byzance. Až budete v oblasti."
 
 #: quests/companions/cq_ellie_fenhill:10001
 msgctxt "quests/companions/cq_ellie_fenhill:10001:DefaultText"
 msgid "Ellie hasn't spoken to her parents in a long time, and she thinks it's high time she check on them. With you in tow, of course."
-msgstr ""
+msgstr "Ellie už dlouho nemluvila se svými rodiči a myslí si, že je nejvyšší čas je zkontrolovat. Samozřejmě s tebou v závěsu."
 
 #: quests/companions/cq_ellie_fenhill:10002
 msgctxt "quests/companions/cq_ellie_fenhill:10002:DefaultText"
 msgid "Visit the Greater Halcyon Insurance Group in Fallbrook and set up a dummy beneficiary account for Ellie. "
-msgstr ""
+msgstr "Navštivte pojišťovnu Greater Halcyon Insurance Group ve Fallbrooku a zřiďte Ellie fiktivní účet příjemce. "
 
 #: quests/companions/cq_ellie_fenhill:10003
 msgctxt "quests/companions/cq_ellie_fenhill:10003:DefaultText"
 msgid "All of Ellie's future insurance payouts will now be funneled into her dummy account. Time to wrap things up with her."
-msgstr ""
+msgstr "Všechny Elliiny budoucí výplaty z pojištění budou nyní zasílány na její fiktivní účet. Je čas to s ní ukončit."
 
 #: quests/companions/cq_ellie_fenhill:10005
 msgctxt "quests/companions/cq_ellie_fenhill:10005:DefaultText"
 msgid "Ellie was understandably dismayed to find that her parents had declared her dead and were living off her life insurance money.\r\n"
 "\r\n"
 "She probably needs to talk... somewhere away from her folks."
-msgstr ""
+msgstr "Ellie byla pochopitelně zděšená, když zjistila, že ji rodiče prohlásili za mrtvou a žijí z její životní pojistky. Nejspíš si potřebuje promluvit... někde daleko od rodičů."
 
 #: quests/companions/cq_ellie_fenhill:10011
 msgctxt "quests/companions/cq_ellie_fenhill:10011:DefaultText"
 msgid "If anyone's going to make money off of Ellie's alleged death, Ellie figures it should be her.\r\n"
 "\r\n"
 "Find the Greater Halcyon Insurance Group in Byzantium to set things straight."
-msgstr ""
+msgstr "Pokud má někdo vydělat na údajné Elliině smrti, Ellie si myslí, že by to měla být ona. Najde pojišťovací skupinu Greater Halcyon v Byzanci, aby uvedla věci na pravou míru."
 
 #: quests/companions/cq_ellie_fenhill:20000
 msgctxt "quests/companions/cq_ellie_fenhill:20000:DefaultText"
 msgid "The insurance agent is dead. You'll have to find a terminal and do this yourself."
-msgstr ""
+msgstr "Pojišťovací agent je mrtvý. Budete si muset najít terminál a udělat to sami."
 
 #: quests/companions/cq_ellie_fenhill:20001
 msgctxt "quests/companions/cq_ellie_fenhill:20001:DefaultText"
 msgid "The insurance agent mentioned a terminal in the back room that stores all their policy data."
-msgstr ""
+msgstr "Pojišťovací agent se zmínil o terminálu v zadní místnosti, kde jsou uloženy všechny údaje o pojistných smlouvách."
 
 #: quests/companions/cq_ellie_fenhill:20002
 msgctxt "quests/companions/cq_ellie_fenhill:20002:DefaultText"
 msgid "Well, you found the address... but no insurance agency. There is a mailbox, however."
-msgstr ""
+msgstr "Našli jste adresu... ale žádnou pojišťovací agenturu. Je tu však poštovní schránka."
 
 #: quests/companions/cq_ellie_fenhill:30000
 msgctxt "quests/companions/cq_ellie_fenhill:30000:DefaultText"
 msgid "You were unable to help Ellie."
-msgstr ""
+msgstr "Ellie jste nedokázali pomoci."
 
 #: quests/companions/cq_ellie_fenhill:30001
 msgctxt "quests/companions/cq_ellie_fenhill:30001:DefaultText"
 msgid "You got Ellie got her money and showed her the value in looking out for others."
-msgstr ""
+msgstr "Dostala jsi Ellie peníze a ukázala jsi jí, jak je důležité starat se o druhé."
 
 #: quests/companions/cq_ellie_fenhill:30002
 msgctxt "quests/companions/cq_ellie_fenhill:30002:DefaultText"
 msgid "You got Ellie got her money and reinforced her belief in self-reliance."
-msgstr ""
+msgstr "Díky vám Ellie získala peníze a posílila svou víru v soběstačnost."
 
 #: quests/companions/cq_ellie_fenhill:40001
 msgctxt "quests/companions/cq_ellie_fenhill:40001:DefaultText"
 msgid "Ellie ran into her parents on Byzantium. They're no longer on speaking terms."
-msgstr ""
+msgstr "Ellie narazila na své rodiče na ostrově Byzantium. Už spolu nemluví."

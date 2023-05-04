@@ -1,12 +1,12 @@
 #: conversations/08_roseway/08_cp_storage_facility_armory_terminal:2
 msgctxt "conversations/08_roseway/08_cp_storage_facility_armory_terminal:2:DefaultText"
 msgid "[Armory Logs]"
-msgstr ""
+msgstr "[Deníky zbrojnice]"
 
 #: conversations/08_roseway/08_cp_storage_facility_armory_terminal:4
 msgctxt "conversations/08_roseway/08_cp_storage_facility_armory_terminal:4:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"
 
 #: conversations/08_roseway/08_cp_storage_facility_armory_terminal:5
 msgctxt "conversations/08_roseway/08_cp_storage_facility_armory_terminal:5:DefaultText"
@@ -14,27 +14,27 @@ msgid "ARMORY LOGS\r\n"
 "------------------------------\r\n"
 "[1. FORCE Phlogisynchotron Pistol]\r\n"
 "[2. Ammunition, Misc.]"
-msgstr ""
+msgstr "ARMORY LOGS ------------------------------ [1. FORCE Phlogisynchotron Pistol] [2. Munice, Různé]"
 
 #: conversations/08_roseway/08_cp_storage_facility_armory_terminal:8
 msgctxt "conversations/08_roseway/08_cp_storage_facility_armory_terminal:8:DefaultText"
 msgid "[FORCE Phlogisynchotron Pistol]"
-msgstr ""
+msgstr "[FORCE Phlogisynchotron Pistol]"
 
 #: conversations/08_roseway/08_cp_storage_facility_armory_terminal:9
 msgctxt "conversations/08_roseway/08_cp_storage_facility_armory_terminal:9:DefaultText"
 msgid "[Ammunition, Misc.]"
-msgstr ""
+msgstr "[Munice, Různé]"
 
 #: conversations/08_roseway/08_cp_storage_facility_armory_terminal:10
 msgctxt "conversations/08_roseway/08_cp_storage_facility_armory_terminal:10:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"
 
 #: conversations/08_roseway/08_cp_storage_facility_armory_terminal:12
 msgctxt "conversations/08_roseway/08_cp_storage_facility_armory_terminal:12:DefaultText"
 msgid "FORCE Phlogisynchotron Pistol status:  Functional. Untrained personnel must attend site safety seminar S-023 before using. As a seminar officer is not currently available, recommend permanent secure storage."
-msgstr ""
+msgstr "Stav pistole FORCE Phlogisynchotron:  Funkční. Neproškolený personál musí před použitím absolvovat seminář o bezpečnosti na pracovišti S-023. Vzhledem k tomu, že pracovník pro seminář není v současné době k dispozici, doporučujeme trvalé bezpečné uložení."
 
 #: conversations/08_roseway/08_cp_storage_facility_armory_terminal:13
 msgctxt "conversations/08_roseway/08_cp_storage_facility_armory_terminal:13:DefaultText"
@@ -43,7 +43,7 @@ msgid "Current ammunition counts:\r\n"
 "ERROR: Ammunition entries not found.\r\n"
 "\r\n"
 "Please contact Volkova, M. and request that ammunition entries be updated as soon as possible in order to maintain our stock for security personnel."
-msgstr ""
+msgstr "Aktuální počet kusů munice: ERROR: Prosím, kontaktujte Volkovou, M. a požádejte o co nejrychlejší aktualizaci záznamů o munici, aby bylo možné udržovat zásoby pro bezpečnostní personál."
 
 #: conversations/08_roseway/08_cp_storage_facility_armory_terminal:16
 msgctxt "conversations/08_roseway/08_cp_storage_facility_armory_terminal:16:DefaultText"
@@ -54,7 +54,7 @@ msgid "Argos Security Systems\n"
 "All personnel please report to assigned workstations. Report suspicious activity to the nearest Site Safety Engineer.\n"
 "---------------------------------\n"
 "Auntie Cleo Auntie-Biotics™: served fresh from our petri dishes to YOUR personal crevices."
-msgstr ""
+msgstr "Argos Security Systems --------------------------------- BEZPEČNOSTNÍ UZÁVĚRA Všichni zaměstnanci se dostavte na přidělená pracoviště. Podezřelou činnost nahlaste nejbližšímu bezpečnostnímu technikovi pracoviště. --------------------------------- Auntie Cleo Auntie-Biotics™: podáváme čerstvě z našich Petriho misek do VAŠICH osobních štěrbin."
 
 #: conversations/08_roseway/08_cp_storage_facility_armory_terminal:17
 msgctxt "conversations/08_roseway/08_cp_storage_facility_armory_terminal:17:DefaultText"
@@ -65,7 +65,7 @@ msgid "Argos Security Systems\r\n"
 "All personnel please report to assigned workstations. Report suspicious activity to the nearest Site Safety Engineer.\r\n"
 "---------------------------------\r\n"
 "\"Auntie Cleo's - Better than Nature!\"™"
-msgstr ""
+msgstr "Argos Security Systems --------------------------------- BEZPEČNOSTNÍ UZÁVĚRA Všichni zaměstnanci se dostavte na přidělená pracoviště. Podezřelou činnost nahlaste nejbližšímu bezpečnostnímu technikovi pracoviště. --------------------------------- \"Auntie Cleo's - Better than Nature!\"™"
 
 #: conversations/08_roseway/08_cp_storage_facility_armory_terminal:18
 msgctxt "conversations/08_roseway/08_cp_storage_facility_armory_terminal:18:DefaultText"
@@ -76,7 +76,7 @@ msgid "Argos Security Systems\r\n"
 "All personnel please report to assigned workstations. Report suspicious activity to the nearest Site Safety Engineer.\r\n"
 "---------------------------------\r\n"
 "Feeling irate? Try Auntie Cleo's Nar-Choc-Lectic™ bars. Now with 3% real CCN76."
-msgstr ""
+msgstr "Argos Security Systems --------------------------------- BEZPEČNOSTNÍ UZÁVĚRA Všichni zaměstnanci se dostavte na přidělená pracoviště. Podezřelou činnost nahlaste nejbližšímu bezpečnostnímu technikovi pracoviště. --------------------------------- Cítíte se podráždění? Vyzkoušejte tyčinky Auntie Cleo's Nar-Choc-Lectic™. Nyní s 3 % skutečného CCN76."
 
 #: conversations/08_roseway/08_cp_storage_facility_armory_terminal:19
 msgctxt "conversations/08_roseway/08_cp_storage_facility_armory_terminal:19:DefaultText"
@@ -87,7 +87,7 @@ msgid "Argos Security Systems\r\n"
 "All personnel please report to assigned workstations. Report suspicious activity to the nearest Site Safety Engineer.\r\n"
 "---------------------------------\r\n"
 "Have you brushed your teeth with Auntie's Blinding White Paste™ today?"
-msgstr ""
+msgstr "Argos Security Systems --------------------------------- BEZPEČNOSTNÍ UZÁVĚRA Všichni zaměstnanci se dostavte na přidělená pracoviště. Podezřelou činnost nahlaste nejbližšímu bezpečnostnímu technikovi pracoviště. --------------------------------- Vyčistili jste si dnes zuby oslepující bílou pastou Auntie's White Paste™?"
 
 #: conversations/08_roseway/08_cp_storage_facility_armory_terminal:20
 msgctxt "conversations/08_roseway/08_cp_storage_facility_armory_terminal:20:DefaultText"
@@ -98,7 +98,7 @@ msgid "Argos Security Systems\r\n"
 "All personnel please report to assigned workstations. Report suspicious activity to the nearest Site Safety Engineer.\r\n"
 "---------------------------------\r\n"
 "Parents who buy Auntie Cleo should have children who buy Auntie Cleo."
-msgstr ""
+msgstr "Argos Security Systems --------------------------------- BEZPEČNOSTNÍ UZÁVĚRA Všichni zaměstnanci se dostavte na přidělená pracoviště. Podezřelou činnost nahlaste nejbližšímu bezpečnostnímu technikovi pracoviště. --------------------------------- Rodiče, kteří kupují Auntie Cleo, by měli mít děti, které kupují Auntie Cleo."
 
 #: conversations/08_roseway/08_cp_storage_facility_armory_terminal:21
 msgctxt "conversations/08_roseway/08_cp_storage_facility_armory_terminal:21:DefaultText"
@@ -109,7 +109,7 @@ msgid "Argos Security Systems\r\n"
 "All personnel please report to assigned workstations. Report suspicious activity to the nearest Site Safety Engineer.\r\n"
 "---------------------------------\r\n"
 "Tired of itchy acid burns? Try Auntie Cleo's artisanal boarst-scented moisturizing cream."
-msgstr ""
+msgstr "Argos Security Systems --------------------------------- BEZPEČNOSTNÍ UZÁVĚRA Všichni zaměstnanci se dostavte na přidělená pracoviště. Podezřelou činnost nahlaste nejbližšímu bezpečnostnímu technikovi pracoviště. --------------------------------- Máte dost svědivých popálenin od kyseliny? Vyzkoušejte řemeslný hydratační krém Auntie Cleo s vůní divočáka."
 
 #: conversations/08_roseway/08_cp_storage_facility_armory_terminal:22
 msgctxt "conversations/08_roseway/08_cp_storage_facility_armory_terminal:22:DefaultText"
@@ -120,7 +120,7 @@ msgid "Argos Security Systems\r\n"
 "All personnel please report to assigned workstations. Report suspicious activity to the nearest Site Safety Engineer.\r\n"
 "---------------------------------\r\n"
 "Try Auntie Cleo's Handi-Off™, the surgical stain remover of choice."
-msgstr ""
+msgstr "Argos Security Systems --------------------------------- BEZPEČNOSTNÍ UZÁVĚRA Všichni zaměstnanci se dostavte na přidělená pracoviště. Podezřelou činnost nahlaste nejbližšímu bezpečnostnímu technikovi pracoviště. --------------------------------- Vyzkoušejte Handi-Off™ od tety Cleo, nejvhodnější odstraňovač skvrn po chirurgických zákrocích."
 
 #: conversations/08_roseway/08_cp_storage_facility_armory_terminal:23
 msgctxt "conversations/08_roseway/08_cp_storage_facility_armory_terminal:23:DefaultText"
@@ -131,4 +131,4 @@ msgid "Argos Security Systems\r\n"
 "All personnel please report to assigned workstations. Report suspicious activity to the nearest Site Safety Engineer.\r\n"
 "---------------------------------\r\n"
 "Unsightly bloodstains? Consider Auntie Cleo's laundry soap. Now with a refreshing lemon zing scent."
-msgstr ""
+msgstr "Argos Security Systems --------------------------------- BEZPEČNOSTNÍ UZÁVĚRA Všichni zaměstnanci se dostavte na přidělená pracoviště. Podezřelou činnost nahlaste nejbližšímu bezpečnostnímu technikovi pracoviště. --------------------------------- Nevzhledné krvavé skvrny? Zvažte mýdlo na praní Auntie Cleo. Nyní s osvěžující citronovou vůní."

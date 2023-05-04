@@ -1,19 +1,19 @@
 #: conversations/04_monarch/0401/0401_cp_door_hidden_lab:1
 msgctxt "conversations/04_monarch/0401/0401_cp_door_hidden_lab:1:DefaultText"
 msgid "DOOR STATUS: Sealed"
-msgstr ""
+msgstr "STAV DVEŘÍ: Zapečetěné"
 
 #: conversations/04_monarch/0401/0401_cp_door_hidden_lab:2
 msgctxt "conversations/04_monarch/0401/0401_cp_door_hidden_lab:2:DefaultText"
 msgid "[Unseal Door]"
-msgstr ""
+msgstr "[Odpečetit dveře]"
 
 #: conversations/04_monarch/0401/0401_cp_door_hidden_lab:3
 msgctxt "conversations/04_monarch/0401/0401_cp_door_hidden_lab:3:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"
 
 #: conversations/04_monarch/0401/0401_cp_door_hidden_lab:4
 msgctxt "conversations/04_monarch/0401/0401_cp_door_hidden_lab:4:DefaultText"
 msgid "DOOR STATUS: Unsealed"
-msgstr ""
+msgstr "STAV DVEŘÍ: Neuzavřeno"

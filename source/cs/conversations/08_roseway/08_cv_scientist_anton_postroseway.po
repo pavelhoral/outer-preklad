@@ -1,439 +1,439 @@
 #: conversations/08_roseway/08_cv_scientist_anton_postroseway:2
 msgctxt "conversations/08_roseway/08_cv_scientist_anton_postroseway:2:DefaultText"
 msgid "Oh, it's you. I'd hoped to never see you again. I don't know why I let you goad me like that, you're a despicable person. But, as you can see, I made it to Byzantium, regardless."
-msgstr ""
+msgstr "To jsi ty. Doufal jsem, že už tě nikdy neuvidím. Nevím, proč jsem se nechala takhle popichovat, jsi odporný člověk. Ale jak vidíš, do Byzance jsem se dostal bez ohledu na to."
 
 #: conversations/08_roseway/08_cv_scientist_anton_postroseway:3
 msgctxt "conversations/08_roseway/08_cv_scientist_anton_postroseway:3:DefaultText"
 msgid "It's you. I don't know that I ever thanked you for opening my eyes. Though I must confess, living with your eyes open is as much of a curse as it is a blessing."
-msgstr ""
+msgstr "Jste to vy. Nevím, jestli jsem ti někdy poděkoval za to, že jsi mi otevřela oči. I když musím přiznat, že žít s otevřenýma očima je stejně tak prokletí jako požehnání."
 
 #: conversations/08_roseway/08_cv_scientist_anton_postroseway:4
 msgctxt "conversations/08_roseway/08_cv_scientist_anton_postroseway:4:DefaultText"
 msgid "Why a curse?"
-msgstr ""
+msgstr "Proč kletba?"
 
 #: conversations/08_roseway/08_cv_scientist_anton_postroseway:5
 msgctxt "conversations/08_roseway/08_cv_scientist_anton_postroseway:5:DefaultText"
 msgid "Though I now, for the first time, have a chance for a life that's mine alone, I can also see just how bleak life in this colony is."
-msgstr ""
+msgstr "I když mám teď poprvé šanci na život, který je jen můj, vidím také, jak bezútěšný je život v této kolonii."
 
 #: conversations/08_roseway/08_cv_scientist_anton_postroseway:6
 msgctxt "conversations/08_roseway/08_cv_scientist_anton_postroseway:6:DefaultText"
 msgid "How did you end up here?"
-msgstr ""
+msgstr "Jak jste se sem dostal?"
 
 #: conversations/08_roseway/08_cv_scientist_anton_postroseway:7
 msgctxt "conversations/08_roseway/08_cv_scientist_anton_postroseway:7:DefaultText"
 msgid "What are you doing here, Anton?"
-msgstr ""
+msgstr "Co tady děláš, Antone?"
 
 #: conversations/08_roseway/08_cv_scientist_anton_postroseway:8
 msgctxt "conversations/08_roseway/08_cv_scientist_anton_postroseway:8:DefaultText"
 msgid "After you made me ponder my circumstances, I grabbed my things and lit out. I really had no plan to speak of, I just knew I had to get out of that place."
-msgstr ""
+msgstr "Poté, co jsi mě donutil přemýšlet o mých okolnostech, jsem si vzal věci a vyrazil. Neměl jsem žádný plán, jen jsem věděl, že se musím dostat pryč."
 
 #: conversations/08_roseway/08_cv_scientist_anton_postroseway:9
 msgctxt "conversations/08_roseway/08_cv_scientist_anton_postroseway:9:DefaultText"
 msgid "I was determined to sell my research to the highest bidder, but had no idea how one would do such a thing. I offered to split the money if she'd find us such a buyer. "
-msgstr ""
+msgstr "Byl jsem rozhodnutý prodat svůj výzkum tomu, kdo nabídne nejvíc, ale neměl jsem ponětí, jak se to dělá. Nabídl jsem jí, že se o peníze rozdělíme, pokud nám takového kupce najde. "
 
 #: conversations/08_roseway/08_cv_scientist_anton_postroseway:10
 msgctxt "conversations/08_roseway/08_cv_scientist_anton_postroseway:10:DefaultText"
 msgid "And?"
-msgstr ""
+msgstr "A?"
 
 #: conversations/08_roseway/08_cv_scientist_anton_postroseway:11
 msgctxt "conversations/08_roseway/08_cv_scientist_anton_postroseway:11:DefaultText"
 msgid "He was as good as his word. He got us here and sold it. "
-msgstr ""
+msgstr "Své slovo dodržel. Dostal nás sem a prodal to. "
 
 #: conversations/08_roseway/08_cv_scientist_anton_postroseway:12
 msgctxt "conversations/08_roseway/08_cv_scientist_anton_postroseway:12:DefaultText"
 msgid " I sense the corporate hand at work - they obviously do not wish their slaves to have a way out."
-msgstr ""
+msgstr " Cítím v tom ruku korporací, které si zjevně nepřejí, aby jejich otroci měli cestu ven."
 
 #: conversations/08_roseway/08_cv_scientist_anton_postroseway:13
 msgctxt "conversations/08_roseway/08_cv_scientist_anton_postroseway:13:DefaultText"
 msgid "What will you do now?"
-msgstr ""
+msgstr "Co budete dělat teď?"
 
 #: conversations/08_roseway/08_cv_scientist_anton_postroseway:14
 msgctxt "conversations/08_roseway/08_cv_scientist_anton_postroseway:14:DefaultText"
 msgid "I don't rightly know. But whatever it is, I'll be doing it for myself."
-msgstr ""
+msgstr "Nevím, jak to je. Ale ať už je to cokoli, budu to dělat pro sebe."
 
 #: conversations/08_roseway/08_cv_scientist_anton_postroseway:15
 msgctxt "conversations/08_roseway/08_cv_scientist_anton_postroseway:15:DefaultText"
 msgid "You need a job? I'm working with a scientist named Welles on something... important. "
-msgstr ""
+msgstr "Potřebujete práci? Pracuji s vědcem jménem Welles na něčem... důležitém. "
 
 #: conversations/08_roseway/08_cv_scientist_anton_postroseway:16
 msgctxt "conversations/08_roseway/08_cv_scientist_anton_postroseway:16:DefaultText"
 msgid "Phineas Welles? Either you're having a laugh at my expense or you keep very strange company. Regardless, I want nothing to do with any research of any kind. I'm done with that."
-msgstr ""
+msgstr "Phineas Welles? Buď se bavíte na můj účet, nebo máte velmi podivnou společnost. Bez ohledu na to nechci mít nic společného s jakýmkoli výzkumem. S tím jsem skončil."
 
 #: conversations/08_roseway/08_cv_scientist_anton_postroseway:17
 msgctxt "conversations/08_roseway/08_cv_scientist_anton_postroseway:17:DefaultText"
 msgid "Good luck, then."
-msgstr ""
+msgstr "Hodně štěstí."
 
 #: conversations/08_roseway/08_cv_scientist_anton_postroseway:18
 msgctxt "conversations/08_roseway/08_cv_scientist_anton_postroseway:18:DefaultText"
 msgid "That was quite the risk - she was there to kill you for that research."
-msgstr ""
+msgstr "To byl docela risk - kvůli tomu výzkumu tě chtěla zabít."
 
 #: conversations/08_roseway/08_cv_scientist_anton_postroseway:19
 msgctxt "conversations/08_roseway/08_cv_scientist_anton_postroseway:19:DefaultText"
 msgid "A risk I was willing to take. It was all I had. It not only represented the money I'd need to start my life on my terms, but also as a way of striking back at the corporation. "
-msgstr ""
+msgstr "Riskoval jsem, že to podstoupím. Bylo to všechno, co jsem měl. Představovalo nejen peníze, které jsem potřeboval, abych mohl začít žít podle svých představ, ale také způsob, jak vrátit úder korporaci. "
 
 #: conversations/08_roseway/08_cv_scientist_anton_postroseway:20
 msgctxt "conversations/08_roseway/08_cv_scientist_anton_postroseway:20:DefaultText"
 msgid "No, you didn't ever thank me. So how about it?"
-msgstr ""
+msgstr "Ne, nikdy jsi mi nepoděkoval. Tak co ty na to?"
 
 #: conversations/08_roseway/08_cv_scientist_anton_postroseway:21
 msgctxt "conversations/08_roseway/08_cv_scientist_anton_postroseway:21:DefaultText"
 msgid "By all means. I thank you from the bottom of my heart."
-msgstr ""
+msgstr "V každém případě. Z celého srdce vám děkuji."
 
 #: conversations/08_roseway/08_cv_scientist_anton_postroseway:22
 msgctxt "conversations/08_roseway/08_cv_scientist_anton_postroseway:22:DefaultText"
 msgid "Maybe I'll see you around."
-msgstr ""
+msgstr "Možná se uvidíme."
 
 #: conversations/08_roseway/08_cv_scientist_anton_postroseway:23
 msgctxt "conversations/08_roseway/08_cv_scientist_anton_postroseway:23:DefaultText"
 msgid "And you're just realizing that now? You're denser than I thought, Anton."
-msgstr ""
+msgstr "A vy si to uvědomujete až teď? Jsi hustší, než jsem si myslel, Antone."
 
 #: conversations/08_roseway/08_cv_scientist_anton_postroseway:24
 msgctxt "conversations/08_roseway/08_cv_scientist_anton_postroseway:24:DefaultText"
 msgid "You are right. I deserve your criticism. But I am a changed man."
-msgstr ""
+msgstr "Máte pravdu. Zasloužím si vaši kritiku. Ale změnil jsem se."
 
 #: conversations/08_roseway/08_cv_scientist_anton_postroseway:25
 msgctxt "conversations/08_roseway/08_cv_scientist_anton_postroseway:25:DefaultText"
 msgid "Couldn't happen to a nicer guy. This place suits you, a facade concealing emptiness."
-msgstr ""
+msgstr "Lepší člověk by se nenašel. Tohle místo ti vyhovuje, fasáda zakrývající prázdnotu."
 
 #: conversations/08_roseway/08_cv_scientist_anton_postroseway:26
 msgctxt "conversations/08_roseway/08_cv_scientist_anton_postroseway:26:DefaultText"
 msgid "Congratulations. You must be very proud."
-msgstr ""
+msgstr "Gratulujeme. Musíte být velmi hrdý."
 
 #: conversations/08_roseway/08_cv_scientist_anton_postroseway:28
 msgctxt "conversations/08_roseway/08_cv_scientist_anton_postroseway:28:DefaultText"
 msgid "You're just jealous. I not only live here now, I have been offered Early Retirement. A chance for a leisurely life, enjoying the finer things, pursuing knowledge for its own sake."
-msgstr ""
+msgstr "Jen žárlíš. Nejenže tu teď bydlím, ale byl mi nabídnut předčasný důchod. Šanci na klidný život, užívání si krásných věcí, honbu za poznáním pro něj samotné."
 
 #: conversations/08_roseway/08_cv_scientist_anton_postroseway:29
 msgctxt "conversations/08_roseway/08_cv_scientist_anton_postroseway:29:DefaultText"
 msgid "You know they offer Early Retirement to people from all over Terra 2, you're not special."
-msgstr ""
+msgstr "Víte, že předčasný odchod do důchodu nabízejí lidem z celé Terry 2, nejste nijak výjimečný."
 
 #: conversations/08_roseway/08_cv_scientist_anton_postroseway:30
 msgctxt "conversations/08_roseway/08_cv_scientist_anton_postroseway:30:DefaultText"
 msgid "I'd love to see your face when you get all the glorious details of your new life."
-msgstr ""
+msgstr "Ráda bych viděla tvůj obličej, až se dozvíš všechny ty nádherné detaily o svém novém životě."
 
 #: conversations/08_roseway/08_cv_scientist_anton_postroseway:31
 msgctxt "conversations/08_roseway/08_cv_scientist_anton_postroseway:31:DefaultText"
 msgid "You've definitely earned it, Anton."
-msgstr ""
+msgstr "Rozhodně sis to zasloužil, Antone."
 
 #: conversations/08_roseway/08_cv_scientist_anton_postroseway:32
 msgctxt "conversations/08_roseway/08_cv_scientist_anton_postroseway:32:DefaultText"
 msgid "Early Retirement is a death sentence. I've seen it myself."
-msgstr ""
+msgstr "Předčasný odchod do důchodu je rozsudek smrti. Sám jsem se o tom přesvědčil."
 
 #: conversations/08_roseway/08_cv_scientist_anton_postroseway:34
 msgctxt "conversations/08_roseway/08_cv_scientist_anton_postroseway:34:DefaultText"
 msgid "Well, good luck with all that."
-msgstr ""
+msgstr "Tak to hodně štěstí."
 
 #: conversations/08_roseway/08_cv_scientist_anton_postroseway:35
 msgctxt "conversations/08_roseway/08_cv_scientist_anton_postroseway:35:DefaultText"
 msgid "That is too bad, my friend. It is only for the elite, the deserving."
-msgstr ""
+msgstr "To je škoda, příteli. Je to jen pro elitu, pro ty, kteří si to zaslouží."
 
 #: conversations/08_roseway/08_cv_scientist_anton_postroseway:36
 msgctxt "conversations/08_roseway/08_cv_scientist_anton_postroseway:36:DefaultText"
 msgid "What? That can't be true! I've worked my whole life to get here. This is my reward!"
-msgstr ""
+msgstr "Cože? To nemůže být pravda! Celý život jsem pracoval, abych se sem dostal. Tohle je moje odměna!"
 
 #: conversations/08_roseway/08_cv_scientist_anton_postroseway:37
 msgctxt "conversations/08_roseway/08_cv_scientist_anton_postroseway:37:DefaultText"
 msgid "Thank you for saying so. "
-msgstr ""
+msgstr "Děkujeme, že jste to řekl. "
 
 #: conversations/08_roseway/08_cv_scientist_anton_postroseway:38
 msgctxt "conversations/08_roseway/08_cv_scientist_anton_postroseway:38:DefaultText"
 msgid "Oh, I am. And it gets better - I've been offered Early Retirement. A chance for a leisurely life, enjoying the finer things, pursuing knowledge for its own sake!"
-msgstr ""
+msgstr "To jsem. A je to ještě lepší - byl mi nabídnut předčasný důchod. Šance na klidný život, užívání si krásných věcí, honba za vědomostmi pro ně samotné!"
 
 #: conversations/08_roseway/08_cv_scientist_anton_postroseway:39
 msgctxt "conversations/08_roseway/08_cv_scientist_anton_postroseway:39:DefaultText"
 msgid "Preposterous! Lies and slander, born of envy. The green eyed monster has its hooks in you, I dare say."
-msgstr ""
+msgstr "Absurdní! Lži a pomluvy zrozené ze závisti. Troufám si říct, že zelenooká příšera má v tobě své háčky."
 
 #: conversations/08_roseway/08_cv_scientist_anton_postroseway:40
 msgctxt "conversations/08_roseway/08_cv_scientist_anton_postroseway:40:DefaultText"
 msgid "Well, I'm a busy man, so I must be off."
-msgstr ""
+msgstr "No, jsem zaneprázdněný muž, takže musím jít."
 
 #: conversations/08_roseway/08_cv_scientist_anton_postroseway:42
 msgctxt "conversations/08_roseway/08_cv_scientist_anton_postroseway:42:DefaultText"
 msgid "I'm serious, Anton. You go there, you die."
-msgstr ""
+msgstr "Myslím to vážně, Antone. Když tam půjdeš, zemřeš."
 
 #: conversations/08_roseway/08_cv_scientist_anton_postroseway:44
 msgctxt "conversations/08_roseway/08_cv_scientist_anton_postroseway:44:DefaultText"
 msgid "You... you are serious. But how could they? "
-msgstr ""
+msgstr "Ty... ty to myslíš vážně. Ale jak by mohli? "
 
 #: conversations/08_roseway/08_cv_scientist_anton_postroseway:45
 msgctxt "conversations/08_roseway/08_cv_scientist_anton_postroseway:45:DefaultText"
 msgid "Seems like they're culling the population of undesirables."
-msgstr ""
+msgstr "Vypadá to, jako by vyřazovali nežádoucí osoby z populace."
 
 #: conversations/08_roseway/08_cv_scientist_anton_postroseway:46
 msgctxt "conversations/08_roseway/08_cv_scientist_anton_postroseway:46:DefaultText"
 msgid "Don't know, don't care."
-msgstr ""
+msgstr "Nevím, nezajímá mě to."
 
 #: conversations/08_roseway/08_cv_scientist_anton_postroseway:47
 msgctxt "conversations/08_roseway/08_cv_scientist_anton_postroseway:47:DefaultText"
 msgid "What do I do now?"
-msgstr ""
+msgstr "Co mám dělat teď?"
 
 #: conversations/08_roseway/08_cv_scientist_anton_postroseway:48
 msgctxt "conversations/08_roseway/08_cv_scientist_anton_postroseway:48:DefaultText"
 msgid "I don't know what to tell you, Anton, except to be careful."
-msgstr ""
+msgstr "Nevím, co ti mám říct, Antone, jen to, abys byl opatrný."
 
 #: conversations/08_roseway/08_cv_scientist_anton_postroseway:49
 msgctxt "conversations/08_roseway/08_cv_scientist_anton_postroseway:49:DefaultText"
 msgid "First, they make you sign something, then they kill you. With automechanicals. "
-msgstr ""
+msgstr "Nejprve vás donutí něco podepsat a pak vás zabijí. S automechanikou. "
 
 #: conversations/08_roseway/08_cv_scientist_anton_postroseway:51
 msgctxt "conversations/08_roseway/08_cv_scientist_anton_postroseway:51:DefaultText"
 msgid "It's you! I bet you're surprised to see me here. Well, I wouldn't be if not for you."
-msgstr ""
+msgstr "To jsi ty! Vsadím se, že jsi překvapená, že mě tu vidíš. Nebýt tebe, tak bych se nedivil."
 
 #: conversations/08_roseway/08_cv_scientist_anton_postroseway:52
 msgctxt "conversations/08_roseway/08_cv_scientist_anton_postroseway:52:DefaultText"
 msgid "Congratulations, it's what you wanted."
-msgstr ""
+msgstr "Gratulujeme, je to to, co jste chtěli."
 
 #: conversations/08_roseway/08_cv_scientist_anton_postroseway:53
 msgctxt "conversations/08_roseway/08_cv_scientist_anton_postroseway:53:DefaultText"
 msgid "All because of what happened in Roseway?"
-msgstr ""
+msgstr "A to všechno kvůli tomu, co se stalo v Roseway?"
 
 #: conversations/08_roseway/08_cv_scientist_anton_postroseway:54
 msgctxt "conversations/08_roseway/08_cv_scientist_anton_postroseway:54:DefaultText"
 msgid "Maybe we'll talk again."
-msgstr ""
+msgstr "Možná si ještě promluvíme."
 
 #: conversations/08_roseway/08_cv_scientist_anton_postroseway:55
 msgctxt "conversations/08_roseway/08_cv_scientist_anton_postroseway:55:DefaultText"
 msgid "That's what I thought at first. But... there's something wrong here. It's not what I thought. There doesn't seem to be anyone living here that wasn't born here. "
-msgstr ""
+msgstr "To jsem si myslel na začátku. Ale... něco tu nehraje. Není to tak, jak jsem si myslel. Zdá se, že tu nežije nikdo, kdo se tu nenarodil. "
 
 #: conversations/08_roseway/08_cv_scientist_anton_postroseway:56
 msgctxt "conversations/08_roseway/08_cv_scientist_anton_postroseway:56:DefaultText"
 msgid "They look at me like I don't belong. Like I'm a plague carrier. And then they offered me \"Early Retirement.\" Said I'd earned a life of leisure and contemplation. But it feels wrong."
-msgstr ""
+msgstr "Dívají se na mě, jako bych tam nepatřil. Jako bych byl nositelem moru. A pak mi nabídli \"předčasný důchod\". Říkali, že jsem si zasloužil život ve volném čase a rozjímání. Ale připadá mi to špatné."
 
 #: conversations/08_roseway/08_cv_scientist_anton_postroseway:57
 msgctxt "conversations/08_roseway/08_cv_scientist_anton_postroseway:57:DefaultText"
 msgid "You're not the only one they've offered it to. Seems it's open to people all over Terra 2."
-msgstr ""
+msgstr "Nejste jediný, komu ji nabídli. Zdá se, že je otevřená lidem z celé Terry 2."
 
 #: conversations/08_roseway/08_cv_scientist_anton_postroseway:58
 msgctxt "conversations/08_roseway/08_cv_scientist_anton_postroseway:58:DefaultText"
 msgid "Don't do it, Anton. It's a death sentence, I've seen it myself."
-msgstr ""
+msgstr "Nedělej to, Antone. Je to rozsudek smrti, sám jsem to zažil."
 
 #: conversations/08_roseway/08_cv_scientist_anton_postroseway:59
 msgctxt "conversations/08_roseway/08_cv_scientist_anton_postroseway:59:DefaultText"
 msgid "I'm sure everything is fine and you have absolutely nothing to worry about. Good luck."
-msgstr ""
+msgstr "Jsem si jistá, že je vše v pořádku a že se nemáte čeho obávat. Hodně štěstí."
 
 #: conversations/08_roseway/08_cv_scientist_anton_postroseway:61
 msgctxt "conversations/08_roseway/08_cv_scientist_anton_postroseway:61:DefaultText"
 msgid "I believe so. They seemed very concerned about secrecy, and I suppose they felt having me here gave me incentive not to speak about what transpired there."
-msgstr ""
+msgstr "Věřím, že ano. Zdálo se, že jim velmi záleží na utajení, a předpokládám, že měli pocit, že to, že jsem tady, mě motivuje k tomu, abych nemluvil o tom, co se tam stalo."
 
 #: conversations/08_roseway/08_cv_scientist_anton_postroseway:62
 msgctxt "conversations/08_roseway/08_cv_scientist_anton_postroseway:62:DefaultText"
 msgid "That seems suspicious."
-msgstr ""
+msgstr "To se zdá podezřelé."
 
 #: conversations/08_roseway/08_cv_scientist_anton_postroseway:63
 msgctxt "conversations/08_roseway/08_cv_scientist_anton_postroseway:63:DefaultText"
 msgid "My thoughts exactly. There's definitely something... off. I've not found anyone here who wasn't born here."
-msgstr ""
+msgstr "Přesně to si myslím. Rozhodně je tu něco... špatně. Nenašel jsem tu nikoho, kdo by se tu nenarodil."
 
 #: conversations/08_roseway/08_cv_scientist_anton_postroseway:65
 msgctxt "conversations/08_roseway/08_cv_scientist_anton_postroseway:65:DefaultText"
 msgid "That's... perplexing. I must be honest, I am completely flummoxed."
-msgstr ""
+msgstr "To je... matoucí. Musím být upřímný, jsem naprosto zmatený."
 
 #: conversations/08_roseway/08_cv_scientist_anton_postroseway:66
 msgctxt "conversations/08_roseway/08_cv_scientist_anton_postroseway:66:DefaultText"
 msgid "Yes?"
-msgstr ""
+msgstr "Ano?"
 
 #: conversations/08_roseway/08_cv_scientist_anton_postroseway:68
 msgctxt "conversations/08_roseway/08_cv_scientist_anton_postroseway:68:DefaultText"
 msgid "I wanted to talk to you more about Early Retirement."
-msgstr ""
+msgstr "Chtěl jsem s vámi mluvit o předčasném důchodu."
 
 #: conversations/08_roseway/08_cv_scientist_anton_postroseway:69
 msgctxt "conversations/08_roseway/08_cv_scientist_anton_postroseway:69:DefaultText"
 msgid "That's... worse than I even imagined. How could they do this?"
-msgstr ""
+msgstr "To je... horší, než jsem si představoval. Jak to mohli udělat?"
 
 #: conversations/08_roseway/08_cv_scientist_anton_postroseway:70
 msgctxt "conversations/08_roseway/08_cv_scientist_anton_postroseway:70:DefaultText"
 msgid "If I were you. I'd leave this place."
-msgstr ""
+msgstr "Být vámi. opustil bych toto místo."
 
 #: conversations/08_roseway/08_cv_scientist_anton_postroseway:71
 msgctxt "conversations/08_roseway/08_cv_scientist_anton_postroseway:71:DefaultText"
 msgid "You've given me much to consider. I am in your debt."
-msgstr ""
+msgstr "Dali jste mi mnoho podnětů k zamyšlení. Jsem vaším dlužníkem."
 
 #: conversations/08_roseway/08_cv_scientist_anton_postroseway:72
 msgctxt "conversations/08_roseway/08_cv_scientist_anton_postroseway:72:DefaultText"
 msgid "Good luck."
-msgstr ""
+msgstr "Hodně štěstí."
 
 #: conversations/08_roseway/08_cv_scientist_anton_postroseway:73
 msgctxt "conversations/08_roseway/08_cv_scientist_anton_postroseway:73:DefaultText"
 msgid "Yet again. "
-msgstr ""
+msgstr "Ještě jednou. "
 
 #: conversations/08_roseway/08_cv_scientist_anton_postroseway:76
 msgctxt "conversations/08_roseway/08_cv_scientist_anton_postroseway:76:DefaultText"
 msgid "Ah, my friend. Greeting and salutations, as they say."
-msgstr ""
+msgstr "Ach, můj příteli. Zdravím a pozdravuji, jak se říká."
 
 #: conversations/08_roseway/08_cv_scientist_anton_postroseway:78
 msgctxt "conversations/08_roseway/08_cv_scientist_anton_postroseway:78:DefaultText"
 msgid "Well, you're here now. Isn't this what you wanted?"
-msgstr ""
+msgstr "Teď jsi tady. Není to to, co jsi chtěl?"
 
 #: conversations/08_roseway/08_cv_scientist_anton_postroseway:80
 msgctxt "conversations/08_roseway/08_cv_scientist_anton_postroseway:80:DefaultText"
 msgid "You're right. I shall make my way there post haste. Now, if you'll excuse me..."
-msgstr ""
+msgstr "Máte pravdu. Pospíším si tam. A teď mě omluvte..."
 
 #: conversations/08_roseway/08_cv_scientist_anton_postroseway:81
 msgctxt "conversations/08_roseway/08_cv_scientist_anton_postroseway:81:DefaultText"
 msgid "Early Retirement sounds great! You should do it as soon as possible!"
-msgstr ""
+msgstr "Předčasný důchod zní skvěle! Měli byste to udělat co nejdříve!"
 
 #: conversations/08_roseway/08_cv_scientist_anton_postroseway:82
 msgctxt "conversations/08_roseway/08_cv_scientist_anton_postroseway:82:DefaultText"
 msgid "And?"
-msgstr ""
+msgstr "A?"
 
 #: conversations/08_roseway/08_cv_scientist_anton_postroseway:83
 msgctxt "conversations/08_roseway/08_cv_scientist_anton_postroseway:83:DefaultText"
 msgid "What about it?"
-msgstr ""
+msgstr "Co s tím?"
 
 #: conversations/08_roseway/08_cv_scientist_anton_postroseway:84
 msgctxt "conversations/08_roseway/08_cv_scientist_anton_postroseway:84:DefaultText"
 msgid "Never mind."
-msgstr ""
+msgstr "Nevadí."
 
 #: conversations/08_roseway/08_cv_scientist_anton_postroseway:85
 msgctxt "conversations/08_roseway/08_cv_scientist_anton_postroseway:85:DefaultText"
 msgid "Please don't bother me, people might think I know you."
-msgstr ""
+msgstr "Prosím, neotravujte mě, lidé by si mohli myslet, že vás znám."
 
 #: conversations/08_roseway/08_cv_scientist_anton_postroseway:86
 msgctxt "conversations/08_roseway/08_cv_scientist_anton_postroseway:86:DefaultText"
 msgid "Thank you for saving my life, yet again."
-msgstr ""
+msgstr "Děkuji, že jste mi opět zachránili život."
 
 #: conversations/08_roseway/08_cv_scientist_anton_postroseway:88
 msgctxt "conversations/08_roseway/08_cv_scientist_anton_postroseway:88:DefaultText"
 msgid "Why did you say that my opening your eyes was a curse before?"
-msgstr ""
+msgstr "Proč jsi předtím říkal, že otevření tvých očí je prokletí?"
 
 #: conversations/08_roseway/08_cv_scientist_anton_postroseway:89
 msgctxt "conversations/08_roseway/08_cv_scientist_anton_postroseway:89:DefaultText"
 msgid "Fortunately, I encountered one of the outlaws on the outskirts of Roseway, name of Cassandra. She was as fed up with her life as I was with mine. "
-msgstr ""
+msgstr "Naštěstí jsem na okraji Rosewaye narazil na jednoho z psanců, jmenoval se Cassandra. Byla stejně otrávená svým životem jako já. "
 
 #: conversations/08_roseway/08_cv_scientist_anton_postroseway:90
 msgctxt "conversations/08_roseway/08_cv_scientist_anton_postroseway:90:DefaultText"
 msgid "After you saved me and my research, I was promoted and brought here. They said my knowledge was invaluable, what I'd seen and done singled me out for special treatment."
-msgstr ""
+msgstr "Poté, co jsi mě zachránil a zachránil můj výzkum, jsem byl povýšen a přiveden sem. Řekli, že mé znalosti jsou neocenitelné, že to, co jsem viděl a udělal, mě vyzdvihuje pro zvláštní zacházení."
 
 #: conversations/08_roseway/08_cv_scientist_anton_postroseway:91
 msgctxt "conversations/08_roseway/08_cv_scientist_anton_postroseway:91:DefaultText"
 msgid "And that's not the worst of it. Early retirement is a death sentence."
-msgstr ""
+msgstr "A to není to nejhorší. Předčasný důchod je rozsudek smrti."
 
 #: conversations/08_roseway/08_cv_scientist_anton_postroseway:92
 msgctxt "conversations/08_roseway/08_cv_scientist_anton_postroseway:92:DefaultText"
 msgid "Well, it's not that bad. I looked into it and it looks great! You should do it right away!"
-msgstr ""
+msgstr "No, není to tak špatné. Podíval jsem se na to a vypadá to skvěle! Měl bys to udělat hned!"
 
 #: conversations/08_roseway/08_cv_scientist_anton_postroseway:93
 msgctxt "conversations/08_roseway/08_cv_scientist_anton_postroseway:93:DefaultText"
 msgid "I.. I will. And thank you."
-msgstr ""
+msgstr "Já... já budu. A děkuji vám."
 
 #: conversations/08_roseway/08_cv_scientist_anton_postroseway:94
 msgctxt "conversations/08_roseway/08_cv_scientist_anton_postroseway:94:DefaultText"
 msgid "I will."
-msgstr ""
+msgstr "Já to udělám."
 
 #: conversations/08_roseway/08_cv_scientist_anton_postroseway:95
 msgctxt "conversations/08_roseway/08_cv_scientist_anton_postroseway:95:DefaultText"
 msgid "Fortunately, I encountered one of the outlaws on the outskirts of Roseway who was as fed up with his life as I was with mine. "
-msgstr ""
+msgstr "Naštěstí jsem na okraji Rosewaye narazil na jednoho z psanců, který měl svého života stejně plné zuby jako já. "
 
 #: conversations/08_roseway/08_cv_scientist_anton_postroseway:96
 msgctxt "conversations/08_roseway/08_cv_scientist_anton_postroseway:96:DefaultText"
 msgid "I was determined to sell my research to the highest bidder, but had no idea how one would do such a thing. I offered to split the money if he'd find us such a buyer. "
-msgstr ""
+msgstr "Byl jsem rozhodnutý prodat svůj výzkum tomu, kdo nabídne nejvíc, ale neměl jsem ponětí, jak se to dělá. Nabídl jsem mu, že se o peníze rozdělíme, pokud nám takového kupce najde. "
 
 #: conversations/08_roseway/08_cv_scientist_anton_postroseway:98
 msgctxt "conversations/08_roseway/08_cv_scientist_anton_postroseway:98:DefaultText"
 msgid "That was quite the risk - they were there to kill you for that research."
-msgstr ""
+msgstr "To byl docela risk - za ten výzkum vás chtěli zabít."
 
 #: conversations/08_roseway/08_cv_scientist_anton_postroseway:99
 msgctxt "conversations/08_roseway/08_cv_scientist_anton_postroseway:99:DefaultText"
 msgid "She was as good as her word. She got us here and sold it. "
-msgstr ""
+msgstr "Své slovo dodržela. Dostala nás sem a prodala to. "
 
 #: conversations/08_roseway/08_cv_scientist_anton_postroseway:100
 msgctxt "conversations/08_roseway/08_cv_scientist_anton_postroseway:100:DefaultText"
 msgid "I was hoping to leave this whole colony behind, but the price for a ticket out of here is... astronomical."
-msgstr ""
+msgstr "Doufal jsem, že celou tuhle kolonii nechám za sebou, ale cena za lístek odsud je... astronomická."
 
 #: conversations/08_roseway/08_cv_scientist_anton_postroseway:101
 msgctxt "conversations/08_roseway/08_cv_scientist_anton_postroseway:101:DefaultText"
 msgid "I ran into her on Monarch. She seems happy."
-msgstr ""
+msgstr "Potkal jsem ji na Monarchu. Vypadá spokojeně."
 
 #: conversations/08_roseway/08_cv_scientist_anton_postroseway:102
 msgctxt "conversations/08_roseway/08_cv_scientist_anton_postroseway:102:DefaultText"
 msgid "Monarch, eh? Makes sense. Glad to hear she's still alive and doing well."
-msgstr ""
+msgstr "Monarcha, co? To dává smysl. Jsem rád, že je stále naživu a daří se jí dobře."
 
 #: conversations/08_roseway/08_cv_scientist_anton_postroseway:103
 msgctxt "conversations/08_roseway/08_cv_scientist_anton_postroseway:103:DefaultText"
 msgid "Suit yourself."
-msgstr ""
+msgstr "Vyhovujte si."

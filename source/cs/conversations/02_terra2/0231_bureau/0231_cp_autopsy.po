@@ -5,12 +5,12 @@ msgid "Ministry of Accuracy and Morale\n"
 "Remember, Ministry terminals are to be used for Ministry business only! \r\n"
 "\r\n"
 "Anyone caught or suspected of using Ministry terminals for criminal, defamatory, or non-work related purposes will be prosecuted."
-msgstr ""
+msgstr "Ministerstvo přesnosti a morálky ======================== Nezapomeňte, že terminály ministerstva se používají pouze pro potřeby ministerstva! Každý, kdo bude přistižen nebo podezřelý z používání terminálů ministerstva pro trestné, hanlivé nebo s prací nesouvisející účely, bude stíhán."
 
 #: conversations/02_terra2/0231_bureau/0231_cp_autopsy:2
 msgctxt "conversations/02_terra2/0231_bureau/0231_cp_autopsy:2:DefaultText"
 msgid "[View Lab Notes]"
-msgstr ""
+msgstr "[Zobrazit laboratorní poznámky]"
 
 #: conversations/02_terra2/0231_bureau/0231_cp_autopsy:3
 msgctxt "conversations/02_terra2/0231_bureau/0231_cp_autopsy:3:DefaultText"
@@ -25,14 +25,14 @@ msgid "Autopsy Records\n"
 "Subject 82-C: Lab technician accidentally shorted hibernation chamber. Subject electrocuted.\n"
 "\n"
 "Subject 15-R: Pulmonary edema upon removal from hibernation chamber."
-msgstr ""
+msgstr "Pitevní záznamy ======================== Poznámka: Všechny subjekty zemřely po absolvování několika hibernačních cyklů: Subjekt 19-F: masivní krvácení do lebky po vyjmutí z hibernační komory. Subjekt 61-B: ruptura střeva po vyjmutí z hibernační komory. Subjekt 82-C: Laboratorní technik omylem zkratoval hibernační komoru. Subjekt byl zasažen elektrickým proudem. Subjekt 15-R: Plicní edém po vyjmutí z hibernační komory."
 
 #: conversations/02_terra2/0231_bureau/0231_cp_autopsy:4
 msgctxt "conversations/02_terra2/0231_bureau/0231_cp_autopsy:4:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"
 
 #: conversations/02_terra2/0231_bureau/0231_cp_autopsy:5
 msgctxt "conversations/02_terra2/0231_bureau/0231_cp_autopsy:5:DefaultText"
 msgid "[Return to Root]"
-msgstr ""
+msgstr "[Zpět na kořen]"

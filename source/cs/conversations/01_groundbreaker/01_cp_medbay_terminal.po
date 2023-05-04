@@ -4,17 +4,17 @@ msgid "Groundbreaker MedBay Terminal\r\n"
 "========================\r\n"
 "\r\n"
 "Main menu"
-msgstr ""
+msgstr "Terminál Groundbreaker MedBay ======================== Hlavní menu"
 
 #: conversations/01_groundbreaker/01_cp_medbay_terminal:2
 msgctxt "conversations/01_groundbreaker/01_cp_medbay_terminal:2:DefaultText"
 msgid "[Messages]"
-msgstr ""
+msgstr "[Zprávy]"
 
 #: conversations/01_groundbreaker/01_cp_medbay_terminal:3
 msgctxt "conversations/01_groundbreaker/01_cp_medbay_terminal:3:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"
 
 #: conversations/01_groundbreaker/01_cp_medbay_terminal:4
 msgctxt "conversations/01_groundbreaker/01_cp_medbay_terminal:4:DefaultText"
@@ -22,22 +22,22 @@ msgid "Groundbreaker MedBay Terminal\r\n"
 "========================\r\n"
 "\r\n"
 "Messages"
-msgstr ""
+msgstr "Terminál Groundbreaker MedBay ======================== Zprávy"
 
 #: conversations/01_groundbreaker/01_cp_medbay_terminal:5
 msgctxt "conversations/01_groundbreaker/01_cp_medbay_terminal:5:DefaultText"
 msgid "[TO: Capt. Irion, SUBJECT: Where are my automechs?]"
-msgstr ""
+msgstr "[TO: Capt. Irion, SUBJECT: Where are my automechs?]"
 
 #: conversations/01_groundbreaker/01_cp_medbay_terminal:6
 msgctxt "conversations/01_groundbreaker/01_cp_medbay_terminal:6:DefaultText"
 msgid "[FROM: Capt. Irion, SUBJECT: Heyyyy, relax]"
-msgstr ""
+msgstr "[OD: kapitán Irion, PŘEDMĚT: heyyyy, relax]"
 
 #: conversations/01_groundbreaker/01_cp_medbay_terminal:7
 msgctxt "conversations/01_groundbreaker/01_cp_medbay_terminal:7:DefaultText"
 msgid "[Return to Root]"
-msgstr ""
+msgstr "[Zpět na kořen]"
 
 #: conversations/01_groundbreaker/01_cp_medbay_terminal:8
 msgctxt "conversations/01_groundbreaker/01_cp_medbay_terminal:8:DefaultText"
@@ -53,7 +53,8 @@ msgid "Groundbreaker MedBay Terminal\r\n"
 "I know you boasted about the Scylla shortcut, but could you maybe venture through a pocket of space that isn't infested with pirates? You know, pirates. The ones who love cargo and hate rules.\r\n"
 "\r\n"
 "Here in MedBay we've got blunt tools, watered-down meds, long shifts, and shaky hands. Don't let me down."
-msgstr ""
+msgstr "Groundbreaker MedBay Terminal ======================== OD: Dorsett, W: Cap_Irion\r\n"
+"SUBJECT: Vím, že ses chlubil zkratkou přes Scyllu, ale nemohl bys třeba projít nějakou vesmírnou kapsou, která není zamořená piráty? Však víš, piráti. Těmi, kteří milují náklad a nenávidí pravidla. Tady v MedBay máme tupé nástroje, ředěné léky, dlouhé směny a roztřesené ruce. Nezklam mě."
 
 #: conversations/01_groundbreaker/01_cp_medbay_terminal:9
 msgctxt "conversations/01_groundbreaker/01_cp_medbay_terminal:9:DefaultText"
@@ -67,12 +68,12 @@ msgid "Groundbreaker MedBay Terminal\r\n"
 "When have I ever let you down? \r\n"
 "\r\n"
 "Hope you enjoy the latest haul. Don't forget me the next time you're low on pills. I like a repeat customer. Maybe buy me dinner the next time I do a Groundbreaker run? What do you say? That sprat joint looks tasty."
-msgstr ""
+msgstr "Groundbreaker MedBay Terminal ======================== OD: Cap_Irion TO: SUBJECT: Heyyyy, relax When have I ever disappoint you? Hope you enjoy the latest haul. Nezapomeň na mě, až budeš mít příště málo prášků. Mám rád stálé zákazníky. Možná mě pozveš na večeři, až budu příště dělat Groundbreaker run? Co říkáš? Ten šprotový kloub vypadá chutně."
 
 #: conversations/01_groundbreaker/01_cp_medbay_terminal:10
 msgctxt "conversations/01_groundbreaker/01_cp_medbay_terminal:10:DefaultText"
 msgid "[Logs]"
-msgstr ""
+msgstr "[Deníky]"
 
 #: conversations/01_groundbreaker/01_cp_medbay_terminal:11
 msgctxt "conversations/01_groundbreaker/01_cp_medbay_terminal:11:DefaultText"
@@ -80,12 +81,12 @@ msgid "Groundbreaker MedBay Terminal\r\n"
 "========================\r\n"
 "\r\n"
 "Logs"
-msgstr ""
+msgstr "Terminál Groundbreaker MedBay ======================== Logs"
 
 #: conversations/01_groundbreaker/01_cp_medbay_terminal:12
 msgctxt "conversations/01_groundbreaker/01_cp_medbay_terminal:12:DefaultText"
 msgid "[Staff Shortage]"
-msgstr ""
+msgstr "[Nedostatek zaměstnanců]"
 
 #: conversations/01_groundbreaker/01_cp_medbay_terminal:14
 msgctxt "conversations/01_groundbreaker/01_cp_medbay_terminal:14:DefaultText"
@@ -95,4 +96,4 @@ msgid "Groundbreaker MedBay Terminal\r\n"
 "I'm at my wit's end coordinating with any authority outside of Groundbreaker. The Board won't dispatch a surgeon unless Junlei agrees to share a third of all docking revenue, and Spacer's Choice won't send supplies unless we make an exclusive deal to use their products. No thank you. I've seen enough shoddy needles breaking off in patients' arms. \r\n"
 "\r\n"
 "I need to chat with Junlei about this, but she has problems of her own. Some of us are growing concerned about the cost of Groundbreaker's independence."
-msgstr ""
+msgstr "Groundbreaker MedBay Terminal ======================== Jsem v koncích s koordinací s jakýmkoli orgánem mimo Groundbreaker. Rada nevyšle chirurga, pokud Junlei nebude souhlasit se sdílením třetiny všech příjmů z dokování, a Spacer's Choice nepošle zásoby, pokud neuzavřeme exkluzivní dohodu o používání jejich výrobků. Ne, děkuji. Už jsem viděl dost nekvalitních jehel, které se pacientům lámaly v rukou. Musím si o tom promluvit s Junlei, ale ta má své vlastní problémy. Někteří z nás mají stále větší obavy, kolik bude stát nezávislost Groundbreakeru."

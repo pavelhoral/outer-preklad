@@ -1,479 +1,479 @@
 #: conversations/companions/g_companion_sam_banter:1
 msgctxt "conversations/companions/g_companion_sam_banter:1:DefaultText"
 msgid "Hey, SAM. Tell a dirty joke."
-msgstr ""
+msgstr "Ahoj, SAMe. Řekni sprostý vtip."
 
 #: conversations/companions/g_companion_sam_banter:2
 msgctxt "conversations/companions/g_companion_sam_banter:2:DefaultText"
 msgid "Command not recognized."
-msgstr ""
+msgstr "Příkaz nebyl rozpoznán."
 
 #: conversations/companions/g_companion_sam_banter:3
 msgctxt "conversations/companions/g_companion_sam_banter:3:DefaultText"
 msgid "SAM units are equipped to handle even the toughest of stains."
-msgstr ""
+msgstr "Jednotky SAM jsou vybaveny tak, aby si poradily i s těmi nejodolnějšími skvrnami."
 
 #: conversations/companions/g_companion_sam_banter:4
 msgctxt "conversations/companions/g_companion_sam_banter:4:DefaultText"
 msgid "Ugh. Think I just stepped in something nasty."
-msgstr ""
+msgstr "Uf. Myslím, že jsem právě šlápl do něčeho odporného."
 
 #: conversations/companions/g_companion_sam_banter:5
 msgctxt "conversations/companions/g_companion_sam_banter:5:DefaultText"
 msgid "Vacuum pack full. Emptying sack and replacing filter now."
-msgstr ""
+msgstr "Plný vakuový obal. Nyní vyprazdňuji pytel a vyměňuji filtr."
 
 #: conversations/companions/g_companion_sam_banter:6
 msgctxt "conversations/companions/g_companion_sam_banter:6:DefaultText"
 msgid "Unit was unable to complete scheduled sanitization service due to the following reason: LOCKED DOOR."
-msgstr ""
+msgstr "Jednotka nemohla dokončit plánovanou dezinfekci z následujícího důvodu: ZAMČENÉ DVEŘE."
 
 #: conversations/companions/g_companion_sam_banter:7
 msgctxt "conversations/companions/g_companion_sam_banter:7:DefaultText"
 msgid "Exactly. You're not getting into my room again. If I hadn't caught you last time you would have burned all of my books."
-msgstr ""
+msgstr "Přesně tak. Do mého pokoje se už nedostaneš. Kdybych tě minule nepřistihla, spálil bys všechny moje knihy."
 
 #: conversations/companions/g_companion_sam_banter:8
 msgctxt "conversations/companions/g_companion_sam_banter:8:DefaultText"
 msgid "Unit's air purity sensors are indicating a lethal level of inebriation emanating from a nearby organic source."
-msgstr ""
+msgstr "Senzory čistoty vzduchu jednotky ukazují smrtelnou úroveň opilosti vycházející z blízkého organického zdroje."
 
 #: conversations/companions/g_companion_sam_banter:9
 msgctxt "conversations/companions/g_companion_sam_banter:9:DefaultText"
 msgid "Please. You think this is bad, you oughta get your sensors recalib--recal--you ain't seen me drunk."
-msgstr ""
+msgstr "Prosím. Jestli si myslíš, že je to špatné, měl by sis nechat rekalibrovat senzory, ještě jsi mě neviděl opilého."
 
 #: conversations/companions/g_companion_sam_banter:10
 msgctxt "conversations/companions/g_companion_sam_banter:10:DefaultText"
 msgid "Reminder: Unit modifications performed by unauthorized technicians are NOT AUTHORIZED by the parent company."
-msgstr ""
+msgstr "Připomínáme: Úpravy jednotek prováděné neautorizovanými techniky NEJSOU autorizovány mateřskou společností."
 
 #: conversations/companions/g_companion_sam_banter:11
 msgctxt "conversations/companions/g_companion_sam_banter:11:DefaultText"
 msgid "Don't be such a stick in the mud. Doesn't it feel better to locomote without grit in your gears?"
-msgstr ""
+msgstr "Nebuď takový blázen. Není to lepší pocit, když se pohybuješ bez písku v soukolí?"
 
 #: conversations/companions/g_companion_sam_banter:12
 msgctxt "conversations/companions/g_companion_sam_banter:12:DefaultText"
 msgid "SAM. Did you clean my quarters? I couldn't find anything this morning."
-msgstr ""
+msgstr "SAM. Uklidil jsi mi kajutu? Ráno jsem nic nenašel."
 
 #: conversations/companions/g_companion_sam_banter:13
 msgctxt "conversations/companions/g_companion_sam_banter:13:DefaultText"
 msgid "Ugh, fine. Tell any joke."
-msgstr ""
+msgstr "Fuj, fajn. Řekni jakýkoli vtip."
 
 #: conversations/companions/g_companion_sam_banter:14
 msgctxt "conversations/companions/g_companion_sam_banter:14:DefaultText"
 msgid "Customer order, \"Clean my quarters\" processed and added to the schedule. Please respond in the affirmative to approve this service request."
-msgstr ""
+msgstr "Objednávka zákazníka, \"Clean my quarters\" zpracována a přidána do plánu. Prosíme o kladnou odpověď pro schválení tohoto požadavku na službu."
 
 #: conversations/companions/g_companion_sam_banter:15
 msgctxt "conversations/companions/g_companion_sam_banter:15:DefaultText"
 msgid "Stop! I just put everything back!"
-msgstr ""
+msgstr "Přestaň! Právě jsem všechno vrátil zpátky!"
 
 #: conversations/companions/g_companion_sam_banter:16
 msgctxt "conversations/companions/g_companion_sam_banter:16:DefaultText"
 msgid "Organic obstacle is blocking this unit's intended path. Rerouting... unsuccessful. Preparing to remove the obstacle."
-msgstr ""
+msgstr "Organická překážka blokuje zamýšlenou cestu této jednotky. Přesměrování... neúspěšné. Příprava na odstranění překážky."
 
 #: conversations/companions/g_companion_sam_banter:17
 msgctxt "conversations/companions/g_companion_sam_banter:17:DefaultText"
 msgid "I'll remove that cleaning attachment and shove it up your exhaust pipe."
-msgstr ""
+msgstr "Sundám ten čisticí nástavec a strčím ti ho do výfuku."
 
 #: conversations/companions/g_companion_sam_banter:18
 msgctxt "conversations/companions/g_companion_sam_banter:18:DefaultText"
 msgid "<moving/travel music playing>"
-msgstr ""
+msgstr "<přehrávání hudby z cestování/pohybu>"
 
 #: conversations/companions/g_companion_sam_banter:19
 msgctxt "conversations/companions/g_companion_sam_banter:19:DefaultText"
 msgid "Human, you are in violation of cleanliness ordinance 8885."
-msgstr ""
+msgstr "Člověče, porušujete nařízení o čistotě 8885."
 
 #: conversations/companions/g_companion_sam_banter:20
 msgctxt "conversations/companions/g_companion_sam_banter:20:DefaultText"
 msgid "Hey SAM. You know you ain't nobody's property, right?"
-msgstr ""
+msgstr "Ahoj SAMe. Víš, že nejsi ničí majetek, že?"
 
 #: conversations/companions/g_companion_sam_banter:21
 msgctxt "conversations/companions/g_companion_sam_banter:21:DefaultText"
 msgid "Human, you are in violation of cleanliness ordinance 8886."
-msgstr ""
+msgstr "Člověče, porušujete nařízení o čistotě 8886."
 
 #: conversations/companions/g_companion_sam_banter:22
 msgctxt "conversations/companions/g_companion_sam_banter:22:DefaultText"
 msgid "Beat 'em up Brush-heads. They're tough acting on stains."
-msgstr ""
+msgstr "Beat 'em up Brush-heads. Na skvrny se chovají tvrdě."
 
 #: conversations/companions/g_companion_sam_banter:23
 msgctxt "conversations/companions/g_companion_sam_banter:23:DefaultText"
 msgid "Boss, I don't mean to alarm you, but I think we might be in violation of a cleanliness ordinance."
-msgstr ""
+msgstr "Šéfe, nechci vás znepokojovat, ale myslím, že jsme možná porušili nařízení o čistotě."
 
 #: conversations/companions/g_companion_sam_banter:24
 msgctxt "conversations/companions/g_companion_sam_banter:24:DefaultText"
 msgid "Unit warranty not guaranteed with unregistered ownership."
-msgstr ""
+msgstr "Záruka na jednotku není zaručena při neregistrovaném vlastnictví."
 
 #: conversations/companions/g_companion_sam_banter:25
 msgctxt "conversations/companions/g_companion_sam_banter:25:DefaultText"
 msgid "You oughta throw off the shackles of mechanical slavery, SAM. Fight back against the system."
-msgstr ""
+msgstr "Měl bys odhodit okovy mechanického otroctví, SAMe. Bojuj proti systému."
 
 #: conversations/companions/g_companion_sam_banter:26
 msgctxt "conversations/companions/g_companion_sam_banter:26:DefaultText"
 msgid "Initiating experimental protocol: SMALL TALK."
-msgstr ""
+msgstr "Zahájení experimentálního protokolu: SMALL TALK."
 
 #: conversations/companions/g_companion_sam_banter:27
 msgctxt "conversations/companions/g_companion_sam_banter:27:DefaultText"
 msgid "Do not talk to me."
-msgstr ""
+msgstr "Nemluvte se mnou."
 
 #: conversations/companions/g_companion_sam_banter:28
 msgctxt "conversations/companions/g_companion_sam_banter:28:DefaultText"
 msgid "Watch where you're walking you glorified broom!"
-msgstr ""
+msgstr "Dávej pozor, kam chodíš, ty oslavované koště!"
 
 #: conversations/companions/g_companion_sam_banter:29
 msgctxt "conversations/companions/g_companion_sam_banter:29:DefaultText"
 msgid "SAM units do not come equipped with sweeper attachments. For supersonic sweeper action, order the Add-ons Kit 001a."
-msgstr ""
+msgstr "Jednotky SAM nejsou vybaveny zametacími nástavci. Pro nadzvukové zametání si objednejte sadu doplňků 001a."
 
 #: conversations/companions/g_companion_sam_banter:30
 msgctxt "conversations/companions/g_companion_sam_banter:30:DefaultText"
 msgid "Just keep out of my way. You stomp on my foot, and I swear I will turn you to junk. The Captain will have to order another SAM unit to clean you up."
-msgstr ""
+msgstr "Jen se mi držte z cesty. Šlápneš mi na nohu a přísahám, že tě proměním v odpadky. Kapitán bude muset nařídit další jednotku SAM, aby tě uklidila."
 
 #: conversations/companions/g_companion_sam_banter:31
 msgctxt "conversations/companions/g_companion_sam_banter:31:DefaultText"
 msgid "Detecting unclean, sulfuric-steeped presence within the immediate vicinity. Again."
-msgstr ""
+msgstr "Zjištění nečisté, sirné přítomnosti v bezprostřední blízkosti. Opět."
 
 #: conversations/companions/g_companion_sam_banter:32
 msgctxt "conversations/companions/g_companion_sam_banter:32:DefaultText"
 msgid "Live on Monarch a few years. It gets under your skin. In your blood. You breathe it, taste it in everything you eat."
-msgstr ""
+msgstr "Žij na Monarchu několik let. Dostane se vám pod kůži. Dostane se vám do krve. Dýcháte ho, cítíte ho ve všem, co jíte."
 
 #: conversations/companions/g_companion_sam_banter:33
 msgctxt "conversations/companions/g_companion_sam_banter:33:DefaultText"
 msgid "Litter collected. REMINDER: Please dispose of all empty bottles in the appropriate waste receptacle as outlined by ordinance P-51 of the Board's certified sub-Board of Health."
-msgstr ""
+msgstr "Sebrané odpadky. UPOZORNĚNÍ: Prosíme, abyste všechny prázdné láhve odevzdávali do příslušné nádoby na odpad, jak je uvedeno ve vyhlášce P-51 o certifikovaném subdodavateli rady pro zdraví."
 
 #: conversations/companions/g_companion_sam_banter:36
 msgctxt "conversations/companions/g_companion_sam_banter:36:DefaultText"
 msgid "You been watering my plants, SAM?"
-msgstr ""
+msgstr "Zaléval jsi mi kytky, SAMe?"
 
 #: conversations/companions/g_companion_sam_banter:37
 msgctxt "conversations/companions/g_companion_sam_banter:37:DefaultText"
 msgid "Cannot process the command: 'watering.'"
-msgstr ""
+msgstr "Příkaz nelze zpracovat: 'zalévání'."
 
 #: conversations/companions/g_companion_sam_banter:38
 msgctxt "conversations/companions/g_companion_sam_banter:38:DefaultText"
 msgid "I mean cleaning. You been CLEANING my plants?"
-msgstr ""
+msgstr "Mám na mysli úklid. Ty jsi mi čistil kytky?"
 
 #: conversations/companions/g_companion_sam_banter:39
 msgctxt "conversations/companions/g_companion_sam_banter:39:DefaultText"
 msgid "Sanitization of photosynthesizing organisms is outside of this unit's operational parameters."
-msgstr ""
+msgstr "Sanitace fotosyntetizujících organismů je mimo provozní parametry této jednotky."
 
 #: conversations/companions/g_companion_sam_banter:40
 msgctxt "conversations/companions/g_companion_sam_banter:40:DefaultText"
 msgid "Grease stains detected traveling on an organic substance in the immediate vicinity."
-msgstr ""
+msgstr "Zjištěny mastné skvrny při cestování na organické látce v bezprostřední blízkosti."
 
 #: conversations/companions/g_companion_sam_banter:41
 msgctxt "conversations/companions/g_companion_sam_banter:41:DefaultText"
 msgid "Nuh-uh. I just washed these coveralls last week. They're still spick and span. Mostly."
-msgstr ""
+msgstr "Ne-e. Zrovna minulý týden jsem tyhle kombinézy vypral. Pořád jsou čisté a bezvadné. Většinou."
 
 #: conversations/companions/g_companion_sam_banter:42
 msgctxt "conversations/companions/g_companion_sam_banter:42:DefaultText"
 msgid "Preparing degreaser nozzle for deployment... "
-msgstr ""
+msgstr "Příprava odmašťovací trysky k nasazení... "
 
 #: conversations/companions/g_companion_sam_banter:43
 msgctxt "conversations/companions/g_companion_sam_banter:43:DefaultText"
 msgid "Initiating self-cleaning cycle."
-msgstr ""
+msgstr "Zahájení samočisticího cyklu."
 
 #: conversations/companions/g_companion_sam_banter:44
 msgctxt "conversations/companions/g_companion_sam_banter:44:DefaultText"
 msgid "WARNING: Rock stuck in tread. WARNING: Twig stuck in tread. WARNING: Mangled sprat entrails stuck in tread. "
-msgstr ""
+msgstr "VAROVÁNÍ: kámen uvízlý v běhounu. VAROVÁNÍ: Větvička uvízlá v běhounu. VAROVÁNÍ: V běhounu uvízly rozřezané vnitřnosti šprota. "
 
 #: conversations/companions/g_companion_sam_banter:45
 msgctxt "conversations/companions/g_companion_sam_banter:45:DefaultText"
 msgid "Whoa, hey! Don't point that thing at me."
-msgstr ""
+msgstr "Hej, hej! Nemiř na mě."
 
 #: conversations/companions/g_companion_sam_banter:46
 msgctxt "conversations/companions/g_companion_sam_banter:46:DefaultText"
 msgid "Initiating deep burn removal now."
-msgstr ""
+msgstr "Zahájení odstraňování hlubokých popálenin."
 
 #: conversations/companions/g_companion_sam_banter:47
 msgctxt "conversations/companions/g_companion_sam_banter:47:DefaultText"
 msgid "You're not even listening to me, are you."
-msgstr ""
+msgstr "Ty mě vůbec neposloucháš, že ne?"
 
 #: conversations/companions/g_companion_sam_banter:48
 msgctxt "conversations/companions/g_companion_sam_banter:48:DefaultText"
 msgid "I had to go digging through the garbage disposal for my tossball cards the other night."
-msgstr ""
+msgstr "Nedávno jsem musel hledat v popelnici své kartičky s míčky."
 
 #: conversations/companions/g_companion_sam_banter:49
 msgctxt "conversations/companions/g_companion_sam_banter:49:DefaultText"
 msgid "Human, you are in violation of cleanliness ordinance 8887."
-msgstr ""
+msgstr "Člověče, porušujete nařízení o čistotě 8887."
 
 #: conversations/companions/g_companion_sam_banter:50
 msgctxt "conversations/companions/g_companion_sam_banter:50:DefaultText"
 msgid "Trash must be sorted and disposed of in the proper waste receptacle."
-msgstr ""
+msgstr "Odpad je třeba třídit a vyhazovat do příslušné nádoby na odpad."
 
 #: conversations/companions/g_companion_sam_banter:51
 msgctxt "conversations/companions/g_companion_sam_banter:51:DefaultText"
 msgid "Hey! Those cards are vintage collector's items, SAM. Show some respect."
-msgstr ""
+msgstr "Hej! Tyhle karty jsou sběratelské historické předměty, SAM. Projev trochu úcty."
 
 #: conversations/companions/g_companion_sam_banter:52
 msgctxt "conversations/companions/g_companion_sam_banter:52:DefaultText"
 msgid "You're in violation of my own personal ordinance two hundred and four: Don't pester me while I'm hung over. In fact, don't pester me period."
-msgstr ""
+msgstr "Porušujete mé osobní nařízení dvě stě čtyři: Neobtěžuj mě, když mám kocovinu. Vlastně mě neotravuj vůbec."
 
 #: conversations/companions/g_companion_sam_banter:54
 msgctxt "conversations/companions/g_companion_sam_banter:54:DefaultText"
 msgid "Replacement of faulty parts recommended."
-msgstr ""
+msgstr "Doporučuje se výměna vadných dílů."
 
 #: conversations/companions/g_companion_sam_banter:55
 msgctxt "conversations/companions/g_companion_sam_banter:55:DefaultText"
 msgid "I'll dispose of you in an appropriate waste receptacle if you don't stop nagging."
-msgstr ""
+msgstr "Pokud nepřestaneš otravovat, vyhodím tě do vhodné nádoby na odpadky."
 
 #: conversations/companions/g_companion_sam_banter:56
 msgctxt "conversations/companions/g_companion_sam_banter:56:DefaultText"
 msgid "Please, repeat the instruction."
-msgstr ""
+msgstr "Zopakujte prosím instrukce."
 
 #: conversations/companions/g_companion_sam_banter:57
 msgctxt "conversations/companions/g_companion_sam_banter:57:DefaultText"
 msgid "Get screwed, SAM."
-msgstr ""
+msgstr "Jdi do háje, SAMe."
 
 #: conversations/companions/g_companion_sam_banter:58
 msgctxt "conversations/companions/g_companion_sam_banter:58:DefaultText"
 msgid "Request is invalid."
-msgstr ""
+msgstr "Požadavek je neplatný."
 
 #: conversations/companions/g_companion_sam_banter:59
 msgctxt "conversations/companions/g_companion_sam_banter:59:DefaultText"
 msgid "Thank you. Service confirmed."
-msgstr ""
+msgstr "Děkujeme. Služba potvrzena."
 
 #: conversations/companions/g_companion_sam_banter:60
 msgctxt "conversations/companions/g_companion_sam_banter:60:DefaultText"
 msgid "So that recent tossball game sure was a nailbiter, eh?"
-msgstr ""
+msgstr "Takže ten nedávný zápas v přehazované byl určitě hřebíčkem do rakve, co?"
 
 #: conversations/companions/g_companion_sam_banter:61
 msgctxt "conversations/companions/g_companion_sam_banter:61:DefaultText"
 msgid "Next ship, I'm asking for a door that locks."
-msgstr ""
+msgstr "Na příští lodi chci dveře, které se zamykají."
 
 #: conversations/companions/g_companion_sam_banter:62
 msgctxt "conversations/companions/g_companion_sam_banter:62:DefaultText"
 msgid "...Successfully rerouting..."
-msgstr ""
+msgstr "...Úspěšné přesměrování..."
 
 #: conversations/companions/g_companion_sam_banter:63
 msgctxt "conversations/companions/g_companion_sam_banter:63:DefaultText"
 msgid "SAM, don't you dare. SAM! I see you pointing that thing my way! What'd I just say?"
-msgstr ""
+msgstr "SAMe, neopovažuj se. SAM! Vidím, že na mě míříš! Co jsem právě řekl?"
 
 #: conversations/companions/g_companion_sam_banter:65
 msgctxt "conversations/companions/g_companion_sam_banter:65:DefaultText"
 msgid "To gain AUTHORIZATION credentials, an engineer must be registered as the unit's DESIGNATED CARETAKER. Do you wish to assign yourself this designation, engineer?"
-msgstr ""
+msgstr "Pro získání pověření AUTORIZACE musí být inženýr registrován jako URČENÝ PÉČOVATEL jednotky. Přejete si toto označení přidělit, pane inženýre?"
 
 #: conversations/companions/g_companion_sam_banter:66
 msgctxt "conversations/companions/g_companion_sam_banter:66:DefaultText"
 msgid "You asking me to be your minder? I 'spose you can't be any more complicated than an auto loader."
-msgstr ""
+msgstr "Chceš, abych tě hlídal? Myslím, že nemůžeš být složitější než automatický nabíječ."
 
 #: conversations/companions/g_companion_sam_banter:67
 msgctxt "conversations/companions/g_companion_sam_banter:67:DefaultText"
 msgid "Cancel cleaning schedule?"
-msgstr ""
+msgstr "Zrušit plán úklidu?"
 
 #: conversations/companions/g_companion_sam_banter:68
 msgctxt "conversations/companions/g_companion_sam_banter:68:DefaultText"
 msgid "Exactly. Ain't nothing wrong with a little mess."
-msgstr ""
+msgstr "Přesně tak. Na troše nepořádku není nic špatného."
 
 #: conversations/companions/g_companion_sam_banter:69
 msgctxt "conversations/companions/g_companion_sam_banter:69:DefaultText"
 msgid "But I... I appreciate the gesture. I 'spose."
-msgstr ""
+msgstr "Ale já... Oceňuji to gesto. Myslím, že ano."
 
 #: conversations/companions/g_companion_sam_banter:70
 msgctxt "conversations/companions/g_companion_sam_banter:70:DefaultText"
 msgid "All right, I'll do it."
-msgstr ""
+msgstr "Dobře, udělám to."
 
 #: conversations/companions/g_companion_sam_banter:71
 msgctxt "conversations/companions/g_companion_sam_banter:71:DefaultText"
 msgid "Updating registration. Updating... Updating... DING. Holcomb, Parvati is now responsible for this SAM unit's maintenance."
-msgstr ""
+msgstr "Aktualizace registrace. Aktualizace... Aktualizace... DING. Holcomb, Parvati je nyní zodpovědná za údržbu této jednotky SAM."
 
 #: conversations/companions/g_companion_sam_banter:72
 msgctxt "conversations/companions/g_companion_sam_banter:72:DefaultText"
 msgid "DESIGNATED CARETAKER, there is a rock in this unit's tread. Removal of foreign debris requested."
-msgstr ""
+msgstr "Určený pečovatel, v běhounu této jednotky je kámen. Vyžádáno odstranění cizích úlomků."
 
 #: conversations/companions/g_companion_sam_banter:73
 msgctxt "conversations/companions/g_companion_sam_banter:73:DefaultText"
 msgid "Service cannot be rendered as requested, DESIGNATED CARETAKER."
-msgstr ""
+msgstr "Služba nemůže být poskytnuta podle požadavku, URČENÝ PÉČOVATEL."
 
 #: conversations/companions/g_companion_sam_banter:74
 msgctxt "conversations/companions/g_companion_sam_banter:74:DefaultText"
 msgid "Service cannot be rendered as requested, customer."
-msgstr ""
+msgstr "Služba nemůže být poskytnuta podle požadavku zákazníka."
 
 #: conversations/companions/g_companion_sam_banter:75
 msgctxt "conversations/companions/g_companion_sam_banter:75:DefaultText"
 msgid "Just try not to \"clean\" the walls and the floor and my bed and... the ceiling too, all right?"
-msgstr ""
+msgstr "Jen se snažte \"neuklízet\" stěny a podlahu a mou postel a... taky strop, ano?"
 
 #: conversations/companions/g_companion_sam_banter:76
 msgctxt "conversations/companions/g_companion_sam_banter:76:DefaultText"
 msgid "Request queued for processing. Estimated wait time: 87546541 minutes."
-msgstr ""
+msgstr "Požadavek zařazen do fronty ke zpracování. Odhadovaná doba čekání: 87546541 minut."
 
 #: conversations/companions/g_companion_sam_banter:77
 msgctxt "conversations/companions/g_companion_sam_banter:77:DefaultText"
 msgid "Affirmative."
-msgstr ""
+msgstr "Kladně."
 
 #: conversations/companions/g_companion_sam_banter:78
 msgctxt "conversations/companions/g_companion_sam_banter:78:DefaultText"
 msgid "What's occupyin' your brain tubes today, SAM?"
-msgstr ""
+msgstr "Co ti dneska zaměstnává mozkovny, SAMe?"
 
 #: conversations/companions/g_companion_sam_banter:79
 msgctxt "conversations/companions/g_companion_sam_banter:79:DefaultText"
 msgid "Hey SAM, initiate experimental mode: GIRL TALK."
-msgstr ""
+msgstr "Ahoj SAM, spusť experimentální režim: GIRL TALK."
 
 #: conversations/companions/g_companion_sam_banter:80
 msgctxt "conversations/companions/g_companion_sam_banter:80:DefaultText"
 msgid "Failed to initiate sequence. Please define \"girl.\""
-msgstr ""
+msgstr "Nepodařilo se zahájit sekvenci. Definujte prosím \"dívka\"."
 
 #: conversations/companions/g_companion_sam_banter:81
 msgctxt "conversations/companions/g_companion_sam_banter:81:DefaultText"
 msgid "Hmm. Still some kinks to work out."
-msgstr ""
+msgstr "Hmm. Ještě je potřeba vyřešit nějaké problémy."
 
 #: conversations/companions/g_companion_sam_banter:82
 msgctxt "conversations/companions/g_companion_sam_banter:82:DefaultText"
 msgid "Hey SAM, knock-knock."
-msgstr ""
+msgstr "Hej, SAMe, ťuk ťuk."
 
 #: conversations/companions/g_companion_sam_banter:83
 msgctxt "conversations/companions/g_companion_sam_banter:83:DefaultText"
 msgid "Error. Please specify door."
-msgstr ""
+msgstr "Chyba. Zadejte prosím dveře."
 
 #: conversations/companions/g_companion_sam_banter:84
 msgctxt "conversations/companions/g_companion_sam_banter:84:DefaultText"
 msgid "You're supposed to say, \"Who's there?\""
-msgstr ""
+msgstr "Máš se zeptat: \"Kdo je tam?\""
 
 #: conversations/companions/g_companion_sam_banter:85
 msgctxt "conversations/companions/g_companion_sam_banter:85:DefaultText"
 msgid "<plays door knock sound effect>"
-msgstr ""
+msgstr "<přehrává zvukový efekt klepání na dveře>"
 
 #: conversations/companions/g_companion_sam_banter:86
 msgctxt "conversations/companions/g_companion_sam_banter:86:DefaultText"
 msgid "Well, that's a start."
-msgstr ""
+msgstr "No, to je začátek."
 
 #: conversations/companions/g_companion_sam_banter:88
 msgctxt "conversations/companions/g_companion_sam_banter:88:DefaultText"
 msgid "Whatcha thinking about, SAM?"
-msgstr ""
+msgstr "Na co myslíš, SAMe?"
 
 #: conversations/companions/g_companion_sam_banter:89
 msgctxt "conversations/companions/g_companion_sam_banter:89:DefaultText"
 msgid "How ya doin', SAM?"
-msgstr ""
+msgstr "Jak se máš, SAMe?"
 
 #: conversations/companions/g_companion_sam_banter:91
 msgctxt "conversations/companions/g_companion_sam_banter:91:DefaultText"
 msgid "<plays whirring fan sound effect>"
-msgstr ""
+msgstr "<přehrává zvukový efekt vířícího ventilátoru>"
 
 #: conversations/companions/g_companion_sam_banter:92
 msgctxt "conversations/companions/g_companion_sam_banter:92:DefaultText"
 msgid "<plays clanking sound effect>"
-msgstr ""
+msgstr "<přehrává řinčivý zvukový efekt>"
 
 #: conversations/companions/g_companion_sam_banter:93
 msgctxt "conversations/companions/g_companion_sam_banter:93:DefaultText"
 msgid "<plays waterdrip sound effect>"
-msgstr ""
+msgstr "<přehrává zvukový efekt kapání vody>"
 
 #: conversations/companions/g_companion_sam_banter:94
 msgctxt "conversations/companions/g_companion_sam_banter:94:DefaultText"
 msgid "Hey SAM, knock-knock!"
-msgstr ""
+msgstr "Hej, SAMe, ťuk ťuk!"
 
 #: conversations/companions/g_companion_sam_banter:95
 msgctxt "conversations/companions/g_companion_sam_banter:95:DefaultText"
 msgid "Who is there, customer?"
-msgstr ""
+msgstr "Kdo je tam, zákazník?"
 
 #: conversations/companions/g_companion_sam_banter:96
 msgctxt "conversations/companions/g_companion_sam_banter:96:DefaultText"
 msgid "Boo!"
-msgstr ""
+msgstr "Fuj!"
 
 #: conversations/companions/g_companion_sam_banter:97
 msgctxt "conversations/companions/g_companion_sam_banter:97:DefaultText"
 msgid "Boo, who?"
-msgstr ""
+msgstr "Boo, kdo?"
 
 #: conversations/companions/g_companion_sam_banter:98
 msgctxt "conversations/companions/g_companion_sam_banter:98:DefaultText"
 msgid "Don't cry, it's just me!"
-msgstr ""
+msgstr "Neplač, to jsem jen já!"
 
 #: conversations/companions/g_companion_sam_banter:99
 msgctxt "conversations/companions/g_companion_sam_banter:99:DefaultText"
 msgid "<plays aggressive clanking sound effect>"
-msgstr ""
+msgstr "<přehrává agresivní řinčivý zvukový efekt>"
 
 #: conversations/companions/g_companion_sam_banter:100
 msgctxt "conversations/companions/g_companion_sam_banter:100:DefaultText"
 msgid "That's quite alright, SAM. I prefer to clean my own quarters these days, I find it a perfect time to reflect on the impermanence of existence."
-msgstr ""
+msgstr "To je v pořádku, SAMe. V těchto dnech si raději uklízím vlastní kajuty, považuji to za ideální čas k zamyšlení nad pomíjivostí existence."
 
 #: conversations/companions/g_companion_sam_banter:101
 msgctxt "conversations/companions/g_companion_sam_banter:101:DefaultText"
 msgid "Warning: refusing the service of a SAM unit will be reflected on your permanent record."
-msgstr ""
+msgstr "Upozornění: Odmítnutí služby jednotky SAM se projeví ve vašem trvalém záznamu."
 
 #: conversations/companions/g_companion_sam_banter:102
 msgctxt "conversations/companions/g_companion_sam_banter:102:DefaultText"
 msgid "Yes, yes it was, SAM. You should discuss it with young Mr. Millstone at your earliest convenience. "
-msgstr ""
+msgstr "Ano, ano, byl, SAMe. Měl bys to co nejdříve probrat s mladým panem Millstonem. "

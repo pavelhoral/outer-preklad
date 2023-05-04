@@ -1,234 +1,234 @@
 #: conversations/00_emerald_vale/00_cv_cave_guard:1
 msgctxt "conversations/00_emerald_vale/00_cv_cave_guard:1:DefaultText"
 msgid "You've tried the best. Now-"
-msgstr ""
+msgstr "Vyzkoušeli jste to nejlepší. Nyní-"
 
 #: conversations/00_emerald_vale/00_cv_cave_guard:2
 msgctxt "conversations/00_emerald_vale/00_cv_cave_guard:2:DefaultText"
 msgid "- now try the rest. Spacer's Choice. Oh Law, that stings."
-msgstr ""
+msgstr "- nyní zkuste zbytek. Výběr Spacer's Choice. Oh Law, to pálí."
 
 #: conversations/00_emerald_vale/00_cv_cave_guard:3
 msgctxt "conversations/00_emerald_vale/00_cv_cave_guard:3:DefaultText"
 msgid "How are you feeling?"
-msgstr ""
+msgstr "Jak se cítíte?"
 
 #: conversations/00_emerald_vale/00_cv_cave_guard:4
 msgctxt "conversations/00_emerald_vale/00_cv_cave_guard:4:DefaultText"
 msgid "What happened to you?"
-msgstr ""
+msgstr "Co se vám stalo?"
 
 #: conversations/00_emerald_vale/00_cv_cave_guard:5
 msgctxt "conversations/00_emerald_vale/00_cv_cave_guard:5:DefaultText"
 msgid "Spacer's what?"
-msgstr ""
+msgstr "Co je Spacer?"
 
 #: conversations/00_emerald_vale/00_cv_cave_guard:7
 msgctxt "conversations/00_emerald_vale/00_cv_cave_guard:7:DefaultText"
 msgid "We were out on patrol. I saw a marauder camp up in the hills. Thought I could take 'em."
-msgstr ""
+msgstr "Byli jsme na hlídce. V kopcích jsem viděl tábor nájezdníků. Myslel jsem, že bych je mohl dostat."
 
 #: conversations/00_emerald_vale/00_cv_cave_guard:8
 msgctxt "conversations/00_emerald_vale/00_cv_cave_guard:8:DefaultText"
 msgid "Oh, we're all part of the Spacer's Choice family here. Not that I deserve to be. Can't even deliver a company slogan."
-msgstr ""
+msgstr "Všichni jsme součástí rodiny Spacer's Choice. Ne že bych si to zasloužil. Nedokážu ani dodat slogan společnosti."
 
 #: conversations/00_emerald_vale/00_cv_cave_guard:10
 msgctxt "conversations/00_emerald_vale/00_cv_cave_guard:10:DefaultText"
 msgid "Then my gun misfired. Right through my side. I mean, what are the odds of that, right?"
-msgstr ""
+msgstr "Pak moje zbraň nevystřelila. Přímo do boku. Jaká je na to pravděpodobnost, že?"
 
 #: conversations/00_emerald_vale/00_cv_cave_guard:12
 msgctxt "conversations/00_emerald_vale/00_cv_cave_guard:12:DefaultText"
 msgid "Just barely scraped by with my life. Crawled in here and blocked off the exit with those canisters."
-msgstr ""
+msgstr "Jen stěží jsem se protloukal životem. Vlezl jsem sem a zablokoval východ těmi kanystry."
 
 #: conversations/00_emerald_vale/00_cv_cave_guard:13
 msgctxt "conversations/00_emerald_vale/00_cv_cave_guard:13:DefaultText"
 msgid "Sit still. I'll patch you up."
-msgstr ""
+msgstr "Seďte klidně. Já tě ošetřím."
 
 #: conversations/00_emerald_vale/00_cv_cave_guard:14
 msgctxt "conversations/00_emerald_vale/00_cv_cave_guard:14:DefaultText"
 msgid "Looks like the bleeding's stopped. I owe you one."
-msgstr ""
+msgstr "Vypadá to, že krvácení se zastavilo. Dlužím ti to."
 
 #: conversations/00_emerald_vale/00_cv_cave_guard:15
 msgctxt "conversations/00_emerald_vale/00_cv_cave_guard:15:DefaultText"
 msgid "What's this about marauders?"
-msgstr ""
+msgstr "Co je to s těmi nájezdníky?"
 
 #: conversations/00_emerald_vale/00_cv_cave_guard:16
 msgctxt "conversations/00_emerald_vale/00_cv_cave_guard:16:DefaultText"
 msgid "What were you doing out here?"
-msgstr ""
+msgstr "Co jsi tu dělal?"
 
 #: conversations/00_emerald_vale/00_cv_cave_guard:17
 msgctxt "conversations/00_emerald_vale/00_cv_cave_guard:17:DefaultText"
 msgid "You're hiding in a cave, and you blocked off the exit. You're as good as dead."
-msgstr ""
+msgstr "Schováváte se v jeskyni a zablokovali jste východ. Jsi jako mrtvý."
 
 #: conversations/00_emerald_vale/00_cv_cave_guard:18
 msgctxt "conversations/00_emerald_vale/00_cv_cave_guard:18:DefaultText"
 msgid "Better, thanks to you. I might've bled out on my own. Or worse - had to go begging the boss for some Adrena-Time."
-msgstr ""
+msgstr "Díky vám je to lepší. Mohl jsem vykrvácet sám. Nebo hůř - musel bych jít prosit šéfa o nějaký Adrena-Time."
 
 #: conversations/00_emerald_vale/00_cv_cave_guard:19
 msgctxt "conversations/00_emerald_vale/00_cv_cave_guard:19:DefaultText"
 msgid "Gibbering, flesh-eating, law-breaking, unemployed lunatics. With guns."
-msgstr ""
+msgstr "Žvaniví, masožraví, zákony porušující, nezaměstnaní šílenci. Se zbraněmi."
 
 #: conversations/00_emerald_vale/00_cv_cave_guard:20
 msgctxt "conversations/00_emerald_vale/00_cv_cave_guard:20:DefaultText"
 msgid "Some hullhead grounded their spacecraft out in the open. That's a real good way to attract marauders."
-msgstr ""
+msgstr "Některé koráby uzemnily své kosmické lodě na volném prostranství. To je opravdu dobrý způsob, jak přilákat nájezdníky."
 
 #: conversations/00_emerald_vale/00_cv_cave_guard:21
 msgctxt "conversations/00_emerald_vale/00_cv_cave_guard:21:DefaultText"
 msgid "Investigating an illegally grounded ship! All spacecraft must arrive and depart from authorized landing pads. That's Board law, that is."
-msgstr ""
+msgstr "Vyšetřování nelegálně odstavené lodi! Všechny kosmické lodě musí přilétat a odlétat z autorizovaných přistávacích ploch. To je zákon Rady."
 
 #: conversations/00_emerald_vale/00_cv_cave_guard:23
 msgctxt "conversations/00_emerald_vale/00_cv_cave_guard:23:DefaultText"
 msgid "See those canisters by the entrance? Marauders come sniffing around in here, and I can take 'em all out with a single shot. Not bad, huh?"
-msgstr ""
+msgstr "Vidíte ty kanystry u vchodu? Chodí sem nájezdníci a já je můžu všechny zlikvidovat jediným výstřelem. To není špatné, co?"
 
 #: conversations/00_emerald_vale/00_cv_cave_guard:24
 msgctxt "conversations/00_emerald_vale/00_cv_cave_guard:24:DefaultText"
 msgid "Spacer's Choice policy clearly stipulates that \"dead\" and \"as good as dead\" are two completely different properties of matter."
-msgstr ""
+msgstr "Zásady Spacer's Choice jasně stanoví, že \"mrtvý\" a \"stejně dobrý jako mrtvý\" jsou dvě zcela odlišné vlastnosti hmoty."
 
 #: conversations/00_emerald_vale/00_cv_cave_guard:25
 msgctxt "conversations/00_emerald_vale/00_cv_cave_guard:25:DefaultText"
 msgid "Unless I'm dead, I'm contractually obligated to attend to my post. I will report that illegally grounded spacecraft if it is the last thing I do."
-msgstr ""
+msgstr "Pokud nejsem mrtvý, jsem smluvně zavázán k tomu, abych se věnoval svému postu. Nahlásím tu nelegálně uzemněnou kosmickou loď, pokud to bude poslední věc, kterou udělám."
 
 #: conversations/00_emerald_vale/00_cv_cave_guard:26
 msgctxt "conversations/00_emerald_vale/00_cv_cave_guard:26:DefaultText"
 msgid "I've got a better idea. Give me your gun, and I'll go get help."
-msgstr ""
+msgstr "Mám lepší nápad. Dej mi svou zbraň a já ti dojdu pro pomoc."
 
 #: conversations/00_emerald_vale/00_cv_cave_guard:27
 msgctxt "conversations/00_emerald_vale/00_cv_cave_guard:27:DefaultText"
 msgid "Someone grounded their ship illegally? I'll hunt 'em down for you."
-msgstr ""
+msgstr "Někdo uzemnil svou loď nelegálně? Najdu je pro vás."
 
 #: conversations/00_emerald_vale/00_cv_cave_guard:28
 msgctxt "conversations/00_emerald_vale/00_cv_cave_guard:28:DefaultText"
 msgid "You're an idiot. Give me your gun before you get yourself killed."
-msgstr ""
+msgstr "Jsi idiot. Dej mi svou zbraň, než se necháš zabít."
 
 #: conversations/00_emerald_vale/00_cv_cave_guard:29
 msgctxt "conversations/00_emerald_vale/00_cv_cave_guard:29:DefaultText"
 msgid "Yeah, okay. You look like you know your way around a gun. Got some spare ammo, not counting the bullet in my side."
-msgstr ""
+msgstr "Jo, dobře. Vypadáš, že se vyznáš ve zbraních. Mám nějaké náhradní náboje, když nepočítám kulku v boku."
 
 #: conversations/00_emerald_vale/00_cv_cave_guard:30
 msgctxt "conversations/00_emerald_vale/00_cv_cave_guard:30:DefaultText"
 msgid "You'd better take my gun, then. Careful. It's worth more to the company than I am."
-msgstr ""
+msgstr "Tak si raději vezměte mou zbraň. Opatrně. Pro společnost má větší cenu než já."
 
 #: conversations/00_emerald_vale/00_cv_cave_guard:31
 msgctxt "conversations/00_emerald_vale/00_cv_cave_guard:31:DefaultText"
 msgid "Yeah, you sound a lot like my lieutenant. Here - hope this gun serves you better than it did me."
-msgstr ""
+msgstr "Jo, mluvíš podobně jako můj poručík. Tady - doufám, že vám tahle zbraň poslouží lépe než mně."
 
 #: conversations/00_emerald_vale/00_cv_cave_guard:32
 msgctxt "conversations/00_emerald_vale/00_cv_cave_guard:32:DefaultText"
 msgid "Here, you can have my sabre, too. For patching me up and all."
-msgstr ""
+msgstr "Tady máš i mou šavli. Za to, že jsi mě dal dohromady a tak."
 
 #: conversations/00_emerald_vale/00_cv_cave_guard:33
 msgctxt "conversations/00_emerald_vale/00_cv_cave_guard:33:DefaultText"
 msgid "All Spacer's Choice weapons are now thirty percent less likely to malfunction. You've tried the best. Now try the rest. Spacer's Choice."
-msgstr ""
+msgstr "Všechny zbraně Spacer's Choice mají nyní o třicet procent nižší pravděpodobnost poruchy. Vyzkoušeli jste to nejlepší. Nyní vyzkoušejte ostatní. Spacer's Choice."
 
 #: conversations/00_emerald_vale/00_cv_cave_guard:34
 msgctxt "conversations/00_emerald_vale/00_cv_cave_guard:34:DefaultText"
 msgid "Yes! Nailed it that time."
-msgstr ""
+msgstr "Ano! Tentokrát to vyšlo."
 
 #: conversations/00_emerald_vale/00_cv_cave_guard:35
 msgctxt "conversations/00_emerald_vale/00_cv_cave_guard:35:DefaultText"
 msgid "Hey, you. Come here."
-msgstr ""
+msgstr "Ahoj, ty. Pojď sem."
 
 #: conversations/00_emerald_vale/00_cv_cave_guard:36
 msgctxt "conversations/00_emerald_vale/00_cv_cave_guard:36:DefaultText"
 msgid "I just need to catch my breath."
-msgstr ""
+msgstr "Potřebuji se jen nadechnout."
 
 #: conversations/00_emerald_vale/00_cv_cave_guard:37
 msgctxt "conversations/00_emerald_vale/00_cv_cave_guard:37:DefaultText"
 msgid "Thanks for patching me up."
-msgstr ""
+msgstr "Díky za opravu."
 
 #: conversations/00_emerald_vale/00_cv_cave_guard:38
 msgctxt "conversations/00_emerald_vale/00_cv_cave_guard:38:DefaultText"
 msgid "I'm out of bullets..."
-msgstr ""
+msgstr "Došly mi náboje..."
 
 #: conversations/00_emerald_vale/00_cv_cave_guard:39
 msgctxt "conversations/00_emerald_vale/00_cv_cave_guard:39:DefaultText"
 msgid "Can you tell me where I am?"
-msgstr ""
+msgstr "Můžete mi říct, kde jsem?"
 
 #: conversations/00_emerald_vale/00_cv_cave_guard:40
 msgctxt "conversations/00_emerald_vale/00_cv_cave_guard:40:DefaultText"
 msgid "Do you know anything about the Hope?"
-msgstr ""
+msgstr "Víte něco o Naději?"
 
 #: conversations/00_emerald_vale/00_cv_cave_guard:41
 msgctxt "conversations/00_emerald_vale/00_cv_cave_guard:41:DefaultText"
 msgid "I'm off."
-msgstr ""
+msgstr "Odcházím."
 
 #: conversations/00_emerald_vale/00_cv_cave_guard:42
 msgctxt "conversations/00_emerald_vale/00_cv_cave_guard:42:DefaultText"
 msgid "Already? Lucky for you, I've got some more right here."
-msgstr ""
+msgstr "Už? Naštěstí pro vás mám další."
 
 #: conversations/00_emerald_vale/00_cv_cave_guard:43
 msgctxt "conversations/00_emerald_vale/00_cv_cave_guard:43:DefaultText"
 msgid "You hit your head or something? You're in Emerald Vale. We're a Spacer's Choice community."
-msgstr ""
+msgstr "Uhodil ses do hlavy nebo tak něco? Jsi v Emerald Vale. Jsme komunita Spacer's Choice."
 
 #: conversations/00_emerald_vale/00_cv_cave_guard:44
 msgctxt "conversations/00_emerald_vale/00_cv_cave_guard:44:DefaultText"
 msgid "The Hope? Is that some sort of fancy new drug? Are you with Auntie Cleo or something?"
-msgstr ""
+msgstr "Naděje? To je nějaká nová droga? Jsi s tetou Cleo nebo co?"
 
 #: conversations/00_emerald_vale/00_cv_cave_guard:46
 msgctxt "conversations/00_emerald_vale/00_cv_cave_guard:46:DefaultText"
 msgid "Hope you don't mind me omitting this little exchange from my report. Spacer's Choice doesn't like us accepting outside help."
-msgstr ""
+msgstr "Doufám, že vám nevadí, že jsem tuto malou výměnu názorů ze své zprávy vynechal. Spacer's Choice nemá rád, když přijímáme pomoc zvenčí."
 
 #: conversations/00_emerald_vale/00_cv_cave_guard:47
 msgctxt "conversations/00_emerald_vale/00_cv_cave_guard:47:DefaultText"
 msgid "Don't take this the wrong way or nothing, but I'm not allowed to fraternize with Cleo workers. Company policy."
-msgstr ""
+msgstr "Neberte si to špatně nebo tak, ale nemám dovoleno se bratříčkovat s pracovníky Cleo. Zásady společnosti."
 
 #: conversations/00_emerald_vale/00_cv_cave_guard:48
 msgctxt "conversations/00_emerald_vale/00_cv_cave_guard:48:DefaultText"
 msgid "Edgewater's a little ways down. Prettiest place in the vale. Be sure to stop by our provisioner's for a can of our famous saltuna."
-msgstr ""
+msgstr "Edgewater je kousek dál. Nejkrásnější místo v údolí. Nezapomeňte se zastavit u našeho provianťáka pro plechovku naší slavné saltuny."
 
 #: conversations/00_emerald_vale/00_cv_cave_guard:49
 msgctxt "conversations/00_emerald_vale/00_cv_cave_guard:49:DefaultText"
 msgid "It's not the best choice. It's Spacer's Choice."
-msgstr ""
+msgstr "Není to nejlepší volba. Je to volba Spacer's Choice."
 
 #: conversations/00_emerald_vale/00_cv_cave_guard:52
 msgctxt "conversations/00_emerald_vale/00_cv_cave_guard:52:DefaultText"
 msgid "You got past those marauders? Nice work."
-msgstr ""
+msgstr "Dostal ses přes ty nájezdníky? Dobrá práce."
 
 #: conversations/00_emerald_vale/00_cv_cave_guard:53
 msgctxt "conversations/00_emerald_vale/00_cv_cave_guard:53:DefaultText"
 msgid "Hey, thanks for helping me back in that cave. You got a real knack for curative work."
-msgstr ""
+msgstr "Hej, díky za pomoc v té jeskyni. Máš opravdový talent na léčitelskou práci."
 
 #: conversations/00_emerald_vale/00_cv_cave_guard:54
 msgctxt "conversations/00_emerald_vale/00_cv_cave_guard:54:DefaultText"
 msgid "They're saying the power's out until further notice. Company wouldn't just do that to us - would they?"
-msgstr ""
+msgstr "Říkají, že elektřina je až do odvolání vypnutá. To by nám společnost jen tak neudělala, že ne?"

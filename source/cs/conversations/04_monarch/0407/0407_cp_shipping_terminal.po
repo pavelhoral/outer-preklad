@@ -7,34 +7,34 @@ msgid "Fallbrook Shipping and Receiving\r\n"
 "Everyone else, if I catch you using this thing I'm going to tie steel to your feet and throw you in a sulfur pool.\r\n"
 "\r\n"
 "- Catherine"
-msgstr ""
+msgstr "Fallbrook Shipping and Receiving ========================== Autorizovaní uživatelé, prosím, zadejte svůj autorizační kód. Všichni ostatní, jestli vás přistihnu, jak to používáte, přivážu vám k nohám ocel a hodím vás do sirného bazénu. - Catherine"
 
 #: conversations/04_monarch/0407/0407_cp_shipping_terminal:2
 msgctxt "conversations/04_monarch/0407/0407_cp_shipping_terminal:2:DefaultText"
 msgid "[Access Shipping Manifests]"
-msgstr ""
+msgstr "[Přístup k přepravním listům]"
 
 #: conversations/04_monarch/0407/0407_cp_shipping_terminal:3
 msgctxt "conversations/04_monarch/0407/0407_cp_shipping_terminal:3:DefaultText"
 msgid "Fallbrook Shipping and Receiving\r\n"
 "==========================\r\n"
 "The most recent manifests:"
-msgstr ""
+msgstr "Fallbrook Shipping and Receiving ========================== Nejnovější manifesty:"
 
 #: conversations/04_monarch/0407/0407_cp_shipping_terminal:4
 msgctxt "conversations/04_monarch/0407/0407_cp_shipping_terminal:4:DefaultText"
 msgid "[Outgoing - Auntie Cleo perishables]"
-msgstr ""
+msgstr "[Odchozí - zboží podléhající zkáze od tety Cleo]"
 
 #: conversations/04_monarch/0407/0407_cp_shipping_terminal:5
 msgctxt "conversations/04_monarch/0407/0407_cp_shipping_terminal:5:DefaultText"
 msgid "[Incoming - Spacer's Choice perishables]"
-msgstr ""
+msgstr "[Příchozí - zboží podléhající zkáze Spacer's Choice]"
 
 #: conversations/04_monarch/0407/0407_cp_shipping_terminal:6
 msgctxt "conversations/04_monarch/0407/0407_cp_shipping_terminal:6:DefaultText"
 msgid "[Purchase Request #UDL-2007]"
-msgstr ""
+msgstr "[Žádost o nákup #UDL-2007]"
 
 #: conversations/04_monarch/0407/0407_cp_shipping_terminal:7
 msgctxt "conversations/04_monarch/0407/0407_cp_shipping_terminal:7:DefaultText"
@@ -43,7 +43,7 @@ msgid "Fallbrook Shipping and Receiving\r\n"
 "Request origin: UDL outpost #172\r\n"
 "Request department: Department of Agriculture\r\n"
 "Offer: 51,241 bits"
-msgstr ""
+msgstr "Fallbrook Shipping and Receiving ========================== Původ žádosti: Oddělení žádosti: Ministerstvo zemědělství Nabídka: 51 241 bitů"
 
 #: conversations/04_monarch/0407/0407_cp_shipping_terminal:9
 msgctxt "conversations/04_monarch/0407/0407_cp_shipping_terminal:9:DefaultText"
@@ -56,7 +56,7 @@ msgid "Fallbrook Shipping and Receiving\r\n"
 "Parcel: 58.9kb\r\n"
 "Origin: Spacer's Choice outpost #171\r\n"
 "Attn: Department of Security"
-msgstr ""
+msgstr "Fallbrook Shipping and Receiving ========================== Balík: 59,2 kg Původ: Balík: 58.9kb Původ: Spacer's Choice outpost #111 Attn: Department of Sanitation Balík: 58.9kb Původ: Zásilka: Spacer's Choice outpost #171 Attn: Department of Security"
 
 #: conversations/04_monarch/0407/0407_cp_shipping_terminal:10
 msgctxt "conversations/04_monarch/0407/0407_cp_shipping_terminal:10:DefaultText"
@@ -73,22 +73,22 @@ msgid "Fallbrook Shipping and Receiving\r\n"
 "Parcel: 67.1kg\r\n"
 "Destination: Auntie Cleo outpost #112\r\n"
 "Attn: Department of Agriculture"
-msgstr ""
+msgstr "Fallbrook Shipping and Receiving ========================== Parcel: 61.2kg Destination: Balík: 68,7kg Místo určení: Auntie Cleo outpost #221 Attn: Department of Engineering Balík: 68,7kg Místo určení: Auntie Cleo outpost #221 Attn: Department of Engineering Auntie Cleo outpost # 417 Attn: Department of Engineering Balík: 67,1kg Destination: Auntie Cleo outpost # 417 Attn: Department of Engineering Teta Cleo, výjezdní stanoviště č. 112, směrováno na: Ministerstvo zemědělství."
 
 #: conversations/04_monarch/0407/0407_cp_shipping_terminal:25
 msgctxt "conversations/04_monarch/0407/0407_cp_shipping_terminal:25:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"
 
 #: conversations/04_monarch/0407/0407_cp_shipping_terminal:29
 msgctxt "conversations/04_monarch/0407/0407_cp_shipping_terminal:29:DefaultText"
 msgid "[Continue]"
-msgstr ""
+msgstr "[Pokračovat]"
 
 #: conversations/04_monarch/0407/0407_cp_shipping_terminal:30
 msgctxt "conversations/04_monarch/0407/0407_cp_shipping_terminal:30:DefaultText"
 msgid "[Supplies Delivery]"
-msgstr ""
+msgstr "[Dodávky]"
 
 #: conversations/04_monarch/0407/0407_cp_shipping_terminal:31
 msgctxt "conversations/04_monarch/0407/0407_cp_shipping_terminal:31:DefaultText"
@@ -99,4 +99,4 @@ msgid "Fallbrook Shipping and Receiving\r\n"
 "- Doc Rocket's Chocolasteroids: 175kg\r\n"
 "- Spacer's Choice Saltuna: 175kg\r\n"
 "- C&P NearMaple Syrup: 225kg"
-msgstr ""
+msgstr "Fallbrook Shipping and Receiving ========================== Registrované dodávky: - Rizzo's Purpleberry Bunch: 200kg - Doc Rocket's Chocolasteroids: 175kg - Spacer's Choice Saltuna: 175kg - C&P NearMaple Syrup: 225kg"

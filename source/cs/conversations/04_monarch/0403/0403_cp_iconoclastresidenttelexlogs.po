@@ -3,34 +3,34 @@ msgctxt "conversations/04_monarch/0403/0403_cp_iconoclastresidenttelexlogs:1:Def
 msgid "THIS IS HUXLEYS TERMINAL STAY OUT\r\n"
 "============================\r\n"
 "THAT MEANS YOU!"
-msgstr ""
+msgstr "TOHLE JE TERMINÁL HUXLEYS, DRŽTE SE DÁL ============================, TO ZNAMENÁ VY!"
 
 #: conversations/04_monarch/0403/0403_cp_iconoclastresidenttelexlogs:2
 msgctxt "conversations/04_monarch/0403/0403_cp_iconoclastresidenttelexlogs:2:DefaultText"
 msgid "ERROR: Due to external damage, this device can no longer store more than four logs. Please contact your assigned terminal engineer to replace the storage device.\n"
 "\n"
 "Currently available entries:"
-msgstr ""
+msgstr "CHYBA: Z důvodu vnějšího poškození nelze do tohoto zařízení uložit více než čtyři protokoly. Obraťte se prosím na přiděleného terminálového technika, aby paměťové zařízení vyměnil. Aktuálně dostupné záznamy:"
 
 #: conversations/04_monarch/0403/0403_cp_iconoclastresidenttelexlogs:3
 msgctxt "conversations/04_monarch/0403/0403_cp_iconoclastresidenttelexlogs:3:DefaultText"
 msgid "[Dear Diary]"
-msgstr ""
+msgstr "[Milý deníčku]"
 
 #: conversations/04_monarch/0403/0403_cp_iconoclastresidenttelexlogs:5
 msgctxt "conversations/04_monarch/0403/0403_cp_iconoclastresidenttelexlogs:5:DefaultText"
 msgid "[Dear Diary]"
-msgstr ""
+msgstr "[Milý deníčku]"
 
 #: conversations/04_monarch/0403/0403_cp_iconoclastresidenttelexlogs:6
 msgctxt "conversations/04_monarch/0403/0403_cp_iconoclastresidenttelexlogs:6:DefaultText"
 msgid "[Dear Diary]"
-msgstr ""
+msgstr "[Milý deníčku]"
 
 #: conversations/04_monarch/0403/0403_cp_iconoclastresidenttelexlogs:8
 msgctxt "conversations/04_monarch/0403/0403_cp_iconoclastresidenttelexlogs:8:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"
 
 #: conversations/04_monarch/0403/0403_cp_iconoclastresidenttelexlogs:9
 msgctxt "conversations/04_monarch/0403/0403_cp_iconoclastresidenttelexlogs:9:DefaultText"
@@ -39,7 +39,7 @@ msgid "This will be my last entry. Sorry diary. You've been a very good listener
 "This terminal was making a horrible beeping noise yesterday and someone smashed it while I was out and now I can't save more diaries. Milton can't fix it and plus he says I should stop coming into his house to write when he's not around.\n"
 "\n"
 "Whoever smashed poor terminal, if you're reading this, SUCK SULFUR!"
-msgstr ""
+msgstr "Toto bude můj poslední příspěvek. Omlouvám se deník. Byl jsi velmi dobrý posluchač, ale náš čas se chýlí ke konci. Tenhle terminál včera vydával strašný pípavý zvuk a někdo ho rozbil, když jsem byl venku, a teď už nemůžu ukládat další deníky. Milton to nedokáže opravit a navíc říká, že bych k němu domů neměla chodit psát, když není nablízku. Ať už chudáka terminál rozbil kdokoli, jestli tohle čteš, SHAŇ SULFUR!"
 
 #: conversations/04_monarch/0403/0403_cp_iconoclastresidenttelexlogs:11
 msgctxt "conversations/04_monarch/0403/0403_cp_iconoclastresidenttelexlogs:11:DefaultText"
@@ -52,7 +52,7 @@ msgid "Zora's really smart but you know what sometimes she can be such a bitch.\
 "Well... sometimes she drinks a bit and slams the table and storms out, but still. Mostly she's cool about it and I admire that.\r\n"
 "\r\n"
 "Anyway, when I got back, Zora yelled at me because I was a little late. Something about medicine not getting here fast enough. Sigh. Graham just said to try not to lose track of time on my next run and I promised I would. See, that's how you teach someone. Don't gotta yell and make them feel bad."
-msgstr ""
+msgstr "Zora je opravdu chytrá, ale víš co, někdy je to pěkná mrcha. Měl jsem pro ni získat nějaké informace z Kaskády, ale nemohl jsem najít cestu, aniž bych šel přes nájezdníky. Tak jsem to vzdal a místo toho jsem se zastavil ve Fallbrooku pro nějaké zásoby. Když jsem tam byl, zastavila se Chastity na pár her whistu. Je tak skvělá. Pořád tam hraje nějaké hry. Když prohraju kousky, jsem z toho vážně naštvaná. Nemám toho moc, takže když přijdu o to, co mám, bolí to, víš? Ale Chastity dokáže na jednu hru pustit tisíce a je v pohodě. No... někdy se trochu napije, bouchne do stolu a odejde, ale stejně. Většinou je v pohodě a já ji obdivuju. Každopádně, když jsem se vrátila, Zora na mě křičela, protože jsem se trochu opozdila. Něco o tom, že léky nepřišly dost rychle. Povzdechl jsem si. Graham mi jen řekl, abych se při příštím běhu snažila neztratit pojem o čase, a já slíbila, že to udělám. Vidíš, takhle se to učí. Nemusíš na něj křičet a dělat mu zle."
 
 #: conversations/04_monarch/0403/0403_cp_iconoclastresidenttelexlogs:14
 msgctxt "conversations/04_monarch/0403/0403_cp_iconoclastresidenttelexlogs:14:DefaultText"
@@ -63,17 +63,17 @@ msgid "Graham taught me how to meditate today. You close your eyes and you breat
 "Meditating is like that only you're supposed to think of these things on purpose. Graham calls it... I don't remember what he calls it. Wreck-oh-something. He says it's your own Eternal Truth bubbling up to the surface and the things you remember are what you're supposed to focus on and try and improve.\r\n"
 "\r\n"
 "When we meditated, I mostly remembered that sitting on rocks hurts. Maybe I'm supposed to toughen up my tailbone."
-msgstr ""
+msgstr "Graham mě dnes naučil meditovat. Zavřeš oči, zhluboka dýcháš a snažíš se nekašlat. Pak se prostě zaposloucháš. Víš, jak se někdy schováváš před mantikou a snažíš se být potichu, tak se pořádně soustředíš na svůj dech a slyšíš tlukot svého srdce a říkáš si, jak mě ta mantika vůbec nemůže slyšet? A najednou si musíte kýchnout a připomene vám to, jak jste se vraceli s dodávkou, a když jste ji pokládali Zoře na stůl, kýchli jste a ona vám uklouzla a rozbila se hromada věcí? Meditace je jako tohle, jenže na tyhle věci máte myslet schválně. Graham tomu říká... Už si nepamatuju, jak tomu říká. Wreck-oh-something. Říká, že je to vaše vlastní Věčná pravda, která vybublává na povrch, a věci, na které si vzpomenete, jsou to, na co se máte zaměřit a snažit se je zlepšit. Když jsme meditovali, většinou jsem si vzpomněl, že sedět na kamenech bolí. Možná si mám zpevnit ocasní kost."
 
 #: conversations/04_monarch/0403/0403_cp_iconoclastresidenttelexlogs:16
 msgctxt "conversations/04_monarch/0403/0403_cp_iconoclastresidenttelexlogs:16:DefaultText"
 msgid "[Return to Root]"
-msgstr ""
+msgstr "[Zpět na kořen]"
 
 #: conversations/04_monarch/0403/0403_cp_iconoclastresidenttelexlogs:17
 msgctxt "conversations/04_monarch/0403/0403_cp_iconoclastresidenttelexlogs:17:DefaultText"
 msgid "[Dear Diary]"
-msgstr ""
+msgstr "[Milý deníčku]"
 
 #: conversations/04_monarch/0403/0403_cp_iconoclastresidenttelexlogs:18
 msgctxt "conversations/04_monarch/0403/0403_cp_iconoclastresidenttelexlogs:18:DefaultText"
@@ -82,19 +82,19 @@ msgid "Today Zora gave me permission to buy ammunition from Bronson. I don't thi
 "Still I'm kinda proud. Zora said it was like a promotion for something I found in the wilderness. I think it's a code for a door but I'm not sure why it's important. I can't even get near the place without getting attacked.\n"
 "\n"
 "I asked her what a promotion is and she smiled in a really sad way and told me I shouldn't worry about it."
-msgstr ""
+msgstr "Dnes mi Zora povolila koupit si od Bronsona munici. Nemyslím si, že to chci, ale řekla, že bych to měl udělat, kdyby náhodou. Ale zbraně jsou opravdu hlučné. Radši uteču, než abych z ní vystřelil. Ale stejně jsem na to docela pyšný. Zora říkala, že je to jako povýšení za něco, co jsem našel v divočině. Myslím, že je to kód ke dveřím, ale nejsem si jistá, proč je to důležité. Nemůžu se k tomu místu ani přiblížit, aniž by mě někdo napadl. Zeptal jsem se jí, co je to povýšení, a ona se hrozně smutně usmála a řekla mi, že si s tím nemám dělat starosti."
 
 #: conversations/04_monarch/0403/0403_cp_iconoclastresidenttelexlogs:20
 msgctxt "conversations/04_monarch/0403/0403_cp_iconoclastresidenttelexlogs:20:DefaultText"
 msgid "[Repair the Terminal's Storage Device]"
-msgstr ""
+msgstr "[Oprava úložného zařízení terminálu]"
 
 #: conversations/04_monarch/0403/0403_cp_iconoclastresidenttelexlogs:21
 msgctxt "conversations/04_monarch/0403/0403_cp_iconoclastresidenttelexlogs:21:DefaultText"
 msgid "Storage capacity increased. Logs prior to the most recent four entries are unretrievable, but new entries may now be saved."
-msgstr ""
+msgstr "Zvýšila se kapacita úložiště. Záznamy před posledními čtyřmi záznamy nelze obnovit, ale nové záznamy lze nyní ukládat."
 
 #: conversations/04_monarch/0403/0403_cp_iconoclastresidenttelexlogs:22
 msgctxt "conversations/04_monarch/0403/0403_cp_iconoclastresidenttelexlogs:22:DefaultText"
 msgid "Currently available entries:"
-msgstr ""
+msgstr "Aktuálně dostupné položky:"

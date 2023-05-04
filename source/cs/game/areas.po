@@ -1,147 +1,147 @@
 #: game/areas:0
 msgctxt "game/areas:0:DefaultText"
 msgid "Test Shanty Town"
-msgstr ""
+msgstr "Testovací město Shanty Town"
 
 #: game/areas:1
 msgctxt "game/areas:1:DefaultText"
 msgid "Exterior Area Test"
-msgstr ""
+msgstr "Test vnějšího prostoru"
 
 #: game/areas:2
 msgctxt "game/areas:2:DefaultText"
 msgid "Test for a larger streaming area."
-msgstr ""
+msgstr "Otestujte větší streamovací oblast."
 
 #: game/areas:3
 msgctxt "game/areas:3:DefaultText"
 msgid "Small test town"
-msgstr ""
+msgstr "Malé testovací město"
 
 #: game/areas:4
 msgctxt "game/areas:4:DefaultText"
 msgid "Small Lab"
-msgstr ""
+msgstr "Malá laboratoř"
 
 #: game/areas:5
 msgctxt "game/areas:5:DefaultText"
 msgid "A small test lab"
-msgstr ""
+msgstr "Malá zkušební laboratoř"
 
 #: game/areas:6
 msgctxt "game/areas:6:DefaultText"
 msgid "Large Lab"
-msgstr ""
+msgstr "Velká laboratoř"
 
 #: game/areas:7
 msgctxt "game/areas:7:DefaultText"
 msgid "A Larger Test Lab"
-msgstr ""
+msgstr "Větší zkušební laboratoř"
 
 #: game/areas:8
 msgctxt "game/areas:8:DefaultText"
 msgid "Small Town"
-msgstr ""
+msgstr "Malé město"
 
 #: game/areas:9
 msgctxt "game/areas:9:DefaultText"
 msgid "Game Objects Test Map"
-msgstr ""
+msgstr "Testovací mapa herních objektů"
 
 #: game/areas:10
 msgctxt "game/areas:10:DefaultText"
 msgid "Demonstrates Game Object Interactions"
-msgstr ""
+msgstr "Demonstruje interakce herních objektů"
 
 #: game/areas:11
 msgctxt "game/areas:11:DefaultText"
 msgid "Game Objects Test B"
-msgstr ""
+msgstr "Herní objekty Test B"
 
 #: game/areas:12
 msgctxt "game/areas:12:DefaultText"
 msgid "Demonstrates Level Transitions"
-msgstr ""
+msgstr "Demonstruje přechody úrovní"
 
 #: game/areas:13
 msgctxt "game/areas:13:DefaultText"
 msgid "Covert Lab"
-msgstr ""
+msgstr "Utajená laboratoř"
 
 #: game/areas:14
 msgctxt "game/areas:14:DefaultText"
 msgid "Roseway"
-msgstr ""
+msgstr "Roseway"
 
 #: game/areas:15
 msgctxt "game/areas:15:DefaultText"
 msgid "Auntie-Biotics Lab"
-msgstr ""
+msgstr "Laboratoř Auntie-Biotics"
 
 #: game/areas:16
 msgctxt "game/areas:16:DefaultText"
 msgid "Storage Facility"
-msgstr ""
+msgstr "Skladovací zařízení"
 
 #: game/areas:18
 msgctxt "game/areas:18:DefaultText"
 msgid "Underground Lab"
-msgstr ""
+msgstr "Podzemní laboratoř"
 
 #: game/areas:19
 msgctxt "game/areas:19:DefaultText"
 msgid "Auntie Cleo's"
-msgstr ""
+msgstr "Teta Cleo's"
 
 #: game/areas:20
 msgctxt "game/areas:20:DefaultText"
 msgid "Shanty Town"
-msgstr ""
+msgstr "Shanty Town"
 
 #: game/areas:26
 msgctxt "game/areas:26:DefaultText"
 msgid "Game Objects Test C"
-msgstr ""
+msgstr "Herní objekty Test C"
 
 #: game/areas:27
 msgctxt "game/areas:27:DefaultText"
 msgid "Test Room for Objectives and Breadcrumbing"
-msgstr ""
+msgstr "Testovací místnost pro cíle a drobení chleba"
 
 #: game/areas:28
 msgctxt "game/areas:28:DefaultText"
 msgid "Emerald Vale Region"
-msgstr ""
+msgstr "Oblast Emerald Vale"
 
 #: game/areas:30
 msgctxt "game/areas:30:DefaultText"
 msgid "Edgewater"
-msgstr ""
+msgstr "Edgewater"
 
 #: game/areas:32
 msgctxt "game/areas:32:DefaultText"
 msgid "Groundbreaker"
-msgstr ""
+msgstr "Groundbreaker"
 
 #: game/areas:33
 msgctxt "game/areas:33:DefaultText"
 msgid "Independent orbital station in the remains of Halcyon's first colony ship. Captained by Junlei Tennyson and run by descendants of the original crew."
-msgstr ""
+msgstr "Nezávislá orbitální stanice ve zbytcích první koloniální lodi Halcyonu. Kapitánem je Junlei Tennyson a provozují ji potomci původní posádky."
 
 #: game/areas:38
 msgctxt "game/areas:38:DefaultText"
 msgid "Geothermal Power Plant"
-msgstr ""
+msgstr "Geotermální elektrárna"
 
 #: game/areas:42
 msgctxt "game/areas:42:DefaultText"
 msgid "Monarch Wilderness"
-msgstr ""
+msgstr "Monarch Wilderness"
 
 #: game/areas:43
 msgctxt "game/areas:43:DefaultText"
 msgid "Devil's Peak Station"
-msgstr ""
+msgstr "Stanice Devil's Peak"
 
 #: game/areas:44
 msgctxt "game/areas:44:DefaultText"
@@ -151,1080 +151,1080 @@ msgstr ""
 #: game/areas:45
 msgctxt "game/areas:45:DefaultText"
 msgid "Stellar Bay"
-msgstr ""
+msgstr "Hvězdná zátoka"
 
 #: game/areas:46
 msgctxt "game/areas:46:DefaultText"
 msgid "Devil's Peak Caverns"
-msgstr ""
+msgstr "Jeskyně Devil's Peak Caverns"
 
 #: game/areas:47
 msgctxt "game/areas:47:DefaultText"
 msgid "Bayside Tunnel"
-msgstr ""
+msgstr "Tunel Bayside"
 
 #: game/areas:50
 msgctxt "game/areas:50:DefaultText"
 msgid "Objective Beacon Test - Main Area"
-msgstr ""
+msgstr "Objektivní test majáku - hlavní oblast"
 
 #: game/areas:51
 msgctxt "game/areas:51:DefaultText"
 msgid "Objective Beacon Test - Side Area"
-msgstr ""
+msgstr "Objektivní test majáku - boční oblast"
 
 #: game/areas:52
 msgctxt "game/areas:52:DefaultText"
 msgid "Player Ship"
-msgstr ""
+msgstr "Hráčská loď"
 
 #: game/areas:53
 msgctxt "game/areas:53:DefaultText"
 msgid "Temp Player Ship"
-msgstr ""
+msgstr "Loď dočasného hráče"
 
 #: game/areas:54
 msgctxt "game/areas:54:DefaultText"
 msgid "Roseway Landing Pad"
-msgstr ""
+msgstr "Přistávací plocha Roseway"
 
 #: game/areas:55
 msgctxt "game/areas:55:DefaultText"
 msgid "Roseway Gardens"
-msgstr ""
+msgstr "Roseway Gardens"
 
 #: game/areas:66
 msgctxt "game/areas:66:DefaultText"
 msgid "Small Cave"
-msgstr ""
+msgstr "Malá jeskyně"
 
 #: game/areas:67
 msgctxt "game/areas:67:DefaultText"
 msgid "Large Cave"
-msgstr ""
+msgstr "Velká jeskyně"
 
 #: game/areas:86
 msgctxt "game/areas:86:DefaultText"
 msgid "Byzantium"
-msgstr ""
+msgstr "Byzanc"
 
 #: game/areas:87
 msgctxt "game/areas:87:DefaultText"
 msgid "Byzantium is Halcyon's capital, and the home of the colony's wealthy elite."
-msgstr ""
+msgstr "Byzantium je hlavním městem Halcyonu a domovem bohaté elity kolonie."
 
 #: game/areas:88
 msgctxt "game/areas:88:DefaultText"
 msgid "HHC Building"
-msgstr ""
+msgstr "Budova HHC"
 
 #: game/areas:91
 msgctxt "game/areas:91:DefaultText"
 msgid "Devil's Peak Summit"
-msgstr ""
+msgstr "Vrchol Devil's Peak"
 
 #: game/areas:99
 msgctxt "game/areas:99:DefaultText"
 msgid "Devil's Peak Mid Mountain Entrance"
-msgstr ""
+msgstr "Vchod na Ďáblův vrchol uprostřed hory"
 
 #: game/areas:102
 msgctxt "game/areas:102:DefaultText"
 msgid "Devil's Peak River Cave Entrance"
-msgstr ""
+msgstr "Vchod do jeskyně Devil's Peak River Cave"
 
 #: game/areas:107
 msgctxt "game/areas:107:DefaultText"
 msgid "Devil's Peak Relay"
-msgstr ""
+msgstr "Štafeta na Devil's Peak"
 
 #: game/areas:113
 msgctxt "game/areas:113:DefaultText"
 msgid "Stellar Bay Ruins (North)"
-msgstr ""
+msgstr "Ruiny Hvězdné zátoky (sever)"
 
 #: game/areas:116
 msgctxt "game/areas:116:DefaultText"
 msgid "Stellar Bay Ruins (South)"
-msgstr ""
+msgstr "Ruiny Hvězdné zátoky (jih)"
 
 #: game/areas:127
 msgctxt "game/areas:127:DefaultText"
 msgid "Stellar Bay (Docks)"
-msgstr ""
+msgstr "Hvězdná zátoka (doky)"
 
 #: game/areas:132
 msgctxt "game/areas:132:DefaultText"
 msgid "Stellar Bay Landing Pad"
-msgstr ""
+msgstr "Přistávací plocha v zátoce Stellar Bay"
 
 #: game/areas:133
 msgctxt "game/areas:133:DefaultText"
 msgid "Crashed Pod"
-msgstr ""
+msgstr "Havarovaný pod"
 
 #: game/areas:134
 msgctxt "game/areas:134:DefaultText"
 msgid "Edgewater Landing Pad"
-msgstr ""
+msgstr "Přistávací plocha Edgewater"
 
 #: game/areas:135
 msgctxt "game/areas:135:DefaultText"
 msgid "The Unreliable - Interior"
-msgstr ""
+msgstr "Nespolehlivý - Interiér"
 
 #: game/areas:136
 msgctxt "game/areas:136:DefaultText"
 msgid "Ministry of Accuracy and Morale"
-msgstr ""
+msgstr "Ministerstvo přesnosti a morálky"
 
 #: game/areas:137
 msgctxt "game/areas:137:DefaultText"
 msgid "(TEMP) Description of Ministry of Accuracy and Morale"
-msgstr ""
+msgstr "(TEMP) Popis ministerstva přesnosti a morálky"
 
 #: game/areas:138
 msgctxt "game/areas:138:DefaultText"
 msgid "Fairfield"
-msgstr ""
+msgstr "Fairfield"
 
 #: game/areas:139
 msgctxt "game/areas:139:DefaultText"
 msgid "(TEMP) Description of Fairfield"
-msgstr ""
+msgstr "(TEMP) Popis města Fairfield"
 
 #: game/areas:140
 msgctxt "game/areas:140:DefaultText"
 msgid "Midway (Terra 2) Landing Pad"
-msgstr ""
+msgstr "Přistávací plocha Midway (Terra 2)"
 
 #: game/areas:141
 msgctxt "game/areas:141:DefaultText"
 msgid "[TEMP] Description for Midway (Terra 2) Landing Pad)"
-msgstr ""
+msgstr "[TEMP] Popis přistávací plochy Midway (Terra 2)"
 
 #: game/areas:142
 msgctxt "game/areas:142:DefaultText"
 msgid "Midway (Terra 2) Cavern"
-msgstr ""
+msgstr "Jeskyně Midway (Terra 2)"
 
 #: game/areas:143
 msgctxt "game/areas:143:DefaultText"
 msgid "[TEMP] Description for Midway (Terra 2) Cavern"
-msgstr ""
+msgstr "[TEMP] Popis jeskyně Midway (Terra 2)"
 
 #: game/areas:144
 msgctxt "game/areas:144:DefaultText"
 msgid "Midway (Terra 2) Surface"
-msgstr ""
+msgstr "Midway (Terra 2) Povrch"
 
 #: game/areas:145
 msgctxt "game/areas:145:DefaultText"
 msgid "[TEMP] Description for Midway (Terra 2) Surface)"
-msgstr ""
+msgstr "[TEMP] Popis pro Midway (Terra 2) Povrch)"
 
 #: game/areas:146
 msgctxt "game/areas:146:DefaultText"
 msgid "Midway (Terra 2) Hammersmith Landing Pad"
-msgstr ""
+msgstr "Midway (Terra 2) Přistávací plocha Hammersmith"
 
 #: game/areas:147
 msgctxt "game/areas:147:DefaultText"
 msgid "[TEMP] Description for Midway (Terra 2) Hammersmith Landing Pad"
-msgstr ""
+msgstr "[TEMP] Popis pro přistávací plochu Midway (Terra 2) Hammersmith"
 
 #: game/areas:148
 msgctxt "game/areas:148:DefaultText"
 msgid "Midway (Terra 2) Hammersmith Warehouse"
-msgstr ""
+msgstr "Midway (Terra 2) Hammersmith Warehouse"
 
 #: game/areas:149
 msgctxt "game/areas:149:DefaultText"
 msgid "[TEMP] Description for Midway (Terra 2) Hammersmith Warehouse"
-msgstr ""
+msgstr "[TEMP] Popis pro Midway (Terra 2) Hammersmith Warehouse"
 
 #: game/areas:150
 msgctxt "game/areas:150:DefaultText"
 msgid "The Hope"
-msgstr ""
+msgstr "Naděje"
 
 #: game/areas:151
 msgctxt "game/areas:151:DefaultText"
 msgid "The sister ship to The Groundbreaker, The Hope has been missing for years."
-msgstr ""
+msgstr "Naděje, sesterská loď lodi Groundbreaker, je již několik let nezvěstná."
 
 #: game/areas:156
 msgctxt "game/areas:156:DefaultText"
 msgid "Phineas' Lab - Docking Bay"
-msgstr ""
+msgstr "Phineasova laboratoř - Dokovací stanice"
 
 #: game/areas:157
 msgctxt "game/areas:157:DefaultText"
 msgid "This docking bay provides access to Phineas Welles's orbital laboratory."
-msgstr ""
+msgstr "Tento přístavní prostor umožňuje přístup do orbitální laboratoře Phinease Wellese."
 
 #: game/areas:158
 msgctxt "game/areas:158:DefaultText"
 msgid "Phineas' Laboratory"
-msgstr ""
+msgstr "Phineasova laboratoř"
 
 #: game/areas:159
 msgctxt "game/areas:159:DefaultText"
 msgid "Dr. Phineas Welles operates out of an orbital lab, hidden in the rings of Terra 2."
-msgstr ""
+msgstr "Dr. Phineas Welles pracuje v orbitální laboratoři ukryté v prstencích Terry 2."
 
 #: game/areas:160
 msgctxt "game/areas:160:DefaultText"
 msgid "Byzantium HHC Landing Pad"
-msgstr ""
+msgstr "Přistávací plocha Byzantium HHC"
 
 #: game/areas:162
 msgctxt "game/areas:162:DefaultText"
 msgid "Terra 2"
-msgstr ""
+msgstr "Terra 2"
 
 #: game/areas:163
 msgctxt "game/areas:163:DefaultText"
 msgid "[TEMP] Description of Terra 2"
-msgstr ""
+msgstr "[TEMP] Popis Terry 2"
 
 #: game/areas:164
 msgctxt "game/areas:164:DefaultText"
 msgid "[TEMP] Primal Creation Laboratory"
-msgstr ""
+msgstr "[TEMP] Laboratoř prvotního stvoření"
 
 #: game/areas:165
 msgctxt "game/areas:165:DefaultText"
 msgid "[TEMP] Description of the Primal creation lab"
-msgstr ""
+msgstr "[TEMP] Popis laboratoře Primal creation"
 
 #: game/areas:166
 msgctxt "game/areas:166:DefaultText"
 msgid "[TEMP] Abandoned Smuggling Warehouse"
-msgstr ""
+msgstr "[TEMP] Opuštěné pašerácké skladiště"
 
 #: game/areas:167
 msgctxt "game/areas:167:DefaultText"
 msgid "[TEMP] Description for the abandoned smuggling warehouse."
-msgstr ""
+msgstr "[TEMP] Popis opuštěného pašeráckého skladu."
 
 #: game/areas:168
 msgctxt "game/areas:168:DefaultText"
 msgid "<WARNING! DANGEROUS!>\n"
 "Cascadia Landing Pad"
-msgstr ""
+msgstr "<POZOR! NEBEZPEČNÉ!> Přistávací plocha Cascadia"
 
 #: game/areas:170
 msgctxt "game/areas:170:DefaultText"
 msgid "[TEMP] Auntie Cleo Depository 18"
-msgstr ""
+msgstr "[TEMP] Depozitář tety Cleo 18"
 
 #: game/areas:171
 msgctxt "game/areas:171:DefaultText"
 msgid "[TEMP] Auntie Cleo Depository 18"
-msgstr ""
+msgstr "[TEMP] Depozitář tety Cleo 18"
 
 #: game/areas:172
 msgctxt "game/areas:172:DefaultText"
 msgid "[TEMP] Player Ship"
-msgstr ""
+msgstr "[TEMP] Hráčská loď"
 
 #: game/areas:173
 msgctxt "game/areas:173:DefaultText"
 msgid "[TEMP] Player Ship Description"
-msgstr ""
+msgstr "[TEMP] Popis lodi hráče"
 
 #: game/areas:174
 msgctxt "game/areas:174:DefaultText"
 msgid "[TEMP] Keystone"
-msgstr ""
+msgstr "[TEMP] Klíčový prvek"
 
 #: game/areas:175
 msgctxt "game/areas:175:DefaultText"
 msgid "[TEMP] Description of Keystone"
-msgstr ""
+msgstr "[TEMP] Popis Keystone"
 
 #: game/areas:176
 msgctxt "game/areas:176:DefaultText"
 msgid "Maintenance Tunnels"
-msgstr ""
+msgstr "Tunely pro údržbu"
 
 #: game/areas:178
 msgctxt "game/areas:178:DefaultText"
 msgid "Tartarus"
-msgstr ""
+msgstr "Tartarus"
 
 #: game/areas:179
 msgctxt "game/areas:179:DefaultText"
 msgid "Tartarus Docking Facilities"
-msgstr ""
+msgstr "Dokovací zařízení Tartaru"
 
 #: game/areas:184
 msgctxt "game/areas:184:DefaultText"
 msgid "Hephaestus Landing Pad"
-msgstr ""
+msgstr "Přistávací plocha Hefaistos"
 
 #: game/areas:185
 msgctxt "game/areas:185:DefaultText"
 msgid "Description Hephaestus"
-msgstr ""
+msgstr "Popis Hefaistos"
 
 #: game/areas:186
 msgctxt "game/areas:186:DefaultText"
 msgid "Hephaestus"
-msgstr ""
+msgstr "Hefaistos"
 
 #: game/areas:187
 msgctxt "game/areas:187:DefaultText"
 msgid "C&P Boarst Factory"
-msgstr ""
+msgstr "C&P Boarst Factory"
 
 #: game/areas:189
 msgctxt "game/areas:189:DefaultText"
 msgid "Scylla"
-msgstr ""
+msgstr "Scylla"
 
 #: game/areas:190
 msgctxt "game/areas:190:DefaultText"
 msgid "Scylla is one of the largest asteroids orbiting Halcyon, the largest in a grouping of rocks known as the Charybdis Cluster. Hephaestus Mining once claimed the asteroid, but its prospecting site was abandoned decades ago."
-msgstr ""
+msgstr "Scylla je jednou z největších planetek obíhajících kolem Halcyonu, největší ve skupině kamenů známé jako hvězdokupa Charybdis. Na planetku si kdysi činila nárok těžební společnost Hefaistos, ale její těžební místo bylo před desítkami let opuštěno."
 
 #: game/areas:191
 msgctxt "game/areas:191:DefaultText"
 msgid "Scylla Landing Pad"
-msgstr ""
+msgstr "Přistávací plocha Scylla"
 
 #: game/areas:192
 msgctxt "game/areas:192:DefaultText"
 msgid "Emerald Vale Community Center"
-msgstr ""
+msgstr "Komunitní centrum Emerald Vale"
 
 #: game/areas:194
 msgctxt "game/areas:194:DefaultText"
 msgid "Botanical Lab"
-msgstr ""
+msgstr "Botanická laboratoř"
 
 #: game/areas:196
 msgctxt "game/areas:196:DefaultText"
 msgid "Terra One Publications"
-msgstr ""
+msgstr "Publikace Terra One"
 
 #: game/areas:198
 msgctxt "game/areas:198:DefaultText"
 msgid "HRS-1084"
-msgstr ""
+msgstr "HRS-1084"
 
 #: game/areas:199
 msgctxt "game/areas:199:DefaultText"
 msgid "A satellite in the outer part of the Halcyon system. Heliospheric Research Station 1084 is technically owned by the Board, but has been long since abandoned."
-msgstr ""
+msgstr "Satelit ve vnější části soustavy Halcyon. Heliosférická výzkumná stanice 1084 je technicky ve vlastnictví Rady, ale již dávno byla opuštěna."
 
 #: game/areas:200
 msgctxt "game/areas:200:DefaultText"
 msgid "Rizzo Secret Laboratory"
-msgstr ""
+msgstr "Tajná laboratoř Rizzo"
 
 #: game/areas:202
 msgctxt "game/areas:202:DefaultText"
 msgid "Landing Site"
-msgstr ""
+msgstr "Místo přistání"
 
 #: game/areas:204
 msgctxt "game/areas:204:DefaultText"
 msgid "Byzantium Freight Port Landing Pad"
-msgstr ""
+msgstr "Přistávací plocha nákladního přístavu Byzantium"
 
 #: game/areas:206
 msgctxt "game/areas:206:DefaultText"
 msgid "Dr. Chartrand's Home"
-msgstr ""
+msgstr "Domovská stránka Dr. Chartranda"
 
 #: game/areas:209
 msgctxt "game/areas:209:DefaultText"
 msgid "Edgewater Landing Pad"
-msgstr ""
+msgstr "Přistávací plocha Edgewater"
 
 #: game/areas:212
 msgctxt "game/areas:212:DefaultText"
 msgid "Fallbrook Landing Pad"
-msgstr ""
+msgstr "Přistávací plocha Fallbrook"
 
 #: game/areas:213
 msgctxt "game/areas:213:DefaultText"
 msgid "Fallbrook"
-msgstr ""
+msgstr "Fallbrook"
 
 #: game/areas:214
 msgctxt "game/areas:214:DefaultText"
 msgid "Smuggler Tunnel"
-msgstr ""
+msgstr "Pašerácký tunel"
 
 #: game/areas:216
 msgctxt "game/areas:216:DefaultText"
 msgid "Edgewater (SW Gate)"
-msgstr ""
+msgstr "Edgewater (brána SW)"
 
 #: game/areas:217
 msgctxt "game/areas:217:DefaultText"
 msgid "Edgewater (SE Gate)"
-msgstr ""
+msgstr "Edgewater (SE Gate)"
 
 #: game/areas:218
 msgctxt "game/areas:218:DefaultText"
 msgid "Edgewater (NW Gate)"
-msgstr ""
+msgstr "Edgewater (NW Gate)"
 
 #: game/areas:219
 msgctxt "game/areas:219:DefaultText"
 msgid "Cascadia"
-msgstr ""
+msgstr "Cascadia"
 
 #: game/areas:221
 msgctxt "game/areas:221:DefaultText"
 msgid "UDL Lab"
-msgstr ""
+msgstr "Laboratoř UDL"
 
 #: game/areas:225
 msgctxt "game/areas:225:DefaultText"
 msgid "[TEMP] Sublight Lab"
-msgstr ""
+msgstr "[TEMP] Podsvětelná laboratoř"
 
 #: game/areas:226
 msgctxt "game/areas:226:DefaultText"
 msgid "[TEMP] Sublight Lab"
-msgstr ""
+msgstr "[TEMP] Podsvětelná laboratoř"
 
 #: game/areas:227
 msgctxt "game/areas:227:DefaultText"
 msgid "Gunship Crash Site"
-msgstr ""
+msgstr "Místo havárie dělové lodi"
 
 #: game/areas:229
 msgctxt "game/areas:229:DefaultText"
 msgid "Bayside Terrace Ruins"
-msgstr ""
+msgstr "Zřícenina Bayside Terrace"
 
 #: game/areas:235
 msgctxt "game/areas:235:DefaultText"
 msgid "Fallbrook Crossroads"
-msgstr ""
+msgstr "Fallbrook Crossroads"
 
 #: game/areas:236
 msgctxt "game/areas:236:DefaultText"
 msgid "Odeon Pictures"
-msgstr ""
+msgstr "Odeon Pictures"
 
 #: game/areas:238
 msgctxt "game/areas:238:DefaultText"
 msgid "Hermit's Lodge"
-msgstr ""
+msgstr "Poustevnická chata"
 
 #: game/areas:240
 msgctxt "game/areas:240:DefaultText"
 msgid "Early Retirement District"
-msgstr ""
+msgstr "Okres pro předčasný odchod do důchodu"
 
 #: game/areas:242
 msgctxt "game/areas:242:DefaultText"
 msgid "Relay GB-23"
-msgstr ""
+msgstr "Relé GB-23"
 
 #: game/areas:243
 msgctxt "game/areas:243:DefaultText"
 msgid "One of several orbital relay stations used by Groundbreaker's communications to maintain line of sight with ships traveling the Halcyon System."
-msgstr ""
+msgstr "Jedna z několika orbitálních retranslačních stanic, které komunikační systém Groundbreaker používá k udržování přímé viditelnosti s loděmi cestujícími soustavou Halcyon."
 
 #: game/areas:244
 msgctxt "game/areas:244:DefaultText"
 msgid "001_Combat_Test"
-msgstr ""
+msgstr "001_Combat_Test"
 
 #: game/areas:245
 msgctxt "game/areas:245:DefaultText"
 msgid "008_NPC_AI_Test"
-msgstr ""
+msgstr "008_NPC_AI_Test"
 
 #: game/areas:246
 msgctxt "game/areas:246:DefaultText"
 msgid "011_NPCGallery_Test"
-msgstr ""
+msgstr "011_NPCGallery_Test"
 
 #: game/areas:247
 msgctxt "game/areas:247:DefaultText"
 msgid "[TEMP] Rizzo's Confectionery Description"
-msgstr ""
+msgstr "[TEMP] Cukrárna Rizzo's Popis"
 
 #: game/areas:248
 msgctxt "game/areas:248:DefaultText"
 msgid "Rizzo's Confectionery"
-msgstr ""
+msgstr "Cukrárna Rizzo's"
 
 #: game/areas:249
 msgctxt "game/areas:249:DefaultText"
 msgid "Minister Clarke's Residence"
-msgstr ""
+msgstr "Rezidence ministra Clarkea"
 
 #: game/areas:251
 msgctxt "game/areas:251:DefaultText"
 msgid "Prosperity Plaza"
-msgstr ""
+msgstr "Prosperity Plaza"
 
 #: game/areas:252
 msgctxt "game/areas:252:DefaultText"
 msgid "Estates District"
-msgstr ""
+msgstr "Okres Estates"
 
 #: game/areas:255
 msgctxt "game/areas:255:DefaultText"
 msgid "[TEMP] HHC Building - Top Floor"
-msgstr ""
+msgstr "[TEMP] Budova HHC - horní patro"
 
 #: game/areas:256
 msgctxt "game/areas:256:DefaultText"
 msgid "Acropolis District"
-msgstr ""
+msgstr "Čtvrť Akropolis"
 
 #: game/areas:260
 msgctxt "game/areas:260:DefaultText"
 msgid "Adjutant Akande's Landing Pad"
-msgstr ""
+msgstr "Přistávací plocha adjutanta Akandeho"
 
 #: game/areas:261
 msgctxt "game/areas:261:DefaultText"
 msgid "[TEMP] HHC Building - Lobby"
-msgstr ""
+msgstr "[TEMP] Budova HHC - hala"
 
 #: game/areas:262
 msgctxt "game/areas:262:DefaultText"
 msgid "[TEMP] End Slides"
-msgstr ""
+msgstr "[TEMP] Konec snímků"
 
 #: game/areas:263
 msgctxt "game/areas:263:DefaultText"
 msgid "[TEMP] End Slides Description"
-msgstr ""
+msgstr "[TEMP] Konec snímků Popis"
 
 #: game/areas:264
 msgctxt "game/areas:264:DefaultText"
 msgid "Abandoned Logging Machine"
-msgstr ""
+msgstr "Opuštěný stroj na těžbu dřeva"
 
 #: game/areas:265
 msgctxt "game/areas:265:DefaultText"
 msgid "Terraformer"
-msgstr ""
+msgstr "Terraformer"
 
 #: game/areas:266
 msgctxt "game/areas:266:DefaultText"
 msgid "Terraformer des"
-msgstr ""
+msgstr "Terraformer des"
 
 #: game/areas:267
 msgctxt "game/areas:267:DefaultText"
 msgid "SC Town"
-msgstr ""
+msgstr "Město SC"
 
 #: game/areas:268
 msgctxt "game/areas:268:DefaultText"
 msgid "SC Town des"
-msgstr ""
+msgstr "SC Town des"
 
 #: game/areas:269
 msgctxt "game/areas:269:DefaultText"
 msgid "CP Farm"
-msgstr ""
+msgstr "CP Farm"
 
 #: game/areas:270
 msgctxt "game/areas:270:DefaultText"
 msgid "CP Farm des"
-msgstr ""
+msgstr "CP Farm des"
 
 #: game/areas:271
 msgctxt "game/areas:271:DefaultText"
 msgid "Keystone Landing Pad"
-msgstr ""
+msgstr "Přistávací plocha Keystone"
 
 #: game/areas:272
 msgctxt "game/areas:272:DefaultText"
 msgid "Mantisaur Hive"
-msgstr ""
+msgstr "Úl kudlanek"
 
 #: game/areas:276
 msgctxt "game/areas:276:DefaultText"
 msgid "Labyrinth Docks description"
-msgstr ""
+msgstr "Popis Labyrinth Docks"
 
 #: game/areas:277
 msgctxt "game/areas:277:DefaultText"
 msgid "Bureau of Exploration"
-msgstr ""
+msgstr "Úřad pro průzkum"
 
 #: game/areas:279
 msgctxt "game/areas:279:DefaultText"
 msgid "Bureau of Exploration - Second Floor"
-msgstr ""
+msgstr "Úřad pro průzkum - druhé patro"
 
 #: game/areas:280
 msgctxt "game/areas:280:DefaultText"
 msgid "Halcyon Parcel Service"
-msgstr ""
+msgstr "Halcyon Parcel Service"
 
 #: game/areas:282
 msgctxt "game/areas:282:DefaultText"
 msgid "Amber Heights"
-msgstr ""
+msgstr "Amber Heights"
 
 #: game/areas:283
 msgctxt "game/areas:283:DefaultText"
 msgid "Home of the Iconoclasts, men and women following the Philosophist teachings of Graham Bryant."
-msgstr ""
+msgstr "Domov ikonoklastů, mužů a žen, kteří následují filosofické učení Grahama Bryanta."
 
 #: game/areas:284
 msgctxt "game/areas:284:DefaultText"
 msgid "Back Bays"
-msgstr ""
+msgstr "Zadní zálivy"
 
 #: game/areas:286
 msgctxt "game/areas:286:DefaultText"
 msgid "Harlow's Base"
-msgstr ""
+msgstr "Základna Harlow"
 
 #: game/areas:288
 msgctxt "game/areas:288:DefaultText"
 msgid "Fenhill Estate"
-msgstr ""
+msgstr "Fenhill Estate"
 
 #: game/areas:292
 msgctxt "game/areas:292:DefaultText"
 msgid "Deforesting Machine"
-msgstr ""
+msgstr "Odlesňovací stroj"
 
 #: game/areas:293
 msgctxt "game/areas:293:DefaultText"
 msgid "Tug Ship Crash"
-msgstr ""
+msgstr "Havárie vlečné lodi"
 
 #: game/areas:294
 msgctxt "game/areas:294:DefaultText"
 msgid "Raptidon Pens"
-msgstr ""
+msgstr "Raptidon Pera"
 
 #: game/areas:295
 msgctxt "game/areas:295:DefaultText"
 msgid "Workbench"
-msgstr ""
+msgstr "Pracovní stůl"
 
 #: game/areas:296
 msgctxt "game/areas:296:DefaultText"
 msgid "Vending Machine"
-msgstr ""
+msgstr "Prodejní automat"
 
 #: game/areas:297
 msgctxt "game/areas:297:DefaultText"
 msgid "Covert Lab Vent Shaft"
-msgstr ""
+msgstr "Skrytá ventilační šachta laboratoře"
 
 #: game/areas:298
 msgctxt "game/areas:298:DefaultText"
 msgid "Groundbreaker Docking Bays"
-msgstr ""
+msgstr "Dokovací prostory Groundbreaker"
 
 #: game/areas:299
 msgctxt "game/areas:299:DefaultText"
 msgid "Groundbreaker Promenade"
-msgstr ""
+msgstr "Promenáda Groundbreaker"
 
 #: game/areas:301
 msgctxt "game/areas:301:DefaultText"
 msgid "17th Bar Vendor"
-msgstr ""
+msgstr "Prodejce 17. baru"
 
 #: game/areas:302
 msgctxt "game/areas:302:DefaultText"
 msgid "Comms"
-msgstr ""
+msgstr "Komunikace"
 
 #: game/areas:303
 msgctxt "game/areas:303:DefaultText"
 msgid "Luxury Apartments"
-msgstr ""
+msgstr "Luxusní apartmány"
 
 #: game/areas:304
 msgctxt "game/areas:304:DefaultText"
 msgid "Workshop"
-msgstr ""
+msgstr "Workshop"
 
 #: game/areas:305
 msgctxt "game/areas:305:DefaultText"
 msgid "Forlorn Crossroads"
-msgstr ""
+msgstr "Opuštěné křižovatky"
 
 #: game/areas:307
 msgctxt "game/areas:307:DefaultText"
 msgid "C3 Barracks"
-msgstr ""
+msgstr "Kasárna C3"
 
 #: game/areas:309
 msgctxt "game/areas:309:DefaultText"
 msgid "Blown Bridge"
-msgstr ""
+msgstr "Foukaný most"
 
 #: game/areas:311
 msgctxt "game/areas:311:DefaultText"
 msgid "Bayside Terrace Warehouse"
-msgstr ""
+msgstr "Skladiště Bayside Terrace"
 
 #: game/areas:313
 msgctxt "game/areas:313:DefaultText"
 msgid "Phineas' Laboratory"
-msgstr ""
+msgstr "Phineasova laboratoř"
 
 #: game/areas:314
 msgctxt "game/areas:314:DefaultText"
 msgid "An isolated space station."
-msgstr ""
+msgstr "Izolovaná vesmírná stanice."
 
 #: game/areas:316
 msgctxt "game/areas:316:DefaultText"
 msgid "Amber Heights Crossroads"
-msgstr ""
+msgstr "Amber Heights Crossroads"
 
 #: game/areas:318
 msgctxt "game/areas:318:DefaultText"
 msgid "Cascadia Landing Pad"
-msgstr ""
+msgstr "Přistávací plocha Cascadia"
 
 #: game/areas:320
 msgctxt "game/areas:320:DefaultText"
 msgid "Cascadia Turnpike"
-msgstr ""
+msgstr "Cascadia Turnpike"
 
 #: game/areas:323
 msgctxt "game/areas:323:DefaultText"
 msgid "Anton's Office"
-msgstr ""
+msgstr "Antonova kancelář"
 
 #: game/areas:324
 msgctxt "game/areas:324:DefaultText"
 msgid "Porter's Office"
-msgstr ""
+msgstr "Porterova kancelář"
 
 #: game/areas:325
 msgctxt "game/areas:325:DefaultText"
 msgid "Orson's Lab"
-msgstr ""
+msgstr "Orsonova laboratoř"
 
 #: game/areas:326
 msgctxt "game/areas:326:DefaultText"
 msgid "Vaughn's Lab"
-msgstr ""
+msgstr "Vaughnova laboratoř"
 
 #: game/areas:327
 msgctxt "game/areas:327:DefaultText"
 msgid "Raptidon Incubation"
-msgstr ""
+msgstr "Inkubace Raptidon"
 
 #: game/areas:328
 msgctxt "game/areas:328:DefaultText"
 msgid "Distillery"
-msgstr ""
+msgstr "Lihovar"
 
 #: game/areas:329
 msgctxt "game/areas:329:DefaultText"
 msgid "Raptidon Den"
-msgstr ""
+msgstr "Doupě Raptidon"
 
 #: game/areas:330
 msgctxt "game/areas:330:DefaultText"
 msgid "Abandoned Mining Outpost"
-msgstr ""
+msgstr "Opuštěná důlní základna"
 
 #: game/areas:332
 msgctxt "game/areas:332:DefaultText"
 msgid "Spacer's Choice Cantina"
-msgstr ""
+msgstr "Spacer's Choice Cantina"
 
 #: game/areas:333
 msgctxt "game/areas:333:DefaultText"
 msgid "Emerald Vale General Store"
-msgstr ""
+msgstr "Všeobecný obchod Emerald Vale"
 
 #: game/areas:334
 msgctxt "game/areas:334:DefaultText"
 msgid "UDL Terraformer"
-msgstr ""
+msgstr "UDL Terraformer"
 
 #: game/areas:335
 msgctxt "game/areas:335:DefaultText"
 msgid "Circus Time Freighter"
-msgstr ""
+msgstr "Nákladní loď Circus Time"
 
 #: game/areas:336
 msgctxt "game/areas:336:DefaultText"
 msgid "Irion's Ship"
-msgstr ""
+msgstr "Irionova loď"
 
 #: game/areas:337
 msgctxt "game/areas:337:DefaultText"
 msgid "Spacer's Choice Vendor"
-msgstr ""
+msgstr "Prodejce Spacer's Choice"
 
 #: game/areas:338
 msgctxt "game/areas:338:DefaultText"
 msgid "Belle's Shells"
-msgstr ""
+msgstr "Mušle Belle's"
 
 #: game/areas:339
 msgctxt "game/areas:339:DefaultText"
 msgid "The Lost Hope Bar Vendor"
-msgstr ""
+msgstr "Prodejce baru Ztracená naděje"
 
 #: game/areas:340
 msgctxt "game/areas:340:DefaultText"
 msgid "Spratwurst Vendor"
-msgstr ""
+msgstr "Prodejce šprotů"
 
 #: game/areas:341
 msgctxt "game/areas:341:DefaultText"
 msgid "Ike's Armory"
-msgstr ""
+msgstr "Ikova zbrojnice"
 
 #: game/areas:342
 msgctxt "game/areas:342:DefaultText"
 msgid "Auntie's Kitchen"
-msgstr ""
+msgstr "Kuchyně tety"
 
 #: game/areas:343
 msgctxt "game/areas:343:DefaultText"
 msgid "Sulfur Pits"
-msgstr ""
+msgstr "Sírové jámy"
 
 #: game/areas:344
 msgctxt "game/areas:344:DefaultText"
 msgid "Olympus Lovers Point"
-msgstr ""
+msgstr "Olympus Lovers Point"
 
 #: game/areas:345
 msgctxt "game/areas:345:DefaultText"
 msgid "Abandoned Safehouse"
-msgstr ""
+msgstr "Opuštěný úkryt"
 
 #: game/areas:346
 msgctxt "game/areas:346:DefaultText"
 msgid "Hero's Last Stand"
-msgstr ""
+msgstr "Hrdinův poslední vzdor"
 
 #: game/areas:347
 msgctxt "game/areas:347:DefaultText"
 msgid "Sundered Rock"
-msgstr ""
+msgstr "Sundered Rock"
 
 #: game/areas:348
 msgctxt "game/areas:348:DefaultText"
 msgid "Mantisaur Lair"
-msgstr ""
+msgstr "Doupě kudlanky nábožné"
 
 #: game/areas:349
 msgctxt "game/areas:349:DefaultText"
 msgid "Cascadia Bridge Safehouse"
-msgstr ""
+msgstr "Bezpečný úkryt Cascadia Bridge"
 
 #: game/areas:350
 msgctxt "game/areas:350:DefaultText"
 msgid "Abandoned Relay Station"
-msgstr ""
+msgstr "Opuštěná retranslační stanice"
 
 #: game/areas:351
 msgctxt "game/areas:351:DefaultText"
 msgid "C&P Factory Sewer Entrance"
-msgstr ""
+msgstr "Vstup do kanalizace továrny C&P"
 
 #: game/areas:352
 msgctxt "game/areas:352:DefaultText"
 msgid "Marauder River Camp"
-msgstr ""
+msgstr "Marauder River Camp"
 
 #: game/areas:353
 msgctxt "game/areas:353:DefaultText"
 msgid "Junkyard"
-msgstr ""
+msgstr "Skládka"
 
 #: game/areas:354
 msgctxt "game/areas:354:DefaultText"
 msgid "Old Wreckage"
-msgstr ""
+msgstr "Starý vrak"
 
 #: game/areas:355
 msgctxt "game/areas:355:DefaultText"
 msgid "Marauder Hideout"
-msgstr ""
+msgstr "Úkryt nájezdníků"
 
 #: game/areas:356
 msgctxt "game/areas:356:DefaultText"
 msgid "Primal Nest"
-msgstr ""
+msgstr "Prvotní hnízdo"
 
 #: game/areas:357
 msgctxt "game/areas:357:DefaultText"
 msgid "Abandoned Industrial Zone"
-msgstr ""
+msgstr "Opuštěná průmyslová zóna"
 
 #: game/areas:358
 msgctxt "game/areas:358:DefaultText"
 msgid "Abandoned Spacer's Choice Settlement"
-msgstr ""
+msgstr "Opuštěná osada Spacer's Choice Settlement"
 
 #: game/areas:359
 msgctxt "game/areas:359:DefaultText"
 msgid "Edgewater Cemetery"
-msgstr ""
+msgstr "Hřbitov Edgewater"
 
 #: game/areas:360
 msgctxt "game/areas:360:DefaultText"
 msgid "Transport Wreckage"
-msgstr ""
+msgstr "Vrak dopravního prostředku"
 
 #: game/areas:361
 msgctxt "game/areas:361:DefaultText"
 msgid "Lone Grave"
-msgstr ""
+msgstr "Osamělý hrob"
 
 #: game/areas:362
 msgctxt "game/areas:362:DefaultText"
 msgid "North Gulch"
-msgstr ""
+msgstr "Severní rokle"
 
 #: game/areas:363
 msgctxt "game/areas:363:DefaultText"
 msgid "River Hideout"
-msgstr ""
+msgstr "River Hideout"
 
 #: game/areas:364
 msgctxt "game/areas:364:DefaultText"
 msgid "Volcanic Summit"
-msgstr ""
+msgstr "Sopečný vrchol"
 
 #: game/areas:365
 msgctxt "game/areas:365:DefaultText"
 msgid "Abandoned Outpost"
-msgstr ""
+msgstr "Opuštěná základna"
 
 #: game/areas:366
 msgctxt "game/areas:366:DefaultText"
 msgid "Marauder Encampment"
-msgstr ""
+msgstr "Tábor nájezdníků"
 
 #: game/areas:367
 msgctxt "game/areas:367:DefaultText"
 msgid "Old Campsite"
-msgstr ""
+msgstr "Starý kemp"
 
 #: game/areas:368
 msgctxt "game/areas:368:DefaultText"
 msgid "Sebastian Adam's Wildlife Emporium"
-msgstr ""
+msgstr "Sebastian Adam's Wildlife Emporium"
 
 #: game/areas:369
 msgctxt "game/areas:369:DefaultText"
 msgid "Zeng's Emporium"
-msgstr ""
+msgstr "Zeng's Emporium"
 
 #: game/areas:370
 msgctxt "game/areas:370:DefaultText"
 msgid "The Yacht Club Vendor"
-msgstr ""
+msgstr "Prodejce jachtařského klubu"
 
 #: game/areas:371
 msgctxt "game/areas:371:DefaultText"
 msgid "Duncan's Wholesome Dry Goods"
-msgstr ""
+msgstr "Duncan's Wholesome Dry Goods"
 
 #: game/areas:372
 msgctxt "game/areas:372:DefaultText"
 msgid "Guns! Guns! Guns! And Ammo Vendor"
-msgstr ""
+msgstr "Zbraně! Zbraně! Zbraně! A prodejce munice"
 
 #: game/areas:373
 msgctxt "game/areas:373:DefaultText"
 msgid "Ante Up Vendor"
-msgstr ""
+msgstr "Prodejce Ante Up"
 
 #: game/areas:374
 msgctxt "game/areas:374:DefaultText"
 msgid "The Tipsy Sprat Vendor"
-msgstr ""
+msgstr "Prodejce šprotů Tipsy"
 
 #: game/areas:375
 msgctxt "game/areas:375:DefaultText"
 msgid "Iconoclast Quartermaster Vendor"
-msgstr ""
+msgstr "Prodejce čtvrtníků Iconoclast"
 
 #: game/areas:376
 msgctxt "game/areas:376:DefaultText"
 msgid "Prospecting Cave"
-msgstr ""
+msgstr "Průzkumná jeskyně"
 
 #: game/areas:377
 msgctxt "game/areas:377:DefaultText"
 msgid "Jolicoeur's Haberdashery"
-msgstr ""
+msgstr "Galanterie Jolicoeur's"
 
 #: game/areas:378
 msgctxt "game/areas:378:DefaultText"
 msgid "Billingsly's House of Inebriation"
-msgstr ""
+msgstr "Billingslyho dům opilosti"
 
 #: game/areas:379
 msgctxt "game/areas:379:DefaultText"
 msgid "Forlorn Medbot"
-msgstr ""
+msgstr "Opuštěný Medbot"
 
 #: game/areas:380
 msgctxt "game/areas:380:DefaultText"
 msgid "The Unreliable"
-msgstr ""
+msgstr "Nespolehlivý"
 
 #: game/areas:381
 msgctxt "game/areas:381:DefaultText"
 msgid "The Pit"
-msgstr ""
+msgstr "Jáma"
 
 #: game/areas:382
 msgctxt "game/areas:382:DefaultText"
 msgid "Docking Bay"
-msgstr ""
+msgstr "Dokovací zátoka"
 
 #: game/areas:383
 msgctxt "game/areas:383:DefaultText"
 msgid "Cargo Yard"
-msgstr ""
+msgstr "Nákladní nádraží"
 
 #: game/areas:384
 msgctxt "game/areas:384:DefaultText"
 msgid "The Pit - Floor 1"
-msgstr ""
+msgstr "Jáma - 1. patro"
 
 #: game/areas:385
 msgctxt "game/areas:385:DefaultText"
 msgid "The Pit - Floor 2"
-msgstr ""
+msgstr "Jáma - 2. patro"
 
 #: game/areas:386
 msgctxt "game/areas:386:DefaultText"
 msgid "The Pit - Floor 3"
-msgstr ""
+msgstr "Jáma - 3. patro"
 
 #: game/areas:387
 msgctxt "game/areas:387:DefaultText"
 msgid "The Atrium"
-msgstr ""
+msgstr "Atrium"
 
 #: game/areas:388
 msgctxt "game/areas:388:DefaultText"
 msgid "Forsythe Luxury Munitions"
-msgstr ""
+msgstr "Luxusní munice Forsythe"
 
 #: game/areas:389
 msgctxt "game/areas:389:DefaultText"
 msgid "Mather Residence"
-msgstr ""
+msgstr "Rezidence Mather"

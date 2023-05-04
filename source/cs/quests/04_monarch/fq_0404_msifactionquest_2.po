@@ -1,164 +1,164 @@
 #: quests/04_monarch/fq_0404_msifactionquest_2:0
 msgctxt "quests/04_monarch/fq_0404_msifactionquest_2:0:DefaultText"
 msgid "Errors Unseen"
-msgstr ""
+msgstr "Neviditelné chyby"
 
 #: quests/04_monarch/fq_0404_msifactionquest_2:1
 msgctxt "quests/04_monarch/fq_0404_msifactionquest_2:1:DefaultText"
 msgid "Follow up with Catherine Malin"
-msgstr ""
+msgstr "Sledování Catherine Malin"
 
 #: quests/04_monarch/fq_0404_msifactionquest_2:5
 msgctxt "quests/04_monarch/fq_0404_msifactionquest_2:5:DefaultText"
 msgid "Investigate the Drop-Off Point"
-msgstr ""
+msgstr "Prozkoumejte místo předání"
 
 #: quests/04_monarch/fq_0404_msifactionquest_2:6
 msgctxt "quests/04_monarch/fq_0404_msifactionquest_2:6:DefaultText"
 msgid "Follow the Trail of Blood"
-msgstr ""
+msgstr "Sleduj stopu krve"
 
 #: quests/04_monarch/fq_0404_msifactionquest_2:7
 msgctxt "quests/04_monarch/fq_0404_msifactionquest_2:7:DefaultText"
 msgid "Recover Proof of Corporate Presence on Monarch"
-msgstr ""
+msgstr "Obnovení důkazu o přítomnosti společnosti v systému Monarch"
 
 #: quests/04_monarch/fq_0404_msifactionquest_2:9
 msgctxt "quests/04_monarch/fq_0404_msifactionquest_2:9:DefaultText"
 msgid "Return to Sanjar with the Data Cartridge"
-msgstr ""
+msgstr "Návrat do Sanjaru s datovou kazetou"
 
 #: quests/04_monarch/fq_0404_msifactionquest_2:12
 msgctxt "quests/04_monarch/fq_0404_msifactionquest_2:12:DefaultText"
 msgid "Speak to Fallbrook's Bartenders"
-msgstr ""
+msgstr "Promluvte si s barmany z Fallbrooku"
 
 #: quests/04_monarch/fq_0404_msifactionquest_2:17
 msgctxt "quests/04_monarch/fq_0404_msifactionquest_2:17:DefaultText"
 msgid "Speak to Huxley"
-msgstr ""
+msgstr "Promluvte si s Huxleym"
 
 #: quests/04_monarch/fq_0404_msifactionquest_2:20
 msgctxt "quests/04_monarch/fq_0404_msifactionquest_2:20:DefaultText"
 msgid "(Optional) Use the Rear Gate"
-msgstr ""
+msgstr "(Volitelné) Použití zadní brány"
 
 #: quests/04_monarch/fq_0404_msifactionquest_2:10000
 msgctxt "quests/04_monarch/fq_0404_msifactionquest_2:10000:DefaultText"
 msgid "Sanjar believes another company may be operating on Monarch illegally. If he can get proof, then he could use that as leverage to get MSI readmitted to the Halcyon Board."
-msgstr ""
+msgstr "Sanjar se domnívá, že na Monarchu může nelegálně působit jiná společnost. Pokud by se mu podařilo získat důkaz, mohl by ho použít jako páku k tomu, aby společnost MSI byla znovu přijata do představenstva Halcyonu."
 
 #: quests/04_monarch/fq_0404_msifactionquest_2:10001
 msgctxt "quests/04_monarch/fq_0404_msifactionquest_2:10001:DefaultText"
 msgid "Sanjar believes Catherine would know where this other corporation is operating. See if you can get the location from her."
-msgstr ""
+msgstr "Sanjar se domnívá, že Catherine ví, kde tato jiná společnost působí. Zkuste od ní zjistit, kde se nachází."
 
 #: quests/04_monarch/fq_0404_msifactionquest_2:10005
 msgctxt "quests/04_monarch/fq_0404_msifactionquest_2:10005:DefaultText"
 msgid "Someone hired Catherine's team to make blind supply drops at the bridge north of Fallbrook. Investigating the area may lead you to the proof you need."
-msgstr ""
+msgstr "Někdo si najal Catherinin tým, aby provedl slepý výsadek zásob u mostu severně od Fallbrooku. Prozkoumání oblasti vás může dovést k důkazu, který potřebujete."
 
 #: quests/04_monarch/fq_0404_msifactionquest_2:10006
 msgctxt "quests/04_monarch/fq_0404_msifactionquest_2:10006:DefaultText"
 msgid "Someone survived the attack at the drop point. Follow the blood trail to see if you can learn more."
-msgstr ""
+msgstr "Někdo přežil útok v místě vysazení. Sledujte krvavou stopu a zjistěte, zda se dozvíte víc."
 
 #: quests/04_monarch/fq_0404_msifactionquest_2:10007
 msgctxt "quests/04_monarch/fq_0404_msifactionquest_2:10007:DefaultText"
 msgid "You found a hidden facility where some scientists are being held captive by marauders. This could be the corporate base Sanjar's been looking for - find proof."
-msgstr ""
+msgstr "Našli jste skryté zařízení, kde jsou někteří vědci drženi v zajetí nájezdníky. Tohle by mohla být základna společnosti, kterou Sanjar hledal - najdi důkaz."
 
 #: quests/04_monarch/fq_0404_msifactionquest_2:10009
 msgctxt "quests/04_monarch/fq_0404_msifactionquest_2:10009:DefaultText"
 msgid "You have evidence that UDL has been secretly developing a crowd control gas on Monarch. This is the proof Sanjar needs to make his appeal to the Board."
-msgstr ""
+msgstr "Máte důkazy, že UDL tajně vyvíjela plyn pro kontrolu davu na Monarchu. To je důkaz, který Sanjar potřebuje, aby se mohl odvolat k představenstvu."
 
 #: quests/04_monarch/fq_0404_msifactionquest_2:10012
 msgctxt "quests/04_monarch/fq_0404_msifactionquest_2:10012:DefaultText"
 msgid "Catherine revealed that a twitchy regular at the gambling dens might know more. Ask the bartenders, Yvonne and Westley, about her."
-msgstr ""
+msgstr "Catherine prozradila, že podrážděný štamgast v hráčských doupatech by mohl vědět víc. Zeptejte se na ni barmanů Yvonne a Westleyho."
 
 #: quests/04_monarch/fq_0404_msifactionquest_2:10017
 msgctxt "quests/04_monarch/fq_0404_msifactionquest_2:10017:DefaultText"
 msgid "The mystery gambler in Fallbrook had an unlikely gambling buddy, Huxley, the Iconoclast who had trapped herself in a closet. Speak to her in Amber Heights."
-msgstr ""
+msgstr "Tajemný hráč ve Fallbrooku měl nepravděpodobného kamaráda na hazardní hry, Huxleyho, ikonoklasta, který se uvěznil ve skříni. Promluvte si s ní v Amber Heights."
 
 #: quests/04_monarch/fq_0404_msifactionquest_2:10020
 msgctxt "quests/04_monarch/fq_0404_msifactionquest_2:10020:DefaultText"
 msgid "Huxley gave you a key she won off her gambling buddy. It could be used to open the facility's rear gate."
-msgstr ""
+msgstr "Huxley ti dala klíč, který vyhrála od svého kamaráda v hazardu. Dá se použít k otevření zadní brány objektu."
 
 #: quests/04_monarch/fq_0404_msifactionquest_2:20000
 msgctxt "quests/04_monarch/fq_0404_msifactionquest_2:20000:DefaultText"
 msgid "Catherine is dead, but her private terminal may have the information you need."
-msgstr ""
+msgstr "Catherine je mrtvá, ale její soukromý terminál může obsahovat informace, které potřebujete."
 
 #: quests/04_monarch/fq_0404_msifactionquest_2:20001
 msgctxt "quests/04_monarch/fq_0404_msifactionquest_2:20001:DefaultText"
 msgid "Maybe the scientists could provide testimony..."
-msgstr ""
+msgstr "Možná by vědci mohli poskytnout svědectví..."
 
 #: quests/04_monarch/fq_0404_msifactionquest_2:20002
 msgctxt "quests/04_monarch/fq_0404_msifactionquest_2:20002:DefaultText"
 msgid "Never mind."
-msgstr ""
+msgstr "Nevadí."
 
 #: quests/04_monarch/fq_0404_msifactionquest_2:20003
 msgctxt "quests/04_monarch/fq_0404_msifactionquest_2:20003:DefaultText"
 msgid "You found Arthur, a SubLight courier, and learned that his team was attacked by marauders."
-msgstr ""
+msgstr "Našel jsi Arthura, kurýra SubLight, a dozvěděl ses, že jeho tým byl napaden nájezdníky."
 
 #: quests/04_monarch/fq_0404_msifactionquest_2:20004
 msgctxt "quests/04_monarch/fq_0404_msifactionquest_2:20004:DefaultText"
 msgid "You spoke to Yvonne."
-msgstr ""
+msgstr "Mluvil jsi s Yvonne."
 
 #: quests/04_monarch/fq_0404_msifactionquest_2:20005
 msgctxt "quests/04_monarch/fq_0404_msifactionquest_2:20005:DefaultText"
 msgid "You spoke to Westley."
-msgstr ""
+msgstr "Mluvil jste s Westleym."
 
 #: quests/04_monarch/fq_0404_msifactionquest_2:20006
 msgctxt "quests/04_monarch/fq_0404_msifactionquest_2:20006:DefaultText"
 msgid "Yvonne is dead, she won't be able to help."
-msgstr ""
+msgstr "Yvonne je mrtvá, nebude moci pomoci."
 
 #: quests/04_monarch/fq_0404_msifactionquest_2:20007
 msgctxt "quests/04_monarch/fq_0404_msifactionquest_2:20007:DefaultText"
 msgid "Westley is dead, he won't be able to help."
-msgstr ""
+msgstr "Westley je mrtvý, nebude moci pomoci."
 
 #: quests/04_monarch/fq_0404_msifactionquest_2:20008
 msgctxt "quests/04_monarch/fq_0404_msifactionquest_2:20008:DefaultText"
 msgid "Huxley is dead, she won't be able to help."
-msgstr ""
+msgstr "Huxley je mrtvý, nebude moci pomoci."
 
 #: quests/04_monarch/fq_0404_msifactionquest_2:20009
 msgctxt "quests/04_monarch/fq_0404_msifactionquest_2:20009:DefaultText"
 msgid "An alarm behind the facility might clear it of hostiles."
-msgstr ""
+msgstr "Poplach za objektem by ho mohl vyčistit od nepřátel."
 
 #: quests/04_monarch/fq_0404_msifactionquest_2:30000
 msgctxt "quests/04_monarch/fq_0404_msifactionquest_2:30000:DefaultText"
 msgid "You delivered the UDL data to Sanjar."
-msgstr ""
+msgstr "Data UDL jste dodali společnosti Sanjar."
 
 #: quests/04_monarch/fq_0404_msifactionquest_2:30001
 msgctxt "quests/04_monarch/fq_0404_msifactionquest_2:30001:DefaultText"
 msgid "You killed Sanjar."
-msgstr ""
+msgstr "Zabil jsi Sanjara."
 
 #: quests/04_monarch/fq_0404_msifactionquest_2:30002
 msgctxt "quests/04_monarch/fq_0404_msifactionquest_2:30002:DefaultText"
 msgid "With Celia dead, Sanjar is too traumatized to conduct business."
-msgstr ""
+msgstr "Když je Celia mrtvá, je Sanjar příliš traumatizován, než aby se mohl věnovat obchodním záležitostem."
 
 #: quests/04_monarch/fq_0404_msifactionquest_2:40001
 msgctxt "quests/04_monarch/fq_0404_msifactionquest_2:40001:DefaultText"
 msgid "From Arthur, you learned that the marauders who attacked came from a location up the hill, west of the bridge. If the marauders found the shipments, perhaps they can lead you to the secret facility, too."
-msgstr ""
+msgstr "Od Artura ses dozvěděl, že nájezdníci, kteří zaútočili, přišli z místa nahoře na kopci, západně od mostu. Pokud nájezdníci našli zásilky, možná tě dovedou i k tajnému zařízení."
 
 #: quests/04_monarch/fq_0404_msifactionquest_2:40002
 msgctxt "quests/04_monarch/fq_0404_msifactionquest_2:40002:DefaultText"
 msgid "You learned that Huxley's gambling buddy lives in a hidden facility in the wilderness. Sounds like the corporate base you're looking for. Find proof."
-msgstr ""
+msgstr "Dozvěděli jste se, že Huxleyho kamarád, který se věnuje hazardu, žije ve skrytém zařízení v divočině. To zní jako firemní základna, kterou hledáte. Najdi důkaz."

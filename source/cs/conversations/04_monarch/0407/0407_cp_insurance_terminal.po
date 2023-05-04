@@ -2,27 +2,27 @@
 msgctxt "conversations/04_monarch/0407/0407_cp_insurance_terminal:1:DefaultText"
 msgid "Greater Halcyon Insurance Group\r\n"
 "==========================="
-msgstr ""
+msgstr "Greater Halcyon Insurance Group ==========================="
 
 #: conversations/04_monarch/0407/0407_cp_insurance_terminal:2
 msgctxt "conversations/04_monarch/0407/0407_cp_insurance_terminal:2:DefaultText"
 msgid "[View Recent Records] "
-msgstr ""
+msgstr "[Zobrazit poslední záznamy] "
 
 #: conversations/04_monarch/0407/0407_cp_insurance_terminal:3
 msgctxt "conversations/04_monarch/0407/0407_cp_insurance_terminal:3:DefaultText"
 msgid "Please select a claim to view:"
-msgstr ""
+msgstr "Pro zobrazení si prosím vyberte pohledávku:"
 
 #: conversations/04_monarch/0407/0407_cp_insurance_terminal:4
 msgctxt "conversations/04_monarch/0407/0407_cp_insurance_terminal:4:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"
 
 #: conversations/04_monarch/0407/0407_cp_insurance_terminal:5
 msgctxt "conversations/04_monarch/0407/0407_cp_insurance_terminal:5:DefaultText"
 msgid "[Policy Details: Fenhill, Marilyn]"
-msgstr ""
+msgstr "[Podrobnosti o politice: Fenhill, Marilyn]"
 
 #: conversations/04_monarch/0407/0407_cp_insurance_terminal:14
 msgctxt "conversations/04_monarch/0407/0407_cp_insurance_terminal:14:DefaultText"
@@ -33,12 +33,12 @@ msgid "Insured: MARILYN FENHILL\r\n"
 "Monthly Payout: <oeiglobal>CQ_Ellie_Insurance_Payout</oeiglobal> bits\r\n"
 "\r\n"
 "Beneficiaries: THEODORA FENHILL, LIONEL WITHERSPOON"
-msgstr ""
+msgstr "Pojištěno: Příčina smrti: Měsíční výplata: <oeiglobal>CQ_Ellie_Insurance_Payout</oeiglobal> dávky Oprávněné osoby: THEODORA FENHILL, LIONEL WITHERSPOON"
 
 #: conversations/04_monarch/0407/0407_cp_insurance_terminal:15
 msgctxt "conversations/04_monarch/0407/0407_cp_insurance_terminal:15:DefaultText"
 msgid "[Change Beneficiary To: Ellie Fenhill]"
-msgstr ""
+msgstr "[Změnit příjemce na: Ellie Fenhill]"
 
 #: conversations/04_monarch/0407/0407_cp_insurance_terminal:18
 msgctxt "conversations/04_monarch/0407/0407_cp_insurance_terminal:18:DefaultText"
@@ -47,39 +47,39 @@ msgid "Creating new beneficiary account for ELLIE FENHILL...\r\n"
 "Removing THEODORA FENHILL and LIONEL WITHERSPOON from beneficiary list...\r\n"
 "\r\n"
 "Success! All future payouts will be routed to ELLIE FENHILL."
-msgstr ""
+msgstr "Vytvoření nového účtu příjemce pro ELLIE FENHILL... Odstranění THEODORY FENHILL a LIONELA WITHERSPOONA ze seznamu příjemců... Úspěch! Všechny budoucí výplaty budou směrovány na ELLIE FENHILL."
 
 #: conversations/04_monarch/0407/0407_cp_insurance_terminal:19
 msgctxt "conversations/04_monarch/0407/0407_cp_insurance_terminal:19:DefaultText"
 msgid "[Continue]"
-msgstr ""
+msgstr "[Pokračovat]"
 
 #: conversations/04_monarch/0407/0407_cp_insurance_terminal:20
 msgctxt "conversations/04_monarch/0407/0407_cp_insurance_terminal:20:DefaultText"
 msgid "Thank you for bringing your business to the Greater Halcyon Insurance Group! \r\n"
 "\r\n"
 "We realize you don't have other options when it comes to meeting your insurance needs, but we're contractually obligated to display this message!"
-msgstr ""
+msgstr "Děkujeme, že jste se obrátili na Greater Halcyon Insurance Group! Uvědomujeme si, že nemáte jiné možnosti, pokud jde o uspokojení vašich pojistných potřeb, ale jsme smluvně zavázáni zobrazit tuto zprávu!"
 
 #: conversations/04_monarch/0407/0407_cp_insurance_terminal:29
 msgctxt "conversations/04_monarch/0407/0407_cp_insurance_terminal:29:DefaultText"
 msgid "[Return to Root]"
-msgstr ""
+msgstr "[Zpět na kořen]"
 
 #: conversations/04_monarch/0407/0407_cp_insurance_terminal:30
 msgctxt "conversations/04_monarch/0407/0407_cp_insurance_terminal:30:DefaultText"
 msgid "[Birtwhistle, Ahmed]"
-msgstr ""
+msgstr "[Birtwhistle, Ahmed]"
 
 #: conversations/04_monarch/0407/0407_cp_insurance_terminal:31
 msgctxt "conversations/04_monarch/0407/0407_cp_insurance_terminal:31:DefaultText"
 msgid "[Cartwright, Fanny]"
-msgstr ""
+msgstr "[Cartwright, Fanny]"
 
 #: conversations/04_monarch/0407/0407_cp_insurance_terminal:32
 msgctxt "conversations/04_monarch/0407/0407_cp_insurance_terminal:32:DefaultText"
 msgid "[Filed on Behalf of C&P]"
-msgstr ""
+msgstr "[Podáno jménem společnosti C&P]"
 
 #: conversations/04_monarch/0407/0407_cp_insurance_terminal:33
 msgctxt "conversations/04_monarch/0407/0407_cp_insurance_terminal:33:DefaultText"
@@ -92,7 +92,9 @@ msgid "CLAIM: Loss of (Gentlemanly Honor) and (Good Name)\n"
 "The damage to my reputation has been most grievous. I find myself unable to return to my previous haunts for fear of the stares and chuckles that will follow. My honor as a gentleman has been called into question, as has the nature of my relationship with livestock.\"\n"
 "\n"
 "RESOLUTION: Denied - Improper Formwork. Claimant forgot to say the magic word."
-msgstr ""
+msgstr "NÁROK: Ztráta (gentlemanské cti) a (dobrého jména) \"Uzavřel jsem gentlemanskou sázku s několika chlápky v Billingsly's ohledně povahy a složení produktu Spacer's Choice 'Tarmac & Cheese'. Byl jsem si naprosto jistý, že výrobek obsahuje skutečný asfalt, a moji společníci se vsadili, že určitě ne. A hle, vyšetřování této záležitosti ukázalo, že jsem se stal obětí hrubého nedorozumění. Jak jsem však měl vědět, jakou stravu jedí běžní tovární dělníci? A jak mohla být společnost Spacer's Choice tak nezodpovědná, že inzerovala, že její výrobek obsahuje asfalt, když ho zjevně neobsahuje? \n"
+"\n"
+"Poškození mé pověsti bylo velmi závažné. Zjistil jsem, že se nemohu vrátit na svá předchozí místa, protože se obávám následných pohledů a posměšků. Má čest gentlemana byla zpochybněna, stejně jako povaha mého vztahu k dobytku.\" ŘEŠENÍ: Zamítnuto - nesprávné bednění. Žadatel zapomněl říci kouzelné slůvko."
 
 #: conversations/04_monarch/0407/0407_cp_insurance_terminal:34
 msgctxt "conversations/04_monarch/0407/0407_cp_insurance_terminal:34:DefaultText"
@@ -113,7 +115,7 @@ msgid "CLAIM: Loss of (1) Finger(s)\n"
 "\"T e la t  shi ft lef  seral c ates  nse curd n w n thy  fel  t no ked mee nto th  sa  lst  4  f my rm ng 2 f nr .\"\n"
 "\n"
 "RESOLUTION: Denied - Claim Unintelligible."
-msgstr ""
+msgstr "NÁROK: Ztráta prstu (1) \"Pět let jsem pracoval jako asistent obsluhy pily ve společnosti C&P. Většina ochranných krytů pilových kotoučů se loni zlomila a vedení je nikdy nevyměnilo. V důsledku toho jsem minulý týden přišel o levý prsteníček.\" ŘEŠENÍ: Zamítnuto - zanedbatelná škoda. Žadatel je pravák, takže rozsah této ztráty je minimální. AKTUALIZOVANÁ ŽALOBA: Ztráta (3) prstu(ů) \"The saw I ws working c a me loosde yestrday n acount of C &P skippng roiutin m ainten ace cheks.  Nehoda mě připravila o dva prsty na pravé ruce a další na levé.\" ŘEŠENÍ: Zamítnuto - vlastní diskvalifikace. Žadateli chyběl prst z předchozí nehody a neměl by obsluhovat ostré stroje. AKTUALIZOVANÝ NÁROK: Ztráta (4) prstů \"T e la t shi ft lef seral c ates nse curd n w n thy fel t no ked mee nto th sa lst 4 f my rm ng 2 f nr .\" ŘEŠENÍ: Zamítnuto - nárok nesrozumitelný."
 
 #: conversations/04_monarch/0407/0407_cp_insurance_terminal:35
 msgctxt "conversations/04_monarch/0407/0407_cp_insurance_terminal:35:DefaultText"
@@ -122,9 +124,9 @@ msgid "CLAIM: Loss of (1) Worker(s)\r\n"
 "\"Assistant Saw Operator 16-J (Cartwright, F.) lost several digits due to carelessness and negligence. She failed to heed prominently-posted warnings about the state of our safety equipment, and her resultant injuries have decreased our factory's productivity and led to multiple stress headaches for management as we've struggled to reshuffle worker schedules around 16-J.\"\r\n"
 "\r\n"
 "RESOLUTION: Approved."
-msgstr ""
+msgstr "NÁROK: Ztráta zaměstnance (1) \"Asistent obsluhy pily 16-J (Cartwright, F.) přišel o několik číslic v důsledku nedbalosti a neopatrnosti. Nedbala viditelně vyvěšených varování o stavu našeho bezpečnostního vybavení a její následná zranění snížila produktivitu naší továrny a vedla k četným stresovým bolestem hlavy pro vedení, protože jsme se snažili přeorganizovat rozvrhy pracovníků kolem 16-J.\" ŘEŠENÍ: Schváleno."
 
 #: conversations/04_monarch/0407/0407_cp_insurance_terminal:36
 msgctxt "conversations/04_monarch/0407/0407_cp_insurance_terminal:36:DefaultText"
 msgid "[Return to Root]"
-msgstr ""
+msgstr "[Zpět na kořen]"

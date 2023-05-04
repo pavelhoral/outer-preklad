@@ -1,19 +1,19 @@
 #: chatter/parent__globaladbot:1
 msgctxt "chatter/parent__globaladbot:1:DefaultText"
 msgid "Please maintain optimal distance for listening to mandatory advertisements."
-msgstr ""
+msgstr "Prosíme, dodržujte optimální odstup pro poslech povinných reklam."
 
 #: chatter/parent__globaladbot:11
 msgctxt "chatter/parent__globaladbot:11:DefaultText"
 msgid "Reminder! Interrupting automated messages will be reflected on your permanent record!"
-msgstr ""
+msgstr "Připomínáme! Přerušení automatických zpráv se projeví ve vašem trvalém záznamu!"
 
 #: chatter/parent__globaladbot:21
 msgctxt "chatter/parent__globaladbot:21:DefaultText"
 msgid "Remember: listening to company advertisements is mandatory."
-msgstr ""
+msgstr "Nezapomeňte, že poslouchání firemních reklam je povinné."
 
 #: chatter/parent__globaladbot:22
 msgctxt "chatter/parent__globaladbot:22:DefaultText"
 msgid "Caution: Obstructing this unit's path is a reportable offense!"
-msgstr ""
+msgstr "Upozornění: Překážení této jednotce v cestě je trestným činem!"

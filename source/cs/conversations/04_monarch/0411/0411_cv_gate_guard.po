@@ -1,84 +1,84 @@
 #: conversations/04_monarch/0411/0411_cv_gate_guard:1
 msgctxt "conversations/04_monarch/0411/0411_cv_gate_guard:1:DefaultText"
 msgid "Ah, you must be part of the new line shift. Don't tell me you lost your keycard already."
-msgstr ""
+msgstr "Aha, ty musíš být součástí nové směny. Neříkej mi, že už jsi ztratil svou kartu."
 
 #: conversations/04_monarch/0411/0411_cv_gate_guard:2
 msgctxt "conversations/04_monarch/0411/0411_cv_gate_guard:2:DefaultText"
 msgid "Factory's open to employees only. Move it or lose it, friend."
-msgstr ""
+msgstr "Továrna je otevřena pouze pro zaměstnance. Pohni se, nebo o ni přijdeš, příteli."
 
 #: conversations/04_monarch/0411/0411_cv_gate_guard:3
 msgctxt "conversations/04_monarch/0411/0411_cv_gate_guard:3:DefaultText"
 msgid "Fine. Give me the infractions, I can't be late."
-msgstr ""
+msgstr "V pořádku. Dejte mi přestupky, nemůžu přijít pozdě."
 
 #: conversations/04_monarch/0411/0411_cv_gate_guard:4
 msgctxt "conversations/04_monarch/0411/0411_cv_gate_guard:4:DefaultText"
 msgid "How much for a card and no infractions? "
-msgstr ""
+msgstr "Kolik za kartu a bez přestupků? "
 
 #: conversations/04_monarch/0411/0411_cv_gate_guard:5
 msgctxt "conversations/04_monarch/0411/0411_cv_gate_guard:5:DefaultText"
 msgid "Actually, I haven't been issued one yet. It's my first day on the job."
-msgstr ""
+msgstr "Vlastně mi ještě žádný nevydali. Je to můj první den v práci."
 
 #: conversations/04_monarch/0411/0411_cv_gate_guard:6
 msgctxt "conversations/04_monarch/0411/0411_cv_gate_guard:6:DefaultText"
 msgid "Got a message for Clive from SubLight. I can deliver it to him... or I can deliver it to you."
-msgstr ""
+msgstr "Mám zprávu pro Cliva ze SubLight. Můžu mu ji doručit... nebo ji můžu doručit já tobě."
 
 #: conversations/04_monarch/0411/0411_cv_gate_guard:8
 msgctxt "conversations/04_monarch/0411/0411_cv_gate_guard:8:DefaultText"
 msgid "Must've dropped it somewhere. I'll go and find it."
-msgstr ""
+msgstr "Musel ho někde upustit. Půjdu ho najít."
 
 #: conversations/04_monarch/0411/0411_cv_gate_guard:9
 msgctxt "conversations/04_monarch/0411/0411_cv_gate_guard:9:DefaultText"
 msgid "Pfft. Ain't no one with a lick of sense gonna accept two infractions. I don't know whether you work here, but I do know you need to get lost."
-msgstr ""
+msgstr "Pfft. Nikdo, kdo má trochu rozumu, nebude akceptovat dva přestupky. Nevím, jestli tu pracuješ, ale vím, že bys měl vypadnout."
 
 #: conversations/04_monarch/0411/0411_cv_gate_guard:10
 msgctxt "conversations/04_monarch/0411/0411_cv_gate_guard:10:DefaultText"
 msgid "Depends on what you got. But I reckon we can work something out."
-msgstr ""
+msgstr "Záleží na tom, co máte. Ale počítám, že něco vymyslíme."
 
 #: conversations/04_monarch/0411/0411_cv_gate_guard:11
 msgctxt "conversations/04_monarch/0411/0411_cv_gate_guard:11:DefaultText"
 msgid "You know, I think I did hear something about that... All right, okay."
-msgstr ""
+msgstr "Myslím, že jsem o tom něco slyšel... Dobře, dobře."
 
 #: conversations/04_monarch/0411/0411_cv_gate_guard:12
 msgctxt "conversations/04_monarch/0411/0411_cv_gate_guard:12:DefaultText"
 msgid "No, that's all right. I know what their messages tend to entail."
-msgstr ""
+msgstr "Ne, to je v pořádku. Vím, co jejich zprávy obvykle obsahují."
 
 #: conversations/04_monarch/0411/0411_cv_gate_guard:14
 msgctxt "conversations/04_monarch/0411/0411_cv_gate_guard:14:DefaultText"
 msgid "Head on in."
-msgstr ""
+msgstr "Vydejte se dovnitř."
 
 #: conversations/04_monarch/0411/0411_cv_gate_guard:15
 msgctxt "conversations/04_monarch/0411/0411_cv_gate_guard:15:DefaultText"
 msgid "A lost card's worth two infractions, you know."
-msgstr ""
+msgstr "Ztracená karta je za dva přestupky, víte?"
 
 #: conversations/04_monarch/0411/0411_cv_gate_guard:17
 msgctxt "conversations/04_monarch/0411/0411_cv_gate_guard:17:DefaultText"
 msgid "Will <oeiglobal>SQ0408_GateGuardBribeAmount</oeiglobal> bits do?"
-msgstr ""
+msgstr "Budou stačit bity <oeiglobal>SQ0408_GateGuardBribeAmount</oeiglobal>?"
 
 #: conversations/04_monarch/0411/0411_cv_gate_guard:19
 msgctxt "conversations/04_monarch/0411/0411_cv_gate_guard:19:DefaultText"
 msgid "Pleasure doing business with you. You weren't never here, and I didn't give you this card."
-msgstr ""
+msgstr "Je příjemné s vámi obchodovat. Nikdy jste tu nebyl a já jsem vám tuto kartu nedal."
 
 #: conversations/04_monarch/0411/0411_cv_gate_guard:20
 msgctxt "conversations/04_monarch/0411/0411_cv_gate_guard:20:DefaultText"
 msgid "Already forgotten."
-msgstr ""
+msgstr "Již zapomenuto."
 
 #: conversations/04_monarch/0411/0411_cv_gate_guard:21
 msgctxt "conversations/04_monarch/0411/0411_cv_gate_guard:21:DefaultText"
 msgid "On second thought, forget it. "
-msgstr ""
+msgstr "Když o tom tak přemýšlím, zapomeňte na to. "

@@ -7,34 +7,34 @@ msgid "LBR-NTH Automechanical Terminal\r\n"
 "UDL is not responsible for lethal force dispensed by the RAM unit.\r\n"
 "\r\n"
 "If the automechanicals in this area need maintenance or updated security protocols, please consult your nearest security engineer."
-msgstr ""
+msgstr "Automechanický terminál LBR-NTH ============================ Riot Automechanical (RAM) je online. UDL nenese odpovědnost za smrtící sílu dávkovanou jednotkou RAM. Pokud automechanické jednotky v této oblasti potřebují údržbu nebo aktualizaci bezpečnostních protokolů, obraťte se na nejbližšího bezpečnostního technika."
 
 #: conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:4
 msgctxt "conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:4:DefaultText"
 msgid "[Designate RAM as a Hostile Intruder]"
-msgstr ""
+msgstr "[Označit RAM jako nepřátelského vetřelce]"
 
 #: conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:11
 msgctxt "conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:11:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"
 
 #: conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:13
 msgctxt "conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:13:DefaultText"
 msgid "LBR-NTH Automechanical Terminal\r\n"
 "============================\r\n"
 "Intruder identified. Deploying suppression unit."
-msgstr ""
+msgstr "LBR-NTH Automechanický terminál ============================ Identifikace narušitele. Nasazení potlačovací jednotky."
 
 #: conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:14
 msgctxt "conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:14:DefaultText"
 msgid "[Access RAM Override Menu]"
-msgstr ""
+msgstr "[Přístup do nabídky přepisu paměti RAM]"
 
 #: conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:15
 msgctxt "conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:15:DefaultText"
 msgid "[Attempt RAM Shutdown Sequence]"
-msgstr ""
+msgstr "[Pokus o sekvenci vypnutí paměti RAM]"
 
 #: conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:17
 msgctxt "conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:17:DefaultText"
@@ -47,27 +47,27 @@ msgid "LBR-NTH Automechanical Terminal\r\n"
 "Administrative bypasses remaining: 2\r\n"
 "\r\n"
 "Please enter the first password."
-msgstr ""
+msgstr "LBR-NTH Automechanická svorka ============================ Jednotka RAM je v režimu potlačení. Je vyžadováno třídílné ověřování. V případě kritické poruchy hlavních systémů jednotky RAM může být akceptováno částečné ověření. Aby byla jednotka RAM chráněna před jakýmkoli neoprávněným přístupem, mohou administrátoři obejít pouze dvě z těchto hesel. Zbývající administrativní obejití: 2 Zadejte první heslo."
 
 #: conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:18
 msgctxt "conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:18:DefaultText"
 msgid "[Bypass First Password]"
-msgstr ""
+msgstr "[Obejít první heslo]"
 
 #: conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:19
 msgctxt "conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:19:DefaultText"
 msgid "[AKANDE]"
-msgstr ""
+msgstr "[AKANDE]"
 
 #: conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:20
 msgctxt "conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:20:DefaultText"
 msgid "[Mark the RAM's ammunition as the wrong caliber.]"
-msgstr ""
+msgstr "[Označte munici RAM jako špatnou ráži.]"
 
 #: conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:21
 msgctxt "conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:21:DefaultText"
 msgid "[12345]"
-msgstr ""
+msgstr "[12345]"
 
 #: conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:22
 msgctxt "conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:22:DefaultText"
@@ -78,27 +78,27 @@ msgid "LBR-NTH Automechanical Terminal\r\n"
 "Please enter the second password.\r\n"
 "\r\n"
 "Administrative bypasses remaining: 1"
-msgstr ""
+msgstr "LBR-NTH Automechanický terminál ============================ Administrační bypass přijat. Zadejte prosím druhé heslo. Zbývající administrativní bypassy: 1"
 
 #: conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:23
 msgctxt "conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:23:DefaultText"
 msgid "[Bypass Second Password]"
-msgstr ""
+msgstr "[Obejít druhé heslo]"
 
 #: conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:24
 msgctxt "conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:24:DefaultText"
 msgid "[SMELLSLIKE]"
-msgstr ""
+msgstr "[SMELLSLIKE]"
 
 #: conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:25
 msgctxt "conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:25:DefaultText"
 msgid "[Flag the RAM Unit's Thrusters as Overloaded]"
-msgstr ""
+msgstr "[Označit trysky jednotky RAM jako přetížené]"
 
 #: conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:26
 msgctxt "conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:26:DefaultText"
 msgid "[Mash Random Keys]"
-msgstr ""
+msgstr "[Mash Random Keys]"
 
 #: conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:27
 msgctxt "conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:27:DefaultText"
@@ -109,49 +109,49 @@ msgid "LBR-NTH Automechanical Terminal\r\n"
 "Please enter the second password.\r\n"
 "\r\n"
 "Administrative bypasses remaining: 2"
-msgstr ""
+msgstr "LBR-NTH Automechanický terminál ============================ Heslo přijato. Zadejte prosím druhé heslo. Zbývající administrativní bypassy: 2"
 
 #: conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:29
 msgctxt "conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:29:DefaultText"
 msgid "[Return to Root]"
-msgstr ""
+msgstr "[Zpět na kořen]"
 
 #: conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:30
 msgctxt "conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:30:DefaultText"
 msgid "LBR-NTH Automechanical Terminal\r\n"
 "============================\r\n"
 "Warning: Damage to the RAM unit or Labyrinth personnel as a result of its security or safety overrides will be marked against employee #$ERR!#, who is currently logged in."
-msgstr ""
+msgstr "LBR-NTH Automechanická svorka ============================ Varování: Poškození jednotky RAM nebo personálu Labyrintu v důsledku jejího zabezpečení nebo bezpečnostního přepisu bude vyznačeno proti zaměstnanci #$ERR!#, který je právě přihlášen."
 
 #: conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:31
 msgctxt "conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:31:DefaultText"
 msgid "[Activate Weapons Safeties]"
-msgstr ""
+msgstr "[Aktivace pojistek zbraní]"
 
 #: conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:32
 msgctxt "conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:32:DefaultText"
 msgid "[Abort Sequence]"
-msgstr ""
+msgstr "[Sekvence přerušení]"
 
 #: conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:33
 msgctxt "conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:33:DefaultText"
 msgid "[Bypass Third Password]"
-msgstr ""
+msgstr "[Obejít třetí heslo]"
 
 #: conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:34
 msgctxt "conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:34:DefaultText"
 msgid "[BOARST]"
-msgstr ""
+msgstr "[BOARST]"
 
 #: conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:35
 msgctxt "conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:35:DefaultText"
 msgid "[Load Double-C Batteries into the RAM Unit's Quadruple-Z Battery Charger]"
-msgstr ""
+msgstr "[Vložte baterie Double-C do nabíječky baterií Quadruple-Z jednotky RAM]"
 
 #: conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:36
 msgctxt "conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:36:DefaultText"
 msgid "<Shout numbers at the screen.>"
-msgstr ""
+msgstr "<Křičte čísla na obrazovku.>"
 
 #: conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:37
 msgctxt "conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:37:DefaultText"
@@ -162,7 +162,7 @@ msgid "LBR-NTH Automechanical Terminal\r\n"
 "Please enter the third password.\r\n"
 "\r\n"
 "Administrative bypasses remaining: 2"
-msgstr ""
+msgstr "LBR-NTH Automechanický terminál ============================ Heslo přijato. Zadejte třetí heslo. Zbývající administrativní bypassy: 2"
 
 #: conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:40
 msgctxt "conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:40:DefaultText"
@@ -173,12 +173,12 @@ msgid "LBR-NTH Automechanical Terminal\r\n"
 "Please enter the third password.\r\n"
 "\r\n"
 "Administrative bypasses remaining: 0"
-msgstr ""
+msgstr "LBR-NTH Automechanický terminál ============================ Administrační bypass přijat. Zadejte třetí heslo. Zbývající administrativní bypassy: 0"
 
 #: conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:42
 msgctxt "conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:42:DefaultText"
 msgid "[Bypass Second Password]"
-msgstr ""
+msgstr "[Obejít druhé heslo]"
 
 #: conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:43
 msgctxt "conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:43:DefaultText"
@@ -189,27 +189,27 @@ msgid "LBR-NTH Automechanical Terminal\r\n"
 "Please enter the third password.\r\n"
 "\r\n"
 "Administrative bypasses remaining: 1"
-msgstr ""
+msgstr "LBR-NTH Automechanický terminál ============================ Heslo přijato. Zadejte třetí heslo. Zbývající administrativní bypassy: 1"
 
 #: conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:44
 msgctxt "conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:44:DefaultText"
 msgid "[SMELLSLIKE]"
-msgstr ""
+msgstr "[SMELLSLIKE]"
 
 #: conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:45
 msgctxt "conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:45:DefaultText"
 msgid "[Flag the RAM Unit's Thrusters as Overloaded]"
-msgstr ""
+msgstr "[Označit trysky jednotky RAM jako přetížené]"
 
 #: conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:46
 msgctxt "conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:46:DefaultText"
 msgid "[Mash Random Keys]"
-msgstr ""
+msgstr "[Mash Random Keys]"
 
 #: conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:48
 msgctxt "conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:48:DefaultText"
 msgid "[Access RAM Override Menu]"
-msgstr ""
+msgstr "[Přístup do nabídky přepisu paměti RAM]"
 
 #: conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:49
 msgctxt "conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:49:DefaultText"
@@ -220,7 +220,7 @@ msgid "LBR-NTH Automechanical Terminal\r\n"
 "Please enter the second password.\r\n"
 "\r\n"
 "Administrative bypasses remaining: 2"
-msgstr ""
+msgstr "LBR-NTH Automechanická svorka ============================ Kritická porucha potvrzena. Částečné ověření je přijatelné. Zadejte prosím druhé heslo. Zbývající administrativní bypassy: 2"
 
 #: conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:50
 msgctxt "conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:50:DefaultText"
@@ -231,7 +231,7 @@ msgid "LBR-NTH Automechanical Terminal\r\n"
 "Please enter the third password.\r\n"
 "\r\n"
 "Administrative bypasses remaining: 1"
-msgstr ""
+msgstr "LBR-NTH Automechanická svorka ============================ Kritická porucha potvrzena. Částečné ověření je přijatelné. Zadejte třetí heslo. Zbývající administrativní bypassy: 1"
 
 #: conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:51
 msgctxt "conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:51:DefaultText"
@@ -242,7 +242,7 @@ msgid "LBR-NTH Automechanical Terminal\r\n"
 "Please enter the third password.\r\n"
 "\r\n"
 "Administrative bypasses remaining: 2"
-msgstr ""
+msgstr "LBR-NTH Automechanická svorka ============================ Kritická porucha potvrzena. Částečné ověření je přijatelné. Zadejte prosím třetí heslo. Zbývající administrativní bypassy: 2"
 
 #: conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:52
 msgctxt "conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:52:DefaultText"
@@ -251,7 +251,7 @@ msgid "LBR-NTH Automechanical Terminal\r\n"
 "Password accepted.\r\n"
 "\r\n"
 "RAM shutdown sequence initiated."
-msgstr ""
+msgstr "LBR-NTH Automechanický terminál ============================ Heslo přijato. Zahájena sekvence vypnutí paměti RAM."
 
 #: conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:53
 msgctxt "conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:53:DefaultText"
@@ -260,7 +260,7 @@ msgid "LBR-NTH Automechanical Terminal\r\n"
 "Administrative bypass accepted.\r\n"
 "\r\n"
 "RAM shutdown sequence initiated."
-msgstr ""
+msgstr "LBR-NTH Automechanická svorka ============================ Přijato administrativní obejití. Zahájena sekvence vypnutí paměti RAM."
 
 #: conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:54
 msgctxt "conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:54:DefaultText"
@@ -271,7 +271,7 @@ msgid "LBR-NTH Automechanical Terminal\r\n"
 "Please enter the third password.\r\n"
 "\r\n"
 "Administrative bypasses remaining:  1"
-msgstr ""
+msgstr "LBR-NTH Automechanický terminál ============================ Administrační bypass přijat. Zadejte třetí heslo. Zbývající administrativní bypassy: 1"
 
 #: conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:55
 msgctxt "conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:55:DefaultText"
@@ -280,7 +280,7 @@ msgid "LBR-NTH Automechanical Terminal\r\n"
 "Critical malfunction acknowledged. Partial authentication acceptable.\r\n"
 "\r\n"
 "RAM shutdown sequence initiated."
-msgstr ""
+msgstr "LBR-NTH Automechanická svorka ============================ Kritická porucha potvrzena. Částečné ověření přijatelné. Zahájena sekvence vypnutí paměti RAM."
 
 #: conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:56
 msgctxt "conversations/07_tartarus/0701/0701_cp_intake_robot_terminal:56:DefaultText"
@@ -289,4 +289,4 @@ msgid "LBR-NTH Automechanical Terminal\r\n"
 "WARNING: RAM core systems operating below maximum efficiency. Defensive and offensive capabilities weakened. \r\n"
 "\r\n"
 "In the event of a security breach, suppression protocols may be less precise than usual. Please prepare the janitorial automechanicals for a Level 5 Mopping Sweep."
-msgstr ""
+msgstr "LBR-NTH Automechanická svorkovnice ============================ VAROVÁNÍ: Systémy s jádrem RAM pracují pod maximální účinností. Obranné a útočné schopnosti oslabeny. V případě narušení bezpečnosti mohou být potlačovací protokoly méně přesné než obvykle. Připravte prosím úklidové automechanické systémy na zametání 5. úrovně."

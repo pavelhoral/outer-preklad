@@ -4,39 +4,40 @@ msgid "COMMUNICATIONS TERMINAL\r\n"
 "Phineas V. Welles\r\n"
 "\r\n"
 "===================="
-msgstr ""
+msgstr "KOMUNIKAČNÍ TERMINÁL Phineas V. Welles ===================="
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cp_phineas_communications_terminal:2
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cp_phineas_communications_terminal:2:DefaultText"
 msgid "[Messages]"
-msgstr ""
+msgstr "[Zprávy]"
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cp_phineas_communications_terminal:3
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cp_phineas_communications_terminal:3:DefaultText"
 msgid "[Send Tracking Signal]"
-msgstr ""
+msgstr "[Odeslat sledovací signál]"
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cp_phineas_communications_terminal:4
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cp_phineas_communications_terminal:4:DefaultText"
 msgid "[Send Corrupted Tracking Signal]"
-msgstr ""
+msgstr "[Odeslat poškozený sledovací signál]"
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cp_phineas_communications_terminal:5
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cp_phineas_communications_terminal:5:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cp_phineas_communications_terminal:6
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cp_phineas_communications_terminal:6:DefaultText"
 msgid "Messages\n"
 "======================\n"
 ""
-msgstr ""
+msgstr "Messages\n"
+"======================"
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cp_phineas_communications_terminal:9
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cp_phineas_communications_terminal:9:DefaultText"
 msgid "[Return to Root]"
-msgstr ""
+msgstr "[Zpět na kořen]"
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cp_phineas_communications_terminal:10
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cp_phineas_communications_terminal:10:DefaultText"
@@ -64,7 +65,7 @@ msgid "COMMUNICATIONS TERMINAL\r\n"
 "[Signal Status]: Weak\r\n"
 "\r\n"
 "Board surveillance protocol failed. Signal fidelity has been compromised. This terminal will attempt to establish a new connection once every cycle."
-msgstr ""
+msgstr "KOMUNIKAČNÍ TERMINÁL Phineas V. Welles ==================== [INSTALACE: Sledovací signál a relé] ... ... ... [...Spuštění kakofonického protokolu....] ... ... [Replikace umělého rušení] ... ... [Úprava poměru signál-šum] ... [Navázání spojení] ... [CHYBA] [Stav signálu]: Slabý protokol sledování desky selhal. Věrnost signálu byla narušena. Tento terminál se pokusí navázat nové spojení jednou za cyklus."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cp_phineas_communications_terminal:11
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cp_phineas_communications_terminal:11:DefaultText"
@@ -93,7 +94,7 @@ msgid "COMMUNICATIONS TERMINAL\r\n"
 "\r\n"
 "This communications terminal is now under Board surveillance.\r\n"
 ""
-msgstr ""
+msgstr "KOMUNIKAČNÍ TERMINÁL Phineas V. Welles ==================== [INSTALACE: Sledovací signál a relé] ... ... ... [...Maskovací signál...] ... ... [Navázání spojení] ... ... [Sledovací signál navázán] ... [Vypnutí obrany orbitální laboratoře] ... [ÚSPĚCH] [Stav signálu]: Silný Tento komunikační terminál je nyní pod dohledem Rady."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cp_phineas_communications_terminal:12
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cp_phineas_communications_terminal:12:DefaultText"
@@ -106,12 +107,12 @@ msgid "COMMUNICATIONS TERMINAL\n"
 "...\n"
 "...\n"
 "[PASSWORD REQUIRED]"
-msgstr ""
+msgstr "COMMUNICATIONS TERMINAL Phineas V. Welles [Přístup do fronty zpráv] ... ... ... ... [POŽADUJEME HESLO]"
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cp_phineas_communications_terminal:13
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cp_phineas_communications_terminal:13:DefaultText"
 msgid "[Bypass]"
-msgstr ""
+msgstr "[Bypass]"
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cp_phineas_communications_terminal:14
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cp_phineas_communications_terminal:14:DefaultText"
@@ -122,12 +123,12 @@ msgid "COMMUNICATIONS TERMINAL\r\n"
 "[PASSWORD ACCEPTED]\r\n"
 "\r\n"
 "WELCOME, PHINEAS WELLES."
-msgstr ""
+msgstr "KOMUNIKAČNÍ TERMINÁL Phineas V. Welles [HESLO]: swh181942 [HESLO PŘIJATO] VÍTEJTE, PHINEASI WELLESI."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cp_phineas_communications_terminal:15
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cp_phineas_communications_terminal:15:DefaultText"
 msgid "[TO: H. Blythe]"
-msgstr ""
+msgstr "[TO: H. Blythe]"
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cp_phineas_communications_terminal:16
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cp_phineas_communications_terminal:16:DefaultText"
@@ -153,4 +154,5 @@ msgid "SENDING... NO RESPONSE\n"
 "Let me know when you get this. Eager to be done.\n"
 "\n"
 "- P"
-msgstr ""
+msgstr "ODESLÁNÍ... ŽÁDNÁ ODPOVĚĎ ODESLÁNÍ... ŽÁDNÁ ODPOVĚĎ ODESLÁNÍ... BEZ ODEZVY ODESLÁNÍ... ŽÁDNÁ ODPOVĚĎ PŘÍČINA: NEDOPLNĚNÁ PŮVODNÍ ZPRÁVA PŘIPOJENA ---------------- Vyřešil jsem to. Podrobnosti vysvětlím později. Bude obtížné to reprodukovat. Potřebuji vaši pomoc. Všechny potřebné materiály by měly být v Halcyonu, ale místa mi unikají. \n"
+"Vyhodil jsem nového společníka dirtside Terra 2, poblíž Edgewateru. Mají podíl na mém záměru, ale důvěra v ně je v současné době jen asi 23,7 %. Obnovují loď, měla by být každou chvíli na cestě. Jen potřebuju vědět, kam je poslat. Dej mi vědět, až to dostaneš. Už se nemůžu dočkat, až to bude hotové. - P"

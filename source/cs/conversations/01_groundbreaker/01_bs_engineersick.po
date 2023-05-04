@@ -1,19 +1,19 @@
 #: conversations/01_groundbreaker/01_bs_engineersick:3
 msgctxt "conversations/01_groundbreaker/01_bs_engineersick:3:DefaultText"
 msgid "I'm not feeling so hot."
-msgstr ""
+msgstr "Necítím se zrovna nejlépe."
 
 #: conversations/01_groundbreaker/01_bs_engineersick:5
 msgctxt "conversations/01_groundbreaker/01_bs_engineersick:5:DefaultText"
 msgid "That last Zero Gee was a mistake."
-msgstr ""
+msgstr "Poslední Zero Gee byla chyba."
 
 #: conversations/01_groundbreaker/01_bs_engineersick:6
 msgctxt "conversations/01_groundbreaker/01_bs_engineersick:6:DefaultText"
 msgid "Hurk!"
-msgstr ""
+msgstr "Hurk!"
 
 #: conversations/01_groundbreaker/01_bs_engineersick:8
 msgctxt "conversations/01_groundbreaker/01_bs_engineersick:8:DefaultText"
 msgid "I'll be just... just a moment..."
-msgstr ""
+msgstr "Hned... hned to bude..."

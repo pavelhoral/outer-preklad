@@ -6,22 +6,22 @@ msgid "Lab 1084: Executive Records - CLASSIFIED\r\n"
 "Personal Terminal: Chartrand, E.\r\n"
 "\r\n"
 "It has been 1,217 days since last login."
-msgstr ""
+msgstr "Laboratoř 1084: Záznamy pro vedoucí pracovníky - CLASSIFIED ============================ Osobní terminál: Od posledního přihlášení uplynulo 1217 dní."
 
 #: conversations/10_scylla/1002_ice_palace/1002_cp_chartrand_terminal:4
 msgctxt "conversations/10_scylla/1002_ice_palace/1002_cp_chartrand_terminal:4:DefaultText"
 msgid "[Project Summary]"
-msgstr ""
+msgstr "[Shrnutí projektu]"
 
 #: conversations/10_scylla/1002_ice_palace/1002_cp_chartrand_terminal:6
 msgctxt "conversations/10_scylla/1002_ice_palace/1002_cp_chartrand_terminal:6:DefaultText"
 msgid "[Logs]"
-msgstr ""
+msgstr "[Deníky]"
 
 #: conversations/10_scylla/1002_ice_palace/1002_cp_chartrand_terminal:8
 msgctxt "conversations/10_scylla/1002_ice_palace/1002_cp_chartrand_terminal:8:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"
 
 #: conversations/10_scylla/1002_ice_palace/1002_cp_chartrand_terminal:10
 msgctxt "conversations/10_scylla/1002_ice_palace/1002_cp_chartrand_terminal:10:DefaultText"
@@ -37,7 +37,7 @@ msgid "Lab 1084: Executive Records - CLASSIFIED\r\n"
 "Inactive Team Members: Guthrie, J., McNulty, C., Pearsall, C. Ryall, T.\r\n"
 "\r\n"
 "Goal: Further the Chimeric Sciences via the targeted modification of human nuclein using strands obtained from Halcyon native fauna (classification c.rap.t1002, aka \"raptidon\")."
-msgstr ""
+msgstr "Laboratoř 1084: Záznamy pro vedoucí pracovníky - CLASSIFIED ============================ Skupina zaměřená na výzkum vedoucích pracovníků E177-J48 Cíl: Strategie biologické hybridizace a asimilace Aktivní členové týmu: Neaktivní členové týmu: Chartrand, E., Fahl, L: Guthrie, J., McNulty, C., Pearsall, C. Ryall, T. Cíl: Další rozvoj chimérických věd prostřednictvím cílené modifikace lidského nukleinu pomocí vláken získaných z původní fauny Halcyon (klasifikace c.rap.t1002, alias \"raptidon\")."
 
 #: conversations/10_scylla/1002_ice_palace/1002_cp_chartrand_terminal:12
 msgctxt "conversations/10_scylla/1002_ice_palace/1002_cp_chartrand_terminal:12:DefaultText"
@@ -45,27 +45,27 @@ msgid "Lab 1084: Executive Records - CLASSIFIED\r\n"
 "============================\r\n"
 "\r\n"
 "Three Priority entries found from user Chartrand, E."
-msgstr ""
+msgstr "Lab 1084: Executive Records - CLASSIFIED ============================ Nalezeny tři prioritní záznamy od uživatele Chartrand, E."
 
 #: conversations/10_scylla/1002_ice_palace/1002_cp_chartrand_terminal:13
 msgctxt "conversations/10_scylla/1002_ice_palace/1002_cp_chartrand_terminal:13:DefaultText"
 msgid "[Charlie]"
-msgstr ""
+msgstr "[Charlie]"
 
 #: conversations/10_scylla/1002_ice_palace/1002_cp_chartrand_terminal:14
 msgctxt "conversations/10_scylla/1002_ice_palace/1002_cp_chartrand_terminal:14:DefaultText"
 msgid "[Claire]"
-msgstr ""
+msgstr "[Claire]"
 
 #: conversations/10_scylla/1002_ice_palace/1002_cp_chartrand_terminal:15
 msgctxt "conversations/10_scylla/1002_ice_palace/1002_cp_chartrand_terminal:15:DefaultText"
 msgid "[James]"
-msgstr ""
+msgstr "[James]"
 
 #: conversations/10_scylla/1002_ice_palace/1002_cp_chartrand_terminal:16
 msgctxt "conversations/10_scylla/1002_ice_palace/1002_cp_chartrand_terminal:16:DefaultText"
 msgid "[Return to Root]"
-msgstr ""
+msgstr "[Zpět na kořen]"
 
 #: conversations/10_scylla/1002_ice_palace/1002_cp_chartrand_terminal:17
 msgctxt "conversations/10_scylla/1002_ice_palace/1002_cp_chartrand_terminal:17:DefaultText"
@@ -81,7 +81,7 @@ msgid "Lab 1084: Executive Records - CLASSIFIED\r\n"
 "Every time Lore walked by me, she rubbed my shoulders and asked me to take a different reading. They didn't need to be taken. It was just to keep my mind occupied.\r\n"
 "\r\n"
 "She's been checking on me every hour since."
-msgstr ""
+msgstr "Laboratoř 1084: Výkonné záznamy - CLASSIFIED ============================ Málem jsme přišli o Charlieho. Byl to útěk při resekvenování. Jakmile jednou začala, pokračovala dál a rozšířila se mimo izolovanou tkáň až k plnohodnotné systémové infiltraci. Říkal, že ho svědí všechny orgány. Řekl jsem mu, že ho budeme ledovat. Zmrazit ho, dokud nepřijdeme na to, jak zvrátit to, co se pokazilo. Pokaždé, když kolem mě Lore prošla, pohladila mě po ramenou a požádala mě, abych provedl jiné měření. Nebylo třeba je měřit. Bylo to jen proto, aby mě zaměstnala. Od té doby mě kontrolovala každou hodinu."
 
 #: conversations/10_scylla/1002_ice_palace/1002_cp_chartrand_terminal:18
 msgctxt "conversations/10_scylla/1002_ice_palace/1002_cp_chartrand_terminal:18:DefaultText"
@@ -95,7 +95,7 @@ msgid "Lab 1084: Executive Records - CLASSIFIED\r\n"
 "Tomorrow I'm reaching out to my handler directly. I need some answers.\r\n"
 "\r\n"
 "I wonder how Guthrie's doing. I hear symphony music from under his door."
-msgstr ""
+msgstr "Laboratoř 1084: Výkonné záznamy - CLASSIFIED ============================ Dnes jsme museli dát Claire k ledu. Ona a ostatní si vylosovali slámky. Claire prohrála, změna byla tentokrát pomalejší. Zpočátku zůstávala resekvence v normálních parametrech. Ale pak se to zase rozšířilo, stejně jako u Charlieho. Zítra se obrátím přímo na svého průvodce. Potřebuju nějaké odpovědi, zajímá mě, jak se daří Guthrie. Zpod jeho dveří slyším symfonickou hudbu."
 
 #: conversations/10_scylla/1002_ice_palace/1002_cp_chartrand_terminal:19
 msgctxt "conversations/10_scylla/1002_ice_palace/1002_cp_chartrand_terminal:19:DefaultText"
@@ -111,12 +111,12 @@ msgid "Lab 1084: Executive Records - CLASSIFIED\r\n"
 "Eva hasn't forgiven herself for the losses. Maybe some time away from HRS-1084 will clear her mind. The Board confirmed receipt of my report and transmitted our recall notice. We're just awaiting transport.\r\n"
 "\r\n"
 "I wish we could take some time away from the project to clear our heads, but we're not even close to that point."
-msgstr ""
+msgstr "Laboratoř 1084: Výkonné záznamy - CLASSIFIED ============================ Tento záznam zadává Dr. Fahl. Musel jsem doktoru Chartrandovi předepsat dostatek sedativ, aby vyřadil primáře. Včera ráno jsme si s doktorem Guthriem losovali, kdo z nás bude dalším testovaným subjektem. On si vytáhl tu kratší. Žádný nový vývoj. Po všech našich obětech mám pořád pocit, že jsme na míle daleko od průlomu. Eva si neodpustila ztráty. Možná jí nějaký čas mimo HRS-1084 pročistí mysl. Rada potvrdila přijetí mé zprávy a předala nám oznámení o odvolání. Právě čekáme na transport. Přála bych si, abychom si mohli od projektu na nějaký čas odpočinout a vyčistit si hlavu, ale k tomu se ještě ani nepřiblížíme."
 
 #: conversations/10_scylla/1002_ice_palace/1002_cp_chartrand_terminal:20
 msgctxt "conversations/10_scylla/1002_ice_palace/1002_cp_chartrand_terminal:20:DefaultText"
 msgid "[Access Outbound Comm Transcript]"
-msgstr ""
+msgstr "[Access Outbound Comm Transcript]"
 
 #: conversations/10_scylla/1002_ice_palace/1002_cp_chartrand_terminal:21
 msgctxt "conversations/10_scylla/1002_ice_palace/1002_cp_chartrand_terminal:21:DefaultText"
@@ -154,12 +154,22 @@ msgid "Lab 1084: Executive Records - CLASSIFIED\r\n"
 "TRANSMISSION ENDS\n"
 "\n"
 "EXECUTIVE OVERRIDE FOR USER CHARTRAND, E. DISCONTINUED. DURATION: INDEFINITE."
-msgstr ""
+msgstr "Laboratoř 1084: Výkonné záznamy - CLASSIFIED ============================ TRANSMISSION BEGINS CHARTRAND, E: Poslouchá někdo na této frekvenci? \n"
+"\n"
+"REDAKCE: Kdo je to? \n"
+"\n"
+"CHARTRAND, E: Jsem vedoucí projektu Ten Eighty-Four. Chtěl jsem... REDAKCE: Stanice Deset osmdesát čtyři, máte rozkaz udržovat bezdrátové ticho, dokud nebude dosaženo konečného stavu mise. \n"
+"\n"
+"CHARTRAND, E: Výkonné povolení, heslo ANTEDILUVIAN. \n"
+"\n"
+"REDAKCE: [Co pro vás mohu udělat, doktore? \n"
+"\n"
+"CHARTRAND, E: Rada mi řekla, že mi doručí dotazy ohledně našeho problému s přepisem na Cornelius Vanderbilt. Jak jsme na tom s tím? REDAKCE: CHARTRAND, E: Útočný křižník by už měl dorazit na Zemi. Můj dotaz byl adresován oddělení chimérického výzkumu v Institutu George de Hevesyho v Budapešti. REDAKCE: CHARTRAND, E: \"Kdy\"? Nejste v kontaktu s útočným křižníkem? Co se tam stalo? REDAKCE: Stanice Deset osmdesát čtyři, zneužití tohoto kanálu je trestné. Stejně jako zneužití vašeho výkonného oprávnění, s výjimkou naléhavých případů. CHARTRAND, E: Sakra, tohle je emer- TRANSMISSION ENDS EXECUTIVE OVERRIDE FOR USER CHARTRAND, E. DISCONTINUED. DOBA TRVÁNÍ: NEURČITÁ."
 
 #: conversations/10_scylla/1002_ice_palace/1002_cp_chartrand_terminal:22
 msgctxt "conversations/10_scylla/1002_ice_palace/1002_cp_chartrand_terminal:22:DefaultText"
 msgid "[Modify Systems Access Protocols]"
-msgstr ""
+msgstr "[Úprava protokolů pro přístup k systémům]"
 
 #: conversations/10_scylla/1002_ice_palace/1002_cp_chartrand_terminal:23
 msgctxt "conversations/10_scylla/1002_ice_palace/1002_cp_chartrand_terminal:23:DefaultText"
@@ -170,12 +180,12 @@ msgid "Lab 1084: Executive Records - CLASSIFIED\r\n"
 "\r\n"
 "Admin Location: BYZANTIUM\r\n"
 "Admin Username: HHC_VP_0257"
-msgstr ""
+msgstr "Laboratoř 1084: Výkonné záznamy - CLASSIFIED ============================ Přístupové protokoly k systémům Admin Umístění: Uživatelské jméno správce: HHC_VP_0257"
 
 #: conversations/10_scylla/1002_ice_palace/1002_cp_chartrand_terminal:24
 msgctxt "conversations/10_scylla/1002_ice_palace/1002_cp_chartrand_terminal:24:DefaultText"
 msgid "[Insert SubLight Override Cartridge]"
-msgstr ""
+msgstr "[Vložte kazetu s potlačením podsvícení]"
 
 #: conversations/10_scylla/1002_ice_palace/1002_cp_chartrand_terminal:25
 msgctxt "conversations/10_scylla/1002_ice_palace/1002_cp_chartrand_terminal:25:DefaultText"
@@ -192,12 +202,12 @@ msgid "Lab 1084: Executive Records - CLASSIFIED\r\n"
 "\r\n"
 "Admin Location: GROUNDBREAKER\r\n"
 "Admin Username: SL_BOSS_A51"
-msgstr ""
+msgstr "Lab 1084: Executive Records - CLASSIFIED ============================ Přístupové protokoly k systémům ... ... ... Převod administrátorských oprávnění úspěšně dokončen. Admin Location: Uživatelské jméno administrátora: SL_BOSS_A51"
 
 #: conversations/10_scylla/1002_ice_palace/1002_cp_chartrand_terminal:26
 msgctxt "conversations/10_scylla/1002_ice_palace/1002_cp_chartrand_terminal:26:DefaultText"
 msgid "[Continue]"
-msgstr ""
+msgstr "[Pokračovat]"
 
 #: conversations/10_scylla/1002_ice_palace/1002_cp_chartrand_terminal:27
 msgctxt "conversations/10_scylla/1002_ice_palace/1002_cp_chartrand_terminal:27:DefaultText"
@@ -211,12 +221,16 @@ msgid "Lab 1084: Executive Records - CLASSIFIED\r\n"
 "Good work, contractor. Report back to SubLight HQ to collect your cut. \n"
 "\n"
 "~Lilya Hagen, Executive Director of Aggressive Acquisitions"
-msgstr ""
+msgstr "Laboratoř 1084: Výkonné záznamy - CLASSIFIED ============================ Přístup k přepisovaným údajům. Zobrazení automatického potvrzení: Pokud toto čtete, stojíte v právním vlastnictví společnosti SubLight Salvage & Shipping. \n"
+"\n"
+"Dobrá práce, dodavateli. Hlaste se v centrále společnosti SubLight, abyste si vyzvedli svůj podíl. \n"
+"\n"
+"~Lilya Hagen, výkonná ředitelka oddělení agresivních akvizic."
 
 #: conversations/10_scylla/1002_ice_palace/1002_cp_chartrand_terminal:28
 msgctxt "conversations/10_scylla/1002_ice_palace/1002_cp_chartrand_terminal:28:DefaultText"
 msgid "[Messages]"
-msgstr ""
+msgstr "[Zprávy]"
 
 #: conversations/10_scylla/1002_ice_palace/1002_cp_chartrand_terminal:29
 msgctxt "conversations/10_scylla/1002_ice_palace/1002_cp_chartrand_terminal:29:DefaultText"
@@ -224,12 +238,12 @@ msgid "Lab 1084: Executive Records - CLASSIFIED\r\n"
 "============================\r\n"
 "\r\n"
 "Messages"
-msgstr ""
+msgstr "Laboratoř 1084: Záznamy výkonných pracovníků - CLASSIFIED ============================ Zprávy"
 
 #: conversations/10_scylla/1002_ice_palace/1002_cp_chartrand_terminal:32
 msgctxt "conversations/10_scylla/1002_ice_palace/1002_cp_chartrand_terminal:32:DefaultText"
 msgid "[FROM: REDACTED, SUBJECT: Station morale]"
-msgstr ""
+msgstr "[OD: REDACTED, PŘEDMĚT: Morálka stanice]"
 
 #: conversations/10_scylla/1002_ice_palace/1002_cp_chartrand_terminal:33
 msgctxt "conversations/10_scylla/1002_ice_palace/1002_cp_chartrand_terminal:33:DefaultText"
@@ -247,7 +261,7 @@ msgid "Lab 1084: Executive Records - CLASSIFIED\r\n"
 "To our security personnel. There will be no early dismissal. You will also notice that your employment contract has no set end date. \r\n"
 "\r\n"
 "We can enjoy a discussion of morale and its impact on success metrics once the question of humanity's place in the Halcyon colony is answered. In the meantime, get back to work."
-msgstr ""
+msgstr "Laboratoř 1084: Záznamy výkonných pracovníků - CLASSIFIED ============================ OD: REDACTED TO: LAB1084 SUBJECT: ZPRACOVÁNÍ PŘEDPISŮ Dozvěděl jsem se, že mezi výzkumným personálem HRS-1084 a bezpečnostním personálem panuje nedůvěra. Mnozí z vás podali žádost o předčasné propuštění. Výzkumnému personálu. Důležitost vaší práce je důležitější než jakýkoli mezilidský konflikt. Našim bezpečnostním pracovníkům. Žádné předčasné propuštění nebude. Všimněte si také, že vaše pracovní smlouva nemá stanovené datum ukončení. Jakmile bude zodpovězena otázka místa lidstva v kolonii Halcyon, můžeme se těšit na diskusi o morálce a jejím vlivu na ukazatele úspěšnosti. Do té doby se vraťte do práce."
 
 #: conversations/10_scylla/1002_ice_palace/1002_cp_chartrand_terminal:35
 msgctxt "conversations/10_scylla/1002_ice_palace/1002_cp_chartrand_terminal:35:DefaultText"
@@ -258,12 +272,12 @@ msgid "Lab 1084: Executive Records - CLASSIFIED\r\n"
 "ERROR: Terminal power below 5%. Terminal in maintenance mode.\r\n"
 "\r\n"
 "Restore power supply to station to resume normal terminal operations."
-msgstr ""
+msgstr "Lab 1084: Executive Records - CLASSIFIED ============================ ERROR: Unable to access memory cartridge. ERROR: Terminal power below 5%. Terminál je v režimu údržby. Obnovte napájení stanice, abyste obnovili normální provoz terminálu."
 
 #: conversations/10_scylla/1002_ice_palace/1002_cp_chartrand_terminal:36
 msgctxt "conversations/10_scylla/1002_ice_palace/1002_cp_chartrand_terminal:36:DefaultText"
 msgid "[Unlock Personal Quarters]"
-msgstr ""
+msgstr "[Odemknout osobní prostory]"
 
 #: conversations/10_scylla/1002_ice_palace/1002_cp_chartrand_terminal:37
 msgctxt "conversations/10_scylla/1002_ice_palace/1002_cp_chartrand_terminal:37:DefaultText"
@@ -273,12 +287,12 @@ msgid "Lab 1084: Executive Records - CLASSIFIED\r\n"
 "Unlocking personal quarters...\r\n"
 "\r\n"
 "Door successfully unlocked."
-msgstr ""
+msgstr "Laboratoř 1084: Záznamy výkonného ředitele - CLASSIFIED ============================ Odemykání osobních prostor... Dveře úspěšně odemčeny."
 
 #: conversations/10_scylla/1002_ice_palace/1002_cp_chartrand_terminal:38
 msgctxt "conversations/10_scylla/1002_ice_palace/1002_cp_chartrand_terminal:38:DefaultText"
 msgid "[Security Routines]"
-msgstr ""
+msgstr "[Bezpečnostní rutiny]"
 
 #: conversations/10_scylla/1002_ice_palace/1002_cp_chartrand_terminal:39
 msgctxt "conversations/10_scylla/1002_ice_palace/1002_cp_chartrand_terminal:39:DefaultText"
@@ -286,4 +300,4 @@ msgid "Lab 1084: Executive Records - CLASSIFIED\r\n"
 "============================\r\n"
 "\r\n"
 "Security Routines:"
-msgstr ""
+msgstr "Laboratoř 1084: Záznamy výkonných pracovníků - CLASSIFIED ============================ Bezpečnostní rutiny:"

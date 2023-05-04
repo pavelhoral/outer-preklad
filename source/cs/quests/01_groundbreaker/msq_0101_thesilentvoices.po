@@ -1,61 +1,61 @@
 #: quests/01_groundbreaker/msq_0101_thesilentvoices:0
 msgctxt "quests/01_groundbreaker/msq_0101_thesilentvoices:0:DefaultText"
 msgid "The Silent Voices"
-msgstr ""
+msgstr "Tiché hlasy"
 
 #: quests/01_groundbreaker/msq_0101_thesilentvoices:1
 msgctxt "quests/01_groundbreaker/msq_0101_thesilentvoices:1:DefaultText"
 msgid "Travel to Relay GB-23"
-msgstr ""
+msgstr "Cesta do štafety GB-23"
 
 #: quests/01_groundbreaker/msq_0101_thesilentvoices:2
 msgctxt "quests/01_groundbreaker/msq_0101_thesilentvoices:2:DefaultText"
 msgid "Reactivate the Relay Transmitter"
-msgstr ""
+msgstr "Opětovná aktivace reléového vysílače"
 
 #: quests/01_groundbreaker/msq_0101_thesilentvoices:6
 msgctxt "quests/01_groundbreaker/msq_0101_thesilentvoices:6:DefaultText"
 msgid "Return the Data Backup to Edna Ingmire on the Groundbreaker"
-msgstr ""
+msgstr "Vraťte zálohu dat Edně Ingmireové na palubě Groundbreakeru"
 
 #: quests/01_groundbreaker/msq_0101_thesilentvoices:10000
 msgctxt "quests/01_groundbreaker/msq_0101_thesilentvoices:10000:DefaultText"
 msgid "The Groundbreaker's primary communications relay station is about to be occluded by one of Halcyon's gas giants for the next few months. To avoid being entirely cut off, they need the old backup relay station operational again. Edna Ingmire in communications hired you to travel to Relay GB-23 and bring the station online."
-msgstr ""
+msgstr "Primární komunikační retranslační stanice Groundbreakeru bude na několik příštích měsíců zakryta jedním z halcyonských plynných obrů. Aby se vyhnuli úplnému odříznutí, potřebují znovu zprovoznit starou záložní reléovou stanici. Edna Ingmireová z komunikačního oddělení tě najala, abys odcestoval na relé GB-23 a stanici zprovoznil."
 
 #: quests/01_groundbreaker/msq_0101_thesilentvoices:10001
 msgctxt "quests/01_groundbreaker/msq_0101_thesilentvoices:10001:DefaultText"
 msgid "The Groundbreaker's backup communications relay went offline a while ago. Now that the station's primary relay is going to be occluded, this backup relay must be repaired."
-msgstr ""
+msgstr "Záložní komunikační relé Groundbreakeru před chvílí vypovědělo službu. Nyní, když bude primární relé stanice vyřazeno z provozu, je třeba toto záložní relé opravit."
 
 #: quests/01_groundbreaker/msq_0101_thesilentvoices:10002
 msgctxt "quests/01_groundbreaker/msq_0101_thesilentvoices:10002:DefaultText"
 msgid "The terminal to activate the relay is located inside the central control room of the relay station.\r\n"
 "\r\n"
 "Each relay transmitter maintains a backup of messages it has received but not yet transmitted. Since the relay has been off-line for some time, the log of backup messages should be quite substantial."
-msgstr ""
+msgstr "Terminál pro aktivaci relé je umístěn v centrální řídicí místnosti reléové stanice. Každý reléový vysílač si uchovává zálohu zpráv, které přijal, ale ještě nevysílal. Vzhledem k tomu, že relé bylo po určitou dobu mimo provoz, měl by být protokol záložních zpráv poměrně rozsáhlý."
 
 #: quests/01_groundbreaker/msq_0101_thesilentvoices:10006
 msgctxt "quests/01_groundbreaker/msq_0101_thesilentvoices:10006:DefaultText"
 msgid "Edna is in the Communications Control room in Engineering."
-msgstr ""
+msgstr "Edna je v řídicí místnosti komunikací ve strojovně."
 
 #: quests/01_groundbreaker/msq_0101_thesilentvoices:20000
 msgctxt "quests/01_groundbreaker/msq_0101_thesilentvoices:20000:DefaultText"
 msgid "It appears that someone has been living in the relay station, and automechanical defenses are active."
-msgstr ""
+msgstr "Zdá se, že v reléové stanici někdo žije a automechanická obrana je aktivní."
 
 #: quests/01_groundbreaker/msq_0101_thesilentvoices:30000
 msgctxt "quests/01_groundbreaker/msq_0101_thesilentvoices:30000:DefaultText"
 msgid "With Edna dead, no one remains on the Groundbreaker to pay you for your services."
-msgstr ""
+msgstr "Po smrti Edny nezůstal na Groundbreakeru nikdo, kdo by vám za vaše služby zaplatil."
 
 #: quests/01_groundbreaker/msq_0101_thesilentvoices:30001
 msgctxt "quests/01_groundbreaker/msq_0101_thesilentvoices:30001:DefaultText"
 msgid "You reactivated the transmitter and recovered the backup communications data. Groundbreaker will avoid a crippling communications blackout."
-msgstr ""
+msgstr "Znovu jste aktivovali vysílač a obnovili záložní komunikační data. Groundbreaker se vyhne ochromujícímu výpadku komunikace."
 
 #: quests/01_groundbreaker/msq_0101_thesilentvoices:30005
 msgctxt "quests/01_groundbreaker/msq_0101_thesilentvoices:30005:DefaultText"
 msgid "The Groundbreaker has become hostile towards you, making it impossible to complete this quest."
-msgstr ""
+msgstr "Groundbreaker se vůči vám stal nepřátelským, což znemožňuje dokončení tohoto úkolu."

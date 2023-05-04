@@ -4,22 +4,22 @@ msgid "Docking Bay Arrivals Terminal\r\n"
 "========================\r\n"
 "\r\n"
 "Main menu"
-msgstr ""
+msgstr "Přístaviště Příjezdový terminál ======================== Hlavní menu"
 
 #: conversations/01_groundbreaker/01_cp_docking_customs_arrival_terminal:2
 msgctxt "conversations/01_groundbreaker/01_cp_docking_customs_arrival_terminal:2:DefaultText"
 msgid "[Records]"
-msgstr ""
+msgstr "[Záznamy]"
 
 #: conversations/01_groundbreaker/01_cp_docking_customs_arrival_terminal:3
 msgctxt "conversations/01_groundbreaker/01_cp_docking_customs_arrival_terminal:3:DefaultText"
 msgid "[Messages]"
-msgstr ""
+msgstr "[Zprávy]"
 
 #: conversations/01_groundbreaker/01_cp_docking_customs_arrival_terminal:4
 msgctxt "conversations/01_groundbreaker/01_cp_docking_customs_arrival_terminal:4:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"
 
 #: conversations/01_groundbreaker/01_cp_docking_customs_arrival_terminal:5
 msgctxt "conversations/01_groundbreaker/01_cp_docking_customs_arrival_terminal:5:DefaultText"
@@ -27,22 +27,22 @@ msgid "Docking Bay Arrivals Terminal\r\n"
 "========================\r\n"
 "\r\n"
 "Records menu"
-msgstr ""
+msgstr "Dokovací zátoka Terminál příjezdů ======================== Nabídka Záznamy"
 
 #: conversations/01_groundbreaker/01_cp_docking_customs_arrival_terminal:6
 msgctxt "conversations/01_groundbreaker/01_cp_docking_customs_arrival_terminal:6:DefaultText"
 msgid "[Arrivals]"
-msgstr ""
+msgstr "[Příjezdy]"
 
 #: conversations/01_groundbreaker/01_cp_docking_customs_arrival_terminal:7
 msgctxt "conversations/01_groundbreaker/01_cp_docking_customs_arrival_terminal:7:DefaultText"
 msgid "[Departures]"
-msgstr ""
+msgstr "[Odjezdy]"
 
 #: conversations/01_groundbreaker/01_cp_docking_customs_arrival_terminal:8
 msgctxt "conversations/01_groundbreaker/01_cp_docking_customs_arrival_terminal:8:DefaultText"
 msgid "[Return to Root]"
-msgstr ""
+msgstr "[Zpět na kořen]"
 
 #: conversations/01_groundbreaker/01_cp_docking_customs_arrival_terminal:9
 msgctxt "conversations/01_groundbreaker/01_cp_docking_customs_arrival_terminal:9:DefaultText"
@@ -58,7 +58,7 @@ msgid "Docking Bay Arrivals Terminal\r\n"
 "-Freelancer, definitely SubLight (dues waived).\r\n"
 "\r\n"
 "-Unreliable, business unknown (Impounded. Hawthorne's ship, but no Hawthorne. Wonder what happened there)."
-msgstr ""
+msgstr "Přístavní terminál v přístavní zátoce ======================== -Cleo nákladní loď, převáží tabák (poplatky zaplaceny). -Rizzo nákladní loď, převáží vše Purpleberry (poplatky zaplaceny).-Nákladní loď, možná SubLight (poplatky zaplaceny). -Nákladní loď, určitě SubLight (poplatky prominuty). -Nespolehlivý, obchod neznámý (zabaven. Hawthornova loď, ale žádný Hawthorne. Zajímalo by mě, co se tam stalo)."
 
 #: conversations/01_groundbreaker/01_cp_docking_customs_arrival_terminal:10
 msgctxt "conversations/01_groundbreaker/01_cp_docking_customs_arrival_terminal:10:DefaultText"
@@ -70,7 +70,7 @@ msgid "Docking Bay Arrivals Terminal\r\n"
 "-Freelancer, none (deadbeat at the Rest–N–Go insisted once again that he's part of the crew, but they acted like they didn't know him).\r\n"
 "\r\n"
 "-Spacer's Choice freighter, delivered Callahan's new mask."
-msgstr ""
+msgstr "Přístavní terminál ======================== -Freelancer, SubLight. -Freelancer, žádný (mrtvý muž v Rest-N-Go opět trval na tom, že je členem posádky, ale dělali, jako by ho neznali). -Nákladní loď Spacer's Choice, doručila Callahanovu novou masku."
 
 #: conversations/01_groundbreaker/01_cp_docking_customs_arrival_terminal:11
 msgctxt "conversations/01_groundbreaker/01_cp_docking_customs_arrival_terminal:11:DefaultText"
@@ -78,17 +78,17 @@ msgid "Docking Bay Arrivals Terminal\r\n"
 "========================\r\n"
 "\r\n"
 "Messages menu"
-msgstr ""
+msgstr "Terminál přístaviště příjezdů ======================== Zprávy v menu"
 
 #: conversations/01_groundbreaker/01_cp_docking_customs_arrival_terminal:12
 msgctxt "conversations/01_groundbreaker/01_cp_docking_customs_arrival_terminal:12:DefaultText"
 msgid "[FROM: GB_Security, SUBJECT: These conditions...]"
-msgstr ""
+msgstr "[FROM: GB_Security, SUBJECT: Tyto podmínky...]"
 
 #: conversations/01_groundbreaker/01_cp_docking_customs_arrival_terminal:13
 msgctxt "conversations/01_groundbreaker/01_cp_docking_customs_arrival_terminal:13:DefaultText"
 msgid "[FROM: GB_Security, SUBJECT: Harassment]"
-msgstr ""
+msgstr "[FROM: GB_Security, SUBJECT: Harassment]"
 
 #: conversations/01_groundbreaker/01_cp_docking_customs_arrival_terminal:14
 msgctxt "conversations/01_groundbreaker/01_cp_docking_customs_arrival_terminal:14:DefaultText"
@@ -112,7 +112,7 @@ msgid "Docking Bay Arrivals Terminal\r\n"
 "You signed a Social Contract when you gave me clearance to land. I ask for what is mine by right - room to breathe, a heated berth so I can walk around barefoot, and service with a smile. You've given me one out of three.\r\n"
 "\r\n"
 "I'll give you until I hit \"Send\" to rectify this error. "
-msgstr ""
+msgstr "Přístavní terminál ======================== TO: Dissatisfied_User70 FROM: GB_Security PŘEDMĚT: Re: Re: To je vtip, ne? Přeposílám to po stanici a nikdo si nemyslí, že jsi skutečný. A jestli jsi, tak vítej na Groundbreakeru, kreténe. TO: GB_Security FROM: Dissatisfied_User70 PŘEDMĚT: ...nejsou vhodné pro cystypigy. Vážně čekáš, že budu sdílet lůžko s nějakým junkrem, který řídí nějaký freelancer? Jsem člověk z firmy a požaduji firemní ubytování!!! Tetička Cleo by ti dala takový uhrančivý pohled, kdyby viděla, jak se chováš k jejímu dvojnásobnému zaměstnanci měsíce (ano, to jsem já). Podepsal jsi společenskou smlouvu, když jsi mi dal povolení k přistání. Žádám o to, co mi právem náleží - místo k dýchání, vyhřívané lůžko, abych mohl chodit bosý, a obsluhu s úsměvem. Dali jste mi jednu ze tří. Dávám vám čas, než stisknu tlačítko \"Odeslat\", abyste tuto chybu napravili. "
 
 #: conversations/01_groundbreaker/01_cp_docking_customs_arrival_terminal:15
 msgctxt "conversations/01_groundbreaker/01_cp_docking_customs_arrival_terminal:15:DefaultText"
@@ -130,4 +130,4 @@ msgid "Docking Bay Arrivals Terminal\r\n"
 "SUBJECT: Harassment\r\n"
 "\r\n"
 "Hey, I landed like fifteen minutes ago and this crazy guy with no shoes on has been throwing shit at my rig. Like actual shit. Can I open fire or what?"
-msgstr ""
+msgstr "Přístavní terminál ======================== OD: GB_Security TO: Wild_Cat PŘEDMĚT: Re: Re: Neobtěžujte. Jsme na cestě. OD: Wild_Cat TO: Přistál jsem asi před patnácti minutami a tenhle blázen bez bot mi hází hovna na plošinu. Jako opravdové hovno. Můžu začít střílet nebo co?"

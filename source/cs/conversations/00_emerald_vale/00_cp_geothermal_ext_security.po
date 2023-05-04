@@ -8,27 +8,27 @@ msgid "Emerald Vale Geothermal Plant\r\n"
 "Power Plant Security Terminal\r\n"
 "\r\n"
 "Please select a command:"
-msgstr ""
+msgstr "Emerald Vale Geothermal Plant A Spacer's Choice Property ======================== Power Plant Security Terminal Vyberte příkaz:"
 
 #: conversations/00_emerald_vale/00_cp_geothermal_ext_security:2
 msgctxt "conversations/00_emerald_vale/00_cp_geothermal_ext_security:2:DefaultText"
 msgid "[Disarm Security Fences]"
-msgstr ""
+msgstr "[Deaktivovat bezpečnostní ploty]"
 
 #: conversations/00_emerald_vale/00_cp_geothermal_ext_security:3
 msgctxt "conversations/00_emerald_vale/00_cp_geothermal_ext_security:3:DefaultText"
 msgid "[Arm Security Fences]"
-msgstr ""
+msgstr "[Bezpečnostní ploty]"
 
 #: conversations/00_emerald_vale/00_cp_geothermal_ext_security:4
 msgctxt "conversations/00_emerald_vale/00_cp_geothermal_ext_security:4:DefaultText"
 msgid "[View Recent Logs]"
-msgstr ""
+msgstr "[Zobrazit poslední protokoly]"
 
 #: conversations/00_emerald_vale/00_cp_geothermal_ext_security:5
 msgctxt "conversations/00_emerald_vale/00_cp_geothermal_ext_security:5:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"
 
 #: conversations/00_emerald_vale/00_cp_geothermal_ext_security:6
 msgctxt "conversations/00_emerald_vale/00_cp_geothermal_ext_security:6:DefaultText"
@@ -41,7 +41,7 @@ msgid "Emerald Vale Geothermal Plant\r\n"
 "...\r\n"
 "...\r\n"
 "Security fences disarmed."
-msgstr ""
+msgstr "Geotermální elektrárna Emerald Vale A Spacer's Choice Property ======================== ... ... ... Bezpečnostní ploty odjištěny."
 
 #: conversations/00_emerald_vale/00_cp_geothermal_ext_security:7
 msgctxt "conversations/00_emerald_vale/00_cp_geothermal_ext_security:7:DefaultText"
@@ -54,7 +54,7 @@ msgid "Emerald Vale Geothermal Plant\r\n"
 "...\r\n"
 "...\r\n"
 "Security fences armed."
-msgstr ""
+msgstr "Emerald Vale Geothermal Plant A Spacer's Choice Property ======================== ... ... ... Bezpečnostní ploty ozbrojené."
 
 #: conversations/00_emerald_vale/00_cp_geothermal_ext_security:8
 msgctxt "conversations/00_emerald_vale/00_cp_geothermal_ext_security:8:DefaultText"
@@ -72,4 +72,4 @@ msgid "Emerald Vale Geothermal Plant\r\n"
 "...\r\n"
 "[ATTENTION!]\r\n"
 "Scheduled security updates at this Spacer's Choice Facility are [CRITICALLY] overdue. Your last scheduled security update occurred on: [ERROR: DATE NOT FOUND]. If you are a member of the Spacer's Choice security detail assigned to this location, please turn in your identification for immediate reprimand. Failure to do so may result in an immediate reprimand. "
-msgstr ""
+msgstr "Geotermální elektrárna Emerald Vale A Spacer's Choice Property ======================== Přístup k... ... ... [CHYBA!] Bezpečnostní protokoly nepřístupné. V souladu se zásadami společnosti Spacer's Choice byly všechny bezpečnostní protokoly ukončeny v případě závažné mimořádné události, katastrofické události nebo narušení bezpečnosti. ... ... [POZOR!] Plánované bezpečnostní aktualizace v tomto zařízení Spacer's Choice jsou [KRITICKY] opožděné. Poslední plánovaná aktualizace zabezpečení proběhla dne: [CHYBA: DATUM NENALEZENO]. Pokud jste členem bezpečnostní služby Spacer's Choice, která je přidělena na toto místo, odevzdejte prosím svůj průkaz totožnosti k okamžitému napomenutí. Pokud tak neučiníte, může vám být udělena okamžitá důtka. "

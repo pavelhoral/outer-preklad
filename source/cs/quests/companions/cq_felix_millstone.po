@@ -1,134 +1,134 @@
 #: quests/companions/cq_felix_millstone:0
 msgctxt "quests/companions/cq_felix_millstone:0:DefaultText"
 msgid "Friendship's Due"
-msgstr ""
+msgstr "Dluh za přátelství"
 
 #: quests/companions/cq_felix_millstone:1
 msgctxt "quests/companions/cq_felix_millstone:1:DefaultText"
 msgid "Bring Felix to Meet with Harlow"
-msgstr ""
+msgstr "Přiveďte Felixe na setkání s Harlowem"
 
 #: quests/companions/cq_felix_millstone:2
 msgctxt "quests/companions/cq_felix_millstone:2:DefaultText"
 msgid "Find Trask"
-msgstr ""
+msgstr "Najít Trask"
 
 #: quests/companions/cq_felix_millstone:3
 msgctxt "quests/companions/cq_felix_millstone:3:DefaultText"
 msgid "Confront Trask"
-msgstr ""
+msgstr "Konfrontace s Traskem"
 
 #: quests/companions/cq_felix_millstone:4
 msgctxt "quests/companions/cq_felix_millstone:4:DefaultText"
 msgid "Return to Harlow with Felix"
-msgstr ""
+msgstr "Návrat do Harlow s Felixem"
 
 #: quests/companions/cq_felix_millstone:5
 msgctxt "quests/companions/cq_felix_millstone:5:DefaultText"
 msgid "Speak with Felix on the Ship"
-msgstr ""
+msgstr "Promluvte si s Felixem na lodi"
 
 #: quests/companions/cq_felix_millstone:6
 msgctxt "quests/companions/cq_felix_millstone:6:DefaultText"
 msgid "Talk to Felix"
-msgstr ""
+msgstr "Promluvte si s Felixem"
 
 #: quests/companions/cq_felix_millstone:13
 msgctxt "quests/companions/cq_felix_millstone:13:DefaultText"
 msgid "Get Trask's Ring"
-msgstr ""
+msgstr "Získat Traskův prsten"
 
 #: quests/companions/cq_felix_millstone:14
 msgctxt "quests/companions/cq_felix_millstone:14:DefaultText"
 msgid "(Optional) Find Trask's Stashed Evidence"
-msgstr ""
+msgstr "(Volitelné) Najděte Traskovy schované důkazy"
 
 #: quests/companions/cq_felix_millstone:10000
 msgctxt "quests/companions/cq_felix_millstone:10000:DefaultText"
 msgid "Clyde Harlow, an old friend of Felix from his early days on the Groundbreaker, wants to meet him in person. Harlow told Felix he wants him to be a part of a revolutionary project."
-msgstr ""
+msgstr "Clyde Harlow, Felixův starý přítel z dob jeho působení na Groundbreakeru, se s ním chce osobně setkat. Harlow Felixovi řekl, že chce, aby se podílel na revolučním projektu."
 
 #: quests/companions/cq_felix_millstone:10001
 msgctxt "quests/companions/cq_felix_millstone:10001:DefaultText"
 msgid "Felix wants to meet Harlow in person. Travel to his landing pad on Scylla to have a chat with him."
-msgstr ""
+msgstr "Felix se chce s Harlow setkat osobně. Vydejte se na jeho přistávací plochu na Scylle a promluvte si s ním."
 
 #: quests/companions/cq_felix_millstone:10002
 msgctxt "quests/companions/cq_felix_millstone:10002:DefaultText"
 msgid "Harlow told you that if Felix wants a place on his crew, he must prove himself by killing a traitor named Rufus Trask. He wants you to find Trask, kill him, and take his ring."
-msgstr ""
+msgstr "Harlow ti řekl, že pokud chce Felix získat místo v jeho posádce, musí se osvědčit tím, že zabije zrádce jménem Rufus Trask. Chce, abys Traska našel, zabil a vzal si jeho prsten."
 
 #: quests/companions/cq_felix_millstone:10003
 msgctxt "quests/companions/cq_felix_millstone:10003:DefaultText"
 msgid "Trask is hiding in Emerald Vale."
-msgstr ""
+msgstr "Trask se skrývá ve Smaragdovém údolí."
 
 #: quests/companions/cq_felix_millstone:10004
 msgctxt "quests/companions/cq_felix_millstone:10004:DefaultText"
 msgid "With Trask dealt with, it's time to return to Harlow."
-msgstr ""
+msgstr "Když je Trask vyřešen, je čas vrátit se k Harlowovi."
 
 #: quests/companions/cq_felix_millstone:10005
 msgctxt "quests/companions/cq_felix_millstone:10005:DefaultText"
 msgid "You confronted Harlow about Trask. Felix would like a word with you."
-msgstr ""
+msgstr "Konfrontoval jste Harlowa ohledně Traska. Felix by si s vámi rád promluvil."
 
 #: quests/companions/cq_felix_millstone:10006
 msgctxt "quests/companions/cq_felix_millstone:10006:DefaultText"
 msgid "You killed Harlow without hearing him out. Felix is probably unhappy about this."
-msgstr ""
+msgstr "Zabil jsi Harlowa, aniž bys ho vyslechl. Felix je z toho pravděpodobně nešťastný."
 
 #: quests/companions/cq_felix_millstone:10013
 msgctxt "quests/companions/cq_felix_millstone:10013:DefaultText"
 msgid "Trask is dead. Harlow will want his ring as evidence."
-msgstr ""
+msgstr "Trask je mrtvý. Harlow bude chtít jeho prsten jako důkaz."
 
 #: quests/companions/cq_felix_millstone:10014
 msgctxt "quests/companions/cq_felix_millstone:10014:DefaultText"
 msgid "Trask said he stashed evidence against Harlow in a vent back in Harlow's base. It could be worth a look."
-msgstr ""
+msgstr "Trask řekl, že důkazy proti Harlowovi ukryl ve ventilační šachtě na Harlowově základně. Mohlo by to stát za prozkoumání."
 
 #: quests/companions/cq_felix_millstone:20000
 msgctxt "quests/companions/cq_felix_millstone:20000:DefaultText"
 msgid "Rufus Trask's wife, Rosana, mentioned that her husband can be found hiding in the wilderness of Emerald Vale."
-msgstr ""
+msgstr "Manželka Rufuse Traska, Rosana, se zmínila, že jejího manžela lze najít ukrytého v divočině Emerald Vale."
 
 #: quests/companions/cq_felix_millstone:20002
 msgctxt "quests/companions/cq_felix_millstone:20002:DefaultText"
 msgid "Rufus Trask has gone into hiding. Harlow suggested questioning his wife, Rosana. She can be found on the Groundbreaker."
-msgstr ""
+msgstr "Rufus Trask se skrývá. Harlow navrhl vyslechnout jeho ženu Rosanu. Najdete ji na Groundbreakeru."
 
 #: quests/companions/cq_felix_millstone:20004
 msgctxt "quests/companions/cq_felix_millstone:20004:DefaultText"
 msgid "Rosana is dead. You'll have to find Rufus Trask on your own."
-msgstr ""
+msgstr "Rosana je mrtvá. Rufuse Traska budete muset najít sami."
 
 #: quests/companions/cq_felix_millstone:30000
 msgctxt "quests/companions/cq_felix_millstone:30000:DefaultText"
 msgid "You failed to help Felix resolve his differences with Clyde Harlow."
-msgstr ""
+msgstr "Felixovi jste nepomohli vyřešit jeho neshody s Clydem Harlowem."
 
 #: quests/companions/cq_felix_millstone:30001
 msgctxt "quests/companions/cq_felix_millstone:30001:DefaultText"
 msgid "Felix has decided to stay with Harlow. He is no longer part of your crew."
-msgstr ""
+msgstr "Felix se rozhodl zůstat s Harlow. Už není členem vaší posádky."
 
 #: quests/companions/cq_felix_millstone:30002
 msgctxt "quests/companions/cq_felix_millstone:30002:DefaultText"
 msgid "Felix decided that he would rather stay with you."
-msgstr ""
+msgstr "Felix se rozhodl, že raději zůstane s vámi."
 
 #: quests/companions/cq_felix_millstone:30003
 msgctxt "quests/companions/cq_felix_millstone:30003:DefaultText"
 msgid "You decided to deal with Harlow by killing him on a whim."
-msgstr ""
+msgstr "Rozhodl ses vypořádat s Harlowem tak, že jsi ho z rozmaru zabil."
 
 #: quests/companions/cq_felix_millstone:30004
 msgctxt "quests/companions/cq_felix_millstone:30004:DefaultText"
 msgid "You let Felix remain with Harlow. He will not be returning to your ship."
-msgstr ""
+msgstr "Nechal jsi Felixe zůstat s Harlow. Na vaši loď se nevrátí."
 
 #: quests/companions/cq_felix_millstone:40001
 msgctxt "quests/companions/cq_felix_millstone:40001:DefaultText"
 msgid "While exploring a former mining facility on Scylla, Felix ran into an old acquaintance: Clyde Harlow, a former worker on the Groundbreaker, now an outlaw."
-msgstr ""
+msgstr "Při průzkumu bývalého důlního zařízení na ostrově Scylla narazil Felix na starého známého: Clyda Harlowa, bývalého pracovníka lodi Groundbreaker, nyní psance."

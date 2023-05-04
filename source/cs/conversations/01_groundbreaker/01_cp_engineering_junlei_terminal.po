@@ -4,22 +4,22 @@ msgid "Personal Terminal - Groundbreaker Captain\r\n"
 "=============================\r\n"
 "\r\n"
 "Approved user: TENNYSON, J."
-msgstr ""
+msgstr "Osobní terminál - Groundbreaker Captain ============================= Schválený uživatel: TENNYSON, J."
 
 #: conversations/01_groundbreaker/01_cp_engineering_junlei_terminal:2
 msgctxt "conversations/01_groundbreaker/01_cp_engineering_junlei_terminal:2:DefaultText"
 msgid "[Daily checklist]"
-msgstr ""
+msgstr "[Denní kontrolní seznam]"
 
 #: conversations/01_groundbreaker/01_cp_engineering_junlei_terminal:3
 msgctxt "conversations/01_groundbreaker/01_cp_engineering_junlei_terminal:3:DefaultText"
 msgid "[Personal Files]"
-msgstr ""
+msgstr "[Osobní soubory]"
 
 #: conversations/01_groundbreaker/01_cp_engineering_junlei_terminal:4
 msgctxt "conversations/01_groundbreaker/01_cp_engineering_junlei_terminal:4:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"
 
 #: conversations/01_groundbreaker/01_cp_engineering_junlei_terminal:5
 msgctxt "conversations/01_groundbreaker/01_cp_engineering_junlei_terminal:5:DefaultText"
@@ -34,7 +34,7 @@ msgid "Personal Terminal - Groundbreaker Captain\r\n"
 "-Checklist maintenance. \r\n"
 "-Brush teeth. \r\n"
 "-You can do this, Junlei. "
-msgstr ""
+msgstr "Osobní terminál - Kapitán Groundbreaker ============================= -Temperatura radiátoru. -Přeplňování vodovodního potrubí. -Životní podpora. -Morálka posádky. -Plánované přistání. -Údržba podle seznamu. -Zuby na kartáček. -To zvládneš, Junlei. "
 
 #: conversations/01_groundbreaker/01_cp_engineering_junlei_terminal:6
 msgctxt "conversations/01_groundbreaker/01_cp_engineering_junlei_terminal:6:DefaultText"
@@ -42,22 +42,22 @@ msgid "Personal Terminal - Groundbreaker Captain\r\n"
 "=============================\r\n"
 "\r\n"
 "Personal files"
-msgstr ""
+msgstr "Osobní terminál - Groundbreaker Captain ============================= Osobní soubory"
 
 #: conversations/01_groundbreaker/01_cp_engineering_junlei_terminal:7
 msgctxt "conversations/01_groundbreaker/01_cp_engineering_junlei_terminal:7:DefaultText"
 msgid "[Return to Root]"
-msgstr ""
+msgstr "[Zpět na kořen]"
 
 #: conversations/01_groundbreaker/01_cp_engineering_junlei_terminal:8
 msgctxt "conversations/01_groundbreaker/01_cp_engineering_junlei_terminal:8:DefaultText"
 msgid "[Date night]"
-msgstr ""
+msgstr "[Noční rande]"
 
 #: conversations/01_groundbreaker/01_cp_engineering_junlei_terminal:9
 msgctxt "conversations/01_groundbreaker/01_cp_engineering_junlei_terminal:9:DefaultText"
 msgid "[Date night]"
-msgstr ""
+msgstr "[Noční rande]"
 
 #: conversations/01_groundbreaker/01_cp_engineering_junlei_terminal:10
 msgctxt "conversations/01_groundbreaker/01_cp_engineering_junlei_terminal:10:DefaultText"
@@ -69,7 +69,7 @@ msgid "Personal Terminal - Groundbreaker Captain\r\n"
 "She's got a mind for details. Nothing gets overlooked, and the littlest things mean so much to her. If she were a ship she'd have a million and a half separate systems running in harmony - nothing wasted, nothing redundant, everything on time. \r\n"
 "\r\n"
 "It's cute how she hangs on my every word. Leans in close like a potted plant reaching for the sun. I want to show her everything I know she hasn't seen, and I want her to teach me everything I don't already know. A girl could do a lot worse than see the world through Parvati's eyes. "
-msgstr ""
+msgstr "Osobní terminál - průkopník kapitán ============================= Parvati byl naprostý miláček. Myslela na všechno. Už jen to plánování muselo být náročné. Všichni lidé přece nemohou být takoví, ne? Ne, ona je něčím výjimečná, má smysl pro detaily. Nic nepřehlédne a i ty nejmenší věci pro ni tolik znamenají. Kdyby byla lodí, měla by milion a půl samostatných systémů, které by fungovaly v harmonii - nic by nebylo zbytečné, nic nadbytečné, všechno na čas. Je roztomilé, jak visí na každém mém slově. Naklání se k němu jako rostlina v květináči, která se natahuje po slunci. Chci jí ukázat všechno, co vím, že ještě neviděla, a chci, aby mě naučila všechno, co ještě nevím. Dívka by mohla udělat mnohem víc, než vidět svět Parvatiinýma očima. "
 
 #: conversations/01_groundbreaker/01_cp_engineering_junlei_terminal:11
 msgctxt "conversations/01_groundbreaker/01_cp_engineering_junlei_terminal:11:DefaultText"
@@ -77,7 +77,7 @@ msgid "Personal Terminal - Groundbreaker Captain\r\n"
 "=============================\r\n"
 "\r\n"
 "Parvati was a bundle of nerves. A lot of little things - well-intentioned gestures, I guess - kind of backfired on her. It was sweet. She's sweet. I'm not sure I can squeeze commitment into the daily roster, but I'll give her a chance."
-msgstr ""
+msgstr "Osobní terminál - Pozemní průkopník kapitán ============================= Parvati byl uzlíček nervů. Spousta drobností - asi dobře míněných gest - se jí tak trochu vymstila. Bylo to milé. Ona je milá. Nejsem si jistý, jestli se mi podaří vtěsnat odhodlání do denního rozpisu, ale dám jí šanci."
 
 #: conversations/01_groundbreaker/01_cp_engineering_junlei_terminal:12
 msgctxt "conversations/01_groundbreaker/01_cp_engineering_junlei_terminal:12:DefaultText"
@@ -97,17 +97,17 @@ msgid "Personal Terminal - Groundbreaker Captain\r\n"
 "-Brush teeth. \r\n"
 "-Write to Parvati.\r\n"
 "-Recheck for new messages. Wait for reply. Repeat."
-msgstr ""
+msgstr "Osobní terminál - Kapitán Groundbreaker ============================= -Nechte se na chvíli nadechnout. -Kontrola zpráv. -Temperatura radiátoru. -Přetečení vodovodního potrubí. -Životní podpora.-Kontrola zpráv. -Morálka posádky. -Kontrola zpráv. -Plánované přistání. -Údržba seznamu. -Čištění zubů. -Psaní Parvati. -Kontrola nových zpráv. Čekat na odpověď. Opakujte."
 
 #: conversations/01_groundbreaker/01_cp_engineering_junlei_terminal:13
 msgctxt "conversations/01_groundbreaker/01_cp_engineering_junlei_terminal:13:DefaultText"
 msgid "[Daily checklist - REVISED]"
-msgstr ""
+msgstr "[Denní kontrolní seznam - PŘEHODNOCENÝ]"
 
 #: conversations/01_groundbreaker/01_cp_engineering_junlei_terminal:14
 msgctxt "conversations/01_groundbreaker/01_cp_engineering_junlei_terminal:14:DefaultText"
 msgid "[Back Bays]"
-msgstr ""
+msgstr "[Zadní zálivy]"
 
 #: conversations/01_groundbreaker/01_cp_engineering_junlei_terminal:15
 msgctxt "conversations/01_groundbreaker/01_cp_engineering_junlei_terminal:15:DefaultText"
@@ -115,12 +115,12 @@ msgid "Personal Terminal - Groundbreaker Captain\r\n"
 "=============================\r\n"
 "\r\n"
 "More complaints about the state of the bay. I already told the Mardets they're free to flush out MacRedd and his outlaws. They're so knotted up seeking warrants and paper justifications that they want someone else to solve all their problems off the record. Sorry, boys. Not my job."
-msgstr ""
+msgstr "Osobní terminál - Groundbreaker Kapitán ============================= Další stížnosti na stav zálivu. Už jsem Mardetům řekl, že mohou MacRedda a jeho psance vyplavit. Jsou tak zauzlení při shánění zatykačů a papírových zdůvodnění, že chtějí, aby všechny jejich problémy řešil někdo jiný mimo záznam. Je mi líto, chlapci. To není moje práce."
 
 #: conversations/01_groundbreaker/01_cp_engineering_junlei_terminal:16
 msgctxt "conversations/01_groundbreaker/01_cp_engineering_junlei_terminal:16:DefaultText"
 msgid "[Promenade Status]"
-msgstr ""
+msgstr "[Stav promenády]"
 
 #: conversations/01_groundbreaker/01_cp_engineering_junlei_terminal:17
 msgctxt "conversations/01_groundbreaker/01_cp_engineering_junlei_terminal:17:DefaultText"
@@ -134,12 +134,12 @@ msgid "Personal Terminal - Groundbreaker Captain\r\n"
 "-Could have sworn the automechanical chef arrived with a company tech. No record of the guy leaving the station. Will have to look into it.\r\n"
 "\r\n"
 "-Sprat infestation at the Rest–N–Go is getting out of hand. Ethel better not be ranching those critters again, or I swear by Law I'll airlock her stall."
-msgstr ""
+msgstr "Osobní terminál - Groundbreaker Captain ============================= -Morale klesl o 18 % od doby, kdy se objevil Martin Callahan. To ta zatracená maska. -V kanceláři jsem našel další odposlouchávací zařízení. Ta věc byla velká jako míček na házení a kabel vedl až do SubLightu. Jemná jako vždycky, Lilyo. -Mohl bych přísahat, že automechanický kuchař dorazil s firemním technikem. Žádný záznam o tom, že by ten chlap opustil stanici. Bude se na to muset podívat. -Zamoření Odpočívadla se vymyká kontrole. Ethel ať už ty potvory raději nepronásleduje, jinak přísahám, že jí zavřu stáj."
 
 #: conversations/01_groundbreaker/01_cp_engineering_junlei_terminal:18
 msgctxt "conversations/01_groundbreaker/01_cp_engineering_junlei_terminal:18:DefaultText"
 msgid "[Messages]"
-msgstr ""
+msgstr "[Zprávy]"
 
 #: conversations/01_groundbreaker/01_cp_engineering_junlei_terminal:19
 msgctxt "conversations/01_groundbreaker/01_cp_engineering_junlei_terminal:19:DefaultText"
@@ -147,17 +147,17 @@ msgid "Personal Terminal - Groundbreaker Captain\r\n"
 "=============================\r\n"
 "\r\n"
 "Messages"
-msgstr ""
+msgstr "Osobní terminál - Groundbreaker Captain ============================= Zprávy"
 
 #: conversations/01_groundbreaker/01_cp_engineering_junlei_terminal:20
 msgctxt "conversations/01_groundbreaker/01_cp_engineering_junlei_terminal:20:DefaultText"
 msgid "[FROM: U. Bedford, SUBJECT: My dear lady]"
-msgstr ""
+msgstr "[FROM: U. Bedford, SUBJECT: My dear lady]"
 
 #: conversations/01_groundbreaker/01_cp_engineering_junlei_terminal:21
 msgctxt "conversations/01_groundbreaker/01_cp_engineering_junlei_terminal:21:DefaultText"
 msgid "[TO: U. Bedford, SUBJECT: Obstructionist]"
-msgstr ""
+msgstr "[TO: U. Bedford, SUBJECT: Obstructionist]"
 
 #: conversations/01_groundbreaker/01_cp_engineering_junlei_terminal:22
 msgctxt "conversations/01_groundbreaker/01_cp_engineering_junlei_terminal:22:DefaultText"
@@ -173,7 +173,7 @@ msgid "Personal Terminal - Groundbreaker Captain\r\n"
 "When you do decide to return to the negotiations table, consider once again the embassy expansion plans I laid out. Gestures of good faith do not go unpaid. \r\n"
 "\r\n"
 "~Udom Bedford, Certified Liaison"
-msgstr ""
+msgstr "Osobní terminál - Groundbreaker Captain ============================= FROM: Bedford, U. TO: Tennyson, J. PŘEDMĚT: Důsledky vašich obvinění mi způsobují, že se mi dech zadrhává v hrdle. Jsem si jist, že můžeme dospět k přijatelnému porozumění - neboť co je styčný důstojník Rady, když ne zprostředkovatel podání rukou mezi velmocemi - podobně jako Rada a vy? Až se rozhodnete vrátit k jednacímu stolu, zvažte ještě jednou plány na rozšíření velvyslanectví, které jsem předložil. Gesta dobré vůle nezůstávají bez odměny. ~Udom Bedford, certifikovaný styčný důstojník"
 
 #: conversations/01_groundbreaker/01_cp_engineering_junlei_terminal:23
 msgctxt "conversations/01_groundbreaker/01_cp_engineering_junlei_terminal:23:DefaultText"
@@ -191,12 +191,12 @@ msgid "Personal Terminal - Groundbreaker Captain\r\n"
 "You're playing with our lives. Did they install you on my ship just to get under my skin, or are you pulling this shit for fun?\r\n"
 "\r\n"
 "J.T. "
-msgstr ""
+msgstr "Osobní terminál - Groundbreaker Captain ============================= OD: PŘEDMĚT: Tennyson, J. TO: Bedford, U: Rada zamítla mou žádost o nové díly chladiče. Znovu. Dokonce i poté, co jsem jim promazal kolečka několika cílenými dary. Zvláštní, když jsem využil svých administrátorských práv k průzkumu odchozí komunikace, všiml jsem si nějaké aktivity z vaší kanceláře. Pečlivě jste volil slova, ale já jsem z přepisu vytrhl šťavnatou větu: \"Nechte žábu ještě chvíli vařit.\" A teď nemám žádné části chladiče, zahráváš si s našimi životy. Nasadili tě na mou loď jen proto, aby ses mi dostal pod kůži, nebo to děláš pro zábavu? J.T. "
 
 #: conversations/01_groundbreaker/01_cp_engineering_junlei_terminal:24
 msgctxt "conversations/01_groundbreaker/01_cp_engineering_junlei_terminal:24:DefaultText"
 msgid "[FROM: K. Silva, SUBJECT: Re: I tried]"
-msgstr ""
+msgstr "[FROM: K. Silva, SUBJECT: Re: Zkoušel jsem]"
 
 #: conversations/01_groundbreaker/01_cp_engineering_junlei_terminal:25
 msgctxt "conversations/01_groundbreaker/01_cp_engineering_junlei_terminal:25:DefaultText"
@@ -226,4 +226,10 @@ msgid "Personal Terminal - Groundbreaker Captain\r\n"
 "You are being extraordinarily unreasonable to even the simplest Board requests. At this rate I'm afraid our diplomatic relationship is going nowhere. How my predecessor endured under these conditions I'll never understand. \n"
 "\n"
 "K. Silva, Certified Liaison"
-msgstr ""
+msgstr "Osobní terminál - Groundbreaker Captain ============================= OD: Silva, K: Tennyson, J. PŘEDMĚT: K: Re: Re: Přestaň mi tak říkat! Jmenuji se Kendrick Silva a ty budeš respektovat titul mé vysoké funkce! \n"
+"\n"
+"K. Silva, certifikovaný styčný důstojník FROM: Tennyson, J: Silva, K. PŘEDMĚT: Silva, K: Re: K: Zkoušel jsem Poslouchej, \"New-dom\", ty tuhle stanici neřídíš. Jakmile uvidím žádost rady v dobré víře, rád s ní pohnu. Do té doby tě vítám v tvé nové kanceláři v korporátním zapomnění. Chovej se jako doma. J.T. \n"
+"\n"
+"OD: Silva, K: Tennyson, J. PŘEDMĚT: Snažil jsem se Chováte se mimořádně nerozumně i k těm nejjednodušším požadavkům představenstva. Obávám se, že tímto tempem se naše diplomatické vztahy nikam neposunou. Nikdy nepochopím, jak to můj předchůdce za těchto podmínek vydržel. \n"
+"\n"
+"K. Silva, certifikovaný styčný důstojník"

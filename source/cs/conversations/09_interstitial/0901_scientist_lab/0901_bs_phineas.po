@@ -1,124 +1,124 @@
 #: conversations/09_interstitial/0901_scientist_lab/0901_bs_phineas:1
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_bs_phineas:1:DefaultText"
 msgid "Ah, you made it! Can you hear me through this thing?"
-msgstr ""
+msgstr "Ach, zvládl jsi to! Slyšíš mě přes tuhle věc?"
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_bs_phineas:3
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_bs_phineas:3:DefaultText"
 msgid "Make yourself at home."
-msgstr ""
+msgstr "Chovejte se jako doma."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_bs_phineas:4
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_bs_phineas:4:DefaultText"
 msgid "So, how's the old Unreliable running?"
-msgstr ""
+msgstr "Tak jak to jde se starým Nespolehlivým?"
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_bs_phineas:5
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_bs_phineas:5:DefaultText"
 msgid "Feel free to look around."
-msgstr ""
+msgstr "Neváhejte se porozhlédnout."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_bs_phineas:6
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_bs_phineas:6:DefaultText"
 msgid "My lab may look a mess, but I have everything exactly where I want it."
-msgstr ""
+msgstr "Moje laboratoř sice vypadá chaoticky, ale mám všechno přesně tam, kde to chci mít."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_bs_phineas:9
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_bs_phineas:9:DefaultText"
 msgid "Hello? Can you hear me? Does this work?"
-msgstr ""
+msgstr "Haló? Slyšíte mě? Funguje to?"
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_bs_phineas:10
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_bs_phineas:10:DefaultText"
 msgid "I am just securing my ongoing experiments!"
-msgstr ""
+msgstr "Právě zajišťuji své probíhající experimenty!"
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_bs_phineas:13
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_bs_phineas:13:DefaultText"
 msgid "Oh, damn and blast! That's loud."
-msgstr ""
+msgstr "A sakra a výbuch! To je hlasité."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_bs_phineas:14
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_bs_phineas:14:DefaultText"
 msgid "And securing myself."
-msgstr ""
+msgstr "A zajištění sebe sama."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_bs_phineas:15
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_bs_phineas:15:DefaultText"
 msgid "Mind the mess. I haven't had a visitor since - in fact, I've never had a visitor."
-msgstr ""
+msgstr "Pozor na nepořádek. Od té doby jsem neměl návštěvu - vlastně jsem nikdy žádnou neměl."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_bs_phineas:17
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_bs_phineas:17:DefaultText"
 msgid "You know, that escape pod had a twelve percent risk of catastrophic failure. Quite safe by Halcyon's standards!"
-msgstr ""
+msgstr "Víte, že únikový modul měl dvanáctiprocentní riziko katastrofického selhání. Na poměry Halcyonu docela bezpečné!"
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_bs_phineas:18
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_bs_phineas:18:DefaultText"
 msgid "Cystypigs make excellent test subjects. Also, surprisingly nutritious."
-msgstr ""
+msgstr "Cystypigy jsou vynikajícími testovacími subjekty. Jsou také překvapivě výživné."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_bs_phineas:19
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_bs_phineas:19:DefaultText"
 msgid "I see you're still wearing your hibernation outfit. You're welcome to a matching set."
-msgstr ""
+msgstr "Vidím, že máš na sobě stále zimní oblečení. Můžeš si pořídit stejnou sadu."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_bs_phineas:21
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_bs_phineas:21:DefaultText"
 msgid "Ah, your old hibernation mask. Had to remove it, you know, in case you were prone to vomiting."
-msgstr ""
+msgstr "Ach, tvoje stará hibernační maska. Musel jsem ti ji sundat, kdybys měl sklony ke zvracení."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_bs_phineas:25
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_bs_phineas:25:DefaultText"
 msgid "Reviving you from hibernation was my greatest accomplishment. Your odds of survival were a mere twenty-eight percent!"
-msgstr ""
+msgstr "Probudit tě z hibernace byl můj největší úspěch. Tvoje šance na přežití byla pouhých dvacet osm procent!"
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_bs_phineas:27
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_bs_phineas:27:DefaultText"
 msgid "Careful! That's my communications terminal!"
-msgstr ""
+msgstr "Pozor! To je můj komunikační terminál!"
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_bs_phineas:28
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_bs_phineas:28:DefaultText"
 msgid "That should do it. You've bought me more than enough time."
-msgstr ""
+msgstr "To by mělo stačit. Získal jsi mi víc než dost času."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_bs_phineas:29
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_bs_phineas:29:DefaultText"
 msgid "You've sent the corrupted signal as we discussed, yes? I'll take your silence as an affirmative."
-msgstr ""
+msgstr "Poslali jste poškozený signál, jak jsme o tom mluvili, ano? Vaše mlčení považuji za souhlasné."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_bs_phineas:40
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_bs_phineas:40:DefaultText"
 msgid "Armored glass. Not bad, eh?"
-msgstr ""
+msgstr "Pancéřové sklo. To není špatné, co?"
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_bs_phineas:41
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_bs_phineas:41:DefaultText"
 msgid "Aha! I see you've found my portable molecular compression device! Better known as a shrink ray."
-msgstr ""
+msgstr "Aha! Vidím, že jste našli můj přenosný molekulární kompresor! Lépe známý jako smršťovací paprsek."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_bs_phineas:42
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_bs_phineas:42:DefaultText"
 msgid "Find a target. Point. Shoot. Your target will shrink down into a manageable size, whereupon you may commence beating them to a pulp."
-msgstr ""
+msgstr "Najděte si cíl. Bod. Střílejte. Váš cíl se zmenší na přijatelnou velikost, načež ho můžete začít mlátit na kaši."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_bs_phineas:43
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_bs_phineas:43:DefaultText"
 msgid "Feel free to try it on a marauder some time."
-msgstr ""
+msgstr "Klidně si to někdy vyzkoušejte na nájezdníkovi."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_bs_phineas:45
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_bs_phineas:45:DefaultText"
 msgid "Oh for Law's sake! I was saving that for a special occasion!"
-msgstr ""
+msgstr "Proboha! Schovával jsem si to pro zvláštní příležitost!"
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_bs_phineas:46
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_bs_phineas:46:DefaultText"
 msgid "Careful! Bubbles is NOT for experimentation!"
-msgstr ""
+msgstr "Pozor! Bubliny NEJSOU určeny k experimentování!"
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_bs_phineas:47
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_bs_phineas:47:DefaultText"
 msgid "Look at this mess. Oh well. At least the tumors are still edible."
-msgstr ""
+msgstr "Podívejte se na ten nepořádek. No dobře. Aspoň že ty nádory jsou pořád jedlé."

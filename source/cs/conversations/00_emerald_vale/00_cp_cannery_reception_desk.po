@@ -6,17 +6,17 @@ msgid "Edgewater Saltuna Cannery\r\n"
 "========================\r\n"
 "\r\n"
 "Terminal Access"
-msgstr ""
+msgstr "Konzervárna Edgewater Saltuna A Spacer's Choice Property ======================== Terminal Access"
 
 #: conversations/00_emerald_vale/00_cp_cannery_reception_desk:2
 msgctxt "conversations/00_emerald_vale/00_cp_cannery_reception_desk:2:DefaultText"
 msgid "[Logs]"
-msgstr ""
+msgstr "[Deníky]"
 
 #: conversations/00_emerald_vale/00_cp_cannery_reception_desk:3
 msgctxt "conversations/00_emerald_vale/00_cp_cannery_reception_desk:3:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"
 
 #: conversations/00_emerald_vale/00_cp_cannery_reception_desk:4
 msgctxt "conversations/00_emerald_vale/00_cp_cannery_reception_desk:4:DefaultText"
@@ -38,9 +38,9 @@ msgid "Edgewater Saltuna Cannery\r\n"
 "Lost hours must be compensated to the company. See Reed if you're having trouble paying for your sick leave. We'll try to arrange wage deductions instead.\r\n"
 "\r\n"
 "Remember: Work invigorates the spirit.  Sickness in the body reflects sickness in the mind and sickness in the character. If you find yourself falling ill, it may be time to schedule a meeting with our local vicar."
-msgstr ""
+msgstr "Konzervárna Edgewater Saltuna A Spacer's Choice Property ======================== UPOZORNĚNÍ: Konzervárna Edgewater Saltuna přísně dodržuje standardy Spacer's Choice týkající se zdraví a bezpečnosti.UPOZORNĚNÍ: Svou nemocenskou dovolenou si naplánujte s předákem a/nebo nadřízeným společnosti Spacer's Choice. Buďte ohleduplní k ostatním členům rodiny společnosti Spacer's Choice. Na vyřízení a schválení plánované nemocenské dovolené si vyhraďte dva až čtyři týdny. Ztracené hodiny musí být společnosti proplaceny. Pokud máte potíže s proplacením nemocenské dovolené, obraťte se na Reeda. Pokusíme se místo toho zařídit srážky ze mzdy. Nezapomeňte: Práce povzbuzuje ducha.  Nemoc těla odráží nemoc mysli a nemoc charakteru. Pokud zjistíte, že jste onemocněli, možná je čas naplánovat si setkání s naším místním farářem."
 
 #: conversations/00_emerald_vale/00_cp_cannery_reception_desk:5
 msgctxt "conversations/00_emerald_vale/00_cp_cannery_reception_desk:5:DefaultText"
 msgid "[Return to Root]"
-msgstr ""
+msgstr "[Zpět na kořen]"

@@ -4,22 +4,22 @@ msgid "Groundbreaker Public Access Terminal\r\n"
 "============================\r\n"
 "\r\n"
 "Main menu"
-msgstr ""
+msgstr "Veřejný přístupový terminál Groundbreaker ============================ Hlavní nabídka"
 
 #: conversations/01_groundbreaker/01_cp_promenade_public_terminal_02:2
 msgctxt "conversations/01_groundbreaker/01_cp_promenade_public_terminal_02:2:DefaultText"
 msgid "[Messages - Admin Access]"
-msgstr ""
+msgstr "[Zprávy - Přístup správce]"
 
 #: conversations/01_groundbreaker/01_cp_promenade_public_terminal_02:3
 msgctxt "conversations/01_groundbreaker/01_cp_promenade_public_terminal_02:3:DefaultText"
 msgid "[Public Notices]"
-msgstr ""
+msgstr "[Veřejná oznámení]"
 
 #: conversations/01_groundbreaker/01_cp_promenade_public_terminal_02:4
 msgctxt "conversations/01_groundbreaker/01_cp_promenade_public_terminal_02:4:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"
 
 #: conversations/01_groundbreaker/01_cp_promenade_public_terminal_02:5
 msgctxt "conversations/01_groundbreaker/01_cp_promenade_public_terminal_02:5:DefaultText"
@@ -27,22 +27,22 @@ msgid "Groundbreaker Public Access Terminal\r\n"
 "============================\r\n"
 "\r\n"
 "Recent messages. Welcome, administrator."
-msgstr ""
+msgstr "Veřejný přístupový terminál Groundbreaker ============================ Poslední zprávy. Vítejte, správce."
 
 #: conversations/01_groundbreaker/01_cp_promenade_public_terminal_02:6
 msgctxt "conversations/01_groundbreaker/01_cp_promenade_public_terminal_02:6:DefaultText"
 msgid "[FROM: J. Tennyson, SUBJECT: Anyone seen Private Taylor?]"
-msgstr ""
+msgstr "[OD: J. Tennyson, PŘEDMĚT: Viděl někdo vojína Taylora?]"
 
 #: conversations/01_groundbreaker/01_cp_promenade_public_terminal_02:7
 msgctxt "conversations/01_groundbreaker/01_cp_promenade_public_terminal_02:7:DefaultText"
 msgid "[TO: Wildcat_Group, SUBJECT: Groundbreaker Meetup]"
-msgstr ""
+msgstr "[TO: Wildcat_Group, SUBJECT: Groundbreaker Meetup]"
 
 #: conversations/01_groundbreaker/01_cp_promenade_public_terminal_02:8
 msgctxt "conversations/01_groundbreaker/01_cp_promenade_public_terminal_02:8:DefaultText"
 msgid "[Return to Root]"
-msgstr ""
+msgstr "[Zpět na kořen]"
 
 #: conversations/01_groundbreaker/01_cp_promenade_public_terminal_02:9
 msgctxt "conversations/01_groundbreaker/01_cp_promenade_public_terminal_02:9:DefaultText"
@@ -58,7 +58,7 @@ msgid "Groundbreaker Public Access Terminal\r\n"
 "If Chief Guiying taught me anything, it's that a crew's morale is proportional to the quality of their outhouse. You take away a crew's plumbing, you take away their privacy and dignity. So let's get that toilet fixed. \r\n"
 "\r\n"
 "J.T."
-msgstr ""
+msgstr "Veřejný přístupový terminál Groundbreaker ============================ OD: Tennyson, J: Inženýři_všichni PŘEDMĚT: Inženýři_všichni Neviděl ho někdo vojína Taylora? Už několik dní jsem ho neviděl. A jak jsme na tom s tím ucpaným záchodem? Jestli mě náčelník Guiying něco naučil, tak to, že morálka posádky je úměrná kvalitě jejího záchodku. Když posádce seberete záchod, seberete jí soukromí a důstojnost. Tak pojďme ten záchod opravit. J.T."
 
 #: conversations/01_groundbreaker/01_cp_promenade_public_terminal_02:10
 msgctxt "conversations/01_groundbreaker/01_cp_promenade_public_terminal_02:10:DefaultText"
@@ -76,7 +76,13 @@ msgid "Groundbreaker Public Access Terminal\r\n"
 "No one responded to my last invite. I hope that means your schedules are full up with family gatherings and job opportunities. \n"
 "\n"
 "Stay free, freelancers."
-msgstr ""
+msgstr "Groundbreaker Public Access Terminal ============================ OD: Buckhanon, Kitty PRO: Wildcat_Group PŘEDMĚT: Přestože od našeho posledního setkání na Groundbreakeru uplynulo už skoro dvacet let, doufal jsem, že bychom mohli dát starou partu znovu dohromady. \n"
+"\n"
+"Chápu, že se věci změnily. Někteří z nás jsou dálkoví tahouni, někteří z nás odešli do korporace, někteří z nás jsou pravděpodobně mrtví a někteří z nás jsou na Tartaru a nečtou tuto zprávu - ale neztratil jsem naději. \n"
+"\n"
+"Na mou poslední pozvánku nikdo neodpověděl. Doufám, že to znamená, že vaše rozvrhy jsou plné rodinných setkání a pracovních příležitostí. \n"
+"\n"
+"Zůstaňte svobodní, freelanceři."
 
 #: conversations/01_groundbreaker/01_cp_promenade_public_terminal_02:11
 msgctxt "conversations/01_groundbreaker/01_cp_promenade_public_terminal_02:11:DefaultText"
@@ -84,17 +90,17 @@ msgid "Groundbreaker Public Access Terminal\r\n"
 "============================\r\n"
 "\r\n"
 "Displaying public notices"
-msgstr ""
+msgstr "Veřejně přístupný terminál Groundbreaker ============================ Zobrazování veřejných oznámení"
 
 #: conversations/01_groundbreaker/01_cp_promenade_public_terminal_02:12
 msgctxt "conversations/01_groundbreaker/01_cp_promenade_public_terminal_02:12:DefaultText"
 msgid "[Regarding the Food Situation]"
-msgstr ""
+msgstr "[K potravinové situaci]"
 
 #: conversations/01_groundbreaker/01_cp_promenade_public_terminal_02:13
 msgctxt "conversations/01_groundbreaker/01_cp_promenade_public_terminal_02:13:DefaultText"
 msgid "[Ship Impounded?]"
-msgstr ""
+msgstr "[Zabavená loď?]"
 
 #: conversations/01_groundbreaker/01_cp_promenade_public_terminal_02:14
 msgctxt "conversations/01_groundbreaker/01_cp_promenade_public_terminal_02:14:DefaultText"
@@ -108,7 +114,7 @@ msgid "Groundbreaker Public Access Terminal\r\n"
 "Spacers make do with what they have. And what we have is smelly meat, lots of salt, and eleven kinds of mustard (last time I counted). Try and enjoy it. \r\n"
 "\r\n"
 "J.T. "
-msgstr ""
+msgstr "Veřejně přístupný terminál Groundbreaker ============================ Těm z vás, kteří vyjádřili obavy ohledně kvality vittles Groundbreakeru (ano, jsem si vědom toho, že promenáda smrdí), dovolte, abych tuto záležitost uvedl na pravou míru. Naši předkové nevzešli ze skromných začátků na stravě ze šprotů a kančího masa. Ale taková je realita života tady nahoře. Pokud to můžete nasolit, zavařit nebo zazipovat do sáčku, pak nejsme vybíraví, když tomu říkáme \"jídlo\". Spacers si vystačí s tím, co mají. A to, co máme, je smradlavé maso, spousta soli a jedenáct druhů hořčice (pokud jsem to naposledy počítal). Zkuste si to užít. J.T. "
 
 #: conversations/01_groundbreaker/01_cp_promenade_public_terminal_02:15
 msgctxt "conversations/01_groundbreaker/01_cp_promenade_public_terminal_02:15:DefaultText"
@@ -120,12 +126,12 @@ msgid "Groundbreaker Public Access Terminal\r\n"
 "If Groundbreaker impounded you, pay your damn fees and don't bother my people. \r\n"
 "\r\n"
 "J.T. "
-msgstr ""
+msgstr "Veřejný přístupový terminál Groundbreaker ============================ Toto je obecné oznámení o našich pravidlech pro zabavování. Pokud rada zabavila vaši loď, obraťte se na ni. Jejich velvyslanectví je ta křiklavá budova naproti skladišti SubLight. Pošlete jim své dotazy, nezaplacené poplatky a nenávistnou poštu. Hlavně nenávistnou poštu. Pokud vám zabavila loď Groundbreaker, zaplaťte zatracené poplatky a neobtěžujte mé lidi. J.T. "
 
 #: conversations/01_groundbreaker/01_cp_promenade_public_terminal_02:17
 msgctxt "conversations/01_groundbreaker/01_cp_promenade_public_terminal_02:17:DefaultText"
 msgid "[FROM: J. Tennyson, SUBJECT: Re: Anyone seen Private Taylor?]"
-msgstr ""
+msgstr "[FROM: J. Tennyson, SUBJECT: Re: Viděl někdo vojína Taylora?]"
 
 #: conversations/01_groundbreaker/01_cp_promenade_public_terminal_02:18
 msgctxt "conversations/01_groundbreaker/01_cp_promenade_public_terminal_02:18:DefaultText"
@@ -141,12 +147,12 @@ msgid "Groundbreaker Public Access Terminal\r\n"
 "Let Private Taylor serve as an example to the rest of you. He made the ultimate sacrifice for Groundbreaker's plumbing. Any of us should be prepared to do the same. \r\n"
 "\r\n"
 "J.T."
-msgstr ""
+msgstr "Veřejný přístupový terminál Groundbreaker ============================ OD: Tennyson, J: Inženýři_všichni PŘEDMĚT: Inženýři_všichni Re: Odvolejte pátrání, máme ho. Vítej zpátky, Taylore. Dejte se do pořádku. Ať vám ostatním slouží vojín Taylor jako příklad. Přinesl nejvyšší oběť pro instalatérské práce Groundbreakera. Každý z nás by měl být připraven udělat totéž. J.T."
 
 #: conversations/01_groundbreaker/01_cp_promenade_public_terminal_02:19
 msgctxt "conversations/01_groundbreaker/01_cp_promenade_public_terminal_02:19:DefaultText"
 msgid "[TO: IS_Conveyors_Collective, SUBJECT: Conveyors' Rights]"
-msgstr ""
+msgstr "[TO: IS_Conveyors_Collective, SUBJECT: Práva dopravců]"
 
 #: conversations/01_groundbreaker/01_cp_promenade_public_terminal_02:20
 msgctxt "conversations/01_groundbreaker/01_cp_promenade_public_terminal_02:20:DefaultText"
@@ -172,17 +178,17 @@ msgid "Groundbreaker Public Access Terminal\r\n"
 "We should do something about this. If you agree, leave a message here, and I'll respond when I get back from GenSan in three years.\n"
 "\n"
 "IceMan out."
-msgstr ""
+msgstr "Groundbreaker Public Access Terminal ============================ FROM: IceMan TO: IS_Conveyors_Collective SUBJECT: Právo dopravců Ahoj všichni, Tak jsem se právě vrátil z ledu z okružní cesty do Daškova. Dva roky venku, dva roky zpátky. Představte si moje překvapení, když jsme rozmrzli a komunikátor Groundbreakeru nám oznámil, že naše dokování bude \"zpožděné\". Z jedné hodiny se stalo pět. Pak uběhly dny! Nakonec jsme strávili celý zatracený týden čekáním na kotviště na tomhle Lawem zkurveném šroubovém kýblu. A protože jsme celou tu dobu kopali do pat, ani jeden z nás nedostal zaplaceno. Nevím, jak vy, ale já mám výdaje - rodinu, kterou nevidím dost často, dluh, kterému byste kurva nevěřili. A i když nepracuju, stejně musím platit. Připadá vám to správné? Nemáme my dopravci nějaká práva? Měli bychom s tím něco dělat. Jestli souhlasíš, nech mi tady vzkaz a já ti odpovím, až se za tři roky vrátím z GenSanu. IceMan končí."
 
 #: conversations/01_groundbreaker/01_cp_promenade_public_terminal_02:21
 msgctxt "conversations/01_groundbreaker/01_cp_promenade_public_terminal_02:21:DefaultText"
 msgid "[TO: IS_Conveyors_Collective, SUBJECT: Conveyors' Rights]"
-msgstr ""
+msgstr "[TO: IS_Conveyors_Collective, SUBJECT: Práva dopravců]"
 
 #: conversations/01_groundbreaker/01_cp_promenade_public_terminal_02:22
 msgctxt "conversations/01_groundbreaker/01_cp_promenade_public_terminal_02:22:DefaultText"
 msgid "[TO: IS_Conveyors_Collective, SUBJECT: Conveyors' Rights]"
-msgstr ""
+msgstr "[TO: IS_Conveyors_Collective, SUBJECT: Práva dopravců]"
 
 #: conversations/01_groundbreaker/01_cp_promenade_public_terminal_02:23
 msgctxt "conversations/01_groundbreaker/01_cp_promenade_public_terminal_02:23:DefaultText"
@@ -190,7 +196,7 @@ msgid "Groundbreaker Public Access Terminal\r\n"
 "============================\r\n"
 "\r\n"
 "This message is no longer accessible at your clearance level."
-msgstr ""
+msgstr "Veřejný přístupový terminál Groundbreaker ============================ Tato zpráva již není na vaší úrovni oprávnění přístupná."
 
 #: conversations/01_groundbreaker/01_cp_promenade_public_terminal_02:24
 msgctxt "conversations/01_groundbreaker/01_cp_promenade_public_terminal_02:24:DefaultText"
@@ -200,12 +206,12 @@ msgid "Groundbreaker Public Access Terminal\r\n"
 "This message is no longer accessible at your clearance level.\r\n"
 "\r\n"
 "Your attempt to access this message has been logged."
-msgstr ""
+msgstr "Veřejný přístupový terminál Groundbreaker ============================ Tato zpráva již není na vaší úrovni oprávnění přístupná. Váš pokus o přístup k této zprávě byl zaznamenán."
 
 #: conversations/01_groundbreaker/01_cp_promenade_public_terminal_02:25
 msgctxt "conversations/01_groundbreaker/01_cp_promenade_public_terminal_02:25:DefaultText"
 msgid "[TO: IS_Conveyors_Collective, SUBJECT: Conveyors' Rights]"
-msgstr ""
+msgstr "[TO: IS_Conveyors_Collective, SUBJECT: Práva dopravců]"
 
 #: conversations/01_groundbreaker/01_cp_promenade_public_terminal_02:26
 msgctxt "conversations/01_groundbreaker/01_cp_promenade_public_terminal_02:26:DefaultText"
@@ -219,12 +225,12 @@ msgid "Groundbreaker Public Access Terminal\r\n"
 "Searching...\r\n"
 "\r\n"
 "This message does not exist."
-msgstr ""
+msgstr "Groundbreaker Public Access Terminal ============================ Vyhledávání.... Vyhledávání... Vyhledávání... Tato zpráva neexistuje."
 
 #: conversations/01_groundbreaker/01_cp_promenade_public_terminal_02:43
 msgctxt "conversations/01_groundbreaker/01_cp_promenade_public_terminal_02:43:DefaultText"
 msgid "[Down on My Luck]"
-msgstr ""
+msgstr "[Mám smůlu]"
 
 #: conversations/01_groundbreaker/01_cp_promenade_public_terminal_02:44
 msgctxt "conversations/01_groundbreaker/01_cp_promenade_public_terminal_02:44:DefaultText"
@@ -236,12 +242,12 @@ msgid "Groundbreaker Public Access Terminal\r\n"
 "Now my credit is shot to hell and corporate freighters won't hire me on. I'm hoping someone with a bunk to spare and places to go is feeling charitable. Thanks for listening.\r\n"
 "\r\n"
 "[This notice has been posted 56 times in 632 days]"
-msgstr ""
+msgstr "Veřejně přístupný terminál Groundbreaker ============================ Ahoj, tak tady je můj příběh. Moje loď dorazila do Groundbreakeru v těžkém stavu. Nedokázali jsme zaplatit poplatky za opravy, dokovací poplatky, tankování ani poplatky za to, že jsme nebyli schopni zaplatit naše poplatky, takže jsem tu teď tak trochu uvízl. Pak mi sebrali loď a prodali ji jako šrot. Teď je můj kredit v háji a korporátní nákladní lodě mě nechtějí přijmout. Doufám, že někdo, kdo má volné lůžko a kam jít, cítí dobročinnost. Díky, že jste mě vyslechli [Toto oznámení bylo zveřejněno 56krát za 632 dní]."
 
 #: conversations/01_groundbreaker/01_cp_promenade_public_terminal_02:46
 msgctxt "conversations/01_groundbreaker/01_cp_promenade_public_terminal_02:46:DefaultText"
 msgid "[STOP LOOKING OR ELSE]"
-msgstr ""
+msgstr "[PŘESTAŇ SE DÍVAT, JINAK]"
 
 #: conversations/01_groundbreaker/01_cp_promenade_public_terminal_02:47
 msgctxt "conversations/01_groundbreaker/01_cp_promenade_public_terminal_02:47:DefaultText"
@@ -249,12 +255,12 @@ msgid "Groundbreaker Public Access Terminal\r\n"
 "============================\r\n"
 "\r\n"
 "Message contents empty."
-msgstr ""
+msgstr "Groundbreaker Public Access Terminal ============================ Obsah zprávy je prázdný."
 
 #: conversations/01_groundbreaker/01_cp_promenade_public_terminal_02:49
 msgctxt "conversations/01_groundbreaker/01_cp_promenade_public_terminal_02:49:DefaultText"
 msgid "[Looking for Work]"
-msgstr ""
+msgstr "[Hledám práci]"
 
 #: conversations/01_groundbreaker/01_cp_promenade_public_terminal_02:50
 msgctxt "conversations/01_groundbreaker/01_cp_promenade_public_terminal_02:50:DefaultText"
@@ -268,4 +274,8 @@ msgid "Groundbreaker Public Access Terminal\r\n"
 "I'd planned to take one of the rare long hauls back to Earth, but I haven't been able to find any, and even the shorter skips to the inner worlds seem rarer than the outer world routes these days.\n"
 "\n"
 "If anyone has any information about upcoming work please post it here. "
-msgstr ""
+msgstr "Groundbreaker Public Access Terminal ============================ Naléhavě hledá novou posádku, která by se přihlásila. Už skoro rok trčím v Halcyonu, nevím, co zdržuje mé další vyslání. \n"
+"\n"
+"Nikdy jsem nemusel čekat tak dlouho, abych se dostal na jinou nákladní loď. \n"
+"\n"
+"Měl jsem v plánu vzít si jednu ze vzácných dlouhých tras zpět na Zemi, ale nepodařilo se mi žádnou najít, a dokonce i kratší přesuny na vnitřní světy se v poslední době zdají být vzácnější než trasy na vnější svět. Pokud má někdo nějaké informace o nadcházející práci, napište je sem prosím. "

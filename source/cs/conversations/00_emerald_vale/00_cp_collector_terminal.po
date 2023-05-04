@@ -5,17 +5,17 @@ msgid "PERSONAL TERMINAL\r\n"
 "\r\n"
 "====================\r\n"
 ""
-msgstr ""
+msgstr "PERSONAL TERMINAL Clement Eldridge ===================="
 
 #: conversations/00_emerald_vale/00_cp_collector_terminal:4
 msgctxt "conversations/00_emerald_vale/00_cp_collector_terminal:4:DefaultText"
 msgid "[Messages]"
-msgstr ""
+msgstr "[Zprávy]"
 
 #: conversations/00_emerald_vale/00_cp_collector_terminal:5
 msgctxt "conversations/00_emerald_vale/00_cp_collector_terminal:5:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"
 
 #: conversations/00_emerald_vale/00_cp_collector_terminal:6
 msgctxt "conversations/00_emerald_vale/00_cp_collector_terminal:6:DefaultText"
@@ -25,12 +25,12 @@ msgid "PERSONAL TERMINAL\r\n"
 "====================\r\n"
 "\r\n"
 "Available Messages:"
-msgstr ""
+msgstr "PERSONAL TERMINAL Clement Eldridge ==================== Dostupné zprávy:"
 
 #: conversations/00_emerald_vale/00_cp_collector_terminal:7
 msgctxt "conversations/00_emerald_vale/00_cp_collector_terminal:7:DefaultText"
 msgid "[FROM: C. Eldridge]"
-msgstr ""
+msgstr "[OD: C. Eldridge]"
 
 #: conversations/00_emerald_vale/00_cp_collector_terminal:11
 msgctxt "conversations/00_emerald_vale/00_cp_collector_terminal:11:DefaultText"
@@ -45,12 +45,12 @@ msgid "FROM: Eldridge, C.\r\n"
 "I still think you're wrong about the history, though. The discovery of the skip drive was not what gave the Earth Directorate power over the corporations, the high costs of the Great War left them in a weakened state and the skip drive was simply the extra leverage the Directorate needed to return to power. \r\n"
 "\r\n"
 "- Clement"
-msgstr ""
+msgstr "OD: Bartell, J. PŘEDMĚT: Eldridge, C: Stále si však myslím, že se mýlíte v historii. Objev skokového pohonu nebyl tím, co dalo Pozemskému direktoriu moc nad korporacemi, vysoké náklady Velké války je zanechaly v oslabeném stavu a skokový pohon byl jen další pákou, kterou direktorium potřebovalo k návratu k moci.\" - Klement"
 
 #: conversations/00_emerald_vale/00_cp_collector_terminal:12
 msgctxt "conversations/00_emerald_vale/00_cp_collector_terminal:12:DefaultText"
 msgid "[FROM: J. Bartell]"
-msgstr ""
+msgstr "[OD: J. Bartell]"
 
 #: conversations/00_emerald_vale/00_cp_collector_terminal:13
 msgctxt "conversations/00_emerald_vale/00_cp_collector_terminal:13:DefaultText"
@@ -67,4 +67,4 @@ msgid "FROM: Bartell, J.\r\n"
 "Do you think the corporations would accept the mandated inclusion of an Earth Minister if they had a choice in the matter?\r\n"
 "\r\n"
 "- Jefferson"
-msgstr ""
+msgstr "OD: Bartell, J: Předmět: Vaše teorie Clemente, musím nesouhlasit s vašimi teoriemi o místě Ředitelství Země v koloniálním systému. Bohužel, jakkoli si vážím Ředitelství a nových hranic, které nám otevřelo, domnívám se, že Halcyon a všechny ostatní kolonie na okraji galaxie by se rozpadly nebo by mezi sebou válčily, kdyby tu nebylo Pozemské ředitelství, které by regulovalo obchod a urovnávalo spory. Myslíš, že by korporace akceptovaly povinné začlenění pozemského ministra, kdyby měly v této věci na výběr? - Jefferson."

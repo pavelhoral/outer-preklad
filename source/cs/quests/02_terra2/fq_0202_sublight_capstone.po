@@ -1,75 +1,75 @@
 #: quests/02_terra2/fq_0202_sublight_capstone:0
 msgctxt "quests/02_terra2/fq_0202_sublight_capstone:0:DefaultText"
 msgid "The Chimerist's Last Experiment"
-msgstr ""
+msgstr "Poslední chiméristův experiment"
 
 #: quests/02_terra2/fq_0202_sublight_capstone:2
 msgctxt "quests/02_terra2/fq_0202_sublight_capstone:2:DefaultText"
 msgid "Find and Kill Eva Chartrand"
-msgstr ""
+msgstr "Najít a zabít Evu Chartrandovou"
 
 #: quests/02_terra2/fq_0202_sublight_capstone:6
 msgctxt "quests/02_terra2/fq_0202_sublight_capstone:6:DefaultText"
 msgid "Return to Lilya Hagen"
-msgstr ""
+msgstr "Zpět: Lilya Hagen"
 
 #: quests/02_terra2/fq_0202_sublight_capstone:10000
 msgctxt "quests/02_terra2/fq_0202_sublight_capstone:10000:DefaultText"
 msgid "The evidence you found in Cascadia and on HRS-1084 convinced Lilya Hagen that Dr. Eva Chartrand is at the center of an alien invasion conspiracy. She wants Chartrand killed for the good of humanity. \r\n"
 "Chartrand is a Board-sponsored Chimerist - a scientist who manipulates the nuclein of plants and creatures from Earth to survive on colony worlds."
-msgstr ""
+msgstr "Důkazy, které jste našli v Cascadii a na HRS-1084, přesvědčily Lilyu Hagenovou, že doktorka Eva Chartrandová stojí v centru spiknutí mimozemské invaze. Chce Chartrandovou zabít pro dobro lidstva. Chartrandová je chimeristka sponzorovaná Radou - vědkyně, která manipuluje s jádry rostlin a tvorů ze Země, aby přežili na koloniálních světech."
 
 #: quests/02_terra2/fq_0202_sublight_capstone:10002
 msgctxt "quests/02_terra2/fq_0202_sublight_capstone:10002:DefaultText"
 msgid "Eva Chartrand's home is on Byzantium. Lilya gave you a keycard to the front door. "
-msgstr ""
+msgstr "Domov Evy Chartrandové se nachází v ulici Byzantium. Lilya vám dala kartu od vchodových dveří. "
 
 #: quests/02_terra2/fq_0202_sublight_capstone:10006
 msgctxt "quests/02_terra2/fq_0202_sublight_capstone:10006:DefaultText"
 msgid "Lilya will want to know what happened at Dr. Chartrand's estate. She can be found at SubLight Headquarters on the Groundbreaker."
-msgstr ""
+msgstr "Lilya bude chtít vědět, co se stalo na panství doktora Chartranda. Najdete ji na velitelství podsvětí na lodi Groundbreaker."
 
 #: quests/02_terra2/fq_0202_sublight_capstone:20000
 msgctxt "quests/02_terra2/fq_0202_sublight_capstone:20000:DefaultText"
 msgid "Now that Lilya is dead, no one else knows about her conspiracy theory. It may still be worth looking into Chartrand's estate."
-msgstr ""
+msgstr "Teď, když je Lilya mrtvá, nikdo jiný o její konspirační teorii neví. Možná by ještě stálo za to prozkoumat Chartrandovu pozůstalost."
 
 #: quests/02_terra2/fq_0202_sublight_capstone:20001
 msgctxt "quests/02_terra2/fq_0202_sublight_capstone:20001:DefaultText"
 msgid "You chose to spare Dr. Chartrand's life."
-msgstr ""
+msgstr "Rozhodl jste se ušetřit život doktora Chartranda."
 
 #: quests/02_terra2/fq_0202_sublight_capstone:30000
 msgctxt "quests/02_terra2/fq_0202_sublight_capstone:30000:DefaultText"
 msgid "In recognition of killing Dr. Chartrand, Lilya promoted you to Sublight's new Vice President of Aggressive Acquisitions."
-msgstr ""
+msgstr "Za zabití doktora Chartranda tě Lilya povýšila na nového viceprezidenta společnosti Sublight pro agresivní akvizice."
 
 #: quests/02_terra2/fq_0202_sublight_capstone:30001
 msgctxt "quests/02_terra2/fq_0202_sublight_capstone:30001:DefaultText"
 msgid "Lilya Hagen is dead, leaving no one the wiser with regards to who killed Dr. Chartrand or why. "
-msgstr ""
+msgstr "Lilya Hagenová je mrtvá a nikdo neví, kdo a proč doktora Chartranda zabil. "
 
 #: quests/02_terra2/fq_0202_sublight_capstone:30002
 msgctxt "quests/02_terra2/fq_0202_sublight_capstone:30002:DefaultText"
 msgid "You chose to spare Dr. Chartrand's life. Lilya wasn't pleased, and you parted ways less than amicably."
-msgstr ""
+msgstr "Rozhodl jste se ušetřit život doktora Chartranda. Lilya z toho nebyla nadšená a vaše cesty se rozešly méně než přátelsky."
 
 #: quests/02_terra2/fq_0202_sublight_capstone:30003
 msgctxt "quests/02_terra2/fq_0202_sublight_capstone:30003:DefaultText"
 msgid "You chose to spare Dr. Eva Chartrand's life. In exchange, she agreed to help carry out Phineas' plans for Halcyon. Lilya wasn't pleased, and you parted ways less than amicably."
-msgstr ""
+msgstr "Rozhodl jste se ušetřit život doktorky Evy Chartrandové. Výměnou za to souhlasila, že pomůže uskutečnit Phineasovy plány pro Halcyon. Lilya z toho nebyla nadšená a vaše cesty se rozešly nepříliš přátelsky."
 
 #: quests/02_terra2/fq_0202_sublight_capstone:30004
 msgctxt "quests/02_terra2/fq_0202_sublight_capstone:30004:DefaultText"
 msgid "You chose to spare Dr. Eva Chartrand's life. In exchange, she agreed to help carry out the Board's plans for Halcyon. Lilya wasn't pleased, and you parted ways less than amicably."
-msgstr ""
+msgstr "Rozhodl jste se ušetřit život doktorky Evy Chartrandové. Výměnou za to souhlasila, že pomůže uskutečnit plány správní rady pro Halcyon. Lilya z toho nebyla nadšená a vaše cesty se rozešly nepříliš přátelsky."
 
 #: quests/02_terra2/fq_0202_sublight_capstone:30005
 msgctxt "quests/02_terra2/fq_0202_sublight_capstone:30005:DefaultText"
 msgid "You chose to spare Dr. Eva Chartrand's life. In exchange, she agreed to help carry out Phineas' plans for Halcyon. "
-msgstr ""
+msgstr "Rozhodl jste se ušetřit život doktorky Evy Chartrandové. Výměnou za to souhlasila, že pomůže uskutečnit Phineasovy plány pro Halcyon. "
 
 #: quests/02_terra2/fq_0202_sublight_capstone:30008
 msgctxt "quests/02_terra2/fq_0202_sublight_capstone:30008:DefaultText"
 msgid "You chose to spare Dr. Chartrand's life. Lilya wasn't pleased, and you parted ways less than amicably."
-msgstr ""
+msgstr "Rozhodl jste se ušetřit život doktora Chartranda. Lilya z toho nebyla nadšená a vaše cesty se rozešly méně než přátelsky."

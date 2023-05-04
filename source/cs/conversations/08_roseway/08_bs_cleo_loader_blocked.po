@@ -1,29 +1,29 @@
 #: conversations/08_roseway/08_bs_cleo_loader_blocked:2
 msgctxt "conversations/08_roseway/08_bs_cleo_loader_blocked:2:DefaultText"
 msgid "Please clear the roadway."
-msgstr ""
+msgstr "Uvolněte prosím vozovku."
 
 #: conversations/08_roseway/08_bs_cleo_loader_blocked:3
 msgctxt "conversations/08_roseway/08_bs_cleo_loader_blocked:3:DefaultText"
 msgid "Obstruction of commerce is punishable by a fine of no less than ten thousand bits."
-msgstr ""
+msgstr "Maření obchodu se trestá pokutou nejméně deset tisíc bitů."
 
 #: conversations/08_roseway/08_bs_cleo_loader_blocked:4
 msgctxt "conversations/08_roseway/08_bs_cleo_loader_blocked:4:DefaultText"
 msgid "Warning. Pathing obstruction."
-msgstr ""
+msgstr "Varování. Překážka na cestě."
 
 #: conversations/08_roseway/08_bs_cleo_loader_blocked:5
 msgctxt "conversations/08_roseway/08_bs_cleo_loader_blocked:5:DefaultText"
 msgid "Organic materials detected on roadway. Please ensure mechanisms are free of gristle."
-msgstr ""
+msgstr "Organické materiály zjištěné na vozovce. Zajistěte, aby mechanismy neobsahovaly chrupavky."
 
 #: conversations/08_roseway/08_bs_cleo_loader_blocked:6
 msgctxt "conversations/08_roseway/08_bs_cleo_loader_blocked:6:DefaultText"
 msgid "Delays in loading due to commerce obstruction will be deducted from all staff pay."
-msgstr ""
+msgstr "Za zpoždění při nakládce způsobené překážkou v obchodě se všem zaměstnancům strhává z platu."
 
 #: conversations/08_roseway/08_bs_cleo_loader_blocked:7
 msgctxt "conversations/08_roseway/08_bs_cleo_loader_blocked:7:DefaultText"
 msgid "Employee, you have been fined an additional 200 bits for commerce obstruction. Please collect your ticket."
-msgstr ""
+msgstr "Zaměstnanče, byla ti uložena další pokuta 200 bitů za maření obchodu. Vyzvedněte si prosím pokutu."

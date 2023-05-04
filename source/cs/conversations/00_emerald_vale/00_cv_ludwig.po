@@ -1,694 +1,694 @@
 #: conversations/00_emerald_vale/00_cv_ludwig:1
 msgctxt "conversations/00_emerald_vale/00_cv_ludwig:1:DefaultText"
 msgid "Thank the Law. I've been requisitioning backup for months. Guess the boss finally came to his senses."
-msgstr ""
+msgstr "Poděkujte zákonu. Už měsíce sháním zálohy. Hádám, že šéf konečně dostal rozum."
 
 #: conversations/00_emerald_vale/00_cv_ludwig:2
 msgctxt "conversations/00_emerald_vale/00_cv_ludwig:2:DefaultText"
 msgid "Colony ain't gonna liberate itself. The Resistance needs every gunhand."
-msgstr ""
+msgstr "Kolonie se sama neosvobodí. Odboj potřebuje každou ruku se zbraní."
 
 #: conversations/00_emerald_vale/00_cv_ludwig:3
 msgctxt "conversations/00_emerald_vale/00_cv_ludwig:3:DefaultText"
 msgid "You ever swung a truncheon? Let me see your rifling stance. I wanna make sure you're up to snuff."
-msgstr ""
+msgstr "Už jsi někdy máchal obuškem? Ukažte mi svůj postoj při střelbě. Chci se ujistit, že jsi v pořádku."
 
 #: conversations/00_emerald_vale/00_cv_ludwig:4
 msgctxt "conversations/00_emerald_vale/00_cv_ludwig:4:DefaultText"
 msgid "What are you babbling about?"
-msgstr ""
+msgstr "O čem to blábolíš?"
 
 #: conversations/00_emerald_vale/00_cv_ludwig:5
 msgctxt "conversations/00_emerald_vale/00_cv_ludwig:5:DefaultText"
 msgid "Silas sent me. You owe him your gravesite fees."
-msgstr ""
+msgstr "Poslal mě Silas. Dlužíš mu poplatky za hrob."
 
 #: conversations/00_emerald_vale/00_cv_ludwig:6
 msgctxt "conversations/00_emerald_vale/00_cv_ludwig:6:DefaultText"
 msgid "I'll let you be."
-msgstr ""
+msgstr "Nechám tě být."
 
 #: conversations/00_emerald_vale/00_cv_ludwig:7
 msgctxt "conversations/00_emerald_vale/00_cv_ludwig:7:DefaultText"
 msgid "The war! The coming apocalypse. Man versus machine."
-msgstr ""
+msgstr "Válka! Blížící se apokalypsa. Člověk proti stroji."
 
 #: conversations/00_emerald_vale/00_cv_ludwig:8
 msgctxt "conversations/00_emerald_vale/00_cv_ludwig:8:DefaultText"
 msgid "I told Silas I'd pay my dues if he agreed to join the Resistance. Guess this means he's finally heard the calling."
-msgstr ""
+msgstr "Řekl jsem Silasovi, že zaplatím své příspěvky, pokud bude souhlasit s tím, že se připojí k Odboji. Hádám, že to znamená, že konečně vyslyšel volání."
 
 #: conversations/00_emerald_vale/00_cv_ludwig:13
 msgctxt "conversations/00_emerald_vale/00_cv_ludwig:13:DefaultText"
 msgid "Go on."
-msgstr ""
+msgstr "Pokračujte."
 
 #: conversations/00_emerald_vale/00_cv_ludwig:16
 msgctxt "conversations/00_emerald_vale/00_cv_ludwig:16:DefaultText"
 msgid "He sure did. And he's asking for a little extra. To, uh, furnish the Resistance with mechanical repellant."
-msgstr ""
+msgstr "Určitě ano. A žádá o něco navíc. Aby vybavil odboj mechanickým repelentem."
 
 #: conversations/00_emerald_vale/00_cv_ludwig:17
 msgctxt "conversations/00_emerald_vale/00_cv_ludwig:17:DefaultText"
 msgid "Mechanical repellant! A stroke of inspiration from the Law itself. Here, I've been saving up a couple bits for just such a project."
-msgstr ""
+msgstr "Mechanický repelent! Inspirace samotným zákonem. Tady jsem si schovával pár kousků právě pro takový projekt."
 
 #: conversations/00_emerald_vale/00_cv_ludwig:18
 msgctxt "conversations/00_emerald_vale/00_cv_ludwig:18:DefaultText"
 msgid "Got a question for you."
-msgstr ""
+msgstr "Mám na vás otázku."
 
 #: conversations/00_emerald_vale/00_cv_ludwig:19
 msgctxt "conversations/00_emerald_vale/00_cv_ludwig:19:DefaultText"
 msgid "I'm talking about mechanicals, soldier. Cold, heartless automatons made of iron and lies."
-msgstr ""
+msgstr "Mluvím o mechanikách, vojáku. Chladné, bezcitné automaty ze železa a lží."
 
 #: conversations/00_emerald_vale/00_cv_ludwig:20
 msgctxt "conversations/00_emerald_vale/00_cv_ludwig:20:DefaultText"
 msgid "I don't know what you're talking about."
-msgstr ""
+msgstr "Nevím, o čem mluvíte."
 
 #: conversations/00_emerald_vale/00_cv_ludwig:21
 msgctxt "conversations/00_emerald_vale/00_cv_ludwig:21:DefaultText"
 msgid "Uh. Yeah. Gotta watch out for those mechanicals."
-msgstr ""
+msgstr "Jo. Musíš si dávat pozor na ty mechaniky."
 
 #: conversations/00_emerald_vale/00_cv_ludwig:22
 msgctxt "conversations/00_emerald_vale/00_cv_ludwig:22:DefaultText"
 msgid "Well, fuck me."
-msgstr ""
+msgstr "Tak to mě poser."
 
 #: conversations/00_emerald_vale/00_cv_ludwig:23
 msgctxt "conversations/00_emerald_vale/00_cv_ludwig:23:DefaultText"
 msgid "Oh, they mean to. Just you wait."
-msgstr ""
+msgstr "Oh, chtějí. Jen počkejte."
 
 #: conversations/00_emerald_vale/00_cv_ludwig:24
 msgctxt "conversations/00_emerald_vale/00_cv_ludwig:24:DefaultText"
 msgid "That's right. That's what I been saying. We gotta square our shoulders and stand ever vigilant."
-msgstr ""
+msgstr "Přesně tak. Přesně to jsem říkal. Musíme si srovnat ramena a být stále ve střehu."
 
 #: conversations/00_emerald_vale/00_cv_ludwig:25
 msgctxt "conversations/00_emerald_vale/00_cv_ludwig:25:DefaultText"
 msgid "Just my luck. I ask for backup and the boss sends me one of them simple folk. All right. Listen real close."
-msgstr ""
+msgstr "Mám prostě štěstí. Požádám o posilu a šéf mi pošle jednoho z těch prosťáčků. Dobře. Poslouchej pozorně."
 
 #: conversations/00_emerald_vale/00_cv_ludwig:26
 msgctxt "conversations/00_emerald_vale/00_cv_ludwig:26:DefaultText"
 msgid "What exactly do you do here?"
-msgstr ""
+msgstr "Co přesně zde děláte?"
 
 #: conversations/00_emerald_vale/00_cv_ludwig:27
 msgctxt "conversations/00_emerald_vale/00_cv_ludwig:27:DefaultText"
 msgid "Au. To. Mechanicals. Creatures forged in the fires of malevolence. I seen them over by the old power plant. Clattering about. Firing at the birds. Orchestrating their uprising. "
-msgstr ""
+msgstr "Au. Pro. Mechanics. Stvoření ukovaná v ohni zlovůle. Viděl jsem je u staré elektrárny. Křepčící kolem. Stříleli na ptáky. Organizují jejich povstání. "
 
 #: conversations/00_emerald_vale/00_cv_ludwig:28
 msgctxt "conversations/00_emerald_vale/00_cv_ludwig:28:DefaultText"
 msgid "When the swarms of mechanicals come clanging on over that hill, where will you be? Cowering beneath your cot? Or standing shoulder to shoulder with the Resistance?"
-msgstr ""
+msgstr "Kde budeš, až se přes kopec přeženou houfy mechaniků? Krčit se pod svou postýlkou? Nebo budete stát bok po boku s Odbojem?"
 
 #: conversations/00_emerald_vale/00_cv_ludwig:29
 msgctxt "conversations/00_emerald_vale/00_cv_ludwig:29:DefaultText"
 msgid "I'm Ludwig Miller. Associate Security Officer for Transportation. Officially."
-msgstr ""
+msgstr "Jsem Ludwig Miller. Zástupce bezpečnostního pracovníka pro dopravu. Oficiálně."
 
 #: conversations/00_emerald_vale/00_cv_ludwig:30
 msgctxt "conversations/00_emerald_vale/00_cv_ludwig:30:DefaultText"
 msgid "Unofficially? Strictly between you and me? I am the only thing standing between Edgewater and total annihilation."
-msgstr ""
+msgstr "Neoficiálně? Čistě mezi námi dvěma? Já jsem jediná věc, která stojí mezi Edgewaterem a úplným zničením."
 
 #: conversations/00_emerald_vale/00_cv_ludwig:34
 msgctxt "conversations/00_emerald_vale/00_cv_ludwig:34:DefaultText"
 msgid "What can I do to stop the coming apocalypse?"
-msgstr ""
+msgstr "Co mohu udělat, abych zastavil nadcházející apokalypsu?"
 
 #: conversations/00_emerald_vale/00_cv_ludwig:35
 msgctxt "conversations/00_emerald_vale/00_cv_ludwig:35:DefaultText"
 msgid "You can gird yourself in the armor of righteousness, soldier. From this moment on, you are a proud member of the Resistance."
-msgstr ""
+msgstr "Můžeš se opásat zbrojí spravedlnosti, vojáku. Od této chvíle jsi hrdým členem odboje."
 
 #: conversations/00_emerald_vale/00_cv_ludwig:36
 msgctxt "conversations/00_emerald_vale/00_cv_ludwig:36:DefaultText"
 msgid "They have sent a scout. Prowling around the junkyard, just behind our beloved town."
-msgstr ""
+msgstr "Vyslali zvěda. Slídí po skládce hned za naším milovaným městem."
 
 #: conversations/00_emerald_vale/00_cv_ludwig:37
 msgctxt "conversations/00_emerald_vale/00_cv_ludwig:37:DefaultText"
 msgid "This scout must not be permitted to return to its base of operations. Cross it off, then report back."
-msgstr ""
+msgstr "Tento průzkumník se nesmí vrátit na svou operační základnu. Vyškrtněte ji a podejte zprávu."
 
 #: conversations/00_emerald_vale/00_cv_ludwig:38
 msgctxt "conversations/00_emerald_vale/00_cv_ludwig:38:DefaultText"
 msgid "You won't have to worry about that scout anymore."
-msgstr ""
+msgstr "Už se nemusíte starat o toho zvěda."
 
 #: conversations/00_emerald_vale/00_cv_ludwig:39
 msgctxt "conversations/00_emerald_vale/00_cv_ludwig:39:DefaultText"
 msgid "You beat that scout to scrap with its own legs? Pulled its optic cables out its headcase? Actually, don't tell me. Rather use my imagination."
-msgstr ""
+msgstr "Ty jsi toho skauta porazil na šrot jeho vlastníma nohama? Vytáhl jsi mu optické kabely z hlavové skříně? Vlastně mi to neříkej. Spíš použij mou představivost."
 
 #: conversations/00_emerald_vale/00_cv_ludwig:40
 msgctxt "conversations/00_emerald_vale/00_cv_ludwig:40:DefaultText"
 msgid "You are a passing fair soldier, I will confess. But you are one, and the enemy is legion. What you need is an equalizer. A weapon to strike fear in their cold, mechanical hearts."
-msgstr ""
+msgstr "Přiznávám, že jsi poctivý voják. Ale jsi jen jeden a nepřátel je celá legie. Potřebuješ vyrovnávače. Zbraň, která jim vžene strach do jejich chladných, mechanických srdcí."
 
 #: conversations/00_emerald_vale/00_cv_ludwig:41
 msgctxt "conversations/00_emerald_vale/00_cv_ludwig:41:DefaultText"
 msgid "Cantina. Lavatory. Behind one of the toilets. That's where I've kept it hidden all these years. "
-msgstr ""
+msgstr "Kantýna. Toalety. Za jednou z toalet. Tam jsem ho celé ty roky schovával. "
 
 #: conversations/00_emerald_vale/00_cv_ludwig:42
 msgctxt "conversations/00_emerald_vale/00_cv_ludwig:42:DefaultText"
 msgid "You hid your secret weapon in a lavatory."
-msgstr ""
+msgstr "Svou tajnou zbraň jsi ukryl na záchodě."
 
 #: conversations/00_emerald_vale/00_cv_ludwig:43
 msgctxt "conversations/00_emerald_vale/00_cv_ludwig:43:DefaultText"
 msgid "Sharp, ain't it? The lavatory is the very last place a mechanical has need to enter."
-msgstr ""
+msgstr "Ostré, že? Toaleta je to poslední místo, kam mechanik potřebuje vstoupit."
 
 #: conversations/00_emerald_vale/00_cv_ludwig:44
 msgctxt "conversations/00_emerald_vale/00_cv_ludwig:44:DefaultText"
 msgid "I'll let you know if I find it."
-msgstr ""
+msgstr "Dám vám vědět, jestli ji najdu."
 
 #: conversations/00_emerald_vale/00_cv_ludwig:45
 msgctxt "conversations/00_emerald_vale/00_cv_ludwig:45:DefaultText"
 msgid "On the double, soldier. Don't want the bartender poking around in there with a mop."
-msgstr ""
+msgstr "Na dvojnásobek, vojáku. Nechci, aby se tam barman hrabal s mopem."
 
 #: conversations/00_emerald_vale/00_cv_ludwig:46
 msgctxt "conversations/00_emerald_vale/00_cv_ludwig:46:DefaultText"
 msgid "I found this bundle stashed away there."
-msgstr ""
+msgstr "Našel jsem tam schovaný tento svazek."
 
 #: conversations/00_emerald_vale/00_cv_ludwig:47
 msgctxt "conversations/00_emerald_vale/00_cv_ludwig:47:DefaultText"
 msgid "What, all by yourself? I could've swore I hid that bundle safe from prying eyes. Give it here."
-msgstr ""
+msgstr "Cože, úplně sám? Přísahal bych, že jsem ten balík schoval před zvědavýma očima. Dej to sem."
 
 #: conversations/00_emerald_vale/00_cv_ludwig:48
 msgctxt "conversations/00_emerald_vale/00_cv_ludwig:48:DefaultText"
 msgid "I found that package you mentioned."
-msgstr ""
+msgstr "Našel jsem ten balíček, který jste zmínil."
 
 #: conversations/00_emerald_vale/00_cv_ludwig:49
 msgctxt "conversations/00_emerald_vale/00_cv_ludwig:49:DefaultText"
 msgid "Feast your eyes, soldier. This here's a genuine Spacer's Choice Injury Customizing Unit, designed to deliver a lethal blast of electrical discharge. I call it the Hand of the Law."
-msgstr ""
+msgstr "Pokochej se, vojáku. Tohle je skutečná jednotka pro přizpůsobení zranění Spacer's Choice, navržená tak, aby poskytovala smrtící elektrický výboj. Říkám jí Ruka zákona."
 
 #: conversations/00_emerald_vale/00_cv_ludwig:50
 msgctxt "conversations/00_emerald_vale/00_cv_ludwig:50:DefaultText"
 msgid "You ever wanna see a mechanical flailing around like a grounded fish, you stick a couple thousand volts in its guts, with compliments from old Ludwig."
-msgstr ""
+msgstr "Jestli chceš někdy vidět mechaniku, která se zmítá jako uzemněná ryba, vraž jí do útrob pár tisíc voltů, s poklonou od starého Ludwiga."
 
 #: conversations/00_emerald_vale/00_cv_ludwig:52
 msgctxt "conversations/00_emerald_vale/00_cv_ludwig:52:DefaultText"
 msgid "I need you to get us the brain of a mechanical. Well, not exactly a brain. Anatomically speaking, what we're looking for is a logic module."
-msgstr ""
+msgstr "Potřebuji, abys nám sehnal mozek mechanika. No, ne tak docela mozek. Anatomicky řečeno, hledáme logický modul."
 
 #: conversations/00_emerald_vale/00_cv_ludwig:54
 msgctxt "conversations/00_emerald_vale/00_cv_ludwig:54:DefaultText"
 msgid "You mentioned a logic module. I found one in the geothermal plant."
-msgstr ""
+msgstr "Zmínil jste logický modul. Jeden jsem našel v geotermální elektrárně."
 
 #: conversations/00_emerald_vale/00_cv_ludwig:55
 msgctxt "conversations/00_emerald_vale/00_cv_ludwig:55:DefaultText"
 msgid "Bang-up work, soldier. You're a credit to your uniform. Oh, that reminds me. Gotta look into getting us a uniform."
-msgstr ""
+msgstr "Skvělá práce, vojáku. Děláš čest své uniformě. To mi připomíná. Musím se podívat na to, jak nám sehnat uniformu."
 
 #: conversations/00_emerald_vale/00_cv_ludwig:58
 msgctxt "conversations/00_emerald_vale/00_cv_ludwig:58:DefaultText"
 msgid "So this is it, then. The key to humanity's victory over the mechanical hordes. "
-msgstr ""
+msgstr "Takže je to tady. Klíč k vítězství lidstva nad mechanickými hordami. "
 
 #: conversations/00_emerald_vale/00_cv_ludwig:59
 msgctxt "conversations/00_emerald_vale/00_cv_ludwig:59:DefaultText"
 msgid "Take care."
-msgstr ""
+msgstr "Dávejte na sebe pozor."
 
 #: conversations/00_emerald_vale/00_cv_ludwig:60
 msgctxt "conversations/00_emerald_vale/00_cv_ludwig:60:DefaultText"
 msgid "I found this bundle in the cantina's lavatory. I think it's yours."
-msgstr ""
+msgstr "Tento svazek jsem našel na záchodě v kantýně. Myslím, že je tvůj."
 
 #: conversations/00_emerald_vale/00_cv_ludwig:61
 msgctxt "conversations/00_emerald_vale/00_cv_ludwig:61:DefaultText"
 msgid "It is indeed, and I will thank you to hand it here. You got some quick eyes, what with detecting my carefully hidden cache. Resistance could use your talents."
-msgstr ""
+msgstr "To skutečně je a já vám děkuji, že jste mi ji předal. Máš rychlé oči, když jsi odhalil mou pečlivě ukrytou skrýš. Odboj by mohl využít tvůj talent."
 
 #: conversations/00_emerald_vale/00_cv_ludwig:62
 msgctxt "conversations/00_emerald_vale/00_cv_ludwig:62:DefaultText"
 msgid "Resistance?"
-msgstr ""
+msgstr "Odpor?"
 
 #: conversations/00_emerald_vale/00_cv_ludwig:63
 msgctxt "conversations/00_emerald_vale/00_cv_ludwig:63:DefaultText"
 msgid "Not this automechanical uprising nonsense again."
-msgstr ""
+msgstr "Zase ten nesmysl s automechanickým povstáním."
 
 #: conversations/00_emerald_vale/00_cv_ludwig:65
 msgctxt "conversations/00_emerald_vale/00_cv_ludwig:65:DefaultText"
 msgid "I'm leaving."
-msgstr ""
+msgstr "Odcházím."
 
 #: conversations/00_emerald_vale/00_cv_ludwig:66
 msgctxt "conversations/00_emerald_vale/00_cv_ludwig:66:DefaultText"
 msgid "An army of automechanicals planning the total destruction of the human race is the very opposite of nonsense. It's - uh - *non*-nonsense."
-msgstr ""
+msgstr "Armáda automechaniků plánujících totální zničení lidské rasy je pravým opakem nesmyslu. Je to - ehm - *ne*nesmysl."
 
 #: conversations/00_emerald_vale/00_cv_ludwig:67
 msgctxt "conversations/00_emerald_vale/00_cv_ludwig:67:DefaultText"
 msgid "In fact, I think the time's coming to unwrap that package you delivered me. Which, unbeknownst to you, housed a mighty weapon."
-msgstr ""
+msgstr "Vlastně si myslím, že se blíží čas rozbalit ten balíček, který jsi mi doručil. Který, aniž bys to věděl, skrýval mocnou zbraň."
 
 #: conversations/00_emerald_vale/00_cv_ludwig:68
 msgctxt "conversations/00_emerald_vale/00_cv_ludwig:68:DefaultText"
 msgid "Sounds like fun."
-msgstr ""
+msgstr "Zní to jako zábava."
 
 #: conversations/00_emerald_vale/00_cv_ludwig:69
 msgctxt "conversations/00_emerald_vale/00_cv_ludwig:69:DefaultText"
 msgid "Fun? This ain't some quarterly performance review, soldier. Ours is a grave and sacred duty."
-msgstr ""
+msgstr "Zábava? Tohle není žádné čtvrtletní hodnocení výkonnosti, vojáku. Je to vážná a posvátná povinnost."
 
 #: conversations/00_emerald_vale/00_cv_ludwig:70
 msgctxt "conversations/00_emerald_vale/00_cv_ludwig:70:DefaultText"
 msgid "So what's next?"
-msgstr ""
+msgstr "Co bude dál?"
 
 #: conversations/00_emerald_vale/00_cv_ludwig:71
 msgctxt "conversations/00_emerald_vale/00_cv_ludwig:71:DefaultText"
 msgid "Don't worry about that. I've already got a passcode from Reed."
-msgstr ""
+msgstr "S tím si nedělejte starosti. Už mám přístupový kód od Reeda."
 
 #: conversations/00_emerald_vale/00_cv_ludwig:72
 msgctxt "conversations/00_emerald_vale/00_cv_ludwig:72:DefaultText"
 msgid "I been after a passcode for years. Boss said no, on account of my 'gross incompetence with all matters related to security.'"
-msgstr ""
+msgstr "Po přístupovém kódu toužím už roky. Šéf řekl, že ne, kvůli mé \"hrubé neschopnosti ve všech záležitostech týkajících se bezpečnosti\"."
 
 #: conversations/00_emerald_vale/00_cv_ludwig:73
 msgctxt "conversations/00_emerald_vale/00_cv_ludwig:73:DefaultText"
 msgid "Time's come for you to journey down into the black heart of the enemy's camp. I'm talking about the old geothermal plant."
-msgstr ""
+msgstr "Nastal čas, abys sestoupil do černého srdce nepřátelského tábora. Mluvím o staré geotermální elektrárně."
 
 #: conversations/00_emerald_vale/00_cv_ludwig:74
 msgctxt "conversations/00_emerald_vale/00_cv_ludwig:74:DefaultText"
 msgid "I feel like I'm going to regret getting mixed up in this."
-msgstr ""
+msgstr "Mám pocit, že budu litovat, že jsem se do toho zapletl."
 
 #: conversations/00_emerald_vale/00_cv_ludwig:75
 msgctxt "conversations/00_emerald_vale/00_cv_ludwig:75:DefaultText"
 msgid "I've already taken care of it."
-msgstr ""
+msgstr "Už jsem se o to postaral."
 
 #: conversations/00_emerald_vale/00_cv_ludwig:76
 msgctxt "conversations/00_emerald_vale/00_cv_ludwig:76:DefaultText"
 msgid "You did? Well, color me impressed, soldier. Wish I had a dozen recruits with your gumption."
-msgstr ""
+msgstr "Opravdu? No, to na mě udělalo dojem, vojáku. Kéž bych měl tucet rekrutů s tvou odvahou."
 
 #: conversations/00_emerald_vale/00_cv_ludwig:78
 msgctxt "conversations/00_emerald_vale/00_cv_ludwig:78:DefaultText"
 msgid "What do you have against mechanicals?"
-msgstr ""
+msgstr "Co máte proti mechanikům?"
 
 #: conversations/00_emerald_vale/00_cv_ludwig:79
 msgctxt "conversations/00_emerald_vale/00_cv_ludwig:79:DefaultText"
 msgid "You ever seen the way a mechanical just stands there? Just looking at you? Scanning you with its murderous oculars?"
-msgstr ""
+msgstr "Viděli jste někdy, jak tam mechanik prostě stojí? Jak se na vás dívá? Skenuje vás svými vražednými očními bulvami?"
 
 #: conversations/00_emerald_vale/00_cv_ludwig:80
 msgctxt "conversations/00_emerald_vale/00_cv_ludwig:80:DefaultText"
 msgid "First they will rob us of our jobs - and once they have taken away our livelihoods, they will take away our very lives. "
-msgstr ""
+msgstr "Nejprve nás připraví o práci - a jakmile nás připraví o živobytí, připraví nás i o život. "
 
 #: conversations/00_emerald_vale/00_cv_ludwig:81
 msgctxt "conversations/00_emerald_vale/00_cv_ludwig:81:DefaultText"
 msgid "Can't say I have."
-msgstr ""
+msgstr "Nemůžu říct, že bych to udělal."
 
 #: conversations/00_emerald_vale/00_cv_ludwig:82
 msgctxt "conversations/00_emerald_vale/00_cv_ludwig:82:DefaultText"
 msgid "It's pretty creepy."
-msgstr ""
+msgstr "Je to dost děsivé."
 
 #: conversations/00_emerald_vale/00_cv_ludwig:83
 msgctxt "conversations/00_emerald_vale/00_cv_ludwig:83:DefaultText"
 msgid "I'm pretty sure that's what they were programmed to do."
-msgstr ""
+msgstr "Jsem si jistý, že k tomu byly naprogramovány."
 
 #: conversations/00_emerald_vale/00_cv_ludwig:84
 msgctxt "conversations/00_emerald_vale/00_cv_ludwig:84:DefaultText"
 msgid "Pray to the Law that you never do. A mechanical never forgets the face of its enemy."
-msgstr ""
+msgstr "Modlete se k Zákonu, abyste to nikdy neudělali. Mechanický nikdy nezapomene na tvář svého nepřítele."
 
 #: conversations/00_emerald_vale/00_cv_ludwig:86
 msgctxt "conversations/00_emerald_vale/00_cv_ludwig:86:DefaultText"
 msgid "Mechanicals have been programmed to eliminate the human race. They have been programmed to replace us."
-msgstr ""
+msgstr "Mechanické stroje byly naprogramovány tak, aby zlikvidovaly lidskou rasu. Byly naprogramovány, aby nás nahradily."
 
 #: conversations/00_emerald_vale/00_cv_ludwig:87
 msgctxt "conversations/00_emerald_vale/00_cv_ludwig:87:DefaultText"
 msgid "If your Resistance needs another gun, I am for hire."
-msgstr ""
+msgstr "Pokud vaše rezistence potřebuje další zbraň, jsem k pronájmu."
 
 #: conversations/00_emerald_vale/00_cv_ludwig:88
 msgctxt "conversations/00_emerald_vale/00_cv_ludwig:88:DefaultText"
 msgid "I been gathering up a war chest over the years. Saltuna cans, mostly. Some Spacer's Chaw. Few bit carts. I'll reward you for your aid."
-msgstr ""
+msgstr "V průběhu let jsem shromažďoval válečnou zásobu. Většinou plechovky Saltuna. Nějaké Spacer's Chaw. Pár vozíků. Odměním tě za tvou pomoc."
 
 #: conversations/00_emerald_vale/00_cv_ludwig:89
 msgctxt "conversations/00_emerald_vale/00_cv_ludwig:89:DefaultText"
 msgid "What do you need done?"
-msgstr ""
+msgstr "Co potřebujete udělat?"
 
 #: conversations/00_emerald_vale/00_cv_ludwig:90
 msgctxt "conversations/00_emerald_vale/00_cv_ludwig:90:DefaultText"
 msgid "Proper armies pay enlistment fees."
-msgstr ""
+msgstr "Řádné armády platí odvody."
 
 #: conversations/00_emerald_vale/00_cv_ludwig:91
 msgctxt "conversations/00_emerald_vale/00_cv_ludwig:91:DefaultText"
 msgid "Enlistment fees? Yeah, I suppose. Wouldn't want to give the Resistance a bad name."
-msgstr ""
+msgstr "Narukovací poplatky? Ano, předpokládám. Nerad bych dělal odboji špatné jméno."
 
 #: conversations/00_emerald_vale/00_cv_ludwig:92
 msgctxt "conversations/00_emerald_vale/00_cv_ludwig:92:DefaultText"
 msgid "Shouldn't I be paying you some kind of enlistment fee?"
-msgstr ""
+msgstr "Neměl bych ti platit nějaký poplatek za přijetí?"
 
 #: conversations/00_emerald_vale/00_cv_ludwig:93
 msgctxt "conversations/00_emerald_vale/00_cv_ludwig:93:DefaultText"
 msgid "Now that you mention it, yeah. You probably should. Tell you what - I will waive your enlistment fee, as a sign of good faith toward my newest - and only - recruit."
-msgstr ""
+msgstr "Když už jsi to zmínil, tak jo. Asi bys měl. Něco ti řeknu - na znamení dobré vůle vůči mému nejnovějšímu - a jedinému - rekrutovi ti odpustím poplatek za přijetí."
 
 #: conversations/00_emerald_vale/00_cv_ludwig:98
 msgctxt "conversations/00_emerald_vale/00_cv_ludwig:98:DefaultText"
 msgid "Unfortunately, the old plant lies outside my Board-given jurisdiction. You'll need to get a passcode from the boss, Reed Tobson."
-msgstr ""
+msgstr "Bohužel stará elektrárna leží mimo mou pravomoc danou radou. Musíte získat přístupový kód od šéfa Reeda Tobsona."
 
 #: conversations/00_emerald_vale/00_cv_ludwig:99
 msgctxt "conversations/00_emerald_vale/00_cv_ludwig:99:DefaultText"
 msgid "If you die horribly, I will pour out a can of Zero Gee to your memory."
-msgstr ""
+msgstr "Pokud zemřeš strašlivou smrtí, vyleju na tvou památku plechovku Zero Gee."
 
 #: conversations/00_emerald_vale/00_cv_ludwig:100
 msgctxt "conversations/00_emerald_vale/00_cv_ludwig:100:DefaultText"
 msgid "How am I supposed to get one of these logic modules?"
-msgstr ""
+msgstr "Jak mám získat jeden z těchto logických modulů?"
 
 #: conversations/00_emerald_vale/00_cv_ludwig:101
 msgctxt "conversations/00_emerald_vale/00_cv_ludwig:101:DefaultText"
 msgid "What are you planning?"
-msgstr ""
+msgstr "Co plánujete?"
 
 #: conversations/00_emerald_vale/00_cv_ludwig:102
 msgctxt "conversations/00_emerald_vale/00_cv_ludwig:102:DefaultText"
 msgid "Seems simple enough."
-msgstr ""
+msgstr "Zdá se to být jednoduché."
 
 #: conversations/00_emerald_vale/00_cv_ludwig:103
 msgctxt "conversations/00_emerald_vale/00_cv_ludwig:103:DefaultText"
 msgid "There's the rub. If a mechanical breaks down, the logic module fries. So you can't rip one out of its corpse. You're gonna have to find an intact model somehow."
-msgstr ""
+msgstr "V tom je ten háček. Pokud se porouchá mechanika, logický modul se usmaží. Takže ho nemůžete vytrhnout z jeho mrtvoly. Musíte nějak najít nepoškozený model."
 
 #: conversations/00_emerald_vale/00_cv_ludwig:104
 msgctxt "conversations/00_emerald_vale/00_cv_ludwig:104:DefaultText"
 msgid "Don't tell anyone, all right? I've got a contact. A real expert in the inner workings of the automaton. We are gonna rip those mechanicals' secrets right out of their circuits."
-msgstr ""
+msgstr "Nikomu to neříkej, dobře? Mám na tebe kontakt. Skutečného odborníka na vnitřní fungování automatu. Vyrveme těm mechanikům tajemství přímo z jejich obvodů."
 
 #: conversations/00_emerald_vale/00_cv_ludwig:105
 msgctxt "conversations/00_emerald_vale/00_cv_ludwig:105:DefaultText"
 msgid "What do you expect I'll find down there?"
-msgstr ""
+msgstr "Co myslíte, že tam dole najdu?"
 
 #: conversations/00_emerald_vale/00_cv_ludwig:106
 msgctxt "conversations/00_emerald_vale/00_cv_ludwig:106:DefaultText"
 msgid "I get it. You want me to go undercover as a mechanical. Learn their ways."
-msgstr ""
+msgstr "Chápu to. Chceš, abych se v přestrojení vydával za mechanika. Naučit se jejich způsoby."
 
 #: conversations/00_emerald_vale/00_cv_ludwig:107
 msgctxt "conversations/00_emerald_vale/00_cv_ludwig:107:DefaultText"
 msgid "You got pluck, kid. But no. Can't risk having you go native. "
-msgstr ""
+msgstr "Máš kuráž, chlapče. Ale ne. Nemůžeme riskovat, že se staneš domorodcem. "
 
 #: conversations/00_emerald_vale/00_cv_ludwig:108
 msgctxt "conversations/00_emerald_vale/00_cv_ludwig:108:DefaultText"
 msgid "Edgewater is in the middle of nowhere. You don't have a contact."
-msgstr ""
+msgstr "Edgewater leží uprostřed ničeho. Nemáte kontakt."
 
 #: conversations/00_emerald_vale/00_cv_ludwig:109
 msgctxt "conversations/00_emerald_vale/00_cv_ludwig:109:DefaultText"
 msgid "Well excuse me. What I meant was I'm going to get a contact. Didn't know I had to be all prissy about my grammar around you."
-msgstr ""
+msgstr "No, promiňte. Chtěl jsem říct, že si seženu kontakt. Nevěděla jsem, že před tebou musím být tak prudérní ohledně gramatiky."
 
 #: conversations/00_emerald_vale/00_cv_ludwig:111
 msgctxt "conversations/00_emerald_vale/00_cv_ludwig:111:DefaultText"
 msgid "You mean this logic module?"
-msgstr ""
+msgstr "Myslíte tento logický modul?"
 
 #: conversations/00_emerald_vale/00_cv_ludwig:112
 msgctxt "conversations/00_emerald_vale/00_cv_ludwig:112:DefaultText"
 msgid "That reminds me. Silas sent me after your gravesite fees."
-msgstr ""
+msgstr "To mi připomíná. Silas mě poslal za tvými hrobovými poplatky."
 
 #: conversations/00_emerald_vale/00_cv_ludwig:113
 msgctxt "conversations/00_emerald_vale/00_cv_ludwig:113:DefaultText"
 msgid "I would reward you with the gratitude of the Resistance, but I'm guessing you want something tactile. So here's a couple bits for your trouble, and a little something to remember me by."
-msgstr ""
+msgstr "Odměnil bych tě vděčností odboje, ale hádám, že chceš něco hmatatelného. Takže tady máš pár kousků za tvou námahu a něco na památku."
 
 #: conversations/00_emerald_vale/00_cv_ludwig:123
 msgctxt "conversations/00_emerald_vale/00_cv_ludwig:123:DefaultText"
 msgid "Town's been dark a while now. Could be a mechanical trying to sabotage us."
-msgstr ""
+msgstr "Město je už nějakou dobu temné. Mohl by to být mechanický pokus o sabotáž."
 
 #: conversations/00_emerald_vale/00_cv_ludwig:124
 msgctxt "conversations/00_emerald_vale/00_cv_ludwig:124:DefaultText"
 msgid "Never seen the Vale lit up like this before. "
-msgstr ""
+msgstr "Takhle osvětlené údolí jsem ještě nikdy neviděl. "
 
 #: conversations/00_emerald_vale/00_cv_ludwig:125
 msgctxt "conversations/00_emerald_vale/00_cv_ludwig:125:DefaultText"
 msgid "Bring us honor, soldier."
-msgstr ""
+msgstr "Přineste nám čest, vojáku."
 
 #: conversations/00_emerald_vale/00_cv_ludwig:126
 msgctxt "conversations/00_emerald_vale/00_cv_ludwig:126:DefaultText"
 msgid "War ain't over. Not so long as a single mechanical remains unscrapped."
-msgstr ""
+msgstr "Válka ještě neskončila. Ne tak dlouho, dokud nezůstane jediný mechanický obal."
 
 #: conversations/00_emerald_vale/00_cv_ludwig:129
 msgctxt "conversations/00_emerald_vale/00_cv_ludwig:129:DefaultText"
 msgid "Feast your eyes, soldier. This here's a genuine Spacer's Choice Injury Customizing Unit, designed to deliver a lethal blast of electrical discharge. I call it the Hand of the Law."
-msgstr ""
+msgstr "Pokochej se, vojáku. Tohle je skutečná jednotka pro přizpůsobení zranění Spacer's Choice, navržená tak, aby poskytovala smrtící elektrický výboj. Říkám jí Ruka zákona."
 
 #: conversations/00_emerald_vale/00_cv_ludwig:130
 msgctxt "conversations/00_emerald_vale/00_cv_ludwig:130:DefaultText"
 msgid "Parvati, is a logic module something you could help with?"
-msgstr ""
+msgstr "Parvati, mohla byste mi pomoci s logickým modulem?"
 
 #: conversations/00_emerald_vale/00_cv_ludwig:131
 msgctxt "conversations/00_emerald_vale/00_cv_ludwig:131:DefaultText"
 msgid "I don't reckon so."
-msgstr ""
+msgstr "To si nemyslím."
 
 #: conversations/00_emerald_vale/00_cv_ludwig:132
 msgctxt "conversations/00_emerald_vale/00_cv_ludwig:132:DefaultText"
 msgid "I work with gears and pistons and such. Stuff you can put hands to. Computers and mechanical brains are outside my ken."
-msgstr ""
+msgstr "Pracuji s převody, písty a podobně. Věci, na které se dá sáhnout. Počítače a mechanické mozky jdou mimo mě."
 
 #: conversations/00_emerald_vale/00_cv_ludwig:133
 msgctxt "conversations/00_emerald_vale/00_cv_ludwig:133:DefaultText"
 msgid "You know she names the mechanicals she fixes? Calls them Bess and Clancy and so on. Keep a careful eye on her. Could be a sympathizer."
-msgstr ""
+msgstr "Víš, že mechaniky, které opravuje, pojmenovává? Říká jim Bess a Clancy a tak dále. Dávej na ni pozor. Mohl by to být sympatizant."
 
 #: conversations/00_emerald_vale/00_cv_ludwig:137
 msgctxt "conversations/00_emerald_vale/00_cv_ludwig:137:DefaultText"
 msgid "Hey, I know you! Fancy-shanks, with the face!"
-msgstr ""
+msgstr "Hej, já tě znám! Fancy-shanks, s tím obličejem!"
 
 #: conversations/00_emerald_vale/00_cv_ludwig:138
 msgctxt "conversations/00_emerald_vale/00_cv_ludwig:138:DefaultText"
 msgid "Are you crazy? Keep your head down, for Law's sake. You're gonna blow my cover!"
-msgstr ""
+msgstr "Zbláznil ses? Proboha, drž se při zemi. Prozradíš moje krytí!"
 
 #: conversations/00_emerald_vale/00_cv_ludwig:140
 msgctxt "conversations/00_emerald_vale/00_cv_ludwig:140:DefaultText"
 msgid "Merciful Law. It's you! Machine-slayer!"
-msgstr ""
+msgstr "Milosrdný zákon. To jsi ty! Zabiják strojů!"
 
 #: conversations/00_emerald_vale/00_cv_ludwig:141
 msgctxt "conversations/00_emerald_vale/00_cv_ludwig:141:DefaultText"
 msgid "I know your face. You're my last living recruit!"
-msgstr ""
+msgstr "Znám tvůj obličej. Jsi můj poslední žijící rekrut!"
 
 #: conversations/00_emerald_vale/00_cv_ludwig:142
 msgctxt "conversations/00_emerald_vale/00_cv_ludwig:142:DefaultText"
 msgid "What in Law's name are you doing here? Never mind that - you gotta hide. The machines are here. They're gonna slaughter us all!"
-msgstr ""
+msgstr "Co tady proboha děláš? To je jedno - musíš se schovat. Jsou tu stroje. Všechny nás vyvraždí!"
 
 #: conversations/00_emerald_vale/00_cv_ludwig:143
 msgctxt "conversations/00_emerald_vale/00_cv_ludwig:143:DefaultText"
 msgid "You miserable coward. Stand up and fight."
-msgstr ""
+msgstr "Ty ubohý zbabělče. Vstaň a bojuj."
 
 #: conversations/00_emerald_vale/00_cv_ludwig:144
 msgctxt "conversations/00_emerald_vale/00_cv_ludwig:144:DefaultText"
 msgid "This is your plan? Hide and hope the mechanicals don't find you?"
-msgstr ""
+msgstr "To je váš plán? Schovat se a doufat, že tě mechanici nenajdou?"
 
 #: conversations/00_emerald_vale/00_cv_ludwig:145
 msgctxt "conversations/00_emerald_vale/00_cv_ludwig:145:DefaultText"
 msgid "I got every intention of fighting these abominations. I just gotta - I just gotta come up with a good battle-cry first."
-msgstr ""
+msgstr "Mám v úmyslu s těmi ohavnostmi bojovat. Jen musím nejdřív vymyslet dobrý bojový pokřik."
 
 #: conversations/00_emerald_vale/00_cv_ludwig:146
 msgctxt "conversations/00_emerald_vale/00_cv_ludwig:146:DefaultText"
 msgid "What did I just tell you about keeping your head down?"
-msgstr ""
+msgstr "Co jsem ti právě říkal o tom, že máš mít hlavu dole?"
 
 #: conversations/00_emerald_vale/00_cv_ludwig:147
 msgctxt "conversations/00_emerald_vale/00_cv_ludwig:147:DefaultText"
 msgid "Can't talk! Crusading!"
-msgstr ""
+msgstr "Nemůžeš mluvit! Křížová výprava!"
 
 #: conversations/00_emerald_vale/00_cv_ludwig:148
 msgctxt "conversations/00_emerald_vale/00_cv_ludwig:148:DefaultText"
 msgid "That's the last of 'em!"
-msgstr ""
+msgstr "To je poslední z nich!"
 
 #: conversations/00_emerald_vale/00_cv_ludwig:149
 msgctxt "conversations/00_emerald_vale/00_cv_ludwig:149:DefaultText"
 msgid "A battle the likes of which has never been seen in all of Halcyon."
-msgstr ""
+msgstr "Bitva, jaká v celém Halcyonu ještě nebyla."
 
 #: conversations/00_emerald_vale/00_cv_ludwig:150
 msgctxt "conversations/00_emerald_vale/00_cv_ludwig:150:DefaultText"
 msgid "Don't plan on squatting on my laurels, friend. It's time I moved on. Wherever the infernal automechanical threatens humanity, I'll be there. "
-msgstr ""
+msgstr "Nehodlám usnout na vavřínech, příteli. Je čas, abych se posunul dál. Kdekoli bude pekelný automechanik ohrožovat lidstvo, budu tam. "
 
 #: conversations/00_emerald_vale/00_cv_ludwig:151
 msgctxt "conversations/00_emerald_vale/00_cv_ludwig:151:DefaultText"
 msgid "I wouldn't stick around, if I were you."
-msgstr ""
+msgstr "Být vámi, tak se tu nezdržuji."
 
 #: conversations/00_emerald_vale/00_cv_ludwig:152
 msgctxt "conversations/00_emerald_vale/00_cv_ludwig:152:DefaultText"
 msgid "Thus to all mechanical tyrants."
-msgstr ""
+msgstr "Takto se chová ke všem mechanickým tyranům."
 
 #: conversations/00_emerald_vale/00_cv_ludwig:154
 msgctxt "conversations/00_emerald_vale/00_cv_ludwig:154:DefaultText"
 msgid "It has been my great honor to call myself your brother-in-arms, soldier."
-msgstr ""
+msgstr "Bylo mi velkou ctí nazývat se tvým bratrem ve zbrani, vojáku."
 
 #: conversations/00_emerald_vale/00_cv_ludwig:155
 msgctxt "conversations/00_emerald_vale/00_cv_ludwig:155:DefaultText"
 msgid "Hey. I may be miserable, but I am not a coward."
-msgstr ""
+msgstr "Možná jsem nešťastný, ale nejsem zbabělec."
 
 #: conversations/00_emerald_vale/00_cv_ludwig:156
 msgctxt "conversations/00_emerald_vale/00_cv_ludwig:156:DefaultText"
 msgid "Then prove it."
-msgstr ""
+msgstr "Pak to dokažte."
 
 #: conversations/00_emerald_vale/00_cv_ludwig:157
 msgctxt "conversations/00_emerald_vale/00_cv_ludwig:157:DefaultText"
 msgid "Come on, Ludwig. You really want to spend the apocalypse cowering in a corner?"
-msgstr ""
+msgstr "No tak, Ludwigu. Opravdu chceš strávit apokalypsu krčením se v koutě?"
 
 #: conversations/00_emerald_vale/00_cv_ludwig:158
 msgctxt "conversations/00_emerald_vale/00_cv_ludwig:158:DefaultText"
 msgid "Maybe. I mean - no. Good Law, no. I'll fight those mechanicals to my last breath. I just gotta - you know, find my courage."
-msgstr ""
+msgstr "Možná. Chci říct - ne. Dobrý zákon, ne. Budu s těmi mechaniky bojovat do posledního dechu. Jen musím - víš, najít odvahu."
 
 #: conversations/00_emerald_vale/00_cv_ludwig:159
 msgctxt "conversations/00_emerald_vale/00_cv_ludwig:159:DefaultText"
 msgid "You're the leader of the Resistance, remember? Start acting like it."
-msgstr ""
+msgstr "Jsi vůdce odboje, pamatuješ? Začni se tak chovat."
 
 #: conversations/00_emerald_vale/00_cv_ludwig:162
 msgctxt "conversations/00_emerald_vale/00_cv_ludwig:162:DefaultText"
 msgid "I'll be on my way."
-msgstr ""
+msgstr "Už budu na cestě."
 
 #: conversations/00_emerald_vale/00_cv_ludwig:163
 msgctxt "conversations/00_emerald_vale/00_cv_ludwig:163:DefaultText"
 msgid "<Salute him.> Until next time, sir."
-msgstr ""
+msgstr "<Salutujte mu.> Do příště, pane."
 
 #: conversations/00_emerald_vale/00_cv_ludwig:164
 msgctxt "conversations/00_emerald_vale/00_cv_ludwig:164:DefaultText"
 msgid "Knock it off. I'm not a soldier."
-msgstr ""
+msgstr "Nechte toho. Nejsem voják."
 
 #: conversations/00_emerald_vale/00_cv_ludwig:165
 msgctxt "conversations/00_emerald_vale/00_cv_ludwig:165:DefaultText"
 msgid "Law keep you, soldier."
-msgstr ""
+msgstr "Zákon tě chrání, vojáku."
 
 #: conversations/00_emerald_vale/00_cv_ludwig:166
 msgctxt "conversations/00_emerald_vale/00_cv_ludwig:166:DefaultText"
 msgid "Your modesty does you credit. If I had ten soldiers of your caliber, we'd grind every last mechanical in the world to scrap."
-msgstr ""
+msgstr "Vaše skromnost vám dělá čest. Kdybych měl deset vojáků tvého kalibru, rozemleli bychom všechny mechanické stroje na světě na šrot."
 
 #: conversations/00_emerald_vale/00_cv_ludwig:167
 msgctxt "conversations/00_emerald_vale/00_cv_ludwig:167:DefaultText"
 msgid "Also, I need a smoke. Damn, that was some good crusadin'."
-msgstr ""
+msgstr "Také si potřebuji zakouřit. Sakra, to byla dobrá křížová výprava."
 
 #: conversations/00_emerald_vale/00_cv_ludwig:168
 msgctxt "conversations/00_emerald_vale/00_cv_ludwig:168:DefaultText"
 msgid "I don't have time for this."
-msgstr ""
+msgstr "Nemám na to čas."
 
 #: conversations/00_emerald_vale/00_cv_ludwig:169
 msgctxt "conversations/00_emerald_vale/00_cv_ludwig:169:DefaultText"
 msgid "<Attack> You're a loose end."
-msgstr ""
+msgstr "<Útok> Jsi neúspěšný."
 
 #: conversations/00_emerald_vale/00_cv_ludwig:170
 msgctxt "conversations/00_emerald_vale/00_cv_ludwig:170:DefaultText"
 msgid "You won't have to fight alone. I'm with you."
-msgstr ""
+msgstr "Nebudete muset bojovat sami. Jsem s tebou."
 
 #: conversations/00_emerald_vale/00_cv_ludwig:171
 msgctxt "conversations/00_emerald_vale/00_cv_ludwig:171:DefaultText"
 msgid "All right, you mechanical abominations. It's Ludwig's time to shine!"
-msgstr ""
+msgstr "Dobře, vy mechanické ohavnosti. Přišel Ludwigův čas zazářit!"
 
 #: conversations/00_emerald_vale/00_cv_ludwig:172
 msgctxt "conversations/00_emerald_vale/00_cv_ludwig:172:DefaultText"
 msgid "Just follow my lead. We can do this."
-msgstr ""
+msgstr "Jen se řiďte mým příkladem. Tohle zvládneme."
 
 #: conversations/00_emerald_vale/00_cv_ludwig:174
 msgctxt "conversations/00_emerald_vale/00_cv_ludwig:174:DefaultText"
 msgid "If I'm going after this mechanical scout, I could use a couple pointers."
-msgstr ""
+msgstr "Pokud se chystám na tohoto mechanického zvěda, potřeboval bych pár rad."
 
 #: conversations/00_emerald_vale/00_cv_ludwig:175
 msgctxt "conversations/00_emerald_vale/00_cv_ludwig:175:DefaultText"
 msgid "Mechanicals got a weak spot in their midsections. I think the technical term is uh - the blue glowy square thing."
-msgstr ""
+msgstr "Mechaniky mají slabé místo ve středu těla. Myslím, že odborný termín je ehm - modrá zářící čtvercová věc."
 
 #: conversations/00_emerald_vale/00_cv_ludwig:178
 msgctxt "conversations/00_emerald_vale/00_cv_ludwig:178:DefaultText"
 msgid "How do I use this \"Injury Customizing Unit,\" exactly?"
-msgstr ""
+msgstr "Jak přesně mohu tuto \"jednotku pro přizpůsobení zranění\" používat?"
 
 #: conversations/00_emerald_vale/00_cv_ludwig:179
 msgctxt "conversations/00_emerald_vale/00_cv_ludwig:179:DefaultText"
 msgid "There's a workbench right through this door. Attach that unit to your favorite weapon, and go forth into glorious battle."
-msgstr ""
+msgstr "Přímo za těmito dveřmi je pracovní stůl. Připoj tuto jednotku ke své oblíbené zbrani a vyraz do slavné bitvy."
 
 #: conversations/00_emerald_vale/00_cv_ludwig:180
 msgctxt "conversations/00_emerald_vale/00_cv_ludwig:180:DefaultText"
 msgid "Are you okay? You seem confused."
-msgstr ""
+msgstr "Jsi v pořádku? Vypadáš zmateně."
 
 #: conversations/00_emerald_vale/00_cv_ludwig:181
 msgctxt "conversations/00_emerald_vale/00_cv_ludwig:181:DefaultText"
 msgid "Awaiting KILL COMMAND. Contaminants in need of sterilization detected in the area."
-msgstr ""
+msgstr "Čeká na příkaz k zabití. V oblasti zjištěny kontaminanty vyžadující sterilizaci."

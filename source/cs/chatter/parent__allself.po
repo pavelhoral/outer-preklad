@@ -1,129 +1,129 @@
 #: chatter/parent__allself:1
 msgctxt "chatter/parent__allself:1:DefaultText"
 msgid "I'm going in!"
-msgstr ""
+msgstr "Jdu dovnitř!"
 
 #: chatter/parent__allself:2
 msgctxt "chatter/parent__allself:2:DefaultText"
 msgid "Cover me, I'm going in!"
-msgstr ""
+msgstr "Kryjte mě, jdu dovnitř!"
 
 #: chatter/parent__allself:3
 msgctxt "chatter/parent__allself:3:DefaultText"
 msgid "Moving in!"
-msgstr ""
+msgstr "Stěhování!"
 
 #: chatter/parent__allself:4
 msgctxt "chatter/parent__allself:4:DefaultText"
 msgid "I'm gonna rush 'em!"
-msgstr ""
+msgstr "Poženu je!"
 
 #: chatter/parent__allself:5
 msgctxt "chatter/parent__allself:5:DefaultText"
 msgid "I'm gonna get in their face!"
-msgstr ""
+msgstr "Pustím se do nich!"
 
 #: chatter/parent__allself:6
 msgctxt "chatter/parent__allself:6:DefaultText"
 msgid "Gotta get down!"
-msgstr ""
+msgstr "Musíme se dostat dolů!"
 
 #: chatter/parent__allself:7
 msgctxt "chatter/parent__allself:7:DefaultText"
 msgid "Getting behind cover!"
-msgstr ""
+msgstr "Do úkrytu!"
 
 #: chatter/parent__allself:8
 msgctxt "chatter/parent__allself:8:DefaultText"
 msgid "I'm taking cover!"
-msgstr ""
+msgstr "Kryju se!"
 
 #: chatter/parent__allself:9
 msgctxt "chatter/parent__allself:9:DefaultText"
 msgid "I need cover!"
-msgstr ""
+msgstr "Potřebuji krytí!"
 
 #: chatter/parent__allself:10
 msgctxt "chatter/parent__allself:10:DefaultText"
 msgid "Gotta find cover!"
-msgstr ""
+msgstr "Musíme najít kryt!"
 
 #: chatter/parent__allself:11
 msgctxt "chatter/parent__allself:11:DefaultText"
 msgid "Reloading!"
-msgstr ""
+msgstr "Přebíjení!"
 
 #: chatter/parent__allself:12
 msgctxt "chatter/parent__allself:12:DefaultText"
 msgid "I'm out, reloading!"
-msgstr ""
+msgstr "Jsem venku, nabíjím!"
 
 #: chatter/parent__allself:13
 msgctxt "chatter/parent__allself:13:DefaultText"
 msgid "I'm reloading!"
-msgstr ""
+msgstr "Znovu nabíjím!"
 
 #: chatter/parent__allself:14
 msgctxt "chatter/parent__allself:14:DefaultText"
 msgid "Out of ammo. Reloading!"
-msgstr ""
+msgstr "Došla munice. Přebíjení!"
 
 #: chatter/parent__allself:15
 msgctxt "chatter/parent__allself:15:DefaultText"
 msgid "Gotta reload!"
-msgstr ""
+msgstr "Musím dobíjet!"
 
 #: chatter/parent__allself:16
 msgctxt "chatter/parent__allself:16:DefaultText"
 msgid "Locking 'em down!"
-msgstr ""
+msgstr "Zamknout je!"
 
 #: chatter/parent__allself:17
 msgctxt "chatter/parent__allself:17:DefaultText"
 msgid "I'll keep 'em pinned!"
-msgstr ""
+msgstr "Budu je mít připnuté!"
 
 #: chatter/parent__allself:18
 msgctxt "chatter/parent__allself:18:DefaultText"
 msgid "I got you covered!"
-msgstr ""
+msgstr "Postarám se o vás!"
 
 #: chatter/parent__allself:19
 msgctxt "chatter/parent__allself:19:DefaultText"
 msgid "I'll hold 'em back!"
-msgstr ""
+msgstr "Zadržím je!"
 
 #: chatter/parent__allself:20
 msgctxt "chatter/parent__allself:20:DefaultText"
 msgid "I'm keeping the pressure on 'em!"
-msgstr ""
+msgstr "Budu na ně tlačit!"
 
 #: chatter/parent__allself:21
 msgctxt "chatter/parent__allself:21:DefaultText"
 msgid "I'll take this one!"
-msgstr ""
+msgstr "Tohle beru!"
 
 #: chatter/parent__allself:22
 msgctxt "chatter/parent__allself:22:DefaultText"
 msgid "I can deal with this one!"
-msgstr ""
+msgstr "S tímhle si poradím!"
 
 #: chatter/parent__allself:23
 msgctxt "chatter/parent__allself:23:DefaultText"
 msgid "This one's mine!"
-msgstr ""
+msgstr "Tenhle je můj!"
 
 #: chatter/parent__allself:24
 msgctxt "chatter/parent__allself:24:DefaultText"
 msgid "Got a new mark!"
-msgstr ""
+msgstr "Mám novou značku!"
 
 #: chatter/parent__allself:25
 msgctxt "chatter/parent__allself:25:DefaultText"
 msgid "I'm switching targets!"
-msgstr ""
+msgstr "Měním cíle!"
 
 #: chatter/parent__allself:26
 msgctxt "chatter/parent__allself:26:DefaultText"
 msgid "Suppressing fire!"
-msgstr ""
+msgstr "Potlačení palby!"

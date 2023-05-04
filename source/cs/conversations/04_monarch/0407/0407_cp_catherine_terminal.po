@@ -3,32 +3,32 @@ msgctxt "conversations/04_monarch/0407/0407_cp_catherine_terminal:1:DefaultText"
 msgid "Sublight Salvage & Shipping \r\n"
 "========================\r\n"
 "This terminal is registered for usage by Catherine Malin and is only to be accessed for the for official communication on behalf of Sublight Salvage & Shipping. "
-msgstr ""
+msgstr "Sublight Salvage & Shipping ======================== Tento terminál je registrován pro použití Catherine Malin a je určen pouze pro oficiální komunikaci jménem společnosti Sublight Salvage & Shipping. "
 
 #: conversations/04_monarch/0407/0407_cp_catherine_terminal:2
 msgctxt "conversations/04_monarch/0407/0407_cp_catherine_terminal:2:DefaultText"
 msgid "[Messages]"
-msgstr ""
+msgstr "[Zprávy]"
 
 #: conversations/04_monarch/0407/0407_cp_catherine_terminal:3
 msgctxt "conversations/04_monarch/0407/0407_cp_catherine_terminal:3:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"
 
 #: conversations/04_monarch/0407/0407_cp_catherine_terminal:5
 msgctxt "conversations/04_monarch/0407/0407_cp_catherine_terminal:5:DefaultText"
 msgid "[TO: L. Hagen]"
-msgstr ""
+msgstr "[TO: L. Hagen]"
 
 #: conversations/04_monarch/0407/0407_cp_catherine_terminal:6
 msgctxt "conversations/04_monarch/0407/0407_cp_catherine_terminal:6:DefaultText"
 msgid "[FROM: L. Hagen]"
-msgstr ""
+msgstr "[OD: L. Hagen]"
 
 #: conversations/04_monarch/0407/0407_cp_catherine_terminal:7
 msgctxt "conversations/04_monarch/0407/0407_cp_catherine_terminal:7:DefaultText"
 msgid "[Return to Root]"
-msgstr ""
+msgstr "[Zpět na kořen]"
 
 #: conversations/04_monarch/0407/0407_cp_catherine_terminal:8
 msgctxt "conversations/04_monarch/0407/0407_cp_catherine_terminal:8:DefaultText"
@@ -49,7 +49,7 @@ msgid "Sublight Salvage & Shipping \r\n"
 "\r\n"
 "Your most favored salvager,\r\n"
 "Malin"
-msgstr ""
+msgstr "Sublight Salvage & Shipping ========================= Záznamy zpráv OD: Malin TO: Hagen PŘEDMĚT: L: Už dobrý měsíc posílám zásoby naslepo anonymnímu kupci. Platby jsou uhrazeny v plné výši, včas a zásoby jsou nábožně vyzvedávány z mostu severně od Fallbrooku. Mé podezření mě varuje, že bychom mohli mít co do činění s nějakou korporací, která na Monarchu působí nelegálně. Příležitost ke zneužití je zralá a já se nemohu dočkat, až udeřím. Poraďte hned, nebo navždy mlčte. Váš nejoblíbenější zachránce, Malin."
 
 #: conversations/04_monarch/0407/0407_cp_catherine_terminal:9
 msgctxt "conversations/04_monarch/0407/0407_cp_catherine_terminal:9:DefaultText"
@@ -67,19 +67,19 @@ msgid "Sublight Salvage & Shipping\r\n"
 "Let me know next time you come to gb. I'll make dinner, we can get falling down drunk and scandalize our employees. Just like old times.\r\n"
 "\r\n"
 "- pain in the ass"
-msgstr ""
+msgstr "Sublight Salvage & Shipping ========================= Záznamy zpráv OD: Hagen TO: Malin PŘEDMĚT: C: Říkal jsem ti, že nechci vidět obchodní detaily. zejména ne v záznamech. Jestli je něco, co nutně potřebuju vědět, pošli kurýra. Někoho, koho oba známe. Jinak si to vyřiď sám. Ty kouzlíš, já tvým telefonátům věřím, rah rah, tečka. Pošli mi nějaký boarst, až budeš hotový; já ti pošlu torpédový džus na oplátku (konečně jsem se domluvil s jedním z inženýrů!) Najal jsem nového dodavatele a poslal je tvým směrem. Můžeš mu říkat Alex Hawthorne. Není to ten Hawthorne, co dělal Fallbrookovy běhy, ale to je mi jedno a tobě taky ne - že?? Očekávej, že mi doručí balíček. Až ho uvidíš, budeš vědět, co s ním máš dělat. Cokoli budeš potřebovat udělat, řekni jim. Jen se ujistěte, že umí udělat to, kvůli čemu přišli, když si je půjčujete. Až příště přijedete do gb, dejte mi vědět. Udělám večeři, můžeme se opít do němoty a skandalizovat naše zaměstnance. Jako za starých časů. - pain in the ass"
 
 #: conversations/04_monarch/0407/0407_cp_catherine_terminal:10
 msgctxt "conversations/04_monarch/0407/0407_cp_catherine_terminal:10:DefaultText"
 msgid "Sublight Salvage & Shipping \r\n"
 "=========================\r\n"
 "Message Logs"
-msgstr ""
+msgstr "Sublight Salvage & Shipping ========================= Záznamy zpráv"
 
 #: conversations/04_monarch/0407/0407_cp_catherine_terminal:11
 msgctxt "conversations/04_monarch/0407/0407_cp_catherine_terminal:11:DefaultText"
 msgid "[FROM: Niles]"
-msgstr ""
+msgstr "[OD: Niles]"
 
 #: conversations/04_monarch/0407/0407_cp_catherine_terminal:12
 msgctxt "conversations/04_monarch/0407/0407_cp_catherine_terminal:12:DefaultText"
@@ -105,4 +105,4 @@ msgid "Sublight Salvage & Shipping \r\n"
 "Now we just need Hagen to send us someone who can get it done...\r\n"
 "\r\n"
 "- Niles"
-msgstr ""
+msgstr "Sublight Salvage & Shipping ========================= Záznamy zpráv OD: Z: Niles TO: Malinovi PŘEDMĚT: Šéfe, jak jste chtěl, prověřil jsem práci v Cascadii. Pokud vím, k jejímu dokončení bude potřeba toto: KROK 1: Přistát s lodí na přistávací ploše Cascadia. Mělo by to jít signalizovat z terminálu v laboratoři, aby se tam nemusela dlouho zdržovat. 2. KROK: Připojit loď k tankovacímu systému přistávací plochy. 3. KROK: Nasát do lodi plyn alta-cokoliv. To poslední je složitější. V okolí je spousta mantinelů, nebude snadné se k nim dostat. Přístup do laboratoře se zdá být v malém obchodě v severovýchodní části Jižní Kaskády. Nemohl jsem se k němu ale dostat blíž. Příliš mnoho zatracených nájezdníků. Heslo k terminálu jsem tam ale dostal: ANTEDILUVIAN Teď už jen potřebujeme, aby nám Hagen poslal někoho, kdo to zvládne... - Niles"

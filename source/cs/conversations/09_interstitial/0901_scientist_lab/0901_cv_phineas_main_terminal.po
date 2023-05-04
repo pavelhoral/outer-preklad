@@ -4,17 +4,17 @@ msgid "PERSONAL TERMINAL\r\n"
 "Phineas V. Welles\r\n"
 "\r\n"
 "===================="
-msgstr ""
+msgstr "PERSONAL TERMINAL Phineas V. Welles ===================="
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_main_terminal:3
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_main_terminal:3:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_main_terminal:15
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_main_terminal:15:DefaultText"
 msgid "[Enter Passcode]"
-msgstr ""
+msgstr "[Zadejte přístupový kód]"
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_main_terminal:18
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_main_terminal:18:DefaultText"
@@ -25,12 +25,12 @@ msgid "If you are seeing this screen, I, Phineas V. Welles, have been pernicious
 "This screen constitutes my last will and testament. I commend my body, and my belongings, to the icy depths of the aether.\r\n"
 "\r\n"
 "If this is <oeitoken>PlayerName</oeitoken>, I've prepared an emergency care package located in a hidden panel. Unlock the panel from my terminal, and claim its contents immediately."
-msgstr ""
+msgstr "Pokud vidíte tuto obrazovku, já, Phineas V. Welles, jsem byl zrádnou a zbabělou VLÁDOU HALCYONU ve vězeňské pevnosti TARTARUS zhoubně ZAVRAŽDĚN a s velkou pravděpodobností ZAVRAŽDĚN. Pokud jsem ještě nebyl za obvinění vznesená proti mně POPRAVEN, doufám, že osoba, která čte tento terminál, najde způsob, jak dokončit mou práci, nebo mě zachrání. Tato obrazovka je mou poslední vůlí. Svěřuji své tělo a svůj majetek ledovým hlubinám éteru. Pokud se jedná o <oeitoken>Jméno hráče</oeitoken>, připravil jsem balíček nouzové péče umístěný ve skrytém panelu. Odemkněte panel z mého terminálu a okamžitě si vyzvedněte jeho obsah."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_main_terminal:19
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_main_terminal:19:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_main_terminal:20
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_main_terminal:20:DefaultText"
@@ -49,7 +49,7 @@ msgid "PERSONAL TERMINAL\r\n"
 "[SUCCESS]\r\n"
 "\r\n"
 "[Please present login password to continue]"
-msgstr ""
+msgstr "OSOBNÍ TERMÍN Phineas V. Welles ==================== [AKTIVOVÁN ZÁCHRANNÝ PLÁN] [VYDÁNÍ POSLEDNÍ VŮLE A TESTAMENTU] .... ... ... ... [ÚSPĚCH] [Pro pokračování předložte prosím přihlašovací heslo]"
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_main_terminal:21
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_main_terminal:21:DefaultText"
@@ -62,17 +62,17 @@ msgid "If you are seeing this screen, I, Phineas V. Welles, have been pernicious
 "If this is <oeitoken>PlayerName</oeitoken>, I know you've been working with Ms. Lilya Hagen. If you're going to attempt some sort of insane, suicidal rescue mission, I suggest asking for her assistance.\r\n"
 "\r\n"
 "Also, I've prepared an emergency care package located in a hidden panel. Unlock the panel from my terminal, and claim its contents immediately."
-msgstr ""
+msgstr "Pokud vidíte tuto obrazovku, já, Phineas V. Welles, jsem byl zrádnou a zbabělou VLÁDOU HALCYONU ve vězeňské pevnosti TARTARUS zhoubně ZAVRAŽDĚN a s velkou pravděpodobností ZAVRAŽDĚN. Pokud jsem ještě nebyl za obvinění vznesená proti mně POPRAVEN, doufám, že osoba, která čte tento terminál, najde způsob, jak dokončit mou práci, nebo mě zachrání. Tato obrazovka je mou poslední vůlí. Svěřuji své tělo a svůj majetek ledovým hlubinám éteru. Pokud je to <oeitoken>Jméno hráče</oeitoken>, vím, že jste pracovali se slečnou Lilyou Hagenovou. Pokud se hodláš pokusit o nějakou šílenou, sebevražednou záchrannou misi, doporučuji ti požádat ji o pomoc. Také jsem připravil balíček nouzové péče umístěný ve skrytém panelu. Odemkněte panel z mého terminálu a okamžitě si vyzvedněte jeho obsah."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_main_terminal:23
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_main_terminal:23:DefaultText"
 msgid "[Bypass]"
-msgstr ""
+msgstr "[Bypass]"
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_main_terminal:25
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_main_terminal:25:DefaultText"
 msgid "[Open Panel]"
-msgstr ""
+msgstr "[Otevřený panel]"
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_main_terminal:26
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_main_terminal:26:DefaultText"
@@ -81,7 +81,7 @@ msgid "[Accessing]\r\n"
 "...\r\n"
 "...\r\n"
 "[Panel Successfully Unlocked]"
-msgstr ""
+msgstr "[Přístup] ... ... ... [Panel úspěšně odemčen]"
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_main_terminal:28
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_main_terminal:28:DefaultText"
@@ -94,12 +94,12 @@ msgid "If you are seeing this screen, I, Phineas V. Welles, have been pernicious
 "If this is <oeitoken>PlayerName</oeitoken>, I just want you to know that I had the highest hopes for you. I don't understand why you decided to work with the Board, and maybe I never will. But I just want you to know one thing: you're a monstrous traitor, and I hope you're eaten by several hungry marauders when the colony collapses.\r\n"
 "\r\n"
 "Goodbye."
-msgstr ""
+msgstr "Pokud vidíte tuto obrazovku, já, Phineas V. Welles, jsem byl zrádnou a zbabělou VLÁDOU HALCYONU ve vězeňské pevnosti TARTARUS zhoubně ZAVRAŽDĚN a s velkou pravděpodobností ZAVRAŽDĚN. Pokud jsem ještě nebyl za obvinění vznesená proti mně POPRAVEN, doufám, že osoba, která čte tento terminál, najde způsob, jak dokončit mou práci, nebo mě zachrání. Tato obrazovka je mou poslední vůlí. Svěřuji své tělo a svůj majetek ledovým hlubinám éteru. Pokud je to <oeitoken>Jméno hráče</oeitoken>, chci, abys věděl, že jsem do tebe vkládal ty největší naděje. Nechápu, proč ses rozhodl spolupracovat s Radou, a možná to nikdy nepochopím. Ale chci, abys věděl jedno: jsi zrůdný zrádce a doufám, že tě sežere několik hladových nájezdníků, až se kolonie zhroutí. sbohem."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_main_terminal:29
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_main_terminal:29:DefaultText"
 msgid "[Personal Files - Phineas V. Welles Eyes ONLY!]"
-msgstr ""
+msgstr "[Osobní spisy - Pouze pro oči Phinease V. Wellese!]"
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_main_terminal:30
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_main_terminal:30:DefaultText"
@@ -109,17 +109,17 @@ msgid "PERSONAL TERMINAL\r\n"
 "====================\r\n"
 "\r\n"
 ">> Note: Must delete entries from terminal memory. No telling who might be looking."
-msgstr ""
+msgstr "PERSONAL TERMINAL Phineas V. Welles ==================== >> Poznámka: Je nutné vymazat záznamy z paměti terminálu. Neví se, kdo by se mohl dívat."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_main_terminal:31
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_main_terminal:31:DefaultText"
 msgid "[Second Entry]"
-msgstr ""
+msgstr "[Druhý záznam]"
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_main_terminal:32
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_main_terminal:32:DefaultText"
 msgid "[Return to Root]"
-msgstr ""
+msgstr "[Zpět na kořen]"
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_main_terminal:33
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_main_terminal:33:DefaultText"
@@ -139,17 +139,23 @@ msgid "PERSONAL TERMINAL\n"
 "Can still hear the screaming. Trouble sleeping. Trouble concentrating. Psychological toll...significant. \n"
 "\n"
 "On to subject number thirteen."
-msgstr ""
+msgstr "PERSONÁLNÍ TERMINÁL Phineas V. Welles ==================== Sto třináct sekund. Nový rekord. Většina mých subjektů vydrží v průměru devadesát tři vteřin, než je totální buněčné zkapalnění zredukuje na několik litrů organické polévky o tři stupně nad teplotou mrazu. \n"
+"\n"
+"Sto třináct vteřin křiku. Tento subjekt byl silnější než ostatní, ale nakonec jeho tělo proces oživování nepřežilo. \n"
+"\n"
+"Byl to můj dvanáctý subjekt, který zemřel. Nevím, jak dlouho to ještě budu moci dělat. Přesněji řečeno, vím - Naděje má stovky tisíc kolonistů. Experimentoval jsem pouze na dvanácti. Kolik pokusů ještě provedu, než se mi podaří oživit jediný subjekt? Jeden? Deset? Sto? Pět set? Statisticky nevýznamné. Kdybych každý měsíc experimentoval na jednom subjektu, neudělal bych v populaci Naděje díru ani za celý život. Pořád slyším ten křik. Mám problémy se spaním. Problémy se soustředěním. Psychická daň... značná. \n"
+"\n"
+"Přejděme k předmětu číslo třináct."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_main_terminal:36
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_main_terminal:36:DefaultText"
 msgid "[First Entry]"
-msgstr ""
+msgstr "[První záznam]"
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_main_terminal:37
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_main_terminal:37:DefaultText"
 msgid "[Final Entry]"
-msgstr ""
+msgstr "[Závěrečný příspěvek]"
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_main_terminal:38
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_main_terminal:38:DefaultText"
@@ -163,7 +169,7 @@ msgid "PERSONAL TERMINAL\r\n"
 "Balderdash. Cellular regeneration after long-term hibernation is really just a question of thermodynamics. I'm quite confident I can find a way to revive the Hope's colonists - if only Corporate would authorize my requests. Frankly, I don't see why I need the permission of my employers to conduct experiments in the name of scientific advancement. What nonsense! Did Newton beg permission from his employers before discovering the three laws of motion?\r\n"
 "\r\n"
 "Genius is not beholden to the vicissitudes of bureaucracy. Besides, the Hope has a cargo of hundreds of thousands of colonists. The Board practically expects a few to go missing."
-msgstr ""
+msgstr "PERSONÁLNÍ TERMÍN Phineas V. Welles ==================== Naděje se na Halcyon přece jen dostala, s pětadvacetiletým zpožděním. Správní rada neví, co si počít s celou lodí plnou zmrzlých kolonistů, takže je tam přirozeně nechá. Korporace říká, že oživení je nemožné. Nevyzkoušeli vůbec nic a zřejmě jim došly všechny možnosti. Balderdash. Regenerace buněk po dlouhodobé hibernaci je ve skutečnosti jen otázkou termodynamiky. Jsem si naprosto jistý, že najdu způsob, jak oživit kolonisty Hope - jen kdyby Korporace schválila mé požadavky. Upřímně řečeno, nevím, proč potřebuji povolení svých zaměstnavatelů k provádění experimentů ve jménu vědeckého pokroku. To je nesmysl! Copak Newton před objevením tří pohybových zákonů prosil své zaměstnavatele o povolení? Génius není závislý na byrokracii. Kromě toho má Hope náklad stovek tisíc kolonistů. Rada prakticky očekává, že se jich pár ztratí."
 
 #: conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_main_terminal:39
 msgctxt "conversations/09_interstitial/0901_scientist_lab/0901_cv_phineas_main_terminal:39:DefaultText"
@@ -179,4 +185,4 @@ msgid "PERSONAL TERMINAL\r\n"
 "Only the Hope's colonists can forgive me for what I've done. They're the only people who can set things right. And I'm going to find a way to revive them, no matter how long I have to stay in hiding.\r\n"
 "\r\n"
 "I've got my notes with me. I have my equipment. And now I have this lab. It's time I returned to work."
-msgstr ""
+msgstr "PERSONÁLNÍ TERMINÁL Phineas V. Welles ==================== Vždycky jsem tušil, že se to stane. Rada konečně zjistila, co jsem udělal, a poslala své lovce hlav, aby mě vypátrali, ale nikdy mě nenajdou. Říkají, že jsem vrah - a mají pravdu. Jsem. Lituji toho, co jsem udělal. Ale nehodlám se udat Radě. Nehodlám jít prosit Radu o odpuštění. Jen kolonisté Naděje mi mohou odpustit, co jsem udělal. Jen oni mohou dát věci do pořádku. A já najdu způsob, jak je oživit, bez ohledu na to, jak dlouho se budu muset skrývat. Mám s sebou své poznámky. Mám své vybavení. A teď mám i tuhle laboratoř. Je čas, abych se vrátil k práci."

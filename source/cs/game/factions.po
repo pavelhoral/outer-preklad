@@ -1,298 +1,298 @@
 #: game/factions:0
 msgctxt "game/factions:0:DefaultText"
 msgid "Iconoclasts"
-msgstr ""
+msgstr "Ikonoklasté"
 
 #: game/factions:2
 msgctxt "game/factions:2:DefaultText"
 msgid "Deserters"
-msgstr ""
+msgstr "Dezertéři"
 
 #: game/factions:3
 msgctxt "game/factions:3:DefaultText"
 msgid "Edgewater"
-msgstr ""
+msgstr "Edgewater"
 
 #: game/factions:4
 msgctxt "game/factions:4:DefaultText"
 msgid "Groundbreaker"
-msgstr ""
+msgstr "Groundbreaker"
 
 #: game/factions:5
 msgctxt "game/factions:5:DefaultText"
 msgid "Monarch Stellar Industries"
-msgstr ""
+msgstr "Monarch Stellar Industries"
 
 #: game/factions:6
 msgctxt "game/factions:6:DefaultText"
 msgid "Raptidon"
-msgstr ""
+msgstr "Raptidon"
 
 #: game/factions:7
 msgctxt "game/factions:7:DefaultText"
 msgid "Auntie Cleo"
-msgstr ""
+msgstr "Teta Cleo"
 
 #: game/factions:9
 msgctxt "game/factions:9:DefaultText"
 msgid "SubLight Salvage & Shipping"
-msgstr ""
+msgstr "SubLight Salvage & Shipping"
 
 #: game/factions:10
 msgctxt "game/factions:10:DefaultText"
 msgid "The Board"
-msgstr ""
+msgstr "Představenstvo"
 
 #: game/factions:11
 msgctxt "game/factions:11:DefaultText"
 msgid "The Iconoclasts are a group of survivalists living in the ruins of Amber Heights on Monarch. Led by Graham Bryant, a staunch Philosophist, they hope to one day tear down the corporate establishment that they believe has brought the colony to the brink of death."
-msgstr ""
+msgstr "Ikonoklasté jsou skupina přeživších, která žije v ruinách Amber Heights na Monarchu. Pod vedením Grahama Bryanta, přesvědčeného filosofa, doufají, že jednoho dne zničí korporátní zřízení, které podle nich přivedlo kolonii na pokraj smrti."
 
 #: game/factions:13
 msgctxt "game/factions:13:DefaultText"
 msgid "The Deserters are a community of disillusioned workers who left the town of Edgewater. They live together in a makeshift camp located in the Botanical Lab district of Emerald Vale."
-msgstr ""
+msgstr "Dezertéři jsou komunitou zklamaných dělníků, kteří opustili město Edgewater. Žijí společně v provizorním táboře, který se nachází ve čtvrti Botanical Lab ve Smaragdovém údolí."
 
 #: game/factions:14
 msgctxt "game/factions:14:DefaultText"
 msgid "Spacer's Choice is the favorite brand for a colonist on the budget. The town of Edgewater, and the region of Emerald Vale, are properties of the Spacer's Choice company."
-msgstr ""
+msgstr "Spacer's Choice je oblíbená značka pro kolonisty s omezeným rozpočtem. Město Edgewater a oblast Emerald Vale jsou majetkem společnosti Spacer's Choice."
 
 #: game/factions:15
 msgctxt "game/factions:15:DefaultText"
 msgid "A former colony ship turned space station, Groundbreaker is the only township in the system operating outside the Board's control. The Groundbreaker's crew are led by engineer–turned–captain Junlei Tennyson, and they are fiercely protective of their independence."
-msgstr ""
+msgstr "Groundbreaker, bývalá koloniální loď přeměněná na vesmírnou stanici, je jediným městem v systému, které funguje mimo kontrolu Rady. Posádku Groundbreakeru vede inženýr Junlei Tennyson, který se stal kapitánem, a ta si tvrdě chrání svou nezávislost."
 
 #: game/factions:16
 msgctxt "game/factions:16:DefaultText"
 msgid "Once a loyal Board-owned corporation, Monarch Stellar Industries split off to become their own private entity under the leadership of Sanjar Nandi. Espousing worker-centric rights and democratic ideals, Sanjar seeks to bring his own brand of freedoms to the rest of Halcyon."
-msgstr ""
+msgstr "Společnost Monarch Stellar Industries, která byla kdysi loajální korporací vlastněnou Radou, se pod vedením Sanjara Nandiho oddělila a stala se vlastním soukromým subjektem. Sanjar, který se hlásí k právům zaměstnanců a demokratickým ideálům, se snaží přinést zbytku Halcyonu vlastní svobodu."
 
 #: game/factions:17
 msgctxt "game/factions:17:DefaultText"
 msgid "Raptidon faction description"
-msgstr ""
+msgstr "Popis frakce Raptidon"
 
 #: game/factions:18
 msgctxt "game/factions:18:DefaultText"
 msgid "Auntie Cleo brings millenia of scientific research and advancement to your nearest pharmaceutical outlet or convenience store. With everything from their \"Auntie-Biotics\" line of medicinal solutions to their straight-from-the-laboratory Tripicale foodstuffs, you're sure to find something for everyone.\n"
 "\n"
 "Auntie Cleo: It's better than nature!"
-msgstr ""
+msgstr "Auntie Cleo přináší tisíciletí vědeckého výzkumu a pokroku do nejbližší lékárny nebo obchodu se smíšeným zbožím. V jejich řadě léčivých přípravků \"Auntie-Biotics\" až po potraviny Tripicale přímo z laboratoře si jistě každý najde to své. Auntie Cleo: Je to lepší než příroda!"
 
 #: game/factions:20
 msgctxt "game/factions:20:DefaultText"
 msgid "SubLight is a network of \"salvagers\" with business ties to \"transportation\" and \"waste disposal.\" A tangled web of contractors and secretive vice presidents make up their official hierarchy, leaving no one to speak on the record about SubLight's more legally-dubious activities. "
-msgstr ""
+msgstr "SubLight je síť \"záchranářů\" s obchodními vazbami na \"dopravu\" a \"likvidaci odpadu\". Jejich oficiální hierarchii tvoří spletitá síť smluvních partnerů a tajnůstkářských viceprezidentů, takže o právně pochybných aktivitách společnosti SubLight nemůže nikdo mluvit otevřeně. "
 
 #: game/factions:21
 msgctxt "game/factions:21:DefaultText"
 msgid "The Halcyon Holdings Board of Directors is a group of CEOs from each of Halcyon's founding companies. Under the leadership of Chairman Rockwell, the CEO of Universal Defense Logistics, the Board institutes policy and law throughout the Halcyon colony."
-msgstr ""
+msgstr "Představenstvo společnosti Halcyon Holdings tvoří skupina generálních ředitelů všech zakládajících společností společnosti Halcyon. Představenstvo pod vedením předsedy Rockwella, generálního ředitele společnosti Universal Defense Logistics, zavádí politiku a zákony v celé kolonii Halcyon."
 
 #: game/factions:26
 msgctxt "game/factions:26:DefaultText"
 msgid "Neutral"
-msgstr ""
+msgstr "Neutrální"
 
 #: game/factions:27
 msgctxt "game/factions:27:DefaultText"
 msgid "Agreeable"
-msgstr ""
+msgstr "Příjemné"
 
 #: game/factions:28
 msgctxt "game/factions:28:DefaultText"
 msgid "Friendly"
-msgstr ""
+msgstr "Friendly"
 
 #: game/factions:29
 msgctxt "game/factions:29:DefaultText"
 msgid "Revering"
-msgstr ""
+msgstr "Revering"
 
 #: game/factions:30
 msgctxt "game/factions:30:DefaultText"
 msgid "Off-put"
-msgstr ""
+msgstr "Mimo mísu"
 
 #: game/factions:31
 msgctxt "game/factions:31:DefaultText"
 msgid "Mixed"
-msgstr ""
+msgstr "Smíšené"
 
 #: game/factions:32
 msgctxt "game/factions:32:DefaultText"
 msgid "Confused"
-msgstr ""
+msgstr "Zmatený"
 
 #: game/factions:33
 msgctxt "game/factions:33:DefaultText"
 msgid "Understanding"
-msgstr ""
+msgstr "Porozumění"
 
 #: game/factions:34
 msgctxt "game/factions:34:DefaultText"
 msgid "Angry"
-msgstr ""
+msgstr "Angry"
 
 #: game/factions:35
 msgctxt "game/factions:35:DefaultText"
 msgid "Bitter"
-msgstr ""
+msgstr "Bitter"
 
 #: game/factions:36
 msgctxt "game/factions:36:DefaultText"
 msgid "Cautious"
-msgstr ""
+msgstr "Opatrný"
 
 #: game/factions:37
 msgctxt "game/factions:37:DefaultText"
 msgid "Tolerant"
-msgstr ""
+msgstr "Tolerantní"
 
 #: game/factions:38
 msgctxt "game/factions:38:DefaultText"
 msgid "Repulsed"
-msgstr ""
+msgstr "Odražené"
 
 #: game/factions:39
 msgctxt "game/factions:39:DefaultText"
 msgid "Scared"
-msgstr ""
+msgstr "Scared"
 
 #: game/factions:40
 msgctxt "game/factions:40:DefaultText"
 msgid "Agitated"
-msgstr ""
+msgstr "Rozrušený"
 
 #: game/factions:41
 msgctxt "game/factions:41:DefaultText"
 msgid "Nervous"
-msgstr ""
+msgstr "Nervozita"
 
 #: game/factions:42
 msgctxt "game/factions:42:DefaultText"
 msgid "It's too early to tell whether this employee is competent or not."
-msgstr ""
+msgstr "Je příliš brzy na to, abychom mohli říci, zda je tento zaměstnanec kompetentní, nebo ne."
 
 #: game/factions:43
 msgctxt "game/factions:43:DefaultText"
 msgid "We are seeing some areas that are good and some that need improvement."
-msgstr ""
+msgstr "Vidíme, že některé oblasti jsou dobré a některé je třeba zlepšit."
 
 #: game/factions:44
 msgctxt "game/factions:44:DefaultText"
 msgid "This employee needs supervision."
-msgstr ""
+msgstr "Tento zaměstnanec potřebuje dohled."
 
 #: game/factions:45
 msgctxt "game/factions:45:DefaultText"
 msgid "This employee's behavior is erratic. Recommend they see a company counselor."
-msgstr ""
+msgstr "Chování tohoto zaměstnance je nevyzpytatelné. Doporučte mu návštěvu firemního poradce."
 
 #: game/factions:46
 msgctxt "game/factions:46:DefaultText"
 msgid "A good employee in the making."
-msgstr ""
+msgstr "Dobrý zaměstnanec ve výrobě."
 
 #: game/factions:47
 msgctxt "game/factions:47:DefaultText"
 msgid "Their last review was good but they are making lots of mistakes recently."
-msgstr ""
+msgstr "Jejich poslední hodnocení bylo dobré, ale v poslední době dělají spoustu chyb."
 
 #: game/factions:48
 msgctxt "game/factions:48:DefaultText"
 msgid "A good employee, but they make enough mistakes that retraining is recommended."
-msgstr ""
+msgstr "Dobrý zaměstnanec, ale dělá tolik chyb, že se doporučuje přeškolení."
 
 #: game/factions:49
 msgctxt "game/factions:49:DefaultText"
 msgid "On track to being a great employee."
-msgstr ""
+msgstr "Na cestě stát se skvělým zaměstnancem."
 
 #: game/factions:50
 msgctxt "game/factions:50:DefaultText"
 msgid "A great employee who makes a few mistakes."
-msgstr ""
+msgstr "Skvělý zaměstnanec, který dělá několik chyb."
 
 #: game/factions:51
 msgctxt "game/factions:51:DefaultText"
 msgid "Best employee ever! Deserves a big bonus and a promotion."
-msgstr ""
+msgstr "Nejlepší zaměstnanec vůbec! Zaslouží si velký bonus a povýšení."
 
 #: game/factions:52
 msgctxt "game/factions:52:DefaultText"
 msgid "This employee needs improvement."
-msgstr ""
+msgstr "Tento zaměstnanec potřebuje zlepšení."
 
 #: game/factions:53
 msgctxt "game/factions:53:DefaultText"
 msgid "This employee is on an action plan. Please report any negative behaviors to your supervisor."
-msgstr ""
+msgstr "Tento zaměstnanec je zařazen do akčního plánu. Jakékoli negativní chování nahlaste svému nadřízenému."
 
 #: game/factions:54
 msgctxt "game/factions:54:DefaultText"
 msgid "This employee is guilty of major infractions and should be supervised at all times."
-msgstr ""
+msgstr "Tento zaměstnanec se dopouští závažných přestupků a měl by být pod neustálým dohledem."
 
 #: game/factions:55
 msgctxt "game/factions:55:DefaultText"
 msgid "This employee is on report. Avoid contact."
-msgstr ""
+msgstr "Tento zaměstnanec je v hlášení. Vyhněte se kontaktu."
 
 #: game/factions:56
 msgctxt "game/factions:56:DefaultText"
 msgid "This employee is wanted by HR. Please report any sightings of this employee to management immediately."
-msgstr ""
+msgstr "Tento zaměstnanec je hledán personálním oddělením. Jakékoli spatření tohoto zaměstnance neprodleně nahlaste vedení."
 
 #: game/factions:57
 msgctxt "game/factions:57:DefaultText"
 msgid "This employee should be fired. Preferably out of a cannon."
-msgstr ""
+msgstr "Tento zaměstnanec by měl být propuštěn. Nejlépe z děla."
 
 #: game/factions:63
 msgctxt "game/factions:63:DefaultText"
 msgid "Labyrinth Prisoners"
-msgstr ""
+msgstr "Vězni v labyrintu"
 
 #: game/factions:67
 msgctxt "game/factions:67:DefaultText"
 msgid "Spacer's Choice"
-msgstr ""
+msgstr "Volba rozdělovače"
 
 #: game/factions:68
 msgctxt "game/factions:68:DefaultText"
 msgid "Spacer's Choice, a wholly-owned subsidiary of Universal Defense Logistics, mass produces their own branded versions of every product on the market. From ammunition to nutrition, you can cut your costs by buying from your nearest Spacer's Choice outlet.\n"
 "\n"
 "It's not the best choice--it's Spacer's Choice!"
-msgstr ""
+msgstr "Společnost Spacer's Choice, dceřiná společnost společnosti Universal Defense Logistics, vyrábí ve velkém vlastní značkové verze všech výrobků na trhu. Od munice po výživu - nákupem v nejbližší prodejně Spacer's Choice můžete snížit své náklady. Není to nejlepší volba - je to Spacer's Choice!"
 
 #: game/factions:71
 msgctxt "game/factions:71:DefaultText"
 msgid "Marauders"
-msgstr ""
+msgstr "Marauders"
 
 #: game/factions:73
 msgctxt "game/factions:73:DefaultText"
 msgid "The Hope"
-msgstr ""
+msgstr "Naděje"
 
 #: game/factions:77
 msgctxt "game/factions:77:DefaultText"
 msgid "C&P Boarst Factory"
-msgstr ""
+msgstr "C&P Boarst Factory"
 
 #: game/factions:78
 msgctxt "game/factions:78:DefaultText"
 msgid "This cystypig processing facility on Monarch was once owned and operated by C&P. Now it is run by Clive Lumbergh, the self-proclaimed \"Boarst King\", who keeps the factory producing canned boarst for sale in the region."
-msgstr ""
+msgstr "Toto zařízení na zpracování cystypigů na Monarchu kdysi vlastnila a provozovala společnost C&P. Nyní ji provozuje Clive Lumbergh, samozvaný \"král kanců\", který v ní vyrábí kančí konzervy pro prodej v regionu."
 
 #: game/factions:79
 msgctxt "game/factions:79:DefaultText"
 msgid "Stellar Bay Residents"
-msgstr ""
+msgstr "Obyvatelé zálivu Stellar Bay"
 
 #: game/factions:83
 msgctxt "game/factions:83:DefaultText"
 msgid "Byzantium Residents"
-msgstr ""
+msgstr "Obyvatelé Byzance"

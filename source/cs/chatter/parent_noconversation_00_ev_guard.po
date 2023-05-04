@@ -1,44 +1,44 @@
 #: chatter/parent_noconversation_00_ev_guard:1
 msgctxt "chatter/parent_noconversation_00_ev_guard:1:DefaultText"
 msgid "Don't know how long we'll last without power."
-msgstr ""
+msgstr "Nevím, jak dlouho vydržíme bez proudu."
 
 #: chatter/parent_noconversation_00_ev_guard:2
 msgctxt "chatter/parent_noconversation_00_ev_guard:2:DefaultText"
 msgid "Heard you've been taking down marauders."
-msgstr ""
+msgstr "Slyšel jsem, že jsi likvidoval nájezdníky."
 
 #: chatter/parent_noconversation_00_ev_guard:3
 msgctxt "chatter/parent_noconversation_00_ev_guard:3:DefaultText"
 msgid "Good to see our old workers came back."
-msgstr ""
+msgstr "Je dobré vidět, že se vrátili naši staří pracovníci."
 
 #: chatter/parent_noconversation_00_ev_guard:4
 msgctxt "chatter/parent_noconversation_00_ev_guard:4:DefaultText"
 msgid "Don't make me report you to Mister Tobson."
-msgstr ""
+msgstr "Nenuťte mě, abych vás nahlásil panu Tobsonovi."
 
 #: chatter/parent_noconversation_00_ev_guard:5
 msgctxt "chatter/parent_noconversation_00_ev_guard:5:DefaultText"
 msgid "You some sort of freelancer?"
-msgstr ""
+msgstr "Jste na volné noze?"
 
 #: chatter/parent_noconversation_00_ev_guard:6
 msgctxt "chatter/parent_noconversation_00_ev_guard:6:DefaultText"
 msgid "You're safer inside the walls."
-msgstr ""
+msgstr "Uvnitř hradeb jste ve větším bezpečí."
 
 #: chatter/parent_noconversation_00_ev_guard:7
 msgctxt "chatter/parent_noconversation_00_ev_guard:7:DefaultText"
 msgid "Got my sights on you."
-msgstr ""
+msgstr "Mám na tebe zálusk."
 
 #: chatter/parent_noconversation_00_ev_guard:8
 msgctxt "chatter/parent_noconversation_00_ev_guard:8:DefaultText"
 msgid "You lose a bet or something?"
-msgstr ""
+msgstr "Prohrál jsi sázku nebo tak něco?"
 
 #: chatter/parent_noconversation_00_ev_guard:9
 msgctxt "chatter/parent_noconversation_00_ev_guard:9:DefaultText"
 msgid "Some hullhead's running around town, talking about lost colony ships."
-msgstr ""
+msgstr "Po městě pobíhá nějaká hlava trupu a mluví o ztracených koloniálních lodích."

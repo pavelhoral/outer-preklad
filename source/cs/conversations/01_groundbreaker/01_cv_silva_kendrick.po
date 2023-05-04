@@ -1,144 +1,144 @@
 #: conversations/01_groundbreaker/01_cv_silva_kendrick:1
 msgctxt "conversations/01_groundbreaker/01_cv_silva_kendrick:1:DefaultText"
 msgid "Hello. Welcome to the office of the representative of Halcyon Holdings here on Groundbreaker."
-msgstr ""
+msgstr "Dobrý den. Vítejte v kanceláři zástupce společnosti Halcyon Holdings zde na serveru Groundbreaker."
 
 #: conversations/01_groundbreaker/01_cv_silva_kendrick:2
 msgctxt "conversations/01_groundbreaker/01_cv_silva_kendrick:2:DefaultText"
 msgid "How might I assist you today?"
-msgstr ""
+msgstr "Jak vám mohu dnes pomoci?"
 
 #: conversations/01_groundbreaker/01_cv_silva_kendrick:3
 msgctxt "conversations/01_groundbreaker/01_cv_silva_kendrick:3:DefaultText"
 msgid "Where'd the other guy go?"
-msgstr ""
+msgstr "Kam se poděl ten druhý?"
 
 #: conversations/01_groundbreaker/01_cv_silva_kendrick:4
 msgctxt "conversations/01_groundbreaker/01_cv_silva_kendrick:4:DefaultText"
 msgid "My sincerest apologies, but I'm afraid I don't understand."
-msgstr ""
+msgstr "Upřímně se omlouvám, ale obávám se, že tomu nerozumím."
 
 #: conversations/01_groundbreaker/01_cv_silva_kendrick:5
 msgctxt "conversations/01_groundbreaker/01_cv_silva_kendrick:5:DefaultText"
 msgid "Who are you?"
-msgstr ""
+msgstr "Kdo jste?"
 
 #: conversations/01_groundbreaker/01_cv_silva_kendrick:6
 msgctxt "conversations/01_groundbreaker/01_cv_silva_kendrick:6:DefaultText"
 msgid "\"Other guy\"?"
-msgstr ""
+msgstr "\"Jiný člověk\"?"
 
 #: conversations/01_groundbreaker/01_cv_silva_kendrick:7
 msgctxt "conversations/01_groundbreaker/01_cv_silva_kendrick:7:DefaultText"
 msgid "I am the Board's representative here on Groundbreaker."
-msgstr ""
+msgstr "Jsem zástupcem správní rady zde na serveru Groundbreaker."
 
 #: conversations/01_groundbreaker/01_cv_silva_kendrick:8
 msgctxt "conversations/01_groundbreaker/01_cv_silva_kendrick:8:DefaultText"
 msgid "He had a mustache?"
-msgstr ""
+msgstr "Měl knírek?"
 
 #: conversations/01_groundbreaker/01_cv_silva_kendrick:9
 msgctxt "conversations/01_groundbreaker/01_cv_silva_kendrick:9:DefaultText"
 msgid "Udom Bedford."
-msgstr ""
+msgstr "Udom Bedford."
 
 #: conversations/01_groundbreaker/01_cv_silva_kendrick:10
 msgctxt "conversations/01_groundbreaker/01_cv_silva_kendrick:10:DefaultText"
 msgid "Come on, you know who I mean."
-msgstr ""
+msgstr "No tak, víte, koho mám na mysli."
 
 #: conversations/01_groundbreaker/01_cv_silva_kendrick:11
 msgctxt "conversations/01_groundbreaker/01_cv_silva_kendrick:11:DefaultText"
 msgid "I must regretfully state I do not."
-msgstr ""
+msgstr "S lítostí musím konstatovat, že ne."
 
 #: conversations/01_groundbreaker/01_cv_silva_kendrick:12
 msgctxt "conversations/01_groundbreaker/01_cv_silva_kendrick:12:DefaultText"
 msgid "Now, if you have nothing further, please excuse yourself."
-msgstr ""
+msgstr "Pokud už nemáte nic dalšího, omluvte se, prosím."
 
 #: conversations/01_groundbreaker/01_cv_silva_kendrick:13
 msgctxt "conversations/01_groundbreaker/01_cv_silva_kendrick:13:DefaultText"
 msgid "Regretfully, that name doesn't ring a bell."
-msgstr ""
+msgstr "Bohužel mi to jméno nic neříká."
 
 #: conversations/01_groundbreaker/01_cv_silva_kendrick:14
 msgctxt "conversations/01_groundbreaker/01_cv_silva_kendrick:14:DefaultText"
 msgid "You may call me Mr. Silva or sir, whichever you prefer."
-msgstr ""
+msgstr "Můžete mi říkat pane Silvo nebo pane, jak chcete."
 
 #: conversations/01_groundbreaker/01_cv_silva_kendrick:15
 msgctxt "conversations/01_groundbreaker/01_cv_silva_kendrick:15:DefaultText"
 msgid "I do believe I would have remembered a mustache. I'm rather a fan of them, myself."
-msgstr ""
+msgstr "Věřím, že bych si vzpomněl na knírek. Sám jsem spíše jejich příznivcem."
 
 #: conversations/01_groundbreaker/01_cv_silva_kendrick:16
 msgctxt "conversations/01_groundbreaker/01_cv_silva_kendrick:16:DefaultText"
 msgid "I'll see myself out."
-msgstr ""
+msgstr "Vyprovodím se sám."
 
 #: conversations/01_groundbreaker/01_cv_silva_kendrick:17
 msgctxt "conversations/01_groundbreaker/01_cv_silva_kendrick:17:DefaultText"
 msgid "Goodbye."
-msgstr ""
+msgstr "Sbohem."
 
 #: conversations/01_groundbreaker/01_cv_silva_kendrick:18
 msgctxt "conversations/01_groundbreaker/01_cv_silva_kendrick:18:DefaultText"
 msgid "I'll see myself out, Mr. Silva. Sir."
-msgstr ""
+msgstr "Vyprovodím se sám, pane Silvo. Pane."
 
 #: conversations/01_groundbreaker/01_cv_silva_kendrick:19
 msgctxt "conversations/01_groundbreaker/01_cv_silva_kendrick:19:DefaultText"
 msgid "Cut the shit. Where's Udom?"
-msgstr ""
+msgstr "Přestaňte s tím. Kde je Udom?"
 
 #: conversations/01_groundbreaker/01_cv_silva_kendrick:20
 msgctxt "conversations/01_groundbreaker/01_cv_silva_kendrick:20:DefaultText"
 msgid "If you're asking why he no longer sits at this desk, that's simple enough. His employment with Halcyon Holdings was terminated."
-msgstr ""
+msgstr "Pokud se ptáte, proč už u tohoto stolu nesedí, je to jednoduché. Jeho pracovní poměr u Halcyon Holdings byl ukončen."
 
 #: conversations/01_groundbreaker/01_cv_silva_kendrick:21
 msgctxt "conversations/01_groundbreaker/01_cv_silva_kendrick:21:DefaultText"
 msgid "If you're instead inquiring as to the precise location of his body, well - that I do not know."
-msgstr ""
+msgstr "Pokud se místo toho ptáte na přesnou polohu jeho těla, tak to nevím."
 
 #: conversations/01_groundbreaker/01_cv_silva_kendrick:22
 msgctxt "conversations/01_groundbreaker/01_cv_silva_kendrick:22:DefaultText"
 msgid "May I help you with anything else?"
-msgstr ""
+msgstr "Mohu vám ještě s něčím pomoci?"
 
 #: conversations/01_groundbreaker/01_cv_silva_kendrick:23
 msgctxt "conversations/01_groundbreaker/01_cv_silva_kendrick:23:DefaultText"
 msgid "Who had him killed?"
-msgstr ""
+msgstr "Kdo ho nechal zabít?"
 
 #: conversations/01_groundbreaker/01_cv_silva_kendrick:24
 msgctxt "conversations/01_groundbreaker/01_cv_silva_kendrick:24:DefaultText"
 msgid "I haven't asked, nor do I care to know."
-msgstr ""
+msgstr "Neptal jsem se a ani mě to nezajímá."
 
 #: conversations/01_groundbreaker/01_cv_silva_kendrick:25
 msgctxt "conversations/01_groundbreaker/01_cv_silva_kendrick:25:DefaultText"
 msgid "You're a well-connected man. Surely you've heard whispers."
-msgstr ""
+msgstr "Jste muž s dobrými konexemi. Jistě jste slyšel šuškandu."
 
 #: conversations/01_groundbreaker/01_cv_silva_kendrick:26
 msgctxt "conversations/01_groundbreaker/01_cv_silva_kendrick:26:DefaultText"
 msgid "I heard screams, in point of fact. From down the Waste Disposal hall."
-msgstr ""
+msgstr "Vlastně jsem slyšel výkřiky. Z dolní části haly pro likvidaci odpadů."
 
 #: conversations/01_groundbreaker/01_cv_silva_kendrick:27
 msgctxt "conversations/01_groundbreaker/01_cv_silva_kendrick:27:DefaultText"
 msgid "Now you know as much as I do. I hope this information satisfies your curiosity. Good day."
-msgstr ""
+msgstr "Teď už víte tolik co já. Doufám, že tyto informace uspokojí vaši zvědavost. Hezký den."
 
 #: conversations/01_groundbreaker/01_cv_silva_kendrick:28
 msgctxt "conversations/01_groundbreaker/01_cv_silva_kendrick:28:DefaultText"
 msgid "Hello again. I haven't a moment to spare for you just now."
-msgstr ""
+msgstr "Ještě jednou zdravím. Nemám na vás teď chvilku času."
 
 #: conversations/01_groundbreaker/01_cv_silva_kendrick:29
 msgctxt "conversations/01_groundbreaker/01_cv_silva_kendrick:29:DefaultText"
 msgid "Please do return at another time."
-msgstr ""
+msgstr "Vraťte se prosím jindy."

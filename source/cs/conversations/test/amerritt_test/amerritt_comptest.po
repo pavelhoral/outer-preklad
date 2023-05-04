@@ -4,53 +4,53 @@ msgid "[Stub] [SPACER_CHOICE_HEADER]\r\n"
 "----------------------------------------------\r\n"
 "Status: Perform Action\r\n"
 "Awaiting User Input..."
-msgstr ""
+msgstr "[Stub] [SPACER_CHOICE_HEADER] ---------------------------------------------- Status: Provést akci Čeká se na vstup uživatele..."
 
 #: conversations/test/amerritt_test/amerritt_comptest:3
 msgctxt "conversations/test/amerritt_test/amerritt_comptest:3:DefaultText"
 msgid "[Stub] Lock Security Doors"
-msgstr ""
+msgstr "[Stub] Zamykání bezpečnostních dveří"
 
 #: conversations/test/amerritt_test/amerritt_comptest:8
 msgctxt "conversations/test/amerritt_test/amerritt_comptest:8:DefaultText"
 msgid "[Stub] Exit"
-msgstr ""
+msgstr "[Stub] Exit"
 
 #: conversations/test/amerritt_test/amerritt_comptest:9
 msgctxt "conversations/test/amerritt_test/amerritt_comptest:9:DefaultText"
 msgid "[Stub] Unlock Security Doors"
-msgstr ""
+msgstr "[Stub] Odemknout bezpečnostní dveře"
 
 #: conversations/test/amerritt_test/amerritt_comptest:22
 msgctxt "conversations/test/amerritt_test/amerritt_comptest:22:DefaultText"
 msgid "[Stub] Open Security Doors"
-msgstr ""
+msgstr "[Stub] Otevřít bezpečnostní dveře"
 
 #: conversations/test/amerritt_test/amerritt_comptest:25
 msgctxt "conversations/test/amerritt_test/amerritt_comptest:25:DefaultText"
 msgid "[Stub] Close Security Doors"
-msgstr ""
+msgstr "[Stub] Zavřít bezpečnostní dveře"
 
 #: conversations/test/amerritt_test/amerritt_comptest:27
 msgctxt "conversations/test/amerritt_test/amerritt_comptest:27:DefaultText"
 msgid "[Stub] [SPACER_CHOICE_HEADER]\r\n"
 "----------------------------------------------\r\n"
 "Attempting Unlock of systems."
-msgstr ""
+msgstr "[Stub] [SPACER_CHOICE_HEADER] ---------------------------------------------- Pokus o odemčení systémů."
 
 #: conversations/test/amerritt_test/amerritt_comptest:28
 msgctxt "conversations/test/amerritt_test/amerritt_comptest:28:DefaultText"
 msgid "[Stub] [SPACER_CHOICE_HEADER]\r\n"
 "----------------------------------------------\r\n"
 "Attempting Open"
-msgstr ""
+msgstr "[Stub] [SPACER_CHOICE_HEADER] ---------------------------------------------- Pokus o otevření"
 
 #: conversations/test/amerritt_test/amerritt_comptest:29
 msgctxt "conversations/test/amerritt_test/amerritt_comptest:29:DefaultText"
 msgid "[Stub] [SPACER_CHOICE_HEADER]\r\n"
 "----------------------------------------------\r\n"
 "Attempting Locked"
-msgstr ""
+msgstr "[Stub] [SPACER_CHOICE_HEADER] ---------------------------------------------- Pokus o uzamčení"
 
 #: conversations/test/amerritt_test/amerritt_comptest:30
 msgctxt "conversations/test/amerritt_test/amerritt_comptest:30:DefaultText"
@@ -58,4 +58,4 @@ msgid "[Stub] [SPACER_CHOICE_HEADER]\r\n"
 "----------------------------------------------\r\n"
 "Attempting Close\r\n"
 ""
-msgstr ""
+msgstr "[Stub] [SPACER_CHOICE_HEADER] ---------------------------------------------- Pokus o zavření"

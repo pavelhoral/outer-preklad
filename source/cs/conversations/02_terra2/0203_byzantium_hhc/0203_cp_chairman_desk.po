@@ -4,12 +4,12 @@ msgid "Halcyon Holdings Corporation\r\n"
 "========================\r\n"
 "\r\n"
 "Welcome, Chairman Rockwell!"
-msgstr ""
+msgstr "Halcyon Holdings Corporation ======================== Vítejte, předsedo Rockwelle!"
 
 #: conversations/02_terra2/0203_byzantium_hhc/0203_cp_chairman_desk:2
 msgctxt "conversations/02_terra2/0203_byzantium_hhc/0203_cp_chairman_desk:2:DefaultText"
 msgid "[Personal Files]"
-msgstr ""
+msgstr "[Osobní soubory]"
 
 #: conversations/02_terra2/0203_byzantium_hhc/0203_cp_chairman_desk:3
 msgctxt "conversations/02_terra2/0203_byzantium_hhc/0203_cp_chairman_desk:3:DefaultText"
@@ -21,27 +21,27 @@ msgid "Status Report\n"
 "Benzine, 75 gal. ... Full quantity received by Ministry of Accuracy and Morale\n"
 "\n"
 "Sodium Hypochlorite, 348 gal. ... RECEIVED AT DOCKING BAY 2, AWAITING SHIPMENT TO MINISTRY OF ACCURACY AND MORALE"
-msgstr ""
+msgstr "Zpráva o stavu ====================== Dimethylsulfoxid, 46 gal... Plné množství není k dispozici. Částečné množství obdrželo ministerstvo přesnosti a morálky Benzin, 75 gal. ... Plné množství obdržené ministerstvem pro přesnost a morálku Chlornan sodný, 348 galonů ... OBDRŽENO V DOKU 2, ČEKÁ SE NA ODESLÁNÍ NA MINISTERSTVO PŘESNOSTI A MORÁLKY."
 
 #: conversations/02_terra2/0203_byzantium_hhc/0203_cp_chairman_desk:6
 msgctxt "conversations/02_terra2/0203_byzantium_hhc/0203_cp_chairman_desk:6:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"
 
 #: conversations/02_terra2/0203_byzantium_hhc/0203_cp_chairman_desk:7
 msgctxt "conversations/02_terra2/0203_byzantium_hhc/0203_cp_chairman_desk:7:DefaultText"
 msgid "[Accessing...]"
-msgstr ""
+msgstr "[Přístup k...]"
 
 #: conversations/02_terra2/0203_byzantium_hhc/0203_cp_chairman_desk:10
 msgctxt "conversations/02_terra2/0203_byzantium_hhc/0203_cp_chairman_desk:10:DefaultText"
 msgid "[Subject: What's Taking So Long]"
-msgstr ""
+msgstr "[Předmět: Co trvá tak dlouho]"
 
 #: conversations/02_terra2/0203_byzantium_hhc/0203_cp_chairman_desk:11
 msgctxt "conversations/02_terra2/0203_byzantium_hhc/0203_cp_chairman_desk:11:DefaultText"
 msgid "[Subject: Masseuse]"
-msgstr ""
+msgstr "[Předmět: Masérka]"
 
 #: conversations/02_terra2/0203_byzantium_hhc/0203_cp_chairman_desk:12
 msgctxt "conversations/02_terra2/0203_byzantium_hhc/0203_cp_chairman_desk:12:DefaultText"
@@ -52,7 +52,7 @@ msgid "Percival,\r\n"
 "And for Law's sake, do something about that doom-and-gloom presentation. We have the brightest minds in Halcyon working in our public relations department, and they make this announcement sound like a damned funeral elegy. We need something bright and cheerful! We need something we can sell.\r\n"
 "\r\n"
 "- CR"
-msgstr ""
+msgstr "Percivale, jak dlouho trvá vyklizení opuštěné kanceláře?! Vyhoď Clarkovy věci do ulic Byzance, mně je to jedno - on je nepoužívá. Hlavně ať je moje kancelář rozšířená, než se vrátím. Už mě nebaví zírat na tu díru ve zdi. A proboha, udělejte něco s tou prezentací o zkáze. V našem oddělení pro styk s veřejností pracují ty nejchytřejší mozky v Halcyonu a tohle oznámení zní jako zatracená pohřební elegie. Potřebujeme něco jasného a veselého! Potřebujeme něco, co můžeme prodat. - CR"
 
 #: conversations/02_terra2/0203_byzantium_hhc/0203_cp_chairman_desk:13
 msgctxt "conversations/02_terra2/0203_byzantium_hhc/0203_cp_chairman_desk:13:DefaultText"
@@ -61,22 +61,22 @@ msgid "Percival,\r\n"
 "Reschedule my regular Wednesday massage. I have urgent matters to attend to offsite.\r\n"
 "\r\n"
 "- CR"
-msgstr ""
+msgstr "Percivale, přeobjednej mi pravidelnou středeční masáž. Mám naléhavé záležitosti, které musím vyřídit mimo pracoviště. - ČR"
 
 #: conversations/02_terra2/0203_byzantium_hhc/0203_cp_chairman_desk:14
 msgctxt "conversations/02_terra2/0203_byzantium_hhc/0203_cp_chairman_desk:14:DefaultText"
 msgid "[Shipment Status Report]"
-msgstr ""
+msgstr "[Zpráva o stavu zásilky]"
 
 #: conversations/02_terra2/0203_byzantium_hhc/0203_cp_chairman_desk:15
 msgctxt "conversations/02_terra2/0203_byzantium_hhc/0203_cp_chairman_desk:15:DefaultText"
 msgid "[Return to Root]"
-msgstr ""
+msgstr "[Zpět na kořen]"
 
 #: conversations/02_terra2/0203_byzantium_hhc/0203_cp_chairman_desk:16
 msgctxt "conversations/02_terra2/0203_byzantium_hhc/0203_cp_chairman_desk:16:DefaultText"
 msgid "[Send Minister Clarke's Message to Earth]"
-msgstr ""
+msgstr "[Odeslat zprávu ministra Clarkea na Zemi]"
 
 #: conversations/02_terra2/0203_byzantium_hhc/0203_cp_chairman_desk:17
 msgctxt "conversations/02_terra2/0203_byzantium_hhc/0203_cp_chairman_desk:17:DefaultText"
@@ -87,12 +87,12 @@ msgid "Reading cartridge...\r\n"
 "Transmitting to drone...\r\n"
 "\r\n"
 "Message en route. Please allow between 3 and 9 months for your message to complete transit."
-msgstr ""
+msgstr "Čtení kazety... Balení dat... Přenos do dronu... Zpráva na cestě. Počítejte prosím s dobou 3 až 9 měsíců na dokončení přepravy vaší zprávy."
 
 #: conversations/02_terra2/0203_byzantium_hhc/0203_cp_chairman_desk:18
 msgctxt "conversations/02_terra2/0203_byzantium_hhc/0203_cp_chairman_desk:18:DefaultText"
 msgid "[Subject: Food Reserves]"
-msgstr ""
+msgstr "[Předmět: Potravinové rezervy]"
 
 #: conversations/02_terra2/0203_byzantium_hhc/0203_cp_chairman_desk:19
 msgctxt "conversations/02_terra2/0203_byzantium_hhc/0203_cp_chairman_desk:19:DefaultText"
@@ -103,12 +103,14 @@ msgid "Chairman,\n"
 "Unfortunately, it's gotten too expensive to continue buying from even the closest colonies, but what we have will sustain Byzantium and a minimal workforce for the foreseeable future.\n"
 "\n"
 "- Sophia"
-msgstr ""
+msgstr "Předsedo, informoval jsem se a mohu potvrdit, že máme spoustu potravin (skutečných potravin), které jsme si uložili z našeho obchodu mezi koloniemi. Výživový profil potravin vyráběných v rámci Halcyonu se stále zhoršuje. Brzy začnou mít lidé pocit hladu bez ohledu na to, kolik toho sní. \n"
+"\n"
+"Bohužel je už příliš drahé na to, abychom mohli pokračovat v nákupu i z nejbližších kolonií, ale to, co máme, uživí Byzantium a minimální pracovní sílu v dohledné budoucnosti.\" - Sophia"
 
 #: conversations/02_terra2/0203_byzantium_hhc/0203_cp_chairman_desk:20
 msgctxt "conversations/02_terra2/0203_byzantium_hhc/0203_cp_chairman_desk:20:DefaultText"
 msgid "[Print Ministry Keycard]"
-msgstr ""
+msgstr "[Vytisknout kartu ministerstva]"
 
 #: conversations/02_terra2/0203_byzantium_hhc/0203_cp_chairman_desk:21
 msgctxt "conversations/02_terra2/0203_byzantium_hhc/0203_cp_chairman_desk:21:DefaultText"
@@ -117,12 +119,12 @@ msgid "Printing...\r\n"
 "Encoding...\r\n"
 "\r\n"
 "Operation complete. Please retrieve your keycard."
-msgstr ""
+msgstr "Tisk... Kódování... Operace dokončena. Vyzvedněte si prosím svou kartu."
 
 #: conversations/02_terra2/0203_byzantium_hhc/0203_cp_chairman_desk:26
 msgctxt "conversations/02_terra2/0203_byzantium_hhc/0203_cp_chairman_desk:26:DefaultText"
 msgid "[View Priority Message]"
-msgstr ""
+msgstr "[Zobrazit zprávu s prioritou]"
 
 #: conversations/02_terra2/0203_byzantium_hhc/0203_cp_chairman_desk:27
 msgctxt "conversations/02_terra2/0203_byzantium_hhc/0203_cp_chairman_desk:27:DefaultText"
@@ -139,17 +141,19 @@ msgid "Chairman,\n"
 "Don't worry - I'll make sure it gets properly edited.\n"
 "\n"
 " - Sophia"
-msgstr ""
+msgstr "Předseda, Hrubý sestřih prezentace je připraven k přehrání. PR oddělení má před sebou ještě hodně práce, ale to základní jsme již pokryli: - Halcyon je na pokraji hladomoru - vědci z představenstva pracují na řešení - pracovníci se mohou těšit na program celoživotního zaměstnávání, v rámci kterého mají šanci přispět Aktuální verzi uvidíte, až si vytisknete kartu na ministerstvo přesnosti a morálky (a ano, než se zeptáte, byl tam dodán dimetylsulfoxid). Čeká to na tvůj podpis v hrubých rysech, tak jsem se chtěl ujistit, že to vidíš. \n"
+"\n"
+"Neboj se - postarám se o to, aby to bylo řádně upraveno.\" - Sophia"
 
 #: conversations/02_terra2/0203_byzantium_hhc/0203_cp_chairman_desk:28
 msgctxt "conversations/02_terra2/0203_byzantium_hhc/0203_cp_chairman_desk:28:DefaultText"
 msgid "[Replay Presentation Video]"
-msgstr ""
+msgstr "[Replay Presentation Video]"
 
 #: conversations/02_terra2/0203_byzantium_hhc/0203_cp_chairman_desk:30
 msgctxt "conversations/02_terra2/0203_byzantium_hhc/0203_cp_chairman_desk:30:DefaultText"
 msgid "[Subject: The Other Corporations]"
-msgstr ""
+msgstr "[Předmět: Ostatní korporace]"
 
 #: conversations/02_terra2/0203_byzantium_hhc/0203_cp_chairman_desk:31
 msgctxt "conversations/02_terra2/0203_byzantium_hhc/0203_cp_chairman_desk:31:DefaultText"
@@ -160,7 +164,7 @@ msgid "Chairman,\r\n"
 "As head of UDL, you can overrule them easily, but I thought you should know they're at it again.\r\n"
 "\r\n"
 "- Percival"
-msgstr ""
+msgstr "Předsedo, šéfové ostatních devíti korporací se opět vzbouřili kvůli svým podílům. Jako šéf UDL je můžeš snadno přehlasovat, ale myslel jsem, že bys měl vědět, že se do toho opět pustili. - Percival."
 
 #: conversations/02_terra2/0203_byzantium_hhc/0203_cp_chairman_desk:32
 msgctxt "conversations/02_terra2/0203_byzantium_hhc/0203_cp_chairman_desk:32:DefaultText"
@@ -169,4 +173,4 @@ msgid "Printing...\r\n"
 "Encoding...\r\n"
 "\r\n"
 "Operation complete. Please retrieve your keycard."
-msgstr ""
+msgstr "Tisk... Kódování... Operace dokončena. Vyzvedněte si prosím svou kartu."

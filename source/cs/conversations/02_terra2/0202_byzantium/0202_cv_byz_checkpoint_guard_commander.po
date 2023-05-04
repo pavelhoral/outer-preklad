@@ -1,269 +1,269 @@
 #: conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:1
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:1:DefaultText"
 msgid "You can pass. Go on through."
-msgstr ""
+msgstr "Můžete projít. Projděte."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:2
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:2:DefaultText"
 msgid "The Acropolis District is off-limits. Move along."
-msgstr ""
+msgstr "Do čtvrti Akropolis je vstup zakázán. Jděte dál."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:3
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:3:DefaultText"
 msgid "What is it now?"
-msgstr ""
+msgstr "Co je to teď?"
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:4
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:4:DefaultText"
 msgid "Mind if I take a breather? I'm pretty tired after hauling around all these bits."
-msgstr ""
+msgstr "Můžu si oddechnout? Jsem dost unavený po tom, co jsem se tahal se všemi těmi kousky."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:5
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:5:DefaultText"
 msgid "What in the Law's name are you on about?"
-msgstr ""
+msgstr "O čem to proboha mluvíte?"
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:6
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:6:DefaultText"
 msgid "These <oeiglobal>Bribe_Amount</oeiglobal> bits have been weighing me down all day. Here, you hold them."
-msgstr ""
+msgstr "Tyhle <oeiglobal>Bribe_Amount</oeiglobal> kousky mě tíží celý den. Tady je podržte."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:7
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:7:DefaultText"
 msgid "Sure, let me just take that off your hands."
-msgstr ""
+msgstr "Jistě, dovolte mi, abych vám to vzal z rukou."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:9
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:9:DefaultText"
 msgid "These <oeiglobal>Bribe_Amount</oeiglobal> bits have been weighing me down all day. Here, you hold them."
-msgstr ""
+msgstr "Tyhle <oeiglobal>Bribe_Amount</oeiglobal> kousky mě tíží celý den. Tady je podržte."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:12
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:12:DefaultText"
 msgid "This is embarrassing. I was going to bribe you, but I just realized I don't have enough on me."
-msgstr ""
+msgstr "To je trapné. Chtěl jsem tě podplatit, ale právě jsem si uvědomil, že u sebe nemám dost peněz."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:13
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:13:DefaultText"
 msgid "Honest mistake. Why don't you come back another time, and we can take this from the top?"
-msgstr ""
+msgstr "Čestná chyba. Proč se nevrátíte jindy a nevezmeme to od začátku?"
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:14
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:14:DefaultText"
 msgid "You don't know me because I'm new to the job. I'm starting at the Ministry tomorrow."
-msgstr ""
+msgstr "Neznáte mě, protože jsem v této práci nováček. Zítra nastupuji na ministerstvo."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:15
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:15:DefaultText"
 msgid "You're new to the Ministry? You one of those labcoats they promoted from a company town?"
-msgstr ""
+msgstr "Jste na ministerstvu nový? Jsi jeden z těch laborantů, které povýšili z firemního města?"
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:16
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:16:DefaultText"
 msgid "I'm back with money. Want to try this bribery thing again?"
-msgstr ""
+msgstr "Jsem zpátky s penězi. Chceš to s tím uplácením zkusit znovu?"
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:17
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:17:DefaultText"
 msgid "As I recall, you were saying something about being tired and needing a breather."
-msgstr ""
+msgstr "Pokud si vzpomínám, říkal jsi něco o tom, že jsi unavený a potřebuješ si vydechnout."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:18
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:18:DefaultText"
 msgid "I'm not looking for trouble. I just want in."
-msgstr ""
+msgstr "Nevyhledávám problémy. Jen chci dovnitř."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:19
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:19:DefaultText"
 msgid "And seeing as you don't seem the executive sort, you obviously don't belong in the Acropolis District."
-msgstr ""
+msgstr "A protože nevypadáte na výkonného člověka, zřejmě do čtvrti Akropolis nepatříte."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:20
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:20:DefaultText"
 msgid "Farewell."
-msgstr ""
+msgstr "Rozloučení."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:57
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:57:DefaultText"
 msgid "Did I say restricted area? Slip of the tongue. What I meant was - welcome to the Acropolis District."
-msgstr ""
+msgstr "Řekl jsem zakázaná oblast? Přeřeknutí. Chtěl jsem říct - vítejte ve čtvrti Akropolis."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:58
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:58:DefaultText"
 msgid "Goodbye."
-msgstr ""
+msgstr "Sbohem."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:59
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:59:DefaultText"
 msgid "You don't know that."
-msgstr ""
+msgstr "To nevíte."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:60
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:60:DefaultText"
 msgid "I really don't have time for this."
-msgstr ""
+msgstr "Na tohle opravdu nemám čas."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:61
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:61:DefaultText"
 msgid "That's some brilliant logic. You should be promoted."
-msgstr ""
+msgstr "To je brilantní logika. Měl bys být povýšen."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:62
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:62:DefaultText"
 msgid "Hey, were you awarded Most Persons Profiled six non-consecutive months in a row? I didn't think so."
-msgstr ""
+msgstr "Hej, byl jsi šest měsíců po sobě oceněn jako nejprofláknutější osoba? To jsem si nemyslel."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:63
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:63:DefaultText"
 msgid "Yeah? Well, my shift ends approximately never, so I've got all the time in the world."
-msgstr ""
+msgstr "Ano? No, moje směna končí přibližně za hodinu, takže mám všechen čas na světě."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:64
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:64:DefaultText"
 msgid "Hey, I've been trying to get a post at the HHC, but they keep turning me down on account of my \"odious interpersonal skills.\" Or something."
-msgstr ""
+msgstr "Ahoj, snažím se získat místo v HHC, ale stále mě odmítají kvůli mým \"odporným mezilidským schopnostem\". Nebo tak nějak."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:65
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:65:DefaultText"
 msgid "Anyway, I've worked here long enough to know every clerk by name and face. And since I don't know yours, you ain't getting through."
-msgstr ""
+msgstr "Každopádně tu pracuji už dost dlouho na to, abych znal každého úředníka jménem i tváří. A protože neznám tvůj, tak se sem nedostaneš."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:67
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:67:DefaultText"
 msgid "Yeah, and I'd really like a new Hammersmith Grenade Launcher. Hammersmith - the most trusted brand in brutality. But we can't all have what we want."
-msgstr ""
+msgstr "Jo, a opravdu bych chtěl nový granátomet Hammersmith. Hammersmith - nejdůvěryhodnější značka v oblasti brutality. Ale všichni nemůžeme mít, co chceme."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:69
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:69:DefaultText"
 msgid "Would you believe it? Punched my ticket out of Edgewater. Good riddance."
-msgstr ""
+msgstr "Věřili byste tomu? Mám lístek z Edgewateru. Dobře mi tak."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:70
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:70:DefaultText"
 msgid "Handing out promotions like Cleo bars. Auntie Cleo, better than nature."
-msgstr ""
+msgstr "Rozdávání propagačních akcí jako tyčinky Cleo. Teta Cleo, lepší než příroda."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:71
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:71:DefaultText"
 msgid "So you start tomorrow, huh? You know they should've set you up with an ID six to eight weeks ago."
-msgstr ""
+msgstr "Takže zítra začínáš, co? Víš, že ti měli vystavit průkaz už před šesti až osmi týdny."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:72
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:72:DefaultText"
 msgid "I know, I know. But it never arrived. I tried to file a complaint."
-msgstr ""
+msgstr "Já vím, já vím. Ale nikdy nedorazil. Snažil jsem se podat stížnost."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:73
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:73:DefaultText"
 msgid "But then you had to wait six to eight weeks for the complaint forms to arrive, right? I've been there."
-msgstr ""
+msgstr "Ale pak jste museli čekat šest až osm týdnů, než dorazí formuláře stížností, že? Zažil jsem to."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:74
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:74:DefaultText"
 msgid "Yeah, all right. You're good to go."
-msgstr ""
+msgstr "Jo, dobře. Můžeš jít."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:75
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:75:DefaultText"
 msgid "If I ever find the clerk who stiffed me, I'm gonna censure him with a strongly worded memo."
-msgstr ""
+msgstr "Jestli někdy najdu úředníka, který mě podvedl, vynadám mu důrazně formulovanou poznámkou."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:76
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:76:DefaultText"
 msgid "You do that."
-msgstr ""
+msgstr "To udělejte vy."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:77
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:77:DefaultText"
 msgid "What are you doing in the Acropolis District? I don't remember letting you in."
-msgstr ""
+msgstr "Co děláte ve čtvrti Akropolis? Nevzpomínám si, že bych tě pustil dovnitř."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:78
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:78:DefaultText"
 msgid "I'm on special assignment for the Adjutant. You never saw me."
-msgstr ""
+msgstr "Mám zvláštní úkol pro adjutanta. Nikdy jsi mě neviděl."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:79
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:79:DefaultText"
 msgid "Oh, carry on, then."
-msgstr ""
+msgstr "Tak pokračujte."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:80
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:80:DefaultText"
 msgid "I just flew in to the landing pad atop the tower."
-msgstr ""
+msgstr "Právě jsem přiletěl na přistávací plochu na vrcholu věže."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:81
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:81:DefaultText"
 msgid "You didn't let me in because I didn't come through the gate."
-msgstr ""
+msgstr "Nepustil jsi mě dovnitř, protože jsem neprošel branou."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:82
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:82:DefaultText"
 msgid "Move along."
-msgstr ""
+msgstr "Pokračujte."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:84
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:84:DefaultText"
 msgid "Uh, I'm pretty sure that wouldn't have worked with Constable Reyes. Is this a Byzantium thing?"
-msgstr ""
+msgstr "Jsem si docela jistý, že u konstábla Reyese by to nefungovalo. Je to záležitost Byzance?"
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:85
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:85:DefaultText"
 msgid "You're a master of misdirection, Boss."
-msgstr ""
+msgstr "Jste mistr v klamání, šéfe."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:86
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:86:DefaultText"
 msgid "Can you spell gullible? No, really, I'm asking."
-msgstr ""
+msgstr "Umíte hláskovat naivní? Ne, opravdu se ptám."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:88
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:88:DefaultText"
 msgid "Gonna have to remember that line."
-msgstr ""
+msgstr "Tuhle větu si budu muset zapamatovat."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:90
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:90:DefaultText"
 msgid "You get paid by the word, Officer Windbag?"
-msgstr ""
+msgstr "Jste placený od slova, důstojníku Větrníku?"
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:91
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:91:DefaultText"
 msgid "As a matter of fact, I get paid per profile, you marginally employed twenty-something male with more guts than sense."
-msgstr ""
+msgstr "Ve skutečnosti dostávám zaplaceno za profil, ty okrajově zaměstnaný dvacetiletý muži s více odvahy než rozumu."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:92
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:92:DefaultText"
 msgid "You could've asked me, you know."
-msgstr ""
+msgstr "Mohl ses mě zeptat."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:93
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:93:DefaultText"
 msgid "<moving/travel music playing>"
-msgstr ""
+msgstr "<přehrávání hudby z cestování/pohybu>"
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:94
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:94:DefaultText"
 msgid "I've got a Hammersmith Grenade Launcher. It's yours if you let me through."
-msgstr ""
+msgstr "Mám granátomet Hammersmith. Je tvůj, když mě necháš projít."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:95
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:95:DefaultText"
 msgid "I'll take it off your hands. In the interest of public safety, of course. "
-msgstr ""
+msgstr "Vezmu si ho z vašich rukou. Samozřejmě v zájmu veřejné bezpečnosti. "
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:96
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:96:DefaultText"
 msgid "Really? In that case..."
-msgstr ""
+msgstr "Opravdu? V tom případě..."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:97
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:97:DefaultText"
 msgid "You ever heard of Stimu-Lotion? I developed the active compound."
-msgstr ""
+msgstr "Slyšeli jste někdy o Stimu-Lotion? Vyvinul jsem účinnou látku."
 
 #: conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:98
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cv_byz_checkpoint_guard_commander:98:DefaultText"
 msgid "That was yours? Wow. You earned that promotion, all right."
-msgstr ""
+msgstr "To bylo tvoje? Páni. To povýšení sis zasloužil."

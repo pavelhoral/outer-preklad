@@ -1,9 +1,9 @@
 #: chatter/npcs/08_roseway/ch_08_npc_anton:76
 msgctxt "chatter/npcs/08_roseway/ch_08_npc_anton:76:DefaultText"
 msgid "I'm not ready to die!"
-msgstr ""
+msgstr "Nejsem připraven zemřít!"
 
 #: chatter/npcs/08_roseway/ch_08_npc_anton:78
 msgctxt "chatter/npcs/08_roseway/ch_08_npc_anton:78:DefaultText"
 msgid "You... you asked for this!"
-msgstr ""
+msgstr "Ty... ty jsi o to žádal!"

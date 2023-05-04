@@ -8,22 +8,22 @@ msgid "Edgewater Saltuna Cannery\r\n"
 "Terminal Access\r\n"
 "\r\n"
 "Welcome, Junior Inhumer!"
-msgstr ""
+msgstr "Edgewater Saltuna Cannery A Spacer's Choice Property ======================== Terminal Access Welcome, Junior Inhumer!"
 
 #: conversations/00_emerald_vale/00_cp_town_ext_silas_terminal:2
 msgctxt "conversations/00_emerald_vale/00_cp_town_ext_silas_terminal:2:DefaultText"
 msgid "[Messages]"
-msgstr ""
+msgstr "[Zprávy]"
 
 #: conversations/00_emerald_vale/00_cp_town_ext_silas_terminal:3
 msgctxt "conversations/00_emerald_vale/00_cp_town_ext_silas_terminal:3:DefaultText"
 msgid "[Inventory Logs]"
-msgstr ""
+msgstr "[Inventární protokoly]"
 
 #: conversations/00_emerald_vale/00_cp_town_ext_silas_terminal:4
 msgctxt "conversations/00_emerald_vale/00_cp_town_ext_silas_terminal:4:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"
 
 #: conversations/00_emerald_vale/00_cp_town_ext_silas_terminal:5
 msgctxt "conversations/00_emerald_vale/00_cp_town_ext_silas_terminal:5:DefaultText"
@@ -33,7 +33,7 @@ msgid "Edgewater Saltuna Cannery\r\n"
 "========================\r\n"
 "\r\n"
 "Inventory Logs"
-msgstr ""
+msgstr "Edgewater Saltuna Cannery A Spacer's Choice Property ======================== Inventární záznamy"
 
 #: conversations/00_emerald_vale/00_cp_town_ext_silas_terminal:6
 msgctxt "conversations/00_emerald_vale/00_cp_town_ext_silas_terminal:6:DefaultText"
@@ -43,22 +43,22 @@ msgid "Edgewater Saltuna Cannery\r\n"
 "========================\r\n"
 "\r\n"
 "Messages"
-msgstr ""
+msgstr "Edgewater Saltuna Cannery A Spacer's Choice Property ======================== Zprávy"
 
 #: conversations/00_emerald_vale/00_cp_town_ext_silas_terminal:7
 msgctxt "conversations/00_emerald_vale/00_cp_town_ext_silas_terminal:7:DefaultText"
 msgid "[FROM: Inhumer's Association]"
-msgstr ""
+msgstr "[OD: Svaz dovozců]"
 
 #: conversations/00_emerald_vale/00_cp_town_ext_silas_terminal:8
 msgctxt "conversations/00_emerald_vale/00_cp_town_ext_silas_terminal:8:DefaultText"
 msgid "[Return to Root]"
-msgstr ""
+msgstr "[Zpět na kořen]"
 
 #: conversations/00_emerald_vale/00_cp_town_ext_silas_terminal:9
 msgctxt "conversations/00_emerald_vale/00_cp_town_ext_silas_terminal:9:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"
 
 #: conversations/00_emerald_vale/00_cp_town_ext_silas_terminal:10
 msgctxt "conversations/00_emerald_vale/00_cp_town_ext_silas_terminal:10:DefaultText"
@@ -74,12 +74,12 @@ msgid "Edgewater Saltuna Cannery\r\n"
 "Dear Reader,\r\n"
 "\r\n"
 "Your subscription to the Inhumer's Association Newsletter has expired. We'd like to invite you to renew your subscription. Act now, and we'll throw in a copy of our newest publication: Shovels Gazette and Quarterly!"
-msgstr ""
+msgstr "Edgewater Saltuna Cannery A Spacer's Choice Property ======================== FROM: Inhumer's Association TO: Spacer's Choice Junior Inhumer - divize Emerald Vale PŘEDMĚT: Vážení čtenáři, Vaše předplatné Zpravodaje Inhumer's Association vypršelo. Rádi bychom vás vyzvali k obnovení předplatného. Učiňte tak nyní a my vám přihodíme výtisk naší nejnovější publikace: Lopatové noviny a čtvrtletník!"
 
 #: conversations/00_emerald_vale/00_cp_town_ext_silas_terminal:11
 msgctxt "conversations/00_emerald_vale/00_cp_town_ext_silas_terminal:11:DefaultText"
 msgid "[Burial Invoice]"
-msgstr ""
+msgstr "[Faktura za pohřeb]"
 
 #: conversations/00_emerald_vale/00_cp_town_ext_silas_terminal:12
 msgctxt "conversations/00_emerald_vale/00_cp_town_ext_silas_terminal:12:DefaultText"
@@ -95,12 +95,12 @@ msgid "Edgewater Saltuna Cannery\r\n"
 "BURIAL STATUS: Successfully interred in gravesite 13-F\r\n"
 "GRAVESITE FEES: Paid and accounted\r\n"
 "INHUMER'S ADDENDUM: Teddy's corpse was missing a hand. Deducted five bits from gravesite fee, because I'm a kindly fellow."
-msgstr ""
+msgstr "Edgewater Saltuna Cannery A Spacer's Choice Property ======================== BURIAL INVOICE NAME: Theodore Granger PŘÍČINA ZÁNIKU: Pracovní úraz STAV POHŘBU: Úspěšně pohřben v hrobovém místě 13-F POPLATKY ZA HROBOVÉ MÍSTO: DOPLNĚK POJIŠŤOVNY: Teddyho mrtvole chyběla ruka. Z hrobového poplatku odečteno pět kousků, protože jsem hodný člověk."
 
 #: conversations/00_emerald_vale/00_cp_town_ext_silas_terminal:18
 msgctxt "conversations/00_emerald_vale/00_cp_town_ext_silas_terminal:18:DefaultText"
 msgid "[FROM: Spacer's Choice Human Resources]"
-msgstr ""
+msgstr "[OD: Spacer's Choice Human Resources]"
 
 #: conversations/00_emerald_vale/00_cp_town_ext_silas_terminal:19
 msgctxt "conversations/00_emerald_vale/00_cp_town_ext_silas_terminal:19:DefaultText"
@@ -121,7 +121,7 @@ msgid "Edgewater Saltuna Cannery\r\n"
 "- Custom engraved headstones and monograms\r\n"
 "- Complimentary eulogy courtesy of the Order of Scientific Inquiry\r\n"
 "- Let your spirit rest in the privacy of a Spacer's Choice brand gravesite"
-msgstr ""
+msgstr "Edgewater Saltuna Cannery A Spacer's Choice Property ======================== FROM: Spacer's Choice Human Resources TO: Spacer's Choice Junior Inhumer - divize Emerald Vale PŘEDMĚT: Oficiální text inzerátu Hřbitov Edgewater je majetkem společnosti Spacer's Choice. Rodina Spacer's Choice se o své vlastní stará od kolébky až po hrob. Hrobová místa a náhrobky poskytuje společnost Spacer's Choice za přijatelnou cenu. - Pohodlné, prostorné pozemky - Vlastní gravírované náhrobní kameny a monogramy - Bezplatný smuteční projev s laskavým svolením Řádu vědeckého výzkumu - Nechte svého ducha odpočívat v soukromí hrobového místa značky Spacer's Choice."
 
 #: conversations/00_emerald_vale/00_cp_town_ext_silas_terminal:20
 msgctxt "conversations/00_emerald_vale/00_cp_town_ext_silas_terminal:20:DefaultText"
@@ -133,9 +133,9 @@ msgid "Edgewater Saltuna Cannery\r\n"
 "Burial Invoice\r\n"
 "\r\n"
 "PASSWORD REQUIRED"
-msgstr ""
+msgstr "Edgewater Saltuna Cannery A Spacer's Choice Property ======================== Pohřební faktura VYŽADUJEME HESLO"
 
 #: conversations/00_emerald_vale/00_cp_town_ext_silas_terminal:21
 msgctxt "conversations/00_emerald_vale/00_cp_town_ext_silas_terminal:21:DefaultText"
 msgid "[Bypass]"
-msgstr ""
+msgstr "[Bypass]"

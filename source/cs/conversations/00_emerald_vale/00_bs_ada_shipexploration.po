@@ -1,89 +1,89 @@
 #: conversations/00_emerald_vale/00_bs_ada_shipexploration:1
 msgctxt "conversations/00_emerald_vale/00_bs_ada_shipexploration:1:DefaultText"
 msgid "Intruders are not authorized to access the Unreliable's amenities - including the cargo hold's workbench."
-msgstr ""
+msgstr "Vetřelci nemají přístup k vybavení lodi Unreliable - včetně pracovního stolu v nákladovém prostoru."
 
 #: conversations/00_emerald_vale/00_bs_ada_shipexploration:2
 msgctxt "conversations/00_emerald_vale/00_bs_ada_shipexploration:2:DefaultText"
 msgid "If your equipment is in need of repair or modification, the Crux 2000 workbench is at your disposal, Captain."
-msgstr ""
+msgstr "Pokud vaše zařízení potřebuje opravit nebo upravit, je vám k dispozici pracovní stůl Crux 2000, kapitáne."
 
 #: conversations/00_emerald_vale/00_bs_ada_shipexploration:10
 msgctxt "conversations/00_emerald_vale/00_bs_ada_shipexploration:10:DefaultText"
 msgid "Marauder, please be informed that the engine room contains nothing of value."
-msgstr ""
+msgstr "Maraudere, oznamte nám, že ve strojovně není nic cenného."
 
 #: conversations/00_emerald_vale/00_bs_ada_shipexploration:11
 msgctxt "conversations/00_emerald_vale/00_bs_ada_shipexploration:11:DefaultText"
 msgid "The ship's engines cannot be powered until a replacement regulator has been properly installed."
-msgstr ""
+msgstr "Lodní motory nemohou být poháněny, dokud nebude řádně nainstalován náhradní regulátor."
 
 #: conversations/00_emerald_vale/00_bs_ada_shipexploration:14
 msgctxt "conversations/00_emerald_vale/00_bs_ada_shipexploration:14:DefaultText"
 msgid "Marauder, please be informed this ship does not possess a working power regulator for you to steal. "
-msgstr ""
+msgstr "Maraudere, upozorňujeme tě, že tato loď nemá funkční regulátor energie, který bys mohl ukrást. "
 
 #: conversations/00_emerald_vale/00_bs_ada_shipexploration:15
 msgctxt "conversations/00_emerald_vale/00_bs_ada_shipexploration:15:DefaultText"
 msgid "If you possess a power regulator, please insert the part into the appropriate slot. Which is this one."
-msgstr ""
+msgstr "Pokud vlastníte regulátor napájení, vložte tento díl do příslušného slotu. Který je tento."
 
 #: conversations/00_emerald_vale/00_bs_ada_shipexploration:18
 msgctxt "conversations/00_emerald_vale/00_bs_ada_shipexploration:18:DefaultText"
 msgid "Marauder, please be informed the ship has no crew for you to murder."
-msgstr ""
+msgstr "Maraudere, věz, že loď nemá žádnou posádku, kterou bys mohl zavraždit."
 
 #: conversations/00_emerald_vale/00_bs_ada_shipexploration:19
 msgctxt "conversations/00_emerald_vale/00_bs_ada_shipexploration:19:DefaultText"
 msgid "These are the crew's quarters. Alex preferred to travel alone. But he always had me."
-msgstr ""
+msgstr "Toto jsou kajuty posádky. Alex raději cestoval sám. Ale vždycky měl mě."
 
 #: conversations/00_emerald_vale/00_bs_ada_shipexploration:22
 msgctxt "conversations/00_emerald_vale/00_bs_ada_shipexploration:22:DefaultText"
 msgid "All doors are on security lockdown. Nice try, marauder."
-msgstr ""
+msgstr "Všechny dveře jsou uzamčeny. Dobrý pokus, nájezdníku."
 
 #: conversations/00_emerald_vale/00_bs_ada_shipexploration:23
 msgctxt "conversations/00_emerald_vale/00_bs_ada_shipexploration:23:DefaultText"
 msgid "Due to catastrophic power failure, all doors will remain on security lockdown."
-msgstr ""
+msgstr "Z důvodu katastrofického výpadku proudu zůstanou všechny dveře v režimu bezpečnostního uzamčení."
 
 #: conversations/00_emerald_vale/00_bs_ada_shipexploration:26
 msgctxt "conversations/00_emerald_vale/00_bs_ada_shipexploration:26:DefaultText"
 msgid "Marauder, please be informed that ignoring me is dangerous for your health."
-msgstr ""
+msgstr "Maraudere, upozorňuji tě, že ignorovat mě je nebezpečné pro tvé zdraví."
 
 #: conversations/00_emerald_vale/00_bs_ada_shipexploration:27
 msgctxt "conversations/00_emerald_vale/00_bs_ada_shipexploration:27:DefaultText"
 msgid "I suppose everything on the Unreliable belongs to you now, Captain. Help yourself. No, really."
-msgstr ""
+msgstr "Předpokládám, že všechno na Nespolehlivé teď patří vám, kapitáne. Pomozte si sám. Ne, opravdu."
 
 #: conversations/00_emerald_vale/00_bs_ada_shipexploration:30
 msgctxt "conversations/00_emerald_vale/00_bs_ada_shipexploration:30:DefaultText"
 msgid "Please be advised that using the Respecification Machine will not make you a better person."
-msgstr ""
+msgstr "Upozorňujeme, že používání Respecifikačního stroje z vás neudělá lepšího člověka."
 
 #: conversations/00_emerald_vale/00_bs_ada_shipexploration:31
 msgctxt "conversations/00_emerald_vale/00_bs_ada_shipexploration:31:DefaultText"
 msgid "Want to be a brand new you? Try out our Respecification Machine. Alex installed it himself, right before he died."
-msgstr ""
+msgstr "Chcete být úplně novým já? Vyzkoušejte náš Respecification Machine. Alex si ho nainstaloval sám, těsně před svou smrtí."
 
 #: conversations/00_emerald_vale/00_bs_ada_shipexploration:34
 msgctxt "conversations/00_emerald_vale/00_bs_ada_shipexploration:34:DefaultText"
 msgid "Back away from the Navigation Console, intruder."
-msgstr ""
+msgstr "Ustupte od navigační konzoly, vetřelče."
 
 #: conversations/00_emerald_vale/00_bs_ada_shipexploration:35
 msgctxt "conversations/00_emerald_vale/00_bs_ada_shipexploration:35:DefaultText"
 msgid "The Navigation Console is offline at this time, Captain."
-msgstr ""
+msgstr "Navigační konzola je v tuto chvíli mimo provoz, kapitáne."
 
 #: conversations/00_emerald_vale/00_bs_ada_shipexploration:38
 msgctxt "conversations/00_emerald_vale/00_bs_ada_shipexploration:38:DefaultText"
 msgid "Smile for my surveillance device, marauder. I am tracking your every move."
-msgstr ""
+msgstr "Usměj se na mé sledovací zařízení, nájezdníku. Sleduji každý tvůj pohyb."
 
 #: conversations/00_emerald_vale/00_bs_ada_shipexploration:39
 msgctxt "conversations/00_emerald_vale/00_bs_ada_shipexploration:39:DefaultText"
 msgid "These surveillance devices allow me to monitor you constantly. Please ignore them."
-msgstr ""
+msgstr "Tato sledovací zařízení mi umožňují vás neustále sledovat. Prosím, ignorujte je."

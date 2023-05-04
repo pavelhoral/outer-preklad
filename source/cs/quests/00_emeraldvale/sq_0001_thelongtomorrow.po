@@ -1,99 +1,99 @@
 #: quests/00_emeraldvale/sq_0001_thelongtomorrow:0
 msgctxt "quests/00_emeraldvale/sq_0001_thelongtomorrow:0:DefaultText"
 msgid "The Long Tomorrow"
-msgstr ""
+msgstr "Dlouhý zítřek"
 
 #: quests/00_emeraldvale/sq_0001_thelongtomorrow:1
 msgctxt "quests/00_emeraldvale/sq_0001_thelongtomorrow:1:DefaultText"
 msgid "Retrieve the Cache of Medicine"
-msgstr ""
+msgstr "Získání lékové schránky"
 
 #: quests/00_emeraldvale/sq_0001_thelongtomorrow:2
 msgctxt "quests/00_emeraldvale/sq_0001_thelongtomorrow:2:DefaultText"
 msgid "Turn in the Medicine"
-msgstr ""
+msgstr "Odevzdejte léky"
 
 #: quests/00_emeraldvale/sq_0001_thelongtomorrow:10000
 msgctxt "quests/00_emeraldvale/sq_0001_thelongtomorrow:10000:DefaultText"
 msgid "Abernathy asked you to bring him a cache of anthrocillin hidden in the Emerald Vale Community Center."
-msgstr ""
+msgstr "Abernathy vás požádal, abyste mu přinesli skrýš anthrocillinu ukrytou v komunitním centru Emerald Vale."
 
 #: quests/00_emeraldvale/sq_0001_thelongtomorrow:10001
 msgctxt "quests/00_emeraldvale/sq_0001_thelongtomorrow:10001:DefaultText"
 msgid "Abernathy believes he's dying. He wants a special cache of anthrocillin, found in the Emerald Vale Community Center."
-msgstr ""
+msgstr "Abernathy věří, že umírá. Chce speciální skrýš anthrocillinu, kterou našel v komunitním centru Emerald Vale."
 
 #: quests/00_emeraldvale/sq_0001_thelongtomorrow:10002
 msgctxt "quests/00_emeraldvale/sq_0001_thelongtomorrow:10002:DefaultText"
 msgid "You found a cache of experimental anthrocillin in the Emerald Vale Community Center."
-msgstr ""
+msgstr "V komunitním centru Emerald Vale jste našli skrýš experimentálního anthrocillinu."
 
 #: quests/00_emeraldvale/sq_0001_thelongtomorrow:20000
 msgctxt "quests/00_emeraldvale/sq_0001_thelongtomorrow:20000:DefaultText"
 msgid "Esther confronted you outside of Abernathy's house, and suggested that you should give the medicine to her instead of Abernathy."
-msgstr ""
+msgstr "Esther vás konfrontovala před Abernathyho domem a navrhla vám, abyste lék dali jí, a ne Abernathymu."
 
 #: quests/00_emeraldvale/sq_0001_thelongtomorrow:20001
 msgctxt "quests/00_emeraldvale/sq_0001_thelongtomorrow:20001:DefaultText"
 msgid "You chose not to give the medicine to Abernathy. Unless you have a sudden change of heart, you'll have to find someone else to take it off your hands."
-msgstr ""
+msgstr "Rozhodl jste se, že Abernathymu lék nepodáte. Pokud náhle nezměníš názor, budeš muset najít někoho jiného, kdo ti ho sebere."
 
 #: quests/00_emeraldvale/sq_0001_thelongtomorrow:20002
 msgctxt "quests/00_emeraldvale/sq_0001_thelongtomorrow:20002:DefaultText"
 msgid "After hearing about Abernathy's terrible affliction, you decided it was best to put him out of his misery. Perhaps someone else will pay you for the medicine he requested."
-msgstr ""
+msgstr "Když jste se dozvěděli o Abernathyho strašlivém utrpení, rozhodli jste se, že bude nejlepší ukončit jeho trápení. Možná ti za léky, které si vyžádal, zaplatí někdo jiný."
 
 #: quests/00_emeraldvale/sq_0001_thelongtomorrow:20003
 msgctxt "quests/00_emeraldvale/sq_0001_thelongtomorrow:20003:DefaultText"
 msgid "Esther is dead and will no longer be able to take the anthrocillin off your hands. You'll have to find someone else who will take it now."
-msgstr ""
+msgstr "Esther je mrtvá a už vám nebude moci vzít anthrocillin z rukou. Budeš si muset najít někoho jiného, kdo si ho teď vezme."
 
 #: quests/00_emeraldvale/sq_0001_thelongtomorrow:20004
 msgctxt "quests/00_emeraldvale/sq_0001_thelongtomorrow:20004:DefaultText"
 msgid "Even though you got the medicine for Abernathy, he still ended up dying due to \"natural\" causes. You'll have to find someone else who will take these meds from you."
-msgstr ""
+msgstr "I když jste pro Abernathyho sehnali léky, stejně nakonec zemřel z \"přirozených\" příčin. Budete si muset najít někoho jiného, kdo od vás tyto léky převezme."
 
 #: quests/00_emeraldvale/sq_0001_thelongtomorrow:20005
 msgctxt "quests/00_emeraldvale/sq_0001_thelongtomorrow:20005:DefaultText"
 msgid "You found a cache of anthrocillin, but Esther refuses to take it due to the fact that she is a corpse. You'll have to find someone else to buy this cache of drugs."
-msgstr ""
+msgstr "Našli jste skrýš s anthrocillinem, ale Ester si ho odmítá vzít, protože je mrtvola. Budeš muset najít někoho jiného, kdo tuto skrýš s léky koupí."
 
 #: quests/00_emeraldvale/sq_0001_thelongtomorrow:20007
 msgctxt "quests/00_emeraldvale/sq_0001_thelongtomorrow:20007:DefaultText"
 msgid "After getting the medicine for Abernathy, you heard from Esther that she would be willing to buy it from you instead."
-msgstr ""
+msgstr "Poté, co jste získali lék pro Abernathyho, se vám Ester ozvala, že by ho byla ochotná koupit od vás."
 
 #: quests/00_emeraldvale/sq_0001_thelongtomorrow:30000
 msgctxt "quests/00_emeraldvale/sq_0001_thelongtomorrow:30000:DefaultText"
 msgid "You gave Abernathy the medicine that he requested, which should help him recover from his terrible illness."
-msgstr ""
+msgstr "Dali jste Abernathymu lék, o který žádal a který by mu měl pomoci zotavit se z jeho strašné nemoci."
 
 #: quests/00_emeraldvale/sq_0001_thelongtomorrow:30001
 msgctxt "quests/00_emeraldvale/sq_0001_thelongtomorrow:30001:DefaultText"
 msgid "You gave Esther the cache of anthrocillin. Esther said she won't waste the medicine on Abernathy, but promises to distribute it to people who need it."
-msgstr ""
+msgstr "Dal jsi Esther schránku s anthrocillinem. Esther řekla, že nebude plýtvat léky na Abernathyho, ale slíbila, že je rozdá lidem, kteří je potřebují."
 
 #: quests/00_emeraldvale/sq_0001_thelongtomorrow:30002
 msgctxt "quests/00_emeraldvale/sq_0001_thelongtomorrow:30002:DefaultText"
 msgid "You turned over the cache of anthrocillin to Reyes. Reyes confiscated the medicine as contraband, but rewarded you."
-msgstr ""
+msgstr "Předal jste Reyesovi schránku s anthrocillinem. Reyes lék zabavil jako kontraband, ale odměnil vás."
 
 #: quests/00_emeraldvale/sq_0001_thelongtomorrow:30003
 msgctxt "quests/00_emeraldvale/sq_0001_thelongtomorrow:30003:DefaultText"
 msgid "You killed everyone who might have rewarded you for finding the cache of anthrocillin. Well done."
-msgstr ""
+msgstr "Zabil jsi každého, kdo tě mohl odměnit za nalezení skrýše anthrocillinu. Dobrá práce."
 
 #: quests/00_emeraldvale/sq_0001_thelongtomorrow:30004
 msgctxt "quests/00_emeraldvale/sq_0001_thelongtomorrow:30004:DefaultText"
 msgid "The people of Edgewater all want you dead, so delivering the medicine to any of its residents is no longer a possibility."
-msgstr ""
+msgstr "Všichni obyvatelé Edgewateru si přejí tvou smrt, takže doručení léku některému z jeho obyvatel již nepřipadá v úvahu."
 
 #: quests/00_emeraldvale/sq_0001_thelongtomorrow:40001
 msgctxt "quests/00_emeraldvale/sq_0001_thelongtomorrow:40001:DefaultText"
 msgid "You found a hidden cache of experimental anthrocillin. This could be useful to someone."
-msgstr ""
+msgstr "Našli jste skrytou skrýš experimentálního anthrocillinu. Někomu by se to mohlo hodit."
 
 #: quests/00_emeraldvale/sq_0001_thelongtomorrow:40002
 msgctxt "quests/00_emeraldvale/sq_0001_thelongtomorrow:40002:DefaultText"
 msgid "You found the anthrocillin Abernathy mentioned. There may be someone else that wants it."
-msgstr ""
+msgstr "Našel jste anthrocillin, o kterém se Abernathy zmínil. Možná ho chce ještě někdo další."

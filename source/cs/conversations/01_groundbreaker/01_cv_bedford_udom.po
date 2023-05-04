@@ -1,917 +1,917 @@
 #: conversations/01_groundbreaker/01_cv_bedford_udom:9
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:9:DefaultText"
 msgid "Can you get me to Stellar Bay?"
-msgstr ""
+msgstr "Můžete mě dostat do Hvězdné zátoky?"
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:10
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:10:DefaultText"
 msgid "Good Law, who'd want to go to that toxic hell pit?"
-msgstr ""
+msgstr "Dobrý zákon, kdo by chtěl jít do toho toxického pekla?"
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:62
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:62:DefaultText"
 msgid "How might I assist you?"
-msgstr ""
+msgstr "Jak vám mohu pomoci?"
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:94
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:94:DefaultText"
 msgid "I'm leaving."
-msgstr ""
+msgstr "Odcházím."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:95
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:95:DefaultText"
 msgid "We're leaving."
-msgstr ""
+msgstr "Odjíždíme."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:96
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:96:DefaultText"
 msgid "No. Emphatically, no. Unequivocally, no. Immutably, no."
-msgstr ""
+msgstr "Ne. Rozhodně ne. Jednoznačně ne. Jednoznačně ne."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:97
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:97:DefaultText"
 msgid "So... no?"
-msgstr ""
+msgstr "Takže... ne?"
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:98
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:98:DefaultText"
 msgid "\"No\" would've done it. You didn't have to crack open a thesaurus."
-msgstr ""
+msgstr "\"Ne\" by stačilo. Nemusel jsi otevírat tezaurus."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:99
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:99:DefaultText"
 msgid "Could have just said \"no.\" Didn't have to make it about being unequibblable."
-msgstr ""
+msgstr "Mohl prostě říct \"ne\". Nemuselo to být o tom, že je to nesrozumitelné."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:100
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:100:DefaultText"
 msgid "Do you have somewhere else to be, by any chance?"
-msgstr ""
+msgstr "Nemáš náhodou ještě někde být?"
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:101
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:101:DefaultText"
 msgid "Best to be clear, I believe."
-msgstr ""
+msgstr "Myslím, že nejlepší je mít jasno."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:116
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:116:DefaultText"
 msgid "I'm here about Jessie Doyle. I want her debt settled."
-msgstr ""
+msgstr "Jsem tu kvůli Jessie Doyleové. Chci, aby její dluh byl vyrovnán."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:118
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:118:DefaultText"
 msgid "Ms. Doyle owes the Board a significant sum. Alas, the only collateral she has is... her organs. Compulsory donation is quite legal in such cases."
-msgstr ""
+msgstr "Paní Doyleová dluží správní radě značnou částku. Bohužel jedinou zárukou, kterou má, jsou... její orgány. Povinné dárcovství je v takových případech zcela legální."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:119
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:119:DefaultText"
 msgid "I'll pay it off for her."
-msgstr ""
+msgstr "Zaplatím to za ni."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:121
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:121:DefaultText"
 msgid "She's worth more alive than dead. Put her under an indenture contract."
-msgstr ""
+msgstr "Má větší cenu živá než mrtvá. Uzavřete s ní smlouvu."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:122
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:122:DefaultText"
 msgid "I think you may have underestimated the size of Ms. Doyle's debt. If you'll look over this itemized bill?"
-msgstr ""
+msgstr "Myslím, že jste možná podcenil výši dluhu paní Doylové. Pokud se podíváte na tento účet s položkami?"
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:124
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:124:DefaultText"
 msgid "A total of <oeiglobal>Bribe_Amount</oeiglobal> bits? I'll cover that."
-msgstr ""
+msgstr "Celkem <oeiglobal>Bribe_Amount</oeiglobal> bitů? To pokryji."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:125
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:125:DefaultText"
 msgid "You're charging that much for... 'emotional anguish'? Really?"
-msgstr ""
+msgstr "Tolik si účtujete za... \"citové utrpení\"? Opravdu?"
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:126
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:126:DefaultText"
 msgid "I am extremely anguished, Captain. Please respect my feelings in this difficult time."
-msgstr ""
+msgstr "Jsem nesmírně roztrpčen, kapitáne. Prosím, respektujte mé pocity v této těžké chvíli."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:127
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:127:DefaultText"
 msgid "I'm glad we could come to an accommodation. You may inform Ms. Doyle that our collections agent will be recalled."
-msgstr ""
+msgstr "Jsem rád, že jsme se dohodli. Můžete informovat paní Doylovou, že náš inkasní agent bude odvolán."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:130
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:130:DefaultText"
 msgid "I work for Sophia Akande now. I hope I don't have to bring this issue to her attention."
-msgstr ""
+msgstr "Nyní pracuji pro Sophii Akandeovou. Doufám, že ji na tento problém nemusím upozorňovat."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:131
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:131:DefaultText"
 msgid "That's not unreasonable."
-msgstr ""
+msgstr "To není nerozumné."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:132
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:132:DefaultText"
 msgid "Ms. Akande has you... eliminating problems for her? Well. I certainly shouldn't care to become one."
-msgstr ""
+msgstr "Paní Akandeová pro vás... odstraňuje problémy? Dobře. Rozhodně bych se jím neměl stát."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:133
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:133:DefaultText"
 msgid "What are those locked doors in the back?"
-msgstr ""
+msgstr "Co jsou ty zamčené dveře vzadu?"
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:134
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:134:DefaultText"
 msgid "A luxury stateroom, reserved for Chairman Rockwell's use."
-msgstr ""
+msgstr "Luxusní kajuta vyhrazená pro předsedu Rockwella."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:135
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:135:DefaultText"
 msgid "Does the Chairman visit here often?"
-msgstr ""
+msgstr "Jezdí sem předseda často?"
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:136
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:136:DefaultText"
 msgid "Good Law, of course not. He'd never set foot on this decrepit junk pile."
-msgstr ""
+msgstr "Dobrý zákon, samozřejmě ne. Na tuhle zchátralou hromadu harampádí by nikdy nevkročil."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:141
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:141:DefaultText"
 msgid "As this office is the primary embassy for the Board on Groundbreaker, corporate bylaws specifically state a room must be maintained for the Chairman's exclusive use."
-msgstr ""
+msgstr "Jelikož je tato kancelář hlavním velvyslanectvím představenstva v Groundbreakeru, stanovy společnosti výslovně uvádějí, že musí být zachována místnost určená výhradně pro předsedu."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:152
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:152:DefaultText"
 msgid "I can shuffle some financials around to cover Ms. Doyle's losses. To Halcyon Holdings, her debts are a rounding error."
-msgstr ""
+msgstr "Mohu zamíchat některými financemi, abych pokryl ztráty paní Doylové. Pro Halcyon Holdings jsou její dluhy zaokrouhlovací chybou."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:153
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:153:DefaultText"
 msgid "Now, is there anything else you need, or can I return to my work?"
-msgstr ""
+msgstr "Potřebujete ještě něco, nebo se mohu vrátit ke své práci?"
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:154
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:154:DefaultText"
 msgid "Her current bill. Some numbers may have changed as interest compounds."
-msgstr ""
+msgstr "Její současný účet. Některá čísla se mohla změnit, protože se úroky sčítají."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:155
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:155:DefaultText"
 msgid "Unless you can offer some other means of resolving her debt, I'm afraid we have nothing further to discuss."
-msgstr ""
+msgstr "Pokud nemůžete nabídnout jiný způsob řešení jejího dluhu, obávám se, že už nemáme o čem diskutovat."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:157
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:157:DefaultText"
 msgid "I can't afford that."
-msgstr ""
+msgstr "To si nemohu dovolit."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:159
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:159:DefaultText"
 msgid "She's hiding in sick bay to avoid assassins. I'm sure she'll prefer work."
-msgstr ""
+msgstr "Schovává se na ošetřovně, aby se vyhnula nájemným vrahům. Určitě dá přednost práci."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:160
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:160:DefaultText"
 msgid "Way I see it, she doesn't have much choice."
-msgstr ""
+msgstr "Já to vidím tak, že nemá moc na výběr."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:161
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:161:DefaultText"
 msgid "None, I suppose. But if she doesn't show up for work, kill her like you planned."
-msgstr ""
+msgstr "Myslím, že ne. Ale jestli se neukáže v práci, zabij ji, jak jsi plánoval."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:162
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:162:DefaultText"
 msgid "Can't she work for you until she earns back what she owes?"
-msgstr ""
+msgstr "Nemůže pro vás pracovat, dokud si nevydělá na to, co dluží?"
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:163
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:163:DefaultText"
 msgid "You're proposing an indenture contract?"
-msgstr ""
+msgstr "Navrhujete smlouvu o indosamentu?"
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:164
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:164:DefaultText"
 msgid "I didn't say nothing about her teeth. She's got to be worth more alive than dead."
-msgstr ""
+msgstr "O jejích zubech jsem nic neřekl. Musí mít větší cenu živá než mrtvá."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:165
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:165:DefaultText"
 msgid "You might be surprised. But we'll proceed on the assumption she'll be reasonable."
-msgstr ""
+msgstr "Možná budete překvapeni. Ale budeme vycházet z předpokladu, že bude rozumná."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:166
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:166:DefaultText"
 msgid "Hmph. I'm not sure the price of her organs will allow a profit in that case. I expect her liver is, ah, \"used goods,\" as it were."
-msgstr ""
+msgstr "Hmph. Nejsem si jistý, jestli cena jejích orgánů v tomto případě umožní zisk. Předpokládám, že její játra jsou, ehm, \"použité zboží\", jak se říká."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:167
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:167:DefaultText"
 msgid "I quite concur. It's refreshing to deal with someone practical, for a change."
-msgstr ""
+msgstr "S tím docela souhlasím. Je osvěžující jednat pro změnu s někým praktickým."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:168
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:168:DefaultText"
 msgid "I will recall my collection agent. Tell Ms. Doyle to report to me promptly for her first assignment."
-msgstr ""
+msgstr "Odvolám svého inkasního agenta. Řekněte slečně Doyleové, aby se u mě neprodleně hlásila na svůj první úkol."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:172
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:172:DefaultText"
 msgid "Sure you can't make an exception for a friend of the Board?"
-msgstr ""
+msgstr "Určitě nemůžete udělat výjimku pro přítele správní rady?"
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:173
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:173:DefaultText"
 msgid "...I suppose there is something I could do. For an ally, of course."
-msgstr ""
+msgstr "...myslím, že bych mohl něco udělat. Pro spojence, samozřejmě."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:218
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:218:DefaultText"
 msgid "So you get to play butler to the big guy. Fun."
-msgstr ""
+msgstr "Takže si můžeš hrát na komorníka velkého chlapa. Zábava."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:226
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:226:DefaultText"
 msgid "To serve at our most esteemed Chairman's behest is an honor, and one I'm most thankful for."
-msgstr ""
+msgstr "Sloužit na příkaz našeho nejváženějšího předsedy je pro mě čest a jsem za ni velmi vděčný."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:234
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:234:DefaultText"
 msgid "What guarantee do I have that she'll agree to the terms you negotiate?"
-msgstr ""
+msgstr "Jakou mám záruku, že přistoupí na podmínky, které vyjednáte?"
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:310
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:310:DefaultText"
 msgid "Those authorization forms will let you speak with Sophia when you arrive. I'll send her a message straight away to let her know you're coming. She'll be delighted, I'm sure!"
-msgstr ""
+msgstr "Tyto formuláře vám umožní mluvit se Sophií, až dorazíte. Hned jí pošlu zprávu, aby věděla, že přijedete. Určitě bude mít radost!"
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:433
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:433:DefaultText"
 msgid "I know where to find Phineas Welles."
-msgstr ""
+msgstr "Vím, kde najdu Phinease Wellese."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:435
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:435:DefaultText"
 msgid "Do you know how I can get to Byzantium?"
-msgstr ""
+msgstr "Nevíte, jak se dostanu do Byzance?"
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:468
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:468:DefaultText"
 msgid "Best of luck to you, and thank you again! Give my regards to the Unreliable!"
-msgstr ""
+msgstr "Hodně štěstí a ještě jednou děkuji! Pozdravujte nespolehlivého!"
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:476
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:476:DefaultText"
 msgid "How do you do?"
-msgstr ""
+msgstr "Jak se vám daří?"
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:477
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:477:DefaultText"
 msgid "Does it seem hot in here to you?"
-msgstr ""
+msgstr "Zdá se vám tu horko?"
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:478
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:478:DefaultText"
 msgid "Hey, some of us grew up on this decrepit junk pile."
-msgstr ""
+msgstr "Někteří z nás na téhle zchátralé hromadě harampádí vyrostli."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:479
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:479:DefaultText"
 msgid "Oh, you've found yourself a pet local. Charming."
-msgstr ""
+msgstr "Našli jste si místního mazlíčka. Okouzlující."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:480
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:480:DefaultText"
 msgid "Law, but it's miserable. My underarms are damp! How can I be expected to work in these conditions?"
-msgstr ""
+msgstr "Zákon, ale je to bída. Mám vlhké podpaží! Jak můžu v takových podmínkách pracovat?"
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:481
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:481:DefaultText"
 msgid "Deplorable conduct. My superiors will be hearing about it, you can be certain of that."
-msgstr ""
+msgstr "Zavrženíhodné chování. Moji nadřízení se o tom dozvědí, tím si můžete být jisti."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:482
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:482:DefaultText"
 msgid "Chief Tennyson is supposedly looking into the cause, but I've seen no action from her."
-msgstr ""
+msgstr "Šéfka Tennysonová údajně vyšetřuje příčinu, ale neviděl jsem od ní žádné kroky."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:491
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:491:DefaultText"
 msgid "Who's Sophia?"
-msgstr ""
+msgstr "Kdo je Sophia?"
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:492
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:492:DefaultText"
 msgid "I'll be going, then."
-msgstr ""
+msgstr "Tak já půjdu."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:493
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:493:DefaultText"
 msgid "Ms. Akande? The Chairman's right hand? She practically runs the colony on her own! She's just the person to take someone with your particular talents under her wing."
-msgstr ""
+msgstr "Paní Akandeová? Pravá ruka předsedy? Vždyť prakticky řídí kolonii sama! Je to přesně ta osoba, která by mohla vzít pod svá křídla někoho s tvým zvláštním talentem."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:494
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:494:DefaultText"
 msgid "She can fill you in on all of the Board's operations in the colony, really put your talents to use."
-msgstr ""
+msgstr "Může vás zasvětit do všech činností rady v kolonii a opravdu využít váš talent."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:496
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:496:DefaultText"
 msgid "Where you been living, Captain? Under a rock? Ms. Sophia's got to be the second most important person in the entire colony."
-msgstr ""
+msgstr "Kde jste žil, kapitáne? Pod skálou? Slečna Sophia musí být druhá nejdůležitější osoba v celé kolonii."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:497
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:497:DefaultText"
 msgid "Captain, are you telling me you haven't heard of the Adjutant to the Chairman of the Board? Ms. Akande may just be the most powerful woman in the colony."
-msgstr ""
+msgstr "Kapitáne, chcete mi říct, že jste neslyšel o adjutantovi předsedy správní rady? Paní Akandeová je možná nejmocnější ženou v kolonii."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:498
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:498:DefaultText"
 msgid "You mean the lady who handles the Chairman's business or the third most powerful person in the colony? Oh, right, they're the same person."
-msgstr ""
+msgstr "Myslíte dámu, která vyřizuje záležitosti předsedy, nebo třetího nejmocnějšího člověka v kolonii? Aha, jasně, je to jedna a tatáž osoba."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:499
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:499:DefaultText"
 msgid "This guy's acting like he's on a first name basis with Sophia Akande. She's the Chairman's right-hand."
-msgstr ""
+msgstr "Ten chlap se chová, jako by si se Sophií Akande tykal. Je to předsedova pravá ruka."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:501
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:501:DefaultText"
 msgid "Yes, quite. Ms. Akande is just the person to take someone with your particular talents - and sterling character - under her wing."
-msgstr ""
+msgstr "Ano, docela. Paní Akandeová je přesně ta osoba, která by mohla vzít pod svá křídla někoho s vaším mimořádným talentem - a skvělým charakterem."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:510
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:510:DefaultText"
 msgid "Why are there armed guards in here?"
-msgstr ""
+msgstr "Proč jsou tu ozbrojené stráže?"
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:511
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:511:DefaultText"
 msgid "You've noticed my friends! Wonderful. Aren't their guns very large? Tremendously impressive."
-msgstr ""
+msgstr "Všimli jste si, přátelé! Nádhera. Nejsou jejich zbraně velmi velké? Nesmírně působivé."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:512
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:512:DefaultText"
 msgid "They're here to keep the peace, of course."
-msgstr ""
+msgstr "Jsou tu samozřejmě proto, aby udržovali mír."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:513
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:513:DefaultText"
 msgid "To watch your back, you mean."
-msgstr ""
+msgstr "Chceš říct, že si máš hlídat záda."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:514
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:514:DefaultText"
 msgid "A piece of what? Is there pie around here? I want some."
-msgstr ""
+msgstr "Kousek čeho? Je tady někde koláč? Já chci taky."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:515
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:515:DefaultText"
 msgid "Precisely. Groundbreaker makes much ado about its \"independent\" status and so resents any Board presence, no matter how benign."
-msgstr ""
+msgstr "Přesně tak. Společnost Groundbreaker dělá mnoho povyku kolem svého \"nezávislého\" statusu, a proto nesnáší jakoukoli přítomnost představenstva, ať už je jakkoli neškodná."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:516
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:516:DefaultText"
 msgid "Uh. I'll admit you've caught me quite off guard. No, I'm afraid there isn't any pie to be had."
-msgstr ""
+msgstr "Přiznávám, že jste mě zaskočil. Ne, obávám se, že tu žádný koláč není."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:517
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:517:DefaultText"
 msgid "You call keeping offices on their Promenade benign?"
-msgstr ""
+msgstr "Říkáte, že udržování kanceláří na jejich promenádě je neškodné?"
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:518
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:518:DefaultText"
 msgid "One more thing..."
-msgstr ""
+msgstr "Ještě jedna věc..."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:519
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:519:DefaultText"
 msgid "When the alternative is Board guards at their gates, yes - I do. They don't see it that way, of course, but I can't say I much care."
-msgstr ""
+msgstr "Pokud je alternativou stráž u jejich bran, pak ano. Oni to tak samozřejmě nevidí, ale nemůžu říct, že by mi to vadilo."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:520
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:520:DefaultText"
 msgid "Benign presence. More like the seeds of tyranny."
-msgstr ""
+msgstr "Benigní přítomnost. Spíš jako zárodek tyranie."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:521
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:521:DefaultText"
 msgid "Ah, just the kind of scintillating political insight I'd expect from you, Mr. Millstone. I dare say I'm overwhelmed."
-msgstr ""
+msgstr "Aha, přesně takový brilantní politický vhled bych od vás očekával, pane Millstone. Troufám si říct, že jsem ohromen."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:522
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:522:DefaultText"
 msgid "Please, go ahead."
-msgstr ""
+msgstr "Prosím, pokračujte."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:523
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:523:DefaultText"
 msgid "Seems like you're looking for a fight to me."
-msgstr ""
+msgstr "Připadá mi, že se chceš hádat."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:524
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:524:DefaultText"
 msgid "Yeah, 'cause you already ate it all."
-msgstr ""
+msgstr "Jo, protože už jsi to všechno snědl."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:525
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:525:DefaultText"
 msgid "I don't reckon that's quite what Mr. Udom meant, Captain."
-msgstr ""
+msgstr "Myslím, že to pan Udom tak úplně nemyslel, kapitáne."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:526
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:526:DefaultText"
 msgid "Anyway... Groundbreaker makes much ado about its \"independent\" status and so resents any Board presence, no matter how benign."
-msgstr ""
+msgstr "Každopádně... Společnost Groundbreaker si dělá mnoho starostí se svým \"nezávislým\" statusem, a proto nesnáší jakoukoli přítomnost představenstva, ať už je jakkoli neškodná."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:527
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:527:DefaultText"
 msgid "That's fine. I prefer cake."
-msgstr ""
+msgstr "To je v pořádku. Dávám přednost dortu."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:528
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:528:DefaultText"
 msgid "Someone has to."
-msgstr ""
+msgstr "Někdo musí."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:529
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:529:DefaultText"
 msgid "Indeed. What is the saying? \"The two most common elements in the universe are hydrogen and stupidity?\""
-msgstr ""
+msgstr "Vskutku. Jak se to říká? \"Dva nejběžnější prvky ve vesmíru jsou vodík a hloupost?\""
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:530
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:530:DefaultText"
 msgid "Someone must stand for reason and order, and the Board is best-equipped to do so."
-msgstr ""
+msgstr "Někdo se musí postavit za rozum a pořádek a k tomu je nejlépe vybavena správní rada."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:531
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:531:DefaultText"
 msgid "Hardly. And, if I might be frank, I doubt the Mardets would be much match for seasoned UDL troops."
-msgstr ""
+msgstr "To sotva. A pokud mohu být upřímný, pochybuji, že by se Mardějové mohli vyrovnat ostříleným jednotkám UDL."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:532
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:532:DefaultText"
 msgid "Groundbreaker makes much ado about its \"independent\" status and so resents any Board presence, no matter how benign."
-msgstr ""
+msgstr "Společnost Groundbreaker si velmi zakládá na svém \"nezávislém\" statusu, a proto nesnáší jakoukoli přítomnost představenstva, ať už je jakkoli neškodná."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:535
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:535:DefaultText"
 msgid "Keep telling yourself that. Only thing the Board stands for is oppression."
-msgstr ""
+msgstr "Říkejte si to i nadále. Jediné, co Rada představuje, je útlak."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:536
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:536:DefaultText"
 msgid "Ah, just the kind of scintillating political insight I'd expect from you, Mr. Millstone. I dare say I'm overwhelmed."
-msgstr ""
+msgstr "Aha, přesně takový brilantní politický vhled bych od vás očekával, pane Millstone. Troufám si říct, že jsem ohromen."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:539
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:539:DefaultText"
 msgid "She's doin' everything she can! It's YOUR people's fault it's not fixed, not Junlei's!"
-msgstr ""
+msgstr "Dělá, co může! Je to vina TVÝCH lidí, že to není spravené, ne Junlei!"
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:540
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:540:DefaultText"
 msgid "My, aren't you, er, excitable."
-msgstr ""
+msgstr "Nejsi ty ale vzrušená."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:542
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:542:DefaultText"
 msgid "Don't talk to her that way."
-msgstr ""
+msgstr "Takhle s ní nemluv."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:544
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:544:DefaultText"
 msgid "Take it back. Now."
-msgstr ""
+msgstr "Vezměte si to zpět. Nyní."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:547
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:547:DefaultText"
 msgid "I will do no such thing."
-msgstr ""
+msgstr "Nic takového neudělám."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:549
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:549:DefaultText"
 msgid "You better apologize to my friend."
-msgstr ""
+msgstr "Měl by ses mému příteli omluvit."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:550
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:550:DefaultText"
 msgid "Oh sweetie, I don't owe a grease-stained wrench jockey like her the time of day, let alone my deference."
-msgstr ""
+msgstr "Zlatíčko, takovému umaštěnému žokejovi nedlužím ani den, natož abych mu projevoval úctu."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:551
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:551:DefaultText"
 msgid "Pipe down, Parvati. The big kids are talking."
-msgstr ""
+msgstr "Ztiš se, Parvati. Mluví velké děti."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:552
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:552:DefaultText"
 msgid "But he-! She's not- she's real good at her job, Captain!"
-msgstr ""
+msgstr "Ale on... Ona není... je opravdu dobrá ve své práci, kapitáne!"
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:555
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:555:DefaultText"
 msgid "Seriously, shut up."
-msgstr ""
+msgstr "Vážně, sklapni."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:556
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:556:DefaultText"
 msgid "Captain! I mean, ah. Um. Yes. Captain."
-msgstr ""
+msgstr "Kapitáne! Chci říct, ah. Um. Ano. Kapitán."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:557
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:557:DefaultText"
 msgid "Thank you."
-msgstr ""
+msgstr "Děkujeme."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:558
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:558:DefaultText"
 msgid "You're a real shithead, Bedford."
-msgstr ""
+msgstr "Ty jsi fakt sráč, Bedforde."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:559
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:559:DefaultText"
 msgid "You're not too wonderful yourself."
-msgstr ""
+msgstr "Sám nejsi příliš úžasný."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:560
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:560:DefaultText"
 msgid "Has it gotten less stiflingly hot in here lately?"
-msgstr ""
+msgstr "Je tu v poslední době méně dusivé horko?"
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:561
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:561:DefaultText"
 msgid "You refer to the radiator issue? Goodness, it was dreadful. I was sweating CONSTANTLY."
-msgstr ""
+msgstr "Narážíte na problém s chladičem? Bože, to bylo strašné. Neustále jsem se potil."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:562
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:562:DefaultText"
 msgid "Chief Tennyson certainly did take her time resolving it."
-msgstr ""
+msgstr "Šéfka Tennysonová si s jeho řešením dala načas."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:563
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:563:DefaultText"
 msgid "Deplorable conduct. My superiors will be hearing about it, you can be certain of that."
-msgstr ""
+msgstr "Zavrženíhodné chování. Moji nadřízení se o tom dozvědí, tím si můžete být jisti."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:564
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:564:DefaultText"
 msgid "She did everything she could! It was YOUR people's fault, not Junlei's!"
-msgstr ""
+msgstr "Dělala, co mohla! Byla to chyba vašich lidí, ne Junlei!"
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:565
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:565:DefaultText"
 msgid "About Jessie Doyle..."
-msgstr ""
+msgstr "O Jessie Doyleové..."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:566
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:566:DefaultText"
 msgid "Have you returned with the sum she owes?"
-msgstr ""
+msgstr "Vrátil jste se s dlužnou částkou?"
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:567
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:567:DefaultText"
 msgid "I wanted to ask you something else."
-msgstr ""
+msgstr "Chtěl jsem se vás zeptat na něco jiného."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:568
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:568:DefaultText"
 msgid "Be my guest."
-msgstr ""
+msgstr "Buďte mým hostem."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:569
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:569:DefaultText"
 msgid "Back to my other questions."
-msgstr ""
+msgstr "Zpět k mým dalším otázkám."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:570
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:570:DefaultText"
 msgid "Ask away."
-msgstr ""
+msgstr "Ptejte se."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:572
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:572:DefaultText"
 msgid "I'm the captain of the Unreliable."
-msgstr ""
+msgstr "Jsem kapitánem Nespolehlivé."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:573
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:573:DefaultText"
 msgid "The captain of the- no no no, that can't be right. Alex Hawthorne is the captain of that vessel. On top of that, I just impounded it!"
-msgstr ""
+msgstr "Kapitán... ne, ne, ne, to nemůže být pravda. Alex Hawthorne je kapitánem té lodi. A navíc jsem ji právě zabavil!"
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:584
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:584:DefaultText"
 msgid "I got your seal from Gladys."
-msgstr ""
+msgstr "Gladys mi dala tvou pečeť."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:585
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:585:DefaultText"
 msgid "Now then, let me see..."
-msgstr ""
+msgstr "Tak se na to podívám..."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:586
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:586:DefaultText"
 msgid "I just have to apply the seal here, sign like so and... ta-da! Here are the forms you'll need once you reach Byzantium. Oh! And a Navkey so your ship can travel there."
-msgstr ""
+msgstr "Stačí, když zde přiložím pečeť, podepíšu se takto a... ta-da! Zde jsou formuláře, které budete potřebovat, jakmile dorazíte do Byzance. A navigační klíč, aby tam tvoje loď mohla cestovat."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:589
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:589:DefaultText"
 msgid "Oh- oh dear."
-msgstr ""
+msgstr "Ach... ach bože."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:590
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:590:DefaultText"
 msgid "Oh, hello! This is quite unexpected - I didn't have any visitors on my schedule today. Who might you be?"
-msgstr ""
+msgstr "Ahoj! To je docela nečekané - dnes jsem neměl na programu žádnou návštěvu. Kdo byste mohl být?"
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:591
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:591:DefaultText"
 msgid "Ah, yes. Wheeler messaged me you were coming. You must be the captain of the Unreliable... A vessel that used to be helmed by one Alex Hawthorne. And you are not he."
-msgstr ""
+msgstr "Ach, ano. Wheeler mi napsal, že přijdeš. Vy musíte být kapitán Nespolehlivé... Loď, kterou kdysi řídil jistý Alex Hawthorne. A vy nejste on."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:593
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:593:DefaultText"
 msgid "Has something happened to my favorite scruffy freelancer?"
-msgstr ""
+msgstr "Stalo se něco mému oblíbenému ošuntělému freelancerovi?"
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:594
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:594:DefaultText"
 msgid "Alex is dead."
-msgstr ""
+msgstr "Alex je mrtvý."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:595
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:595:DefaultText"
 msgid "Forget Alex. Why'd you impound my ship?"
-msgstr ""
+msgstr "Zapomeňte na Alexe. Proč jste mi zabavili loď?"
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:596
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:596:DefaultText"
 msgid "I'm going to wring your scrawny neck, you spratfuck. Give me back my ship."
-msgstr ""
+msgstr "Zakroutím ti tvým hubeným krkem, ty sráči. Vrať mi mou loď."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:597
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:597:DefaultText"
 msgid "Alex isn't important. I'm here to turn in Phineas Welles."
-msgstr ""
+msgstr "Alex není důležitý. Přišel jsem udat Phinease Wellese."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:598
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:598:DefaultText"
 msgid "W-what?"
-msgstr ""
+msgstr "Cože?"
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:599
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:599:DefaultText"
 msgid "I saw Welles' wanted poster, and I want to claim the bounty."
-msgstr ""
+msgstr "Viděl jsem Wellesův plakát a chci si vyzvednout odměnu."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:600
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:600:DefaultText"
 msgid "Comdt. Sanita said you were looking for Phineas, and I know where he is."
-msgstr ""
+msgstr "Komandér Sanita říkal, že hledáte Phinease, a já vím, kde je."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:601
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:601:DefaultText"
 msgid "Edgewater's constable told me to speak with you about Welles."
-msgstr ""
+msgstr "Edgewaterský strážník mi řekl, abych s vámi promluvil o Wellesovi."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:602
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:602:DefaultText"
 msgid "There's no need for hysterics. This is all a hilarious misunderstanding."
-msgstr ""
+msgstr "Není třeba hysterie. Tohle všechno je veselé nedorozumění."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:603
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:603:DefaultText"
 msgid "I impounded Alex's ship, not yours. Well, I guess it's yours now, if you're captaining it. It's a- a game we play, he and I."
-msgstr ""
+msgstr "Zabavil jsem Alexovu loď, ne vaši. No, myslím, že teď je tvoje, když jsi její kapitán. Je to hra, kterou hrajeme, on a já."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:604
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:604:DefaultText"
 msgid "Oh no, this is terrible! My dear friend! What devilry is this? In whose miserable fever dream am I trapped?"
-msgstr ""
+msgstr "Ale ne, to je hrozné! Můj drahý příteli! Co je to za ďábelství? V jakém bídném horečnatém snu jsem se ocitl?"
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:605
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:605:DefaultText"
 msgid "Did you hear me chuckle?"
-msgstr ""
+msgstr "Slyšeli jste, jak se směju?"
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:606
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:606:DefaultText"
 msgid "Explain. Now."
-msgstr ""
+msgstr "Vysvětlete. Nyní."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:607
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:607:DefaultText"
 msgid "I ask him to turn in Phineas Welles, he tells me he will \"soon,\" I impound his ship, he explains why he can't give me the info \"right now,\" I ask him to turn in Welles..."
-msgstr ""
+msgstr "Požádám ho, aby udal Phinease Wellese, on mi řekne, že to udělá \"brzy\", zabavím mu loď, on mi vysvětlí, proč mi nemůže dát informace \"hned teď\", požádám ho, aby udal Wellese..."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:608
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:608:DefaultText"
 msgid "Around and around we go!"
-msgstr ""
+msgstr "Jdeme kolem a kolem!"
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:609
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:609:DefaultText"
 msgid "I'm sorry for your loss."
-msgstr ""
+msgstr "Je mi líto vaší ztráty."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:611
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:611:DefaultText"
 msgid "Oh Alex, there were so many arguments we'd yet to have..."
-msgstr ""
+msgstr "Ach, Alexi, tolik hádek nás ještě čekalo..."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:612
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:612:DefaultText"
 msgid "What was your relationship with him?"
-msgstr ""
+msgstr "Jaký byl váš vztah s ním?"
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:613
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:613:DefaultText"
 msgid "He was my dearest friend. My only friend."
-msgstr ""
+msgstr "Byl to můj nejdražší přítel. Můj jediný přítel."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:614
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:614:DefaultText"
 msgid "You have his ship, you must know! That picture of us on the Promenade - me, hugging him; him, wincing - I keep a copy beside my bed. Did he?"
-msgstr ""
+msgstr "Máš jeho loď, musíš to vědět! Tu naši fotku na promenádě - já, jak ho objímám, on, jak se mračí - mám v kopii vedle postele. Opravdu?"
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:616
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:616:DefaultText"
 msgid "I really wouldn't know."
-msgstr ""
+msgstr "To opravdu nevím."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:617
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:617:DefaultText"
 msgid "It must've been lost with Alex, then. One more tragedy to top the pile."
-msgstr ""
+msgstr "Tak to se muselo ztratit u Alexe. Další tragédie na vrcholu hromady."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:618
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:618:DefaultText"
 msgid "He was eaten alive by feral canids."
-msgstr ""
+msgstr "Zaživa ho sežrali divocí psovití."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:619
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:619:DefaultText"
 msgid "No! How dreadful. That was always Alex's greatest fear, you know. Devoured by those fiends. Becoming one with their- their droppings."
-msgstr ""
+msgstr "Ne! Jak strašné. Toho se Alex vždycky nejvíc bál. Pohlcení těmi ďábly. Stát se jedním z jejich... jejich výkalů."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:620
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:620:DefaultText"
 msgid "He died in an escape pod accident."
-msgstr ""
+msgstr "Zemřel při nehodě únikového modulu."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:621
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:621:DefaultText"
 msgid "Oh. Awful business, that. But why- how-? No, no, best not to ask after the gory details."
-msgstr ""
+msgstr "Oh. Hrozný obchod. Ale proč... jak...? Ne, ne, raději se neptej po krvavých detailech."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:622
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:622:DefaultText"
 msgid "Trust me, you don't want to know the details."
-msgstr ""
+msgstr "Věřte mi, že podrobnosti znát nechcete."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:623
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:623:DefaultText"
 msgid "You're quite right, of course. Best not to pry into such dismal things."
-msgstr ""
+msgstr "Máte samozřejmě pravdu. Nejlepší je do takových chmurných věcí nešťourat."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:624
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:624:DefaultText"
 msgid "Tell me - how did he die?"
-msgstr ""
+msgstr "Řekni mi - jak zemřel?"
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:625
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:625:DefaultText"
 msgid "So, about my ship..."
-msgstr ""
+msgstr "Co se týče mé lodi..."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:626
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:626:DefaultText"
 msgid "Again, I'm very sorry. Can we get back to the topic at hand?"
-msgstr ""
+msgstr "Ještě jednou se velmi omlouvám. Můžeme se vrátit k tématu?"
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:628
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:628:DefaultText"
 msgid "Uh. Yup. He sure did."
-msgstr ""
+msgstr "Uh. Jo. Určitě ano."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:629
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:629:DefaultText"
 msgid "That's just like him. Such a sentimental man."
-msgstr ""
+msgstr "To je přesně jako on. Takový sentimentální muž."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:630
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:630:DefaultText"
 msgid "Welles? I meant smells. It really smells in here. Maybe you should open the door."
-msgstr ""
+msgstr "Welles? Myslel jsem vůně. Opravdu to tu smrdí. Možná bys měl otevřít dveře."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:631
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:631:DefaultText"
 msgid "Right, right. You're going important places, I'm sure. Big, exciting, important places."
-msgstr ""
+msgstr "Správně, správně. Určitě se chystáte na důležitá místa. Na velká, vzrušující, důležitá místa."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:640
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:640:DefaultText"
 msgid "Amazing! I didn't think those things worked. Mostly people draw funny faces on them."
-msgstr ""
+msgstr "Úžasné! Nemyslel jsem si, že tyhle věci fungují. Většinou na ně lidé kreslí legrační obličeje."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:642
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:642:DefaultText"
 msgid "She's fantastic! Very dependable. Quite unlike that stubborn Tennyson woman."
-msgstr ""
+msgstr "Je fantastická! Velmi spolehlivá. Na rozdíl od té tvrdohlavé Tennysonové."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:644
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:644:DefaultText"
 msgid "I'll have to send her a festive fruit basket as thanks."
-msgstr ""
+msgstr "Budu jí muset jako poděkování poslat slavnostní koš ovoce."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:645
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:645:DefaultText"
 msgid "I'm sorry...? I'm- I'm quite certain I heard Welles. Phineas Welles."
-msgstr ""
+msgstr "Promiňte...? Jsem si jistý, že jsem slyšel Wellese. Phineas Welles."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:648
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:648:DefaultText"
 msgid "An apprehension of this caliber will be tremendous for my career. I'll send you straight away to my superiors in Byzantium, only... oh Law. Oh no."
-msgstr ""
+msgstr "Záchrana takového kalibru bude pro mou kariéru obrovská. Hned tě pošlu svým nadřízeným do Byzance, jenže... ach, Law. Ale ne."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:650
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:650:DefaultText"
 msgid "Phineas smells? That's not a very nice thing to say about someone, even a wanted outlaw."
-msgstr ""
+msgstr "Phineas je cítit? To není moc hezké říkat o někom, dokonce ani o hledaném psanci."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:651
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:651:DefaultText"
 msgid "Learn to take a joke, Bedford. I'm just hassling you."
-msgstr ""
+msgstr "Nauč se brát vtipy, Bedforde. Jen tě obtěžuji."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:652
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:652:DefaultText"
 msgid "Hah. How charming you are."
-msgstr ""
+msgstr "Hah. Jsi okouzlující."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:653
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:653:DefaultText"
 msgid "But you- argh! It's always like this with you tramp freighter captains!"
-msgstr ""
+msgstr "Ale ty... Takhle to s vámi, kapitány trampských nákladních lodí, chodí vždycky!"
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:654
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:654:DefaultText"
 msgid "Let me guess - there's a catch."
-msgstr ""
+msgstr "Nech mě hádat - je v tom háček."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:655
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:655:DefaultText"
 msgid "What?"
-msgstr ""
+msgstr "Cože?"
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:656
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:656:DefaultText"
 msgid "Spit it out."
-msgstr ""
+msgstr "Vyplivněte to."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:657
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:657:DefaultText"
 msgid "Just a teensy one. The teensiest. Nothing to, ah, lie awake worrying about for nights on end or anything."
-msgstr ""
+msgstr "Jen malinký. Ten nejmenší. Nic, kvůli čemu by se člověk musel celé noci bát."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:662
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:662:DefaultText"
 msgid "I might have... pawned my official Board seal to Gladys, the black market fence here on the Groundbreaker. I can't authorize the paperwork you'll need to turn Phineas in without it."
-msgstr ""
+msgstr "Možná jsem... dal svou oficiální pečeť rady do zástavy Gladys, překupnici na černém trhu tady na Groundbreakeru. Bez ní nemohu schválit papíry, které budeš potřebovat k vydání Phinease."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:663
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:663:DefaultText"
 msgid "So you'll need to get my seal back from her if you want to hand Phineas over to the Board."
-msgstr ""
+msgstr "Takže pokud chceš Phinease předat Radě, musíš od ní získat zpět mou pečeť."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:664
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:664:DefaultText"
 msgid "The thing is... I needed money. A lot of money. Quickly. For reasons."
-msgstr ""
+msgstr "Jde o to, že... Potřeboval jsem peníze. Hodně peněz. Rychle. Z důvodů."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:665
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:665:DefaultText"
 msgid "So far, so entirely expected. What happened?"
-msgstr ""
+msgstr "Zatím je to zcela očekávané. Co se stalo?"
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:667
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:667:DefaultText"
 msgid "What kind of reasons?"
-msgstr ""
+msgstr "Z jakých důvodů?"
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:668
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:668:DefaultText"
 msgid "That's really neither here nor there, don't you think?"
-msgstr ""
+msgstr "To není ani tady, ani tam, nemyslíte?"
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:669
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:669:DefaultText"
 msgid "Fine. You needed money. What happened next?"
-msgstr ""
+msgstr "V pořádku. Potřeboval jsi peníze. Co se stalo potom?"
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:671
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:671:DefaultText"
 msgid "I like to know what motivates the people I work with."
-msgstr ""
+msgstr "Rád bych věděl, co motivuje lidi, se kterými pracuji."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:672
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:672:DefaultText"
@@ -921,1439 +921,1439 @@ msgstr ""
 #: conversations/01_groundbreaker/01_cv_bedford_udom:673
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:673:DefaultText"
 msgid "You'll feel better if you get it off your chest."
-msgstr ""
+msgstr "Budeš se cítit lépe, když to ze sebe dostaneš."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:674
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:674:DefaultText"
 msgid "I produce bootleg serials! I just- I can't help myself. \"Juris & Prudence: After Hours,\" or \"All My Colonists: The New Immortals.\" Romance! Tragedy! Debt-collection!"
-msgstr ""
+msgstr "Vyrábím bootlegové seriály! Já si prostě nemůžu pomoct. \"Juris & Prudence: nebo \"Všichni mí kolonisté: \"Noví nesmrtelní\". Romantika! Tragédie! Vymáhání dluhů!"
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:675
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:675:DefaultText"
 msgid "It's a little silly, I'll admit. Silly and completely illegal. I'd be forced into early retirement if the Board found out."
-msgstr ""
+msgstr "Je to trochu hloupé, uznávám. Hloupé a zcela nezákonné. Kdyby se to dozvěděla správní rada, musel bych odejít do předčasného důchodu."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:681
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:681:DefaultText"
 msgid "Don't make me wring it out of you."
-msgstr ""
+msgstr "Nenuť mě, abych to z tebe vymámila."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:682
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:682:DefaultText"
 msgid "Out with it, before I punch it out."
-msgstr ""
+msgstr "Ven s tím, než to vyrazím."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:683
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:683:DefaultText"
 msgid "Come on, you can tell me."
-msgstr ""
+msgstr "No tak, můžeš mi to říct."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:684
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:684:DefaultText"
 msgid "No! No, I'm sorry, I really can't."
-msgstr ""
+msgstr "Ne! Ne, je mi líto, opravdu nemůžu."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:689
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:689:DefaultText"
 msgid "It's only temporary, of course! I'd never leave something so important in the hands of someone of such dubious moral character. I was going to buy it back once I raised the capital."
-msgstr ""
+msgstr "Je to samozřejmě jen dočasné! Nikdy bych nenechal něco tak důležitého v rukou někoho s tak pochybnými morálními vlastnostmi. Chtěl jsem to koupit zpátky, jakmile se mi podaří nashromáždit kapitál."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:690
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:690:DefaultText"
 msgid "You have to be kidding me. How stupid can you be?"
-msgstr ""
+msgstr "To si ze mě děláte legraci. Jak můžeš být hloupý?"
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:691
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:691:DefaultText"
 msgid "What possessed you to pawn your official seal?"
-msgstr ""
+msgstr "Co tě vedlo k tomu, že jsi dal do zástavy svou úřední pečeť?"
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:692
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:692:DefaultText"
 msgid "So before I can do the Board a favor and turn over Welles, I need to do you a favor first?"
-msgstr ""
+msgstr "Takže než udělám radě laskavost a předám Wellese, musím nejdřív udělat laskavost vám?"
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:693
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:693:DefaultText"
 msgid "Forget it, then. I won't turn Phineas in."
-msgstr ""
+msgstr "Tak na to zapomeňte. Phinease neudám."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:694
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:694:DefaultText"
 msgid "Oh, it might surprise you!"
-msgstr ""
+msgstr "Možná vás to překvapí!"
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:695
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:695:DefaultText"
 msgid "I've heard of your serials! You're, like, really famous."
-msgstr ""
+msgstr "Slyšel jsem o vašich seriálech! Jsi opravdu slavný."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:696
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:696:DefaultText"
 msgid "Wow. That's, uh. Really something."
-msgstr ""
+msgstr "Wow. To je... Opravdu něco."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:697
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:697:DefaultText"
 msgid "Uh..."
-msgstr ""
+msgstr "Uh..."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:698
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:698:DefaultText"
 msgid "And they're all mine!"
-msgstr ""
+msgstr "A všechny jsou moje!"
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:699
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:699:DefaultText"
 msgid "Flatterer."
-msgstr ""
+msgstr "Lichotník."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:700
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:700:DefaultText"
 msgid "I wish I could say others felt the same. I've made nothing on them, not a bit. My losses are staggering."
-msgstr ""
+msgstr "Kéž bych mohl říct, že ostatní to cítili stejně. Nic jsem na nich nevydělal, ani trochu. Moje ztráty jsou ohromující."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:701
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:701:DefaultText"
 msgid "Okay, so you needed money to make your serials. How'd you get it?"
-msgstr ""
+msgstr "Dobře, takže jste potřebovali peníze na výrobu seriálů. Jak jste je získal?"
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:702
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:702:DefaultText"
 msgid "Stunned speechless. I thought you might be."
-msgstr ""
+msgstr "Ohromeně oněměl. Myslel jsem si, že jsi."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:703
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:703:DefaultText"
 msgid "You're right, the Board wouldn't like this at all. I should tell them."
-msgstr ""
+msgstr "Máte pravdu, správní radě by se to vůbec nelíbilo. Měl bych jim to říct."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:704
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:704:DefaultText"
 msgid "Oh no! Please don't! Really, please! They could quite literally kill me. The punishment for copyright infringement is death."
-msgstr ""
+msgstr "Ale ne! Prosím, nedělejte to! Opravdu, prosím! Mohli by mě doslova zabít. Trest za porušení autorských práv je smrt."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:706
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:706:DefaultText"
 msgid "Good to know! So, you needed money to make illegal serials. How'd you get it?"
-msgstr ""
+msgstr "To je dobré vědět! Takže jsi potřeboval peníze na výrobu nelegálních seriálů. Jak jste je získal?"
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:707
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:707:DefaultText"
 msgid "I really don't think it would."
-msgstr ""
+msgstr "To si opravdu nemyslím."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:708
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:708:DefaultText"
 msgid "That's the long and short of it, yes."
-msgstr ""
+msgstr "To je zkrátka a dobře."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:710
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:710:DefaultText"
 msgid "Fine. You see, I really do need that seal. Rather desperately, actually."
-msgstr ""
+msgstr "V pořádku. Vidíte, já tu pečeť opravdu potřebuji. Vlastně docela zoufale."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:711
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:711:DefaultText"
 msgid "I can't grant you access to Byzantium without it. If the Board learned of my foolishness, why- by the Law, they'd- they'd fire me."
-msgstr ""
+msgstr "Bez něj ti nemohu umožnit přístup do Byzance. Kdyby se správní rada dozvěděla o mé hlouposti, tak by mě, podle zákona, vyhodila."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:712
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:712:DefaultText"
 msgid "At least you'd have your life."
-msgstr ""
+msgstr "Alespoň bys měl svůj život."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:713
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:713:DefaultText"
 msgid "I absolutely would not! The Board isn't even the worst of it!"
-msgstr ""
+msgstr "Rozhodně bych to nedělal! Rada není ani to nejhorší!"
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:714
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:714:DefaultText"
 msgid "Gladys intends to sell it to the highest bidder. She's demanded I provide her with proof of its authenticity."
-msgstr ""
+msgstr "Gladys ho hodlá prodat tomu, kdo nabídne nejvíc. Požaduje, abych jí poskytl důkaz o jeho pravosti."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:715
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:715:DefaultText"
 msgid "And if I refuse, she'll have those goons at SubLight Salvage throw me down the Waste Disposal shaft!"
-msgstr ""
+msgstr "A jestli odmítnu, nechá mě těmi gorilami ze SubLight Salvage hodit do šachty na likvidaci odpadu!"
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:716
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:716:DefaultText"
 msgid "You really are in a pickle, huh."
-msgstr ""
+msgstr "Jste opravdu v úzkých, co?"
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:718
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:718:DefaultText"
 msgid "A spicy little pickle entirely of my own making."
-msgstr ""
+msgstr "Malá pikantní okurka, kterou jsem si vytvořil sám."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:719
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:719:DefaultText"
 msgid "Ouch."
-msgstr ""
+msgstr "Au."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:720
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:720:DefaultText"
 msgid "That's not my problem."
-msgstr ""
+msgstr "To není můj problém."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:721
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:721:DefaultText"
 msgid "I literally can't believe this. I mean that - I don't believe you."
-msgstr ""
+msgstr "Doslova tomu nemohu uvěřit. Myslím to vážně - nevěřím ti."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:722
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:722:DefaultText"
 msgid "Go! Ask Gladys yourself! She doesn't care who knows! I'm sure she'd be thrilled to tell you she's got foolish old Udom over a barrel!"
-msgstr ""
+msgstr "Jdi! Zeptej se Gladys sám! Je jí jedno, kdo to ví! Určitě by ti s radostí řekla, že má starého blázna Udoma v hrsti!"
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:723
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:723:DefaultText"
 msgid "Fine, I'll go talk to Gladys. Maybe I can work something out."
-msgstr ""
+msgstr "Dobře, půjdu si promluvit s Gladys. Možná se mi podaří něco vymyslet."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:725
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:725:DefaultText"
 msgid "No, please! Hear me out!"
-msgstr ""
+msgstr "Ne, prosím! Vyslechněte mě!"
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:726
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:726:DefaultText"
 msgid "The Board isn't even the worst of it!"
-msgstr ""
+msgstr "Nejhorší na tom není ani představenstvo!"
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:727
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:727:DefaultText"
 msgid "This is still not my problem. I'm leaving."
-msgstr ""
+msgstr "To stále není můj problém. Odcházím."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:731
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:731:DefaultText"
 msgid "Thank you! Oh, thank you so much! I'm certain Gladys can be made- well, can probably be made to see reason!"
-msgstr ""
+msgstr "Děkujeme! Moc vám děkuji! Jsem si jistá, že Gladys se dá přimět - no, nejspíš se dá přimět k tomu, aby viděla rozum!"
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:733
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:733:DefaultText"
 msgid "Thrilling. Anyway, about my ship..."
-msgstr ""
+msgstr "Napínavé. Jinak k mé lodi..."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:738
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:738:DefaultText"
 msgid "There's no call for that kind of talk!"
-msgstr ""
+msgstr "K takovým řečem není důvod!"
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:739
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:739:DefaultText"
 msgid "I'm trying to do you a favor. Stop giving me the run-around."
-msgstr ""
+msgstr "Snažím se ti prokázat laskavost. Přestaň mě obcházet."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:744
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:744:DefaultText"
 msgid "What do you do here, exactly?"
-msgstr ""
+msgstr "Co přesně zde děláte?"
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:745
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:745:DefaultText"
 msgid "I'm the certified representative of the Board's interests here on the Groundbreaker. I'm their eyes, ears, and busy little hands."
-msgstr ""
+msgstr "Jsem certifikovaným zástupcem zájmů rady zde na serveru Groundbreaker. Jsem jejich oči, uši a pilné ručičky."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:746
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:746:DefaultText"
 msgid "Oh, you mean this seal right here?"
-msgstr ""
+msgstr "Myslíte tuhle pečeť?"
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:747
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:747:DefaultText"
 msgid "Well, it's your lucky day. I've got your seal right here."
-msgstr ""
+msgstr "Tak to je váš šťastný den. Mám tu vaši pečeť."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:748
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:748:DefaultText"
 msgid "She was perfectly pleasant, actually. Anyway, here's your seal."
-msgstr ""
+msgstr "Vlastně byla naprosto příjemná. Každopádně, tady je vaše pečeť."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:750
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:750:DefaultText"
 msgid "Oh my Law. You've done it, you've saved my hide. I can't thank you enough."
-msgstr ""
+msgstr "Můj zákon. Dokázal jsi to, zachránil jsi mi kůži. Nemůžu ti dostatečně poděkovat."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:752
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:752:DefaultText"
 msgid "Phineas Welles IS the mad scientist wanted by the Board, right?"
-msgstr ""
+msgstr "Phineas Welles JE šílený vědec, kterého hledá správní rada, že?"
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:753
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:753:DefaultText"
 msgid "Indeed. And you know where he is? Excelsior!"
-msgstr ""
+msgstr "Vskutku. A víte, kde je? Excelsior!"
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:766
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:766:DefaultText"
 msgid "There, I've removed the flag from your ship. I'm terribly sorry for the inconvenience. However, before you go..."
-msgstr ""
+msgstr "Tak, odstranil jsem vlajku z vaší lodi. Strašně se omlouvám za nepříjemnosti. Než však odejdete..."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:821
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:821:DefaultText"
 msgid "You probably don't even know where Welles is. None of my contacts ever pan out."
-msgstr ""
+msgstr "Pravděpodobně ani nevíte, kde Welles je. Žádný z mých kontaktů nikdy nevyšel."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:822
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:822:DefaultText"
 msgid "Oh, and there we are - I've removed the lock on your ship in a show of my gratitude."
-msgstr ""
+msgstr "A jsme u toho - na důkaz vděčnosti jsem odstranil zámek na vaší lodi."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:823
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:823:DefaultText"
 msgid "Fine. You're free to go. I've removed the impound order on your ship. But before you go, I did have one request..."
-msgstr ""
+msgstr "V pořádku. Můžeš jít. Příkaz k zabavení vaší lodi jsem zrušil. Ale než odejdete, mám jednu prosbu..."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:825
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:825:DefaultText"
 msgid "I might have... pawned my official Board seal to Gladys, the black market fence here on the Groundbreaker. I can't authorize the paperwork you'll need to turn Phineas in without it."
-msgstr ""
+msgstr "Možná jsem... dal svou oficiální pečeť rady do zástavy Gladys, překupnici na černém trhu tady na Groundbreakeru. Bez ní nemohu schválit papíry, které budeš potřebovat k vydání Phinease."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:826
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:826:DefaultText"
 msgid "It's only temporary, of course! I'd never leave something so important in the hands of someone of such dubious moral character. I was going to buy it back once I raised the capital."
-msgstr ""
+msgstr "Je to samozřejmě jen dočasné! Nikdy bych nenechal něco tak důležitého v rukou někoho s tak pochybnými morálními vlastnostmi. Chtěl jsem to koupit zpátky, jakmile se mi podaří nashromáždit kapitál."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:828
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:828:DefaultText"
 msgid "Access to Byzantium is highly restricted. Only a select few possess a Navkey."
-msgstr ""
+msgstr "Přístup do Byzance je velmi omezený. Pouze několik vyvolených vlastní Navkey."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:855
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:855:DefaultText"
 msgid "I'm not dealing with this right now."
-msgstr ""
+msgstr "Teď se tím nezabývám."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:856
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:856:DefaultText"
 msgid "O-oh. I see. All right. Another time, then."
-msgstr ""
+msgstr "O-oh. Aha. Dobře. Tak jindy."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:857
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:857:DefaultText"
 msgid "Oh! Hello! You're back!"
-msgstr ""
+msgstr "Ahoj! Jsi zpátky!"
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:858
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:858:DefaultText"
 msgid "Last we spoke, I'd asked after my dear friend Alex Hawthorne. So, tell me..."
-msgstr ""
+msgstr "Když jsme spolu mluvili naposledy, ptal jsem se po svém drahém příteli Alexi Hawthornovi. Tak mi řekni..."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:859
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:859:DefaultText"
 msgid "Before we get down to business, I need to be sure I can trust you."
-msgstr ""
+msgstr "Než se pustíme do práce, musím si být jistý, že vám mohu věřit."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:860
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:860:DefaultText"
 msgid "All... right. I suppose. How might I assuage your fears?"
-msgstr ""
+msgstr "Všechno... správně. Předpokládám. Jak bych mohl uklidnit vaše obavy?"
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:861
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:861:DefaultText"
 msgid "Why do you work for the Board?"
-msgstr ""
+msgstr "Proč pracujete pro správní radu?"
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:862
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:862:DefaultText"
 msgid "Do you enjoy working for them?"
-msgstr ""
+msgstr "Pracujete pro ně rádi?"
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:863
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:863:DefaultText"
 msgid "Whom else would I work for? Those SubLight thugs? That Tennyson woman? The sweaty masses in the groundside townships?"
-msgstr ""
+msgstr "Pro koho jiného bych měl pracovat? Pro ty zločince ze SubLight? Té Tennysonové? Pro ty upocené masy v přízemních městečkách?"
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:864
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:864:DefaultText"
 msgid "The Board is the only force for order in this rough and tumble colony of ours. Without them, we'd all starve to death or meet our end in a canid's jaws."
-msgstr ""
+msgstr "Rada je jedinou silou, která v této naší drsné kolonii udržuje pořádek. Bez nich bychom všichni zemřeli hlady nebo skončili v čelistech psovitých šelem."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:865
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:865:DefaultText"
 msgid "That's a... curious question. I can't say I've ever considered how my personal satisfaction factors in to the work I do."
-msgstr ""
+msgstr "To je... zvláštní otázka. Nemohu říct, že bych někdy uvažoval o tom, jak se moje osobní spokojenost podílí na práci, kterou dělám."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:866
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:866:DefaultText"
 msgid "Permit me to answer your question another way. In Byzantium, I was one among many. I often felt, ah, lost in the hurry and expanse of the capital."
-msgstr ""
+msgstr "Dovolte mi odpovědět na vaši otázku jinak. V Byzanci jsem byl jedním z mnoha. Často jsem si připadal, ach, ztracený ve spěchu a rozlehlosti hlavního města."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:867
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:867:DefaultText"
 msgid "Here, I have a measure of power and suffer little oversight. It makes for a different kind of loneliness, but it's one I've found I can endure."
-msgstr ""
+msgstr "Zde mám určitou moc a trpím malým přehlížením. Je to jiný druh samoty, ale zjistil jsem, že ji dokážu snášet."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:868
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:868:DefaultText"
 msgid "That still doesn't tell me why I should trust you."
-msgstr ""
+msgstr "To mi ale pořád neříká, proč bych ti měl věřit."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:869
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:869:DefaultText"
 msgid "I understand. And I would ask the same of you, but I suspect... well, I suspect I'd find your answer less than satisfactory, wouldn't I?"
-msgstr ""
+msgstr "Rozumím. A já bych se zeptal na totéž vás, ale mám podezření, že... no, mám podezření, že by mě vaše odpověď neuspokojila, že?"
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:870
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:870:DefaultText"
 msgid "I want what's best for the colony. That's why I want to turn Phineas in."
-msgstr ""
+msgstr "Chci pro kolonii to nejlepší. Proto chci Phinease udat."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:871
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:871:DefaultText"
 msgid "I don't know how to answer that."
-msgstr ""
+msgstr "Nevím, jak na to odpovědět."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:872
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:872:DefaultText"
 msgid "So, about Phineas."
-msgstr ""
+msgstr "O Phineasovi."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:873
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:873:DefaultText"
 msgid "Yes, do tell."
-msgstr ""
+msgstr "Ano, řekněte."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:874
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:874:DefaultText"
 msgid "Quite. And how do you know about him?"
-msgstr ""
+msgstr "Zcela. A jak o něm víte?"
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:875
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:875:DefaultText"
 msgid "Now you see my predicament. So, let's move on. Tell me how you know of Phineas."
-msgstr ""
+msgstr "Teď už chápete, v jaké jsem situaci. Tak pojďme dál. Řekni mi, odkud znáš Phinease."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:876
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:876:DefaultText"
 msgid "You shouldn't trust me. Or anyone."
-msgstr ""
+msgstr "Neměl bys mi věřit. Ani nikomu jinému."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:877
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:877:DefaultText"
 msgid "That's an unusual rhetorical tactic, but I admire your frankness... and your gumption."
-msgstr ""
+msgstr "To je neobvyklá rétorická taktika, ale obdivuji vaši upřímnost... a odvahu."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:879
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:879:DefaultText"
 msgid "Alex promised to tell me the location of Phineas Welles - I'm sure you've seen his wanted posters all over the colony. Did Alex tell you where Welles might be? Anything at all?"
-msgstr ""
+msgstr "Alex mi slíbil, že mi řekne, kde se nachází Phineas Welles - určitě jste viděli jeho plakáty s hledanými osobami po celé kolonii. Řekl ti Alex, kde by Welles mohl být? Vůbec něco?"
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:885
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:885:DefaultText"
 msgid "Hello again! Have you, ah, made any progress with that terribly sensitive thing I told you about?"
-msgstr ""
+msgstr "Ještě jednou ahoj! Už jsi, ehm, udělal nějaký pokrok s tou strašně citlivou věcí, o které jsem ti říkal?"
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:886
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:886:DefaultText"
 msgid "You know, my government seal?"
-msgstr ""
+msgstr "Víte, moje vládní pečeť?"
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:887
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:887:DefaultText"
 msgid "Do you have it?"
-msgstr ""
+msgstr "Máte ji?"
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:888
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:888:DefaultText"
 msgid "I'm still working on it."
-msgstr ""
+msgstr "Stále na tom pracuji."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:889
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:889:DefaultText"
 msgid "Stop pestering me before I change my mind."
-msgstr ""
+msgstr "Přestaň mě otravovat, než si to rozmyslím."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:890
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:890:DefaultText"
 msgid "Oh, ah, yes. Right. Of course. I'm terribly sorry for bothering you, it's just- I really need that seal. You understand."
-msgstr ""
+msgstr "Ach, ano. Správně. Samozřejmě. Strašně se omlouvám, že vás obtěžuji, já jen... opravdu potřebuji tu pečeť. Rozumíte."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:891
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:891:DefaultText"
 msgid "How else might I assist you?"
-msgstr ""
+msgstr "Jak vám mohu ještě pomoci?"
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:892
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:892:DefaultText"
 msgid "Oh, yes, of course. I apologize if I seem overeager, it's just- I must have that seal. Soon. If possible?"
-msgstr ""
+msgstr "Ano, samozřejmě. Omlouvám se, jestli vypadám přehnaně horlivě, já jen... Musím mít tu pečeť. Brzy. Pokud je to možné?"
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:893
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:893:DefaultText"
 msgid "I'll be waiting eagerly for your return. Now, is there any way in which I might assist you?"
-msgstr ""
+msgstr "Budu netrpělivě čekat na tvůj návrat. Mohu vám nějak pomoci?"
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:896
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:896:DefaultText"
 msgid "Should you decide to turn Phineas Welles in..."
-msgstr ""
+msgstr "Pokud se rozhodnete Phinease Wellese proměnit v..."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:897
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:897:DefaultText"
 msgid "If you were able to retrieve my seal from Gladys, and if you were able to prove you had something of worth to offer the Board, well."
-msgstr ""
+msgstr "Pokud jsi dokázal získat mou pečeť od Gladys a pokud jsi dokázal, že můžeš Radě něco nabídnout, tak dobře."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:898
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:898:DefaultText"
 msgid "Then I might be able to pull some strings."
-msgstr ""
+msgstr "Pak bych mohl zatahat za nitky."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:899
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:899:DefaultText"
 msgid "What would the Board consider 'something of worth?'"
-msgstr ""
+msgstr "Co by rada považovala za \"něco hodnotného\"?"
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:900
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:900:DefaultText"
 msgid "Fuck the Board."
-msgstr ""
+msgstr "Na představenstvo kašlu."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:901
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:901:DefaultText"
 msgid "Well, that's, I- that's quite an opinion. I can't say I share it, or really much appreciate it, but I suppose it's your right to say it."
-msgstr ""
+msgstr "No, to je, to je docela názor. Nemohu říct, že bych ho sdílel nebo si ho vážil, ale předpokládám, že máte právo ho říct."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:902
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:902:DefaultText"
 msgid "Only on Groundbreaker, of course. That kind of talk can lead to some... uncomfortable conversations down on Terra 2, if you take my meaning."
-msgstr ""
+msgstr "Samozřejmě pouze v Groundbreakeru. Takové řeči mohou vést k... nepříjemným rozhovorům dole na Terře 2, jestli mi rozumíte."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:903
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:903:DefaultText"
 msgid "The location of Phineas Welles, for one thing."
-msgstr ""
+msgstr "Například umístění Phinease Wellese."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:904
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:904:DefaultText"
 msgid "Alex Hawthorne, the Unreliable's dearly departed captain, knew him. Perhaps you do as well?"
-msgstr ""
+msgstr "Alex Hawthorne, drahý zesnulý kapitán Nespolehlivých, ho znal. Možná ho znáte i vy?"
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:905
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:905:DefaultText"
 msgid "Alex Hawthorne, the Unreliable's previous captain, knew him. Perhaps you do as well?"
-msgstr ""
+msgstr "Alex Hawthorne, předchozí kapitán Nespolehlivých, ho znal. Možná ho znáte i vy?"
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:907
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:907:DefaultText"
 msgid "I'll keep that in mind."
-msgstr ""
+msgstr "Budu na to pamatovat."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:908
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:908:DefaultText"
 msgid "A wise choice. The Board helps its friends."
-msgstr ""
+msgstr "Moudrá volba. Rada pomáhá svým přátelům."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:909
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:909:DefaultText"
 msgid "That doesn't answer my question."
-msgstr ""
+msgstr "To neodpovídá na mou otázku."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:910
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:910:DefaultText"
 msgid "Sounds boring."
-msgstr ""
+msgstr "Zní to nudně."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:911
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:911:DefaultText"
 msgid "Big fish in a small space station. Nice setup."
-msgstr ""
+msgstr "Velká ryba na malé vesmírné stanici. Pěkné nastavení."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:912
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:912:DefaultText"
 msgid "I have few complaints."
-msgstr ""
+msgstr "Mám jen málo stížností."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:913
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:913:DefaultText"
 msgid "Sometimes I take a break from sending messages to fluff the Chairman's pillow on the off chance he visits."
-msgstr ""
+msgstr "Někdy si dám pauzu od posílání zpráv, abych předsedovi načechral polštář, kdyby náhodou přišel na návštěvu."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:914
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:914:DefaultText"
 msgid "I send a lot of messages. Sometimes I read them. Every once in while I'll impound a ship if I want to feel alive."
-msgstr ""
+msgstr "Posílám hodně zpráv. Někdy si je přečtu. Jednou za čas zabavím nějakou loď, když se chci cítit naživu."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:915
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:915:DefaultText"
 msgid "Better that than moving crates in the cargo bay."
-msgstr ""
+msgstr "To je lepší než stěhování beden v nákladovém prostoru."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:916
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:916:DefaultText"
 msgid "Was that a crack at me? 'Cause I'm done hauling boxes. I moved up in the world."
-msgstr ""
+msgstr "Byla to narážka na mě? Protože jsem skončil s taháním krabic. Posunul jsem se ve světě výš."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:917
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:917:DefaultText"
 msgid "Yes, I'm sure you've got a busy day of drawing mustaches on wanted posters ahead of you."
-msgstr ""
+msgstr "Ano, určitě tě čeká náročný den, kdy budeš kreslit kníry na plakáty hledaných osob."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:918
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:918:DefaultText"
 msgid "W-what?"
-msgstr ""
+msgstr "Cože?"
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:919
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:919:DefaultText"
 msgid "Phineas Welles IS the mad scientist wanted by the Board, right?"
-msgstr ""
+msgstr "Phineas Welles JE šílený vědec, kterého hledá správní rada, že?"
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:920
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:920:DefaultText"
 msgid "I saw Welles' wanted poster, and I want to claim the bounty."
-msgstr ""
+msgstr "Viděl jsem Wellesův plakát a chci si vyzvednout odměnu."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:921
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:921:DefaultText"
 msgid "Comdt. Sanita said you were looking for Phineas, and I know where he is."
-msgstr ""
+msgstr "Komandér Sanita říkal, že hledáte Phinease, a já vím, kde je."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:922
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:922:DefaultText"
 msgid "Edgewater's constable told me to speak with you about Welles."
-msgstr ""
+msgstr "Edgewaterský strážník mi řekl, abych s vámi promluvil o Wellesovi."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:923
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:923:DefaultText"
 msgid "Before we get down to business, I need to be sure I can trust you."
-msgstr ""
+msgstr "Než se pustíme do práce, musím si být jistý, že vám mohu věřit."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:924
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:924:DefaultText"
 msgid "Welles? I meant smells. It really smells in here. Maybe you should open the door."
-msgstr ""
+msgstr "Welles? Myslel jsem vůně. Opravdu to tu smrdí. Možná bys měl otevřít dveře."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:925
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:925:DefaultText"
 msgid "You've changed your mind?"
-msgstr ""
+msgstr "Změnil jste názor?"
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:926
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:926:DefaultText"
 msgid "Indeed. And you know where he is? Excelsior!"
-msgstr ""
+msgstr "Vskutku. A víte, kde je? Excelsior!"
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:927
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:927:DefaultText"
 msgid "An apprehension of this caliber will be tremendous for my career. I would send you straight away to my superiors in Byzantium, but..."
-msgstr ""
+msgstr "Záchrana takového kalibru bude pro mou kariéru obrovská. Poslal bych vás hned ke svým nadřízeným do Byzance, ale..."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:929
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:929:DefaultText"
 msgid "You'll need a Navkey. You ably retrieved my seal, so I suppose- I suppose the least I can do is give you access to Byzantium as well. Fair recompense, and all that."
-msgstr ""
+msgstr "Budete potřebovat klíč Navkey. Šikovně jsi získal mou pečeť, takže předpokládám, že to nejmenší, co pro tebe mohu udělat, je umožnit ti přístup do Byzance. Spravedlivá odměna a tak."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:930
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:930:DefaultText"
 msgid "Amazing! I didn't think those things worked. Mostly people draw funny faces on them."
-msgstr ""
+msgstr "Úžasné! Nemyslel jsem si, že tyhle věci fungují. Většinou na ně lidé kreslí legrační obličeje."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:931
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:931:DefaultText"
 msgid "She's fantastic! Very dependable. Quite unlike that stubborn Tennyson woman."
-msgstr ""
+msgstr "Je fantastická! Velmi spolehlivá. Na rozdíl od té tvrdohlavé Tennysonové."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:932
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:932:DefaultText"
 msgid "I'll have to send her a festive fruit basket as thanks."
-msgstr ""
+msgstr "Budu jí muset jako poděkování poslat slavnostní koš ovoce."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:933
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:933:DefaultText"
 msgid "All... right. I suppose. How might I assuage your fears?"
-msgstr ""
+msgstr "Všechno... správně. Předpokládám. Jak bych mohl uklidnit vaše obavy?"
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:934
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:934:DefaultText"
 msgid "Why do you work for the Board?"
-msgstr ""
+msgstr "Proč pracujete pro správní radu?"
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:935
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:935:DefaultText"
 msgid "Do you enjoy working for them?"
-msgstr ""
+msgstr "Pracujete pro ně rádi?"
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:936
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:936:DefaultText"
 msgid "That still doesn't tell me why I should trust you."
-msgstr ""
+msgstr "To mi ale pořád neříká, proč bych ti měl věřit."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:937
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:937:DefaultText"
 msgid "So, about Phineas."
-msgstr ""
+msgstr "O Phineasovi."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:938
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:938:DefaultText"
 msgid "Yes, do tell."
-msgstr ""
+msgstr "Ano, řekněte."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:939
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:939:DefaultText"
 msgid "I understand. And I would ask the same of you, but I suspect... well, I suspect I'd find your answer less than satisfactory, wouldn't I?"
-msgstr ""
+msgstr "Rozumím. A já bych se zeptal na totéž vás, ale mám podezření, že... no, mám podezření, že by mě vaše odpověď neuspokojila, že?"
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:940
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:940:DefaultText"
 msgid "I want what's best for the colony. That's why I want to turn Phineas in."
-msgstr ""
+msgstr "Chci pro kolonii to nejlepší. Proto chci Phinease udat."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:941
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:941:DefaultText"
 msgid "I don't know how to answer that."
-msgstr ""
+msgstr "Nevím, jak na to odpovědět."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:942
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:942:DefaultText"
 msgid "You shouldn't trust me. Or anyone."
-msgstr ""
+msgstr "Neměl bys mi věřit. Ani nikomu jinému."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:943
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:943:DefaultText"
 msgid "Quite. And how do you know about him?"
-msgstr ""
+msgstr "Zcela. A jak o něm víte?"
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:944
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:944:DefaultText"
 msgid "Now you see my predicament. So, let's move on. Tell me how you know of Phineas."
-msgstr ""
+msgstr "Teď už chápete, v jaké jsem situaci. Tak pojďme dál. Řekni mi, odkud znáš Phinease."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:945
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:945:DefaultText"
 msgid "That's an unusual rhetorical tactic, but I admire your frankness... and your gumption."
-msgstr ""
+msgstr "To je neobvyklá rétorická taktika, ale obdivuji vaši upřímnost... a odvahu."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:946
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:946:DefaultText"
 msgid "That's a... curious question. I can't say I've ever considered how my personal satisfaction factors in to the work I do."
-msgstr ""
+msgstr "To je... zvláštní otázka. Nemohu říct, že bych někdy uvažoval o tom, jak se moje osobní spokojenost podílí na práci, kterou dělám."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:947
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:947:DefaultText"
 msgid "Permit me to answer your question another way. In Byzantium, I was one among many. I often felt, ah, lost in the hurry and expanse of the capital."
-msgstr ""
+msgstr "Dovolte mi odpovědět na vaši otázku jinak. V Byzanci jsem byl jedním z mnoha. Často jsem si připadal, ach, ztracený ve spěchu a rozlehlosti hlavního města."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:948
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:948:DefaultText"
 msgid "Here, I have a measure of power and suffer little oversight. It makes for a different kind of loneliness, but it's one I've found I can endure."
-msgstr ""
+msgstr "Zde mám určitou moc a trpím malým přehlížením. Je to jiný druh samoty, ale zjistil jsem, že ji dokážu snášet."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:949
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:949:DefaultText"
 msgid "Whom else would I work for? Those SubLight thugs? That Tennyson woman? The sweaty masses in the groundside townships?"
-msgstr ""
+msgstr "Pro koho jiného bych měl pracovat? Pro ty zločince ze SubLight? Té Tennysonové? Pro ty upocené masy v přízemních městečkách?"
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:950
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:950:DefaultText"
 msgid "The Board is the only force for order in this rough and tumble colony of ours. Without them, we'd all starve to death or meet our end in a canid's jaws."
-msgstr ""
+msgstr "Rada je jedinou silou, která v této naší drsné kolonii udržuje pořádek. Bez nich bychom všichni zemřeli hlady nebo skončili v čelistech psovitých šelem."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:951
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:951:DefaultText"
 msgid "I'm sorry...? I'm- I'm quite certain I heard Welles. Phineas Welles."
-msgstr ""
+msgstr "Promiňte...? Jsem si jistý, že jsem slyšel Wellese. Phineas Welles."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:952
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:952:DefaultText"
 msgid "Phineas smells? That's not a very nice thing to say about someone, even a wanted outlaw."
-msgstr ""
+msgstr "Phineas je cítit? To není moc hezké říkat o někom, dokonce ani o hledaném psanci."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:953
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:953:DefaultText"
 msgid "Learn to take a joke, Bedford. I'm just hassling you."
-msgstr ""
+msgstr "Nauč se brát vtipy, Bedforde. Jen tě obtěžuji."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:954
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:954:DefaultText"
 msgid "But you- argh! It's always like this with you tramp freighter captains!"
-msgstr ""
+msgstr "Ale ty... Takhle to s vámi, kapitány trampských nákladních lodí, chodí vždycky!"
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:955
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:955:DefaultText"
 msgid "Hah. How charming you are."
-msgstr ""
+msgstr "Hah. Jsi okouzlující."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:956
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:956:DefaultText"
 msgid "I have. I'd like to turn Phineas over now."
-msgstr ""
+msgstr "Mám. Rád bych teď Phinease předal."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:957
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:957:DefaultText"
 msgid "Hah! Got you again."
-msgstr ""
+msgstr "Hah! Zase jsem tě dostal."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:958
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:958:DefaultText"
 msgid "You absolute rascal!"
-msgstr ""
+msgstr "Ty naprostý darebáku!"
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:959
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:959:DefaultText"
 msgid "Never mind."
-msgstr ""
+msgstr "Nevadí."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:960
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:960:DefaultText"
 msgid "Well, once you've tired of your jokes, you know where to find me."
-msgstr ""
+msgstr "Až tě přestanou bavit tvoje vtipy, víš, kde mě najdeš."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:970
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:970:DefaultText"
 msgid "What's Byzantium like?"
-msgstr ""
+msgstr "Jaká je Byzanc?"
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:971
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:971:DefaultText"
 msgid "It's, ah, very clean. There are lovely... plants?"
-msgstr ""
+msgstr "Je to velmi čisté. Jsou tu krásné... rostliny?"
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:973
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:973:DefaultText"
 msgid "So you pawned your seal to Gladys to fund your serials. Why should I care?"
-msgstr ""
+msgstr "Takže jsi dal Gladys do zástavy svou pečeť, abys mohl financovat své seriály. Proč by mě to mělo zajímat?"
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:974
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:974:DefaultText"
 msgid "I'll help you get that seal back, Udom."
-msgstr ""
+msgstr "Pomůžu ti získat tu pečeť zpátky, Udome."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:975
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:975:DefaultText"
 msgid "This is ridiculous. I'm done here."
-msgstr ""
+msgstr "To je směšné. Tady jsem skončil."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:979
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:979:DefaultText"
 msgid "I know where to find Phineas Welles."
-msgstr ""
+msgstr "Vím, kde najdu Phinease Wellese."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:980
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:980:DefaultText"
 msgid "Why is the Board so interested in Welles, anyway?"
-msgstr ""
+msgstr "Proč se vlastně rada tolik zajímá o Wellese?"
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:981
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:981:DefaultText"
 msgid "Alex never mentioned Phineas Welles."
-msgstr ""
+msgstr "Alex se nikdy nezmínil o Phineasi Wellesovi."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:982
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:982:DefaultText"
 msgid "You haven't read the posters? He's a terrorist. A thief. A madman! It's really in the colony's best interest that we stop him before he does further harm."
-msgstr ""
+msgstr "Nečetl jste plakáty? Je to terorista. Zloděj. Šílenec! Je opravdu v nejlepším zájmu kolonie, abychom ho zastavili, než napáchá další škody."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:983
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:983:DefaultText"
 msgid "That's- well, that's just terrible news. Law, what am I going to do now? The Board will have my head."
-msgstr ""
+msgstr "To je... no, to je prostě hrozná zpráva. Lawe, co teď budu dělat? Rada bude mít mou hlavu."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:984
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:984:DefaultText"
 msgid "I'm sorry. This is terribly unprofessional of me. Is there anything else I might help you with?"
-msgstr ""
+msgstr "Omlouvám se. Je to ode mě strašně neprofesionální. Mohu vám ještě s něčím pomoci?"
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:985
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:985:DefaultText"
 msgid "My three favorite words."
-msgstr ""
+msgstr "Moje tři oblíbená slova."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:987
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:987:DefaultText"
 msgid "You might not wanna say that too loud, Captain. Even around here."
-msgstr ""
+msgstr "Možná byste to neměl říkat příliš nahlas, kapitáne. Ani tady."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:988
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:988:DefaultText"
 msgid "As eloquent as ever, Captain..."
-msgstr ""
+msgstr "Jako vždy výmluvný, kapitáne..."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:989
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:989:DefaultText"
 msgid "Unless they're paying us. Then, yeah, fuck the Board!"
-msgstr ""
+msgstr "Pokud nám neplatí. Pak ano, kašlu na představenstvo!"
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:990
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:990:DefaultText"
 msgid "Why do you think I'd know anything about Welles?"
-msgstr ""
+msgstr "Proč si myslíte, že bych měl něco vědět o Wellesovi?"
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:991
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:991:DefaultText"
 msgid "Well, Alex knew - or he said he did - and you have his ship. Maybe he kept some records around. Or a conveniently placed note on his bedside table?"
-msgstr ""
+msgstr "Alex to věděl - nebo to alespoň tvrdil - a vy máte jeho loď. Možná si nechal nějaké záznamy. Nebo příhodně umístěný vzkaz na nočním stolku?"
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:992
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:992:DefaultText"
 msgid "Sophia and I are already acquainted."
-msgstr ""
+msgstr "Se Sophií se už známe."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:993
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:993:DefaultText"
 msgid "A marvelous woman, the very soul of wit and joie de vivre. And so capable!"
-msgstr ""
+msgstr "Úžasná žena, která je duší vtipu a radosti ze života. A tak schopná!"
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:996
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:996:DefaultText"
 msgid "You keep doing Bedford's job for him, and he's gonna feel real useless."
-msgstr ""
+msgstr "Když budeš dělat Bedfordovu práci za něj, bude se cítit opravdu zbytečný."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:998
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:998:DefaultText"
 msgid "The Captain's a big deal like that. Aren't you, Captain?"
-msgstr ""
+msgstr "Kapitán je taková velká věc. Že ano, kapitáne?"
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:1000
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:1000:DefaultText"
 msgid "You would do well to not judge people based on their... somewhat unrefined exteriors."
-msgstr ""
+msgstr "Bylo by dobré nesoudit lidi podle jejich... poněkud nenápaditého zevnějšku."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:1001
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:1001:DefaultText"
 msgid "Truth be told, I'm not the best person to ask. Though I spent my boyhood behind its glimmering walls, I found its prettiness rather... lonely."
-msgstr ""
+msgstr "Popravdě řečeno, nejsem ten nejlepší člověk, kterého bych se na to mohl zeptat. Ačkoli jsem strávil své chlapectví za jeho třpytivými zdmi, připadala mi jeho krása poněkud... osamělá."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:1002
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:1002:DefaultText"
 msgid "I've told you how I feel about Byzantium. All the hurry and expanse of the city - it's quite lonely. But beautiful, too, in its way."
-msgstr ""
+msgstr "Řekl jsem vám, co si myslím o Byzanci. Všechen ten spěch a rozlehlost města - je to docela osamělé. Ale svým způsobem také krásné."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:1003
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:1003:DefaultText"
 msgid "Which is not to dissuade you from visiting! You'd probably like it. In fact, I bet you'd fit right in. Not like me. Weird, little me."
-msgstr ""
+msgstr "Což vás od návštěvy neodradí! Pravděpodobně se vám bude líbit. Vlastně se vsadím, že bys tam zapadl. Ne jako já. Divné, malé já."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:1004
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:1004:DefaultText"
 msgid "You're right. I'm sorry."
-msgstr ""
+msgstr "Máte pravdu. Omlouvám se."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:1005
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:1005:DefaultText"
 msgid "No, I should apologize. I can't help being rather on edge - I really do need that seal, you see. Rather desperately."
-msgstr ""
+msgstr "Ne, měl bych se omluvit. Nemůžu si pomoct, jsem poněkud nervózní - opravdu potřebuji tu pečeť, víte. Docela zoufale."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:1006
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:1006:DefaultText"
 msgid "You did. I'm sorry for giving you a hard time."
-msgstr ""
+msgstr "Udělal jsi to. Omlouvám se, že jsem ti to ztížila."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:1007
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:1007:DefaultText"
 msgid "Oh! It's quite all right. I'm used to it."
-msgstr ""
+msgstr "To je v pořádku. Jsem na to zvyklý."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:1008
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:1008:DefaultText"
 msgid "Hah! Got you!"
-msgstr ""
+msgstr "Hah! Mám tě!"
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:1009
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:1009:DefaultText"
 msgid "Yes, well, we can't all be as dashing and capable as you, can we? There must be dirt for flowers to grow. So to speak."
-msgstr ""
+msgstr "Ano, všichni nemůžeme být tak šviháci a schopní jako vy, že? Aby mohly růst květiny, musí být hlína. Tak říkajíc."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:1010
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:1010:DefaultText"
 msgid "I fixed it, actually."
-msgstr ""
+msgstr "Vlastně jsem to opravil."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:1011
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:1011:DefaultText"
 msgid "Wasn't the whole overheating problem your fault to begin with?"
-msgstr ""
+msgstr "Nebyl celý problém s přehříváním na začátku vaše chyba?"
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:1012
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:1012:DefaultText"
 msgid "I owe you a debt, then! I was going through three, four shirts a day. Still, that Tennyson woman..."
-msgstr ""
+msgstr "Tak to jsem tvým dlužníkem! Denně jsem vyměnil tři, čtyři košile. Ale ta Tennysonová..."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:1013
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:1013:DefaultText"
 msgid "Gracious, no. I can't imagine what gave you that idea. I only facilitated communication between the Board and Chief Tennyson. It's not my fault she was stubborn."
-msgstr ""
+msgstr "Milostivě, ne. Nedokážu si představit, co tě na to přivedlo. Pouze jsem zprostředkoval komunikaci mezi představenstvem a náčelníkem Tennysonem. Není moje chyba, že byla tvrdohlavá."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:1017
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:1017:DefaultText"
 msgid "Aw, Captain, be nice."
-msgstr ""
+msgstr "Kapitáne, buďte hodný."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:1018
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:1018:DefaultText"
 msgid "Captain, stop pulling the man's leg."
-msgstr ""
+msgstr "Kapitáne, přestaňte ho tahat za nos."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:1020
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:1020:DefaultText"
 msgid "To give away somethin' so important to you... they must've been some curious reasons."
-msgstr ""
+msgstr "Vzdát se něčeho tak důležitého... to musely být zvláštní důvody."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:1024
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:1024:DefaultText"
 msgid "Stray too much from the, ah, straight and narrow, and one may just find himself... assigned pastoral duty in a maximum security penitentiary. "
-msgstr ""
+msgstr "Pokud se příliš odchýlíte od přímého směru, můžete se ocitnout... ve věznici s maximální ostrahou. "
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:1025
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:1025:DefaultText"
 msgid "I'll thank you not to question my motives, young miss. It was a mistake, and I'd like to put it behind me."
-msgstr ""
+msgstr "Děkuji vám, že nezpochybňujete mé motivy, mladá slečno. Byla to chyba a rád bych ji hodil za hlavu."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:1026
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:1026:DefaultText"
 msgid "Yes, please do. I have a fragile constitution, I'll have you know, and this run-around is like to give me a cold."
-msgstr ""
+msgstr "Ano, prosím. Mám křehkou konstituci, to vám musím říct, a z tohohle pobíhání bych mohl nastydnout."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:1027
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:1027:DefaultText"
 msgid "On second thought, maybe you should be mean to him just the littlest bit."
-msgstr ""
+msgstr "Když o tom tak přemýšlím, možná bys na něj měla být zlá jen trochu."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:1028
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:1028:DefaultText"
 msgid "Well, at least one of you is capable of showing appropriate deference to a man of my standing."
-msgstr ""
+msgstr "Alespoň jeden z vás je schopen projevit muži mého postavení patřičnou úctu."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:1029
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:1029:DefaultText"
 msgid "I recant my earlier statement. Mr. Bedford deserves what he gets."
-msgstr ""
+msgstr "Odvolávám své předchozí prohlášení. Pan Bedford si zaslouží, co dostane."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:1031
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:1031:DefaultText"
 msgid "Oh, gosh. That's quite a goof, sir. If you don't mind me saying."
-msgstr ""
+msgstr "Ach, bože. To je pěkná blbost, pane. Jestli vám nevadí, že to říkám."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:1032
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:1032:DefaultText"
 msgid "I'm very well aware."
-msgstr ""
+msgstr "Jsem si toho velmi dobře vědom."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:1033
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:1033:DefaultText"
 msgid "Architect have mercy, you don't possess a lick of sense, do you?"
-msgstr ""
+msgstr "Architect have mercy, nemáte ani špetku rozumu, že?"
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:1034
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:1034:DefaultText"
 msgid "You can't say anything worse to me than what I've already said to myself."
-msgstr ""
+msgstr "Nemůžeš mi říct nic horšího, než co jsem už řekl sám sobě."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:1036
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:1036:DefaultText"
 msgid "That was you?! Oh my stars. \"All My Colonists\" is just- well, it gave me a story hangover for days, Mr. Udom."
-msgstr ""
+msgstr "To jsi byl ty?! Ach, moje hvězdy. \"Všichni moji kolonisté\" je prostě... no, z toho jsem měl několikadenní povídkovou kocovinu, pane Udome."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:1037
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:1037:DefaultText"
 msgid "You risked your career for CONTRABAND WRITING?! I'll admit... I find a touch of irony in that considering my own circumstances."
-msgstr ""
+msgstr "Riskoval jsi kariéru kvůli psaní pro KONTRABAND?! Přiznávám... Vzhledem k mým vlastním okolnostem v tom nacházím trochu ironie."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:1038
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:1038:DefaultText"
 msgid "You're a fan? I've never met one in the flesh! I suddenly feel quite naked."
-msgstr ""
+msgstr "Jste fanoušek? Nikdy jsem žádného nepotkal naživo! Najednou si připadám úplně nahý."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:1039
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:1039:DefaultText"
 msgid "You- you couldn't understand! The solace they bring to the people of this colony, the adoring messages they send me - it's worth every expenditure!"
-msgstr ""
+msgstr "Ty... ty jsi to nemohl pochopit! Útěcha, kterou přinášejí lidem v této kolonii, obdivné vzkazy, které mi posílají - stojí to za každou útratu!"
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:1040
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:1040:DefaultText"
 msgid "It's all right, Mr. Udom. I don't judge."
-msgstr ""
+msgstr "To je v pořádku, pane Udome. Já vás nesoudím."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:1041
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:1041:DefaultText"
 msgid "I understand your frustration, young miss. I do. But the situation is... complicated. I will leave it at that."
-msgstr ""
+msgstr "Chápu vaši frustraci, mladá slečno. Chápu. Ale situace je... komplikovaná. Nechám to tak."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:1043
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:1043:DefaultText"
 msgid "Maybe you should have considered that before selling it."
-msgstr ""
+msgstr "Možná jste to měli zvážit, než jste ho prodali."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:1044
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:1044:DefaultText"
 msgid "I've castigated myself quite enough already, thank you! I don't need your help!"
-msgstr ""
+msgstr "Už jsem si toho vyčítal dost, děkuji! Nepotřebuji vaši pomoc!"
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:1045
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:1045:DefaultText"
 msgid "Now, how might I assist you?"
-msgstr ""
+msgstr "Jak vám mohu pomoci?"
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:1047
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:1047:DefaultText"
 msgid "I doubt Mr. Bedford's ever felt real pain. We could introduce him to the sort of suffering that actually constitutes \"extreme\" anguish. For the good of his understanding, of course."
-msgstr ""
+msgstr "Pochybuji, že pan Bedford někdy pocítil skutečnou bolest. Mohli bychom ho seznámit s druhem utrpení, které skutečně představuje \"extrémní\" úzkost. Pro dobro jeho chápání, samozřejmě."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:1048
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:1048:DefaultText"
 msgid "Nice one, Bedford. Everybody knows you were never engineered to have feelings."
-msgstr ""
+msgstr "Pěkné, Bedforde. Všichni vědí, že jsi nikdy nebyl zkonstruován tak, abys měl city."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:1050
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:1050:DefaultText"
 msgid "Boss, you can't be serious. The Board's got no right to just enslave another human being."
-msgstr ""
+msgstr "Šéfe, to nemyslíte vážně. Rada nemá právo jen tak zotročit jiného člověka."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:1051
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:1051:DefaultText"
 msgid "That's where you're wrong, young man."
-msgstr ""
+msgstr "V tom se mýlíte, mladý muži."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:1052
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:1052:DefaultText"
 msgid "I guess it's better than losing your organs, but... I dunno, Captain. Just doesn't seem right."
-msgstr ""
+msgstr "Asi je to lepší než přijít o orgány, ale... Nevím, kapitáne. Prostě mi to nepřijde správné."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:1053
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:1053:DefaultText"
 msgid "Ms. Doyle is deeply in debt - and the Board has every right to do whatever they like to recoup that debt."
-msgstr ""
+msgstr "Paní Doyleová je hluboce zadlužená - a správní rada má plné právo udělat cokoli, aby tento dluh uhradila."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:1054
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:1054:DefaultText"
 msgid "Ms. Doyle is deeply in debt - and the Board has every right to do whatever they like to recoup that debt."
-msgstr ""
+msgstr "Paní Doyleová je hluboce zadlužená - a správní rada má plné právo udělat cokoli, aby tento dluh uhradila."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:1056
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:1056:DefaultText"
 msgid "Kind and efficient. Can't say I disapprove. Although... seeing as this woman isn't a member of our crew, it'd be nice if the price weren't *quite* so high."
-msgstr ""
+msgstr "Laskavý a efektivní. Nemůžu říct, že bych nesouhlasil. I když... vzhledem k tomu, že tato žena není členem naší posádky, bylo by hezké, kdyby cena nebyla tak vysoká."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:1058
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:1058:DefaultText"
 msgid "I believe the Captain is proposing an indenture contract."
-msgstr ""
+msgstr "Domnívám se, že kapitán navrhuje smlouvu o zprostředkování."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:1059
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:1059:DefaultText"
 msgid "Guess that's the Board's idea of compensation."
-msgstr ""
+msgstr "To je asi představa správní rady o kompenzaci."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:1060
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:1060:DefaultText"
 msgid "I got your seal back. Doesn't that count for something?"
-msgstr ""
+msgstr "Dostal jsem zpět tvou pečeť. Nepočítá se to za něco?"
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:1061
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:1061:DefaultText"
 msgid "An eminently fair point, my friend. And with my seal returned, I can stamp all KINDS of documents."
-msgstr ""
+msgstr "To je naprosto správná poznámka, příteli. A s vrácenou pečetí mohu razítkovat nejrůznější dokumenty."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:1062
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:1062:DefaultText"
 msgid "Such as this debt relief order. Which, if anyone asks, doesn't exist. The very concept is anathema!"
-msgstr ""
+msgstr "Jako je tento příkaz k oddlužení. Který, pokud se někdo ptá, neexistuje. Samotný pojem je anathema!"
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:1063
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:1063:DefaultText"
 msgid "Here you are. See that Ms. Doyle signs and returns this form to me. Let's never speak of this again."
-msgstr ""
+msgstr "Tady máte. Dohlédněte na to, aby mi paní Doylová tento formulář podepsala a vrátila. Už o tom nikdy nebudeme mluvit."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:1065
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:1065:DefaultText"
 msgid "So Bedford ain't above getting his palms greased. Who knew?"
-msgstr ""
+msgstr "Takže Bedford si nenechává mastit dlaně. Kdo by to byl řekl?"
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:1066
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:1066:DefaultText"
 msgid "Nothing like bureaucracy to enable small men to wave pretend power around. At least something good came out of it this time."
-msgstr ""
+msgstr "Není nad byrokracii, která umožňuje malým mužům mávat předstíranou mocí. Alespoň něco dobrého z toho tentokrát vzešlo."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:1067
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:1067:DefaultText"
 msgid "I'm glad we could do right by that lady, Captain. Real glad."
-msgstr ""
+msgstr "Jsem rád, že jsme té dámě mohli udělat dobře, kapitáne. Opravdu rád."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:1068
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:1068:DefaultText"
 msgid "I am impressed, Mr. Bedford. Indeed, you harbor a benevolent heart. I'm sure Dr. Fenhill will be quite pleased to have Ms. Doyle's debt erased."
-msgstr ""
+msgstr "Jsem ohromen, pane Bedforde. Vskutku chováte laskavé srdce. Jsem si jistý, že doktor Fenhill bude docela rád, že dluh slečny Doylové bude smazán."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:1069
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:1069:DefaultText"
 msgid "This never happened."
-msgstr ""
+msgstr "To se nikdy nestalo."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:1070
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:1070:DefaultText"
 msgid "Thanks, Udom."
-msgstr ""
+msgstr "Díky, Udom."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:1071
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:1071:DefaultText"
 msgid "That's the spirit!"
-msgstr ""
+msgstr "To je ten správný duch!"
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:1072
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:1072:DefaultText"
 msgid "Would you PLEASE ask your compatriots to lower their voices?"
-msgstr ""
+msgstr "Mohl byste prosím požádat své krajany, aby ztišili hlas?"
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:1073
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:1073:DefaultText"
 msgid "Would you PLEASE ask your compatriot to lower their voice?"
-msgstr ""
+msgstr "Mohl byste prosím požádat svého krajana, aby ztišil hlas?"
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:1074
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:1074:DefaultText"
 msgid "This was the least you could do."
-msgstr ""
+msgstr "To bylo to nejmenší, co jste mohli udělat."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:1075
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:1075:DefaultText"
 msgid "On the contrary, this act of charity could cost me a great deal! But I'm sure nothing will come of it. You're trustworthy - I can tell."
-msgstr ""
+msgstr "Naopak, tento akt dobročinnosti by mě mohl stát hodně! Ale jsem si jistý, že z toho nic nebude. Jsi důvěryhodný - to poznám."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:1076
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:1076:DefaultText"
 msgid "You are most welcome, my friend."
-msgstr ""
+msgstr "Není zač, příteli."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:1077
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:1077:DefaultText"
 msgid "Law, what am I going to do now? The Board will have my head."
-msgstr ""
+msgstr "Právo, co mám teď dělat? Rada bude mít mou hlavu."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:1078
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:1078:DefaultText"
 msgid "Be careful you don't irritate my guards, Mr. Millstone. You might not like their rather narrow understanding of what constitutes \"excessive\" force."
-msgstr ""
+msgstr "Dávejte pozor, abyste nedráždil mé stráže, pane Millstone. Nemuselo by se vám líbit jejich poměrně úzké chápání toho, co je \"nadměrná\" síla."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:1079
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:1079:DefaultText"
 msgid "Ah, yes, of course a person of your sparkling caliber already knows Ms. Akande. Forgive me for assuming otherwise."
-msgstr ""
+msgstr "Ach, ano, samozřejmě, že člověk vašeho jiskřivého kalibru už paní Akande zná. Odpusťte mi, že jsem předpokládal opak."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:1080
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:1080:DefaultText"
 msgid "I'll thank you not to be too quick to judge, good sir. It was a mistake, and I'd like to put it behind me."
-msgstr ""
+msgstr "Děkuji vám, abyste nesoudil příliš rychle, dobrý pane. Byla to chyba a rád bych ji hodil za hlavu."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:1081
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:1081:DefaultText"
 msgid "Be careful you don't irritate my guards, Vicar. You might not like their rather narrow understanding of what constitutes \"excessive\" force."
-msgstr ""
+msgstr "Dávejte pozor, abyste nedráždil mé stráže, pane faráři. Nemuselo by se vám líbit jejich poměrně úzké chápání toho, co je \"nadměrná\" síla."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:1082
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:1082:DefaultText"
 msgid "Now, let's get back to business, hm?"
-msgstr ""
+msgstr "Vraťme se k práci, hm?"
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:1083
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:1083:DefaultText"
 msgid "The heart wants what it wants, as they say. And mine yearns for the adoration of the masses - held at a comfortable distance, of course."
-msgstr ""
+msgstr "Srdce chce, co chce, jak se říká. A to moje touží po obdivu mas - samozřejmě v pohodlné vzdálenosti."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:1084
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:1084:DefaultText"
 msgid "I've met circus sprats possessed of better manners."
-msgstr ""
+msgstr "Už jsem potkal cirkusové šprty, kteří měli lepší způsoby."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:1085
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:1085:DefaultText"
 msgid "Now, was there anything else?"
-msgstr ""
+msgstr "Bylo tam ještě něco dalšího?"
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:1087
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:1087:DefaultText"
 msgid "Now, did you need anything else?"
-msgstr ""
+msgstr "Potřeboval jste ještě něco?"
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:1088
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:1088:DefaultText"
 msgid "Was there something else, or may I get back to my work?"
-msgstr ""
+msgstr "Bylo tam ještě něco jiného, nebo se mohu vrátit ke své práci?"
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:1089
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:1089:DefaultText"
 msgid "Was there something else, or may I get back to my work?"
-msgstr ""
+msgstr "Bylo tam ještě něco jiného, nebo se mohu vrátit ke své práci?"
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:1090
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:1090:DefaultText"
 msgid "I'm sorry. This is terribly unprofessional of me. Is there anything else I might help you with?"
-msgstr ""
+msgstr "Omlouvám se. Je to ode mě strašně neprofesionální. Mohu vám ještě s něčím pomoci?"
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:1091
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:1091:DefaultText"
 msgid "What's this about the Board having your head?"
-msgstr ""
+msgstr "Co to má znamenat, že rada má tvou hlavu?"
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:1092
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:1092:DefaultText"
 msgid "It's personal business, I'm afraid. Miserably, terribly personal."
-msgstr ""
+msgstr "Obávám se, že je to osobní záležitost. Mizerně, strašně osobní."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:1093
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:1093:DefaultText"
 msgid "Stop playing coy, Bedford."
-msgstr ""
+msgstr "Přestaň si hrát na ostýchavého, Bedforde."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:1094
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:1094:DefaultText"
 msgid "Fine, have it your way."
-msgstr ""
+msgstr "Dobře, ať je po tvém."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:1095
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:1095:DefaultText"
 msgid "Is there anything I can do to help?"
-msgstr ""
+msgstr "Mohu nějak pomoci?"
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:1096
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:1096:DefaultText"
 msgid "I hope you don't take my reticence the wrong way. I shouldn't have said anything. Now, how might I assist you?"
-msgstr ""
+msgstr "Doufám, že si mou zdrženlivost nevyložíte špatně. Neměl jsem nic říkat. Jak vám mohu pomoci?"
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:1097
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:1097:DefaultText"
 msgid "I don't intend to be. It's just a matter of trust."
-msgstr ""
+msgstr "Nemám to v úmyslu. Je to jen otázka důvěry."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:1098
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:1098:DefaultText"
 msgid "How can I win your trust, then?"
-msgstr ""
+msgstr "Jak si tedy mohu získat vaši důvěru?"
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:1100
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:1100:DefaultText"
 msgid "Information on the whereabouts of Phineas Welles would go a long way. It's- well, it's my white whale, I suppose."
-msgstr ""
+msgstr "Informace o tom, kde se Phineas Welles nachází, by byly velmi užitečné. Je to... no, je to moje bílá velryba, předpokládám."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:1101
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:1101:DefaultText"
 msgid "All right, I'll tell you where Welles is."
-msgstr ""
+msgstr "Dobře, řeknu vám, kde je Welles."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:1103
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:1103:DefaultText"
 msgid "I can't tell you where Welles is."
-msgstr ""
+msgstr "Nemohu vám říct, kde Welles je."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:1105
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:1105:DefaultText"
 msgid "It's fine. Really, it's perfectly fine. I understand."
-msgstr ""
+msgstr "To je v pořádku. Opravdu, je to naprosto v pořádku. Chápu to."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:1106
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:1106:DefaultText"
 msgid "Now, if you've nothing else, please see yourself out. I'd like to drown myself in work."
-msgstr ""
+msgstr "Pokud nemáte nic jiného, vyprovoďte se, prosím, sami. Rád bych se utopil v práci."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:1109
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:1109:DefaultText"
 msgid "Mind your mouth. I got your seal back, remember?"
-msgstr ""
+msgstr "Dávejte si pozor na ústa. Dostal jsem zpátky tvou pečeť, pamatuješ?"
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:1110
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:1110:DefaultText"
 msgid "Watch your tongue. Or did you not need your seal back after all?"
-msgstr ""
+msgstr "Dávejte si pozor na jazyk. Nebo jsi nakonec nepotřeboval zpět svou pečeť?"
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:1112
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:1112:DefaultText"
 msgid "O-of course. Right."
-msgstr ""
+msgstr "Samozřejmě. Vpravo."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:1113
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:1113:DefaultText"
 msgid "You've got some gall, talking me to like that after I got your seal for you."
-msgstr ""
+msgstr "Jsi pěkně drzý, když jsi mě takhle přemlouval, když jsem pro tebe získal tvou pečeť."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:1119
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:1119:DefaultText"
 msgid "Oh! I'm not used to folks sayin' sorry. Um, it's... not all right, exactly, but I appreciate the apology? I guess?"
-msgstr ""
+msgstr "Nejsem zvyklý, aby se lidé omlouvali. Hm, to... není úplně v pořádku, ale oceňuji omluvu. Myslím, že ano."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:1120
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:1120:DefaultText"
 msgid "And you- you're out of your depth. The halls of power are no place for you."
-msgstr ""
+msgstr "A ty... jsi mimo svou hloubku. Síně moci pro tebe nejsou místem."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:1123
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:1123:DefaultText"
 msgid "Well. Now that that's dealt with, was there anything else you wanted to discuss?"
-msgstr ""
+msgstr "Dobře. Když už jsme to vyřešili, chtěl jste ještě něco probrat?"
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:1125
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:1125:DefaultText"
 msgid "How- how rude!"
-msgstr ""
+msgstr "Jak... jak neslušné!"
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:1127
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:1127:DefaultText"
 msgid "And, and- your mustache looks like a mantipillar left droppings on your face!"
-msgstr ""
+msgstr "A navíc tvůj knír vypadá, jako by ti na tváři zanechal trus mantipillar!"
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:1128
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:1128:DefaultText"
 msgid "Forget it. I'm done talking to you."
-msgstr ""
+msgstr "Zapomeňte na to. Už s tebou nemluvím."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:1129
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:1129:DefaultText"
 msgid "Apologize, Udom. Or this is gonna get dirty."
-msgstr ""
+msgstr "Omluv se, Udome. Nebo se to ušpiní."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:1130
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:1130:DefaultText"
 msgid "Very good. See yourself out."
-msgstr ""
+msgstr "Velmi dobré. Vyjděte ven."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:1131
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:1131:DefaultText"
 msgid "Ah, please accept my humblest apologies, miss, for insulting Ms. Tennyson."
-msgstr ""
+msgstr "Přijměte, prosím, mou nejpokornější omluvu, slečno, za urážku paní Tennysonové."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:1132
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:1132:DefaultText"
 msgid "That's CHIEF Tennyson."
-msgstr ""
+msgstr "To je náčelník Tennyson."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:1133
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:1133:DefaultText"
 msgid "I'm sorry for insulting Chief Tennyson. And for insulting you. Now, please see yourself out. Good day."
-msgstr ""
+msgstr "Omlouvám se za urážku náčelníka Tennysona. A za urážku vás. Teď se prosím vypravte ven. Hezký den."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:1136
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:1136:DefaultText"
 msgid "I'm sorry, my temper got away from me. Please accept my sincerest apologies, to you *and* your friend."
-msgstr ""
+msgstr "Omlouvám se, vyvedla mě z míry moje nálada. Přijměte prosím mou nejupřímnější omluvu, vám i vašemu příteli."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:1137
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:1137:DefaultText"
 msgid "You think the big wigs in Byzantium sent you thousands of miles away just 'cause they like you so much? I'll bet they were tryin' to get rid of you!"
-msgstr ""
+msgstr "Myslíš, že tě velcí v Byzanci poslali tisíce mil daleko jen proto, že tě mají tak rádi? Vsadím se, že se tě chtěli zbavit!"
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:1149
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:1149:DefaultText"
 msgid "Does that work for you, Parvati?"
-msgstr ""
+msgstr "Vyhovuje ti to, Parvati?"
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:1152
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:1152:DefaultText"
 msgid "Junlei doesn't need you to defend her honor."
-msgstr ""
+msgstr "Junlei nepotřebuje, abys bránil její čest."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:1153
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:1153:DefaultText"
 msgid "Just don't like this walking mustache speakin' rude of her, is all. Not after all she's given up for this station. But... I 'spose you're right."
-msgstr ""
+msgstr "Jen se mi nelíbí, že o ní ten chodící knír mluví hrubě, to je všechno. Ne po tom všem, co pro tuhle stanici obětovala. Ale... Myslím, že máš pravdu."
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:1154
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:1154:DefaultText"
 msgid "Well, now that that's dealt with, might we get back to business?"
-msgstr ""
+msgstr "Když už jsme se s tím vypořádali, můžeme se vrátit k práci?"
 
 #: conversations/01_groundbreaker/01_cv_bedford_udom:1157
 msgctxt "conversations/01_groundbreaker/01_cv_bedford_udom:1157:DefaultText"
 msgid "So, about Phineas."
-msgstr ""
+msgstr "O Phineasovi."

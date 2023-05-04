@@ -1,178 +1,180 @@
 #: quests/companions/cq_vicar_max:0
 msgctxt "quests/companions/cq_vicar_max:0:DefaultText"
 msgid "The Empty Man"
-msgstr ""
+msgstr "Prázdný muž"
 
 #: quests/companions/cq_vicar_max:1
 msgctxt "quests/companions/cq_vicar_max:1:DefaultText"
 msgid "Track Down Reginald Chaney"
-msgstr ""
+msgstr "Vystopujte Reginalda Chaneyho"
 
 #: quests/companions/cq_vicar_max:2
 msgctxt "quests/companions/cq_vicar_max:2:DefaultText"
 msgid "Take Max to the Hermit on Scylla"
-msgstr ""
+msgstr "Vezměte Maxe k poustevníkovi na ostrově Scylla"
 
 #: quests/companions/cq_vicar_max:4
 msgctxt "quests/companions/cq_vicar_max:4:DefaultText"
 msgid "Join Max on his Vision Quest"
-msgstr ""
+msgstr "Připojte se k Maxovi na jeho cestě za vizí"
 
 #: quests/companions/cq_vicar_max:5
 msgctxt "quests/companions/cq_vicar_max:5:DefaultText"
 msgid "Help Max Fulfill his Vision Quest"
-msgstr ""
+msgstr "Pomozte Maxovi splnit jeho vizi"
 
 #: quests/companions/cq_vicar_max:6
 msgctxt "quests/companions/cq_vicar_max:6:DefaultText"
 msgid "Check on Max's Mental State"
-msgstr ""
+msgstr "Kontrola Maxova duševního stavu"
 
 #: quests/companions/cq_vicar_max:8
 msgctxt "quests/companions/cq_vicar_max:8:DefaultText"
 msgid "Talk to Max"
-msgstr ""
+msgstr "Promluvte si s Maxem"
 
 #: quests/companions/cq_vicar_max:12
 msgctxt "quests/companions/cq_vicar_max:12:DefaultText"
 msgid "Partake in the Meditative Aid to Join Max on his Vision Quest"
-msgstr ""
+msgstr "Zapojte se do meditační pomoci a připojte se k Maxovi na jeho cestě za vizí"
 
 #: quests/companions/cq_vicar_max:14
 msgctxt "quests/companions/cq_vicar_max:14:DefaultText"
 msgid "Speak with Max"
-msgstr ""
+msgstr "Promluvte si s Maxem"
 
 #: quests/companions/cq_vicar_max:15
 msgctxt "quests/companions/cq_vicar_max:15:DefaultText"
 msgid "Locate a Security Terminal on the Groundbreaker"
-msgstr ""
+msgstr "Vyhledání bezpečnostního terminálu na zařízení Groundbreaker"
 
 #: quests/companions/cq_vicar_max:16
 msgctxt "quests/companions/cq_vicar_max:16:DefaultText"
 msgid "Give the Data Cartridge to Vicar Max"
-msgstr ""
+msgstr "Předejte datovou kazetu faráři Maxovi"
 
 #: quests/companions/cq_vicar_max:17
 msgctxt "quests/companions/cq_vicar_max:17:DefaultText"
 msgid "Remove the Data Cartridge from the Terminal"
-msgstr ""
+msgstr "Vyjmutí datové kazety z terminálu"
 
 #: quests/companions/cq_vicar_max:18
 msgctxt "quests/companions/cq_vicar_max:18:DefaultText"
 msgid "Search Reginald Chaney's Domicile"
-msgstr ""
+msgstr "Hledání Reginald Chaney's Domicile"
 
 #: quests/companions/cq_vicar_max:19
 msgctxt "quests/companions/cq_vicar_max:19:DefaultText"
 msgid "Find Reginald Chaney"
-msgstr ""
+msgstr "Najít Reginalda Chaneyho"
 
 #: quests/companions/cq_vicar_max:10000
 msgctxt "quests/companions/cq_vicar_max:10000:DefaultText"
 msgid "Vicar Max believes the book you retrieved for him in Emerald Vale holds the key to his enlightenment. He has requested your help in tracking down someone who can decipher its contents."
-msgstr ""
+msgstr "Vikář Max věří, že kniha, kterou jste pro něj získali ve Smaragdovém údolí, je klíčem k jeho osvícení. Požádal tě o pomoc při hledání někoho, kdo by dokázal rozluštit její obsah."
 
 #: quests/companions/cq_vicar_max:10001
 msgctxt "quests/companions/cq_vicar_max:10001:DefaultText"
 msgid "Vicar Max has tracked the scholar to a rented domicile in Fallbrook on Monarch. Take Max to visit Reginald Chaney and ask him about the banned journal."
-msgstr ""
+msgstr "Vikář Max vystopoval učence do pronajatého domu ve Fallbrooku na Monarchu. Vezměte Maxe za Reginaldem Chaneym a zeptejte se ho na zakázaný deník."
 
 #: quests/companions/cq_vicar_max:10002
 msgctxt "quests/companions/cq_vicar_max:10002:DefaultText"
 msgid "The \"scholar\" turned out to be someone else entirely - an ex-con Max met in prison. But through Reginald, you were able to learn that the journal was originally the property of a Philosophist who rusticates in a life of hermitage on Scylla. \n"
 "\n"
 "Vicar Max wants to talk to this hermit."
-msgstr ""
+msgstr "Z \"učence\" se vyklubal někdo úplně jiný - bývalý trestanec, kterého Max potkal ve vězení. Díky Reginaldovi jste se však mohli dozvědět, že deník původně patřil jistému filosofovi, který žije poustevnickým životem na Scylle. \n"
+"\n"
+"Vikář Max si chce s tímto poustevníkem promluvit."
 
 #: quests/companions/cq_vicar_max:10004
 msgctxt "quests/companions/cq_vicar_max:10004:DefaultText"
 msgid "Enter the hermit's meditation chamber and initiate a vision quest with Vicar Max."
-msgstr ""
+msgstr "Vstupte do poustevníkovy meditační komnaty a zahajte s farářem Maxem výpravu za viděním."
 
 #: quests/companions/cq_vicar_max:10005
 msgctxt "quests/companions/cq_vicar_max:10005:DefaultText"
 msgid "Help Max navigate and fulfill his vision quest by confronting any hallucinations he may encounter during the experience."
-msgstr ""
+msgstr "Pomozte Maxovi projít a splnit jeho vizi tím, že se postavíte halucinacím, se kterými se během zážitku může setkat."
 
 #: quests/companions/cq_vicar_max:10006
 msgctxt "quests/companions/cq_vicar_max:10006:DefaultText"
 msgid "Max appears to have finished hallucinating. Speak to him to determine if he found the answers he was looking for."
-msgstr ""
+msgstr "Zdá se, že Max skončil s halucinacemi. Promluvte si s ním a zjistěte, zda našel odpovědi, které hledal."
 
 #: quests/companions/cq_vicar_max:10008
 msgctxt "quests/companions/cq_vicar_max:10008:DefaultText"
 msgid "The hermit refused Vicar Max's request to undergo a vision quest.\r\n"
 "\r\n"
 "Talk to Max to see how he's holding up."
-msgstr ""
+msgstr "Poustevník odmítl žádost vikáře Maxe, aby podstoupil výpravu za viděním. Promluvte si s Maxem a zjistěte, jak se mu daří."
 
 #: quests/companions/cq_vicar_max:10012
 msgctxt "quests/companions/cq_vicar_max:10012:DefaultText"
 msgid "Enter the hermit's meditation chamber and partake in the meditative aid the hermit has provided in order to experience a vision quest with Vicar Max."
-msgstr ""
+msgstr "Vstupte do poustevníkovy meditační komnaty a využijte meditační pomůcky, kterou vám poustevník poskytl, abyste mohli s vikářem Maxem prožít výpravu za viděním."
 
 #: quests/companions/cq_vicar_max:10014
 msgctxt "quests/companions/cq_vicar_max:10014:DefaultText"
 msgid "Talk to Max to see what he wants to do now."
-msgstr ""
+msgstr "Promluvte si s Maxem a zjistěte, co chce nyní dělat."
 
 #: quests/companions/cq_vicar_max:10015
 msgctxt "quests/companions/cq_vicar_max:10015:DefaultText"
 msgid "Vicar Max wants to track down the scholar who told him about the banned Journal of M. Bakonu in order to translate its writing. If the scholar has been through the Groundbreaker recently, Max thinks he can track him down by accessing a data cartridge from a terminal in the Groundbreaker's security office."
-msgstr ""
+msgstr "Vikář Max chce vypátrat učence, který mu řekl o zakázaném Deníku M. Bakonu, aby mohl přeložit jeho spis. Pokud učenec v poslední době procházel Hromosvodem, Max si myslí, že ho může vypátrat tak, že se dostane k datové kazetě z terminálu v bezpečnostní kanceláři Hromosvodu."
 
 #: quests/companions/cq_vicar_max:10016
 msgctxt "quests/companions/cq_vicar_max:10016:DefaultText"
 msgid "Speak with Max as he hacks the security data cartridge and uses the Groundbreaker's crew manifest departures registry to track the scholar's current whereabouts."
-msgstr ""
+msgstr "Promluvte si s Maxem, který se nabourá do bezpečnostní datové kazety a pomocí registru odletů posádky Groundbreakeru zjistí, kde se učenec právě nachází."
 
 #: quests/companions/cq_vicar_max:10017
 msgctxt "quests/companions/cq_vicar_max:10017:DefaultText"
 msgid "The terminal in the security office should provide a hacker of Max's skill level with access to the Groundbreaker's arrival and departure shipping records."
-msgstr ""
+msgstr "Terminál v bezpečnostní kanceláři by měl hackerovi Maxovy úrovně schopností umožnit přístup k záznamům o příletu a odletu lodi Groundbreaker."
 
 #: quests/companions/cq_vicar_max:10018
 msgctxt "quests/companions/cq_vicar_max:10018:DefaultText"
 msgid "The scholar, Reginald Chaney, isn't at home. Perhaps something in his domicile will provide an indication as to where he's gone."
-msgstr ""
+msgstr "Učenec Reginald Chaney není doma. Snad něco v jeho domě napoví, kam se poděl."
 
 #: quests/companions/cq_vicar_max:10019
 msgctxt "quests/companions/cq_vicar_max:10019:DefaultText"
 msgid "A note in Reginald Chaney's domicile in Fallbrook indicated he's been panning gold from a river on the outskirts of town. Take Max to search for Reginald along the river bed."
-msgstr ""
+msgstr "Vzkaz v domě Reginalda Chaneyho ve Fallbrooku naznačoval, že rýžuje zlato v řece na okraji města. Vezmi Maxe, aby Reginalda hledal podél koryta řeky."
 
 #: quests/companions/cq_vicar_max:20000
 msgctxt "quests/companions/cq_vicar_max:20000:DefaultText"
 msgid "The security terminal on Groundbreaker is in a Restricted Area. Finding a Mardet ID cartridge will allow you to use the Holographic Shroud Phineas told you about to enter and avoid hostilities."
-msgstr ""
+msgstr "Bezpečnostní terminál na základně Groundbreaker se nachází ve vyhrazené oblasti. Nalezení Mardetovy identifikační kazety vám umožní použít holografický plášť, o kterém vám Phineas řekl, abyste vstoupili dovnitř a vyhnuli se nepřátelství."
 
 #: quests/companions/cq_vicar_max:30000
 msgctxt "quests/companions/cq_vicar_max:30000:DefaultText"
 msgid "Max has no hope for obtaining enlightment... because he's dead."
-msgstr ""
+msgstr "Max nemá naději na osvícení, protože je mrtvý."
 
 #: quests/companions/cq_vicar_max:30001
 msgctxt "quests/companions/cq_vicar_max:30001:DefaultText"
 msgid "Thanks to your murderous inclinations, Max will never know the true path to enlightenment."
-msgstr ""
+msgstr "Díky svým vražedným sklonům Max nikdy nepozná pravou cestu k osvícení."
 
 #: quests/companions/cq_vicar_max:30002
 msgctxt "quests/companions/cq_vicar_max:30002:DefaultText"
 msgid "Max could not prove himself to the Hermit. Unable to obtain enlightenment, he renounced his beliefs in the OSI."
-msgstr ""
+msgstr "Max se nemohl Poustevníkovi osvědčit. Protože se mu nepodařilo dosáhnout osvícení, zřekl se své víry v OSI."
 
 #: quests/companions/cq_vicar_max:30003
 msgctxt "quests/companions/cq_vicar_max:30003:DefaultText"
 msgid "Thanks to your help, Max was able to reach a state of enlightenment through the Hermit's vision quest."
-msgstr ""
+msgstr "Díky vaší pomoci se Maxovi podařilo dosáhnout stavu osvícení prostřednictvím Poustevníkova hledání vize."
 
 #: quests/companions/cq_vicar_max:30004
 msgctxt "quests/companions/cq_vicar_max:30004:DefaultText"
 msgid "Unable to obtain enlightenment, Max has renounced his beliefs in the OSI."
-msgstr ""
+msgstr "Max se nedokázal osvítit a zřekl se své víry v OSI."
 
 #: quests/companions/cq_vicar_max:30005
 msgctxt "quests/companions/cq_vicar_max:30005:DefaultText"
 msgid "You and Vicar Max have parted ways."
-msgstr ""
+msgstr "Vaše cesty s vikářem Maxem se rozešly."

@@ -1,89 +1,89 @@
 #: quests/04_monarch/sq_0406_amateuralchemist:0
 msgctxt "quests/04_monarch/sq_0406_amateuralchemist:0:DefaultText"
 msgid "Passion Pills"
-msgstr ""
+msgstr "Pilulky vášně"
 
 #: quests/04_monarch/sq_0406_amateuralchemist:14
 msgctxt "quests/04_monarch/sq_0406_amateuralchemist:14:DefaultText"
 msgid "Get Nyoka's Medicine from the MSI Dispensary"
-msgstr ""
+msgstr "Získejte lék Nyoka's Medicine z lékárny MSI"
 
 #: quests/04_monarch/sq_0406_amateuralchemist:15
 msgctxt "quests/04_monarch/sq_0406_amateuralchemist:15:DefaultText"
 msgid "Return with Nyoka's Caffenoid"
-msgstr ""
+msgstr "Návrat s Nyoka's Caffenoid"
 
 #: quests/04_monarch/sq_0406_amateuralchemist:25
 msgctxt "quests/04_monarch/sq_0406_amateuralchemist:25:DefaultText"
 msgid "(Optional) Search Dr. Williams' Body"
-msgstr ""
+msgstr "(Volitelné) Hledání v těle Dr. Williamse"
 
 #: quests/04_monarch/sq_0406_amateuralchemist:10000
 msgctxt "quests/04_monarch/sq_0406_amateuralchemist:10000:DefaultText"
 msgid "Nyoka said she'll help guide you through the Monarch wilderness, but only if you can sober her up."
-msgstr ""
+msgstr "Nyoka říkala, že ti pomůže projít monarchskou divočinou, ale jen pokud ji dokážeš vystřízlivět."
 
 #: quests/04_monarch/sq_0406_amateuralchemist:10014
 msgctxt "quests/04_monarch/sq_0406_amateuralchemist:10014:DefaultText"
 msgid "Nyoka needs a \"steroid-or-caffeine-something.\" The dispensary serves them, but she has reached her month's allotment."
-msgstr ""
+msgstr "Nyoka potřebuje \"steroid nebo něco s kofeinem\". V lékárně je podávají, ale ona už vyčerpala svůj měsíční příděl."
 
 #: quests/04_monarch/sq_0406_amateuralchemist:10015
 msgctxt "quests/04_monarch/sq_0406_amateuralchemist:10015:DefaultText"
 msgid "You have Nyoka's pill."
-msgstr ""
+msgstr "Máte pilulku Nyoka."
 
 #: quests/04_monarch/sq_0406_amateuralchemist:10025
 msgctxt "quests/04_monarch/sq_0406_amateuralchemist:10025:DefaultText"
 msgid "Dr. Williams, who used to be in charge of Stellar Bay's medical allotments, is buried in a graveyard in the ruins south of town."
-msgstr ""
+msgstr "Doktor Williams, který míval na starosti lékařské příděly ve Stellar Bay, je pohřben na hřbitově v ruinách jižně od města."
 
 #: quests/04_monarch/sq_0406_amateuralchemist:20006
 msgctxt "quests/04_monarch/sq_0406_amateuralchemist:20006:DefaultText"
 msgid "You've bumped Nyoka's allotment up. Abigail can get you an extra dose of Caffenoid now."
-msgstr ""
+msgstr "Zvýšili jste Nyokův příděl. Abigail ti teď může dát extra dávku kafenoidu."
 
 #: quests/04_monarch/sq_0406_amateuralchemist:20007
 msgctxt "quests/04_monarch/sq_0406_amateuralchemist:20007:DefaultText"
 msgid "According to Abigail, Dr. Williams managed allotments from a terminal upstairs."
-msgstr ""
+msgstr "Podle Abigail spravoval doktor Williams příděly z terminálu nahoře."
 
 #: quests/04_monarch/sq_0406_amateuralchemist:20016
 msgctxt "quests/04_monarch/sq_0406_amateuralchemist:20016:DefaultText"
 msgid "You found a keycard on Dr. Williams' body. "
-msgstr ""
+msgstr "Na těle doktora Williamse jste našel kartu. "
 
 #: quests/04_monarch/sq_0406_amateuralchemist:20017
 msgctxt "quests/04_monarch/sq_0406_amateuralchemist:20017:DefaultText"
 msgid "Abigail implied that she and Dr. Williams both have keys to the medical supply room."
-msgstr ""
+msgstr "Abigail naznačila, že ona i doktor Williams mají klíče od místnosti s lékařskými potřebami."
 
 #: quests/04_monarch/sq_0406_amateuralchemist:20018
 msgctxt "quests/04_monarch/sq_0406_amateuralchemist:20018:DefaultText"
 msgid "You found the medical supply room, but it's locked."
-msgstr ""
+msgstr "Našli jste místnost s lékařskými zásobami, ale je zamčená."
 
 #: quests/04_monarch/sq_0406_amateuralchemist:20019
 msgctxt "quests/04_monarch/sq_0406_amateuralchemist:20019:DefaultText"
 msgid "You got a keycard to the medical supply room from Abigail."
-msgstr ""
+msgstr "Od Abigail jsi dostal kartu do místnosti s lékařskými potřebami."
 
 #: quests/04_monarch/sq_0406_amateuralchemist:20020
 msgctxt "quests/04_monarch/sq_0406_amateuralchemist:20020:DefaultText"
 msgid "You got a keycard to the medical supply room from Dr. Williams"
-msgstr ""
+msgstr "Dostal jsi od doktora Williamse kartu do místnosti s lékařskými potřebami."
 
 #: quests/04_monarch/sq_0406_amateuralchemist:20021
 msgctxt "quests/04_monarch/sq_0406_amateuralchemist:20021:DefaultText"
 msgid "It sounds like Abigail stores medications in a locked supply room upstairs."
-msgstr ""
+msgstr "Vypadá to, že Abigail skladuje léky v uzamčeném skladu nahoře."
 
 #: quests/04_monarch/sq_0406_amateuralchemist:30000
 msgctxt "quests/04_monarch/sq_0406_amateuralchemist:30000:DefaultText"
 msgid "You delivered a Caffenoid dose to Nyoka."
-msgstr ""
+msgstr "Doručil jsi Nyoce dávku kafenoidu."
 
 #: quests/04_monarch/sq_0406_amateuralchemist:30001
 msgctxt "quests/04_monarch/sq_0406_amateuralchemist:30001:DefaultText"
 msgid "You attacked Nyoka, losing any chance of gaining her cooperation."
-msgstr ""
+msgstr "Zaútočil jsi na Nyoku a ztratil tak jakoukoli šanci na získání její spolupráce."

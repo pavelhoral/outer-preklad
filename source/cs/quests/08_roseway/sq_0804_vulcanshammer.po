@@ -1,69 +1,69 @@
 #: quests/08_roseway/sq_0804_vulcanshammer:0
 msgctxt "quests/08_roseway/sq_0804_vulcanshammer:0:DefaultText"
 msgid "Vulcan's Hammer"
-msgstr ""
+msgstr "Vulkánovo kladivo"
 
 #: quests/08_roseway/sq_0804_vulcanshammer:1
 msgctxt "quests/08_roseway/sq_0804_vulcanshammer:1:DefaultText"
 msgid "Retrieve Orson's Schematics"
-msgstr ""
+msgstr "Získání Orsonových schémat"
 
 #: quests/08_roseway/sq_0804_vulcanshammer:4
 msgctxt "quests/08_roseway/sq_0804_vulcanshammer:4:DefaultText"
 msgid "Return to Orson"
-msgstr ""
+msgstr "Zpět na Orson"
 
 #: quests/08_roseway/sq_0804_vulcanshammer:10000
 msgctxt "quests/08_roseway/sq_0804_vulcanshammer:10000:DefaultText"
 msgid "Orson Shaw, one of Roseway's labcoats, has been tinkering with a prototype pistol. He left schematics for it in the town's Storage Facility, but didn't have a chance to grab them when the marauders attacked. He'd like them returned."
-msgstr ""
+msgstr "Orson Shaw, jeden z Rosewayových laborantů, si pohrává s prototypem pistole. Schémata k ní zanechal v městském skladu, ale nestihl je sebrat, když na něj zaútočili nájezdníci. Rád by je vrátil."
 
 #: quests/08_roseway/sq_0804_vulcanshammer:10001
 msgctxt "quests/08_roseway/sq_0804_vulcanshammer:10001:DefaultText"
 msgid "Auntie Cleo's Storage Facility can be found by leaving Roseway via the south entrance and passing east, over hills and countryside."
-msgstr ""
+msgstr "Skladiště tety Cleo najdete, když opustíte Roseway jižním vchodem a vydáte se na východ přes kopce a krajinu."
 
 #: quests/08_roseway/sq_0804_vulcanshammer:10004
 msgctxt "quests/08_roseway/sq_0804_vulcanshammer:10004:DefaultText"
 msgid "You've found Orson's schematics. They're from FORCE, an out-system weapons manufacturer. They are almost certainly contraband."
-msgstr ""
+msgstr "Našli jste Orsonova schémata. Jsou od FORCE, výrobce zbraní mimo systém. Téměř jistě se jedná o kontraband."
 
 #: quests/08_roseway/sq_0804_vulcanshammer:20002
 msgctxt "quests/08_roseway/sq_0804_vulcanshammer:20002:DefaultText"
 msgid "You've pieced together the code for the armory door in the Storage Facility: 1-2-3-4."
-msgstr ""
+msgstr "Dali jste dohromady kód ke dveřím do zbrojnice ve skladišti: 1-2-3-4."
 
 #: quests/08_roseway/sq_0804_vulcanshammer:20012
 msgctxt "quests/08_roseway/sq_0804_vulcanshammer:20012:DefaultText"
 msgid "The door to the armory is locked. You found a note indicating the passcode can be found with someone named \"Masha,\" or at the old Auntie-Biotics Lab front desk."
-msgstr ""
+msgstr "Dveře do zbrojnice jsou zamčené. Našel jsi vzkaz, že přístupový kód najdeš u někoho jménem \"Máša\", nebo na recepci staré laboratoře Auntie-Biotics."
 
 #: quests/08_roseway/sq_0804_vulcanshammer:30000
 msgctxt "quests/08_roseway/sq_0804_vulcanshammer:30000:DefaultText"
 msgid "You recovered Orson's weapon schematic. He let you keep the finished product."
-msgstr ""
+msgstr "Získal jsi Orsonovo schéma zbraně. Nechal ti hotový výrobek."
 
 #: quests/08_roseway/sq_0804_vulcanshammer:30001
 msgctxt "quests/08_roseway/sq_0804_vulcanshammer:30001:DefaultText"
 msgid "You recovered Orson's weapon schematic, and convinced him to pay you for it. He let you keep the finished product."
-msgstr ""
+msgstr "Získal jsi Orsonův plán zbraně a přesvědčil ho, aby ti za něj zaplatil. Nechal ti hotový výrobek."
 
 #: quests/08_roseway/sq_0804_vulcanshammer:30003
 msgctxt "quests/08_roseway/sq_0804_vulcanshammer:30003:DefaultText"
 msgid "You killed Orson, which means he can't fix his weapon any more."
-msgstr ""
+msgstr "Zabil jsi Orsona, což znamená, že už nemůže opravit svou zbraň."
 
 #: quests/08_roseway/sq_0804_vulcanshammer:30004
 msgctxt "quests/08_roseway/sq_0804_vulcanshammer:30004:DefaultText"
 msgid "The Auntie Cleo Faction has become hostile towards you, making it impossible to complete this quest."
-msgstr ""
+msgstr "Frakce Auntie Cleo se vůči vám stala nepřátelskou, což znemožňuje dokončení tohoto úkolu."
 
 #: quests/08_roseway/sq_0804_vulcanshammer:30005
 msgctxt "quests/08_roseway/sq_0804_vulcanshammer:30005:DefaultText"
 msgid "You sold the weapon schematics on the Groundbreaker, and can no longer return them to Orson."
-msgstr ""
+msgstr "Prodali jste schémata zbraní na Groundbreaker a už je nemůžete vrátit Orsonovi."
 
 #: quests/08_roseway/sq_0804_vulcanshammer:30006
 msgctxt "quests/08_roseway/sq_0804_vulcanshammer:30006:DefaultText"
 msgid "You told Orson that you are going to sell his schematics to a higher bidder. He didn't seem to take kindly to that."
-msgstr ""
+msgstr "Řekl jsi Orsonovi, že se chystáš prodat jeho schémata vyšší nabídce. Nezdálo se, že by se mu to líbilo."

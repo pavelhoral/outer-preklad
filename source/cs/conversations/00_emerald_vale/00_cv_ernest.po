@@ -1,129 +1,129 @@
 #: conversations/00_emerald_vale/00_cv_ernest:1
 msgctxt "conversations/00_emerald_vale/00_cv_ernest:1:DefaultText"
 msgid "Now, seems to me - and correct me if I'm wrong here, but - seems to me they're all dead. Mind telling me what happened here?"
-msgstr ""
+msgstr "Zdá se mi - a opravte mě, jestli se mýlím, ale - zdá se mi, že jsou všichni mrtví. Mohl byste mi říct, co se tu stalo?"
 
 #: conversations/00_emerald_vale/00_cv_ernest:2
 msgctxt "conversations/00_emerald_vale/00_cv_ernest:2:DefaultText"
 msgid "Yeah, the guards and I had a bit of an altercation, you see."
-msgstr ""
+msgstr "Jo, my jsme se se strážemi trochu pohádali, víte."
 
 #: conversations/00_emerald_vale/00_cv_ernest:3
 msgctxt "conversations/00_emerald_vale/00_cv_ernest:3:DefaultText"
 msgid "The guards accidentally brutally shot themselves while on patrol."
-msgstr ""
+msgstr "Dozorci se při hlídce nešťastnou náhodou brutálně postřelili."
 
 #: conversations/00_emerald_vale/00_cv_ernest:4
 msgctxt "conversations/00_emerald_vale/00_cv_ernest:4:DefaultText"
 msgid "I don't like your tone, Ernie."
-msgstr ""
+msgstr "Nelíbí se mi tvůj tón, Ernie."
 
 #: conversations/00_emerald_vale/00_cv_ernest:5
 msgctxt "conversations/00_emerald_vale/00_cv_ernest:5:DefaultText"
 msgid "An altercation, you say. Shame as that goes. Spacer's Choice policy strictly prohibits dying during work hours."
-msgstr ""
+msgstr "Říkáte hádka. To je škoda. Zásady společnosti Spacer's Choice přísně zakazují umírání v pracovní době."
 
 #: conversations/00_emerald_vale/00_cv_ernest:6
 msgctxt "conversations/00_emerald_vale/00_cv_ernest:6:DefaultText"
 msgid "Accidentally brutally shot themselves, huh? Unbelievable. Second time this month."
-msgstr ""
+msgstr "Nešťastnou náhodou se brutálně zastřelili, co? Neuvěřitelné. Tento měsíc už podruhé."
 
 #: conversations/00_emerald_vale/00_cv_ernest:7
 msgctxt "conversations/00_emerald_vale/00_cv_ernest:7:DefaultText"
 msgid "Cool your thrusters, friend. Just out here doing my trade. Gathering remains. Tagging corpses. Filing reports."
-msgstr ""
+msgstr "Zchlaď své trysky, příteli. Jen tu dělám svou práci. Sbírám zbytky. Označuju mrtvoly. Vyplňování hlášení."
 
 #: conversations/00_emerald_vale/00_cv_ernest:8
 msgctxt "conversations/00_emerald_vale/00_cv_ernest:8:DefaultText"
 msgid "Guess I'd better get to cleaning up. Can't just leave company property scattered about, bleeding out on the dirt."
-msgstr ""
+msgstr "Asi bych se měl pustit do úklidu. Nemůžu nechat majetek společnosti rozsypaný na zemi."
 
 #: conversations/00_emerald_vale/00_cv_ernest:9
 msgctxt "conversations/00_emerald_vale/00_cv_ernest:9:DefaultText"
 msgid "Don't you care that they died?"
-msgstr ""
+msgstr "Je vám jedno, že zemřeli?"
 
 #: conversations/00_emerald_vale/00_cv_ernest:10
 msgctxt "conversations/00_emerald_vale/00_cv_ernest:10:DefaultText"
 msgid "I could use their gear. No sense in letting a good suit of armor go to waste."
-msgstr ""
+msgstr "Mohl bych použít jejich vybavení. Nemá smysl nechat dobré brnění přijít nazmar."
 
 #: conversations/00_emerald_vale/00_cv_ernest:11
 msgctxt "conversations/00_emerald_vale/00_cv_ernest:11:DefaultText"
 msgid "Good idea. And clean up this ship while you're at it."
-msgstr ""
+msgstr "Dobrý nápad. A když už budeš v tom, ukliď tuhle loď."
 
 #: conversations/00_emerald_vale/00_cv_ernest:12
 msgctxt "conversations/00_emerald_vale/00_cv_ernest:12:DefaultText"
 msgid "No can do, friend. That armor's Spacer's Choice property. Bodies, too. Living or otherwise. Company policy, you see."
-msgstr ""
+msgstr "To nejde, příteli. To brnění je majetkem Spacer's Choice. Těla taky. Živá nebo jiná. Politika společnosti, víš."
 
 #: conversations/00_emerald_vale/00_cv_ernest:13
 msgctxt "conversations/00_emerald_vale/00_cv_ernest:13:DefaultText"
 msgid "Is that an official Spacer's Choice spacecraft on an official Spacer's Choice landing pad? Do I look like an automechanical sanitation unit? The answer to both questions is no."
-msgstr ""
+msgstr "Je to oficiální kosmická loď Spacer's Choice na oficiální přistávací ploše Spacer's Choice? Vypadám jako automechanická sanitární jednotka? Odpověď na obě otázky zní ne."
 
 #: conversations/00_emerald_vale/00_cv_ernest:14
 msgctxt "conversations/00_emerald_vale/00_cv_ernest:14:DefaultText"
 msgid "That who died? Oh - right. Well, we do need all the hands we got, what with folks in Edgewater dropping off like cystypig tumors. Less competition though, come promotin' time."
-msgstr ""
+msgstr "Kdo zemřel? Aha - správně. No, potřebujeme všechny ruce, co máme, když lidé v Edgewateru odpadávají jako cystypigní nádory. Ale v době propagace bude méně konkurence."
 
 #: conversations/00_emerald_vale/00_cv_ernest:15
 msgctxt "conversations/00_emerald_vale/00_cv_ernest:15:DefaultText"
 msgid "You'll want to amble on over to Edgewater at your earliest convenience. Constable's office might have work for someone with your - uh, let's just say - aggressive disposition."
-msgstr ""
+msgstr "Do Edgewateru se vydejte co nejdříve. Konstáblův úřad by mohl mít práci pro někoho s tvou - řekněme - agresivní povahou."
 
 #: conversations/00_emerald_vale/00_cv_ernest:19
 msgctxt "conversations/00_emerald_vale/00_cv_ernest:19:DefaultText"
 msgid "These bodies won't tag themselves, you know."
-msgstr ""
+msgstr "Tyhle mrtvoly se samy neoznačí, víte."
 
 #: conversations/00_emerald_vale/00_cv_ernest:20
 msgctxt "conversations/00_emerald_vale/00_cv_ernest:20:DefaultText"
 msgid "Law be with you, friend. I'm Ernie - from the Spacer's Choice Department of Human Resources. Town sent me hereabouts to check on the guards."
-msgstr ""
+msgstr "Zákon s tebou, příteli. Jsem Ernie - z oddělení lidských zdrojů společnosti Spacer's Choice. Město mě sem poslalo, abych zkontroloval stráže."
 
 #: conversations/00_emerald_vale/00_cv_ernest:22
 msgctxt "conversations/00_emerald_vale/00_cv_ernest:22:DefaultText"
 msgid "Oh! And, uh, be sure to stop by the Edgewater provisioner for a can of saltuna. It's not the best choice, it's Spacer's Choice."
-msgstr ""
+msgstr "A nezapomeňte se zastavit v proviantním obchodě v Edgewateru pro plechovku saltuny. Není to nejlepší volba, je to Spacer's Choice."
 
 #: conversations/00_emerald_vale/00_cv_ernest:23
 msgctxt "conversations/00_emerald_vale/00_cv_ernest:23:DefaultText"
 msgid "Yeah, the guards and the locals had a bit of an altercation."
-msgstr ""
+msgstr "Jo, strážní a místní se trochu pohádali."
 
 #: conversations/00_emerald_vale/00_cv_ernest:24
 msgctxt "conversations/00_emerald_vale/00_cv_ernest:24:DefaultText"
 msgid "Now, seems to me - and correct me if I'm wrong here, but - seems to me that the ranking officer is dead. Mind telling me what happened here?"
-msgstr ""
+msgstr "Zdá se mi - a opravte mě, jestli se mýlím, ale - zdá se mi, že ten důstojník je mrtvý. Mohl byste mi říct, co se tu stalo?"
 
 #: conversations/00_emerald_vale/00_cv_ernest:26
 msgctxt "conversations/00_emerald_vale/00_cv_ernest:26:DefaultText"
 msgid "Don't you care that she died?"
-msgstr ""
+msgstr "Je ti jedno, že zemřela?"
 
 #: conversations/00_emerald_vale/00_cv_ernest:27
 msgctxt "conversations/00_emerald_vale/00_cv_ernest:27:DefaultText"
 msgid "Hang on. I want to ask you something."
-msgstr ""
+msgstr "Vydržte. Chci se tě na něco zeptat."
 
 #: conversations/00_emerald_vale/00_cv_ernest:28
 msgctxt "conversations/00_emerald_vale/00_cv_ernest:28:DefaultText"
 msgid "I'll be on my way."
-msgstr ""
+msgstr "Už budu na cestě."
 
 #: conversations/00_emerald_vale/00_cv_ernest:29
 msgctxt "conversations/00_emerald_vale/00_cv_ernest:29:DefaultText"
 msgid "Don't get paid bits to chat with strangers. You wanna chew the rag, go talk to Silas over by the cemetery."
-msgstr ""
+msgstr "Nenechte si platit za chatování s cizími lidmi. Jestli chceš žvýkat hadry, jdi si promluvit se Silasem na hřbitov."
 
 #: conversations/00_emerald_vale/00_cv_ernest:34
 msgctxt "conversations/00_emerald_vale/00_cv_ernest:34:DefaultText"
 msgid "Wonder if something happened down at the plant."
-msgstr ""
+msgstr "Zajímalo by mě, jestli se něco stalo v továrně."
 
 #: conversations/00_emerald_vale/00_cv_ernest:35
 msgctxt "conversations/00_emerald_vale/00_cv_ernest:35:DefaultText"
 msgid "Hey, you made it. Had a word with the constable yet?"
-msgstr ""
+msgstr "Hej, zvládl jsi to. Už jsi mluvil se strážníkem?"

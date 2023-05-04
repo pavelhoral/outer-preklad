@@ -15,7 +15,7 @@ msgid "C&P Factory Systems\r\n"
 "Productive output is currently rated to be: NON-OPERATIONAL\r\n"
 "\r\n"
 "The King has been notified. Please request an emergency maintenance appointment, immediately."
-msgstr ""
+msgstr "C&P Factory Systems ======================== PŘIHLÁŠENÍ AUTORIZOVANÉHO MANAŽERA SE ZAČÍNÁ... ======================== Zdravím vás, uživateli_CANNING MACHINE. Provádím nyní běžnou diagnostickou kontrolu... Analýza je dokončena: UNWELL [ 5 ] Zjištěny poškozené části a [ 2 ] Požáry ve strojním zařízení. Produktivní výkon je v současné době hodnocen jako: Král byl informován. Okamžitě požádejte o termín mimořádné údržby."
 
 #: conversations/04_monarch/0411/0411_cp_canning_machine:2
 msgctxt "conversations/04_monarch/0411/0411_cp_canning_machine:2:DefaultText"
@@ -34,22 +34,22 @@ msgid "C&P Factory Systems\r\n"
 "Productive output is currently rated to be: OPTIMAL\r\n"
 "\r\n"
 "Adjustments are not recommended at this time."
-msgstr ""
+msgstr "C&P Factory Systems ======================== PŘIHLÁŠENÍ AUTORIZOVANÉHO MANAŽERA SE ZAČÍNÁ... ======================== Zdravím vás, uživateli_CANNING MACHINE. Provádím nyní běžnou diagnostickou kontrolu... Analýza je dokončena: PLEASANT Ve strojním zařízení nebyly zjištěny žádné ucpávky. Produktivní výkon je aktuálně hodnocen jako: OPTIMÁLNÍ Úpravy se v tuto chvíli nedoporučují."
 
 #: conversations/04_monarch/0411/0411_cp_canning_machine:3
 msgctxt "conversations/04_monarch/0411/0411_cp_canning_machine:3:DefaultText"
 msgid "[Increase Production Rate by 200%]"
-msgstr ""
+msgstr "[Zvýšení rychlosti výroby o 200 %]"
 
 #: conversations/04_monarch/0411/0411_cp_canning_machine:4
 msgctxt "conversations/04_monarch/0411/0411_cp_canning_machine:4:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"
 
 #: conversations/04_monarch/0411/0411_cp_canning_machine:6
 msgctxt "conversations/04_monarch/0411/0411_cp_canning_machine:6:DefaultText"
 msgid "[Increasing...]"
-msgstr ""
+msgstr "[Zvyšuje se...]"
 
 #: conversations/04_monarch/0411/0411_cp_canning_machine:7
 msgctxt "conversations/04_monarch/0411/0411_cp_canning_machine:7:DefaultText"
@@ -58,9 +58,9 @@ msgid "ADVISORY MESSAGE: The machinery cannot keep pace with the set rate. Risk 
 "Suggested actions: Lower the production rate by >50%\r\n"
 "\r\n"
 ""
-msgstr ""
+msgstr "DOPORUČUJÍCÍ ZPRÁVA: Stroje nestíhají nastavenou rychlost. Riziko roztavení vedoucího k uzavřenému výbuchu je při tomto výrobním tempu pravděpodobné na 99,3 %. Navrhovaná opatření: Snižte výrobní rychlost o >50 %."
 
 #: conversations/04_monarch/0411/0411_cp_canning_machine:8
 msgctxt "conversations/04_monarch/0411/0411_cp_canning_machine:8:DefaultText"
 msgid "[Continue]"
-msgstr ""
+msgstr "[Pokračovat]"

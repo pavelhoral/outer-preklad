@@ -1,224 +1,224 @@
 #: conversations/01_groundbreaker/01_cv_elson_jane:1
 msgctxt "conversations/01_groundbreaker/01_cv_elson_jane:1:DefaultText"
 msgid "Hey there! Would you mind steppin' back? This charming little ship's been impounded, and I'm afraid I can't let you near it 'til it's not."
-msgstr ""
+msgstr "Ahoj! Mohl bys ustoupit? Tahle okouzlující malá loď byla zabavena a obávám se, že vás k ní nemohu pustit, dokud nebude zabavena."
 
 #: conversations/01_groundbreaker/01_cv_elson_jane:2
 msgctxt "conversations/01_groundbreaker/01_cv_elson_jane:2:DefaultText"
 msgid "What do you mean 'impounded?'"
-msgstr ""
+msgstr "Co myslíte tím \"zabaven\"?"
 
 #: conversations/01_groundbreaker/01_cv_elson_jane:3
 msgctxt "conversations/01_groundbreaker/01_cv_elson_jane:3:DefaultText"
 msgid "Can you help me get this cleared up?"
-msgstr ""
+msgstr "Můžete mi to pomoci vyjasnit?"
 
 #: conversations/01_groundbreaker/01_cv_elson_jane:4
 msgctxt "conversations/01_groundbreaker/01_cv_elson_jane:4:DefaultText"
 msgid "Don't you touch my ship."
-msgstr ""
+msgstr "Nedotýkejte se mé lodi."
 
 #: conversations/01_groundbreaker/01_cv_elson_jane:5
 msgctxt "conversations/01_groundbreaker/01_cv_elson_jane:5:DefaultText"
 msgid "I'm off."
-msgstr ""
+msgstr "Odcházím."
 
 #: conversations/01_groundbreaker/01_cv_elson_jane:6
 msgctxt "conversations/01_groundbreaker/01_cv_elson_jane:6:DefaultText"
 msgid "I don't really know. We got orders to hold your ship, is all."
-msgstr ""
+msgstr "To opravdu nevím. Dostali jsme rozkaz zadržet vaši loď, to je vše."
 
 #: conversations/01_groundbreaker/01_cv_elson_jane:7
 msgctxt "conversations/01_groundbreaker/01_cv_elson_jane:7:DefaultText"
 msgid "I'd surely love to, but that's just not my bailiwick. You'll want to have words with our representative here from the Board, Mr. Udom Bedford. His office is on the Promenade."
-msgstr ""
+msgstr "Určitě bych to rád udělal, ale to není moje kompetence. Budete si chtít promluvit s naším zástupcem z představenstva, panem Udomem Bedfordem. Jeho kancelář je na promenádě."
 
 #: conversations/01_groundbreaker/01_cv_elson_jane:8
 msgctxt "conversations/01_groundbreaker/01_cv_elson_jane:8:DefaultText"
 msgid "Gosh, I wouldn't dream of it. Not unless I got to. And I don't see any reason why I'd gotta. Do you?"
-msgstr ""
+msgstr "Bože, to by mě ani ve snu nenapadlo. Ne, kdybych se k tomu nedostal. A nevidím žádný důvod, proč bych měl. A ty ano?"
 
 #: conversations/01_groundbreaker/01_cv_elson_jane:11
 msgctxt "conversations/01_groundbreaker/01_cv_elson_jane:11:DefaultText"
 msgid "Surely this is all a big misunderstanding."
-msgstr ""
+msgstr "Jistě jde o velké nedorozumění."
 
 #: conversations/01_groundbreaker/01_cv_elson_jane:12
 msgctxt "conversations/01_groundbreaker/01_cv_elson_jane:12:DefaultText"
 msgid "Well shoot, that's a relief! Shouldn't take you more than a moment to get it all properly understood, then. Right?"
-msgstr ""
+msgstr "Tak to se mi ulevilo! Nemělo by vám tedy trvat déle než chvilku, než to všechno správně pochopíte. Nebo ne?"
 
 #: conversations/01_groundbreaker/01_cv_elson_jane:13
 msgctxt "conversations/01_groundbreaker/01_cv_elson_jane:13:DefaultText"
 msgid "Least she's polite about it."
-msgstr ""
+msgstr "Alespoň je zdvořilá."
 
 #: conversations/01_groundbreaker/01_cv_elson_jane:15
 msgctxt "conversations/01_groundbreaker/01_cv_elson_jane:15:DefaultText"
 msgid "She's a good ship, ma'am. Mostly doesn't act up at all."
-msgstr ""
+msgstr "Je to dobrá loď, madam. Většinou vůbec nezlobí."
 
 #: conversations/01_groundbreaker/01_cv_elson_jane:21
 msgctxt "conversations/01_groundbreaker/01_cv_elson_jane:21:DefaultText"
 msgid "Hey there! You talked to Mr. Udom yet? I'm afraid I can't let you through without his say-so."
-msgstr ""
+msgstr "Ahoj! Už jsi mluvil s panem Udomem? Obávám se, že bez jeho souhlasu vás nemohu pustit."
 
 #: conversations/01_groundbreaker/01_cv_elson_jane:23
 msgctxt "conversations/01_groundbreaker/01_cv_elson_jane:23:DefaultText"
 msgid "Does this happen a lot?"
-msgstr ""
+msgstr "Stává se to často?"
 
 #: conversations/01_groundbreaker/01_cv_elson_jane:24
 msgctxt "conversations/01_groundbreaker/01_cv_elson_jane:24:DefaultText"
 msgid "No, almost never! We're independent, you know? From the Board. They don't have jurisdiction here."
-msgstr ""
+msgstr "Ne, téměř nikdy! Jsme nezávislí, víš? Od představenstva. Nemají tady žádnou pravomoc."
 
 #: conversations/01_groundbreaker/01_cv_elson_jane:29
 msgctxt "conversations/01_groundbreaker/01_cv_elson_jane:29:DefaultText"
 msgid "Groundbreaker's the last free outpost in the colony, and we aim to keep it that way. No matter what."
-msgstr ""
+msgstr "Groundbreaker je poslední svobodnou základnou v kolonii a naším cílem je, aby to tak zůstalo. Ať se děje, co se děje."
 
 #: conversations/01_groundbreaker/01_cv_elson_jane:30
 msgctxt "conversations/01_groundbreaker/01_cv_elson_jane:30:DefaultText"
 msgid "Hey there! Got word on the wireless - your flag's cleared. You're free to go."
-msgstr ""
+msgstr "Ahoj! Mám zprávu z bezdrátového spojení - vaše vlajka je vymazána. Můžeš jít."
 
 #: conversations/01_groundbreaker/01_cv_elson_jane:31
 msgctxt "conversations/01_groundbreaker/01_cv_elson_jane:31:DefaultText"
 msgid "Hope you enjoyed your time on Groundbreaker, \"the last free port of call in all the colony.\""
-msgstr ""
+msgstr "Doufám, že se vám na Groundbreakeru, \"posledním svobodném přístavu v celé kolonii\", líbilo."
 
 #: conversations/01_groundbreaker/01_cv_elson_jane:33
 msgctxt "conversations/01_groundbreaker/01_cv_elson_jane:33:DefaultText"
 msgid "I ain't felt so much as a tepid breeze in weeks. I hope Ms. Chief Tennyson gets that fixed soon."
-msgstr ""
+msgstr "Už několik týdnů jsem necítil ani vlažný vánek. Doufám, že to paní šéfová Tennysonová brzy napraví."
 
 #: conversations/01_groundbreaker/01_cv_elson_jane:34
 msgctxt "conversations/01_groundbreaker/01_cv_elson_jane:34:DefaultText"
 msgid "Is that a real slogan?"
-msgstr ""
+msgstr "Je to skutečný slogan?"
 
 #: conversations/01_groundbreaker/01_cv_elson_jane:35
 msgctxt "conversations/01_groundbreaker/01_cv_elson_jane:35:DefaultText"
 msgid "I should go."
-msgstr ""
+msgstr "Měl bych jít."
 
 #: conversations/01_groundbreaker/01_cv_elson_jane:36
 msgctxt "conversations/01_groundbreaker/01_cv_elson_jane:36:DefaultText"
 msgid "Made it up on the spot! Pretty good, right?"
-msgstr ""
+msgstr "Vymyslel jsem to na místě! Docela dobré, ne?"
 
 #: conversations/01_groundbreaker/01_cv_elson_jane:37
 msgctxt "conversations/01_groundbreaker/01_cv_elson_jane:37:DefaultText"
 msgid "Maybe don't let us hear the air quotes."
-msgstr ""
+msgstr "Možná nás nenechte slyšet ty uvozovky."
 
 #: conversations/01_groundbreaker/01_cv_elson_jane:38
 msgctxt "conversations/01_groundbreaker/01_cv_elson_jane:38:DefaultText"
 msgid "Port of call. Colony. Hah. I just got that."
-msgstr ""
+msgstr "Přístav zastávky. Kolonie. Hah. Právě jsem to pochopil."
 
 #: conversations/01_groundbreaker/01_cv_elson_jane:39
 msgctxt "conversations/01_groundbreaker/01_cv_elson_jane:39:DefaultText"
 msgid "Well, I thought it was neat."
-msgstr ""
+msgstr "No, myslím, že to bylo hezké."
 
 #: conversations/01_groundbreaker/01_cv_elson_jane:40
 msgctxt "conversations/01_groundbreaker/01_cv_elson_jane:40:DefaultText"
 msgid "I don't get it."
-msgstr ""
+msgstr "Nechápu to."
 
 #: conversations/01_groundbreaker/01_cv_elson_jane:42
 msgctxt "conversations/01_groundbreaker/01_cv_elson_jane:42:DefaultText"
 msgid "I'm still workin' on it."
-msgstr ""
+msgstr "Stále na tom pracuji."
 
 #: conversations/01_groundbreaker/01_cv_elson_jane:43
 msgctxt "conversations/01_groundbreaker/01_cv_elson_jane:43:DefaultText"
 msgid "If I never set foot on this decrepit rust bucket again, it'll be too soon."
-msgstr ""
+msgstr "Jestli na tuhle zchátralou rezavou kýbli už nikdy nevkročím, bude to příliš brzy."
 
 #: conversations/01_groundbreaker/01_cv_elson_jane:44
 msgctxt "conversations/01_groundbreaker/01_cv_elson_jane:44:DefaultText"
 msgid "Good luck with your Board problems."
-msgstr ""
+msgstr "Hodně štěstí při řešení problémů s představenstvem."
 
 #: conversations/01_groundbreaker/01_cv_elson_jane:45
 msgctxt "conversations/01_groundbreaker/01_cv_elson_jane:45:DefaultText"
 msgid "Aw, that's not very nice."
-msgstr ""
+msgstr "To není moc hezké."
 
 #: conversations/01_groundbreaker/01_cv_elson_jane:46
 msgctxt "conversations/01_groundbreaker/01_cv_elson_jane:46:DefaultText"
 msgid "Bye now!"
-msgstr ""
+msgstr "Ahoj!"
 
 #: conversations/01_groundbreaker/01_cv_elson_jane:47
 msgctxt "conversations/01_groundbreaker/01_cv_elson_jane:47:DefaultText"
 msgid "We don't need luck - we got Junlei."
-msgstr ""
+msgstr "Nepotřebujeme štěstí - máme Junlei."
 
 #: conversations/01_groundbreaker/01_cv_elson_jane:48
 msgctxt "conversations/01_groundbreaker/01_cv_elson_jane:48:DefaultText"
 msgid "I don't know what we're gonna do without Junlei..."
-msgstr ""
+msgstr "Nevím, co si bez Junlei počneme..."
 
 #: conversations/01_groundbreaker/01_cv_elson_jane:49
 msgctxt "conversations/01_groundbreaker/01_cv_elson_jane:49:DefaultText"
 msgid "Now there's a slogan!"
-msgstr ""
+msgstr "To je slogan!"
 
 #: conversations/01_groundbreaker/01_cv_elson_jane:50
 msgctxt "conversations/01_groundbreaker/01_cv_elson_jane:50:DefaultText"
 msgid "Wheeler's gonna love it."
-msgstr ""
+msgstr "Wheelerovi se to bude líbit."
 
 #: conversations/01_groundbreaker/01_cv_elson_jane:51
 msgctxt "conversations/01_groundbreaker/01_cv_elson_jane:51:DefaultText"
 msgid "Have yourself a pleasant day!"
-msgstr ""
+msgstr "Přeji vám příjemný den!"
 
 #: conversations/01_groundbreaker/01_cv_elson_jane:52
 msgctxt "conversations/01_groundbreaker/01_cv_elson_jane:52:DefaultText"
 msgid "I'm startin' to feel like a cystyroast in all this armor."
-msgstr ""
+msgstr "Začínám si v tomhle brnění připadat jako cystyroast."
 
 #: conversations/01_groundbreaker/01_cv_elson_jane:53
 msgctxt "conversations/01_groundbreaker/01_cv_elson_jane:53:DefaultText"
 msgid "Just checking your ship's manifest. Standard procedure. Welcome to Groundbreaker, by the by!"
-msgstr ""
+msgstr "Jen kontroluju seznam vaší lodi. Standardní postup. Mimochodem, vítejte na Groundbreakeru!"
 
 #: conversations/01_groundbreaker/01_cv_elson_jane:54
 msgctxt "conversations/01_groundbreaker/01_cv_elson_jane:54:DefaultText"
 msgid "Still reviewing your manifest. Why not head on over to the Promenade? Lots to keep you occupied there."
-msgstr ""
+msgstr "Stále si prohlížíte svůj manifest. Proč se nevydáte na Promenádu? Je tam spousta možností, jak se zabavit."
 
 #: conversations/01_groundbreaker/01_cv_elson_jane:55
 msgctxt "conversations/01_groundbreaker/01_cv_elson_jane:55:DefaultText"
 msgid "Don't mind the heat. Got a few days before it reaches critical. I'm sure Ms. Chief Tennyson'll get it sorted before then."
-msgstr ""
+msgstr "Nevadí vám horko. Ještě pár dní, než dosáhne kritické teploty. Jsem si jistý, že to paní šéfová Tennysonová do té doby vyřeší."
 
 #: conversations/01_groundbreaker/01_cv_elson_jane:56
 msgctxt "conversations/01_groundbreaker/01_cv_elson_jane:56:DefaultText"
 msgid "Well, it doesn't smell as bad here as Edgewater's graveyard in high summer, so I guess I can't complain."
-msgstr ""
+msgstr "No, nesmrdí to tu tak hrozně jako na hřbitově v Edgewateru v létě, takže si asi nemůžu stěžovat."
 
 #: conversations/01_groundbreaker/01_cv_elson_jane:57
 msgctxt "conversations/01_groundbreaker/01_cv_elson_jane:57:DefaultText"
 msgid "Either way, let's not stick around so long we all roast alive. No, offense, Ms. Elson. I'm... sure whatever critical problem needs fixing will get patched in time."
-msgstr ""
+msgstr "Ať tak či onak, nebudeme se zdržovat tak dlouho, až se všichni upečeme zaživa. Bez urážky, paní Elsonová. Jsem si jistý, že ať už je potřeba opravit jakýkoli kritický problém, bude včas opraven."
 
 #: conversations/01_groundbreaker/01_cv_elson_jane:58
 msgctxt "conversations/01_groundbreaker/01_cv_elson_jane:58:DefaultText"
 msgid "Nice is ninety percent of the job!"
-msgstr ""
+msgstr "Hezký je devadesát procent práce!"
 
 #: conversations/01_groundbreaker/01_cv_elson_jane:59
 msgctxt "conversations/01_groundbreaker/01_cv_elson_jane:59:DefaultText"
 msgid "Happy to hear it."
-msgstr ""
+msgstr "To rád slyším."
 
 #: conversations/01_groundbreaker/01_cv_elson_jane:60
 msgctxt "conversations/01_groundbreaker/01_cv_elson_jane:60:DefaultText"
 msgid "Does it seem hot in here to you?"
-msgstr ""
+msgstr "Zdá se vám tu horko?"

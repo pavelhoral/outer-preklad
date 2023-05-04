@@ -13,37 +13,39 @@ msgid "C&P Factory Systems\n"
 "The cystypigs get five cans of boarst per meal, per day, each. Not four, not six, not ten. That is FIVE, precisely. And I don't care how much they squeal at you or how pathetic-looking their sad little eyes are - if you over or under feed my stock I will carve each of your limbs away then run your shrieking body through the machine. Dreadful slow.\n"
 "\n"
 "-- end block quote Please select the action you would like to perform."
-msgstr ""
+msgstr "C&P Factory Systems Cystypig Feeding Terminal 1 z 2 ======================== AUTORIZOVANÝ UŽIVATEL SE PŘIHLÁSÍ SEXUÁLNĚ... ======================== Zdravím vás, autorizovaní pracovníci. Král by vám rád připomněl následující zprávu: \n"
+"\n"
+"začít blokovou citaci -- Cystypigové dostávají pět konzerv kančího masa na jedno jídlo, každý den. Ne čtyři, ne šest, ne deset. Přesněji řečeno PĚT. A je mi jedno, jak moc na vás kvičí nebo jak žalostně vypadají jejich smutná očka - jestli přikrmujete nebo podkrmujete moje zásoby, vyřežu vám každou končetinu a pak vaše vřískající tělo proháním strojem. Strašně pomalu. -- konec blokové citace Vyberte prosím akci, kterou chcete provést."
 
 #: conversations/04_monarch/0411/0411_cp_cystypig_pens:2
 msgctxt "conversations/04_monarch/0411/0411_cp_cystypig_pens:2:DefaultText"
 msgid "[Inventory Logs]"
-msgstr ""
+msgstr "[Inventární protokoly]"
 
 #: conversations/04_monarch/0411/0411_cp_cystypig_pens:4
 msgctxt "conversations/04_monarch/0411/0411_cp_cystypig_pens:4:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"
 
 #: conversations/04_monarch/0411/0411_cp_cystypig_pens:5
 msgctxt "conversations/04_monarch/0411/0411_cp_cystypig_pens:5:DefaultText"
 msgid "[Accessing...]"
-msgstr ""
+msgstr "[Přístup k...]"
 
 #: conversations/04_monarch/0411/0411_cp_cystypig_pens:6
 msgctxt "conversations/04_monarch/0411/0411_cp_cystypig_pens:6:DefaultText"
 msgid "[Inventory Log: Past]"
-msgstr ""
+msgstr "[Inventární deník: Minulost]"
 
 #: conversations/04_monarch/0411/0411_cp_cystypig_pens:7
 msgctxt "conversations/04_monarch/0411/0411_cp_cystypig_pens:7:DefaultText"
 msgid "[Inventory Log: Present]"
-msgstr ""
+msgstr "[Inventární deník: Přítomnost]"
 
 #: conversations/04_monarch/0411/0411_cp_cystypig_pens:8
 msgctxt "conversations/04_monarch/0411/0411_cp_cystypig_pens:8:DefaultText"
 msgid "[Return to Root]"
-msgstr ""
+msgstr "[Zpět na kořen]"
 
 #: conversations/04_monarch/0411/0411_cp_cystypig_pens:9
 msgctxt "conversations/04_monarch/0411/0411_cp_cystypig_pens:9:DefaultText"
@@ -62,7 +64,7 @@ msgid "Inventory Log...\r\n"
 "Would you like to see Week 2's Inventory?\r\n"
 "\r\n"
 "Cannot parse command... Returning to root node..."
-msgstr ""
+msgstr "Inventární protokol...1. týden: Den 093 - 0 plechovek Den 094 - 0 plechovek Den 095 - 0 plechovek Den 096 - 1118 plechovek Den 097 - 3354 plechovek Den 098 - 10062 plechovek Den 099 - 30186 plechovek Chcete vidět inventuru 2. týdne?Nelze analyzovat příkaz... Vracíme se do kořenového uzlu..."
 
 #: conversations/04_monarch/0411/0411_cp_cystypig_pens:10
 msgctxt "conversations/04_monarch/0411/0411_cp_cystypig_pens:10:DefaultText"
@@ -79,17 +81,17 @@ msgid "Inventory Log...\r\n"
 "Day Corrupted - Unknown Cans\r\n"
 "\r\n"
 "Fatal Error... Returning to root node..."
-msgstr ""
+msgstr "Inventární protokol...Poškozený týden:Den Poškozeno - Neznámé plechovky Den Poškozeno - Neznámé plechovky Den Poškozeno - Neznámé plechovky Den Poškozeno - Neznámé plechovky Den Poškozeno - Neznámé plechovky Den Poškozeno - Neznámé plechovky Den Poškozeno - Neznámé plechovky Fatální chyba... Vracíme se do kořenového uzlu..."
 
 #: conversations/04_monarch/0411/0411_cp_cystypig_pens:12
 msgctxt "conversations/04_monarch/0411/0411_cp_cystypig_pens:12:DefaultText"
 msgid "[Feed the Cystypigs]"
-msgstr ""
+msgstr "[Krmení cystypigů]"
 
 #: conversations/04_monarch/0411/0411_cp_cystypig_pens:13
 msgctxt "conversations/04_monarch/0411/0411_cp_cystypig_pens:13:DefaultText"
 msgid "How many cans would you like to feed to the cystypigs, authorized user?"
-msgstr ""
+msgstr "Kolik plechovek chcete cystypigům podávat, autorizovaný uživateli?"
 
 #: conversations/04_monarch/0411/0411_cp_cystypig_pens:20
 msgctxt "conversations/04_monarch/0411/0411_cp_cystypig_pens:20:DefaultText"
@@ -103,7 +105,7 @@ msgid "C&P Factory Systems\r\n"
 "FOOD SUPPLY STATUS: Comprehensive nutritional assessment indicates the current administration of slop is... \r\n"
 "\r\n"
 ">>>Category 5 - Lethal"
-msgstr ""
+msgstr "C&P Factory Systems Cystypig Feeding Terminal 1 of 2 ======================== CYSTYPIG FEEDERS UNIT 1 of 2 STAV ZÁSOBOVÁNÍ KRMIVEM: >>>Kategorie 5 - Smrtelně nebezpečné"
 
 #: conversations/04_monarch/0411/0411_cp_cystypig_pens:21
 msgctxt "conversations/04_monarch/0411/0411_cp_cystypig_pens:21:DefaultText"
@@ -116,12 +118,12 @@ msgid "C&P Factory Systems\r\n"
 "FOOD SUPPLY STATUS: Comprehensive nutritional assessment indicates the current administration of slop is... \r\n"
 "\r\n"
 ">>>Category 2 - Toxic"
-msgstr ""
+msgstr "C&P Factory Systems Cystypig Feeding Terminal 1 of 2 ======================== CYSTYPIG FEEDERS UNIT 1 of 2 STAV ZÁSOBOVÁNÍ KRMIVEM: >>>Kategorie 2 - Toxické krmivo."
 
 #: conversations/04_monarch/0411/0411_cp_cystypig_pens:23
 msgctxt "conversations/04_monarch/0411/0411_cp_cystypig_pens:23:DefaultText"
 msgid "[Increase Daily Vitamin Administration to the Cystypigs' Feeding Troughs by 4000%]"
-msgstr ""
+msgstr "[Zvýšit denní přísun vitamínů do krmných žlabů cystypigů o 4000 %]"
 
 #: conversations/04_monarch/0411/0411_cp_cystypig_pens:27
 msgctxt "conversations/04_monarch/0411/0411_cp_cystypig_pens:27:DefaultText"
@@ -135,7 +137,7 @@ msgid "C&P Factory Systems\r\n"
 "FOOD SUPPLY STATUS: Comprehensive nutritional assessment indicates the current administration of slop is... \r\n"
 "\r\n"
 ">>>Category 2 - Toxic"
-msgstr ""
+msgstr "C&P Factory Systems Cystypig Feeding Terminal 1 of 2 ======================== CYSTYPIG FEEDERS UNIT 1 of 2 STAV ZÁSOBOVÁNÍ KRMIVEM: >>>Kategorie 2 - Toxické krmivo."
 
 #: conversations/04_monarch/0411/0411_cp_cystypig_pens:28
 msgctxt "conversations/04_monarch/0411/0411_cp_cystypig_pens:28:DefaultText"
@@ -149,7 +151,7 @@ msgid "C&P Factory Systems\r\n"
 "FOOD SUPPLY STATUS: Comprehensive nutritional assessment indicates the current administration of slop is... \r\n"
 "\r\n"
 ">>>Category 5 - Lethal"
-msgstr ""
+msgstr "C&P Factory Systems Cystypig Feeding Terminal 2 of 2 ======================== CYSTYPIG FEEDERS UNIT 1 of 2 STAV ZÁSOBOVÁNÍ KRMIVEM: >>>Kategorie 5 - Smrtelně nebezpečné"
 
 #: conversations/04_monarch/0411/0411_cp_cystypig_pens:29
 msgctxt "conversations/04_monarch/0411/0411_cp_cystypig_pens:29:DefaultText"
@@ -168,14 +170,16 @@ msgid "C&P Factory Systems\n"
 "The cystypigs get five cans of boarst per meal, per day, each. Not four, not six, not ten. That is FIVE, precisely. And I don't care how much they squeal at you or how pathetic-looking their sad little eyes are - if you over or under feed my stock I will carve each of your limbs away then run your shrieking body through the machine. Dreadful slow.\n"
 "\n"
 "-- end block quote Please select the action you would like to perform."
-msgstr ""
+msgstr "C&P Factory Systems Cystypig Feeding Terminal 2 z 2 ======================== AUTORIZOVANÝ UŽIVATEL SE PŘIHLÁSÍ SEXUÁLNĚ... ======================== Zdravím vás, autorizovaní pracovníci. Král by vám rád připomněl následující zprávu: \n"
+"\n"
+"začít blokovou citaci -- Cystypigové dostávají pět konzerv kančího masa na jedno jídlo, každý den. Ne čtyři, ne šest, ne deset. Přesněji řečeno PĚT. A je mi jedno, jak moc na vás kvičí nebo jak žalostně vypadají jejich smutná očka - jestli přikrmíte nebo podkrmíte moje zásoby, uřežu vám každou končetinu a pak vaše vřískající tělo proháním strojem. Strašně pomalu. -- konec blokové citace Vyberte prosím akci, kterou chcete provést."
 
 #: conversations/04_monarch/0411/0411_cp_cystypig_pens:41
 msgctxt "conversations/04_monarch/0411/0411_cp_cystypig_pens:41:DefaultText"
 msgid "[Increase Daily Vitamin Administration to the Cystypigs' Feeding Troughs by 4000%]"
-msgstr ""
+msgstr "[Zvýšit denní přísun vitamínů do krmných žlabů cystypigů o 4000 %]"
 
 #: conversations/04_monarch/0411/0411_cp_cystypig_pens:43
 msgctxt "conversations/04_monarch/0411/0411_cp_cystypig_pens:43:DefaultText"
 msgid "[Enter Feeding Amount: 5097346897 Cans]"
-msgstr ""
+msgstr "[Zadejte množství krmiva: 5097346897 plechovek]"

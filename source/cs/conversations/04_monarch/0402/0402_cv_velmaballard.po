@@ -1,844 +1,844 @@
 #: conversations/04_monarch/0402/0402_cv_velmaballard:1
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:1:DefaultText"
 msgid "Look, you can tell Catherine the new shipment'll be ready when it's ready, all right? She's welcome to come up here and pack boxes herself if she's in such a hurry."
-msgstr ""
+msgstr "Podívej, můžeš říct Catherine, že nová zásilka bude hotová, až bude hotová, dobře? Může sem přijít a zabalit si krabice sama, když tak spěchá."
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:13
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:13:DefaultText"
 msgid "I'd give you a friendlier welcome, but I'm up to my elbows in saltuna guts."
-msgstr ""
+msgstr "Přivítal bych tě přátelštěji, ale jsem až po lokty v saltuna střevech."
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:39
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:39:DefaultText"
 msgid "I'll talk to you later."
-msgstr ""
+msgstr "Promluvíme si později."
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:46
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:46:DefaultText"
 msgid "<Give her Braxton's ID> He was killed by cannibals out in the ruins."
-msgstr ""
+msgstr "<Dejte jí Braxtonův průkaz> Zabili ho kanibalové v ruinách."
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:49
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:49:DefaultText"
 msgid "That's... wow. I sure feel like an ass now."
-msgstr ""
+msgstr "To je... páni. Teď si připadám jako blbec."
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:51
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:51:DefaultText"
 msgid "What are you talking about? Catherine?"
-msgstr ""
+msgstr "O čem to mluvíte? O Kateřině?"
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:52
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:52:DefaultText"
 msgid "Catherine said she'd shove you in a box if you keep running your yap like that."
-msgstr ""
+msgstr "Catherine říkala, že tě strčí do krabice, jestli budeš takhle vyvádět."
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:53
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:53:DefaultText"
 msgid "Take it easy. I'm just looking around."
-msgstr ""
+msgstr "Buďte v klidu. Jen se rozhlížím."
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:54
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:54:DefaultText"
 msgid "Did she, now? Well, I can see I was mistaken. 'Cause if Catherine really had sent you, there'd be a lot more expletives in your message."
-msgstr ""
+msgstr "Opravdu? No, vidím, že jsem se mýlil. Protože kdyby tě Catherine opravdu poslala, bylo by v tvé zprávě mnohem víc výrazů."
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:55
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:55:DefaultText"
 msgid "Hope you can forgive my temper. This job's been running me ragged lately."
-msgstr ""
+msgstr "Doufám, že mi odpustíte můj temperament. Tahle práce mě poslední dobou dost vytáčí."
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:56
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:56:DefaultText"
 msgid "Your chief what?"
-msgstr ""
+msgstr "Váš šéf co?"
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:57
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:57:DefaultText"
 msgid "You should probably see a doctor about that."
-msgstr ""
+msgstr "Pravděpodobně bys měla navštívit lékaře."
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:58
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:58:DefaultText"
 msgid "Who's this Catherine you mentioned when I first came in here?"
-msgstr ""
+msgstr "Kdo je ta Catherine, o které jste se zmínil, když jsem sem přišel?"
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:59
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:59:DefaultText"
 msgid "SubLight boss out of Fallbrook. Handles most goods that come in or out of Stellar Bay. Has a mouth like a groundsick spacer."
-msgstr ""
+msgstr "Šéf společnosti SubLight z Fallbrooku. Vyřizuje většinu zboží, které přichází nebo odchází z Hvězdné zátoky. Má ústa jako nemocný mezerník."
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:60
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:60:DefaultText"
 msgid "Rumor has it she found herself on the wrong end of a loaded gun. But maybe that's just people talking."
-msgstr ""
+msgstr "Proslýchá se, že se ocitla na špatném konci nabité zbraně. Ale možná to jen lidé říkají."
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:61
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:61:DefaultText"
 msgid "Sorry, seems I got my cables crossed. Thought you were another shakedown tough from Fallbrook."
-msgstr ""
+msgstr "Omlouvám se, zdá se, že jsem si zkřížil kabely. Myslel jsem, že jsi další drsňák z Fallbrooku."
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:62
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:62:DefaultText"
 msgid "Well, if you're that friendly about it, then you definitely aren't one of Catherine's SubLight toughs. My mistake."
-msgstr ""
+msgstr "No, jestli se k tomu stavíš tak přátelsky, pak rozhodně nejsi jeden z Catherininých podsvětních drsňáků. Moje chyba."
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:63
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:63:DefaultText"
 msgid "I don't have time for this."
-msgstr ""
+msgstr "Nemám na to čas."
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:64
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:64:DefaultText"
 msgid "Tell me about your missing coworker."
-msgstr ""
+msgstr "Povězte mi o svém pohřešovaném spolupracovníkovi."
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:65
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:65:DefaultText"
 msgid "Braxton. He's in charge of getting the fish fat but also making sure they don't get too many tumors."
-msgstr ""
+msgstr "Braxton. Má na starosti, aby ryby byly tučné, ale také aby neměly příliš mnoho nádorů."
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:66
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:66:DefaultText"
 msgid "He's a real wizard with pharmaceuticals, but he has creative notions of working hours. Comes with living in a \"free\" colony, I guess."
-msgstr ""
+msgstr "S léky umí zacházet jako kouzelník, ale o pracovní době má kreativní představy. To asi patří k životu ve \"svobodné\" kolonii."
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:67
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:67:DefaultText"
 msgid "Don't you have rules about that sort of thing?"
-msgstr ""
+msgstr "Nemáte na takové věci nějaká pravidla?"
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:68
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:68:DefaultText"
 msgid "If you say so."
-msgstr ""
+msgstr "Když to říkáte."
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:69
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:69:DefaultText"
 msgid "He'll come back eventually. You can't constrain a person's freedom."
-msgstr ""
+msgstr "Nakonec se vrátí. Nemůžete omezit svobodu člověka."
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:70
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:70:DefaultText"
 msgid "So find him and drag him out by his ears!"
-msgstr ""
+msgstr "Tak ho najděte a vytáhněte ho za uši!"
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:72
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:72:DefaultText"
 msgid "I can't keep working double shifts, either."
-msgstr ""
+msgstr "Ani já nemůžu pracovat na dvě směny."
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:73
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:73:DefaultText"
 msgid "I would if I weren't busy here picking up his slack."
-msgstr ""
+msgstr "Udělal bych to, kdybych neměl práci s tím, že ho budu sbírat."
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:74
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:74:DefaultText"
 msgid "Since you don't seem to be constrained yourself, maybe you could check up on him. He lives in the apartments. "
-msgstr ""
+msgstr "Protože se nezdá, že bys byl sám omezen, možná bys ho mohl zkontrolovat. Bydlí v apartmánech. "
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:75
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:75:DefaultText"
 msgid "Tell him Velma said to get his lazy ass down here, or she might start noticing those extra drugs he's been taking from supply."
-msgstr ""
+msgstr "Řekni mu, že mu Velma řekla, aby sem přišel, jinak si může začít všímat těch léků, které bere ze zásob."
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:76
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:76:DefaultText"
 msgid "I've got some bad news about Braxton..."
-msgstr ""
+msgstr "Mám špatné zprávy o Braxtonovi..."
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:77
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:77:DefaultText"
 msgid "That he's got his load on and I'm stuck covering his shift?"
-msgstr ""
+msgstr "Že má na sobě náklad a já musím za něj zaskočit?"
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:80
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:80:DefaultText"
 msgid "Cheer up! Maybe now you can hire someone better."
-msgstr ""
+msgstr "Hlavu vzhůru! Možná teď můžete najmout někoho lepšího."
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:81
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:81:DefaultText"
 msgid "It's a rotten way to go."
-msgstr ""
+msgstr "Je to špatná cesta."
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:82
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:82:DefaultText"
 msgid "You definitely sounded like one."
-msgstr ""
+msgstr "Rozhodně jsi tak zněl."
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:83
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:83:DefaultText"
 msgid "Ease up. I'm running on a chronic shortage of sleep here."
-msgstr ""
+msgstr "Uvolněte se. Mám tu chronický nedostatek spánku."
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:84
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:84:DefaultText"
 msgid "Oh, sure. Because Monarch's just teeming with experts in the finer points of saltuna health."
-msgstr ""
+msgstr "Jistě. Protože Monarch se jen hemží odborníky na jemné aspekty zdraví saltuna."
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:85
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:85:DefaultText"
 msgid "Yeah, I wouldn't wish that on Catherine herself."
-msgstr ""
+msgstr "Jo, to bych nepřál ani Catherine."
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:86
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:86:DefaultText"
 msgid "Still, it's good to know what happened to him. And that I ought to start looking for a replacement."
-msgstr ""
+msgstr "Přesto je dobré vědět, co se mu stalo. A že bych měl začít hledat náhradu."
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:87
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:87:DefaultText"
 msgid "You said Braxton had been stealing drugs?"
-msgstr ""
+msgstr "Říkal jste, že Braxton kradl drogy?"
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:88
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:88:DefaultText"
 msgid "Stealing's such a nasty word. Let's call it skimming."
-msgstr ""
+msgstr "Krádež je tak ošklivé slovo. Říkejme tomu skimming."
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:89
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:89:DefaultText"
 msgid "And yeah, let's just say I've noticed the sterobiotics we use for the fish would get used a little faster on Braxton's shifts. "
-msgstr ""
+msgstr "A ano, řekněme, že jsem si všiml, že sterobiotika, která používáme pro ryby, se na Braxtonových směnách spotřebují o něco rychleji. "
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:90
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:90:DefaultText"
 msgid "Besides, the Spacer's Choice stuff we use is cheap enough. And Braxton knows how to get the saltuna fat and mostly tumor-free. "
-msgstr ""
+msgstr "Kromě toho je materiál Spacer's Choice, který používáme, dost levný. A Braxton ví, jak získat saltuna tuk a většinou bez nádorů. "
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:91
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:91:DefaultText"
 msgid "Awfully nice of you not to say anything."
-msgstr ""
+msgstr "Je od tebe hezké, že jsi nic neřekl."
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:92
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:92:DefaultText"
 msgid "Why didn't you turn him in?"
-msgstr ""
+msgstr "Proč jste ho neudal?"
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:93
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:93:DefaultText"
 msgid "You should've hung that sleazebag out to dry."
-msgstr ""
+msgstr "Měl jsi toho slizouna pověsit na hřebík."
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:94
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:94:DefaultText"
 msgid "We're not like those corporate towns where you get fined for sleeping on the wrong side of the bed. "
-msgstr ""
+msgstr "Nejsme jako v těch korporátních městech, kde dostanete pokutu za to, že spíte na špatné straně postele. "
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:95
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:95:DefaultText"
 msgid "Someone would've if this were a corporate town. But we pride ourselves on giving people a little breathing room."
-msgstr ""
+msgstr "Někdo by to udělal, kdyby šlo o korporátní město. Ale my jsme hrdí na to, že lidem dáváme trochu prostoru."
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:96
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:96:DefaultText"
 msgid "Or \"knew,\" I guess."
-msgstr ""
+msgstr "Nebo spíš \"věděl\"."
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:97
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:97:DefaultText"
 msgid "We're not keen on rules for rules' sake around here. Means Braxton skips work sometimes, but it also means no company boss is telling me when I can take a shit."
-msgstr ""
+msgstr "Nejsme příznivci pravidel pro pravidla. Znamená to, že Braxton občas vynechá práci, ale taky to znamená, že mi žádný šéf firmy neříká, kdy se můžu jít vysrat."
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:98
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:98:DefaultText"
 msgid "That's what Braxton is. He's our fish doctor."
-msgstr ""
+msgstr "Takový je Braxton. Je to náš rybí doktor."
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:99
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:99:DefaultText"
 msgid "Something else on your mind?"
-msgstr ""
+msgstr "Máte na mysli něco jiného?"
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:100
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:100:DefaultText"
 msgid "Fish oil... more fish oil... how does Braxton find anything?"
-msgstr ""
+msgstr "Rybí tuk... další rybí tuk... jak Braxton něco najde?"
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:102
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:102:DefaultText"
 msgid "I'm here to ask about Grimm's poster."
-msgstr ""
+msgstr "Přišel jsem se zeptat na Grimmův plakát."
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:103
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:103:DefaultText"
 msgid "This again? I swear, this is the last time I contract for any special requests."
-msgstr ""
+msgstr "Zase tohle? Přísahám, že tohle je naposledy, co jsem uzavřela smlouvu na zvláštní požadavky."
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:104
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:104:DefaultText"
 msgid "You can tell Grimm his poster came in. You can also tell him I got a better offer for it. So now it's going to Nell."
-msgstr ""
+msgstr "Můžeš Grimmovi říct, že přišel jeho plakát. Taky mu můžeš říct, že jsem za něj dostal lepší nabídku. Takže teď ho dostane Nell."
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:105
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:105:DefaultText"
 msgid "That about cover it?"
-msgstr ""
+msgstr "To je asi tak všechno?"
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:106
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:106:DefaultText"
 msgid "Who's Nell?"
-msgstr ""
+msgstr "Kdo je Nell?"
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:107
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:107:DefaultText"
 msgid "You still have the poster, right?"
-msgstr ""
+msgstr "Pořád máš ten plakát, že?"
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:108
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:108:DefaultText"
 msgid "You're just giving Grimm's poster away? Didn't he pay for it?"
-msgstr ""
+msgstr "Ty prostě rozdáváš Grimmův plakát? Nezaplatil za něj?"
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:109
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:109:DefaultText"
 msgid "Surely we can work something out."
-msgstr ""
+msgstr "Určitě se nám podaří něco vymyslet."
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:110
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:110:DefaultText"
 msgid "She runs the betting parlor across the way. Nice, professional lady."
-msgstr ""
+msgstr "Provozuje sázkovou kancelář naproti. Milá, profesionální dáma."
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:111
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:111:DefaultText"
 msgid "It's staying locked up in my office until Nell shows with her money."
-msgstr ""
+msgstr "Zůstane zamčený v mé kanceláři, dokud se Nell neukáže se svými penězi."
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:112
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:112:DefaultText"
 msgid "No, I paid SubLight for it, so it's mine. And when Nell pays me for it, it'll be hers. Grimm may have asked for the poster, but it's not his until I take his money."
-msgstr ""
+msgstr "Ne, zaplatil jsem za něj společnosti SubLight, takže je můj. A až mi za něj Nell zaplatí, bude její. Grimm si sice o plakát řekl, ale dokud si nevezmu jeho peníze, není jeho."
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:113
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:113:DefaultText"
 msgid "Sure can. If you wanna pay me more than Nell's offering."
-msgstr ""
+msgstr "Jistěže může. Pokud mi chceš zaplatit víc, než mi nabízí Nell."
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:114
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:114:DefaultText"
 msgid "She asked me about the poster once - just once. Made a real generous offer, too."
-msgstr ""
+msgstr "Jednou se mě zeptala na plakát - jen jednou. Udělala i opravdu velkorysou nabídku."
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:117
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:117:DefaultText"
 msgid "You won't do much business if your neighbors hate you. Consider this an investment."
-msgstr ""
+msgstr "Pokud vás sousedé nenávidí, moc obchodů neuděláte. Berte to jako investici."
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:118
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:118:DefaultText"
 msgid "Help me out here. I found Braxton, didn't I?"
-msgstr ""
+msgstr "Pomozte mi. Našel jsem Braxtona, že?"
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:119
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:119:DefaultText"
 msgid "Work with me. I'm helping you find Braxton, aren't I?"
-msgstr ""
+msgstr "Pracujte se mnou. Pomáhám ti najít Braxtona, že?"
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:120
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:120:DefaultText"
 msgid "Take <oeiglobal>Bribe_Amount</oeiglobal> bits for the time Grimm's wasted. He'll still pay for the poster."
-msgstr ""
+msgstr "Vezměte si <oeiglobal>Bribe_Amount</oeiglobal> bity za čas, který Grimm promarnil. Za plakát ještě zaplatí."
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:121
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:121:DefaultText"
 msgid "I got a feeling you and Catherine would get on like tumors on a pig."
-msgstr ""
+msgstr "Mám pocit, že si s Catherine budete rozumět jako nádor s prasetem."
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:122
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:122:DefaultText"
 msgid "Fair enough. The damn thing's been a headache, anyway."
-msgstr ""
+msgstr "To je fér. Stejně mě z té zatracené věci bolí hlava."
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:123
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:123:DefaultText"
 msgid "Sure. And once you've finished helping me, then we can talk about the poster."
-msgstr ""
+msgstr "Jistě. A až mi přestaneš pomáhat, můžeme si promluvit o plakátu."
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:124
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:124:DefaultText"
 msgid "Damn right he will. Hopefully that'll be the last I see of him for a while."
-msgstr ""
+msgstr "To si pište, že ano. Doufejme, že to bylo na nějakou dobu naposledy, co jsem ho viděl."
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:125
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:125:DefaultText"
 msgid "Take the poster, then. And if I never hear another word about it, it'll be too soon."
-msgstr ""
+msgstr "Vezměte si tedy plakát. A pokud o něm už nikdy neuslyším, bude to příliš brzy."
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:126
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:126:DefaultText"
 msgid "Can we come to an arrangement on Grimm's poster?"
-msgstr ""
+msgstr "Můžeme se dohodnout na Grimmově plakátu?"
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:127
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:127:DefaultText"
 msgid "Nell's dead. She won't be paying for anything."
-msgstr ""
+msgstr "Nell je mrtvá. Nebude za nic platit."
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:128
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:128:DefaultText"
 msgid "Nell's no longer interested in the poster."
-msgstr ""
+msgstr "Nell už plakát nezajímá."
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:129
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:129:DefaultText"
 msgid "That's real sad. She was a genuinely nice lady, you know? "
-msgstr ""
+msgstr "To je opravdu smutné. Byla to opravdu milá dáma, víte? "
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:130
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:130:DefaultText"
 msgid "That's a surprise. Tossball being part of her business and all."
-msgstr ""
+msgstr "To je překvapení. Tossball je součástí jejího podnikání a tak."
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:131
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:131:DefaultText"
 msgid "First my auto loader foreman stages a walkout, and now my chief pescatological health manager is missing."
-msgstr ""
+msgstr "Nejdřív můj předák autonakladačů podá výpověď a teď chybí můj hlavní peskatologický manažer."
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:132
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:132:DefaultText"
 msgid "What's this about your foreman?"
-msgstr ""
+msgstr "Co je to s vaším předákem?"
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:133
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:133:DefaultText"
 msgid "Let's talk about Caleb."
-msgstr ""
+msgstr "Promluvme si o Calebovi."
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:134
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:134:DefaultText"
 msgid "Caleb Herrick. Runs the auto loader operators. He thinks I don't pay them enough for flipping switches and turning dials."
-msgstr ""
+msgstr "Caleb Herrick. Provozuje obsluhu automatického nakladače. Myslí si, že jim málo platím za přepínání vypínačů a otáčení ovladači."
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:135
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:135:DefaultText"
 msgid "He and his whole crew walked out. Say they won't come back unless I pay them more."
-msgstr ""
+msgstr "On i celá jeho posádka odešli. Řekli, že se nevrátí, pokud jim nezaplatím víc."
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:136
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:136:DefaultText"
 msgid "I can talk to Caleb for you."
-msgstr ""
+msgstr "Můžu za tebe promluvit s Calebem."
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:137
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:137:DefaultText"
 msgid "Why don't you just pay them more?"
-msgstr ""
+msgstr "Proč jim prostě nezaplatíte víc?"
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:138
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:138:DefaultText"
 msgid "Surely you can make them come back."
-msgstr ""
+msgstr "Jistě je můžete přimět, aby se vrátili."
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:139
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:139:DefaultText"
 msgid "Let's talk about something else."
-msgstr ""
+msgstr "Promluvme si o něčem jiném."
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:140
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:140:DefaultText"
 msgid "You mind slapping him around a little while you're at it?"
-msgstr ""
+msgstr "Nevadilo by ti, kdybys ho při tom trochu propleskl?"
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:141
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:141:DefaultText"
 msgid "Because we've got a budget, all right? And in case you haven't noticed, MSI doesn't exactly have a lot of spare bits on hand."
-msgstr ""
+msgstr "Protože máme rozpočet, jasný? A pokud jste si nevšimli, MSI nemá po ruce zrovna mnoho náhradních kusů."
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:142
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:142:DefaultText"
 msgid "Not on Monarch. Sanjar threw out the old work mandates and penalties."
-msgstr ""
+msgstr "Ne na Monarchu. Sanjar zrušil staré pracovní mandáty a tresty."
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:143
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:143:DefaultText"
 msgid "Fine by me."
-msgstr ""
+msgstr "Mně to vyhovuje."
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:144
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:144:DefaultText"
 msgid "If you can find a way to get him back to work, I'll make it worth your while. Check The Yacht Club - he's usually there."
-msgstr ""
+msgstr "Pokud najdete způsob, jak ho dostat zpátky do práce, bude to stát za to. Zkontroluj Yacht Club - obvykle tam bývá."
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:146
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:146:DefaultText"
 msgid "Sure. Until your workers start making ridiculous demands."
-msgstr ""
+msgstr "Jistě. Dokud vaši zaměstnanci nezačnou vznášet směšné požadavky."
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:147
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:147:DefaultText"
 msgid "Unless you're here to tell me he's agreed to do his job again, I've got nothing to say."
-msgstr ""
+msgstr "Pokud mi nechcete říct, že souhlasil s tím, že bude znovu dělat svou práci, nemám k tomu co říct."
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:148
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:148:DefaultText"
 msgid "I saw your accounts. You've been skimming money for years. You can afford to pay more."
-msgstr ""
+msgstr "Viděl jsem vaše účty. Peníze z nich strháváte už léta. Můžete si dovolit platit víc."
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:149
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:149:DefaultText"
 msgid "If you hire SubLight, you'll just give them more control over your business."
-msgstr ""
+msgstr "Pokud si najmete společnost SubLight, jen jí poskytnete větší kontrolu nad svým podnikáním."
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:150
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:150:DefaultText"
 msgid "I know you're taking a percentage off the top. What would Sanjar say if I told him?"
-msgstr ""
+msgstr "Vím, že si strháváte procenta z horní hranice. Co by Sanjar řekl, kdybych mu to řekl?"
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:151
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:151:DefaultText"
 msgid "Why can't you give him his pay increase?"
-msgstr ""
+msgstr "Proč mu nemůžete zvýšit plat?"
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:152
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:152:DefaultText"
 msgid "Caleb says they need a raise to keep up with prices around here."
-msgstr ""
+msgstr "Caleb říká, že potřebují zvýšit plat, aby udrželi krok s cenami v okolí."
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:153
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:153:DefaultText"
 msgid "I don't have the bits for it. Plain and simple."
-msgstr ""
+msgstr "Nemám k tomu potřebné kousky. Prostě a jednoduše."
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:154
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:154:DefaultText"
 msgid "Besides, if I make an exception for him, I gotta do the same for everyone."
-msgstr ""
+msgstr "Kromě toho, když udělám výjimku pro něj, musím udělat totéž pro všechny."
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:155
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:155:DefaultText"
 msgid "They're hard workers, aren't they? Don't they deserve some compensation for that?"
-msgstr ""
+msgstr "Jsou to dříči, že? Nezaslouží si za to nějakou odměnu?"
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:156
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:156:DefaultText"
 msgid "Tell him to complain to Catherine in Fallbrook, not me. SubLight's demanding more money for the same contracts, which means we're all in the same boat."
-msgstr ""
+msgstr "Ať si stěžuje Catherine ve Fallbrooku, ne mně. SubLight požaduje více peněz za stejné smlouvy, což znamená, že jsme všichni na stejné lodi."
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:157
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:157:DefaultText"
 msgid "If Caleb wants to keep this job, he'd better get back to it. I'm about ready to hire SubLight contractors at this rate."
-msgstr ""
+msgstr "Jestli si chce Caleb tuhle práci udržet, měl by se k ní vrátit. Tímhle tempem jsem skoro připraven najmout sublightové dodavatele."
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:158
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:158:DefaultText"
 msgid "Hard workers? They turn dials and flip switches. The machines do all the actual work."
-msgstr ""
+msgstr "Těžce pracující? Otáčejí ovladači a přepínači. Všechnu skutečnou práci dělají stroje."
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:159
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:159:DefaultText"
 msgid "Caleb and his crew have it better than anyone else around here, I'll tell you that much."
-msgstr ""
+msgstr "Caleb a jeho parta to mají lepší než kdokoli jiný tady, to vám povím."
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:161
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:161:DefaultText"
 msgid "You've already lost Braxton. Can you afford to lose Caleb's entire team?"
-msgstr ""
+msgstr "Braxtona jste už ztratili. Můžete si dovolit ztratit celý Calebův tým?"
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:162
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:162:DefaultText"
 msgid "Are you willing to meet Caleb halfway?"
-msgstr ""
+msgstr "Jste ochotni vyjít Calebovi vstříc?"
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:163
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:163:DefaultText"
 msgid "Sanjar's gonna notice your shortfalls before long. And he'll hold YOU responsible."
-msgstr ""
+msgstr "Sanjar si brzy všimne tvých nedostatků. A bude tě za to činit zodpovědným."
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:164
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:164:DefaultText"
 msgid "Yeah, and did you miss the part where I'm working doubles to cover for everyone who decides not to show?"
-msgstr ""
+msgstr "Jo, a přehlédl jsi tu část, kde pracuji na dvojnásobku, abych zastoupil všechny, kteří se rozhodnou nepřijít?"
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:165
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:165:DefaultText"
 msgid "Same thing as me - where's your proof? 'Cause I know no one's been poking around my terminal lately."
-msgstr ""
+msgstr "Stejně jako já - kde máte důkaz? Protože vím, že se v mém terminálu v poslední době nikdo nehrabal."
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:166
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:166:DefaultText"
 msgid "You know, I... hadn't thought of it that way. Last thing I need is Catherine Malin even farther up my ass than she already is."
-msgstr ""
+msgstr "Víš, já... jsem o tom takhle nepřemýšlel. Poslední věc, kterou potřebuju, je, aby mi Catherine Malinová lezla ještě víc do zadku, než už je."
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:167
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:167:DefaultText"
 msgid "I don't even want to think about that. Or how far behind Braxton's loss alone is going to put us."
-msgstr ""
+msgstr "Na to nechci ani pomyslet. Nebo o tom, jak moc nás Braxtonova ztráta posune do pozadí."
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:168
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:168:DefaultText"
 msgid "Maybe so, but I bet you Caleb runs out of bits first. Then he'll have to come back."
-msgstr ""
+msgstr "Možná ano, ale vsadím se, že Calebovi dojdou kousky jako prvnímu. Pak se bude muset vrátit."
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:169
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:169:DefaultText"
 msgid "For running me ragged while he takes an extended leave at the bar? Not on your life."
-msgstr ""
+msgstr "Za to, že mě vytěžuje, zatímco si bere delší dovolenou v baru? Ne na tvůj život."
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:170
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:170:DefaultText"
 msgid "I'm the one who keeps this place running. That money's mine, one way or another."
-msgstr ""
+msgstr "Já jsem ten, kdo udržuje tohle místo v chodu. Ty peníze jsou moje, ať tak či onak."
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:171
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:171:DefaultText"
 msgid "And what do you think Sanjar will say to that?"
-msgstr ""
+msgstr "A co myslíte, že na to řekne Sanjar?"
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:172
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:172:DefaultText"
 msgid "That sounds remarkably like Caleb's argument."
-msgstr ""
+msgstr "To zní pozoruhodně podobně jako Calebův argument."
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:173
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:173:DefaultText"
 msgid "Fine. Tell Caleb he and his team can have their raise, but I need them back here immediately."
-msgstr ""
+msgstr "V pořádku. Řekni Calebovi, že on a jeho tým si mohou nechat přidat, ale potřebuji je okamžitě zpátky."
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:174
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:174:DefaultText"
 msgid "...Just as a, uh, hypothetical. Nothing to see on my terminal, of course. 'Cause I've done nothing wrong."
-msgstr ""
+msgstr "...Jen hypoteticky. Na mém terminálu samozřejmě není nic vidět. Protože jsem neudělal nic špatného."
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:176
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:176:DefaultText"
 msgid "That terminal over yonder?"
-msgstr ""
+msgstr "Ten terminál támhle?"
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:177
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:177:DefaultText"
 msgid "Are you absolutely sure of that, Ms. Ballard? "
-msgstr ""
+msgstr "Jste si tím naprosto jistá, paní Ballardová? "
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:178
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:178:DefaultText"
 msgid "I'm in the wrong business if a woman this dense can get away with robbing her company."
-msgstr ""
+msgstr "Jsem ve špatném oboru, když takhle husté ženě projde okrádání firmy."
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:179
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:179:DefaultText"
 msgid "Wow. I'm at a loss for words."
-msgstr ""
+msgstr "Páni. Nemám slov."
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:180
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:180:DefaultText"
 msgid "MSI's gonna have a hard time getting legitimacy if everyone's so uptight about a little embezzlement."
-msgstr ""
+msgstr "MSI bude mít problém získat legitimitu, když jsou všichni tak upjatí kvůli malé zpronevěře."
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:181
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:181:DefaultText"
 msgid "He says he's got a stash to tide his crew over. Could be he's all talk, but if the money's real, I bet you he keeps it at home. Near the diner."
-msgstr ""
+msgstr "Říká, že má zásoby, aby mohl přežít. Možná jen mluví, ale jestli jsou ty peníze skutečné, vsadím se, že je má doma. Blízko bistra."
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:182
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:182:DefaultText"
 msgid "He's getting his raise. I don't see that we've got any more to say on the matter."
-msgstr ""
+msgstr "Dostane přidáno. Nevidím, že bychom k tomu měli co říct."
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:184
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:184:DefaultText"
 msgid "You knocked any sense into him yet?"
-msgstr ""
+msgstr "Už jsi z něj dostal rozum?"
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:185
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:185:DefaultText"
 msgid "I told him you were about to lose your job. He said he'd come back."
-msgstr ""
+msgstr "Řekl jsem mu, že přijdeš o práci. Řekl, že se vrátí."
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:186
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:186:DefaultText"
 msgid "Caleb's suddenly too broke to strike. He's coming back to work."
-msgstr ""
+msgstr "Caleb je najednou příliš zlomený, aby mohl udeřit. Vrací se do práce."
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:187
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:187:DefaultText"
 msgid "Caleb and his crew will return to work immediately."
-msgstr ""
+msgstr "Caleb a jeho posádka se okamžitě vrátí do práce."
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:188
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:188:DefaultText"
 msgid "Well, that's... awful nice of him. Sure wouldn't have expected that."
-msgstr ""
+msgstr "No, to je od něj... strašně milé. To bych určitě nečekal."
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:189
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:189:DefaultText"
 msgid "Funny how that works out."
-msgstr ""
+msgstr "Je zvláštní, jak to funguje."
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:190
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:190:DefaultText"
 msgid "Sweetest words I've heard all day."
-msgstr ""
+msgstr "Nejsladší slova, která jsem dnes slyšel."
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:191
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:191:DefaultText"
 msgid "Thanks for your help - you've gotten me out of a tight spot here. Take this for your efforts - honest work deserves honest pay."
-msgstr ""
+msgstr "Děkuji za pomoc - dostali jste mě z úzkých. Vezměte si to za své úsilí - poctivá práce si zaslouží poctivou odměnu."
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:193
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:193:DefaultText"
 msgid "Unless you're here to tell me he's agreed to do his job again, I've got nothing to say."
-msgstr ""
+msgstr "Pokud mi nechcete říct, že souhlasil s tím, že bude znovu dělat svou práci, nemám k tomu co říct."
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:194
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:194:DefaultText"
 msgid "That's good, right?"
-msgstr ""
+msgstr "To je dobře, ne?"
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:195
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:195:DefaultText"
 msgid "Too bad."
-msgstr ""
+msgstr "Škoda."
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:196
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:196:DefaultText"
 msgid "Tell me about it."
-msgstr ""
+msgstr "Řekni mi o tom."
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:199
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:199:DefaultText"
 msgid "I'm joking. Mostly. Unless you could do it without hurting his job performance."
-msgstr ""
+msgstr "Dělám si legraci. Většinou. Ledaže bys to mohl udělat, aniž bys poškodil jeho pracovní výkon."
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:200
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:200:DefaultText"
 msgid "So it's about the money."
-msgstr ""
+msgstr "Jde tedy o peníze."
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:201
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:201:DefaultText"
 msgid "She does sound... easier to deal with."
-msgstr ""
+msgstr "Zní to... jednodušeji."
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:202
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:202:DefaultText"
 msgid "Damn right it is."
-msgstr ""
+msgstr "To si pište, že je."
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:203
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:203:DefaultText"
 msgid "I don't have time for Grimm. Even when I'm not working doubles."
-msgstr ""
+msgstr "Na Grimma nemám čas. Dokonce ani když nepracuji na dvojicích."
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:204
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:204:DefaultText"
 msgid "So the job's easy. But you're not doing it? Something smells here. I mean, everything smells in here, but something's fishy. Uh, wait..."
-msgstr ""
+msgstr "Takže práce je snadná. Ale vy ji neděláte? Něco tu smrdí. Chci říct, že tu smrdí všechno, ale něco je tu podezřelé. Počkej..."
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:205
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:205:DefaultText"
 msgid "I'll wager she don't pay those folks that maintain the mechanicals decent neither."
-msgstr ""
+msgstr "Vsadím se, že ani ona neplatí lidem, kteří se starají o mechaniku, slušně."
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:206
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:206:DefaultText"
 msgid "She's principled - in at least this area. I will begrudgingly give her that. "
-msgstr ""
+msgstr "Je zásadová - přinejmenším v této oblasti. To se jí musí nechat. "
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:207
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:207:DefaultText"
 msgid "Ironic, isn't it?"
-msgstr ""
+msgstr "Ironie, že?"
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:208
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:208:DefaultText"
 msgid "You'd steal from your own people? That's low, ma'am."
-msgstr ""
+msgstr "Kradl bys svým vlastním lidem? To je nízké, madam."
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:209
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:209:DefaultText"
 msgid "That's business. Someone's gotta keep the lights on."
-msgstr ""
+msgstr "To je obchod. Někdo musí udržet světla."
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:210
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:210:DefaultText"
 msgid "I know you're taking a percentage off the top. What would people say if I told them?"
-msgstr ""
+msgstr "Vím, že si strháváte procenta z horní hranice. Co by lidé řekli, kdybych jim to řekl?"
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:211
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:211:DefaultText"
 msgid "Someone's going to notice your shortfalls before long. You're going to be held responsible."
-msgstr ""
+msgstr "Někdo si vašich nedostatků brzy všimne. Budete za to zodpovědní."
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:212
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:212:DefaultText"
 msgid "SAM units do not come equipped to lie. To order a special attachment, consult the parts manual labeled 5c-7849."
-msgstr ""
+msgstr "Jednotky SAM nejsou vybaveny tak, aby mohly lhát. Chcete-li si objednat speciální nástavec, nahlédněte do příručky k dílům s označením 5c-7849."
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:213
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:213:DefaultText"
 msgid "Thank you. I think."
-msgstr ""
+msgstr "Děkujeme. Myslím, že."
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:214
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:214:DefaultText"
 msgid "I never did catch her name. She seemed real friendly."
-msgstr ""
+msgstr "Nikdy jsem nezachytil její jméno. Vypadala opravdu přátelsky."
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:215
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:215:DefaultText"
 msgid "Nice hair, slightly oblivious. You must be the infamous Felix. "
-msgstr ""
+msgstr "Pěkné vlasy, lehce zapomnětlivý. Ty musíš být ten nechvalně známý Felix. "
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:216
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:216:DefaultText"
 msgid "Who spat in your spirits, Velma?"
-msgstr ""
+msgstr "Kdo ti plivl do duše, Velmo?"
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:217
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:217:DefaultText"
 msgid "You noticed my mood? I'm surprised you can see straight today."
-msgstr ""
+msgstr "Všiml sis mé nálady? Překvapuje mě, že dnes vidíš přímo."
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:218
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:218:DefaultText"
 msgid "I could be seeing triple and I'd still think you're being unkind. I just might find it funnier."
-msgstr ""
+msgstr "Mohl bych vidět trojnásobek a stejně bych si myslel, že jsi nevlídný. Jen by mi to možná přišlo vtipnější."
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:219
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:219:DefaultText"
 msgid "You try wrangling a half ton of dead fish with decades-old equipment and see what it does for your disposition."
-msgstr ""
+msgstr "Zkuste si s desítky let starým zařízením přetáhnout půl tuny mrtvých ryb a uvidíte, co to udělá s vaší náladou."
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:220
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:220:DefaultText"
 msgid "Anyway, what do you folks need?"
-msgstr ""
+msgstr "Co potřebujete vy?"
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:221
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:221:DefaultText"
 msgid "Come on. That's like calling a dentist a doctor."
-msgstr ""
+msgstr "No tak. To je jako nazývat zubaře doktorem."
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:222
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:222:DefaultText"
 msgid "Gosh, this old girl's in a rough way. Even old Bess in Edgewater was in better shape than this."
-msgstr ""
+msgstr "Páni, tahle stará holka je na tom špatně. I stará Bess v Edgewateru na tom byla líp než tahle."
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:223
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:223:DefaultText"
 msgid "Hey, you wanna try running a cannery with obsolete machinery, you be my guest."
-msgstr ""
+msgstr "Hej, jestli chceš zkusit provozovat konzervárnu se zastaralými stroji, tak si posluž."
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:224
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:224:DefaultText"
 msgid "I'm sorry, ma'am, I wasn't tryin' to be rude, it's just your flanging apparatus isn't making a strong flange, so your sealer isn't sealin' right, and-"
-msgstr ""
+msgstr "Omlouvám se, madam, nechtěl jsem být nezdvořilý, ale vaše obrubovací zařízení nedělá silnou přírubu, takže váš tmel netěsní správně a..."
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:225
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:225:DefaultText"
 msgid "Oh, I see what you're saying. Huh. I'll have to try that."
-msgstr ""
+msgstr "Aha, už chápu, co říkáte. Huh. Budu to muset zkusit."
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:228
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:228:DefaultText"
 msgid "These MSI types are living the dream."
-msgstr ""
+msgstr "Tito MSI žijí svůj sen."
 
 #: conversations/04_monarch/0402/0402_cv_velmaballard:229
 msgctxt "conversations/04_monarch/0402/0402_cv_velmaballard:229:DefaultText"
 msgid "Yeah, Nell's good people. You should catch a game with her sometime."
-msgstr ""
+msgstr "Jo, Nell jsou dobří lidé. Měli byste si s ní někdy zahrát."

@@ -6,12 +6,12 @@ msgid "Edgewater Saltuna Cannery\r\n"
 "========================\r\n"
 "\r\n"
 "Notifications - Lost and Found"
-msgstr ""
+msgstr "Edgewater Saltuna Cannery A Spacer's Choice Property ======================== Oznámení - Ztráty a nálezy"
 
 #: conversations/00_emerald_vale/00_cp_cannery_terminal_02:2
 msgctxt "conversations/00_emerald_vale/00_cp_cannery_terminal_02:2:DefaultText"
 msgid "[Logs]"
-msgstr ""
+msgstr "[Deníky]"
 
 #: conversations/00_emerald_vale/00_cp_cannery_terminal_02:3
 msgctxt "conversations/00_emerald_vale/00_cp_cannery_terminal_02:3:DefaultText"
@@ -23,14 +23,14 @@ msgid "Edgewater Saltuna Cannery\r\n"
 "[FOUND]: One (1) left hand. Severed at the wrist. Some bone damage.\r\n"
 "\r\n"
 "People. This is our second unscheduled amputation in as many months. Please exercise caution and safety around machinery. Maintenance fees will be deducted from your pay."
-msgstr ""
+msgstr "Edgewater Saltuna Cannery A Spacer's Choice Property ======================== [FOUND]: Jedna (1) levá ruka. Oddělená v zápěstí. Nějaké poškození kostí. Lidé. Toto je naše druhá neplánovaná amputace během několika měsíců. Dbejte prosím opatrnosti a bezpečnosti v blízkosti strojů. Z vašeho platu budou strženy poplatky za údržbu."
 
 #: conversations/00_emerald_vale/00_cp_cannery_terminal_02:4
 msgctxt "conversations/00_emerald_vale/00_cp_cannery_terminal_02:4:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"
 
 #: conversations/00_emerald_vale/00_cp_cannery_terminal_02:5
 msgctxt "conversations/00_emerald_vale/00_cp_cannery_terminal_02:5:DefaultText"
 msgid "[Return to Root]"
-msgstr ""
+msgstr "[Zpět na kořen]"

@@ -1,94 +1,94 @@
 #: conversations/00_emerald_vale/0004_geothermal_plant/0004_cv_soldier_leader:1
 msgctxt "conversations/00_emerald_vale/0004_geothermal_plant/0004_cv_soldier_leader:1:DefaultText"
 msgid "It's not the best choice. It's Spacer's Choice."
-msgstr ""
+msgstr "Není to nejlepší volba. Je to volba Spacer's Choice."
 
 #: conversations/00_emerald_vale/0004_geothermal_plant/0004_cv_soldier_leader:2
 msgctxt "conversations/00_emerald_vale/0004_geothermal_plant/0004_cv_soldier_leader:2:DefaultText"
 msgid "You're a stickler for the rules. I'm sure Adjutant Akande will appreciate that."
-msgstr ""
+msgstr "Jsi puntičkář, co se týče pravidel. Jsem si jistý, že to adjutant Akande ocení."
 
 #: conversations/00_emerald_vale/0004_geothermal_plant/0004_cv_soldier_leader:3
 msgctxt "conversations/00_emerald_vale/0004_geothermal_plant/0004_cv_soldier_leader:3:DefaultText"
 msgid "Oh! Uh - yes. Absolutely. A real stickler for the rules. Hard-ass Hogarth - that's what they call me."
-msgstr ""
+msgstr "Oh! Uh - ano. Rozhodně. Opravdový puntičkář, co se týče pravidel. Tvrdý Hogarth - tak mi říkají."
 
 #: conversations/00_emerald_vale/0004_geothermal_plant/0004_cv_soldier_leader:4
 msgctxt "conversations/00_emerald_vale/0004_geothermal_plant/0004_cv_soldier_leader:4:DefaultText"
 msgid "Corporate sent me to keep an eye on you. I'll have to include this in my report."
-msgstr ""
+msgstr "Společnost mě poslala, abych na vás dohlédl. Budu to muset zahrnout do své zprávy."
 
 #: conversations/00_emerald_vale/0004_geothermal_plant/0004_cv_soldier_leader:5
 msgctxt "conversations/00_emerald_vale/0004_geothermal_plant/0004_cv_soldier_leader:5:DefaultText"
 msgid "Damn it. You're with our claims department, right? I told those idiots to call me the moment you landed."
-msgstr ""
+msgstr "Sakra. Jste z našeho reklamačního oddělení, že? Řekl jsem těm idiotům, aby mi zavolali, jakmile přistanete."
 
 #: conversations/00_emerald_vale/0004_geothermal_plant/0004_cv_soldier_leader:6
 msgctxt "conversations/00_emerald_vale/0004_geothermal_plant/0004_cv_soldier_leader:6:DefaultText"
 msgid "Take it easy, soldier. I'm just looking around."
-msgstr ""
+msgstr "Uklidni se, vojáku. Jen se rozhlížím."
 
 #: conversations/00_emerald_vale/0004_geothermal_plant/0004_cv_soldier_leader:7
 msgctxt "conversations/00_emerald_vale/0004_geothermal_plant/0004_cv_soldier_leader:7:DefaultText"
 msgid "This is a restricted area. That means no exploring, no loitering, and no soliciting. Company policy."
-msgstr ""
+msgstr "Jedná se o oblast s omezeným přístupem. To znamená, že se zde nesmí procházet, potulovat a obtěžovat. Zásady společnosti."
 
 #: conversations/00_emerald_vale/0004_geothermal_plant/0004_cv_soldier_leader:9
 msgctxt "conversations/00_emerald_vale/0004_geothermal_plant/0004_cv_soldier_leader:9:DefaultText"
 msgid "This area is currently experiencing a surprise audit. Turn around and head back to your designated workplace or domicile. "
-msgstr ""
+msgstr "V této oblasti právě probíhá nečekaný audit. Otočte se a vraťte se na určené pracoviště nebo do místa bydliště. "
 
 #: conversations/00_emerald_vale/0004_geothermal_plant/0004_cv_soldier_leader:10
 msgctxt "conversations/00_emerald_vale/0004_geothermal_plant/0004_cv_soldier_leader:10:DefaultText"
 msgid "Look, I've got enough paperwork to deal with. Go back the way you came, and I'll pretend this infraction never happened."
-msgstr ""
+msgstr "Podívejte, mám dost papírování. Vraťte se zpátky a já budu předstírat, že se tenhle přestupek nestal."
 
 #: conversations/00_emerald_vale/0004_geothermal_plant/0004_cv_soldier_leader:11
 msgctxt "conversations/00_emerald_vale/0004_geothermal_plant/0004_cv_soldier_leader:11:DefaultText"
 msgid "I'll be on my way."
-msgstr ""
+msgstr "Už budu na cestě."
 
 #: conversations/00_emerald_vale/0004_geothermal_plant/0004_cv_soldier_leader:12
 msgctxt "conversations/00_emerald_vale/0004_geothermal_plant/0004_cv_soldier_leader:12:DefaultText"
 msgid "Don't let me get in your way. Go on through."
-msgstr ""
+msgstr "Nenech mě, abych ti stál v cestě. Projděte."
 
 #: conversations/00_emerald_vale/0004_geothermal_plant/0004_cv_soldier_leader:13
 msgctxt "conversations/00_emerald_vale/0004_geothermal_plant/0004_cv_soldier_leader:13:DefaultText"
 msgid "Constable's office sent me. See, I've got this badge right here."
-msgstr ""
+msgstr "Poslala mě kancelář strážníka. Vidíte, mám tady tenhle odznak."
 
 #: conversations/00_emerald_vale/0004_geothermal_plant/0004_cv_soldier_leader:14
 msgctxt "conversations/00_emerald_vale/0004_geothermal_plant/0004_cv_soldier_leader:14:DefaultText"
 msgid "What in Law's name? Junior Deputy Constable? Says here you were deputized by Constable Reyes of Edgewater."
-msgstr ""
+msgstr "Jak se jmenuje Law? Mladší zástupce strážníka? Píše se tu, že vás zastupoval konstábl Reyes z Edgewateru."
 
 #: conversations/00_emerald_vale/0004_geothermal_plant/0004_cv_soldier_leader:15
 msgctxt "conversations/00_emerald_vale/0004_geothermal_plant/0004_cv_soldier_leader:15:DefaultText"
 msgid "Well, can't say I ever heard of the Junior Deputy Constable position, but everything looks to be in order."
-msgstr ""
+msgstr "No, nemůžu říct, že bych někdy slyšel o pozici mladšího zástupce strážníka, ale vypadá to, že je všechno v pořádku."
 
 #: conversations/00_emerald_vale/0004_geothermal_plant/0004_cv_soldier_leader:16
 msgctxt "conversations/00_emerald_vale/0004_geothermal_plant/0004_cv_soldier_leader:16:DefaultText"
 msgid "That's - uh, that's Hogarth with one 'G' by the way, if you're putting in a good word with the honorable Adjutant."
-msgstr ""
+msgstr "To je - ehm, to je Hogarth s jedním \"G\", mimochodem, jestli se chceš přimluvit u ctihodného adjutanta."
 
 #: conversations/00_emerald_vale/0004_geothermal_plant/0004_cv_soldier_leader:17
 msgctxt "conversations/00_emerald_vale/0004_geothermal_plant/0004_cv_soldier_leader:17:DefaultText"
 msgid "Hey, I warned you!"
-msgstr ""
+msgstr "Hej, varoval jsem tě!"
 
 #: conversations/00_emerald_vale/0004_geothermal_plant/0004_cv_soldier_leader:19
 msgctxt "conversations/00_emerald_vale/0004_geothermal_plant/0004_cv_soldier_leader:19:DefaultText"
 msgid "Describe the nature of the accident. Uh. Let's say catastrophic mechanical failure."
-msgstr ""
+msgstr "Popište povahu nehody. Uh. Řekněme katastrofální mechanické selhání."
 
 #: conversations/00_emerald_vale/0004_geothermal_plant/0004_cv_soldier_leader:20
 msgctxt "conversations/00_emerald_vale/0004_geothermal_plant/0004_cv_soldier_leader:20:DefaultText"
 msgid "Damn. How do you spell catastrophic again? Two t's or two r's?"
-msgstr ""
+msgstr "Zatraceně. Jak se píše katastrofální? Dvě \"t\" nebo dvě \"r\"?"
 
 #: conversations/00_emerald_vale/0004_geothermal_plant/0004_cv_soldier_leader:22
 msgctxt "conversations/00_emerald_vale/0004_geothermal_plant/0004_cv_soldier_leader:22:DefaultText"
 msgid "Don't let me get in your way. Go on through."
-msgstr ""
+msgstr "Nenech mě, abych ti stál v cestě. Projděte."

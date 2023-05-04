@@ -1,564 +1,564 @@
 #: conversations/04_monarch/0401/0401_cv_huxley_iconoclast:41
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_iconoclast:41:DefaultText"
 msgid "AHH! Whew! Thank you so much! It was getting all stuffy in there and I was getting a mite light-headed and I think maybe I was gonna die."
-msgstr ""
+msgstr "AHH! Uf! Moc vám děkuji! Začínalo tam být dusno a trochu se mi motala hlava a myslela jsem, že možná umřu."
 
 #: conversations/04_monarch/0401/0401_cv_huxley_iconoclast:42
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_iconoclast:42:DefaultText"
 msgid "<Humming a happy-go-lucky tune>"
-msgstr ""
+msgstr "<Huming a happy-go-lucky tune>"
 
 #: conversations/04_monarch/0401/0401_cv_huxley_iconoclast:43
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_iconoclast:43:DefaultText"
 msgid "But now I'm out HERE! I'm headed back to Amber Heights."
-msgstr ""
+msgstr "Ale teď jsem venku ZDE! Mířím zpátky do Amber Heights."
 
 #: conversations/04_monarch/0401/0401_cv_huxley_iconoclast:44
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_iconoclast:44:DefaultText"
 msgid "You sure you're okay to travel?"
-msgstr ""
+msgstr "Jste si jistý, že můžete cestovat?"
 
 #: conversations/04_monarch/0401/0401_cv_huxley_iconoclast:45
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_iconoclast:45:DefaultText"
 msgid "Normally, when you help someone, they give you something for their trouble."
-msgstr ""
+msgstr "Když někomu pomůžete, obvykle vám za to něco dá."
 
 #: conversations/04_monarch/0401/0401_cv_huxley_iconoclast:46
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_iconoclast:46:DefaultText"
 msgid "Good luck."
-msgstr ""
+msgstr "Hodně štěstí."
 
 #: conversations/04_monarch/0401/0401_cv_huxley_iconoclast:47
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_iconoclast:47:DefaultText"
 msgid "Yeah, yeah. Just beat it."
-msgstr ""
+msgstr "Jo, jo. Prostě to poraz."
 
 #: conversations/04_monarch/0401/0401_cv_huxley_iconoclast:48
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_iconoclast:48:DefaultText"
 msgid "Oh, sure. I'm a runner. I'm used to getting all dizzy and hey who's your identical, slightly blurry friend?"
-msgstr ""
+msgstr "Jistě. Jsem běžec. Jsem zvyklá, že se mi točí hlava, a hele, kdo je tvůj identický, lehce rozmazaný kamarád?"
 
 #: conversations/04_monarch/0401/0401_cv_huxley_iconoclast:49
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_iconoclast:49:DefaultText"
 msgid "Wh- I ain't got nothin' on me! How's about a heaping helping of appreciation and respect?"
-msgstr ""
+msgstr "Já na sobě nic nemám! Co takhle pořádnou porci uznání a respektu?"
 
 #: conversations/04_monarch/0401/0401_cv_huxley_iconoclast:53
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_iconoclast:53:DefaultText"
 msgid "Put in a good word for me with the Iconoclasts and we'll call it even."
-msgstr ""
+msgstr "Přimluv se za mě u Ikonoklastů a jsme si kvit."
 
 #: conversations/04_monarch/0401/0401_cv_huxley_iconoclast:54
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_iconoclast:54:DefaultText"
 msgid "By being saved by me, you entered into a non-negotiable contract. You now owe recompense."
-msgstr ""
+msgstr "Tím, že jsem vás zachránil, jste uzavřeli nevypověditelnou smlouvu. Nyní dlužíte odměnu."
 
 #: conversations/04_monarch/0401/0401_cv_huxley_iconoclast:55
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_iconoclast:55:DefaultText"
 msgid "Give me something or I'm stuffing you back in there."
-msgstr ""
+msgstr "Dej mi něco, nebo tě tam nacpu zpátky."
 
 #: conversations/04_monarch/0401/0401_cv_huxley_iconoclast:56
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_iconoclast:56:DefaultText"
 msgid "Aw, shit. I wouldn't have agreed to be saved if I'd known that. All right, here."
-msgstr ""
+msgstr "Do prdele. Kdybych to věděl, nesouhlasil bych s tím, že mě zachrání. Dobře, tady."
 
 #: conversations/04_monarch/0401/0401_cv_huxley_iconoclast:57
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_iconoclast:57:DefaultText"
 msgid "Ack! No! Uh, here. You can have this."
-msgstr ""
+msgstr "Ack! Ne! Uh, tady. Tohle si můžeš vzít."
 
 #: conversations/04_monarch/0401/0401_cv_huxley_iconoclast:58
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_iconoclast:58:DefaultText"
 msgid "Can do!"
-msgstr ""
+msgstr "Dokážeme to!"
 
 #: conversations/04_monarch/0401/0401_cv_huxley_iconoclast:59
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_iconoclast:59:DefaultText"
 msgid "Thanks a lot, mister!"
-msgstr ""
+msgstr "Díky moc, pane!"
 
 #: conversations/04_monarch/0401/0401_cv_huxley_iconoclast:59
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_iconoclast:59:FemaleText"
 msgid "Thanks a lot, lady!"
-msgstr ""
+msgstr "Moc děkuji, paní!"
 
 #: conversations/04_monarch/0401/0401_cv_huxley_iconoclast:60
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_iconoclast:60:DefaultText"
 msgid "Yes sir!"
-msgstr ""
+msgstr "Ano, pane!"
 
 #: conversations/04_monarch/0401/0401_cv_huxley_iconoclast:60
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_iconoclast:60:FemaleText"
 msgid "Yes ma'am!"
-msgstr ""
+msgstr "Ano, madam!"
 
 #: conversations/04_monarch/0401/0401_cv_huxley_iconoclast:61
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_iconoclast:61:DefaultText"
 msgid "Ahhhh, fresh sulfur! Good to be outside!"
-msgstr ""
+msgstr "Ahhhh, čerstvá síra! Je dobré být venku!"
 
 #: conversations/04_monarch/0401/0401_cv_huxley_iconoclast:62
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_iconoclast:62:DefaultText"
 msgid "Aw, hello! Good to see you again!"
-msgstr ""
+msgstr "Ahoj! Rád tě zase vidím!"
 
 #: conversations/04_monarch/0401/0401_cv_huxley_iconoclast:64
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_iconoclast:64:DefaultText"
 msgid "<Attack> With the trouble you caused me, you're dying here."
-msgstr ""
+msgstr "<Útok> S problémy, které jsi mi způsobil, tady zemřeš."
 
 #: conversations/04_monarch/0401/0401_cv_huxley_iconoclast:65
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_iconoclast:65:DefaultText"
 msgid "I can't buy ammo with appreciation and respect."
-msgstr ""
+msgstr "Nemohu si koupit munici s uznáním a respektem."
 
 #: conversations/04_monarch/0401/0401_cv_huxley_iconoclast:67
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_iconoclast:67:DefaultText"
 msgid "Aw, that's true. Okay, fine. Here."
-msgstr ""
+msgstr "To je pravda. Dobře, fajn. Tady."
 
 #: conversations/04_monarch/0401/0401_cv_huxley_iconoclast:68
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_iconoclast:68:DefaultText"
 msgid "Surely you have something on you."
-msgstr ""
+msgstr "Určitě máš něco u sebe."
 
 #: conversations/04_monarch/0401/0401_cv_huxley_iconoclast:69
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_iconoclast:69:DefaultText"
 msgid "'Fraid not, mister!"
-msgstr ""
+msgstr "\"Obávám se, že ne, pane!"
 
 #: conversations/04_monarch/0401/0401_cv_huxley_iconoclast:69
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_iconoclast:69:FemaleText"
 msgid "'Fraid not, lady!"
-msgstr ""
+msgstr "\"Obávám se, že ne, dámo!"
 
 #: conversations/04_monarch/0401/0401_cv_huxley_iconoclast:70
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_iconoclast:70:DefaultText"
 msgid "I gotta pack light if I'm gonna run away from monsters."
-msgstr ""
+msgstr "Musím se sbalit nalehko, když chci utéct před příšerami."
 
 #: conversations/04_monarch/0401/0401_cv_huxley_iconoclast:71
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_iconoclast:71:DefaultText"
 msgid "Ooooh. I bet she's hiding. She does that when she owes people money."
-msgstr ""
+msgstr "Ooooh. Vsadím se, že se schovává. To dělá, když dluží lidem peníze."
 
 #: conversations/04_monarch/0401/0401_cv_huxley_iconoclast:72
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_iconoclast:72:DefaultText"
 msgid "You made it back!"
-msgstr ""
+msgstr "Vrátili jste se!"
 
 #: conversations/04_monarch/0401/0401_cv_huxley_iconoclast:73
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_iconoclast:73:DefaultText"
 msgid "See you around."
-msgstr ""
+msgstr "Uvidíme se."
 
 #: conversations/04_monarch/0401/0401_cv_huxley_iconoclast:74
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_iconoclast:74:DefaultText"
 msgid "I'm looking for Chastity. I hear you're Whist buddies."
-msgstr ""
+msgstr "Hledám Chastity. Slyšel jsem, že jste kamarádi na whistu."
 
 #: conversations/04_monarch/0401/0401_cv_huxley_iconoclast:75
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_iconoclast:75:DefaultText"
 msgid "Damn right! Ain't nothing in the wilderness can stop me! Except being locked up."
-msgstr ""
+msgstr "To máš sakra pravdu! Nic v divočině mě nezastaví! Kromě toho, že mě zavřou."
 
 #: conversations/04_monarch/0401/0401_cv_huxley_iconoclast:76
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_iconoclast:76:DefaultText"
 msgid "We mustn't let her hide from her problems! Help her cleanse her spirit of her debts."
-msgstr ""
+msgstr "Nesmíme jí dovolit, aby se před svými problémy schovávala! Pomozte jí očistit jejího ducha od dluhů."
 
 #: conversations/04_monarch/0401/0401_cv_huxley_iconoclast:77
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_iconoclast:77:DefaultText"
 msgid "Isn't gambling against your group's whole \"abandon materialism\" thing?"
-msgstr ""
+msgstr "Není hazardní hraní v rozporu s celou tou věcí vaší skupiny \"opustit materialismus\"?"
 
 #: conversations/04_monarch/0401/0401_cv_huxley_iconoclast:78
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_iconoclast:78:DefaultText"
 msgid "Tell me where she is and your next game of Whist is on me. (<oeiglobal>Bribe_Amount</oeiglobal> bits)"
-msgstr ""
+msgstr "Řekni mi, kde je, a příští hra Whist je na mě. (<oeiglobal>Bribe_Amount</oeiglobal> bits)"
 
 #: conversations/04_monarch/0401/0401_cv_huxley_iconoclast:79
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_iconoclast:79:DefaultText"
 msgid "If you don't tell me where she's hiding, I'll find a closet to lock you in."
-msgstr ""
+msgstr "Jestli mi neřekneš, kde se schovává, najdu skříň, do které tě zavřu."
 
 #: conversations/04_monarch/0401/0401_cv_huxley_iconoclast:80
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_iconoclast:80:DefaultText"
 msgid "I'm not looking to shake her down or anything. I just want to ask her something."
-msgstr ""
+msgstr "Nechci se jí nijak dotknout. Jen se jí chci na něco zeptat."
 
 #: conversations/04_monarch/0401/0401_cv_huxley_iconoclast:81
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_iconoclast:81:DefaultText"
 msgid "Aw, you're right. We're always told to quit with the materialisms and stuff. I oughta be helping her come to the light."
-msgstr ""
+msgstr "Máš pravdu. Pořád nám říkají, abychom přestali s tím materialismem a tak. Měla bych jí pomáhat projít ke světlu."
 
 #: conversations/04_monarch/0401/0401_cv_huxley_iconoclast:82
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_iconoclast:82:DefaultText"
 msgid "I mean... I guess... but we still gotta pay for drinks. So I can't just... aw. You're right. I've been awful. Ok, I'll tell you, so long as you don't rat me out."
-msgstr ""
+msgstr "Chci říct... Myslím, že... ale stejně musíme zaplatit za pití. Takže nemůžu jen tak... aw. Máš pravdu. Byla jsem hrozná. Dobře, řeknu ti to, pokud mě nepráskneš."
 
 #: conversations/04_monarch/0401/0401_cv_huxley_iconoclast:83
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_iconoclast:83:DefaultText"
 msgid "You got a deal, mister!"
-msgstr ""
+msgstr "Máte dohodu, pane!"
 
 #: conversations/04_monarch/0401/0401_cv_huxley_iconoclast:83
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_iconoclast:83:FemaleText"
 msgid "You got a deal, lady!"
-msgstr ""
+msgstr "Máte dohodu, dámo!"
 
 #: conversations/04_monarch/0401/0401_cv_huxley_iconoclast:84
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_iconoclast:84:DefaultText"
 msgid "You WOULDN'T! ...You would. I can see it in your closet-loving eyes. Fine!"
-msgstr ""
+msgstr "Nebudeš! ...Budeš. Vidím ti to na očích, jak miluješ skříně. Fajn!"
 
 #: conversations/04_monarch/0401/0401_cv_huxley_iconoclast:85
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_iconoclast:85:DefaultText"
 msgid "That's a good point. I should go tell her that I don't need to find her anymore."
-msgstr ""
+msgstr "To je dobrý postřeh. Měl bych jí jít říct, že už ji nemusím hledat."
 
 #: conversations/04_monarch/0401/0401_cv_huxley_iconoclast:86
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_iconoclast:86:DefaultText"
 msgid "Hey, yeah, you oughta!"
-msgstr ""
+msgstr "Hej, jo, to bys měl!"
 
 #: conversations/04_monarch/0401/0401_cv_huxley_iconoclast:87
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_iconoclast:87:DefaultText"
 msgid "Ah... okay. I guess. She's got a secret base in the middle of nowhere. I'll mark it on your map."
-msgstr ""
+msgstr "Aha... dobře. Asi ano. Má tajnou základnu uprostřed ničeho. Označím ti ji na mapě."
 
 #: conversations/04_monarch/0401/0401_cv_huxley_iconoclast:88
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_iconoclast:88:DefaultText"
 msgid "She's got a secret hideaway out in the middle of nowhere. I'll mark it on your map. It's pretty busy for an abandoned facility."
-msgstr ""
+msgstr "Má tajný úkryt uprostřed ničeho. Označím ti ho na mapě. Na opuštěné zařízení je tam docela rušno."
 
 #: conversations/04_monarch/0401/0401_cv_huxley_iconoclast:89
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_iconoclast:89:DefaultText"
 msgid "Here. I won a key to the back gate off her, but I ain't going near that place."
-msgstr ""
+msgstr "Zde. Získal jsem od ní klíč od zadní brány, ale nepřiblížím se k ní."
 
 #: conversations/04_monarch/0401/0401_cv_huxley_iconoclast:90
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_iconoclast:90:DefaultText"
 msgid "About this secret facility..."
-msgstr ""
+msgstr "O tomto tajném zařízení..."
 
 #: conversations/04_monarch/0401/0401_cv_huxley_iconoclast:91
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_iconoclast:91:DefaultText"
 msgid "Thanks. I'll tell her you said hello."
-msgstr ""
+msgstr "Děkuji. Vyřídím jí, že ji pozdravuješ."
 
 #: conversations/04_monarch/0401/0401_cv_huxley_iconoclast:92
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_iconoclast:92:DefaultText"
 msgid "Exciting, isn't it? Steeped in mystery!"
-msgstr ""
+msgstr "Vzrušující, že? Oplývá tajemstvím!"
 
 #: conversations/04_monarch/0401/0401_cv_huxley_iconoclast:93
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_iconoclast:93:DefaultText"
 msgid "About this secret facility..."
-msgstr ""
+msgstr "O tomto tajném zařízení..."
 
 #: conversations/04_monarch/0401/0401_cv_huxley_iconoclast:94
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_iconoclast:94:DefaultText"
 msgid "Anything I should know about the layout?"
-msgstr ""
+msgstr "Měla bych vědět něco o rozvržení?"
 
 #: conversations/04_monarch/0401/0401_cv_huxley_iconoclast:95
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_iconoclast:95:DefaultText"
 msgid "Are there guards? Is it infested with beasts?"
-msgstr ""
+msgstr "Jsou tam strážci? Je zamořena šelmami?"
 
 #: conversations/04_monarch/0401/0401_cv_huxley_iconoclast:96
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_iconoclast:96:DefaultText"
 msgid "Never mind."
-msgstr ""
+msgstr "Nevadí."
 
 #: conversations/04_monarch/0401/0401_cv_huxley_iconoclast:98
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_iconoclast:98:DefaultText"
 msgid "Um. Hmm. Oh! Once she did tell me about this one time when she set off an alarm outside the back so everyone would clear out."
-msgstr ""
+msgstr "Hmm. Jednou mi vyprávěla o tom, jak jednou spustila venku poplach, aby se všichni vyklidili."
 
 #: conversations/04_monarch/0401/0401_cv_huxley_iconoclast:99
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_iconoclast:99:DefaultText"
 msgid "You got me. If it's anything like the rest of Monarch, I'd take weapons with you just in case."
-msgstr ""
+msgstr "Dostal jsi mě. Jestli je to něco podobného jako zbytek Monarchie, vzal bych si s sebou pro jistotu zbraně."
 
 #: conversations/04_monarch/0401/0401_cv_huxley_iconoclast:100
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_iconoclast:100:DefaultText"
 msgid "Oughta leave her be, though, if she doesn't wanna be found."
-msgstr ""
+msgstr "Měl by ji nechat být, pokud nechce být nalezena."
 
 #: conversations/04_monarch/0401/0401_cv_huxley_iconoclast:101
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_iconoclast:101:DefaultText"
 msgid "You're just giving away the key to a secret compound?"
-msgstr ""
+msgstr "To jen tak prozradíte klíč k tajnému komplexu?"
 
 #: conversations/04_monarch/0401/0401_cv_huxley_iconoclast:102
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_iconoclast:102:DefaultText"
 msgid "Well, I ain't gonna use it, and ain't nobody gonna buy it if they don't know the place exists, sooooo..."
-msgstr ""
+msgstr "No, nebudu ho používat a nikdo si ho nekoupí, když nebude vědět, že existuje, takže..."
 
 #: conversations/04_monarch/0401/0401_cv_huxley_iconoclast:103
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_iconoclast:103:DefaultText"
 msgid "Besides. You helped me, I help you, that's what friends do."
-msgstr ""
+msgstr "Kromě toho. Ty jsi pomohl mně, já pomůžu tobě, to přátelé dělají."
 
 #: conversations/04_monarch/0401/0401_cv_huxley_iconoclast:104
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_iconoclast:104:DefaultText"
 msgid "You... won this? Why'd she give it up?"
-msgstr ""
+msgstr "Vyhrála jsi to? Proč se ho vzdala?"
 
 #: conversations/04_monarch/0401/0401_cv_huxley_iconoclast:105
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_iconoclast:105:DefaultText"
 msgid "She was diggin' real deep for that game. I think it was about the last thing on her."
-msgstr ""
+msgstr "Na tuhle hru se pořádně nadřela. Myslím, že to byla její poslední věc."
 
 #: conversations/04_monarch/0401/0401_cv_huxley_iconoclast:107
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_iconoclast:107:DefaultText"
 msgid "I... don't remember why she did that. She was kind of drunk, though, so maybe she made that all up."
-msgstr ""
+msgstr "Já... si nepamatuju, proč to udělala. Ale byla trochu opilá, takže si to možná vymyslela."
 
 #: conversations/04_monarch/0401/0401_cv_huxley_iconoclast:109
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_iconoclast:109:DefaultText"
 msgid "Isn't it just like any other abandoned facility?"
-msgstr ""
+msgstr "Není to stejné jako v každém jiném opuštěném zařízení?"
 
 #: conversations/04_monarch/0401/0401_cv_huxley_iconoclast:110
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_iconoclast:110:DefaultText"
 msgid "Yeah, only there are people there."
-msgstr ""
+msgstr "Jo, jenže tam jsou lidé."
 
 #: conversations/04_monarch/0401/0401_cv_huxley_iconoclast:111
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_iconoclast:111:DefaultText"
 msgid "Oh! She's such a gem. She gambles with me whenever I've got time to stop through Fallbrook."
-msgstr ""
+msgstr "Ona je takový klenot. Hraje se mnou, kdykoli mám čas zastavit se ve Fallbrooku."
 
 #: conversations/04_monarch/0401/0401_cv_huxley_iconoclast:112
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_iconoclast:112:DefaultText"
 msgid "How are you holding up?"
-msgstr ""
+msgstr "Jak se vám daří?"
 
 #: conversations/04_monarch/0401/0401_cv_huxley_iconoclast:113
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_iconoclast:113:DefaultText"
 msgid "Well, on the way back I twisted something in my leg... foot... area. Where does my foot end and my leg begin? Wherever that is. It hurts."
-msgstr ""
+msgstr "No, cestou zpátky jsem si něco zkroutil v noze... chodidle... oblasti. Kde končí chodidlo a začíná noha? Ať už je to kdekoli. Bolí to."
 
 #: conversations/04_monarch/0401/0401_cv_huxley_iconoclast:114
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_iconoclast:114:DefaultText"
 msgid "So... no runs for me for a little while. Time to kick back and relax!"
-msgstr ""
+msgstr "Takže... nějakou dobu nebudu běhat. Je čas se nakopnout a odpočívat!"
 
 #: conversations/04_monarch/0401/0401_cv_huxley_iconoclast:115
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_iconoclast:115:DefaultText"
 msgid "Without the kicking, I assume."
-msgstr ""
+msgstr "Předpokládám, že bez kopání."
 
 #: conversations/04_monarch/0401/0401_cv_huxley_iconoclast:116
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_iconoclast:116:DefaultText"
 msgid "How'd you hurt your leg?"
-msgstr ""
+msgstr "Jak sis poranil nohu?"
 
 #: conversations/04_monarch/0401/0401_cv_huxley_iconoclast:117
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_iconoclast:117:DefaultText"
 msgid "How long will you be out of commission?"
-msgstr ""
+msgstr "Jak dlouho budete mimo provoz?"
 
 #: conversations/04_monarch/0401/0401_cv_huxley_iconoclast:118
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_iconoclast:118:DefaultText"
 msgid "Huh? Why?"
-msgstr ""
+msgstr "Cože? Proč?"
 
 #: conversations/04_monarch/0401/0401_cv_huxley_iconoclast:119
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_iconoclast:119:DefaultText"
 msgid "Your leg?"
-msgstr ""
+msgstr "Vaše noha?"
 
 #: conversations/04_monarch/0401/0401_cv_huxley_iconoclast:120
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_iconoclast:120:DefaultText"
 msgid "...Nevermind."
-msgstr ""
+msgstr "...Nevadí."
 
 #: conversations/04_monarch/0401/0401_cv_huxley_iconoclast:122
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_iconoclast:122:DefaultText"
 msgid "Oh! Hah! You're funny."
-msgstr ""
+msgstr "Oh! Hah! Jsi vtipný."
 
 #: conversations/04_monarch/0401/0401_cv_huxley_iconoclast:124
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_iconoclast:124:DefaultText"
 msgid "Ah... heh... I did a dumb thing. I was trying to get away from a pteroray. Usually you can just get a ways from their nest and they'll stop following you."
-msgstr ""
+msgstr "Ah... heh... Udělal jsem hloupost. Snažil jsem se dostat pryč od pteroraye. Obvykle se stačí vzdálit od jejich hnízda a přestanou tě pronásledovat."
 
 #: conversations/04_monarch/0401/0401_cv_huxley_iconoclast:125
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_iconoclast:125:DefaultText"
 msgid "But this one was really persistent! Chased me for... I don't know. Forever. Scratched me up but good. I barely got away!"
-msgstr ""
+msgstr "Ale tenhle byl opravdu vytrvalý! Pronásledoval mě... Já nevím. Navždy. Poškrábal mě, ale dobře. Sotva jsem se dostal pryč!"
 
 #: conversations/04_monarch/0401/0401_cv_huxley_iconoclast:126
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_iconoclast:126:DefaultText"
 msgid "Then I tripped over a void-damned rock. A rock! Not even a slippery one!"
-msgstr ""
+msgstr "Pak jsem zakopl o kámen prokletý prázdnotou. O kámen! Ani ne kluzký!"
 
 #: conversations/04_monarch/0401/0401_cv_huxley_iconoclast:129
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_iconoclast:129:DefaultText"
 msgid "Zora says I'll be fine in a month or so."
-msgstr ""
+msgstr "Zora říká, že za měsíc budu v pořádku."
 
 #: conversations/04_monarch/0401/0401_cv_huxley_iconoclast:130
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_iconoclast:130:DefaultText"
 msgid "Sorry to hear that. See you around, Huxley."
-msgstr ""
+msgstr "To je mi líto. Uvidíme se, Huxley."
 
 #: conversations/04_monarch/0401/0401_cv_huxley_iconoclast:131
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_iconoclast:131:DefaultText"
 msgid "Oh, you know. Chores, booze, sulfur. Shooting pains in my leg. Can't complain."
-msgstr ""
+msgstr "Však víte. Práce, chlast, síra. Bolesti v noze. Nemůžu si stěžovat."
 
 #: conversations/04_monarch/0401/0401_cv_huxley_iconoclast:136
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_iconoclast:136:DefaultText"
 msgid "I learned a new word today! \"Hobble.\" Zora taught me that. \"Stop hobbling around, will you?\" she said. She's so smart."
-msgstr ""
+msgstr "Dnes jsem se naučil nové slovo! \"Hobble\". To mě naučila Zora. \"Přestaň se tu motat, ano?\" řekla. Je tak chytrá."
 
 #: conversations/04_monarch/0401/0401_cv_huxley_iconoclast:138
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_iconoclast:138:DefaultText"
 msgid "I tried to convince Graham to let me keep a pet raptidon. He told Zora to find more medicine so I can get better faster. I think that's a good sign."
-msgstr ""
+msgstr "Snažil jsem se Grahama přesvědčit, aby mi dovolil chovat raptidona. Řekl Zoře, ať najde víc léků, abych se rychleji uzdravil. Myslím, že to je dobré znamení."
 
 #: conversations/04_monarch/0401/0401_cv_huxley_iconoclast:139
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_iconoclast:139:DefaultText"
 msgid "I read one of Graham's pamphlets today. Did you know that the Flower of Enlightment has so many petals you can't count them? I can't imagine. That's... at least twelve."
-msgstr ""
+msgstr "Dnes jsem četl jednu z Grahamových brožur. Věděli jste, že Květ osvícení má tolik okvětních lístků, že je ani nespočítáte? Nedokážu si to představit. To je... nejméně dvanáct."
 
 #: conversations/04_monarch/0401/0401_cv_huxley_iconoclast:140
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_iconoclast:140:DefaultText"
 msgid "Well hey there, mister!"
-msgstr ""
+msgstr "Tak ahoj, pane!"
 
 #: conversations/04_monarch/0401/0401_cv_huxley_iconoclast:140
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_iconoclast:140:FemaleText"
 msgid "Well hey there, miss!"
-msgstr ""
+msgstr "Ahoj, slečno!"
 
 #: conversations/04_monarch/0401/0401_cv_huxley_iconoclast:141
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_iconoclast:141:DefaultText"
 msgid "How's business so far?"
-msgstr ""
+msgstr "Jak to zatím jde?"
 
 #: conversations/04_monarch/0401/0401_cv_huxley_iconoclast:142
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_iconoclast:142:DefaultText"
 msgid "What are you doing in Stellar Bay?"
-msgstr ""
+msgstr "Co děláte ve Hvězdné zátoce?"
 
 #: conversations/04_monarch/0401/0401_cv_huxley_iconoclast:143
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_iconoclast:143:DefaultText"
 msgid "See you around."
-msgstr ""
+msgstr "Uvidíme se."
 
 #: conversations/04_monarch/0401/0401_cv_huxley_iconoclast:144
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_iconoclast:144:DefaultText"
 msgid "Zora said we're all friendly and such with everyone here now, so I figured it was time for a change, you know?"
-msgstr ""
+msgstr "Zora říkala, že jsme tu teď všichni přátelští a tak, tak jsem si řekl, že je čas na změnu, víš?"
 
 #: conversations/04_monarch/0401/0401_cv_huxley_iconoclast:145
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_iconoclast:145:DefaultText"
 msgid "I even got myself a new job, and I don't even have to run for it! I'm a locksmith now!"
-msgstr ""
+msgstr "Dokonce jsem si sehnal novou práci, a nemusím se o ni ani ucházet! Jsem teď zámečník!"
 
 #: conversations/04_monarch/0401/0401_cv_huxley_iconoclast:149
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_iconoclast:149:DefaultText"
 msgid "That's great! I'm happy for you."
-msgstr ""
+msgstr "To je skvělé! Mám z toho radost."
 
 #: conversations/04_monarch/0401/0401_cv_huxley_iconoclast:150
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_iconoclast:150:DefaultText"
 msgid "Trying to confront your phobia directly, I see."
-msgstr ""
+msgstr "Vidím, že se snažíte přímo čelit své fobii."
 
 #: conversations/04_monarch/0401/0401_cv_huxley_iconoclast:151
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_iconoclast:151:DefaultText"
 msgid "You know how this is going to end, right?"
-msgstr ""
+msgstr "Víte, jak to skončí, že?"
 
 #: conversations/04_monarch/0401/0401_cv_huxley_iconoclast:152
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_iconoclast:152:DefaultText"
 msgid "I'm happy for me, too!"
-msgstr ""
+msgstr "Mám radost i za sebe!"
 
 #: conversations/04_monarch/0401/0401_cv_huxley_iconoclast:153
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_iconoclast:153:DefaultText"
 msgid "Phobuh-what-now?"
-msgstr ""
+msgstr "Phobuh-what-now?"
 
 #: conversations/04_monarch/0401/0401_cv_huxley_iconoclast:154
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_iconoclast:154:DefaultText"
 msgid "Gosh no! No one knows how life ends. That's one of the great mysteries of the universe, isn't it?"
-msgstr ""
+msgstr "Bože ne! Nikdo neví, jak život skončí. To je jedna z největších záhad vesmíru, že?"
 
 #: conversations/04_monarch/0401/0401_cv_huxley_iconoclast:155
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_iconoclast:155:DefaultText"
 msgid "Hey, you know what I'm gonna do? For being so helpful and gosh darn nice to me all the time, I'll give you some free locksmithing supplies!"
-msgstr ""
+msgstr "Hej, víš, co udělám? Za to, že jsi ke mně pořád tak vstřícný a zatraceně milý, ti dám zdarma nějaké zámečnické potřeby!"
 
 #: conversations/04_monarch/0401/0401_cv_huxley_iconoclast:156
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_iconoclast:156:DefaultText"
 msgid "And if you ever need any locksmithing on that fancy ship of yours... call someone else. I haven't graduated to airlocks yet."
-msgstr ""
+msgstr "A kdybys někdy potřeboval na té své luxusní lodi zámečnické práce, zavolej si někoho jiného. Ještě jsem nepřešel na vzdušné zámky."
 
 #: conversations/04_monarch/0401/0401_cv_huxley_iconoclast:157
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_iconoclast:157:DefaultText"
 msgid "Just great! I'm getting real good at locksmithery. I'll never get stuck in a closet again!"
-msgstr ""
+msgstr "Prostě skvělé! Začínám být v zámečnictví opravdu dobrý. Už nikdy neuvíznu ve skříni!"
 
 #: conversations/04_monarch/0401/0401_cv_huxley_iconoclast:158
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_iconoclast:158:DefaultText"
 msgid "Okay!"
-msgstr ""
+msgstr "Dobře!"
 
 #: conversations/04_monarch/0401/0401_cv_huxley_iconoclast:159
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_iconoclast:159:DefaultText"
 msgid "I found your terminal. Fixed it up for you."
-msgstr ""
+msgstr "Našel jsem váš terminál. Opravil jsem ho pro vás."
 
 #: conversations/04_monarch/0401/0401_cv_huxley_iconoclast:160
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_iconoclast:160:DefaultText"
 msgid "Wh- oh, in Milton's place? Oh my gosh! Thank you so much! Me and my diary have got some catching up to do."
-msgstr ""
+msgstr "Na Miltonově místě? Panebože! Moc vám děkuju! Já a můj deník máme co dohánět."
 
 #: conversations/04_monarch/0401/0401_cv_huxley_iconoclast:161
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_iconoclast:161:DefaultText"
 msgid "Still landing yourself in trouble, eh, Hux?"
-msgstr ""
+msgstr "Pořád se dostáváš do potíží, co, Huxi?"
 
 #: conversations/04_monarch/0401/0401_cv_huxley_iconoclast:162
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_iconoclast:162:DefaultText"
 msgid "Oh! Hi, Nyoka. Um... you mind giving me an escort back home? I'm - oh! You're traveling with someone. Nevermind."
-msgstr ""
+msgstr "Ahoj, Nyoko. Mohl bys mě doprovodit domů? Já - aha! Ty s někým cestuješ. To je jedno."
 
 #: conversations/04_monarch/0401/0401_cv_huxley_iconoclast:163
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_iconoclast:163:DefaultText"
 msgid "'Til it stops hurting, I guess."
-msgstr ""
+msgstr "Dokud to nepřestane bolet."
 
 #: conversations/04_monarch/0401/0401_cv_huxley_iconoclast:164
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_iconoclast:164:DefaultText"
 msgid "There's your Iconoclast theory of chaos in action."
-msgstr ""
+msgstr "Tady je vaše teorie chaosu ikonoklastů v akci."
 
 #: conversations/04_monarch/0401/0401_cv_huxley_iconoclast:165
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_iconoclast:165:DefaultText"
 msgid "Mister, I don't know what chaos is, but rocks ain't got theories. They're rocks."
-msgstr ""
+msgstr "Pane, nevím, co je to chaos, ale skály nemají teorie. Jsou to skály."
 
 #: conversations/04_monarch/0401/0401_cv_huxley_iconoclast:168
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_iconoclast:168:DefaultText"
 msgid "I'd offer to take a look, but you should milk that for as much R&R as you can get."
-msgstr ""
+msgstr "Nabídl bych ti, že se na to podívám, ale měl bys to vydojit, abys měl co nejvíc času na odpočinek."
 
 #: conversations/04_monarch/0401/0401_cv_huxley_iconoclast:169
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_iconoclast:169:DefaultText"
 msgid "Hey, yeah, good thinkin'. Maybe once it's all healed up I'll go find that rock again."
-msgstr ""
+msgstr "Hej, jo, dobrá myšlenka. Možná až se to zahojí, půjdu ten kámen zase najít."
 
 #: conversations/04_monarch/0401/0401_cv_huxley_iconoclast:170
 msgctxt "conversations/04_monarch/0401/0401_cv_huxley_iconoclast:170:DefaultText"
 msgid "Okay!"
-msgstr ""
+msgstr "Dobře!"

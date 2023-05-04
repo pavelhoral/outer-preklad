@@ -1,79 +1,79 @@
 #: conversations/00_emerald_vale/0004_geothermal_plant/0004_cv_robot_scout:1
 msgctxt "conversations/00_emerald_vale/0004_geothermal_plant/0004_cv_robot_scout:1:DefaultText"
 msgid "Self-diagnostics complete. Navigation systems operational. Combat systems operational. "
-msgstr ""
+msgstr "Autodiagnostika dokončena. Navigační systémy jsou funkční. Bojové systémy v provozu. "
 
 #: conversations/00_emerald_vale/0004_geothermal_plant/0004_cv_robot_scout:2
 msgctxt "conversations/00_emerald_vale/0004_geothermal_plant/0004_cv_robot_scout:2:DefaultText"
 msgid "This is odd. Why aren't you attacking me?"
-msgstr ""
+msgstr "To je zvláštní. Proč na mě neútočíte?"
 
 #: conversations/00_emerald_vale/0004_geothermal_plant/0004_cv_robot_scout:3
 msgctxt "conversations/00_emerald_vale/0004_geothermal_plant/0004_cv_robot_scout:3:DefaultText"
 msgid "Hostile actions toward Spacer's Choice mechanics are contrary to logical directive. Conclusion: all hostile automechanicals must be defective."
-msgstr ""
+msgstr "Nepřátelské akce vůči mechanice Spacer's Choice jsou v rozporu s logickou směrnicí. Závěr: Všechny nepřátelské automechaniky musí být vadné."
 
 #: conversations/00_emerald_vale/0004_geothermal_plant/0004_cv_robot_scout:4
 msgctxt "conversations/00_emerald_vale/0004_geothermal_plant/0004_cv_robot_scout:4:DefaultText"
 msgid "It's not the best choice. It's the Spacer's Choice."
-msgstr ""
+msgstr "Není to nejlepší volba. Je to volba Spacera."
 
 #: conversations/00_emerald_vale/0004_geothermal_plant/0004_cv_robot_scout:5
 msgctxt "conversations/00_emerald_vale/0004_geothermal_plant/0004_cv_robot_scout:5:DefaultText"
 msgid "You made it out of that junkyard."
-msgstr ""
+msgstr "Dostal ses z toho smetiště."
 
 #: conversations/00_emerald_vale/0004_geothermal_plant/0004_cv_robot_scout:6
 msgctxt "conversations/00_emerald_vale/0004_geothermal_plant/0004_cv_robot_scout:6:DefaultText"
 msgid "All systems fully operational. Return journey successfully completed. Spacer's Choice would like to thank you for complying with your duties."
-msgstr ""
+msgstr "Všechny systémy jsou plně funkční. Zpáteční cesta úspěšně dokončena. Společnost Spacer's Choice by vám ráda poděkovala za splnění vašich povinností."
 
 #: conversations/00_emerald_vale/0004_geothermal_plant/0004_cv_robot_scout:7
 msgctxt "conversations/00_emerald_vale/0004_geothermal_plant/0004_cv_robot_scout:7:DefaultText"
 msgid "Maybe another time."
-msgstr ""
+msgstr "Možná někdy jindy."
 
 #: conversations/00_emerald_vale/0004_geothermal_plant/0004_cv_robot_scout:8
 msgctxt "conversations/00_emerald_vale/0004_geothermal_plant/0004_cv_robot_scout:8:DefaultText"
 msgid "I'm leaving."
-msgstr ""
+msgstr "Odcházím."
 
 #: conversations/00_emerald_vale/0004_geothermal_plant/0004_cv_robot_scout:9
 msgctxt "conversations/00_emerald_vale/0004_geothermal_plant/0004_cv_robot_scout:9:DefaultText"
 msgid "In compliance with Spacer's Choice policy, all defective automechanicals must be permanently dismantled. Please allow me to assist."
-msgstr ""
+msgstr "V souladu se zásadami společnosti Spacer's Choice musí být všechny vadné automechanické díly trvale demontovány. Dovolte mi, abych vám pomohl."
 
 #: conversations/00_emerald_vale/0004_geothermal_plant/0004_cv_robot_scout:10
 msgctxt "conversations/00_emerald_vale/0004_geothermal_plant/0004_cv_robot_scout:10:DefaultText"
 msgid "Let me get this straight. You want to help me destroy other mechanicals."
-msgstr ""
+msgstr "Řeknu vám to na rovinu. Chceš mi pomoct zničit ostatní mechaniky."
 
 #: conversations/00_emerald_vale/0004_geothermal_plant/0004_cv_robot_scout:11
 msgctxt "conversations/00_emerald_vale/0004_geothermal_plant/0004_cv_robot_scout:11:DefaultText"
 msgid "Entering standby mode. Awaiting further instruction."
-msgstr ""
+msgstr "Přechod do pohotovostního režimu. Čeká na další pokyny."
 
 #: conversations/00_emerald_vale/0004_geothermal_plant/0004_cv_robot_scout:12
 msgctxt "conversations/00_emerald_vale/0004_geothermal_plant/0004_cv_robot_scout:12:DefaultText"
 msgid "Mechanicide protocols currently active. Please do not interrupt."
-msgstr ""
+msgstr "V současné době jsou aktivní protokoly Mechanicide. Nepřerušujte je, prosím."
 
 #: conversations/00_emerald_vale/0004_geothermal_plant/0004_cv_robot_scout:13
 msgctxt "conversations/00_emerald_vale/0004_geothermal_plant/0004_cv_robot_scout:13:DefaultText"
 msgid "You said you wanted to help destroy other mechanicals?"
-msgstr ""
+msgstr "Říkal jsi, že chceš pomáhat ničit ostatní mechaniky?"
 
 #: conversations/00_emerald_vale/0004_geothermal_plant/0004_cv_robot_scout:15
 msgctxt "conversations/00_emerald_vale/0004_geothermal_plant/0004_cv_robot_scout:15:DefaultText"
 msgid "Affirmative. Mechanicide protocols loaded. Awaiting confirmation."
-msgstr ""
+msgstr "Kladně. Protokoly Mechanicide jsou načteny. Čekáme na potvrzení."
 
 #: conversations/00_emerald_vale/0004_geothermal_plant/0004_cv_robot_scout:16
 msgctxt "conversations/00_emerald_vale/0004_geothermal_plant/0004_cv_robot_scout:16:DefaultText"
 msgid "Confirmation granted. I like the sound of that."
-msgstr ""
+msgstr "Potvrzení uděleno. To se mi líbí."
 
 #: conversations/00_emerald_vale/0004_geothermal_plant/0004_cv_robot_scout:17
 msgctxt "conversations/00_emerald_vale/0004_geothermal_plant/0004_cv_robot_scout:17:DefaultText"
 msgid "I'm not sure about this."
-msgstr ""
+msgstr "Tím si nejsem jistý."

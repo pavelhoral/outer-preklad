@@ -1,69 +1,69 @@
 #: quests/02_terra2/sq_0233_atcentral:0
 msgctxt "quests/02_terra2/sq_0233_atcentral:0:DefaultText"
 msgid "At Central"
-msgstr ""
+msgstr "Ve společnosti Central"
 
 #: quests/02_terra2/sq_0233_atcentral:1
 msgctxt "quests/02_terra2/sq_0233_atcentral:1:DefaultText"
 msgid "Attend the Audition"
-msgstr ""
+msgstr "Účast na konkurzu"
 
 #: quests/02_terra2/sq_0233_atcentral:2
 msgctxt "quests/02_terra2/sq_0233_atcentral:2:DefaultText"
 msgid "Break a Leg!"
-msgstr ""
+msgstr "Zlomte si nohu!"
 
 #: quests/02_terra2/sq_0233_atcentral:3
 msgctxt "quests/02_terra2/sq_0233_atcentral:3:DefaultText"
 msgid "Talk to Maverick"
-msgstr ""
+msgstr "Promluvte si s Maverickem"
 
 #: quests/02_terra2/sq_0233_atcentral:10000
 msgctxt "quests/02_terra2/sq_0233_atcentral:10000:DefaultText"
 msgid "Maverick Johnston, a Byzantium film producer, thinks you've got the makings of a star! He invited you to audition for the lead role in his film."
-msgstr ""
+msgstr "Maverick Johnston, filmový producent z Byzantia, si myslí, že máš předpoklady stát se hvězdou! Pozval tě na konkurz na hlavní roli v jeho filmu."
 
 #: quests/02_terra2/sq_0233_atcentral:10001
 msgctxt "quests/02_terra2/sq_0233_atcentral:10001:DefaultText"
 msgid "Maverick said the audition would be held on the top floor of the Odeon Pictures building."
-msgstr ""
+msgstr "Maverick uvedl, že konkurz se bude konat v horním patře budovy Odeon Pictures."
 
 #: quests/02_terra2/sq_0233_atcentral:10002
 msgctxt "quests/02_terra2/sq_0233_atcentral:10002:DefaultText"
 msgid "Enter the soundstage and put on a show."
-msgstr ""
+msgstr "Vstupte na zvukovou scénu a předveďte se."
 
 #: quests/02_terra2/sq_0233_atcentral:10003
 msgctxt "quests/02_terra2/sq_0233_atcentral:10003:DefaultText"
 msgid "Review your performance with Maverick."
-msgstr ""
+msgstr "Zkontrolujte si svůj výkon v aplikaci Maverick."
 
 #: quests/02_terra2/sq_0233_atcentral:30000
 msgctxt "quests/02_terra2/sq_0233_atcentral:30000:DefaultText"
 msgid "With Maverick dead, your acting career is over before it started."
-msgstr ""
+msgstr "Když je Maverick mrtvý, tvoje herecká kariéra skončila dřív, než začala."
 
 #: quests/02_terra2/sq_0233_atcentral:30001
 msgctxt "quests/02_terra2/sq_0233_atcentral:30001:DefaultText"
 msgid "You made it through the scene, but Maverick will probably be looking elsewhere for his star."
-msgstr ""
+msgstr "Scénu jsi zvládl, ale Maverick bude pravděpodobně hledat svou hvězdu jinde."
 
 #: quests/02_terra2/sq_0233_atcentral:30002
 msgctxt "quests/02_terra2/sq_0233_atcentral:30002:DefaultText"
 msgid "Your sudden display of violence impressed Maverick. You're the real deal!"
-msgstr ""
+msgstr "Tvůj náhlý projev násilí na Mavericka zapůsobil. Ty jsi skutečný chlapík!"
 
 #: quests/02_terra2/sq_0233_atcentral:30003
 msgctxt "quests/02_terra2/sq_0233_atcentral:30003:DefaultText"
 msgid "Your combination of simple-minded charm and brutality left Maverick in awe. You're gonna be famous!"
-msgstr ""
+msgstr "Tvá kombinace prostoduchého šarmu a brutality zanechala Mavericka v úžasu. Budeš slavný!"
 
 #: quests/02_terra2/sq_0233_atcentral:30004
 msgctxt "quests/02_terra2/sq_0233_atcentral:30004:DefaultText"
 msgid "You got into a fight with the actors after the audition, and Maverick fled. He doesn't deal with prima donnas."
-msgstr ""
+msgstr "Po konkurzu jste se s herci pohádali a Maverick utekl. S primadonami nejedná."
 
 #: quests/02_terra2/sq_0233_atcentral:30005
 msgctxt "quests/02_terra2/sq_0233_atcentral:30005:DefaultText"
 msgid "Maverick was impressed by your snappy one-liners. He's gonna make you a star!"
-msgstr ""
+msgstr "Na Mavericka udělaly dojem tvé pohotové jednověté hlášky. Udělá z tebe hvězdu!"

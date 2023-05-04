@@ -5,36 +5,36 @@ msgid "Ministry of Accuracy and Morale\n"
 "Welcome to the Human Experimentation Station of the Ministry of Accuracy and Morale. \r\n"
 "\r\n"
 "Human testing is a required step of any new product or process in order to ensure accuracy. Please be sure to document the results of all tests thoroughly to save the expense of additional trials."
-msgstr ""
+msgstr "Ministerstvo přesnosti a morálky ======================== Vítejte na stanici pro experimenty na lidech Ministerstva přesnosti a morálky. Testování na lidech je nezbytným krokem každého nového výrobku nebo procesu, aby byla zajištěna přesnost. Nezapomeňte prosím výsledky všech testů důkladně zdokumentovat, abyste si ušetřili náklady na další zkoušky."
 
 #: conversations/02_terra2/0231_bureau/0231_cp_chemicals:46
 msgctxt "conversations/02_terra2/0231_bureau/0231_cp_chemicals:46:DefaultText"
 msgid "[Transfer Dimethyl Sulfoxide to Canister]"
-msgstr ""
+msgstr "[Přenos dimethylsulfoxidu do kanystru]"
 
 #: conversations/02_terra2/0231_bureau/0231_cp_chemicals:49
 msgctxt "conversations/02_terra2/0231_bureau/0231_cp_chemicals:49:DefaultText"
 msgid "Warning!\r\n"
 "\r\n"
 "This procedure may result in the invalidation of experiment results and the death of human test subjects."
-msgstr ""
+msgstr "Varování: Tento postup může vést ke znehodnocení výsledků experimentu a smrti pokusných osob."
 
 #: conversations/02_terra2/0231_bureau/0231_cp_chemicals:50
 msgctxt "conversations/02_terra2/0231_bureau/0231_cp_chemicals:50:DefaultText"
 msgid "[Continue]"
-msgstr ""
+msgstr "[Pokračovat]"
 
 #: conversations/02_terra2/0231_bureau/0231_cp_chemicals:51
 msgctxt "conversations/02_terra2/0231_bureau/0231_cp_chemicals:51:DefaultText"
 msgid "Reducing the dimethyl sulfoxide concentration to 0% will result in the cancellation of the experiment and the loss of associated data. \r\n"
 "\r\n"
 "Experimental integrity and test subject vitality can be maintained by leaving a 73.629% dimethyl sulfoxide concentration in circulation."
-msgstr ""
+msgstr "Snížení koncentrace dimethylsulfoxidu na 0 % bude mít za následek zrušení experimentu a ztrátu souvisejících údajů. Experimentální integritu a životaschopnost testovaného subjektu lze zachovat ponecháním 73,629% koncentrace dimethylsulfoxidu v oběhu."
 
 #: conversations/02_terra2/0231_bureau/0231_cp_chemicals:52
 msgctxt "conversations/02_terra2/0231_bureau/0231_cp_chemicals:52:DefaultText"
 msgid "[Transfer 100% Dimethyl Sulfoxide]"
-msgstr ""
+msgstr "[Přenos 100% dimethylsulfoxidu]"
 
 #: conversations/02_terra2/0231_bureau/0231_cp_chemicals:53
 msgctxt "conversations/02_terra2/0231_bureau/0231_cp_chemicals:53:DefaultText"
@@ -45,17 +45,17 @@ msgid "Calibrating sensors...\r\n"
 "Transferring to canister...\r\n"
 "\r\n"
 "Transfer complete."
-msgstr ""
+msgstr "Kalibrace senzorů... Kontrola hladiny dimethylsulfoxidu... Přenos do kanystru... Přenos dokončen."
 
 #: conversations/02_terra2/0231_bureau/0231_cp_chemicals:54
 msgctxt "conversations/02_terra2/0231_bureau/0231_cp_chemicals:54:DefaultText"
 msgid "[Return to Root]"
-msgstr ""
+msgstr "[Zpět na kořen]"
 
 #: conversations/02_terra2/0231_bureau/0231_cp_chemicals:57
 msgctxt "conversations/02_terra2/0231_bureau/0231_cp_chemicals:57:DefaultText"
 msgid "[Transfer 26.371% Dimethyl Sulfoxide]"
-msgstr ""
+msgstr "[Přenos 26,371% dimethylsulfoxidu]"
 
 #: conversations/02_terra2/0231_bureau/0231_cp_chemicals:58
 msgctxt "conversations/02_terra2/0231_bureau/0231_cp_chemicals:58:DefaultText"
@@ -66,12 +66,12 @@ msgid "Proceeding to withdraw the maximum non-lethal quantity of chemicals from 
 "Checking dimethyl sulfoxide levels...\r\n"
 "\r\n"
 "Transferring to canister..."
-msgstr ""
+msgstr "Postup při odebírání maximálního nesmrtícího množství chemikálií z experimentu. Kalibrace senzorů... Kontrola hladiny dimethylsulfoxidu... Přenos do kanystru..."
 
 #: conversations/02_terra2/0231_bureau/0231_cp_chemicals:59
 msgctxt "conversations/02_terra2/0231_bureau/0231_cp_chemicals:59:DefaultText"
 msgid "[Experiment Details]"
-msgstr ""
+msgstr "[Podrobnosti o experimentu]"
 
 #: conversations/02_terra2/0231_bureau/0231_cp_chemicals:60
 msgctxt "conversations/02_terra2/0231_bureau/0231_cp_chemicals:60:DefaultText"
@@ -84,24 +84,24 @@ msgid "Experiment authorization: ROCKWELL, CHARLES \r\n"
 "Results: Inconclusive\r\n"
 "\r\n"
 "Prognosis: Cautiously optimistic"
-msgstr ""
+msgstr "Autorizace experimentu: ROCKWELL, CHARLES Projekt: Cíl: Program celoživotního zaměstnávání: Cíl: Opakovaně oživit lidské subjekty z dlouhodobé hibernace, aniž by došlo k úmrtí subjektu a s tím spojené ztrátě produktivity: Výsledky: neprůkazné prognóza: Opatrně optimistická"
 
 #: conversations/02_terra2/0231_bureau/0231_cp_chemicals:61
 msgctxt "conversations/02_terra2/0231_bureau/0231_cp_chemicals:61:DefaultText"
 msgid "[Further Information]"
-msgstr ""
+msgstr "[Další informace]"
 
 #: conversations/02_terra2/0231_bureau/0231_cp_chemicals:62
 msgctxt "conversations/02_terra2/0231_bureau/0231_cp_chemicals:62:DefaultText"
 msgid "Sudden withdrawal from dimethyl sulfoxide is highly lethal and will result in the cancellation of any in-progress experiments.\r\n"
 "\r\n"
 "Experimental integrity and test subject vitality can be maintained by leaving a 73.629%  dimethyl sulfoxide concentration in circulation."
-msgstr ""
+msgstr "Náhlé vysazení dimethylsulfoxidu je vysoce smrtelné a má za následek zrušení všech probíhajících experimentů. Experimentální integritu a životaschopnost pokusných subjektů lze zachovat ponecháním 73,629% koncentrace dimethylsulfoxidu v oběhu."
 
 #: conversations/02_terra2/0231_bureau/0231_cp_chemicals:63
 msgctxt "conversations/02_terra2/0231_bureau/0231_cp_chemicals:63:DefaultText"
 msgid "[View Lab Notes]"
-msgstr ""
+msgstr "[Zobrazit laboratorní poznámky]"
 
 #: conversations/02_terra2/0231_bureau/0231_cp_chemicals:64
 msgctxt "conversations/02_terra2/0231_bureau/0231_cp_chemicals:64:DefaultText"
@@ -112,14 +112,14 @@ msgid "Live Human Trials\r\n"
 "However, our formula is still missing something - we are still unable to fully revive subjects from long-term hibernation, and removing their supply of dimethyl sulfoxide results in their rather excruciating death. The problem is compounded when we consider reviving and freezing subjects multiple times over their lives.\r\n"
 "\r\n"
 "To make matters worse, we've had a hard time securing additional dimethyl sulfoxide. We may have to make do with this batch."
-msgstr ""
+msgstr "Zkoušky na živých lidech ======================== Přidání dimetylsulfoxidu do současného kola testů přineslo určité zlepšení - subjekty vykazují lepší krevní oběh a zvýšenou nervovou aktivitu. Našemu přípravku však stále něco chybí - stále nejsme schopni plně oživit subjekty z dlouhodobé hibernace a odstranění přívodu dimetylsulfoxidu vede k jejich poměrně trýznivé smrti. Problém se ještě umocňuje, když uvažujeme o tom, že bychom subjekty oživovali a zmrazovali v průběhu jejich života vícekrát. Aby toho nebylo málo, nedaří se nám zajistit další dimethylsulfoxid. Možná si budeme muset vystačit s touto dávkou."
 
 #: conversations/02_terra2/0231_bureau/0231_cp_chemicals:65
 msgctxt "conversations/02_terra2/0231_bureau/0231_cp_chemicals:65:DefaultText"
 msgid "[Return to Root]"
-msgstr ""
+msgstr "[Zpět na kořen]"
 
 #: conversations/02_terra2/0231_bureau/0231_cp_chemicals:70
 msgctxt "conversations/02_terra2/0231_bureau/0231_cp_chemicals:70:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"

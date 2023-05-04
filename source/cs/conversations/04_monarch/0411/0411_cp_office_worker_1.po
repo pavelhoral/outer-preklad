@@ -6,37 +6,37 @@ msgid "C&P Factory Systems\n"
 "========================\n"
 "\n"
 "Greetings, authorized user. The King would like to remind you to please clock out BEFORE documenting your daily shift in 15 minute increments. Do not forget to clock back in when returning to work for your next 23-hour shift. If you would like to file a complaint, please immediately report to the King to receive an infraction on your performance."
-msgstr ""
+msgstr "C&P Factory Systems ======================== PŘIHLÁŠENÍ AUTORIZOVANÉHO UŽIVATELE VSTUPNÍ SEKVENCE... ======================== Zdravím vás, autorizovaný uživateli. Společnost King by vám ráda připomněla, abyste se, prosím, odhlašovali PŘED zdokumentováním své denní směny v 15minutových intervalech. Při návratu do práce na další 23hodinovou směnu se nezapomeňte znovu přihlásit. Pokud chcete podat stížnost, neprodleně se hlaste u Krále, abyste obdrželi přestupek na svůj výkon."
 
 #: conversations/04_monarch/0411/0411_cp_office_worker_1:2
 msgctxt "conversations/04_monarch/0411/0411_cp_office_worker_1:2:DefaultText"
 msgid "[Line Shift Reports]"
-msgstr ""
+msgstr "[Hlášení o směně na lince]"
 
 #: conversations/04_monarch/0411/0411_cp_office_worker_1:3
 msgctxt "conversations/04_monarch/0411/0411_cp_office_worker_1:3:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"
 
 #: conversations/04_monarch/0411/0411_cp_office_worker_1:4
 msgctxt "conversations/04_monarch/0411/0411_cp_office_worker_1:4:DefaultText"
 msgid "[Accessing...]"
-msgstr ""
+msgstr "[Přístup k...]"
 
 #: conversations/04_monarch/0411/0411_cp_office_worker_1:5
 msgctxt "conversations/04_monarch/0411/0411_cp_office_worker_1:5:DefaultText"
 msgid "[OLD FILES - TO BE DELETED]"
-msgstr ""
+msgstr "[STARÉ SOUBORY - BUDOU ODSTRANĚNY]"
 
 #: conversations/04_monarch/0411/0411_cp_office_worker_1:6
 msgctxt "conversations/04_monarch/0411/0411_cp_office_worker_1:6:DefaultText"
 msgid "[Shift Report 084]"
-msgstr ""
+msgstr "[Shift Report 084]"
 
 #: conversations/04_monarch/0411/0411_cp_office_worker_1:7
 msgctxt "conversations/04_monarch/0411/0411_cp_office_worker_1:7:DefaultText"
 msgid "[Return to Root]"
-msgstr ""
+msgstr "[Zpět na kořen]"
 
 #: conversations/04_monarch/0411/0411_cp_office_worker_1:8
 msgctxt "conversations/04_monarch/0411/0411_cp_office_worker_1:8:DefaultText"
@@ -61,7 +61,11 @@ msgid "C&P Factory Systems\n"
 "\n"
 "Yours in heart if not body,\n"
 "Fitz"
-msgstr ""
+msgstr "C&P Factory Systems ========================= Záznamy zpráv OD: Patterson TO: Rose PŘEDMĚT: A: Nechci říkat, že jsem vám to říkal, ale už v dubnu jsem vám vzkázal, že je to napsáno na zdi. Nebo ne? (Což, pokud si vzpomínáte, je jeden z důvodů, proč jsem vás prosil, abyste si s rozhodováním pospíšil, což nechtěně a bohužel podnítilo váš hněv na mě, že na vás spěchám). Ale teď se naplňuje všechno, čeho jsem se obával - C&P opustil Monarcha s ostatními. Továrna je v provozu, ale na směny nás chodí čím dál méně. Protože jaký to má vlastně smysl? Nikdy jsem nedostal poslední dva vozíky za dlužné mzdy, což znamená, že nemůžu platit nájem, Aggie, natož sponzorovat hazardní návyky tvého bratrance. Já vím, jak se uculuješ, kdykoli vznesu podobné obavy, ale já si nedělám legraci, Aggie. Je jen otázkou času, kdy se ocitnu na ulici. \n"
+"\n"
+"Co budeš dělat potom? Pořád mi říkat, ať počkám? Nemůžu. \n"
+"\n"
+"Další trajekt má jet ve čtvrtek ve dvě hodiny. Budu na něm a chtěl bych, aby ses ke mně přidala. Když to uděláš, dostanu konečně odpověď. Pokud ne... pak asi budu mít odpověď stejně. Každopádně nebudu čekat další měsíc v kuse. Uvidíme se na nástupišti trajektu (doufám). Tvůj srdcem, když ne tělem, Fitz"
 
 #: conversations/04_monarch/0411/0411_cp_office_worker_1:9
 msgctxt "conversations/04_monarch/0411/0411_cp_office_worker_1:9:DefaultText"
@@ -97,4 +101,6 @@ msgid "C&P Factory Systems\n"
 "P.S - Best have maintenance check the grating on the vents. That's the second clog this month.\n"
 "\n"
 "- Geraldine"
-msgstr ""
+msgstr "C&P Factory Systems ========================= Shift Report Time Log DAY: 084 AUTHORIZED USER: G. GOULD NOTES: 8:00 - kontrola kvality plechovek 8:15 - kontrola kvality plechovek 8:30 - kontrola kvality plechovek 8:45 - kontrola kvality plechovek 9:00 - kontrola kvality plechovek 9:15 - kontrola kvality plechovek 9:30 - kontrola kvality plechovek 9:45 - Odstranění ucpaného stroje 10:00 - Odstranění ucpaného stroje 10:15 - Vyčištění stroje 10:30 - Provedena diagnostika ucpaného stroje 10:45 - Kontrola kvality plechovek 11:00 - Kontrola kvality plechovek 11:15 - Kontrola kvality plechovek [Více...] Clive, co si myslíš o tom ucpaném stroji? Nemůže to být raptidon - nebyly to žádné šupiny. A není tam dost cyst na to, aby to bylo zcestné prase. Ale ať se propadnu, jestli jsem někdy viděl tak velkou havěť. \n"
+"\n"
+"Přiznám se, že jsem byl skeptický, když jsi mě a kluky zavolal zpátky do továrny, jako bychom to chtěli rozjet (no, asi jo) - ale měl jsi pravdu. Byly tam peníze zralé k vybírání i bez deštníku C&P a já jen chci, abys věděl... že si vážím toho, co jste udělali. Pro každého z nás. P.S. - Nejlepší bude, když údržba zkontroluje mřížky na větracích otvorech. To už je druhý ucpaný otvor tento měsíc. - Geraldine"

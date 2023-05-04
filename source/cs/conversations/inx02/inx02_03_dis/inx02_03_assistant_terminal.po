@@ -1,243 +1,243 @@
 #: conversations/inx02/inx02_03_dis/inx02_03_assistant_terminal:1
 msgctxt "conversations/inx02/inx02_03_dis/inx02_03_assistant_terminal:1:DefaultText"
 msgid "[Stub] First time talking to the assistant over the screen. The admin sketchily answers, nervous about getting in trouble."
-msgstr ""
+msgstr "[Stub] Poprvé mluvíte s asistentem přes obrazovku. Administrátor odpovídá skepticky, nervózní z toho, že se dostane do potíží."
 
 #: conversations/inx02/inx02_03_dis/inx02_03_assistant_terminal:2
 msgctxt "conversations/inx02/inx02_03_dis/inx02_03_assistant_terminal:2:DefaultText"
 msgid "[Stub] Second time talking to the assistant over the screen. The admin is a bit adjatated that you're bugging him again."
-msgstr ""
+msgstr "[Stub] Podruhé mluví s asistentem přes obrazovku. Správce je trochu rozladěný, že ho opět otravujete."
 
 #: conversations/inx02/inx02_03_dis/inx02_03_assistant_terminal:3
 msgctxt "conversations/inx02/inx02_03_dis/inx02_03_assistant_terminal:3:DefaultText"
 msgid "[Stub] Third time talking to the assistant over the screen. The admin assistant is really frantic by this point."
-msgstr ""
+msgstr "[Stub] Potřetí mluví s asistentem přes obrazovku. Asistentka administrátora je v tuto chvíli opravdu šílená."
 
 #: conversations/inx02/inx02_03_dis/inx02_03_assistant_terminal:4
 msgctxt "conversations/inx02/inx02_03_dis/inx02_03_assistant_terminal:4:DefaultText"
 msgid "[Stub] I know... I know... Just tell me why I should risk being demoted to help you?"
-msgstr ""
+msgstr "[Stub] Já vím... Já vím... Jen mi řekni, proč bych měl riskovat, že budu degradován, abych ti pomohl?"
 
 #: conversations/inx02/inx02_03_dis/inx02_03_assistant_terminal:5
 msgctxt "conversations/inx02/inx02_03_dis/inx02_03_assistant_terminal:5:DefaultText"
 msgid "[Stub] Any chance you can help me out with this thing?"
-msgstr ""
+msgstr "[Stub] Můžeš mi s tím nějak pomoct?"
 
 #: conversations/inx02/inx02_03_dis/inx02_03_assistant_terminal:6
 msgctxt "conversations/inx02/inx02_03_dis/inx02_03_assistant_terminal:6:DefaultText"
 msgid "[Stub] What the hell is that thing?"
-msgstr ""
+msgstr "[Stub] Co je to sakra za věc?"
 
 #: conversations/inx02/inx02_03_dis/inx02_03_assistant_terminal:7
 msgctxt "conversations/inx02/inx02_03_dis/inx02_03_assistant_terminal:7:DefaultText"
 msgid "[Stub] Listen, this thing is trying to eat me. No time for small talk."
-msgstr ""
+msgstr "[Stub] Poslouchej, ta věc se mě snaží sežrat. Není čas na řeči."
 
 #: conversations/inx02/inx02_03_dis/inx02_03_assistant_terminal:8
 msgctxt "conversations/inx02/inx02_03_dis/inx02_03_assistant_terminal:8:DefaultText"
 msgid "[Stub] Ah never mind..."
-msgstr ""
+msgstr "[Stub] Ach, to je jedno..."
 
 #: conversations/inx02/inx02_03_dis/inx02_03_assistant_terminal:10
 msgctxt "conversations/inx02/inx02_03_dis/inx02_03_assistant_terminal:10:DefaultText"
 msgid "[Stub] Oh you mean Sedrick's pet? It's a part of a Rizzo's experiment, Sedrick grew quite fond of him. Everyone warned him it was dangerous, obviously he didn't listen."
-msgstr ""
+msgstr "[Stub] Myslíš Sedrickova mazlíčka? Je to součást Rizzova experimentu, Sedrick si ho docela oblíbil. Všichni ho varovali, že je to nebezpečné, zřejmě neposlechl."
 
 #: conversations/inx02/inx02_03_dis/inx02_03_assistant_terminal:11
 msgctxt "conversations/inx02/inx02_03_dis/inx02_03_assistant_terminal:11:DefaultText"
 msgid "[Stub] Hold on, If you help me you have a chance to be a hero."
-msgstr ""
+msgstr "[Stub] Vydrž, když mi pomůžeš, máš šanci stát se hrdinou."
 
 #: conversations/inx02/inx02_03_dis/inx02_03_assistant_terminal:12
 msgctxt "conversations/inx02/inx02_03_dis/inx02_03_assistant_terminal:12:DefaultText"
 msgid "[Stub] You do realize I was sent by Sedrick's direct supervisor?"
-msgstr ""
+msgstr "[Stub] Uvědomujete si, že mě poslal Sedrickův přímý nadřízený?"
 
 #: conversations/inx02/inx02_03_dis/inx02_03_assistant_terminal:13
 msgctxt "conversations/inx02/inx02_03_dis/inx02_03_assistant_terminal:13:DefaultText"
 msgid "[Stub] If I have to kill this thing myself, you're gonna wish you went out like Sedrick."
-msgstr ""
+msgstr "[Stub] Jestli to budu muset zabít sám, budeš si přát, abys odešel jako Sedrick."
 
 #: conversations/inx02/inx02_03_dis/inx02_03_assistant_terminal:16
 msgctxt "conversations/inx02/inx02_03_dis/inx02_03_assistant_terminal:16:DefaultText"
 msgid "[Stub] Anyhow it's against corporation protocol to even be talking to you, I have to run."
-msgstr ""
+msgstr "[Stub] Každopádně je proti protokolu korporace s tebou vůbec mluvit, musím běžet."
 
 #: conversations/inx02/inx02_03_dis/inx02_03_assistant_terminal:17
 msgctxt "conversations/inx02/inx02_03_dis/inx02_03_assistant_terminal:17:DefaultText"
 msgid "[Stub] A hero you say? Sounds much better than assistant, actually Sedrick usually shortened it to ass on all of my documentation."
-msgstr ""
+msgstr "[Stub] Říkáte hrdina? Zní to mnohem lépe než asistent, Sedrick to ve všech mých dokumentech obvykle zkracuje na prdel."
 
 #: conversations/inx02/inx02_03_dis/inx02_03_assistant_terminal:18
 msgctxt "conversations/inx02/inx02_03_dis/inx02_03_assistant_terminal:18:DefaultText"
 msgid "[Stub] Admin Assistant reluctantly helps you with Terminal A."
-msgstr ""
+msgstr "[Stub] Asistentka administrátora vám neochotně pomůže s terminálem A."
 
 #: conversations/inx02/inx02_03_dis/inx02_03_assistant_terminal:19
 msgctxt "conversations/inx02/inx02_03_dis/inx02_03_assistant_terminal:19:DefaultText"
 msgid "[Stub] Admin Assistant reluctantly helps you with Terminal B."
-msgstr ""
+msgstr "[Stub] Admin Assistant vám neochotně pomůže s terminálem B."
 
 #: conversations/inx02/inx02_03_dis/inx02_03_assistant_terminal:20
 msgctxt "conversations/inx02/inx02_03_dis/inx02_03_assistant_terminal:20:DefaultText"
 msgid "[Stub] Admin Assistant reluctantly helps you with Terminal C."
-msgstr ""
+msgstr "[Stub] Admin Assistant vám neochotně pomůže s terminálem C."
 
 #: conversations/inx02/inx02_03_dis/inx02_03_assistant_terminal:21
 msgctxt "conversations/inx02/inx02_03_dis/inx02_03_assistant_terminal:21:DefaultText"
 msgid "[Stub] Admin Assistant reluctantly helps you with Terminal D."
-msgstr ""
+msgstr "[Stub] Admin Assistant vám neochotně pomůže s terminálem D."
 
 #: conversations/inx02/inx02_03_dis/inx02_03_assistant_terminal:22
 msgctxt "conversations/inx02/inx02_03_dis/inx02_03_assistant_terminal:22:DefaultText"
 msgid "[Stub] Well if Rizzo's sent you, I suppose I'm obligated to help you, try this."
-msgstr ""
+msgstr "[Stub] No, když tě poslal Rizzo, tak jsem asi povinen ti pomoct, zkus tohle."
 
 #: conversations/inx02/inx02_03_dis/inx02_03_assistant_terminal:23
 msgctxt "conversations/inx02/inx02_03_dis/inx02_03_assistant_terminal:23:DefaultText"
 msgid "[Stub] I've done all I can, I swear.\r\n"
 "Player calls the admin after all machinery is on."
-msgstr ""
+msgstr "[Stub] Udělal jsem, co jsem mohl, přísahám. Hráč zavolá správce, až když jsou všechny stroje zapnuté."
 
 #: conversations/inx02/inx02_03_dis/inx02_03_assistant_terminal:24
 msgctxt "conversations/inx02/inx02_03_dis/inx02_03_assistant_terminal:24:DefaultText"
 msgid "[Stub] As beautiful as Rizzo's Rainbow Bridge sounds, I've never trusted it. I'll help you."
-msgstr ""
+msgstr "[Stub] I když zní Rizzův Duhový most krásně, nikdy jsem mu nevěřil. Pomůžu ti."
 
 #: conversations/inx02/inx02_03_dis/inx02_03_assistant_terminal:25
 msgctxt "conversations/inx02/inx02_03_dis/inx02_03_assistant_terminal:25:DefaultText"
 msgid "[Stub] Ok let's skip the small talk again, I could use your help again."
-msgstr ""
+msgstr "[Stub] Dobře, přeskočme zase tyhle řeči, zase by se mi hodila tvoje pomoc."
 
 #: conversations/inx02/inx02_03_dis/inx02_03_assistant_terminal:26
 msgctxt "conversations/inx02/inx02_03_dis/inx02_03_assistant_terminal:26:DefaultText"
 msgid "[Stub] "
-msgstr ""
+msgstr "[Stub] "
 
 #: conversations/inx02/inx02_03_dis/inx02_03_assistant_terminal:27
 msgctxt "conversations/inx02/inx02_03_dis/inx02_03_assistant_terminal:27:DefaultText"
 msgid "[Stub] "
-msgstr ""
+msgstr "[Stub] "
 
 #: conversations/inx02/inx02_03_dis/inx02_03_assistant_terminal:29
 msgctxt "conversations/inx02/inx02_03_dis/inx02_03_assistant_terminal:29:DefaultText"
 msgid "[Stub] "
-msgstr ""
+msgstr "[Stub] "
 
 #: conversations/inx02/inx02_03_dis/inx02_03_assistant_terminal:30
 msgctxt "conversations/inx02/inx02_03_dis/inx02_03_assistant_terminal:30:DefaultText"
 msgid "[Stub] "
-msgstr ""
+msgstr "[Stub] "
 
 #: conversations/inx02/inx02_03_dis/inx02_03_assistant_terminal:31
 msgctxt "conversations/inx02/inx02_03_dis/inx02_03_assistant_terminal:31:DefaultText"
 msgid "[Stub] "
-msgstr ""
+msgstr "[Stub] "
 
 #: conversations/inx02/inx02_03_dis/inx02_03_assistant_terminal:33
 msgctxt "conversations/inx02/inx02_03_dis/inx02_03_assistant_terminal:33:DefaultText"
 msgid "[Stub] Ok let's skip the small talk again, I could use your help again."
-msgstr ""
+msgstr "[Stub] Dobře, přeskočme zase tyhle řeči, zase by se mi hodila tvoje pomoc."
 
 #: conversations/inx02/inx02_03_dis/inx02_03_assistant_terminal:34
 msgctxt "conversations/inx02/inx02_03_dis/inx02_03_assistant_terminal:34:DefaultText"
 msgid "[Stub] Admin agrees it's their duty to help you and proceeds to turn on some machinery."
-msgstr ""
+msgstr "[Stub] Admin souhlasí, že je jeho povinností vám pomoci, a zapne nějaké stroje."
 
 #: conversations/inx02/inx02_03_dis/inx02_03_assistant_terminal:35
 msgctxt "conversations/inx02/inx02_03_dis/inx02_03_assistant_terminal:35:DefaultText"
 msgid "[Stub] Player lies about being from Rizzo's"
-msgstr ""
+msgstr "[Stub] Hráč lže, že je z Rizzo's"
 
 #: conversations/inx02/inx02_03_dis/inx02_03_assistant_terminal:36
 msgctxt "conversations/inx02/inx02_03_dis/inx02_03_assistant_terminal:36:DefaultText"
 msgid "[Stub] "
-msgstr ""
+msgstr "[Stub] "
 
 #: conversations/inx02/inx02_03_dis/inx02_03_assistant_terminal:37
 msgctxt "conversations/inx02/inx02_03_dis/inx02_03_assistant_terminal:37:DefaultText"
 msgid "[Stub] Player threatens the admin assistant again."
-msgstr ""
+msgstr "[Stub] Hráč opět vyhrožuje asistentovi administrátora."
 
 #: conversations/inx02/inx02_03_dis/inx02_03_assistant_terminal:38
 msgctxt "conversations/inx02/inx02_03_dis/inx02_03_assistant_terminal:38:DefaultText"
 msgid "[Stub] "
-msgstr ""
+msgstr "[Stub] "
 
 #: conversations/inx02/inx02_03_dis/inx02_03_assistant_terminal:39
 msgctxt "conversations/inx02/inx02_03_dis/inx02_03_assistant_terminal:39:DefaultText"
 msgid "[Stub] Persuades the admin assistant into helping out.\r\n"
 ""
-msgstr ""
+msgstr "[Stub] Přesvědčí asistentku administrátora, aby mu pomohla."
 
 #: conversations/inx02/inx02_03_dis/inx02_03_assistant_terminal:40
 msgctxt "conversations/inx02/inx02_03_dis/inx02_03_assistant_terminal:40:DefaultText"
 msgid "[Stub] "
-msgstr ""
+msgstr "[Stub] "
 
 #: conversations/inx02/inx02_03_dis/inx02_03_assistant_terminal:41
 msgctxt "conversations/inx02/inx02_03_dis/inx02_03_assistant_terminal:41:DefaultText"
 msgid "[Stub] "
-msgstr ""
+msgstr "[Stub] "
 
 #: conversations/inx02/inx02_03_dis/inx02_03_assistant_terminal:42
 msgctxt "conversations/inx02/inx02_03_dis/inx02_03_assistant_terminal:42:DefaultText"
 msgid "[Stub] "
-msgstr ""
+msgstr "[Stub] "
 
 #: conversations/inx02/inx02_03_dis/inx02_03_assistant_terminal:43
 msgctxt "conversations/inx02/inx02_03_dis/inx02_03_assistant_terminal:43:DefaultText"
 msgid "[Stub] "
-msgstr ""
+msgstr "[Stub] "
 
 #: conversations/inx02/inx02_03_dis/inx02_03_assistant_terminal:44
 msgctxt "conversations/inx02/inx02_03_dis/inx02_03_assistant_terminal:44:DefaultText"
 msgid "[Stub] "
-msgstr ""
+msgstr "[Stub] "
 
 #: conversations/inx02/inx02_03_dis/inx02_03_assistant_terminal:45
 msgctxt "conversations/inx02/inx02_03_dis/inx02_03_assistant_terminal:45:DefaultText"
 msgid "[Stub] The admin assistant apologizes for not helping the player, but please... that ticket is a golden ticket, I worked for seven years for a chance to tour the orchards.\r\n"
 ""
-msgstr ""
+msgstr "[Stub] Asistentka administrátora se omlouvá, že hráči nepomohla, ale prosím... ten lístek je zlatý, sedm let jsem pracoval na tom, abych si mohl prohlédnout sady."
 
 #: conversations/inx02/inx02_03_dis/inx02_03_assistant_terminal:50
 msgctxt "conversations/inx02/inx02_03_dis/inx02_03_assistant_terminal:50:DefaultText"
 msgid "[Stub] Player thanks them and leaves"
-msgstr ""
+msgstr "[Stub] Hráč jim poděkuje a odejde"
 
 #: conversations/inx02/inx02_03_dis/inx02_03_assistant_terminal:51
 msgctxt "conversations/inx02/inx02_03_dis/inx02_03_assistant_terminal:51:DefaultText"
 msgid "[Stub] That's it?"
-msgstr ""
+msgstr "[Stub] To je vše?"
 
 #: conversations/inx02/inx02_03_dis/inx02_03_assistant_terminal:55
 msgctxt "conversations/inx02/inx02_03_dis/inx02_03_assistant_terminal:55:DefaultText"
 msgid "[Stub] Admins Assistant Congratulates the player for killing the Slug Boss. Please take this ticket for a tour of Rizzo's Purpleberry Orchards as a token of gratitude. It's a golden ticket."
-msgstr ""
+msgstr "[Stub] Asistent administrátora Blahopřeje hráči k zabití slimáčího bosse. Na důkaz vděčnosti si prosím vezměte tento lístek na prohlídku Rizzových purpurových sadů. Jedná se o zlatou vstupenku."
 
 #: conversations/inx02/inx02_03_dis/inx02_03_assistant_terminal:57
 msgctxt "conversations/inx02/inx02_03_dis/inx02_03_assistant_terminal:57:DefaultText"
 msgid "[Stub] You could have helped me."
-msgstr ""
+msgstr "[Stub] Mohl jsi mi pomoci."
 
 #: conversations/inx02/inx02_03_dis/inx02_03_assistant_terminal:58
 msgctxt "conversations/inx02/inx02_03_dis/inx02_03_assistant_terminal:58:DefaultText"
 msgid "[Stub] Thanks for your help in there."
-msgstr ""
+msgstr "[Stub] Děkujeme za pomoc."
 
 #: conversations/inx02/inx02_03_dis/inx02_03_assistant_terminal:59
 msgctxt "conversations/inx02/inx02_03_dis/inx02_03_assistant_terminal:59:DefaultText"
 msgid "[Stub] That ticket is a GOLDEN ticket, I worked for seven years for a chance to tour the orchards. Seven years for that asshole Sedrick. \r\n"
 ""
-msgstr ""
+msgstr "[Stub] Ten lístek je ZLATÝ lístek, sedm let jsem pracoval na tom, abych si mohl prohlédnout sady. Sedm let pro toho kreténa Sedricka."
 
 #: conversations/inx02/inx02_03_dis/inx02_03_assistant_terminal:60
 msgctxt "conversations/inx02/inx02_03_dis/inx02_03_assistant_terminal:60:DefaultText"
 msgid "[Stub] Admin Assistant acknowledges the thanks and mentions if the player didn't deal with the Slug it'd be his job."
-msgstr ""
+msgstr "[Stub] Asistent administrátora poděkuje a zmíní se, že kdyby se hráč nevypořádal se Slimákem, byla by to jeho práce."
 
 #: conversations/inx02/inx02_03_dis/inx02_03_assistant_terminal:62
 msgctxt "conversations/inx02/inx02_03_dis/inx02_03_assistant_terminal:62:DefaultText"
 msgid "[Stub] <Attack> Thanks for nothing."
-msgstr ""
+msgstr "[Stub] <Attack> Díky za nic."

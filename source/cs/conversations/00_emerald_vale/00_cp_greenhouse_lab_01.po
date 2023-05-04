@@ -6,12 +6,12 @@ msgid "Emerald Vale Botanical Lab and Experimental Facility\r\n"
 "========================\r\n"
 "\r\n"
 "Terminal Access"
-msgstr ""
+msgstr "Botanická laboratoř a experimentální zařízení Emerald Vale A Spacer's Choice Property ======================== Terminal Access"
 
 #: conversations/00_emerald_vale/00_cp_greenhouse_lab_01:2
 msgctxt "conversations/00_emerald_vale/00_cp_greenhouse_lab_01:2:DefaultText"
 msgid "[Experimental Notes]"
-msgstr ""
+msgstr "[Experimentální poznámky]"
 
 #: conversations/00_emerald_vale/00_cp_greenhouse_lab_01:3
 msgctxt "conversations/00_emerald_vale/00_cp_greenhouse_lab_01:3:DefaultText"
@@ -21,17 +21,17 @@ msgid "Emerald Vale Botanical Lab and Experimental Facility\r\n"
 "========================\r\n"
 "\r\n"
 "Experimental Notes"
-msgstr ""
+msgstr "Botanická laboratoř a experimentální zařízení Emerald Vale A Spacer's Choice Property ======================== Experimentální poznámky"
 
 #: conversations/00_emerald_vale/00_cp_greenhouse_lab_01:4
 msgctxt "conversations/00_emerald_vale/00_cp_greenhouse_lab_01:4:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"
 
 #: conversations/00_emerald_vale/00_cp_greenhouse_lab_01:5
 msgctxt "conversations/00_emerald_vale/00_cp_greenhouse_lab_01:5:DefaultText"
 msgid "[Personal Files]"
-msgstr ""
+msgstr "[Osobní soubory]"
 
 #: conversations/00_emerald_vale/00_cp_greenhouse_lab_01:6
 msgctxt "conversations/00_emerald_vale/00_cp_greenhouse_lab_01:6:DefaultText"
@@ -43,17 +43,17 @@ msgid "Emerald Vale Botanical Lab and Experimental Facility\r\n"
 "Personal Files\r\n"
 "...\r\n"
 "[PASSWORD REQUIRED]"
-msgstr ""
+msgstr "Emerald Vale Botanical Lab and Experimental Facility A Spacer's Choice Property ======================== Personal Files ... [PASSWORD REQUIRED]"
 
 #: conversations/00_emerald_vale/00_cp_greenhouse_lab_01:7
 msgctxt "conversations/00_emerald_vale/00_cp_greenhouse_lab_01:7:DefaultText"
 msgid "[Bypass]"
-msgstr ""
+msgstr "[Bypass]"
 
 #: conversations/00_emerald_vale/00_cp_greenhouse_lab_01:8
 msgctxt "conversations/00_emerald_vale/00_cp_greenhouse_lab_01:8:DefaultText"
 msgid "[Return to Root]"
-msgstr ""
+msgstr "[Zpět na kořen]"
 
 #: conversations/00_emerald_vale/00_cp_greenhouse_lab_01:10
 msgctxt "conversations/00_emerald_vale/00_cp_greenhouse_lab_01:10:DefaultText"
@@ -67,12 +67,12 @@ msgid "Emerald Vale Botanical Lab and Experimental Facility\r\n"
 "[PASSWORD]: silentspring\r\n"
 "[PASSWORD ACCEPTED]\r\n"
 "WELCOME, A. McDevitt"
-msgstr ""
+msgstr "Emerald Vale Botanical Lab and Experimental Facility A Spacer's Choice Property ======================== Personal Files ... [HESLO]: silentspring [HESLO PŘIJATO] VÍTEJTE, A. McDevitt"
 
 #: conversations/00_emerald_vale/00_cp_greenhouse_lab_01:11
 msgctxt "conversations/00_emerald_vale/00_cp_greenhouse_lab_01:11:DefaultText"
 msgid "[Open Last Entry]"
-msgstr ""
+msgstr "[Otevřít poslední záznam]"
 
 #: conversations/00_emerald_vale/00_cp_greenhouse_lab_01:12
 msgctxt "conversations/00_emerald_vale/00_cp_greenhouse_lab_01:12:DefaultText"
@@ -86,12 +86,12 @@ msgid "Emerald Vale Botanical Lab and Experimental Facility\r\n"
 "We found another worker from Edgewater. Ex-worker, now. Desertion rates must be climbing. I'm not terribly surprised. Reed's style of management has always been tyrannical. I imagine an exodus is brewing.\r\n"
 "\r\n"
 "At any rate, the worker was in a sorry state. Fever. Shallow breathing. Delirious. Must have been plagued. I set him right with a diet of greens. He was all better in a couple weeks. Physically. Spiritually. He's one of our flock now."
-msgstr ""
+msgstr "Emerald Vale Botanical Lab and Experimental Facility A Spacer's Choice Property ======================== Personal Files - Last Entry Našli jsme dalšího pracovníka z Edgewateru. Teď už bývalého pracovníka. Počet dezercí musí stoupat. To mě nijak zvlášť nepřekvapuje. Reedův styl řízení byl vždycky tyranský. Dovedu si představit, že se schyluje k exodu. Každopádně ten dělník byl v žalostném stavu. Horečka. Mělké dýchání. Blouznil. Musel být sužován. Napravil jsem ho zelenou stravou. Za pár týdnů se uzdravil. Fyzicky. Duchovně. Teď patří do našeho stáda."
 
 #: conversations/00_emerald_vale/00_cp_greenhouse_lab_01:13
 msgctxt "conversations/00_emerald_vale/00_cp_greenhouse_lab_01:13:DefaultText"
 msgid "[Open First Entry]"
-msgstr ""
+msgstr "[Otevřít první vstup]"
 
 #: conversations/00_emerald_vale/00_cp_greenhouse_lab_01:14
 msgctxt "conversations/00_emerald_vale/00_cp_greenhouse_lab_01:14:DefaultText"
@@ -105,12 +105,12 @@ msgid "Emerald Vale Botanical Lab and Experimental Facility\r\n"
 "May the Eternal bless my first endeavor. It's been two days since I walked away from life at the Edgewater cannery. Fortuitously, the old botanical labs are still operational. Mostly. The soil's sour. I'll do what I can, but I'm going to need some powerful fertilizer.\r\n"
 "\r\n"
 "Tired of having the taste of saltuna lingering on my tongue, day in, day out. I want something fresh. Something that grows out the earth."
-msgstr ""
+msgstr "Emerald Vale Botanical Lab and Experimental Facility A Spacer's Choice Property ======================== Personal Files - First Entry May the Eternal bless my first endeavor. Jsou to dva dny, co jsem odešel od života v konzervárně Edgewater. Naštěstí jsou staré botanické laboratoře stále v provozu. Většinou. Půda je kyselá. Udělám, co budu moct, ale budu potřebovat nějaké silné hnojivo. Už mě nebaví, aby mi den co den na jazyku ulpívala chuť saltuny. Chci něco čerstvého. Něco, co vyroste ze země."
 
 #: conversations/00_emerald_vale/00_cp_greenhouse_lab_01:15
 msgctxt "conversations/00_emerald_vale/00_cp_greenhouse_lab_01:15:DefaultText"
 msgid "[Open Last Entry]"
-msgstr ""
+msgstr "[Otevřít poslední záznam]"
 
 #: conversations/00_emerald_vale/00_cp_greenhouse_lab_01:17
 msgctxt "conversations/00_emerald_vale/00_cp_greenhouse_lab_01:17:DefaultText"
@@ -126,12 +126,12 @@ msgid "Emerald Vale Botanical Lab and Experimental Facility\r\n"
 "The soil is sour, it's true. I don't know quite how to explain that. I am sure the Scienticians will say something about biology or the carbon cycle. \r\n"
 "\r\n"
 "But I can conclude, after months of my own experimentation, that the secret to a rich and wholesome garden is love, attention, compassion, and a natural fertilizer bursting with organic materials. Just as nature intended."
-msgstr ""
+msgstr "Emerald Vale Botanical Lab and Experimental Facility A Spacer's Choice Property ======================== Experimental Notes - Last Entry Flora je živá bytost, která je stejně citlivá na své prostředí jako každé dýchající a myslící tělo. Tvrdím, že plodiny v této oblasti selhaly, protože korporátní vědci, kteří o ně pečují, jsou chladní, bezcitní a nelidští lidé jednající jménem sterilní a nelidské moci. V těchto podmínkách nelze očekávat, že se vaše úroda zazelená a bude sahat k nebi. Půda je kyselá, to je pravda. Nevím přesně, jak to vysvětlit. Vědci mi jistě řeknou něco o biologii nebo koloběhu uhlíku. Ale po měsících vlastního experimentování mohu dojít k závěru, že tajemstvím bohaté a zdravé zahrady je láska, pozornost, soucit a přírodní hnojivo překypující organickými látkami. Přesně tak, jak to příroda zamýšlela."
 
 #: conversations/00_emerald_vale/00_cp_greenhouse_lab_01:18
 msgctxt "conversations/00_emerald_vale/00_cp_greenhouse_lab_01:18:DefaultText"
 msgid "[Open First Entry]"
-msgstr ""
+msgstr "[Otevřít první vstup]"
 
 #: conversations/00_emerald_vale/00_cp_greenhouse_lab_01:19
 msgctxt "conversations/00_emerald_vale/00_cp_greenhouse_lab_01:19:DefaultText"
@@ -148,4 +148,4 @@ msgid "Emerald Vale Botanical Lab and Experimental Facility\r\n"
 "\r\n"
 "I am determined to find a way. May the Eternal smile upon my endeavors.\r\n"
 ""
-msgstr ""
+msgstr "Botanická laboratoř a experimentální zařízení Emerald Vale Vlastnost Spacer's Choice ======================== Poznámky k experimentům - První záznam Tímto měním funkci této botanické laboratoře z původního konceptu jako převodového kola v bezduchém automatu korporátního stroje. Tento skleník možná vypadá impozantně, ale stejně jako všechny výrobky Spacer's Choice je levný a nespolehlivý. Budu se muset pustit do oprav vlastníma rukama. Z tohoto místa se stane školka. Předtím, než byl opuštěn, se prý zahradníkům nepodařilo vypěstovat jedinou životaschopnou plodinu. Něco o příliš chudé půdě. Jsem odhodlán najít způsob, jak to udělat. Kéž se Věčný usměje na mé úsilí."

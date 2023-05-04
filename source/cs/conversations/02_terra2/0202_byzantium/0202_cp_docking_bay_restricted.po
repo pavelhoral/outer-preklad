@@ -4,17 +4,17 @@ msgid "Cargo Door Status: SEALED\r\n"
 "===========================\r\n"
 "\r\n"
 "WARNING: Access to this area is restricted."
-msgstr ""
+msgstr "Stav dveří nákladového prostoru: UPOZORNĚNÍ: Přístup do této oblasti je omezen."
 
 #: conversations/02_terra2/0202_byzantium/0202_cp_docking_bay_restricted:5
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cp_docking_bay_restricted:5:DefaultText"
 msgid "[Unseal Door]"
-msgstr ""
+msgstr "[Odpečetit dveře]"
 
 #: conversations/02_terra2/0202_byzantium/0202_cp_docking_bay_restricted:6
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cp_docking_bay_restricted:6:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"
 
 #: conversations/02_terra2/0202_byzantium/0202_cp_docking_bay_restricted:8
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cp_docking_bay_restricted:8:DefaultText"
@@ -22,4 +22,4 @@ msgid "Cargo Door Status: UNSEALED\r\n"
 "===========================\r\n"
 "\r\n"
 "WARNING: Access to this area is restricted."
-msgstr ""
+msgstr "Stav dveří nákladového prostoru: UPOZORNĚNÍ: Přístup do této oblasti je omezen."

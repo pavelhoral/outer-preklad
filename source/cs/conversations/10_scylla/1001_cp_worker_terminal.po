@@ -7,27 +7,27 @@ msgid "Hephaestus Geological Survey\n"
 "Use of this terminal for leisure activity is a violation of employee indenture contract clause 227.1(c) \"Time Theft.\" Fines will be levied accordingly.\r\n"
 "\r\n"
 "Main Menu:"
-msgstr ""
+msgstr "Terminál vedoucího pracoviště geologického průzkumu Hephaestus ------------------------------------- Používání tohoto terminálu k volnočasovým aktivitám je porušením smluvního ustanovení 227.1 c) \"Krádež času\". V souladu s tím budou uloženy pokuty. Hlavní nabídka:"
 
 #: conversations/10_scylla/1001_cp_worker_terminal:2
 msgctxt "conversations/10_scylla/1001_cp_worker_terminal:2:DefaultText"
 msgid "[Messages]"
-msgstr ""
+msgstr "[Zprávy]"
 
 #: conversations/10_scylla/1001_cp_worker_terminal:3
 msgctxt "conversations/10_scylla/1001_cp_worker_terminal:3:DefaultText"
 msgid "[Logs]"
-msgstr ""
+msgstr "[Deníky]"
 
 #: conversations/10_scylla/1001_cp_worker_terminal:4
 msgctxt "conversations/10_scylla/1001_cp_worker_terminal:4:DefaultText"
 msgid "[Message #1: Preliminary Survey Results]"
-msgstr ""
+msgstr "[Zpráva #1: Předběžné výsledky průzkumu]"
 
 #: conversations/10_scylla/1001_cp_worker_terminal:5
 msgctxt "conversations/10_scylla/1001_cp_worker_terminal:5:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"
 
 #: conversations/10_scylla/1001_cp_worker_terminal:6
 msgctxt "conversations/10_scylla/1001_cp_worker_terminal:6:DefaultText"
@@ -38,12 +38,12 @@ msgid "Hephaestus Geological Survey\n"
 "All messages sent and received by this terminal are the property of Hephaestus Mining Corporation. Personal messages may be sent with supervisor's approval. Cost of personal messages will be deducted from employee's salary.\r\n"
 "\r\n"
 "Please select the message you wish to view:"
-msgstr ""
+msgstr "Terminál vedoucího geologického průzkumu Hephaestus ------------------------------------- Všechny zprávy odeslané a přijaté tímto terminálem jsou majetkem společnosti Hephaestus Mining Corporation. Osobní zprávy lze odesílat se souhlasem nadřízeného. Náklady na osobní zprávy budou strženy z platu zaměstnance. Vyberte zprávu, kterou si přejete zobrazit:"
 
 #: conversations/10_scylla/1001_cp_worker_terminal:7
 msgctxt "conversations/10_scylla/1001_cp_worker_terminal:7:DefaultText"
 msgid "[Message #2: Status Report - Day 127"
-msgstr ""
+msgstr "[Zpráva č. 2: Zpráva o stavu - 127. den"
 
 #: conversations/10_scylla/1001_cp_worker_terminal:8
 msgctxt "conversations/10_scylla/1001_cp_worker_terminal:8:DefaultText"
@@ -54,7 +54,7 @@ msgid "Hephaestus Geological Survey\n"
 "All logs written and stored on this terminal are the property of Hephaestus Mining Corporation. Employee logs are subject to review by management and security at any time, without prior notice.\r\n"
 "\r\n"
 "Please select the log you wish to view:"
-msgstr ""
+msgstr "Terminál vedoucího geologického průzkumu Hephaestus ------------------------------------- Všechny protokoly zapsané a uložené v tomto terminálu jsou majetkem společnosti Hephaestus Mining Corporation. Zaměstnanecké deníky mohou být kdykoli a bez předchozího upozornění přezkoumány vedením a ochrankou. Vyberte prosím deník, který si přejete zobrazit:"
 
 #: conversations/10_scylla/1001_cp_worker_terminal:9
 msgctxt "conversations/10_scylla/1001_cp_worker_terminal:9:DefaultText"
@@ -75,7 +75,7 @@ msgid "Hephaestus Geological Survey\n"
 "Hope the weather on Terra 1 isn't getting you down. I hear our permanent facility on Hephaestus is almost ready for habitation.\r\n"
 "\r\n"
 "- Thackery"
-msgstr ""
+msgstr "Terminál vedoucího geologického průzkumu Hephaestus ------------------------------------- OD: (vedoucí pracoviště) TO: Thackery, B: (dálková těžba JVP) PŘEDMĚT: Evers, L: Scylla Preliminary Survey Results (Předběžné výsledky průzkumu Scylly) Dokončili jsme počáteční průzkum a musím uznat, že vaše tušení bylo správné. Dlužím ti oběd, až budu příště na Terře 1. Sotva jsme začali s průzkumem, objevili jsme minerální žílu s vysokou hustotou yttria a skandia. Je tu limit, kolik toho můj tým může vytěžit v těchto tlakových oblecích. Pořiďte nám terraformer a nějaké průzkumné mechanismy a tenhle náš malý podnik nás všechny obohatí! Doufám, že vás to počasí na Terře 1 neskolí. Slyšel jsem, že naše stálé zařízení na Hefaistonu je téměř připraveno k obývání. - Thackery"
 
 #: conversations/10_scylla/1001_cp_worker_terminal:10
 msgctxt "conversations/10_scylla/1001_cp_worker_terminal:10:DefaultText"
@@ -94,17 +94,17 @@ msgid "Hephaestus Geological Survey\n"
 "We had a Board team out here last week scanning for signals from the Hope. We could all guess the results from how unhappy they looked. It's been three years since the Board classified the ship as missing. You'd think we'd be over it by now.\r\n"
 "\r\n"
 "- Thackery"
-msgstr ""
+msgstr "Terminál vedoucího geologického průzkumu Hephaestus ------------------------------------- OD: (vedoucí pracoviště) TO: Thackery, B: (dálková těžba JVP) PŘEDMĚT: Evers, L: Měsíční zpráva o stavu Děkujeme, že jsi nám popohnala tu náhradní součástku, Lindo. Můj tým opravil 'bývalý' a ten už zase pilně chrlí O2. Musela jsi poslat jednu naloženou zásobou osiva? Zatracené trávy mi vyvolávají alergii. Průzkumné práce pokračují. Ta původní žíla vyschla rychleji, než jsme doufali, ale z dalších míst máme slibné výsledky. Hustota skandia je nižší než na první lokalitě, ale yttrium je stále na slušné úrovni. Minulý týden jsme tu měli tým rady, který hledal signály z Hope. Všichni jsme mohli odhadnout výsledky podle toho, jak nešťastně vypadaly. Už jsou to tři roky, co Rada klasifikovala loď jako nezvěstnou. Člověk by si myslel, že už jsme se s tím vyrovnali. - Thackery"
 
 #: conversations/10_scylla/1001_cp_worker_terminal:11
 msgctxt "conversations/10_scylla/1001_cp_worker_terminal:11:DefaultText"
 msgid "[Return to Root]"
-msgstr ""
+msgstr "[Zpět na kořen]"
 
 #: conversations/10_scylla/1001_cp_worker_terminal:12
 msgctxt "conversations/10_scylla/1001_cp_worker_terminal:12:DefaultText"
 msgid "[Message #3: Status Report - Day 268]"
-msgstr ""
+msgstr "[Zpráva #3: Zpráva o stavu - Den 268]"
 
 #: conversations/10_scylla/1001_cp_worker_terminal:13
 msgctxt "conversations/10_scylla/1001_cp_worker_terminal:13:DefaultText"
@@ -123,12 +123,12 @@ msgid "Hephaestus Geological Survey\n"
 "My team heard that you arranged for some CircusTime traveling show to stop at our base. It was a big boost to morale - we can't wait for some entertainment out here!\r\n"
 "\r\n"
 "- Thackery"
-msgstr ""
+msgstr "Terminál vedoucího geologického průzkumu Hephaestus ------------------------------------- OD: (vedoucí pracoviště) TO: Thackery, B: (viceprezident pro dálkovou těžbu) PŘEDMĚT: Evers, L: Měsíční zpráva o stavu Gratulujeme k povýšení! Nejmladší řádný viceprezident v historii společnosti. Jen mi slib, že nepovýšíš toho vrtáka Needhama, aby tě nahradil. Špatné zprávy, Line... všechny lokality v 'bývalé kopuli vyschly. Mechanici přivážejí dobré vzorky z oblasti mimo retenční pole. Pošlu ti požadavek na tahač, který přemístí terraformer blíž k novým lokalitám. Můj tým se doslechl, že jsi zařídil, aby se na naší základně zastavila nějaká putovní show CircusTime. Bylo to velké povzbuzení morálky - už se nemůžeme dočkat, až se tady trochu pobavíme!\" - Thackery"
 
 #: conversations/10_scylla/1001_cp_worker_terminal:14
 msgctxt "conversations/10_scylla/1001_cp_worker_terminal:14:DefaultText"
 msgid "[Message #4: Denial of Site Relocation]"
-msgstr ""
+msgstr "[Zpráva č. 4: Odmítnutí přemístění místa]"
 
 #: conversations/10_scylla/1001_cp_worker_terminal:15
 msgctxt "conversations/10_scylla/1001_cp_worker_terminal:15:DefaultText"
@@ -149,17 +149,17 @@ msgid "Hephaestus Geological Survey\n"
 "Operations at your site are terminated, EFFECTIVE IMMEDIATELY. I've got a new site in mind for you. One of the rocks orbiting Hephaestus. Temps are a cool 170° C. You'll love it.\r\n"
 "\r\n"
 "- Needham"
-msgstr ""
+msgstr "Terminál vedoucího geologického průzkumu Hephaestus ------------------------------------- OD: (JVP Remote Extraction) TO: Needham, S: Thackery, B. (vedoucí pracoviště) PŘEDMĚT: Thackery, B. (vedoucí pracoviště): Thackery, Vaše žádost o přemístění lokality na tu zbytečnou skálu se ZAMÍTÁ. Měl jsi více než rok na to, abys vytvořil zisk. Pokud jste to neudělal do této chvíle, tak se to nestane. A Evers je příliš zaneprázdněn, než aby skrýval vaši neschopnost. Ani já nechci slyšet žádné vaše absurdní výmluvy. Už to \"selhání terraformátoru\" bylo dost špatné, ale tyhle bláboly o primátech, kteří vám utíkají a poškozují zařízení, jsou už za hranicí. Úplný limit, slyšíte? Provoz na vašem pracovišti je s okamžitou platností ukončen. Mám pro vás na mysli nové pracoviště. Jedno ze skalisek na oběžné dráze Hefaistu. Teplota 170 °C. Bude se ti tam líbit. - Needham."
 
 #: conversations/10_scylla/1001_cp_worker_terminal:16
 msgctxt "conversations/10_scylla/1001_cp_worker_terminal:16:DefaultText"
 msgid "[Happy birthday, Julia...]"
-msgstr ""
+msgstr "[Všechno nejlepší, Julie...]"
 
 #: conversations/10_scylla/1001_cp_worker_terminal:17
 msgctxt "conversations/10_scylla/1001_cp_worker_terminal:17:DefaultText"
 msgid "[Reminder: Ask about SubLight]"
-msgstr ""
+msgstr "[Připomínka: Zeptejte se na SubLight]"
 
 #: conversations/10_scylla/1001_cp_worker_terminal:18
 msgctxt "conversations/10_scylla/1001_cp_worker_terminal:18:DefaultText"
@@ -176,7 +176,7 @@ msgid "Hephaestus Geological Survey\n"
 "I'm so sorry. I never should have convinced you to sign the indenture contract and join me on Halcyon.\r\n"
 "\r\n"
 "I'll never stop thinking about you, Jules. Please forgive me."
-msgstr ""
+msgstr "Terminál vedoucího pracoviště geologického průzkumu Hefaistos ------------------------------------- Tým hostující rady mi připomněl datum. Dnes bychom měli slavit vaše 42. narozeniny. Pokusil bych se tě opít nejnovějším Rizzovým lektvarem. Ty bys ohrnula nos a řekla, že to není ani zdaleka tak dobré jako pozemské víno. Nevím, kde jsi, sestřičko. Už je to třináct let, co ses uložila k zimnímu spánku. Od chvíle, kdy se Naděje vydala na cestu. Nevím, co se stalo, proč jsi sem nikdy nedorazila. Pokud je Architekt laskavý, netrpěla jsi. Pořád na tebe myslím. Pokaždé, když kolem proletí jeden z velkých mezihvězdných dopravníků, vzhlédnu a doufám. Doufám. Ten, kdo tu zatracenou loď pojmenoval, by se měl projít éterem. Je mi to tak líto. Nikdy jsem tě neměl přesvědčovat, abys podepsala smlouvu a připojila se ke mně na Halcyonu. Nikdy na tebe nepřestanu myslet, Jules. Prosím, odpusť mi."
 
 #: conversations/10_scylla/1001_cp_worker_terminal:19
 msgctxt "conversations/10_scylla/1001_cp_worker_terminal:19:DefaultText"
@@ -189,4 +189,4 @@ msgid "Hephaestus Geological Survey\n"
 "Had some interesting items for sale, though. Can't shake the feeling that they \"fell off the back of a conveyor.\"\r\n"
 "\r\n"
 "That captain sold Harris something called the \"Rearranger,\" then left before we discovered the damn thing doesn't work. Only thing it rearranged is the number of bits on Harris's cart. Looks like some strange tech, maybe a scientist can make something of it."
-msgstr ""
+msgstr "Hephaestus Geological Survey Site Supervisor's Terminal ------------------------------------- Požádejte Lindu o informace o této společnosti \"SubLight\". Ten kapitán nákladní lodi tvrdil, že pro ně pracuje. Velmi podivná loď - žádné firemní označení ani barvy, kapitán nenosil schválenou uniformu. Jednání s ním ve mně zanechalo rozladěný pocit. Měl ale na prodej nějaké zajímavé věci. Nemůžu se zbavit pocitu, že \"vypadly z dopravníku\". Ten kapitán prodal Harrisovi něco, čemu se říká \"Přerovnávač\", a pak odešel, než jsme zjistili, že ta zatracená věc nefunguje. Jediné, co to přeskládalo, byl počet kousků na Harrisově vozíku. Vypadá to na nějakou divnou technologii, třeba z toho nějaký vědec něco udělá."

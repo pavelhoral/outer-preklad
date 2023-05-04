@@ -1,12 +1,12 @@
 #: conversations/08_roseway/08_cp_cleo_lab_archive_terminal:9
 msgctxt "conversations/08_roseway/08_cp_cleo_lab_archive_terminal:9:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"
 
 #: conversations/08_roseway/08_cp_cleo_lab_archive_terminal:10
 msgctxt "conversations/08_roseway/08_cp_cleo_lab_archive_terminal:10:DefaultText"
 msgid "[Experimental Notes]"
-msgstr ""
+msgstr "[Experimentální poznámky]"
 
 #: conversations/08_roseway/08_cp_cleo_lab_archive_terminal:11
 msgctxt "conversations/08_roseway/08_cp_cleo_lab_archive_terminal:11:DefaultText"
@@ -15,37 +15,37 @@ msgid "RAPTIDON FLUID INGESTION TEST\r\n"
 "1. Objective\r\n"
 "2. Procedure\r\n"
 "3. Results"
-msgstr ""
+msgstr "TEST POŽITÍ TEKUTINY RAPTIDON ------------------------------ 1. Cíl 2. Postup 3. Výsledky"
 
 #: conversations/08_roseway/08_cp_cleo_lab_archive_terminal:12
 msgctxt "conversations/08_roseway/08_cp_cleo_lab_archive_terminal:12:DefaultText"
 msgid "[Raptidon Fluid Ingestion Test: Objective]"
-msgstr ""
+msgstr "[Test požití tekutiny Raptidon: Cíl]"
 
 #: conversations/08_roseway/08_cp_cleo_lab_archive_terminal:13
 msgctxt "conversations/08_roseway/08_cp_cleo_lab_archive_terminal:13:DefaultText"
 msgid "[Raptidon Fluid Ingestion Test: Procedure]"
-msgstr ""
+msgstr "[Test požití tekutiny Raptidon: Postup]"
 
 #: conversations/08_roseway/08_cp_cleo_lab_archive_terminal:14
 msgctxt "conversations/08_roseway/08_cp_cleo_lab_archive_terminal:14:DefaultText"
 msgid "[Raptidon Fluid Ingestion Test: Results]"
-msgstr ""
+msgstr "[Test požití tekutiny Raptidon: výsledky]"
 
 #: conversations/08_roseway/08_cp_cleo_lab_archive_terminal:15
 msgctxt "conversations/08_roseway/08_cp_cleo_lab_archive_terminal:15:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"
 
 #: conversations/08_roseway/08_cp_cleo_lab_archive_terminal:16
 msgctxt "conversations/08_roseway/08_cp_cleo_lab_archive_terminal:16:DefaultText"
 msgid "Objective: Determine the maximum amount of raptidon digestive acid that can be safely ingested by humans before adverse effects present themselves."
-msgstr ""
+msgstr "Cíl: Určit maximální množství trávicí kyseliny raptidonu, které může člověk bezpečně přijmout, než se projeví nežádoucí účinky."
 
 #: conversations/08_roseway/08_cp_cleo_lab_archive_terminal:17
 msgctxt "conversations/08_roseway/08_cp_cleo_lab_archive_terminal:17:DefaultText"
 msgid "Proposed procedure: Slowly introduce increasing amounts of raptidon digestive acid into the evening meals of randomly selected workers and observe their overall health."
-msgstr ""
+msgstr "Navrhovaný postup: Náhodně vybraným pracovníkům pomalu přidávat do večerní stravy rostoucí množství trávicí kyseliny raptidon a sledovat jejich celkový zdravotní stav."
 
 #: conversations/08_roseway/08_cp_cleo_lab_archive_terminal:18
 msgctxt "conversations/08_roseway/08_cp_cleo_lab_archive_terminal:18:DefaultText"
@@ -54,7 +54,7 @@ msgid "1 MILLILITER - Minor stomach pain and nausea. Safe.\r\n"
 "3 MILLILITERS - Major stomach pain, debilitating nausea, some vomiting. Potentially unsafe in the workplace.\r\n"
 "4 MILLILITERS - Temporary blindness; frequent vomiting; patient unable to describe pain. Unsafe.\r\n"
 "5 MILLILITERS - Unable to record symptoms as patient died within the hour."
-msgstr ""
+msgstr "1 MILILITR - Menší bolesti žaludku a nevolnost. Bezpečné. 2 MILILITRY - Menší bolesti žaludku, extrémní nevolnost. Bezpečné. 3 MILILITRY - Velká bolest žaludku, vysilující nevolnost, místy zvracení. Potenciálně nebezpečné na pracovišti. 4 MILILITRY - Dočasná slepota; časté zvracení; pacient není schopen popsat bolest. Nebezpečné. 5 MILIARD - Nelze zaznamenat příznaky, protože pacient během hodiny zemřel."
 
 #: conversations/08_roseway/08_cp_cleo_lab_archive_terminal:23
 msgctxt "conversations/08_roseway/08_cp_cleo_lab_archive_terminal:23:DefaultText"
@@ -65,7 +65,7 @@ msgid "Argos Security Systems\n"
 "All personnel please report to assigned workstations. Report suspicious activity to the nearest Site Safety Engineer.\n"
 "---------------------------------\n"
 "Auntie Cleo Auntie-Biotics™: served fresh from our petri dishes to YOUR personal crevices."
-msgstr ""
+msgstr "Argos Security Systems --------------------------------- BEZPEČNOSTNÍ UZÁVĚRA Všichni zaměstnanci se dostavte na přidělená pracoviště. Podezřelou činnost nahlaste nejbližšímu bezpečnostnímu technikovi pracoviště. --------------------------------- Auntie Cleo Auntie-Biotics™: podáváme čerstvě z našich Petriho misek do VAŠICH osobních štěrbin."
 
 #: conversations/08_roseway/08_cp_cleo_lab_archive_terminal:25
 msgctxt "conversations/08_roseway/08_cp_cleo_lab_archive_terminal:25:DefaultText"
@@ -76,7 +76,7 @@ msgid "Argos Security Systems\r\n"
 "All personnel please report to assigned workstations. Report suspicious activity to the nearest Site Safety Engineer.\r\n"
 "---------------------------------\r\n"
 "Feeling irate? Try Auntie Cleo's Nar-Choc-Lectic™ bars. Now with 3% real CCN76."
-msgstr ""
+msgstr "Argos Security Systems --------------------------------- BEZPEČNOSTNÍ UZÁVĚRA Všichni zaměstnanci se dostavte na přidělená pracoviště. Podezřelou činnost nahlaste nejbližšímu bezpečnostnímu technikovi pracoviště. --------------------------------- Cítíte se podráždění? Vyzkoušejte tyčinky Auntie Cleo's Nar-Choc-Lectic™. Nyní s 3 % skutečného CCN76."
 
 #: conversations/08_roseway/08_cp_cleo_lab_archive_terminal:28
 msgctxt "conversations/08_roseway/08_cp_cleo_lab_archive_terminal:28:DefaultText"
@@ -87,7 +87,7 @@ msgid "Argos Security Systems\r\n"
 "All personnel please report to assigned workstations. Report suspicious activity to the nearest Site Safety Engineer.\r\n"
 "---------------------------------\r\n"
 "Tired of itchy acid burns? Try Auntie Cleo's artisanal boarst-scented moisturizing cream."
-msgstr ""
+msgstr "Argos Security Systems --------------------------------- BEZPEČNOSTNÍ UZÁVĚRA Všichni zaměstnanci se dostavte na přidělená pracoviště. Podezřelou činnost nahlaste nejbližšímu bezpečnostnímu technikovi pracoviště. --------------------------------- Máte dost svědivých popálenin od kyseliny? Vyzkoušejte řemeslný hydratační krém Auntie Cleo s vůní divočáka."
 
 #: conversations/08_roseway/08_cp_cleo_lab_archive_terminal:29
 msgctxt "conversations/08_roseway/08_cp_cleo_lab_archive_terminal:29:DefaultText"
@@ -98,7 +98,7 @@ msgid "Argos Security Systems\r\n"
 "All personnel please report to assigned workstations. Report suspicious activity to the nearest Site Safety Engineer.\r\n"
 "---------------------------------\r\n"
 "Try Auntie Cleo's Handi-Off™, the surgical stain remover of choice."
-msgstr ""
+msgstr "Argos Security Systems --------------------------------- BEZPEČNOSTNÍ UZÁVĚRA Všichni zaměstnanci se dostavte na přidělená pracoviště. Podezřelou činnost nahlaste nejbližšímu bezpečnostnímu technikovi pracoviště. --------------------------------- Vyzkoušejte Handi-Off™ od tety Cleo, nejvhodnější odstraňovač skvrn po chirurgických zákrocích."
 
 #: conversations/08_roseway/08_cp_cleo_lab_archive_terminal:30
 msgctxt "conversations/08_roseway/08_cp_cleo_lab_archive_terminal:30:DefaultText"
@@ -109,4 +109,4 @@ msgid "Argos Security Systems\r\n"
 "All personnel please report to assigned workstations. Report suspicious activity to the nearest Site Safety Engineer.\r\n"
 "---------------------------------\r\n"
 "Unsightly bloodstains? Consider Auntie Cleo's laundry soap. Now with a refreshing lemon zing scent."
-msgstr ""
+msgstr "Argos Security Systems --------------------------------- BEZPEČNOSTNÍ UZÁVĚRA Všichni zaměstnanci se dostavte na přidělená pracoviště. Podezřelou činnost nahlaste nejbližšímu bezpečnostnímu technikovi pracoviště. --------------------------------- Nevzhledné krvavé skvrny? Zvažte mýdlo na praní Auntie Cleo. Nyní s osvěžující citronovou vůní."

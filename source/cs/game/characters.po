@@ -1,3334 +1,3334 @@
 #: game/characters:1
 msgctxt "game/characters:1:DefaultText"
 msgid "Nigel"
-msgstr ""
+msgstr "Nigel"
 
 #: game/characters:2
 msgctxt "game/characters:2:DefaultText"
 msgid "Guard"
-msgstr ""
+msgstr "Strážce"
 
 #: game/characters:3
 msgctxt "game/characters:3:DefaultText"
 msgid "Player"
-msgstr ""
+msgstr "Hráč"
 
 #: game/characters:4
 msgctxt "game/characters:4:DefaultText"
 msgid "Companion"
-msgstr ""
+msgstr "Společník"
 
 #: game/characters:6
 msgctxt "game/characters:6:DefaultText"
 msgid "Donnie"
-msgstr ""
+msgstr "Donnie"
 
 #: game/characters:7
 msgctxt "game/characters:7:DefaultText"
 msgid "Al"
-msgstr ""
+msgstr "Al"
 
 #: game/characters:8
 msgctxt "game/characters:8:DefaultText"
 msgid "Officer"
-msgstr ""
+msgstr "Důstojník"
 
 #: game/characters:11
 msgctxt "game/characters:11:DefaultText"
 msgid "Gerald"
-msgstr ""
+msgstr "Gerald"
 
 #: game/characters:12
 msgctxt "game/characters:12:DefaultText"
 msgid "Rotface"
-msgstr ""
+msgstr "Rotface"
 
 #: game/characters:13
 msgctxt "game/characters:13:DefaultText"
 msgid "Colonel Moore"
-msgstr ""
+msgstr "Plukovník Moore"
 
 #: game/characters:14
 msgctxt "game/characters:14:DefaultText"
 msgid "The King"
-msgstr ""
+msgstr "Král"
 
 #: game/characters:15
 msgctxt "game/characters:15:DefaultText"
 msgid "Ambassador Crocker"
-msgstr ""
+msgstr "Velvyslanec Crocker"
 
 #: game/characters:16
 msgctxt "game/characters:16:DefaultText"
 msgid "Colonel Hsu"
-msgstr ""
+msgstr "Plukovník Hsu"
 
 #: game/characters:17
 msgctxt "game/characters:17:DefaultText"
 msgid "Quest Mechanical"
-msgstr ""
+msgstr "Quest Mechanical"
 
 #: game/characters:18
 msgctxt "game/characters:18:DefaultText"
 msgid "Vault"
-msgstr ""
+msgstr "Trezor"
 
 #: game/characters:19
 msgctxt "game/characters:19:DefaultText"
 msgid "Ranger Grant"
-msgstr ""
+msgstr "Grant pro rangery"
 
 #: game/characters:20
 msgctxt "game/characters:20:DefaultText"
 msgid "Engineer"
-msgstr ""
+msgstr "Inženýr"
 
 #: game/characters:21
 msgctxt "game/characters:21:DefaultText"
 msgid "Sniper"
-msgstr ""
+msgstr "Odstřelovač"
 
 #: game/characters:22
 msgctxt "game/characters:22:DefaultText"
 msgid "Colonel Moore"
-msgstr ""
+msgstr "Plukovník Moore"
 
 #: game/characters:23
 msgctxt "game/characters:23:DefaultText"
 msgid "Computer_Test"
-msgstr ""
+msgstr "Computer_Test"
 
 #: game/characters:24
 msgctxt "game/characters:24:DefaultText"
 msgid "Argos"
-msgstr ""
+msgstr "Argos"
 
 #: game/characters:25
 msgctxt "game/characters:25:DefaultText"
 msgid "Ellie"
-msgstr ""
+msgstr "Ellie"
 
 #: game/characters:26
 msgctxt "game/characters:26:DefaultText"
 msgid "Lillian"
-msgstr ""
+msgstr "Lillian"
 
 #: game/characters:27
 msgctxt "game/characters:27:DefaultText"
 msgid "Jameson"
-msgstr ""
+msgstr "Jameson"
 
 #: game/characters:28
 msgctxt "game/characters:28:DefaultText"
 msgid "Vaughn Cortes"
-msgstr ""
+msgstr "Vaughn Cortes"
 
 #: game/characters:29
 msgctxt "game/characters:29:DefaultText"
 msgid "Orson Shaw"
-msgstr ""
+msgstr "Orson Shaw"
 
 #: game/characters:30
 msgctxt "game/characters:30:DefaultText"
 msgid "Instrument Console"
-msgstr ""
+msgstr "Přístrojová konzola"
 
 #: game/characters:31
 msgctxt "game/characters:31:DefaultText"
 msgid "Cassandra O'Malley"
-msgstr ""
+msgstr "Cassandra O'Malley"
 
 #: game/characters:32
 msgctxt "game/characters:32:DefaultText"
 msgid "Cassandra O'Malley"
-msgstr ""
+msgstr "Cassandra O'Malley"
 
 #: game/characters:33
 msgctxt "game/characters:33:DefaultText"
 msgid "Felix"
-msgstr ""
+msgstr "Felix"
 
 #: game/characters:34
 msgctxt "game/characters:34:DefaultText"
 msgid "Anton Crane"
-msgstr ""
+msgstr "Anton Crane"
 
 #: game/characters:35
 msgctxt "game/characters:35:DefaultText"
 msgid "Cassandra"
-msgstr ""
+msgstr "Cassandra"
 
 #: game/characters:36
 msgctxt "game/characters:36:DefaultText"
 msgid "Porter"
-msgstr ""
+msgstr "Porter"
 
 #: game/characters:37
 msgctxt "game/characters:37:DefaultText"
 msgid "Mechanical Sentry"
-msgstr ""
+msgstr "Mechanická hlídka"
 
 #: game/characters:38
 msgctxt "game/characters:38:DefaultText"
 msgid "Scientist"
-msgstr ""
+msgstr "Vědec"
 
 #: game/characters:39
 msgctxt "game/characters:39:DefaultText"
 msgid "Guard"
-msgstr ""
+msgstr "Strážce"
 
 #: game/characters:40
 msgctxt "game/characters:40:DefaultText"
 msgid "test_vs_covertlab_eventcontroller"
-msgstr ""
+msgstr "test_vs_covertlab_eventcontroller"
 
 #: game/characters:41
 msgctxt "game/characters:41:DefaultText"
 msgid "Anton's Computer"
-msgstr ""
+msgstr "Antonův počítač"
 
 #: game/characters:42
 msgctxt "game/characters:42:DefaultText"
 msgid "Guard"
-msgstr ""
+msgstr "Strážce"
 
 #: game/characters:43
 msgctxt "game/characters:43:DefaultText"
 msgid "Raptidon Mauler"
-msgstr ""
+msgstr "Raptidon Mauler"
 
 #: game/characters:44
 msgctxt "game/characters:44:DefaultText"
 msgid "Cleo Unit Commander"
-msgstr ""
+msgstr "Velitel jednotky Cleo"
 
 #: game/characters:45
 msgctxt "game/characters:45:DefaultText"
 msgid "Marauder Thug"
-msgstr ""
+msgstr "Marauder Thug"
 
 #: game/characters:46
 msgctxt "game/characters:46:DefaultText"
 msgid "Weldon"
-msgstr ""
+msgstr "Weldon"
 
 #: game/characters:47
 msgctxt "game/characters:47:DefaultText"
 msgid "Talmadge"
-msgstr ""
+msgstr "Talmadge"
 
 #: game/characters:48
 msgctxt "game/characters:48:DefaultText"
 msgid "Automechanical Loader"
-msgstr ""
+msgstr "Automechanický nakladač"
 
 #: game/characters:49
 msgctxt "game/characters:49:DefaultText"
 msgid "Marauder"
-msgstr ""
+msgstr "Marauder"
 
 #: game/characters:50
 msgctxt "game/characters:50:DefaultText"
 msgid "Klemper"
-msgstr ""
+msgstr "Klemper"
 
 #: game/characters:51
 msgctxt "game/characters:51:DefaultText"
 msgid "Martinez"
-msgstr ""
+msgstr "Martinez"
 
 #: game/characters:52
 msgctxt "game/characters:52:DefaultText"
 msgid "Guard"
-msgstr ""
+msgstr "Strážce"
 
 #: game/characters:53
 msgctxt "game/characters:53:DefaultText"
 msgid "Guard"
-msgstr ""
+msgstr "Strážce"
 
 #: game/characters:54
 msgctxt "game/characters:54:DefaultText"
 msgid "Berke"
-msgstr ""
+msgstr "Berke"
 
 #: game/characters:55
 msgctxt "game/characters:55:DefaultText"
 msgid "Larry"
-msgstr ""
+msgstr "Larry"
 
 #: game/characters:56
 msgctxt "game/characters:56:DefaultText"
 msgid "Moe"
-msgstr ""
+msgstr "Moe"
 
 #: game/characters:57
 msgctxt "game/characters:57:DefaultText"
 msgid "Curly"
-msgstr ""
+msgstr "Kudrnaté"
 
 #: game/characters:58
 msgctxt "game/characters:58:DefaultText"
 msgid "Shemp"
-msgstr ""
+msgstr "Konopí"
 
 #: game/characters:59
 msgctxt "game/characters:59:DefaultText"
 msgid "Increases the fighter's tenacity in Defender mode. While Staunch Defender is active each time the Fighter takes damage he or she gains Armor Rating of the damage type their received for a short time. Subsequent attacks will stack this effect."
-msgstr ""
+msgstr "Zvyšuje odolnost bojovníka v režimu obránce. Dokud je aktivní režim Pevný obránce, pokaždé, když bojovník utrpí poškození, získá na krátkou dobu hodnotu brnění daného typu poškození, které obdržel. Následné útoky tento efekt sčítají."
 
 #: game/characters:60
 msgctxt "game/characters:60:DefaultText"
 msgid "Raptidon Spitter"
-msgstr ""
+msgstr "Raptidon Spitter"
 
 #: game/characters:61
 msgctxt "game/characters:61:DefaultText"
 msgid "Raptidon Matriarch"
-msgstr ""
+msgstr "Matriarcha Raptidon"
 
 #: game/characters:62
 msgctxt "game/characters:62:DefaultText"
 msgid "Marauder"
-msgstr ""
+msgstr "Marauder"
 
 #: game/characters:63
 msgctxt "game/characters:63:DefaultText"
 msgid "Marauder"
-msgstr ""
+msgstr "Marauder"
 
 #: game/characters:64
 msgctxt "game/characters:64:DefaultText"
 msgid "Marauder Vandal"
-msgstr ""
+msgstr "Marauder Vandal"
 
 #: game/characters:65
 msgctxt "game/characters:65:DefaultText"
 msgid "Goreman"
-msgstr ""
+msgstr "Goreman"
 
 #: game/characters:66
 msgctxt "game/characters:66:DefaultText"
 msgid "Crew"
-msgstr ""
+msgstr "Posádka"
 
 #: game/characters:67
 msgctxt "game/characters:67:DefaultText"
 msgid "Lionel"
-msgstr ""
+msgstr "Lionel"
 
 #: game/characters:68
 msgctxt "game/characters:68:DefaultText"
 msgid "Pugliese"
-msgstr ""
+msgstr "Pugliese"
 
 #: game/characters:70
 msgctxt "game/characters:70:DefaultText"
 msgid "Caleb"
-msgstr ""
+msgstr "Caleb"
 
 #: game/characters:77
 msgctxt "game/characters:77:DefaultText"
 msgid "Gideon"
-msgstr ""
+msgstr "Gideon"
 
 #: game/characters:78
 msgctxt "game/characters:78:DefaultText"
 msgid "Conrad Sadik"
-msgstr ""
+msgstr "Conrad Sadik"
 
 #: game/characters:79
 msgctxt "game/characters:79:DefaultText"
 msgid "Julius Moreau"
-msgstr ""
+msgstr "Julius Moreau"
 
 #: game/characters:80
 msgctxt "game/characters:80:DefaultText"
 msgid "Reed Tobson"
-msgstr ""
+msgstr "Reed Tobson"
 
 #: game/characters:81
 msgctxt "game/characters:81:DefaultText"
 msgid "Amelia Kim"
-msgstr ""
+msgstr "Amelia Kim"
 
 #: game/characters:82
 msgctxt "game/characters:82:DefaultText"
 msgid "Parvati"
-msgstr ""
+msgstr "Parvati"
 
 #: game/characters:83
 msgctxt "game/characters:83:DefaultText"
 msgid "Vicar"
-msgstr ""
+msgstr "Vikář"
 
 #: game/characters:84
 msgctxt "game/characters:84:DefaultText"
 msgid "Silas"
-msgstr ""
+msgstr "Silas"
 
 #: game/characters:85
 msgctxt "game/characters:85:DefaultText"
 msgid "Rahim Morel"
-msgstr ""
+msgstr "Rahim Morel"
 
 #: game/characters:86
 msgctxt "game/characters:86:DefaultText"
 msgid "ADA"
-msgstr ""
+msgstr "ADA"
 
 #: game/characters:87
 msgctxt "game/characters:87:DefaultText"
 msgid "Adelaide McDevitt"
-msgstr ""
+msgstr "Adelaide McDevittová"
 
 #: game/characters:88
 msgctxt "game/characters:88:DefaultText"
 msgid "Grimm"
-msgstr ""
+msgstr "Grimm"
 
 #: game/characters:89
 msgctxt "game/characters:89:DefaultText"
 msgid "Reed's Computer"
-msgstr ""
+msgstr "Reedův počítač"
 
 #: game/characters:90
 msgctxt "game/characters:90:DefaultText"
 msgid "Sanjar Nandi"
-msgstr ""
+msgstr "Sanjar Nandi"
 
 #: game/characters:91
 msgctxt "game/characters:91:DefaultText"
 msgid "Nyoka"
-msgstr ""
+msgstr "Nyoka"
 
 #: game/characters:92
 msgctxt "game/characters:92:DefaultText"
 msgid "Junlei Tennyson"
-msgstr ""
+msgstr "Junlei Tennyson"
 
 #: game/characters:94
 msgctxt "game/characters:94:DefaultText"
 msgid "Song Jiang"
-msgstr ""
+msgstr "Song Jiang"
 
 #: game/characters:95
 msgctxt "game/characters:95:DefaultText"
 msgid "Gladys"
-msgstr ""
+msgstr "Gladys"
 
 #: game/characters:96
 msgctxt "game/characters:96:DefaultText"
 msgid "Udom Bedford"
-msgstr ""
+msgstr "Udom Bedford"
 
 #: game/characters:97
 msgctxt "game/characters:97:DefaultText"
 msgid "Comdt. Sanita"
-msgstr ""
+msgstr "Comdt. Sanita"
 
 #: game/characters:99
 msgctxt "game/characters:99:DefaultText"
 msgid "Hiram Blythe"
-msgstr ""
+msgstr "Hiram Blythe"
 
 #: game/characters:100
 msgctxt "game/characters:100:DefaultText"
 msgid "Phineas Welles"
-msgstr ""
+msgstr "Phineas Welles"
 
 #: game/characters:101
 msgctxt "game/characters:101:DefaultText"
 msgid "Scientist"
-msgstr ""
+msgstr "Vědec"
 
 #: game/characters:102
 msgctxt "game/characters:102:DefaultText"
 msgid "Scientist"
-msgstr ""
+msgstr "Vědec"
 
 #: game/characters:103
 msgctxt "game/characters:103:DefaultText"
 msgid "Scientist"
-msgstr ""
+msgstr "Vědec"
 
 #: game/characters:104
 msgctxt "game/characters:104:DefaultText"
 msgid "Scientist"
-msgstr ""
+msgstr "Vědec"
 
 #: game/characters:105
 msgctxt "game/characters:105:DefaultText"
 msgid "Graham Bryant"
-msgstr ""
+msgstr "Graham Bryant"
 
 #: game/characters:106
 msgctxt "game/characters:106:DefaultText"
 msgid "Mardet"
-msgstr ""
+msgstr "Mardet"
 
 #: game/characters:107
 msgctxt "game/characters:107:DefaultText"
 msgid "Gideon"
-msgstr ""
+msgstr "Gideon"
 
 #: game/characters:108
 msgctxt "game/characters:108:DefaultText"
 msgid "Gideon"
-msgstr ""
+msgstr "Gideon"
 
 #: game/characters:109
 msgctxt "game/characters:109:DefaultText"
 msgid "Braxton Hecht"
-msgstr ""
+msgstr "Braxton Hecht"
 
 #: game/characters:110
 msgctxt "game/characters:110:DefaultText"
 msgid "Zeng Shuren"
-msgstr ""
+msgstr "Zeng Shuren"
 
 #: game/characters:111
 msgctxt "game/characters:111:DefaultText"
 msgid "Milburn Fink"
-msgstr ""
+msgstr "Milburn Fink"
 
 #: game/characters:112
 msgctxt "game/characters:112:DefaultText"
 msgid "Bunda Oesman"
-msgstr ""
+msgstr "Bunda Oesman"
 
 #: game/characters:114
 msgctxt "game/characters:114:DefaultText"
 msgid "Wheeler"
-msgstr ""
+msgstr "Wheeler"
 
 #: game/characters:116
 msgctxt "game/characters:116:DefaultText"
 msgid "Phyllis Granger"
-msgstr ""
+msgstr "Phyllis Grangerová"
 
 #: game/characters:117
 msgctxt "game/characters:117:DefaultText"
 msgid "Vicar Max"
-msgstr ""
+msgstr "Farář Max"
 
 #: game/characters:118
 msgctxt "game/characters:118:DefaultText"
 msgid "Ludwig Miller"
-msgstr ""
+msgstr "Ludwig Miller"
 
 #: game/characters:119
 msgctxt "game/characters:119:DefaultText"
 msgid "Thomas Kemp"
-msgstr ""
+msgstr "Thomas Kemp"
 
 #: game/characters:120
 msgctxt "game/characters:120:DefaultText"
 msgid "Zoe Chandler"
-msgstr ""
+msgstr "Zoe Chandlerová"
 
 #: game/characters:121
 msgctxt "game/characters:121:DefaultText"
 msgid "Grace Romero"
-msgstr ""
+msgstr "Grace Romero"
 
 #: game/characters:122
 msgctxt "game/characters:122:DefaultText"
 msgid "Spacer's Choice Guard"
-msgstr ""
+msgstr "Spacer's Choice Guard"
 
 #: game/characters:123
 msgctxt "game/characters:123:DefaultText"
 msgid "Cannery Worker"
-msgstr ""
+msgstr "Pracovník konzervárny"
 
 #: game/characters:124
 msgctxt "game/characters:124:DefaultText"
 msgid "Resident"
-msgstr ""
+msgstr "Rezident"
 
 #: game/characters:128
 msgctxt "game/characters:128:DefaultText"
 msgid "Lilya Hagen"
-msgstr ""
+msgstr "Lilya Hagen"
 
 #: game/characters:129
 msgctxt "game/characters:129:DefaultText"
 msgid "Tobias Oyama"
-msgstr ""
+msgstr "Tobias Oyama"
 
 #: game/characters:130
 msgctxt "game/characters:130:DefaultText"
 msgid "Dr. Mfuru"
-msgstr ""
+msgstr "Dr. Mfuru"
 
 #: game/characters:132
 msgctxt "game/characters:132:DefaultText"
 msgid "Martin Callahan"
-msgstr ""
+msgstr "Martin Callahan"
 
 #: game/characters:133
 msgctxt "game/characters:133:DefaultText"
 msgid "Ike Kristiansen"
-msgstr ""
+msgstr "Ike Kristiansen"
 
 #: game/characters:134
 msgctxt "game/characters:134:DefaultText"
 msgid "Belle Everson"
-msgstr ""
+msgstr "Belle Eversonová"
 
 #: game/characters:135
 msgctxt "game/characters:135:DefaultText"
 msgid "Vera Krivanek"
-msgstr ""
+msgstr "Vera Krivanek"
 
 #: game/characters:138
 msgctxt "game/characters:138:DefaultText"
 msgid "Karl Thornton"
-msgstr ""
+msgstr "Karl Thornton"
 
 #: game/characters:140
 msgctxt "game/characters:140:DefaultText"
 msgid "Isabella Gilliam"
-msgstr ""
+msgstr "Isabella Gilliam"
 
 #: game/characters:141
 msgctxt "game/characters:141:DefaultText"
 msgid "Chester Dempsy"
-msgstr ""
+msgstr "Chester Dempsy"
 
 #: game/characters:142
 msgctxt "game/characters:142:DefaultText"
 msgid "Constable Reyes"
-msgstr ""
+msgstr "Strážník Reyes"
 
 #: game/characters:143
 msgctxt "game/characters:143:DefaultText"
 msgid "Martin Abernathy"
-msgstr ""
+msgstr "Martin Abernathy"
 
 #: game/characters:145
 msgctxt "game/characters:145:DefaultText"
 msgid "Esther Blaine"
-msgstr ""
+msgstr "Esther Blaine"
 
 #: game/characters:146
 msgctxt "game/characters:146:DefaultText"
 msgid "Sebastian Adams"
-msgstr ""
+msgstr "Sebastian Adams"
 
 #: game/characters:147
 msgctxt "game/characters:147:DefaultText"
 msgid "Velma Ballard"
-msgstr ""
+msgstr "Velma Ballardová"
 
 #: game/characters:148
 msgctxt "game/characters:148:DefaultText"
 msgid "Stefan Garcia"
-msgstr ""
+msgstr "Stefan Garcia"
 
 #: game/characters:149
 msgctxt "game/characters:149:DefaultText"
 msgid "Deserter"
-msgstr ""
+msgstr "Dezertér"
 
 #: game/characters:150
 msgctxt "game/characters:150:DefaultText"
 msgid "Generic Speaker"
-msgstr ""
+msgstr "Obecný reproduktor"
 
 #: game/characters:151
 msgctxt "game/characters:151:DefaultText"
 msgid "Iconoclast Operator"
-msgstr ""
+msgstr "Iconoclast Operator"
 
 #: game/characters:153
 msgctxt "game/characters:153:DefaultText"
 msgid "Iconoclast Agitator"
-msgstr ""
+msgstr "Ikonoklast Agitátor"
 
 #: game/characters:154
 msgctxt "game/characters:154:DefaultText"
 msgid "Iconoclast"
-msgstr ""
+msgstr "Ikonoklast"
 
 #: game/characters:158
 msgctxt "game/characters:158:DefaultText"
 msgid "Executive"
-msgstr ""
+msgstr "Výkonný ředitel"
 
 #: game/characters:164
 msgctxt "game/characters:164:DefaultText"
 msgid "Tamed Canid"
-msgstr ""
+msgstr "Zkrocený kanid"
 
 #: game/characters:165
 msgctxt "game/characters:165:DefaultText"
 msgid "Canid Feral "
-msgstr ""
+msgstr "Canid Feral "
 
 #: game/characters:166
 msgctxt "game/characters:166:DefaultText"
 msgid "Teacup Canid"
-msgstr ""
+msgstr "Čajový psík"
 
 #: game/characters:168
 msgctxt "game/characters:168:DefaultText"
 msgid "Emotion Test Male"
-msgstr ""
+msgstr "Test emocí Muž"
 
 #: game/characters:169
 msgctxt "game/characters:169:DefaultText"
 msgid "Emotion Test Female"
-msgstr ""
+msgstr "Test emocí Žena"
 
 #: game/characters:170
 msgctxt "game/characters:170:DefaultText"
 msgid "Primal"
-msgstr ""
+msgstr "Primal"
 
 #: game/characters:171
 msgctxt "game/characters:171:DefaultText"
 msgid "Primal Behemoth"
-msgstr ""
+msgstr "Primal Behemoth"
 
 #: game/characters:172
 msgctxt "game/characters:172:DefaultText"
 msgid "Primal"
-msgstr ""
+msgstr "Primal"
 
 #: game/characters:173
 msgctxt "game/characters:173:DefaultText"
 msgid "Ash Primal Silverback"
-msgstr ""
+msgstr "Ash Primal Silverback"
 
 #: game/characters:174
 msgctxt "game/characters:174:DefaultText"
 msgid "Marauder Ringleader"
-msgstr ""
+msgstr "Vůdce nájezdníků"
 
 #: game/characters:175
 msgctxt "game/characters:175:DefaultText"
 msgid "Marauder Lookout"
-msgstr ""
+msgstr "Marauder Lookout"
 
 #: game/characters:176
 msgctxt "game/characters:176:DefaultText"
 msgid "Cleo Security Recruit"
-msgstr ""
+msgstr "Cleo Security Recruit"
 
 #: game/characters:177
 msgctxt "game/characters:177:DefaultText"
 msgid "Bayside Terrace Security Terminal"
-msgstr ""
+msgstr "Bezpečnostní terminál Bayside Terrace"
 
 #: game/characters:179
 msgctxt "game/characters:179:DefaultText"
 msgid "Devil's Peak Intercom"
-msgstr ""
+msgstr "Interkom Devil's Peak"
 
 #: game/characters:180
 msgctxt "game/characters:180:DefaultText"
 msgid "Mantisaur Drone"
-msgstr ""
+msgstr "Dron Mantisaur"
 
 #: game/characters:181
 msgctxt "game/characters:181:DefaultText"
 msgid "Mantiqueen"
-msgstr ""
+msgstr "Mantiqueen"
 
 #: game/characters:182
 msgctxt "game/characters:182:DefaultText"
 msgid "Mantipillar"
-msgstr ""
+msgstr "Mantipillar"
 
 #: game/characters:183
 msgctxt "game/characters:183:DefaultText"
 msgid "Parasite"
-msgstr ""
+msgstr "Parazit"
 
 #: game/characters:184
 msgctxt "game/characters:184:DefaultText"
 msgid "Chef Raymond"
-msgstr ""
+msgstr "Šéfkuchař Raymond"
 
 #: game/characters:185
 msgctxt "game/characters:185:DefaultText"
 msgid "Cystypig"
-msgstr ""
+msgstr "Cystypig"
 
 #: game/characters:186
 msgctxt "game/characters:186:DefaultText"
 msgid "Maguire"
-msgstr ""
+msgstr "Maguire"
 
 #: game/characters:187
 msgctxt "game/characters:187:DefaultText"
 msgid "Milo Ottinger"
-msgstr ""
+msgstr "Milo Ottinger"
 
 #: game/characters:188
 msgctxt "game/characters:188:DefaultText"
 msgid "Cpl. Leonard Wheeler"
-msgstr ""
+msgstr "Kaprál Leonard Wheeler"
 
 #: game/characters:190
 msgctxt "game/characters:190:DefaultText"
 msgid "Huxley"
-msgstr ""
+msgstr "Huxley"
 
 #: game/characters:191
 msgctxt "game/characters:191:DefaultText"
 msgid "Hester"
-msgstr ""
+msgstr "Hester"
 
 #: game/characters:192
 msgctxt "game/characters:192:DefaultText"
 msgid "Forrest"
-msgstr ""
+msgstr "Forrest"
 
 #: game/characters:193
 msgctxt "game/characters:193:DefaultText"
 msgid "Marauder"
-msgstr ""
+msgstr "Marauder"
 
 #: game/characters:194
 msgctxt "game/characters:194:DefaultText"
 msgid "Marauder"
-msgstr ""
+msgstr "Marauder"
 
 #: game/characters:195
 msgctxt "game/characters:195:DefaultText"
 msgid "Abigail Edwards"
-msgstr ""
+msgstr "Abigail Edwards"
 
 #: game/characters:196
 msgctxt "game/characters:196:DefaultText"
 msgid "Celia Robbins"
-msgstr ""
+msgstr "Celia Robbins"
 
 #: game/characters:197
 msgctxt "game/characters:197:DefaultText"
 msgid "Customization Test"
-msgstr ""
+msgstr "Test přizpůsobení"
 
 #: game/characters:198
 msgctxt "game/characters:198:DefaultText"
 msgid "Spacer's Choice Orchestrion"
-msgstr ""
+msgstr "Orchestrion Spacer's Choice"
 
 #: game/characters:199
 msgctxt "game/characters:199:DefaultText"
 msgid "Jonas"
-msgstr ""
+msgstr "Jonas"
 
 #: game/characters:200
 msgctxt "game/characters:200:DefaultText"
 msgid "Operator"
-msgstr ""
+msgstr "Operátor"
 
 #: game/characters:208
 msgctxt "game/characters:208:DefaultText"
 msgid "Minister Clarke"
-msgstr ""
+msgstr "Ministr Clarke"
 
 #: game/characters:209
 msgctxt "game/characters:209:DefaultText"
 msgid "Janitor"
-msgstr ""
+msgstr "Údržbář"
 
 #: game/characters:210
 msgctxt "game/characters:210:DefaultText"
 msgid "Wanda Chen"
-msgstr ""
+msgstr "Wanda Chen"
 
 #: game/characters:211
 msgctxt "game/characters:211:DefaultText"
 msgid "Sophia Akande"
-msgstr ""
+msgstr "Sophia Akande"
 
 #: game/characters:212
 msgctxt "game/characters:212:DefaultText"
 msgid "Assistant"
-msgstr ""
+msgstr "Asistent"
 
 #: game/characters:213
 msgctxt "game/characters:213:DefaultText"
 msgid "Receptionist"
-msgstr ""
+msgstr "Recepční"
 
 #: game/characters:214
 msgctxt "game/characters:214:DefaultText"
 msgid "Sherman Bradshaw"
-msgstr ""
+msgstr "Sherman Bradshaw"
 
 #: game/characters:215
 msgctxt "game/characters:215:DefaultText"
 msgid "Rachel Lockwood"
-msgstr ""
+msgstr "Rachel Lockwoodová"
 
 #: game/characters:216
 msgctxt "game/characters:216:DefaultText"
 msgid "Phineas Welles"
-msgstr ""
+msgstr "Phineas Welles"
 
 #: game/characters:217
 msgctxt "game/characters:217:DefaultText"
 msgid "Chairman Rockwell"
-msgstr ""
+msgstr "Předseda Rockwell"
 
 #: game/characters:218
 msgctxt "game/characters:218:DefaultText"
 msgid "Warden Violette"
-msgstr ""
+msgstr "Správce Violette"
 
 #: game/characters:219
 msgctxt "game/characters:219:DefaultText"
 msgid "Eldon"
-msgstr ""
+msgstr "Eldon"
 
 #: game/characters:220
 msgctxt "game/characters:220:DefaultText"
 msgid "Officer Iverson"
-msgstr ""
+msgstr "Strážník Iverson"
 
 #: game/characters:221
 msgctxt "game/characters:221:DefaultText"
 msgid "Morton"
-msgstr ""
+msgstr "Morton"
 
 #: game/characters:222
 msgctxt "game/characters:222:DefaultText"
 msgid "Tillie"
-msgstr ""
+msgstr "Tillie"
 
 #: game/characters:223
 msgctxt "game/characters:223:DefaultText"
 msgid "General Kahler"
-msgstr ""
+msgstr "Generál Kahler"
 
 #: game/characters:224
 msgctxt "game/characters:224:DefaultText"
 msgid "Officer Fielding"
-msgstr ""
+msgstr "Důstojník Fielding"
 
 #: game/characters:225
 msgctxt "game/characters:225:DefaultText"
 msgid "Wealthy Citizen"
-msgstr ""
+msgstr "Bohatý občan"
 
 #: game/characters:226
 msgctxt "game/characters:226:DefaultText"
 msgid "Pvt. Lee Flores"
-msgstr ""
+msgstr "Vojín Lee Flores"
 
 #: game/characters:229
 msgctxt "game/characters:229:DefaultText"
 msgid "Tatiana Hughes"
-msgstr ""
+msgstr "Tatiana Hughes"
 
 #: game/characters:230
 msgctxt "game/characters:230:DefaultText"
 msgid "Lawton Bray"
-msgstr ""
+msgstr "Lawton Bray"
 
 #: game/characters:231
 msgctxt "game/characters:231:DefaultText"
 msgid "Lenny"
-msgstr ""
+msgstr "Lenny"
 
 #: game/characters:232
 msgctxt "game/characters:232:DefaultText"
 msgid "Timothy"
-msgstr ""
+msgstr "Timothy"
 
 #: game/characters:233
 msgctxt "game/characters:233:DefaultText"
 msgid "Charlie"
-msgstr ""
+msgstr "Charlie"
 
 #: game/characters:234
 msgctxt "game/characters:234:DefaultText"
 msgid "Ty"
-msgstr ""
+msgstr "Ty"
 
 #: game/characters:235
 msgctxt "game/characters:235:DefaultText"
 msgid "Ethel Gaibler"
-msgstr ""
+msgstr "Ethel Gaiblerová"
 
 #: game/characters:237
 msgctxt "game/characters:237:DefaultText"
 msgid "Gertie Sauber"
-msgstr ""
+msgstr "Gertie Sauberová"
 
 #: game/characters:238
 msgctxt "game/characters:238:DefaultText"
 msgid "Vicar Barnes"
-msgstr ""
+msgstr "Vikář Barnes"
 
 #: game/characters:239
 msgctxt "game/characters:239:DefaultText"
 msgid "Maxfield Gupta"
-msgstr ""
+msgstr "Maxfield Gupta"
 
 #: game/characters:240
 msgctxt "game/characters:240:DefaultText"
 msgid "Mercer Cole"
-msgstr ""
+msgstr "Mercer Cole"
 
 #: game/characters:241
 msgctxt "game/characters:241:DefaultText"
 msgid "Inspector Kohn"
-msgstr ""
+msgstr "Inspektor Kohn"
 
 #: game/characters:243
 msgctxt "game/characters:243:DefaultText"
 msgid "Agent"
-msgstr ""
+msgstr "Agent"
 
 #: game/characters:246
 msgctxt "game/characters:246:DefaultText"
 msgid "SubLight Contractor"
-msgstr ""
+msgstr "SubLight Contractor"
 
 #: game/characters:247
 msgctxt "game/characters:247:DefaultText"
 msgid "Scrap Mechanical"
-msgstr ""
+msgstr "Mechanický šrot"
 
 #: game/characters:248
 msgctxt "game/characters:248:DefaultText"
 msgid "TestSpeaker2"
-msgstr ""
+msgstr "Testovací reproduktor2"
 
 #: game/characters:249
 msgctxt "game/characters:249:DefaultText"
 msgid "Auntie Cleo Worker"
-msgstr ""
+msgstr "Teta Cleo Pracovník"
 
 #: game/characters:250
 msgctxt "game/characters:250:DefaultText"
 msgid "Auntie Cleo Security"
-msgstr ""
+msgstr "Zabezpečení tety Cleo"
 
 #: game/characters:251
 msgctxt "game/characters:251:DefaultText"
 msgid "Privateer"
-msgstr ""
+msgstr "Privateer"
 
 #: game/characters:252
 msgctxt "game/characters:252:DefaultText"
 msgid "Chef"
-msgstr ""
+msgstr "Šéfkuchař"
 
 #: game/characters:253
 msgctxt "game/characters:253:DefaultText"
 msgid "Bounty Drone"
-msgstr ""
+msgstr "Bounty Drone"
 
 #: game/characters:254
 msgctxt "game/characters:254:DefaultText"
 msgid "Evelyn Lee"
-msgstr ""
+msgstr "Evelyn Lee"
 
 #: game/characters:255
 msgctxt "game/characters:255:DefaultText"
 msgid "Quincy Duncan"
-msgstr ""
+msgstr "Quincy Duncan"
 
 #: game/characters:256
 msgctxt "game/characters:256:DefaultText"
 msgid "Sentry Drone"
-msgstr ""
+msgstr "Sentry Drone"
 
 #: game/characters:257
 msgctxt "game/characters:257:DefaultText"
 msgid "Marauder Goon"
-msgstr ""
+msgstr "Marauder Goon"
 
 #: game/characters:265
 msgctxt "game/characters:265:DefaultText"
 msgid "Soldier"
-msgstr ""
+msgstr "Voják"
 
 #: game/characters:270
 msgctxt "game/characters:270:DefaultText"
 msgid "Cora"
-msgstr ""
+msgstr "Cora"
 
 #: game/characters:273
 msgctxt "game/characters:273:DefaultText"
 msgid "Murray"
-msgstr ""
+msgstr "Murray"
 
 #: game/characters:274
 msgctxt "game/characters:274:DefaultText"
 msgid "Melody"
-msgstr ""
+msgstr "Melody"
 
 #: game/characters:275
 msgctxt "game/characters:275:DefaultText"
 msgid "Warehouse Guard"
-msgstr ""
+msgstr "Strážce skladu"
 
 #: game/characters:276
 msgctxt "game/characters:276:DefaultText"
 msgid "Prisoner"
-msgstr ""
+msgstr "Vězeň"
 
 #: game/characters:277
 msgctxt "game/characters:277:DefaultText"
 msgid "Prisoner"
-msgstr ""
+msgstr "Vězeň"
 
 #: game/characters:278
 msgctxt "game/characters:278:DefaultText"
 msgid "Quincy Duncan"
-msgstr ""
+msgstr "Quincy Duncan"
 
 #: game/characters:279
 msgctxt "game/characters:279:DefaultText"
 msgid "Prisoner"
-msgstr ""
+msgstr "Vězeň"
 
 #: game/characters:288
 msgctxt "game/characters:288:DefaultText"
 msgid "Cleo Assault Trooper"
-msgstr ""
+msgstr "Útočná jednotka Cleo"
 
 #: game/characters:289
 msgctxt "game/characters:289:DefaultText"
 msgid "Construction Mechanical"
-msgstr ""
+msgstr "Stavební mechanika"
 
 #: game/characters:290
 msgctxt "game/characters:290:DefaultText"
 msgid "Tillie"
-msgstr ""
+msgstr "Tillie"
 
 #: game/characters:291
 msgctxt "game/characters:291:DefaultText"
 msgid "Brothel Worker"
-msgstr ""
+msgstr "Pracovník nevěstince"
 
 #: game/characters:292
 msgctxt "game/characters:292:DefaultText"
 msgid "Eliza Rynning"
-msgstr ""
+msgstr "Eliza Rynning"
 
 #: game/characters:300
 msgctxt "game/characters:300:DefaultText"
 msgid "Guard Stallworth"
-msgstr ""
+msgstr "Strážce Stallworth"
 
 #: game/characters:301
 msgctxt "game/characters:301:DefaultText"
 msgid "Guard Frobisher"
-msgstr ""
+msgstr "Strážce Frobisher"
 
 #: game/characters:302
 msgctxt "game/characters:302:DefaultText"
 msgid "Bar Patron"
-msgstr ""
+msgstr "Patron baru"
 
 #: game/characters:303
 msgctxt "game/characters:303:DefaultText"
 msgid "Scientician"
-msgstr ""
+msgstr "Vědec"
 
 #: game/characters:304
 msgctxt "game/characters:304:DefaultText"
 msgid "Hope Security"
-msgstr ""
+msgstr "Zabezpečení naděje"
 
 #: game/characters:305
 msgctxt "game/characters:305:DefaultText"
 msgid "Mr. Billingsly"
-msgstr ""
+msgstr "Pan Billingsly"
 
 #: game/characters:306
 msgctxt "game/characters:306:DefaultText"
 msgid "Abram Linderman"
-msgstr ""
+msgstr "Abram Linderman"
 
 #: game/characters:307
 msgctxt "game/characters:307:DefaultText"
 msgid "Kent Ellis"
-msgstr ""
+msgstr "Kent Ellis"
 
 #: game/characters:308
 msgctxt "game/characters:308:DefaultText"
 msgid "Malini Gupta"
-msgstr ""
+msgstr "Malini Gupta"
 
 #: game/characters:309
 msgctxt "game/characters:309:DefaultText"
 msgid "Penelope Fitzpatrick"
-msgstr ""
+msgstr "Penelope Fitzpatrick"
 
 #: game/characters:310
 msgctxt "game/characters:310:DefaultText"
 msgid "Otis Larson"
-msgstr ""
+msgstr "Otis Larson"
 
 #: game/characters:311
 msgctxt "game/characters:311:DefaultText"
 msgid "Winston Forsythe"
-msgstr ""
+msgstr "Winston Forsythe"
 
 #: game/characters:312
 msgctxt "game/characters:312:DefaultText"
 msgid "Percival Platt"
-msgstr ""
+msgstr "Percival Platt"
 
 #: game/characters:313
 msgctxt "game/characters:313:DefaultText"
 msgid "Beatrice Reichert"
-msgstr ""
+msgstr "Beatrice Reichertová"
 
 #: game/characters:314
 msgctxt "game/characters:314:DefaultText"
 msgid "Olive Yates"
-msgstr ""
+msgstr "Olive Yatesová"
 
 #: game/characters:315
 msgctxt "game/characters:315:DefaultText"
 msgid "Alice Park"
-msgstr ""
+msgstr "Alice Park"
 
 #: game/characters:317
 msgctxt "game/characters:317:DefaultText"
 msgid "Guard"
-msgstr ""
+msgstr "Strážce"
 
 #: game/characters:318
 msgctxt "game/characters:318:DefaultText"
 msgid "Guard"
-msgstr ""
+msgstr "Strážce"
 
 #: game/characters:319
 msgctxt "game/characters:319:DefaultText"
 msgid "Guard"
-msgstr ""
+msgstr "Strážce"
 
 #: game/characters:320
 msgctxt "game/characters:320:DefaultText"
 msgid "Guard"
-msgstr ""
+msgstr "Strážce"
 
 #: game/characters:322
 msgctxt "game/characters:322:DefaultText"
 msgid "Guard"
-msgstr ""
+msgstr "Strážce"
 
 #: game/characters:323
 msgctxt "game/characters:323:DefaultText"
 msgid "Guard"
-msgstr ""
+msgstr "Strážce"
 
 #: game/characters:324
 msgctxt "game/characters:324:DefaultText"
 msgid "Guard"
-msgstr ""
+msgstr "Strážce"
 
 #: game/characters:325
 msgctxt "game/characters:325:DefaultText"
 msgid "Station Worker"
-msgstr ""
+msgstr "Pracovník stanice"
 
 #: game/characters:326
 msgctxt "game/characters:326:DefaultText"
 msgid "Station Worker"
-msgstr ""
+msgstr "Pracovník stanice"
 
 #: game/characters:327
 msgctxt "game/characters:327:DefaultText"
 msgid "Syndicate Operative"
-msgstr ""
+msgstr "Operátor Syndikátu"
 
 #: game/characters:328
 msgctxt "game/characters:328:DefaultText"
 msgid "Syndicate Operative"
-msgstr ""
+msgstr "Operátor Syndikátu"
 
 #: game/characters:330
 msgctxt "game/characters:330:DefaultText"
 msgid "MSI Soldier"
-msgstr ""
+msgstr "MSI Soldier"
 
 #: game/characters:331
 msgctxt "game/characters:331:DefaultText"
 msgid "Iconoclast Revolutionary"
-msgstr ""
+msgstr "Ikonoklastický revolucionář"
 
 #: game/characters:333
 msgctxt "game/characters:333:DefaultText"
 msgid "Ruby Li"
-msgstr ""
+msgstr "Ruby Li"
 
 #: game/characters:334
 msgctxt "game/characters:334:DefaultText"
 msgid "Cleo Tactical Ordnance Tech"
-msgstr ""
+msgstr "Technik taktické výzbroje Cleo"
 
 #: game/characters:335
 msgctxt "game/characters:335:DefaultText"
 msgid "Peyton"
-msgstr ""
+msgstr "Peyton"
 
 #: game/characters:336
 msgctxt "game/characters:336:DefaultText"
 msgid "Mantiswarm"
-msgstr ""
+msgstr "Mantiswarm"
 
 #: game/characters:337
 msgctxt "game/characters:337:DefaultText"
 msgid "Combat Drone"
-msgstr ""
+msgstr "Bojový dron"
 
 #: game/characters:338
 msgctxt "game/characters:338:DefaultText"
 msgid "Boarst Factory Guard"
-msgstr ""
+msgstr "Boarst Factory Guard"
 
 #: game/characters:339
 msgctxt "game/characters:339:DefaultText"
 msgid "Clive Lumbergh"
-msgstr ""
+msgstr "Clive Lumbergh"
 
 #: game/characters:341
 msgctxt "game/characters:341:DefaultText"
 msgid "Factory Radio System"
-msgstr ""
+msgstr "Tovární rádiový systém"
 
 #: game/characters:342
 msgctxt "game/characters:342:DefaultText"
 msgid "Pteroray"
-msgstr ""
+msgstr "Pteroray"
 
 #: game/characters:343
 msgctxt "game/characters:343:DefaultText"
 msgid "Quinton Mori"
-msgstr ""
+msgstr "Quinton Mori"
 
 #: game/characters:344
 msgctxt "game/characters:344:DefaultText"
 msgid "Erwin Delgado"
-msgstr ""
+msgstr "Erwin Delgado"
 
 #: game/characters:345
 msgctxt "game/characters:345:DefaultText"
 msgid "Josiah Swinton"
-msgstr ""
+msgstr "Josiah Swinton"
 
 #: game/characters:346
 msgctxt "game/characters:346:DefaultText"
 msgid "Della Jennings"
-msgstr ""
+msgstr "Della Jennings"
 
 #: game/characters:347
 msgctxt "game/characters:347:DefaultText"
 msgid "Minnie Grenlee"
-msgstr ""
+msgstr "Minnie Grenlee"
 
 #: game/characters:348
 msgctxt "game/characters:348:DefaultText"
 msgid "Judith Renberg"
-msgstr ""
+msgstr "Judith Renberg"
 
 #: game/characters:349
 msgctxt "game/characters:349:DefaultText"
 msgid "Peggy Kemp"
-msgstr ""
+msgstr "Peggy Kemp"
 
 #: game/characters:350
 msgctxt "game/characters:350:DefaultText"
 msgid "Cecil McClure"
-msgstr ""
+msgstr "Cecil McClure"
 
 #: game/characters:351
 msgctxt "game/characters:351:DefaultText"
 msgid "Hamilton Anaya"
-msgstr ""
+msgstr "Hamilton Anaya"
 
 #: game/characters:352
 msgctxt "game/characters:352:DefaultText"
 msgid "Freighter Crew"
-msgstr ""
+msgstr "Posádka nákladní lodi"
 
 #: game/characters:353
 msgctxt "game/characters:353:DefaultText"
 msgid "Stevedore"
-msgstr ""
+msgstr "Stevard"
 
 #: game/characters:354
 msgctxt "game/characters:354:DefaultText"
 msgid "Interstellar Crew"
-msgstr ""
+msgstr "Mezihvězdná posádka"
 
 #: game/characters:355
 msgctxt "game/characters:355:DefaultText"
 msgid "Efficiency Expert"
-msgstr ""
+msgstr "Expert na efektivitu"
 
 #: game/characters:357
 msgctxt "game/characters:357:DefaultText"
 msgid "Salvager"
-msgstr ""
+msgstr "Záchranář"
 
 #: game/characters:358
 msgctxt "game/characters:358:DefaultText"
 msgid "Server"
-msgstr ""
+msgstr "Server"
 
 #: game/characters:368
 msgctxt "game/characters:368:DefaultText"
 msgid "Everett Gill"
-msgstr ""
+msgstr "Everett Gill"
 
 #: game/characters:369
 msgctxt "game/characters:369:DefaultText"
 msgid "Catherine Malin"
-msgstr ""
+msgstr "Catherine Malin"
 
 #: game/characters:370
 msgctxt "game/characters:370:DefaultText"
 msgid "Zora Blackwood"
-msgstr ""
+msgstr "Zora Blackwood"
 
 #: game/characters:371
 msgctxt "game/characters:371:DefaultText"
 msgid "SubLight Thug"
-msgstr ""
+msgstr "SubLight Thug"
 
 #: game/characters:372
 msgctxt "game/characters:372:DefaultText"
 msgid "Alford Gerhardt"
-msgstr ""
+msgstr "Alford Gerhardt"
 
 #: game/characters:373
 msgctxt "game/characters:373:DefaultText"
 msgid "Ernest Gerhardt"
-msgstr ""
+msgstr "Ernest Gerhardt"
 
 #: game/characters:374
 msgctxt "game/characters:374:DefaultText"
 msgid "Betty Gerhardt"
-msgstr ""
+msgstr "Betty Gerhardtová"
 
 #: game/characters:375
 msgctxt "game/characters:375:DefaultText"
 msgid "Miles Taylor"
-msgstr ""
+msgstr "Miles Taylor"
 
 #: game/characters:376
 msgctxt "game/characters:376:DefaultText"
 msgid "Carlotta"
-msgstr ""
+msgstr "Carlotta"
 
 #: game/characters:377
 msgctxt "game/characters:377:DefaultText"
 msgid "Arthur"
-msgstr ""
+msgstr "Arthur"
 
 #: game/characters:378
 msgctxt "game/characters:378:DefaultText"
 msgid "Nell"
-msgstr ""
+msgstr "Nell"
 
 #: game/characters:379
 msgctxt "game/characters:379:DefaultText"
 msgid "Bennett"
-msgstr ""
+msgstr "Bennett"
 
 #: game/characters:380
 msgctxt "game/characters:380:DefaultText"
 msgid "Elijah"
-msgstr ""
+msgstr "Elijah"
 
 #: game/characters:381
 msgctxt "game/characters:381:DefaultText"
 msgid "Berta"
-msgstr ""
+msgstr "Berta"
 
 #: game/characters:382
 msgctxt "game/characters:382:DefaultText"
 msgid "Dr. Eva Chartrand"
-msgstr ""
+msgstr "Dr. Eva Chartrand"
 
 #: game/characters:383
 msgctxt "game/characters:383:DefaultText"
 msgid "Lorelei Fahl"
-msgstr ""
+msgstr "Lorelei Fahl"
 
 #: game/characters:384
 msgctxt "game/characters:384:DefaultText"
 msgid "Sick Resident"
-msgstr ""
+msgstr "Nemocný rezident"
 
 #: game/characters:388
 msgctxt "game/characters:388:DefaultText"
 msgid "August Van Noy"
-msgstr ""
+msgstr "August Van Noy"
 
 #: game/characters:389
 msgctxt "game/characters:389:DefaultText"
 msgid "May Van Noy"
-msgstr ""
+msgstr "May Van Noy"
 
 #: game/characters:390
 msgctxt "game/characters:390:DefaultText"
 msgid "Berthold Fox"
-msgstr ""
+msgstr "Berthold Fox"
 
 #: game/characters:391
 msgctxt "game/characters:391:DefaultText"
 msgid "Donald Anderson"
-msgstr ""
+msgstr "Donald Anderson"
 
 #: game/characters:392
 msgctxt "game/characters:392:DefaultText"
 msgid "Joy Voivode"
-msgstr ""
+msgstr "Joy Voivode"
 
 #: game/characters:393
 msgctxt "game/characters:393:DefaultText"
 msgid "Laura"
-msgstr ""
+msgstr "Laura"
 
 #: game/characters:394
 msgctxt "game/characters:394:DefaultText"
 msgid "Levi Mather"
-msgstr ""
+msgstr "Levi Mather"
 
 #: game/characters:395
 msgctxt "game/characters:395:DefaultText"
 msgid "Edgar Mather"
-msgstr ""
+msgstr "Edgar Mather"
 
 #: game/characters:396
 msgctxt "game/characters:396:DefaultText"
 msgid "Lizzie Mather"
-msgstr ""
+msgstr "Lizzie Mather"
 
 #: game/characters:397
 msgctxt "game/characters:397:DefaultText"
 msgid "Martha Mather"
-msgstr ""
+msgstr "Martha Mather"
 
 #: game/characters:398
 msgctxt "game/characters:398:DefaultText"
 msgid "Lance"
-msgstr ""
+msgstr "Lance"
 
 #: game/characters:399
 msgctxt "game/characters:399:DefaultText"
 msgid "Addie"
-msgstr ""
+msgstr "Addie"
 
 #: game/characters:400
 msgctxt "game/characters:400:DefaultText"
 msgid "Intercom"
-msgstr ""
+msgstr "Interkom"
 
 #: game/characters:401
 msgctxt "game/characters:401:DefaultText"
 msgid "Iconoclast Insurgent"
-msgstr ""
+msgstr "Ikonoklast Povstalec"
 
 #: game/characters:402
 msgctxt "game/characters:402:DefaultText"
 msgid "Iconoclast Rioter"
-msgstr ""
+msgstr "Ikonoklast Rioter"
 
 #: game/characters:403
 msgctxt "game/characters:403:DefaultText"
 msgid "Otto Bryne"
-msgstr ""
+msgstr "Otto Bryne"
 
 #: game/characters:404
 msgctxt "game/characters:404:DefaultText"
 msgid "Worker"
-msgstr ""
+msgstr "Pracovník"
 
 #: game/characters:406
 msgctxt "game/characters:406:DefaultText"
 msgid "Resident"
-msgstr ""
+msgstr "Rezident"
 
 #: game/characters:409
 msgctxt "game/characters:409:DefaultText"
 msgid "Resident"
-msgstr ""
+msgstr "Rezident"
 
 #: game/characters:410
 msgctxt "game/characters:410:DefaultText"
 msgid "MSI Security"
-msgstr ""
+msgstr "Zabezpečení MSI"
 
 #: game/characters:411
 msgctxt "game/characters:411:DefaultText"
 msgid "Hudson"
-msgstr ""
+msgstr "Hudson"
 
 #: game/characters:412
 msgctxt "game/characters:412:DefaultText"
 msgid "Iconoclast Leader"
-msgstr ""
+msgstr "Vůdce ikonoklastů"
 
 #: game/characters:413
 msgctxt "game/characters:413:DefaultText"
 msgid "MSI Leader"
-msgstr ""
+msgstr "MSI Leader"
 
 #: game/characters:414
 msgctxt "game/characters:414:DefaultText"
 msgid "Damaged Mechanical Sentry"
-msgstr ""
+msgstr "Poškozená mechanická hlídka"
 
 #: game/characters:415
 msgctxt "game/characters:415:DefaultText"
 msgid "Smuggler Captain"
-msgstr ""
+msgstr "Kapitán pašeráků"
 
 #: game/characters:416
 msgctxt "game/characters:416:DefaultText"
 msgid "Captain Hawthorne"
-msgstr ""
+msgstr "Kapitán Hawthorne"
 
 #: game/characters:417
 msgctxt "game/characters:417:DefaultText"
 msgid "Guillaume Antrim"
-msgstr ""
+msgstr "Guillaume Antrim"
 
 #: game/characters:418
 msgctxt "game/characters:418:DefaultText"
 msgid "Doc Maybell"
-msgstr ""
+msgstr "Doktor Maybell"
 
 #: game/characters:419
 msgctxt "game/characters:419:DefaultText"
 msgid "Bertie Cotton"
-msgstr ""
+msgstr "Bertie Cotton"
 
 #: game/characters:420
 msgctxt "game/characters:420:DefaultText"
 msgid "Ephraim Maywood"
-msgstr ""
+msgstr "Ephraim Maywood"
 
 #: game/characters:421
 msgctxt "game/characters:421:DefaultText"
 msgid "Yvonne Brennan"
-msgstr ""
+msgstr "Yvonne Brennanová"
 
 #: game/characters:422
 msgctxt "game/characters:422:DefaultText"
 msgid "Lemuel Heryford"
-msgstr ""
+msgstr "Lemuel Heryford"
 
 #: game/characters:423
 msgctxt "game/characters:423:DefaultText"
 msgid "Westley Alexander"
-msgstr ""
+msgstr "Westley Alexander"
 
 #: game/characters:424
 msgctxt "game/characters:424:DefaultText"
 msgid "Duncan Elley"
-msgstr ""
+msgstr "Duncan Elley"
 
 #: game/characters:425
 msgctxt "game/characters:425:DefaultText"
 msgid "Lyanna Reed"
-msgstr ""
+msgstr "Lyanna Reedová"
 
 #: game/characters:426
 msgctxt "game/characters:426:DefaultText"
 msgid "Bronson"
-msgstr ""
+msgstr "Bronson"
 
 #: game/characters:427
 msgctxt "game/characters:427:DefaultText"
 msgid "Niles"
-msgstr ""
+msgstr "Niles"
 
 #: game/characters:428
 msgctxt "game/characters:428:DefaultText"
 msgid "Cornelius Fetterman"
-msgstr ""
+msgstr "Cornelius Fetterman"
 
 #: game/characters:443
 msgctxt "game/characters:443:DefaultText"
 msgid "Harlow"
-msgstr ""
+msgstr "Harlow"
 
 #: game/characters:444
 msgctxt "game/characters:444:DefaultText"
 msgid "Rufus Trask"
-msgstr ""
+msgstr "Rufus Trask"
 
 #: game/characters:445
 msgctxt "game/characters:445:DefaultText"
 msgid "Corp. Records Employee"
-msgstr ""
+msgstr "Corp. Records Zaměstnanec"
 
 #: game/characters:446
 msgctxt "game/characters:446:DefaultText"
 msgid "HHC Guard"
-msgstr ""
+msgstr "HHC Guard"
 
 #: game/characters:447
 msgctxt "game/characters:447:DefaultText"
 msgid "Rosana"
-msgstr ""
+msgstr "Rosana"
 
 #: game/characters:448
 msgctxt "game/characters:448:DefaultText"
 msgid "Alice Baker"
-msgstr ""
+msgstr "Alice Bakerová"
 
 #: game/characters:450
 msgctxt "game/characters:450:DefaultText"
 msgid "Nelson Mayson"
-msgstr ""
+msgstr "Nelson Mayson"
 
 #: game/characters:456
 msgctxt "game/characters:456:DefaultText"
 msgid "Emmett Dunsley"
-msgstr ""
+msgstr "Emmett Dunsley"
 
 #: game/characters:457
 msgctxt "game/characters:457:DefaultText"
 msgid "Jocelyn Julius"
-msgstr ""
+msgstr "Jocelyn Julius"
 
 #: game/characters:458
 msgctxt "game/characters:458:DefaultText"
 msgid "The Chet"
-msgstr ""
+msgstr "Chet"
 
 #: game/characters:459
 msgctxt "game/characters:459:DefaultText"
 msgid "Mechanical Sentry MK1"
-msgstr ""
+msgstr "Mechanická hlídka MK1"
 
 #: game/characters:460
 msgctxt "game/characters:460:DefaultText"
 msgid "Mechanical Sentry MK2"
-msgstr ""
+msgstr "Mechanická hlídka MK2"
 
 #: game/characters:461
 msgctxt "game/characters:461:DefaultText"
 msgid "Mechanical Guardian MK1"
-msgstr ""
+msgstr "Mechanický strážce MK1"
 
 #: game/characters:462
 msgctxt "game/characters:462:DefaultText"
 msgid "Mechanical Guardian MK2"
-msgstr ""
+msgstr "Mechanický strážce MK2"
 
 #: game/characters:464
 msgctxt "game/characters:464:DefaultText"
 msgid "Private Taylor"
-msgstr ""
+msgstr "Vojín Taylor"
 
 #: game/characters:465
 msgctxt "game/characters:465:DefaultText"
 msgid "Victim"
-msgstr ""
+msgstr "Oběť"
 
 #: game/characters:466
 msgctxt "game/characters:466:DefaultText"
 msgid "SAM"
-msgstr ""
+msgstr "SAM"
 
 #: game/characters:467
 msgctxt "game/characters:467:DefaultText"
 msgid "Dr. Williams"
-msgstr ""
+msgstr "Dr. Williams"
 
 #: game/characters:468
 msgctxt "game/characters:468:DefaultText"
 msgid "Quinn Schroeder"
-msgstr ""
+msgstr "Quinn Schroeder"
 
 #: game/characters:469
 msgctxt "game/characters:469:DefaultText"
 msgid "Frederick Halstead"
-msgstr ""
+msgstr "Frederick Halstead"
 
 #: game/characters:470
 msgctxt "game/characters:470:DefaultText"
 msgid "Talmadge Kerr"
-msgstr ""
+msgstr "Talmadge Kerr"
 
 #: game/characters:471
 msgctxt "game/characters:471:DefaultText"
 msgid "Rose"
-msgstr ""
+msgstr "Rose"
 
 #: game/characters:472
 msgctxt "game/characters:472:DefaultText"
 msgid "Giles"
-msgstr ""
+msgstr "Giles"
 
 #: game/characters:473
 msgctxt "game/characters:473:DefaultText"
 msgid "Higgins"
-msgstr ""
+msgstr "Higgins"
 
 #: game/characters:474
 msgctxt "game/characters:474:DefaultText"
 msgid "Marauder"
-msgstr ""
+msgstr "Marauder"
 
 #: game/characters:475
 msgctxt "game/characters:475:DefaultText"
 msgid "Marauder"
-msgstr ""
+msgstr "Marauder"
 
 #: game/characters:477
 msgctxt "game/characters:477:DefaultText"
 msgid "Marauder"
-msgstr ""
+msgstr "Marauder"
 
 #: game/characters:478
 msgctxt "game/characters:478:DefaultText"
 msgid "Marauder"
-msgstr ""
+msgstr "Marauder"
 
 #: game/characters:479
 msgctxt "game/characters:479:DefaultText"
 msgid "Marauder"
-msgstr ""
+msgstr "Marauder"
 
 #: game/characters:481
 msgctxt "game/characters:481:DefaultText"
 msgid "Marauder"
-msgstr ""
+msgstr "Marauder"
 
 #: game/characters:482
 msgctxt "game/characters:482:DefaultText"
 msgid "Scientist"
-msgstr ""
+msgstr "Vědec"
 
 #: game/characters:483
 msgctxt "game/characters:483:DefaultText"
 msgid "Marauder"
-msgstr ""
+msgstr "Marauder"
 
 #: game/characters:484
 msgctxt "game/characters:484:DefaultText"
 msgid "Marauder"
-msgstr ""
+msgstr "Marauder"
 
 #: game/characters:485
 msgctxt "game/characters:485:DefaultText"
 msgid "SubLight Employee"
-msgstr ""
+msgstr "Zaměstnanec společnosti SubLight"
 
 #: game/characters:487
 msgctxt "game/characters:487:DefaultText"
 msgid "Fallbrook Patron"
-msgstr ""
+msgstr "Fallbrook Patron"
 
 #: game/characters:489
 msgctxt "game/characters:489:DefaultText"
 msgid "Canid Alpha"
-msgstr ""
+msgstr "Canid Alpha"
 
 #: game/characters:490
 msgctxt "game/characters:490:DefaultText"
 msgid "Canid Howler"
-msgstr ""
+msgstr "Canid Howler"
 
 #: game/characters:491
 msgctxt "game/characters:491:DefaultText"
 msgid "Canid Mongrel"
-msgstr ""
+msgstr "Canid Mongrel"
 
 #: game/characters:492
 msgctxt "game/characters:492:DefaultText"
 msgid "Swarm Wasp"
-msgstr ""
+msgstr "Vosa z roje"
 
 #: game/characters:493
 msgctxt "game/characters:493:DefaultText"
 msgid "Ergs"
-msgstr ""
+msgstr "Ergs"
 
 #: game/characters:494
 msgctxt "game/characters:494:DefaultText"
 msgid "Sick Mantiqueen"
-msgstr ""
+msgstr "Nemocný Mantiqueen"
 
 #: game/characters:495
 msgctxt "game/characters:495:DefaultText"
 msgid "Outlaw"
-msgstr ""
+msgstr "Outlaw"
 
 #: game/characters:496
 msgctxt "game/characters:496:DefaultText"
 msgid "Agnes Needham"
-msgstr ""
+msgstr "Agnes Needhamová"
 
 #: game/characters:497
 msgctxt "game/characters:497:DefaultText"
 msgid "Tucker Needham"
-msgstr ""
+msgstr "Tucker Needham"
 
 #: game/characters:498
 msgctxt "game/characters:498:DefaultText"
 msgid "Caleb Herrick"
-msgstr ""
+msgstr "Caleb Herrick"
 
 #: game/characters:502
 msgctxt "game/characters:502:DefaultText"
 msgid "Auto Loader Operator"
-msgstr ""
+msgstr "Obsluha automatického nakladače"
 
 #: game/characters:503
 msgctxt "game/characters:503:DefaultText"
 msgid "Repaired Automechanical Scout"
-msgstr ""
+msgstr "Opravený automechanický průzkumník"
 
 #: game/characters:504
 msgctxt "game/characters:504:DefaultText"
 msgid "Plant Worker"
-msgstr ""
+msgstr "Pracovník v závodě"
 
 #: game/characters:505
 msgctxt "game/characters:505:DefaultText"
 msgid "Security Chief"
-msgstr ""
+msgstr "Bezpečnostní šéf"
 
 #: game/characters:506
 msgctxt "game/characters:506:DefaultText"
 msgid "Sprat"
-msgstr ""
+msgstr "Sprat"
 
 #: game/characters:508
 msgctxt "game/characters:508:DefaultText"
 msgid "Marauder Hound"
-msgstr ""
+msgstr "Marauder Hound"
 
 #: game/characters:509
 msgctxt "game/characters:509:DefaultText"
 msgid "Ash"
-msgstr ""
+msgstr "Ash"
 
 #: game/characters:510
 msgctxt "game/characters:510:DefaultText"
 msgid "Jessie Doyle"
-msgstr ""
+msgstr "Jessie Doyle"
 
 #: game/characters:511
 msgctxt "game/characters:511:DefaultText"
 msgid "Bodyguard"
-msgstr ""
+msgstr "Bodyguard"
 
 #: game/characters:512
 msgctxt "game/characters:512:DefaultText"
 msgid "Theodora Fenhill"
-msgstr ""
+msgstr "Theodora Fenhillová"
 
 #: game/characters:513
 msgctxt "game/characters:513:DefaultText"
 msgid "Lionel Witherspoon"
-msgstr ""
+msgstr "Lionel Witherspoon"
 
 #: game/characters:514
 msgctxt "game/characters:514:DefaultText"
 msgid "Bradford"
-msgstr ""
+msgstr "Bradford"
 
 #: game/characters:515
 msgctxt "game/characters:515:DefaultText"
 msgid "Factory Employee"
-msgstr ""
+msgstr "Zaměstnanec továrny"
 
 #: game/characters:516
 msgctxt "game/characters:516:DefaultText"
 msgid "Winslow"
-msgstr ""
+msgstr "Winslow"
 
 #: game/characters:517
 msgctxt "game/characters:517:DefaultText"
 msgid "Felicity Griger"
-msgstr ""
+msgstr "Felicity Griger"
 
 #: game/characters:518
 msgctxt "game/characters:518:DefaultText"
 msgid "Casswell Jepsen"
-msgstr ""
+msgstr "Casswell Jepsen"
 
 #: game/characters:519
 msgctxt "game/characters:519:DefaultText"
 msgid "Brigham Whight"
-msgstr ""
+msgstr "Brigham Whight"
 
 #: game/characters:520
 msgctxt "game/characters:520:DefaultText"
 msgid "Elias Atman"
-msgstr ""
+msgstr "Elias Atman"
 
 #: game/characters:521
 msgctxt "game/characters:521:DefaultText"
 msgid "Mortimer Bell"
-msgstr ""
+msgstr "Mortimer Bell"
 
 #: game/characters:522
 msgctxt "game/characters:522:DefaultText"
 msgid "Rosemary Kwan"
-msgstr ""
+msgstr "Rosemary Kwan"
 
 #: game/characters:523
 msgctxt "game/characters:523:DefaultText"
 msgid "Business News"
-msgstr ""
+msgstr "Obchodní zprávy"
 
 #: game/characters:524
 msgctxt "game/characters:524:DefaultText"
 msgid "Edmund Laughinghouse"
-msgstr ""
+msgstr "Edmund Laughinghouse"
 
 #: game/characters:525
 msgctxt "game/characters:525:DefaultText"
 msgid "Delia Baysinger"
-msgstr ""
+msgstr "Delia Baysinger"
 
 #: game/characters:526
 msgctxt "game/characters:526:DefaultText"
 msgid "Gunship Engineer"
-msgstr ""
+msgstr "Inženýr střelecké lodi"
 
 #: game/characters:527
 msgctxt "game/characters:527:DefaultText"
 msgid "Thornton"
-msgstr ""
+msgstr "Thornton"
 
 #: game/characters:528
 msgctxt "game/characters:528:DefaultText"
 msgid "Raptidon Colossus"
-msgstr ""
+msgstr "Raptidon Colossus"
 
 #: game/characters:529
 msgctxt "game/characters:529:DefaultText"
 msgid "CUT"
-msgstr ""
+msgstr "CUT"
 
 #: game/characters:530
 msgctxt "game/characters:530:DefaultText"
 msgid "Raptidon Stalker"
-msgstr ""
+msgstr "Raptidon Stalker"
 
 #: game/characters:533
 msgctxt "game/characters:533:DefaultText"
 msgid "Refugee"
-msgstr ""
+msgstr "Uprchlík"
 
 #: game/characters:534
 msgctxt "game/characters:534:DefaultText"
 msgid "Refugee"
-msgstr ""
+msgstr "Uprchlík"
 
 #: game/characters:535
 msgctxt "game/characters:535:DefaultText"
 msgid "Refugee"
-msgstr ""
+msgstr "Uprchlík"
 
 #: game/characters:536
 msgctxt "game/characters:536:DefaultText"
 msgid "Guard"
-msgstr ""
+msgstr "Strážce"
 
 #: game/characters:537
 msgctxt "game/characters:537:DefaultText"
 msgid "Guard"
-msgstr ""
+msgstr "Strážce"
 
 #: game/characters:538
 msgctxt "game/characters:538:DefaultText"
 msgid "Milton"
-msgstr ""
+msgstr "Milton"
 
 #: game/characters:539
 msgctxt "game/characters:539:DefaultText"
 msgid "Primal Hunter"
-msgstr ""
+msgstr "Primal Hunter"
 
 #: game/characters:540
 msgctxt "game/characters:540:DefaultText"
 msgid "Primal Brute"
-msgstr ""
+msgstr "Primal Brute"
 
 #: game/characters:541
 msgctxt "game/characters:541:DefaultText"
 msgid "Primal Ravager"
-msgstr ""
+msgstr "Primal Ravager"
 
 #: game/characters:543
 msgctxt "game/characters:543:DefaultText"
 msgid "Thug"
-msgstr ""
+msgstr "Thug"
 
 #: game/characters:544
 msgctxt "game/characters:544:DefaultText"
 msgid "Carmen Imagawa"
-msgstr ""
+msgstr "Carmen Imagawa"
 
 #: game/characters:545
 msgctxt "game/characters:545:DefaultText"
 msgid "Guard Mayfield"
-msgstr ""
+msgstr "Strážce Mayfield"
 
 #: game/characters:546
 msgctxt "game/characters:546:DefaultText"
 msgid "Reginald Chaney"
-msgstr ""
+msgstr "Reginald Chaney"
 
 #: game/characters:547
 msgctxt "game/characters:547:DefaultText"
 msgid "Hermit"
-msgstr ""
+msgstr "Poustevník"
 
 #: game/characters:548
 msgctxt "game/characters:548:DefaultText"
 msgid "Edna Ingmire"
-msgstr ""
+msgstr "Edna Ingmire"
 
 #: game/characters:549
 msgctxt "game/characters:549:DefaultText"
 msgid "Frey"
-msgstr ""
+msgstr "Frey"
 
 #: game/characters:553
 msgctxt "game/characters:553:DefaultText"
 msgid "Camera Mechanical"
-msgstr ""
+msgstr "Mechanická kamera"
 
 #: game/characters:554
 msgctxt "game/characters:554:DefaultText"
 msgid "Port Authority Announcement"
-msgstr ""
+msgstr "Oznámení Přístavního úřadu"
 
 #: game/characters:555
 msgctxt "game/characters:555:DefaultText"
 msgid "Actor"
-msgstr ""
+msgstr "Herec"
 
 #: game/characters:556
 msgctxt "game/characters:556:DefaultText"
 msgid "Actor"
-msgstr ""
+msgstr "Herec"
 
 #: game/characters:557
 msgctxt "game/characters:557:DefaultText"
 msgid "Ship Captain"
-msgstr ""
+msgstr "Kapitán lodi"
 
 #: game/characters:558
 msgctxt "game/characters:558:DefaultText"
 msgid "Maverick Johnston"
-msgstr ""
+msgstr "Maverick Johnston"
 
 #: game/characters:559
 msgctxt "game/characters:559:DefaultText"
 msgid "Maverick Johnston"
-msgstr ""
+msgstr "Maverick Johnston"
 
 #: game/characters:560
 msgctxt "game/characters:560:DefaultText"
 msgid "Butler Mechanical"
-msgstr ""
+msgstr "Butler Mechanical"
 
 #: game/characters:562
 msgctxt "game/characters:562:DefaultText"
 msgid "Jeremiah Sotuyo"
-msgstr ""
+msgstr "Jeremiah Sotuyo"
 
 #: game/characters:563
 msgctxt "game/characters:563:DefaultText"
 msgid "Celeste Jolicoeur"
-msgstr ""
+msgstr "Celeste Jolicoeur"
 
 #: game/characters:565
 msgctxt "game/characters:565:DefaultText"
 msgid "Isadora DeSoto"
-msgstr ""
+msgstr "Isadora DeSoto"
 
 #: game/characters:566
 msgctxt "game/characters:566:DefaultText"
 msgid "Vivid Hallucination"
-msgstr ""
+msgstr "Živá halucinace"
 
 #: game/characters:567
 msgctxt "game/characters:567:DefaultText"
 msgid "Guard Commander"
-msgstr ""
+msgstr "Velitel stráže"
 
 #: game/characters:568
 msgctxt "game/characters:568:DefaultText"
 msgid "Mechanical Sentry"
-msgstr ""
+msgstr "Mechanická hlídka"
 
 #: game/characters:569
 msgctxt "game/characters:569:DefaultText"
 msgid "Hover Mechanical"
-msgstr ""
+msgstr "Hover Mechanical"
 
 #: game/characters:570
 msgctxt "game/characters:570:DefaultText"
 msgid "Biped Mechanical"
-msgstr ""
+msgstr "Biped Mechanical"
 
 #: game/characters:571
 msgctxt "game/characters:571:DefaultText"
 msgid "Greasy"
-msgstr ""
+msgstr "Mastný"
 
 #: game/characters:572
 msgctxt "game/characters:572:DefaultText"
 msgid "Hortense Ingalsbee"
-msgstr ""
+msgstr "Hortense Ingalsbee"
 
 #: game/characters:573
 msgctxt "game/characters:573:DefaultText"
 msgid "Intercom"
-msgstr ""
+msgstr "Interkom"
 
 #: game/characters:577
 msgctxt "game/characters:577:DefaultText"
 msgid "Frenzied Test Subject"
-msgstr ""
+msgstr "Zběsilý testovaný subjekt"
 
 #: game/characters:578
 msgctxt "game/characters:578:DefaultText"
 msgid "Sick Bay Nurse"
-msgstr ""
+msgstr "Ošetřovatel na ošetřovně"
 
 #: game/characters:583
 msgctxt "game/characters:583:DefaultText"
 msgid "Auntie Cleo Worker"
-msgstr ""
+msgstr "Teta Cleo Pracovník"
 
 #: game/characters:584
 msgctxt "game/characters:584:DefaultText"
 msgid "Spacer's Choice Worker"
-msgstr ""
+msgstr "Spacer's Choice Worker"
 
 #: game/characters:585
 msgctxt "game/characters:585:DefaultText"
 msgid "Spacer's Choice Worker"
-msgstr ""
+msgstr "Spacer's Choice Worker"
 
 #: game/characters:586
 msgctxt "game/characters:586:DefaultText"
 msgid "Auntie Cleo Worker"
-msgstr ""
+msgstr "Teta Cleo Pracovník"
 
 #: game/characters:587
 msgctxt "game/characters:587:DefaultText"
 msgid "Caroline Endecott"
-msgstr ""
+msgstr "Caroline Endecott"
 
 #: game/characters:588
 msgctxt "game/characters:588:DefaultText"
 msgid "Guard Holte"
-msgstr ""
+msgstr "Strážce Holte"
 
 #: game/characters:589
 msgctxt "game/characters:589:DefaultText"
 msgid "Office Clerk"
-msgstr ""
+msgstr "Kancelářský pracovník"
 
 #: game/characters:590
 msgctxt "game/characters:590:DefaultText"
 msgid "Medical Drone"
-msgstr ""
+msgstr "Lékařský dron"
 
 #: game/characters:591
 msgctxt "game/characters:591:DefaultText"
 msgid "Alonzo Vallejos"
-msgstr ""
+msgstr "Alonzo Vallejos"
 
 #: game/characters:592
 msgctxt "game/characters:592:DefaultText"
 msgid "Newton Quigley"
-msgstr ""
+msgstr "Newton Quigley"
 
 #: game/characters:593
 msgctxt "game/characters:593:DefaultText"
 msgid "Lyndia Selman"
-msgstr ""
+msgstr "Lyndia Selman"
 
 #: game/characters:595
 msgctxt "game/characters:595:DefaultText"
 msgid "Traffic Controller"
-msgstr ""
+msgstr "Řídící provozu"
 
 #: game/characters:596
 msgctxt "game/characters:596:DefaultText"
 msgid "Traffic Controller"
-msgstr ""
+msgstr "Řídící provozu"
 
 #: game/characters:597
 msgctxt "game/characters:597:DefaultText"
 msgid "Portmaster Kirkwood"
-msgstr ""
+msgstr "Portmaster Kirkwood"
 
 #: game/characters:598
 msgctxt "game/characters:598:DefaultText"
 msgid "ChatterTestSpeaker"
-msgstr ""
+msgstr "ChatterTestSpeaker"
 
 #: game/characters:599
 msgctxt "game/characters:599:DefaultText"
 msgid "Albert Shaw"
-msgstr ""
+msgstr "Albert Shaw"
 
 #: game/characters:600
 msgctxt "game/characters:600:DefaultText"
 msgid "HPS Worker"
-msgstr ""
+msgstr "Pracovník HPS"
 
 #: game/characters:603
 msgctxt "game/characters:603:DefaultText"
 msgid "Spacer"
-msgstr ""
+msgstr "Rozpěrka"
 
 #: game/characters:604
 msgctxt "game/characters:604:DefaultText"
 msgid "Spacer"
-msgstr ""
+msgstr "Rozpěrka"
 
 #: game/characters:605
 msgctxt "game/characters:605:DefaultText"
 msgid "Canid Keeper"
-msgstr ""
+msgstr "Canid Keeper"
 
 #: game/characters:609
 msgctxt "game/characters:609:DefaultText"
 msgid "Bodyguard"
-msgstr ""
+msgstr "Bodyguard"
 
 #: game/characters:610
 msgctxt "game/characters:610:DefaultText"
 msgid "Mechanical Liberator"
-msgstr ""
+msgstr "Mechanický osvoboditel"
 
 #: game/characters:613
 msgctxt "game/characters:613:DefaultText"
 msgid "HHC Employee"
-msgstr ""
+msgstr "Zaměstnanec HHC"
 
 #: game/characters:614
 msgctxt "game/characters:614:DefaultText"
 msgid "Mr. Billingsly"
-msgstr ""
+msgstr "Pan Billingsly"
 
 #: game/characters:615
 msgctxt "game/characters:615:DefaultText"
 msgid "Bartender Mechanical"
-msgstr ""
+msgstr "Barman mechanický"
 
 #: game/characters:617
 msgctxt "game/characters:617:DefaultText"
 msgid "Lloyd Burgess"
-msgstr ""
+msgstr "Lloyd Burgess"
 
 #: game/characters:618
 msgctxt "game/characters:618:DefaultText"
 msgid "Victor Osterhoudt"
-msgstr ""
+msgstr "Victor Osterhoudt"
 
 #: game/characters:622
 msgctxt "game/characters:622:DefaultText"
 msgid "Mega Mechanical Sentry"
-msgstr ""
+msgstr "Mega mechanická stráž"
 
 #: game/characters:629
 msgctxt "game/characters:629:DefaultText"
 msgid "Morton"
-msgstr ""
+msgstr "Morton"
 
 #: game/characters:630
 msgctxt "game/characters:630:DefaultText"
 msgid "Security Officer"
-msgstr ""
+msgstr "Bezpečnostní pracovník"
 
 #: game/characters:631
 msgctxt "game/characters:631:DefaultText"
 msgid "Andrew"
-msgstr ""
+msgstr "Andrew"
 
 #: game/characters:632
 msgctxt "game/characters:632:DefaultText"
 msgid "Guard Bachmeyer"
-msgstr ""
+msgstr "Strážce Bachmeyer"
 
 #: game/characters:633
 msgctxt "game/characters:633:DefaultText"
 msgid "Rizzo Security"
-msgstr ""
+msgstr "Rizzo Security"
 
 #: game/characters:634
 msgctxt "game/characters:634:DefaultText"
 msgid "Rizzo Security"
-msgstr ""
+msgstr "Rizzo Security"
 
 #: game/characters:635
 msgctxt "game/characters:635:DefaultText"
 msgid "Raptidon"
-msgstr ""
+msgstr "Raptidon"
 
 #: game/characters:641
 msgctxt "game/characters:641:DefaultText"
 msgid "Stella Grant"
-msgstr ""
+msgstr "Stella Grantová"
 
 #: game/characters:643
 msgctxt "game/characters:643:DefaultText"
 msgid "Confectioner"
-msgstr ""
+msgstr "Cukrárna"
 
 #: game/characters:644
 msgctxt "game/characters:644:DefaultText"
 msgid "Confectioner"
-msgstr ""
+msgstr "Cukrárna"
 
 #: game/characters:645
 msgctxt "game/characters:645:DefaultText"
 msgid "Guard Esparza"
-msgstr ""
+msgstr "Strážce Esparza"
 
 #: game/characters:646
 msgctxt "game/characters:646:DefaultText"
 msgid "Retirement Facilitation Drone"
-msgstr ""
+msgstr "Dron pro usnadnění odchodu do důchodu"
 
 #: game/characters:647
 msgctxt "game/characters:647:DefaultText"
 msgid "Dr. Wanda Dorsett"
-msgstr ""
+msgstr "Dr. Wanda Dorsett"
 
 #: game/characters:648
 msgctxt "game/characters:648:DefaultText"
 msgid "Captain Irion"
-msgstr ""
+msgstr "Kapitán Irion"
 
 #: game/characters:649
 msgctxt "game/characters:649:DefaultText"
 msgid "Janitor"
-msgstr ""
+msgstr "Údržbář"
 
 #: game/characters:650
 msgctxt "game/characters:650:DefaultText"
 msgid "Gardener"
-msgstr ""
+msgstr "Zahradník"
 
 #: game/characters:651
 msgctxt "game/characters:651:DefaultText"
 msgid "Ad Drone"
-msgstr ""
+msgstr "Ad Drone"
 
 #: game/characters:652
 msgctxt "game/characters:652:DefaultText"
 msgid "Bounty Drone"
-msgstr ""
+msgstr "Bounty Drone"
 
 #: game/characters:653
 msgctxt "game/characters:653:DefaultText"
 msgid "Cargo Loader"
-msgstr ""
+msgstr "Nakladač nákladu"
 
 #: game/characters:654
 msgctxt "game/characters:654:DefaultText"
 msgid "Captain MacRedd"
-msgstr ""
+msgstr "Kapitán MacRedd"
 
 #: game/characters:655
 msgctxt "game/characters:655:DefaultText"
 msgid "Sophia Akande"
-msgstr ""
+msgstr "Sophia Akande"
 
 #: game/characters:657
 msgctxt "game/characters:657:DefaultText"
 msgid "Sprat Exterminator"
-msgstr ""
+msgstr "Deratizátor šprotů"
 
 #: game/characters:658
 msgctxt "game/characters:658:DefaultText"
 msgid "Bred Worm"
-msgstr ""
+msgstr "Chovaný červ"
 
 #: game/characters:659
 msgctxt "game/characters:659:DefaultText"
 msgid "Leather Boa"
-msgstr ""
+msgstr "Kožená boa"
 
 #: game/characters:660
 msgctxt "game/characters:660:DefaultText"
 msgid "Wealthy Citizen"
-msgstr ""
+msgstr "Bohatý občan"
 
 #: game/characters:664
 msgctxt "game/characters:664:DefaultText"
 msgid "Guard"
-msgstr ""
+msgstr "Strážce"
 
 #: game/characters:665
 msgctxt "game/characters:665:DefaultText"
 msgid "Guard"
-msgstr ""
+msgstr "Strážce"
 
 #: game/characters:666
 msgctxt "game/characters:666:DefaultText"
 msgid "Dear Fellow"
-msgstr ""
+msgstr "Vážený kolego"
 
 #: game/characters:667
 msgctxt "game/characters:667:DefaultText"
 msgid "Good Man"
-msgstr ""
+msgstr "Dobrý člověk"
 
 #: game/characters:675
 msgctxt "game/characters:675:DefaultText"
 msgid "Unidentified Contact"
-msgstr ""
+msgstr "Neidentifikovaný kontakt"
 
 #: game/characters:678
 msgctxt "game/characters:678:DefaultText"
 msgid "Halcyon News Announcer"
-msgstr ""
+msgstr "Hlasatel zpráv Halcyon"
 
 #: game/characters:679
 msgctxt "game/characters:679:DefaultText"
 msgid "Assassin"
-msgstr ""
+msgstr "Assassin"
 
 #: game/characters:681
 msgctxt "game/characters:681:DefaultText"
 msgid "Soldier"
-msgstr ""
+msgstr "Voják"
 
 #: game/characters:682
 msgctxt "game/characters:682:DefaultText"
 msgid "Soldier"
-msgstr ""
+msgstr "Voják"
 
 #: game/characters:683
 msgctxt "game/characters:683:DefaultText"
 msgid "Prisoner"
-msgstr ""
+msgstr "Vězeň"
 
 #: game/characters:684
 msgctxt "game/characters:684:DefaultText"
 msgid "Prisoner"
-msgstr ""
+msgstr "Vězeň"
 
 #: game/characters:686
 msgctxt "game/characters:686:DefaultText"
 msgid "Medical Auto-Mechanical"
-msgstr ""
+msgstr "Zdravotnická automechanika"
 
 #: game/characters:688
 msgctxt "game/characters:688:DefaultText"
 msgid "Narrator"
-msgstr ""
+msgstr "Vypravěč"
 
 #: game/characters:689
 msgctxt "game/characters:689:DefaultText"
 msgid "Damaged Hover Mechanical"
-msgstr ""
+msgstr "Poškozený Hover Mechanical"
 
 #: game/characters:690
 msgctxt "game/characters:690:DefaultText"
 msgid "Chatter Box"
-msgstr ""
+msgstr "Chatter Box"
 
 #: game/characters:691
 msgctxt "game/characters:691:DefaultText"
 msgid "Holistic Automechanical Life Preservation Unit"
-msgstr ""
+msgstr "Holistická automechanická jednotka pro zachování života"
 
 #: game/characters:692
 msgctxt "game/characters:692:DefaultText"
 msgid "Damaged Hover Mechanical"
-msgstr ""
+msgstr "Poškozený Hover Mechanical"
 
 #: game/characters:693
 msgctxt "game/characters:693:DefaultText"
 msgid "Damaged Hover Mechanical"
-msgstr ""
+msgstr "Poškozený Hover Mechanical"
 
 #: game/characters:694
 msgctxt "game/characters:694:DefaultText"
 msgid "Damaged Hover Mechanical"
-msgstr ""
+msgstr "Poškozený Hover Mechanical"
 
 #: game/characters:695
 msgctxt "game/characters:695:DefaultText"
 msgid "Bullseye"
-msgstr ""
+msgstr "Bullseye"
 
 #: game/characters:696
 msgctxt "game/characters:696:DefaultText"
 msgid "Prisoner"
-msgstr ""
+msgstr "Vězeň"
 
 #: game/characters:697
 msgctxt "game/characters:697:DefaultText"
 msgid "Beckett Van Acker"
-msgstr ""
+msgstr "Beckett Van Acker"
 
 #: game/characters:698
 msgctxt "game/characters:698:DefaultText"
 msgid "Phineas Welles"
-msgstr ""
+msgstr "Phineas Welles"
 
 #: game/characters:699
 msgctxt "game/characters:699:DefaultText"
 msgid "Lab PA System"
-msgstr ""
+msgstr "Laboratorní PA systém"
 
 #: game/characters:700
 msgctxt "game/characters:700:DefaultText"
 msgid "Clever Cora"
-msgstr ""
+msgstr "Chytrá Cora"
 
 #: game/characters:701
 msgctxt "game/characters:701:DefaultText"
 msgid "Insurance Agent"
-msgstr ""
+msgstr "Pojišťovací agent"
 
 #: game/characters:702
 msgctxt "game/characters:702:DefaultText"
 msgid "Outlaw"
-msgstr ""
+msgstr "Outlaw"
 
 #: game/characters:703
 msgctxt "game/characters:703:DefaultText"
 msgid "Outlaw"
-msgstr ""
+msgstr "Outlaw"
 
 #: game/characters:704
 msgctxt "game/characters:704:DefaultText"
 msgid "Outlaw"
-msgstr ""
+msgstr "Outlaw"
 
 #: game/characters:705
 msgctxt "game/characters:705:DefaultText"
 msgid "Outlaw Striker"
-msgstr ""
+msgstr "Outlaw Striker"
 
 #: game/characters:706
 msgctxt "game/characters:706:DefaultText"
 msgid "Outlaw Squad Leader"
-msgstr ""
+msgstr "Velitel oddílu psanců"
 
 #: game/characters:707
 msgctxt "game/characters:707:DefaultText"
 msgid "Outlaw Sniper"
-msgstr ""
+msgstr "Odstřelovač mimo zákon"
 
 #: game/characters:708
 msgctxt "game/characters:708:DefaultText"
 msgid "Opal"
-msgstr ""
+msgstr "Opál"
 
 #: game/characters:709
 msgctxt "game/characters:709:DefaultText"
 msgid "Anderson"
-msgstr ""
+msgstr "Anderson"
 
 #: game/characters:710
 msgctxt "game/characters:710:DefaultText"
 msgid "Clara"
-msgstr ""
+msgstr "Clara"
 
 #: game/characters:711
 msgctxt "game/characters:711:DefaultText"
 msgid "Rebekah"
-msgstr ""
+msgstr "Rebekah"
 
 #: game/characters:712
 msgctxt "game/characters:712:DefaultText"
 msgid "Cacow"
-msgstr ""
+msgstr "Cacow"
 
 #: game/characters:713
 msgctxt "game/characters:713:DefaultText"
 msgid "Cleo Recruit"
-msgstr ""
+msgstr "Cleo Recruit"
 
 #: game/characters:714
 msgctxt "game/characters:714:DefaultText"
 msgid "HOPE"
-msgstr ""
+msgstr "HOPE"
 
 #: game/characters:715
 msgctxt "game/characters:715:DefaultText"
 msgid "Spacer's Choice Lieutenant"
-msgstr ""
+msgstr "Spacer's Choice Lieutenant"
 
 #: game/characters:717
 msgctxt "game/characters:717:DefaultText"
 msgid "Hope Security Sentry"
-msgstr ""
+msgstr "Hope Security Sentry"
 
 #: game/characters:718
 msgctxt "game/characters:718:DefaultText"
 msgid "Heatseeker"
-msgstr ""
+msgstr "Heatseeker"
 
 #: game/characters:719
 msgctxt "game/characters:719:DefaultText"
 msgid "Big Gun"
-msgstr ""
+msgstr "Velká zbraň"
 
 #: game/characters:720
 msgctxt "game/characters:720:DefaultText"
 msgid "Orthrus"
-msgstr ""
+msgstr "Orthrus"
 
 #: game/characters:721
 msgctxt "game/characters:721:DefaultText"
 msgid "Kobalos"
-msgstr ""
+msgstr "Kobalos"
 
 #: game/characters:722
 msgctxt "game/characters:722:DefaultText"
 msgid "Gigantes"
-msgstr ""
+msgstr "Gigantes"
 
 #: game/characters:723
 msgctxt "game/characters:723:DefaultText"
 msgid "Col. Butterscotch"
-msgstr ""
+msgstr "Plukovník Butterscotch"
 
 #: game/characters:724
 msgctxt "game/characters:724:DefaultText"
 msgid "Sinis"
-msgstr ""
+msgstr "Sinis"
 
 #: game/characters:725
 msgctxt "game/characters:725:DefaultText"
 msgid "Bonny"
-msgstr ""
+msgstr "Bonny"
 
 #: game/characters:726
 msgctxt "game/characters:726:DefaultText"
 msgid "Squealer"
-msgstr ""
+msgstr "Squealer"
 
 #: game/characters:727
 msgctxt "game/characters:727:DefaultText"
 msgid "Mantiqueen"
-msgstr ""
+msgstr "Mantiqueen"
 
 #: game/characters:728
 msgctxt "game/characters:728:DefaultText"
 msgid "Karkinos"
-msgstr ""
+msgstr "Karkinos"
 
 #: game/characters:729
 msgctxt "game/characters:729:DefaultText"
 msgid "Brain Shake"
-msgstr ""
+msgstr "Brain Shake"
 
 #: game/characters:730
 msgctxt "game/characters:730:DefaultText"
 msgid "Chimera"
-msgstr ""
+msgstr "Chiméra"
 
 #: game/characters:731
 msgctxt "game/characters:731:DefaultText"
 msgid "Euryale"
-msgstr ""
+msgstr "Euryale"
 
 #: game/characters:732
 msgctxt "game/characters:732:DefaultText"
 msgid "Stheno"
-msgstr ""
+msgstr "Stheno"
 
 #: game/characters:733
 msgctxt "game/characters:733:DefaultText"
 msgid "Guard Pelham"
-msgstr ""
+msgstr "Strážce Pelham"
 
 #: game/characters:734
 msgctxt "game/characters:734:DefaultText"
 msgid "Lieutenant Mercer"
-msgstr ""
+msgstr "Poručík Mercer"
 
 #: game/characters:735
 msgctxt "game/characters:735:DefaultText"
 msgid "Private Kimball"
-msgstr ""
+msgstr "Vojín Kimball"
 
 #: game/characters:737
 msgctxt "game/characters:737:DefaultText"
 msgid "Chicken"
-msgstr ""
+msgstr "Kuře"
 
 #: game/characters:738
 msgctxt "game/characters:738:DefaultText"
 msgid "Cathy"
-msgstr ""
+msgstr "Cathy"
 
 #: game/characters:739
 msgctxt "game/characters:739:DefaultText"
 msgid "Nicole"
-msgstr ""
+msgstr "Nicole"
 
 #: game/characters:740
 msgctxt "game/characters:740:DefaultText"
 msgid "Spacer's Choice Unit Commander"
-msgstr ""
+msgstr "Velitel jednotky Spacer's Choice"
 
 #: game/characters:741
 msgctxt "game/characters:741:DefaultText"
 msgid "Ernest"
-msgstr ""
+msgstr "Ernest"
 
 #: game/characters:742
 msgctxt "game/characters:742:DefaultText"
 msgid "Soldier"
-msgstr ""
+msgstr "Voják"
 
 #: game/characters:743
 msgctxt "game/characters:743:DefaultText"
 msgid "UDL Worker"
-msgstr ""
+msgstr "Pracovník UDL"
 
 #: game/characters:744
 msgctxt "game/characters:744:DefaultText"
 msgid "Jeremy"
-msgstr ""
+msgstr "Jeremy"
 
 #: game/characters:745
 msgctxt "game/characters:745:DefaultText"
 msgid "Tartarus Docking Authority"
-msgstr ""
+msgstr "Dokovací úřad Tartarus"
 
 #: game/characters:746
 msgctxt "game/characters:746:DefaultText"
 msgid "Mega Canid"
-msgstr ""
+msgstr "Mega Canid"
 
 #: game/characters:747
 msgctxt "game/characters:747:DefaultText"
 msgid "Malfunctioning Sentry MK2"
-msgstr ""
+msgstr "Nefunkční Sentry MK2"
 
 #: game/characters:748
 msgctxt "game/characters:748:DefaultText"
 msgid "Malfunctioning Guardian MK1"
-msgstr ""
+msgstr "Nefunkční Guardian MK1"
 
 #: game/characters:749
 msgctxt "game/characters:749:DefaultText"
 msgid "Mega Primal"
-msgstr ""
+msgstr "Mega Primal"
 
 #: game/characters:750
 msgctxt "game/characters:750:DefaultText"
 msgid "Mega Mantipillar"
-msgstr ""
+msgstr "Mega Mantipillar"
 
 #: game/characters:751
 msgctxt "game/characters:751:DefaultText"
 msgid "Mega Mantiqueen"
-msgstr ""
+msgstr "Mega Mantiqueen"
 
 #: game/characters:752
 msgctxt "game/characters:752:DefaultText"
 msgid "Mega Mantisaur"
-msgstr ""
+msgstr "Mega kudlanka nábožná"
 
 #: game/characters:753
 msgctxt "game/characters:753:DefaultText"
 msgid "Mega Mantiswarm"
-msgstr ""
+msgstr "Mega Mantiswarm"
 
 #: game/characters:754
 msgctxt "game/characters:754:DefaultText"
 msgid "Mega Raptidon"
-msgstr ""
+msgstr "Mega Raptidon"
 
 #: game/characters:755
 msgctxt "game/characters:755:DefaultText"
 msgid "Mega Dart Drone"
-msgstr ""
+msgstr "Mega Dart Drone"
 
 #: game/characters:756
 msgctxt "game/characters:756:DefaultText"
 msgid "Mega Sentry Mechanical"
-msgstr ""
+msgstr "Mega Sentry Mechanical"
 
 #: game/characters:757
 msgctxt "game/characters:757:DefaultText"
 msgid "Mega Sprat"
-msgstr ""
+msgstr "Mega Sprat"
 
 #: game/characters:758
 msgctxt "game/characters:758:DefaultText"
 msgid "Board Agent"
-msgstr ""
+msgstr "Agent představenstva"
 
 #: game/characters:759
 msgctxt "game/characters:759:DefaultText"
 msgid "ADA"
-msgstr ""
+msgstr "ADA"
 
 #: game/characters:760
 msgctxt "game/characters:760:DefaultText"
 msgid "Jane Elson"
-msgstr ""
+msgstr "Jane Elsonová"
 
 #: game/characters:763
 msgctxt "game/characters:763:DefaultText"
 msgid "Herbert"
-msgstr ""
+msgstr "Herbert"
 
 #: game/characters:764
 msgctxt "game/characters:764:DefaultText"
 msgid "Board Trooper"
-msgstr ""
+msgstr "Palubní deska Trooper"
 
 #: game/characters:765
 msgctxt "game/characters:765:DefaultText"
 msgid "UDL Assault Trooper"
-msgstr ""
+msgstr "Útočný voják UDL"
 
 #: game/characters:772
 msgctxt "game/characters:772:DefaultText"
 msgid "R.A.M."
-msgstr ""
+msgstr "R.A.M."
 
 #: game/characters:773
 msgctxt "game/characters:773:DefaultText"
 msgid "Bertrand"
-msgstr ""
+msgstr "Bertrand"
 
 #: game/characters:774
 msgctxt "game/characters:774:DefaultText"
 msgid "Captain Hogarth"
-msgstr ""
+msgstr "Kapitán Hogarth"
 
 #: game/characters:775
 msgctxt "game/characters:775:DefaultText"
 msgid "Spacer's Choice Security"
-msgstr ""
+msgstr "Spacer's Choice Security"
 
 #: game/characters:776
 msgctxt "game/characters:776:DefaultText"
 msgid "Mini Malin"
-msgstr ""
+msgstr "Mini Malin"
 
 #: game/characters:777
 msgctxt "game/characters:777:DefaultText"
 msgid "Sick Mardet"
-msgstr ""
+msgstr "Nemocný Mardet"
 
 #: game/characters:781
 msgctxt "game/characters:781:DefaultText"
 msgid "Mantisaur Soldier"
-msgstr ""
+msgstr "Kudlankový voják"
 
 #: game/characters:786
 msgctxt "game/characters:786:DefaultText"
 msgid "Retiree"
-msgstr ""
+msgstr "Důchodce"
 
 #: game/characters:787
 msgctxt "game/characters:787:DefaultText"
 msgid "Retiree"
-msgstr ""
+msgstr "Důchodce"
 
 #: game/characters:788
 msgctxt "game/characters:788:DefaultText"
 msgid "Assistant Director"
-msgstr ""
+msgstr "Asistent ředitele"
 
 #: game/characters:789
 msgctxt "game/characters:789:DefaultText"
 msgid "Kendrick Silva"
-msgstr ""
+msgstr "Kendrick Silva"
 
 #: game/characters:790
 msgctxt "game/characters:790:DefaultText"
 msgid "Big Damn Hero"
-msgstr ""
+msgstr "Velký zatracený hrdina"
 
 #: game/characters:791
 msgctxt "game/characters:791:DefaultText"
 msgid "Maynard Milburn"
-msgstr ""
+msgstr "Maynard Milburn"
 
 #: game/characters:792
 msgctxt "game/characters:792:DefaultText"
 msgid "Voelker"
-msgstr ""
+msgstr "Voelker"
 
 #: game/characters:793
 msgctxt "game/characters:793:DefaultText"
 msgid "Customer"
-msgstr ""
+msgstr "Zákazník"
 
 #: game/characters:794
 msgctxt "game/characters:794:DefaultText"
 msgid "Customer"
-msgstr ""
+msgstr "Zákazník"
 
 #: game/characters:795
 msgctxt "game/characters:795:DefaultText"
 msgid "Weston Sloan"
-msgstr ""
+msgstr "Weston Sloan"
 
 #: game/characters:796
 msgctxt "game/characters:796:DefaultText"
 msgid "Lenora Talley"
-msgstr ""
+msgstr "Lenora Talley"
 
 #: game/characters:797
 msgctxt "game/characters:797:DefaultText"
 msgid "Elroy Booth"
-msgstr ""
+msgstr "Elroy Booth"
 
 #: game/characters:798
 msgctxt "game/characters:798:DefaultText"
 msgid "Linna Kincannon"
-msgstr ""
+msgstr "Linna Kincannon"
 
 #: game/characters:799
 msgctxt "game/characters:799:DefaultText"
 msgid "Kendrick Raines"
-msgstr ""
+msgstr "Kendrick Raines"
 
 #: game/characters:800
 msgctxt "game/characters:800:DefaultText"
 msgid "Mads Gundersen"
-msgstr ""
+msgstr "Mads Gundersen"
 
 #: game/characters:801
 msgctxt "game/characters:801:DefaultText"
 msgid "Scruffles"
-msgstr ""
+msgstr "Scruffles"
 
 #: game/characters:802
 msgctxt "game/characters:802:DefaultText"
 msgid "Marlow"
-msgstr ""
+msgstr "Marlow"
 
 #: game/characters:803
 msgctxt "game/characters:803:DefaultText"
 msgid "Outlaw Sniper"
-msgstr ""
+msgstr "Odstřelovač mimo zákon"
 
 #: game/characters:804
 msgctxt "game/characters:804:DefaultText"
 msgid "Outlaw Ringleader"
-msgstr ""
+msgstr "Vůdce zločinců"
 
 #: game/characters:805
 msgctxt "game/characters:805:DefaultText"
 msgid "Outlaw Striker"
-msgstr ""
+msgstr "Outlaw Striker"
 
 #: game/characters:806
 msgctxt "game/characters:806:DefaultText"
 msgid "Outlaw Striker"
-msgstr ""
+msgstr "Outlaw Striker"
 
 #: game/characters:807
 msgctxt "game/characters:807:DefaultText"
 msgid "Outlaw"
-msgstr ""
+msgstr "Outlaw"
 
 #: game/characters:808
 msgctxt "game/characters:808:DefaultText"
 msgid "Outlaw"
-msgstr ""
+msgstr "Outlaw"
 
 #: game/characters:809
 msgctxt "game/characters:809:DefaultText"
 msgid "Julia Swanson"
-msgstr ""
+msgstr "Julia Swansonová"
 
 #: game/characters:810
 msgctxt "game/characters:810:DefaultText"
 msgid "Julia Shiomi"
-msgstr ""
+msgstr "Julia Shiomi"
 
 #: game/characters:811
 msgctxt "game/characters:811:DefaultText"
 msgid "Private Lettie Dixon"
-msgstr ""
+msgstr "Vojín Lettie Dixonová"
 
 #: game/characters:816
 msgctxt "game/characters:816:DefaultText"
 msgid "Odeon Pictures Fan"
-msgstr ""
+msgstr "Odeon Pictures Fanoušek"
 
 #: game/characters:817
 msgctxt "game/characters:817:DefaultText"
 msgid "Bubbles"
-msgstr ""
+msgstr "Bubliny"
 
 #: game/characters:818
 msgctxt "game/characters:818:DefaultText"
 msgid "Beacon Recording"
-msgstr ""
+msgstr "Nahrávání Beacon"
 
 #: game/characters:819
 msgctxt "game/characters:819:DefaultText"
 msgid "Corporate Recruit"
-msgstr ""
+msgstr "Firemní nábor"
 
 #: game/characters:820
 msgctxt "game/characters:820:DefaultText"
 msgid "Corporate Guard"
-msgstr ""
+msgstr "Firemní strážce"
 
 #: game/characters:821
 msgctxt "game/characters:821:DefaultText"
 msgid "Corporate Trooper"
-msgstr ""
+msgstr "Firemní voják"
 
 #: game/characters:822
 msgctxt "game/characters:822:DefaultText"
 msgid "Corporate Technician"
-msgstr ""
+msgstr "Firemní technik"
 
 #: game/characters:823
 msgctxt "game/characters:823:DefaultText"
 msgid "Corporate Commander"
-msgstr ""
+msgstr "Velitel společnosti"
 
 #: game/characters:824
 msgctxt "game/characters:824:DefaultText"
 msgid "Corporate Sentinel"
-msgstr ""
+msgstr "Corporate Sentinel"
 
 #: game/characters:825
 msgctxt "game/characters:825:DefaultText"
 msgid "Lab Sprat"
-msgstr ""
+msgstr "Laboratoř Sprat"
 
 #: game/characters:826
 msgctxt "game/characters:826:DefaultText"
 msgid "Abandoned Prospecting Drone"
-msgstr ""
+msgstr "Opuštěný průzkumný dron"
 
 #: game/characters:827
 msgctxt "game/characters:827:DefaultText"
 msgid "Marauder Hooligan"
-msgstr ""
+msgstr "Marauder Hooligan"
 
 #: game/characters:828
 msgctxt "game/characters:828:DefaultText"
 msgid "Wealthy Citizen"
-msgstr ""
+msgstr "Bohatý občan"
 
 #: game/characters:829
 msgctxt "game/characters:829:DefaultText"
 msgid "Wooly Cow"
-msgstr ""
+msgstr "Vlnitá kráva"
 
 #: game/characters:830
 msgctxt "game/characters:830:DefaultText"
 msgid "Rabid Sprat"
-msgstr ""
+msgstr "Vzteklý šprot"
 
 #: game/characters:831
 msgctxt "game/characters:831:DefaultText"
 msgid "Elite Mardet"
-msgstr ""
+msgstr "Elite Mardet"
 
 #: game/characters:833
 msgctxt "game/characters:833:DefaultText"
 msgid "Petey"
-msgstr ""
+msgstr "Petey"
 
 #: game/characters:834
 msgctxt "game/characters:834:DefaultText"
 msgid "UDL Assault Commander"
-msgstr ""
+msgstr "UDL Assault Commander"
 
 #: game/characters:835
 msgctxt "game/characters:835:DefaultText"
 msgid "Corporate Elite Guard"
-msgstr ""
+msgstr "Firemní elitní stráž"
 
 #: game/characters:836
 msgctxt "game/characters:836:DefaultText"
 msgid "Prisoner Captain"
-msgstr ""
+msgstr "Vězeňský kapitán"
 
 #: game/characters:837
 msgctxt "game/characters:837:DefaultText"
 msgid "Prisoner Regent"
-msgstr ""
+msgstr "Vězeňský regent"
 
 #: game/characters:838
 msgctxt "game/characters:838:DefaultText"
 msgid "Prisoner Enforcer"
-msgstr ""
+msgstr "Vězeňský dozorce"
 
 #: game/characters:839
 msgctxt "game/characters:839:DefaultText"
 msgid "Prisoner Soldier"
-msgstr ""
+msgstr "Vězeňský voják"
 
 #: game/characters:840
 msgctxt "game/characters:840:DefaultText"
 msgid "Prisoner Reprobate"
-msgstr ""
+msgstr "Vězeň Reprobate"
 
 #: game/characters:841
 msgctxt "game/characters:841:DefaultText"
 msgid "Prisoner Miscreant"
-msgstr ""
+msgstr "Vězeň Miscreant"
 
 #: game/characters:842
 msgctxt "game/characters:842:DefaultText"
 msgid "Giles Molina"
-msgstr ""
+msgstr "Giles Molina"
 
 #: game/characters:849
 msgctxt "game/characters:849:DefaultText"
 msgid "Lord Reginald Kim III"
-msgstr ""
+msgstr "Lord Reginald Kim III"
 
 #: game/characters:850
 msgctxt "game/characters:850:DefaultText"
 msgid "Lady Philippa Farnsworth"
-msgstr ""
+msgstr "Lady Philippa Farnsworthová"
 
 #: game/characters:851
 msgctxt "game/characters:851:DefaultText"
 msgid "Vonda von Vermington"
-msgstr ""
+msgstr "Vonda von Vermington"
 
 #: game/characters:852
 msgctxt "game/characters:852:DefaultText"
 msgid "Harun Greenlee"
-msgstr ""
+msgstr "Harun Greenlee"
 
 #: game/characters:853
 msgctxt "game/characters:853:DefaultText"
 msgid "Iskander Immanuel Sanchez"
-msgstr ""
+msgstr "Iskander Immanuel Sanchez"
 
 #: game/characters:854
 msgctxt "game/characters:854:DefaultText"
 msgid "Eveighlynn Ensley Okoye"
-msgstr ""
+msgstr "Eveighlynn Ensley Okoye"
 
 #: game/characters:855
 msgctxt "game/characters:855:DefaultText"
 msgid "MSI"
-msgstr ""
+msgstr "MSI"
 
 #: game/characters:856
 msgctxt "game/characters:856:DefaultText"
 msgid "MSI"
-msgstr ""
+msgstr "MSI"
 
 #: game/characters:859
 msgctxt "game/characters:859:DefaultText"
 msgid "Food Service Mechanical"
-msgstr ""
+msgstr "Strojní zařízení pro stravovací služby"
 
 #: game/characters:860
 msgctxt "game/characters:860:DefaultText"
 msgid "Digger Mechanical"
-msgstr ""
+msgstr "Digger Mechanical"
 
 #: game/characters:861
 msgctxt "game/characters:861:DefaultText"
 msgid "Automechanical Loader"
-msgstr ""
+msgstr "Automechanický nakladač"
 
 #: game/characters:862
 msgctxt "game/characters:862:DefaultText"
 msgid "Burbage-2000"
-msgstr ""
+msgstr "Burbage-2000"
 
 #: game/characters:863
 msgctxt "game/characters:863:DefaultText"
 msgid "Burbage-3000"
-msgstr ""
+msgstr "Burbage-3000"
 
 #: game/characters:875
 msgctxt "game/characters:875:DefaultText"
 msgid "Phineas' Ship Computer"
-msgstr ""
+msgstr "Phineasův lodní počítač"
 
 #: game/characters:876
 msgctxt "game/characters:876:DefaultText"
 msgid "Ad Man"
-msgstr ""
+msgstr "Ad Man"
 
 #: game/characters:877
 msgctxt "game/characters:877:DefaultText"
 msgid "Unidentified Broadcaster"
-msgstr ""
+msgstr "Neznámý hlasatel"
 
 #: game/characters:896
 msgctxt "game/characters:896:DefaultText"
 msgid "Timid Canid"
-msgstr ""
+msgstr "Nesmělý kanid"
 
 #: game/characters:913
 msgctxt "game/characters:913:DefaultText"
 msgid "MSI Recruit"
-msgstr ""
+msgstr "MSI Recruit"
 
 #: game/characters:914
 msgctxt "game/characters:914:DefaultText"
 msgid "MSI Guard"
-msgstr ""
+msgstr "MSI Guard"
 
 #: game/characters:915
 msgctxt "game/characters:915:DefaultText"
 msgid "MSI Trooper"
-msgstr ""
+msgstr "MSI Trooper"
 
 #: game/characters:916
 msgctxt "game/characters:916:DefaultText"
 msgid "MSI Technician"
-msgstr ""
+msgstr "Technik MSI"
 
 #: game/characters:917
 msgctxt "game/characters:917:DefaultText"
 msgid "MSI Commander"
-msgstr ""
+msgstr "MSI Commander"
 
 #: game/characters:918
 msgctxt "game/characters:918:DefaultText"
 msgid "MSI Sentinel"
-msgstr ""
+msgstr "MSI Sentinel"
 
 #: game/characters:945
 msgctxt "game/characters:945:DefaultText"
 msgid "Pungent Primal Behemoth"
-msgstr ""
+msgstr "Pungent Primal Behemoth"
 
 #: game/characters:946
 msgctxt "game/characters:946:DefaultText"
 msgid "Strangely Dressed Marauder"
-msgstr ""
+msgstr "Podivně oblečený nájezdník"
 
 #: game/characters:947
 msgctxt "game/characters:947:DefaultText"
 msgid "Vending Machine"
-msgstr ""
+msgstr "Prodejní automat"
 
 #: game/characters:1123
 msgctxt "game/characters:1123:DefaultText"
 msgid "Serialized Law & Organization Guardian"
-msgstr ""
+msgstr "Serializované právo & organizace Guardian"

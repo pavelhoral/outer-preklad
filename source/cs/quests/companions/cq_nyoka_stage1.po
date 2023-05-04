@@ -1,196 +1,196 @@
 #: quests/companions/cq_nyoka_stage1:0
 msgctxt "quests/companions/cq_nyoka_stage1:0:DefaultText"
 msgid "Star-Crossed Troopers"
-msgstr ""
+msgstr "Hvězdně zkřížení vojáci"
 
 #: quests/companions/cq_nyoka_stage1:1
 msgctxt "quests/companions/cq_nyoka_stage1:1:DefaultText"
 msgid "Visit Hayes' Grave with Nyoka"
-msgstr ""
+msgstr "Návštěva Hayesova hrobu s Nyokou"
 
 #: quests/companions/cq_nyoka_stage1:4
 msgctxt "quests/companions/cq_nyoka_stage1:4:DefaultText"
 msgid "Give Nyoka the Medallion"
-msgstr ""
+msgstr "Dej Nyoce medailon"
 
 #: quests/companions/cq_nyoka_stage1:8
 msgctxt "quests/companions/cq_nyoka_stage1:8:DefaultText"
 msgid "Ask Hiram for Help"
-msgstr ""
+msgstr "Požádejte společnost Hiram o pomoc"
 
 #: quests/companions/cq_nyoka_stage1:9
 msgctxt "quests/companions/cq_nyoka_stage1:9:DefaultText"
 msgid "Wait for Nyoka's Research"
-msgstr ""
+msgstr "Počkejte na Nyokův výzkum"
 
 #: quests/companions/cq_nyoka_stage1:10
 msgctxt "quests/companions/cq_nyoka_stage1:10:DefaultText"
 msgid "Search the Outpost"
-msgstr ""
+msgstr "Prohledat základnu"
 
 #: quests/companions/cq_nyoka_stage1:11
 msgctxt "quests/companions/cq_nyoka_stage1:11:DefaultText"
 msgid "Speak to Nyoka"
-msgstr ""
+msgstr "Promluvte si s Nyokou"
 
 #: quests/companions/cq_nyoka_stage1:12
 msgctxt "quests/companions/cq_nyoka_stage1:12:DefaultText"
 msgid "Speak to Nyoka"
-msgstr ""
+msgstr "Promluvte si s Nyokou"
 
 #: quests/companions/cq_nyoka_stage1:13
 msgctxt "quests/companions/cq_nyoka_stage1:13:DefaultText"
 msgid "Collect 3 Pheromone Glands from Pungent Primals"
-msgstr ""
+msgstr "Sbírejte 3 feromonové žlázy od ostrých primátů"
 
 #: quests/companions/cq_nyoka_stage1:14
 msgctxt "quests/companions/cq_nyoka_stage1:14:DefaultText"
 msgid "Speak to Nyoka"
-msgstr ""
+msgstr "Promluvte si s Nyokou"
 
 #: quests/companions/cq_nyoka_stage1:15
 msgctxt "quests/companions/cq_nyoka_stage1:15:DefaultText"
 msgid "Clear Out Nyoka's Old Base"
-msgstr ""
+msgstr "Vyklizení staré základny Nyoka"
 
 #: quests/companions/cq_nyoka_stage1:16
 msgctxt "quests/companions/cq_nyoka_stage1:16:DefaultText"
 msgid "Search the Hive for the Remains of Nyoka's Friends"
-msgstr ""
+msgstr "Hledání pozůstatků Nyokiných přátel v úlu"
 
 #: quests/companions/cq_nyoka_stage1:17
 msgctxt "quests/companions/cq_nyoka_stage1:17:DefaultText"
 msgid "Inspect the Mantisaur Feeding Grounds"
-msgstr ""
+msgstr "Prohlídka krmítek kudlanek nábožných"
 
 #: quests/companions/cq_nyoka_stage1:19
 msgctxt "quests/companions/cq_nyoka_stage1:19:DefaultText"
 msgid "Exterminate the Queen and her Hive"
-msgstr ""
+msgstr "Vyhlazení královny a jejího úlu"
 
 #: quests/companions/cq_nyoka_stage1:21
 msgctxt "quests/companions/cq_nyoka_stage1:21:DefaultText"
 msgid "Speak to Nyoka"
-msgstr ""
+msgstr "Promluvte si s Nyokou"
 
 #: quests/companions/cq_nyoka_stage1:10000
 msgctxt "quests/companions/cq_nyoka_stage1:10000:DefaultText"
 msgid "Nyoka is looking for some closure regarding her old team. The first stop is a grave where she personally buried a man named Hayes."
-msgstr ""
+msgstr "Nyoka se snaží uzavřít vztahy se svým bývalým týmem. První zastávkou je hrob, kde osobně pohřbila muže jménem Hayes."
 
 #: quests/companions/cq_nyoka_stage1:10001
 msgctxt "quests/companions/cq_nyoka_stage1:10001:DefaultText"
 msgid "Nyoka gave you directions to a spot on Monarch, where she buried Hayes, a member of her old crew."
-msgstr ""
+msgstr "Nyoka tě nasměrovala na místo na Monarchu, kde pohřbila Hayese, člena své bývalé posádky."
 
 #: quests/companions/cq_nyoka_stage1:10004
 msgctxt "quests/companions/cq_nyoka_stage1:10004:DefaultText"
 msgid "You found a medallion with the word \"CHARON\" on it."
-msgstr ""
+msgstr "Našel jsi medailon s nápisem CHARON."
 
 #: quests/companions/cq_nyoka_stage1:10008
 msgctxt "quests/companions/cq_nyoka_stage1:10008:DefaultText"
 msgid "Nyoka believes the information broker can track down her lost friends."
-msgstr ""
+msgstr "Nyoka věří, že zprostředkovatel informací dokáže vypátrat její ztracené přátele."
 
 #: quests/companions/cq_nyoka_stage1:10009
 msgctxt "quests/companions/cq_nyoka_stage1:10009:DefaultText"
 msgid "Nyoka needs to do some digging to try and track down her old friends' contract. She'll let you know when she's found it."
-msgstr ""
+msgstr "Nyoka musí trochu zapátrat a pokusit se najít smlouvu svých starých přátel. Až ji najde, dá vám vědět."
 
 #: quests/companions/cq_nyoka_stage1:10010
 msgctxt "quests/companions/cq_nyoka_stage1:10010:DefaultText"
 msgid "Rebekah and Anders were hired to clear an infestation out of an expansion site for Edgewater that Spacer's Choice abandoned in Emerald Vale. Head there with Nyoka and see if they're still alive."
-msgstr ""
+msgstr "Rebeka a Anders byli najati, aby vyčistili zamořený pozemek pro rozšíření Edgewateru, který Spacer's Choice opustila v Emerald Vale. Vydejte se tam s Nyokou a zjistěte, zda jsou stále naživu."
 
 #: quests/companions/cq_nyoka_stage1:10011
 msgctxt "quests/companions/cq_nyoka_stage1:10011:DefaultText"
 msgid "With the broker dead, hopefully there's another option for finding Nyoka's friends."
-msgstr ""
+msgstr "Když je makléř mrtvý, doufejme, že existuje další možnost, jak najít Nyokiny přátele."
 
 #: quests/companions/cq_nyoka_stage1:10012
 msgctxt "quests/companions/cq_nyoka_stage1:10012:DefaultText"
 msgid "That's three medallions out of six. Speak to Nyoka about what to do next."
-msgstr ""
+msgstr "To jsou tři medailonky ze šesti. Promluvte si s Nyokou o tom, co dělat dál."
 
 #: quests/companions/cq_nyoka_stage1:10013
 msgctxt "quests/companions/cq_nyoka_stage1:10013:DefaultText"
 msgid "The mantiqueen will only come out if it thinks a threat is invading its territory. A few Primal glands will do the trick. Nyoka suggested Scylla as prime hunting ground."
-msgstr ""
+msgstr "Mantichora se objeví pouze v případě, že se domnívá, že její území ohrožuje někdo jiný. Několik prvotních žláz stačí. Nyoka navrhla Scyllu jako hlavní loviště."
 
 #: quests/companions/cq_nyoka_stage1:10014
 msgctxt "quests/companions/cq_nyoka_stage1:10014:DefaultText"
 msgid "Give these gross glands to Nyoka. Then find a place to wash your hands."
-msgstr ""
+msgstr "Dejte tyto hrubé žlázy Nyoce. Pak si najděte místo, kde si můžete umýt ruce."
 
 #: quests/companions/cq_nyoka_stage1:10015
 msgctxt "quests/companions/cq_nyoka_stage1:10015:DefaultText"
 msgid "It's time to head to Nyoka's old base, a cave on Monarch, in the region between Fallbrook and Cascadia.\r\n"
 "\r\n"
 "Clear out any Mantisaurs before searching for a spot to place the pheromones."
-msgstr ""
+msgstr "Je čas vydat se do Nyokovy staré základny, jeskyně na Monarchu v oblasti mezi Fallbrookem a Kaskádií. Než začnete hledat místo, kam umístit feromony, vyčistěte všechny kudlanky."
 
 #: quests/companions/cq_nyoka_stage1:10016
 msgctxt "quests/companions/cq_nyoka_stage1:10016:DefaultText"
 msgid "Opal and Clara's bodies are in the caves somewhere. Find their remains and retrieve their medallions."
-msgstr ""
+msgstr "Těla Opal a Clary jsou někde v jeskyních. Najdi jejich ostatky a získej jejich medailonky."
 
 #: quests/companions/cq_nyoka_stage1:10017
 msgctxt "quests/companions/cq_nyoka_stage1:10017:DefaultText"
 msgid "When you're ready, head to the feeding grounds to disperse the pheromones and lure out the queen."
-msgstr ""
+msgstr "Až budete připraveni, vydejte se na krmná místa, abyste rozptýlili feromony a vylákali královnu."
 
 #: quests/companions/cq_nyoka_stage1:10019
 msgctxt "quests/companions/cq_nyoka_stage1:10019:DefaultText"
 msgid "Here they come. Kill the brood until the mantiqueen shows up. Then kill her, too."
-msgstr ""
+msgstr "Už jsou tady. Zabíjejte hejno, dokud se neobjeví mantikén. Pak ji zabij taky."
 
 #: quests/companions/cq_nyoka_stage1:10021
 msgctxt "quests/companions/cq_nyoka_stage1:10021:DefaultText"
 msgid "The mantiqueen is dead and you've recovered Clara and Opal's medallions. Check in with Nyoka."
-msgstr ""
+msgstr "Mantikén je mrtvý a ty jsi získal medailonky Clary a Opal. Zkontroluj Nyoku."
 
 #: quests/companions/cq_nyoka_stage1:20000
 msgctxt "quests/companions/cq_nyoka_stage1:20000:DefaultText"
 msgid "You found Rebekah's remains and retrieved her medallion."
-msgstr ""
+msgstr "Našel jsi Rebečiny ostatky a získal její medailon."
 
 #: quests/companions/cq_nyoka_stage1:20001
 msgctxt "quests/companions/cq_nyoka_stage1:20001:DefaultText"
 msgid "You found Anderson's remains and retrieved his medallion."
-msgstr ""
+msgstr "Našel jsi Andersonovy ostatky a získal jeho medailon."
 
 #: quests/companions/cq_nyoka_stage1:20002
 msgctxt "quests/companions/cq_nyoka_stage1:20002:DefaultText"
 msgid "You retrieved Opal's medallion."
-msgstr ""
+msgstr "Získal jsi Opalův medailon."
 
 #: quests/companions/cq_nyoka_stage1:20003
 msgctxt "quests/companions/cq_nyoka_stage1:20003:DefaultText"
 msgid "You retrieved Clara's medallion."
-msgstr ""
+msgstr "Získal jsi Clařin medailon."
 
 #: quests/companions/cq_nyoka_stage1:20004
 msgctxt "quests/companions/cq_nyoka_stage1:20004:DefaultText"
 msgid "After running aw- er, making a strategic retreat from the base, Nyoka informed you that the mantisaurs have likely retreated to their tunnels. You'll need to release more pheromones to rile them up again."
-msgstr ""
+msgstr "Po útěku ze základny a strategickém ústupu vás Nyoka informovala, že se mantisauři pravděpodobně stáhli do svých tunelů. Budeš muset vypustit další feromony, abys je znovu vyburcoval."
 
 #: quests/companions/cq_nyoka_stage1:20005
 msgctxt "quests/companions/cq_nyoka_stage1:20005:DefaultText"
 msgid "(<oeiglobal>CQ_Nyoka_GlandsCollectedCount</oeiglobal>/<oeiglobal>CQ_Nyoka_GlandsCollectedMax</oeiglobal>) Pheromone Glands collected."
-msgstr ""
+msgstr "(<oeiglobal>CQ_Nyoka_GlandsCollectedCount</oeiglobal>/<oeiglobal>CQ_Nyoka_GlandsCollectedMax</oeiglobal>) Sesbírané feromonové žlázy."
 
 #: quests/companions/cq_nyoka_stage1:30000
 msgctxt "quests/companions/cq_nyoka_stage1:30000:DefaultText"
 msgid "You defeated the mantiqueen and retrieved the last two medallions belonging to Nyoka's old crew, helping her gain some much-needed closure."
-msgstr ""
+msgstr "Porazil jsi mantikéna a získal jsi poslední dva medailony, které patřily Nyokině bývalé posádce, a pomohl jí tak získat tolik potřebný klid."
 
 #: quests/companions/cq_nyoka_stage1:30001
 msgctxt "quests/companions/cq_nyoka_stage1:30001:DefaultText"
 msgid "Nyoka is currently occupying her own grave, and no longer cares about her friends'."
-msgstr ""
+msgstr "Nyoka v současné době obývá svůj vlastní hrob a o hrob svých přátel se již nestará."
 
 #: quests/companions/cq_nyoka_stage1:30002
 msgctxt "quests/companions/cq_nyoka_stage1:30002:DefaultText"
 msgid "Nyoka left and isn't coming back. If she ever finishes this task, it would be on her own."
-msgstr ""
+msgstr "Nyoka odešla a už se nevrátí. Pokud někdy dokončí tento úkol, bude to na vlastní pěst."

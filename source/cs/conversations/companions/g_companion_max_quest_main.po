@@ -1,764 +1,764 @@
 #: conversations/companions/g_companion_max_quest_main:1
 msgctxt "conversations/companions/g_companion_max_quest_main:1:DefaultText"
 msgid "I've been thinking on that. There's a former assoc... er, infamous Philosophist scholar who fled Terra 2 some years ago. He's an expert on Bakonu. "
-msgstr ""
+msgstr "Přemýšlel jsem o tom. Jeden bývalý docent... ehm, nechvalně známý filosofický učenec před několika lety uprchl z Terry 2. Je to expert na Bakonu. "
 
 #: conversations/companions/g_companion_max_quest_main:2
 msgctxt "conversations/companions/g_companion_max_quest_main:2:DefaultText"
 msgid "Of course. Are you ready to break into security on the Groundbreaker? "
-msgstr ""
+msgstr "Samozřejmě. Jste připraveni proniknout do zabezpečení na Groundbreakeru? "
 
 #: conversations/companions/g_companion_max_quest_main:3
 msgctxt "conversations/companions/g_companion_max_quest_main:3:DefaultText"
 msgid "Yes, I've been meaning to discuss exactly that. Now that we know where... uh, the scholar is, when will we be searching him out?"
-msgstr ""
+msgstr "Ano, přesně o tom jsem chtěl mluvit. Teď, když víme, kde... ehm, ten učenec je, kdy ho budeme hledat?"
 
 #: conversations/companions/g_companion_max_quest_main:4
 msgctxt "conversations/companions/g_companion_max_quest_main:4:DefaultText"
 msgid "There it is. Just yank the drive and I'll do the rest."
-msgstr ""
+msgstr "Tady je. Jen vytáhněte disk a já udělám zbytek."
 
 #: conversations/companions/g_companion_max_quest_main:6
 msgctxt "conversations/companions/g_companion_max_quest_main:6:DefaultText"
 msgid "I want to thank you for not interfering back there with Chaney."
-msgstr ""
+msgstr "Chci ti poděkovat, že jsi tam s Chaneym nezasahoval."
 
 #: conversations/companions/g_companion_max_quest_main:7
 msgctxt "conversations/companions/g_companion_max_quest_main:7:DefaultText"
 msgid "I must admit to a certain anxiousness. To be able to... question Chaney, to get some answers from him. I feel, I don't know, young again. "
-msgstr ""
+msgstr "Musím přiznat, že jsem se cítil trochu nervózní. Mít možnost... Chaneyho vyslechnout, dostat od něj nějaké odpovědi. Cítím se, já nevím, zase mladá. "
 
 #: conversations/companions/g_companion_max_quest_main:8
 msgctxt "conversations/companions/g_companion_max_quest_main:8:DefaultText"
 msgid "I have dreamed of this moment for years. Soon, the answers will be in my hands."
-msgstr ""
+msgstr "O této chvíli jsem snil celé roky. Brzy budu mít odpovědi ve svých rukou."
 
 #: conversations/companions/g_companion_max_quest_main:12
 msgctxt "conversations/companions/g_companion_max_quest_main:12:DefaultText"
 msgid "It may seem silly, but, if you'd indulge me one last thing, I think I'd like to find this hermit he spoke of and give her the book. Maybe she can find some use for it."
-msgstr ""
+msgstr "Možná se to bude zdát hloupé, ale pokud mi dovolíte poslední věc, myslím, že bych rád našel toho poustevníka, o kterém mluvil, a dal jí tu knihu. Třeba pro ni najde nějaké využití."
 
 #: conversations/companions/g_companion_max_quest_main:13
 msgctxt "conversations/companions/g_companion_max_quest_main:13:DefaultText"
 msgid "That sounds like a good lead. But how do we find him?"
-msgstr ""
+msgstr "To zní jako dobrá stopa. Ale jak ho najdeme?"
 
 #: conversations/companions/g_companion_max_quest_main:14
 msgctxt "conversations/companions/g_companion_max_quest_main:14:DefaultText"
 msgid "That seems like a bit of a long shot. What makes you so sure?"
-msgstr ""
+msgstr "Zdá se, že je to trochu riskantní. Proč jste si tak jistý?"
 
 #: conversations/companions/g_companion_max_quest_main:15
 msgctxt "conversations/companions/g_companion_max_quest_main:15:DefaultText"
 msgid "Fortunately, we're in the perfect place to start. This is where I'd go if I wanted to get off Terra 2. Great place to pick up a ride to Hephaestus, Scylla, even Monarch."
-msgstr ""
+msgstr "Naštěstí se nacházíme na ideálním místě, kde můžeme začít. Sem bych se vydal, kdybych chtěl opustit Terru 2. Skvělé místo, kde se dá nabrat na cestu k Hefaistovi, Skylle, dokonce i k Monarchovi."
 
 #: conversations/companions/g_companion_max_quest_main:16
 msgctxt "conversations/companions/g_companion_max_quest_main:16:DefaultText"
 msgid "I'm anything but certain. But it's all I've got at the moment."
-msgstr ""
+msgstr "Nejsem si tím jistý. Ale to je vše, co mám v tuto chvíli k dispozici."
 
 #: conversations/companions/g_companion_max_quest_main:17
 msgctxt "conversations/companions/g_companion_max_quest_main:17:DefaultText"
 msgid "Got it! His name is, uh, Reginald Chaney and he joined a SubLight salvage crew. Only he's not listed on the return manifest. Must've made landfall somewhere he wasn't supposed to."
-msgstr ""
+msgstr "Mám to! Jmenuje se Reginald Chaney a přidal se k záchranné posádce SubLight. Jenže není uveden na zpátečním seznamu. Musel přistát někde, kde neměl."
 
 #: conversations/companions/g_companion_max_quest_main:19
 msgctxt "conversations/companions/g_companion_max_quest_main:19:DefaultText"
 msgid "How do we get there?"
-msgstr ""
+msgstr "Jak se tam dostaneme?"
 
 #: conversations/companions/g_companion_max_quest_main:20
 msgctxt "conversations/companions/g_companion_max_quest_main:20:DefaultText"
 msgid "Sounds good, let's go."
-msgstr ""
+msgstr "To zní dobře, jdeme."
 
 #: conversations/companions/g_companion_max_quest_main:21
 msgctxt "conversations/companions/g_companion_max_quest_main:21:DefaultText"
 msgid "This all seems awfully convenient."
-msgstr ""
+msgstr "Tohle všechno se zdá být strašně výhodné."
 
 #: conversations/companions/g_companion_max_quest_main:22
 msgctxt "conversations/companions/g_companion_max_quest_main:22:DefaultText"
 msgid "I admit it was a bit of a long shot, but when you've spent as many hours as I have in contemplation of the universe's secrets, you sometimes get a sense for these things."
-msgstr ""
+msgstr "Uznávám, že to byl trochu risk, ale když strávíte tolik hodin jako já rozjímáním o tajemstvích vesmíru, někdy se vám takové věci podaří vytušit."
 
 #: conversations/companions/g_companion_max_quest_main:25
 msgctxt "conversations/companions/g_companion_max_quest_main:25:DefaultText"
 msgid "I might have had questions for her after this experience... ah, well."
-msgstr ""
+msgstr "Po této zkušenosti jsem na ni mohl mít otázky... ah, no."
 
 #: conversations/companions/g_companion_max_quest_main:33
 msgctxt "conversations/companions/g_companion_max_quest_main:33:DefaultText"
 msgid "Why would you do that?! To come so far only to create a literal dead-end... You've ruined decades of meticulously derived plans!"
-msgstr ""
+msgstr "Proč bys to dělal?! Dojít tak daleko jen proto, abyste vytvořili doslova slepou uličku... Zničil jsi desítky let pečlivě připravovaných plánů!"
 
 #: conversations/companions/g_companion_max_quest_main:34
 msgctxt "conversations/companions/g_companion_max_quest_main:34:DefaultText"
 msgid "I can't believe this... years of obsession, my whole life's work... it was all for nothing. It can't just end like this."
-msgstr ""
+msgstr "Nemůžu tomu uvěřit... roky posedlosti, celý můj život... všechno bylo zbytečné. Takhle to přece nemůže skončit."
 
 #: conversations/companions/g_companion_max_quest_main:35
 msgctxt "conversations/companions/g_companion_max_quest_main:35:DefaultText"
 msgid "What sort of a half-assed destiny just peters out into nothing? I DEVOTED MYSELF - every moment of every day - to uncovering the truth."
-msgstr ""
+msgstr "Co je to za polovičatý osud, který jen tak vyšumí do prázdna? VĚNOVAL jsem se - každý okamžik každého dne - odhalování pravdy."
 
 #: conversations/companions/g_companion_max_quest_main:36
 msgctxt "conversations/companions/g_companion_max_quest_main:36:DefaultText"
 msgid "Wish me luck. I've heard these things can drive one to insanity."
-msgstr ""
+msgstr "Držte mi palce. Slyšel jsem, že tyhle věci mohou člověka dohnat k šílenství."
 
 #: conversations/companions/g_companion_max_quest_main:41
 msgctxt "conversations/companions/g_companion_max_quest_main:41:DefaultText"
 msgid "Fallbrook is actually closer to Cascadia, but we should land in Stellar Bay and proceed from there. The whole planet is dangerous, but the route from Cascadia is pure suicide."
-msgstr ""
+msgstr "Fallbrook je ve skutečnosti blíž ke Kaskádii, ale měli bychom přistát ve Hvězdné zátoce a pokračovat odtud. Celá planeta je nebezpečná, ale cesta z Cascadie je čistá sebevražda."
 
 #: conversations/companions/g_companion_max_quest_main:43
 msgctxt "conversations/companions/g_companion_max_quest_main:43:DefaultText"
 msgid "He's also who told me of the journal's presence in Emerald Vale. If anyone in this colony could translate that book, it would be him."
-msgstr ""
+msgstr "To on mi také řekl o přítomnosti deníku ve Smaragdovém údolí. Pokud by někdo v této kolonii mohl tu knihu přeložit, byl by to on."
 
 #: conversations/companions/g_companion_max_quest_main:44
 msgctxt "conversations/companions/g_companion_max_quest_main:44:DefaultText"
 msgid "Seriously? Only one guy in this whole colony that can translate French?"
-msgstr ""
+msgstr "Vážně? Jen jeden člověk v celé kolonii umí překládat francouzsky?"
 
 #: conversations/companions/g_companion_max_quest_main:45
 msgctxt "conversations/companions/g_companion_max_quest_main:45:DefaultText"
 msgid "The only one I'm aware of. I suppose we could always just ask random passersby if they are fluent in it. "
-msgstr ""
+msgstr "Jediný, o kterém vím. Předpokládám, že bychom se vždycky mohli zeptat náhodných kolemjdoucích, jestli jím mluví plynně. "
 
 #: conversations/companions/g_companion_max_quest_main:46
 msgctxt "conversations/companions/g_companion_max_quest_main:46:DefaultText"
 msgid "Hey, I'm the captain here, only I get to be a smart ass."
-msgstr ""
+msgstr "Hej, já jsem tady kapitán, jenom já můžu být chytrý."
 
 #: conversations/companions/g_companion_max_quest_main:48
 msgctxt "conversations/companions/g_companion_max_quest_main:48:DefaultText"
 msgid "Point taken."
-msgstr ""
+msgstr "Bod pro vás."
 
 #: conversations/companions/g_companion_max_quest_main:49
 msgctxt "conversations/companions/g_companion_max_quest_main:49:DefaultText"
 msgid "That sounds like a great idea!"
-msgstr ""
+msgstr "To zní jako skvělý nápad!"
 
 #: conversations/companions/g_companion_max_quest_main:50
 msgctxt "conversations/companions/g_companion_max_quest_main:50:DefaultText"
 msgid "I don't have time for this."
-msgstr ""
+msgstr "Nemám na to čas."
 
 #: conversations/companions/g_companion_max_quest_main:51
 msgctxt "conversations/companions/g_companion_max_quest_main:51:DefaultText"
 msgid "I can't believe my desperation has led me to... you. Well, I, uh, just remembered there actually is a list like that. The Groundbreaker has access to it."
-msgstr ""
+msgstr "Nemůžu uvěřit, že mě moje zoufalství dovedlo k... tobě. No, právě jsem si vzpomněl, že takový seznam skutečně existuje. Lamač má k němu přístup."
 
 #: conversations/companions/g_companion_max_quest_main:53
 msgctxt "conversations/companions/g_companion_max_quest_main:53:DefaultText"
 msgid "All I need is access to a data cartridge from the security terminal. Their easily hackable system keeps a registry of all crew manifests for both arrivals and departures."
-msgstr ""
+msgstr "Potřebuji jen přístup k datové kazetě z bezpečnostního terminálu. Jejich snadno nabouratelný systém uchovává registr všech seznamů posádky pro přílety i odlety."
 
 #: conversations/companions/g_companion_max_quest_main:54
 msgctxt "conversations/companions/g_companion_max_quest_main:54:DefaultText"
 msgid "Sounds good, let's go."
-msgstr ""
+msgstr "To zní dobře, jdeme."
 
 #: conversations/companions/g_companion_max_quest_main:55
 msgctxt "conversations/companions/g_companion_max_quest_main:55:DefaultText"
 msgid "I'll have to think about it."
-msgstr ""
+msgstr "Budu o tom muset popřemýšlet."
 
 #: conversations/companions/g_companion_max_quest_main:56
 msgctxt "conversations/companions/g_companion_max_quest_main:56:DefaultText"
 msgid "We should start on the Groundbreaker. It's where I'd go if I wanted to get off Terra 2. Great place to pick up a ride to Hephaestus, Scylla, even Monarch."
-msgstr ""
+msgstr "Měli bychom začít s Groundbreakerem. Tam bych šel, kdybych se chtěl dostat z Terry 2. Skvělé místo, kde se dá nabrat na cestu k Hefaistovi, Skylle, dokonce i k Monarchovi."
 
 #: conversations/companions/g_companion_max_quest_main:57
 msgctxt "conversations/companions/g_companion_max_quest_main:57:DefaultText"
 msgid "That's a good question."
-msgstr ""
+msgstr "To je dobrá otázka."
 
 #: conversations/companions/g_companion_max_quest_main:58
 msgctxt "conversations/companions/g_companion_max_quest_main:58:DefaultText"
 msgid "Yes, well, now that we're here, can we check in with security? I'd like to track down that scholar."
-msgstr ""
+msgstr "Ano, když už jsme tady, můžeme se přihlásit u ochranky? Rád bych toho učence našel."
 
 #: conversations/companions/g_companion_max_quest_main:59
 msgctxt "conversations/companions/g_companion_max_quest_main:59:DefaultText"
 msgid "You hesitated there, Vicar. What aren't you telling me?"
-msgstr ""
+msgstr "Zaváhal jste, pane faráři. Co jste mi neřekl?"
 
 #: conversations/companions/g_companion_max_quest_main:60
 msgctxt "conversations/companions/g_companion_max_quest_main:60:DefaultText"
 msgid "Oh, it's nothing. I suppose I really didn't have much faith in actually finding him. Was a bit of a long shot, wasn't it?"
-msgstr ""
+msgstr "To nic není. Asi jsem opravdu moc nevěřil, že ho najdu. Bylo to trochu riskantní, ne?"
 
 #: conversations/companions/g_companion_max_quest_main:61
 msgctxt "conversations/companions/g_companion_max_quest_main:61:DefaultText"
 msgid "Before we can do anything we'll need to acquire that Stellar Bay Navkey you're looking for."
-msgstr ""
+msgstr "Než budeme moci cokoli udělat, budeme muset získat ten hvězdný záliv Navkey, který hledáte."
 
 #: conversations/companions/g_companion_max_quest_main:62
 msgctxt "conversations/companions/g_companion_max_quest_main:62:DefaultText"
 msgid "Sounds like a challenge."
-msgstr ""
+msgstr "To zní jako výzva."
 
 #: conversations/companions/g_companion_max_quest_main:63
 msgctxt "conversations/companions/g_companion_max_quest_main:63:DefaultText"
 msgid "I'll take your word for it."
-msgstr ""
+msgstr "Budu vám věřit na slovo."
 
 #: conversations/companions/g_companion_max_quest_main:64
 msgctxt "conversations/companions/g_companion_max_quest_main:64:DefaultText"
 msgid "And why is that?"
-msgstr ""
+msgstr "A proč tomu tak je?"
 
 #: conversations/companions/g_companion_max_quest_main:65
 msgctxt "conversations/companions/g_companion_max_quest_main:65:DefaultText"
 msgid "Stellar Bay still has some semblance of society, if you could call it that, but Cascadia is overrun with all manner of vile things intent on murdering anything or anyone they can."
-msgstr ""
+msgstr "Ve Hvězdné zátoce ještě existuje jakési zdání společnosti, pokud se to tak dá nazvat, ale Kaskádie je zaplavena nejrůznějšími odpornými stvořeními, která chtějí zavraždit cokoli a kohokoli."
 
 #: conversations/companions/g_companion_max_quest_main:66
 msgctxt "conversations/companions/g_companion_max_quest_main:66:DefaultText"
 msgid "And you know this how?"
-msgstr ""
+msgstr "A jak to víte?"
 
 #: conversations/companions/g_companion_max_quest_main:67
 msgctxt "conversations/companions/g_companion_max_quest_main:67:DefaultText"
 msgid "A vicar values knowledge above all else. And, in my case, that includes the hotbed of Philosophist radicals inhabiting Monarch."
-msgstr ""
+msgstr "Vikář si nade vše cení znalostí. A v mém případě k nim patří i semeniště filosofických radikálů obývající Monarchii."
 
 #: conversations/companions/g_companion_max_quest_main:68
 msgctxt "conversations/companions/g_companion_max_quest_main:68:DefaultText"
 msgid "Got it."
-msgstr ""
+msgstr "Mám to."
 
 #: conversations/companions/g_companion_max_quest_main:70
 msgctxt "conversations/companions/g_companion_max_quest_main:70:DefaultText"
 msgid "As soon as we can, I promise."
-msgstr ""
+msgstr "Jakmile to bude možné, slibuji."
 
 #: conversations/companions/g_companion_max_quest_main:71
 msgctxt "conversations/companions/g_companion_max_quest_main:71:DefaultText"
 msgid "I'm not sure yet."
-msgstr ""
+msgstr "Ještě si nejsem jistý."
 
 #: conversations/companions/g_companion_max_quest_main:72
 msgctxt "conversations/companions/g_companion_max_quest_main:72:DefaultText"
 msgid "When I decide we will."
-msgstr ""
+msgstr "Až se rozhodnu, tak to uděláme."
 
 #: conversations/companions/g_companion_max_quest_main:73
 msgctxt "conversations/companions/g_companion_max_quest_main:73:DefaultText"
 msgid "How could you have killed Chaney like that? You robbed me of the pleasure of doing it myself."
-msgstr ""
+msgstr "Jak jsi mohl Chaneyho takhle zabít? Připravil jsi mě o potěšení udělat to sám."
 
 #: conversations/companions/g_companion_max_quest_main:74
 msgctxt "conversations/companions/g_companion_max_quest_main:74:DefaultText"
 msgid "What are you talking about?"
-msgstr ""
+msgstr "O čem to mluvíte?"
 
 #: conversations/companions/g_companion_max_quest_main:75
 msgctxt "conversations/companions/g_companion_max_quest_main:75:DefaultText"
 msgid "That man you killed in Fallbrook. His name was Reginald Chaney, and, as you may have surmised, he was not actually a Philosophist scholar."
-msgstr ""
+msgstr "Ten muž, kterého jste zabil ve Fallbrooku. Jmenoval se Reginald Chaney, a jak jste si možná domyslel, nebyl to ve skutečnosti filosofický učenec."
 
 #: conversations/companions/g_companion_max_quest_main:76
 msgctxt "conversations/companions/g_companion_max_quest_main:76:DefaultText"
 msgid "He was a prisoner in the penitentiary I was assigned to. He's the one who told me about the book - conned me out of good money for its location."
-msgstr ""
+msgstr "Byl vězněm ve věznici, kam jsem byl přidělen. To on mi řekl o té knize - vylákal ze mě slušné peníze za její umístění."
 
 #: conversations/companions/g_companion_max_quest_main:77
 msgctxt "conversations/companions/g_companion_max_quest_main:77:DefaultText"
 msgid "You're welcome."
-msgstr ""
+msgstr "Není zač."
 
 #: conversations/companions/g_companion_max_quest_main:78
 msgctxt "conversations/companions/g_companion_max_quest_main:78:DefaultText"
 msgid "Look, I'm in charge of my crew, and I decide who dies. You have a problem with that?"
-msgstr ""
+msgstr "Podívej, já velím své posádce a já rozhoduji o tom, kdo zemře. Máš s tím problém?"
 
 #: conversations/companions/g_companion_max_quest_main:80
 msgctxt "conversations/companions/g_companion_max_quest_main:80:DefaultText"
 msgid "I did it so you wouldn't have to. You can thank me later."
-msgstr ""
+msgstr "Udělal jsem to, abyste nemuseli. Poděkovat mi můžeš později."
 
 #: conversations/companions/g_companion_max_quest_main:81
 msgctxt "conversations/companions/g_companion_max_quest_main:81:DefaultText"
 msgid "I'm sorry. Sometimes I just can't control myself."
-msgstr ""
+msgstr "Omlouvám se. Někdy se prostě nedokážu ovládat."
 
 #: conversations/companions/g_companion_max_quest_main:82
 msgctxt "conversations/companions/g_companion_max_quest_main:82:DefaultText"
 msgid "You will know when I do."
-msgstr ""
+msgstr "Dozvíte se to, až to udělám."
 
 #: conversations/companions/g_companion_max_quest_main:83
 msgctxt "conversations/companions/g_companion_max_quest_main:83:DefaultText"
 msgid "So that's what that looks like."
-msgstr ""
+msgstr "Takto to vypadá."
 
 #: conversations/companions/g_companion_max_quest_main:84
 msgctxt "conversations/companions/g_companion_max_quest_main:84:DefaultText"
 msgid "I've never heard it called that."
-msgstr ""
+msgstr "Nikdy jsem neslyšel, že by se tomu tak říkalo."
 
 #: conversations/companions/g_companion_max_quest_main:85
 msgctxt "conversations/companions/g_companion_max_quest_main:85:DefaultText"
 msgid "I've denied that part of myself for too long, pretending I was something I'm not. I've spent myself chasing an illusion. "
-msgstr ""
+msgstr "Příliš dlouho jsem tuto část sebe sama popírala a předstírala, že jsem něco, co nejsem. Strávil jsem honbou za iluzí. "
 
 #: conversations/companions/g_companion_max_quest_main:86
 msgctxt "conversations/companions/g_companion_max_quest_main:86:DefaultText"
 msgid "It's time I gave up childish dreams and accepted who I am."
-msgstr ""
+msgstr "Je čas vzdát se dětských snů a přijmout to, kým jsem."
 
 #: conversations/companions/g_companion_max_quest_main:87
 msgctxt "conversations/companions/g_companion_max_quest_main:87:DefaultText"
 msgid "What will you do now?"
-msgstr ""
+msgstr "Co budete dělat teď?"
 
 #: conversations/companions/g_companion_max_quest_main:88
 msgctxt "conversations/companions/g_companion_max_quest_main:88:DefaultText"
 msgid "Why?"
-msgstr ""
+msgstr "Proč?"
 
 #: conversations/companions/g_companion_max_quest_main:89
 msgctxt "conversations/companions/g_companion_max_quest_main:89:DefaultText"
 msgid "That sounds like a good idea."
-msgstr ""
+msgstr "To zní jako dobrý nápad."
 
 #: conversations/companions/g_companion_max_quest_main:90
 msgctxt "conversations/companions/g_companion_max_quest_main:90:DefaultText"
 msgid "I can't rightly say. Perhaps I just need some sort of closure, a formal end to my lifelong quest perhaps."
-msgstr ""
+msgstr "Nemohu to říci správně. Možná jen potřebuji nějak uzavřít, možná formálně ukončit své celoživotní hledání."
 
 #: conversations/companions/g_companion_max_quest_main:91
 msgctxt "conversations/companions/g_companion_max_quest_main:91:DefaultText"
 msgid "Wow. That's quite the turn around."
-msgstr ""
+msgstr "Páni. To je docela obrat."
 
 #: conversations/companions/g_companion_max_quest_main:92
 msgctxt "conversations/companions/g_companion_max_quest_main:92:DefaultText"
 msgid "I'm sure it would seem such to you, but I don't believe it is. I think I always knew this day would come. I was just afraid to admit it. Even to myself."
-msgstr ""
+msgstr "Jsem si jistý, že vám to tak připadá, ale nevěřím, že tomu tak je. Myslím, že jsem vždycky věděl, že ten den přijde. Jen jsem se to bál přiznat. Dokonce i sám sobě."
 
 #: conversations/companions/g_companion_max_quest_main:93
 msgctxt "conversations/companions/g_companion_max_quest_main:93:DefaultText"
 msgid "I don't think so. Seems like a waste of time to me."
-msgstr ""
+msgstr "To si nemyslím. Připadá mi to jako ztráta času."
 
 #: conversations/companions/g_companion_max_quest_main:94
 msgctxt "conversations/companions/g_companion_max_quest_main:94:DefaultText"
 msgid "So you're feeling 'violently enthusiastic'?"
-msgstr ""
+msgstr "Takže se cítíte \"prudce nadšený\"?"
 
 #: conversations/companions/g_companion_max_quest_main:95
 msgctxt "conversations/companions/g_companion_max_quest_main:95:DefaultText"
 msgid "Hah. Not quite that young."
-msgstr ""
+msgstr "Hah. Ne tak úplně mladá."
 
 #: conversations/companions/g_companion_max_quest_main:96
 msgctxt "conversations/companions/g_companion_max_quest_main:96:DefaultText"
 msgid "It's time you faced the truth, Vicar. Your religion is nothing but lies. "
-msgstr ""
+msgstr "Je načase, abyste se postavil pravdě, vikáři. Vaše náboženství není nic jiného než lež. "
 
 #: conversations/companions/g_companion_max_quest_main:98
 msgctxt "conversations/companions/g_companion_max_quest_main:98:DefaultText"
 msgid "Your sarcasm is duly noted and will be reflected on your review."
-msgstr ""
+msgstr "Váš sarkasmus je náležitě zaznamenán a bude zohledněn ve vašem hodnocení."
 
 #: conversations/companions/g_companion_max_quest_main:102
 msgctxt "conversations/companions/g_companion_max_quest_main:102:DefaultText"
 msgid "A thousand pardons, my good captain. I thought we were engaging in witty repartee."
-msgstr ""
+msgstr "Tisíceré odpuštění, můj dobrý kapitáne. Myslel jsem, že jsme se pustili do vtipné repliky."
 
 #: conversations/companions/g_companion_max_quest_main:103
 msgctxt "conversations/companions/g_companion_max_quest_main:103:DefaultText"
 msgid "Now, as far as tracking down this scholar..."
-msgstr ""
+msgstr "Pokud jde o vypátrání tohoto učence..."
 
 #: conversations/companions/g_companion_max_quest_main:105
 msgctxt "conversations/companions/g_companion_max_quest_main:105:DefaultText"
 msgid "That's the plan."
-msgstr ""
+msgstr "Takový je plán."
 
 #: conversations/companions/g_companion_max_quest_main:106
 msgctxt "conversations/companions/g_companion_max_quest_main:106:DefaultText"
 msgid "Not just yet."
-msgstr ""
+msgstr "Ještě ne."
 
 #: conversations/companions/g_companion_max_quest_main:108
 msgctxt "conversations/companions/g_companion_max_quest_main:108:DefaultText"
 msgid "I want to thank you for talking some sense into me back there with Chaney."
-msgstr ""
+msgstr "Chci ti poděkovat, že jsi mě tam s Chaneym přivedl k rozumu."
 
 #: conversations/companions/g_companion_max_quest_main:109
 msgctxt "conversations/companions/g_companion_max_quest_main:109:DefaultText"
 msgid "What was it like, being in prison?"
-msgstr ""
+msgstr "Jaké to bylo být ve vězení?"
 
 #: conversations/companions/g_companion_max_quest_main:110
 msgctxt "conversations/companions/g_companion_max_quest_main:110:DefaultText"
 msgid "Why didn't you tell me you served time in prison?"
-msgstr ""
+msgstr "Proč jste mi neřekl, že jste seděl ve vězení?"
 
 #: conversations/companions/g_companion_max_quest_main:112
 msgctxt "conversations/companions/g_companion_max_quest_main:112:DefaultText"
 msgid "You never asked."
-msgstr ""
+msgstr "Nikdy jste se nezeptal."
 
 #: conversations/companions/g_companion_max_quest_main:113
 msgctxt "conversations/companions/g_companion_max_quest_main:113:DefaultText"
 msgid "Very funny. Would you care to explain now?"
-msgstr ""
+msgstr "Velmi vtipné. Mohl byste to teď vysvětlit?"
 
 #: conversations/companions/g_companion_max_quest_main:114
 msgctxt "conversations/companions/g_companion_max_quest_main:114:DefaultText"
 msgid "Oh, exactly as you'd imagine. Can't say I enjoyed the stint. It did provide me with plenty of time to think."
-msgstr ""
+msgstr "Přesně tak, jak si představujete. Nemůžu říct, že by se mi to líbilo. Poskytla mi ale spoustu času na přemýšlení."
 
 #: conversations/companions/g_companion_max_quest_main:115
 msgctxt "conversations/companions/g_companion_max_quest_main:115:DefaultText"
 msgid "Let's move on."
-msgstr ""
+msgstr "Pojďme dál."
 
 #: conversations/companions/g_companion_max_quest_main:116
 msgctxt "conversations/companions/g_companion_max_quest_main:116:DefaultText"
 msgid "Most laypeople are not aware of this, but we've not discovered any new insights into the Plan for a long, long time. "
-msgstr ""
+msgstr "Většina laiků si to neuvědomuje, ale už dlouho jsme neobjevili žádné nové poznatky o Plánu. "
 
 #: conversations/companions/g_companion_max_quest_main:117
 msgctxt "conversations/companions/g_companion_max_quest_main:117:DefaultText"
 msgid "I had an idea that we should welcome the truth, no matter where we found it. I had the worse idea to share my thoughts with a superior."
-msgstr ""
+msgstr "Napadlo mě, že bychom měli vítat pravdu, ať už ji najdeme kdekoli. Horší nápad jsem měl podělit se o své myšlenky s nadřízeným."
 
 #: conversations/companions/g_companion_max_quest_main:118
 msgctxt "conversations/companions/g_companion_max_quest_main:118:DefaultText"
 msgid "And that's how I ended up assigned prison duty, where I was fool enough to let an inmate bend my ear with stories of an original Bakonu journal."
-msgstr ""
+msgstr "A tak jsem se dostal do vězení, kde jsem byl natolik bláhový, že jsem se nechal uchlácholit vyprávěním jednoho vězně o originálním deníku z Bakonu."
 
 #: conversations/companions/g_companion_max_quest_main:119
 msgctxt "conversations/companions/g_companion_max_quest_main:119:DefaultText"
 msgid "What should I expect in Stellar Bay?"
-msgstr ""
+msgstr "Co mohu očekávat ve Stellar Bay?"
 
 #: conversations/companions/g_companion_max_quest_main:120
 msgctxt "conversations/companions/g_companion_max_quest_main:120:DefaultText"
 msgid "Stellar Bay still has some semblance of society, if you could call it that. Outside their walls though, Monarch is a lawless and deadly land. I'm sure we'll be fine."
-msgstr ""
+msgstr "Ve Hvězdné zátoce stále ještě existuje jakési zdání společnosti, pokud se to tak dá nazvat. Za svými zdmi je však Monarchie zemí bez zákonů a smrtelně nebezpečnou. Jsem si jistý, že se nám bude dařit."
 
 #: conversations/companions/g_companion_max_quest_main:121
 msgctxt "conversations/companions/g_companion_max_quest_main:121:DefaultText"
 msgid "This is Reginald's stuff, all right, but it looks like he's not home. Let's search the room, try to figure out where he's gone."
-msgstr ""
+msgstr "Tohle jsou Reginaldovy věci, ale vypadá to, že není doma. Prohledáme pokoj a pokusíme se zjistit, kam odešel."
 
 #: conversations/companions/g_companion_max_quest_main:123
 msgctxt "conversations/companions/g_companion_max_quest_main:123:DefaultText"
 msgid "The way I see it, the universe was snapping me back to where I needed to be. You stray too far from the course of your destiny, the world will try to correct for it."
-msgstr ""
+msgstr "Vidím to tak, že mě vesmír vrátil tam, kde jsem potřeboval být. Když se příliš odchýlíte od směru svého osudu, svět se to pokusí napravit."
 
 #: conversations/companions/g_companion_max_quest_main:124
 msgctxt "conversations/companions/g_companion_max_quest_main:124:DefaultText"
 msgid "<Glare silently.>"
-msgstr ""
+msgstr "<Glare silently.>"
 
 #: conversations/companions/g_companion_max_quest_main:125
 msgctxt "conversations/companions/g_companion_max_quest_main:125:DefaultText"
 msgid "Well, you didn't. But fine."
-msgstr ""
+msgstr "No, neudělal jsi to. Ale dobře."
 
 #: conversations/companions/g_companion_max_quest_main:126
 msgctxt "conversations/companions/g_companion_max_quest_main:126:DefaultText"
 msgid "No. I don't accept it. I did find the truth, and the truth is this religion is nothing more than a well-constructed lie. Meant to keep the lowly sheep of the world in line. "
-msgstr ""
+msgstr "Ne, to neberu. Našel jsem pravdu a pravda je, že toto náboženství není nic jiného než dobře vykonstruovaná lež. Má udržet pokorné ovce světa v souladu. "
 
 #: conversations/companions/g_companion_max_quest_main:127
 msgctxt "conversations/companions/g_companion_max_quest_main:127:DefaultText"
 msgid "What're you going to do?"
-msgstr ""
+msgstr "Co budete dělat?"
 
 #: conversations/companions/g_companion_max_quest_main:128
 msgctxt "conversations/companions/g_companion_max_quest_main:128:DefaultText"
 msgid "'Baaa!'"
-msgstr ""
+msgstr "\"Baaa!"
 
 #: conversations/companions/g_companion_max_quest_main:129
 msgctxt "conversations/companions/g_companion_max_quest_main:129:DefaultText"
 msgid "My eyes are open now. I won't live a lie - I reject any man-made system of control. What I'll do next... I just don't know."
-msgstr ""
+msgstr "Mám teď otevřené oči. Nebudu žít ve lži - odmítám jakýkoli systém kontroly vytvořený člověkem. Co budu dělat dál... Prostě nevím."
 
 #: conversations/companions/g_companion_max_quest_main:130
 msgctxt "conversations/companions/g_companion_max_quest_main:130:DefaultText"
 msgid "Exactly right. I'm no sheep."
-msgstr ""
+msgstr "Přesně tak. Nejsem ovce."
 
 #: conversations/companions/g_companion_max_quest_main:131
 msgctxt "conversations/companions/g_companion_max_quest_main:131:DefaultText"
 msgid "How is it that a simple vicar happens to be such a highly skilled hacker?"
-msgstr ""
+msgstr "Jak je možné, že je obyčejný farář tak zkušený hacker?"
 
 #: conversations/companions/g_companion_max_quest_main:132
 msgctxt "conversations/companions/g_companion_max_quest_main:132:DefaultText"
 msgid "Before I transferred to Edgewater, I had a wealth of time to develop certain, ah, secular skills during my years serving a particular \"penitentiary flock.\""
-msgstr ""
+msgstr "Než jsem byl přeložen do Edgewateru, měl jsem spoustu času na rozvoj určitých světských dovedností během let, kdy jsem sloužil určitému \"vězeňskému stádu\"."
 
 #: conversations/companions/g_companion_max_quest_main:133
 msgctxt "conversations/companions/g_companion_max_quest_main:133:DefaultText"
 msgid "Remind me why we want to do that?"
-msgstr ""
+msgstr "Připomeňte mi, proč to chceme udělat?"
 
 #: conversations/companions/g_companion_max_quest_main:134
 msgctxt "conversations/companions/g_companion_max_quest_main:134:DefaultText"
 msgid "I meditated, led sermons, provided guidance to the inmates as needed, of course... I also played prison yard tossball and taught myself a bit about computronic security systems."
-msgstr ""
+msgstr "Meditoval jsem, vedl jsem kázání, podle potřeby jsem poskytoval poradenství vězňům, samozřejmě... Také jsem hrál na vězeňském dvoře přehazovanou a naučil se něco o počítačových bezpečnostních systémech."
 
 #: conversations/companions/g_companion_max_quest_main:135
 msgctxt "conversations/companions/g_companion_max_quest_main:135:DefaultText"
 msgid "I should have guessed. What better place to lay low if you wish to avoid the authorities?"
-msgstr ""
+msgstr "Mělo mě to napadnout. Jaké je lepší místo, kde se skrývat, když se chcete vyhnout úřadům?"
 
 #: conversations/companions/g_companion_max_quest_main:136
 msgctxt "conversations/companions/g_companion_max_quest_main:136:DefaultText"
 msgid "Fallbrook?"
-msgstr ""
+msgstr "Fallbrook?"
 
 #: conversations/companions/g_companion_max_quest_main:137
 msgctxt "conversations/companions/g_companion_max_quest_main:137:DefaultText"
 msgid "Oh, you know. Illegal smuggler's town on a blockaded planet. The usual. Shouldn't be hard to find him at all. Once we're there."
-msgstr ""
+msgstr "Však víte. Nelegální pašerácké město na blokované planetě. Jako obvykle. Nemělo by být vůbec těžké ho najít. Až tam budeme."
 
 #: conversations/companions/g_companion_max_quest_main:138
 msgctxt "conversations/companions/g_companion_max_quest_main:138:DefaultText"
 msgid "Ah, yes. Here. There's a domicile on Monarch, in Fallbrook, rented to the same bit cart he used to buy his seat on the salvage ship. "
-msgstr ""
+msgstr "Ach, ano. Tady. Na Monarchu, ve Fallbrooku, má bydliště pronajaté ten samý kousek vozíku, za který si koupil místo na záchranné lodi. "
 
 #: conversations/companions/g_companion_max_quest_main:139
 msgctxt "conversations/companions/g_companion_max_quest_main:139:DefaultText"
 msgid "How will a crew manifest help us track down your scholar friend?"
-msgstr ""
+msgstr "Jak nám manifest posádky pomůže najít vašeho učence?"
 
 #: conversations/companions/g_companion_max_quest_main:140
 msgctxt "conversations/companions/g_companion_max_quest_main:140:DefaultText"
 msgid "I'll comb the last six months of departure manifests to track the Philosophist's offworld destination."
-msgstr ""
+msgstr "Projdu posledních šest měsíců odletových manifestů, abych vystopoval Filosofovu mimozemskou destinaci."
 
 #: conversations/companions/g_companion_max_quest_main:141
 msgctxt "conversations/companions/g_companion_max_quest_main:141:DefaultText"
 msgid "If I can access the data cartridge from the terminal in security, I can easily hack into their arrivals and departures registry. "
-msgstr ""
+msgstr "Pokud se mi podaří získat přístup k datové kazetě z bezpečnostního terminálu, mohu se snadno nabourat do jejich registru příletů a odletů. "
 
 #: conversations/companions/g_companion_max_quest_main:142
 msgctxt "conversations/companions/g_companion_max_quest_main:142:DefaultText"
 msgid "It will be. But I have the utmost faith that you can handle it."
-msgstr ""
+msgstr "Bude to. Ale pevně věřím, že to zvládnete."
 
 #: conversations/companions/g_companion_max_quest_main:143
 msgctxt "conversations/companions/g_companion_max_quest_main:143:DefaultText"
 msgid "A former what, now?"
-msgstr ""
+msgstr "Bývalý co, teď?"
 
 #: conversations/companions/g_companion_max_quest_main:144
 msgctxt "conversations/companions/g_companion_max_quest_main:144:DefaultText"
 msgid "You caught me. Listen, the OSI frowns on fraternization with Philosophists. I'd like to keep my associations with our... scholar friend quiet."
-msgstr ""
+msgstr "Přistihl jsi mě. Poslyš, OSI nemá ráda bratříčkování s filosofy. Rád bych udržel své styky s naším... učeným přítelem v tajnosti."
 
 #: conversations/companions/g_companion_max_quest_main:145
 msgctxt "conversations/companions/g_companion_max_quest_main:145:DefaultText"
 msgid "I'm certain he knew it was in French, and I was going to make him pay for wasting years of my life."
-msgstr ""
+msgstr "Jsem si jistý, že věděl, že je to ve francouzštině, a já mu hodlal zaplatit za to, že jsem promarnil roky svého života."
 
 #: conversations/companions/g_companion_max_quest_main:146
 msgctxt "conversations/companions/g_companion_max_quest_main:146:DefaultText"
 msgid "Maybe you're right."
-msgstr ""
+msgstr "Možná máte pravdu."
 
 #: conversations/companions/g_companion_max_quest_main:148
 msgctxt "conversations/companions/g_companion_max_quest_main:148:DefaultText"
 msgid "Chaney conned me not only out of good money for the book's location, but also years of my life. I'm certain he knew it was in French. At least you made him pay. For all of it."
-msgstr ""
+msgstr "Chaney mě připravil nejen o slušné peníze za umístění knihy, ale také o roky mého života. Jsem si jistý, že věděl, že je ve francouzštině. Alespoň jsi ho donutil zaplatit. Za všechno."
 
 #: conversations/companions/g_companion_max_quest_main:149
 msgctxt "conversations/companions/g_companion_max_quest_main:149:DefaultText"
 msgid "I thought my training had allowed me to leave it behind, but prison brought it all raging back. "
-msgstr ""
+msgstr "Myslel jsem, že jsem to díky svému výcviku nechal za sebou, ale ve vězení se mi to všechno vrátilo. "
 
 #: conversations/companions/g_companion_max_quest_main:150
 msgctxt "conversations/companions/g_companion_max_quest_main:150:DefaultText"
 msgid "<Say nothing.>"
-msgstr ""
+msgstr "<Neříkej nic.>"
 
 #: conversations/companions/g_companion_max_quest_main:151
 msgctxt "conversations/companions/g_companion_max_quest_main:151:DefaultText"
 msgid "And it felt... right. "
-msgstr ""
+msgstr "A bylo to... správné. "
 
 #: conversations/companions/g_companion_max_quest_main:152
 msgctxt "conversations/companions/g_companion_max_quest_main:152:DefaultText"
 msgid "It has been a long time since I gave in to my... violent enthusiasm."
-msgstr ""
+msgstr "Už je to dlouho, co jsem podlehl svému... násilnickému nadšení."
 
 #: conversations/companions/g_companion_max_quest_main:153
 msgctxt "conversations/companions/g_companion_max_quest_main:153:DefaultText"
 msgid "It has been a long time since I gave in to my... violent enthusiasm."
-msgstr ""
+msgstr "Už je to dlouho, co jsem podlehl svému... násilnickému nadšení."
 
 #: conversations/companions/g_companion_max_quest_main:154
 msgctxt "conversations/companions/g_companion_max_quest_main:154:DefaultText"
 msgid "I want to throttle you... but perhaps it's time to admit that you're right."
-msgstr ""
+msgstr "Nejraději bych tě uškrtil... ale možná je na čase uznat, že máš pravdu."
 
 #: conversations/companions/g_companion_max_quest_main:155
 msgctxt "conversations/companions/g_companion_max_quest_main:155:DefaultText"
 msgid "Uhm... oops? "
-msgstr ""
+msgstr "Uhm... oops? "
 
 #: conversations/companions/g_companion_max_quest_main:156
 msgctxt "conversations/companions/g_companion_max_quest_main:156:DefaultText"
 msgid "Oh, now you're sorry?! Your apology would be laudable if only some things could be undone. I suppose this is my well-deserved fate."
-msgstr ""
+msgstr "Tak teď se omlouváš?! Vaše omluva by byla chvályhodná, jen kdyby se některé věci daly vrátit zpět. Předpokládám, že je to můj zasloužený osud."
 
 #: conversations/companions/g_companion_max_quest_main:157
 msgctxt "conversations/companions/g_companion_max_quest_main:157:DefaultText"
 msgid "Should have known better than to fight my station. All right, universe, message received. "
-msgstr ""
+msgstr "Měl jsem vědět, že nebudu bojovat se svým stanovištěm. Dobře, vesmíre, zpráva přijata. "
 
 #: conversations/companions/g_companion_max_quest_main:158
 msgctxt "conversations/companions/g_companion_max_quest_main:158:DefaultText"
 msgid "I'm sorry, Max."
-msgstr ""
+msgstr "Je mi to líto, Maxi."
 
 #: conversations/companions/g_companion_max_quest_main:160
 msgctxt "conversations/companions/g_companion_max_quest_main:160:DefaultText"
 msgid "This is it: security. I can check the departures registry to find out which crew Cha - I mean, the scholar shipped in and out with. "
-msgstr ""
+msgstr "To je ono: bezpečnost. Mohu se podívat do registru odletů a zjistit, s jakou posádkou Cha - chci říct učenec nastoupil a vystoupil. "
 
 #: conversations/companions/g_companion_max_quest_main:161
 msgctxt "conversations/companions/g_companion_max_quest_main:161:DefaultText"
 msgid "I'm sorry. Next time I'll let you take your own revenge."
-msgstr ""
+msgstr "Omlouvám se. Příště tě nechám, aby ses pomstil sám."
 
 #: conversations/companions/g_companion_max_quest_main:162
 msgctxt "conversations/companions/g_companion_max_quest_main:162:DefaultText"
 msgid "That is becoming more and more obvious. I don't think you understand the hatred I was harboring for that miserable excuse for a human being."
-msgstr ""
+msgstr "To je stále zřejmější. Myslím, že nechápeš, jakou nenávist jsem k té ubohé náhražce člověka choval."
 
 #: conversations/companions/g_companion_max_quest_main:163
 msgctxt "conversations/companions/g_companion_max_quest_main:163:DefaultText"
 msgid "That'll give us dates, times, and the crew manifests for every registered ship."
-msgstr ""
+msgstr "To nám poskytne data, časy a seznamy posádek všech registrovaných lodí."
 
 #: conversations/companions/g_companion_max_quest_main:164
 msgctxt "conversations/companions/g_companion_max_quest_main:164:DefaultText"
 msgid "Thank you, Captain."
-msgstr ""
+msgstr "Děkuji, kapitáne."
 
 #: conversations/companions/g_companion_max_quest_main:165
 msgctxt "conversations/companions/g_companion_max_quest_main:165:DefaultText"
 msgid "Thank you, Captain. I knew I could rely on you. I think it will help put all this behind me."
-msgstr ""
+msgstr "Děkuji, kapitáne. Věděl jsem, že se na vás mohu spolehnout. Myslím, že mi to pomůže hodit to všechno za hlavu."
 
 #: conversations/companions/g_companion_max_quest_main:166
 msgctxt "conversations/companions/g_companion_max_quest_main:166:DefaultText"
 msgid "As you wish. You are the captain, after all."
-msgstr ""
+msgstr "Jak si přejete. Jste přece kapitán."
 
 #: conversations/companions/g_companion_max_quest_main:167
 msgctxt "conversations/companions/g_companion_max_quest_main:167:DefaultText"
 msgid "I must admit I'm feeling trepidation about meeting this so called hermit. I may finally find the answers I've been looking for, but will they be enough? I suppose they'll have to be."
-msgstr ""
+msgstr "Musím přiznat, že mám ze setkání s tímto takzvaným poustevníkem obavy. Možná konečně najdu odpovědi, které jsem hledal, ale budou mi stačit? Předpokládám, že budou muset být."
 
 #: conversations/companions/g_companion_max_quest_main:168
 msgctxt "conversations/companions/g_companion_max_quest_main:168:DefaultText"
 msgid "Cut the crap, Max. You lied to me about Chaney, and I want to know why."
-msgstr ""
+msgstr "Nech si ty kecy, Maxi. Lhal jsi mi o Chaneym a já chci vědět proč."
 
 #: conversations/companions/g_companion_max_quest_main:169
 msgctxt "conversations/companions/g_companion_max_quest_main:169:DefaultText"
 msgid "Never mind that, why did you feel the need to lie about Chaney?"
-msgstr ""
+msgstr "To je jedno, proč jste cítil potřebu lhát o Chaneym?"
 
 #: conversations/companions/g_companion_max_quest_main:170
 msgctxt "conversations/companions/g_companion_max_quest_main:170:DefaultText"
 msgid "You're right, I owe you an apology. I've been so obsessed, for so long... I couldn't see anything else. You offered me a place on your crew, friendship, and I used you to get to Chaney."
-msgstr ""
+msgstr "Máš pravdu, dlužím ti omluvu. Byl jsem tak posedlý, tak dlouho... že jsem nedokázala vidět nic jiného. Nabídl jsi mi místo ve své partě, přátelství, a já tě využil, abych se dostal k Chaneymu."
 
 #: conversations/companions/g_companion_max_quest_main:171
 msgctxt "conversations/companions/g_companion_max_quest_main:171:DefaultText"
 msgid "And even then, you saved me from myself. I don't know if I could live with myself had I gone through with it."
-msgstr ""
+msgstr "A i tehdy jsi mě zachránil před sebou samým. Nevím, jestli bych se sebou dokázala žít, kdybych to udělala."
 
 #: conversations/companions/g_companion_max_quest_main:173
 msgctxt "conversations/companions/g_companion_max_quest_main:173:DefaultText"
 msgid "You owe me nothing, I know, but I'm... I'm begging your forgiveness."
-msgstr ""
+msgstr "Vím, že mi nic nedlužíš, ale... Prosím tě o odpuštění."
 
 #: conversations/companions/g_companion_max_quest_main:175
 msgctxt "conversations/companions/g_companion_max_quest_main:175:DefaultText"
 msgid "I don't think so. You're not welcome on my crew anymore, pack your things."
-msgstr ""
+msgstr "To si nemyslím. V mé posádce už nejsi vítán, sbal si věci."
 
 #: conversations/companions/g_companion_max_quest_main:176
 msgctxt "conversations/companions/g_companion_max_quest_main:176:DefaultText"
 msgid "I understand, it's nothing but what I deserve. I won't bother you anymore. Goodbye, captain. "
-msgstr ""
+msgstr "Chápu to, není to nic jiného, než co si zasloužím. Už tě nebudu obtěžovat. Sbohem, kapitáne. "
 
 #: conversations/companions/g_companion_max_quest_main:179
 msgctxt "conversations/companions/g_companion_max_quest_main:179:DefaultText"
 msgid "I understand. We all get a little obsessed sometimes. You're forgiven."
-msgstr ""
+msgstr "Rozumím. Všichni jsme někdy trochu posedlí. Je ti odpuštěno."
 
 #: conversations/companions/g_companion_max_quest_main:180
 msgctxt "conversations/companions/g_companion_max_quest_main:180:DefaultText"
 msgid "Okay, but I'm watching you. You ever lie to me again, about anything, you're out."
-msgstr ""
+msgstr "Dobře, ale já tě sleduju. Ještě jednou mi zalžeš, ať už v čemkoli, a končíš."
 
 #: conversations/companions/g_companion_max_quest_main:181
 msgctxt "conversations/companions/g_companion_max_quest_main:181:DefaultText"
 msgid "Thank you. I promise, I'll be nothing but truthful from this point forward."
-msgstr ""
+msgstr "Děkujeme. Slibuji, že od této chvíle budu mluvit jen pravdu."
 
 #: conversations/companions/g_companion_max_quest_main:182
 msgctxt "conversations/companions/g_companion_max_quest_main:182:DefaultText"
 msgid "Wait, what? You're saying you were fucking lying to me all this time? How dare you!"
-msgstr ""
+msgstr "Počkat, cože? Chceš říct, že jsi mi celou dobu lhal? Jak se opovažuješ!"
 
 #: conversations/companions/g_companion_max_quest_main:183
 msgctxt "conversations/companions/g_companion_max_quest_main:183:DefaultText"
 msgid "You were lying to me about him whole time? Care to explain yourself?"
-msgstr ""
+msgstr "Celou dobu jsi mi o něm lhal? Vysvětlíš mi to?"
 
 #: conversations/companions/g_companion_max_quest_main:184
 msgctxt "conversations/companions/g_companion_max_quest_main:184:DefaultText"
 msgid "Why did you feel the need to lie to me about Chaney?"
-msgstr ""
+msgstr "Proč jsi měl potřebu mi lhát o Chaneym?"
 
 #: conversations/companions/g_companion_max_quest_main:185
 msgctxt "conversations/companions/g_companion_max_quest_main:185:DefaultText"
 msgid "Why would you do that? I needed her!"
-msgstr ""
+msgstr "Proč byste to dělali? Potřeboval jsem ji!"
 
 #: conversations/companions/g_companion_max_quest_main:186
 msgctxt "conversations/companions/g_companion_max_quest_main:186:DefaultText"
 msgid "Now that we have the data cartridge I can finally find where that scholar I'm looking for ended up."
-msgstr ""
+msgstr "Teď, když máme datovou kazetu, mohu konečně zjistit, kde skončil ten učenec, kterého hledám."
 
 #: conversations/companions/g_companion_max_quest_main:187
 msgctxt "conversations/companions/g_companion_max_quest_main:187:DefaultText"
 msgid "Sounds like Chaney's gone gold panning down on the river. Uh, I guess even scholars need to find ways to make ends meet in exile."
-msgstr ""
+msgstr "Vypadá to, že Chaney šel dolů na řeku rýžovat zlato. Hádám, že i učenci si musí najít způsob, jak si v exilu vydělat na živobytí."
 
 #: conversations/companions/g_companion_max_quest_main:188
 msgctxt "conversations/companions/g_companion_max_quest_main:188:DefaultText"
 msgid "Wait, what are you doing? I'm supposed to be the one to kill him!"
-msgstr ""
+msgstr "Počkej, co to děláš? To já ho mám zabít!"
 
 #: conversations/companions/g_companion_max_quest_main:189
 msgctxt "conversations/companions/g_companion_max_quest_main:189:DefaultText"
 msgid "Ah, yes. he's right here in Fallbrook, rented a domicile with the same bit cart he used to buy his seat on the salvage ship. "
-msgstr ""
+msgstr "Aha, ano. je přímo tady ve Fallbrooku, pronajal si bydlení za stejný kousek vozíku, za který si koupil místo na záchranné lodi. "
 
 #: conversations/companions/g_companion_max_quest_main:190
 msgctxt "conversations/companions/g_companion_max_quest_main:190:DefaultText"
 msgid "There it is. Just yank the drive and I'll do the rest."
-msgstr ""
+msgstr "Tady je. Jen vytáhněte disk a já udělám zbytek."

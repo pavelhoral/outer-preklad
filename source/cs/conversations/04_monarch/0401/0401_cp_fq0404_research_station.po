@@ -3,22 +3,22 @@ msgctxt "conversations/04_monarch/0401/0401_cp_fq0404_research_station:1:Default
 msgid "Universal Defense Logistics\r\n"
 "===========================\r\n"
 "This terminal is only to be used by UDL personnel with A-237 clearance. If you are reading this without A-237 clearance, please report to your supervisor for immediate termination and disciplinary action, including but not limited to: fines in excess of 100,000 bits, detention in a UDL-authorized incarceration center for up to 136 months, mandatory corporate policies and values seminars, revocation of company lounge and/or bathroom privileges."
-msgstr ""
+msgstr "Univerzální obranná logistika =========================== Tento terminál smí používat pouze personál UDL s oprávněním A-237. Pokud toto čtete bez prověrky A-237, hlaste se prosím svému nadřízenému, abyste mohli okamžitě ukončit pracovní poměr a přijmout disciplinární opatření, mimo jiné: pokuty přesahující 100 000 bitů, zadržení ve vězeňském středisku autorizovaném společností UDL až na 136 měsíců, povinné semináře o firemních zásadách a hodnotách, odebrání práv na firemní salonek a/nebo koupelnu."
 
 #: conversations/04_monarch/0401/0401_cp_fq0404_research_station:2
 msgctxt "conversations/04_monarch/0401/0401_cp_fq0404_research_station:2:DefaultText"
 msgid "[Messages]"
-msgstr ""
+msgstr "[Zprávy]"
 
 #: conversations/04_monarch/0401/0401_cp_fq0404_research_station:3
 msgctxt "conversations/04_monarch/0401/0401_cp_fq0404_research_station:3:DefaultText"
 msgid "[Research Data]"
-msgstr ""
+msgstr "[Výzkumná data]"
 
 #: conversations/04_monarch/0401/0401_cp_fq0404_research_station:4
 msgctxt "conversations/04_monarch/0401/0401_cp_fq0404_research_station:4:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"
 
 #: conversations/04_monarch/0401/0401_cp_fq0404_research_station:5
 msgctxt "conversations/04_monarch/0401/0401_cp_fq0404_research_station:5:DefaultText"
@@ -33,46 +33,47 @@ msgid "Project Name: LOREM IPSUM\r\n"
 "UDL disavows all knowledge of and responsibility for LOREM IPSUM.\r\n"
 "\r\n"
 "All data in this report is considered proprietary knowledge of UDL. "
-msgstr ""
+msgstr "Název projektu: Stav: LOREM IPSUM Autorizace: A-237 CLEARANCE ======================== Výsledkem projektu LOREM IPSUM má být účinný, většinou nesmrtící plyn pro potlačování davu, který lze použít proti výtržnostem, rozvášněným nebo nadměrně početným davům. Bohaté kapsy síry činí z Monarchu vynikající místo pro testování a experimenty. První výsledky jsou slibné, ale je nutný další výzkum. Společnost UDL se zříká veškerých znalostí a odpovědnosti za přípravek LOREM IPSUM. Veškeré údaje v této zprávě jsou považovány za vlastní znalosti společnosti UDL. "
 
 #: conversations/04_monarch/0401/0401_cp_fq0404_research_station:6
 msgctxt "conversations/04_monarch/0401/0401_cp_fq0404_research_station:6:DefaultText"
 msgid "[Transfer Files to External Tape]"
-msgstr ""
+msgstr "[Přenos souborů na externí pásku]"
 
 #: conversations/04_monarch/0401/0401_cp_fq0404_research_station:7
 msgctxt "conversations/04_monarch/0401/0401_cp_fq0404_research_station:7:DefaultText"
 msgid "[Return to Root]"
-msgstr ""
+msgstr "[Zpět na kořen]"
 
 #: conversations/04_monarch/0401/0401_cp_fq0404_research_station:8
 msgctxt "conversations/04_monarch/0401/0401_cp_fq0404_research_station:8:DefaultText"
 msgid "Ejecting...\r\n"
 "\r\n"
 "Portable storage device ejected."
-msgstr ""
+msgstr "Vysunutí... Přenosné paměťové zařízení vysunuto."
 
 #: conversations/04_monarch/0401/0401_cp_fq0404_research_station:9
 msgctxt "conversations/04_monarch/0401/0401_cp_fq0404_research_station:9:DefaultText"
 msgid "Messages\n"
 "======================\n"
 ""
-msgstr ""
+msgstr "Messages\n"
+"======================"
 
 #: conversations/04_monarch/0401/0401_cp_fq0404_research_station:10
 msgctxt "conversations/04_monarch/0401/0401_cp_fq0404_research_station:10:DefaultText"
 msgid "[FROM: N. Sanders]"
-msgstr ""
+msgstr "[OD: N. Sanders]"
 
 #: conversations/04_monarch/0401/0401_cp_fq0404_research_station:11
 msgctxt "conversations/04_monarch/0401/0401_cp_fq0404_research_station:11:DefaultText"
 msgid "[FROM: R. Valdez]"
-msgstr ""
+msgstr "[OD: R. Valdez]"
 
 #: conversations/04_monarch/0401/0401_cp_fq0404_research_station:12
 msgctxt "conversations/04_monarch/0401/0401_cp_fq0404_research_station:12:DefaultText"
 msgid "[Return to Root]"
-msgstr ""
+msgstr "[Zpět na kořen]"
 
 #: conversations/04_monarch/0401/0401_cp_fq0404_research_station:13
 msgctxt "conversations/04_monarch/0401/0401_cp_fq0404_research_station:13:DefaultText"
@@ -81,7 +82,7 @@ msgid "Ms. Valdez,\r\n"
 "Just reporting in to let you know the lab's all set up. We found a good sulfur pocket to drill into, so the data's coming in, but this place smells awful.\r\n"
 "\r\n"
 "The only local we've had to make contact with is the SubLight boss in Fallbrook. She doesn't ask questions, but I'm pretty sure she's gouging us, and we're all getting sick of expired Cysty-Bits."
-msgstr ""
+msgstr "Paní Valdezová, jen se hlásím, abych vám sdělil, že laboratoř je připravena. Našli jsme dobrou kapsu na síru, takže data přicházejí, ale tohle místo strašně smrdí. Jediný místní, se kterým jsme museli navázat kontakt, je šéf SubLight ve Fallbrooku. Na nic se neptá, ale jsem si jistý, že nás šidí, a nám všem se dělá špatně z prošlých Cysty-Bitů."
 
 #: conversations/04_monarch/0401/0401_cp_fq0404_research_station:14
 msgctxt "conversations/04_monarch/0401/0401_cp_fq0404_research_station:14:DefaultText"
@@ -92,24 +93,24 @@ msgid "Sanders,\r\n"
 "And I don't care what SubLight is charging as long as it keeps your presence there quiet. If word gets out, we're going to spend the rest of our lives in corporate re-education seminars.\r\n"
 "\r\n"
 "I don't want to hear from you again until you have a working formula. Once we've got that, you and the rest of the lab rats can come to Byzantium and live on cacow ribs for all I care."
-msgstr ""
+msgstr "Sandersi, mělo by to strašně smrdět. A je mi jedno, co si SubLight účtuje, hlavně že tam budeš potichu. Jestli se to rozkřikne, strávíme zbytek života na firemních převýchovných seminářích. Nechci o tobě už slyšet, dokud nebudeš mít funkční vzorec. Až ho budeme mít, můžeš ty i ostatní laboratorní krysy přijet do Byzance a žít na kravských žebrech, co mě zajímá."
 
 #: conversations/04_monarch/0401/0401_cp_fq0404_research_station:15
 msgctxt "conversations/04_monarch/0401/0401_cp_fq0404_research_station:15:DefaultText"
 msgid "[FROM: R. Valdez]"
-msgstr ""
+msgstr "[OD: R. Valdez]"
 
 #: conversations/04_monarch/0401/0401_cp_fq0404_research_station:16
 msgctxt "conversations/04_monarch/0401/0401_cp_fq0404_research_station:16:DefaultText"
 msgid "And come up with a better name for the project. Something flashy and catchy but that the rest of management will take seriously. Maybe \"WATERLOO.\" Or \"DANGERBURN.\"\r\n"
 "\r\n"
 "I'm sick of my boss asking me why I'm forgetting to fill out parts of my reports."
-msgstr ""
+msgstr "A vymyslete pro projekt lepší název. Něco honosného a chytlavého, co ale zbytek vedení bude brát vážně. Třeba \"WATERLOO\". Nebo \"DANGERBURN.\" Už mě nebaví, jak se mě šéf ptá, proč zapomínám vyplňovat části hlášení."
 
 #: conversations/04_monarch/0401/0401_cp_fq0404_research_station:17
 msgctxt "conversations/04_monarch/0401/0401_cp_fq0404_research_station:17:DefaultText"
 msgid "[Alternate Project Titles]"
-msgstr ""
+msgstr "[Alternativní názvy projektů]"
 
 #: conversations/04_monarch/0401/0401_cp_fq0404_research_station:18
 msgctxt "conversations/04_monarch/0401/0401_cp_fq0404_research_station:18:DefaultText"
@@ -120,7 +121,7 @@ msgid "...\r\n"
 "POWELL, J.\r\n"
 "\r\n"
 "Login credentials required."
-msgstr ""
+msgstr "... Přístup omezen uživatelem POWELL, J. Vyžadují se přihlašovací údaje."
 
 #: conversations/04_monarch/0401/0401_cp_fq0404_research_station:19
 msgctxt "conversations/04_monarch/0401/0401_cp_fq0404_research_station:19:DefaultText"
@@ -133,14 +134,14 @@ msgid "If Valdez wants a better title, see how she likes these. - JP\n"
 "SKUNKPARADE\n"
 "FUCKYOUVALDEZ\n"
 "IWANTMYRAISE"
-msgstr ""
+msgstr "Pokud chce Valdezová lepší titul, podívejte se, jak se jí líbí tyto. - JP Bude zuřit, jestli tenhle seznam někdy najde, a já tě nebudu krýt. Ujistěte se, že jsou dobré a skryté. - NS THUNDERDAWG EGGSMAYHEM SKUNKPARADE FUCKYOUVALDEZ IWANTMYRAISE"
 
 #: conversations/04_monarch/0401/0401_cp_fq0404_research_station:20
 msgctxt "conversations/04_monarch/0401/0401_cp_fq0404_research_station:20:DefaultText"
 msgid "[Continue]"
-msgstr ""
+msgstr "[Pokračovat]"
 
 #: conversations/04_monarch/0401/0401_cp_fq0404_research_station:21
 msgctxt "conversations/04_monarch/0401/0401_cp_fq0404_research_station:21:DefaultText"
 msgid "[Login: Powell, J.]"
-msgstr ""
+msgstr "[Přihlásit se: Powell, J.]"

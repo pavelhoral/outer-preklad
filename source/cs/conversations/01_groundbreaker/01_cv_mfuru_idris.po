@@ -1,324 +1,324 @@
 #: conversations/01_groundbreaker/01_cv_mfuru_idris:2
 msgctxt "conversations/01_groundbreaker/01_cv_mfuru_idris:2:DefaultText"
 msgid "Ah, hello. Junlei called up from Engineering. She said I should let you buy medical supplies from our stores."
-msgstr ""
+msgstr "Ahoj. Junlei se ozval ze strojovny. Říkala, že bych ti měla dovolit koupit si lékařské potřeby v našich obchodech."
 
 #: conversations/01_groundbreaker/01_cv_mfuru_idris:3
 msgctxt "conversations/01_groundbreaker/01_cv_mfuru_idris:3:DefaultText"
 msgid "Something I can help you with?"
-msgstr ""
+msgstr "Mohu vám s něčím pomoci?"
 
 #: conversations/01_groundbreaker/01_cv_mfuru_idris:6
 msgctxt "conversations/01_groundbreaker/01_cv_mfuru_idris:6:DefaultText"
 msgid "Can I buy supplies from you? You seem well stocked."
-msgstr ""
+msgstr "Mohu si u vás koupit zásoby? Zdá se, že jste dobře zásobeni."
 
 #: conversations/01_groundbreaker/01_cv_mfuru_idris:9
 msgctxt "conversations/01_groundbreaker/01_cv_mfuru_idris:9:DefaultText"
 msgid "See you around."
-msgstr ""
+msgstr "Uvidíme se."
 
 #: conversations/01_groundbreaker/01_cv_mfuru_idris:13
 msgctxt "conversations/01_groundbreaker/01_cv_mfuru_idris:13:DefaultText"
 msgid "Not without dispensation from Chief Junlei, I fear. Supplies are hard to come by out here."
-msgstr ""
+msgstr "Obávám se, že ne bez svolení náčelníka Junleiho. Zásoby se tu shánějí těžko."
 
 #: conversations/01_groundbreaker/01_cv_mfuru_idris:17
 msgctxt "conversations/01_groundbreaker/01_cv_mfuru_idris:17:DefaultText"
 msgid "A better selection than you'll find on the Promenade Deck, and quality commensurate with a friend of the station."
-msgstr ""
+msgstr "Lepší výběr než na promenádní palubě a kvalita odpovídající příteli stanice."
 
 #: conversations/01_groundbreaker/01_cv_mfuru_idris:18
 msgctxt "conversations/01_groundbreaker/01_cv_mfuru_idris:18:DefaultText"
 msgid "Let me see what you've got for sale."
-msgstr ""
+msgstr "Ukažte mi, co máte na prodej."
 
 #: conversations/01_groundbreaker/01_cv_mfuru_idris:39
 msgctxt "conversations/01_groundbreaker/01_cv_mfuru_idris:39:DefaultText"
 msgid "I'm not interested in talk."
-msgstr ""
+msgstr "Nemám zájem o řeči."
 
 #: conversations/01_groundbreaker/01_cv_mfuru_idris:42
 msgctxt "conversations/01_groundbreaker/01_cv_mfuru_idris:42:DefaultText"
 msgid "What's the matter?"
-msgstr ""
+msgstr "Co se děje?"
 
 #: conversations/01_groundbreaker/01_cv_mfuru_idris:43
 msgctxt "conversations/01_groundbreaker/01_cv_mfuru_idris:43:DefaultText"
 msgid "Suit yourself."
-msgstr ""
+msgstr "Vyhovujte si."
 
 #: conversations/01_groundbreaker/01_cv_mfuru_idris:44
 msgctxt "conversations/01_groundbreaker/01_cv_mfuru_idris:44:DefaultText"
 msgid "Do you know when I met Junlei Tennyson?"
-msgstr ""
+msgstr "Víte, kdy jsem se seznámil s Junlei Tennysonovou?"
 
 #: conversations/01_groundbreaker/01_cv_mfuru_idris:45
 msgctxt "conversations/01_groundbreaker/01_cv_mfuru_idris:45:DefaultText"
 msgid "No."
-msgstr ""
+msgstr "Ne."
 
 #: conversations/01_groundbreaker/01_cv_mfuru_idris:46
 msgctxt "conversations/01_groundbreaker/01_cv_mfuru_idris:46:DefaultText"
 msgid "<Remain silent.>"
-msgstr ""
+msgstr "<Zůstaňte zticha.>"
 
 #: conversations/01_groundbreaker/01_cv_mfuru_idris:47
 msgctxt "conversations/01_groundbreaker/01_cv_mfuru_idris:47:DefaultText"
 msgid "I guess you heard she's dead, huh?"
-msgstr ""
+msgstr "Asi jsi slyšel, že je mrtvá, co?"
 
 #: conversations/01_groundbreaker/01_cv_mfuru_idris:48
 msgctxt "conversations/01_groundbreaker/01_cv_mfuru_idris:48:DefaultText"
 msgid "You were friends?"
-msgstr ""
+msgstr "Byli jste přátelé?"
 
 #: conversations/01_groundbreaker/01_cv_mfuru_idris:49
 msgctxt "conversations/01_groundbreaker/01_cv_mfuru_idris:49:DefaultText"
 msgid "The day she was born. There were three to welcome her. Her mother, her father, and myself. Her first sight was the stars. Her mother held her to the heavens."
-msgstr ""
+msgstr "V den, kdy se narodila. Přivítali ji tři. Její matka, její otec a já. Její první pohled byl na hvězdy. Matka ji držela na nebi."
 
 #: conversations/01_groundbreaker/01_cv_mfuru_idris:50
 msgctxt "conversations/01_groundbreaker/01_cv_mfuru_idris:50:DefaultText"
 msgid "I was her doctor, from the day she was born. Her caretaker, her confessor. I knew her better than anyone else ever will."
-msgstr ""
+msgstr "Byl jsem její lékař ode dne, kdy se narodila. Její opatrovník, její zpovědník. Znal jsem ji lépe než kdokoli jiný."
 
 #: conversations/01_groundbreaker/01_cv_mfuru_idris:51
 msgctxt "conversations/01_groundbreaker/01_cv_mfuru_idris:51:DefaultText"
 msgid "I remember her by her mother's casket, acting brave. I stood vigil with her when her grandmother passed. She never said a word."
-msgstr ""
+msgstr "Vzpomínám si na ni u matčiny rakve, jak se chovala statečně. Stál jsem s ní na stráži, když zemřela její babička. Nikdy neřekla ani slovo."
 
 #: conversations/01_groundbreaker/01_cv_mfuru_idris:52
 msgctxt "conversations/01_groundbreaker/01_cv_mfuru_idris:52:DefaultText"
 msgid "She confided in me long after her father stopped listening, and after he died. You don't know what's been lost, Captain."
-msgstr ""
+msgstr "Svěřovala se mi ještě dlouho poté, co ji otec přestal poslouchat, i po jeho smrti. Nevíte, co všechno se ztratilo, kapitáne."
 
 #: conversations/01_groundbreaker/01_cv_mfuru_idris:111
 msgctxt "conversations/01_groundbreaker/01_cv_mfuru_idris:111:DefaultText"
 msgid "What seems to be the problem?"
-msgstr ""
+msgstr "V čem se zdá být problém?"
 
 #: conversations/01_groundbreaker/01_cv_mfuru_idris:116
 msgctxt "conversations/01_groundbreaker/01_cv_mfuru_idris:116:DefaultText"
 msgid "What is it?"
-msgstr ""
+msgstr "Co to je?"
 
 #: conversations/01_groundbreaker/01_cv_mfuru_idris:118
 msgctxt "conversations/01_groundbreaker/01_cv_mfuru_idris:118:DefaultText"
 msgid "Don't know, and don't care."
-msgstr ""
+msgstr "Nevím a nezajímá mě to."
 
 #: conversations/01_groundbreaker/01_cv_mfuru_idris:119
 msgctxt "conversations/01_groundbreaker/01_cv_mfuru_idris:119:DefaultText"
 msgid "I'm sorry for your loss."
-msgstr ""
+msgstr "Je mi líto vaší ztráty."
 
 #: conversations/01_groundbreaker/01_cv_mfuru_idris:120
 msgctxt "conversations/01_groundbreaker/01_cv_mfuru_idris:120:DefaultText"
 msgid "She wasn't the nicest person to deal with."
-msgstr ""
+msgstr "Nebyla to zrovna příjemná osoba."
 
 #: conversations/01_groundbreaker/01_cv_mfuru_idris:121
 msgctxt "conversations/01_groundbreaker/01_cv_mfuru_idris:121:DefaultText"
 msgid "She grew to be a woman of convictions, in a place where there are few. Did that merit death?"
-msgstr ""
+msgstr "Vyrostla z ní žena s pevným přesvědčením v místě, kde je jich málo. Zasloužilo si to smrt?"
 
 #: conversations/01_groundbreaker/01_cv_mfuru_idris:122
 msgctxt "conversations/01_groundbreaker/01_cv_mfuru_idris:122:DefaultText"
 msgid "We are all less with the passing of a young light."
-msgstr ""
+msgstr "Odchod mladého světla nás všechny zasáhl méně."
 
 #: conversations/01_groundbreaker/01_cv_mfuru_idris:123
 msgctxt "conversations/01_groundbreaker/01_cv_mfuru_idris:123:DefaultText"
 msgid "The world is smaller, Captain. Darker."
-msgstr ""
+msgstr "Svět je menší, kapitáne. Temnější."
 
 #: conversations/01_groundbreaker/01_cv_mfuru_idris:130
 msgctxt "conversations/01_groundbreaker/01_cv_mfuru_idris:130:DefaultText"
 msgid "If there's nothing else you need, please leave."
-msgstr ""
+msgstr "Pokud už nic nepotřebujete, odejděte, prosím."
 
 #: conversations/01_groundbreaker/01_cv_mfuru_idris:258
 msgctxt "conversations/01_groundbreaker/01_cv_mfuru_idris:258:DefaultText"
 msgid "I'd like to see Jessie Doyle."
-msgstr ""
+msgstr "Rád bych viděl Jessie Doylovou."
 
 #: conversations/01_groundbreaker/01_cv_mfuru_idris:260
 msgctxt "conversations/01_groundbreaker/01_cv_mfuru_idris:260:DefaultText"
 msgid "What was she admitted for?"
-msgstr ""
+msgstr "Proč byla přijata?"
 
 #: conversations/01_groundbreaker/01_cv_mfuru_idris:261
 msgctxt "conversations/01_groundbreaker/01_cv_mfuru_idris:261:DefaultText"
 msgid "Why would she refuse visitors?"
-msgstr ""
+msgstr "Proč by odmítala návštěvy?"
 
 #: conversations/01_groundbreaker/01_cv_mfuru_idris:262
 msgctxt "conversations/01_groundbreaker/01_cv_mfuru_idris:262:DefaultText"
 msgid "There are many possible reasons a patient might wish to maintain their privacy. I don't care to speculate."
-msgstr ""
+msgstr "Existuje mnoho možných důvodů, proč si pacient přeje zachovat své soukromí. Nechci spekulovat."
 
 #: conversations/01_groundbreaker/01_cv_mfuru_idris:263
 msgctxt "conversations/01_groundbreaker/01_cv_mfuru_idris:263:DefaultText"
 msgid "I'm afraid patient matters are confidential."
-msgstr ""
+msgstr "Obávám se, že záležitosti pacientů jsou důvěrné."
 
 #: conversations/01_groundbreaker/01_cv_mfuru_idris:312
 msgctxt "conversations/01_groundbreaker/01_cv_mfuru_idris:312:DefaultText"
 msgid "Now, is there something I can help you with?"
-msgstr ""
+msgstr "Mohu vám s něčím pomoci?"
 
 #: conversations/01_groundbreaker/01_cv_mfuru_idris:314
 msgctxt "conversations/01_groundbreaker/01_cv_mfuru_idris:314:DefaultText"
 msgid "I hope you appreciate us opening our stocks. We're not as well supplied as a Board dispensary."
-msgstr ""
+msgstr "Doufám, že oceníte, že jsme otevřeli naše zásoby. Nejsme tak dobře zásobeni jako výdejna Board."
 
 #: conversations/01_groundbreaker/01_cv_mfuru_idris:315
 msgctxt "conversations/01_groundbreaker/01_cv_mfuru_idris:315:DefaultText"
 msgid "I hope I can trust you to put it to moral use. I know you freelancers take all manner of dubious contracts."
-msgstr ""
+msgstr "Doufám, že vám mohu důvěřovat, že ji využijete morálně. Vím, že vy na volné noze berete nejrůznější pochybné zakázky."
 
 #: conversations/01_groundbreaker/01_cv_mfuru_idris:316
 msgctxt "conversations/01_groundbreaker/01_cv_mfuru_idris:316:DefaultText"
 msgid "We'd like to see Jessie Doyle."
-msgstr ""
+msgstr "Rádi bychom viděli Jessie Doyleovou."
 
 #: conversations/01_groundbreaker/01_cv_mfuru_idris:317
 msgctxt "conversations/01_groundbreaker/01_cv_mfuru_idris:317:DefaultText"
 msgid "If only my other patients had so many inquiring after them. I'll tell you what I've told the others."
-msgstr ""
+msgstr "Kéž by i ostatní moji pacienti měli tolik zájemců. Řeknu vám to, co jsem řekl ostatním."
 
 #: conversations/01_groundbreaker/01_cv_mfuru_idris:318
 msgctxt "conversations/01_groundbreaker/01_cv_mfuru_idris:318:DefaultText"
 msgid "I don't know what Dr. Fenhill has told you. Let me assure you our decision is not based in malice nor whimsy."
-msgstr ""
+msgstr "Nevím, co vám doktor Fenhill řekl. Ujišťuji vás, že naše rozhodnutí není založeno na zlém úmyslu ani rozmaru."
 
 #: conversations/01_groundbreaker/01_cv_mfuru_idris:319
 msgctxt "conversations/01_groundbreaker/01_cv_mfuru_idris:319:DefaultText"
 msgid "The records say Ms. Doyle checked herself in and requested I admit no visitors. The requests of our patients are paramount. So no. You may not see her."
-msgstr ""
+msgstr "Podle záznamů se paní Doylová sama přihlásila a požádala, abych nepřijímal žádné návštěvy. Žádosti našich pacientů jsou prvořadé. Takže ne. Nesmíte ji vidět."
 
 #: conversations/01_groundbreaker/01_cv_mfuru_idris:320
 msgctxt "conversations/01_groundbreaker/01_cv_mfuru_idris:320:DefaultText"
 msgid "\"The records say?\" Have you actually spoken to her yourself?"
-msgstr ""
+msgstr "\"Podle záznamů?\" Mluvil jste s ní osobně?"
 
 #: conversations/01_groundbreaker/01_cv_mfuru_idris:321
 msgctxt "conversations/01_groundbreaker/01_cv_mfuru_idris:321:DefaultText"
 msgid "She's not my patient. I'm certain no one on my staff would falsify patient records, if that's what you're implying."
-msgstr ""
+msgstr "Není to moje pacientka. Jsem si jistý, že nikdo z mého personálu by nefalšoval záznamy o pacientech, pokud to naznačujete."
 
 #: conversations/01_groundbreaker/01_cv_mfuru_idris:394
 msgctxt "conversations/01_groundbreaker/01_cv_mfuru_idris:394:DefaultText"
 msgid "Take care."
-msgstr ""
+msgstr "Dávejte na sebe pozor."
 
 #: conversations/01_groundbreaker/01_cv_mfuru_idris:395
 msgctxt "conversations/01_groundbreaker/01_cv_mfuru_idris:395:DefaultText"
 msgid "How do you mean?"
-msgstr ""
+msgstr "Jak to myslíte?"
 
 #: conversations/01_groundbreaker/01_cv_mfuru_idris:396
 msgctxt "conversations/01_groundbreaker/01_cv_mfuru_idris:396:DefaultText"
 msgid "We don't have the ability to manufacture our own medical supplies here on Groundbreaker."
-msgstr ""
+msgstr "Na Groundbreakeru nemáme možnost vyrábět vlastní zdravotnický materiál."
 
 #: conversations/01_groundbreaker/01_cv_mfuru_idris:397
 msgctxt "conversations/01_groundbreaker/01_cv_mfuru_idris:397:DefaultText"
 msgid "Regrettably, we are dependent on the Board for such mundane items as bandages and antibiotics, as well as more critical resources, like adequately trained staff."
-msgstr ""
+msgstr "Bohužel jsme závislí na správní radě, pokud jde o tak obyčejné věci, jako jsou obvazy a antibiotika, a také na důležitějších zdrojích, jako je dostatečně vyškolený personál."
 
 #: conversations/01_groundbreaker/01_cv_mfuru_idris:398
 msgctxt "conversations/01_groundbreaker/01_cv_mfuru_idris:398:DefaultText"
 msgid "We'd nearly signed a supply agreement with Auntie Cleo's, but they demanded we only use their branded drugs, and that's simply not tenable."
-msgstr ""
+msgstr "Málem jsme podepsali smlouvu o dodávkách s Auntie Cleo's, ale požadovali, abychom používali pouze jejich značkové léky, a to prostě nejde."
 
 #: conversations/01_groundbreaker/01_cv_mfuru_idris:399
 msgctxt "conversations/01_groundbreaker/01_cv_mfuru_idris:399:DefaultText"
 msgid "Ah, Dr. Fenhill. I hope you're not here to harass any of our patients."
-msgstr ""
+msgstr "Ach, doktor Fenhill. Doufám, že tu nejste proto, abyste obtěžoval naše pacienty."
 
 #: conversations/01_groundbreaker/01_cv_mfuru_idris:400
 msgctxt "conversations/01_groundbreaker/01_cv_mfuru_idris:400:DefaultText"
 msgid "Harassing? Come on, I was trying to help Jessie."
-msgstr ""
+msgstr "Obtěžování? No tak, snažil jsem se Jessie pomoct."
 
 #: conversations/01_groundbreaker/01_cv_mfuru_idris:401
 msgctxt "conversations/01_groundbreaker/01_cv_mfuru_idris:401:DefaultText"
 msgid "You have a creative definition of helping."
-msgstr ""
+msgstr "Máte kreativní definici pomoci."
 
 #: conversations/01_groundbreaker/01_cv_mfuru_idris:402
 msgctxt "conversations/01_groundbreaker/01_cv_mfuru_idris:402:DefaultText"
 msgid "Then it's lucky for us both that I've found gainful employment with someone who appreciates my ingenuity."
-msgstr ""
+msgstr "Pak je štěstí pro nás oba, že jsem našel výdělečné zaměstnání u někoho, kdo oceňuje mou vynalézavost."
 
 #: conversations/01_groundbreaker/01_cv_mfuru_idris:403
 msgctxt "conversations/01_groundbreaker/01_cv_mfuru_idris:403:DefaultText"
 msgid "Good luck with this one, Captain."
-msgstr ""
+msgstr "Hodně štěstí, kapitáne."
 
 #: conversations/01_groundbreaker/01_cv_mfuru_idris:406
 msgctxt "conversations/01_groundbreaker/01_cv_mfuru_idris:406:DefaultText"
 msgid "Good on you, doc. You don't want Cleo sinking their claws into you like that."
-msgstr ""
+msgstr "To je dobře, doktore. Přece nechcete, aby do vás Cleo takhle zatínal drápy."
 
 #: conversations/01_groundbreaker/01_cv_mfuru_idris:408
 msgctxt "conversations/01_groundbreaker/01_cv_mfuru_idris:408:DefaultText"
 msgid "It's the Board or the outlaws, I'm afraid. I'm beginning to wonder if perhaps the devilish Board we know might be better than the pirates we don't."
-msgstr ""
+msgstr "Obávám se, že buď rada, nebo psanci. Začínám si říkat, jestli by třeba ďábelská Rada, kterou známe, nebyla lepší než piráti, které neznáme."
 
 #: conversations/01_groundbreaker/01_cv_mfuru_idris:410
 msgctxt "conversations/01_groundbreaker/01_cv_mfuru_idris:410:DefaultText"
 msgid "She was real strong like that. But her quiet masked a lot of worry - for her ship, for her Engineers, for everyone. She cared so much."
-msgstr ""
+msgstr "Takhle byla opravdu silná. Její klid však skrýval spoustu starostí - o loď, o inženýry, o všechny. Tolik jí na nich záleželo."
 
 #: conversations/01_groundbreaker/01_cv_mfuru_idris:411
 msgctxt "conversations/01_groundbreaker/01_cv_mfuru_idris:411:DefaultText"
 msgid "I'm one who helped Wanda get her automechs. Can't you do me a favor in return?"
-msgstr ""
+msgstr "Jsem jeden z těch, kteří Vandě pomohli získat automechaniky. Nemůžeš mi na oplátku prokázat laskavost?"
 
 #: conversations/01_groundbreaker/01_cv_mfuru_idris:412
 msgctxt "conversations/01_groundbreaker/01_cv_mfuru_idris:412:DefaultText"
 msgid "Yes, and we're grateful for the help. I'll let you in, but please do respect Ms. Doyle's privacy."
-msgstr ""
+msgstr "Ano, a jsme vděční za pomoc. Pustím vás dovnitř, ale respektujte prosím soukromí paní Doylové."
 
 #: conversations/01_groundbreaker/01_cv_mfuru_idris:413
 msgctxt "conversations/01_groundbreaker/01_cv_mfuru_idris:413:DefaultText"
 msgid "Any chance I could have a look at your back rooms?"
-msgstr ""
+msgstr "Mohl bych se podívat do vašich zadních pokojů?"
 
 #: conversations/01_groundbreaker/01_cv_mfuru_idris:414
 msgctxt "conversations/01_groundbreaker/01_cv_mfuru_idris:414:DefaultText"
 msgid "I'm afraid that area is quarantined for the safety of Groundbreaker. Why do you ask?"
-msgstr ""
+msgstr "Obávám se, že tato oblast je v karanténě kvůli bezpečnosti Hromotluka. Proč se ptáte?"
 
 #: conversations/01_groundbreaker/01_cv_mfuru_idris:415
 msgctxt "conversations/01_groundbreaker/01_cv_mfuru_idris:415:DefaultText"
 msgid "I need to calibrate one of Wanda's automechs, and I don't want to get oil everywhere."
-msgstr ""
+msgstr "Potřebuji zkalibrovat jeden z Vandiných automechaniků a nechci, aby se mi všude rozlil olej."
 
 #: conversations/01_groundbreaker/01_cv_mfuru_idris:416
 msgctxt "conversations/01_groundbreaker/01_cv_mfuru_idris:416:DefaultText"
 msgid "Just curious."
-msgstr ""
+msgstr "Jen jsem zvědavý."
 
 #: conversations/01_groundbreaker/01_cv_mfuru_idris:417
 msgctxt "conversations/01_groundbreaker/01_cv_mfuru_idris:417:DefaultText"
 msgid "Best to keep your curiosity to yourself, I believe."
-msgstr ""
+msgstr "Myslím, že nejlepší bude, když si svou zvědavost necháte pro sebe."
 
 #: conversations/01_groundbreaker/01_cv_mfuru_idris:418
 msgctxt "conversations/01_groundbreaker/01_cv_mfuru_idris:418:DefaultText"
 msgid "Very well, you may enter. But please don't linger - I prefer to keep the dangerous pathogens corralled where I can see them."
-msgstr ""
+msgstr "Dobrá, můžete vstoupit. Ale prosím, nezdržujte se - nebezpečné patogeny bych raději držel na očích."
 
 #: conversations/01_groundbreaker/01_cv_mfuru_idris:419
 msgctxt "conversations/01_groundbreaker/01_cv_mfuru_idris:419:DefaultText"
 msgid "I'll use my speediest wrench. Promise."
-msgstr ""
+msgstr "Použiji svůj nejrychlejší klíč. Slibuji."
 
 #: conversations/01_groundbreaker/01_cv_mfuru_idris:420
 msgctxt "conversations/01_groundbreaker/01_cv_mfuru_idris:420:DefaultText"
 msgid "That's very conscientious of you, thank you."
-msgstr ""
+msgstr "To je od vás velmi svědomité, děkuji."

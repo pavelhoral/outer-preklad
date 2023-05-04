@@ -8,22 +8,22 @@ msgid "Roseway Laboratory\r\n"
 "Terminal Access\r\n"
 "\r\n"
 "Welcome, H. Braden"
-msgstr ""
+msgstr "Roseway Laboratory Property of Auntie Cleo ======================== Terminal Access Welcome, H. Braden"
 
 #: conversations/08_roseway/0803_cp_message_terminal01:2
 msgctxt "conversations/08_roseway/0803_cp_message_terminal01:2:DefaultText"
 msgid "[FROM: R. Agarwal]"
-msgstr ""
+msgstr "[OD: R. Agarwal]"
 
 #: conversations/08_roseway/0803_cp_message_terminal01:3
 msgctxt "conversations/08_roseway/0803_cp_message_terminal01:3:DefaultText"
 msgid "[FROM: G. Bakker]"
-msgstr ""
+msgstr "[OD: G. Bakker]"
 
 #: conversations/08_roseway/0803_cp_message_terminal01:4
 msgctxt "conversations/08_roseway/0803_cp_message_terminal01:4:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"
 
 #: conversations/08_roseway/0803_cp_message_terminal01:5
 msgctxt "conversations/08_roseway/0803_cp_message_terminal01:5:DefaultText"
@@ -48,7 +48,7 @@ msgid "Roseway Laboratory\n"
 "\n"
 "-Rohan\n"
 ""
-msgstr ""
+msgstr "Roseway Laboratory Property of Auntie Cleo ======================== Zprávy OD: Agarwal TO: H. Braden SUBJECT: R: Špatná zpráva je, že máme problém se šproty. Díky těm malým potvorám, které nám přežvykují dráty, je náš ventilační systém dočasně mimo provoz. Pokud jsou vaši raptidoni nevrlí, budete je muset uspat ručně. Přineste si několik kanystrů sedativ a připojte je k pomocnému terminálu v hlavní výzkumné komoře. Dobrá zpráva je, že moje Hefaistosova kladiva zlikvidovala vaše drahé Rizzovy rangery. Dáš si k tomu pokornému koláči omáčku na těstoviny od tety Cleo? -Rohan"
 
 #: conversations/08_roseway/0803_cp_message_terminal01:6
 msgctxt "conversations/08_roseway/0803_cp_message_terminal01:6:DefaultText"
@@ -76,12 +76,12 @@ msgid "Roseway Laboratory\n"
 "Respectfully yours,\n"
 "\n"
 "Gail"
-msgstr ""
+msgstr "Roseway Laboratory Property of Auntie Cleo ======================== Zprávy OD: Bradenovi PŘEDMĚT: G: Hansi, prosím, vysvětlete mi tu nezvládnutelnou katastrofu, kterou právě držím v ruce. Mám zde formulář schvalující přemístění naší matky Raptidon do hlavní haly. Formulář podepsaný vámi. Zaprvé, strukturální integrita našich raptidoních nádrží zdaleka nestačí na to, aby se do nich vešla rozzuřená raptidoní matka. Zadruhé, raptidoni jsou notoricky známí jako teritoriální a nesmírně si chrání svá mláďata. Prosím, zastavte mě, jestli na vás používám příliš mnoho čísel. Vím, že máš problém se základní aritmetikou, když vidím, že ti zřejmě nedochází, že raptidoní matka + raptidoní nádrž = vražda. S úctou, Gail."
 
 #: conversations/08_roseway/0803_cp_message_terminal01:7
 msgctxt "conversations/08_roseway/0803_cp_message_terminal01:7:DefaultText"
 msgid "[Messages]"
-msgstr ""
+msgstr "[Zprávy]"
 
 #: conversations/08_roseway/0803_cp_message_terminal01:8
 msgctxt "conversations/08_roseway/0803_cp_message_terminal01:8:DefaultText"
@@ -92,4 +92,4 @@ msgid "Roseway Laboratory\n"
 "\n"
 "Messages\n"
 ""
-msgstr ""
+msgstr "Roseway Laboratory Property of Auntie Cleo ======================== Zprávy"

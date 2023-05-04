@@ -3,22 +3,22 @@ msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal2:3:Def
 msgid "UDL-002 THE HOPE\r\n"
 "===========================\r\n"
 "Warning: Unauthorized access will result in immediate termination upon your arrival in Halcyon."
-msgstr ""
+msgstr "UDL-002 THE HOPE =========================== Varování: Neoprávněný přístup bude mít za následek okamžité ukončení přístupu po vašem příchodu do Halcyonu."
 
 #: conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal2:4
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal2:4:DefaultText"
 msgid "[Message Exchange #T-1022]"
-msgstr ""
+msgstr "[Výměna zpráv #T-1022]"
 
 #: conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal2:8
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal2:8:DefaultText"
 msgid "[Automated Audio Transcript #R-211]"
-msgstr ""
+msgstr "[Automatizovaný zvukový přepis #R-211]"
 
 #: conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal2:17
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal2:17:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"
 
 #: conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal2:18
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal2:18:DefaultText"
@@ -33,7 +33,7 @@ msgid "NOLDA, F: hey, rez\r\n"
 "TORREGA, R: I'm inspecting the deck all the same.\r\n"
 "NOLDA, F: ok you know what\r\n"
 "NOLDA, F: i will find alexei and play with him instead"
-msgstr ""
+msgstr "NOLDA, F: ahoj, Rez TORREGA, R: jo? NOLDA, F: nudím se. dáš si partičku? TORREGA, R: jo, ale mám službu na mostě. NOLDA, F: přijdu nahoru. zavoláš mi? TORREGA, R: jasně. tentokrát nepodváděj.NOLDA, F: poslouchej NOLDA, F: není to podvádění, když tě nechytí TORREGA, R: stejně kontroluju palubu. NOLDA, F: dobře, víš co NOLDA, F: najdu alexeie a budu hrát s ním místo toho."
 
 #: conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal2:22
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal2:22:DefaultText"
@@ -44,16 +44,16 @@ msgid "VOLKOV, A: Oh... oh, my fuck.\r\n"
 "VOLKOV, A: Is that so bad?\r\n"
 "TORREGA, R: I've got someone waiting for me in the pods, Alexei. This is a one-trip thing.\r\n"
 "VOLKOV, A: Ah."
-msgstr ""
+msgstr "VOLKOV, A: Ach... ach, kurva. TORREGA, R: Pšt. VOLKOV, A: Promiň. Je těžké být potichu. TORREGA, R: No, zkus to. Jestli nás zachytí počítač, budeme navždycky v záznamu. VOLKOV, A: To je tak špatný? TORREGA, R: Někdo na mě čeká v luskách, Alexeji. Tohle je záležitost na jednu cestu. VOLKOV, A: Aha."
 
 #: conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal2:23
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal2:23:DefaultText"
 msgid "CREW TERMINAL\r\n"
 "===========================\r\n"
 "Error accessing archives. Available entries:"
-msgstr ""
+msgstr "CREW TERMINAL =========================== Chyba při přístupu k archivům. Dostupné záznamy:"
 
 #: conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal2:24
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_crew_terminal2:24:DefaultText"
 msgid "[Continue]"
-msgstr ""
+msgstr "[Pokračovat]"

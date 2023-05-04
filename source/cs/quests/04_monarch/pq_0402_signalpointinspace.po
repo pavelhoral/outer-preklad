@@ -1,220 +1,220 @@
 #: quests/04_monarch/pq_0402_signalpointinspace:0
 msgctxt "quests/04_monarch/pq_0402_signalpointinspace:0:DefaultText"
 msgid "Signal Point in Space"
-msgstr ""
+msgstr "Signální bod ve vesmíru"
 
 #: quests/04_monarch/pq_0402_signalpointinspace:1
 msgctxt "quests/04_monarch/pq_0402_signalpointinspace:1:DefaultText"
 msgid "Meet with Sophia's Contact at Stellar Bay"
-msgstr ""
+msgstr "Setkání se Sophiiným kontaktem v zátoce Stellar Bay"
 
 #: quests/04_monarch/pq_0402_signalpointinspace:2
 msgctxt "quests/04_monarch/pq_0402_signalpointinspace:2:DefaultText"
 msgid "Find Nyoka at The Yacht Club"
-msgstr ""
+msgstr "Najděte Nyoka v Yacht Clubu"
 
 #: quests/04_monarch/pq_0402_signalpointinspace:3
 msgctxt "quests/04_monarch/pq_0402_signalpointinspace:3:DefaultText"
 msgid "Help Nyoka with Her Hangover"
-msgstr ""
+msgstr "Nápověda Nyoka s její kocovinou"
 
 #: quests/04_monarch/pq_0402_signalpointinspace:4
 msgctxt "quests/04_monarch/pq_0402_signalpointinspace:4:DefaultText"
 msgid "Investigate the Interplanetary Broadcaster at Devil's Peak"
-msgstr ""
+msgstr "Prozkoumejte meziplanetární vysílač na Ďáblově vrchu"
 
 #: quests/04_monarch/pq_0402_signalpointinspace:5
 msgctxt "quests/04_monarch/pq_0402_signalpointinspace:5:DefaultText"
 msgid "Put an End to the MSI and Iconoclast Transmissions"
-msgstr ""
+msgstr "Ukončete přenosy MSI a Iconoclast"
 
 #: quests/04_monarch/pq_0402_signalpointinspace:9
 msgctxt "quests/04_monarch/pq_0402_signalpointinspace:9:DefaultText"
 msgid "Return to Sophia"
-msgstr ""
+msgstr "Zpět na Sophia"
 
 #: quests/04_monarch/pq_0402_signalpointinspace:15
 msgctxt "quests/04_monarch/pq_0402_signalpointinspace:15:DefaultText"
 msgid "Search Everett Gill's Body"
-msgstr ""
+msgstr "Hledat tělo Everett Gill"
 
 #: quests/04_monarch/pq_0402_signalpointinspace:18
 msgctxt "quests/04_monarch/pq_0402_signalpointinspace:18:DefaultText"
 msgid "Return to Hiram"
-msgstr ""
+msgstr "Návrat do Hiram"
 
 #: quests/04_monarch/pq_0402_signalpointinspace:21
 msgctxt "quests/04_monarch/pq_0402_signalpointinspace:21:DefaultText"
 msgid "Jump Start the Tower"
-msgstr ""
+msgstr "Spuštění věže"
 
 #: quests/04_monarch/pq_0402_signalpointinspace:22
 msgctxt "quests/04_monarch/pq_0402_signalpointinspace:22:DefaultText"
 msgid "Access the Broker's Terminal"
-msgstr ""
+msgstr "Přístup k terminálu zprostředkovatele"
 
 #: quests/04_monarch/pq_0402_signalpointinspace:10000
 msgctxt "quests/04_monarch/pq_0402_signalpointinspace:10000:DefaultText"
 msgid "Disruptive broadcasts originating from Monarch have been increasing in frequency. In addition to illegal use of the radio bands for business, anti-Board propaganda has also saturated the airwaves. Sophia has asked you to take control of the main broadcast tower at Devil's Peak so the Board can regulate all transmissions from Monarch."
-msgstr ""
+msgstr "Rušivé vysílání z Monarchu je stále častější. Kromě nelegálního využívání rádiových pásem pro obchodní účely se v éteru objevuje i protiradarová propaganda. Sophia vás požádala, abyste převzali kontrolu nad hlavní vysílací věží na Ďáblově vrchu, aby Rada mohla regulovat veškeré vysílání z Monarchie."
 
 #: quests/04_monarch/pq_0402_signalpointinspace:10001
 msgctxt "quests/04_monarch/pq_0402_signalpointinspace:10001:DefaultText"
 msgid "Sophia's agent at Stellar Bay can get you up to speed regarding the illegal transmissions taking place on Monarch. Find him and speak with him."
-msgstr ""
+msgstr "Sophiin agent ve Stellar Bay vás může informovat o nelegálních přenosech na Monarchu. Najděte ho a promluvte si s ním."
 
 #: quests/04_monarch/pq_0402_signalpointinspace:10002
 msgctxt "quests/04_monarch/pq_0402_signalpointinspace:10002:DefaultText"
 msgid "A Monarch big-game hunter named Nyoka is often found at The Yacht Club in Stellar Bay. She may be able to help you reach Devil's Peak more easily."
-msgstr ""
+msgstr "V Yacht Clubu v zátoce Stellar Bay se často vyskytuje lovec velkých zvířat Monarch jménem Nyoka. Možná vám pomůže snáze dosáhnout Ďáblova vrchu."
 
 #: quests/04_monarch/pq_0402_signalpointinspace:10003
 msgctxt "quests/04_monarch/pq_0402_signalpointinspace:10003:DefaultText"
 msgid "Nyoka is willing to guide you up Devil's Peak, but you'll have to \"cure\" her of her hangover first."
-msgstr ""
+msgstr "Nyoka je ochotná vás na Ďáblův vrchol vyvést, ale nejdřív ji musíte \"vyléčit\" z kocoviny."
 
 #: quests/04_monarch/pq_0402_signalpointinspace:10004
 msgctxt "quests/04_monarch/pq_0402_signalpointinspace:10004:DefaultText"
 msgid "All broadcasts off-planet must go through the main transmitter atop Devil's Peak. Travel to the station and determine where the illegal messaging is coming from by checking the main terminal.\r\n"
 "\r\n"
 "Limited opportunities exist to scale the mountain. There is a dangerous, ascending path along the western side of Devil's Peak, though other routes may exist."
-msgstr ""
+msgstr "Veškeré vysílání mimo planetu musí procházet přes hlavní vysílač na Ďáblově vrchu. Vydejte se na stanici a zkontrolováním hlavního terminálu zjistěte, odkud nelegální zprávy přicházejí. Existují omezené možnosti, jak na horu vystoupat. Podél západní strany Ďáblova vrchu vede nebezpečná stoupající cesta, mohou však existovat i jiné trasy."
 
 #: quests/04_monarch/pq_0402_signalpointinspace:10005
 msgctxt "quests/04_monarch/pq_0402_signalpointinspace:10005:DefaultText"
 msgid "The CEO of MSI, Sanjar Nandi, is sending messages from Stellar Bay to conduct business off-world, and the leader of the Iconoclasts, Graham Bryant, is transmitting propaganda from his compound in Amber Heights. Earning their favor might be enough to convince them to stop transmitting."
-msgstr ""
+msgstr "Generální ředitel MSI Sanjar Nandi posílá ze Stellar Bay zprávy, aby mohl obchodovat mimo Zemi, a vůdce Ikonoklastů Graham Bryant vysílá propagandu ze svého sídla v Amber Heights. Získání jejich přízně by mohlo stačit k tomu, aby je přesvědčil, aby vysílání ukončili."
 
 #: quests/04_monarch/pq_0402_signalpointinspace:10009
 msgctxt "quests/04_monarch/pq_0402_signalpointinspace:10009:DefaultText"
 msgid "The illegal broadcasts on Monarch have been put to an end. Travel back to Byzantium and report your success to Sophia."
-msgstr ""
+msgstr "Nelegální vysílání na Monarchu bylo ukončeno. Vraťte se do Byzance a ohlaste svůj úspěch Sofii."
 
 #: quests/04_monarch/pq_0402_signalpointinspace:10015
 msgctxt "quests/04_monarch/pq_0402_signalpointinspace:10015:DefaultText"
 msgid "You killed Sophia's contact, ending any possibility of him giving you information on the disruptive broadcasts. Search his body for possible leads. "
-msgstr ""
+msgstr "Zabil jsi Sophiin kontakt, čímž jsi ukončil jakoukoli možnost, že by ti poskytl informace o rušivém vysílání. Prohledejte jeho tělo a hledejte možné stopy. "
 
 #: quests/04_monarch/pq_0402_signalpointinspace:10018
 msgctxt "quests/04_monarch/pq_0402_signalpointinspace:10018:DefaultText"
 msgid "With the airwaves cleared, inform Hiram that the Devil's Peak broadcast tower is the Board's property now. It's time for him to get to work."
-msgstr ""
+msgstr "Po uvolnění vysílacích vln informujte Hirama, že vysílací věž Devil's Peak je nyní majetkem rady. Je čas, aby se dal do práce."
 
 #: quests/04_monarch/pq_0402_signalpointinspace:10021
 msgctxt "quests/04_monarch/pq_0402_signalpointinspace:10021:DefaultText"
 msgid "To get the tower transmitting for the Board, you'll need to give it a jump start."
-msgstr ""
+msgstr "Aby věž začala vysílat pro radu, je třeba ji nastartovat."
 
 #: quests/04_monarch/pq_0402_signalpointinspace:10022
 msgctxt "quests/04_monarch/pq_0402_signalpointinspace:10022:DefaultText"
 msgid "With the broadcasts ended, you should be able to route control of the station to HHC in Byzantium through his terminal."
-msgstr ""
+msgstr "Po ukončení vysílání byste měli být schopni předat řízení stanice HHC v Byzanci prostřednictvím jeho terminálu."
 
 #: quests/04_monarch/pq_0402_signalpointinspace:20000
 msgctxt "quests/04_monarch/pq_0402_signalpointinspace:20000:DefaultText"
 msgid "Nyoka has recommended ascending via the caverns underneath Devil's Peak. Follow the Rotting River to find the entrance."
-msgstr ""
+msgstr "Nyoka doporučila výstup jeskyněmi pod Čertovým vrchem. Vchod najdete podél Hnijící řeky."
 
 #: quests/04_monarch/pq_0402_signalpointinspace:20001
 msgctxt "quests/04_monarch/pq_0402_signalpointinspace:20001:DefaultText"
 msgid "The Broker will unlock his door after the Marauders in the broadcast center have been cleared. (<oeiglobal>0406_Marauders_Killed</oeiglobal> of <oeiglobal>0406_Maruaders_To_Kill</oeiglobal> killed)"
-msgstr ""
+msgstr "Makléř odemkne dveře poté, co budou Marauderové ve vysílacím centru vyčištěni. (<oeiglobal>0406_Marauders_Killed</oeiglobal> z <oeiglobal>0406_Maruaders_To_Kill</oeiglobal> zabil)"
 
 #: quests/04_monarch/pq_0402_signalpointinspace:20002
 msgctxt "quests/04_monarch/pq_0402_signalpointinspace:20002:DefaultText"
 msgid "The station's owner has invited you to speak with him via intercom."
-msgstr ""
+msgstr "Majitel stanice vás vyzval, abyste si s ním promluvili prostřednictvím interkomu."
 
 #: quests/04_monarch/pq_0402_signalpointinspace:20003
 msgctxt "quests/04_monarch/pq_0402_signalpointinspace:20003:DefaultText"
 msgid "You've cleared out all the Marauders in the station's broadcast center and may now speak to the Broker in person."
-msgstr ""
+msgstr "Ve vysílacím středisku stanice jste vyčistili všechny nájezdníky a nyní si můžete osobně promluvit s makléřem."
 
 #: quests/04_monarch/pq_0402_signalpointinspace:20005
 msgctxt "quests/04_monarch/pq_0402_signalpointinspace:20005:DefaultText"
 msgid "The mercenary company, C3, has allowed you to move on to the station."
-msgstr ""
+msgstr "Žoldnéřská společnost C3 vám povolila přesun na stanici."
 
 #: quests/04_monarch/pq_0402_signalpointinspace:20006
 msgctxt "quests/04_monarch/pq_0402_signalpointinspace:20006:DefaultText"
 msgid "You convinced C3 to help you gain control of the station. Find a way to open the main doors and they'll join you."
-msgstr ""
+msgstr "Přesvědčil jsi C3, aby ti pomohl získat kontrolu nad stanicí. Najděte způsob, jak otevřít hlavní dveře, a oni se k vám připojí."
 
 #: quests/04_monarch/pq_0402_signalpointinspace:20007
 msgctxt "quests/04_monarch/pq_0402_signalpointinspace:20007:DefaultText"
 msgid "The C3 mercenary company is stationed southeast of the Devil's Peak Station. You may be able to convince them to help you."
-msgstr ""
+msgstr "Žoldnéřská rota C3 sídlí jihovýchodně od stanice Devil's Peak. Možná se vám je podaří přesvědčit, aby vám pomohli."
 
 #: quests/04_monarch/pq_0402_signalpointinspace:20008
 msgctxt "quests/04_monarch/pq_0402_signalpointinspace:20008:DefaultText"
 msgid "You found a way to reach the Devil's Peak station, removing the need to check in with Sophia's contact."
-msgstr ""
+msgstr "Našel jsi způsob, jak se dostat na stanici Devil's Peak, a nemusíš se tak hlásit u Sophiina kontaktu."
 
 #: quests/04_monarch/pq_0402_signalpointinspace:20009
 msgctxt "quests/04_monarch/pq_0402_signalpointinspace:20009:DefaultText"
 msgid "You've reached Fallbrook, which is roughly halfway to the station. You'll have to head further west before being able to ascend the mountain."
-msgstr ""
+msgstr "Dojeli jste do Fallbrooku, který je zhruba v polovině cesty k nádraží. Než budete moci vystoupit na horu, budete muset pokračovat dále na západ."
 
 #: quests/04_monarch/pq_0402_signalpointinspace:20010
 msgctxt "quests/04_monarch/pq_0402_signalpointinspace:20010:DefaultText"
 msgid "Hiram has been killed and can no longer help you."
-msgstr ""
+msgstr "Hiram byl zabit a už vám nemůže pomoci."
 
 #: quests/04_monarch/pq_0402_signalpointinspace:20011
 msgctxt "quests/04_monarch/pq_0402_signalpointinspace:20011:DefaultText"
 msgid "You've found a way to end MSI's transmissions."
-msgstr ""
+msgstr "Našli jste způsob, jak ukončit přenosy MSI."
 
 #: quests/04_monarch/pq_0402_signalpointinspace:20012
 msgctxt "quests/04_monarch/pq_0402_signalpointinspace:20012:DefaultText"
 msgid "You were able to put a stop to the Iconoclast transmissions."
-msgstr ""
+msgstr "Podařilo se vám zastavit vysílání Ikonoklastu."
 
 #: quests/04_monarch/pq_0402_signalpointinspace:20013
 msgctxt "quests/04_monarch/pq_0402_signalpointinspace:20013:DefaultText"
 msgid "Complete the quest \"BOLT with His Name\" for Sanjar to start earning MSI's trust."
-msgstr ""
+msgstr "Splňte úkol \"BOLT s jeho jménem\" pro Sanjara a začněte získávat důvěru MSI."
 
 #: quests/04_monarch/pq_0402_signalpointinspace:20014
 msgctxt "quests/04_monarch/pq_0402_signalpointinspace:20014:DefaultText"
 msgid "Complete the quest \"Errors Unseen\" for Sanjar to earn MSI's trust."
-msgstr ""
+msgstr "Splňte úkol \"Neviditelné chyby\" pro Sanjara a získejte důvěru MSI."
 
 #: quests/04_monarch/pq_0402_signalpointinspace:20015
 msgctxt "quests/04_monarch/pq_0402_signalpointinspace:20015:DefaultText"
 msgid "Complete the quest \"The Commuter\" for Graham to start earning the Iconoclasts' trust."
-msgstr ""
+msgstr "Splňte úkol \"The Commuter\" a začněte získávat důvěru Ikonoklastů."
 
 #: quests/04_monarch/pq_0402_signalpointinspace:20016
 msgctxt "quests/04_monarch/pq_0402_signalpointinspace:20016:DefaultText"
 msgid "Complete the quest \"Pay for the Printer\" for Graham to earn the Iconoclasts' trust."
-msgstr ""
+msgstr "Splňte za Grahama úkol \"Zaplatit za tiskárnu\" a získejte důvěru Ikonoklastů."
 
 #: quests/04_monarch/pq_0402_signalpointinspace:30000
 msgctxt "quests/04_monarch/pq_0402_signalpointinspace:30000:DefaultText"
 msgid "You successfully ended the Monarch broadcasts, which pleased Sophia."
-msgstr ""
+msgstr "Úspěšně jste ukončili vysílání Monarchů, což Sofii potěšilo."
 
 #: quests/04_monarch/pq_0402_signalpointinspace:30001
 msgctxt "quests/04_monarch/pq_0402_signalpointinspace:30001:DefaultText"
 msgid "You killed Sophia, ending any chance of gaining the Board's trust."
-msgstr ""
+msgstr "Zabil jsi Sophii, čímž jsi ukončil jakoukoli šanci na získání důvěry rady."
 
 #: quests/04_monarch/pq_0402_signalpointinspace:30002
 msgctxt "quests/04_monarch/pq_0402_signalpointinspace:30002:DefaultText"
 msgid "After skipping the Hope to Terra-2, the Board has lost all faith in you as an employee."
-msgstr ""
+msgstr "Poté, co jste přeskočili naději na Terru-2, ztratila rada ve vás jako v zaměstnance veškerou důvěru."
 
 #: quests/04_monarch/pq_0402_signalpointinspace:40001
 msgctxt "quests/04_monarch/pq_0402_signalpointinspace:40001:DefaultText"
 msgid "With Nyoka dead, you'll have to navigate Monarch on your own. All broadcasts off-planet must go through the main transmitter atop Devil's Peak. Travel to the station and determine where the illegal messaging is coming from.\r\n"
 "\r\n"
 "Limited opportunities exist to scale the mountain. There is a dangerous, ascending path along the western side of Devil's Peak, though other routes may exist."
-msgstr ""
+msgstr "Když je Nyoka mrtvá, budete se muset po Monarchu pohybovat sami. Veškeré vysílání mimo planetu musí procházet přes hlavní vysílač na Ďáblově vrchu. Vydejte se ke stanici a zjistěte, odkud nelegální zprávy přicházejí. Možnost vyšplhat se na horu je omezená. Podél západní strany Ďáblova vrchu vede nebezpečná stoupající cesta, mohou však existovat i jiné trasy."
 
 #: quests/04_monarch/pq_0402_signalpointinspace:40002
 msgctxt "quests/04_monarch/pq_0402_signalpointinspace:40002:DefaultText"
 msgid "All broadcasts off-planet must go through the main transmitter atop Devil's Peak. Travel to the station and determine where the illegal messaging is coming from by checking the main terminal.\r\n"
 "\r\n"
 "Limited opportunities exist to scale the mountain. There is a dangerous, ascending path along the western side of Devil's Peak. A safer alternative may be found in the caverns that run underneath the mountain."
-msgstr ""
+msgstr "Veškeré vysílání mimo planetu musí procházet přes hlavní vysílač na Ďáblově vrchu. Vydejte se na stanici a zkontrolováním hlavního terminálu zjistěte, odkud nelegální zprávy přicházejí. Existují omezené možnosti, jak na horu vystoupat. Podél západní strany Ďáblova vrchu vede nebezpečná stoupající cesta. Bezpečnější alternativu lze nalézt v jeskyních, které vedou pod horou."

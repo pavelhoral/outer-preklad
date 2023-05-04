@@ -1,99 +1,99 @@
 #: quests/02_terra2/pq_0202_thedemolishedman:0
 msgctxt "quests/02_terra2/pq_0202_thedemolishedman:0:DefaultText"
 msgid "The Demolished Woman"
-msgstr ""
+msgstr "Zničená žena"
 
 #: quests/02_terra2/pq_0202_thedemolishedman:1
 msgctxt "quests/02_terra2/pq_0202_thedemolishedman:1:DefaultText"
 msgid "Find Rachel Lockwood"
-msgstr ""
+msgstr "Najít Rachel Lockwood"
 
 #: quests/02_terra2/pq_0202_thedemolishedman:2
 msgctxt "quests/02_terra2/pq_0202_thedemolishedman:2:DefaultText"
 msgid "Retrieve the Documents"
-msgstr ""
+msgstr "Získání dokumentů"
 
 #: quests/02_terra2/pq_0202_thedemolishedman:4
 msgctxt "quests/02_terra2/pq_0202_thedemolishedman:4:DefaultText"
 msgid "Report Back to the Adjutant"
-msgstr ""
+msgstr "Hlášení adjutantovi"
 
 #: quests/02_terra2/pq_0202_thedemolishedman:15
 msgctxt "quests/02_terra2/pq_0202_thedemolishedman:15:DefaultText"
 msgid "Kill Rachel Lockwood"
-msgstr ""
+msgstr "Zabít Rachel Lockwoodovou"
 
 #: quests/02_terra2/pq_0202_thedemolishedman:10000
 msgctxt "quests/02_terra2/pq_0202_thedemolishedman:10000:DefaultText"
 msgid "Adjutant Sophia Akande has asked you to dispose of a cartographer named Rachel Lockwood and retrieve some sensitive documents in her possession."
-msgstr ""
+msgstr "Adjutantka Sophia Akandeová vás požádala, abyste se zbavili kartografky jménem Rachel Lockwoodová a získali zpět některé citlivé dokumenty, které má v držení."
 
 #: quests/02_terra2/pq_0202_thedemolishedman:10001
 msgctxt "quests/02_terra2/pq_0202_thedemolishedman:10001:DefaultText"
 msgid "You learned that Rachel Lockwood works for the Bureau of Exploration."
-msgstr ""
+msgstr "Dozvěděl ses, že Rachel Lockwoodová pracuje pro Úřad pro průzkum."
 
 #: quests/02_terra2/pq_0202_thedemolishedman:10002
 msgctxt "quests/02_terra2/pq_0202_thedemolishedman:10002:DefaultText"
 msgid "Lockwood was working on some sensitive documents. Adjutant Akande wants you to retrieve them for her."
-msgstr ""
+msgstr "Lockwood pracoval na citlivých dokumentech. Adjutantka Akande chce, abys je pro ni získal."
 
 #: quests/02_terra2/pq_0202_thedemolishedman:10004
 msgctxt "quests/02_terra2/pq_0202_thedemolishedman:10004:DefaultText"
 msgid "You've dealt with Rachel Lockwood and found her documents. Report back to Adjutant Akande."
-msgstr ""
+msgstr "Jednal jste s Rachel Lockwoodovou a našel její dokumenty. Podejte zprávu adjutantovi Akandemu."
 
 #: quests/02_terra2/pq_0202_thedemolishedman:10015
 msgctxt "quests/02_terra2/pq_0202_thedemolishedman:10015:DefaultText"
 msgid "Now that you know Ms. Lockwood is hiding out in the tunnels, all that remains is to go there and finish the job."
-msgstr ""
+msgstr "Teď, když víte, že se slečna Lockwoodová skrývá v tunelech, zbývá jen jít tam a dokončit práci."
 
 #: quests/02_terra2/pq_0202_thedemolishedman:20000
 msgctxt "quests/02_terra2/pq_0202_thedemolishedman:20000:DefaultText"
 msgid "You've learned that Lockwood is hiding out in the maintenance tunnels beneath Byzantium."
-msgstr ""
+msgstr "Dozvěděli jste se, že se Lockwood skrývá v údržbářských tunelech pod Byzancí."
 
 #: quests/02_terra2/pq_0202_thedemolishedman:20001
 msgctxt "quests/02_terra2/pq_0202_thedemolishedman:20001:DefaultText"
 msgid "You've learned that Rachel Lockwood frequents Billingsly's House of Inebriation, a bar located in Prosperity Plaza."
-msgstr ""
+msgstr "Dozvěděli jste se, že Rachel Lockwoodová navštěvuje bar Billingsly's House of Inebriation, který se nachází na Prosperity Plaza."
 
 #: quests/02_terra2/pq_0202_thedemolishedman:20003
 msgctxt "quests/02_terra2/pq_0202_thedemolishedman:20003:DefaultText"
 msgid "You killed Rachel Lockwood."
-msgstr ""
+msgstr "Zabil jste Rachel Lockwoodovou."
 
 #: quests/02_terra2/pq_0202_thedemolishedman:20004
 msgctxt "quests/02_terra2/pq_0202_thedemolishedman:20004:DefaultText"
 msgid "You let Sherman Bradshaw kill Rachel Lockwood."
-msgstr ""
+msgstr "Nechal jsi Shermana Bradshawa zabít Rachel Lockwoodovou."
 
 #: quests/02_terra2/pq_0202_thedemolishedman:20005
 msgctxt "quests/02_terra2/pq_0202_thedemolishedman:20005:DefaultText"
 msgid "You decided to let Rachel Lockwood go."
-msgstr ""
+msgstr "Rozhodl jste se Rachel Lockwoodovou propustit."
 
 #: quests/02_terra2/pq_0202_thedemolishedman:20006
 msgctxt "quests/02_terra2/pq_0202_thedemolishedman:20006:DefaultText"
 msgid "You accepted a deal from Rachel Lockwood to let her go."
-msgstr ""
+msgstr "Přijal jste dohodu s Rachel Lockwoodovou, že ji necháte jít."
 
 #: quests/02_terra2/pq_0202_thedemolishedman:30000
 msgctxt "quests/02_terra2/pq_0202_thedemolishedman:30000:DefaultText"
 msgid "You dealt with Lockwood and retrieved the documents for the Adjutant."
-msgstr ""
+msgstr "Jednal jsi s Lockwoodem a získal jsi dokumenty pro adjutanta."
 
 #: quests/02_terra2/pq_0202_thedemolishedman:30001
 msgctxt "quests/02_terra2/pq_0202_thedemolishedman:30001:DefaultText"
 msgid "You murdered Percival Platt. The Adjutant wants nothing to do with you."
-msgstr ""
+msgstr "Zavraždil jste Percivala Platta. Adjutant s vámi nechce mít nic společného."
 
 #: quests/02_terra2/pq_0202_thedemolishedman:30002
 msgctxt "quests/02_terra2/pq_0202_thedemolishedman:30002:DefaultText"
 msgid "You've ruined your reputation with the Board. Adjutant Akande will no longer work with you."
-msgstr ""
+msgstr "Zničil jste si pověst u správní rady. Adjutant Akande s vámi již nebude spolupracovat."
 
 #: quests/02_terra2/pq_0202_thedemolishedman:30003
 msgctxt "quests/02_terra2/pq_0202_thedemolishedman:30003:DefaultText"
 msgid "You skipped the Hope to Terra 2 for Phineas, spoiling the Adjutant's plans."
-msgstr ""
+msgstr "Přeskočil jsi naději na Terru 2 pro Phinease, čímž jsi zkazil adjutantovy plány."

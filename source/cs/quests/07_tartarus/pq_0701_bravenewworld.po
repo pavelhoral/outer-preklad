@@ -1,84 +1,84 @@
 #: quests/07_tartarus/pq_0701_bravenewworld:0
 msgctxt "quests/07_tartarus/pq_0701_bravenewworld:0:DefaultText"
 msgid "Brave New World"
-msgstr ""
+msgstr "Brave New World"
 
 #: quests/07_tartarus/pq_0701_bravenewworld:84
 msgctxt "quests/07_tartarus/pq_0701_bravenewworld:84:DefaultText"
 msgid "Confront the Chairman"
-msgstr ""
+msgstr "Konfrontace s předsedou"
 
 #: quests/07_tartarus/pq_0701_bravenewworld:85
 msgctxt "quests/07_tartarus/pq_0701_bravenewworld:85:DefaultText"
 msgid "Confront Phineas"
-msgstr ""
+msgstr "Konfrontace s Phineasem"
 
 #: quests/07_tartarus/pq_0701_bravenewworld:86
 msgctxt "quests/07_tartarus/pq_0701_bravenewworld:86:DefaultText"
 msgid "Free Phineas"
-msgstr ""
+msgstr "Phineas zdarma"
 
 #: quests/07_tartarus/pq_0701_bravenewworld:87
 msgctxt "quests/07_tartarus/pq_0701_bravenewworld:87:DefaultText"
 msgid "Free Sophia"
-msgstr ""
+msgstr "Free Sophia"
 
 #: quests/07_tartarus/pq_0701_bravenewworld:90
 msgctxt "quests/07_tartarus/pq_0701_bravenewworld:90:DefaultText"
 msgid "Confront Sophia"
-msgstr ""
+msgstr "Konfrontace se Sophií"
 
 #: quests/07_tartarus/pq_0701_bravenewworld:91
 msgctxt "quests/07_tartarus/pq_0701_bravenewworld:91:DefaultText"
 msgid "Free Phineas"
-msgstr ""
+msgstr "Phineas zdarma"
 
 #: quests/07_tartarus/pq_0701_bravenewworld:10000
 msgctxt "quests/07_tartarus/pq_0701_bravenewworld:10000:DefaultText"
 msgid "Phineas has been captured and brought to the prison planet of Tartarus, where the Board intends to interrogate him. Now it's up to you to infiltrate the prison and rescue Phineas before the Board can enact its plan to cull Halcyon's population."
-msgstr ""
+msgstr "Phineas byl zajat a dopraven na vězeňskou planetu Tartarus, kde ho Rada hodlá vyslechnout. Nyní je na vás, abyste pronikli do vězení a zachránili Phinease dříve, než Rada uskuteční svůj plán na vybití obyvatelstva Halcyonu."
 
 #: quests/07_tartarus/pq_0701_bravenewworld:10084
 msgctxt "quests/07_tartarus/pq_0701_bravenewworld:10084:DefaultText"
 msgid "Make your way through Tartarus and confront Chairman Rockwell."
-msgstr ""
+msgstr "Projděte Tartarem a postavte se předsedovi Rockwellovi."
 
 #: quests/07_tartarus/pq_0701_bravenewworld:10085
 msgctxt "quests/07_tartarus/pq_0701_bravenewworld:10085:DefaultText"
 msgid "Make your way through Tartarus and confront the rogue scientist, Phineas Welles."
-msgstr ""
+msgstr "Projděte Tartarem a postavte se zlotřilému vědci Phineasi Wellesovi."
 
 #: quests/07_tartarus/pq_0701_bravenewworld:10086
 msgctxt "quests/07_tartarus/pq_0701_bravenewworld:10086:DefaultText"
 msgid "With the Chairman dealt with, release Phineas from his cell."
-msgstr ""
+msgstr "Když je předseda vyřízen, propusťte Phinease z jeho cely."
 
 #: quests/07_tartarus/pq_0701_bravenewworld:10087
 msgctxt "quests/07_tartarus/pq_0701_bravenewworld:10087:DefaultText"
 msgid "With Phineas dealt with, release Sophia from her cell."
-msgstr ""
+msgstr "Když je Phineas vyřešen, propusťte Sophii z cely."
 
 #: quests/07_tartarus/pq_0701_bravenewworld:10090
 msgctxt "quests/07_tartarus/pq_0701_bravenewworld:10090:DefaultText"
 msgid "Make your way through Tartarus and confront the person who runs the Board's operations, Sophia Akande."
-msgstr ""
+msgstr "Projděte Tartarem a konfrontujte se s osobou, která řídí operace správní rady, Sophií Akande."
 
 #: quests/07_tartarus/pq_0701_bravenewworld:10091
 msgctxt "quests/07_tartarus/pq_0701_bravenewworld:10091:DefaultText"
 msgid "With Sophia dealt with, release Phineas from his cell."
-msgstr ""
+msgstr "Když je se Sophií hotovo, propusťte Phinease z jeho cely."
 
 #: quests/07_tartarus/pq_0701_bravenewworld:30000
 msgctxt "quests/07_tartarus/pq_0701_bravenewworld:30000:DefaultText"
 msgid "You saved Phineas from the clutches of the Board."
-msgstr ""
+msgstr "Zachránil jsi Phinease ze spárů rady."
 
 #: quests/07_tartarus/pq_0701_bravenewworld:30001
 msgctxt "quests/07_tartarus/pq_0701_bravenewworld:30001:DefaultText"
 msgid "You saved Sophia from the mad scientist, Phineas Welles."
-msgstr ""
+msgstr "Zachránil jsi Sophii před šíleným vědcem Phineasem Wellesem."
 
 #: quests/07_tartarus/pq_0701_bravenewworld:40001
 msgctxt "quests/07_tartarus/pq_0701_bravenewworld:40001:DefaultText"
 msgid "While you were taking control of the Hope, Sophia Akande sent a team to capture Phineas Welles. They succeeded, and he was transported to the prison planet of Tartarus so Sophia could question him personally. Unfortunately, shortly after his arrival, Phineas escaped, caused a prison riot, and took Sophia hostage. Now it's up to you to rescue her and bring Phineas to justice."
-msgstr ""
+msgstr "Zatímco jsi přebíral kontrolu nad Nadějí, Sophia Akandeová vyslala tým, aby chytil Phinease Wellese. Podařilo se jim to a on byl převezen na vězeňskou planetu Tartarus, aby ho Sophia mohla osobně vyslechnout. Bohužel krátce po příjezdu Phineas uprchl, vyvolal vězeňskou vzpouru a vzal Sophii jako rukojmí. Nyní je na vás, abyste ji zachránili a Phinease předali spravedlnosti."

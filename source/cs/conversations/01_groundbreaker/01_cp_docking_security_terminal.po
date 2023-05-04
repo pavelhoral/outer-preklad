@@ -4,22 +4,22 @@ msgid "Mardet Docking Security Terminal\r\n"
 "=========================\r\n"
 "\r\n"
 "Main menu"
-msgstr ""
+msgstr "Dokovací bezpečnostní terminál Mardet ========================= Hlavní menu"
 
 #: conversations/01_groundbreaker/01_cp_docking_security_terminal:2
 msgctxt "conversations/01_groundbreaker/01_cp_docking_security_terminal:2:DefaultText"
 msgid "[Confiscated Goods]"
-msgstr ""
+msgstr "[Zabavené zboží]"
 
 #: conversations/01_groundbreaker/01_cp_docking_security_terminal:3
 msgctxt "conversations/01_groundbreaker/01_cp_docking_security_terminal:3:DefaultText"
 msgid "[Security Logs]"
-msgstr ""
+msgstr "[Bezpečnostní protokoly]"
 
 #: conversations/01_groundbreaker/01_cp_docking_security_terminal:4
 msgctxt "conversations/01_groundbreaker/01_cp_docking_security_terminal:4:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"
 
 #: conversations/01_groundbreaker/01_cp_docking_security_terminal:5
 msgctxt "conversations/01_groundbreaker/01_cp_docking_security_terminal:5:DefaultText"
@@ -35,7 +35,7 @@ msgid "Mardet Docking Security Terminal\r\n"
 "-Locked container (owner refused inspection)\n"
 "\n"
 "He fled before we could get down to it. Left his things behind, so they're stored in the back of the security station until the idiot shows his face again, which is likely to be never."
-msgstr ""
+msgstr "Bezpečnostní terminál v doku Mardet ========================= Zadržel pracovníka na volné noze, který se choval tajnůstkářsky. Zatímco čekal na výslech, zabavili mu osobní věci: -Modifikovanou pistoli Joch -Sekeru -Kovovou obruč (lg) -Modlitební korálky (OSI) -Zamčený kontejner (majitel odmítl kontrolu) Utekl, než jsme se k němu dostali. Nechal tam své věci, takže jsou uloženy v zadní části bezpečnostní stanice, dokud se ten idiot znovu neukáže, což nejspíš nikdy nebude."
 
 #: conversations/01_groundbreaker/01_cp_docking_security_terminal:6
 msgctxt "conversations/01_groundbreaker/01_cp_docking_security_terminal:6:DefaultText"
@@ -51,12 +51,12 @@ msgid "Mardet Docking Security Terminal\r\n"
 "-A guy from the Back Bays roughed up the moon kid. Raving mad, warned me that the moon was gonna bring about the end times. He was flying high on whatever MacRedd grows down there.\r\n"
 "\r\n"
 "-Got a sworn testimony that MacRedd was spotted at the Rest-n-Go. Not that anyone will corroborate it. Reminder to keep an eye on Gladys. "
-msgstr ""
+msgstr "Mardet Docking Security Terminal ========================= -SubLight podal nabídku na jeden z našich konfiskátů. Velkorysá nabídka. Vyjednejte obvyklý nálezný a pak dejte Lilyi její záchranu. -Brawl na Ztracené naději. Nezávislí proti představenstvu. Vyhráli freelanceři. Zatčení kapitána nákladní lodi, který má víc kousků než rozumu. -Hawthornova loď zabavena na příkaz Udom Bedforda. Stále netušíme, proč se Hawthorne stýká s tím hadem z Rady. -Chlapík ze Zadních zátok zmlátil měsíčního kluka. Zuřil a varoval mě, že Měsíc přivolá konec světa. Ujížděl na tom, co tam MacRedd pěstuje. -Mám přísežné svědectví, že MacRedd byl spatřen v Rest-n-Go. Ne že by to někdo potvrdil. Připomínám, abychom na Gladys dávali pozor. "
 
 #: conversations/01_groundbreaker/01_cp_docking_security_terminal:8
 msgctxt "conversations/01_groundbreaker/01_cp_docking_security_terminal:8:DefaultText"
 msgid "[Eject Docking Records Data Cartridge]"
-msgstr ""
+msgstr "[Vysunutí datové kazety s dokovacími záznamy]"
 
 #: conversations/01_groundbreaker/01_cp_docking_security_terminal:9
 msgctxt "conversations/01_groundbreaker/01_cp_docking_security_terminal:9:DefaultText"
@@ -64,4 +64,4 @@ msgid "Mardet Docking Security Terminal\r\n"
 "=========================\r\n"
 "\r\n"
 "Data cartridge ejected."
-msgstr ""
+msgstr "Dokovací bezpečnostní terminál Mardet ========================= Datová kazeta vysunuta."

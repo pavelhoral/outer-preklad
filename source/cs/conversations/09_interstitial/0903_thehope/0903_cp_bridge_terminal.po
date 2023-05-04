@@ -4,7 +4,7 @@ msgid "UDL-002 THE HOPE NAVIGATION INTERFACE\r\n"
 "===========================\r\n"
 "Power status: Standby\r\n"
 "Communications status: Offline"
-msgstr ""
+msgstr "UDL-002 NAVIGAČNÍ ROZHRANÍ NADĚJE =========================== Stav napájení: Stav komunikace: Pohotovostní stav Stav komunikace: Offline"
 
 #: conversations/09_interstitial/0903_thehope/0903_cp_bridge_terminal:10
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_bridge_terminal:10:DefaultText"
@@ -12,7 +12,7 @@ msgid "UDL-002 THE HOPE NAVIGATION INTERFACE\r\n"
 "===========================\r\n"
 "Power status: Auxiliary\r\n"
 "Communications status: Offline"
-msgstr ""
+msgstr "UDL-002 NAVIGAČNÍ ROZHRANÍ NADĚJE =========================== Stav napájení: Stav napájení: Pomocný Stav komunikace: Offline"
 
 #: conversations/09_interstitial/0903_thehope/0903_cp_bridge_terminal:11
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_bridge_terminal:11:DefaultText"
@@ -20,14 +20,14 @@ msgid "UDL-002 THE HOPE NAVIGATION INTERFACE\r\n"
 "===========================\r\n"
 "Power status: Standby\r\n"
 "Communications status: Auxiliary"
-msgstr ""
+msgstr "UDL-002 NAVIGAČNÍ ROZHRANÍ NADĚJE =========================== Stav napájení: Stav komunikace: Pohotovostní stav Pomocný"
 
 #: conversations/09_interstitial/0903_thehope/0903_cp_bridge_terminal:16
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_bridge_terminal:16:DefaultText"
 msgid "UDL-002 THE HOPE NAVIGATION INTERFACE\r\n"
 "===========================\r\n"
 "ERROR: Reactor is unable to support routing power to the engines. Navigation systems are inoperable until the reactor is repaired."
-msgstr ""
+msgstr "UDL-002 NAVIGAČNÍ ROZHRANÍ HOPE =========================== CHYBA: Reaktor není schopen podporovat směrování energie do motorů. Navigační systémy jsou nefunkční, dokud nebude reaktor opraven."
 
 #: conversations/09_interstitial/0903_thehope/0903_cp_bridge_terminal:21
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_bridge_terminal:21:DefaultText"
@@ -35,29 +35,29 @@ msgid "UDL-002 THE HOPE NAVIGATION INTERFACE\r\n"
 "===========================\r\n"
 "Power status: Auxiliary\r\n"
 "Communications status: Auxiliary"
-msgstr ""
+msgstr "UDL-002 NAVIGAČNÍ ROZHRANÍ NADĚJE =========================== Stav napájení: Stav napájení: Pomocný Stav komunikace: Pomocný"
 
 #: conversations/09_interstitial/0903_thehope/0903_cp_bridge_terminal:22
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_bridge_terminal:22:DefaultText"
 msgid "[Patch ADA Through]"
-msgstr ""
+msgstr "[Patch ADA Through]"
 
 #: conversations/09_interstitial/0903_thehope/0903_cp_bridge_terminal:24
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_bridge_terminal:24:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"
 
 #: conversations/09_interstitial/0903_thehope/0903_cp_bridge_terminal:26
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_bridge_terminal:26:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"
 
 #: conversations/09_interstitial/0903_thehope/0903_cp_bridge_terminal:28
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_bridge_terminal:28:DefaultText"
 msgid "UDL-002 THE HOPE NAVIGATION INTERFACE\r\n"
 "===========================\r\n"
 "Auxiliary comms are available through the docking bay."
-msgstr ""
+msgstr "UDL-002 NAVIGAČNÍ ROZHRANÍ NADĚJE =========================== Pomocné komunikační prostředky jsou k dispozici prostřednictvím dokovacího prostoru."
 
 #: conversations/09_interstitial/0903_thehope/0903_cp_bridge_terminal:30
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_bridge_terminal:30:DefaultText"
@@ -67,27 +67,27 @@ msgid "UDL-002 THE HOPE NAVIGATION INTERFACE\r\n"
 "- STATUS: View bridge status\r\n"
 "- TELEX LOGS: View archived logs\r\n"
 "- COMMS: View communications options"
-msgstr ""
+msgstr "UDL-002 NAVIGAČNÍ INTERFACE HOPE ============================ Dostupné funkce: - STATUS: TELEX LOGS: - Zobrazení stavu mostu: COMMS: Zobrazení možností komunikace."
 
 #: conversations/09_interstitial/0903_thehope/0903_cp_bridge_terminal:31
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_bridge_terminal:31:DefaultText"
 msgid "[Logs]"
-msgstr ""
+msgstr "[Deníky]"
 
 #: conversations/09_interstitial/0903_thehope/0903_cp_bridge_terminal:32
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_bridge_terminal:32:DefaultText"
 msgid "[Status]"
-msgstr ""
+msgstr "[Stav]"
 
 #: conversations/09_interstitial/0903_thehope/0903_cp_bridge_terminal:33
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_bridge_terminal:33:DefaultText"
 msgid "[Comms]"
-msgstr ""
+msgstr "[Komunikace]"
 
 #: conversations/09_interstitial/0903_thehope/0903_cp_bridge_terminal:35
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_bridge_terminal:35:DefaultText"
 msgid "[Automated Audio Transcript #R-2580]"
-msgstr ""
+msgstr "[Automatizovaný zvukový přepis #R-2580]"
 
 #: conversations/09_interstitial/0903_thehope/0903_cp_bridge_terminal:36
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_bridge_terminal:36:DefaultText"
@@ -100,12 +100,12 @@ msgid "NOLDA, F: Open the fucking door, Will!\n"
 "NOLDA, F: You're gambling. With hundreds of thousands of peoples' lives.\n"
 "HUNTE, W: And you're hand picking which few you'll consume in your madness.\n"
 "NOLDA, F: Dammit. Alexei. Find me a fucking drill."
-msgstr ""
+msgstr "NOLDA, F: Otevři ty zasraný dveře, Wille! HUNTE, W: Ne. NOLDA, F: Zabíjíš nás! HUNTE, W: Lepší ty než kolonisté. NOLDA, F: To je idiotský! Jestli tu loď neudržíme nad vodou, stejně zemřou! HUNTE, W: Nutné riziko. Rezi plánuje náš kurz. Loď poletí správně. NOLDA, F: Hazarduješ. Se stovkami tisíc lidských životů. HUNTE, W: A ty si ručně vybíráš, kterých pár jich ve svém šílenství pohltíš. NOLDA, F: Sakra. Alexeji. Najdi mi nějakou zasranou vrtačku."
 
 #: conversations/09_interstitial/0903_thehope/0903_cp_bridge_terminal:37
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_bridge_terminal:37:DefaultText"
 msgid "[Automated Audio Transcript #R-2582]"
-msgstr ""
+msgstr "[Automatizovaný zvukový přepis #R-2582]"
 
 #: conversations/09_interstitial/0903_thehope/0903_cp_bridge_terminal:38
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_bridge_terminal:38:DefaultText"
@@ -116,12 +116,12 @@ msgid "TORREGA, R: Captain. You hear that?\r\n"
 "TORREGA, R: Maybe they're trying to get into cold storage. If they get through before they starve...\r\n"
 "HUNTE, W: They'll outlast us.\r\n"
 "HUNTE, W: Keep working, Rezi. I'll take care of it."
-msgstr ""
+msgstr "TORREGA, R: kapitán. Slyšel jste to? Co jste slyšel? TORREGA, R: Vrták přestal. LOVEC, W: Možná si dávají přestávku. Možná se to rozbilo. TORREGA, R: Možná se snaží dostat do chladírny. Jestli se jim to podaří dřív, než vyhladoví... LOVEC, W: Přežijí nás. LOVEC, W: Pracuj dál, Rezi. Postarám se o to."
 
 #: conversations/09_interstitial/0903_thehope/0903_cp_bridge_terminal:39
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_bridge_terminal:39:DefaultText"
 msgid "[Manual Log #L-5190 - TORREGA, R.]"
-msgstr ""
+msgstr "[Příruční protokol č. L-5190 - TORREGA, R.]"
 
 #: conversations/09_interstitial/0903_thehope/0903_cp_bridge_terminal:40
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_bridge_terminal:40:DefaultText"
@@ -132,31 +132,31 @@ msgid "I think... I'm the only one left.\r\n"
 "I'm... done. The course is set. I'm down to my last day of food, and... I don't want to die like Donna did.\r\n"
 "\r\n"
 "Fly true, Hope."
-msgstr ""
+msgstr "Myslím, že... Nevím, co tam dole kapitán Hunte dělal, ale nevrátil se. A oni nepoužili cvičení a... já jsem... skončil. Kurz je nastaven. Zbývá mi poslední den jídla a... Nechci umřít jako Donna. Pravda, Hope."
 
 #: conversations/09_interstitial/0903_thehope/0903_cp_bridge_terminal:41
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_bridge_terminal:41:DefaultText"
 msgid "UDL-002 THE HOPE NAVIGATION INTERFACE\r\n"
 "===========================\r\n"
 "Error accessing archives. Available entries:"
-msgstr ""
+msgstr "UDL-002 NAVIGAČNÍ ROZHRANÍ NADĚJE =========================== Chyba při přístupu k archivům. Dostupné záznamy:"
 
 #: conversations/09_interstitial/0903_thehope/0903_cp_bridge_terminal:42
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_bridge_terminal:42:DefaultText"
 msgid "[Back]"
-msgstr ""
+msgstr "[Zpět]"
 
 #: conversations/09_interstitial/0903_thehope/0903_cp_bridge_terminal:43
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_bridge_terminal:43:DefaultText"
 msgid "UDL-002 THE HOPE NAVIGATION INTERFACE\r\n"
 "===========================\r\n"
 "Error: Auxiliary comms unavailable. Use STATUS to verify power and communication substation statuses."
-msgstr ""
+msgstr "UDL-002 NAVIGAČNÍ ROZHRANÍ HOPE =========================== Chyba: Pomocná komunikace není k dispozici. Pomocí funkce STATUS ověřte stavy napájecí a komunikační rozvodny."
 
 #: conversations/09_interstitial/0903_thehope/0903_cp_bridge_terminal:44
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_bridge_terminal:44:DefaultText"
 msgid "[Back]"
-msgstr ""
+msgstr "[Zpět]"
 
 #: conversations/09_interstitial/0903_thehope/0903_cp_bridge_terminal:47
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_bridge_terminal:47:DefaultText"
@@ -165,24 +165,24 @@ msgid "UDL-002 THE HOPE NAVIGATION INTERFACE\r\n"
 "Available functions:\r\n"
 "- STATUS: View bridge status\r\n"
 "- LOGS: View archived logs"
-msgstr ""
+msgstr "UDL-002 NAVIGAČNÍ INTERFACE HOPE =========================== Dostupné funkce: - STATUS: Zobrazit stav mostu - LOGS: Zobrazit archivované protokoly"
 
 #: conversations/09_interstitial/0903_thehope/0903_cp_bridge_terminal:48
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_bridge_terminal:48:DefaultText"
 msgid "[Continue]"
-msgstr ""
+msgstr "[Pokračovat]"
 
 #: conversations/09_interstitial/0903_thehope/0903_cp_bridge_terminal:49
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_bridge_terminal:49:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"
 
 #: conversations/09_interstitial/0903_thehope/0903_cp_bridge_terminal:50
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_bridge_terminal:50:DefaultText"
 msgid "[Continue]"
-msgstr ""
+msgstr "[Pokračovat]"
 
 #: conversations/09_interstitial/0903_thehope/0903_cp_bridge_terminal:53
 msgctxt "conversations/09_interstitial/0903_thehope/0903_cp_bridge_terminal:53:DefaultText"
 msgid "[Continue]"
-msgstr ""
+msgstr "[Pokračovat]"

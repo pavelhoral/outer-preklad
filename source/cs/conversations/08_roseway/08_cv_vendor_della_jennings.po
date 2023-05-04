@@ -1,124 +1,124 @@
 #: conversations/08_roseway/08_cv_vendor_della_jennings:1
 msgctxt "conversations/08_roseway/08_cv_vendor_della_jennings:1:DefaultText"
 msgid "I don't think you're supposed to be wandering around. Security's gonna tell you to make tracks."
-msgstr ""
+msgstr "Nemyslím si, že by ses tu měl potulovat. Ochranka ti řekne, abys udělal stopy."
 
 #: conversations/08_roseway/08_cv_vendor_della_jennings:2
 msgctxt "conversations/08_roseway/08_cv_vendor_della_jennings:2:DefaultText"
 msgid "Let me see what you're selling."
-msgstr ""
+msgstr "Ukažte mi, co prodáváte."
 
 #: conversations/08_roseway/08_cv_vendor_della_jennings:3
 msgctxt "conversations/08_roseway/08_cv_vendor_della_jennings:3:DefaultText"
 msgid "I'll see you later."
-msgstr ""
+msgstr "Uvidíme se později."
 
 #: conversations/08_roseway/08_cv_vendor_della_jennings:4
 msgctxt "conversations/08_roseway/08_cv_vendor_della_jennings:4:DefaultText"
 msgid "Did security talk to you yet?"
-msgstr ""
+msgstr "Už s vámi mluvila ochranka?"
 
 #: conversations/08_roseway/08_cv_vendor_della_jennings:5
 msgctxt "conversations/08_roseway/08_cv_vendor_della_jennings:5:DefaultText"
 msgid "You seem eager to get rid of me."
-msgstr ""
+msgstr "Zdá se, že se mě chcete zbavit."
 
 #: conversations/08_roseway/08_cv_vendor_della_jennings:6
 msgctxt "conversations/08_roseway/08_cv_vendor_della_jennings:6:DefaultText"
 msgid "Auntie Cleo makes the best pharmaceuticals in Halcyon!"
-msgstr ""
+msgstr "Teta Cleo vyrábí nejlepší léky v Halcyonu!"
 
 #: conversations/08_roseway/08_cv_vendor_della_jennings:7
 msgctxt "conversations/08_roseway/08_cv_vendor_della_jennings:7:DefaultText"
 msgid "I don't really know you. Roseway's supposed to be closed off to visitors. Stands to reason you could be a corporate spy of some sort. "
-msgstr ""
+msgstr "Ve skutečnosti tě neznám. Roseway by měla být pro návštěvníky uzavřená. Dá se předpokládat, že bys mohl být nějaký firemní špión. "
 
 #: conversations/08_roseway/08_cv_vendor_della_jennings:8
 msgctxt "conversations/08_roseway/08_cv_vendor_della_jennings:8:DefaultText"
 msgid "Want to treat yourself before you go? Something for the road, maybe?"
-msgstr ""
+msgstr "Chcete se před odjezdem pohostit? Třeba něco na cestu?"
 
 #: conversations/08_roseway/08_cv_vendor_della_jennings:9
 msgctxt "conversations/08_roseway/08_cv_vendor_della_jennings:9:DefaultText"
 msgid "Got time for some questions?"
-msgstr ""
+msgstr "Máte čas na pár otázek?"
 
 #: conversations/08_roseway/08_cv_vendor_della_jennings:10
 msgctxt "conversations/08_roseway/08_cv_vendor_della_jennings:10:DefaultText"
 msgid "Sure. Not like I get many customers."
-msgstr ""
+msgstr "Jistě. Ne že bych měl mnoho zákazníků."
 
 #: conversations/08_roseway/08_cv_vendor_della_jennings:11
 msgctxt "conversations/08_roseway/08_cv_vendor_della_jennings:11:DefaultText"
 msgid "Why is this place called the 17th Bar?"
-msgstr ""
+msgstr "Proč se tomuto místu říká 17. bar?"
 
 #: conversations/08_roseway/08_cv_vendor_della_jennings:12
 msgctxt "conversations/08_roseway/08_cv_vendor_della_jennings:12:DefaultText"
 msgid "How do you make any money with so few people in town?"
-msgstr ""
+msgstr "Jak můžete vydělávat peníze, když je ve městě tak málo lidí?"
 
 #: conversations/08_roseway/08_cv_vendor_della_jennings:13
 msgctxt "conversations/08_roseway/08_cv_vendor_della_jennings:13:DefaultText"
 msgid "Never mind. Let me see what you're selling."
-msgstr ""
+msgstr "Nevadí. Ukažte mi, co prodáváte."
 
 #: conversations/08_roseway/08_cv_vendor_della_jennings:14
 msgctxt "conversations/08_roseway/08_cv_vendor_della_jennings:14:DefaultText"
 msgid "I'm so glad you asked! Some people say the name refers to the seventeen rungs in Auntie Cleo's official ladder of corporate advancement. These people are wrong."
-msgstr ""
+msgstr "Jsem moc ráda, že jste se zeptal! Někteří lidé říkají, že název odkazuje na sedmnáct příček na oficiálním žebříčku kariérního postupu tety Cleo. Tito lidé se mýlí."
 
 #: conversations/08_roseway/08_cv_vendor_della_jennings:15
 msgctxt "conversations/08_roseway/08_cv_vendor_della_jennings:15:DefaultText"
 msgid "Technically I'm not in business at all. Roseway closed down years ago. Corporate still sends us the occasional shipment of necessities through unofficial back channels."
-msgstr ""
+msgstr "Technicky vzato vůbec nepodnikám. Roseway ukončila činnost před lety. Korporace nám stále posílá občasné zásilky potřebných věcí neoficiálními zadními kanály."
 
 #: conversations/08_roseway/08_cv_vendor_della_jennings:16
 msgctxt "conversations/08_roseway/08_cv_vendor_della_jennings:16:DefaultText"
 msgid "Sure! You need something to clean raptidon blood out your clothes?"
-msgstr ""
+msgstr "Jistě! Potřebuješ něco na vyčištění raptidonské krve z oblečení?"
 
 #: conversations/08_roseway/08_cv_vendor_della_jennings:17
 msgctxt "conversations/08_roseway/08_cv_vendor_della_jennings:17:DefaultText"
 msgid "Hey, you're still around."
-msgstr ""
+msgstr "Ahoj, pořád jsi tady."
 
 #: conversations/08_roseway/08_cv_vendor_della_jennings:18
 msgctxt "conversations/08_roseway/08_cv_vendor_della_jennings:18:DefaultText"
 msgid "Then again, there's nothing in my contract that says I can't sell to corporate spies. Your bits are the same as anybody else's."
-msgstr ""
+msgstr "Na druhou stranu nemám ve smlouvě nic, co by říkalo, že nesmím prodávat firemním špionům. Tvoje kousky jsou stejné jako kohokoli jiného."
 
 #: conversations/08_roseway/08_cv_vendor_della_jennings:19
 msgctxt "conversations/08_roseway/08_cv_vendor_della_jennings:19:DefaultText"
 msgid "Truth is, we've been established, closed down, renamed, re-established, and then re-opened a grand total of seventeen times in the last forty years."
-msgstr ""
+msgstr "Pravdou je, že za posledních čtyřicet let jsme byli založeni, zrušeni, přejmenováni, znovu založeni a znovu otevřeni celkem sedmnáctkrát."
 
 #: conversations/08_roseway/08_cv_vendor_della_jennings:20
 msgctxt "conversations/08_roseway/08_cv_vendor_della_jennings:20:DefaultText"
 msgid "Corporate's still deliberating over a new name. The matter remains hotly contested in committee, but we're expecting a decision within the next five to seven years. Exciting times!"
-msgstr ""
+msgstr "Společnost stále uvažuje o novém názvu. O této záležitosti se ve výboru stále vedou vášnivé spory, ale očekáváme, že rozhodnutí padne během příštích pěti až sedmi let. Vzrušující časy!"
 
 #: conversations/08_roseway/08_cv_vendor_della_jennings:21
 msgctxt "conversations/08_roseway/08_cv_vendor_della_jennings:21:DefaultText"
 msgid "'Course, if something goes wrong - like one of our guards drinking himself to an early grave, or raptidons running wild - corporate won't acknowledge we ever existed."
-msgstr ""
+msgstr "Samozřejmě, pokud se něco zvrtne - jako třeba že se jeden z našich strážců upije k předčasnému hrobu nebo že raptidoni zdivočí - korporace nepřizná, že jsme kdy existovali."
 
 #: conversations/08_roseway/08_cv_vendor_della_jennings:22
 msgctxt "conversations/08_roseway/08_cv_vendor_della_jennings:22:DefaultText"
 msgid "You ever get tired of serving Auntie Cleo products?"
-msgstr ""
+msgstr "Už vás někdy omrzelo podávat výrobky Auntie Cleo?"
 
 #: conversations/08_roseway/08_cv_vendor_della_jennings:23
 msgctxt "conversations/08_roseway/08_cv_vendor_della_jennings:23:DefaultText"
 msgid "Can't say I do. Auntie Cleo products satisfy all of our nutritional needs. At least, they used to. My folks filled their whole pantry with all sorts of Auntie Cleo products. "
-msgstr ""
+msgstr "Nemohu říct, že ano. Výrobky Auntie Cleo uspokojují všechny naše nutriční potřeby. Alespoň dříve to tak bylo. Moji rodiče naplnili celou spíž nejrůznějšími výrobky Auntie Cleo. "
 
 #: conversations/08_roseway/08_cv_vendor_della_jennings:24
 msgctxt "conversations/08_roseway/08_cv_vendor_della_jennings:24:DefaultText"
 msgid "These days, we don't get much in the way of variety. Maybe some Tripicale Pasta or some Catch-Up if we're lucky."
-msgstr ""
+msgstr "V dnešní době se nám moc rozmanitosti nedostává. Možná nějaké těstoviny Tripicale nebo Catch-Up, když máme štěstí."
 
 #: conversations/08_roseway/08_cv_vendor_della_jennings:25
 msgctxt "conversations/08_roseway/08_cv_vendor_della_jennings:25:DefaultText"
 msgid "I hear it's like that all over the colony. We eat what we can get, and we don't get much."
-msgstr ""
+msgstr "Prý je to tak v celé kolonii. Jíme, co se dá, a moc toho nedostáváme."

@@ -9,111 +9,111 @@ msgid "Amber Heights Routing Terminal\r\n"
 "Anyone else, long as you know what you're doing, go ahead and clear work orders out whenever you can.\r\n"
 "\r\n"
 "-- Zora"
-msgstr ""
+msgstr "Amber Heights Routing Terminal ============================ HUXLEY, ZŮSTAŇ U TOHLEHO STROJE ============================ Vím, že tvůj terminál je mimo sklad, ale jestli ho rozbiješ, tak to tady půjde do kopru. Kdokoli jiný, pokud víte, co děláte, pokračujte v odbavování pracovních příkazů, kdykoli to půjde. -- Zora"
 
 #: conversations/04_monarch/0403/0403_cp_maintenanceterminal_ah:3
 msgctxt "conversations/04_monarch/0403/0403_cp_maintenanceterminal_ah:3:DefaultText"
 msgid "[View Work Orders]"
-msgstr ""
+msgstr "[Zobrazit pracovní příkazy]"
 
 #: conversations/04_monarch/0403/0403_cp_maintenanceterminal_ah:5
 msgctxt "conversations/04_monarch/0403/0403_cp_maintenanceterminal_ah:5:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"
 
 #: conversations/04_monarch/0403/0403_cp_maintenanceterminal_ah:6
 msgctxt "conversations/04_monarch/0403/0403_cp_maintenanceterminal_ah:6:DefaultText"
 msgid "Amber Heights Routing Terminal\r\n"
 "============================\r\n"
 "Unresolved work orders:"
-msgstr ""
+msgstr "Amber Heights Routing Terminal ============================ Nevyřešené pracovní příkazy:"
 
 #: conversations/04_monarch/0403/0403_cp_maintenanceterminal_ah:7
 msgctxt "conversations/04_monarch/0403/0403_cp_maintenanceterminal_ah:7:DefaultText"
 msgid "[Steam coming outta the roof]"
-msgstr ""
+msgstr "[Pára vychází ze střechy]"
 
 #: conversations/04_monarch/0403/0403_cp_maintenanceterminal_ah:8
 msgctxt "conversations/04_monarch/0403/0403_cp_maintenanceterminal_ah:8:DefaultText"
 msgid "[Arcing electricity at the bar]"
-msgstr ""
+msgstr "[Elektrický oblouk v baru]"
 
 #: conversations/04_monarch/0403/0403_cp_maintenanceterminal_ah:9
 msgctxt "conversations/04_monarch/0403/0403_cp_maintenanceterminal_ah:9:DefaultText"
 msgid "[Haven't heard from the rapt house]"
-msgstr ""
+msgstr "[Z domu se neozvaly žádné zprávy]"
 
 #: conversations/04_monarch/0403/0403_cp_maintenanceterminal_ah:10
 msgctxt "conversations/04_monarch/0403/0403_cp_maintenanceterminal_ah:10:DefaultText"
 msgid "[Dear diary]"
-msgstr ""
+msgstr "[Milý deníčku]"
 
 #: conversations/04_monarch/0403/0403_cp_maintenanceterminal_ah:11
 msgctxt "conversations/04_monarch/0403/0403_cp_maintenanceterminal_ah:11:DefaultText"
 msgid "System: Water flow\r\n"
 "Submitter: Milton R.\r\n"
 "Description: The pipes on top of my house are gonna burst. They're leaking steam. Someone oughta fix this before they explode or the steam hurts somebody."
-msgstr ""
+msgstr "Systém: Předkladatel: Popis: Milton R: V horní části mého domu praskne potrubí. Uniká z nich pára. Měl by to někdo opravit, než vybuchnou nebo než pára někoho zraní."
 
 #: conversations/04_monarch/0403/0403_cp_maintenanceterminal_ah:12
 msgctxt "conversations/04_monarch/0403/0403_cp_maintenanceterminal_ah:12:DefaultText"
 msgid "[Remotely Reroute the Water]"
-msgstr ""
+msgstr "[Dálkově přesměrovat vodu]"
 
 #: conversations/04_monarch/0403/0403_cp_maintenanceterminal_ah:14
 msgctxt "conversations/04_monarch/0403/0403_cp_maintenanceterminal_ah:14:DefaultText"
 msgid "[Return to Root]"
-msgstr ""
+msgstr "[Zpět na kořen]"
 
 #: conversations/04_monarch/0403/0403_cp_maintenanceterminal_ah:20
 msgctxt "conversations/04_monarch/0403/0403_cp_maintenanceterminal_ah:20:DefaultText"
 msgid "Flow system corrections complete.\r\n"
 "\r\n"
 "Marking work order as resolved."
-msgstr ""
+msgstr "Opravy průtokového systému dokončeny. Označení pracovního příkazu jako vyřešeného."
 
 #: conversations/04_monarch/0403/0403_cp_maintenanceterminal_ah:22
 msgctxt "conversations/04_monarch/0403/0403_cp_maintenanceterminal_ah:22:DefaultText"
 msgid "System: Electric\r\n"
 "Submitter: Bronson V.\r\n"
 "Description: Looks like sprats chewed through the wires on the side of the bar. They're sparking up a storm."
-msgstr ""
+msgstr "Systém: Předkladatel: Popis: Bronson V: Vypadá to, jako by šproty prokousaly dráty na straně tyče. Jiskří jako o život."
 
 #: conversations/04_monarch/0403/0403_cp_maintenanceterminal_ah:23
 msgctxt "conversations/04_monarch/0403/0403_cp_maintenanceterminal_ah:23:DefaultText"
 msgid "[Remotely Shut Off the Power Going Through the Bar's Side Panels]"
-msgstr ""
+msgstr "[Dálkově vypnout napájení procházející bočními panely baru]"
 
 #: conversations/04_monarch/0403/0403_cp_maintenanceterminal_ah:26
 msgctxt "conversations/04_monarch/0403/0403_cp_maintenanceterminal_ah:26:DefaultText"
 msgid "Power system corrections complete.\r\n"
 "\r\n"
 "Marking work order as resolved."
-msgstr ""
+msgstr "Opravy energetického systému jsou dokončeny. Označení pracovního příkazu jako vyřešeného."
 
 #: conversations/04_monarch/0403/0403_cp_maintenanceterminal_ah:28
 msgctxt "conversations/04_monarch/0403/0403_cp_maintenanceterminal_ah:28:DefaultText"
 msgid "System: Communications\r\n"
 "Submitter: Zora B.\r\n"
 "Description: We ain't heard from the Rapt House in a while. Sent Milton over--ain't heard from him either. Someone needs to go check it out."
-msgstr ""
+msgstr "Systém: Předkladatel: Komunikace Popis: Zora B: Dlouho jsme o Rapt House neslyšeli. Poslali jsme tam Miltona - ani on se neozval. Někdo to musí jít zkontrolovat."
 
 #: conversations/04_monarch/0403/0403_cp_maintenanceterminal_ah:29
 msgctxt "conversations/04_monarch/0403/0403_cp_maintenanceterminal_ah:29:DefaultText"
 msgid "[Remotely Reset the Rapt House's Communications Breaker]"
-msgstr ""
+msgstr "[Dálkové resetování komunikačního přerušovače v domě Raptů]"
 
 #: conversations/04_monarch/0403/0403_cp_maintenanceterminal_ah:32
 msgctxt "conversations/04_monarch/0403/0403_cp_maintenanceterminal_ah:32:DefaultText"
 msgid "Communications system corrections complete.\r\n"
 "\r\n"
 "Marking work order as resolved."
-msgstr ""
+msgstr "Opravy komunikačního systému dokončeny. Označení pracovního příkazu jako vyřešeného."
 
 #: conversations/04_monarch/0403/0403_cp_maintenanceterminal_ah:34
 msgctxt "conversations/04_monarch/0403/0403_cp_maintenanceterminal_ah:34:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"
 
 #: conversations/04_monarch/0403/0403_cp_maintenanceterminal_ah:35
 msgctxt "conversations/04_monarch/0403/0403_cp_maintenanceterminal_ah:35:DefaultText"
@@ -124,41 +124,41 @@ msgid "System: Culinary\r\n"
 "Dear diary: Eat it!!\r\n"
 "\r\n"
 "- Hux"
-msgstr ""
+msgstr "Systém: Předkladatel: Culinary Popis: ha HA! Hej Zora! Přišel jsem na to, jak přidávat pracovní příkazy! Milý deníčku: Sněz to!! - Hux"
 
 #: conversations/04_monarch/0403/0403_cp_maintenanceterminal_ah:36
 msgctxt "conversations/04_monarch/0403/0403_cp_maintenanceterminal_ah:36:DefaultText"
 msgid "[Erase Work Order]"
-msgstr ""
+msgstr "[Vymazat pracovní příkaz]"
 
 #: conversations/04_monarch/0403/0403_cp_maintenanceterminal_ah:38
 msgctxt "conversations/04_monarch/0403/0403_cp_maintenanceterminal_ah:38:DefaultText"
 msgid "Work order marked as resolved and purged from the system."
-msgstr ""
+msgstr "Pracovní příkaz označený jako vyřešený a vymazaný ze systému."
 
 #: conversations/04_monarch/0403/0403_cp_maintenanceterminal_ah:40
 msgctxt "conversations/04_monarch/0403/0403_cp_maintenanceterminal_ah:40:DefaultText"
 msgid "[Continue]"
-msgstr ""
+msgstr "[Pokračovat]"
 
 #: conversations/04_monarch/0403/0403_cp_maintenanceterminal_ah:44
 msgctxt "conversations/04_monarch/0403/0403_cp_maintenanceterminal_ah:44:DefaultText"
 msgid "[Medical Examiners Residence, Door Sealed]"
-msgstr ""
+msgstr "[Sídlo soudního lékaře, dveře zapečetěny]"
 
 #: conversations/04_monarch/0403/0403_cp_maintenanceterminal_ah:45
 msgctxt "conversations/04_monarch/0403/0403_cp_maintenanceterminal_ah:45:DefaultText"
 msgid "System: Residential\r\n"
 "Submitter:\r\n"
 "Description: The door to the examiners residence above the med bay is stuck and is completely sealed. Can someone get this thing open?"
-msgstr ""
+msgstr "Systém: Předkladatel: Popis: Dveře do obydlí vyšetřovatelů nad ošetřovnou jsou zaseknuté a zcela utěsněné. Může je někdo otevřít?"
 
 #: conversations/04_monarch/0403/0403_cp_maintenanceterminal_ah:46
 msgctxt "conversations/04_monarch/0403/0403_cp_maintenanceterminal_ah:46:DefaultText"
 msgid "[Engage Remote Forced Door Lever Operation]"
-msgstr ""
+msgstr "[Zapnout dálkové nucené ovládání dveřní páky]"
 
 #: conversations/04_monarch/0403/0403_cp_maintenanceterminal_ah:48
 msgctxt "conversations/04_monarch/0403/0403_cp_maintenanceterminal_ah:48:DefaultText"
 msgid "Emergency seals lifted. Work order completed."
-msgstr ""
+msgstr "Nouzové uzávěry byly zrušeny. Pracovní příkaz dokončen."

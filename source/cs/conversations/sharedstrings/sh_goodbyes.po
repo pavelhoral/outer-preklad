@@ -1,354 +1,354 @@
 #: conversations/sharedstrings/sh_goodbyes:1
 msgctxt "conversations/sharedstrings/sh_goodbyes:1:DefaultText"
 msgid "See you around."
-msgstr ""
+msgstr "Uvidíme se."
 
 #: conversations/sharedstrings/sh_goodbyes:2
 msgctxt "conversations/sharedstrings/sh_goodbyes:2:DefaultText"
 msgid "Take care."
-msgstr ""
+msgstr "Dávejte na sebe pozor."
 
 #: conversations/sharedstrings/sh_goodbyes:3
 msgctxt "conversations/sharedstrings/sh_goodbyes:3:DefaultText"
 msgid "I'll be back."
-msgstr ""
+msgstr "Vrátím se."
 
 #: conversations/sharedstrings/sh_goodbyes:4
 msgctxt "conversations/sharedstrings/sh_goodbyes:4:DefaultText"
 msgid "Don't go anywhere."
-msgstr ""
+msgstr "Nikam nechoďte."
 
 #: conversations/sharedstrings/sh_goodbyes:5
 msgctxt "conversations/sharedstrings/sh_goodbyes:5:DefaultText"
 msgid "I'll take care of it."
-msgstr ""
+msgstr "Postarám se o to."
 
 #: conversations/sharedstrings/sh_goodbyes:6
 msgctxt "conversations/sharedstrings/sh_goodbyes:6:DefaultText"
 msgid "I should go."
-msgstr ""
+msgstr "Měl bych jít."
 
 #: conversations/sharedstrings/sh_goodbyes:7
 msgctxt "conversations/sharedstrings/sh_goodbyes:7:DefaultText"
 msgid "Wait here."
-msgstr ""
+msgstr "Počkejte zde."
 
 #: conversations/sharedstrings/sh_goodbyes:8
 msgctxt "conversations/sharedstrings/sh_goodbyes:8:DefaultText"
 msgid "I'm working on it."
-msgstr ""
+msgstr "Pracuji na tom."
 
 #: conversations/sharedstrings/sh_goodbyes:9
 msgctxt "conversations/sharedstrings/sh_goodbyes:9:DefaultText"
 msgid "Just be patient."
-msgstr ""
+msgstr "Buďte trpěliví."
 
 #: conversations/sharedstrings/sh_goodbyes:10
 msgctxt "conversations/sharedstrings/sh_goodbyes:10:DefaultText"
 msgid "Enough talk."
-msgstr ""
+msgstr "Dost bylo řečí."
 
 #: conversations/sharedstrings/sh_goodbyes:11
 msgctxt "conversations/sharedstrings/sh_goodbyes:11:DefaultText"
 msgid "Just passing through."
-msgstr ""
+msgstr "Jen projíždím."
 
 #: conversations/sharedstrings/sh_goodbyes:13
 msgctxt "conversations/sharedstrings/sh_goodbyes:13:DefaultText"
 msgid "Maybe we'll talk again."
-msgstr ""
+msgstr "Možná si ještě promluvíme."
 
 #: conversations/sharedstrings/sh_goodbyes:14
 msgctxt "conversations/sharedstrings/sh_goodbyes:14:DefaultText"
 msgid "I'm leaving."
-msgstr ""
+msgstr "Odcházím."
 
 #: conversations/sharedstrings/sh_goodbyes:15
 msgctxt "conversations/sharedstrings/sh_goodbyes:15:DefaultText"
 msgid "I'll get out of your hair."
-msgstr ""
+msgstr "Půjdu ti z očí."
 
 #: conversations/sharedstrings/sh_goodbyes:16
 msgctxt "conversations/sharedstrings/sh_goodbyes:16:DefaultText"
 msgid "Watch yourself while I'm gone."
-msgstr ""
+msgstr "Dávej na sebe pozor, když jsem pryč."
 
 #: conversations/sharedstrings/sh_goodbyes:17
 msgctxt "conversations/sharedstrings/sh_goodbyes:17:DefaultText"
 msgid "We're leaving."
-msgstr ""
+msgstr "Odjíždíme."
 
 #: conversations/sharedstrings/sh_goodbyes:18
 msgctxt "conversations/sharedstrings/sh_goodbyes:18:DefaultText"
 msgid "We'll get out of your hair."
-msgstr ""
+msgstr "Půjdeme vám z očí."
 
 #: conversations/sharedstrings/sh_goodbyes:19
 msgctxt "conversations/sharedstrings/sh_goodbyes:19:DefaultText"
 msgid "We're working on it."
-msgstr ""
+msgstr "Pracujeme na tom."
 
 #: conversations/sharedstrings/sh_goodbyes:20
 msgctxt "conversations/sharedstrings/sh_goodbyes:20:DefaultText"
 msgid "We should go."
-msgstr ""
+msgstr "Měli bychom jít."
 
 #: conversations/sharedstrings/sh_goodbyes:21
 msgctxt "conversations/sharedstrings/sh_goodbyes:21:DefaultText"
 msgid "We'll take care of it."
-msgstr ""
+msgstr "Postaráme se o to."
 
 #: conversations/sharedstrings/sh_goodbyes:22
 msgctxt "conversations/sharedstrings/sh_goodbyes:22:DefaultText"
 msgid "We'll be back."
-msgstr ""
+msgstr "Vrátíme se."
 
 #: conversations/sharedstrings/sh_goodbyes:23
 msgctxt "conversations/sharedstrings/sh_goodbyes:23:DefaultText"
 msgid "Watch yourself while we're gone."
-msgstr ""
+msgstr "Dávej na sebe pozor, když jsme pryč."
 
 #: conversations/sharedstrings/sh_goodbyes:24
 msgctxt "conversations/sharedstrings/sh_goodbyes:24:DefaultText"
 msgid "Good luck with that."
-msgstr ""
+msgstr "Hodně štěstí."
 
 #: conversations/sharedstrings/sh_goodbyes:25
 msgctxt "conversations/sharedstrings/sh_goodbyes:25:DefaultText"
 msgid "Not my problem."
-msgstr ""
+msgstr "To není můj problém."
 
 #: conversations/sharedstrings/sh_goodbyes:26
 msgctxt "conversations/sharedstrings/sh_goodbyes:26:DefaultText"
 msgid "Not our problem."
-msgstr ""
+msgstr "To není náš problém."
 
 #: conversations/sharedstrings/sh_goodbyes:27
 msgctxt "conversations/sharedstrings/sh_goodbyes:27:DefaultText"
 msgid "I'll just excuse myself."
-msgstr ""
+msgstr "Omluvím se."
 
 #: conversations/sharedstrings/sh_goodbyes:28
 msgctxt "conversations/sharedstrings/sh_goodbyes:28:DefaultText"
 msgid "We'll just excuse ourselves."
-msgstr ""
+msgstr "Omluvíme se."
 
 #: conversations/sharedstrings/sh_goodbyes:29
 msgctxt "conversations/sharedstrings/sh_goodbyes:29:DefaultText"
 msgid "I'm obliged."
-msgstr ""
+msgstr "Jsem vám zavázán."
 
 #: conversations/sharedstrings/sh_goodbyes:30
 msgctxt "conversations/sharedstrings/sh_goodbyes:30:DefaultText"
 msgid "I'll get on that."
-msgstr ""
+msgstr "Na to se podívám."
 
 #: conversations/sharedstrings/sh_goodbyes:31
 msgctxt "conversations/sharedstrings/sh_goodbyes:31:DefaultText"
 msgid "We'll get on that."
-msgstr ""
+msgstr "Na to se podíváme."
 
 #: conversations/sharedstrings/sh_goodbyes:32
 msgctxt "conversations/sharedstrings/sh_goodbyes:32:DefaultText"
 msgid "We're obliged."
-msgstr ""
+msgstr "Jsme vám zavázáni."
 
 #: conversations/sharedstrings/sh_goodbyes:33
 msgctxt "conversations/sharedstrings/sh_goodbyes:33:DefaultText"
 msgid "I'll keep an eye out for that."
-msgstr ""
+msgstr "Budu na to dávat pozor."
 
 #: conversations/sharedstrings/sh_goodbyes:34
 msgctxt "conversations/sharedstrings/sh_goodbyes:34:DefaultText"
 msgid "We'll keep an eye out for that."
-msgstr ""
+msgstr "Budeme na to dávat pozor."
 
 #: conversations/sharedstrings/sh_goodbyes:35
 msgctxt "conversations/sharedstrings/sh_goodbyes:35:DefaultText"
 msgid "I'll think about it."
-msgstr ""
+msgstr "Budu o tom přemýšlet."
 
 #: conversations/sharedstrings/sh_goodbyes:36
 msgctxt "conversations/sharedstrings/sh_goodbyes:36:DefaultText"
 msgid "We'll think about it."
-msgstr ""
+msgstr "Budeme o tom přemýšlet."
 
 #: conversations/sharedstrings/sh_goodbyes:38
 msgctxt "conversations/sharedstrings/sh_goodbyes:38:DefaultText"
 msgid "Let's move on."
-msgstr ""
+msgstr "Pojďme dál."
 
 #: conversations/sharedstrings/sh_goodbyes:39
 msgctxt "conversations/sharedstrings/sh_goodbyes:39:DefaultText"
 msgid "Back to work."
-msgstr ""
+msgstr "Zpět do práce."
 
 #: conversations/sharedstrings/sh_goodbyes:40
 msgctxt "conversations/sharedstrings/sh_goodbyes:40:DefaultText"
 msgid "Break time's over."
-msgstr ""
+msgstr "Přestávka skončila."
 
 #: conversations/sharedstrings/sh_goodbyes:41
 msgctxt "conversations/sharedstrings/sh_goodbyes:41:DefaultText"
 msgid "Let's get back to it."
-msgstr ""
+msgstr "Vraťme se k tomu."
 
 #: conversations/sharedstrings/sh_goodbyes:42
 msgctxt "conversations/sharedstrings/sh_goodbyes:42:DefaultText"
 msgid "Well, we're not getting anything done sitting here."
-msgstr ""
+msgstr "No, tady nic neuděláme."
 
 #: conversations/sharedstrings/sh_goodbyes:43
 msgctxt "conversations/sharedstrings/sh_goodbyes:43:DefaultText"
 msgid "Let's get going."
-msgstr ""
+msgstr "Pojďme na to."
 
 #: conversations/sharedstrings/sh_goodbyes:44
 msgctxt "conversations/sharedstrings/sh_goodbyes:44:DefaultText"
 msgid "Thanks for your time."
-msgstr ""
+msgstr "Děkujeme za váš čas."
 
 #: conversations/sharedstrings/sh_goodbyes:45
 msgctxt "conversations/sharedstrings/sh_goodbyes:45:DefaultText"
 msgid "That's all for now."
-msgstr ""
+msgstr "To je prozatím vše."
 
 #: conversations/sharedstrings/sh_goodbyes:46
 msgctxt "conversations/sharedstrings/sh_goodbyes:46:DefaultText"
 msgid "I'll think it over and get back to you."
-msgstr ""
+msgstr "Promyslím si to a ozvu se vám."
 
 #: conversations/sharedstrings/sh_goodbyes:47
 msgctxt "conversations/sharedstrings/sh_goodbyes:47:DefaultText"
 msgid "I'll talk it over with my crew and get back to you."
-msgstr ""
+msgstr "Proberu to se svým týmem a ozvu se vám."
 
 #: conversations/sharedstrings/sh_goodbyes:48
 msgctxt "conversations/sharedstrings/sh_goodbyes:48:DefaultText"
 msgid "We'll talk it over and get back to you."
-msgstr ""
+msgstr "Promluvíme si o tom a ozveme se vám."
 
 #: conversations/sharedstrings/sh_goodbyes:49
 msgctxt "conversations/sharedstrings/sh_goodbyes:49:DefaultText"
 msgid "That's enough for now."
-msgstr ""
+msgstr "To prozatím stačí."
 
 #: conversations/sharedstrings/sh_goodbyes:50
 msgctxt "conversations/sharedstrings/sh_goodbyes:50:DefaultText"
 msgid "I'll leave you be."
-msgstr ""
+msgstr "Nechám tě být."
 
 #: conversations/sharedstrings/sh_goodbyes:51
 msgctxt "conversations/sharedstrings/sh_goodbyes:51:DefaultText"
 msgid "Never mind."
-msgstr ""
+msgstr "Nevadí."
 
 #: conversations/sharedstrings/sh_goodbyes:52
 msgctxt "conversations/sharedstrings/sh_goodbyes:52:DefaultText"
 msgid "I don't have time for this."
-msgstr ""
+msgstr "Nemám na to čas."
 
 #: conversations/sharedstrings/sh_goodbyes:53
 msgctxt "conversations/sharedstrings/sh_goodbyes:53:DefaultText"
 msgid "I'll get back to you on that."
-msgstr ""
+msgstr "Vrátím se k tomu."
 
 #: conversations/sharedstrings/sh_goodbyes:55
 msgctxt "conversations/sharedstrings/sh_goodbyes:55:DefaultText"
 msgid "Not right now."
-msgstr ""
+msgstr "Teď ne."
 
 #: conversations/sharedstrings/sh_goodbyes:56
 msgctxt "conversations/sharedstrings/sh_goodbyes:56:DefaultText"
 msgid "We don't have time for this."
-msgstr ""
+msgstr "Na to nemáme čas."
 
 #: conversations/sharedstrings/sh_goodbyes:57
 msgctxt "conversations/sharedstrings/sh_goodbyes:57:DefaultText"
 msgid "We'll leave you be."
-msgstr ""
+msgstr "Necháme vás být."
 
 #: conversations/sharedstrings/sh_goodbyes:58
 msgctxt "conversations/sharedstrings/sh_goodbyes:58:DefaultText"
 msgid "I'm off."
-msgstr ""
+msgstr "Odcházím."
 
 #: conversations/sharedstrings/sh_goodbyes:59
 msgctxt "conversations/sharedstrings/sh_goodbyes:59:DefaultText"
 msgid "Excuse me."
-msgstr ""
+msgstr "Promiňte."
 
 #: conversations/sharedstrings/sh_goodbyes:60
 msgctxt "conversations/sharedstrings/sh_goodbyes:60:DefaultText"
 msgid "Not now."
-msgstr ""
+msgstr "Teď ne."
 
 #: conversations/sharedstrings/sh_goodbyes:61
 msgctxt "conversations/sharedstrings/sh_goodbyes:61:DefaultText"
 msgid "I'll be on my way."
-msgstr ""
+msgstr "Už budu na cestě."
 
 #: conversations/sharedstrings/sh_goodbyes:62
 msgctxt "conversations/sharedstrings/sh_goodbyes:62:DefaultText"
 msgid "We're off."
-msgstr ""
+msgstr "Odjíždíme."
 
 #: conversations/sharedstrings/sh_goodbyes:63
 msgctxt "conversations/sharedstrings/sh_goodbyes:63:DefaultText"
 msgid "We'll be on our way."
-msgstr ""
+msgstr "Budeme na cestě."
 
 #: conversations/sharedstrings/sh_goodbyes:64
 msgctxt "conversations/sharedstrings/sh_goodbyes:64:DefaultText"
 msgid "I've got things to do."
-msgstr ""
+msgstr "Mám spoustu práce."
 
 #: conversations/sharedstrings/sh_goodbyes:65
 msgctxt "conversations/sharedstrings/sh_goodbyes:65:DefaultText"
 msgid "We've got things to do."
-msgstr ""
+msgstr "Máme co dělat."
 
 #: conversations/sharedstrings/sh_goodbyes:66
 msgctxt "conversations/sharedstrings/sh_goodbyes:66:DefaultText"
 msgid "Nothing right now, thanks."
-msgstr ""
+msgstr "Právě teď nic, díky."
 
 #: conversations/sharedstrings/sh_goodbyes:68
 msgctxt "conversations/sharedstrings/sh_goodbyes:68:DefaultText"
 msgid "Let's get a move on."
-msgstr ""
+msgstr "Pojďme se pohnout."
 
 #: conversations/sharedstrings/sh_goodbyes:69
 msgctxt "conversations/sharedstrings/sh_goodbyes:69:DefaultText"
 msgid "I'll talk to you later."
-msgstr ""
+msgstr "Promluvíme si později."
 
 #: conversations/sharedstrings/sh_goodbyes:70
 msgctxt "conversations/sharedstrings/sh_goodbyes:70:DefaultText"
 msgid "I'll be going now."
-msgstr ""
+msgstr "Teď už půjdu."
 
 #: conversations/sharedstrings/sh_goodbyes:71
 msgctxt "conversations/sharedstrings/sh_goodbyes:71:DefaultText"
 msgid "We'll talk later."
-msgstr ""
+msgstr "Promluvíme si později."
 
 #: conversations/sharedstrings/sh_goodbyes:72
 msgctxt "conversations/sharedstrings/sh_goodbyes:72:DefaultText"
 msgid "Farewell."
-msgstr ""
+msgstr "Rozloučení."
 
 #: conversations/sharedstrings/sh_goodbyes:73
 msgctxt "conversations/sharedstrings/sh_goodbyes:73:DefaultText"
 msgid "Goodbye."
-msgstr ""
+msgstr "Sbohem."
 
 #: conversations/sharedstrings/sh_goodbyes:74
 msgctxt "conversations/sharedstrings/sh_goodbyes:74:DefaultText"
 msgid "<Attack> I'm done talking."
-msgstr ""
+msgstr "<Útok> Už jsem skončil."
 
 #: conversations/sharedstrings/sh_goodbyes:75
 msgctxt "conversations/sharedstrings/sh_goodbyes:75:DefaultText"
 msgid "<Attack> We're done here."
-msgstr ""
+msgstr "<Útok> Tady jsme skončili."

@@ -1,149 +1,149 @@
 #: quests/01_groundbreaker/pq_0105_accessstellarbay:0
 msgctxt "quests/01_groundbreaker/pq_0105_accessstellarbay:0:DefaultText"
 msgid "Passage to Anywhere"
-msgstr ""
+msgstr "Přechod kamkoli"
 
 #: quests/01_groundbreaker/pq_0105_accessstellarbay:1
 msgctxt "quests/01_groundbreaker/pq_0105_accessstellarbay:1:DefaultText"
 msgid "Speak to Gladys on the Groundbreaker"
-msgstr ""
+msgstr "Promluvte si s Gladys na Groundbreaker"
 
 #: quests/01_groundbreaker/pq_0105_accessstellarbay:2
 msgctxt "quests/01_groundbreaker/pq_0105_accessstellarbay:2:DefaultText"
 msgid "Purchase a Navkey to Stellar Bay from Gladys"
-msgstr ""
+msgstr "Zakoupit Navkey do Stellar Bay od Gladys"
 
 #: quests/01_groundbreaker/pq_0105_accessstellarbay:10
 msgctxt "quests/01_groundbreaker/pq_0105_accessstellarbay:10:DefaultText"
 msgid "Inform Dr. Welles You Have a Navkey"
-msgstr ""
+msgstr "Informujte Dr. Wellese, že máte Navkey"
 
 #: quests/01_groundbreaker/pq_0105_accessstellarbay:15
 msgctxt "quests/01_groundbreaker/pq_0105_accessstellarbay:15:DefaultText"
 msgid "Talk to ADA"
-msgstr ""
+msgstr "Promluvte si s ADA"
 
 #: quests/01_groundbreaker/pq_0105_accessstellarbay:42
 msgctxt "quests/01_groundbreaker/pq_0105_accessstellarbay:42:DefaultText"
 msgid "Talk to Udom Bedford"
-msgstr ""
+msgstr "Promluvte si s Udomem Bedfordem"
 
 #: quests/01_groundbreaker/pq_0105_accessstellarbay:45
 msgctxt "quests/01_groundbreaker/pq_0105_accessstellarbay:45:DefaultText"
 msgid "Clear the Impound Order"
-msgstr ""
+msgstr "Zrušení příkazu k zabavení"
 
 #: quests/01_groundbreaker/pq_0105_accessstellarbay:49
 msgctxt "quests/01_groundbreaker/pq_0105_accessstellarbay:49:DefaultText"
 msgid "Travel to Cascadia"
-msgstr ""
+msgstr "Cestování do Kaskádie"
 
 #: quests/01_groundbreaker/pq_0105_accessstellarbay:55
 msgctxt "quests/01_groundbreaker/pq_0105_accessstellarbay:55:DefaultText"
 msgid "(Optional) Retrieve the Holographic Shroud"
-msgstr ""
+msgstr "(Nepovinné) Získání holografického rubáše"
 
 #: quests/01_groundbreaker/pq_0105_accessstellarbay:10000
 msgctxt "quests/01_groundbreaker/pq_0105_accessstellarbay:10000:DefaultText"
 msgid "In order to revive your fellow colonists stranded in hibernation, Dr. Welles needs you to travel to Stellar Bay on the terraformed moon of Monarch. Monarch is interdicted by the Halcyon Holdings corporate Board, so you'll have to procure a Navkey through unofficial channels."
-msgstr ""
+msgstr "Abyste mohli oživit své kolegy kolonisty, kteří uvízli v hibernaci, potřebuje doktor Welles, abyste se vydali do Hvězdné zátoky na terraformovaném měsíci Monarch. Monarch je zakázán správní radou společnosti Halcyon Holdings, takže si budete muset obstarat Navkey neoficiální cestou."
 
 #: quests/01_groundbreaker/pq_0105_accessstellarbay:10001
 msgctxt "quests/01_groundbreaker/pq_0105_accessstellarbay:10001:DefaultText"
 msgid "Phineas Welles wants you to contact Gladys, a black market fence located on the Groundbreaker, the only neutral station in the Halcyon colony. She can sell you a Navkey to Stellar Bay on Monarch."
-msgstr ""
+msgstr "Phineas Welles chce, abys kontaktoval Gladys, překupnici na černém trhu, která se nachází na Groundbreakeru, jediné neutrální stanici v kolonii Halcyon. Může ti prodat navigační klíč do Hvězdné zátoky na Monarchu."
 
 #: quests/01_groundbreaker/pq_0105_accessstellarbay:10002
 msgctxt "quests/01_groundbreaker/pq_0105_accessstellarbay:10002:DefaultText"
 msgid "Gladys is willing to sell you a Navkey to Stellar Bay for <oeiglobal>G_0102_Price_Navkey</oeiglobal> bits."
-msgstr ""
+msgstr "Gladys je ochotna vám prodat navigační klíč do Hvězdné zátoky za <oeiglobal>G_0102_Price_Navkey</oeiglobal> bitů."
 
 #: quests/01_groundbreaker/pq_0105_accessstellarbay:10010
 msgctxt "quests/01_groundbreaker/pq_0105_accessstellarbay:10010:DefaultText"
 msgid "You finally have a Navkey to Stellar Bay on Monarch. Inform Dr. Welles so you can learn why you need to travel to the restricted planet and who you need to meet once you're there. ADA should be able to establish a connection with Welles."
-msgstr ""
+msgstr "Konečně máte navigační klíč do Hvězdné zátoky na Monarchu. Informuj doktora Wellese, aby ses dozvěděl, proč musíš cestovat na zakázanou planetu a s kým se musíš setkat, až tam budeš. ADA by měla být schopna navázat s Wellesem spojení."
 
 #: quests/01_groundbreaker/pq_0105_accessstellarbay:10015
 msgctxt "quests/01_groundbreaker/pq_0105_accessstellarbay:10015:DefaultText"
 msgid "You killed Gladys, and can no longer purchase the Navkey from her. Talk to ADA on your ship to see what you should do now."
-msgstr ""
+msgstr "Zabili jste Gladys a nemůžete si od ní koupit Navkey. Promluvte si s ADA na své lodi a zjistěte, co byste měli nyní udělat."
 
 #: quests/01_groundbreaker/pq_0105_accessstellarbay:10042
 msgctxt "quests/01_groundbreaker/pq_0105_accessstellarbay:10042:DefaultText"
 msgid "Groundbreaker security informed you that your ship has been impounded by order of the Board. You need to clear this up with Udom Bedford, the Halcyon Holdings Board representative on the station."
-msgstr ""
+msgstr "Bezpečnostní služba Groundbreaker vás informovala, že vaše loď byla na příkaz Rady zabavena. Musíte si to vyjasnit s Udomem Bedfordem, zástupcem představenstva Halcyon Holdings na stanici."
 
 #: quests/01_groundbreaker/pq_0105_accessstellarbay:10045
 msgctxt "quests/01_groundbreaker/pq_0105_accessstellarbay:10045:DefaultText"
 msgid "Udom Bedford is dead and your ship is still impounded. Look for a way to clear the impound order so the Unreliable can fly again."
-msgstr ""
+msgstr "Udom Bedford je mrtvý a vaše loď je stále zabavena. Hledejte způsob, jak zrušit příkaz k zabavení, aby mohla Nespolehlivá opět létat."
 
 #: quests/01_groundbreaker/pq_0105_accessstellarbay:10049
 msgctxt "quests/01_groundbreaker/pq_0105_accessstellarbay:10049:DefaultText"
 msgid "ADA informed you that the only way to get to Stellar Bay now is to go to Cascadia on Monarch. Head to your travel terminal and get going!"
-msgstr ""
+msgstr "ADA vás informovala, že jediným způsobem, jak se nyní dostat do Hvězdné zátoky, je jet do Cascadie na Monarchu. Vydejte se na svůj cestovní terminál a vyrazte!"
 
 #: quests/01_groundbreaker/pq_0105_accessstellarbay:10055
 msgctxt "quests/01_groundbreaker/pq_0105_accessstellarbay:10055:DefaultText"
 msgid "Phineas Welles mentioned that he gave a device to Alex Hawthorne - the Holographic Shroud. It uses biometric data from identity cartridges to project a disguise around you. This will be useful for gaining access to restricted areas."
-msgstr ""
+msgstr "Phineas Welles se zmínil, že dal Alexi Hawthornovi přístroj - holografický rubáš. Využívá biometrické údaje z identifikačních kazet k tomu, aby kolem vás promítal převlek. To bude užitečné pro získání přístupu do zakázaných oblastí."
 
 #: quests/01_groundbreaker/pq_0105_accessstellarbay:20000
 msgctxt "quests/01_groundbreaker/pq_0105_accessstellarbay:20000:DefaultText"
 msgid "Gladys offered you a job investigating a distress signal on Terra-2."
-msgstr ""
+msgstr "Gladys ti nabídla práci při vyšetřování nouzového signálu na Terře 2."
 
 #: quests/01_groundbreaker/pq_0105_accessstellarbay:20002
 msgctxt "quests/01_groundbreaker/pq_0105_accessstellarbay:20002:DefaultText"
 msgid "Gladys mentioned that Junlei Tennyson, the Groundbreaker's captain, is always willing to put available captains to work. You can also check the bounty board in the docking bay for work."
-msgstr ""
+msgstr "Gladys se zmínila, že Junlei Tennyson, kapitán Groundbreakeru, je vždy ochotný dát volné kapitány do práce. Můžete se také podívat na nástěnku s odměnami v doku, kde se práce hledá."
 
 #: quests/01_groundbreaker/pq_0105_accessstellarbay:20004
 msgctxt "quests/01_groundbreaker/pq_0105_accessstellarbay:20004:DefaultText"
 msgid "Travelling overland to Stellar Bay from Cascadia is dangerous. If you rethink your decision, you can still purchase a Navkey from Gladys on Groundbreaker."
-msgstr ""
+msgstr "Cestování po souši do Hvězdné zátoky z Cascadie je nebezpečné. Pokud si své rozhodnutí rozmyslíte, stále si můžete koupit Navkey od Gladys na Groundbreakeru."
 
 #: quests/01_groundbreaker/pq_0105_accessstellarbay:30000
 msgctxt "quests/01_groundbreaker/pq_0105_accessstellarbay:30000:DefaultText"
 msgid "You bought a Navkey from Gladys to get to Stellar Bay."
-msgstr ""
+msgstr "Od Gladys jste si koupili navigační klíč, abyste se dostali do Hvězdné zátoky."
 
 #: quests/01_groundbreaker/pq_0105_accessstellarbay:30003
 msgctxt "quests/01_groundbreaker/pq_0105_accessstellarbay:30003:DefaultText"
 msgid "You killed Gladys, and now have to find your own way to Stellar Bay on Monarch."
-msgstr ""
+msgstr "Zabil jsi Gladys a nyní musíš najít vlastní cestu do Hvězdné zátoky na Monarchu."
 
 #: quests/01_groundbreaker/pq_0105_accessstellarbay:30004
 msgctxt "quests/01_groundbreaker/pq_0105_accessstellarbay:30004:DefaultText"
 msgid "You forged your own path through Monarch and found Stellar Bay."
-msgstr ""
+msgstr "Vydal ses vlastní cestou přes Monarch a našel Stellar Bay."
 
 #: quests/01_groundbreaker/pq_0105_accessstellarbay:30006
 msgctxt "quests/01_groundbreaker/pq_0105_accessstellarbay:30006:DefaultText"
 msgid "You decided to travel to Cascadia on Monarch, the only landing pad that doesn't require a Navkey. The path to Stellar Bay will be dangerous, the sort of challenge that only a skilled fighter can overcome."
-msgstr ""
+msgstr "Rozhodli jste se cestovat do Kaskádie na Monarchu, jediné přistávací ploše, která nevyžaduje Navkey. Cesta do Hvězdné zátoky bude nebezpečná, taková výzva, kterou dokáže překonat jen zkušený bojovník."
 
 #: quests/01_groundbreaker/pq_0105_accessstellarbay:30007
 msgctxt "quests/01_groundbreaker/pq_0105_accessstellarbay:30007:DefaultText"
 msgid "You acquired a Navkey from Sophia Akande, the Chairman's Adjutant."
-msgstr ""
+msgstr "Od Sophie Akandeové, předsedovy adjutantky, jste získal Navkey."
 
 #: quests/01_groundbreaker/pq_0105_accessstellarbay:30008
 msgctxt "quests/01_groundbreaker/pq_0105_accessstellarbay:30008:DefaultText"
 msgid "By skipping the Hope to Tartarus, you have thrown in with the Board and can no longer help Phineas."
-msgstr ""
+msgstr "Přeskočením Naděje do Tartaru jste se přihlásili k představenstvu a nemůžete už Phineasovi pomoci."
 
 #: quests/01_groundbreaker/pq_0105_accessstellarbay:40002
 msgctxt "quests/01_groundbreaker/pq_0105_accessstellarbay:40002:DefaultText"
 msgid "The Groundbreaker has become hostile towards you, making it impossible to purchase a Navkey from Gladys. Talk to ADA on your ship to see what you should do now."
-msgstr ""
+msgstr "Hromotluk se k vám chová nepřátelsky a znemožňuje vám zakoupit Navkey od Gladys. Promluvte si s ADA na své lodi a zjistěte, co máte nyní dělat."
 
 #: quests/01_groundbreaker/pq_0105_accessstellarbay:40003
 msgctxt "quests/01_groundbreaker/pq_0105_accessstellarbay:40003:DefaultText"
 msgid "Let Dr. Welles know that you've reached Stellar Bay by traveling through the Monarch wilderness. Talk to ADA to establish a connection so Phineas can inform you why you needed to travel to the restricted planet, and who you should meet now that you're here."
-msgstr ""
+msgstr "Dejte doktoru Wellesovi vědět, že jste dorazili do Hvězdné zátoky cestou přes Monarchovu divočinu. Promluvte si s ADA, abyste navázali spojení a Phineas vás mohl informovat, proč jste museli cestovat na zakázanou planetu a s kým byste se měli setkat, když už jste tady."
 
 #: quests/01_groundbreaker/pq_0105_accessstellarbay:40004
 msgctxt "quests/01_groundbreaker/pq_0105_accessstellarbay:40004:DefaultText"
 msgid "You learned from Udom Bedford that he has impounded the Unreliable - a \"game\" he played with its previous captain, Alex Hawthorne. Speak with Udom to clear up this issue."
-msgstr ""
+msgstr "Od Udom Bedforda jste se dozvěděli, že zabavil Nespolehlivého - \"hru\", kterou hrál s jeho předchozím kapitánem Alexem Hawthornem. Promluvte si s Udomem a vyjasněte si tuto záležitost."

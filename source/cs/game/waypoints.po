@@ -1,2189 +1,2189 @@
 #: game/waypoints:0
 msgctxt "game/waypoints:0:DefaultText"
 msgid "Party Time!"
-msgstr ""
+msgstr "Čas na párty!"
 
 #: game/waypoints:1
 msgctxt "game/waypoints:1:DefaultText"
 msgid "Anton"
-msgstr ""
+msgstr "Anton"
 
 #: game/waypoints:5
 msgctxt "game/waypoints:5:DefaultText"
 msgid "Distress Call"
-msgstr ""
+msgstr "Tísňové volání"
 
 #: game/waypoints:30
 msgctxt "game/waypoints:30:DefaultText"
 msgid "Security Console"
-msgstr ""
+msgstr "Bezpečnostní konzola"
 
 #: game/waypoints:32
 msgctxt "game/waypoints:32:DefaultText"
 msgid "Cassandra"
-msgstr ""
+msgstr "Cassandra"
 
 #: game/waypoints:33
 msgctxt "game/waypoints:33:DefaultText"
 msgid "Cassandra"
-msgstr ""
+msgstr "Cassandra"
 
 #: game/waypoints:46
 msgctxt "game/waypoints:46:DefaultText"
 msgid "Cassandra"
-msgstr ""
+msgstr "Cassandra"
 
 #: game/waypoints:47
 msgctxt "game/waypoints:47:DefaultText"
 msgid "Cassandra"
-msgstr ""
+msgstr "Cassandra"
 
 #: game/waypoints:52
 msgctxt "game/waypoints:52:DefaultText"
 msgid "Jameson"
-msgstr ""
+msgstr "Jameson"
 
 #: game/waypoints:59
 msgctxt "game/waypoints:59:DefaultText"
 msgid "Schematics"
-msgstr ""
+msgstr "Schémata"
 
 #: game/waypoints:60
 msgctxt "game/waypoints:60:DefaultText"
 msgid "Orson"
-msgstr ""
+msgstr "Orson"
 
 #: game/waypoints:62
 msgctxt "game/waypoints:62:DefaultText"
 msgid "Experiment"
-msgstr ""
+msgstr "Experiment"
 
 #: game/waypoints:65
 msgctxt "game/waypoints:65:DefaultText"
 msgid "Vaughn"
-msgstr ""
+msgstr "Vaughn"
 
 #: game/waypoints:67
 msgctxt "game/waypoints:67:DefaultText"
 msgid "Vaughn"
-msgstr ""
+msgstr "Vaughn"
 
 #: game/waypoints:68
 msgctxt "game/waypoints:68:DefaultText"
 msgid "Roseway"
-msgstr ""
+msgstr "Roseway"
 
 #: game/waypoints:70
 msgctxt "game/waypoints:70:DefaultText"
 msgid "Cigarette Case"
-msgstr ""
+msgstr "Pouzdro na cigarety"
 
 #: game/waypoints:72
 msgctxt "game/waypoints:72:DefaultText"
 msgid "Lillian"
-msgstr ""
+msgstr "Lillian"
 
 #: game/waypoints:78
 msgctxt "game/waypoints:78:DefaultText"
 msgid "Lillian's Weapon"
-msgstr ""
+msgstr "Lillianina zbraň"
 
 #: game/waypoints:86
 msgctxt "game/waypoints:86:DefaultText"
 msgid "Lillian's Weapon"
-msgstr ""
+msgstr "Lillianina zbraň"
 
 #: game/waypoints:87
 msgctxt "game/waypoints:87:DefaultText"
 msgid "Lillian's Weapon"
-msgstr ""
+msgstr "Lillianina zbraň"
 
 #: game/waypoints:88
 msgctxt "game/waypoints:88:DefaultText"
 msgid "Lillian"
-msgstr ""
+msgstr "Lillian"
 
 #: game/waypoints:90
 msgctxt "game/waypoints:90:DefaultText"
 msgid "Testy Quest Bro"
-msgstr ""
+msgstr "Testy Quest Bro"
 
 #: game/waypoints:99
 msgctxt "game/waypoints:99:DefaultText"
 msgid "Testy Chesty"
-msgstr ""
+msgstr "Testy Chesty"
 
 #: game/waypoints:103
 msgctxt "game/waypoints:103:DefaultText"
 msgid "The Unreliable"
-msgstr ""
+msgstr "Nespolehlivý"
 
 #: game/waypoints:105
 msgctxt "game/waypoints:105:DefaultText"
 msgid "Emerald Vale"
-msgstr ""
+msgstr "Emerald Vale"
 
 #: game/waypoints:106
 msgctxt "game/waypoints:106:DefaultText"
 msgid "Parvati"
-msgstr ""
+msgstr "Parvati"
 
 #: game/waypoints:107
 msgctxt "game/waypoints:107:DefaultText"
 msgid "Reed Tobson"
-msgstr ""
+msgstr "Reed Tobson"
 
 #: game/waypoints:108
 msgctxt "game/waypoints:108:DefaultText"
 msgid "Vicar Max"
-msgstr ""
+msgstr "Farář Max"
 
 #: game/waypoints:110
 msgctxt "game/waypoints:110:DefaultText"
 msgid "Power Regulator"
-msgstr ""
+msgstr "Regulátor napájení"
 
 #: game/waypoints:114
 msgctxt "game/waypoints:114:DefaultText"
 msgid "Silas"
-msgstr ""
+msgstr "Silas"
 
 #: game/waypoints:119
 msgctxt "game/waypoints:119:DefaultText"
 msgid "Sanjar"
-msgstr ""
+msgstr "Sanjar"
 
 #: game/waypoints:120
 msgctxt "game/waypoints:120:DefaultText"
 msgid "Sanjar"
-msgstr ""
+msgstr "Sanjar"
 
 #: game/waypoints:121
 msgctxt "game/waypoints:121:DefaultText"
 msgid "Sanjar"
-msgstr ""
+msgstr "Sanjar"
 
 #: game/waypoints:125
 msgctxt "game/waypoints:125:DefaultText"
 msgid "Nyoka"
-msgstr ""
+msgstr "Nyoka"
 
 #: game/waypoints:126
 msgctxt "game/waypoints:126:DefaultText"
 msgid "Sebastian"
-msgstr ""
+msgstr "Sebastian"
 
 #: game/waypoints:127
 msgctxt "game/waypoints:127:DefaultText"
 msgid "Velma"
-msgstr ""
+msgstr "Velma"
 
 #: game/waypoints:148
 msgctxt "game/waypoints:148:DefaultText"
 msgid "Nyoka"
-msgstr ""
+msgstr "Nyoka"
 
 #: game/waypoints:149
 msgctxt "game/waypoints:149:DefaultText"
 msgid "Storage Container"
-msgstr ""
+msgstr "Skladovací kontejner"
 
 #: game/waypoints:150
 msgctxt "game/waypoints:150:DefaultText"
 msgid "Phineas"
-msgstr ""
+msgstr "Phineas"
 
 #: game/waypoints:151
 msgctxt "game/waypoints:151:DefaultText"
 msgid "Clive"
-msgstr ""
+msgstr "Clive"
 
 #: game/waypoints:156
 msgctxt "game/waypoints:156:DefaultText"
 msgid "Catherine"
-msgstr ""
+msgstr "Catherine"
 
 #: game/waypoints:157
 msgctxt "game/waypoints:157:DefaultText"
 msgid "Catherine"
-msgstr ""
+msgstr "Catherine"
 
 #: game/waypoints:162
 msgctxt "game/waypoints:162:DefaultText"
 msgid "Clive"
-msgstr ""
+msgstr "Clive"
 
 #: game/waypoints:163
 msgctxt "game/waypoints:163:DefaultText"
 msgid "Catherine"
-msgstr ""
+msgstr "Catherine"
 
 #: game/waypoints:164
 msgctxt "game/waypoints:164:DefaultText"
 msgid "Velma"
-msgstr ""
+msgstr "Velma"
 
 #: game/waypoints:165
 msgctxt "game/waypoints:165:DefaultText"
 msgid "Sebastian"
-msgstr ""
+msgstr "Sebastian"
 
 #: game/waypoints:167
 msgctxt "game/waypoints:167:DefaultText"
 msgid "Nell"
-msgstr ""
+msgstr "Nell"
 
 #: game/waypoints:168
 msgctxt "game/waypoints:168:DefaultText"
 msgid "Nell"
-msgstr ""
+msgstr "Nell"
 
 #: game/waypoints:171
 msgctxt "game/waypoints:171:DefaultText"
 msgid "Sanjar"
-msgstr ""
+msgstr "Sanjar"
 
 #: game/waypoints:172
 msgctxt "game/waypoints:172:DefaultText"
 msgid "Apartment"
-msgstr ""
+msgstr "Apartmán"
 
 #: game/waypoints:173
 msgctxt "game/waypoints:173:DefaultText"
 msgid "Velma"
-msgstr ""
+msgstr "Velma"
 
 #: game/waypoints:175
 msgctxt "game/waypoints:175:DefaultText"
 msgid "Printing Press"
-msgstr ""
+msgstr "Tiskárna"
 
 #: game/waypoints:176
 msgctxt "game/waypoints:176:DefaultText"
 msgid "Targeting Module"
-msgstr ""
+msgstr "Modul cílení"
 
 #: game/waypoints:177
 msgctxt "game/waypoints:177:DefaultText"
 msgid "Dr. Williams"
-msgstr ""
+msgstr "Dr. Williams"
 
 #: game/waypoints:178
 msgctxt "game/waypoints:178:DefaultText"
 msgid "Zora"
-msgstr ""
+msgstr "Zora"
 
 #: game/waypoints:179
 msgctxt "game/waypoints:179:DefaultText"
 msgid "Zora"
-msgstr ""
+msgstr "Zora"
 
 #: game/waypoints:180
 msgctxt "game/waypoints:180:DefaultText"
 msgid "Sanjar"
-msgstr ""
+msgstr "Sanjar"
 
 #: game/waypoints:181
 msgctxt "game/waypoints:181:DefaultText"
 msgid "Iconoclast Leader"
-msgstr ""
+msgstr "Vůdce ikonoklastů"
 
 #: game/waypoints:182
 msgctxt "game/waypoints:182:DefaultText"
 msgid "Graham"
-msgstr ""
+msgstr "Graham"
 
 #: game/waypoints:183
 msgctxt "game/waypoints:183:DefaultText"
 msgid "Zora"
-msgstr ""
+msgstr "Zora"
 
 #: game/waypoints:184
 msgctxt "game/waypoints:184:DefaultText"
 msgid "MSI Leader"
-msgstr ""
+msgstr "MSI Leader"
 
 #: game/waypoints:185
 msgctxt "game/waypoints:185:DefaultText"
 msgid "Graham"
-msgstr ""
+msgstr "Graham"
 
 #: game/waypoints:186
 msgctxt "game/waypoints:186:DefaultText"
 msgid "Zora"
-msgstr ""
+msgstr "Zora"
 
 #: game/waypoints:187
 msgctxt "game/waypoints:187:DefaultText"
 msgid "Sanjar"
-msgstr ""
+msgstr "Sanjar"
 
 #: game/waypoints:188
 msgctxt "game/waypoints:188:DefaultText"
 msgid "Bath Supplies"
-msgstr ""
+msgstr "Koupelnové potřeby"
 
 #: game/waypoints:195
 msgctxt "game/waypoints:195:DefaultText"
 msgid "Fancy Outfit"
-msgstr ""
+msgstr "Fancy Outfit"
 
 #: game/waypoints:197
 msgctxt "game/waypoints:197:DefaultText"
 msgid "Confront Trask"
-msgstr ""
+msgstr "Konfrontace s Traskem"
 
 #: game/waypoints:198
 msgctxt "game/waypoints:198:DefaultText"
 msgid "Clyde Harlow"
-msgstr ""
+msgstr "Clyde Harlow"
 
 #: game/waypoints:199
 msgctxt "game/waypoints:199:DefaultText"
 msgid "Felix"
-msgstr ""
+msgstr "Felix"
 
 #: game/waypoints:200
 msgctxt "game/waypoints:200:DefaultText"
 msgid "Blood"
-msgstr ""
+msgstr "Krev"
 
 #: game/waypoints:201
 msgctxt "game/waypoints:201:DefaultText"
 msgid "Blood"
-msgstr ""
+msgstr "Krev"
 
 #: game/waypoints:202
 msgctxt "game/waypoints:202:DefaultText"
 msgid "Blood"
-msgstr ""
+msgstr "Krev"
 
 #: game/waypoints:203
 msgctxt "game/waypoints:203:DefaultText"
 msgid "Blood"
-msgstr ""
+msgstr "Krev"
 
 #: game/waypoints:204
 msgctxt "game/waypoints:204:DefaultText"
 msgid "Scientist"
-msgstr ""
+msgstr "Vědec"
 
 #: game/waypoints:205
 msgctxt "game/waypoints:205:DefaultText"
 msgid "Scientists"
-msgstr ""
+msgstr "Vědci"
 
 #: game/waypoints:206
 msgctxt "game/waypoints:206:DefaultText"
 msgid "Sebastian"
-msgstr ""
+msgstr "Sebastian"
 
 #: game/waypoints:207
 msgctxt "game/waypoints:207:DefaultText"
 msgid "Celia"
-msgstr ""
+msgstr "Celia"
 
 #: game/waypoints:212
 msgctxt "game/waypoints:212:DefaultText"
 msgid "Ellie"
-msgstr ""
+msgstr "Ellie"
 
 #: game/waypoints:213
 msgctxt "game/waypoints:213:DefaultText"
 msgid "Jessie Doyle"
-msgstr ""
+msgstr "Jessie Doyle"
 
 #: game/waypoints:214
 msgctxt "game/waypoints:214:DefaultText"
 msgid "Mantiqueen"
-msgstr ""
+msgstr "Mantiqueen"
 
 #: game/waypoints:215
 msgctxt "game/waypoints:215:DefaultText"
 msgid "Raptidon"
-msgstr ""
+msgstr "Raptidon"
 
 #: game/waypoints:216
 msgctxt "game/waypoints:216:DefaultText"
 msgid "Primal"
-msgstr ""
+msgstr "Primal"
 
 #: game/waypoints:217
 msgctxt "game/waypoints:217:DefaultText"
 msgid "ARMS Storage"
-msgstr ""
+msgstr "Úložiště ARMS"
 
 #: game/waypoints:218
 msgctxt "game/waypoints:218:DefaultText"
 msgid "Carlotta"
-msgstr ""
+msgstr "Carlotta"
 
 #: game/waypoints:219
 msgctxt "game/waypoints:219:DefaultText"
 msgid "Carlotta"
-msgstr ""
+msgstr "Carlotta"
 
 #: game/waypoints:220
 msgctxt "game/waypoints:220:DefaultText"
 msgid "Graham"
-msgstr ""
+msgstr "Graham"
 
 #: game/waypoints:221
 msgctxt "game/waypoints:221:DefaultText"
 msgid "ARMS Storage"
-msgstr ""
+msgstr "Úložiště ARMS"
 
 #: game/waypoints:222
 msgctxt "game/waypoints:222:DefaultText"
 msgid "ARMS Storage"
-msgstr ""
+msgstr "Úložiště ARMS"
 
 #: game/waypoints:223
 msgctxt "game/waypoints:223:DefaultText"
 msgid "Sanjar"
-msgstr ""
+msgstr "Sanjar"
 
 #: game/waypoints:224
 msgctxt "game/waypoints:224:DefaultText"
 msgid "Graham"
-msgstr ""
+msgstr "Graham"
 
 #: game/waypoints:225
 msgctxt "game/waypoints:225:DefaultText"
 msgid "Medic"
-msgstr ""
+msgstr "Medic"
 
 #: game/waypoints:226
 msgctxt "game/waypoints:226:DefaultText"
 msgid "Scout"
-msgstr ""
+msgstr "Skaut"
 
 #: game/waypoints:227
 msgctxt "game/waypoints:227:DefaultText"
 msgid "Catherine"
-msgstr ""
+msgstr "Catherine"
 
 #: game/waypoints:228
 msgctxt "game/waypoints:228:DefaultText"
 msgid "Drop Point"
-msgstr ""
+msgstr "Drop Point"
 
 #: game/waypoints:229
 msgctxt "game/waypoints:229:DefaultText"
 msgid "Survivor"
-msgstr ""
+msgstr "Survivor"
 
 #: game/waypoints:230
 msgctxt "game/waypoints:230:DefaultText"
 msgid "Wesley"
-msgstr ""
+msgstr "Wesley"
 
 #: game/waypoints:231
 msgctxt "game/waypoints:231:DefaultText"
 msgid "Yvonne"
-msgstr ""
+msgstr "Yvonne"
 
 #: game/waypoints:232
 msgctxt "game/waypoints:232:DefaultText"
 msgid "Huxley"
-msgstr ""
+msgstr "Huxley"
 
 #: game/waypoints:233
 msgctxt "game/waypoints:233:DefaultText"
 msgid "Research"
-msgstr ""
+msgstr "Výzkum"
 
 #: game/waypoints:234
 msgctxt "game/waypoints:234:DefaultText"
 msgid "Gate Controls"
-msgstr ""
+msgstr "Ovládání brány"
 
 #: game/waypoints:235
 msgctxt "game/waypoints:235:DefaultText"
 msgid "Sanjar"
-msgstr ""
+msgstr "Sanjar"
 
 #: game/waypoints:236
 msgctxt "game/waypoints:236:DefaultText"
 msgid "Catherine's Terminal"
-msgstr ""
+msgstr "Terminál Catherine"
 
 #: game/waypoints:237
 msgctxt "game/waypoints:237:DefaultText"
 msgid "Gunship"
-msgstr ""
+msgstr "Gunship"
 
 #: game/waypoints:238
 msgctxt "game/waypoints:238:DefaultText"
 msgid "Sanjar"
-msgstr ""
+msgstr "Sanjar"
 
 #: game/waypoints:239
 msgctxt "game/waypoints:239:DefaultText"
 msgid "Graham"
-msgstr ""
+msgstr "Graham"
 
 #: game/waypoints:240
 msgctxt "game/waypoints:240:DefaultText"
 msgid "Zora"
-msgstr ""
+msgstr "Zora"
 
 #: game/waypoints:241
 msgctxt "game/waypoints:241:DefaultText"
 msgid "HR Terminal"
-msgstr ""
+msgstr "Terminál HR"
 
 #: game/waypoints:242
 msgctxt "game/waypoints:242:DefaultText"
 msgid "To Battle"
-msgstr ""
+msgstr "Do bitvy"
 
 #: game/waypoints:243
 msgctxt "game/waypoints:243:DefaultText"
 msgid "OSI Church"
-msgstr ""
+msgstr "OSI Church"
 
 #: game/waypoints:244
 msgctxt "game/waypoints:244:DefaultText"
 msgid "Information?"
-msgstr ""
+msgstr "Informace?"
 
 #: game/waypoints:248
 msgctxt "game/waypoints:248:DefaultText"
 msgid "Graham"
-msgstr ""
+msgstr "Graham"
 
 #: game/waypoints:252
 msgctxt "game/waypoints:252:DefaultText"
 msgid "Zora"
-msgstr ""
+msgstr "Zora"
 
 #: game/waypoints:253
 msgctxt "game/waypoints:253:DefaultText"
 msgid "Nyoka"
-msgstr ""
+msgstr "Nyoka"
 
 #: game/waypoints:254
 msgctxt "game/waypoints:254:DefaultText"
 msgid "Nyoka"
-msgstr ""
+msgstr "Nyoka"
 
 #: game/waypoints:255
 msgctxt "game/waypoints:255:DefaultText"
 msgid "Nyoka's Corpse"
-msgstr ""
+msgstr "Mrtvola Nyoka"
 
 #: game/waypoints:258
 msgctxt "game/waypoints:258:DefaultText"
 msgid "Intercom"
-msgstr ""
+msgstr "Interkom"
 
 #: game/waypoints:259
 msgctxt "game/waypoints:259:DefaultText"
 msgid "Sanjar"
-msgstr ""
+msgstr "Sanjar"
 
 #: game/waypoints:262
 msgctxt "game/waypoints:262:DefaultText"
 msgid "C3"
-msgstr ""
+msgstr "C3"
 
 #: game/waypoints:263
 msgctxt "game/waypoints:263:DefaultText"
 msgid "Graham"
-msgstr ""
+msgstr "Graham"
 
 #: game/waypoints:265
 msgctxt "game/waypoints:265:DefaultText"
 msgid "Broadcast Terminal"
-msgstr ""
+msgstr "Vysílací terminál"
 
 #: game/waypoints:266
 msgctxt "game/waypoints:266:DefaultText"
 msgid "Sanjar"
-msgstr ""
+msgstr "Sanjar"
 
 #: game/waypoints:267
 msgctxt "game/waypoints:267:DefaultText"
 msgid "Graham"
-msgstr ""
+msgstr "Graham"
 
 #: game/waypoints:268
 msgctxt "game/waypoints:268:DefaultText"
 msgid "Broadcast Terminal"
-msgstr ""
+msgstr "Vysílací terminál"
 
 #: game/waypoints:270
 msgctxt "game/waypoints:270:DefaultText"
 msgid "Phineas"
-msgstr ""
+msgstr "Phineas"
 
 #: game/waypoints:272
 msgctxt "game/waypoints:272:DefaultText"
 msgid "Nyoka"
-msgstr ""
+msgstr "Nyoka"
 
 #: game/waypoints:273
 msgctxt "game/waypoints:273:DefaultText"
 msgid "Nyoka"
-msgstr ""
+msgstr "Nyoka"
 
 #: game/waypoints:278
 msgctxt "game/waypoints:278:DefaultText"
 msgid "Intercom"
-msgstr ""
+msgstr "Interkom"
 
 #: game/waypoints:281
 msgctxt "game/waypoints:281:DefaultText"
 msgid "C3"
-msgstr ""
+msgstr "C3"
 
 #: game/waypoints:282
 msgctxt "game/waypoints:282:DefaultText"
 msgid "Sanjar"
-msgstr ""
+msgstr "Sanjar"
 
 #: game/waypoints:283
 msgctxt "game/waypoints:283:DefaultText"
 msgid "Graham"
-msgstr ""
+msgstr "Graham"
 
 #: game/waypoints:284
 msgctxt "game/waypoints:284:DefaultText"
 msgid "Broker"
-msgstr ""
+msgstr "Zprostředkovatel"
 
 #: game/waypoints:287
 msgctxt "game/waypoints:287:DefaultText"
 msgid "Sophia"
-msgstr ""
+msgstr "Sophia"
 
 #: game/waypoints:288
 msgctxt "game/waypoints:288:DefaultText"
 msgid "Gunship"
-msgstr ""
+msgstr "Gunship"
 
 #: game/waypoints:289
 msgctxt "game/waypoints:289:DefaultText"
 msgid "Captain's Terminal"
-msgstr ""
+msgstr "Kapitánský terminál"
 
 #: game/waypoints:290
 msgctxt "game/waypoints:290:DefaultText"
 msgid "Phineas"
-msgstr ""
+msgstr "Phineas"
 
 #: game/waypoints:291
 msgctxt "game/waypoints:291:DefaultText"
 msgid "Sophia"
-msgstr ""
+msgstr "Sophia"
 
 #: game/waypoints:292
 msgctxt "game/waypoints:292:DefaultText"
 msgid "Jerseys"
-msgstr ""
+msgstr "Dresy"
 
 #: game/waypoints:293
 msgctxt "game/waypoints:293:DefaultText"
 msgid "Celia"
-msgstr ""
+msgstr "Celia"
 
 #: game/waypoints:294
 msgctxt "game/waypoints:294:DefaultText"
 msgid "Velma"
-msgstr ""
+msgstr "Velma"
 
 #: game/waypoints:295
 msgctxt "game/waypoints:295:DefaultText"
 msgid "Velma"
-msgstr ""
+msgstr "Velma"
 
 #: game/waypoints:296
 msgctxt "game/waypoints:296:DefaultText"
 msgid "Nell"
-msgstr ""
+msgstr "Nell"
 
 #: game/waypoints:298
 msgctxt "game/waypoints:298:DefaultText"
 msgid "Velma's Storage"
-msgstr ""
+msgstr "Skladování Velmy"
 
 #: game/waypoints:299
 msgctxt "game/waypoints:299:DefaultText"
 msgid "Grimm"
-msgstr ""
+msgstr "Grimm"
 
 #: game/waypoints:300
 msgctxt "game/waypoints:300:DefaultText"
 msgid "Grimm"
-msgstr ""
+msgstr "Grimm"
 
 #: game/waypoints:302
 msgctxt "game/waypoints:302:DefaultText"
 msgid "Nelson"
-msgstr ""
+msgstr "Nelson"
 
 #: game/waypoints:309
 msgctxt "game/waypoints:309:DefaultText"
 msgid "Catherine"
-msgstr ""
+msgstr "Catherine"
 
 #: game/waypoints:313
 msgctxt "game/waypoints:313:DefaultText"
 msgid "Catherine"
-msgstr ""
+msgstr "Catherine"
 
 #: game/waypoints:315
 msgctxt "game/waypoints:315:DefaultText"
 msgid "Catherine"
-msgstr ""
+msgstr "Catherine"
 
 #: game/waypoints:317
 msgctxt "game/waypoints:317:DefaultText"
 msgid "House"
-msgstr ""
+msgstr "Dům"
 
 #: game/waypoints:318
 msgctxt "game/waypoints:318:DefaultText"
 msgid "Locked Room"
-msgstr ""
+msgstr "Uzamčená místnost"
 
 #: game/waypoints:320
 msgctxt "game/waypoints:320:DefaultText"
 msgid "Regulator"
-msgstr ""
+msgstr "Regulátor"
 
 #: game/waypoints:321
 msgctxt "game/waypoints:321:DefaultText"
 msgid "Rerouter"
-msgstr ""
+msgstr "Přesměrovač"
 
 #: game/waypoints:322
 msgctxt "game/waypoints:322:DefaultText"
 msgid "Breaker"
-msgstr ""
+msgstr "Vypínač"
 
 #: game/waypoints:323
 msgctxt "game/waypoints:323:DefaultText"
 msgid "Bronson"
-msgstr ""
+msgstr "Bronson"
 
 #: game/waypoints:324
 msgctxt "game/waypoints:324:DefaultText"
 msgid "Mr. Pickett?"
-msgstr ""
+msgstr "Pane Pickette?"
 
 #: game/waypoints:325
 msgctxt "game/waypoints:325:DefaultText"
 msgid "Sebastian"
-msgstr ""
+msgstr "Sebastian"
 
 #: game/waypoints:326
 msgctxt "game/waypoints:326:DefaultText"
 msgid "Dispensary"
-msgstr ""
+msgstr "Dispensary"
 
 #: game/waypoints:327
 msgctxt "game/waypoints:327:DefaultText"
 msgid "Apartment"
-msgstr ""
+msgstr "Apartmán"
 
 #: game/waypoints:328
 msgctxt "game/waypoints:328:DefaultText"
 msgid "Caleb"
-msgstr ""
+msgstr "Caleb"
 
 #: game/waypoints:329
 msgctxt "game/waypoints:329:DefaultText"
 msgid "Velma"
-msgstr ""
+msgstr "Velma"
 
 #: game/waypoints:330
 msgctxt "game/waypoints:330:DefaultText"
 msgid "Velma"
-msgstr ""
+msgstr "Velma"
 
 #: game/waypoints:331
 msgctxt "game/waypoints:331:DefaultText"
 msgid "Caleb"
-msgstr ""
+msgstr "Caleb"
 
 #: game/waypoints:332
 msgctxt "game/waypoints:332:DefaultText"
 msgid "Tucker"
-msgstr ""
+msgstr "Tucker"
 
 #: game/waypoints:333
 msgctxt "game/waypoints:333:DefaultText"
 msgid "Tucker"
-msgstr ""
+msgstr "Tucker"
 
 #: game/waypoints:334
 msgctxt "game/waypoints:334:DefaultText"
 msgid "Agnes"
-msgstr ""
+msgstr "Agnes"
 
 #: game/waypoints:335
 msgctxt "game/waypoints:335:DefaultText"
 msgid "Agnes"
-msgstr ""
+msgstr "Agnes"
 
 #: game/waypoints:336
 msgctxt "game/waypoints:336:DefaultText"
 msgid "Berthold"
-msgstr ""
+msgstr "Berthold"
 
 #: game/waypoints:337
 msgctxt "game/waypoints:337:DefaultText"
 msgid "Mantiqueen"
-msgstr ""
+msgstr "Mantiqueen"
 
 #: game/waypoints:338
 msgctxt "game/waypoints:338:DefaultText"
 msgid "Berthold"
-msgstr ""
+msgstr "Berthold"
 
 #: game/waypoints:339
 msgctxt "game/waypoints:339:DefaultText"
 msgid "Berthold Fox"
-msgstr ""
+msgstr "Berthold Fox"
 
 #: game/waypoints:344
 msgctxt "game/waypoints:344:DefaultText"
 msgid "Ash"
-msgstr ""
+msgstr "Ash"
 
 #: game/waypoints:346
 msgctxt "game/waypoints:346:DefaultText"
 msgid "Terminal"
-msgstr ""
+msgstr "Terminál"
 
 #: game/waypoints:347
 msgctxt "game/waypoints:347:DefaultText"
 msgid "Refueling System"
-msgstr ""
+msgstr "Systém doplňování paliva"
 
 #: game/waypoints:348
 msgctxt "game/waypoints:348:DefaultText"
 msgid "Terminal"
-msgstr ""
+msgstr "Terminál"
 
 #: game/waypoints:350
 msgctxt "game/waypoints:350:DefaultText"
 msgid "Secret Lab Access"
-msgstr ""
+msgstr "Tajný přístup do laboratoře"
 
 #: game/waypoints:351
 msgctxt "game/waypoints:351:DefaultText"
 msgid "ARMS Key"
-msgstr ""
+msgstr "Klíč ARMS"
 
 #: game/waypoints:352
 msgctxt "game/waypoints:352:DefaultText"
 msgid "Phineas' Contact"
-msgstr ""
+msgstr "Phineasův kontakt"
 
 #: game/waypoints:353
 msgctxt "game/waypoints:353:DefaultText"
 msgid "Broker"
-msgstr ""
+msgstr "Zprostředkovatel"
 
 #: game/waypoints:354
 msgctxt "game/waypoints:354:DefaultText"
 msgid "Relay"
-msgstr ""
+msgstr "Relé"
 
 #: game/waypoints:355
 msgctxt "game/waypoints:355:DefaultText"
 msgid "Everett"
-msgstr ""
+msgstr "Everett"
 
 #: game/waypoints:356
 msgctxt "game/waypoints:356:DefaultText"
 msgid "Cavern"
-msgstr ""
+msgstr "Jeskyně"
 
 #: game/waypoints:357
 msgctxt "game/waypoints:357:DefaultText"
 msgid "Exit"
-msgstr ""
+msgstr "Exit"
 
 #: game/waypoints:358
 msgctxt "game/waypoints:358:DefaultText"
 msgid "Minister's Guard"
-msgstr ""
+msgstr "Ministerská stráž"
 
 #: game/waypoints:359
 msgctxt "game/waypoints:359:DefaultText"
 msgid "Contact's Corpse"
-msgstr ""
+msgstr "Kontaktní mrtvola"
 
 #: game/waypoints:360
 msgctxt "game/waypoints:360:DefaultText"
 msgid "Minister Clarke"
-msgstr ""
+msgstr "Ministr Clarke"
 
 #: game/waypoints:361
 msgctxt "game/waypoints:361:DefaultText"
 msgid "Building with Book"
-msgstr ""
+msgstr "Stavba s knihou"
 
 #: game/waypoints:362
 msgctxt "game/waypoints:362:DefaultText"
 msgid "Rahim"
-msgstr ""
+msgstr "Rahim"
 
 #: game/waypoints:363
 msgctxt "game/waypoints:363:DefaultText"
 msgid "Ship Controls"
-msgstr ""
+msgstr "Ovládání lodi"
 
 #: game/waypoints:364
 msgctxt "game/waypoints:364:DefaultText"
 msgid "Search Area"
-msgstr ""
+msgstr "Oblast vyhledávání"
 
 #: game/waypoints:365
 msgctxt "game/waypoints:365:DefaultText"
 msgid "Ship's Computer"
-msgstr ""
+msgstr "Lodní počítač"
 
 #: game/waypoints:366
 msgctxt "game/waypoints:366:DefaultText"
 msgid "Reed's Terminal"
-msgstr ""
+msgstr "Terminál Reed's"
 
 #: game/waypoints:367
 msgctxt "game/waypoints:367:DefaultText"
 msgid "Geothermal Master Control Terminal"
-msgstr ""
+msgstr "Geotermální hlavní řídicí terminál"
 
 #: game/waypoints:368
 msgctxt "game/waypoints:368:DefaultText"
 msgid "Routing Switch"
-msgstr ""
+msgstr "Směrovací přepínač"
 
 #: game/waypoints:369
 msgctxt "game/waypoints:369:DefaultText"
 msgid "Geothermal Plant"
-msgstr ""
+msgstr "Geotermální elektrárna"
 
 #: game/waypoints:370
 msgctxt "game/waypoints:370:DefaultText"
 msgid "Power Regulator Housing"
-msgstr ""
+msgstr "Pouzdro regulátoru napájení"
 
 #: game/waypoints:371
 msgctxt "game/waypoints:371:DefaultText"
 msgid "Edgewater"
-msgstr ""
+msgstr "Edgewater"
 
 #: game/waypoints:372
 msgctxt "game/waypoints:372:DefaultText"
 msgid "Adelaide McDevitt"
-msgstr ""
+msgstr "Adelaide McDevittová"
 
 #: game/waypoints:373
 msgctxt "game/waypoints:373:DefaultText"
 msgid "Botanical Lab"
-msgstr ""
+msgstr "Botanická laboratoř"
 
 #: game/waypoints:374
 msgctxt "game/waypoints:374:DefaultText"
 msgid "Grace Romero"
-msgstr ""
+msgstr "Grace Romero"
 
 #: game/waypoints:375
 msgctxt "game/waypoints:375:DefaultText"
 msgid "Thomas Kemp"
-msgstr ""
+msgstr "Thomas Kemp"
 
 #: game/waypoints:376
 msgctxt "game/waypoints:376:DefaultText"
 msgid "Automechanical Scout"
-msgstr ""
+msgstr "Automechanický průzkumník"
 
 #: game/waypoints:377
 msgctxt "game/waypoints:377:DefaultText"
 msgid "Ludwig Miller"
-msgstr ""
+msgstr "Ludwig Miller"
 
 #: game/waypoints:379
 msgctxt "game/waypoints:379:DefaultText"
 msgid "Security Chief's Corpse"
-msgstr ""
+msgstr "Mrtvola šéfa bezpečnosti"
 
 #: game/waypoints:380
 msgctxt "game/waypoints:380:DefaultText"
 msgid "Logic Module"
-msgstr ""
+msgstr "Logický modul"
 
 #: game/waypoints:381
 msgctxt "game/waypoints:381:DefaultText"
 msgid "Ludwig's Bundle"
-msgstr ""
+msgstr "Ludwigův svazek"
 
 #: game/waypoints:382
 msgctxt "game/waypoints:382:DefaultText"
 msgid "Guillaume Antrim"
-msgstr ""
+msgstr "Guillaume Antrim"
 
 #: game/waypoints:383
 msgctxt "game/waypoints:383:DefaultText"
 msgid "Doc Maybell"
-msgstr ""
+msgstr "Doktor Maybell"
 
 #: game/waypoints:384
 msgctxt "game/waypoints:384:DefaultText"
 msgid "Bertie Cotton"
-msgstr ""
+msgstr "Bertie Cotton"
 
 #: game/waypoints:385
 msgctxt "game/waypoints:385:DefaultText"
 msgid "Constable Reyes"
-msgstr ""
+msgstr "Strážník Reyes"
 
 #: game/waypoints:386
 msgctxt "game/waypoints:386:DefaultText"
 msgid "Zoe Chandler"
-msgstr ""
+msgstr "Zoe Chandlerová"
 
 #: game/waypoints:387
 msgctxt "game/waypoints:387:DefaultText"
 msgid "Zoe's House"
-msgstr ""
+msgstr "Zoe's House"
 
 #: game/waypoints:388
 msgctxt "game/waypoints:388:DefaultText"
 msgid "Marauder Camp"
-msgstr ""
+msgstr "Marauder Camp"
 
 #: game/waypoints:389
 msgctxt "game/waypoints:389:DefaultText"
 msgid "Zoe's Corpse"
-msgstr ""
+msgstr "Zoeina mrtvola"
 
 #: game/waypoints:390
 msgctxt "game/waypoints:390:DefaultText"
 msgid "Engineering Volume 03"
-msgstr ""
+msgstr "Inženýrství Svazek 03"
 
 #: game/waypoints:391
 msgctxt "game/waypoints:391:DefaultText"
 msgid "Engineering Volume 01"
-msgstr ""
+msgstr "Inženýrství Svazek 01"
 
 #: game/waypoints:392
 msgctxt "game/waypoints:392:DefaultText"
 msgid "Engineering Volume 02"
-msgstr ""
+msgstr "Inženýrství svazek 02"
 
 #: game/waypoints:393
 msgctxt "game/waypoints:393:DefaultText"
 msgid "Martin Abernathy"
-msgstr ""
+msgstr "Martin Abernathy"
 
 #: game/waypoints:394
 msgctxt "game/waypoints:394:DefaultText"
 msgid "Conrad Sadik"
-msgstr ""
+msgstr "Conrad Sadik"
 
 #: game/waypoints:395
 msgctxt "game/waypoints:395:DefaultText"
 msgid "Phyllis Granger"
-msgstr ""
+msgstr "Phyllis Grangerová"
 
 #: game/waypoints:397
 msgctxt "game/waypoints:397:DefaultText"
 msgid "Find Scholar"
-msgstr ""
+msgstr "Najít Scholar"
 
 #: game/waypoints:398
 msgctxt "game/waypoints:398:DefaultText"
 msgid "Gladys"
-msgstr ""
+msgstr "Gladys"
 
 #: game/waypoints:400
 msgctxt "game/waypoints:400:DefaultText"
 msgid "Navigation Terminal"
-msgstr ""
+msgstr "Navigační terminál"
 
 #: game/waypoints:401
 msgctxt "game/waypoints:401:DefaultText"
 msgid "ADA"
-msgstr ""
+msgstr "ADA"
 
 #: game/waypoints:412
 msgctxt "game/waypoints:412:DefaultText"
 msgid "Storage Container"
-msgstr ""
+msgstr "Skladovací kontejner"
 
 #: game/waypoints:415
 msgctxt "game/waypoints:415:DefaultText"
 msgid "Edna Ingmire"
-msgstr ""
+msgstr "Edna Ingmire"
 
 #: game/waypoints:416
 msgctxt "game/waypoints:416:DefaultText"
 msgid "Maverick"
-msgstr ""
+msgstr "Maverick"
 
 #: game/waypoints:417
 msgctxt "game/waypoints:417:DefaultText"
 msgid "Places!"
-msgstr ""
+msgstr "Místa!"
 
 #: game/waypoints:418
 msgctxt "game/waypoints:418:DefaultText"
 msgid "Audition"
-msgstr ""
+msgstr "Konkurz"
 
 #: game/waypoints:419
 msgctxt "game/waypoints:419:DefaultText"
 msgid "Cave"
-msgstr ""
+msgstr "Jeskyně"
 
 #: game/waypoints:420
 msgctxt "game/waypoints:420:DefaultText"
 msgid "Dumpster"
-msgstr ""
+msgstr "Popelnice"
 
 #: game/waypoints:421
 msgctxt "game/waypoints:421:DefaultText"
 msgid "Emma Ashby"
-msgstr ""
+msgstr "Emma Ashby"
 
 #: game/waypoints:422
 msgctxt "game/waypoints:422:DefaultText"
 msgid "Poison"
-msgstr ""
+msgstr "Poison"
 
 #: game/waypoints:423
 msgctxt "game/waypoints:423:DefaultText"
 msgid "Hermit"
-msgstr ""
+msgstr "Poustevník"
 
 #: game/waypoints:425
 msgctxt "game/waypoints:425:DefaultText"
 msgid "Bar"
-msgstr ""
+msgstr "Bar"
 
 #: game/waypoints:436
 msgctxt "game/waypoints:436:DefaultText"
 msgid "Vicar Barnes"
-msgstr ""
+msgstr "Vikář Barnes"
 
 #: game/waypoints:437
 msgctxt "game/waypoints:437:DefaultText"
 msgid "Eli Rhodes"
-msgstr ""
+msgstr "Eli Rhodes"
 
 #: game/waypoints:438
 msgctxt "game/waypoints:438:DefaultText"
 msgid "Constance Offenbacker"
-msgstr ""
+msgstr "Constance Offenbacker"
 
 #: game/waypoints:439
 msgctxt "game/waypoints:439:DefaultText"
 msgid "Byzantium Representative"
-msgstr ""
+msgstr "Zástupce Byzance"
 
 #: game/waypoints:440
 msgctxt "game/waypoints:440:DefaultText"
 msgid "MTO Officer"
-msgstr ""
+msgstr "Úředník MTO"
 
 #: game/waypoints:441
 msgctxt "game/waypoints:441:DefaultText"
 msgid "Office"
-msgstr ""
+msgstr "Kancelář"
 
 #: game/waypoints:442
 msgctxt "game/waypoints:442:DefaultText"
 msgid "Signature Required"
-msgstr ""
+msgstr "Požadovaný podpis"
 
 #: game/waypoints:443
 msgctxt "game/waypoints:443:DefaultText"
 msgid "Safe Location"
-msgstr ""
+msgstr "Bezpečné umístění"
 
 #: game/waypoints:444
 msgctxt "game/waypoints:444:DefaultText"
 msgid "Fuel Terminal"
-msgstr ""
+msgstr "Palivový terminál"
 
 #: game/waypoints:446
 msgctxt "game/waypoints:446:DefaultText"
 msgid "Exit"
-msgstr ""
+msgstr "Exit"
 
 #: game/waypoints:447
 msgctxt "game/waypoints:447:DefaultText"
 msgid "Hortense"
-msgstr ""
+msgstr "Hortense"
 
 #: game/waypoints:448
 msgctxt "game/waypoints:448:DefaultText"
 msgid "Retirement Welcome Center"
-msgstr ""
+msgstr "Uvítací centrum pro důchodce"
 
 #: game/waypoints:449
 msgctxt "game/waypoints:449:DefaultText"
 msgid "Ellie's Parents"
-msgstr ""
+msgstr "Rodiče Ellie"
 
 #: game/waypoints:451
 msgctxt "game/waypoints:451:DefaultText"
 msgid "Minister's Office"
-msgstr ""
+msgstr "Kancelář ministra"
 
 #: game/waypoints:453
 msgctxt "game/waypoints:453:DefaultText"
 msgid "Chairman's Office"
-msgstr ""
+msgstr "Kancelář předsedy"
 
 #: game/waypoints:454
 msgctxt "game/waypoints:454:DefaultText"
 msgid "Dimethyl Sulfoxide"
-msgstr ""
+msgstr "Dimethylsulfoxid"
 
 #: game/waypoints:455
 msgctxt "game/waypoints:455:DefaultText"
 msgid "Lockwood"
-msgstr ""
+msgstr "Lockwood"
 
 #: game/waypoints:456
 msgctxt "game/waypoints:456:DefaultText"
 msgid "Lockwood's Office"
-msgstr ""
+msgstr "Lockwoodova kancelář"
 
 #: game/waypoints:457
 msgctxt "game/waypoints:457:DefaultText"
 msgid "Relay GB-23"
-msgstr ""
+msgstr "Relé GB-23"
 
 #: game/waypoints:458
 msgctxt "game/waypoints:458:DefaultText"
 msgid "Activate Relay"
-msgstr ""
+msgstr "Aktivace relé"
 
 #: game/waypoints:463
 msgctxt "game/waypoints:463:DefaultText"
 msgid "Alonzo"
-msgstr ""
+msgstr "Alonzo"
 
 #: game/waypoints:464
 msgctxt "game/waypoints:464:DefaultText"
 msgid "Newton"
-msgstr ""
+msgstr "Newton"
 
 #: game/waypoints:465
 msgctxt "game/waypoints:465:DefaultText"
 msgid "Lyndia"
-msgstr ""
+msgstr "Lyndia"
 
 #: game/waypoints:466
 msgctxt "game/waypoints:466:DefaultText"
 msgid "HPS"
-msgstr ""
+msgstr "HPS"
 
 #: game/waypoints:467
 msgctxt "game/waypoints:467:DefaultText"
 msgid "Lyndia's Office"
-msgstr ""
+msgstr "Kancelář Lyndie"
 
 #: game/waypoints:468
 msgctxt "game/waypoints:468:DefaultText"
 msgid "Stash House"
-msgstr ""
+msgstr "Stash House"
 
 #: game/waypoints:471
 msgctxt "game/waypoints:471:DefaultText"
 msgid "Presentation Device"
-msgstr ""
+msgstr "Prezentační zařízení"
 
 #: game/waypoints:472
 msgctxt "game/waypoints:472:DefaultText"
 msgid "Bureau Pass"
-msgstr ""
+msgstr "Bureau Pass"
 
 #: game/waypoints:473
 msgctxt "game/waypoints:473:DefaultText"
 msgid "Minister's Terminal"
-msgstr ""
+msgstr "Ministerský terminál"
 
 #: game/waypoints:475
 msgctxt "game/waypoints:475:DefaultText"
 msgid "Salvage Parts"
-msgstr ""
+msgstr "Záchranné díly"
 
 #: game/waypoints:476
 msgctxt "game/waypoints:476:DefaultText"
 msgid "Junlei Tennyson"
-msgstr ""
+msgstr "Junlei Tennyson"
 
 #: game/waypoints:477
 msgctxt "game/waypoints:477:DefaultText"
 msgid "Repair Radiators"
-msgstr ""
+msgstr "Opravy chladičů"
 
 #: game/waypoints:479
 msgctxt "game/waypoints:479:DefaultText"
 msgid "Camp"
-msgstr ""
+msgstr "Tábor"
 
 #: game/waypoints:480
 msgctxt "game/waypoints:480:DefaultText"
 msgid "Kat"
-msgstr ""
+msgstr "Kat"
 
 #: game/waypoints:481
 msgctxt "game/waypoints:481:DefaultText"
 msgid "Ogden"
-msgstr ""
+msgstr "Ogden"
 
 #: game/waypoints:482
 msgctxt "game/waypoints:482:DefaultText"
 msgid "Town Leader"
-msgstr ""
+msgstr "Vedoucí města"
 
 #: game/waypoints:483
 msgctxt "game/waypoints:483:DefaultText"
 msgid "Corpse"
-msgstr ""
+msgstr "Mrtvola"
 
 #: game/waypoints:484
 msgctxt "game/waypoints:484:DefaultText"
 msgid "Emma"
-msgstr ""
+msgstr "Emma"
 
 #: game/waypoints:485
 msgctxt "game/waypoints:485:DefaultText"
 msgid "Hiding Spot"
-msgstr ""
+msgstr "Skryté místo"
 
 #: game/waypoints:500
 msgctxt "game/waypoints:500:DefaultText"
 msgid "MacRedd"
-msgstr ""
+msgstr "MacRedd"
 
 #: game/waypoints:503
 msgctxt "game/waypoints:503:DefaultText"
 msgid "Comdt. Sanita"
-msgstr ""
+msgstr "Comdt. Sanita"
 
 #: game/waypoints:506
 msgctxt "game/waypoints:506:DefaultText"
 msgid "Meet with Sophia"
-msgstr ""
+msgstr "Setkání se Sophií"
 
 #: game/waypoints:507
 msgctxt "game/waypoints:507:DefaultText"
 msgid "Return to Percival"
-msgstr ""
+msgstr "Návrat do Percival"
 
 #: game/waypoints:508
 msgctxt "game/waypoints:508:DefaultText"
 msgid "Percival"
-msgstr ""
+msgstr "Percival"
 
 #: game/waypoints:510
 msgctxt "game/waypoints:510:DefaultText"
 msgid "Dr. Dorsett"
-msgstr ""
+msgstr "Dr. Dorsett"
 
 #: game/waypoints:511
 msgctxt "game/waypoints:511:DefaultText"
 msgid "Crash Site"
-msgstr ""
+msgstr "Místo havárie"
 
 #: game/waypoints:512
 msgctxt "game/waypoints:512:DefaultText"
 msgid "Save Irion"
-msgstr ""
+msgstr "Zachránit Irion"
 
 #: game/waypoints:514
 msgctxt "game/waypoints:514:DefaultText"
 msgid "Melody's House"
-msgstr ""
+msgstr "Melody's House"
 
 #: game/waypoints:515
 msgctxt "game/waypoints:515:DefaultText"
 msgid "Melody Jensen"
-msgstr ""
+msgstr "Melody Jensen"
 
 #: game/waypoints:516
 msgctxt "game/waypoints:516:DefaultText"
 msgid "Hazel Ulrich"
-msgstr ""
+msgstr "Hazel Ulrichová"
 
 #: game/waypoints:517
 msgctxt "game/waypoints:517:DefaultText"
 msgid "Langston Wymore"
-msgstr ""
+msgstr "Langston Wymore"
 
 #: game/waypoints:518
 msgctxt "game/waypoints:518:DefaultText"
 msgid "Langston's Locker"
-msgstr ""
+msgstr "Langstonova skříňka"
 
 #: game/waypoints:519
 msgctxt "game/waypoints:519:DefaultText"
 msgid "Franklin Wong"
-msgstr ""
+msgstr "Franklin Wong"
 
 #: game/waypoints:520
 msgctxt "game/waypoints:520:DefaultText"
 msgid "Katie Sato"
-msgstr ""
+msgstr "Katie Sato"
 
 #: game/waypoints:521
 msgctxt "game/waypoints:521:DefaultText"
 msgid "Crawford Morrison"
-msgstr ""
+msgstr "Crawford Morrison"
 
 #: game/waypoints:522
 msgctxt "game/waypoints:522:DefaultText"
 msgid "Stella Grant"
-msgstr ""
+msgstr "Stella Grantová"
 
 #: game/waypoints:523
 msgctxt "game/waypoints:523:DefaultText"
 msgid "Rizzo's Confectionary"
-msgstr ""
+msgstr "Cukrárna Rizzo's"
 
 #: game/waypoints:527
 msgctxt "game/waypoints:527:DefaultText"
 msgid "Confectionary Lab"
-msgstr ""
+msgstr "Cukrářská laboratoř"
 
 #: game/waypoints:528
 msgctxt "game/waypoints:528:DefaultText"
 msgid "Rizzo Lab Terminal"
-msgstr ""
+msgstr "Rizzo Lab Terminal"
 
 #: game/waypoints:529
 msgctxt "game/waypoints:529:DefaultText"
 msgid "Supervisor's Terminal"
-msgstr ""
+msgstr "Terminál supervizora"
 
 #: game/waypoints:532
 msgctxt "game/waypoints:532:DefaultText"
 msgid "Terminal"
-msgstr ""
+msgstr "Terminál"
 
 #: game/waypoints:533
 msgctxt "game/waypoints:533:DefaultText"
 msgid "Catherine"
-msgstr ""
+msgstr "Catherine"
 
 #: game/waypoints:534
 msgctxt "game/waypoints:534:DefaultText"
 msgid "Message Terminal"
-msgstr ""
+msgstr "Terminál zpráv"
 
 #: game/waypoints:535
 msgctxt "game/waypoints:535:DefaultText"
 msgid "Lilya"
-msgstr ""
+msgstr "Lilya"
 
 #: game/waypoints:536
 msgctxt "game/waypoints:536:DefaultText"
 msgid "Keystone"
-msgstr ""
+msgstr "Keystone"
 
 #: game/waypoints:537
 msgctxt "game/waypoints:537:DefaultText"
 msgid "Tobias Oyama"
-msgstr ""
+msgstr "Tobias Oyama"
 
 #: game/waypoints:538
 msgctxt "game/waypoints:538:DefaultText"
 msgid "Siphon Gas"
-msgstr ""
+msgstr "Sifonový plyn"
 
 #: game/waypoints:539
 msgctxt "game/waypoints:539:DefaultText"
 msgid "Hayes' Grave"
-msgstr ""
+msgstr "Hayesův hrob"
 
 #: game/waypoints:540
 msgctxt "game/waypoints:540:DefaultText"
 msgid "Expansion Site"
-msgstr ""
+msgstr "Místo rozšíření"
 
 #: game/waypoints:541
 msgctxt "game/waypoints:541:DefaultText"
 msgid "Hope Docking Bay"
-msgstr ""
+msgstr "Dokovací zátoka Hope"
 
 #: game/waypoints:542
 msgctxt "game/waypoints:542:DefaultText"
 msgid "Hope Auxiliary Power"
-msgstr ""
+msgstr "Pomocný zdroj Hope"
 
 #: game/waypoints:543
 msgctxt "game/waypoints:543:DefaultText"
 msgid "Hope Comms"
-msgstr ""
+msgstr "Hope Comms"
 
 #: game/waypoints:544
 msgctxt "game/waypoints:544:DefaultText"
 msgid "Hope Bridge"
-msgstr ""
+msgstr "Most naděje"
 
 #: game/waypoints:545
 msgctxt "game/waypoints:545:DefaultText"
 msgid "Unreliable"
-msgstr ""
+msgstr "Nespolehlivé"
 
 #: game/waypoints:548
 msgctxt "game/waypoints:548:DefaultText"
 msgid "Lilya Hagen"
-msgstr ""
+msgstr "Lilya Hagen"
 
 #: game/waypoints:549
 msgctxt "game/waypoints:549:DefaultText"
 msgid "Security"
-msgstr ""
+msgstr "Zabezpečení"
 
 #: game/waypoints:550
 msgctxt "game/waypoints:550:DefaultText"
 msgid "Raptidons"
-msgstr ""
+msgstr "Raptidons"
 
 #: game/waypoints:551
 msgctxt "game/waypoints:551:DefaultText"
 msgid "Cassandra's Corpse"
-msgstr ""
+msgstr "Kassandřina mrtvola"
 
 #: game/waypoints:553
 msgctxt "game/waypoints:553:DefaultText"
 msgid "Anton's Data"
-msgstr ""
+msgstr "Antonovy údaje"
 
 #: game/waypoints:555
 msgctxt "game/waypoints:555:DefaultText"
 msgid "Sweetheart Cake"
-msgstr ""
+msgstr "Srdíčkový dort"
 
 #: game/waypoints:557
 msgctxt "game/waypoints:557:DefaultText"
 msgid "Dustback Casserole"
-msgstr ""
+msgstr "Dustback Casserole"
 
 #: game/waypoints:559
 msgctxt "game/waypoints:559:DefaultText"
 msgid "Retrieve Minister's Parcel"
-msgstr ""
+msgstr "Získání ministerské zásilky"
 
 #: game/waypoints:560
 msgctxt "game/waypoints:560:DefaultText"
 msgid "Cassandra"
-msgstr ""
+msgstr "Cassandra"
 
 #: game/waypoints:561
 msgctxt "game/waypoints:561:DefaultText"
 msgid "Pen Door"
-msgstr ""
+msgstr "Dveře do pera"
 
 #: game/waypoints:567
 msgctxt "game/waypoints:567:DefaultText"
 msgid "Secret Panel"
-msgstr ""
+msgstr "Tajný panel"
 
 #: game/waypoints:568
 msgctxt "game/waypoints:568:DefaultText"
 msgid "Hawthorne's Ship"
-msgstr ""
+msgstr "Hawthornova loď"
 
 #: game/waypoints:569
 msgctxt "game/waypoints:569:DefaultText"
 msgid "Injured Guard"
-msgstr ""
+msgstr "Zraněný strážce"
 
 #: game/waypoints:570
 msgctxt "game/waypoints:570:DefaultText"
 msgid "Shoot"
-msgstr ""
+msgstr "Střílejte na"
 
 #: game/waypoints:572
 msgctxt "game/waypoints:572:DefaultText"
 msgid "Hiram"
-msgstr ""
+msgstr "Hiram"
 
 #: game/waypoints:573
 msgctxt "game/waypoints:573:DefaultText"
 msgid "Acid Steeper"
-msgstr ""
+msgstr "Acid Steeper"
 
 #: game/waypoints:574
 msgctxt "game/waypoints:574:DefaultText"
 msgid "SAM"
-msgstr ""
+msgstr "SAM"
 
 #: game/waypoints:575
 msgctxt "game/waypoints:575:DefaultText"
 msgid "Dr. Chartrand"
-msgstr ""
+msgstr "Dr. Chartrand"
 
 #: game/waypoints:579
 msgctxt "game/waypoints:579:DefaultText"
 msgid "Door Passcode"
-msgstr ""
+msgstr "Přístupový kód dveří"
 
 #: game/waypoints:580
 msgctxt "game/waypoints:580:DefaultText"
 msgid "Mechanical Control Terminal"
-msgstr ""
+msgstr "Mechanický ovládací terminál"
 
 #: game/waypoints:581
 msgctxt "game/waypoints:581:DefaultText"
 msgid "Vicar's Book"
-msgstr ""
+msgstr "Farářova kniha"
 
 #: game/waypoints:582
 msgctxt "game/waypoints:582:DefaultText"
 msgid "Cache of Medicine"
-msgstr ""
+msgstr "Cache of Medicine"
 
 #: game/waypoints:583
 msgctxt "game/waypoints:583:DefaultText"
 msgid "Esther Blaine"
-msgstr ""
+msgstr "Esther Blaine"
 
 #: game/waypoints:584
 msgctxt "game/waypoints:584:DefaultText"
 msgid "Scout"
-msgstr ""
+msgstr "Skaut"
 
 #: game/waypoints:586
 msgctxt "game/waypoints:586:DefaultText"
 msgid "Communications Terminal"
-msgstr ""
+msgstr "Komunikační terminál"
 
 #: game/waypoints:588
 msgctxt "game/waypoints:588:DefaultText"
 msgid "Mercs"
-msgstr ""
+msgstr "Mercs"
 
 #: game/waypoints:589
 msgctxt "game/waypoints:589:DefaultText"
 msgid "Search Remains"
-msgstr ""
+msgstr "Hledání pozůstatků"
 
 #: game/waypoints:590
 msgctxt "game/waypoints:590:DefaultText"
 msgid "Outpost"
-msgstr ""
+msgstr "Outpost"
 
 #: game/waypoints:591
 msgctxt "game/waypoints:591:DefaultText"
 msgid "Collector's Domicile"
-msgstr ""
+msgstr "Bydliště sběratele"
 
 #: game/waypoints:593
 msgctxt "game/waypoints:593:DefaultText"
 msgid "Udom Bedford"
-msgstr ""
+msgstr "Udom Bedford"
 
 #: game/waypoints:594
 msgctxt "game/waypoints:594:DefaultText"
 msgid "Udom's Terminal"
-msgstr ""
+msgstr "Terminál Udom"
 
 #: game/waypoints:595
 msgctxt "game/waypoints:595:DefaultText"
 msgid "Rosana"
-msgstr ""
+msgstr "Rosana"
 
 #: game/waypoints:596
 msgctxt "game/waypoints:596:DefaultText"
 msgid "Elevator"
-msgstr ""
+msgstr "Výtah"
 
 #: game/waypoints:597
 msgctxt "game/waypoints:597:DefaultText"
 msgid "Pit Access"
-msgstr ""
+msgstr "Přístup k jámám"
 
 #: game/waypoints:598
 msgctxt "game/waypoints:598:DefaultText"
 msgid "Pit Exit"
-msgstr ""
+msgstr "Výstup z jámy"
 
 #: game/waypoints:599
 msgctxt "game/waypoints:599:DefaultText"
 msgid "Chairman Rockwell"
-msgstr ""
+msgstr "Předseda Rockwell"
 
 #: game/waypoints:600
 msgctxt "game/waypoints:600:DefaultText"
 msgid "R.A.M."
-msgstr ""
+msgstr "R.A.M."
 
 #: game/waypoints:601
 msgctxt "game/waypoints:601:DefaultText"
 msgid "Lock"
-msgstr ""
+msgstr "Zámek"
 
 #: game/waypoints:602
 msgctxt "game/waypoints:602:DefaultText"
 msgid "Release"
-msgstr ""
+msgstr "Vydání"
 
 #: game/waypoints:603
 msgctxt "game/waypoints:603:DefaultText"
 msgid "Phineas"
-msgstr ""
+msgstr "Phineas"
 
 #: game/waypoints:604
 msgctxt "game/waypoints:604:DefaultText"
 msgid "Phineas"
-msgstr ""
+msgstr "Phineas"
 
 #: game/waypoints:605
 msgctxt "game/waypoints:605:DefaultText"
 msgid "Cave Entrance"
-msgstr ""
+msgstr "Vchod do jeskyně"
 
 #: game/waypoints:606
 msgctxt "game/waypoints:606:DefaultText"
 msgid "Path to Ship"
-msgstr ""
+msgstr "Cesta k lodi"
 
 #: game/waypoints:607
 msgctxt "game/waypoints:607:DefaultText"
 msgid "Tartarus"
-msgstr ""
+msgstr "Tartarus"
 
 #: game/waypoints:609
 msgctxt "game/waypoints:609:DefaultText"
 msgid "Restore Power"
-msgstr ""
+msgstr "Obnovení napájení"
 
 #: game/waypoints:611
 msgctxt "game/waypoints:611:DefaultText"
 msgid "Eliminate the Outlaws"
-msgstr ""
+msgstr "Eliminace psanců"
 
 #: game/waypoints:613
 msgctxt "game/waypoints:613:DefaultText"
 msgid "Nelson"
-msgstr ""
+msgstr "Nelson"
 
 #: game/waypoints:614
 msgctxt "game/waypoints:614:DefaultText"
 msgid "Sprat Droppings"
-msgstr ""
+msgstr "Šprotí trus"
 
 #: game/waypoints:615
 msgctxt "game/waypoints:615:DefaultText"
 msgid "Bertrand"
-msgstr ""
+msgstr "Bertrand"
 
 #: game/waypoints:616
 msgctxt "game/waypoints:616:DefaultText"
 msgid "Phineas' Lab"
-msgstr ""
+msgstr "Phineasova laboratoř"
 
 #: game/waypoints:618
 msgctxt "game/waypoints:618:DefaultText"
 msgid "Locked Safe"
-msgstr ""
+msgstr "Uzamčený trezor"
 
 #: game/waypoints:619
 msgctxt "game/waypoints:619:DefaultText"
 msgid "Insurance Office"
-msgstr ""
+msgstr "Kancelář pojištění"
 
 #: game/waypoints:620
 msgctxt "game/waypoints:620:DefaultText"
 msgid "Elijah"
-msgstr ""
+msgstr "Elijah"
 
 #: game/waypoints:621
 msgctxt "game/waypoints:621:DefaultText"
 msgid "Clear Marauders (<oeiglobal>0406_Marauders_Killed</oeiglobal>/<oeiglobal>0406_Maruaders_To_Kill</oeiglobal>)"
-msgstr ""
+msgstr "Vymazat nájezdníky (<oeiglobal>0406_Marauders_Killed</oeiglobal>/<oeiglobal>0406_Maruaders_To_Kill</oeiglobal>)"
 
 #: game/waypoints:622
 msgctxt "game/waypoints:622:DefaultText"
 msgid "Sprat?"
-msgstr ""
+msgstr "Sprat?"
 
 #: game/waypoints:623
 msgctxt "game/waypoints:623:DefaultText"
 msgid "Meditative Aid"
-msgstr ""
+msgstr "Meditační pomůcka"
 
 #: game/waypoints:624
 msgctxt "game/waypoints:624:DefaultText"
 msgid "Stash"
-msgstr ""
+msgstr "Úschovna"
 
 #: game/waypoints:625
 msgctxt "game/waypoints:625:DefaultText"
 msgid "Leverage"
-msgstr ""
+msgstr "Pákový efekt"
 
 #: game/waypoints:626
 msgctxt "game/waypoints:626:DefaultText"
 msgid "Edgar"
-msgstr ""
+msgstr "Edgar"
 
 #: game/waypoints:627
 msgctxt "game/waypoints:627:DefaultText"
 msgid "Levi"
-msgstr ""
+msgstr "Levi"
 
 #: game/waypoints:628
 msgctxt "game/waypoints:628:DefaultText"
 msgid "Martha"
-msgstr ""
+msgstr "Martha"
 
 #: game/waypoints:629
 msgctxt "game/waypoints:629:DefaultText"
 msgid "Lizzie"
-msgstr ""
+msgstr "Lizzie"
 
 #: game/waypoints:630
 msgctxt "game/waypoints:630:DefaultText"
 msgid "Sprat!"
-msgstr ""
+msgstr "Sprat!"
 
 #: game/waypoints:631
 msgctxt "game/waypoints:631:DefaultText"
 msgid "Bertrand"
-msgstr ""
+msgstr "Bertrand"
 
 #: game/waypoints:632
 msgctxt "game/waypoints:632:DefaultText"
 msgid "Droppings"
-msgstr ""
+msgstr "Trus"
 
 #: game/waypoints:633
 msgctxt "game/waypoints:633:DefaultText"
 msgid "Mini Malin"
-msgstr ""
+msgstr "Mini Malin"
 
 #: game/waypoints:634
 msgctxt "game/waypoints:634:DefaultText"
 msgid "Outpost Access"
-msgstr ""
+msgstr "Přístup k základně"
 
 #: game/waypoints:635
 msgctxt "game/waypoints:635:DefaultText"
 msgid "Window B"
-msgstr ""
+msgstr "Okno B"
 
 #: game/waypoints:636
 msgctxt "game/waypoints:636:DefaultText"
 msgid "HPS Clerk"
-msgstr ""
+msgstr "Úředník HPS"
 
 #: game/waypoints:637
 msgctxt "game/waypoints:637:DefaultText"
 msgid "Parcel Delivery"
-msgstr ""
+msgstr "Doručování balíků"
 
 #: game/waypoints:638
 msgctxt "game/waypoints:638:DefaultText"
 msgid "Parcel Pickup"
-msgstr ""
+msgstr "Vyzvednutí balíku"
 
 #: game/waypoints:639
 msgctxt "game/waypoints:639:DefaultText"
 msgid "Mantisaur Feeding Grounds"
-msgstr ""
+msgstr "Krmná místa kudlanek"
 
 #: game/waypoints:640
 msgctxt "game/waypoints:640:DefaultText"
 msgid "Joy"
-msgstr ""
+msgstr "Joy"
 
 #: game/waypoints:641
 msgctxt "game/waypoints:641:DefaultText"
 msgid "Sprats in Tunnels"
-msgstr ""
+msgstr "Šproty v tunelech"
 
 #: game/waypoints:642
 msgctxt "game/waypoints:642:DefaultText"
 msgid "Giles"
-msgstr ""
+msgstr "Giles"
 
 #: game/waypoints:643
 msgctxt "game/waypoints:643:DefaultText"
 msgid "Byzantium Beacon"
-msgstr ""
+msgstr "Byzantský maják"
 
 #: game/waypoints:644
 msgctxt "game/waypoints:644:DefaultText"
 msgid "Emerald Vale Beacon"
-msgstr ""
+msgstr "Maják Emerald Vale"
 
 #: game/waypoints:645
 msgctxt "game/waypoints:645:DefaultText"
 msgid "Scylla Beacon"
-msgstr ""
+msgstr "Maják Scylla"
 
 #: game/waypoints:646
 msgctxt "game/waypoints:646:DefaultText"
 msgid "Monarch Beacon"
-msgstr ""
+msgstr "Maják Monarch Beacon"
 
 #: game/waypoints:647
 msgctxt "game/waypoints:647:DefaultText"
 msgid "Sophia's Key"
-msgstr ""
+msgstr "Sophiin klíč"
 
 #: game/waypoints:648
 msgctxt "game/waypoints:648:DefaultText"
 msgid "Sophia Akande"
-msgstr ""
+msgstr "Sophia Akande"
 
 #: game/waypoints:649
 msgctxt "game/waypoints:649:DefaultText"
 msgid "HPS Parcel"
-msgstr ""
+msgstr "Parcela HPS"
 
 #: game/waypoints:650
 msgctxt "game/waypoints:650:DefaultText"
 msgid "Window C"
-msgstr ""
+msgstr "Okno C"
 
 #: game/waypoints:651
 msgctxt "game/waypoints:651:DefaultText"
 msgid "Returned Parcel"
-msgstr ""
+msgstr "Vrácená zásilka"
 
 #: game/waypoints:652
 msgctxt "game/waypoints:652:DefaultText"
 msgid "Captain Irion"
-msgstr ""
+msgstr "Kapitán Irion"
 
 #: game/waypoints:653
 msgctxt "game/waypoints:653:DefaultText"
 msgid "Elevator Panel"
-msgstr ""
+msgstr "Výtahový panel"
 
 #: game/waypoints:654
 msgctxt "game/waypoints:654:DefaultText"
 msgid "Passcode"
-msgstr ""
+msgstr "Přístupový kód"
 
 #: game/waypoints:655
 msgctxt "game/waypoints:655:DefaultText"
 msgid "Celeste"
-msgstr ""
+msgstr "Celeste"
 
 #: game/waypoints:656
 msgctxt "game/waypoints:656:DefaultText"
 msgid "Transfer Terminal"
-msgstr ""
+msgstr "Přestupní terminál"
 
 #: game/waypoints:657
 msgctxt "game/waypoints:657:DefaultText"
 msgid "Celeste's Parcel"
-msgstr ""
+msgstr "Celeste's Parcel"
 
 #: game/waypoints:658
 msgctxt "game/waypoints:658:DefaultText"
 msgid "Override Terminal"
-msgstr ""
+msgstr "Override Terminal"
 
 #: game/waypoints:659
 msgctxt "game/waypoints:659:DefaultText"
 msgid "Retirement District"
-msgstr ""
+msgstr "Důchodový okres"
 
 #: game/waypoints:661
 msgctxt "game/waypoints:661:DefaultText"
 msgid "Opal"
-msgstr ""
+msgstr "Opál"
 
 #: game/waypoints:662
 msgctxt "game/waypoints:662:DefaultText"
 msgid "Clara"
-msgstr ""
+msgstr "Clara"
 
 #: game/waypoints:663
 msgctxt "game/waypoints:663:DefaultText"
 msgid "Exit the Unreliable"
-msgstr ""
+msgstr "Odchod nespolehlivých"
 
 #: game/waypoints:664
 msgctxt "game/waypoints:664:DefaultText"
 msgid "Parvati's Date"
-msgstr ""
+msgstr "Datum Parvati"
 
 #: game/waypoints:665
 msgctxt "game/waypoints:665:DefaultText"
 msgid "Lab Sprat"
-msgstr ""
+msgstr "Laboratoř Sprat"
 
 #: game/waypoints:666
 msgctxt "game/waypoints:666:DefaultText"
 msgid "Dustback Casserole"
-msgstr ""
+msgstr "Dustback Casserole"
 
 #: game/waypoints:668
 msgctxt "game/waypoints:668:DefaultText"
 msgid "Trask's Ring"
-msgstr ""
+msgstr "Traskův prsten"
 
 #: game/waypoints:669
 msgctxt "game/waypoints:669:DefaultText"
 msgid "Trask's Evidence"
-msgstr ""
+msgstr "Traskovy důkazy"
 
 #: game/waypoints:670
 msgctxt "game/waypoints:670:DefaultText"
 msgid "Primal Glands"
-msgstr ""
+msgstr "Prvotní žlázy"
 
 #: game/waypoints:671
 msgctxt "game/waypoints:671:DefaultText"
 msgid "Lockwood's Documents"
-msgstr ""
+msgstr "Dokumenty společnosti Lockwood"
 
 #: game/waypoints:672
 msgctxt "game/waypoints:672:DefaultText"
 msgid "Lockwood's Terminal"
-msgstr ""
+msgstr "Terminál Lockwood's"
 
 #: game/waypoints:673
 msgctxt "game/waypoints:673:DefaultText"
 msgid "Carmen"
-msgstr ""
+msgstr "Carmen"
 
 #: game/waypoints:674
 msgctxt "game/waypoints:674:DefaultText"
 msgid "Sneak Aboard"
-msgstr ""
+msgstr "Sneak Aboard"
 
 #: game/waypoints:675
 msgctxt "game/waypoints:675:DefaultText"
 msgid "ID Cartridge"
-msgstr ""
+msgstr "ID kazeta"
 
 #: game/waypoints:676
 msgctxt "game/waypoints:676:DefaultText"
 msgid "Holographic Shroud"
-msgstr ""
+msgstr "Holografický plášť"
 
 #: game/waypoints:677
 msgctxt "game/waypoints:677:DefaultText"
 msgid "Jump"
-msgstr ""
+msgstr "Skok"
 
 #: game/waypoints:678
 msgctxt "game/waypoints:678:DefaultText"
 msgid "Drop"
-msgstr ""
+msgstr "Drop"
 
 #: game/waypoints:679
 msgctxt "game/waypoints:679:DefaultText"
 msgid "Sneak"
-msgstr ""
+msgstr "Sneak"
 
 #: game/waypoints:680
 msgctxt "game/waypoints:680:DefaultText"
 msgid "Crouch"
-msgstr ""
+msgstr "Crouch"
 
 #: game/waypoints:681
 msgctxt "game/waypoints:681:DefaultText"
 msgid "Move"
-msgstr ""
+msgstr "Přesun"
 
 #: game/waypoints:682
 msgctxt "game/waypoints:682:DefaultText"
 msgid "Gas Raptidons"
-msgstr ""
+msgstr "Plynové Raptidony"
 
 #: game/waypoints:683
 msgctxt "game/waypoints:683:DefaultText"
 msgid "Phineas' Weapon"
-msgstr ""
+msgstr "Phineasova zbraň"
 
 #: game/waypoints:684
 msgctxt "game/waypoints:684:DefaultText"
 msgid "Groundbreaker Weapon"
-msgstr ""
+msgstr "Zbraň Groundbreaker"
 
 #: game/waypoints:685
 msgctxt "game/waypoints:685:DefaultText"
 msgid "Duncan"
-msgstr ""
+msgstr "Duncan"
 
 #: game/waypoints:686
 msgctxt "game/waypoints:686:DefaultText"
 msgid "Scylla Weapon"
-msgstr ""
+msgstr "Zbraň Scylla"
 
 #: game/waypoints:687
 msgctxt "game/waypoints:687:DefaultText"
 msgid "Monarch Weapon"
-msgstr ""
+msgstr "Zbraň Monarch"
 
 #: game/waypoints:688
 msgctxt "game/waypoints:688:DefaultText"
 msgid "Abandoned Lab Weapon"
-msgstr ""
+msgstr "Opuštěná laboratorní zbraň"
 
 #: game/waypoints:718
 msgctxt "game/waypoints:718:DefaultText"
 msgid "Impound Notice"
-msgstr ""
+msgstr "Oznámení o zabavení"
 
 #: game/waypoints:729
 msgctxt "game/waypoints:729:DefaultText"
 msgid "Stefan Garcia"
-msgstr ""
+msgstr "Stefan Garcia"
 
 #: game/waypoints:991
 msgctxt "game/waypoints:991:DefaultText"
 msgid "[Stub] Cassidy Mills"
-msgstr ""
+msgstr "[Stub] Cassidy Mills"
 
 #: game/waypoints:992
 msgctxt "game/waypoints:992:DefaultText"
 msgid "[Stub] Smuggled Goods"
-msgstr ""
+msgstr "[Stub] Pašované zboží"
 
 #: game/waypoints:993
 msgctxt "game/waypoints:993:DefaultText"
 msgid "[Stub] Joseph Dempsy"
-msgstr ""
+msgstr "[Stub] Joseph Dempsy"
 
 #: game/waypoints:994
 msgctxt "game/waypoints:994:DefaultText"
 msgid "[Stub] Dash Whitlock"
-msgstr ""
+msgstr "[Stub] Dash Whitlock"
 
 #: game/waypoints:995
 msgctxt "game/waypoints:995:DefaultText"
 msgid "[Stub] Shipping Yard"
-msgstr ""
+msgstr "[Stub] Nákladní nádraží"
 
 #: game/waypoints:1016
 msgctxt "game/waypoints:1016:DefaultText"
 msgid "[Stub] Meet Mabel"
-msgstr ""
+msgstr "[Stub] Seznamte se s Mabel"
 
 #: game/waypoints:1017
 msgctxt "game/waypoints:1017:DefaultText"
 msgid "[Stub] Meet Walter"
-msgstr ""
+msgstr "[Stub] Seznamte se s Walterem"
 
 #: game/waypoints:1032
 msgctxt "game/waypoints:1032:DefaultText"
 msgid "[Stub] "
-msgstr ""
+msgstr "[Stub] "
 
 #: game/waypoints:1033
 msgctxt "game/waypoints:1033:DefaultText"
 msgid "[Stub] "
-msgstr ""
+msgstr "[Stub] "

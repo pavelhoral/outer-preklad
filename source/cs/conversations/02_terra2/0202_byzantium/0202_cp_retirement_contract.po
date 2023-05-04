@@ -12,17 +12,17 @@ msgid "Welcome to the HHC Early Retirement Center\r\n"
 "If the EMPLOYEE is having second thoughts about living out the rest of their lives in unparalleled luxury, then they may exit this terminal and return to the CENTER'S landing bay. There, the EMPLOYEE may turn in their winning Early Retirement ticket and await the next outbound transport. Don't worry, that ticket won't go to waste - it will be given to another deserving worker to keep the CENTER'S inbound population at ideal levels.\r\n"
 "\r\n"
 "Otherwise, if the EMPLOYEE is ready to begin the final leg of their Early Retirement journey and enjoy all the CENTER has to offer, please select \"I consent.\""
-msgstr ""
+msgstr "Vítejte v Centru předčasného důchodu HHC =========================== Před zahájením nového života v Byzanci musíte podle našich bezpečnostních předpisů souhlasit s následujícími podmínkami: Vy, dále jen ZAMĚSTNANEC, souhlasíte s pravidly a předpisy Centra předčasného důchodu společnosti Halcyon Holdings Corporation, dále jen CENTRUM. ZAMĚSTNANEC potvrzuje, že si přečetl a porozuměl pravidlům CENTRA, jak jsou sepsána v článku 3, oddílu 5, bodu 27 uvítacího balíčku pro předčasný odchod do důchodu. ZAMĚSTNANEC rovněž potvrzuje, že tento balíček obdržel cestou do CENTRA. V nepravděpodobném případě zranění, úmrtí nebo ztráty osobních věcí přebírá ZAMĚSTNANEC veškerou odpovědnost za tuto událost. Společnost Halcyon Holdings Corporation ani její dceřiné společnosti nenesou za tuto událost žádnou odpovědnost a nenabízejí žádné odškodnění. V případě, že CENTRUM nalezne ztracené nebo odcizené věci, musí si je ZAMĚSTNANEC vyzvednout do 48 hodin, jinak jeho věci propadnou. Pokud si ZAMĚSTNANEC rozmyslí, zda prožije zbytek života v nevídaném luxusu, může opustit tento terminál a vrátit se do přistávacího prostoru CENTRA. Tam může ZAMĚSTNANEC odevzdat svůj výherní lístek pro předčasný odchod do důchodu a počkat na další odletovou dopravu. Nebojte se, tento lístek nepřijde nazmar - bude předán jinému zasloužilému pracovníkovi, aby se počet příchozích do CENTRA udržel na ideální úrovni. V opačném případě, pokud je ZAMĚSTNANEC připraven zahájit poslední etapu své cesty do předčasného důchodu a užívat si všeho, co CENTRO nabízí, zvolte prosím \"Souhlasím\"."
 
 #: conversations/02_terra2/0202_byzantium/0202_cp_retirement_contract:2
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cp_retirement_contract:2:DefaultText"
 msgid "[I Consent]"
-msgstr ""
+msgstr "[Souhlasím]"
 
 #: conversations/02_terra2/0202_byzantium/0202_cp_retirement_contract:3
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cp_retirement_contract:3:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"
 
 #: conversations/02_terra2/0202_byzantium/0202_cp_retirement_contract:4
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cp_retirement_contract:4:DefaultText"
@@ -30,7 +30,7 @@ msgid "Welcome to the HHC Early Retirement Center\r\n"
 "==========================\r\n"
 "\r\n"
 "Please proceed to the elevator. The rest of your life begins now!"
-msgstr ""
+msgstr "Vítejte ve středisku pro předčasný odchod do důchodu HHC ==========================. Pokračujte prosím k výtahu. Zbytek vašeho života začíná právě teď!"
 
 #: conversations/02_terra2/0202_byzantium/0202_cp_retirement_contract:5
 msgctxt "conversations/02_terra2/0202_byzantium/0202_cp_retirement_contract:5:DefaultText"
@@ -38,4 +38,4 @@ msgid "Welcome to the HHC Early Retirement Center\r\n"
 "===========================\r\n"
 "\r\n"
 "Congratulations! You just made the first step on the greatest journey of your life. Now please proceed to the elevator. Your Early Retirement awaits!"
-msgstr ""
+msgstr "Vítejte v Centru pro předčasný odchod do důchodu HHC =========================== Gratulujeme! Právě jste udělali první krok na největší cestě svého života. Nyní prosím pokračujte k výtahu. Váš předčasný důchod čeká!"

@@ -7,12 +7,12 @@ msgid "Emerald Vale Geothermal Plant\r\n"
 "\r\n"
 "Automechanical Control Terminal\r\n"
 ""
-msgstr ""
+msgstr "Geotermální elektrárna Emerald Vale A Spacer's Choice Property ======================== Automechanický řídicí terminál"
 
 #: conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_bot_aggression:2
 msgctxt "conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_bot_aggression:2:DefaultText"
 msgid "[Modify Behavior]"
-msgstr ""
+msgstr "[Upravit chování]"
 
 #: conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_bot_aggression:3
 msgctxt "conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_bot_aggression:3:DefaultText"
@@ -27,12 +27,12 @@ msgid "Emerald Vale Geothermal Plant\r\n"
 "Guard Mode Targets: [INTRUDERS]\r\n"
 "\r\n"
 "Select Operation"
-msgstr ""
+msgstr "Geotermální elektrárna Emerald Vale A Spacer's Choice Property ======================== Accessing Behavior Modification Automechanical Behavior Mode: [GUARD MODE] Režim strážce Cíle: [INTRUDERS] Vybrat operaci"
 
 #: conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_bot_aggression:4
 msgctxt "conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_bot_aggression:4:DefaultText"
 msgid "[Select New Mode]"
-msgstr ""
+msgstr "[Vybrat nový režim]"
 
 #: conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_bot_aggression:5
 msgctxt "conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_bot_aggression:5:DefaultText"
@@ -47,7 +47,7 @@ msgid "Emerald Vale Geothermal Plant\r\n"
 "[ERROR!]\r\n"
 "\r\n"
 "Automechanicals in this facility have been mandated to remain in [GUARD MODE]. Any attempt to alter this setting is punishable by company law. Your infraction has been noted in your permanent record, [C. Higgins]. Please see your supervisor to schedule a reprimand."
-msgstr ""
+msgstr "Emerald Vale Geothermal Plant A Spacer's Choice Property ======================== [Select New Mode] ... ... [ERROR!] Automechanics in this facility have been mandated to remain in [GUARD MODE]. Jakýkoli pokus o změnu tohoto nastavení je trestný podle podnikových zákonů. Váš přestupek byl zaznamenán do vašeho trvalého záznamu, [C. Higgins]. Obraťte se prosím na svého nadřízeného a domluvte se na pokárání."
 
 #: conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_bot_aggression:7
 msgctxt "conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_bot_aggression:7:DefaultText"
@@ -61,12 +61,12 @@ msgid "Emerald Vale Geothermal Plant\r\n"
 "All persons or entities NOT identified as property of Spacer's Choice.\r\n"
 "\r\n"
 "Would you like to modify the definition of [INTRUDERS]?"
-msgstr ""
+msgstr "Emerald Vale Geothermal Plant A Spacer's Choice Property ======================== [INTRUDERS]: Všechny osoby nebo subjekty, které nejsou označeny jako majetek společnosti Spacer's Choice. Chcete upravit definici [INTRUDERS]?"
 
 #: conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_bot_aggression:8
 msgctxt "conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_bot_aggression:8:DefaultText"
 msgid "[Define Intruders]"
-msgstr ""
+msgstr "[Definice vetřelců]"
 
 #: conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_bot_aggression:9
 msgctxt "conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_bot_aggression:9:DefaultText"
@@ -81,17 +81,17 @@ msgid "Emerald Vale Geothermal Plant\r\n"
 "Definition of [INTRUDERS] successfully updated.\r\n"
 "\r\n"
 "Modified definitions successfully forwarded to security. Please allow some time to process and remove all recently defined [INTRUDERS]."
-msgstr ""
+msgstr "Geotermální elektrárna Emerald Vale A Spacer's Choice Property ======================== Aktualizace definice: [... ... Definice [INTRUDERS] úspěšně aktualizována. Upravené definice úspěšně předány zabezpečení. Vyčkejte prosím nějaký čas na zpracování a odstranění všech nedávno definovaných [INTRUDERS]."
 
 #: conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_bot_aggression:10
 msgctxt "conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_bot_aggression:10:DefaultText"
 msgid "[Exit]"
-msgstr ""
+msgstr "[Exit]"
 
 #: conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_bot_aggression:11
 msgctxt "conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_bot_aggression:11:DefaultText"
 msgid "[Select New Target]"
-msgstr ""
+msgstr "[Vyberte nový cíl]"
 
 #: conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_bot_aggression:12
 msgctxt "conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_bot_aggression:12:DefaultText"
@@ -106,22 +106,22 @@ msgid "Emerald Vale Geothermal Plant\r\n"
 "[ERROR!]\r\n"
 "\r\n"
 "Automechanicals in this facility have been mandated to target [INTRUDERS]. Any attempt to alter this setting is punishable by company law. Your infraction has been noted in your permanent record, [C. Higgins]. Please see your supervisor to schedule a reprimand."
-msgstr ""
+msgstr "Emerald Vale Geothermal Plant A Spacer's Choice Property ======================== [Select New Target] ... ... [ERROR!] Automechanikům v tomto zařízení bylo nařízeno zaměřit [INTRUDERS]. Jakýkoli pokus o změnu tohoto nastavení je trestný podle zákonů společnosti. Váš přestupek byl zaznamenán do vašeho trvalého záznamu, [C. Higgins]. Obraťte se prosím na svého nadřízeného a domluvte se na pokárání."
 
 #: conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_bot_aggression:14
 msgctxt "conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_bot_aggression:14:DefaultText"
 msgid "[Define Intruders as Spacer's Choice Automechanicals]"
-msgstr ""
+msgstr "[Definujte vetřelce jako Spacer's Choice Automechanicals]"
 
 #: conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_bot_aggression:16
 msgctxt "conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_bot_aggression:16:DefaultText"
 msgid "[Return to Root]"
-msgstr ""
+msgstr "[Zpět na kořen]"
 
 #: conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_bot_aggression:17
 msgctxt "conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_bot_aggression:17:DefaultText"
 msgid "[Run Termination Protocol]"
-msgstr ""
+msgstr "[Spustit protokol o ukončení]"
 
 #: conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_bot_aggression:18
 msgctxt "conversations/00_emerald_vale/0004_geothermal_plant/0004_cp_bot_aggression:18:DefaultText"
@@ -135,4 +135,4 @@ msgid "Emerald Vale Geothermal Plant\r\n"
 "...\r\n"
 "Termination Protocol Successfully Activated\r\n"
 ""
-msgstr ""
+msgstr "Emerald Vale Geothermal Plant A Spacer's Choice Property ======================== Running Termination Protocol ... ... Termination Protocol Successfully Activated"

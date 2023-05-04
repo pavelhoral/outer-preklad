@@ -1,214 +1,214 @@
 #: conversations/02_terra2/0231_bureau/0231_cv_caroline:1
 msgctxt "conversations/02_terra2/0231_bureau/0231_cv_caroline:1:DefaultText"
 msgid "Sorry, I'm kind of in the middle of something."
-msgstr ""
+msgstr "Omlouvám se, jsem tak trochu uprostřed něčeho."
 
 #: conversations/02_terra2/0231_bureau/0231_cv_caroline:2
 msgctxt "conversations/02_terra2/0231_bureau/0231_cv_caroline:2:DefaultText"
 msgid "I'm a little busy. Can we do this some other time?"
-msgstr ""
+msgstr "Jsem trochu zaneprázdněný. Můžeme to udělat někdy jindy?"
 
 #: conversations/02_terra2/0231_bureau/0231_cv_caroline:3
 msgctxt "conversations/02_terra2/0231_bureau/0231_cv_caroline:3:DefaultText"
 msgid "Farewell."
-msgstr ""
+msgstr "Rozloučení."
 
 #: conversations/02_terra2/0231_bureau/0231_cv_caroline:4
 msgctxt "conversations/02_terra2/0231_bureau/0231_cv_caroline:4:DefaultText"
 msgid "Do you know a Theodore Isaacs?"
-msgstr ""
+msgstr "Znáte nějakého Theodora Isaacse?"
 
 #: conversations/02_terra2/0231_bureau/0231_cv_caroline:5
 msgctxt "conversations/02_terra2/0231_bureau/0231_cv_caroline:5:DefaultText"
 msgid "I knew it! He's eating your lunch, too, isn't he? That greedy little cystypig."
-msgstr ""
+msgstr "Já to věděl! Taky ti jí oběd, že jo? Ten malý nenasytný cystypig."
 
 #: conversations/02_terra2/0231_bureau/0231_cv_caroline:6
 msgctxt "conversations/02_terra2/0231_bureau/0231_cv_caroline:6:DefaultText"
 msgid "I'm delivering a formal reprimand to Theodore, but management forgot to send my ID..."
-msgstr ""
+msgstr "Doručuji Theodorovi formální důtku, ale vedení mi zapomnělo poslat průkaz..."
 
 #: conversations/02_terra2/0231_bureau/0231_cv_caroline:7
 msgctxt "conversations/02_terra2/0231_bureau/0231_cv_caroline:7:DefaultText"
 msgid "Oh, that's no problem - I can get you into the lab. In fact, let's go there now."
-msgstr ""
+msgstr "To není problém - můžu vás dostat do laboratoře. Vlastně tam pojďme hned."
 
 #: conversations/02_terra2/0231_bureau/0231_cv_caroline:8
 msgctxt "conversations/02_terra2/0231_bureau/0231_cv_caroline:8:DefaultText"
 msgid "Let's talk about that another time."
-msgstr ""
+msgstr "O tom si promluvíme jindy."
 
 #: conversations/02_terra2/0231_bureau/0231_cv_caroline:9
 msgctxt "conversations/02_terra2/0231_bureau/0231_cv_caroline:9:DefaultText"
 msgid "You just let me know. I can complain about Theodore any time."
-msgstr ""
+msgstr "Jen mi dejte vědět. Na Theodora si můžu kdykoli stěžovat."
 
 #: conversations/02_terra2/0231_bureau/0231_cv_caroline:10
 msgctxt "conversations/02_terra2/0231_bureau/0231_cv_caroline:10:DefaultText"
 msgid "You seem like a woman who knows about sprat mitochondria. But I can take this conversation elsewhere if you're busy."
-msgstr ""
+msgstr "Vypadáte jako žena, která se vyzná v mitochondriích šprotů. Ale jestli nemáš čas, můžu tuhle konverzaci odvést jinam."
 
 #: conversations/02_terra2/0231_bureau/0231_cv_caroline:11
 msgctxt "conversations/02_terra2/0231_bureau/0231_cv_caroline:11:DefaultText"
 msgid "Oh. OH. You know, I always have time for sprat mitochondria. As well as charming men who can appreciate the finer points of cell biology."
-msgstr ""
+msgstr "Oh. OH. Víte, na mitochondrie šprotů mám vždycky čas. Stejně jako na okouzlující muže, kteří dokáží ocenit jemné stránky buněčné biologie."
 
 #: conversations/02_terra2/0231_bureau/0231_cv_caroline:11
 msgctxt "conversations/02_terra2/0231_bureau/0231_cv_caroline:11:FemaleText"
 msgid "Oh. OH. You know, I always have time for sprat mitochondria. As well as charming women who can appreciate the finer points of cell biology."
-msgstr ""
+msgstr "Oh. OH. Víte, na mitochondrie šprotů mám vždycky čas. Stejně jako na okouzlující ženy, které dokáží ocenit jemné stránky buněčné biologie."
 
 #: conversations/02_terra2/0231_bureau/0231_cv_caroline:12
 msgctxt "conversations/02_terra2/0231_bureau/0231_cv_caroline:12:DefaultText"
 msgid "I'm new, and my paperwork hasn't come through yet."
-msgstr ""
+msgstr "Jsem tu nová a ještě mi nepřišly papíry."
 
 #: conversations/02_terra2/0231_bureau/0231_cv_caroline:14
 msgctxt "conversations/02_terra2/0231_bureau/0231_cv_caroline:14:DefaultText"
 msgid "In that case, I can get you into the lab. Consider it a favor you can repay later."
-msgstr ""
+msgstr "V tom případě vás mohu dostat do laboratoře. Považuj to za laskavost, kterou můžeš později splatit."
 
 #: conversations/02_terra2/0231_bureau/0231_cv_caroline:16
 msgctxt "conversations/02_terra2/0231_bureau/0231_cv_caroline:16:DefaultText"
 msgid "Holte, I need a favor. Think you could let my friend through, just this once? After all, you still owe me."
-msgstr ""
+msgstr "Holte, potřebuji laskavost. Myslíš, že bys pro tentokrát mohl nechat mého přítele projít? Koneckonců, pořád mi něco dlužíš."
 
 #: conversations/02_terra2/0231_bureau/0231_cv_caroline:19
 msgctxt "conversations/02_terra2/0231_bureau/0231_cv_caroline:19:DefaultText"
 msgid "And he's on his own if he runs into the guards downstairs."
-msgstr ""
+msgstr "A pokud dole narazí na stráže, je v tom sám."
 
 #: conversations/02_terra2/0231_bureau/0231_cv_caroline:19
 msgctxt "conversations/02_terra2/0231_bureau/0231_cv_caroline:19:FemaleText"
 msgid "And she's on her own if she runs into the guards downstairs."
-msgstr ""
+msgstr "A pokud dole narazí na stráže, je v tom sama."
 
 #: conversations/02_terra2/0231_bureau/0231_cv_caroline:20
 msgctxt "conversations/02_terra2/0231_bureau/0231_cv_caroline:20:DefaultText"
 msgid "You're the best, Holte."
-msgstr ""
+msgstr "Jsi nejlepší, Holte."
 
 #: conversations/02_terra2/0231_bureau/0231_cv_caroline:21
 msgctxt "conversations/02_terra2/0231_bureau/0231_cv_caroline:21:DefaultText"
 msgid "This is great. I finally have someone else to complain to!"
-msgstr ""
+msgstr "To je skvělé. Konečně si mám komu stěžovat!"
 
 #: conversations/02_terra2/0231_bureau/0231_cv_caroline:22
 msgctxt "conversations/02_terra2/0231_bureau/0231_cv_caroline:22:DefaultText"
 msgid "Theodore's out right now, but we should be ready when he gets back. That way, EVERYONE can see you chew him out. "
-msgstr ""
+msgstr "Theodor je teď mimo domov, ale až se vrátí, měli bychom být připraveni. Všichni tak uvidí, jak ho seřveš. "
 
 #: conversations/02_terra2/0231_bureau/0231_cv_caroline:23
 msgctxt "conversations/02_terra2/0231_bureau/0231_cv_caroline:23:DefaultText"
 msgid "This is going to be so good."
-msgstr ""
+msgstr "Tohle bude tak dobré."
 
 #: conversations/02_terra2/0231_bureau/0231_cv_caroline:24
 msgctxt "conversations/02_terra2/0231_bureau/0231_cv_caroline:24:DefaultText"
 msgid "How do you feel about mitosis and meiosis? The contours of smooth endoplasmic reticula?"
-msgstr ""
+msgstr "Co si myslíte o mitóze a meióze? Obrysy hladkých endoplazmatických retikul?"
 
 #: conversations/02_terra2/0231_bureau/0231_cv_caroline:25
 msgctxt "conversations/02_terra2/0231_bureau/0231_cv_caroline:25:DefaultText"
 msgid "This is certainly a conversation worth continuing elsewhere. But I don't think I've seen you around, and I'm sure I'd remember you."
-msgstr ""
+msgstr "Tento rozhovor by jistě stál za pokračování jinde. Ale myslím, že jsem tě tu ještě neviděl, a určitě bych si tě pamatoval."
 
 #: conversations/02_terra2/0231_bureau/0231_cv_caroline:26
 msgctxt "conversations/02_terra2/0231_bureau/0231_cv_caroline:26:DefaultText"
 msgid "You definitely haven't seen me before."
-msgstr ""
+msgstr "Určitě jste mě ještě neviděli."
 
 #: conversations/02_terra2/0231_bureau/0231_cv_caroline:27
 msgctxt "conversations/02_terra2/0231_bureau/0231_cv_caroline:27:DefaultText"
 msgid "What a man of mystery you are."
-msgstr ""
+msgstr "Jste záhadný muž."
 
 #: conversations/02_terra2/0231_bureau/0231_cv_caroline:27
 msgctxt "conversations/02_terra2/0231_bureau/0231_cv_caroline:27:FemaleText"
 msgid "What a woman of mystery you are."
-msgstr ""
+msgstr "Jste záhadná žena."
 
 #: conversations/02_terra2/0231_bureau/0231_cv_caroline:28
 msgctxt "conversations/02_terra2/0231_bureau/0231_cv_caroline:28:DefaultText"
 msgid "We should definitely continue this conversation somewhere more... private. I know a cozy little corner of the lab where we can observe cellular reproduction together."
-msgstr ""
+msgstr "Určitě bychom měli v této konverzaci pokračovat někde... v soukromí. Znám útulný koutek laboratoře, kde bychom mohli společně pozorovat buněčné rozmnožování."
 
 #: conversations/02_terra2/0231_bureau/0231_cv_caroline:29
 msgctxt "conversations/02_terra2/0231_bureau/0231_cv_caroline:29:DefaultText"
 msgid "Don't worry, I haven't forgotten you. We'll continue this later."
-msgstr ""
+msgstr "Nebojte se, nezapomněl jsem na vás. Pokračovat budeme později."
 
 #: conversations/02_terra2/0231_bureau/0231_cv_caroline:30
 msgctxt "conversations/02_terra2/0231_bureau/0231_cv_caroline:30:DefaultText"
 msgid "I'll wait here for Theodore. Just in case he comes this way."
-msgstr ""
+msgstr "Počkám tady na Theodora. Jen pro případ, že by šel tudy."
 
 #: conversations/02_terra2/0231_bureau/0231_cv_caroline:31
 msgctxt "conversations/02_terra2/0231_bureau/0231_cv_caroline:31:DefaultText"
 msgid "Come this way. I'll get you in, and I'll come meet you later."
-msgstr ""
+msgstr "Pojďte tudy. Vezmu tě dovnitř a pak za tebou přijdu."
 
 #: conversations/02_terra2/0231_bureau/0231_cv_caroline:32
 msgctxt "conversations/02_terra2/0231_bureau/0231_cv_caroline:32:DefaultText"
 msgid "Follow me."
-msgstr ""
+msgstr "Následujte mě."
 
 #: conversations/02_terra2/0231_bureau/0231_cv_caroline:33
 msgctxt "conversations/02_terra2/0231_bureau/0231_cv_caroline:33:DefaultText"
 msgid "Fine, but I don't wanna hear anything about the Catch-Up packet incident ever again."
-msgstr ""
+msgstr "Fajn, ale už nikdy nechci slyšet nic o incidentu s balíčkem Catch-Up."
 
 #: conversations/02_terra2/0231_bureau/0231_cv_caroline:35
 msgctxt "conversations/02_terra2/0231_bureau/0231_cv_caroline:35:DefaultText"
 msgid "What I'd give for a surplus of food to complain about..."
-msgstr ""
+msgstr "Co bych dal za přebytek jídla, na který bych si mohl stěžovat..."
 
 #: conversations/02_terra2/0231_bureau/0231_cv_caroline:36
 msgctxt "conversations/02_terra2/0231_bureau/0231_cv_caroline:36:DefaultText"
 msgid "Do these people got nothing else to occupy their time?"
-msgstr ""
+msgstr "To ti lidé nemají nic jiného na práci?"
 
 #: conversations/02_terra2/0231_bureau/0231_cv_caroline:37
 msgctxt "conversations/02_terra2/0231_bureau/0231_cv_caroline:37:DefaultText"
 msgid "Complaining is a competitive sport in Byzantium. "
-msgstr ""
+msgstr "Stěžování si je v Byzanci soutěžní sport. "
 
 #: conversations/02_terra2/0231_bureau/0231_cv_caroline:38
 msgctxt "conversations/02_terra2/0231_bureau/0231_cv_caroline:38:DefaultText"
 msgid "Complaining is a competitive sport in Byzantium. "
-msgstr ""
+msgstr "Stěžování si je v Byzanci soutěžní sport. "
 
 #: conversations/02_terra2/0231_bureau/0231_cv_caroline:39
 msgctxt "conversations/02_terra2/0231_bureau/0231_cv_caroline:39:DefaultText"
 msgid "You'll get your turn. Right now, we're talking about Theodore."
-msgstr ""
+msgstr "Na řadu přijdeš ty. Právě teď mluvíme o Theodorovi."
 
 #: conversations/02_terra2/0231_bureau/0231_cv_caroline:40
 msgctxt "conversations/02_terra2/0231_bureau/0231_cv_caroline:40:DefaultText"
 msgid "You'll get your turn. Right now, we're talking about Theodore."
-msgstr ""
+msgstr "Na řadu přijdeš ty. Právě teď mluvíme o Theodorovi."
 
 #: conversations/02_terra2/0231_bureau/0231_cv_caroline:41
 msgctxt "conversations/02_terra2/0231_bureau/0231_cv_caroline:41:DefaultText"
 msgid "You'll get your turn. Right now, we're talking about Theodore."
-msgstr ""
+msgstr "Na řadu přijdeš ty. Právě teď mluvíme o Theodorovi."
 
 #: conversations/02_terra2/0231_bureau/0231_cv_caroline:42
 msgctxt "conversations/02_terra2/0231_bureau/0231_cv_caroline:42:DefaultText"
 msgid "Uh, confused? But also, suddenly interested in science for some reason."
-msgstr ""
+msgstr "Zmatený? Ale taky se z nějakého důvodu najednou zajímám o vědu."
 
 #: conversations/02_terra2/0231_bureau/0231_cv_caroline:43
 msgctxt "conversations/02_terra2/0231_bureau/0231_cv_caroline:43:DefaultText"
 msgid "Are we still talking 'bout cell division?"
-msgstr ""
+msgstr "Stále se bavíme o buněčném dělení?"
 
 #: conversations/02_terra2/0231_bureau/0231_cv_caroline:45
 msgctxt "conversations/02_terra2/0231_bureau/0231_cv_caroline:45:DefaultText"
 msgid "About that Theodore..."
-msgstr ""
+msgstr "Ohledně toho Theodora..."
 
 #: conversations/02_terra2/0231_bureau/0231_cv_caroline:46
 msgctxt "conversations/02_terra2/0231_bureau/0231_cv_caroline:46:DefaultText"
 msgid "He's awful, isn't he? Tell me, what's he done to you? I want all the details."
-msgstr ""
+msgstr "Je hrozný, že? Řekni mi, co ti udělal? Chci znát všechny podrobnosti."
