@@ -6,122 +6,122 @@ msgstr ""
 #: game/gui:1
 msgctxt "game/gui:1:DefaultText"
 msgid "No"
-msgstr "Ne"
+msgstr ""
 
 #: game/gui:2
 msgctxt "game/gui:2:DefaultText"
 msgid "Accept"
-msgstr "Přijmout"
+msgstr ""
 
 #: game/gui:3
 msgctxt "game/gui:3:DefaultText"
 msgid "Cancel"
-msgstr "Zrušit"
+msgstr ""
 
 #: game/gui:4
 msgctxt "game/gui:4:DefaultText"
 msgid "Continue"
-msgstr "Pokračovat"
+msgstr ""
 
 #: game/gui:5
 msgctxt "game/gui:5:DefaultText"
 msgid "Pause"
-msgstr "Pozastavit hru"
+msgstr ""
 
 #: game/gui:6
 msgctxt "game/gui:6:DefaultText"
 msgid "End Dialogue"
-msgstr "Ukončit rozhovor"
+msgstr ""
 
 #: game/gui:7
 msgctxt "game/gui:7:DefaultText"
 msgid "Back"
-msgstr "Zpět"
+msgstr ""
 
 #: game/gui:8
 msgctxt "game/gui:8:DefaultText"
 msgid "Options"
-msgstr "Nastavení"
+msgstr ""
 
 #: game/gui:9
 msgctxt "game/gui:9:DefaultText"
-msgid "Quit"
-msgstr "Ukončit hru"
+msgid "Odejít"
+msgstr ""
 
 #: game/gui:10
 msgctxt "game/gui:10:DefaultText"
 msgid "Master Volume"
-msgstr "Celková hlasitost"
+msgstr ""
 
 #: game/gui:11
 msgctxt "game/gui:11:DefaultText"
 msgid "Music Volume"
-msgstr "Hlasitost hudby"
+msgstr ""
 
 #: game/gui:12
 msgctxt "game/gui:12:DefaultText"
 msgid "Effects Volume"
-msgstr "Hlasitost efektů"
+msgstr ""
 
 #: game/gui:13
 msgctxt "game/gui:13:DefaultText"
 msgid "Save"
-msgstr "Uložit"
+msgstr ""
 
 #: game/gui:14
 msgctxt "game/gui:14:DefaultText"
 msgid "Load"
-msgstr "Načíst"
+msgstr ""
 
 #: game/gui:15
 msgctxt "game/gui:15:DefaultText"
 msgid "Save Game"
-msgstr "Uložit hru"
+msgstr ""
 
 #: game/gui:16
 msgctxt "game/gui:16:DefaultText"
-msgid "Load Game"
-msgstr "Načíst pozici"
+msgid "Nahrát hru"
+msgstr ""
 
 #: game/gui:17
 msgctxt "game/gui:17:DefaultText"
 msgid "[NEW SAVE]"
-msgstr "[NOVÁ POZICE]"
+msgstr ""
 
 #: game/gui:18
 msgctxt "game/gui:18:DefaultText"
 msgid "Inventory"
-msgstr "Inventář"
+msgstr ""
 
 #: game/gui:19
 msgctxt "game/gui:19:DefaultText"
 msgid "Journal"
-msgstr "Denník"
+msgstr ""
 
 #: game/gui:20
 msgctxt "game/gui:20:DefaultText"
 msgid "Map"
-msgstr "Mapa"
+msgstr ""
 
 #: game/gui:21
 msgctxt "game/gui:21:DefaultText"
 msgid "World Map"
-msgstr "Mapa světa"
+msgstr ""
 
 #: game/gui:22
 msgctxt "game/gui:22:DefaultText"
 msgid "Male"
-msgstr "Muž"
+msgstr ""
 
 #: game/gui:23
 msgctxt "game/gui:23:DefaultText"
 msgid "Female"
-msgstr "Žena"
+msgstr ""
 
 #: game/gui:24
 msgctxt "game/gui:24:DefaultText"
 msgid "Execute"
-msgstr "Spustit"
+msgstr ""
 
 #: game/gui:25
 msgctxt "game/gui:25:DefaultText"
@@ -320,8 +320,8 @@ msgstr ""
 
 #: game/gui:67
 msgctxt "game/gui:67:DefaultText"
-msgid "Settings"
-msgstr "Nastavení"
+msgid "Nastavení"
+msgstr ""
 
 #: game/gui:68
 msgctxt "game/gui:68:DefaultText"
@@ -591,42 +591,42 @@ msgstr ""
 #: game/gui:139
 msgctxt "game/gui:139:DefaultText"
 msgid "Apply"
-msgstr "Použít"
+msgstr ""
 
 #: game/gui:140
 msgctxt "game/gui:140:DefaultText"
 msgid "Back"
-msgstr "Zpět"
+msgstr ""
 
 #: game/gui:141
 msgctxt "game/gui:141:DefaultText"
 msgid "Graphics"
-msgstr "Zobrazení"
+msgstr ""
 
 #: game/gui:142
 msgctxt "game/gui:142:DefaultText"
 msgid "Audio"
-msgstr "Zvuk"
+msgstr ""
 
 #: game/gui:143
 msgctxt "game/gui:143:DefaultText"
 msgid "Controls"
-msgstr "Ovládání"
+msgstr ""
 
 #: game/gui:144
 msgctxt "game/gui:144:DefaultText"
 msgid "Game"
-msgstr "Hra"
+msgstr ""
 
 #: game/gui:145
 msgctxt "game/gui:145:DefaultText"
 msgid "Menu"
-msgstr "Hlavní nabídka"
+msgstr ""
 
 #: game/gui:146
 msgctxt "game/gui:146:DefaultText"
 msgid "Volume"
-msgstr "Hlasitost"
+msgstr ""
 
 #: game/gui:147
 msgctxt "game/gui:147:DefaultText"
@@ -2334,7 +2334,7 @@ msgstr ""
 
 #: game/gui:539
 msgctxt "game/gui:539:DefaultText"
-msgid "Charm effects Faction Reputation and Companion Ability cooldowns.\n"
+msgid "Charm affects Faction Reputation and Companion Ability cooldowns.\n"
 "\n"
 "Affected Skills: \n"
 "    Persuade\n"
@@ -2782,7 +2782,7 @@ msgstr ""
 #: game/gui:627
 msgctxt "game/gui:627:DefaultText"
 msgid "New Game"
-msgstr ""
+msgstr "Nová hra"
 
 #: game/gui:628
 msgctxt "game/gui:628:DefaultText"
@@ -4800,7 +4800,7 @@ msgstr ""
 
 #: game/gui:1070
 msgctxt "game/gui:1070:DefaultText"
-msgid "Current XP/Needed to Level"
+msgid "Current XP"
 msgstr ""
 
 #: game/gui:1071
@@ -4860,7 +4860,7 @@ msgstr ""
 
 #: game/gui:1082
 msgctxt "game/gui:1082:DefaultText"
-msgid "How many Experience Points you have, and how many are needed to reach the next Level."
+msgid "The amount of Experience Points you have."
 msgstr ""
 
 #: game/gui:1083
@@ -6561,7 +6561,7 @@ msgstr ""
 
 #: game/gui:1696
 msgctxt "game/gui:1696:DefaultText"
-msgid "Increase the Armor Rating and Skill bonuses from any armor you wear."
+msgid "Increase the Armor Rating and Skill bonuses from any armor you wear. Bonuses from Mods are not affected."
 msgstr ""
 
 #: game/gui:1697
@@ -11003,6 +11003,12 @@ msgstr ""
 msgctxt "game/gui:2601:DefaultText"
 msgid "You are about to delete your Point Of No Return save before assaulting the Labyrinth on Tartarus.\n"
 "\n"
+"We highly advise you keep this save.\n"
+"\n"
+"This is the final save for this character that can access DLC (downloadable content) such as Peril on Gorgon, or Murder on Eridanos.\n"
+"\n"
+"Saves beyond this point (the point of no return) can only finish the main story on Tartarus.\n"
+"\n"
 "Are you sure you want to delete this save?"
 msgstr ""
 
@@ -11038,10 +11044,12 @@ msgstr ""
 
 #: game/gui:2608
 msgctxt "game/gui:2608:DefaultText"
-msgid "You are about to assault the Labyrinth on Tartarus and determine the fate of the Halcyon colony.\r\n"
-"\r\n"
-"If there's anything you want to do before you enter the prison, do it now - before you cross the point of no return.\r\n"
-"\r\n"
+msgid "You are about to assault the Labyrinth on Tartarus and determine the fate of the Halcyon colony.\n"
+"\n"
+"Saves made after this point can only finish the main story on Tartarus. Side quests and downloaded content (DLC) such as Peril on Gorgon, or Murder on Eridanos will be unavailable for any saves made beyond this point.\n"
+"\n"
+"If there's anything you want to do before you enter the prison, do it now - before you cross the point of no return.\n"
+"\n"
 "Would you like to continue?"
 msgstr ""
 
@@ -12618,7 +12626,7 @@ msgstr ""
 
 #: game/gui:2934
 msgctxt "game/gui:2934:DefaultText"
-msgid "During the 21st century, the skip drive was invented, sparking another space race as corporations began exploring and claiming purchasing rights to known star systems. "
+msgid "During the 23rd century, the skip drive was invented, sparking another space race as corporations began exploring and claiming purchasing rights to known star systems. "
 msgstr ""
 
 #: game/gui:2935
@@ -12886,6 +12894,56 @@ msgstr ""
 #: game/gui:2985
 msgctxt "game/gui:2985:DefaultText"
 msgid " to continue"
+msgstr ""
+
+#: game/gui:2990
+msgctxt "game/gui:2990:DefaultText"
+msgid "Chronophobia"
+msgstr ""
+
+#: game/gui:2991
+msgctxt "game/gui:2991:DefaultText"
+msgid "After being hit one too many times while in TTD, you're no longer comfortable while under that effect."
+msgstr ""
+
+#: game/gui:2992
+msgctxt "game/gui:2992:DefaultText"
+msgid "Compulsive Spender"
+msgstr ""
+
+#: game/gui:2993
+msgctxt "game/gui:2993:DefaultText"
+msgid "After having spent so many Bits, you're likely to offer more Bits when making a purchase."
+msgstr ""
+
+#: game/gui:2994
+msgctxt "game/gui:2994:DefaultText"
+msgid "Impediphobia"
+msgstr ""
+
+#: game/gui:2995
+msgctxt "game/gui:2995:DefaultText"
+msgid "After being encumbered one too many times, you no longer function well while encumbered."
+msgstr ""
+
+#: game/gui:2998
+msgctxt "game/gui:2998:DefaultText"
+msgid "Guilt-Ridden"
+msgstr ""
+
+#: game/gui:2999
+msgctxt "game/gui:2999:DefaultText"
+msgid "Killing so many people has made you uneasy when fighting humans."
+msgstr ""
+
+#: game/gui:3000
+msgctxt "game/gui:3000:DefaultText"
+msgid "Cirriphobia"
+msgstr ""
+
+#: game/gui:3001
+msgctxt "game/gui:3001:DefaultText"
+msgid "After repeatedly being spat at by Space Barnacles, you don't fight as effectively when any Space Barnacles are attacking your party."
 msgstr ""
 
 #: game/gui:3002
@@ -13189,7 +13247,7 @@ msgstr ""
 
 #: game/gui:3061
 msgctxt "game/gui:3061:DefaultText"
-msgid "Ten corporations joined together and formed the Halcyon Holdings Corporation to buy the rights to the Halcyon system. They sent out their first colony ship in the early 23rd century."
+msgid "Ten corporations joined together and formed the Halcyon Holdings Corporation to buy the rights to the Halcyon system. They sent out their first colony ship in the late 23rd century."
 msgstr ""
 
 #: game/gui:3062
@@ -13707,7 +13765,7 @@ msgstr ""
 
 #: game/gui:3182
 msgctxt "game/gui:3182:DefaultText"
-msgid "Credits"
+msgid "Titulky"
 msgstr ""
 
 #: game/gui:3183
@@ -14511,6 +14569,11 @@ msgid "Show an outline around companions so they stand out from other NPCs.\n"
 "Combat Only - Only display companion outlines during combat.\n"
 "\n"
 "Off - Do not display any companion outlines."
+msgstr ""
+
+#: game/gui:3351
+msgctxt "game/gui:3351:DefaultText"
+msgid "Automated ATP Injectors"
 msgstr ""
 
 #: game/gui:3352
@@ -15451,7 +15514,7 @@ msgstr ""
 msgctxt "game/gui:3550:DefaultText"
 msgid "Field of View adjusts your peripheral vision.\r\n"
 "\r\n"
-"The higher the setting the more world you can see on your screen and the worse the impact on performance."
+"The higher the setting the more world you can see on your screen and potentially worsen the impact on performance. Increasing the FOV above 75 may result in unexpected performance and visual issues."
 msgstr ""
 
 #: game/gui:3551
@@ -15562,12 +15625,12 @@ msgstr ""
 
 #: game/gui:3571
 msgctxt "game/gui:3571:DefaultText"
-msgid "French (Français)"
+msgid "French (français)"
 msgstr ""
 
 #: game/gui:3572
 msgctxt "game/gui:3572:DefaultText"
-msgid "Italian (Italiano)"
+msgid "Italian (italiano)"
 msgstr ""
 
 #: game/gui:3573
@@ -15577,17 +15640,17 @@ msgstr ""
 
 #: game/gui:3574
 msgctxt "game/gui:3574:DefaultText"
-msgid "Castilian Spanish (Castellano)"
+msgid "Castilian Spanish (castellano)"
 msgstr ""
 
 #: game/gui:3575
 msgctxt "game/gui:3575:DefaultText"
-msgid "Brazilian Portuguese (Português Brasileiro)"
+msgid "Brazilian Portuguese (português brasileiro)"
 msgstr ""
 
 #: game/gui:3576
 msgctxt "game/gui:3576:DefaultText"
-msgid "Russian (Русский)"
+msgid "Russian (pусский)"
 msgstr ""
 
 #: game/gui:3577
@@ -15607,7 +15670,7 @@ msgstr ""
 
 #: game/gui:3580
 msgctxt "game/gui:3580:DefaultText"
-msgid "Polish (Polski)"
+msgid "Polish (polski)"
 msgstr ""
 
 #: game/gui:3581
@@ -15718,7 +15781,7 @@ msgstr ""
 
 #: game/gui:3603
 msgctxt "game/gui:3603:DefaultText"
-msgid "Inner Dead Zone"
+msgid "Left Stick Inner Dead Zone"
 msgstr ""
 
 #: game/gui:3604
@@ -15730,7 +15793,7 @@ msgstr ""
 
 #: game/gui:3605
 msgctxt "game/gui:3605:DefaultText"
-msgid "Outer Dead Zone"
+msgid "Left Stick Outer Dead Zone"
 msgstr ""
 
 #: game/gui:3606
@@ -15936,7 +15999,11 @@ msgstr ""
 
 #: game/gui:3643
 msgctxt "game/gui:3643:DefaultText"
-msgid "Show the aiming reticle in the HUD."
+msgid "Show the aiming reticle in the HUD.\r\n"
+" \r\n"
+"Aiming Only - The reticle will only appear while aiming down weapon sights.\r\n"
+" \r\n"
+"Combat Only - The reticle will only appear while you are in combat with an enemy."
 msgstr ""
 
 #: game/gui:3644
@@ -16493,7 +16560,7 @@ msgstr ""
 
 #: game/gui:3750
 msgctxt "game/gui:3750:DefaultText"
-msgid "While moving, Ranged Weapon Spread and Ranged Weapon Spray are decreased."
+msgid "While moving, Ranged Weapon Spread and Ranged Weapon Sway are decreased."
 msgstr ""
 
 #: game/gui:3751
@@ -16570,7 +16637,7 @@ msgstr ""
 
 #: game/gui:3763
 msgctxt "game/gui:3763:DefaultText"
-msgid "Reduces Dexterity, Perception, and Temperament when near something that is frightening.\n"
+msgid "Reduces Dexterity, Perception, and Temperament when near something or under a situation that is frightening.\n"
 "\n"
 "Cynophobia: Fear of Canids\n"
 "\n"
@@ -16585,6 +16652,10 @@ msgid "Reduces Dexterity, Perception, and Temperament when near something that i
 "Raptiphobia: Fear of Raptidons\n"
 "\n"
 "Robophobia: Fear of Automechanicals\n"
+"\n"
+"Chronophobia: Fear of Time Dilation.\n"
+"\n"
+"Impediphobia: Fear of Encumbrance.\n"
 "\n"
 "This effect is the result of a chosen Flaw."
 msgstr ""
@@ -16769,7 +16840,7 @@ msgstr ""
 
 #: game/gui:3791
 msgctxt "game/gui:3791:DefaultText"
-msgid "Mantisaurs can channel energy to block attacks, becoming practically invulnerable for a short time. If you hit them while they are blocking the channeled energy may explode in your face."
+msgid "Mantisaurs can channel energy to block attacks, becoming practically invulnerable for a short time. If you hit them while they are blocking, the channeled energy may explode in your face."
 msgstr ""
 
 #: game/gui:3792
@@ -16864,6 +16935,11 @@ msgstr ""
 #: game/gui:3812
 msgctxt "game/gui:3812:DefaultText"
 msgid "HUD"
+msgstr ""
+
+#: game/gui:3813
+msgctxt "game/gui:3813:DefaultText"
+msgid "{value} Body Attributes when at or above 50% Carrying Capacity."
 msgstr ""
 
 #: game/gui:3814
@@ -17117,8 +17193,8 @@ msgstr ""
 
 #: game/gui:3890
 msgctxt "game/gui:3890:DefaultText"
-msgid "<companion> gained the <perk> perk.\r\n"
-"See <companion>'s Details tab for more info."
+msgid "{companion} gained the {perk} perk.\r\n"
+"See {companion}'s Details tab for more info."
 msgstr ""
 
 #: game/gui:3891
@@ -17271,10 +17347,1338 @@ msgstr ""
 msgctxt "game/gui:3922:DefaultText"
 msgid "Select the language you prefer.\r\n"
 "\r\n"
-"This will not change the language of audible speech. It only effects text."
+"This will not change the language of audible speech. It only affects text."
 msgstr ""
 
 #: game/gui:3923
 msgctxt "game/gui:3923:DefaultText"
 msgid "Your Perk selections will be lost. Would you like to save them?"
+msgstr ""
+
+#: game/gui:3939
+msgctxt "game/gui:3939:DefaultText"
+msgid "Spin-Up Weapons"
+msgstr ""
+
+#: game/gui:3940
+msgctxt "game/gui:3940:DefaultText"
+msgid "Some weapons need to spin up before they are able to fire at their maximum rate.\n"
+"\n"
+"These weapons spin up while aiming or firing."
+msgstr ""
+
+#: game/gui:3941
+msgctxt "game/gui:3941:DefaultText"
+msgid "Charge-Up Burst Weapons"
+msgstr ""
+
+#: game/gui:3942
+msgctxt "game/gui:3942:DefaultText"
+msgid "Some weapons are capable of being charged up in order to rapidly fire multiple shots.\n"
+"\n"
+"Hold the attack button to charge up, release to fire."
+msgstr ""
+
+#: game/gui:3947
+msgctxt "game/gui:3947:DefaultText"
+msgid "Left Stick Inner Dead Zone"
+msgstr ""
+
+#: game/gui:3948
+msgctxt "game/gui:3948:DefaultText"
+msgid "Left Stick Outer Dead Zone"
+msgstr ""
+
+#: game/gui:3949
+msgctxt "game/gui:3949:DefaultText"
+msgid "Right Stick Inner Dead Zone"
+msgstr ""
+
+#: game/gui:3950
+msgctxt "game/gui:3950:DefaultText"
+msgid "Right Stick Outer Dead Zone"
+msgstr ""
+
+#: game/gui:3951
+msgctxt "game/gui:3951:DefaultText"
+msgid "Right Stick Inner Dead Zone"
+msgstr ""
+
+#: game/gui:3952
+msgctxt "game/gui:3952:DefaultText"
+msgid "Right Stick Outer Dead Zone"
+msgstr ""
+
+#: game/gui:3959
+msgctxt "game/gui:3959:DefaultText"
+msgid "Colorblind Mode"
+msgstr ""
+
+#: game/gui:3960
+msgctxt "game/gui:3960:DefaultText"
+msgid "Colorblind modes are not needed for The Outer Worlds. No information is conveyed solely through color."
+msgstr ""
+
+#: game/gui:3961
+msgctxt "game/gui:3961:DefaultText"
+msgid "Large Text Mode"
+msgstr ""
+
+#: game/gui:3962
+msgctxt "game/gui:3962:DefaultText"
+msgid "Check this option to enable larger text."
+msgstr ""
+
+#: game/gui:3968
+msgctxt "game/gui:3968:DefaultText"
+msgid "Press the jump button twice Dodge left, right, or backwards."
+msgstr ""
+
+#: game/gui:3969
+msgctxt "game/gui:3969:DefaultText"
+msgid "Press the Add To Junk button to put Weapons or Armor you don't need into Junk items to make it easier to sell at a vendor."
+msgstr ""
+
+#: game/gui:3970
+msgctxt "game/gui:3970:DefaultText"
+msgid "You have unlocked Leap. Press the jump button twice when moving forwards to leap forward - great for quickly closing distance on an enemy!"
+msgstr ""
+
+#: game/gui:3971
+msgctxt "game/gui:3971:DefaultText"
+msgid "Corpses and Containers hold items that you can take. You can take one or take them all - your directional buttons switch between items."
+msgstr ""
+
+#: game/gui:3972
+msgctxt "game/gui:3972:DefaultText"
+msgid "Press your Quick Melee button to knock back enemies with your ranged weapon. Give yourself some room to shoot!"
+msgstr ""
+
+#: game/gui:3973
+msgctxt "game/gui:3973:DefaultText"
+msgid "Controller disconnected."
+msgstr ""
+
+#: game/gui:3974
+msgctxt "game/gui:3974:DefaultText"
+msgid "Change User"
+msgstr ""
+
+#: game/gui:3975
+msgctxt "game/gui:3975:DefaultText"
+msgid "Adjust how much your view moves when the Right Stick is moved. The higher the setting, the faster it will move."
+msgstr ""
+
+#: game/gui:3976
+msgctxt "game/gui:3976:DefaultText"
+msgid "This game uses an autosave feature. Please do not quit the game or power down the Nintendo SwitchTM console while this icon is displayed."
+msgstr ""
+
+#: game/gui:3977
+msgctxt "game/gui:3977:DefaultText"
+msgid "Swap bindings from the Left Stick to Right Stick."
+msgstr ""
+
+#: game/gui:3978
+msgctxt "game/gui:3978:DefaultText"
+msgid "Set the Y axis of each Stick to Normal (up is up) or Inverted (up is down)."
+msgstr ""
+
+#: game/gui:3979
+msgctxt "game/gui:3979:DefaultText"
+msgid "Set the X axis of each Stick to Normal (left is left) or Inverted (left is right)."
+msgstr ""
+
+#: game/gui:3980
+msgctxt "game/gui:3980:DefaultText"
+msgid "PRESS {name}"
+msgstr ""
+
+#: game/gui:3981
+msgctxt "game/gui:3981:DefaultText"
+msgid "Rumble"
+msgstr ""
+
+#: game/gui:3982
+msgctxt "game/gui:3982:DefaultText"
+msgid "Enable rumble"
+msgstr ""
+
+#: game/gui:3983
+msgctxt "game/gui:3983:DefaultText"
+msgid "To change controller layouts go to Settings > Controls > BUTTON LAYOUT"
+msgstr ""
+
+#: game/gui:3984
+msgctxt "game/gui:3984:DefaultText"
+msgid "Enable this setting to make ZL/ZR the primary tab buttons. L/R will control sub menu tabs."
+msgstr ""
+
+#: game/gui:3985
+msgctxt "game/gui:3985:DefaultText"
+msgid "Adjust this value to set the inside diameter of the Stick dead zone.\r\n"
+"\r\n"
+"A dead zone is an area where Stick movement has no effect. The larger the dead zone, the less responsive your Sticks will be."
+msgstr ""
+
+#: game/gui:3986
+msgctxt "game/gui:3986:DefaultText"
+msgid "Adjust this value to set the outside diameter of the Stick dead zone.\r\n"
+"\r\n"
+"A dead zone is an area where Stick movement has no effect. The larger the dead zone, the less responsive your Sticks will be."
+msgstr ""
+
+#: game/gui:3987
+msgctxt "game/gui:3987:DefaultText"
+msgid "Enable Aim Assist to make it easier to aim at enemies with controller."
+msgstr ""
+
+#: game/gui:3988
+msgctxt "game/gui:3988:DefaultText"
+msgid "Right Stick Outer Dead Zone"
+msgstr ""
+
+#: game/gui:3989
+msgctxt "game/gui:3989:DefaultText"
+msgid "Right Stick Inner Dead Zone"
+msgstr ""
+
+#: game/gui:3990
+msgctxt "game/gui:3990:DefaultText"
+msgid "Left Stick Outer Dead Zone"
+msgstr ""
+
+#: game/gui:3991
+msgctxt "game/gui:3991:DefaultText"
+msgid "Left Stick Inner Dead Zone"
+msgstr ""
+
+#: game/gui:3992
+msgctxt "game/gui:3992:DefaultText"
+msgid "Armor"
+msgstr ""
+
+#: game/gui:3994
+msgctxt "game/gui:3994:DefaultText"
+msgid "Active Quest"
+msgstr ""
+
+#: game/gui:3995
+msgctxt "game/gui:3995:DefaultText"
+msgid "Inactive Quest"
+msgstr ""
+
+#: game/gui:3996
+msgctxt "game/gui:3996:DefaultText"
+msgid "Toggle Inactive Quests"
+msgstr ""
+
+#: game/gui:3997
+msgctxt "game/gui:3997:DefaultText"
+msgid "Pristine:"
+msgstr ""
+
+#: game/gui:3998
+msgctxt "game/gui:3998:DefaultText"
+msgid "Enable Offset Reticle"
+msgstr ""
+
+#: game/gui:3999
+msgctxt "game/gui:3999:DefaultText"
+msgid "Enable this option to move the aiming reticle slightly lower on screen. A lower reticle makes it easier to walk with your head held high. Enjoy the view!"
+msgstr ""
+
+#: game/gui:4000
+msgctxt "game/gui:4000:DefaultText"
+msgid "You"
+msgstr ""
+
+#: game/gui:4001
+msgctxt "game/gui:4001:DefaultText"
+msgid "Aiming Only"
+msgstr ""
+
+#: game/gui:4002
+msgctxt "game/gui:4002:DefaultText"
+msgid "Mouse Aiming Sensitivity"
+msgstr ""
+
+#: game/gui:4003
+msgctxt "game/gui:4003:DefaultText"
+msgid "Controller Aiming Sensitivity"
+msgstr ""
+
+#: game/gui:4004
+msgctxt "game/gui:4004:DefaultText"
+msgid "Adjust how much your view moves while aiming when the mouse is moved. The higher the setting, the faster it will move."
+msgstr ""
+
+#: game/gui:4005
+msgctxt "game/gui:4005:DefaultText"
+msgid "Adjust how much your view moves while aiming when the right stick is moved. The higher the setting, the faster it will move."
+msgstr ""
+
+#: game/gui:4006
+msgctxt "game/gui:4006:DefaultText"
+msgid "Controller Aiming Sensitivity"
+msgstr ""
+
+#: game/gui:4007
+msgctxt "game/gui:4007:DefaultText"
+msgid "Adjust how much your view moves while aiming when the right stick is moved. The higher the setting, the faster it will move."
+msgstr ""
+
+#: game/gui:4008
+msgctxt "game/gui:4008:DefaultText"
+msgid "Controller Aiming Sensitivity"
+msgstr ""
+
+#: game/gui:4009
+msgctxt "game/gui:4009:DefaultText"
+msgid "Adjust how much your view moves while aiming when the right stick is moved. The higher the setting, the faster it will move."
+msgstr ""
+
+#: game/gui:4010
+msgctxt "game/gui:4010:DefaultText"
+msgid "Enable Cinematic Kill Camera"
+msgstr ""
+
+#: game/gui:4011
+msgctxt "game/gui:4011:DefaultText"
+msgid "Show a cinematic camera view when you kill enemies under certain conditions. Disable this option to turn off all kill cameras that appear due to your attacks."
+msgstr ""
+
+#: game/gui:4012
+msgctxt "game/gui:4012:DefaultText"
+msgid "Adjust the quality of foliage including the grass, plants and trees of Halcyon.\r\n"
+"\r\n"
+"The higher the quality, the larger the impact on performance."
+msgstr ""
+
+#: game/gui:4013
+msgctxt "game/gui:4013:DefaultText"
+msgid "Skip:"
+msgstr ""
+
+#: game/gui:4014
+msgctxt "game/gui:4014:DefaultText"
+msgid "Change Difficulty"
+msgstr ""
+
+#: game/gui:4015
+msgctxt "game/gui:4015:DefaultText"
+msgid "Halcyon isn't giving you much of a challenge. Care to up the difficulty? You can change it at any time."
+msgstr ""
+
+#: game/gui:4016
+msgctxt "game/gui:4016:DefaultText"
+msgid "Auto-Sprint Toggle"
+msgstr ""
+
+#: game/gui:4017
+msgctxt "game/gui:4017:DefaultText"
+msgid "Controller Auto-Sprint"
+msgstr ""
+
+#: game/gui:4018
+msgctxt "game/gui:4018:DefaultText"
+msgid "Enable Controller Auto-Sprint to be able to sprint without needing to hold the control stick forward. \r\n"
+"\r\n"
+"Double click the sprint button to activate Controller Auto-Sprint. Press it once to deactivate."
+msgstr ""
+
+#: game/gui:4019
+msgctxt "game/gui:4019:DefaultText"
+msgid "HUD Width"
+msgstr ""
+
+#: game/gui:4020
+msgctxt "game/gui:4020:DefaultText"
+msgid "Set the width of the HUD. Turn this setting down to move edge elements towards the center of the screen. This setting is useful for ultra-wide displays."
+msgstr ""
+
+#: game/gui:4021
+msgctxt "game/gui:4021:DefaultText"
+msgid "Visual Effects"
+msgstr ""
+
+#: game/gui:4022
+msgctxt "game/gui:4022:DefaultText"
+msgid "Show Chromatic Aberration"
+msgstr ""
+
+#: game/gui:4023
+msgctxt "game/gui:4023:DefaultText"
+msgid "Show chromatic aberration effects. These effects distort and shift the colors on screen which may be uncomfortable to some."
+msgstr ""
+
+#: game/gui:4031
+msgctxt "game/gui:4031:DefaultText"
+msgid "Consumable Slots"
+msgstr ""
+
+#: game/gui:4032
+msgctxt "game/gui:4032:DefaultText"
+msgid "Adreno"
+msgstr ""
+
+#: game/gui:4033
+msgctxt "game/gui:4033:DefaultText"
+msgid "Adreno Only"
+msgstr ""
+
+#: game/gui:4034
+msgctxt "game/gui:4034:DefaultText"
+msgid "Add Consumable"
+msgstr ""
+
+#: game/gui:4035
+msgctxt "game/gui:4035:DefaultText"
+msgid "Use the Respecification Machine to refund all of your Skill and Perk points?"
+msgstr ""
+
+#: game/gui:4036
+msgctxt "game/gui:4036:DefaultText"
+msgid "Due to corporate regulations the price will increase every time the machine is used."
+msgstr ""
+
+#: game/gui:4037
+msgctxt "game/gui:4037:DefaultText"
+msgid "Companions gain {percent} Armor Rating"
+msgstr ""
+
+#: game/gui:4038
+msgctxt "game/gui:4038:DefaultText"
+msgid "and more..."
+msgstr ""
+
+#: game/gui:4039
+msgctxt "game/gui:4039:DefaultText"
+msgid "Inactive Quests"
+msgstr ""
+
+#: game/gui:4040
+msgctxt "game/gui:4040:DefaultText"
+msgid "Show Inactive Quests"
+msgstr ""
+
+#: game/gui:4041
+msgctxt "game/gui:4041:DefaultText"
+msgid "Hide Inactive Quests"
+msgstr ""
+
+#: game/gui:4042
+msgctxt "game/gui:4042:DefaultText"
+msgid "Multiple Quests"
+msgstr ""
+
+#: game/gui:4043
+msgctxt "game/gui:4043:DefaultText"
+msgid "• {entry}"
+msgstr ""
+
+#: game/gui:4044
+msgctxt "game/gui:4044:DefaultText"
+msgid "Text Size"
+msgstr ""
+
+#: game/gui:4045
+msgctxt "game/gui:4045:DefaultText"
+msgid "Adjust the size of text on the screen. Move the slider to the right to make the text bigger."
+msgstr ""
+
+#: game/gui:4048
+msgctxt "game/gui:4048:DefaultText"
+msgid "DOUBLE CLICK {name}"
+msgstr ""
+
+#: game/gui:4049
+msgctxt "game/gui:4049:DefaultText"
+msgid "Motion Aiming"
+msgstr ""
+
+#: game/gui:4050
+msgctxt "game/gui:4050:DefaultText"
+msgid "Aiming Only"
+msgstr ""
+
+#: game/gui:4051
+msgctxt "game/gui:4051:DefaultText"
+msgid "Motion Aiming allows you to move your camera view by waving your console or controllers through the air. Select your preferred Motion Aiming style:\n"
+"\n"
+"On - Always use Motion Aiming to control your camera view.\n"
+"\n"
+"Aiming Only - Only use Motion Aiming when holding the aim button with a ranged weapon equipped.\n"
+"\n"
+"Off - Turn off Motion Aiming."
+msgstr ""
+
+#: game/gui:4052
+msgctxt "game/gui:4052:DefaultText"
+msgid "Invert Motion Aiming X Axis"
+msgstr ""
+
+#: game/gui:4053
+msgctxt "game/gui:4053:DefaultText"
+msgid "Enable this option to flip the horizontal (X axis) for Motion Aiming.\n"
+"Waving the controller left will look right, and waving it right will look left."
+msgstr ""
+
+#: game/gui:4054
+msgctxt "game/gui:4054:DefaultText"
+msgid "Motion Aiming Sensitivity X Axis"
+msgstr ""
+
+#: game/gui:4055
+msgctxt "game/gui:4055:DefaultText"
+msgid "Adjust how much your view moves when you wave the controller vertically (Y axis). The higher the setting, the faster it will move."
+msgstr ""
+
+#: game/gui:4056
+msgctxt "game/gui:4056:DefaultText"
+msgid "Motion Aiming Sensitivity Y Axis"
+msgstr ""
+
+#: game/gui:4057
+msgctxt "game/gui:4057:DefaultText"
+msgid "Adjust how much your view moves when you wave the controller horizontally (X axis). The higher the setting, the faster it will move."
+msgstr ""
+
+#: game/gui:4058
+msgctxt "game/gui:4058:DefaultText"
+msgid "Motion Aiming gives you more immersive control, allowing you to move your camera view simply by waving your console or controllers through the air.\n"
+"\n"
+"Motion Aiming and other related settings can be found in the Settings > Controls menu."
+msgstr ""
+
+#: game/gui:4059
+msgctxt "game/gui:4059:DefaultText"
+msgid "Turn on Motion Aiming in Settings > Controls for a more immersive playing experience!"
+msgstr ""
+
+#: game/gui:4060
+msgctxt "game/gui:4060:DefaultText"
+msgid "Invert Motion Aiming Y Axis"
+msgstr ""
+
+#: game/gui:4061
+msgctxt "game/gui:4061:DefaultText"
+msgid "Enable this option to flip the vertical (Y Axis) for Motion Aiming.\n"
+"Waving the controller up will look down, and waving it down will look up."
+msgstr ""
+
+#: game/gui:4062
+msgctxt "game/gui:4062:DefaultText"
+msgid "Invert X Axis"
+msgstr ""
+
+#: game/gui:4063
+msgctxt "game/gui:4063:DefaultText"
+msgid "Enable this option to flip the horizontal axis of the camera.\n"
+"\n"
+"Right will look left, and left will look right."
+msgstr ""
+
+#: game/gui:4064
+msgctxt "game/gui:4064:DefaultText"
+msgid "Idle Camera"
+msgstr ""
+
+#: game/gui:4067
+msgctxt "game/gui:4067:DefaultText"
+msgid "Idle Camera Unavailable"
+msgstr ""
+
+#: game/gui:4069
+msgctxt "game/gui:4069:DefaultText"
+msgid "XP Needed To Level"
+msgstr ""
+
+#: game/gui:4070
+msgctxt "game/gui:4070:DefaultText"
+msgid "The amount of Experience Points needed to reach the next Level."
+msgstr ""
+
+#: game/gui:4071
+msgctxt "game/gui:4071:DefaultText"
+msgid "Stick Layout"
+msgstr ""
+
+#: game/gui:4079
+msgctxt "game/gui:4079:DefaultText"
+msgid "Aim Assist"
+msgstr ""
+
+#: game/gui:4080
+msgctxt "game/gui:4080:DefaultText"
+msgid "Enable this option to automatically aim at a target with a ranged weapon when pressing the aim button."
+msgstr ""
+
+#: game/gui:4083
+msgctxt "game/gui:4083:DefaultText"
+msgid "Select a quest to activate"
+msgstr ""
+
+#: game/gui:4084
+msgctxt "game/gui:4084:DefaultText"
+msgid "DOUBLE CLICK {name}"
+msgstr ""
+
+#: game/gui:4085
+msgctxt "game/gui:4085:DefaultText"
+msgid "DOUBLE CLICK {name}"
+msgstr ""
+
+#: game/gui:4086
+msgctxt "game/gui:4086:DefaultText"
+msgid "DOUBLE CLICK {name}"
+msgstr ""
+
+#: game/gui:4087
+msgctxt "game/gui:4087:DefaultText"
+msgid "Enable Controller Auto-Sprint to be able to sprint without needing to hold the control stick forward.\r\n"
+"\r\n"
+"Double click the sprint button to activate Controller Auto-Sprint. Press it once to deactivate."
+msgstr ""
+
+#: game/gui:4088
+msgctxt "game/gui:4088:DefaultText"
+msgid "Enable Controller Auto-Sprint to be able to sprint without needing to hold the control stick forward.\r\n"
+"\r\n"
+"Double click the sprint button to activate Controller Auto-Sprint. Press it once to deactivate."
+msgstr ""
+
+#: game/gui:4089
+msgctxt "game/gui:4089:DefaultText"
+msgid "Enable Controller Auto-Sprint to be able to sprint without needing to hold the control stick forward.\n"
+"\n"
+"Double click the sprint button to activate Controller Auto-Sprint. Press it once to deactivate."
+msgstr ""
+
+#: game/gui:4093
+msgctxt "game/gui:4093:DefaultText"
+msgid "Adjusted Skill Value"
+msgstr ""
+
+#: game/gui:4096
+msgctxt "game/gui:4096:DefaultText"
+msgid "Controller Sensitivity X Axis"
+msgstr ""
+
+#: game/gui:4097
+msgctxt "game/gui:4097:DefaultText"
+msgid "Adjust how much your view moves when the right stick is moved horizontally (X axis). The higher the setting, the faster it will move."
+msgstr ""
+
+#: game/gui:4098
+msgctxt "game/gui:4098:DefaultText"
+msgid "Controller Sensitivity Y Axis"
+msgstr ""
+
+#: game/gui:4099
+msgctxt "game/gui:4099:DefaultText"
+msgid "Adjust how much your view moves when the right stick is moved vertically (Y axis). The higher the setting, the faster it will move."
+msgstr ""
+
+#: game/gui:4107
+msgctxt "game/gui:4107:DefaultText"
+msgid "Mutator"
+msgstr ""
+
+#: game/gui:4108
+msgctxt "game/gui:4108:DefaultText"
+msgid "Every day that passes in the Halcyon colony after taking this perk, one of your Flaws will change into a different Flaw. Advancing time by sleeping will not affect this timer."
+msgstr ""
+
+#: game/gui:4109
+msgctxt "game/gui:4109:DefaultText"
+msgid "Nietzsche's Reward"
+msgstr ""
+
+#: game/gui:4110
+msgctxt "game/gui:4110:DefaultText"
+msgid "You deal increased damage based on the number of Flaws you have."
+msgstr ""
+
+#: game/gui:4111
+msgctxt "game/gui:4111:DefaultText"
+msgid "Assassin"
+msgstr ""
+
+#: game/gui:4112
+msgctxt "game/gui:4112:DefaultText"
+msgid "Quiet weapons deal more damage. A weapon is considered Quiet if its Noise Range is 2.5m or less."
+msgstr ""
+
+#: game/gui:4113
+msgctxt "game/gui:4113:DefaultText"
+msgid "Improvisation Warrior"
+msgstr ""
+
+#: game/gui:4114
+msgctxt "game/gui:4114:DefaultText"
+msgid "Improvised Weapons deal vastly more damage and degrade slower than usual. Tossball equipment is not considered improvised."
+msgstr ""
+
+#: game/gui:4115
+msgctxt "game/gui:4115:DefaultText"
+msgid "Concentrated Fire"
+msgstr ""
+
+#: game/gui:4116
+msgctxt "game/gui:4116:DefaultText"
+msgid "Any subsequent attack made on the same target while in TTD deals increased damage. This effect is cumulative. Leaving TTD resets the damage increase."
+msgstr ""
+
+#: game/gui:4117
+msgctxt "game/gui:4117:DefaultText"
+msgid "Lone Master"
+msgstr ""
+
+#: game/gui:4118
+msgctxt "game/gui:4118:DefaultText"
+msgid "While having no companions in the party, but still having some back on the ship, gain a bonus to all Skills. Double the bonus if no companions have been recruited."
+msgstr ""
+
+#: game/gui:4119
+msgctxt "game/gui:4119:DefaultText"
+msgid "Applied Science"
+msgstr ""
+
+#: game/gui:4120
+msgctxt "game/gui:4120:DefaultText"
+msgid "Increase the magazine size of Science Weapons."
+msgstr ""
+
+#: game/gui:4121
+msgctxt "game/gui:4121:DefaultText"
+msgid "Cat's Grace"
+msgstr ""
+
+#: game/gui:4122
+msgctxt "game/gui:4122:DefaultText"
+msgid "Greatly reduce damage receive from falling."
+msgstr ""
+
+#: game/gui:4123
+msgctxt "game/gui:4123:DefaultText"
+msgid "Rust Bucket Resistance"
+msgstr ""
+
+#: game/gui:4124
+msgctxt "game/gui:4124:DefaultText"
+msgid "While Parvati is in the party, you and your companions take reduced damage from Automechanicals."
+msgstr ""
+
+#: game/gui:4125
+msgctxt "game/gui:4125:DefaultText"
+msgid "Chrono-Harmony"
+msgstr ""
+
+#: game/gui:4126
+msgctxt "game/gui:4126:DefaultText"
+msgid "When Parvati kills an enemy, you regain some of your Tactical Time Dilation meter."
+msgstr ""
+
+#: game/gui:4127
+msgctxt "game/gui:4127:DefaultText"
+msgid "Grand Justice"
+msgstr ""
+
+#: game/gui:4128
+msgctxt "game/gui:4128:DefaultText"
+msgid "Max's Ability bypasses some of the target's Armor Rating."
+msgstr ""
+
+#: game/gui:4129
+msgctxt "game/gui:4129:DefaultText"
+msgid "Planned Intervention"
+msgstr ""
+
+#: game/gui:4130
+msgctxt "game/gui:4130:DefaultText"
+msgid "If an enemy hits you, dropping you to low health, Max will taunt nearby enemies to focus their attacks on him instead. This only works if Max is already fighting, still conscious and able to be attacked by the enemy."
+msgstr ""
+
+#: game/gui:4131
+msgctxt "game/gui:4131:DefaultText"
+msgid "Magic Bullets"
+msgstr ""
+
+#: game/gui:4132
+msgctxt "game/gui:4132:DefaultText"
+msgid "Shots from Ellie's Ability ricochet to a second, nearby enemy."
+msgstr ""
+
+#: game/gui:4133
+msgctxt "game/gui:4133:DefaultText"
+msgid "Emergency Med Tech"
+msgstr ""
+
+#: game/gui:4134
+msgctxt "game/gui:4134:DefaultText"
+msgid "Your Emergency Medical Inhaler heals you more when you are at low health."
+msgstr ""
+
+#: game/gui:4135
+msgctxt "game/gui:4135:DefaultText"
+msgid "Antagonistic Fury"
+msgstr ""
+
+#: game/gui:4136
+msgctxt "game/gui:4136:DefaultText"
+msgid "Felix deals increased damage to anyone who has a Negative Reputation with you which is higher than their Positive Reputation."
+msgstr ""
+
+#: game/gui:4137
+msgctxt "game/gui:4137:DefaultText"
+msgid "This. Is. Tossball!"
+msgstr ""
+
+#: game/gui:4138
+msgctxt "game/gui:4138:DefaultText"
+msgid "Felix deals increased damage when using Tossball Weapons."
+msgstr ""
+
+#: game/gui:4139
+msgctxt "game/gui:4139:DefaultText"
+msgid "Cunning Strikes"
+msgstr ""
+
+#: game/gui:4140
+msgctxt "game/gui:4140:DefaultText"
+msgid "When Nyoka is in the party, you deal increased Sneak Attack damage."
+msgstr ""
+
+#: game/gui:4141
+msgctxt "game/gui:4141:DefaultText"
+msgid "Grand Exploration"
+msgstr ""
+
+#: game/gui:4142
+msgctxt "game/gui:4142:DefaultText"
+msgid "While Nyoka is in the party, you gain increased experience from discovering new locations."
+msgstr ""
+
+#: game/gui:4143
+msgctxt "game/gui:4143:DefaultText"
+msgid "Bedazzle Automechanicals"
+msgstr ""
+
+#: game/gui:4144
+msgctxt "game/gui:4144:DefaultText"
+msgid "SAM's Ability always stuns Automechanicals."
+msgstr ""
+
+#: game/gui:4145
+msgctxt "game/gui:4145:DefaultText"
+msgid "Radiation Proofing"
+msgstr ""
+
+#: game/gui:4146
+msgctxt "game/gui:4146:DefaultText"
+msgid "While SAM is in the party, you and your companions take reduced damage from N-Ray sources."
+msgstr ""
+
+#: game/gui:4147
+msgctxt "game/gui:4147:DefaultText"
+msgid "Damage per Flaw {percent}"
+msgstr ""
+
+#: game/gui:4148
+msgctxt "game/gui:4148:DefaultText"
+msgid "Every {duration}, One of Your Flaws Changes"
+msgstr ""
+
+#: game/gui:4181
+msgctxt "game/gui:4181:DefaultText"
+msgid "Play"
+msgstr ""
+
+#: game/gui:4182
+msgctxt "game/gui:4182:DefaultText"
+msgid "Stop"
+msgstr ""
+
+#: game/gui:4183
+msgctxt "game/gui:4183:DefaultText"
+msgid "Portable Phonograph"
+msgstr ""
+
+#: game/gui:4184
+msgctxt "game/gui:4184:DefaultText"
+msgid "Portable Phonographs"
+msgstr ""
+
+#: game/gui:4185
+msgctxt "game/gui:4185:DefaultText"
+msgid "[Stub] Portable Phonographs - Base Game"
+msgstr ""
+
+#: game/gui:4186
+msgctxt "game/gui:4186:DefaultText"
+msgid "Portable Phonographs - Peril on Gorgon"
+msgstr ""
+
+#: game/gui:4187
+msgctxt "game/gui:4187:DefaultText"
+msgid "[Stub] Portable Phonographs - INX02"
+msgstr ""
+
+#: game/gui:4188
+msgctxt "game/gui:4188:DefaultText"
+msgid "Quiet Weapon Damage {percent}"
+msgstr ""
+
+#: game/gui:4190
+msgctxt "game/gui:4190:DefaultText"
+msgid "Improvised Weapon Damage {percent}"
+msgstr ""
+
+#: game/gui:4191
+msgctxt "game/gui:4191:DefaultText"
+msgid "Improvised Weapon Degradation {percent}"
+msgstr ""
+
+#: game/gui:4192
+msgctxt "game/gui:4192:DefaultText"
+msgid "All Skills {value}, if no Companions in party"
+msgstr ""
+
+#: game/gui:4193
+msgctxt "game/gui:4193:DefaultText"
+msgid "All Skills {value}, if no Companions recruited"
+msgstr ""
+
+#: game/gui:4194
+msgctxt "game/gui:4194:DefaultText"
+msgid "Damage per subsequent hit {percent}"
+msgstr ""
+
+#: game/gui:4195
+msgctxt "game/gui:4195:DefaultText"
+msgid "Automechanical Damage Received {percent}"
+msgstr ""
+
+#: game/gui:4216
+msgctxt "game/gui:4216:DefaultText"
+msgid "Peril on Gorgon"
+msgstr ""
+
+#: game/gui:4217
+msgctxt "game/gui:4217:DefaultText"
+msgid "Murder on Eridanos"
+msgstr ""
+
+#: game/gui:4218
+msgctxt "game/gui:4218:DefaultText"
+msgid "Now Available!"
+msgstr ""
+
+#: game/gui:4219
+msgctxt "game/gui:4219:DefaultText"
+msgid "Coming Soon!"
+msgstr ""
+
+#: game/gui:4220
+msgctxt "game/gui:4220:DefaultText"
+msgid "Owned, but not installed!"
+msgstr ""
+
+#: game/gui:4221
+msgctxt "game/gui:4221:DefaultText"
+msgid "Installed!"
+msgstr ""
+
+#: game/gui:4226
+msgctxt "game/gui:4226:DefaultText"
+msgid "Swing Noise {percent}"
+msgstr ""
+
+#: game/gui:4228
+msgctxt "game/gui:4228:DefaultText"
+msgid "{value} VIRTUOSO:"
+msgstr ""
+
+#: game/gui:4229
+msgctxt "game/gui:4229:DefaultText"
+msgid "1-Handed Melee Critical Hits ignore {mpercent} Armor"
+msgstr ""
+
+#: game/gui:4230
+msgctxt "game/gui:4230:DefaultText"
+msgid "Critical Hits ricochet and hit another enemy"
+msgstr ""
+
+#: game/gui:4231
+msgctxt "game/gui:4231:DefaultText"
+msgid "Non-Critical Hits ignore {mpercent} Armor"
+msgstr ""
+
+#: game/gui:4232
+msgctxt "game/gui:4232:DefaultText"
+msgid "Heavy Weapons instantly reload after using the last of their ammo"
+msgstr ""
+
+#: game/gui:4233
+msgctxt "game/gui:4233:DefaultText"
+msgid "When Dodging, {chance} chance to Stun enemies within {distance}"
+msgstr ""
+
+#: game/gui:4234
+msgctxt "game/gui:4234:DefaultText"
+msgid "Perfect Blocks cause the attacker to take damage instead"
+msgstr ""
+
+#: game/gui:4235
+msgctxt "game/gui:4235:DefaultText"
+msgid "{chance} chance Creatures you strike with Critical Hit will become Terrified"
+msgstr ""
+
+#: game/gui:4236
+msgctxt "game/gui:4236:DefaultText"
+msgid "Chance to Cower resets after {duration}, allowing a damaged Human to Cower again"
+msgstr ""
+
+#: game/gui:4237
+msgctxt "game/gui:4237:DefaultText"
+msgid "Chance to Scramble resets {duration} after Automechanical attacks you"
+msgstr ""
+
+#: game/gui:4238
+msgctxt "game/gui:4238:DefaultText"
+msgid "Concentrated Poison"
+msgstr ""
+
+#: game/gui:4240
+msgctxt "game/gui:4240:DefaultText"
+msgid "Purpleberry Orchards"
+msgstr ""
+
+#: game/gui:4241
+msgctxt "game/gui:4241:DefaultText"
+msgid "INX Dialog Test Room"
+msgstr ""
+
+#: game/gui:4253
+msgctxt "game/gui:4253:DefaultText"
+msgid "Trickshot ignores {mpercent} Armor Rating"
+msgstr ""
+
+#: game/gui:4254
+msgctxt "game/gui:4254:DefaultText"
+msgid "Max will taunt enemies within {distance} when you drop below {chance} Health"
+msgstr ""
+
+#: game/gui:4255
+msgctxt "game/gui:4255:DefaultText"
+msgid "{percent} Healing from Inhaler when under {chance} Health"
+msgstr ""
+
+#: game/gui:4257
+msgctxt "game/gui:4257:DefaultText"
+msgid "Tossball Weapon Damage {percent}"
+msgstr ""
+
+#: game/gui:4258
+msgctxt "game/gui:4258:DefaultText"
+msgid "Negative Faction Damage {percent}"
+msgstr ""
+
+#: game/gui:4259
+msgctxt "game/gui:4259:DefaultText"
+msgid "Location Discovery Experience {percent}"
+msgstr ""
+
+#: game/gui:4267
+msgctxt "game/gui:4267:DefaultText"
+msgid "Cold Damage Weakness"
+msgstr ""
+
+#: game/gui:4268
+msgctxt "game/gui:4268:DefaultText"
+msgid "You have been exposed to cold damage once too often, and you have now become susceptible to cold damage."
+msgstr ""
+
+#: game/gui:4271
+msgctxt "game/gui:4271:DefaultText"
+msgid "Efficiency Protocol"
+msgstr ""
+
+#: game/gui:4272
+msgctxt "game/gui:4272:DefaultText"
+msgid "Automechanicals receive an increase to Movement Speed, Accuracy, and Rate of Fire."
+msgstr ""
+
+#: game/gui:4273
+msgctxt "game/gui:4273:DefaultText"
+msgid "Cold"
+msgstr ""
+
+#: game/gui:4274
+msgctxt "game/gui:4274:DefaultText"
+msgid "Cold damage can apply Chilled."
+msgstr ""
+
+#: game/gui:4305
+msgctxt "game/gui:4305:DefaultText"
+msgid "Chrono-Lethargy"
+msgstr ""
+
+#: game/gui:4306
+msgctxt "game/gui:4306:DefaultText"
+msgid "Repeatedly taking damage while in TTD has reduced the amount of time you can spend using the effect."
+msgstr ""
+
+#: game/gui:4307
+msgctxt "game/gui:4307:DefaultText"
+msgid "Herniated Disk"
+msgstr ""
+
+#: game/gui:4308
+msgctxt "game/gui:4308:DefaultText"
+msgid "Carrying too heavy a load too many times has weakened your back, making you lose that spring in your step when carrying a significant amount of weight."
+msgstr ""
+
+#: game/gui:4309
+msgctxt "game/gui:4309:DefaultText"
+msgid "{name}\n"
+"is now being suppressed!"
+msgstr ""
+
+#: game/gui:4310
+msgctxt "game/gui:4310:DefaultText"
+msgid "{name} returns to normal."
+msgstr ""
+
+#: game/gui:4312
+msgctxt "game/gui:4312:DefaultText"
+msgid "{name}\n"
+"is being suppressed by\n"
+"{effectname}"
+msgstr ""
+
+#: game/gui:4315
+msgctxt "game/gui:4315:DefaultText"
+msgid "Sneak Attacks which kill their targets do not alert other enemies"
+msgstr ""
+
+#: game/gui:4316
+msgctxt "game/gui:4316:DefaultText"
+msgid "Hack turned-off Automechanicals to Scramble them"
+msgstr ""
+
+#: game/gui:4317
+msgctxt "game/gui:4317:DefaultText"
+msgid "The first item in every locked container which is free to open can be stolen without consequence"
+msgstr ""
+
+#: game/gui:4318
+msgctxt "game/gui:4318:DefaultText"
+msgid "After using the Inhaler, gain {percent} Damage per Consumable Slot used, lasts {duration}"
+msgstr ""
+
+#: game/gui:4325
+msgctxt "game/gui:4325:DefaultText"
+msgid "Crit Chance and Sway of Science Weapons are determined by Science skill, if higher"
+msgstr ""
+
+#: game/gui:4326
+msgctxt "game/gui:4326:DefaultText"
+msgid "Companions provide {percent} Skill Bonus to Player Skills while on the Unreliable"
+msgstr ""
+
+#: game/gui:4327
+msgctxt "game/gui:4327:DefaultText"
+msgid "Malcontent"
+msgstr ""
+
+#: game/gui:4328
+msgctxt "game/gui:4328:DefaultText"
+msgid "This perk is being temporarily suppressed by {name} and cannot be used."
+msgstr ""
+
+#: game/gui:4329
+msgctxt "game/gui:4329:DefaultText"
+msgid "Currently suppressing: {name}"
+msgstr ""
+
+#: game/gui:4330
+msgctxt "game/gui:4330:DefaultText"
+msgid "When a Companion is sent back to the Unreliable, a different Companion can replace them"
+msgstr ""
+
+#: game/gui:4331
+msgctxt "game/gui:4331:DefaultText"
+msgid "Using the Vocational Competence Respecification Machine one too many times has made it hard for you to stick to your strengths."
+msgstr ""
+
+#: game/gui:4332
+msgctxt "game/gui:4332:DefaultText"
+msgid "Your Bits: {value}"
+msgstr ""
+
+#: game/gui:4333
+msgctxt "game/gui:4333:DefaultText"
+msgid "Your Weapon Parts: {value}"
+msgstr ""
+
+#: game/gui:4334
+msgctxt "game/gui:4334:DefaultText"
+msgid "Your Armor Parts: {value}"
+msgstr ""
+
+#: game/gui:4335
+msgctxt "game/gui:4335:DefaultText"
+msgid "Current Version - {value}"
+msgstr ""
+
+#: game/gui:4336
+msgctxt "game/gui:4336:DefaultText"
+msgid "Version Mismatch - {value}"
+msgstr ""
+
+#: game/gui:4337
+msgctxt "game/gui:4337:DefaultText"
+msgid "Save Version - {value}"
+msgstr ""
+
+#: game/gui:4338
+msgctxt "game/gui:4338:DefaultText"
+msgid "\"{value}\" missing"
+msgstr ""
+
+#: game/gui:4339
+msgctxt "game/gui:4339:DefaultText"
+msgid "\"{value}\" installed"
+msgstr ""
+
+#: game/gui:4340
+msgctxt "game/gui:4340:DefaultText"
+msgid "Purchase DLC"
+msgstr ""
+
+#: game/gui:4341
+msgctxt "game/gui:4341:DefaultText"
+msgid "You have insufficient Weapon Parts!"
+msgstr ""
+
+#: game/gui:4342
+msgctxt "game/gui:4342:DefaultText"
+msgid "You have insufficient Armor Parts!"
+msgstr ""
+
+#: game/gui:4345
+msgctxt "game/gui:4345:DefaultText"
+msgid "One perk will be temporarily suppressed and will not provide its benefit. Which perk is suppressed will change every 24 hours. Resting will not affect this timer."
+msgstr ""
+
+#: game/gui:4352
+msgctxt "game/gui:4352:DefaultText"
+msgid "Inserting a new Mod has a {mpercent} chance of recovering the existing Mod"
+msgstr ""
+
+#: game/gui:4354
+msgctxt "game/gui:4354:DefaultText"
+msgid "Cold Damage Received {percent}"
+msgstr ""
+
+#: game/gui:4371
+msgctxt "game/gui:4371:DefaultText"
+msgid "Attacks with this weapon deal increased damage when the wielder is low on health."
+msgstr ""
+
+#: game/gui:4374
+msgctxt "game/gui:4374:DefaultText"
+msgid "Tinkered items can be no greater than 5 levels above your own. Purchase a DLC campaign to increase character level and Tinker this item further."
+msgstr ""
+
+#: game/gui:4375
+msgctxt "game/gui:4375:DefaultText"
+msgid "This item is at max level. It cannot be Tinkered any further."
+msgstr ""
+
+#: game/gui:4406
+msgctxt "game/gui:4406:DefaultText"
+msgid "This heavily armored automechanical buffs nearby ones (which are stunned if it is destroyed)."
+msgstr ""
+
+#: game/gui:4431
+msgctxt "game/gui:4431:DefaultText"
+msgid "Armor Rating: {value}"
+msgstr ""
+
+#: game/gui:4432
+msgctxt "game/gui:4432:DefaultText"
+msgid "Medical Force"
+msgstr ""
+
+#: game/gui:4447
+msgctxt "game/gui:4447:DefaultText"
+msgid "Virtuoso Inspiration"
+msgstr ""
+
+#: game/gui:4455
+msgctxt "game/gui:4455:DefaultText"
+msgid "{name} Virtuoso ({value})"
+msgstr ""
+
+#: game/gui:4456
+msgctxt "game/gui:4456:DefaultText"
+msgid "Become an Engineering Virtuoso (150) to recover previously-installed mods."
+msgstr ""
+
+#: game/gui:4457
+msgctxt "game/gui:4457:DefaultText"
+msgid "The previously-installed mod will be recovered!"
+msgstr ""
+
+#: game/gui:4458
+msgctxt "game/gui:4458:DefaultText"
+msgid "After installation, this mod cannot be removed unless you are an Engineering Virtuoso (150)."
+msgstr ""
+
+#: game/gui:4461
+msgctxt "game/gui:4461:DefaultText"
+msgid "The Outer Worlds"
+msgstr ""
+
+#: game/gui:4462
+msgctxt "game/gui:4462:DefaultText"
+msgid "Content Type"
+msgstr ""
+
+#: game/gui:4485
+msgctxt "game/gui:4485:DefaultText"
+msgid "Improvised Weapons"
+msgstr ""
+
+#: game/gui:4486
+msgctxt "game/gui:4486:DefaultText"
+msgid "Improvised weapons are common household tools that people sometimes use as weapons. They generally do not deal very much damage, and tend to break very quickly.\n"
+"\n"
+"Improvised weapons can be identified by a bolt near their condition meters."
+msgstr ""
+
+#: game/gui:4492
+msgctxt "game/gui:4492:DefaultText"
+msgid "[Stub] "
+msgstr ""
+
+#: game/gui:4493
+msgctxt "game/gui:4493:DefaultText"
+msgid "You are about to overwrite your Point of No Return save before assaulting the Labyrinth on Tartarus.\n"
+"\n"
+"We highly advise you keep this save.\n"
+"\n"
+"This is the final save for this character that can access DLC (downloadable content) such as Peril on Gorgon, or Murder on Eridanos.\n"
+"\n"
+"Saves beyond this point (the point of no return) can only finish the main story on Tartarus.\n"
+"\n"
+"Are you sure you want to overwrite this save?"
+msgstr ""
+
+#: game/gui:4495
+msgctxt "game/gui:4495:DefaultText"
+msgid "[Stub] Select this option to edit control keybindings."
 msgstr ""

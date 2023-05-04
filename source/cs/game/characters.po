@@ -695,7 +695,7 @@ msgstr ""
 
 #: game/characters:172
 msgctxt "game/characters:172:DefaultText"
-msgid "Ash Primal "
+msgid "Primal"
 msgstr ""
 
 #: game/characters:173
@@ -2761,12 +2761,12 @@ msgstr ""
 #: game/characters:734
 msgctxt "game/characters:734:DefaultText"
 msgid "Lieutenant Mercer"
-msgstr "Plukovník Mercerová"
+msgstr ""
 
 #: game/characters:735
 msgctxt "game/characters:735:DefaultText"
 msgid "Private Kimball"
-msgstr "Vojín Kimball"
+msgstr ""
 
 #: game/characters:737
 msgctxt "game/characters:737:DefaultText"
@@ -3326,4 +3326,9 @@ msgstr ""
 #: game/characters:947
 msgctxt "game/characters:947:DefaultText"
 msgid "Vending Machine"
+msgstr ""
+
+#: game/characters:1123
+msgctxt "game/characters:1123:DefaultText"
+msgid "Serialized Law & Organization Guardian"
 msgstr ""

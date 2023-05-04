@@ -138,6 +138,11 @@ msgctxt "quests/04_monarch/sq_0402_afamilymatter:30014:DefaultText"
 msgid "After the battle outside Stellar Bay, Tucker has vanished."
 msgstr ""
 
+#: quests/04_monarch/sq_0402_afamilymatter:30015
+msgctxt "quests/04_monarch/sq_0402_afamilymatter:30015:DefaultText"
+msgid "You murdered Tucker in front of Agnes, she is heartbroken and will no longer speak with you."
+msgstr ""
+
 #: quests/04_monarch/sq_0402_afamilymatter:40001
 msgctxt "quests/04_monarch/sq_0402_afamilymatter:40001:DefaultText"
 msgid "Tucker attacked you rather than return to his life in Stellar Bay. Return his ring to Agnes as proof of her son's death."

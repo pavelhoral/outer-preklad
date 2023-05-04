@@ -222,3 +222,63 @@ msgstr ""
 msgctxt "conversations/companions/g_companion_sam:49:DefaultText"
 msgid "SAM: merciless on germs!"
 msgstr ""
+
+#: conversations/companions/g_companion_sam:52
+msgctxt "conversations/companions/g_companion_sam:52:DefaultText"
+msgid "Customer, please select who you would like to replace this unit for duty!"
+msgstr ""
+
+#: conversations/companions/g_companion_sam:53
+msgctxt "conversations/companions/g_companion_sam:53:DefaultText"
+msgid "Send Ellie."
+msgstr ""
+
+#: conversations/companions/g_companion_sam:54
+msgctxt "conversations/companions/g_companion_sam:54:DefaultText"
+msgid "Request acknowledged. Retrieving crewmember now!"
+msgstr ""
+
+#: conversations/companions/g_companion_sam:55
+msgctxt "conversations/companions/g_companion_sam:55:DefaultText"
+msgid "Send Felix."
+msgstr ""
+
+#: conversations/companions/g_companion_sam:56
+msgctxt "conversations/companions/g_companion_sam:56:DefaultText"
+msgid "Understood, customer! Goodbye for now."
+msgstr ""
+
+#: conversations/companions/g_companion_sam:57
+msgctxt "conversations/companions/g_companion_sam:57:DefaultText"
+msgid "Send Nyoka."
+msgstr ""
+
+#: conversations/companions/g_companion_sam:58
+msgctxt "conversations/companions/g_companion_sam:58:DefaultText"
+msgid "Request acknowledged. Retrieving crewmember now!"
+msgstr ""
+
+#: conversations/companions/g_companion_sam:59
+msgctxt "conversations/companions/g_companion_sam:59:DefaultText"
+msgid "Send Max."
+msgstr ""
+
+#: conversations/companions/g_companion_sam:60
+msgctxt "conversations/companions/g_companion_sam:60:DefaultText"
+msgid "Request acknowledged. Retrieving crewmember now!"
+msgstr ""
+
+#: conversations/companions/g_companion_sam:61
+msgctxt "conversations/companions/g_companion_sam:61:DefaultText"
+msgid "Send Parvati."
+msgstr ""
+
+#: conversations/companions/g_companion_sam:62
+msgctxt "conversations/companions/g_companion_sam:62:DefaultText"
+msgid "Understood, customer! Goodbye for now."
+msgstr ""
+
+#: conversations/companions/g_companion_sam:63
+msgctxt "conversations/companions/g_companion_sam:63:DefaultText"
+msgid "Not right now."
+msgstr ""

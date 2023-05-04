@@ -697,3 +697,63 @@ msgstr ""
 msgctxt "conversations/companions/g_companion_ellie:257:DefaultText"
 msgid "Okay. See you around."
 msgstr ""
+
+#: conversations/companions/g_companion_ellie:271
+msgctxt "conversations/companions/g_companion_ellie:271:DefaultText"
+msgid "You want me to send someone else to you?"
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:272
+msgctxt "conversations/companions/g_companion_ellie:272:DefaultText"
+msgid "Send Felix."
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:273
+msgctxt "conversations/companions/g_companion_ellie:273:DefaultText"
+msgid "Send Nyoka."
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:274
+msgctxt "conversations/companions/g_companion_ellie:274:DefaultText"
+msgid "Send Parvati."
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:275
+msgctxt "conversations/companions/g_companion_ellie:275:DefaultText"
+msgid "Send Max."
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:276
+msgctxt "conversations/companions/g_companion_ellie:276:DefaultText"
+msgid "Send SAM."
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:277
+msgctxt "conversations/companions/g_companion_ellie:277:DefaultText"
+msgid "Not right now."
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:278
+msgctxt "conversations/companions/g_companion_ellie:278:DefaultText"
+msgid "Pretty sure he's been waiting on you to ask."
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:279
+msgctxt "conversations/companions/g_companion_ellie:279:DefaultText"
+msgid "Have fun."
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:280
+msgctxt "conversations/companions/g_companion_ellie:280:DefaultText"
+msgid "Go easy on her."
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:281
+msgctxt "conversations/companions/g_companion_ellie:281:DefaultText"
+msgid "Better you than me."
+msgstr ""
+
+#: conversations/companions/g_companion_ellie:282
+msgctxt "conversations/companions/g_companion_ellie:282:DefaultText"
+msgid "Least that'll keep him out of my cabin. "
+msgstr ""

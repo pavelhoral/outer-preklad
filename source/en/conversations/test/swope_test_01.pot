@@ -3,16 +3,6 @@ msgctxt "conversations/test/swope_test_01:1:DefaultText"
 msgid "[Stub] "
 msgstr ""
 
-#: conversations/test/swope_test_01:2
-msgctxt "conversations/test/swope_test_01:2:DefaultText"
-msgid "[Stub] "
-msgstr ""
-
-#: conversations/test/swope_test_01:3
-msgctxt "conversations/test/swope_test_01:3:DefaultText"
-msgid "[Stub] "
-msgstr ""
-
 #: conversations/test/swope_test_01:4
 msgctxt "conversations/test/swope_test_01:4:DefaultText"
 msgid "[Stub] "
@@ -28,21 +18,6 @@ msgctxt "conversations/test/swope_test_01:6:DefaultText"
 msgid "[Stub] "
 msgstr ""
 
-#: conversations/test/swope_test_01:7
-msgctxt "conversations/test/swope_test_01:7:DefaultText"
-msgid "[Stub] "
-msgstr ""
-
-#: conversations/test/swope_test_01:8
-msgctxt "conversations/test/swope_test_01:8:DefaultText"
-msgid "[Stub] "
-msgstr ""
-
-#: conversations/test/swope_test_01:9
-msgctxt "conversations/test/swope_test_01:9:DefaultText"
-msgid "[Stub] "
-msgstr ""
-
 #: conversations/test/swope_test_01:10
 msgctxt "conversations/test/swope_test_01:10:DefaultText"
 msgid "[Stub] "
@@ -50,5 +25,65 @@ msgstr ""
 
 #: conversations/test/swope_test_01:11
 msgctxt "conversations/test/swope_test_01:11:DefaultText"
+msgid "[Stub] "
+msgstr ""
+
+#: conversations/test/swope_test_01:12
+msgctxt "conversations/test/swope_test_01:12:DefaultText"
+msgid "[Stub] "
+msgstr ""
+
+#: conversations/test/swope_test_01:13
+msgctxt "conversations/test/swope_test_01:13:DefaultText"
+msgid "[Stub] "
+msgstr ""
+
+#: conversations/test/swope_test_01:14
+msgctxt "conversations/test/swope_test_01:14:DefaultText"
+msgid "[Stub] "
+msgstr ""
+
+#: conversations/test/swope_test_01:15
+msgctxt "conversations/test/swope_test_01:15:DefaultText"
+msgid "[Stub] "
+msgstr ""
+
+#: conversations/test/swope_test_01:16
+msgctxt "conversations/test/swope_test_01:16:DefaultText"
+msgid "[Stub] "
+msgstr ""
+
+#: conversations/test/swope_test_01:17
+msgctxt "conversations/test/swope_test_01:17:DefaultText"
+msgid "[Stub] "
+msgstr ""
+
+#: conversations/test/swope_test_01:18
+msgctxt "conversations/test/swope_test_01:18:DefaultText"
+msgid "[Stub] "
+msgstr ""
+
+#: conversations/test/swope_test_01:19
+msgctxt "conversations/test/swope_test_01:19:DefaultText"
+msgid "[Stub] "
+msgstr ""
+
+#: conversations/test/swope_test_01:20
+msgctxt "conversations/test/swope_test_01:20:DefaultText"
+msgid "[Stub] "
+msgstr ""
+
+#: conversations/test/swope_test_01:21
+msgctxt "conversations/test/swope_test_01:21:DefaultText"
+msgid "[Stub] "
+msgstr ""
+
+#: conversations/test/swope_test_01:22
+msgctxt "conversations/test/swope_test_01:22:DefaultText"
+msgid "[Stub] "
+msgstr ""
+
+#: conversations/test/swope_test_01:23
+msgctxt "conversations/test/swope_test_01:23:DefaultText"
 msgid "[Stub] "
 msgstr ""

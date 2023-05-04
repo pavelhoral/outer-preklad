@@ -742,3 +742,63 @@ msgstr ""
 msgctxt "conversations/companions/g_companion_parvati_in_party:434:DefaultText"
 msgid "Her contract said any kids she had, expected or not, belonged to her office from the time of conception."
 msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:437
+msgctxt "conversations/companions/g_companion_parvati_in_party:437:DefaultText"
+msgid "You want I should send someone to take my place?"
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:438
+msgctxt "conversations/companions/g_companion_parvati_in_party:438:DefaultText"
+msgid "Send Ellie."
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:439
+msgctxt "conversations/companions/g_companion_parvati_in_party:439:DefaultText"
+msgid "Ellie. Got it. Okay."
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:440
+msgctxt "conversations/companions/g_companion_parvati_in_party:440:DefaultText"
+msgid "Send Felix."
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:441
+msgctxt "conversations/companions/g_companion_parvati_in_party:441:DefaultText"
+msgid "You keep Felix safe, Captain."
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:442
+msgctxt "conversations/companions/g_companion_parvati_in_party:442:DefaultText"
+msgid "Send Nyoka."
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:443
+msgctxt "conversations/companions/g_companion_parvati_in_party:443:DefaultText"
+msgid "I'll tell Nyoka you need her. She'll like that."
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:444
+msgctxt "conversations/companions/g_companion_parvati_in_party:444:DefaultText"
+msgid "Send Max."
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:445
+msgctxt "conversations/companions/g_companion_parvati_in_party:445:DefaultText"
+msgid "Sure hope Mr. Vicar ain't napping. "
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:446
+msgctxt "conversations/companions/g_companion_parvati_in_party:446:DefaultText"
+msgid "Send SAM."
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:447
+msgctxt "conversations/companions/g_companion_parvati_in_party:447:DefaultText"
+msgid "Give SAM a scritch behind the circuits for me."
+msgstr ""
+
+#: conversations/companions/g_companion_parvati_in_party:448
+msgctxt "conversations/companions/g_companion_parvati_in_party:448:DefaultText"
+msgid "Not right now."
+msgstr ""

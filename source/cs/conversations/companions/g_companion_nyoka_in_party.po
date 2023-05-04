@@ -2107,3 +2107,63 @@ msgstr ""
 msgctxt "conversations/companions/g_companion_nyoka_in_party:604:DefaultText"
 msgid "Hey, you got a sec?"
 msgstr ""
+
+#: conversations/companions/g_companion_nyoka_in_party:609
+msgctxt "conversations/companions/g_companion_nyoka_in_party:609:DefaultText"
+msgid "You want me to send one of the others out?"
+msgstr ""
+
+#: conversations/companions/g_companion_nyoka_in_party:610
+msgctxt "conversations/companions/g_companion_nyoka_in_party:610:DefaultText"
+msgid "Send Ellie."
+msgstr ""
+
+#: conversations/companions/g_companion_nyoka_in_party:611
+msgctxt "conversations/companions/g_companion_nyoka_in_party:611:DefaultText"
+msgid "Send Felix."
+msgstr ""
+
+#: conversations/companions/g_companion_nyoka_in_party:612
+msgctxt "conversations/companions/g_companion_nyoka_in_party:612:DefaultText"
+msgid "Send Parvati."
+msgstr ""
+
+#: conversations/companions/g_companion_nyoka_in_party:613
+msgctxt "conversations/companions/g_companion_nyoka_in_party:613:DefaultText"
+msgid "Send Max."
+msgstr ""
+
+#: conversations/companions/g_companion_nyoka_in_party:614
+msgctxt "conversations/companions/g_companion_nyoka_in_party:614:DefaultText"
+msgid "Send SAM."
+msgstr ""
+
+#: conversations/companions/g_companion_nyoka_in_party:615
+msgctxt "conversations/companions/g_companion_nyoka_in_party:615:DefaultText"
+msgid "Not right now."
+msgstr ""
+
+#: conversations/companions/g_companion_nyoka_in_party:616
+msgctxt "conversations/companions/g_companion_nyoka_in_party:616:DefaultText"
+msgid "Sure thing. Keep half an eye on your bits."
+msgstr ""
+
+#: conversations/companions/g_companion_nyoka_in_party:617
+msgctxt "conversations/companions/g_companion_nyoka_in_party:617:DefaultText"
+msgid "Heh, need someone drop-kicked? I'll let him know."
+msgstr ""
+
+#: conversations/companions/g_companion_nyoka_in_party:618
+msgctxt "conversations/companions/g_companion_nyoka_in_party:618:DefaultText"
+msgid "Right. You watch her back, you hear?"
+msgstr ""
+
+#: conversations/companions/g_companion_nyoka_in_party:619
+msgctxt "conversations/companions/g_companion_nyoka_in_party:619:DefaultText"
+msgid "Oh, someone needs a stern talking-to? Got it."
+msgstr ""
+
+#: conversations/companions/g_companion_nyoka_in_party:620
+msgctxt "conversations/companions/g_companion_nyoka_in_party:620:DefaultText"
+msgid "Oh, whew. I'll get some peace and quiet for once."
+msgstr ""

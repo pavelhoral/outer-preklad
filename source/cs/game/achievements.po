@@ -255,7 +255,7 @@ msgstr ""
 
 #: game/achievements:56
 msgctxt "game/achievements:56:DefaultText"
-msgid "Had maximum positive reputation with 3 factions."
+msgid "Had 75% or higher positive reputation with 3 factions."
 msgstr ""
 
 #: game/achievements:57
@@ -265,12 +265,12 @@ msgstr ""
 
 #: game/achievements:58
 msgctxt "game/achievements:58:DefaultText"
-msgid "Had maximum negative reputation with 3 factions."
+msgid "Had 75% or higher negative reputation with 3 factions."
 msgstr ""
 
 #: game/achievements:59
 msgctxt "game/achievements:59:DefaultText"
-msgid "Have maximum negative reputation with 3 factions."
+msgid "Have 75% or higher negative reputation with 3 factions."
 msgstr ""
 
 #: game/achievements:60
@@ -740,7 +740,7 @@ msgstr ""
 
 #: game/achievements:159
 msgctxt "game/achievements:159:DefaultText"
-msgid "Have maximum positive reputation with 3 factions."
+msgid "Have 75% or higher positive reputation with 3 factions."
 msgstr ""
 
 #: game/achievements:160

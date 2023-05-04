@@ -174,6 +174,11 @@ msgctxt "quests/04_monarch/pq_0401_themaninthehighcastle:20009:DefaultText"
 msgid "You've reached Fallbrook, which is roughly halfway to the station. You'll have to head further west before being able to ascend the mountain."
 msgstr ""
 
+#: quests/04_monarch/pq_0401_themaninthehighcastle:20010
+msgctxt "quests/04_monarch/pq_0401_themaninthehighcastle:20010:DefaultText"
+msgid ""
+msgstr ""
+
 #: quests/04_monarch/pq_0401_themaninthehighcastle:20011
 msgctxt "quests/04_monarch/pq_0401_themaninthehighcastle:20011:DefaultText"
 msgid "You've found a way to end MSI's transmissions."

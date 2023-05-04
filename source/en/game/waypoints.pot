@@ -2143,7 +2143,47 @@ msgctxt "game/waypoints:729:DefaultText"
 msgid "Stefan Garcia"
 msgstr ""
 
-#: game/waypoints:736
-msgctxt "game/waypoints:736:DefaultText"
+#: game/waypoints:991
+msgctxt "game/waypoints:991:DefaultText"
+msgid "[Stub] Cassidy Mills"
+msgstr ""
+
+#: game/waypoints:992
+msgctxt "game/waypoints:992:DefaultText"
+msgid "[Stub] Smuggled Goods"
+msgstr ""
+
+#: game/waypoints:993
+msgctxt "game/waypoints:993:DefaultText"
+msgid "[Stub] Joseph Dempsy"
+msgstr ""
+
+#: game/waypoints:994
+msgctxt "game/waypoints:994:DefaultText"
+msgid "[Stub] Dash Whitlock"
+msgstr ""
+
+#: game/waypoints:995
+msgctxt "game/waypoints:995:DefaultText"
+msgid "[Stub] Shipping Yard"
+msgstr ""
+
+#: game/waypoints:1016
+msgctxt "game/waypoints:1016:DefaultText"
+msgid "[Stub] Meet Mabel"
+msgstr ""
+
+#: game/waypoints:1017
+msgctxt "game/waypoints:1017:DefaultText"
+msgid "[Stub] Meet Walter"
+msgstr ""
+
+#: game/waypoints:1032
+msgctxt "game/waypoints:1032:DefaultText"
+msgid "[Stub] "
+msgstr ""
+
+#: game/waypoints:1033
+msgctxt "game/waypoints:1033:DefaultText"
 msgid "[Stub] "
 msgstr ""

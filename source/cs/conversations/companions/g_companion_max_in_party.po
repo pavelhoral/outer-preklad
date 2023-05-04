@@ -1017,3 +1017,68 @@ msgstr ""
 msgctxt "conversations/companions/g_companion_max_in_party:327:DefaultText"
 msgid "Nothing too out of the ordinary, just your run of the mill vicar with a \"violently enthusiastic\" disposition."
 msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:330
+msgctxt "conversations/companions/g_companion_max_in_party:330:DefaultText"
+msgid "Would you like me to send another of our compatriots out to assist?"
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:331
+msgctxt "conversations/companions/g_companion_max_in_party:331:DefaultText"
+msgid "Send Ellie."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:332
+msgctxt "conversations/companions/g_companion_max_in_party:332:DefaultText"
+msgid "Send Felix."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:333
+msgctxt "conversations/companions/g_companion_max_in_party:333:DefaultText"
+msgid "Send Nyoka."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:334
+msgctxt "conversations/companions/g_companion_max_in_party:334:DefaultText"
+msgid "Send Parvati."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:335
+msgctxt "conversations/companions/g_companion_max_in_party:335:DefaultText"
+msgid "Send SAM."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:336
+msgctxt "conversations/companions/g_companion_max_in_party:336:DefaultText"
+msgid "Not right now."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:337
+msgctxt "conversations/companions/g_companion_max_in_party:337:DefaultText"
+msgid "Ellie it is."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:338
+msgctxt "conversations/companions/g_companion_max_in_party:338:DefaultText"
+msgid "I don’t know how you put up with his incessant silliness, but at least *I* won’t have to put up with it while he's with you."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:339
+msgctxt "conversations/companions/g_companion_max_in_party:339:DefaultText"
+msgid "I'll send Ms. Ramnarim-Wentworth out."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:340
+msgctxt "conversations/companions/g_companion_max_in_party:340:DefaultText"
+msgid "I'm sure Parvati will jump at the chance."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:341
+msgctxt "conversations/companions/g_companion_max_in_party:341:DefaultText"
+msgid "I'll point SAM in your direction."
+msgstr ""
+
+#: conversations/companions/g_companion_max_in_party:344
+msgctxt "conversations/companions/g_companion_max_in_party:344:DefaultText"
+msgid "I'm sure Felix will be grateful for the chance to adventure further. "
+msgstr ""

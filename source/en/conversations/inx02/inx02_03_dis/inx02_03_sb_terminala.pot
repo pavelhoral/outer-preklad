@@ -1,0 +1,56 @@
+#: conversations/inx02/inx02_03_dis/inx02_03_sb_terminala:1
+msgctxt "conversations/inx02/inx02_03_dis/inx02_03_sb_terminala:1:DefaultText"
+msgid "Rizzo's Distillation Plant\r\n"
+"\r\n"
+"Steam Distribution Control A\r\n"
+"\r\n"
+"Terminal Access"
+msgstr ""
+
+#: conversations/inx02/inx02_03_dis/inx02_03_sb_terminala:2
+msgctxt "conversations/inx02/inx02_03_dis/inx02_03_sb_terminala:2:DefaultText"
+msgid "[Activate Machinery Cluster A.]"
+msgstr ""
+
+#: conversations/inx02/inx02_03_dis/inx02_03_sb_terminala:3
+msgctxt "conversations/inx02/inx02_03_dis/inx02_03_sb_terminala:3:DefaultText"
+msgid "Rizzo's Distillation Plant\r\n"
+"\r\n"
+"Executing...\r\n"
+"...\r\n"
+"...\r\n"
+"...\r\n"
+"Machinery clusters activated."
+msgstr ""
+
+#: conversations/inx02/inx02_03_dis/inx02_03_sb_terminala:4
+msgctxt "conversations/inx02/inx02_03_dis/inx02_03_sb_terminala:4:DefaultText"
+msgid "Access Controls"
+msgstr ""
+
+#: conversations/inx02/inx02_03_dis/inx02_03_sb_terminala:7
+msgctxt "conversations/inx02/inx02_03_dis/inx02_03_sb_terminala:7:DefaultText"
+msgid "[Stub] Contact Administration\r\n"
+""
+msgstr ""
+
+#: conversations/inx02/inx02_03_dis/inx02_03_sb_terminala:8
+msgctxt "conversations/inx02/inx02_03_dis/inx02_03_sb_terminala:8:DefaultText"
+msgid "[Stub] Exit"
+msgstr ""
+
+#: conversations/inx02/inx02_03_dis/inx02_03_sb_terminala:10
+msgctxt "conversations/inx02/inx02_03_dis/inx02_03_sb_terminala:10:DefaultText"
+msgid "[Stub] Rizzo's Distillation Plant\r\n"
+"\r\n"
+"Steam Distribution Control A\r\n"
+"\r\n"
+"Machinery Control Access"
+msgstr ""
+
+#: conversations/inx02/inx02_03_dis/inx02_03_sb_terminala:11
+msgctxt "conversations/inx02/inx02_03_dis/inx02_03_sb_terminala:11:DefaultText"
+msgid "[Stub] Patching in Operations Support\r\n"
+"\r\n"
+"...."
+msgstr ""

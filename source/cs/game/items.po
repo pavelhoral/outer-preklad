@@ -2934,7 +2934,8 @@ msgstr ""
 
 #: game/items:751
 msgctxt "game/items:751:DefaultText"
-msgid "It's not just a suit in a deck of cards anymore."
+msgid "IMPROVISED WEAPON\n"
+"It's not just a suit in a deck of cards anymore."
 msgstr ""
 
 #: game/items:752
@@ -2949,7 +2950,8 @@ msgstr ""
 
 #: game/items:754
 msgctxt "game/items:754:DefaultText"
-msgid "It's made for digging in dirt, but you can also swing it into faces."
+msgid "IMPROVISED WEAPON\n"
+"It's made for digging in dirt, but you can also swing it into faces."
 msgstr ""
 
 #: game/items:755
@@ -2964,7 +2966,8 @@ msgstr ""
 
 #: game/items:757
 msgctxt "game/items:757:DefaultText"
-msgid "It's like a spike with a handle. Exactly like that."
+msgid "IMPROVISED WEAPON\n"
+"It's like a spike with a handle. Exactly like that."
 msgstr ""
 
 #: game/items:760
@@ -2979,7 +2982,8 @@ msgstr ""
 
 #: game/items:762
 msgctxt "game/items:762:DefaultText"
-msgid "For all of your light-duty axing needs."
+msgid "IMPROVISED WEAPON\n"
+"For all of your light-duty axing needs."
 msgstr ""
 
 #: game/items:771
@@ -2994,7 +2998,8 @@ msgstr ""
 
 #: game/items:773
 msgctxt "game/items:773:DefaultText"
-msgid "Think industrial-strength scissors."
+msgid "IMPROVISED WEAPON\n"
+"Think industrial-strength scissors."
 msgstr ""
 
 #: game/items:774
@@ -3279,7 +3284,8 @@ msgstr ""
 
 #: game/items:830
 msgctxt "game/items:830:DefaultText"
-msgid "It's like a normal rake, only smaller, and with claws."
+msgid "IMPROVISED WEAPON\n"
+"It's like a normal rake, only smaller, and with claws."
 msgstr ""
 
 #: game/items:833
@@ -3479,7 +3485,8 @@ msgstr ""
 
 #: game/items:872
 msgctxt "game/items:872:DefaultText"
-msgid "For all of your heavy-duty axing needs."
+msgid "IMPROVISED WEAPON\n"
+"For all of your heavy-duty axing needs."
 msgstr ""
 
 #: game/items:873
@@ -4622,7 +4629,7 @@ msgstr ""
 
 #: game/items:1330
 msgctxt "game/items:1330:DefaultText"
-msgid "Amphetamines in convenient pill form."
+msgid "Enhanced focus in convenient pill form."
 msgstr ""
 
 #: game/items:1331
@@ -4669,7 +4676,7 @@ msgstr ""
 
 #: game/items:1348
 msgctxt "game/items:1348:DefaultText"
-msgid "Mushroom which increases Intelligence for a short time."
+msgid "Mushroom which stifles the Adrenal, shifting your mind's comprehension of time."
 msgstr ""
 
 #: game/items:1349
@@ -14174,7 +14181,8 @@ msgstr ""
 
 #: game/items:3511
 msgctxt "game/items:3511:DefaultText"
-msgid "Adelaide won't be needing these anymore."
+msgid "IMPROVISED WEAPON\n"
+"Adelaide won't be needing these anymore."
 msgstr ""
 
 #: game/items:3512
@@ -14757,6 +14765,150 @@ msgctxt "game/items:3633:DefaultText"
 msgid "UDL"
 msgstr ""
 
+#: game/items:3634
+msgctxt "game/items:3634:DefaultText"
+msgid "Reinforced"
+msgstr ""
+
+#: game/items:3635
+msgctxt "game/items:3635:DefaultText"
+msgid "Armor Mod - Armoring\n"
+"Increases Body Armor and Helmet Armor Ratings against all Damage Types."
+msgstr ""
+
+#: game/items:3636
+msgctxt "game/items:3636:DefaultText"
+msgid "The armor is reinforced inside and out with an inert material, reducing incoming damage of all kinds."
+msgstr ""
+
+#: game/items:3637
+msgctxt "game/items:3637:DefaultText"
+msgid "Electromagnetic Flash Lens"
+msgstr ""
+
+#: game/items:3638
+msgctxt "game/items:3638:DefaultText"
+msgid "Armor Mod - Gadget\n"
+"This mod inflicts Blind to nearby enemies when you enter TTD. This effect has a cooldown."
+msgstr ""
+
+#: game/items:3639
+msgctxt "game/items:3639:DefaultText"
+msgid "Applies high-powered lenses to the armor that release a bright flash when powered."
+msgstr ""
+
+#: game/items:3640
+msgctxt "game/items:3640:DefaultText"
+msgid "Automated ATP Injectors"
+msgstr ""
+
+#: game/items:3641
+msgctxt "game/items:3641:DefaultText"
+msgid "Armor Mod - Gadget\n"
+"When your health drops too low, this mod grants a large bonus to Sprint Speed for a short time. This effect has a cooldown."
+msgstr ""
+
+#: game/items:3642
+msgctxt "game/items:3642:DefaultText"
+msgid "Injects doses of pure ATP to speed up the user when the wearer has been injured."
+msgstr ""
+
+#: game/items:3643
+msgctxt "game/items:3643:DefaultText"
+msgid "Reflexive Phobia Amplifier"
+msgstr ""
+
+#: game/items:3644
+msgctxt "game/items:3644:DefaultText"
+msgid "Armor Mod - Gadget\n"
+"This mod inflicts Terrify to human and creature melee attackers. This effect has a cooldown."
+msgstr ""
+
+#: game/items:3645
+msgctxt "game/items:3645:DefaultText"
+msgid "Releases a field of fear inducing gases to discourage organic attackers."
+msgstr ""
+
+#: game/items:3646
+msgctxt "game/items:3646:DefaultText"
+msgid "Kinetic Pulse Redistrubutor"
+msgstr ""
+
+#: game/items:3647
+msgctxt "game/items:3647:DefaultText"
+msgid "Armor Mod - Gadget\n"
+"When your health drops too low, this mod pushes back all nearby enemies. This effect has a cooldown."
+msgstr ""
+
+#: game/items:3648
+msgctxt "game/items:3648:DefaultText"
+msgid "Stores kinetic energy during use and releases it when the wearer is injured."
+msgstr ""
+
+#: game/items:3649
+msgctxt "game/items:3649:DefaultText"
+msgid "Self-Patching"
+msgstr ""
+
+#: game/items:3650
+msgctxt "game/items:3650:DefaultText"
+msgid "Armor Mod - Utility\n"
+"Reduces Armor Degradation."
+msgstr ""
+
+#: game/items:3651
+msgctxt "game/items:3651:DefaultText"
+msgid "Installs a set of self-repairing materials that reduce the rate at which the armor deteriorates."
+msgstr ""
+
+#: game/items:3652
+msgctxt "game/items:3652:DefaultText"
+msgid "Coat of Arms"
+msgstr ""
+
+#: game/items:3653
+msgctxt "game/items:3653:DefaultText"
+msgid "Armor Mod - Utility\n"
+"Reduces Companion Ability Cooldown."
+msgstr ""
+
+#: game/items:3654
+msgctxt "game/items:3654:DefaultText"
+msgid "Installs a radio emitter to subliminally inspire allies."
+msgstr ""
+
+#: game/items:3655
+msgctxt "game/items:3655:DefaultText"
+msgid "Cushioned Soles"
+msgstr ""
+
+#: game/items:3656
+msgctxt "game/items:3656:DefaultText"
+msgid "Armor Mod - Utility\n"
+"Increases Walk Speed."
+msgstr ""
+
+#: game/items:3657
+msgctxt "game/items:3657:DefaultText"
+msgid "Installs a pairs of load-bearing soles to aid in long treks."
+msgstr ""
+
+#: game/items:3658
+msgctxt "game/items:3658:DefaultText"
+msgid "Cooling"
+msgstr ""
+
+#: game/items:3659
+msgctxt "game/items:3659:DefaultText"
+msgid "Armor Mod - Utility\n"
+"Increases Sprint Speed."
+msgstr ""
+
+#: game/items:3660
+msgctxt "game/items:3660:DefaultText"
+msgid "Installs a set of liquid cooling tubes to keep the wearer cool during strenuous activity."
+msgstr ""
+
 #: game/items:3661
 msgctxt "game/items:3661:DefaultText"
 msgid "Factory Stock Armor Plating"
@@ -14968,4 +15120,409 @@ msgstr ""
 #: game/items:3883
 msgctxt "game/items:3883:DefaultText"
 msgid "This battered Tossball Blocker has seen better days, but was once an elite weapon in Grimm's hands."
+msgstr ""
+
+#: game/items:3884
+msgctxt "game/items:3884:DefaultText"
+msgid "Stealth Kit"
+msgstr ""
+
+#: game/items:3885
+msgctxt "game/items:3885:DefaultText"
+msgid "Armor Mod - Skill Kit\n"
+"Kit mod applied to Armors which increases Stealth skills."
+msgstr ""
+
+#: game/items:3886
+msgctxt "game/items:3886:DefaultText"
+msgid "Patented noise-canceling technology makes your every step silent!"
+msgstr ""
+
+#: game/items:4069
+msgctxt "game/items:4069:DefaultText"
+msgid "HushGrip"
+msgstr ""
+
+#: game/items:4070
+msgctxt "game/items:4070:DefaultText"
+msgid "Melee Weapon Mod - Grip\n"
+"Reduces some of the noise made when swinging the weapon."
+msgstr ""
+
+#: game/items:4071
+msgctxt "game/items:4071:DefaultText"
+msgid "This grip is not only coated with a high tensile strength resin which significantly reduces the squeaking created by your hand's contact with the grip, but also installed with noise-canceling hardware to counterbalance some of the sound from wind resistance when taking a swing."
+msgstr ""
+
+#: game/items:4221
+msgctxt "game/items:4221:DefaultText"
+msgid "Padded"
+msgstr ""
+
+#: game/items:4222
+msgctxt "game/items:4222:DefaultText"
+msgid "Armor Mod - Armoring\n"
+"Increases Body Armor and Helmet Armor Ratings against Cold damage."
+msgstr ""
+
+#: game/items:4223
+msgctxt "game/items:4223:DefaultText"
+msgid "The inner lining of the armor is filled with a thin foam insulation to protect the wearer from cold temperatures."
+msgstr ""
+
+#: game/items:4224
+msgctxt "game/items:4224:DefaultText"
+msgid "Augmented Padding"
+msgstr ""
+
+#: game/items:4225
+msgctxt "game/items:4225:DefaultText"
+msgid "Armor Mod - Armoring\n"
+"Upgrades Body Armor and Helmet Armor Ratings against Cold damage."
+msgstr ""
+
+#: game/items:4226
+msgctxt "game/items:4226:DefaultText"
+msgid "The inner lining of the armor is filled with a thick foam insulation to protect the wearer from extremely cold temperatures."
+msgstr ""
+
+#: game/items:4227
+msgctxt "game/items:4227:DefaultText"
+msgid "Augmented Reinforcement"
+msgstr ""
+
+#: game/items:4228
+msgctxt "game/items:4228:DefaultText"
+msgid "Armor Mod - Armoring\n"
+"Upgrades Body Armor and Helmet Armor Ratings against all damage types."
+msgstr ""
+
+#: game/items:4229
+msgctxt "game/items:4229:DefaultText"
+msgid "The armor is reinforced inside and out with a thick layer of inert material, notably reducing incoming damage all kinds."
+msgstr ""
+
+#: game/items:4230
+msgctxt "game/items:4230:DefaultText"
+msgid "Armor Mod - Skill Kit\n"
+"Kit mod applied to Armors which upgrades Ranged skills."
+msgstr ""
+
+#: game/items:4231
+msgctxt "game/items:4231:DefaultText"
+msgid "Mini-gyros stabilize your head and arms for improved shooting!"
+msgstr ""
+
+#: game/items:4232
+msgctxt "game/items:4232:DefaultText"
+msgid "Armor Mod - Skill Kit\n"
+"Kit mod applied to Armors which upgrades Dialog and Leadership skills."
+msgstr ""
+
+#: game/items:4233
+msgctxt "game/items:4233:DefaultText"
+msgid "The various included polishes, sequins and bangles will make you \"dressed to impress\" in any armor."
+msgstr ""
+
+#: game/items:4234
+msgctxt "game/items:4234:DefaultText"
+msgid "Armor Mod - Skill Kit\n"
+"Kit mod applied to Armors which upgrades Stealth skills."
+msgstr ""
+
+#: game/items:4235
+msgctxt "game/items:4235:DefaultText"
+msgid "Patented noise-canceling technology, along with lubricated joints and rubberized soles, will make you virtually noiseless!"
+msgstr ""
+
+#: game/items:4236
+msgctxt "game/items:4236:DefaultText"
+msgid "Armor Mod - Skill Kit\n"
+"Kit mod applied to Armors which upgrades Tech skills."
+msgstr ""
+
+#: game/items:4237
+msgctxt "game/items:4237:DefaultText"
+msgid "This tech is so advanced that we cannot even tell you how it does what it does!"
+msgstr ""
+
+#: game/items:4238
+msgctxt "game/items:4238:DefaultText"
+msgid "Armor Mod - Skill Kit\n"
+"Kit mod applied to Armors which upgrades Melee and Defensive skills."
+msgstr ""
+
+#: game/items:4239
+msgctxt "game/items:4239:DefaultText"
+msgid "This kit re-balances the weight distribution of the armor, resulting is heavier blows and faster reactions."
+msgstr ""
+
+#: game/items:4240
+msgctxt "game/items:4240:DefaultText"
+msgid "Augmented Anodization"
+msgstr ""
+
+#: game/items:4241
+msgctxt "game/items:4241:DefaultText"
+msgid "Armor Mod - Armoring\n"
+"Upgrades Body Armor and Helmet Armor Ratings against Corrosive damage."
+msgstr ""
+
+#: game/items:4242
+msgctxt "game/items:4242:DefaultText"
+msgid "The outer surface is coated with a protective oxide layer that resists corrosion."
+msgstr ""
+
+#: game/items:4243
+msgctxt "game/items:4243:DefaultText"
+msgid "Augmented Insulation"
+msgstr ""
+
+#: game/items:4244
+msgctxt "game/items:4244:DefaultText"
+msgid "Armor Mod - Armoring\n"
+"Upgrades Body Armor and Helmet Armor Ratings against Plasma damage."
+msgstr ""
+
+#: game/items:4245
+msgctxt "game/items:4245:DefaultText"
+msgid "The inner surface of the armor is coated with an insulating material proof against intensely high temperatures."
+msgstr ""
+
+#: game/items:4246
+msgctxt "game/items:4246:DefaultText"
+msgid "Augmented Lamination"
+msgstr ""
+
+#: game/items:4247
+msgctxt "game/items:4247:DefaultText"
+msgid "Armor Mod - Armoring\n"
+"Upgrades Body Armor and Helmet Armor Ratings against N-Ray damage."
+msgstr ""
+
+#: game/items:4248
+msgctxt "game/items:4248:DefaultText"
+msgid "The interior surface of the armor is lined with extra-thick greenwood, blocking all but the most intense N-rays."
+msgstr ""
+
+#: game/items:4249
+msgctxt "game/items:4249:DefaultText"
+msgid "Augmented Toughening"
+msgstr ""
+
+#: game/items:4250
+msgctxt "game/items:4250:DefaultText"
+msgid "Armor Mod - Armoring\n"
+"Upgrades Body Armor and Helmet Armor Ratings against Physical damage."
+msgstr ""
+
+#: game/items:4251
+msgctxt "game/items:4251:DefaultText"
+msgid "The armor is reinforced with a set of thick plates, reducing incoming physical damage."
+msgstr ""
+
+#: game/items:4252
+msgctxt "game/items:4252:DefaultText"
+msgid "Augmented Grounding"
+msgstr ""
+
+#: game/items:4253
+msgctxt "game/items:4253:DefaultText"
+msgid "Armor Mod - Armoring\n"
+"Upgrades Body Armor and Helmet Armor Ratings against Shock damage."
+msgstr ""
+
+#: game/items:4254
+msgctxt "game/items:4254:DefaultText"
+msgid "The interior surface of the armor is lined with a thick, non-conductive material, greatly reducing incoming electrical shock damage."
+msgstr ""
+
+#: game/items:4307
+msgctxt "game/items:4307:DefaultText"
+msgid "Protective Clothing w/Safety Harness Platinum"
+msgstr ""
+
+#: game/items:4308
+msgctxt "game/items:4308:DefaultText"
+msgid "Tempered Colony Ship Guard Armor"
+msgstr ""
+
+#: game/items:4309
+msgctxt "game/items:4309:DefaultText"
+msgid "Tempered Mardet Helmet"
+msgstr ""
+
+#: game/items:4315
+msgctxt "game/items:4315:DefaultText"
+msgid "Assault Rifle Hyper"
+msgstr ""
+
+#: game/items:4316
+msgctxt "game/items:4316:DefaultText"
+msgid "Auto-Mag Pistol Hyper"
+msgstr ""
+
+#: game/items:4317
+msgctxt "game/items:4317:DefaultText"
+msgid "Bolter Pistol 3.0"
+msgstr ""
+
+#: game/items:4318
+msgctxt "game/items:4318:DefaultText"
+msgid "Champion Tossball Blocker"
+msgstr ""
+
+#: game/items:4319
+msgctxt "game/items:4319:DefaultText"
+msgid "Champion Tossball Stick"
+msgstr ""
+
+#: game/items:4320
+msgctxt "game/items:4320:DefaultText"
+msgid "Dead-Eye Assault Rifle III"
+msgstr ""
+
+#: game/items:4321
+msgctxt "game/items:4321:DefaultText"
+msgid "Flamethrower 3.0"
+msgstr ""
+
+#: game/items:4322
+msgctxt "game/items:4322:DefaultText"
+msgid "Grenade Launcher III"
+msgstr ""
+
+#: game/items:4323
+msgctxt "game/items:4323:DefaultText"
+msgid "Heavy Machine Gun III"
+msgstr ""
+
+#: game/items:4324
+msgctxt "game/items:4324:DefaultText"
+msgid "Hunting Rifle Hyper"
+msgstr ""
+
+#: game/items:4325
+msgctxt "game/items:4325:DefaultText"
+msgid "Impact Hammer Mk 3"
+msgstr ""
+
+#: game/items:4326
+msgctxt "game/items:4326:DefaultText"
+msgid "Inferno Scythe Titanium"
+msgstr ""
+
+#: game/items:4327
+msgctxt "game/items:4327:DefaultText"
+msgid "Light Assault Rifle Mk 3"
+msgstr ""
+
+#: game/items:4328
+msgctxt "game/items:4328:DefaultText"
+msgid "Light Machine Gun Mk 3"
+msgstr ""
+
+#: game/items:4329
+msgctxt "game/items:4329:DefaultText"
+msgid "Light Pistol Mk 3"
+msgstr ""
+
+#: game/items:4330
+msgctxt "game/items:4330:DefaultText"
+msgid "Officer's Spine Titanium"
+msgstr ""
+
+#: game/items:4331
+msgctxt "game/items:4331:DefaultText"
+msgid "Plasma Carbine Hyper"
+msgstr ""
+
+#: game/items:4332
+msgctxt "game/items:4332:DefaultText"
+msgid "Plasma Cutter Titanium"
+msgstr ""
+
+#: game/items:4333
+msgctxt "game/items:4333:DefaultText"
+msgid "Plasma Launcher 3.0"
+msgstr ""
+
+#: game/items:4334
+msgctxt "game/items:4334:DefaultText"
+msgid "Plasma Rifle 3.0"
+msgstr ""
+
+#: game/items:4335
+msgctxt "game/items:4335:DefaultText"
+msgid "Pulse Hammer Titanium"
+msgstr ""
+
+#: game/items:4336
+msgctxt "game/items:4336:DefaultText"
+msgid "Revolver Mk 3"
+msgstr ""
+
+#: game/items:4337
+msgctxt "game/items:4337:DefaultText"
+msgid "Sawed-Off Shotgun Mk 3"
+msgstr ""
+
+#: game/items:4338
+msgctxt "game/items:4338:DefaultText"
+msgid "Security Blade Hyper"
+msgstr ""
+
+#: game/items:4339
+msgctxt "game/items:4339:DefaultText"
+msgid "Sentry Sabre Mk 3"
+msgstr ""
+
+#: game/items:4340
+msgctxt "game/items:4340:DefaultText"
+msgid "Shock Cannon Hyper"
+msgstr ""
+
+#: game/items:4341
+msgctxt "game/items:4341:DefaultText"
+msgid "Stun Baton Hyper"
+msgstr ""
+
+#: game/items:4342
+msgctxt "game/items:4342:DefaultText"
+msgid "Tactical Shotgun III"
+msgstr ""
+
+#: game/items:4343
+msgctxt "game/items:4343:DefaultText"
+msgid "Telescoping Staff Mk 3"
+msgstr ""
+
+#: game/items:4344
+msgctxt "game/items:4344:DefaultText"
+msgid "The Vermin III"
+msgstr ""
+
+#: game/items:4345
+msgctxt "game/items:4345:DefaultText"
+msgid "Tremor Cleaver Hyper"
+msgstr ""
+
+#: game/items:4346
+msgctxt "game/items:4346:DefaultText"
+msgid "Trip-Blade Mk 3"
+msgstr ""
+
+#: game/items:4347
+msgctxt "game/items:4347:DefaultText"
+msgid "Vortex Mace Hyper"
+msgstr ""
+
+#: game/items:4456
+msgctxt "game/items:4456:DefaultText"
+msgid "IMPROVISED WEAPON"
+msgstr ""
+
+#: game/items:4487
+msgctxt "game/items:4487:DefaultText"
+msgid "[Stub] "
 msgstr ""

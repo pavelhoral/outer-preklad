@@ -695,7 +695,7 @@ msgstr ""
 
 #: game/characters:172
 msgctxt "game/characters:172:DefaultText"
-msgid "Ash Primal "
+msgid "Primal"
 msgstr ""
 
 #: game/characters:173
@@ -3326,4 +3326,9 @@ msgstr ""
 #: game/characters:947
 msgctxt "game/characters:947:DefaultText"
 msgid "Vending Machine"
+msgstr ""
+
+#: game/characters:1123
+msgctxt "game/characters:1123:DefaultText"
+msgid "Serialized Law & Organization Guardian"
 msgstr ""

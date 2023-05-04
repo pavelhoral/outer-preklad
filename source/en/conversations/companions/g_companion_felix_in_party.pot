@@ -1652,3 +1652,63 @@ msgstr ""
 msgctxt "conversations/companions/g_companion_felix_in_party:427:DefaultText"
 msgid "Am I wrong? I'm not so sure."
 msgstr ""
+
+#: conversations/companions/g_companion_felix_in_party:429
+msgctxt "conversations/companions/g_companion_felix_in_party:429:DefaultText"
+msgid "You need me to send out somebody else?"
+msgstr ""
+
+#: conversations/companions/g_companion_felix_in_party:430
+msgctxt "conversations/companions/g_companion_felix_in_party:430:DefaultText"
+msgid "Send Ellie."
+msgstr ""
+
+#: conversations/companions/g_companion_felix_in_party:431
+msgctxt "conversations/companions/g_companion_felix_in_party:431:DefaultText"
+msgid "Send Nyoka."
+msgstr ""
+
+#: conversations/companions/g_companion_felix_in_party:432
+msgctxt "conversations/companions/g_companion_felix_in_party:432:DefaultText"
+msgid "Send Parvati."
+msgstr ""
+
+#: conversations/companions/g_companion_felix_in_party:433
+msgctxt "conversations/companions/g_companion_felix_in_party:433:DefaultText"
+msgid "Send Max."
+msgstr ""
+
+#: conversations/companions/g_companion_felix_in_party:434
+msgctxt "conversations/companions/g_companion_felix_in_party:434:DefaultText"
+msgid "Send SAM."
+msgstr ""
+
+#: conversations/companions/g_companion_felix_in_party:435
+msgctxt "conversations/companions/g_companion_felix_in_party:435:DefaultText"
+msgid "Not right now."
+msgstr ""
+
+#: conversations/companions/g_companion_felix_in_party:436
+msgctxt "conversations/companions/g_companion_felix_in_party:436:DefaultText"
+msgid "I'll let Ellie know you're waiting."
+msgstr ""
+
+#: conversations/companions/g_companion_felix_in_party:437
+msgctxt "conversations/companions/g_companion_felix_in_party:437:DefaultText"
+msgid "I'll ask Nyoka to catch up with you."
+msgstr ""
+
+#: conversations/companions/g_companion_felix_in_party:438
+msgctxt "conversations/companions/g_companion_felix_in_party:438:DefaultText"
+msgid "Hey, look after Parvati."
+msgstr ""
+
+#: conversations/companions/g_companion_felix_in_party:439
+msgctxt "conversations/companions/g_companion_felix_in_party:439:DefaultText"
+msgid "Max, huh? Hey, it's your call."
+msgstr ""
+
+#: conversations/companions/g_companion_felix_in_party:440
+msgctxt "conversations/companions/g_companion_felix_in_party:440:DefaultText"
+msgid "SAM it is."
+msgstr ""

@@ -2873,3 +2873,8 @@ msgstr ""
 msgctxt "conversations/03_playership/03_cv_playership:902:DefaultText"
 msgid "When I was stranded in Emerald Vale, I simulated a number of hypothetical scenarios in which Edgewater met its demise. Death by Automechanical was number fifty-seven."
 msgstr ""
+
+#: conversations/03_playership/03_cv_playership:932
+msgctxt "conversations/03_playership/03_cv_playership:932:DefaultText"
+msgid "When I was stranded in Emerald Vale, I simulated a number of hypothetical scenarios in which Edgewater met its demise. Death by Automechanical was number fifty-seven."
+msgstr ""
