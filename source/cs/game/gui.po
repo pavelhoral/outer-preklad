@@ -286,7 +286,7 @@ msgstr "Dveře jsou zavřené."
 #: game/gui:57
 msgctxt "game/gui:57:DefaultText"
 msgid "The door requires {unlock_item} to unlock."
-msgstr "Dveře vyžadují k odemknutí {unlock_item}."
+msgstr "K odemknutí dveří je třeba {unlock_item}."
 
 #: game/gui:58
 msgctxt "game/gui:58:DefaultText"
@@ -296,12 +296,12 @@ msgstr "Dveře nelze odemknout."
 #: game/gui:61
 msgctxt "game/gui:61:DefaultText"
 msgid "Unlocked the door with {unlock_item}."
-msgstr "Dveře byly odemčeny pomocí {unlock_item}."
+msgstr "Odemkl dveře pomocí {unlock_item}."
 
 #: game/gui:63
 msgctxt "game/gui:63:DefaultText"
 msgid "{item_name} removed from inventory."
-msgstr "{název_předmětu} odstraněn z inventáře."
+msgstr "{item_name} vyřazeny z inventáře."
 
 #: game/gui:64
 msgctxt "game/gui:64:DefaultText"
@@ -466,7 +466,7 @@ msgstr "Vyšplhejte se na"
 #: game/gui:98
 msgctxt "game/gui:98:DefaultText"
 msgid "Pick Up {item_name}"
-msgstr "Vyzvednout {název_položky}"
+msgstr "Vyzvednutí {item_name}"
 
 #: game/gui:99
 msgctxt "game/gui:99:DefaultText"
@@ -476,7 +476,7 @@ msgstr "Použijte"
 #: game/gui:106
 msgctxt "game/gui:106:DefaultText"
 msgid "Use to go to {location}"
-msgstr "Použijte pro přechod na {místo}"
+msgstr "Použijte k přechodu na {location}"
 
 #: game/gui:107
 msgctxt "game/gui:107:DefaultText"
@@ -496,12 +496,12 @@ msgstr "Zamčený počítač s obtížností %s. K odemčení je třeba %s nebo 
 #: game/gui:111
 msgctxt "game/gui:111:DefaultText"
 msgid "Computer Key {item_name} removed from inventory."
-msgstr "Počítačový klíč {název_položky} odstraněn z inventáře."
+msgstr "Počítačový klíč {item_name} vyřazen z inventáře."
 
 #: game/gui:113
 msgctxt "game/gui:113:DefaultText"
 msgid "Unlocked the computer with Computer Key {item_name}."
-msgstr "Odemknutí počítače pomocí klíče Computer Key {název_položky}."
+msgstr "Odemknutí počítače pomocí klíče Computer Key {item_name}."
 
 #: game/gui:114
 msgctxt "game/gui:114:DefaultText"
@@ -801,12 +801,12 @@ msgstr "Extrémní"
 #: game/gui:181
 msgctxt "game/gui:181:DefaultText"
 msgid "Armed {trap_difficulty} difficulty trap.  (Trap Difficulty {trap_difficulty} vs. Player Explosives Skill {player_explosives_skill}, Time {seconds}) to disarm."
-msgstr "Ozbrojená past obtížnosti {trap_difficulty}.  (Obtížnost pasti {trap_difficulty} vs. Dovednost hráče s výbušninami {player_explosives_skill}, Čas {sekundy}) k zneškodnění."
+msgstr "Ozbrojená past na obtížnost {trap_difficulty}.  (Past Obtížnost {trap_difficulty} vs. Hráč Dovednost výbušniny {player_explosives_skill}, Čas {seconds}) zneškodnit."
 
 #: game/gui:182
 msgctxt "game/gui:182:DefaultText"
 msgid "Disarmed {trap_difficulty} difficulty trap.  (Trap Difficulty {trap_difficulty} vs. Player Explosives Skill {player_explosives_skill}, Time {seconds}) to arm."
-msgstr "Odzbrojená past obtížnosti {trap_difficulty}.  (Obtížnost pasti {trap_difficulty} vs. Dovednost hráče s výbušninami {player_explosives_skill}, Čas {sekundy}) k odjištění."
+msgstr "Odzbrojená past obtížnosti {trap_difficulty}.  (Past Obtížnost {trap_difficulty} vs. Hráč Dovednost výbušniny {player_explosives_skill}, Čas {seconds}) k odjištění."
 
 #: game/gui:183
 msgctxt "game/gui:183:DefaultText"
@@ -1254,7 +1254,7 @@ msgstr "Typ poškození"
 #: game/gui:275
 msgctxt "game/gui:275:DefaultText"
 msgid "{rounds} Shots/s"
-msgstr "{kruhy} Výstřelů/s"
+msgstr "{rounds} Výstřelů/s"
 
 #: game/gui:276
 msgctxt "game/gui:276:DefaultText"
@@ -1269,7 +1269,7 @@ msgstr "Efektivní rozsah"
 #: game/gui:278
 msgctxt "game/gui:278:DefaultText"
 msgid "{meters}m"
-msgstr "{metry}m"
+msgstr "{meters}m"
 
 #: game/gui:279
 msgctxt "game/gui:279:DefaultText"
@@ -1339,17 +1339,17 @@ msgstr "Spread"
 #: game/gui:293
 msgctxt "game/gui:293:DefaultText"
 msgid "{unit} /s"
-msgstr "{jednotka} /s"
+msgstr "{unit} /s"
 
 #: game/gui:294
 msgctxt "game/gui:294:DefaultText"
 msgid "{value}%/s"
-msgstr "{hodnota}%/s"
+msgstr "{value}%/s"
 
 #: game/gui:295
 msgctxt "game/gui:295:DefaultText"
 msgid "{degrees}°"
-msgstr "{stupňů}°"
+msgstr "{degrees}°"
 
 #: game/gui:296
 msgctxt "game/gui:296:DefaultText"
@@ -1593,7 +1593,7 @@ msgstr "Odemknutí klíčem"
 #: game/gui:343
 msgctxt "game/gui:343:DefaultText"
 msgid "Requires {unlock_name} to unlock"
-msgstr "Vyžaduje odemknutí {unlock_name}"
+msgstr "K odemčení je třeba {unlock_name}"
 
 #: game/gui:344
 msgctxt "game/gui:344:DefaultText"
@@ -1823,7 +1823,7 @@ msgstr "Hlas"
 msgctxt "game/gui:388:DefaultText"
 msgid "{message}:\n"
 "{details}"
-msgstr "{zpráva}: {podrobnosti}"
+msgstr "{message}:{details}"
 
 #: game/gui:389
 msgctxt "game/gui:389:DefaultText"
@@ -2063,7 +2063,7 @@ msgstr "[Uložení systému - Finale]"
 #: game/gui:437
 msgctxt "game/gui:437:DefaultText"
 msgid "Playtime: {days}d {hours}h {minutes}m"
-msgstr "Čas na hraní: {dny}d {hodiny}h {minuty}m"
+msgstr "Doba hraní: {days}d {hours}h {minutes}m"
 
 #: game/gui:438
 msgctxt "game/gui:438:DefaultText"
@@ -2078,7 +2078,7 @@ msgstr "Uložení souborů"
 #: game/gui:442
 msgctxt "game/gui:442:DefaultText"
 msgid "Level {value}"
-msgstr "Úroveň {hodnota}"
+msgstr "Úroveň {value}"
 
 #: game/gui:443
 msgctxt "game/gui:443:DefaultText"
@@ -2088,7 +2088,7 @@ msgstr "{save_type} - {area_name}"
 #: game/gui:444
 msgctxt "game/gui:444:DefaultText"
 msgid "Requires {item_name} to Unlock"
-msgstr "Vyžaduje {název_položky} k odemčení"
+msgstr "K odemknutí je třeba {item_name}"
 
 #: game/gui:445
 msgctxt "game/gui:445:DefaultText"
@@ -2491,7 +2491,7 @@ msgstr "Zastavit porovnávání"
 #: game/gui:568
 msgctxt "game/gui:568:DefaultText"
 msgid "{rounds} round/min"
-msgstr "{kolo} kolo/min"
+msgstr "{rounds} kolo/min"
 
 #: game/gui:569
 msgctxt "game/gui:569:DefaultText"
@@ -2631,17 +2631,17 @@ msgstr "Typ sekundárního poškození"
 #: game/gui:596
 msgctxt "game/gui:596:DefaultText"
 msgid "Damage {percent}"
-msgstr "Poškození {procento}"
+msgstr "Poškození {percent}"
 
 #: game/gui:597
 msgctxt "game/gui:597:DefaultText"
 msgid "Equip Time {percent}"
-msgstr "Čas vybavení {procenta}"
+msgstr "Čas vybavení {percent}"
 
 #: game/gui:598
 msgctxt "game/gui:598:DefaultText"
 msgid "+{value}"
-msgstr "+{hodnota}"
+msgstr "+{value}"
 
 #: game/gui:599
 msgctxt "game/gui:599:DefaultText"
@@ -2663,12 +2663,12 @@ msgstr "Po potvrzení nebude možné přidělení bodů vrátit zpět. Chcete po
 #: game/gui:602
 msgctxt "game/gui:602:DefaultText"
 msgid "{value} chance to apply {status} on hit. Requires {skill} ({skill_value})."
-msgstr "{hodnota} šance použít {stav} při zásahu. Vyžaduje {skill} ({skill_value})."
+msgstr "{value} šance na použití {status} při zásahu. Vyžaduje {skill} ({skill_value})."
 
 #: game/gui:603
 msgctxt "game/gui:603:DefaultText"
 msgid "Applies {status} on hit. Requires {skill} ({skill_value})."
-msgstr "Při zásahu použije {stav}. Vyžaduje {dovednost} ({hodnota_dovednosti})."
+msgstr "Při zásahu se aplikuje {status}. Vyžaduje {skill} ({skill_value})."
 
 #: game/gui:604
 msgctxt "game/gui:604:DefaultText"
@@ -2678,12 +2678,12 @@ msgstr "Nekonečný"
 #: game/gui:605
 msgctxt "game/gui:605:DefaultText"
 msgid "Firing Noise {percent}"
-msgstr "Hluk při střelbě {procento}"
+msgstr "Hluk při střelbě {percent}"
 
 #: game/gui:606
 msgctxt "game/gui:606:DefaultText"
 msgid "Firing Noise Radius {percent}"
-msgstr "Poloměr hluku při střelbě {procento}"
+msgstr "Poloměr hluku při střelbě {percent}"
 
 #: game/gui:607
 msgctxt "game/gui:607:DefaultText"
@@ -2698,7 +2698,7 @@ msgstr "Náklady na výdrž bloku: %s"
 #: game/gui:609
 msgctxt "game/gui:609:DefaultText"
 msgid "Recoil Time {percent}"
-msgstr "Doba zpětného rázu {procenta}"
+msgstr "Doba zpětného rázu {percent}"
 
 #: game/gui:610
 msgctxt "game/gui:610:DefaultText"
@@ -2708,7 +2708,7 @@ msgstr "Doba trvání oslabení: %s"
 #: game/gui:611
 msgctxt "game/gui:611:DefaultText"
 msgid "Ranged Weapon Spread {percent}"
-msgstr "Rozptyl střelných zbraní {procenta}"
+msgstr "Rozptyl střelných zbraní {percent}"
 
 #: game/gui:612
 msgctxt "game/gui:612:DefaultText"
@@ -2718,12 +2718,12 @@ msgstr "Odolnost proti poškození po poškození: %s"
 #: game/gui:613
 msgctxt "game/gui:613:DefaultText"
 msgid "Post Armor Damage Dealt {percent}"
-msgstr "Udělené poškození po obrnění {procento}"
+msgstr "Udělené poškození po pancéřování {percent}"
 
 #: game/gui:614
 msgctxt "game/gui:614:DefaultText"
 msgid "Melee Attack Rate {percent}"
-msgstr "Míra útoku zblízka {procento}"
+msgstr "Rychlost útoku zblízka {percent}"
 
 #: game/gui:615
 msgctxt "game/gui:615:DefaultText"
@@ -2733,7 +2733,7 @@ msgstr "Maximální rozsah: %s"
 #: game/gui:616
 msgctxt "game/gui:616:DefaultText"
 msgid "Rate of Fire {percent}"
-msgstr "Rychlost střelby {procento}"
+msgstr "Rychlost střelby {percent}"
 
 #: game/gui:617
 msgctxt "game/gui:617:DefaultText"
@@ -2743,22 +2743,22 @@ msgstr "Poloměr AoE: %s"
 #: game/gui:618
 msgctxt "game/gui:618:DefaultText"
 msgid "Stun Chance {percent}"
-msgstr "Šance na omráčení {procento}"
+msgstr "Šance na omráčení {percent}"
 
 #: game/gui:619
 msgctxt "game/gui:619:DefaultText"
 msgid "Stagger Chance {mpercent}"
-msgstr "Šance na rozložení {procento}"
+msgstr "Stagger Chance {mpercent}"
 
 #: game/gui:620
 msgctxt "game/gui:620:DefaultText"
 msgid "Poison Chance {mpercent}"
-msgstr "Šance na otravu {procento}"
+msgstr "Jedovatá šance {mpercent}"
 
 #: game/gui:621
 msgctxt "game/gui:621:DefaultText"
 msgid "Maim Chance {percent}"
-msgstr "Maim Chance {procento}"
+msgstr "Maim Chance {percent}"
 
 #: game/gui:622
 msgctxt "game/gui:622:DefaultText"
@@ -2773,17 +2773,17 @@ msgstr "Šance na otřes mozku: %s"
 #: game/gui:624
 msgctxt "game/gui:624:DefaultText"
 msgid "Critical Damage {percent}"
-msgstr "Kritické poškození {procento}"
+msgstr "Kritické poškození {percent}"
 
 #: game/gui:625
 msgctxt "game/gui:625:DefaultText"
 msgid "Critical Chance {mpercent}"
-msgstr "Kritická šance {procento}"
+msgstr "Kritická šance {mpercent}"
 
 #: game/gui:626
 msgctxt "game/gui:626:DefaultText"
 msgid "Magazine Size {percent}"
-msgstr "Velikost časopisu {procenta}"
+msgstr "Velikost časopisu {percent}"
 
 #: game/gui:627
 msgctxt "game/gui:627:DefaultText"
@@ -2798,12 +2798,12 @@ msgstr "PŘEDVOLBY"
 #: game/gui:629
 msgctxt "game/gui:629:DefaultText"
 msgid "{skill}"
-msgstr "{dovednost}"
+msgstr "{skill}"
 
 #: game/gui:630
 msgctxt "game/gui:630:DefaultText"
 msgid "{damage} (x{projectiles})"
-msgstr "{poškození} (x{projektily})"
+msgstr "{damage} (x{projectiles})"
 
 #: game/gui:631
 msgctxt "game/gui:631:DefaultText"
@@ -2863,12 +2863,12 @@ msgstr "Výběr primární skupiny atributů"
 #: game/gui:644
 msgctxt "game/gui:644:DefaultText"
 msgid "x{count}"
-msgstr "x{počet}"
+msgstr "x{count}"
 
 #: game/gui:645
 msgctxt "game/gui:645:DefaultText"
 msgid "{item_name} ({count})"
-msgstr "{název_položky} ({počet})"
+msgstr "{item_name} ({count})"
 
 #: game/gui:646
 msgctxt "game/gui:646:DefaultText"
@@ -3716,49 +3716,49 @@ msgstr "Zrušit tvorbu postavy a vrátit se do hlavní nabídky?"
 #: game/gui:787
 msgctxt "game/gui:787:DefaultText"
 msgid "Melee Damage {percent}"
-msgstr "Poškození při boji zblízka {procento}"
+msgstr "Poškození při boji zblízka {percent}"
 
 #: game/gui:788
 msgctxt "game/gui:788:DefaultText"
 msgid "Melee Weapon Swing Time {percent}"
-msgstr "Doba švihu zbraní pro boj zblízka {procento}"
+msgstr "Doba švihu zbraní pro boj zblízka {percent}"
 
 #: game/gui:789
 msgctxt "game/gui:789:DefaultText"
 msgid "Base Health {percent}"
-msgstr "Základní zdraví {procento}"
+msgstr "Základní zdraví {percent}"
 
 #: game/gui:790
 msgctxt "game/gui:790:DefaultText"
 msgid "Critical Hit Damage {percent}"
-msgstr "Poškození kritickým zásahem {procento}"
+msgstr "Poškození kritickým zásahem {percent}"
 
 #: game/gui:791
 msgctxt "game/gui:791:DefaultText"
 msgid "Bonus to Extra Headshot/Weakspot Damage {percent}"
-msgstr "Bonus k dodatečnému poškození headshotem/eakspotem {procento}"
+msgstr "Bonus k dodatečnému poškození headshotem/eakspotem {percent}"
 
 #: game/gui:792
 msgctxt "game/gui:792:DefaultText"
 msgid "Base Armor Rating {value}"
-msgstr "Základní hodnota pancíře {hodnota}"
+msgstr "Základní hodnota pancíře {value}"
 
 #: game/gui:793
 msgctxt "game/gui:793:DefaultText"
 msgid "NPC Reputation Reactions {percent}\n"
 "Companion Morale Reactions {percent}\n"
 "Companion Command Point Charge Rate {percent}"
-msgstr "Reakce na reputaci NPC {procento} Reakce na morálku společníků {procento} Míra nabíjení příkazových bodů společníků {procento}"
+msgstr "Reakce na reputaci NPC {percent}Reakce na morálku společníků {percent}Rychlost nabíjení příkazových bodů společníků {percent}"
 
 #: game/gui:794
 msgctxt "game/gui:794:DefaultText"
 msgid "Tactical Time Dilation Recharge Rate {percent}"
-msgstr "Rychlost dobíjení taktické časové dilatace {procenta}"
+msgstr "Rychlost dobíjení taktické časové dilatace {percent}"
 
 #: game/gui:795
 msgctxt "game/gui:795:DefaultText"
 msgid "Harmful Status Effect Duration {percent}"
-msgstr "Trvání škodlivého účinku stavu {procento}"
+msgstr "Škodlivý stav Trvání účinku {percent}"
 
 #: game/gui:796
 msgctxt "game/gui:796:DefaultText"
@@ -3783,7 +3783,7 @@ msgstr "Kritická šance %s"
 #: game/gui:819
 msgctxt "game/gui:819:DefaultText"
 msgid "{top}/{bottom}"
-msgstr "{horní}/{spodní}"
+msgstr "{top}/{bottom}"
 
 #: game/gui:820
 msgctxt "game/gui:820:DefaultText"
@@ -3803,7 +3803,7 @@ msgstr "Leader"
 #: game/gui:823
 msgctxt "game/gui:823:DefaultText"
 msgid "Perk Points Remaining: {value}"
-msgstr "Zbývající body perků: {hodnota}"
+msgstr "Zbývající body perků: {value}"
 
 #: game/gui:824
 msgctxt "game/gui:824:DefaultText"
@@ -4148,7 +4148,7 @@ msgstr "Požadavky:"
 #: game/gui:892
 msgctxt "game/gui:892:DefaultText"
 msgid "Requires {total_perks} previous perks."
-msgstr "Vyžaduje předchozí perky {total_perks}."
+msgstr "Vyžaduje {total_perks} předchozí výhody."
 
 #: game/gui:893
 msgctxt "game/gui:893:DefaultText"
@@ -4183,7 +4183,7 @@ msgstr "Trickshot"
 #: game/gui:899
 msgctxt "game/gui:899:DefaultText"
 msgid "Perk Upgrade Points Remaining: {value}"
-msgstr "Zbývající body pro vylepšení perků: {hodnota}"
+msgstr "Zbývající body pro vylepšení perků: {value}"
 
 #: game/gui:900
 msgctxt "game/gui:900:DefaultText"
@@ -4307,7 +4307,7 @@ msgstr "Minimální poškození při boji zblízka je nula"
 #: game/gui:962
 msgctxt "game/gui:962:DefaultText"
 msgid "Durability Loss on Weapon Use {value}"
-msgstr "Ztráta trvanlivosti při použití zbraně {hodnota}"
+msgstr "Ztráta trvanlivosti při použití zbraně {value}"
 
 #: game/gui:963
 msgctxt "game/gui:963:DefaultText"
@@ -4322,7 +4322,7 @@ msgstr "Hloupé dialogové řádky mohou být pouze volitelné a %s odchozích k
 #: game/gui:965
 msgctxt "game/gui:965:DefaultText"
 msgid "{value} of outgoing Crits are converted to Hits"
-msgstr "{hodnota} odchozích kritických bodů se převede na zásahy."
+msgstr "{value} odchozích kritických zásahů jsou převedeny na zásahy."
 
 #: game/gui:966
 msgctxt "game/gui:966:DefaultText"
@@ -4332,7 +4332,7 @@ msgstr "Při zásahu křičíte bolestí a zvyšujete šanci, že nepřátelé z
 #: game/gui:967
 msgctxt "game/gui:967:DefaultText"
 msgid "Positive NPC Reputation Reactions decrease by {value}"
-msgstr "Pozitivní reakce na reputaci NPC se sníží o {hodnotu}"
+msgstr "Pozitivní reakce na reputaci NPC se sníží o {value}"
 
 #: game/gui:968
 msgctxt "game/gui:968:DefaultText"
@@ -4342,17 +4342,17 @@ msgstr "Taktická časová dilatace se během boje neregeneruje."
 #: game/gui:969
 msgctxt "game/gui:969:DefaultText"
 msgid "Negative NPC Reputation Reactions increase by {value}"
-msgstr "Reakce negativní reputace NPC se zvýší o {hodnotu}"
+msgstr "Reakce negativní reputace NPC se zvýší o {value}"
 
 #: game/gui:970
 msgctxt "game/gui:970:DefaultText"
 msgid "Ranged Weapon Recoil Delay {percent}"
-msgstr "Zpoždění zpětného rázu zbraně na dálku {procento}"
+msgstr "Zpoždění zpětného rázu střelné zbraně {percent}"
 
 #: game/gui:971
 msgctxt "game/gui:971:DefaultText"
 msgid "Ranged Weapon Reload Time {percent}"
-msgstr "Doba nabíjení zbraně na dálku {procento}"
+msgstr "Doba nabíjení zbraně na dálku {percent}"
 
 #: game/gui:972
 msgctxt "game/gui:972:DefaultText"
@@ -4367,7 +4367,7 @@ msgstr "Délka prodloužení doby trvání dovednosti v bojovém dialogu %s"
 #: game/gui:974
 msgctxt "game/gui:974:DefaultText"
 msgid "Max Health Regeneration from the Inhaler {mpercent}"
-msgstr "Maximální regenerace zdraví z inhalátoru {procenta}"
+msgstr "Maximální regenerace zdraví z inhalátoru {mpercent}"
 
 #: game/gui:975
 msgctxt "game/gui:975:DefaultText"
@@ -4512,12 +4512,12 @@ msgstr "Jste neutrální vůči této frakci."
 #: game/gui:1004
 msgctxt "game/gui:1004:DefaultText"
 msgid "Vendor prices are increased by {value}."
-msgstr "Ceny prodejců se zvýší o {hodnotu}."
+msgstr "Ceny prodejců se zvyšují o {value}."
 
 #: game/gui:1005
 msgctxt "game/gui:1005:DefaultText"
 msgid "Vendor prices are reduced by {value}."
-msgstr "Ceny prodejců jsou sníženy o {hodnotu}."
+msgstr "Ceny prodejců jsou sníženy o {value}."
 
 #: game/gui:1006
 msgctxt "game/gui:1006:DefaultText"
@@ -4762,7 +4762,7 @@ msgstr "Rychlé tažení"
 #: game/gui:1056
 msgctxt "game/gui:1056:DefaultText"
 msgid "Fast Travel to: {location}"
-msgstr "Rychlé cestování do: {místo}"
+msgstr "Rychlé cestování do: {location}"
 
 #: game/gui:1057
 msgctxt "game/gui:1057:DefaultText"
@@ -4772,7 +4772,7 @@ msgstr "Bleed"
 #: game/gui:1058
 msgctxt "game/gui:1058:DefaultText"
 msgid "Inhaler Cooldown Time {percent}"
-msgstr "Doba vychladnutí inhalátoru {procenta}"
+msgstr "Doba vychladnutí inhalátoru {percent}"
 
 #: game/gui:1059
 msgctxt "game/gui:1059:DefaultText"
@@ -4782,7 +4782,7 @@ msgstr "Prozkoumejte stránky"
 #: game/gui:1060
 msgctxt "game/gui:1060:DefaultText"
 msgid "Consumable Effect Duration {percent}"
-msgstr "Doba trvání spotřebního účinku {procento}"
+msgstr "Doba trvání spotřebního účinku {percent}"
 
 #: game/gui:1061
 msgctxt "game/gui:1061:DefaultText"
@@ -4793,7 +4793,7 @@ msgstr "Podrobnosti na"
 msgctxt "game/gui:1062:DefaultText"
 msgid "Fast Travel:\n"
 "{location}"
-msgstr "Rychlé cestování: {místo}"
+msgstr "Rychlé cestování:{location}"
 
 #: game/gui:1065
 msgctxt "game/gui:1065:DefaultText"
@@ -4853,7 +4853,7 @@ msgstr "Dovednost obchodníka"
 #: game/gui:1076
 msgctxt "game/gui:1076:DefaultText"
 msgid "{meters} meter/s"
-msgstr "{metry} metr/s"
+msgstr "{meters} metr/s"
 
 #: game/gui:1077
 msgctxt "game/gui:1077:DefaultText"
@@ -4868,7 +4868,7 @@ msgstr "Vyberte cíl rychlého cestování"
 #: game/gui:1079
 msgctxt "game/gui:1079:DefaultText"
 msgid "{health} HP/s"
-msgstr "{zdraví} HP/s"
+msgstr "{health} HP/s"
 
 #: game/gui:1080
 msgctxt "game/gui:1080:DefaultText"
@@ -4923,7 +4923,7 @@ msgstr "Uzamčené stránky"
 #: game/gui:1091
 msgctxt "game/gui:1091:DefaultText"
 msgid "Transition to {location}"
-msgstr "Přechod na {místo}"
+msgstr "Přechod na {location}"
 
 #: game/gui:1092
 msgctxt "game/gui:1092:DefaultText"
@@ -4933,7 +4933,7 @@ msgstr "Terárium Encounter"
 #: game/gui:1093
 msgctxt "game/gui:1093:DefaultText"
 msgid "XP from Companion kills {percent}"
-msgstr "XP ze zabití společníka {procento}"
+msgstr "XP ze zabití společníka {percent}"
 
 #: game/gui:1094
 msgctxt "game/gui:1094:DefaultText"
@@ -4973,7 +4973,7 @@ msgstr "Odvykání od závislosti na alkoholu"
 #: game/gui:1101
 msgctxt "game/gui:1101:DefaultText"
 msgid "Heal Amount granted by the Medical Inhaler {percent}"
-msgstr "Množství uzdravení poskytnuté lékařským inhalátorem {procenta}"
+msgstr "Léčebná částka udělená lékařským inhalátorem {percent}"
 
 #: game/gui:1102
 msgctxt "game/gui:1102:DefaultText"
@@ -5128,7 +5128,7 @@ msgstr "Hacknuté stránky"
 #: game/gui:1132
 msgctxt "game/gui:1132:DefaultText"
 msgid "Automechanical is Stunned for {duration}"
-msgstr "Automechanický je omráčen na {délku}"
+msgstr "Společnost Automechanical je ohromena pro {duration}"
 
 #: game/gui:1133
 msgctxt "game/gui:1133:DefaultText"
@@ -5215,7 +5215,7 @@ msgstr "V průběhu hry lze k výběru zbraní použít radiální koláčovou n
 #: game/gui:1151
 msgctxt "game/gui:1151:DefaultText"
 msgid "Cooldown of Triggered Gadget Effects {percent}"
-msgstr "Cooldown spuštěných efektů gadgetu {procento}"
+msgstr "Ochlazení spuštěných efektů gadgetu {percent}"
 
 #: game/gui:1152
 msgctxt "game/gui:1152:DefaultText"
@@ -5293,7 +5293,7 @@ msgstr "Příliš mnohokrát jsi byl zmrzačen kanidem, takže máš trému poka
 #: game/gui:1171
 msgctxt "game/gui:1171:DefaultText"
 msgid "Drug Effect Duration {percent}"
-msgstr "Trvání účinku léku {procento}"
+msgstr "Doba trvání účinku léku {percent}"
 
 #: game/gui:1172
 msgctxt "game/gui:1172:DefaultText"
@@ -5304,7 +5304,7 @@ msgstr "Adreno Healing"
 msgctxt "game/gui:1173:DefaultText"
 msgid "Walk Speed {percent}\n"
 "Adrena-Time Crash stacks up to 3 times"
-msgstr "Rychlost chůze {procenta} Adrena-Time Crash stohuje až 3krát"
+msgstr "Rychlost chůze {percent}Adrena-Time Crash stohuje až 3krát"
 
 #: game/gui:1178
 msgctxt "game/gui:1178:DefaultText"
@@ -5349,17 +5349,17 @@ msgstr "Potřebné součásti zbraně:"
 #: game/gui:1331
 msgctxt "game/gui:1331:DefaultText"
 msgid "Armor Parts returned: {value}"
-msgstr "Vrácené díly brnění: {hodnota}"
+msgstr "Vrácené díly brnění: {value}"
 
 #: game/gui:1332
 msgctxt "game/gui:1332:DefaultText"
 msgid "Weapon Parts returned: {value}"
-msgstr "Vrácené součásti zbraní: {hodnota}"
+msgstr "Vrácené součásti zbraní: {value}"
 
 #: game/gui:1441
 msgctxt "game/gui:1441:DefaultText"
 msgid "Heals {value}% every {interval} seconds for {seconds} seconds."
-msgstr "Léčí {hodnotu}% každý {interval} sekund po dobu {sekund} sekund."
+msgstr "Léčí {value}% každou {interval} sekundu po dobu {seconds} sekund."
 
 #: game/gui:1442
 msgctxt "game/gui:1442:DefaultText"
@@ -5384,7 +5384,7 @@ msgstr "Zobrazení oznámení o aktualizaci úkolů v HUD."
 #: game/gui:1446
 msgctxt "game/gui:1446:DefaultText"
 msgid "Addiction Attributes {value}"
-msgstr "Atributy závislostí {value}"
+msgstr "Atributy závislosti {value}"
 
 #: game/gui:1447
 msgctxt "game/gui:1447:DefaultText"
@@ -5434,7 +5434,7 @@ msgstr "Odemkne se dovednost:"
 #: game/gui:1457
 msgctxt "game/gui:1457:DefaultText"
 msgid "Walk Speed {percent}"
-msgstr "Rychlost chůze {procenta}"
+msgstr "Rychlost chůze {percent}"
 
 #: game/gui:1458
 msgctxt "game/gui:1458:DefaultText"
@@ -5444,12 +5444,12 @@ msgstr "{value} NOVICE:"
 #: game/gui:1459
 msgctxt "game/gui:1459:DefaultText"
 msgid "{value} COMPETENT:"
-msgstr "{hodnota} COMPETENT:"
+msgstr "{value} KOMPETENTNÍ:"
 
 #: game/gui:1460
 msgctxt "game/gui:1460:DefaultText"
 msgid "{value} ADEPT:"
-msgstr "{hodnota} ADEPT:"
+msgstr "{value} ADEPT:"
 
 #: game/gui:1461
 msgctxt "game/gui:1461:DefaultText"
@@ -5529,7 +5529,7 @@ msgstr "Po úskoku způsobí váš další útok zblízka zvýšené poškození
 #: game/gui:1483
 msgctxt "game/gui:1483:DefaultText"
 msgid "Stun Formatted Description {duration}"
-msgstr "Omráčení Formátovaný popis {délka trvání}"
+msgstr "Omráčení Formátovaný popis {duration}"
 
 #: game/gui:1484
 msgctxt "game/gui:1484:DefaultText"
@@ -5549,7 +5549,7 @@ msgstr "Snížení ztráty odolnosti zbraně v důsledku blokování"
 #: game/gui:1487
 msgctxt "game/gui:1487:DefaultText"
 msgid "Melee Weapon Durability Loss {percent}"
-msgstr "Ztráta odolnosti zbraně pro boj zblízka {procento}"
+msgstr "Ztráta odolnosti zbraně pro boj zblízka {percent}"
 
 #: game/gui:1488
 msgctxt "game/gui:1488:DefaultText"
@@ -5559,7 +5559,7 @@ msgstr "Název bloku 30"
 #: game/gui:1489
 msgctxt "game/gui:1489:DefaultText"
 msgid "{ability}: Block just before you get hit to Stagger your attacker"
-msgstr "{schopnost}: Blokováním těsně před zásahem útočníka omráčíte."
+msgstr "{ability}: Blokováním těsně před zásahem útočníka omráčíte."
 
 #: game/gui:1490
 msgctxt "game/gui:1490:DefaultText"
@@ -5569,7 +5569,7 @@ msgstr "Dokonalé bloky krátkodobě zvyšují poškození, které útočník ob
 #: game/gui:1491
 msgctxt "game/gui:1491:DefaultText"
 msgid "Perfect Blocks weaken opponents, increasing the damage they take by {percent} for {duration}"
-msgstr "Dokonalé bloky oslabují protivníky a zvyšují jejich poškození o {procento} po dobu {trvání}."
+msgstr "Dokonalé bloky oslabují protivníky a zvyšují jejich poškození o {percent}. {duration}"
 
 #: game/gui:1492
 msgctxt "game/gui:1492:DefaultText"
@@ -5579,7 +5579,7 @@ msgstr "Zvyšuje rychlost chůze při blokování"
 #: game/gui:1493
 msgctxt "game/gui:1493:DefaultText"
 msgid "Walk Speed while Blocking {percent}"
-msgstr "Rychlost chůze při blokování {procenta}"
+msgstr "Rychlost chůze při blokování {percent}"
 
 #: game/gui:1494
 msgctxt "game/gui:1494:DefaultText"
@@ -5599,7 +5599,7 @@ msgstr "Zvýšení množství léčení, které společníci obdrží z inhalát
 #: game/gui:1497
 msgctxt "game/gui:1497:DefaultText"
 msgid "Companions get an additional {mpercent} of the Inhaler's healing effect"
-msgstr "Společníci získají další {procento} léčebného účinku inhalátoru."
+msgstr "Společníci získají navíc {mpercent} léčebného účinku inhalátoru."
 
 #: game/gui:1498
 msgctxt "game/gui:1498:DefaultText"
@@ -5629,7 +5629,7 @@ msgstr "Armor SE Formátovaný popis"
 #: game/gui:1503
 msgctxt "game/gui:1503:DefaultText"
 msgid "Companion Skill Bonus {percent}"
-msgstr "Bonus k dovednosti společníka {procento}"
+msgstr "Bonus k dovednosti společníka {percent}"
 
 #: game/gui:1504
 msgctxt "game/gui:1504:DefaultText"
@@ -5644,7 +5644,7 @@ msgstr "Kinematický štít Formátovaný popis"
 #: game/gui:1506
 msgctxt "game/gui:1506:DefaultText"
 msgid "Damage Received {percent}"
-msgstr "Obdržené poškození {procento}"
+msgstr "Přijaté škody {percent}"
 
 #: game/gui:1507
 msgctxt "game/gui:1507:DefaultText"
@@ -5659,7 +5659,7 @@ msgstr "Po úskoku se automaticky aktivuje TTD bez dalšího odběru pro pohyb/s
 #: game/gui:1509
 msgctxt "game/gui:1509:DefaultText"
 msgid "After Dodging, auto-activate TTD without additional drain for moving/shooting for {duration}"
-msgstr "Po úskoku se automaticky aktivuje TTD bez dalšího vyčerpání pro pohyb/střelbu po dobu {délky}."
+msgstr "Po úskoku se automaticky aktivuje TTD bez dalšího odběru pro pohyb/střelbu na {duration}"
 
 #: game/gui:1510
 msgctxt "game/gui:1510:DefaultText"
@@ -5679,7 +5679,7 @@ msgstr "Odemknutí možnosti, aby ruční zbraně při zásahu cíle během TTD 
 #: game/gui:1513
 msgctxt "game/gui:1513:DefaultText"
 msgid "Minimum Armor Penetration Damage +{mpercent}"
-msgstr "Minimální poškození průnikem pancíře +{procento}"
+msgstr "Minimální poškození při průniku pancířem +{mpercent}"
 
 #: game/gui:1514
 msgctxt "game/gui:1514:DefaultText"
@@ -5714,27 +5714,27 @@ msgstr "Zvýšení kritické šance proti cílům se škodlivými stavovými ú�
 #: game/gui:1522
 msgctxt "game/gui:1522:DefaultText"
 msgid "Debuffed Enemy Critical Chance +{mpercent}"
-msgstr "Šance na kritický útok na nepřítele +{procento}"
+msgstr "Zmenšená šance na kritický útok na nepřítele +{mpercent}"
 
 #: game/gui:1523
 msgctxt "game/gui:1523:DefaultText"
 msgid "Weapon Durability Loss from Blocking {percent}"
-msgstr "Ztráta odolnosti zbraně v důsledku blokování {procento}"
+msgstr "Ztráta odolnosti zbraně v důsledku blokování {percent}"
 
 #: game/gui:1524
 msgctxt "game/gui:1524:DefaultText"
 msgid "Companion Critical Damage {percent}"
-msgstr "Kritické poškození společníka {procento}"
+msgstr "Kritické poškození společníka {percent}"
 
 #: game/gui:1525
 msgctxt "game/gui:1525:DefaultText"
 msgid "The Inhaler heals you and your companions, but they get {mpercent} of the healing effect"
-msgstr "Inhalátor léčí tebe i tvé společníky, ale ti dostanou {procento} léčebného účinku."
+msgstr "Inhalátor léčí tebe i tvé společníky, ale ti dostanou {mpercent} léčebného účinku."
 
 #: game/gui:1526
 msgctxt "game/gui:1526:DefaultText"
 msgid "After Dodging, your next Melee Attack gains Damage {percent}"
-msgstr "Po úskoku získá váš další útok zblízka poškození {procenta}."
+msgstr "Po úskoku získá váš další útok zblízka poškození. {percent}"
 
 #: game/gui:1527
 msgctxt "game/gui:1527:DefaultText"
@@ -5744,12 +5744,12 @@ msgstr "Dodge Force"
 #: game/gui:1528
 msgctxt "game/gui:1528:DefaultText"
 msgid "Time in/out of aiming down sights {percent}"
-msgstr "Čas v/na mířidla dolů {procenta}"
+msgstr "Čas v/na mířidlech dolů {percent}"
 
 #: game/gui:1529
 msgctxt "game/gui:1529:DefaultText"
 msgid "Minimum {mpercent} damage penetrates Armor"
-msgstr "Minimální {procento} poškození pronikne brněním"
+msgstr "Minimální poškození {mpercent} proniká pancířem"
 
 #: game/gui:1530
 msgctxt "game/gui:1530:DefaultText"
@@ -5794,7 +5794,7 @@ msgstr "Po úskoku získáte na krátkou dobu bonus k brnění."
 #: game/gui:1538
 msgctxt "game/gui:1538:DefaultText"
 msgid "{damage_types} for {duration} after every Dodge"
-msgstr "{typy poškození} po dobu {trvání} po každém dodge"
+msgstr "{damage_types} pro {duration} po každém Dodge"
 
 #: game/gui:1539
 msgctxt "game/gui:1539:DefaultText"
@@ -5824,7 +5824,7 @@ msgstr "Kritické zásahy těžkých zbraní krátkodobě zvyšují jejich rychl
 #: game/gui:1544
 msgctxt "game/gui:1544:DefaultText"
 msgid "Critical Hits increase Rate of Fire {percent} for {duration}"
-msgstr "Kritické zásahy zvyšují rychlost střelby o {procenta} po dobu {trvání}"
+msgstr "Kritické zásahy zvyšují rychlost střelby {percent} pro {duration}"
 
 #: game/gui:1545
 msgctxt "game/gui:1545:DefaultText"
@@ -5839,7 +5839,7 @@ msgstr "Zkrácení doby nabíjení těžkých zbraní"
 #: game/gui:1547
 msgctxt "game/gui:1547:DefaultText"
 msgid "Heavy Weapons Reload Time {percent}"
-msgstr "Doba nabíjení těžkých zbraní {procento}"
+msgstr "Doba nabíjení těžkých zbraní {percent}"
 
 #: game/gui:1548
 msgctxt "game/gui:1548:DefaultText"
@@ -5854,12 +5854,12 @@ msgstr "Bonus ke zbroji pro společníky"
 #: game/gui:1550
 msgctxt "game/gui:1550:DefaultText"
 msgid "Companions gain {damage_types}"
-msgstr "Společníci získávají {typy_škod}"
+msgstr "Společníci získávají {damage_types}"
 
 #: game/gui:1551
 msgctxt "game/gui:1551:DefaultText"
 msgid "{ability}: You can order Companions to do special attacks"
-msgstr "{schopnost}: Můžete nařídit společníkům, aby provedli speciální útoky."
+msgstr "{ability}: Společníkům můžete nařídit speciální útoky."
 
 #: game/gui:1552
 msgctxt "game/gui:1552:DefaultText"
@@ -5869,7 +5869,7 @@ msgstr "Zvýšení bonusu, který dovednosti společníků poskytují k ověřen
 #: game/gui:1553
 msgctxt "game/gui:1553:DefaultText"
 msgid "Companion Skill Bonus to Player Skills {percent}"
-msgstr "Bonus ke schopnosti společníka k dovednostem hráče {procento}"
+msgstr "Bonus ke schopnosti společníka k dovednostem hráče {percent}"
 
 #: game/gui:1554
 msgctxt "game/gui:1554:DefaultText"
@@ -5884,12 +5884,12 @@ msgstr "Když společník zabije nepřítele, získá celá skupina na krátkou 
 #: game/gui:1556
 msgctxt "game/gui:1556:DefaultText"
 msgid "When Companions kill an enemy, the party gains Critical Hit Chance {percent} for {duration}"
-msgstr "Když společníci zabijí nepřítele, strana získá šanci na kritický zásah {procento} po dobu {trvání}."
+msgstr "Když společníci zabijí nepřítele, strana získá šanci na kritický zásah {percent} za. {duration}"
 
 #: game/gui:1557
 msgctxt "game/gui:1557:DefaultText"
 msgid "Terrifying a Creature gives {duration} Crit Chance +{mpercent} and "
-msgstr "Zděšení bytosti dává {délku trvání} Šanci na kritiku +{procento} a "
+msgstr "Vyděšení bytosti dává {duration} šanci na kritiku +{mpercent} a "
 
 #: game/gui:1558
 msgctxt "game/gui:1558:DefaultText"
@@ -5929,12 +5929,12 @@ msgstr "Odemkněte 2. slot pro míchání léků pro inhalátor"
 #: game/gui:1565
 msgctxt "game/gui:1565:DefaultText"
 msgid "Unlock the {ability}"
-msgstr "Odemkněte {schopnost}"
+msgstr "Odemkněte {ability}"
 
 #: game/gui:1566
 msgctxt "game/gui:1566:DefaultText"
 msgid "Hostile Effect Duration on Targets {percent}"
-msgstr "Doba trvání nepřátelského efektu na cíle {procento}"
+msgstr "Doba trvání nepřátelského efektu na cíle {percent}"
 
 #: game/gui:1567
 msgctxt "game/gui:1567:DefaultText"
@@ -5949,7 +5949,7 @@ msgstr "Získejte bonus k poškození při útoku na člověka."
 #: game/gui:1569
 msgctxt "game/gui:1569:DefaultText"
 msgid "Damage Bonus vs Humans {percent}"
-msgstr "Bonus k poškození proti lidem {procento}"
+msgstr "Bonus k poškození proti lidem {percent}"
 
 #: game/gui:1570
 msgctxt "game/gui:1570:DefaultText"
@@ -5959,7 +5959,7 @@ msgstr "Odemkněte 4. slot pro míchání léků v inhalátoru"
 #: game/gui:1571
 msgctxt "game/gui:1571:DefaultText"
 msgid "Unlock the {ability}"
-msgstr "Odemkněte {schopnost}"
+msgstr "Odemkněte {ability}"
 
 #: game/gui:1572
 msgctxt "game/gui:1572:DefaultText"
@@ -5989,7 +5989,7 @@ msgstr "Zvýšení poškození způsobeného slabým místům při použití dlo
 #: game/gui:1577
 msgctxt "game/gui:1577:DefaultText"
 msgid "Long Guns Headshot / Weakspot Damage {percent}"
-msgstr "Dlouhé zbraně Poškození hlavou / Weakspot {procento}"
+msgstr "Dlouhé zbraně Poškození headshotem / Weakspotem {percent}"
 
 #: game/gui:1578
 msgctxt "game/gui:1578:DefaultText"
@@ -6004,12 +6004,12 @@ msgstr "Zabití nepřítele dlouhými zbraněmi na krátkou dobu eliminuje váš
 #: game/gui:1580
 msgctxt "game/gui:1580:DefaultText"
 msgid "No Weapon Sway for {duration} after each kill"
-msgstr "Po každém zabití se zbraň po dobu {délky} nepohybuje."
+msgstr "Žádné kývání zbraní pro {duration} po každém zabití"
 
 #: game/gui:1581
 msgctxt "game/gui:1581:DefaultText"
 msgid "{ability}"
-msgstr "{schopnost}"
+msgstr "{ability}"
 
 #: game/gui:1582
 msgctxt "game/gui:1582:DefaultText"
@@ -6019,7 +6019,7 @@ msgstr "Odemknutí útoků Power a Sweep"
 #: game/gui:1583
 msgctxt "game/gui:1583:DefaultText"
 msgid "Unlock {ability} for 1-Handed Melee weapons"
-msgstr "Odemknout {schopnost} pro jednoruční zbraně pro boj zblízka"
+msgstr "Odemknutí stránky {ability} pro jednoruční zbraně pro boj zblízka"
 
 #: game/gui:1584
 msgctxt "game/gui:1584:DefaultText"
@@ -6034,7 +6034,7 @@ msgstr "Zvyšuje dosah jednoručních zbraní pro boj zblízka."
 #: game/gui:1586
 msgctxt "game/gui:1586:DefaultText"
 msgid "1-Handed Melee Weapon Reach {percent}"
-msgstr "Dosah jednoruční zbraně pro boj zblízka {procento}"
+msgstr "Dosah jednoruční zbraně pro boj zblízka {percent}"
 
 #: game/gui:1587
 msgctxt "game/gui:1587:DefaultText"
@@ -6044,7 +6044,7 @@ msgstr "Snižuje úbytek TTD Metru způsobený útokem jednoručními zbraněmi 
 #: game/gui:1588
 msgctxt "game/gui:1588:DefaultText"
 msgid "1-Handed Melee Weapon TTD Drain {percent}"
-msgstr "Jednoruční zbraň pro boj zblízka TTD Drain {procento}"
+msgstr "Jednoruční zbraň pro boj zblízka TTD Drain {percent}"
 
 #: game/gui:1589
 msgctxt "game/gui:1589:DefaultText"
@@ -6054,7 +6054,7 @@ msgstr "Silné a švihové útoky jednoručními zbraněmi pro boj zblízka moho
 #: game/gui:1590
 msgctxt "game/gui:1590:DefaultText"
 msgid "Tinkering Cost {percent}"
-msgstr "Náklady na vylepšování {procento}"
+msgstr "Náklady na drobné úpravy {percent}"
 
 #: game/gui:1591
 msgctxt "game/gui:1591:DefaultText"
@@ -6064,24 +6064,24 @@ msgstr "Během krčení se výrazně sníží zbroj nepřítele."
 #: game/gui:1592
 msgctxt "game/gui:1592:DefaultText"
 msgid "Further Reduce Tinkering Cost to {percent}"
-msgstr "Další snížení nákladů na drobné úpravy na {procento}"
+msgstr "Další snížení nákladů na úpravy na {percent}"
 
 #: game/gui:1593
 msgctxt "game/gui:1593:DefaultText"
 msgid "Unlock the ability to {ability}.\n"
 "\n"
 "To perform a {ability}, you must be Crouching and the target must be unaware of you. A {ability} deals bonus damage."
-msgstr "Odemkněte schopnost {schopnost}. Chcete-li provést {schopnost}, musíte se krčit a cíl o vás nesmí vědět. {schopnost} způsobuje bonusové poškození."
+msgstr "Odemkněte si schopnost {ability}. Chcete-li provést {ability}, musíte se krčit a cíl o vás nesmí vědět. U {ability} způsobuje bonusové poškození."
 
 #: game/gui:1594
 msgctxt "game/gui:1594:DefaultText"
 msgid "{ability}: Steal from humans while sneaking"
-msgstr "{schopnost}: Krást lidem při plížení"
+msgstr "{ability}: Krást lidem při plížení"
 
 #: game/gui:1595
 msgctxt "game/gui:1595:DefaultText"
 msgid "Unlock the {ability} ability"
-msgstr "Odemknout schopnost {schopnost}"
+msgstr "Odemkněte schopnost {ability}"
 
 #: game/gui:1596
 msgctxt "game/gui:1596:DefaultText"
@@ -6096,7 +6096,7 @@ msgstr "Zvýšení rychlosti pohybu ve skrčené poloze"
 #: game/gui:1598
 msgctxt "game/gui:1598:DefaultText"
 msgid "Crouch Move Speed {percent}"
-msgstr "Rychlost pohybu v přikrčení {procenta}"
+msgstr "Rychlost pohybu v přikrčení {percent}"
 
 #: game/gui:1599
 msgctxt "game/gui:1599:DefaultText"
@@ -6111,7 +6111,7 @@ msgstr "Plíživé útoky ignorují část zbroje cíle."
 #: game/gui:1601
 msgctxt "game/gui:1601:DefaultText"
 msgid "Sneak Attacks ignore {percent} of the target's Armor"
-msgstr "Plíživé útoky ignorují {procento} zbroje cíle."
+msgstr "Plíživé útoky ignorují {percent} brnění cíle."
 
 #: game/gui:1602
 msgctxt "game/gui:1602:DefaultText"
@@ -6126,7 +6126,7 @@ msgstr "Když je společník sestřelen, získá strana na krátkou dobu bonusy 
 #: game/gui:1604
 msgctxt "game/gui:1604:DefaultText"
 msgid "If a Companion is downed, party gains {damage_types} and"
-msgstr "Pokud je společník sestřelen, strana získá {typy poškození} a"
+msgstr "Pokud je společník sestřelen, strana získává {damage_types} a"
 
 #: game/gui:1605
 msgctxt "game/gui:1605:DefaultText"
@@ -6186,12 +6186,12 @@ msgstr "Vyzvednutí regulátoru napájení"
 #: game/gui:1616
 msgctxt "game/gui:1616:DefaultText"
 msgid "{faction_name} Reputation Increased"
-msgstr "{faction_name} Reputace zvýšena"
+msgstr "{faction_name} Zvýšení reputace"
 
 #: game/gui:1617
 msgctxt "game/gui:1617:DefaultText"
 msgid "{faction_name} Positive Reputation Decreased"
-msgstr "{faction_name} Pozitivní reputace snížena"
+msgstr "{faction_name} Snížení pozitivní reputace"
 
 #: game/gui:1618
 msgctxt "game/gui:1618:DefaultText"
@@ -6206,27 +6206,27 @@ msgstr "Adrena-Time Crash"
 #: game/gui:1620
 msgctxt "game/gui:1620:DefaultText"
 msgid "{faction_name} Reputation Decreased"
-msgstr "{faction_name} Reputace snížena"
+msgstr "{faction_name} Snížení reputace"
 
 #: game/gui:1621
 msgctxt "game/gui:1621:DefaultText"
 msgid "{faction_name} Negative Reputation Decreased"
-msgstr "{faction_name} Negativní reputace snížena"
+msgstr "{faction_name} Snížení negativní reputace"
 
 #: game/gui:1623
 msgctxt "game/gui:1623:DefaultText"
 msgid "{faction_name} are now {reputation}."
-msgstr "{název_frakce} jsou nyní {reputace}."
+msgstr "{faction_name} jsou nyní {reputation}."
 
 #: game/gui:1624
 msgctxt "game/gui:1624:DefaultText"
 msgid "{companion_name}'s Morale Increased"
-msgstr "Morálka {jméno_společníka} se zvýšila"
+msgstr "{companion_name}Zvýšená morálka"
 
 #: game/gui:1625
 msgctxt "game/gui:1625:DefaultText"
 msgid "{companion_name}'s Morale Decreased"
-msgstr "Morálka {jméno_společníka} se snížila"
+msgstr "{companion_name}Morálka se snížila"
 
 #: game/gui:1626
 msgctxt "game/gui:1626:DefaultText"
@@ -6236,12 +6236,12 @@ msgstr "Procházka"
 #: game/gui:1627
 msgctxt "game/gui:1627:DefaultText"
 msgid "{companion_name} has joined the party."
-msgstr "{jméno_společníka} se připojilo ke straně."
+msgstr "{companion_name} se připojil k této straně."
 
 #: game/gui:1628
 msgctxt "game/gui:1628:DefaultText"
 msgid "{companion_name} has left the party."
-msgstr "{jméno_společníka} opustilo stranu."
+msgstr "{companion_name} opustil stranu."
 
 #: game/gui:1629
 msgctxt "game/gui:1629:DefaultText"
@@ -6256,37 +6256,37 @@ msgstr "Práh poškození a DoT"
 #: game/gui:1631
 msgctxt "game/gui:1631:DefaultText"
 msgid "Enemy Killed. +{value}XP"
-msgstr "Zabitý nepřítel. +{hodnota}XP"
+msgstr "Zabitý nepřítel. +{value}XP"
 
 #: game/gui:1632
 msgctxt "game/gui:1632:DefaultText"
 msgid "{poi_name} Discovered +{value}XP"
-msgstr "{poi_name} Objeveno +{value}XP"
+msgstr "{poi_name} Objevil +{value}XP"
 
 #: game/gui:1633
 msgctxt "game/gui:1633:DefaultText"
 msgid "{skill_name} used. +{value}XP"
-msgstr "{skill_name} used. +{hodnota}XP"
+msgstr "{skill_name} použity. +{value}XP"
 
 #: game/gui:1634
 msgctxt "game/gui:1634:DefaultText"
 msgid "{collectible} found. +{value}XP"
-msgstr "{collectible} nalezeno. +{hodnota}XP"
+msgstr "{collectible} nalezeno. +{value}XP"
 
 #: game/gui:1635
 msgctxt "game/gui:1635:DefaultText"
 msgid "+{value}XP"
-msgstr "+{hodnota}XP"
+msgstr "+{value}XP"
 
 #: game/gui:1636
 msgctxt "game/gui:1636:DefaultText"
 msgid "Sleep for {value} hours"
-msgstr "Spánek po dobu {hodnota} hodin"
+msgstr "Spánek po dobu {value} hodin"
 
 #: game/gui:1637
 msgctxt "game/gui:1637:DefaultText"
 msgid "Wait for {value} hours"
-msgstr "Počkejte {hodnota} hodin"
+msgstr "Počkejte na {value} hodin"
 
 #: game/gui:1638
 msgctxt "game/gui:1638:DefaultText"
@@ -6336,12 +6336,12 @@ msgstr "Značky cíle v HUD a na kompasu vám pomohou navigovat k aktuálnímu c
 #: game/gui:1647
 msgctxt "game/gui:1647:DefaultText"
 msgid "You have gained: {item_name}."
-msgstr "Získali jste: {název_předmětu}."
+msgstr "Získali jste: {item_name}."
 
 #: game/gui:1648
 msgctxt "game/gui:1648:DefaultText"
 msgid "You have lost: {item_name}."
-msgstr "Ztratili jste: {název_předmětu}."
+msgstr "Prohráli jste: {item_name}."
 
 #: game/gui:1649
 msgctxt "game/gui:1649:DefaultText"
@@ -6390,7 +6390,7 @@ msgstr "Zvýšení počtu bitů nalezených v kontejnerech"
 #: game/gui:1657
 msgctxt "game/gui:1657:DefaultText"
 msgid "Find {percent} more Bits in containers"
-msgstr "Najít {procento} více bitů v kontejnerech"
+msgstr "Najděte si na {percent} další bity v kontejnerech"
 
 #: game/gui:1658
 msgctxt "game/gui:1658:DefaultText"
@@ -6420,12 +6420,12 @@ msgstr "Rychlost lockpickingu je zvýšena na téměř okamžitou."
 #: game/gui:1663
 msgctxt "game/gui:1663:DefaultText"
 msgid "Lockpick Max Distance {distance}"
-msgstr "Maximální vzdálenost Lockpick {vzdálenost}"
+msgstr "Maximální vzdálenost Lockpick {distance}"
 
 #: game/gui:1664
 msgctxt "game/gui:1664:DefaultText"
 msgid "Damage {percent} for {duration}"
-msgstr "Poškození {procento} po dobu {trvání}"
+msgstr "Poškození {percent} pro {duration}"
 
 #: game/gui:1665
 msgctxt "game/gui:1665:DefaultText"
@@ -6750,232 +6750,232 @@ msgstr "Když je tento společník během boje zraněn, vyléčí si část zdra
 #: game/gui:1729
 msgctxt "game/gui:1729:DefaultText"
 msgid "Tactical Time Dilation Meter Max {percent}"
-msgstr "Taktický měřič časové dilatace Max {procenta}"
+msgstr "Taktický měřič časové dilatace Max {percent}"
 
 #: game/gui:1730
 msgctxt "game/gui:1730:DefaultText"
 msgid "Minimum 1-Handed Melee Damage Dealt {mpercent}"
-msgstr "Minimální způsobené poškození při boji zblízka jednou rukou {procento}"
+msgstr "Minimální způsobené poškození při boji zblízka jednou rukou {mpercent}"
 
 #: game/gui:1731
 msgctxt "game/gui:1731:DefaultText"
 msgid "Movement Penalty to Accuracy {percent}"
-msgstr "Trest za pohyb k přesnosti {procento}"
+msgstr "Trest za pohyb k přesnosti {percent}"
 
 #: game/gui:1732
 msgctxt "game/gui:1732:DefaultText"
 msgid "TTD Restored per Kill +{mpercent}"
-msgstr "Obnovené TTD na zabití +{procento}"
+msgstr "Obnovené TTD za zabití +{mpercent}"
 
 #: game/gui:1733
 msgctxt "game/gui:1733:DefaultText"
 msgid "Minimum 2-Handed Melee Damage Dealt {mpercent}"
-msgstr "Minimální způsobené poškození při boji zblízka dvěma rukama {procento}"
+msgstr "Minimální způsobené poškození při boji zblízka dvěma rukama {mpercent}"
 
 #: game/gui:1734
 msgctxt "game/gui:1734:DefaultText"
 msgid "Corrosion Damage {percent}"
-msgstr "Poškození korozí {procento}"
+msgstr "Poškození korozí {percent}"
 
 #: game/gui:1735
 msgctxt "game/gui:1735:DefaultText"
 msgid "Plasma Damage {percent}"
-msgstr "Poškození plazmou {procento}"
+msgstr "Poškození plazmou {percent}"
 
 #: game/gui:1736
 msgctxt "game/gui:1736:DefaultText"
 msgid "N-ray Damage {percent}"
-msgstr "Poškození N-zářením {procento}"
+msgstr "Poškození N-zářením {percent}"
 
 #: game/gui:1737
 msgctxt "game/gui:1737:DefaultText"
 msgid "Shock Damage {percent}"
-msgstr "Šokové poškození {procento}"
+msgstr "Poškození nárazem {percent}"
 
 #: game/gui:1738
 msgctxt "game/gui:1738:DefaultText"
 msgid "Thermal Damage {percent}"
-msgstr "Tepelné poškození {procento}"
+msgstr "Tepelné poškození {percent}"
 
 #: game/gui:1739
 msgctxt "game/gui:1739:DefaultText"
 msgid "Ranged Weapon Sway {percent}"
-msgstr "Kolísání zbraně na dálku {procento}"
+msgstr "Kolísání zbraně na dálku {percent}"
 
 #: game/gui:1740
 msgctxt "game/gui:1740:DefaultText"
 msgid "Handgun Sway {percent}"
-msgstr "Výkyv ruční zbraně {procento}"
+msgstr "Výkyv ruční zbraně {percent}"
 
 #: game/gui:1741
 msgctxt "game/gui:1741:DefaultText"
 msgid "Long Gun Sway {percent}"
-msgstr "Dlouhý výkyv zbraně {procento}"
+msgstr "Dlouhý výkyv zbraně {percent}"
 
 #: game/gui:1742
 msgctxt "game/gui:1742:DefaultText"
 msgid "Heavy Weapon Sway {percent}"
-msgstr "Kolísání těžké zbraně {procento}"
+msgstr "Kolísání těžké zbraně {percent}"
 
 #: game/gui:1743
 msgctxt "game/gui:1743:DefaultText"
 msgid "TTD Drain Rate for Movement {percent}"
-msgstr "Míra odčerpání TTD pro pohyb {procenta}"
+msgstr "Rychlost vypouštění TTD pro pohyb {percent}"
 
 #: game/gui:1744
 msgctxt "game/gui:1744:DefaultText"
 msgid "TTD Drain Rate for Actions {percent}"
-msgstr "Míra čerpání TTD pro akce {procenta}"
+msgstr "Míra čerpání TTD pro akce {percent}"
 
 #: game/gui:1745
 msgctxt "game/gui:1745:DefaultText"
 msgid "Handgun Crit Chance {percent}"
-msgstr "Kritická šance ruční zbraně {procento}"
+msgstr "Kritická šance ruční zbraně {percent}"
 
 #: game/gui:1746
 msgctxt "game/gui:1746:DefaultText"
 msgid "Long Gun Crit Chance {percent}"
-msgstr "Šance na kritický bod u dlouhých zbraní {procento}"
+msgstr "Kritická šance na dlouhou zbraň {percent}"
 
 #: game/gui:1747
 msgctxt "game/gui:1747:DefaultText"
 msgid "Heavy Weapon Crit Chance {percent}"
-msgstr "Kritická šance těžkých zbraní {procento}"
+msgstr "Kritická šance těžkých zbraní {percent}"
 
 #: game/gui:1748
 msgctxt "game/gui:1748:DefaultText"
 msgid "Melee Weapon Crit Chance {percent}"
-msgstr "Kritická šance zbraně pro boj zblízka {procento}"
+msgstr "Kritická šance zbraně pro boj zblízka {percent}"
 
 #: game/gui:1749
 msgctxt "game/gui:1749:DefaultText"
 msgid "1-Handed Melee Crit Chance {percent}"
-msgstr "Šance na kritický bod při boji zblízka s 1 rukou {procento}"
+msgstr "Šance na kritický bod při boji zblízka s 1 rukou {percent}"
 
 #: game/gui:1750
 msgctxt "game/gui:1750:DefaultText"
 msgid "2-Handed Melee Crit Chance {percent}"
-msgstr "Šance na kritický bod při boji zblízka s 2 rukama {procento}"
+msgstr "Šance na kritický bod při boji zblízka s 2 rukama {percent}"
 
 #: game/gui:1751
 msgctxt "game/gui:1751:DefaultText"
 msgid "Sneak Attack Damage {percent}"
-msgstr "Poškození při plíživém útoku {procento}"
+msgstr "Poškození při plíživém útoku {percent}"
 
 #: game/gui:1752
 msgctxt "game/gui:1752:DefaultText"
 msgid "Sprint Speed {percent}"
-msgstr "Rychlost sprintu {procenta}"
+msgstr "Rychlost sprintu {percent}"
 
 #: game/gui:1753
 msgctxt "game/gui:1753:DefaultText"
 msgid "Crouch Speed {percent}"
-msgstr "Rychlost přikrčení {procento}"
+msgstr "Rychlost Crouch {percent}"
 
 #: game/gui:1754
 msgctxt "game/gui:1754:DefaultText"
 msgid "Movement Speed {percent}"
-msgstr "Rychlost pohybu {procenta}"
+msgstr "Rychlost pohybu {percent}"
 
 #: game/gui:1755
 msgctxt "game/gui:1755:DefaultText"
 msgid "Carrying Capacity {value}kg"
-msgstr "Nosnost {hodnota}kg"
+msgstr "Nosnost {value}kg"
 
 #: game/gui:1756
 msgctxt "game/gui:1756:DefaultText"
 msgid "Interactable Highlight Range {distance}"
-msgstr "Interagovatelný rozsah zvýraznění {vzdálenost}"
+msgstr "Interaktivní rozsah zvýraznění {distance}"
 
 #: game/gui:1757
 msgctxt "game/gui:1757:DefaultText"
 msgid "Science Weapon Skill Requirement {value}"
-msgstr "Požadavek na dovednost vědecké zbraně {hodnota}"
+msgstr "Požadavek na dovednost vědecké zbraně {value}"
 
 #: game/gui:1758
 msgctxt "game/gui:1758:DefaultText"
 msgid "All Skills {value}"
-msgstr "Všechny dovednosti {hodnota}"
+msgstr "Všechny dovednosti {value}"
 
 #: game/gui:1759
 msgctxt "game/gui:1759:DefaultText"
 msgid "Defensive Skills {percent} for {duration}"
-msgstr "Obranné dovednosti {procento} za {trvání}"
+msgstr "Obranné dovednosti {percent} pro {duration}"
 
 #: game/gui:1760
 msgctxt "game/gui:1760:DefaultText"
 msgid "Melee Weapon Skills {value}"
-msgstr "Dovednosti zbraní pro boj zblízka {hodnota}"
+msgstr "Dovednosti zbraní pro boj zblízka {value}"
 
 #: game/gui:1761
 msgctxt "game/gui:1761:DefaultText"
 msgid "Offensive Skills {percent} for {duration}"
-msgstr "Útočné dovednosti {procento} po dobu {trvání}"
+msgstr "Útočné dovednosti {percent} pro {duration}"
 
 #: game/gui:1762
 msgctxt "game/gui:1762:DefaultText"
 msgid "Ranged Weapon Skills {value}"
-msgstr "Dovednosti ve střelných zbraních {hodnota}"
+msgstr "Dovednosti pro střelné zbraně {value}"
 
 #: game/gui:1763
 msgctxt "game/gui:1763:DefaultText"
 msgid "Stealth Skills {value}"
-msgstr "Skryté dovednosti {hodnota}"
+msgstr "Skryté dovednosti {value}"
 
 #: game/gui:1764
 msgctxt "game/gui:1764:DefaultText"
 msgid "Trap Detonation Time {percent}"
-msgstr "Doba detonace pasti {procento}"
+msgstr "Doba detonace pasti {percent}"
 
 #: game/gui:1765
 msgctxt "game/gui:1765:DefaultText"
 msgid "Vendor Prices {percent}"
-msgstr "Ceny prodejců {procenta}"
+msgstr "Ceny prodejců {percent}"
 
 #: game/gui:1766
 msgctxt "game/gui:1766:DefaultText"
 msgid "Vendor Buying Price {percent}"
-msgstr "Prodejce Nákupní cena {procento}"
+msgstr "Nákupní cena prodejce {percent}"
 
 #: game/gui:1767
 msgctxt "game/gui:1767:DefaultText"
 msgid "Max Companion Command Points {value}"
-msgstr "Maximální počet příkazových bodů společníka {hodnota}"
+msgstr "Maximální počet bodů příkazů společníka {value}"
 
 #: game/gui:1768
 msgctxt "game/gui:1768:DefaultText"
 msgid "Attack Rate {percent}"
-msgstr "Míra napadení {procento}"
+msgstr "Rychlost útoku {percent}"
 
 #: game/gui:1769
 msgctxt "game/gui:1769:DefaultText"
 msgid "Dialog Combat Skill Target Radius {distance}"
-msgstr "Dialog Bojová dovednost Poloměr cíle {vzdálenost}"
+msgstr "Dialog Bojová dovednost Cílový rádius {distance}"
 
 #: game/gui:1770
 msgctxt "game/gui:1770:DefaultText"
 msgid "Terrify's Area of Effect {percent}"
-msgstr "Oblast účinku Terrify {procento}"
+msgstr "Oblast účinku funkce Terrify {percent}"
 
 #: game/gui:1771
 msgctxt "game/gui:1771:DefaultText"
 msgid "Scrambled Automechanical Weakspot Damage {percent}"
-msgstr "Poškození automechanického slabého místa {procento}"
+msgstr "Poškození automechanických slabých míst (Scrambled Automechanical Weakspot Damage) {percent}"
 
 #: game/gui:1772
 msgctxt "game/gui:1772:DefaultText"
 msgid "Cowered Target's Armor {percent}"
-msgstr "Cowered Target's Armor {procento}"
+msgstr "Zbroj zbabělého cíle {percent}"
 
 #: game/gui:1773
 msgctxt "game/gui:1773:DefaultText"
 msgid "{value} Chance to Extract Mods"
-msgstr "{hodnota} Šance na extrakci modů"
+msgstr "{value} Šance na extrakci modů"
 
 #: game/gui:1774
 msgctxt "game/gui:1774:DefaultText"
 msgid "Max Power Level {value}"
-msgstr "Maximální úroveň výkonu {hodnota}"
+msgstr "Maximální úroveň výkonu {value}"
 
 #: game/gui:1775
 msgctxt "game/gui:1775:DefaultText"
@@ -6985,12 +6985,12 @@ msgstr "Sneak {value}"
 #: game/gui:1776
 msgctxt "game/gui:1776:DefaultText"
 msgid "Ranged Damage {percent}"
-msgstr "Poškození na dálku {procento}"
+msgstr "Poškození na dálku {percent}"
 
 #: game/gui:1777
 msgctxt "game/gui:1777:DefaultText"
 msgid "Companion Ability Damage {percent}"
-msgstr "Poškození schopnosti společníka {procento}"
+msgstr "Poškození schopnosti společníka {percent}"
 
 #: game/gui:1778
 msgctxt "game/gui:1778:DefaultText"
@@ -7005,37 +7005,37 @@ msgstr "Atributy těla {value}"
 #: game/gui:1780
 msgctxt "game/gui:1780:DefaultText"
 msgid "Mind Attributes {value}"
-msgstr "Atributy mysli {hodnota}"
+msgstr "Atributy mysli {value}"
 
 #: game/gui:1781
 msgctxt "game/gui:1781:DefaultText"
 msgid "Personality Attributes {value}"
-msgstr "Atributy osobnosti {hodnota}"
+msgstr "Atributy osobnosti {value}"
 
 #: game/gui:1782
 msgctxt "game/gui:1782:DefaultText"
 msgid "Power Attributes {value}"
-msgstr "Atributy výkonu {hodnota}"
+msgstr "Atributy výkonu {value}"
 
 #: game/gui:1783
 msgctxt "game/gui:1783:DefaultText"
 msgid "Speed Attributes {value}"
-msgstr "Atributy rychlosti {hodnota}"
+msgstr "Atributy rychlosti {value}"
 
 #: game/gui:1784
 msgctxt "game/gui:1784:DefaultText"
 msgid "Resistance Attributes {value}"
-msgstr "Odolnost Atributy {hodnota}"
+msgstr "Atributy odolnosti {value}"
 
 #: game/gui:1785
 msgctxt "game/gui:1785:DefaultText"
 msgid "Companion Ability Cooldown Time {percent}"
-msgstr "Doba vychladnutí schopnosti společníka {procento}"
+msgstr "Doba vychladnutí schopnosti společníka {percent}"
 
 #: game/gui:1786
 msgctxt "game/gui:1786:DefaultText"
 msgid "Unlock the {ability} ability"
-msgstr "Odemknout schopnost {schopnost}"
+msgstr "Odemkněte schopnost {ability}"
 
 #: game/gui:1787
 msgctxt "game/gui:1787:DefaultText"
@@ -7045,12 +7045,12 @@ msgstr "Odemknout možnost číst REDAKTOVANÉ informace"
 #: game/gui:1788
 msgctxt "game/gui:1788:DefaultText"
 msgid "Hack Automechanical Distance {distance} (5m)"
-msgstr "Hack Automechanická vzdálenost {vzdálenost} (5m)"
+msgstr "Hack Automechanical Distance {distance} (5m)"
 
 #: game/gui:1789
 msgctxt "game/gui:1789:DefaultText"
 msgid "{ability}: Improve your weapons and armor in the Workbench"
-msgstr "{schopnost}: Vylepšete své zbraně a zbroj v dílně."
+msgstr "{ability}: Vylepšete své zbraně a brnění v dílně"
 
 #: game/gui:1790
 msgctxt "game/gui:1790:DefaultText"
@@ -7065,47 +7065,47 @@ msgstr "Další snížení nákladů na vylepšení zbraně nebo zbroje."
 #: game/gui:1792
 msgctxt "game/gui:1792:DefaultText"
 msgid "Break Down weapons and armor for a {mpercent} Chance to extract a Basic Mod"
-msgstr "Rozložení zbraní a zbroje za {procento} šanci získat základní modifikaci"
+msgstr "Rozbití zbraní a brnění pro získání základního modulu na {mpercent}."
 
 #: game/gui:1793
 msgctxt "game/gui:1793:DefaultText"
 msgid "Break Down weapons and armor for a {mpercent} Chance to extract a Rare Mod"
-msgstr "Rozložení zbraní a zbroje za {procento} šanci získat vzácný mod"
+msgstr "Rozbijte zbraně a brnění a získejte šanci na získání vzácného modulu na {mpercent}."
 
 #: game/gui:1794
 msgctxt "game/gui:1794:DefaultText"
 msgid "Cower Duration {value}s"
-msgstr "Cower Doba trvání {hodnota}s"
+msgstr "Cower Doba trvání {value}s"
 
 #: game/gui:1795
 msgctxt "game/gui:1795:DefaultText"
 msgid "Human Cower Chance +{mpercent}"
-msgstr "Šance na lidský úlek +{procento}"
+msgstr "Šance na lidský útěk +{mpercent}"
 
 #: game/gui:1796
 msgctxt "game/gui:1796:DefaultText"
 msgid "Scramble Duration {value}s"
-msgstr "Scramble Doba trvání {hodnota}s"
+msgstr "Scramble Doba trvání {value}s"
 
 #: game/gui:1797
 msgctxt "game/gui:1797:DefaultText"
 msgid "Automechanical Scramble Chance +{mpercent}"
-msgstr "Šance na automechanickou šarvátku +{procento}"
+msgstr "Automechanická šarvátka Chance +{mpercent}"
 
 #: game/gui:1798
 msgctxt "game/gui:1798:DefaultText"
 msgid "Terrified Creature Movement Speed {percent}"
-msgstr "Rychlost pohybu vyděšené bytosti {procento}"
+msgstr "Rychlost pohybu vyděšeného tvora {percent}"
 
 #: game/gui:1799
 msgctxt "game/gui:1799:DefaultText"
 msgid "Creature Terrify Chance +{mpercent}"
-msgstr "Šance na vyděšení bytosti +{procento}"
+msgstr "Příšera Terrify Chance +{mpercent}"
 
 #: game/gui:1800
 msgctxt "game/gui:1800:DefaultText"
 msgid "Dodge Distance {percent}"
-msgstr "Vzdálenost dodge {procenta}"
+msgstr "Vzdálenost Dodge {percent}"
 
 #: game/gui:1801
 msgctxt "game/gui:1801:DefaultText"
@@ -7115,42 +7115,42 @@ msgstr "{seconds}s"
 #: game/gui:1802
 msgctxt "game/gui:1802:DefaultText"
 msgid "{minutes}m {seconds}s"
-msgstr "{minuty}m {sekundy}s"
+msgstr "{minutes}m {seconds}s"
 
 #: game/gui:1803
 msgctxt "game/gui:1803:DefaultText"
 msgid "{minutes}m"
-msgstr "{minuty}m"
+msgstr "{minutes}m"
 
 #: game/gui:1804
 msgctxt "game/gui:1804:DefaultText"
 msgid "{hours}h"
-msgstr "{hodin}h"
+msgstr "{hours}h"
 
 #: game/gui:1805
 msgctxt "game/gui:1805:DefaultText"
 msgid "{hours}h {minutes}m"
-msgstr "{hodin}h {minut}m"
+msgstr "{hours}h {minutes}m"
 
 #: game/gui:1806
 msgctxt "game/gui:1806:DefaultText"
 msgid "Incoming Crit to Hit Chance {mpercent}"
-msgstr "Šance na zásah při příchozím kritickém zásahu {procento}"
+msgstr "Příchozí kritický zásah na šanci na zásah {mpercent}"
 
 #: game/gui:1807
 msgctxt "game/gui:1807:DefaultText"
 msgid "Movement Speed during TTD +{mpercent}"
-msgstr "Rychlost pohybu během TTD +{procento}"
+msgstr "Rychlost pohybu během TTD +{mpercent}"
 
 #: game/gui:1808
 msgctxt "game/gui:1808:DefaultText"
 msgid "Poison Damage {percent}"
-msgstr "Poškození jedem {procento}"
+msgstr "Poškození jedem {percent}"
 
 #: game/gui:1809
 msgctxt "game/gui:1809:DefaultText"
 msgid "Threat Generated {percent}"
-msgstr "Vytvořená hrozba {procento}"
+msgstr "Vytvořená hrozba {percent}"
 
 #: game/gui:1810
 msgctxt "game/gui:1810:DefaultText"
@@ -7165,7 +7165,7 @@ msgstr "Všechny"
 #: game/gui:1812
 msgctxt "game/gui:1812:DefaultText"
 msgid "Level {value} or lower Weapons and Armors"
-msgstr "Úroveň {hodnota} nebo nižší Zbraně a zbroje"
+msgstr "Úroveň {value} nebo nižší Zbraně a zbroje"
 
 #: game/gui:1813
 msgctxt "game/gui:1813:DefaultText"
@@ -7230,42 +7230,42 @@ msgstr "Zvýšení šance na nalezení předmětů Pristine"
 #: game/gui:1831
 msgctxt "game/gui:1831:DefaultText"
 msgid "Find Pristine Item Chance {percent}"
-msgstr "Najít šanci na původní položku {procento}"
+msgstr "Vyhledání položky Pristine Chance {percent}"
 
 #: game/gui:1832
 msgctxt "game/gui:1832:DefaultText"
 msgid "Healed to {mpercent} Health when downed"
-msgstr "Uzdravení na {procento} zdraví při pádu na zem"
+msgstr "Po pádu se vyléčí na {mpercent} zdraví"
 
 #: game/gui:1833
 msgctxt "game/gui:1833:DefaultText"
 msgid "Morale Penalty {percent}"
-msgstr "Morální postih {procento}"
+msgstr "Trest za morálku {percent}"
 
 #: game/gui:1834
 msgctxt "game/gui:1834:DefaultText"
 msgid "Rank {value}:"
-msgstr "Pořadí {hodnota}:"
+msgstr "Pořadí {value}:"
 
 #: game/gui:1835
 msgctxt "game/gui:1835:DefaultText"
 msgid "Heals {value} Health instantly"
-msgstr "Okamžitě vyléčí {hodnotu} zdraví"
+msgstr "Okamžitě léčí {value} zdraví"
 
 #: game/gui:1836
 msgctxt "game/gui:1836:DefaultText"
 msgid "Heals {value} Health every {interval}"
-msgstr "Léčí {hodnotu} zdraví každý {interval}"
+msgstr "Léčí {value} zdraví každý {interval}"
 
 #: game/gui:1837
 msgctxt "game/gui:1837:DefaultText"
 msgid "Heals {value} Health over {duration}"
-msgstr "Léčí {hodnotu} zdraví po dobu {trvání}"
+msgstr "Léčí {value} Zdraví přes {duration}"
 
 #: game/gui:1838
 msgctxt "game/gui:1838:DefaultText"
 msgid "Carrying Capacity +{value}kg"
-msgstr "Nosnost +{hodnota}kg"
+msgstr "Nosnost +{value}kg"
 
 #: game/gui:1839
 msgctxt "game/gui:1839:DefaultText"
@@ -7275,12 +7275,12 @@ msgstr "+{damage_types}"
 #: game/gui:1840
 msgctxt "game/gui:1840:DefaultText"
 msgid "+{damage_types} for {duration}"
-msgstr "+{typy poškození} pro {trvání}"
+msgstr "+{damage_types} pro {duration}"
 
 #: game/gui:1841
 msgctxt "game/gui:1841:DefaultText"
 msgid "Damage {percent} for {duration}"
-msgstr "Poškození {procento} po dobu {trvání}"
+msgstr "Poškození {percent} pro {duration}"
 
 #: game/gui:1842
 msgctxt "game/gui:1842:DefaultText"
@@ -7290,7 +7290,7 @@ msgstr "{damage_types}"
 #: game/gui:1843
 msgctxt "game/gui:1843:DefaultText"
 msgid "{distance}m"
-msgstr "{vzdálenost}m"
+msgstr "{distance}m"
 
 #: game/gui:1844
 msgctxt "game/gui:1844:DefaultText"
@@ -7300,27 +7300,27 @@ msgstr "Ochlazení: {cooldown}"
 #: game/gui:1845
 msgctxt "game/gui:1845:DefaultText"
 msgid "Science Weapon Damage {percent}"
-msgstr "Poškození vědeckou zbraní {procento}"
+msgstr "Poškození vědeckou zbraní {percent}"
 
 #: game/gui:1847
 msgctxt "game/gui:1847:DefaultText"
 msgid "Companion heal an extra {value} Health over {duration}"
-msgstr "Společník vyléčí další {hodnotu} zdraví po dobu {trvání}"
+msgstr "Společník vyléčí další {value} zdraví přes {duration}"
 
 #: game/gui:1848
 msgctxt "game/gui:1848:DefaultText"
 msgid "Removes the enemy's held weapon for {duration}. Does not apply to special enemies, such as those with attached weapons."
-msgstr "Odebere nepříteli drženou zbraň na dobu {trvání}. Nevztahuje se na speciální nepřátele, například na ty s připevněnými zbraněmi."
+msgstr "Odebere nepříteli drženou zbraň na {duration}. Nevztahuje se na speciální nepřátele, například na ty s připevněnými zbraněmi."
 
 #: game/gui:1849
 msgctxt "game/gui:1849:DefaultText"
 msgid "Movement Speed {percent} for {duration}"
-msgstr "Rychlost pohybu {procenta} po dobu {trvání}"
+msgstr "Rychlost pohybu {percent} pro {duration}"
 
 #: game/gui:1850
 msgctxt "game/gui:1850:DefaultText"
 msgid "Incapacitating an enemy refills {percent} of your Companion Command pools"
-msgstr "Zneškodnění nepřítele doplní {procento} vašich zásobníků příkazů společníků."
+msgstr "Zneškodněním nepřítele se doplní {percent} vašich velitelských fondů společníků."
 
 #: game/gui:1851
 msgctxt "game/gui:1851:DefaultText"
@@ -7335,72 +7335,72 @@ msgstr "Odemknutí funkce Perfect Block, která útočníka omráčí."
 #: game/gui:1853
 msgctxt "game/gui:1853:DefaultText"
 msgid "{mpercent} Chance items you Repair will become Pristine, increasing Value and Durability"
-msgstr "{procenta} šance, že se opravené předměty stanou prvotřídními, což zvýší jejich hodnotu a trvanlivost."
+msgstr "{mpercent} Šance, že se opravené předměty stanou dokonalými, což zvýší jejich hodnotu a trvanlivost."
 
 #: game/gui:1854
 msgctxt "game/gui:1854:DefaultText"
 msgid "Create: {item_name} ({quantity})"
-msgstr "Vytvořit: {název_položky} ({množství})"
+msgstr "Vytvořit: {item_name} ({quantity})"
 
 #: game/gui:1855
 msgctxt "game/gui:1855:DefaultText"
 msgid "Crit Chance {percent}"
-msgstr "Kritická šance {procento}"
+msgstr "Kritická šance {percent}"
 
 #: game/gui:1856
 msgctxt "game/gui:1856:DefaultText"
 msgid "Companion Crit Chance +{mpercent}"
-msgstr "Společník Kritická šance +{procento}"
+msgstr "Společník Kritická šance +{mpercent}"
 
 #: game/gui:1857
 msgctxt "game/gui:1857:DefaultText"
 msgid "{chance} chance to fill a Companion's Command Point pool"
-msgstr "{šance} šance naplnit zásobu bodů rozkazů společníka."
+msgstr "{chance} možnost naplnit zásobu bodů rozkazu společníka."
 
 #: game/gui:1858
 msgctxt "game/gui:1858:DefaultText"
 msgid "{chance} chance to gain 3 Companion Command Points after performing a Companion Command"
-msgstr "{šance} získat 3 body příkazu společníka po provedení příkazu společníka."
+msgstr "{chance} šance získat 3 body příkazu Companion po provedení příkazu Companion."
 
 #: game/gui:1859
 msgctxt "game/gui:1859:DefaultText"
 msgid "{value} Companion Command Point when companion incapacitates an enemy"
-msgstr "{hodnota} Příkazový bod společníka, když společník zneškodní nepřítele."
+msgstr "{value} Velitelský bod společníka, když společník zneškodní nepřítele."
 
 #: game/gui:1860
 msgctxt "game/gui:1860:DefaultText"
 msgid "Duration of Status Effects inflicted by Companion Abilities {percent}"
-msgstr "Trvání stavových efektů způsobených schopnostmi společníka {procento}"
+msgstr "Trvání stavových efektů způsobených schopnostmi společníka {percent}"
 
 #: game/gui:1861
 msgctxt "game/gui:1861:DefaultText"
 msgid "While Crouched or wearing a Disguise, incur an additional {value} to Personality Attributes"
-msgstr "Když se krčíte nebo máte na sobě převlek, připočtěte si k atributům osobnosti další {hodnotu}."
+msgstr "Když se krčíte nebo máte na sobě převlek, připočítává se vám {value} k atributům osobnosti."
 
 #: game/gui:1862
 msgctxt "game/gui:1862:DefaultText"
 msgid "Strength {value}"
-msgstr "Síla {hodnota}"
+msgstr "Síla {value}"
 
 #: game/gui:1863
 msgctxt "game/gui:1863:DefaultText"
 msgid "Dexterity {value}"
-msgstr "Obratnost {hodnota}"
+msgstr "Obratnost {value}"
 
 #: game/gui:1864
 msgctxt "game/gui:1864:DefaultText"
 msgid "Armor Ignored by Stealth Attacks {percent}"
-msgstr "Brnění ignorované skrytými útoky {procento}"
+msgstr "Brnění ignorované skrytými útoky {percent}"
 
 #: game/gui:1865
 msgctxt "game/gui:1865:DefaultText"
 msgid "Intelligence {value}"
-msgstr "Inteligence {hodnota}"
+msgstr "Zpravodajství {value}"
 
 #: game/gui:1866
 msgctxt "game/gui:1866:DefaultText"
 msgid "Perception {value}"
-msgstr "Vnímání {hodnota}"
+msgstr "Vnímání {value}"
 
 #: game/gui:1867
 msgctxt "game/gui:1867:DefaultText"
@@ -7410,7 +7410,7 @@ msgstr "Odemkněte schopnost Skok (úskok vpřed)."
 #: game/gui:1868
 msgctxt "game/gui:1868:DefaultText"
 msgid "Charm {value}"
-msgstr "Okouzlení {hodnota}"
+msgstr "Okouzlení {value}"
 
 #: game/gui:1869
 msgctxt "game/gui:1869:DefaultText"
@@ -7420,7 +7420,7 @@ msgstr "Plíživý útok: Útočte na nevědomé nepřátele v přikrčení a zp
 #: game/gui:1870
 msgctxt "game/gui:1870:DefaultText"
 msgid "Temperament {value}"
-msgstr "Temperament {hodnota}"
+msgstr "Temperament {value}"
 
 #: game/gui:1871
 msgctxt "game/gui:1871:DefaultText"
@@ -7430,12 +7430,12 @@ msgstr "Nemůžete se vyhnout"
 #: game/gui:1872
 msgctxt "game/gui:1872:DefaultText"
 msgid "Offense Skills {percent}"
-msgstr "Útočné dovednosti {procento}"
+msgstr "Útočné dovednosti {percent}"
 
 #: game/gui:1873
 msgctxt "game/gui:1873:DefaultText"
 msgid "Defense Skills {percent}"
-msgstr "Obranné dovednosti {procento}"
+msgstr "Obranné dovednosti {percent}"
 
 #: game/gui:1874
 msgctxt "game/gui:1874:DefaultText"
@@ -7590,17 +7590,17 @@ msgstr "Roseway"
 #: game/gui:1904
 msgctxt "game/gui:1904:DefaultText"
 msgid "Healing Companions Receive from the Inhaler {percent}"
-msgstr "Léčební společníci dostávají od inhalátoru {procento}"
+msgstr "Léčební společníci dostávají od inhalátoru {percent}"
 
 #: game/gui:1905
 msgctxt "game/gui:1905:DefaultText"
 msgid "Ranged Damage Taken while Blocking {percent}"
-msgstr "Poškození na dálku při blokování {procento}"
+msgstr "Poškození na dálku při blokování {percent}"
 
 #: game/gui:1906
 msgctxt "game/gui:1906:DefaultText"
 msgid "Sneak Attack Damage +{mpercent}"
-msgstr "Poškození při plíživém útoku +{procento}"
+msgstr "Poškození při plíživém útoku +{mpercent}"
 
 #: game/gui:1907
 msgctxt "game/gui:1907:DefaultText"
@@ -7615,22 +7615,22 @@ msgstr "Výběr schopnosti"
 #: game/gui:1909
 msgctxt "game/gui:1909:DefaultText"
 msgid "Block {value}"
-msgstr "Blok {hodnota}"
+msgstr "Blok {value}"
 
 #: game/gui:1910
 msgctxt "game/gui:1910:DefaultText"
 msgid "Determination {value}"
-msgstr "Určení {hodnota}"
+msgstr "Určení {value}"
 
 #: game/gui:1911
 msgctxt "game/gui:1911:DefaultText"
 msgid "Dodge {value}"
-msgstr "Dodge {hodnota}"
+msgstr "Dodge {value}"
 
 #: game/gui:1912
 msgctxt "game/gui:1912:DefaultText"
 msgid "Engineering {value}"
-msgstr "Inženýrská {hodnota}"
+msgstr "Engineering {value}"
 
 #: game/gui:1913
 msgctxt "game/gui:1913:DefaultText"
@@ -7640,77 +7640,77 @@ msgstr "Hack {value}"
 #: game/gui:1914
 msgctxt "game/gui:1914:DefaultText"
 msgid "Handguns {value}"
-msgstr "Ruční zbraně {hodnota}"
+msgstr "Ruční zbraně {value}"
 
 #: game/gui:1915
 msgctxt "game/gui:1915:DefaultText"
 msgid "2-Handed Melee {value}"
-msgstr "Dvouruční boj zblízka {hodnota}"
+msgstr "Dvouruční boj zblízka {value}"
 
 #: game/gui:1916
 msgctxt "game/gui:1916:DefaultText"
 msgid "Heavy Weapons {value}"
-msgstr "Těžké zbraně {hodnota}"
+msgstr "Těžké zbraně {value}"
 
 #: game/gui:1917
 msgctxt "game/gui:1917:DefaultText"
 msgid "Inspiration {value}"
-msgstr "Inspirace {hodnota}"
+msgstr "Inspirace {value}"
 
 #: game/gui:1918
 msgctxt "game/gui:1918:DefaultText"
 msgid "Intimidate {value}"
-msgstr "Zastrašování {hodnota}"
+msgstr "Zastrašování {value}"
 
 #: game/gui:1919
 msgctxt "game/gui:1919:DefaultText"
 msgid "Lie {value}"
-msgstr "Lež {hodnota}"
+msgstr "Lež {value}"
 
 #: game/gui:1920
 msgctxt "game/gui:1920:DefaultText"
 msgid "1-Handed Melee {value}"
-msgstr "Jednoruční boj zblízka {hodnota}"
+msgstr "Boj zblízka s 1 rukou {value}"
 
 #: game/gui:1921
 msgctxt "game/gui:1921:DefaultText"
 msgid "Lockpick {value}"
-msgstr "Lockpick {hodnota}"
+msgstr "Lockpick {value}"
 
 #: game/gui:1922
 msgctxt "game/gui:1922:DefaultText"
 msgid "Long Guns {value}"
-msgstr "Dlouhé zbraně {hodnota}"
+msgstr "Dlouhé zbraně {value}"
 
 #: game/gui:1923
 msgctxt "game/gui:1923:DefaultText"
 msgid "Medical {value}"
-msgstr "Lékařská {hodnota}"
+msgstr "Lékařské stránky {value}"
 
 #: game/gui:1924
 msgctxt "game/gui:1924:DefaultText"
 msgid "Persuade {value}"
-msgstr "Přesvědčit {hodnota}"
+msgstr "Přesvědčte {value}"
 
 #: game/gui:1925
 msgctxt "game/gui:1925:DefaultText"
 msgid "Science {value}"
-msgstr "Věda {hodnota}"
+msgstr "Věda {value}"
 
 #: game/gui:1926
 msgctxt "game/gui:1926:DefaultText"
 msgid "{mpercent} Chance to extract Mods"
-msgstr "{procenta} Šance na extrakci modů"
+msgstr "{mpercent} Šance na extrakci modů"
 
 #: game/gui:1927
 msgctxt "game/gui:1927:DefaultText"
 msgid "Target is unable to move for {duration}"
-msgstr "Cíl se nemůže po dobu {trvání} pohybovat."
+msgstr "Cíl se nemůže pohybovat po dobu {duration}"
 
 #: game/gui:1928
 msgctxt "game/gui:1928:DefaultText"
 msgid "{value} {damage_type} Damage"
-msgstr "{value} {damage_type} Poškození"
+msgstr "{value}{damage_type} Poškození"
 
 #: game/gui:1929
 msgctxt "game/gui:1929:DefaultText"
@@ -7720,22 +7720,22 @@ msgstr "Cíl je sražen na krátkou vzdálenost dozadu."
 #: game/gui:1930
 msgctxt "game/gui:1930:DefaultText"
 msgid "Walk Speed {percent} for {duration}"
-msgstr "Rychlost chůze {procenta} po dobu {trvání}"
+msgstr "Rychlost chůze {percent} pro {duration}"
 
 #: game/gui:1931
 msgctxt "game/gui:1931:DefaultText"
 msgid "Damage Received {percent} for {duration}"
-msgstr "Obdržené poškození {procento} po dobu {trvání}"
+msgstr "Přijaté škody {percent} pro {duration}"
 
 #: game/gui:1932
 msgctxt "game/gui:1932:DefaultText"
 msgid "Defensive Skills {percent} for {duration}"
-msgstr "Obranné dovednosti {procento} za {trvání}"
+msgstr "Obranné dovednosti {percent} pro {duration}"
 
 #: game/gui:1933
 msgctxt "game/gui:1933:DefaultText"
 msgid "Hitting an enemy with a Critical Hit refills {mpercent} of your TTD meter"
-msgstr "Zasažení nepřítele kritickým zásahem doplní {procento} vašeho ukazatele TTD."
+msgstr "Zasažení nepřítele kritickým zásahem doplní {mpercent} vašeho ukazatele TTD."
 
 #: game/gui:1934
 msgctxt "game/gui:1934:DefaultText"
@@ -7760,52 +7760,52 @@ msgstr "Zvýšení šance, že automechaniky postihne Scramble"
 #: game/gui:1938
 msgctxt "game/gui:1938:DefaultText"
 msgid "Turn them off for {duration}"
-msgstr "Vypněte je na dobu {trvání}"
+msgstr "Vypněte je pro {duration}"
 
 #: game/gui:1939
 msgctxt "game/gui:1939:DefaultText"
 msgid "Drink Effect Duration {percent}"
-msgstr "Doba trvání účinku nápoje {procento}"
+msgstr "Doba trvání účinku nápoje {percent}"
 
 #: game/gui:1940
 msgctxt "game/gui:1940:DefaultText"
 msgid "Food Effect Duration {percent}"
-msgstr "Doba trvání účinku potravin {procenta}"
+msgstr "Doba trvání účinku potravin {percent}"
 
 #: game/gui:1941
 msgctxt "game/gui:1941:DefaultText"
 msgid "Corrosion Damage Received {percent}"
-msgstr "Obdržené korozní poškození {procento}"
+msgstr "Obdržené poškození korozí {percent}"
 
 #: game/gui:1942
 msgctxt "game/gui:1942:DefaultText"
 msgid "Plasma Damage Received {percent}"
-msgstr "Obdržené poškození plazmou {procento}"
+msgstr "Přijaté poškození plazmou {percent}"
 
 #: game/gui:1943
 msgctxt "game/gui:1943:DefaultText"
 msgid "N-ray Damage Received {percent}"
-msgstr "Obdržené poškození N-zářením {procento}"
+msgstr "Obdržené poškození N-zářením {percent}"
 
 #: game/gui:1944
 msgctxt "game/gui:1944:DefaultText"
 msgid "Physical Damage Received {percent}"
-msgstr "Obdržené fyzické poškození {procento}"
+msgstr "Obdržené fyzické poškození {percent}"
 
 #: game/gui:1945
 msgctxt "game/gui:1945:DefaultText"
 msgid "Shock Damage Received {percent}"
-msgstr "Obdržené poškození šokem {procento}"
+msgstr "Přijaté poškození způsobené nárazem {percent}"
 
 #: game/gui:1946
 msgctxt "game/gui:1946:DefaultText"
 msgid "Swarm Damage Received {percent}"
-msgstr "Obdržené poškození rojem {procento}"
+msgstr "Obdržené poškození rojem {percent}"
 
 #: game/gui:1947
 msgctxt "game/gui:1947:DefaultText"
 msgid "Thermal Damage Received {percent}"
-msgstr "Obdržené tepelné poškození {procento}"
+msgstr "Obdržené tepelné poškození {percent}"
 
 #: game/gui:1948
 msgctxt "game/gui:1948:DefaultText"
@@ -7913,7 +7913,7 @@ msgstr "Po úskoku máš při dalším zásahu slabého místa šanci ignorovat 
 #: game/gui:1968
 msgctxt "game/gui:1968:DefaultText"
 msgid "After Dodging, your next Weak Spot hit within {duration} has a {mpercent} chance to Ignore Armor"
-msgstr "Po úskoku má váš další zásah do slabého místa během {trvání} {procentní} šanci ignorovat brnění."
+msgstr "Po úskoku má váš další zásah slabého místa v rámci {duration} šanci na ignorování brnění {mpercent}."
 
 #: game/gui:1969
 msgctxt "game/gui:1969:DefaultText"
@@ -7923,7 +7923,7 @@ msgstr "Váš další úspěšný útok získá zvýšené kritické poškození
 #: game/gui:1970
 msgctxt "game/gui:1970:DefaultText"
 msgid "Your next successful attack gains Crit Damage {percent}"
-msgstr "Váš další úspěšný útok získá kritické poškození {procento}."
+msgstr "Váš další úspěšný útok získá kritické poškození {percent}"
 
 #: game/gui:1972
 msgctxt "game/gui:1972:DefaultText"
@@ -8013,7 +8013,7 @@ msgstr "Nelze použít v boji"
 #: game/gui:1989
 msgctxt "game/gui:1989:DefaultText"
 msgid "Fast travel location discovered: {location}"
-msgstr "Objevení místa rychlého cestování: {lokalita}"
+msgstr "Objevení místa rychlého cestování: {location}"
 
 #: game/gui:1990
 msgctxt "game/gui:1990:DefaultText"
@@ -8033,12 +8033,12 @@ msgstr "Výběr strany"
 #: game/gui:1993
 msgctxt "game/gui:1993:DefaultText"
 msgid "<{prefix}>"
-msgstr "<{předpona}>"
+msgstr "<{prefix}>"
 
 #: game/gui:1994
 msgctxt "game/gui:1994:DefaultText"
 msgid "{companion_name} can now join the party."
-msgstr "{jméno_společníka} se nyní může připojit ke straně."
+msgstr "{companion_name} se nyní mohou připojit k oslavě."
 
 #: game/gui:1995
 msgctxt "game/gui:1995:DefaultText"
@@ -8053,22 +8053,22 @@ msgstr "Pokračovat"
 #: game/gui:1997
 msgctxt "game/gui:1997:DefaultText"
 msgid "Positive Faction Reputation Reactions {percent}"
-msgstr "Pozitivní reakce na reputaci frakce {procento}"
+msgstr "Pozitivní reakce na reputaci frakce {percent}"
 
 #: game/gui:1998
 msgctxt "game/gui:1998:DefaultText"
 msgid "Negative Faction Reputation Reactions {percent}"
-msgstr "Negativní reakce na reputaci frakce {procento}"
+msgstr "Negativní reakce na reputaci frakce {percent}"
 
 #: game/gui:1999
 msgctxt "game/gui:1999:DefaultText"
 msgid "Positive Companion Morale Reactions {percent}"
-msgstr "Pozitivní reakce na morálku společníků {procento}"
+msgstr "Pozitivní reakce na morálku společníků {percent}"
 
 #: game/gui:2000
 msgctxt "game/gui:2000:DefaultText"
 msgid "Negative Companion Morale Reactions {percent}"
-msgstr "Negativní reakce na morálku společníků {procento}"
+msgstr "Negativní reakce na morálku společníků {percent}"
 
 #: game/gui:2001
 msgctxt "game/gui:2001:DefaultText"
@@ -8093,7 +8093,7 @@ msgstr "Cílený útok na pancíř nepřítele, který na krátkou dobu výrazn�
 #: game/gui:2005
 msgctxt "game/gui:2005:DefaultText"
 msgid "{damage_types} for {duration}"
-msgstr "{typy_škod} pro {trvání}"
+msgstr "{damage_types} pro {duration}"
 
 #: game/gui:2006
 msgctxt "game/gui:2006:DefaultText"
@@ -8128,7 +8128,7 @@ msgstr "Dostupné body:"
 #: game/gui:2012
 msgctxt "game/gui:2012:DefaultText"
 msgid "Skills Level {value}"
-msgstr "Úroveň dovedností {hodnota}"
+msgstr "Úroveň dovedností {value}"
 
 #: game/gui:2013
 msgctxt "game/gui:2013:DefaultText"
@@ -8153,7 +8153,7 @@ msgstr "Funkce"
 #: game/gui:2017
 msgctxt "game/gui:2017:DefaultText"
 msgid "Health Regeneration per Second {precisevalue}"
-msgstr "Regenerace zdraví za sekundu {předpokládaná hodnota}"
+msgstr "Regenerace zdraví za sekundu {precisevalue}"
 
 #: game/gui:2018
 msgctxt "game/gui:2018:DefaultText"
@@ -8223,22 +8223,22 @@ msgstr "Randomizace"
 #: game/gui:2033
 msgctxt "game/gui:2033:DefaultText"
 msgid "Armor Rating {value}"
-msgstr "Hodnocení zbroje {hodnota}"
+msgstr "Hodnocení brnění {value}"
 
 #: game/gui:2034
 msgctxt "game/gui:2034:DefaultText"
 msgid "Dialog Skills {value}"
-msgstr "Dialogové dovednosti {hodnota}"
+msgstr "Dialogové dovednosti {value}"
 
 #: game/gui:2035
 msgctxt "game/gui:2035:DefaultText"
 msgid "Leadership Skills {value}"
-msgstr "Vedoucí dovednosti {hodnota}"
+msgstr "Vedoucí dovednosti {value}"
 
 #: game/gui:2036
 msgctxt "game/gui:2036:DefaultText"
 msgid "Tech Skills {value}"
-msgstr "Technické dovednosti {hodnota}"
+msgstr "Technické dovednosti {value}"
 
 #: game/gui:2037
 msgctxt "game/gui:2037:DefaultText"
@@ -8268,7 +8268,7 @@ msgstr "Skoro javorový sirup"
 #: game/gui:2042
 msgctxt "game/gui:2042:DefaultText"
 msgid "Defense Skills {value}"
-msgstr "Obranné dovednosti {hodnota}"
+msgstr "Obranné dovednosti {value}"
 
 #: game/gui:2043
 msgctxt "game/gui:2043:DefaultText"
@@ -8363,22 +8363,22 @@ msgstr "Suverénní tabák"
 #: game/gui:2061
 msgctxt "game/gui:2061:DefaultText"
 msgid "Charge Duration {percent}"
-msgstr "Doba nabíjení {procenta}"
+msgstr "Doba trvání poplatku {percent}"
 
 #: game/gui:2062
 msgctxt "game/gui:2062:DefaultText"
 msgid "On Hit Spell Chance {mpercent}"
-msgstr "Šance na zásah kouzlem {procento}"
+msgstr "O šanci na zásah kouzlem {mpercent}"
 
 #: game/gui:2063
 msgctxt "game/gui:2063:DefaultText"
 msgid "Bloom Per Shot {percent}"
-msgstr "Rozkvět na záběr {procento}"
+msgstr "Kvetení na jeden záběr {percent}"
 
 #: game/gui:2064
 msgctxt "game/gui:2064:DefaultText"
 msgid "Bloom and Sway {percent}"
-msgstr "Bloom and Sway {procent}"
+msgstr "Bloom a Sway {percent}"
 
 #: game/gui:2065
 msgctxt "game/gui:2065:DefaultText"
@@ -8428,7 +8428,7 @@ msgstr "Vyberte destinaci cesty"
 #: game/gui:2074
 msgctxt "game/gui:2074:DefaultText"
 msgid "Travel to: {location}"
-msgstr "Cestování do: {místo}"
+msgstr "Cestování do: {location}"
 
 #: game/gui:2075
 msgctxt "game/gui:2075:DefaultText"
@@ -8718,27 +8718,27 @@ msgstr "Umíráte na dehydrataci, která vážně ovlivňuje vaši obratnost, po
 #: game/gui:2141
 msgctxt "game/gui:2141:DefaultText"
 msgid "Weapon / Armor Durability Loss {percent}"
-msgstr "Ztráta odolnosti zbraně / zbroje {procento}"
+msgstr "Ztráta odolnosti zbraně / zbroje {percent}"
 
 #: game/gui:2142
 msgctxt "game/gui:2142:DefaultText"
 msgid "Armor Degradation {percent}"
-msgstr "Degradace pancíře {procento}"
+msgstr "Degradace brnění {percent}"
 
 #: game/gui:2143
 msgctxt "game/gui:2143:DefaultText"
 msgid "Ranged Weapon Durability Loss {percent}"
-msgstr "Ztráta odolnosti zbraně na dálku {procento}"
+msgstr "Ztráta odolnosti zbraně na dálku {percent}"
 
 #: game/gui:2144
 msgctxt "game/gui:2144:DefaultText"
 msgid "Weapon Durability Loss from Quick Melee Strikes {percent}"
-msgstr "Ztráta odolnosti zbraně při rychlých úderech zblízka {procento}"
+msgstr "Ztráta odolnosti zbraně při rychlých úderech zblízka {percent}"
 
 #: game/gui:2145
 msgctxt "game/gui:2145:DefaultText"
 msgid "[{input}] Hold"
-msgstr "[{vstup}] Podržet"
+msgstr "[{input}] Podržet"
 
 #: game/gui:2146
 msgctxt "game/gui:2146:DefaultText"
@@ -8763,7 +8763,7 @@ msgstr "Trpí akrofobií"
 #: game/gui:2150
 msgctxt "game/gui:2150:DefaultText"
 msgid "Suffering from {ability}"
-msgstr "Trpí {schopností}"
+msgstr "Trpí {ability}"
 
 #: game/gui:2151
 msgctxt "game/gui:2151:DefaultText"
@@ -8785,7 +8785,7 @@ msgstr "Všechny změny budou ztraceny. Pokračovat?"
 #: game/gui:2154
 msgctxt "game/gui:2154:DefaultText"
 msgid "Movement Noise {percent}"
-msgstr "Hluk pohybu {procento}"
+msgstr "Hluk pohybu {percent}"
 
 #: game/gui:2155
 msgctxt "game/gui:2155:DefaultText"
@@ -8931,7 +8931,7 @@ msgstr "Odměna: 1 bod perku"
 #: game/gui:2183
 msgctxt "game/gui:2183:DefaultText"
 msgid "{name}!"
-msgstr "{jméno}!"
+msgstr "{name}!"
 
 #: game/gui:2184
 msgctxt "game/gui:2184:DefaultText"
@@ -9033,7 +9033,7 @@ msgstr "{value} EXPERT:"
 #: game/gui:2201
 msgctxt "game/gui:2201:DefaultText"
 msgid "{value} MASTER:"
-msgstr "{hodnota} MASTER:"
+msgstr "{value} MASTER:"
 
 #: game/gui:2203
 msgctxt "game/gui:2203:DefaultText"
@@ -9043,12 +9043,12 @@ msgstr "Snížení úbytku TTD Metru při útoku dvouručními zbraněmi pro boj
 #: game/gui:2204
 msgctxt "game/gui:2204:DefaultText"
 msgid "2-Handed Melee Weapon TTD Drain {percent}"
-msgstr "Dvouruční zbraň pro boj zblízka TTD Drain {procento}"
+msgstr "Dvouruční zbraň pro boj zblízka TTD Drain {percent}"
 
 #: game/gui:2205
 msgctxt "game/gui:2205:DefaultText"
 msgid "Handgun Critical Hits ignore {mpercent} Armor"
-msgstr "Kritické zásahy z ruční zbraně ignorují {procento} Armor"
+msgstr "Kritické zásahy z ruční zbraně ignorují {mpercent} Armor"
 
 #: game/gui:2206
 msgctxt "game/gui:2206:DefaultText"
@@ -9063,12 +9063,12 @@ msgstr "Atribut otáčení"
 #: game/gui:2210
 msgctxt "game/gui:2210:DefaultText"
 msgid "Long Gun Critical Hits ignore {mpercent} Armor"
-msgstr "Kritické zásahy z dlouhé zbraně ignorují {procento} Brnění"
+msgstr "Kritické zásahy z dlouhé zbraně ignorují {mpercent} Armor"
 
 #: game/gui:2211
 msgctxt "game/gui:2211:DefaultText"
 msgid "Heavy Weapon Critical Hits ignore {mpercent} Armor"
-msgstr "Kritické zásahy těžkých zbraní ignorují {procento} Brnění"
+msgstr "Kritické zásahy těžkých zbraní ignorují {mpercent} Armor"
 
 #: game/gui:2212
 msgctxt "game/gui:2212:DefaultText"
@@ -9078,7 +9078,7 @@ msgstr "Rotace seskupení"
 #: game/gui:2214
 msgctxt "game/gui:2214:DefaultText"
 msgid "Sneak Attack Weakspot Damage {percent}"
-msgstr "Plíživý útok Weakspot Damage {procento}"
+msgstr "Plíživý útok Weakspot Damage {percent}"
 
 #: game/gui:2215
 msgctxt "game/gui:2215:DefaultText"
@@ -9108,12 +9108,12 @@ msgstr "Odemykání zámků může přinést cennou kořist nebo otevřít nové
 #: game/gui:2220
 msgctxt "game/gui:2220:DefaultText"
 msgid "You have salvaged: {item_name} x{item_count}"
-msgstr "Zachránili jste: {název_předmětu} x{počet_předmětů}"
+msgstr "Zachránili jste: {item_name} x{item_count}"
 
 #: game/gui:2221
 msgctxt "game/gui:2221:DefaultText"
 msgid "You have salvaged: {item_name}"
-msgstr "Zachránili jste: {název_předmětu}"
+msgstr "Zachránili jste: {item_name}"
 
 #: game/gui:2222
 msgctxt "game/gui:2222:DefaultText"
@@ -9123,12 +9123,12 @@ msgstr "Snížení rozsahu detekce automechanik"
 #: game/gui:2223
 msgctxt "game/gui:2223:DefaultText"
 msgid "Automechanical Detection Range {percent}"
-msgstr "Rozsah automechanické detekce {procenta}"
+msgstr "Rozsah automechanické detekce {percent}"
 
 #: game/gui:2224
 msgctxt "game/gui:2224:DefaultText"
 msgid "{ability}: See what is inside locked containers"
-msgstr "{schopnost}: Vidět, co je uvnitř uzamčených kontejnerů"
+msgstr "{ability}: Podívejte se, co je uvnitř uzamčených kontejnerů"
 
 #: game/gui:2225
 msgctxt "game/gui:2225:DefaultText"
@@ -9194,12 +9194,12 @@ msgstr "Kvůli komplikacím způsobeným oživením po delší hibernaci váš m
 #: game/gui:2235
 msgctxt "game/gui:2235:DefaultText"
 msgid "{ability}: Repair Weapons and Armor in the Inventory"
-msgstr "{schopnost}: Oprava zbraní a zbroje v inventáři"
+msgstr "{ability}: Oprava zbraní a zbroje v inventáři"
 
 #: game/gui:2236
 msgctxt "game/gui:2236:DefaultText"
 msgid "Unlock {ability}"
-msgstr "Odemknout {schopnost}"
+msgstr "Odemknutí stránky {ability}"
 
 #: game/gui:2237
 msgctxt "game/gui:2237:DefaultText"
@@ -9214,7 +9214,7 @@ msgstr "Získejte bonus k poškození při útoku na automechaniky."
 #: game/gui:2239
 msgctxt "game/gui:2239:DefaultText"
 msgid "Damage vs Automechanicals {percent}"
-msgstr "Poškození vs Automechanicals {procenta}"
+msgstr "Poškození vs. Automechanicals {percent}"
 
 #: game/gui:2240
 msgctxt "game/gui:2240:DefaultText"
@@ -9234,17 +9234,17 @@ msgstr "Zvětšení velikosti zásobníků vědeckých zbraní"
 #: game/gui:2243
 msgctxt "game/gui:2243:DefaultText"
 msgid "Science Weapon Magazine Size {percent}"
-msgstr "Velikost časopisu Science Weapon {procenta}"
+msgstr "Velikost časopisu Science Weapon {percent}"
 
 #: game/gui:2244
 msgctxt "game/gui:2244:DefaultText"
 msgid "Optional: {item_name}"
-msgstr "Nepovinné: {název_položky}"
+msgstr "Volitelně: {item_name}"
 
 #: game/gui:2245
 msgctxt "game/gui:2245:DefaultText"
 msgid "{value}s"
-msgstr "{hodnota}s"
+msgstr "{value}s"
 
 #: game/gui:2246
 msgctxt "game/gui:2246:DefaultText"
@@ -9254,7 +9254,7 @@ msgstr "Snížení doby odezvy akce Úskok"
 #: game/gui:2247
 msgctxt "game/gui:2247:DefaultText"
 msgid "Dodge Recovery Speed {percent}"
-msgstr "Rychlost zotavení z úskoku {procento}"
+msgstr "Rychlost zotavení Dodge {percent}"
 
 #: game/gui:2249
 msgctxt "game/gui:2249:DefaultText"
@@ -9279,7 +9279,7 @@ msgstr "Když společníci zabijí nepřítele, obnoví část zdraví."
 #: game/gui:2253
 msgctxt "game/gui:2253:DefaultText"
 msgid "When Companions kill an enemy, they gain {mpercent} Health"
-msgstr "Když společníci zabijí nepřítele, získají {procento} zdraví."
+msgstr "Když společníci zabijí nepřítele, získají {mpercent} zdraví."
 
 #: game/gui:2254
 msgctxt "game/gui:2254:DefaultText"
@@ -9340,12 +9340,12 @@ msgstr "Odemknutí efektů zásahu místa TTD"
 #: game/gui:2264
 msgctxt "game/gui:2264:DefaultText"
 msgid "Unlock the ability to {ability}"
-msgstr "Odemkněte schopnost {schopnost}"
+msgstr "Odemknout možnost {ability}"
 
 #: game/gui:2265
 msgctxt "game/gui:2265:DefaultText"
 msgid "Cost of Bribes {percent}"
-msgstr "Náklady na úplatky {procento}"
+msgstr "Náklady na úplatky {percent}"
 
 #: game/gui:2266
 msgctxt "game/gui:2266:DefaultText"
@@ -9355,72 +9355,72 @@ msgstr "Rychlé cestování při zatížení"
 #: game/gui:2267
 msgctxt "game/gui:2267:DefaultText"
 msgid "Detection Radius of Mines {percent}"
-msgstr "Poloměr detekce min {procento}"
+msgstr "Poloměr detekce min {percent}"
 
 #: game/gui:2268
 msgctxt "game/gui:2268:DefaultText"
 msgid "Health Restored per Kill {value}"
-msgstr "Obnovené zdraví za zabití {hodnota}"
+msgstr "Obnovené zdraví za zabití {value}"
 
 #: game/gui:2269
 msgctxt "game/gui:2269:DefaultText"
 msgid "Consumable Weight {percent}"
-msgstr "Spotřební hmotnost {procento}"
+msgstr "Spotřební hmotnost {percent}"
 
 #: game/gui:2270
 msgctxt "game/gui:2270:DefaultText"
 msgid "Ranged Attacks inflict {damage_types} for {duration}, and can stack up to -10"
-msgstr "Útoky na dálku způsobují {typy_škod} po dobu {trvání} a mohou se skládat až do -10."
+msgstr "Útoky na dálku způsobují zranění {damage_types} za {duration}, přičemž se mohou kumulovat až do -10."
 
 #: game/gui:2271
 msgctxt "game/gui:2271:DefaultText"
 msgid "Companion Ability Cooldowns for each of your kills {mpercent}"
-msgstr "Cooldowny schopností společníka pro každé vaše zabití {procento}"
+msgstr "Cooldowny schopností společníka pro každé vaše zabití {mpercent}"
 
 #: game/gui:2272
 msgctxt "game/gui:2272:DefaultText"
 msgid "Headshot kills deal {mpercent} of their damage to enemies within 2.5m"
-msgstr "Zabití headshotem způsobí {procento} poškození nepřátelům do vzdálenosti 2,5 m."
+msgstr "Zabití headshotem způsobí {mpercent} poškození nepřátelům do vzdálenosti 2,5 m."
 
 #: game/gui:2273
 msgctxt "game/gui:2273:DefaultText"
 msgid "Revive Companions to {mpercent} Health"
-msgstr "Oživte společníky pro {procentní} zdraví"
+msgstr "Oživte společníky na {mpercent} Health"
 
 #: game/gui:2274
 msgctxt "game/gui:2274:DefaultText"
 msgid "Damage Received {percent}"
-msgstr "Obdržené poškození {procento}"
+msgstr "Přijaté škody {percent}"
 
 #: game/gui:2275
 msgctxt "game/gui:2275:DefaultText"
 msgid "Area of Effect Damage Received {percent}"
-msgstr "Oblast účinku obdrženého poškození {procento}"
+msgstr "Oblast účinku Obdržené poškození {percent}"
 
 #: game/gui:2276
 msgctxt "game/gui:2276:DefaultText"
 msgid "Melee Damage returned as Health {mpercent}"
-msgstr "Poškození při boji zblízka vrácené jako zdraví {procenta}"
+msgstr "Poškození při boji zblízka se vrací jako zdraví {mpercent}"
 
 #: game/gui:2277
 msgctxt "game/gui:2277:DefaultText"
 msgid "Detection Radius of Enemies {percent}"
-msgstr "Poloměr detekce nepřátel {procento}"
+msgstr "Poloměr detekce nepřátel {percent}"
 
 #: game/gui:2279
 msgctxt "game/gui:2279:DefaultText"
 msgid "Movement Speed during TTD for {duration} {percent}"
-msgstr "Rychlost pohybu během TTD po dobu {trvání} {procenta}"
+msgstr "Rychlost pohybu během TTD pro {duration}{percent}"
 
 #: game/gui:2280
 msgctxt "game/gui:2280:DefaultText"
 msgid "Additional Ammo stock on Vendors {percent}"
-msgstr "Dodatečné zásoby munice u prodejců {procento}"
+msgstr "Další zásoby munice u prodejců {percent}"
 
 #: game/gui:2281
 msgctxt "game/gui:2281:DefaultText"
 msgid "Additional Consumable and General stock on Vendors {percent}"
-msgstr "Další spotřební materiál a obecné zásoby u prodejců {procento}"
+msgstr "Další spotřební materiál a obecné zásoby u prodejců {percent}"
 
 #: game/gui:2282
 msgctxt "game/gui:2282:DefaultText"
@@ -9435,7 +9435,7 @@ msgstr "Úroveň {perk_tier}"
 #: game/gui:2284
 msgctxt "game/gui:2284:DefaultText"
 msgid "Steal {item_name}"
-msgstr "Ukrást {název_předmětu}"
+msgstr "Ukrást {item_name}"
 
 #: game/gui:2285
 msgctxt "game/gui:2285:DefaultText"
@@ -9450,7 +9450,7 @@ msgstr "Šance způsobit Scramble, když na vás poprvé zaútočí automechanik
 #: game/gui:2287
 msgctxt "game/gui:2287:DefaultText"
 msgid "{chance} chance Automechanicals will slowly attack other enemies instead of you for {duration}"
-msgstr "{Šance, že automechanici budou pomalu útočit na jiné nepřátele místo vás po dobu {trvání}"
+msgstr "{chance} Automechanici budou pomalu útočit na jiné nepřátele místo vás. {duration}"
 
 #: game/gui:2288
 msgctxt "game/gui:2288:DefaultText"
@@ -9470,7 +9470,7 @@ msgstr "Když se nepřítel krčí, zvýší se hodnota vašeho brnění."
 #: game/gui:2291
 msgctxt "game/gui:2291:DefaultText"
 msgid "When a Human cowers, you gain {percent} Armor for {duration}"
-msgstr "Když se člověk bojí, získáte {procenta} brnění po dobu {trvání}"
+msgstr "Když se člověk bojí, získáte {percent} brnění za {duration}"
 
 #: game/gui:2292
 msgctxt "game/gui:2292:DefaultText"
@@ -9485,7 +9485,7 @@ msgstr "Šance způsobit úlek při prvním útoku na člověka"
 #: game/gui:2294
 msgctxt "game/gui:2294:DefaultText"
 msgid "Humans have a {chance} chance to cower in fear for {duration} after the first time you hit them"
-msgstr "Lidé mají {šanci}, že se budou krčit strachy po {dobu}, když je poprvé zasáhnete."
+msgstr "Lidé mají {chance} šanci, že se budou krčit strachy na {duration} poté, co je poprvé udeříte."
 
 #: game/gui:2295
 msgctxt "game/gui:2295:DefaultText"
@@ -9500,7 +9500,7 @@ msgstr "Šance, že okolní bytosti budou trpět strachem, když jednu z nich za
 #: game/gui:2297
 msgctxt "game/gui:2297:DefaultText"
 msgid "{chance} chance Creatures will become Terrified and flee for {duration} after you kill one"
-msgstr "Šance {šance}, že se tvorové po zabití jednoho z nich vyděsí a utečou na dobu {trvání}."
+msgstr "{chance} šance Tvorové se po zabití jednoho z nich vyděsí a utečou na {duration}."
 
 #: game/gui:2298
 msgctxt "game/gui:2298:DefaultText"
@@ -9535,7 +9535,7 @@ msgstr "Zvýšené poškození slabého místa, když je automechanik zakódová
 #: game/gui:2304
 msgctxt "game/gui:2304:DefaultText"
 msgid "Weak Spot Damage while an Automechanical Scrambles {percent}"
-msgstr "Slabé bodové poškození při automechanických scrambles {procento}"
+msgstr "Poškození slabého místa při automechanických scrambles {percent}"
 
 #: game/gui:2305
 msgctxt "game/gui:2305:DefaultText"
@@ -9779,7 +9779,7 @@ msgstr "Vyzařuje puls energie N-záření, který poškozuje každého nepřít
 #: game/gui:2352
 msgctxt "game/gui:2352:DefaultText"
 msgid "{percent} Damage for {duration}"
-msgstr "{procenta} poškození po dobu {trvání}"
+msgstr "{percent} Poškození pro {duration}"
 
 #: game/gui:2353
 msgctxt "game/gui:2353:DefaultText"
@@ -10451,7 +10451,7 @@ msgstr "Inhalátor pro pohotovostní léky"
 #: game/gui:2485
 msgctxt "game/gui:2485:DefaultText"
 msgid "x{number} Uses"
-msgstr "x{číslo} Použití"
+msgstr "x{number} Použití"
 
 #: game/gui:2486
 msgctxt "game/gui:2486:DefaultText"
@@ -10481,12 +10481,12 @@ msgstr "Převlek se nezdařil"
 #: game/gui:2491
 msgctxt "game/gui:2491:DefaultText"
 msgid "Difficulty: {difficulty}"
-msgstr "Obtížnost: {obtížnost}"
+msgstr "Obtížnost: {difficulty}"
 
 #: game/gui:2492
 msgctxt "game/gui:2492:DefaultText"
 msgid "(x{number})"
-msgstr "(x{číslo})"
+msgstr "(x{number})"
 
 #: game/gui:2493
 msgctxt "game/gui:2493:DefaultText"
@@ -10531,7 +10531,7 @@ msgstr "Příchuť Stub: Pětka byl osobní revolver kováře zbraní, který up
 #: game/gui:2501
 msgctxt "game/gui:2501:DefaultText"
 msgid "Level {value}"
-msgstr "Úroveň {hodnota}"
+msgstr "Úroveň {value}"
 
 #: game/gui:2502
 msgctxt "game/gui:2502:DefaultText"
@@ -10556,7 +10556,7 @@ msgstr "Prodej haraburdí:"
 #: game/gui:2506
 msgctxt "game/gui:2506:DefaultText"
 msgid "{value} Discount"
-msgstr "{hodnota} Sleva"
+msgstr "{value} Sleva"
 
 #: game/gui:2507
 msgctxt "game/gui:2507:DefaultText"
@@ -10566,23 +10566,23 @@ msgstr "Zbývající kousky:"
 #: game/gui:2508
 msgctxt "game/gui:2508:DefaultText"
 msgid "{value} Surcharge"
-msgstr "{hodnota} Příplatek"
+msgstr "{value} Příplatek"
 
 #: game/gui:2509
 msgctxt "game/gui:2509:DefaultText"
 msgid "Do you want to Tinker the {name}?\n"
 "It will cost {value} bits."
-msgstr "Chcete si upravit {jméno}? Bude to stát {hodnotu} bitů."
+msgstr "Chcete si upravit {name}? Bude to stát {value} bitů."
 
 #: game/gui:2510
 msgctxt "game/gui:2510:DefaultText"
 msgid "Damage {value}"
-msgstr "Poškození {hodnota}"
+msgstr "Poškození {value}"
 
 #: game/gui:2511
 msgctxt "game/gui:2511:DefaultText"
 msgid "Armor {value}"
-msgstr "Zbroj {hodnota}"
+msgstr "Brnění {value}"
 
 #: game/gui:2512
 msgctxt "game/gui:2512:DefaultText"
@@ -10638,22 +10638,22 @@ msgstr "SAM vyskočí do vzduchu a dopadne do blízkosti svého cíle, přičem�
 #: game/gui:2522
 msgctxt "game/gui:2522:DefaultText"
 msgid "{name} Modifications"
-msgstr "{jméno} Úpravy"
+msgstr "{name} Úpravy"
 
 #: game/gui:2523
 msgctxt "game/gui:2523:DefaultText"
 msgid "Repair all equipped items for {value} bits?"
-msgstr "Opravit všechny vybavené předměty za bity {hodnoty}?"
+msgstr "Oprava všech vybavených předmětů pro {value} bity?"
 
 #: game/gui:2524
 msgctxt "game/gui:2524:DefaultText"
 msgid "Repair all equipped weapons for {value} weapon parts?"
-msgstr "Opravit všechny vybavené zbraně za {hodnotu} částí zbraně?"
+msgstr "Opravit všechny vybavené zbraně na {value} části zbraní?"
 
 #: game/gui:2525
 msgctxt "game/gui:2525:DefaultText"
 msgid "Repair all equipped armor for {value} armor parts?"
-msgstr "Opravit všechny vybavené zbroje za {hodnotu} částí zbroje?"
+msgstr "Oprava všech vybavených brnění za {value} části brnění?"
 
 #: game/gui:2526
 msgctxt "game/gui:2526:DefaultText"
@@ -10763,12 +10763,12 @@ msgstr "Smrtící"
 #: game/gui:2547
 msgctxt "game/gui:2547:DefaultText"
 msgid "Sell - {category}"
-msgstr "Prodej - {kategorie}"
+msgstr "Prodej - {category}"
 
 #: game/gui:2548
 msgctxt "game/gui:2548:DefaultText"
 msgid "Buy - {category}"
-msgstr "Koupit - {kategorie}"
+msgstr "Koupit - {category}"
 
 #: game/gui:2549
 msgctxt "game/gui:2549:DefaultText"
@@ -10905,7 +10905,7 @@ msgstr "Zvýšení úrovně"
 #: game/gui:2577
 msgctxt "game/gui:2577:DefaultText"
 msgid "{value}"
-msgstr "{hodnota}"
+msgstr "{value}"
 
 #: game/gui:2578
 msgctxt "game/gui:2578:DefaultText"
@@ -10980,12 +10980,12 @@ msgstr "Nastavení zahrnují: Nastavení: Clean, Polish a Extra Shine."
 #: game/gui:2592
 msgctxt "game/gui:2592:DefaultText"
 msgid "Point of Interest discovered: {location}"
-msgstr "Objevený bod zájmu: {lokalita}"
+msgstr "Objevený bod zájmu: {location}"
 
 #: game/gui:2593
 msgctxt "game/gui:2593:DefaultText"
 msgid "{location} Discovered +{value}XP"
-msgstr "{místo} Objeveno +{hodnota}XP"
+msgstr "{location} Objevil +{value}XP"
 
 #: game/gui:2594
 msgctxt "game/gui:2594:DefaultText"
@@ -10997,14 +10997,14 @@ msgctxt "game/gui:2595:DefaultText"
 msgid "You have insufficient Weapon Parts!\r\n"
 "\n"
 "Weapon parts required: {value}"
-msgstr "Nemáte dostatek dílů zbraně! Požadované díly zbraně: {hodnota}"
+msgstr "Nemáte dostatek dílů zbraní! Potřebné díly zbraní: {value}"
 
 #: game/gui:2596
 msgctxt "game/gui:2596:DefaultText"
 msgid "You have insufficient Armor Parts!\r\n"
 "\n"
 "Armor parts required: {value}"
-msgstr "Nemáte dostatečné množství dílů brnění! Je zapotřebí dílů brnění: Hodnota: {hodnota}"
+msgstr "Nemáte dostatečné množství dílů brnění! Je zapotřebí dílů brnění: {value}"
 
 #: game/gui:2597
 msgctxt "game/gui:2597:DefaultText"
@@ -11148,7 +11148,7 @@ msgstr "???"
 #: game/gui:2630
 msgctxt "game/gui:2630:DefaultText"
 msgid "Carrying Capacity Bonus from Companions {value}kg"
-msgstr "Bonus k nosnosti od společníků {hodnota}kg"
+msgstr "Bonus za nosnost od společníků {value}kg"
 
 #: game/gui:2631
 msgctxt "game/gui:2631:DefaultText"
@@ -11193,17 +11193,17 @@ msgstr "Trpíte abstinenčními příznaky závislosti na kouři, což snižuje 
 #: game/gui:2639
 msgctxt "game/gui:2639:DefaultText"
 msgid "Power Level {value}"
-msgstr "Úroveň výkonu {hodnota}"
+msgstr "Úroveň výkonu {value}"
 
 #: game/gui:2642
 msgctxt "game/gui:2642:DefaultText"
 msgid "Armor Rating Bonus {percent}"
-msgstr "Bonus k hodnocení zbroje {procento}"
+msgstr "Bonus k hodnocení zbroje {percent}"
 
 #: game/gui:2643
 msgctxt "game/gui:2643:DefaultText"
 msgid "Skill Bonus {percent}"
-msgstr "Bonus za dovednost {procento}"
+msgstr "Bonus za dovednost {percent}"
 
 #: game/gui:2644
 msgctxt "game/gui:2644:DefaultText"
@@ -11224,7 +11224,7 @@ msgstr "Upravte si atributy a vyberte si, na co se chcete specializovat. Pozor! 
 #: game/gui:2647
 msgctxt "game/gui:2647:DefaultText"
 msgid "Points Remaining: {value}"
-msgstr "Zbývající body: {hodnota}"
+msgstr "Zbývající body: {value}"
 
 #: game/gui:2648
 msgctxt "game/gui:2648:DefaultText"
@@ -11234,7 +11234,7 @@ msgstr "Odemknutí silových útoků a útoků s rozmachem pro vědecké zbraně
 #: game/gui:2649
 msgctxt "game/gui:2649:DefaultText"
 msgid "Companion Damage Bonus {percent}"
-msgstr "Bonus k poškození společníka {procento}"
+msgstr "Bonus k poškození společníka {percent}"
 
 #: game/gui:2650
 msgctxt "game/gui:2650:DefaultText"
@@ -11364,7 +11364,7 @@ msgstr "Vertikální nos"
 #: game/gui:2682
 msgctxt "game/gui:2682:DefaultText"
 msgid "Power Attack Damage {percent}"
-msgstr "Poškození silovým útokem {procento}"
+msgstr "Poškození při silovém útoku {percent}"
 
 #: game/gui:2683
 msgctxt "game/gui:2683:DefaultText"
@@ -11414,7 +11414,7 @@ msgstr "Citlivost ovladače"
 #: game/gui:2693
 msgctxt "game/gui:2693:DefaultText"
 msgid "Companion Ability Cooldown {mpercent}"
-msgstr "Prodleva schopnosti společníka {procento}"
+msgstr "Doba trvání schopnosti společníka {mpercent}"
 
 #: game/gui:2694
 msgctxt "game/gui:2694:DefaultText"
@@ -11424,7 +11424,7 @@ msgstr "Vyzvednutí zásilky Celeste"
 #: game/gui:2695
 msgctxt "game/gui:2695:DefaultText"
 msgid "Chance to reset a Companion Ability cooldown when using the other Companion's Ability {chance}"
-msgstr "Šance na obnovení doby platnosti schopnosti společníka při použití schopnosti jiného společníka {šance}"
+msgstr "Šance na obnovení doby platnosti schopnosti společníka při použití schopnosti jiného společníka. {chance}"
 
 #: game/gui:2696
 msgctxt "game/gui:2696:DefaultText"
@@ -11436,7 +11436,7 @@ msgstr "\"Petey říká, že mě miluješ.\" \"Ty mě miluješ.\" \"To ano, chla
 #: game/gui:2697
 msgctxt "game/gui:2697:DefaultText"
 msgid "{percent} Natural Health Regeneration"
-msgstr "{procenta} Přírodní regenerace zdraví"
+msgstr "{percent} Přírodní regenerace zdraví"
 
 #: game/gui:2698
 msgctxt "game/gui:2698:DefaultText"
@@ -11456,27 +11456,27 @@ msgstr "Když společníci zabijí nepřítele, všechny schopnosti společník�
 #: game/gui:2701
 msgctxt "game/gui:2701:DefaultText"
 msgid "Power and Sweep Attack Chance to Stun +{chance}"
-msgstr "Šance na omráčení při silném a bleskovém útoku +{šance}"
+msgstr "Šance na omráčení při silném a bleskovém útoku +{chance}"
 
 #: game/gui:2702
 msgctxt "game/gui:2702:DefaultText"
 msgid "Power and Sweep Attack Chance to Knockdown +{chance}"
-msgstr "Síla a šance na omráčení +{šance}"
+msgstr "Síla a šance na omráčení při útoku +{chance}"
 
 #: game/gui:2703
 msgctxt "game/gui:2703:DefaultText"
 msgid "Handgun Critical Damage {percent}"
-msgstr "Kritické poškození z ruční zbraně {procento}"
+msgstr "Kritické poškození z ruční zbraně {percent}"
 
 #: game/gui:2704
 msgctxt "game/gui:2704:DefaultText"
 msgid "Long Guns Critical Damage {percent}"
-msgstr "Kritické poškození dlouhých zbraní {procento}"
+msgstr "Kritické poškození dlouhých zbraní {percent}"
 
 #: game/gui:2705
 msgctxt "game/gui:2705:DefaultText"
 msgid "Heavy Weapons Critical Damage {percent}"
-msgstr "Kritické poškození těžkých zbraní {procento}"
+msgstr "Kritické poškození těžkých zbraní {percent}"
 
 #: game/gui:2706
 msgctxt "game/gui:2706:DefaultText"
@@ -11486,7 +11486,7 @@ msgstr "Když společník zabije nepřítele, zkrátí se doba odezvy schopnost�
 #: game/gui:2707
 msgctxt "game/gui:2707:DefaultText"
 msgid "Chance to reset a Companion Ability cooldown on each Critical Hit {chance}"
-msgstr "Šance na obnovení doby trvání schopnosti společníka při každém kritickém zásahu {šance}"
+msgstr "Šance na obnovení doby trvání schopnosti společníka při každém kritickém zásahu. {chance}"
 
 #: game/gui:2708
 msgctxt "game/gui:2708:DefaultText"
@@ -11521,7 +11521,7 @@ msgstr "Elitní vězeňská jednotka, která nosí těžkou zbroj a používá d
 #: game/gui:2714
 msgctxt "game/gui:2714:DefaultText"
 msgid "Damage while under 25% Health {percent}"
-msgstr "Poškození pod 25 % zdraví {procenta}"
+msgstr "Poškození pod 25 % zdraví {percent}"
 
 #: game/gui:2715
 msgctxt "game/gui:2715:DefaultText"
@@ -11536,12 +11536,12 @@ msgstr "Vrátit kategorii"
 #: game/gui:2717
 msgctxt "game/gui:2717:DefaultText"
 msgid "Chance to Reset Ability Cooldown on Ability Use {chance}"
-msgstr "Šance na obnovení doby trvání schopnosti při použití schopnosti {šance}"
+msgstr "Šance na obnovení doby odezvy schopnosti při použití schopnosti {chance}"
 
 #: game/gui:2718
 msgctxt "game/gui:2718:DefaultText"
 msgid "Chance to Reset Ability Cooldown on Kill {chance}"
-msgstr "Šance na obnovení doby odezvy schopnosti při zabití {šance}"
+msgstr "Šance na obnovení doby odezvy schopností při zabití {chance}"
 
 #: game/gui:2719
 msgctxt "game/gui:2719:DefaultText"
@@ -11838,7 +11838,7 @@ msgstr "V této knize společníků najdete vše, co potřebujete vědět o svý
 #: game/gui:2777
 msgctxt "game/gui:2777:DefaultText"
 msgid "Dialog Combat Effect Duration {percent}"
-msgstr "Trvání bojového efektu dialogu {procento}"
+msgstr "Trvání bojového efektu dialogu {percent}"
 
 #: game/gui:2778
 msgctxt "game/gui:2778:DefaultText"
@@ -11848,27 +11848,27 @@ msgstr "Dostupné výhody:"
 #: game/gui:2779
 msgctxt "game/gui:2779:DefaultText"
 msgid "Damage to Creatures {percent}"
-msgstr "Poškození tvorů {procenta}"
+msgstr "Poškození tvorů {percent}"
 
 #: game/gui:2780
 msgctxt "game/gui:2780:DefaultText"
 msgid "Damage to Corporate Military {percent}"
-msgstr "Škody způsobené vojenským podnikům {procento}"
+msgstr "Poškození vojenských společností {percent}"
 
 #: game/gui:2781
 msgctxt "game/gui:2781:DefaultText"
 msgid "Damage to Automechanicals {percent}"
-msgstr "Poškození automechaniky {procento}"
+msgstr "Poškození automechaniky {percent}"
 
 #: game/gui:2782
 msgctxt "game/gui:2782:DefaultText"
 msgid "Damage to Cowering Enemies {percent}"
-msgstr "Poškození krčících se nepřátel {procento}"
+msgstr "Poškození krčících se nepřátel {percent}"
 
 #: game/gui:2783
 msgctxt "game/gui:2783:DefaultText"
 msgid "Radius of Footstep Sounds {percent}"
-msgstr "Poloměr krokových zvuků {procenta}"
+msgstr "Poloměr krokových zvuků {percent}"
 
 #: game/gui:2784
 msgctxt "game/gui:2784:DefaultText"
@@ -11917,12 +11917,12 @@ msgstr "AG534: \"Hefaistos\" - Nejbližší planeta ke Slunci. Těžební spole�
 #: game/gui:2791
 msgctxt "game/gui:2791:DefaultText"
 msgid "Negative Reputation per Kill {percent}"
-msgstr "Negativní reputace na zabití {procento}"
+msgstr "Negativní reputace za zabití {percent}"
 
 #: game/gui:2792
 msgctxt "game/gui:2792:DefaultText"
 msgid "+{mpercent} Chance to extract Mods in the Field"
-msgstr "+{procenta} Šance na extrakci modů v terénu"
+msgstr "+{mpercent} Šance na extrakci modů v terénu"
 
 #: game/gui:2793
 msgctxt "game/gui:2793:DefaultText"
@@ -12850,7 +12850,7 @@ msgstr "Vědecké zbraně mají zvláštní a užitečné efekty, ale také způ
 #: game/gui:2969
 msgctxt "game/gui:2969:DefaultText"
 msgid "You have acquired '{item_name}'."
-msgstr "Získali jste '{název_předmětu}'."
+msgstr "Získali jste '{item_name}'."
 
 #: game/gui:2970
 msgctxt "game/gui:2970:DefaultText"
@@ -12931,12 +12931,12 @@ msgstr "Všichni zaměstnanci společnosti Spacer's Choice musí každý den min
 #: game/gui:2982
 msgctxt "game/gui:2982:DefaultText"
 msgid "- {name}"
-msgstr "- {jméno}"
+msgstr "- {name}"
 
 #: game/gui:2983
 msgctxt "game/gui:2983:DefaultText"
 msgid "Recover {mpercent} Health when fatally wounded"
-msgstr "Obnovení {procenta} zdraví při smrtelném zranění"
+msgstr "Obnovení zdraví {mpercent} při smrtelném zranění."
 
 #: game/gui:2984
 msgctxt "game/gui:2984:DefaultText"
@@ -13001,7 +13001,7 @@ msgstr "Poté, co na vás opakovaně plivou vesmírní sudokopytníci, nebojujet
 #: game/gui:3002
 msgctxt "game/gui:3002:DefaultText"
 msgid "Lasts {duration}"
-msgstr "Trvá {délka}"
+msgstr "Vydrží {duration}"
 
 #: game/gui:3003
 msgctxt "game/gui:3003:DefaultText"
@@ -13011,7 +13011,7 @@ msgstr "1 rok"
 #: game/gui:3004
 msgctxt "game/gui:3004:DefaultText"
 msgid "{value} years"
-msgstr "{hodnota} let"
+msgstr "{value} let"
 
 #: game/gui:3005
 msgctxt "game/gui:3005:DefaultText"
@@ -13021,7 +13021,7 @@ msgstr "1 měsíc"
 #: game/gui:3006
 msgctxt "game/gui:3006:DefaultText"
 msgid "{value} months"
-msgstr "{hodnota} měsíců"
+msgstr "{value} měsíce"
 
 #: game/gui:3007
 msgctxt "game/gui:3007:DefaultText"
@@ -13031,7 +13031,7 @@ msgstr "1 týden"
 #: game/gui:3008
 msgctxt "game/gui:3008:DefaultText"
 msgid "{value} weeks"
-msgstr "{hodnota} týdnů"
+msgstr "{value} týdny"
 
 #: game/gui:3009
 msgctxt "game/gui:3009:DefaultText"
@@ -13041,7 +13041,7 @@ msgstr "1 den"
 #: game/gui:3010
 msgctxt "game/gui:3010:DefaultText"
 msgid "{value} days"
-msgstr "{hodnota} dnů"
+msgstr "{value} dny"
 
 #: game/gui:3011
 msgctxt "game/gui:3011:DefaultText"
@@ -13051,7 +13051,7 @@ msgstr "1 hodina"
 #: game/gui:3012
 msgctxt "game/gui:3012:DefaultText"
 msgid "{value} hours"
-msgstr "{hodnota} hodin"
+msgstr "{value} hodiny"
 
 #: game/gui:3013
 msgctxt "game/gui:3013:DefaultText"
@@ -13061,7 +13061,7 @@ msgstr "1 minuta"
 #: game/gui:3014
 msgctxt "game/gui:3014:DefaultText"
 msgid "{value} minutes"
-msgstr "{hodnota} minut"
+msgstr "{value} minuty"
 
 #: game/gui:3015
 msgctxt "game/gui:3015:DefaultText"
@@ -13071,12 +13071,12 @@ msgstr "1 sekunda"
 #: game/gui:3016
 msgctxt "game/gui:3016:DefaultText"
 msgid "{value} seconds"
-msgstr "{hodnota} sekund"
+msgstr "{value} sekundy"
 
 #: game/gui:3017
 msgctxt "game/gui:3017:DefaultText"
 msgid "{value}, "
-msgstr "{hodnota}, "
+msgstr "{value}, "
 
 #: game/gui:3018
 msgctxt "game/gui:3018:DefaultText"
@@ -13164,7 +13164,7 @@ msgstr "Útočník na dálku, který nosí střední zbroj a útočí puškami."
 #: game/gui:3033
 msgctxt "game/gui:3033:DefaultText"
 msgid "{name}: {text}"
-msgstr "{jméno}: {text}"
+msgstr "{name}: {text}"
 
 #: game/gui:3034
 msgctxt "game/gui:3034:DefaultText"
@@ -13732,12 +13732,12 @@ msgstr "kg"
 #: game/gui:3163
 msgctxt "game/gui:3163:DefaultText"
 msgid "[{input}]"
-msgstr "[{vstup}]"
+msgstr "[{input}]"
 
 #: game/gui:3164
 msgctxt "game/gui:3164:DefaultText"
 msgid "Select destination on {name}"
-msgstr "Vyberte cíl na {jméno}"
+msgstr "Výběr místa určení na {name}"
 
 #: game/gui:3165
 msgctxt "game/gui:3165:DefaultText"
@@ -13752,12 +13752,12 @@ msgstr "Společníky můžete učinit odolnějšími: dát jim lepší brnění,
 #: game/gui:3167
 msgctxt "game/gui:3167:DefaultText"
 msgid "Effect Duration from items slotted in the Medical Inhaler {percent}"
-msgstr "Doba trvání účinku z položek ve slotu Lékařský inhalátor {procenta}"
+msgstr "Doba trvání účinku položek ve slotu Lékařský inhalátor {percent}"
 
 #: game/gui:3168
 msgctxt "game/gui:3168:DefaultText"
 msgid "Volume of Footsteps {percent}"
-msgstr "Objem kroků {procento}"
+msgstr "Objem kroků {percent}"
 
 #: game/gui:3169
 msgctxt "game/gui:3169:DefaultText"
@@ -13775,7 +13775,7 @@ msgstr "Vyžaduje ID: {key}"
 #: game/gui:3171
 msgctxt "game/gui:3171:DefaultText"
 msgid "Cause Burn Duration {percent}"
-msgstr "Příčina Doba trvání popálení {procento}"
+msgstr "Příčina Délka popálení {percent}"
 
 #: game/gui:3172
 msgctxt "game/gui:3172:DefaultText"
@@ -13810,7 +13810,7 @@ msgstr "V současné době nelze provést akci načtení."
 #: game/gui:3178
 msgctxt "game/gui:3178:DefaultText"
 msgid "Cause Bleed Duration {percent}"
-msgstr "Příčina Trvání krvácení {procento}"
+msgstr "Příčina Trvání krvácení {percent}"
 
 #: game/gui:3179
 msgctxt "game/gui:3179:DefaultText"
@@ -13821,7 +13821,7 @@ msgstr "Supernovu lze vybrat pouze na začátku dobrodružství. Pokud snížít
 #: game/gui:3181
 msgctxt "game/gui:3181:DefaultText"
 msgid "Please wait until download/copy is complete: {value}%"
-msgstr "Vyčkejte, dokud nebude stahování/kopírování dokončeno: {hodnota}%"
+msgstr "Vyčkejte prosím na dokončení stahování/kopírování: {value}%"
 
 #: game/gui:3182
 msgctxt "game/gui:3182:DefaultText"
@@ -13836,22 +13836,22 @@ msgstr "Vyžaduje holografický plášť"
 #: game/gui:3184
 msgctxt "game/gui:3184:DefaultText"
 msgid "Damage when alone in party {percent}"
-msgstr "Poškození, když je ve skupině sám {procento}"
+msgstr "Poškození, když je ve skupině sám {percent}"
 
 #: game/gui:3189
 msgctxt "game/gui:3189:DefaultText"
 msgid "{key} cannot be rebound."
-msgstr "{klíč} nemůže být odražený."
+msgstr "{key} nelze odrazit."
 
 #: game/gui:3190
 msgctxt "game/gui:3190:DefaultText"
 msgid "{key} cannot be assigned to {action}."
-msgstr "{klíč} nelze přiřadit k {akci}."
+msgstr "{key} nelze přiřadit na adresu {action}."
 
 #: game/gui:3191
 msgctxt "game/gui:3191:DefaultText"
 msgid "{key} is currently assigned to {action}."
-msgstr "{klíč} je aktuálně přiřazen k {akci}."
+msgstr "{key} je v současné době přiřazen k {action}."
 
 #: game/gui:3192
 msgctxt "game/gui:3192:DefaultText"
@@ -13859,7 +13859,7 @@ msgid "Missing keybinds!\n"
 "These actions will not work until you bind them to a key:\n"
 "{actions}\n"
 "Exit anyway?"
-msgstr "Chybějící vazby kláves! Tyto akce nebudou fungovat, dokud je nepřiřadíte ke klávese: {actions} Exit anyway?"
+msgstr "Chybějící vazby kláves! Tyto akce nebudou fungovat, dokud je nepřiřadíte ke klávese:{actions}Exit anyway?"
 
 #: game/gui:3197
 msgctxt "game/gui:3197:DefaultText"
@@ -13960,57 +13960,57 @@ msgstr "Změna reputace"
 #: game/gui:3216
 msgctxt "game/gui:3216:DefaultText"
 msgid "Companion Ability Refresh {percent}"
-msgstr "Obnovení schopnosti společníka {procento}"
+msgstr "Obnovení schopnosti společníka {percent}"
 
 #: game/gui:3217
 msgctxt "game/gui:3217:DefaultText"
 msgid "Melee Weapon Attack Speed {percent}"
-msgstr "Rychlost útoku zbraní pro boj zblízka {procento}"
+msgstr "Rychlost útoku zbraní pro boj zblízka {percent}"
 
 #: game/gui:3218
 msgctxt "game/gui:3218:DefaultText"
 msgid "Melee Weapon Durability {percent}"
-msgstr "Odolnost zbraně pro boj zblízka {procento}"
+msgstr "Odolnost zbraní pro boj zblízka {percent}"
 
 #: game/gui:3219
 msgctxt "game/gui:3219:DefaultText"
 msgid "Weapon Durability from Quick Strikes {percent}"
-msgstr "Odolnost zbraně z rychlých úderů {procento}"
+msgstr "Odolnost zbraně z rychlých úderů {percent}"
 
 #: game/gui:3220
 msgctxt "game/gui:3220:DefaultText"
 msgid "Ranged Weapon Durability {percent}"
-msgstr "Odolnost zbraně na dálku {procento}"
+msgstr "Odolnost zbraní na dálku {percent}"
 
 #: game/gui:3221
 msgctxt "game/gui:3221:DefaultText"
 msgid "Ranged Weapon Reload Speed {percent}"
-msgstr "Rychlost dobíjení zbraní na dálku {procenta}"
+msgstr "Rychlost dobíjení zbraní na dálku {percent}"
 
 #: game/gui:3222
 msgctxt "game/gui:3222:DefaultText"
 msgid "Heavy Weapons Reload Speed {percent}"
-msgstr "Rychlost dobíjení těžkých zbraní {procento}"
+msgstr "Rychlost dobíjení těžkých zbraní {percent}"
 
 #: game/gui:3223
 msgctxt "game/gui:3223:DefaultText"
 msgid "Tactical Time Dilation Move Time {percent}"
-msgstr "Taktická časová dilatace Čas přesunu {procenta}"
+msgstr "Taktická časová dilatace Čas pohybu {percent}"
 
 #: game/gui:3224
 msgctxt "game/gui:3224:DefaultText"
 msgid "Science Weapon Effects {percent}"
-msgstr "Účinky vědecké zbraně {procento}"
+msgstr "Efekty vědeckých zbraní {percent}"
 
 #: game/gui:3225
 msgctxt "game/gui:3225:DefaultText"
 msgid "Science Weapons Ignore {mpercent} Armor"
-msgstr "Vědecké zbraně Ignorovat {procento} Brnění"
+msgstr "Vědecké zbraně ignorují {mpercent} Armor"
 
 #: game/gui:3226
 msgctxt "game/gui:3226:DefaultText"
 msgid "Science Weapon Crit Chance {mpercent}"
-msgstr "Kritická šance vědecké zbraně {procento}"
+msgstr "Kritická šance vědecké zbraně {mpercent}"
 
 #: game/gui:3227
 msgctxt "game/gui:3227:DefaultText"
@@ -14020,7 +14020,7 @@ msgstr "Další zvýšení poškození způsobeného vědeckými zbraněmi (stoh
 #: game/gui:3228
 msgctxt "game/gui:3228:DefaultText"
 msgid "Weapon Range {percent}"
-msgstr "Dosah zbraně {procento}"
+msgstr "Dosah zbraně {percent}"
 
 #: game/gui:3229
 msgctxt "game/gui:3229:DefaultText"
@@ -14525,12 +14525,12 @@ msgstr "Toto rozložení ovládání přesouvá schopnost taktické časové dil
 #: game/gui:3329
 msgctxt "game/gui:3329:DefaultText"
 msgid "HOLD {name}"
-msgstr "HOLD {jméno}"
+msgstr "HOLD {name}"
 
 #: game/gui:3330
 msgctxt "game/gui:3330:DefaultText"
 msgid "CLICK {name}"
-msgstr "KLIKNĚTE na {jméno}"
+msgstr "KLIKNĚTE NA {name}"
 
 #: game/gui:3331
 msgctxt "game/gui:3331:DefaultText"
@@ -14656,7 +14656,7 @@ msgstr "Všechny zbraně mají při každém úspěšném útoku náhodnou šanc
 #: game/gui:3355
 msgctxt "game/gui:3355:DefaultText"
 msgid "You can now travel to {location} from your ship."
-msgstr "Nyní můžete ze své lodi cestovat do {místa}."
+msgstr "Nyní můžete z lodi cestovat na {location}."
 
 #: game/gui:3356
 msgctxt "game/gui:3356:DefaultText"
@@ -14671,12 +14671,12 @@ msgstr "Instalace kanystru na sedativní plyn"
 #: game/gui:3358
 msgctxt "game/gui:3358:DefaultText"
 msgid "You have gained: {item_name} x{item_count}."
-msgstr "Získali jste: {název_položky} x{počet_položek}."
+msgstr "Získali jste: {item_name} x{item_count}."
 
 #: game/gui:3359
 msgctxt "game/gui:3359:DefaultText"
 msgid "You have lost: {item_name} x{item_count}."
-msgstr "Ztratili jste: {název_položky} x{počet_položek}."
+msgstr "Ztratili jste: {item_name} x{item_count}."
 
 #: game/gui:3360
 msgctxt "game/gui:3360:DefaultText"
@@ -14766,7 +14766,7 @@ msgstr "Bezdrátový ovladač odpojen."
 #: game/gui:3378
 msgctxt "game/gui:3378:DefaultText"
 msgid "Repair - {category}"
-msgstr "Opravy - {kategorie}"
+msgstr "Oprava - {category}"
 
 #: game/gui:3379
 msgctxt "game/gui:3379:DefaultText"
@@ -14797,17 +14797,17 @@ msgstr "Nyní k dispozici"
 #: game/gui:3387
 msgctxt "game/gui:3387:DefaultText"
 msgid "Engineering {value}: "
-msgstr "Inženýrství {hodnota}: "
+msgstr "Inženýrství {value}: "
 
 #: game/gui:3388
 msgctxt "game/gui:3388:DefaultText"
 msgid "{mpercent} chance to extract a Basic Mod"
-msgstr "{procentní} šance na získání základního modulu"
+msgstr "{mpercent} možnost extrahovat základní mod"
 
 #: game/gui:3389
 msgctxt "game/gui:3389:DefaultText"
 msgid "{mpercent} chance to extract a Rare Mod"
-msgstr "{procentní} šance na získání vzácného modu"
+msgstr "{mpercent} šanci získat vzácný mod"
 
 #: game/gui:3390
 msgctxt "game/gui:3390:DefaultText"
@@ -14827,12 +14827,12 @@ msgstr "Modifikace nelze po instalaci obnovit."
 #: game/gui:3394
 msgctxt "game/gui:3394:DefaultText"
 msgid "Modify {name} with {name2}?"
-msgstr "Upravit {jméno} pomocí {jméno2}?"
+msgstr "Upravit {name} pomocí {name2}?"
 
 #: game/gui:3395
 msgctxt "game/gui:3395:DefaultText"
 msgid "{name} is currently installed and will be lost."
-msgstr "{jméno} je v současné době nainstalováno a bude ztraceno."
+msgstr "{name} je v současné době nainstalován a bude ztracen."
 
 #: game/gui:3396
 msgctxt "game/gui:3396:DefaultText"
@@ -14939,7 +14939,7 @@ msgstr "S dovedností Vědec můžete vylepšovat zbroj a zbraně u pracovního 
 #: game/gui:3416
 msgctxt "game/gui:3416:DefaultText"
 msgid "Armor Rating when using a Melee Weapon +{value}"
-msgstr "Hodnocení zbroje při použití zbraně pro boj zblízka +{hodnota}"
+msgstr "Hodnocení zbroje při použití zbraně pro boj zblízka +{value}"
 
 #: game/gui:3417
 msgctxt "game/gui:3417:DefaultText"
@@ -15081,7 +15081,7 @@ msgstr "Útoky na dálku, boje zblízka, modifikace zbroje"
 #: game/gui:3449
 msgctxt "game/gui:3449:DefaultText"
 msgid "{item_name} x{item_count}"
-msgstr "{název_položky} x{počet_položek}"
+msgstr "{item_name} x{item_count}"
 
 #: game/gui:3450
 msgctxt "game/gui:3450:DefaultText"
@@ -15315,7 +15315,7 @@ msgstr "Zatím jste neodemkli schopnost Tinker. Vylepšete si dovednost Věda na
 #: game/gui:3500
 msgctxt "game/gui:3500:DefaultText"
 msgid "NPC Awareness Decay Rate {percent}"
-msgstr "Míra úpadku povědomí NPC {procento}"
+msgstr "Rychlost rozpadu povědomí o NPC {percent}"
 
 #: game/gui:3501
 msgctxt "game/gui:3501:DefaultText"
@@ -15531,7 +15531,7 @@ msgstr "Resetování schopností!"
 #: game/gui:3542
 msgctxt "game/gui:3542:DefaultText"
 msgid "{value} Cooldown!"
-msgstr "{hodnota} Cooldown!"
+msgstr "{value} Cooldown!"
 
 #: game/gui:3543
 msgctxt "game/gui:3543:DefaultText"
@@ -16910,7 +16910,7 @@ msgstr "Mantisauři mohou blokovat útoky pomocí energie, čímž se na krátko
 #: game/gui:3792
 msgctxt "game/gui:3792:DefaultText"
 msgid "Companion Health +{value}"
-msgstr "Zdraví společníků +{hodnota}"
+msgstr "Companion Health +{value}"
 
 #: game/gui:3793
 msgctxt "game/gui:3793:DefaultText"
@@ -16930,7 +16930,7 @@ msgstr "Lze nabíjet."
 #: game/gui:3796
 msgctxt "game/gui:3796:DefaultText"
 msgid "Tinkered by {name}"
-msgstr "Tinkered by {jméno}"
+msgstr "Tinkered by {name}"
 
 #: game/gui:3797
 msgctxt "game/gui:3797:DefaultText"
@@ -17004,7 +17004,7 @@ msgstr "HUD"
 #: game/gui:3813
 msgctxt "game/gui:3813:DefaultText"
 msgid "{value} Body Attributes when at or above 50% Carrying Capacity."
-msgstr "{hodnota} Atributy těla při nosnosti 50 % nebo vyšší."
+msgstr "{value} Atributy těla při nosnosti 50 % nebo vyšší."
 
 #: game/gui:3814
 msgctxt "game/gui:3814:DefaultText"
@@ -17028,7 +17028,7 @@ msgstr "K dispozici je 5 typů poškození - fyzikální, plazmové, korozní, �
 #: game/gui:3837
 msgctxt "game/gui:3837:DefaultText"
 msgid "Weapon Durability {percent}"
-msgstr "Odolnost zbraně {procento}"
+msgstr "Odolnost zbraně {percent}"
 
 #: game/gui:3838
 msgctxt "game/gui:3838:DefaultText"
@@ -17043,7 +17043,7 @@ msgstr "Jazyk lze změnit pouze v hlavní nabídce."
 #: game/gui:3840
 msgctxt "game/gui:3840:DefaultText"
 msgid "You are about to unbind a key from {actionname}, are you sure?"
-msgstr "Chystáte se zrušit vazbu klíče z {název akce}, jste si jisti?"
+msgstr "Chystáte se zrušit vazbu klíče z adresy {actionname}, jste si jisti?"
 
 #: game/gui:3841
 msgctxt "game/gui:3841:DefaultText"
@@ -17053,7 +17053,7 @@ msgstr "Chcete obnovit výchozí nastavení všech ovládacích prvků?"
 #: game/gui:3842
 msgctxt "game/gui:3842:DefaultText"
 msgid "{actionname} is currently bound to"
-msgstr "{název akce} je v současné době vázán na"
+msgstr "{actionname} je v současné době vázán na"
 
 #: game/gui:3843
 msgctxt "game/gui:3843:DefaultText"
@@ -17063,7 +17063,7 @@ msgstr "{currentbinding}"
 #: game/gui:3844
 msgctxt "game/gui:3844:DefaultText"
 msgid "{actionname} is currently unbound."
-msgstr "{název akce} je v současné době nevázaný."
+msgstr "{actionname} je v současné době bez vazby."
 
 #: game/gui:3845
 msgctxt "game/gui:3845:DefaultText"
@@ -17189,7 +17189,7 @@ msgstr "Ukrást vše"
 #: game/gui:3875
 msgctxt "game/gui:3875:DefaultText"
 msgid "Repair all equipped items for {value} weapon parts and {value2} armor parts?"
-msgstr "Opravit všechny vybavené předměty na {hodnota} části zbraní a {hodnota2} části brnění?"
+msgstr "Oprava všech vybavených předmětů pro {value} části zbraní a {value2} části brnění?"
 
 #: game/gui:3876
 msgctxt "game/gui:3876:DefaultText"
@@ -17215,7 +17215,7 @@ msgstr "<společník> má momentálně na sobě převlek. Opusťte zakázanou ob
 #: game/gui:3880
 msgctxt "game/gui:3880:DefaultText"
 msgid "Requires {total_perks} previous perk."
-msgstr "Vyžaduje předchozí perk {total_perks}."
+msgstr "Vyžaduje předchozí bonus {total_perks}."
 
 #: game/gui:3881
 msgctxt "game/gui:3881:DefaultText"
@@ -17225,7 +17225,7 @@ msgstr "Zbraň na dálku, zbraň na blízko, zbroj a přilba, kterými je tento 
 #: game/gui:3882
 msgctxt "game/gui:3882:DefaultText"
 msgid "Max Saves: {current} / {max}"
-msgstr "Maximální úspory: {aktuální} / {max}"
+msgstr "Maximální úspory: {current} / {max}"
 
 #: game/gui:3883
 msgctxt "game/gui:3883:DefaultText"
@@ -17261,7 +17261,7 @@ msgstr "Klíč pro opětovné svázání"
 msgctxt "game/gui:3890:DefaultText"
 msgid "{companion} gained the {perk} perk.\r\n"
 "See {companion}'s Details tab for more info."
-msgstr "{společník} získal perk {perk}. Další informace naleznete na kartě Podrobnosti o {společníkovi}."
+msgstr "{companion} získal výhodu {perk}. Další informace naleznete na kartě Podrobnosti na {companion}."
 
 #: game/gui:3891
 msgctxt "game/gui:3891:DefaultText"
@@ -17340,7 +17340,7 @@ msgstr "Jste si jisti, že chcete pokračovat bez uložení postupu?"
 #: game/gui:3905
 msgctxt "game/gui:3905:DefaultText"
 msgid "{keyname} cannot be rebound."
-msgstr "{jméno klíče} nemůže být odraženo."
+msgstr "{keyname} nelze odrazit."
 
 #: game/gui:3906
 msgctxt "game/gui:3906:DefaultText"
@@ -17359,7 +17359,7 @@ msgid "Weight allowance:\r\n"
 "Alone - {weight1}\r\n"
 "One Companion - {weight2}\r\n"
 "Two Companions - {weight3}"
-msgstr "Příspěvek na váhu: Sám - {váha1} Jeden společník - {váha2} Dva společníci - {váha3}"
+msgstr "Hmotnostní limit: Sám - {weight1}Jeden společník - {weight2}Dva společníci - {weight3}"
 
 #: game/gui:3912
 msgctxt "game/gui:3912:DefaultText"
@@ -17371,7 +17371,7 @@ msgstr "Máte neuložená grafická nastavení. Chcete je nyní použít?"
 msgctxt "game/gui:3913:DefaultText"
 msgid "Would you like to keep these graphics settings?\r\n"
 "Settings will be reverted in {time} seconds."
-msgstr "Chcete zachovat toto nastavení grafiky? Nastavení bude vráceno za {čas} sekund."
+msgstr "Chcete zachovat toto nastavení grafiky? Nastavení bude vráceno za {time} sekund."
 
 #: game/gui:3914
 msgctxt "game/gui:3914:DefaultText"
@@ -17381,7 +17381,7 @@ msgstr "Toto jméno není k dispozici. Vyberte prosím jiné."
 #: game/gui:3915
 msgctxt "game/gui:3915:DefaultText"
 msgid "Tactical Time Dilation Meter +{mpercent}"
-msgstr "Taktický měřič časové dilatace +{procenta}"
+msgstr "Taktický měřič časové dilatace +{mpercent}"
 
 #: game/gui:3916
 msgctxt "game/gui:3916:DefaultText"
@@ -17558,7 +17558,7 @@ msgstr "Nastavte osu X každé tyče na hodnotu Normální (vlevo je vlevo) nebo
 #: game/gui:3980
 msgctxt "game/gui:3980:DefaultText"
 msgid "PRESS {name}"
-msgstr "PRESS {jméno}"
+msgstr "TISK {name}"
 
 #: game/gui:3981
 msgctxt "game/gui:3981:DefaultText"
@@ -17811,7 +17811,7 @@ msgstr "Vzhledem k podnikovým předpisům se cena zvyšuje při každém použi
 #: game/gui:4037
 msgctxt "game/gui:4037:DefaultText"
 msgid "Companions gain {percent} Armor Rating"
-msgstr "Společníci získají {procento} Hodnocení zbroje"
+msgstr "Společníci získají {percent} Hodnocení zbroje"
 
 #: game/gui:4038
 msgctxt "game/gui:4038:DefaultText"
@@ -17841,7 +17841,7 @@ msgstr "Více úkolů"
 #: game/gui:4043
 msgctxt "game/gui:4043:DefaultText"
 msgid "• {entry}"
-msgstr "- {vstup}"
+msgstr "- {entry}"
 
 #: game/gui:4044
 msgctxt "game/gui:4044:DefaultText"
@@ -17856,7 +17856,7 @@ msgstr "Upravte velikost textu na obrazovce. Posunutím posuvníku doprava se te
 #: game/gui:4048
 msgctxt "game/gui:4048:DefaultText"
 msgid "DOUBLE CLICK {name}"
-msgstr "DVOJKRÁT KLIKNĚTE na {jméno}"
+msgstr "DVOJITÉ KLIKNUTÍ {name}"
 
 #: game/gui:4049
 msgctxt "game/gui:4049:DefaultText"
@@ -17988,17 +17988,17 @@ msgstr "Vyberte úkol, který chcete aktivovat"
 #: game/gui:4084
 msgctxt "game/gui:4084:DefaultText"
 msgid "DOUBLE CLICK {name}"
-msgstr "DVOJKRÁT KLIKNĚTE na {jméno}"
+msgstr "DVOJITÉ KLIKNUTÍ {name}"
 
 #: game/gui:4085
 msgctxt "game/gui:4085:DefaultText"
 msgid "DOUBLE CLICK {name}"
-msgstr "DVOJKRÁT KLIKNĚTE na {jméno}"
+msgstr "DVOJITÉ KLIKNUTÍ {name}"
 
 #: game/gui:4086
 msgctxt "game/gui:4086:DefaultText"
 msgid "DOUBLE CLICK {name}"
-msgstr "DVOJKRÁT KLIKNĚTE na {jméno}"
+msgstr "DVOJITÉ KLIKNUTÍ {name}"
 
 #: game/gui:4087
 msgctxt "game/gui:4087:DefaultText"
@@ -18249,12 +18249,12 @@ msgstr "Když je SAM ve skupině, vy a vaši společníci dostáváte snížené
 #: game/gui:4147
 msgctxt "game/gui:4147:DefaultText"
 msgid "Damage per Flaw {percent}"
-msgstr "Poškození na vadu {procento}"
+msgstr "Poškození na vadu {percent}"
 
 #: game/gui:4148
 msgctxt "game/gui:4148:DefaultText"
 msgid "Every {duration}, One of Your Flaws Changes"
-msgstr "Každou {délku} se změní jedna z vašich vad"
+msgstr "Každý {duration}, jedna z vašich vad se změní"
 
 #: game/gui:4181
 msgctxt "game/gui:4181:DefaultText"
@@ -18294,37 +18294,37 @@ msgstr "[Stub] Přenosné fonografy - INX02"
 #: game/gui:4188
 msgctxt "game/gui:4188:DefaultText"
 msgid "Quiet Weapon Damage {percent}"
-msgstr "Poškození tichou zbraní {procento}"
+msgstr "Tiché poškození zbraní {percent}"
 
 #: game/gui:4190
 msgctxt "game/gui:4190:DefaultText"
 msgid "Improvised Weapon Damage {percent}"
-msgstr "Poškození improvizovanou zbraní {procento}"
+msgstr "Poškození improvizovanými zbraněmi {percent}"
 
 #: game/gui:4191
 msgctxt "game/gui:4191:DefaultText"
 msgid "Improvised Weapon Degradation {percent}"
-msgstr "Degradace improvizovaných zbraní {procento}"
+msgstr "Degradace improvizovaných zbraní {percent}"
 
 #: game/gui:4192
 msgctxt "game/gui:4192:DefaultText"
 msgid "All Skills {value}, if no Companions in party"
-msgstr "Všechny dovednosti {hodnota}, pokud ve skupině nejsou společníci"
+msgstr "Všechny dovednosti {value}, pokud ve skupině nejsou společníci."
 
 #: game/gui:4193
 msgctxt "game/gui:4193:DefaultText"
 msgid "All Skills {value}, if no Companions recruited"
-msgstr "Všechny dovednosti {hodnota}, pokud nejsou naverbováni společníci"
+msgstr "Všechny dovednosti {value}, pokud nejsou najati společníci."
 
 #: game/gui:4194
 msgctxt "game/gui:4194:DefaultText"
 msgid "Damage per subsequent hit {percent}"
-msgstr "Poškození na následný zásah {procento}"
+msgstr "Poškození na následný zásah {percent}"
 
 #: game/gui:4195
 msgctxt "game/gui:4195:DefaultText"
 msgid "Automechanical Damage Received {percent}"
-msgstr "Obdržené automechanické poškození {procento}"
+msgstr "Přijaté automechanické poškození {percent}"
 
 #: game/gui:4216
 msgctxt "game/gui:4216:DefaultText"
@@ -18359,17 +18359,17 @@ msgstr "Nainstalováno!"
 #: game/gui:4226
 msgctxt "game/gui:4226:DefaultText"
 msgid "Swing Noise {percent}"
-msgstr "Hluk houpačky {procento}"
+msgstr "Hluk houpačky {percent}"
 
 #: game/gui:4228
 msgctxt "game/gui:4228:DefaultText"
 msgid "{value} VIRTUOSO:"
-msgstr "{hodnota} VIRTUOSO:"
+msgstr "{value} VIRTUOSO:"
 
 #: game/gui:4229
 msgctxt "game/gui:4229:DefaultText"
 msgid "1-Handed Melee Critical Hits ignore {mpercent} Armor"
-msgstr "Kritické zásahy z 1 ruky při boji zblízka ignorují {procento} Brnění"
+msgstr "Kritické zásahy z 1 ruky při boji zblízka ignorují {mpercent} brnění"
 
 #: game/gui:4230
 msgctxt "game/gui:4230:DefaultText"
@@ -18379,7 +18379,7 @@ msgstr "Kritické zásahy se odrazí a zasáhnou jiného nepřítele."
 #: game/gui:4231
 msgctxt "game/gui:4231:DefaultText"
 msgid "Non-Critical Hits ignore {mpercent} Armor"
-msgstr "Nekritické zásahy ignorovat {procento} Brnění"
+msgstr "Nekritické zásahy ignorují {mpercent} Armor"
 
 #: game/gui:4232
 msgctxt "game/gui:4232:DefaultText"
@@ -18389,7 +18389,7 @@ msgstr "Těžké zbraně se po použití poslední munice okamžitě znovu nabij
 #: game/gui:4233
 msgctxt "game/gui:4233:DefaultText"
 msgid "When Dodging, {chance} chance to Stun enemies within {distance}"
-msgstr "Při úskoku {šance} na omráčení nepřátel v {vzdálenosti}."
+msgstr "Při úskoku: {chance} šance na omráčení nepřátel v dosahu {distance}"
 
 #: game/gui:4234
 msgctxt "game/gui:4234:DefaultText"
@@ -18399,17 +18399,17 @@ msgstr "Dokonalé bloky způsobí útočníkovi poškození místo toho, aby"
 #: game/gui:4235
 msgctxt "game/gui:4235:DefaultText"
 msgid "{chance} chance Creatures you strike with Critical Hit will become Terrified"
-msgstr "{šance} šance Tvorové, které zasáhnete kritickým zásahem, se stanou vyděšenými."
+msgstr "{chance} šance, že bytosti, které zasáhnete kritickým zásahem, se stanou vyděšenými."
 
 #: game/gui:4236
 msgctxt "game/gui:4236:DefaultText"
 msgid "Chance to Cower resets after {duration}, allowing a damaged Human to Cower again"
-msgstr "Šance na skrčení se obnoví po {trvání} a umožní poškozenému člověku se znovu skrčit."
+msgstr "Šance na skrčení se obnoví po {duration}, což poškozenému člověku umožní znovu se skrčit."
 
 #: game/gui:4237
 msgctxt "game/gui:4237:DefaultText"
 msgid "Chance to Scramble resets {duration} after Automechanical attacks you"
-msgstr "Šance na Scramble se obnoví {délka trvání} po útocích Automechanical."
+msgstr "Šance na Scramble se resetuje {duration} po útoku Automechanicalu."
 
 #: game/gui:4238
 msgctxt "game/gui:4238:DefaultText"
@@ -18429,32 +18429,32 @@ msgstr "Testovací místnost INX Dialog"
 #: game/gui:4253
 msgctxt "game/gui:4253:DefaultText"
 msgid "Trickshot ignores {mpercent} Armor Rating"
-msgstr "Trickshot ignoruje {procenta} Hodnocení zbroje"
+msgstr "Trickshot ignoruje {mpercent} Armor Rating"
 
 #: game/gui:4254
 msgctxt "game/gui:4254:DefaultText"
 msgid "Max will taunt enemies within {distance} when you drop below {chance} Health"
-msgstr "Max se bude vysmívat nepřátelům ve vzdálenosti {vzdálenosti}, když klesne vaše zdraví pod {šance}."
+msgstr "Max se vysměje nepřátelům v okruhu {distance}, když klesne vaše zdraví pod {chance}."
 
 #: game/gui:4255
 msgctxt "game/gui:4255:DefaultText"
 msgid "{percent} Healing from Inhaler when under {chance} Health"
-msgstr "{procento} Léčení z inhalátoru při {šanci} Zdraví"
+msgstr "{percent} Léčení z inhalátoru pod {chance} Zdraví"
 
 #: game/gui:4257
 msgctxt "game/gui:4257:DefaultText"
 msgid "Tossball Weapon Damage {percent}"
-msgstr "Poškození zbraně Tossball {procento}"
+msgstr "Poškození zbraně Tossball {percent}"
 
 #: game/gui:4258
 msgctxt "game/gui:4258:DefaultText"
 msgid "Negative Faction Damage {percent}"
-msgstr "Negativní poškození frakce {procento}"
+msgstr "Negativní poškození frakce {percent}"
 
 #: game/gui:4259
 msgctxt "game/gui:4259:DefaultText"
 msgid "Location Discovery Experience {percent}"
-msgstr "Zkušenosti s vyhledáváním polohy {procent}"
+msgstr "Zkušenosti s objevováním polohy {percent}"
 
 #: game/gui:4267
 msgctxt "game/gui:4267:DefaultText"
@@ -18510,19 +18510,21 @@ msgstr "Příliš časté nošení příliš těžkých břemen oslabuje vaše z
 msgctxt "game/gui:4309:DefaultText"
 msgid "{name}\n"
 "is now being suppressed!"
-msgstr "{jméno} je nyní potlačeno!"
+msgstr "{name}\n"
+"je nyní potlačována!"
 
 #: game/gui:4310
 msgctxt "game/gui:4310:DefaultText"
 msgid "{name} returns to normal."
-msgstr "{jméno} se vrátí do normálního stavu."
+msgstr "{name} se vrátí do normálu."
 
 #: game/gui:4312
 msgctxt "game/gui:4312:DefaultText"
 msgid "{name}\n"
 "is being suppressed by\n"
 "{effectname}"
-msgstr "{jméno} je potlačeno {název účinku}"
+msgstr "{name}\n"
+"je potlačována{effectname}"
 
 #: game/gui:4315
 msgctxt "game/gui:4315:DefaultText"
@@ -18542,7 +18544,7 @@ msgstr "První předmět v každé uzamčené schránce, který lze volně otev�
 #: game/gui:4318
 msgctxt "game/gui:4318:DefaultText"
 msgid "After using the Inhaler, gain {percent} Damage per Consumable Slot used, lasts {duration}"
-msgstr "Po použití inhalátoru získejte {procenta} poškození za každý použitý spotřební slot, trvá {délku trvání}"
+msgstr "Po použití inhalátoru získáte {percent} poškození za každý použitý slot pro spotřební materiál. {duration}"
 
 #: game/gui:4325
 msgctxt "game/gui:4325:DefaultText"
@@ -18552,7 +18554,7 @@ msgstr "Kritická šance a kyvnost vědeckých zbraní jsou určeny vědeckou do
 #: game/gui:4326
 msgctxt "game/gui:4326:DefaultText"
 msgid "Companions provide {percent} Skill Bonus to Player Skills while on the Unreliable"
-msgstr "Společníci poskytují {procento} bonus k dovednostem hráče, když je na nespolehlivém."
+msgstr "Společníci poskytují {percent} bonus k dovednostem hráče, když je na nespolehlivém."
 
 #: game/gui:4327
 msgctxt "game/gui:4327:DefaultText"
@@ -18562,12 +18564,12 @@ msgstr "Malcontent"
 #: game/gui:4328
 msgctxt "game/gui:4328:DefaultText"
 msgid "This perk is being temporarily suppressed by {name} and cannot be used."
-msgstr "Tato výhoda je dočasně potlačena {jménem} a nelze ji používat."
+msgstr "Tato výhoda je dočasně potlačena serverem {name} a nelze ji používat."
 
 #: game/gui:4329
 msgctxt "game/gui:4329:DefaultText"
 msgid "Currently suppressing: {name}"
-msgstr "V současné době potlačuje: {jméno}"
+msgstr "V současné době potlačuje: {name}"
 
 #: game/gui:4330
 msgctxt "game/gui:4330:DefaultText"
@@ -18582,17 +18584,17 @@ msgstr "Příliš časté používání stroje na změnu profesních kompetencí
 #: game/gui:4332
 msgctxt "game/gui:4332:DefaultText"
 msgid "Your Bits: {value}"
-msgstr "Vaše kousky: {hodnota}"
+msgstr "Vaše kousky: {value}"
 
 #: game/gui:4333
 msgctxt "game/gui:4333:DefaultText"
 msgid "Your Weapon Parts: {value}"
-msgstr "Části vaší zbraně: {hodnota}"
+msgstr "Části vaší zbraně: {value}"
 
 #: game/gui:4334
 msgctxt "game/gui:4334:DefaultText"
 msgid "Your Armor Parts: {value}"
-msgstr "Části vaší zbroje: {hodnota}"
+msgstr "Součásti vašeho brnění: {value}"
 
 #: game/gui:4335
 msgctxt "game/gui:4335:DefaultText"
@@ -18602,7 +18604,7 @@ msgstr "Aktuální verze - {value}"
 #: game/gui:4336
 msgctxt "game/gui:4336:DefaultText"
 msgid "Version Mismatch - {value}"
-msgstr "Neshoda verzí - {hodnota}"
+msgstr "Neshoda verzí - {value}"
 
 #: game/gui:4337
 msgctxt "game/gui:4337:DefaultText"
@@ -18612,12 +18614,12 @@ msgstr "Uložit verzi - {value}"
 #: game/gui:4338
 msgctxt "game/gui:4338:DefaultText"
 msgid "\"{value}\" missing"
-msgstr "\"{hodnota}\" chybí"
+msgstr "\"{value}\" chybí"
 
 #: game/gui:4339
 msgctxt "game/gui:4339:DefaultText"
 msgid "\"{value}\" installed"
-msgstr "\"{hodnota}\" instalováno"
+msgstr "\"{value}\" nainstalováno"
 
 #: game/gui:4340
 msgctxt "game/gui:4340:DefaultText"
@@ -18642,12 +18644,12 @@ msgstr "Jedna výhoda bude dočasně potlačena a nebude poskytovat své výhody
 #: game/gui:4352
 msgctxt "game/gui:4352:DefaultText"
 msgid "Inserting a new Mod has a {mpercent} chance of recovering the existing Mod"
-msgstr "Vložení nového modulu má {procentní} šanci na obnovení stávajícího modulu."
+msgstr "Vložení nového modulu má šanci na obnovení stávajícího modulu {mpercent}."
 
 #: game/gui:4354
 msgctxt "game/gui:4354:DefaultText"
 msgid "Cold Damage Received {percent}"
-msgstr "Obdržené poškození chladem {procento}"
+msgstr "Přijaté poškození chladem {percent}"
 
 #: game/gui:4371
 msgctxt "game/gui:4371:DefaultText"
@@ -18672,7 +18674,7 @@ msgstr "Tento silně obrněný automechanik posiluje blízké (kteří jsou v p�
 #: game/gui:4431
 msgctxt "game/gui:4431:DefaultText"
 msgid "Armor Rating: {value}"
-msgstr "Hodnocení zbroje: {hodnota}"
+msgstr "Hodnocení zbroje: {value}"
 
 #: game/gui:4432
 msgctxt "game/gui:4432:DefaultText"
@@ -18687,7 +18689,7 @@ msgstr "Virtuózní inspirace"
 #: game/gui:4455
 msgctxt "game/gui:4455:DefaultText"
 msgid "{name} Virtuoso ({value})"
-msgstr "{jméno} Virtuoso ({hodnota})"
+msgstr "{name} Virtuoso ({value})"
 
 #: game/gui:4456
 msgctxt "game/gui:4456:DefaultText"

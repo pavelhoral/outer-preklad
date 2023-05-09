@@ -3,14 +3,15 @@ const fs = require('fs');
 const path = require('path');
 const program = require('commander');
 const md5 = require('md5');
-const xml2js = require('xml2js');
+const { xml2json, json2xml, xml2js } = require('xml-js');
 const { MessageParser, MessageWriter } = require('./text/text-factory');
 
 program
     .command('prepare')
     .option('-s, --source <source>', 'source folder with translation files', 'source/cs')
+    .option('-g, --grep <pattern>', 'filter only messages matching the pattern', value => new RegExp(value))
     .option('-t, --target <target>', 'target XML filename', 'work/messages')
-    .action(({ source, target }) => {
+    .action(({ source, target, grep }) => {
         const items = {};
         for (const filename of loadFilenames(source)) {
             const content = fs.readFileSync(filename, 'utf8');
@@ -19,7 +20,9 @@ program
                 if (items[id]) {
                     throw new Error('Duplicate context hash');
                 }
-                items[id] = message.msgid;
+                if (!grep || grep.test(message.msgid)) {
+                    items[id] = message.msgid;
+                }
             });
         }
         let idx = 0;
@@ -42,14 +45,10 @@ program
     });
 
 program
-    .command('process <filename>')
+    .command('process <target>')
     .option('-s, --source <source>', 'source folder with translation files', 'source/cs')
-    .action(async (filename, { source }) => {
-        const loaded = await (new xml2js.Parser().parseStringPromise(fs.readFileSync(filename, 'utf8')));
-        const data = loaded.html.body[0].p.reduce((acc, item) => {
-            acc[item.$.id] = item._;
-            return acc;
-        }, {});
+    .action(async (target, { source }) => {
+        const data = readHtml(target);
         for (const filename of loadFilenames(source)) {
             const messages = new MessageParser().parse(fs.readFileSync(filename, 'utf8'));
             let updated = false;
@@ -88,33 +87,69 @@ function loadFilenames(base) {
     return filenames;
 }
 
+function tokenizeString(string) {
+    const matcher = /(\{[a-z0-9_]+\})/ig;
+    return string.split(matcher).map(value => {
+        const content = { type: 'text', text: value };
+        if (matcher.test(value)) {
+            return {
+                type: 'element',
+                name: 'i',
+                attributes: { id: value }
+            };
+        } else {
+            return content;
+        }
+    });
+}
+
 function writeHtml(filename, items) {
-    const content = new xml2js.Builder({
-        headless: true,
-        renderOpts: {
-            pretty: true,
-            indent: '',
-            newline: '\n'
-        }
-    }).buildObject({
-        html: {
-            $: {
-                lang: 'en'
-            },
-            head: {
-                meta: {
-                    $: {
-                        charset: 'utf-8'
-                    }
-                }
-            },
-            body: {
-                p: Object.entries(items).map(([id, value]) => ({ 
-                    $: { id: id },
-                    _: value
+    const model = {
+        elements: [{
+            type: 'element',
+            name: 'html',
+            attributes: { lang: 'en' },
+            elements: [{
+                type: 'element',
+                name: 'head',
+                elements: [{
+                    type: 'element',
+                    name: 'meta',
+                    attributes: { charset: 'utf-8' }
+                }]
+            }, {
+                type: 'element',
+                name: 'body',
+                elements: Object.entries(items).map(([id, value]) => ({
+                    type: 'element',
+                    name: 'p',
+                    attributes: { id },
+                    elements: tokenizeString(value)
                 }))
-            }
-        }
-    })
+            }]
+        }]
+    };
+    const content = json2xml(model).replaceAll(/<p/g, '\n<p');
     fs.writeFileSync(filename, '<!doctype html>\n' + content);
+}
+
+function readHtml(filename) {
+    const content = xml2js(fs.readFileSync(filename, 'utf8'), {
+        ignoreDeclaration: true,
+        ignoreInstruction: true,
+        ignoreDoctype: true
+    });
+    const entries = {};
+    for (const element of content.elements[0].elements[1].elements) {
+        entries[element.attributes.id] = element.elements.map(node => {
+            if (node.type === 'text') {
+                return node.text;
+            }
+            if (node.type === 'element' && node.name === 'i') {
+                return node.attributes.id;
+            }
+            throw new Error(`Invalid element ${node.type}`);
+        }).join('');
+    }
+    return entries;
 }
